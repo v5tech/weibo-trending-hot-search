@@ -195,6 +195,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E7%A7%AF%E9%9B%AA%E5%A4%AA%E5%8E%9A%E8%BD%BB%E8%BD%A8%E5%8F%B8%E6%9C%BA%E6%8C%87%E6%8C%A5%E4%B9%98%E5%AE%A2%E9%9B%86%E4%BD%93%E8%B7%B3%E8%B7%83%23&Refer=top",
     "hot": 116165
   },
+  "东北大暴雪来袭": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E5%A4%A7%E6%9A%B4%E9%9B%AA%E6%9D%A5%E8%A2%AD%23&Refer=top",
+    "hot": 115575
+  },
   "全身烧伤60%消防员重返一线": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E8%BA%AB%E7%83%A7%E4%BC%A460%25%E6%B6%88%E9%98%B2%E5%91%98%E9%87%8D%E8%BF%94%E4%B8%80%E7%BA%BF%23&Refer=top",
     "hot": 112726
@@ -223,10 +227,6 @@
     "url": "https://s.weibo.com/weibo?q=%23%E4%B9%90%E6%9A%96%E5%86%AC%E6%97%A5%E8%AE%A1%E5%88%92%23&Refer=top",
     "hot": 68243
   },
-  "东北大暴雪来袭": {
-    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E5%A4%A7%E6%9A%B4%E9%9B%AA%E6%9D%A5%E8%A2%AD%23&Refer=top",
-    "hot": 49007
-  },
   "通辽暴雪": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%80%9A%E8%BE%BD%E6%9A%B4%E9%9B%AA%23&Refer=top",
     "hot": 45739
@@ -234,5 +234,9 @@
   "西藏墨脱迎来首批戍边女兵": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%97%8F%E5%A2%A8%E8%84%B1%E8%BF%8E%E6%9D%A5%E9%A6%96%E6%89%B9%E6%88%8D%E8%BE%B9%E5%A5%B3%E5%85%B5%23&Refer=top",
     "hot": 33638
+  },
+  "年轻人脱发的4个主要原因": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%84%B1%E5%8F%91%E7%9A%844%E4%B8%AA%E4%B8%BB%E8%A6%81%E5%8E%9F%E5%9B%A0%23&Refer=top",
+    "hot": 24504
   }
 }
