@@ -1,0 +1,7 @@
+requests
+datetime
+beautifulsoup4
+lxml
+matplotlib
+jieba
+wordcloud
