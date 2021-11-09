@@ -59,7 +59,7 @@ def parse_weibo(content):
     hots = [hot.strip() for hot in hots]
     hot_news = {}
     for i, title in enumerate(titles):
-        hot_news[title] = {'url': f"{hrefs[i]}", 'hot': re.findall(r'\d+', hots[i])[0]}
+        hot_news[title] = {'url': f"{hrefs[i]}", 'hot': int(re.findall(r'\d+', hots[i])[0])}
     print("解析完毕...")
     return hot_news
 
@@ -98,7 +98,7 @@ def save_csv(sorted_news):
 
 # 生成词云
 # def wordcloud(sorted_news):
-#     save_csv(sorted_news)
+#     str = f'{today_str},' + ",".join([k for k, v in sorted_news.items()])
 #     sentence_seged = jieba.lcut(str)
 #     swords = stopwords()
 #     jieba_text = []
