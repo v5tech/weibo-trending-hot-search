@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2021-11-11 04:11:16.029340 
+最后更新时间 2021-11-11 04:29:59.676388 
 1. [双十一](https://s.weibo.com/weibo?q=%E5%8F%8C%E5%8D%81%E4%B8%80&Refer=top) 2577062
 1. [双11狂欢夜](https://s.weibo.com/weibo?q=%E5%8F%8C11%E7%8B%82%E6%AC%A2%E5%A4%9C&Refer=top) 2176277
 1. [英国宣布承认中国疫苗](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E5%AE%A3%E5%B8%83%E6%89%BF%E8%AE%A4%E4%B8%AD%E5%9B%BD%E7%96%AB%E8%8B%97%23&Refer=top) 1827488
@@ -71,6 +71,7 @@
 1. [老人捐教室供村里孩子学传统音乐](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E6%8D%90%E6%95%99%E5%AE%A4%E4%BE%9B%E6%9D%91%E9%87%8C%E5%AD%A9%E5%AD%90%E5%AD%A6%E4%BC%A0%E7%BB%9F%E9%9F%B3%E4%B9%90%23&Refer=top) 30823
 1. [熊猫宝宝的超萌育幼室](https://s.weibo.com/weibo?q=%23%E7%86%8A%E7%8C%AB%E5%AE%9D%E5%AE%9D%E7%9A%84%E8%B6%85%E8%90%8C%E8%82%B2%E5%B9%BC%E5%AE%A4%23&Refer=top) 27762
 1. [复旦教授说家长跑相亲角是为缓解焦虑](https://s.weibo.com/weibo?q=%23%E5%A4%8D%E6%97%A6%E6%95%99%E6%8E%88%E8%AF%B4%E5%AE%B6%E9%95%BF%E8%B7%91%E7%9B%B8%E4%BA%B2%E8%A7%92%E6%98%AF%E4%B8%BA%E7%BC%93%E8%A7%A3%E7%84%A6%E8%99%91%23&Refer=top) 21832
+1. [轮椅到不了的地方同学就成他的腿](https://s.weibo.com/weibo?q=%23%E8%BD%AE%E6%A4%85%E5%88%B0%E4%B8%8D%E4%BA%86%E7%9A%84%E5%9C%B0%E6%96%B9%E5%90%8C%E5%AD%A6%E5%B0%B1%E6%88%90%E4%BB%96%E7%9A%84%E8%85%BF%23&Refer=top) 13217
 <!-- END -->
 
 历史归档 [./archives](./archives)
