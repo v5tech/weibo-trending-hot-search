@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2021-11-14 06:39:42.985541 
+最后更新时间 2021-11-14 06:48:59.354279 
 1. [男子直播间捡漏23万买了一堆假翡翠](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%9B%B4%E6%92%AD%E9%97%B4%E6%8D%A1%E6%BC%8F23%E4%B8%87%E4%B9%B0%E4%BA%86%E4%B8%80%E5%A0%86%E5%81%87%E7%BF%A1%E7%BF%A0%23&Refer=top) 1941716
 1. [辞职去大理的人现在都过得怎么样了](https://s.weibo.com/weibo?q=%23%E8%BE%9E%E8%81%8C%E5%8E%BB%E5%A4%A7%E7%90%86%E7%9A%84%E4%BA%BA%E7%8E%B0%E5%9C%A8%E9%83%BD%E8%BF%87%E5%BE%97%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86%23&Refer=top) 1811829
 1. [追光吧哥哥](https://s.weibo.com/weibo?q=%E8%BF%BD%E5%85%89%E5%90%A7%E5%93%A5%E5%93%A5&Refer=top) 852285
@@ -54,6 +54,7 @@
 1. [张晓龙徐明浩荐舞昭君出塞](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%99%93%E9%BE%99%E5%BE%90%E6%98%8E%E6%B5%A9%E8%8D%90%E8%88%9E%E6%98%AD%E5%90%9B%E5%87%BA%E5%A1%9E%23&Refer=top) 161186
 1. [救人牺牲消防员被追授安徽青年五四奖章](https://s.weibo.com/weibo?q=%23%E6%95%91%E4%BA%BA%E7%89%BA%E7%89%B2%E6%B6%88%E9%98%B2%E5%91%98%E8%A2%AB%E8%BF%BD%E6%8E%88%E5%AE%89%E5%BE%BD%E9%9D%92%E5%B9%B4%E4%BA%94%E5%9B%9B%E5%A5%96%E7%AB%A0%23&Refer=top) 153135
 1. [女子指使现男友搬空前男友家](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%8C%87%E4%BD%BF%E7%8E%B0%E7%94%B7%E5%8F%8B%E6%90%AC%E7%A9%BA%E5%89%8D%E7%94%B7%E5%8F%8B%E5%AE%B6%23&Refer=top) 151110
+1. [江西豪车醉驾当事人当庭忏悔](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E8%B1%AA%E8%BD%A6%E9%86%89%E9%A9%BE%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%BD%93%E5%BA%AD%E5%BF%8F%E6%82%94%23&Refer=top) 145813
 1. [舞千年治好了我的文化沙漠症](https://s.weibo.com/weibo?q=%23%E8%88%9E%E5%8D%83%E5%B9%B4%E6%B2%BB%E5%A5%BD%E4%BA%86%E6%88%91%E7%9A%84%E6%96%87%E5%8C%96%E6%B2%99%E6%BC%A0%E7%97%87%23&Refer=top) 142897
 1. [周扬青陈瑞丰飞奔热拥](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%89%AC%E9%9D%92%E9%99%88%E7%91%9E%E4%B8%B0%E9%A3%9E%E5%A5%94%E7%83%AD%E6%8B%A5%23&Refer=top) 142446
 1. [辽宁一密接者瞒报行程](https://s.weibo.com/weibo?q=%23%E8%BE%BD%E5%AE%81%E4%B8%80%E5%AF%86%E6%8E%A5%E8%80%85%E7%9E%92%E6%8A%A5%E8%A1%8C%E7%A8%8B%23&Refer=top) 133031
@@ -62,19 +63,18 @@
 1. [大学是否提前放寒假](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E6%98%AF%E5%90%A6%E6%8F%90%E5%89%8D%E6%94%BE%E5%AF%92%E5%81%87%23&Refer=top) 125918
 1. [特斯拉市值一周蒸发1895亿美元](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E5%B8%82%E5%80%BC%E4%B8%80%E5%91%A8%E8%92%B8%E5%8F%911895%E4%BA%BF%E7%BE%8E%E5%85%83%23&Refer=top) 124423
 1. [罕见南极光爆发全记录](https://s.weibo.com/weibo?q=%23%E7%BD%95%E8%A7%81%E5%8D%97%E6%9E%81%E5%85%89%E7%88%86%E5%8F%91%E5%85%A8%E8%AE%B0%E5%BD%95%23&Refer=top) 121332
-1. [江西豪车醉驾当事人当庭忏悔](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E8%B1%AA%E8%BD%A6%E9%86%89%E9%A9%BE%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%BD%93%E5%BA%AD%E5%BF%8F%E6%82%94%23&Refer=top) 115289
 1. [中国女排颜妮退役](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E9%A2%9C%E5%A6%AE%E9%80%80%E5%BD%B9%23&Refer=top) 96322
+1. [青海西宁21名干部防疫不力被问责](https://s.weibo.com/weibo?q=%23%E9%9D%92%E6%B5%B7%E8%A5%BF%E5%AE%8121%E5%90%8D%E5%B9%B2%E9%83%A8%E9%98%B2%E7%96%AB%E4%B8%8D%E5%8A%9B%E8%A2%AB%E9%97%AE%E8%B4%A3%23&Refer=top) 83834
+1. [打人者被人打后报警被抓](https://s.weibo.com/weibo?q=%23%E6%89%93%E4%BA%BA%E8%80%85%E8%A2%AB%E4%BA%BA%E6%89%93%E5%90%8E%E6%8A%A5%E8%AD%A6%E8%A2%AB%E6%8A%93%23&Refer=top) 81082
+1. [惠英红荣梓杉母子对手戏](https://s.weibo.com/weibo?q=%23%E6%83%A0%E8%8B%B1%E7%BA%A2%E8%8D%A3%E6%A2%93%E6%9D%89%E6%AF%8D%E5%AD%90%E5%AF%B9%E6%89%8B%E6%88%8F%23&Refer=top) 79073
+1. [被帝旭打入冷宫的缇兰怎样了](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%B8%9D%E6%97%AD%E6%89%93%E5%85%A5%E5%86%B7%E5%AE%AB%E7%9A%84%E7%BC%87%E5%85%B0%E6%80%8E%E6%A0%B7%E4%BA%86%23&Refer=top) 78848
 1. [我国防疫坚持动态清零而非零感染](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E9%98%B2%E7%96%AB%E5%9D%9A%E6%8C%81%E5%8A%A8%E6%80%81%E6%B8%85%E9%9B%B6%E8%80%8C%E9%9D%9E%E9%9B%B6%E6%84%9F%E6%9F%93%23&Refer=top) 76502
-1. [青海西宁21名干部防疫不力被问责](https://s.weibo.com/weibo?q=%23%E9%9D%92%E6%B5%B7%E8%A5%BF%E5%AE%8121%E5%90%8D%E5%B9%B2%E9%83%A8%E9%98%B2%E7%96%AB%E4%B8%8D%E5%8A%9B%E8%A2%AB%E9%97%AE%E8%B4%A3%23&Refer=top) 75452
-1. [惠英红荣梓杉母子对手戏](https://s.weibo.com/weibo?q=%23%E6%83%A0%E8%8B%B1%E7%BA%A2%E8%8D%A3%E6%A2%93%E6%9D%89%E6%AF%8D%E5%AD%90%E5%AF%B9%E6%89%8B%E6%88%8F%23&Refer=top) 72624
 1. [周深芭莎慈善夜唱光亮](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E8%8A%AD%E8%8E%8E%E6%85%88%E5%96%84%E5%A4%9C%E5%94%B1%E5%85%89%E4%BA%AE%23&Refer=top) 69462
-1. [打人者被人打后报警被抓](https://s.weibo.com/weibo?q=%23%E6%89%93%E4%BA%BA%E8%80%85%E8%A2%AB%E4%BA%BA%E6%89%93%E5%90%8E%E6%8A%A5%E8%AD%A6%E8%A2%AB%E6%8A%93%23&Refer=top) 61450
+1. [好未来将停止义务教育学科类培训](https://s.weibo.com/weibo?q=%23%E5%A5%BD%E6%9C%AA%E6%9D%A5%E5%B0%86%E5%81%9C%E6%AD%A2%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E5%AD%A6%E7%A7%91%E7%B1%BB%E5%9F%B9%E8%AE%AD%23&Refer=top) 57054
 1. [致敬为我们拼命的消防员](https://s.weibo.com/weibo?q=%23%E8%87%B4%E6%95%AC%E4%B8%BA%E6%88%91%E4%BB%AC%E6%8B%BC%E5%91%BD%E7%9A%84%E6%B6%88%E9%98%B2%E5%91%98%23&Refer=top) 52969
-1. [被帝旭打入冷宫的缇兰怎样了](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%B8%9D%E6%97%AD%E6%89%93%E5%85%A5%E5%86%B7%E5%AE%AB%E7%9A%84%E7%BC%87%E5%85%B0%E6%80%8E%E6%A0%B7%E4%BA%86%23&Refer=top) 43230
-1. [好未来将停止义务教育学科类培训](https://s.weibo.com/weibo?q=%23%E5%A5%BD%E6%9C%AA%E6%9D%A5%E5%B0%86%E5%81%9C%E6%AD%A2%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E5%AD%A6%E7%A7%91%E7%B1%BB%E5%9F%B9%E8%AE%AD%23&Refer=top) 38440
+1. [国旗在边境线上意味着什么](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E6%97%97%E5%9C%A8%E8%BE%B9%E5%A2%83%E7%BA%BF%E4%B8%8A%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88%23&Refer=top) 23897
 1. [TTG对阵狼队](https://s.weibo.com/weibo?q=%23TTG%E5%AF%B9%E9%98%B5%E7%8B%BC%E9%98%9F%23&Refer=top) 21964
 1. [杨迪模仿长颈鹿喝水](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%BF%AA%E6%A8%A1%E4%BB%BF%E9%95%BF%E9%A2%88%E9%B9%BF%E5%96%9D%E6%B0%B4%23&Refer=top) 21786
-1. [国旗在边境线上意味着什么](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E6%97%97%E5%9C%A8%E8%BE%B9%E5%A2%83%E7%BA%BF%E4%B8%8A%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88%23&Refer=top) 21330
 1. [熊猫奶爸有多让人羡慕](https://s.weibo.com/weibo?q=%23%E7%86%8A%E7%8C%AB%E5%A5%B6%E7%88%B8%E6%9C%89%E5%A4%9A%E8%AE%A9%E4%BA%BA%E7%BE%A1%E6%85%95%23&Refer=top) 21288
 1. [上海男篮vs深圳男篮](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E7%94%B7%E7%AF%AEvs%E6%B7%B1%E5%9C%B3%E7%94%B7%E7%AF%AE%23&Refer=top) 13133
 <!-- END -->
