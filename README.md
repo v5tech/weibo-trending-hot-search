@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2021-11-15 05:09:04.367371 
+最后更新时间 2021-11-15 05:25:44.635329 
 1. [4种行为同桌饮酒者需承担法律责任](https://s.weibo.com/weibo?q=%234%E7%A7%8D%E8%A1%8C%E4%B8%BA%E5%90%8C%E6%A1%8C%E9%A5%AE%E9%85%92%E8%80%85%E9%9C%80%E6%89%BF%E6%8B%85%E6%B3%95%E5%BE%8B%E8%B4%A3%E4%BB%BB%23&Refer=top) 1039312
 1. [高铁奶茶已上线](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E5%A5%B6%E8%8C%B6%E5%B7%B2%E4%B8%8A%E7%BA%BF%23&Refer=top) 612773
 1. [当喜欢香菜的人去吃麻辣烫](https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%96%9C%E6%AC%A2%E9%A6%99%E8%8F%9C%E7%9A%84%E4%BA%BA%E5%8E%BB%E5%90%83%E9%BA%BB%E8%BE%A3%E7%83%AB%23&Refer=top) 542483
@@ -63,8 +63,10 @@
 1. [全网都在催简总出场](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BD%91%E9%83%BD%E5%9C%A8%E5%82%AC%E7%AE%80%E6%80%BB%E5%87%BA%E5%9C%BA%23&Refer=top) 109773
 1. [燕麦做成了猪饲料的感觉](https://s.weibo.com/weibo?q=%23%E7%87%95%E9%BA%A6%E5%81%9A%E6%88%90%E4%BA%86%E7%8C%AA%E9%A5%B2%E6%96%99%E7%9A%84%E6%84%9F%E8%A7%89%23&Refer=top) 99631
 1. [捕蟹笼工作时候的内部视角](https://s.weibo.com/weibo?q=%E6%8D%95%E8%9F%B9%E7%AC%BC%E5%B7%A5%E4%BD%9C%E6%97%B6%E5%80%99%E7%9A%84%E5%86%85%E9%83%A8%E8%A7%86%E8%A7%92&Refer=top) 50752
+1. [全球多款新冠口服药获进展](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E5%A4%9A%E6%AC%BE%E6%96%B0%E5%86%A0%E5%8F%A3%E6%9C%8D%E8%8D%AF%E8%8E%B7%E8%BF%9B%E5%B1%95%23&Refer=top) 35875
 1. [脑瘫小伙摆摊7年自立拒绝捐助](https://s.weibo.com/weibo?q=%23%E8%84%91%E7%98%AB%E5%B0%8F%E4%BC%99%E6%91%86%E6%91%8A7%E5%B9%B4%E8%87%AA%E7%AB%8B%E6%8B%92%E7%BB%9D%E6%8D%90%E5%8A%A9%23&Refer=top) 32257
-1. [CBA第一阶段收官](https://s.weibo.com/weibo?q=%23CBA%E7%AC%AC%E4%B8%80%E9%98%B6%E6%AE%B5%E6%94%B6%E5%AE%98%23&Refer=top) 12773
+1. [广东部分市场花蟹梭子蟹被检出重金属超标](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E9%83%A8%E5%88%86%E5%B8%82%E5%9C%BA%E8%8A%B1%E8%9F%B9%E6%A2%AD%E5%AD%90%E8%9F%B9%E8%A2%AB%E6%A3%80%E5%87%BA%E9%87%8D%E9%87%91%E5%B1%9E%E8%B6%85%E6%A0%87%23&Refer=top) 15259
+1. [CBA第一阶段收官](https://s.weibo.com/weibo?q=%23CBA%E7%AC%AC%E4%B8%80%E9%98%B6%E6%AE%B5%E6%94%B6%E5%AE%98%23&Refer=top) 14047
 1. [WE对阵AG](https://s.weibo.com/weibo?q=%23WE%E5%AF%B9%E9%98%B5AG%23&Refer=top) 10478
 <!-- END -->
 
