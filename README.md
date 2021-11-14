@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2021-11-15 03:48:58.768061 
+最后更新时间 2021-11-15 04:10:43.990360 
 1. [4种行为同桌饮酒者需承担法律责任](https://s.weibo.com/weibo?q=%234%E7%A7%8D%E8%A1%8C%E4%B8%BA%E5%90%8C%E6%A1%8C%E9%A5%AE%E9%85%92%E8%80%85%E9%9C%80%E6%89%BF%E6%8B%85%E6%B3%95%E5%BE%8B%E8%B4%A3%E4%BB%BB%23&Refer=top) 1039312
 1. [高铁奶茶已上线](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E5%A5%B6%E8%8C%B6%E5%B7%B2%E4%B8%8A%E7%BA%BF%23&Refer=top) 612773
 1. [当喜欢香菜的人去吃麻辣烫](https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%96%9C%E6%AC%A2%E9%A6%99%E8%8F%9C%E7%9A%84%E4%BA%BA%E5%8E%BB%E5%90%83%E9%BA%BB%E8%BE%A3%E7%83%AB%23&Refer=top) 542483
