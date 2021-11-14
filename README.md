@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2021-11-15 00:50:32.548925 
+最后更新时间 2021-11-15 01:15:40.398122 
 1. [4种行为同桌饮酒者需承担法律责任](https://s.weibo.com/weibo?q=%234%E7%A7%8D%E8%A1%8C%E4%B8%BA%E5%90%8C%E6%A1%8C%E9%A5%AE%E9%85%92%E8%80%85%E9%9C%80%E6%89%BF%E6%8B%85%E6%B3%95%E5%BE%8B%E8%B4%A3%E4%BB%BB%23&Refer=top) 1039312
 1. [高铁奶茶已上线](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E5%A5%B6%E8%8C%B6%E5%B7%B2%E4%B8%8A%E7%BA%BF%23&Refer=top) 612773
 1. [当喜欢香菜的人去吃麻辣烫](https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%96%9C%E6%AC%A2%E9%A6%99%E8%8F%9C%E7%9A%84%E4%BA%BA%E5%8E%BB%E5%90%83%E9%BA%BB%E8%BE%A3%E7%83%AB%23&Refer=top) 542483
@@ -48,6 +48,7 @@
 1. [武汉一高楼外墙脱落致1人死亡](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89%E4%B8%80%E9%AB%98%E6%A5%BC%E5%A4%96%E5%A2%99%E8%84%B1%E8%90%BD%E8%87%B41%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&Refer=top) 152034
 1. [雪花的形状可以有多美](https://s.weibo.com/weibo?q=%23%E9%9B%AA%E8%8A%B1%E7%9A%84%E5%BD%A2%E7%8A%B6%E5%8F%AF%E4%BB%A5%E6%9C%89%E5%A4%9A%E7%BE%8E%23&Refer=top) 151315
 1. [NV夺冠](https://s.weibo.com/weibo?q=%23NV%E5%A4%BA%E5%86%A0%23&Refer=top) 145636
+1. [外国小姐姐唱中国戏腔有多绝](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%9B%BD%E5%B0%8F%E5%A7%90%E5%A7%90%E5%94%B1%E4%B8%AD%E5%9B%BD%E6%88%8F%E8%85%94%E6%9C%89%E5%A4%9A%E7%BB%9D%23&Refer=top) 143163
 1. [最硬核早餐](https://s.weibo.com/weibo?q=%23%E6%9C%80%E7%A1%AC%E6%A0%B8%E6%97%A9%E9%A4%90%23&Refer=top) 136054
 1. [汪苏泷长发国风造型](https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E9%95%BF%E5%8F%91%E5%9B%BD%E9%A3%8E%E9%80%A0%E5%9E%8B%23&Refer=top) 135587
 1. [父亲开车千余公里给女儿送一车吃的](https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E5%BC%80%E8%BD%A6%E5%8D%83%E4%BD%99%E5%85%AC%E9%87%8C%E7%BB%99%E5%A5%B3%E5%84%BF%E9%80%81%E4%B8%80%E8%BD%A6%E5%90%83%E7%9A%84%23&Refer=top) 133960
