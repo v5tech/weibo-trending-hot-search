@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2021-11-15 05:48:54.373614 
+最后更新时间 2021-11-15 06:10:11.340128 
 1. [4种行为同桌饮酒者需承担法律责任](https://s.weibo.com/weibo?q=%234%E7%A7%8D%E8%A1%8C%E4%B8%BA%E5%90%8C%E6%A1%8C%E9%A5%AE%E9%85%92%E8%80%85%E9%9C%80%E6%89%BF%E6%8B%85%E6%B3%95%E5%BE%8B%E8%B4%A3%E4%BB%BB%23&Refer=top) 1039312
 1. [高铁奶茶已上线](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E5%A5%B6%E8%8C%B6%E5%B7%B2%E4%B8%8A%E7%BA%BF%23&Refer=top) 612773
 1. [当喜欢香菜的人去吃麻辣烫](https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%96%9C%E6%AC%A2%E9%A6%99%E8%8F%9C%E7%9A%84%E4%BA%BA%E5%8E%BB%E5%90%83%E9%BA%BB%E8%BE%A3%E7%83%AB%23&Refer=top) 542483
@@ -54,19 +54,20 @@
 1. [最硬核早餐](https://s.weibo.com/weibo?q=%23%E6%9C%80%E7%A1%AC%E6%A0%B8%E6%97%A9%E9%A4%90%23&Refer=top) 136054
 1. [汪苏泷长发国风造型](https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E9%95%BF%E5%8F%91%E5%9B%BD%E9%A3%8E%E9%80%A0%E5%9E%8B%23&Refer=top) 135587
 1. [父亲开车千余公里给女儿送一车吃的](https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E5%BC%80%E8%BD%A6%E5%8D%83%E4%BD%99%E5%85%AC%E9%87%8C%E7%BB%99%E5%A5%B3%E5%84%BF%E9%80%81%E4%B8%80%E8%BD%A6%E5%90%83%E7%9A%84%23&Refer=top) 133960
+1. [广东部分市场花蟹梭子蟹被检出重金属超标](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E9%83%A8%E5%88%86%E5%B8%82%E5%9C%BA%E8%8A%B1%E8%9F%B9%E6%A2%AD%E5%AD%90%E8%9F%B9%E8%A2%AB%E6%A3%80%E5%87%BA%E9%87%8D%E9%87%91%E5%B1%9E%E8%B6%85%E6%A0%87%23&Refer=top) 133530
 1. [涪陵榨菜宣布涨价](https://s.weibo.com/weibo?q=%23%E6%B6%AA%E9%99%B5%E6%A6%A8%E8%8F%9C%E5%AE%A3%E5%B8%83%E6%B6%A8%E4%BB%B7%23&Refer=top) 131448
 1. [女孩欲跳桥公交司机蹲跪劝说半小时救回](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E6%AC%B2%E8%B7%B3%E6%A1%A5%E5%85%AC%E4%BA%A4%E5%8F%B8%E6%9C%BA%E8%B9%B2%E8%B7%AA%E5%8A%9D%E8%AF%B4%E5%8D%8A%E5%B0%8F%E6%97%B6%E6%95%91%E5%9B%9E%23&Refer=top) 123102
 1. [苏炳添睡觉时都在想跑步节奏](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%82%B3%E6%B7%BB%E7%9D%A1%E8%A7%89%E6%97%B6%E9%83%BD%E5%9C%A8%E6%83%B3%E8%B7%91%E6%AD%A5%E8%8A%82%E5%A5%8F%23&Refer=top) 122208
+1. [全球多款新冠口服药获进展](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E5%A4%9A%E6%AC%BE%E6%96%B0%E5%86%A0%E5%8F%A3%E6%9C%8D%E8%8D%AF%E8%8E%B7%E8%BF%9B%E5%B1%95%23&Refer=top) 121371
 1. [我以为是真的机器人](https://s.weibo.com/weibo?q=%E6%88%91%E4%BB%A5%E4%B8%BA%E6%98%AF%E7%9C%9F%E7%9A%84%E6%9C%BA%E5%99%A8%E4%BA%BA&Refer=top) 120717
 1. [隔离女子用卫生纸写20余卷书法](https://s.weibo.com/weibo?q=%23%E9%9A%94%E7%A6%BB%E5%A5%B3%E5%AD%90%E7%94%A8%E5%8D%AB%E7%94%9F%E7%BA%B8%E5%86%9920%E4%BD%99%E5%8D%B7%E4%B9%A6%E6%B3%95%23&Refer=top) 118794
 1. [热身赛樊振东战胜马龙夺冠](https://s.weibo.com/weibo?q=%23%E7%83%AD%E8%BA%AB%E8%B5%9B%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%88%98%E8%83%9C%E9%A9%AC%E9%BE%99%E5%A4%BA%E5%86%A0%23&Refer=top) 111288
 1. [全网都在催简总出场](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BD%91%E9%83%BD%E5%9C%A8%E5%82%AC%E7%AE%80%E6%80%BB%E5%87%BA%E5%9C%BA%23&Refer=top) 109773
 1. [燕麦做成了猪饲料的感觉](https://s.weibo.com/weibo?q=%23%E7%87%95%E9%BA%A6%E5%81%9A%E6%88%90%E4%BA%86%E7%8C%AA%E9%A5%B2%E6%96%99%E7%9A%84%E6%84%9F%E8%A7%89%23&Refer=top) 99631
-1. [全球多款新冠口服药获进展](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E5%A4%9A%E6%AC%BE%E6%96%B0%E5%86%A0%E5%8F%A3%E6%9C%8D%E8%8D%AF%E8%8E%B7%E8%BF%9B%E5%B1%95%23&Refer=top) 88812
-1. [广东部分市场花蟹梭子蟹被检出重金属超标](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E9%83%A8%E5%88%86%E5%B8%82%E5%9C%BA%E8%8A%B1%E8%9F%B9%E6%A2%AD%E5%AD%90%E8%9F%B9%E8%A2%AB%E6%A3%80%E5%87%BA%E9%87%8D%E9%87%91%E5%B1%9E%E8%B6%85%E6%A0%87%23&Refer=top) 71469
+1. [妈妈托儿子买票看梅艳芳](https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E6%89%98%E5%84%BF%E5%AD%90%E4%B9%B0%E7%A5%A8%E7%9C%8B%E6%A2%85%E8%89%B3%E8%8A%B3%23&Refer=top) 88499
 1. [捕蟹笼工作时候的内部视角](https://s.weibo.com/weibo?q=%E6%8D%95%E8%9F%B9%E7%AC%BC%E5%B7%A5%E4%BD%9C%E6%97%B6%E5%80%99%E7%9A%84%E5%86%85%E9%83%A8%E8%A7%86%E8%A7%92&Refer=top) 50752
 1. [脑瘫小伙摆摊7年自立拒绝捐助](https://s.weibo.com/weibo?q=%23%E8%84%91%E7%98%AB%E5%B0%8F%E4%BC%99%E6%91%86%E6%91%8A7%E5%B9%B4%E8%87%AA%E7%AB%8B%E6%8B%92%E7%BB%9D%E6%8D%90%E5%8A%A9%23&Refer=top) 32257
-1. [妈妈托儿子买票看梅艳芳](https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E6%89%98%E5%84%BF%E5%AD%90%E4%B9%B0%E7%A5%A8%E7%9C%8B%E6%A2%85%E8%89%B3%E8%8A%B3%23&Refer=top) 29504
+1. [陈伟霆演的方诸好守男德](https://s.weibo.com/weibo?q=%23%E9%99%88%E4%BC%9F%E9%9C%86%E6%BC%94%E7%9A%84%E6%96%B9%E8%AF%B8%E5%A5%BD%E5%AE%88%E7%94%B7%E5%BE%B7%23&Refer=top) 21217
 1. [CBA第一阶段收官](https://s.weibo.com/weibo?q=%23CBA%E7%AC%AC%E4%B8%80%E9%98%B6%E6%AE%B5%E6%94%B6%E5%AE%98%23&Refer=top) 14047
 1. [WE对阵AG](https://s.weibo.com/weibo?q=%23WE%E5%AF%B9%E9%98%B5AG%23&Refer=top) 10478
 <!-- END -->
