@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2021-11-16 01:42:17.508065 
+最后更新时间 2021-11-16 01:50:36.209503 
 1. [某国关掉别人水龙头假装用瓶装水灭火](https://s.weibo.com/weibo?q=%23%E6%9F%90%E5%9B%BD%E5%85%B3%E6%8E%89%E5%88%AB%E4%BA%BA%E6%B0%B4%E9%BE%99%E5%A4%B4%E5%81%87%E8%A3%85%E7%94%A8%E7%93%B6%E8%A3%85%E6%B0%B4%E7%81%AD%E7%81%AB%23&Refer=top) 1718140
 1. [00后女大学生毕业做私人保镖](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%AF%95%E4%B8%9A%E5%81%9A%E7%A7%81%E4%BA%BA%E4%BF%9D%E9%95%96%23&Refer=top) 1292915
 1. [中共中央介绍党的十九届六中全会精神](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E4%BB%8B%E7%BB%8D%E5%85%9A%E7%9A%84%E5%8D%81%E4%B9%9D%E5%B1%8A%E5%85%AD%E4%B8%AD%E5%85%A8%E4%BC%9A%E7%B2%BE%E7%A5%9E%23&Refer=top) 984035
@@ -34,9 +34,9 @@
 1. [临海捐蜜橘老板把全村240万斤蜜橘卖光了](https://s.weibo.com/weibo?q=%23%E4%B8%B4%E6%B5%B7%E6%8D%90%E8%9C%9C%E6%A9%98%E8%80%81%E6%9D%BF%E6%8A%8A%E5%85%A8%E6%9D%91240%E4%B8%87%E6%96%A4%E8%9C%9C%E6%A9%98%E5%8D%96%E5%85%89%E4%BA%86%23&Refer=top) 285177
 1. [权志龙湿发大片](https://s.weibo.com/weibo?q=%23%E6%9D%83%E5%BF%97%E9%BE%99%E6%B9%BF%E5%8F%91%E5%A4%A7%E7%89%87%23&Refer=top) 274785
 1. [义乌外贸企业订单骤降](https://s.weibo.com/weibo?q=%23%E4%B9%89%E4%B9%8C%E5%A4%96%E8%B4%B8%E4%BC%81%E4%B8%9A%E8%AE%A2%E5%8D%95%E9%AA%A4%E9%99%8D%23&Refer=top) 256710
+1. [魏晨曝曾要到刘德华签名寄语](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E6%99%A8%E6%9B%9D%E6%9B%BE%E8%A6%81%E5%88%B0%E5%88%98%E5%BE%B7%E5%8D%8E%E7%AD%BE%E5%90%8D%E5%AF%84%E8%AF%AD%23&Refer=top) 251029
 1. [四川人开始准备过年了](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E4%BA%BA%E5%BC%80%E5%A7%8B%E5%87%86%E5%A4%87%E8%BF%87%E5%B9%B4%E4%BA%86%23&Refer=top) 241137
 1. [80多岁细菌战受害者一生无法穿袜子](https://s.weibo.com/weibo?q=%2380%E5%A4%9A%E5%B2%81%E7%BB%86%E8%8F%8C%E6%88%98%E5%8F%97%E5%AE%B3%E8%80%85%E4%B8%80%E7%94%9F%E6%97%A0%E6%B3%95%E7%A9%BF%E8%A2%9C%E5%AD%90%23&Refer=top) 213635
-1. [魏晨曝曾要到刘德华签名寄语](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E6%99%A8%E6%9B%9D%E6%9B%BE%E8%A6%81%E5%88%B0%E5%88%98%E5%BE%B7%E5%8D%8E%E7%AD%BE%E5%90%8D%E5%AF%84%E8%AF%AD%23&Refer=top) 197835
 1. [印度妇女请神职人员踩背求怀孕](https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%A6%87%E5%A5%B3%E8%AF%B7%E7%A5%9E%E8%81%8C%E4%BA%BA%E5%91%98%E8%B8%A9%E8%83%8C%E6%B1%82%E6%80%80%E5%AD%95%23&Refer=top) 194694
 1. [120升油箱加161升油当事人发声](https://s.weibo.com/weibo?q=%23120%E5%8D%87%E6%B2%B9%E7%AE%B1%E5%8A%A0161%E5%8D%87%E6%B2%B9%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%8F%91%E5%A3%B0%23&Refer=top) 179008
 1. [花花还在等他回家](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%8A%B1%E8%BF%98%E5%9C%A8%E7%AD%89%E4%BB%96%E5%9B%9E%E5%AE%B6%23&Refer=top) 176718
@@ -63,6 +63,7 @@
 1. [陪你逐风飞翔定档](https://s.weibo.com/weibo?q=%23%E9%99%AA%E4%BD%A0%E9%80%90%E9%A3%8E%E9%A3%9E%E7%BF%94%E5%AE%9A%E6%A1%A3%23&Refer=top) 80132
 1. [易烊千玺一起向未来MV花絮照](https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E4%B8%80%E8%B5%B7%E5%90%91%E6%9C%AA%E6%9D%A5MV%E8%8A%B1%E7%B5%AE%E7%85%A7%23&Refer=top) 51055
 1. [要求性侵害预防进中小学教材](https://s.weibo.com/weibo?q=%23%E8%A6%81%E6%B1%82%E6%80%A7%E4%BE%B5%E5%AE%B3%E9%A2%84%E9%98%B2%E8%BF%9B%E4%B8%AD%E5%B0%8F%E5%AD%A6%E6%95%99%E6%9D%90%23&Refer=top) 38753
+1. [符合这4点就是学科类培训](https://s.weibo.com/weibo?q=%23%E7%AC%A6%E5%90%88%E8%BF%994%E7%82%B9%E5%B0%B1%E6%98%AF%E5%AD%A6%E7%A7%91%E7%B1%BB%E5%9F%B9%E8%AE%AD%23&Refer=top) 32051
 <!-- END -->
 
 历史归档 [./archives](./archives)
