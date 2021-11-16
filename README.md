@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2021-11-17 00:42:21.828084 
+最后更新时间 2021-11-17 00:56:07.976266 
 1. [男子因二胎不是女儿举报自己酒驾](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9B%A0%E4%BA%8C%E8%83%8E%E4%B8%8D%E6%98%AF%E5%A5%B3%E5%84%BF%E4%B8%BE%E6%8A%A5%E8%87%AA%E5%B7%B1%E9%85%92%E9%A9%BE%23&Refer=top) 2159416
 1. [国足](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%B6%B3&Refer=top) 1232196
 1. [新闻联播70分钟](https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD70%E5%88%86%E9%92%9F%23&Refer=top) 1122072
@@ -58,8 +58,9 @@
 1. [我国5G用户占全球80%以上](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD5G%E7%94%A8%E6%88%B7%E5%8D%A0%E5%85%A8%E7%90%8380%25%E4%BB%A5%E4%B8%8A%23&Refer=top) 128328
 1. [饭盆眼中的狗子长啥样](https://s.weibo.com/weibo?q=%23%E9%A5%AD%E7%9B%86%E7%9C%BC%E4%B8%AD%E7%9A%84%E7%8B%97%E5%AD%90%E9%95%BF%E5%95%A5%E6%A0%B7%23&Refer=top) 120381
 1. [花93元感受夜市的烟火气](https://s.weibo.com/weibo?q=%E8%8A%B193%E5%85%83%E6%84%9F%E5%8F%97%E5%A4%9C%E5%B8%82%E7%9A%84%E7%83%9F%E7%81%AB%E6%B0%94&Refer=top) 107847
+1. [俩淘气男孩把车顶当蹦床玩](https://s.weibo.com/weibo?q=%23%E4%BF%A9%E6%B7%98%E6%B0%94%E7%94%B7%E5%AD%A9%E6%8A%8A%E8%BD%A6%E9%A1%B6%E5%BD%93%E8%B9%A6%E5%BA%8A%E7%8E%A9%23&Refer=top) 107725
 1. [中国共产党第三个历史决议全文发布](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E7%AC%AC%E4%B8%89%E4%B8%AA%E5%8E%86%E5%8F%B2%E5%86%B3%E8%AE%AE%E5%85%A8%E6%96%87%E5%8F%91%E5%B8%83%23&Refer=top) 106698
-1. [俩淘气男孩把车顶当蹦床玩](https://s.weibo.com/weibo?q=%23%E4%BF%A9%E6%B7%98%E6%B0%94%E7%94%B7%E5%AD%A9%E6%8A%8A%E8%BD%A6%E9%A1%B6%E5%BD%93%E8%B9%A6%E5%BA%8A%E7%8E%A9%23&Refer=top) 61964
+1. [如何避免看球时心脏病发作](https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E9%81%BF%E5%85%8D%E7%9C%8B%E7%90%83%E6%97%B6%E5%BF%83%E8%84%8F%E7%97%85%E5%8F%91%E4%BD%9C%23&Refer=top) 79478
 <!-- END -->
 
 历史归档 [./archives](./archives)
