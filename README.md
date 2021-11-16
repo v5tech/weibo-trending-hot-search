@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2021-11-16 19:34:08.032790 
+最后更新时间 2021-11-16 19:48:48.089624 
 1. [林丹世界排名被正式移除](https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%B8%B9%E4%B8%96%E7%95%8C%E6%8E%92%E5%90%8D%E8%A2%AB%E6%AD%A3%E5%BC%8F%E7%A7%BB%E9%99%A4%23&Refer=top) 3552908
 1. [空气炸锅真的健康吗](https://s.weibo.com/weibo?q=%23%E7%A9%BA%E6%B0%94%E7%82%B8%E9%94%85%E7%9C%9F%E7%9A%84%E5%81%A5%E5%BA%B7%E5%90%97%23&Refer=top) 3213204
 1. [高铁奶茶被吐槽不如1块钱的香飘飘](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E5%A5%B6%E8%8C%B6%E8%A2%AB%E5%90%90%E6%A7%BD%E4%B8%8D%E5%A6%821%E5%9D%97%E9%92%B1%E7%9A%84%E9%A6%99%E9%A3%98%E9%A3%98%23&Refer=top) 3117977
@@ -39,17 +39,17 @@
 1. [密室逃生2确认引进](https://s.weibo.com/weibo?q=%23%E5%AF%86%E5%AE%A4%E9%80%83%E7%94%9F2%E7%A1%AE%E8%AE%A4%E5%BC%95%E8%BF%9B%23&Refer=top) 1005693
 1. [启东实验小学](https://s.weibo.com/weibo?q=%E5%90%AF%E4%B8%9C%E5%AE%9E%E9%AA%8C%E5%B0%8F%E5%AD%A6&Refer=top) 950829
 1. [陈建军父母炸十年油条为他购房](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BB%BA%E5%86%9B%E7%88%B6%E6%AF%8D%E7%82%B8%E5%8D%81%E5%B9%B4%E6%B2%B9%E6%9D%A1%E4%B8%BA%E4%BB%96%E8%B4%AD%E6%88%BF%23&Refer=top) 904619
+1. [教育部要求大学提高网络服务质量](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E8%A6%81%E6%B1%82%E5%A4%A7%E5%AD%A6%E6%8F%90%E9%AB%98%E7%BD%91%E7%BB%9C%E6%9C%8D%E5%8A%A1%E8%B4%A8%E9%87%8F%23&Refer=top) 895376
 1. [李沁谈恋爱中的近因效应](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B2%81%E8%B0%88%E6%81%8B%E7%88%B1%E4%B8%AD%E7%9A%84%E8%BF%91%E5%9B%A0%E6%95%88%E5%BA%94%23&Refer=top) 894681
 1. [五哈第二季定档](https://s.weibo.com/weibo?q=%23%E4%BA%94%E5%93%88%E7%AC%AC%E4%BA%8C%E5%AD%A3%E5%AE%9A%E6%A1%A3%23&Refer=top) 876368
 1. [台独如突破红线我们不得不采取断然措施](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E7%8B%AC%E5%A6%82%E7%AA%81%E7%A0%B4%E7%BA%A2%E7%BA%BF%E6%88%91%E4%BB%AC%E4%B8%8D%E5%BE%97%E4%B8%8D%E9%87%87%E5%8F%96%E6%96%AD%E7%84%B6%E6%8E%AA%E6%96%BD%23&Refer=top) 876088
 1. [文馨被开除](https://s.weibo.com/weibo?q=%23%E6%96%87%E9%A6%A8%E8%A2%AB%E5%BC%80%E9%99%A4%23&Refer=top) 872013
 1. [丈夫帮盲人妻子翻译2人成功同校读研](https://s.weibo.com/weibo?q=%23%E4%B8%88%E5%A4%AB%E5%B8%AE%E7%9B%B2%E4%BA%BA%E5%A6%BB%E5%AD%90%E7%BF%BB%E8%AF%912%E4%BA%BA%E6%88%90%E5%8A%9F%E5%90%8C%E6%A0%A1%E8%AF%BB%E7%A0%94%23&Refer=top) 856963
-1. [教育部要求大学提高网络服务质量](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E8%A6%81%E6%B1%82%E5%A4%A7%E5%AD%A6%E6%8F%90%E9%AB%98%E7%BD%91%E7%BB%9C%E6%9C%8D%E5%8A%A1%E8%B4%A8%E9%87%8F%23&Refer=top) 844377
+1. [欧莱雅回应安瓶面膜差价](https://s.weibo.com/weibo?q=%23%E6%AC%A7%E8%8E%B1%E9%9B%85%E5%9B%9E%E5%BA%94%E5%AE%89%E7%93%B6%E9%9D%A2%E8%86%9C%E5%B7%AE%E4%BB%B7%23&Refer=top) 851951
 1. [罗永浩吐槽苹果文案没文化](https://s.weibo.com/weibo?q=%23%E7%BD%97%E6%B0%B8%E6%B5%A9%E5%90%90%E6%A7%BD%E8%8B%B9%E6%9E%9C%E6%96%87%E6%A1%88%E6%B2%A1%E6%96%87%E5%8C%96%23&Refer=top) 837144
 1. [被刻进中国人DNA里的声音](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%88%BB%E8%BF%9B%E4%B8%AD%E5%9B%BD%E4%BA%BADNA%E9%87%8C%E7%9A%84%E5%A3%B0%E9%9F%B3%23&Refer=top) 815221
 1. [机智的恋爱](https://s.weibo.com/weibo?q=%E6%9C%BA%E6%99%BA%E7%9A%84%E6%81%8B%E7%88%B1&Refer=top) 808234
 1. [女排首夺世界冠军40周年](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%8E%92%E9%A6%96%E5%A4%BA%E4%B8%96%E7%95%8C%E5%86%A0%E5%86%9B40%E5%91%A8%E5%B9%B4%23&Refer=top) 790211
-1. [欧莱雅回应安瓶面膜差价](https://s.weibo.com/weibo?q=%23%E6%AC%A7%E8%8E%B1%E9%9B%85%E5%9B%9E%E5%BA%94%E5%AE%89%E7%93%B6%E9%9D%A2%E8%86%9C%E5%B7%AE%E4%BB%B7%23&Refer=top) 789217
 1. [康辉报道中美元首视频会晤](https://s.weibo.com/weibo?q=%23%E5%BA%B7%E8%BE%89%E6%8A%A5%E9%81%93%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E8%A7%86%E9%A2%91%E4%BC%9A%E6%99%A4%23&Refer=top) 784148
 1. [任敏说没有必要成为一个不是自己的人](https://s.weibo.com/weibo?q=%23%E4%BB%BB%E6%95%8F%E8%AF%B4%E6%B2%A1%E6%9C%89%E5%BF%85%E8%A6%81%E6%88%90%E4%B8%BA%E4%B8%80%E4%B8%AA%E4%B8%8D%E6%98%AF%E8%87%AA%E5%B7%B1%E7%9A%84%E4%BA%BA%23&Refer=top) 764763
 1. [1瓶矿泉水改善颈部曲度](https://s.weibo.com/weibo?q=%231%E7%93%B6%E7%9F%BF%E6%B3%89%E6%B0%B4%E6%94%B9%E5%96%84%E9%A2%88%E9%83%A8%E6%9B%B2%E5%BA%A6%23&Refer=top) 744876
@@ -142,6 +142,7 @@
 1. [大连新增14个中风险地区](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E8%BF%9E%E6%96%B0%E5%A2%9E14%E4%B8%AA%E4%B8%AD%E9%A3%8E%E9%99%A9%E5%9C%B0%E5%8C%BA%23&Refer=top) 333990
 1. [斛珠夫人真香](https://s.weibo.com/weibo?q=%23%E6%96%9B%E7%8F%A0%E5%A4%AB%E4%BA%BA%E7%9C%9F%E9%A6%99%23&Refer=top) 333865
 1. [多地发现快递或食品外包装现核酸异常](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E5%8F%91%E7%8E%B0%E5%BF%AB%E9%80%92%E6%88%96%E9%A3%9F%E5%93%81%E5%A4%96%E5%8C%85%E8%A3%85%E7%8E%B0%E6%A0%B8%E9%85%B8%E5%BC%82%E5%B8%B8%23&Refer=top) 330447
+1. [处女座的友情观](https://s.weibo.com/weibo?q=%23%E5%A4%84%E5%A5%B3%E5%BA%A7%E7%9A%84%E5%8F%8B%E6%83%85%E8%A7%82%23&Refer=top) 330092
 1. [90后女博士后称科研不应攀比论文数](https://s.weibo.com/weibo?q=%2390%E5%90%8E%E5%A5%B3%E5%8D%9A%E5%A3%AB%E5%90%8E%E7%A7%B0%E7%A7%91%E7%A0%94%E4%B8%8D%E5%BA%94%E6%94%80%E6%AF%94%E8%AE%BA%E6%96%87%E6%95%B0%23&Refer=top) 330051
 1. [拜登正式签署两党基础设施建设法案](https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E6%AD%A3%E5%BC%8F%E7%AD%BE%E7%BD%B2%E4%B8%A4%E5%85%9A%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E5%BB%BA%E8%AE%BE%E6%B3%95%E6%A1%88%23&Refer=top) 329978
 1. [10年内超2亿国人要租房](https://s.weibo.com/weibo?q=%2310%E5%B9%B4%E5%86%85%E8%B6%852%E4%BA%BF%E5%9B%BD%E4%BA%BA%E8%A6%81%E7%A7%9F%E6%88%BF%23&Refer=top) 329421
@@ -191,7 +192,7 @@
 1. [男子穿女装躲女厕偷拍被抓](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%A9%BF%E5%A5%B3%E8%A3%85%E8%BA%B2%E5%A5%B3%E5%8E%95%E5%81%B7%E6%8B%8D%E8%A2%AB%E6%8A%93%23&Refer=top) 254791
 1. [养精灵有多可爱](https://s.weibo.com/weibo?q=%23%E5%85%BB%E7%B2%BE%E7%81%B5%E6%9C%89%E5%A4%9A%E5%8F%AF%E7%88%B1%23&Refer=top) 253572
 1. [中华民族血液中没有侵略他人的基因](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%8D%8E%E6%B0%91%E6%97%8F%E8%A1%80%E6%B6%B2%E4%B8%AD%E6%B2%A1%E6%9C%89%E4%BE%B5%E7%95%A5%E4%BB%96%E4%BA%BA%E7%9A%84%E5%9F%BA%E5%9B%A0%23&Refer=top) 252270
-1. [处女座的友情观](https://s.weibo.com/weibo?q=%23%E5%A4%84%E5%A5%B3%E5%BA%A7%E7%9A%84%E5%8F%8B%E6%83%85%E8%A7%82%23&Refer=top) 251864
+1. [盲品区分百事与可口可乐](https://s.weibo.com/weibo?q=%23%E7%9B%B2%E5%93%81%E5%8C%BA%E5%88%86%E7%99%BE%E4%BA%8B%E4%B8%8E%E5%8F%AF%E5%8F%A3%E5%8F%AF%E4%B9%90%23&Refer=top) 250451
 1. [太空三人组出差一个月了](https://s.weibo.com/weibo?q=%23%E5%A4%AA%E7%A9%BA%E4%B8%89%E4%BA%BA%E7%BB%84%E5%87%BA%E5%B7%AE%E4%B8%80%E4%B8%AA%E6%9C%88%E4%BA%86%23&Refer=top) 250063
 1. [一分钟改善肩膀酸痛](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%88%86%E9%92%9F%E6%94%B9%E5%96%84%E8%82%A9%E8%86%80%E9%85%B8%E7%97%9B%23&Refer=top) 249219
 1. [外交部回应拜登重申不支持台独](https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E6%8B%9C%E7%99%BB%E9%87%8D%E7%94%B3%E4%B8%8D%E6%94%AF%E6%8C%81%E5%8F%B0%E7%8B%AC%23&Refer=top) 248316
@@ -203,8 +204,10 @@
 1. [国足vs澳大利亚](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3vs%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%23&Refer=top) 233118
 1. [中美双方要做大合作蛋糕](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%8F%8C%E6%96%B9%E8%A6%81%E5%81%9A%E5%A4%A7%E5%90%88%E4%BD%9C%E8%9B%8B%E7%B3%95%23&Refer=top) 231272
 1. [机智的恋爱收官](https://s.weibo.com/weibo?q=%23%E6%9C%BA%E6%99%BA%E7%9A%84%E6%81%8B%E7%88%B1%E6%94%B6%E5%AE%98%23&Refer=top) 229598
+1. [蔡文静雀斑妆封面造型](https://s.weibo.com/weibo?q=%23%E8%94%A1%E6%96%87%E9%9D%99%E9%9B%80%E6%96%91%E5%A6%86%E5%B0%81%E9%9D%A2%E9%80%A0%E5%9E%8B%23&Refer=top) 228661
 1. [工地挖到废旧炮弹直接拉到派出所](https://s.weibo.com/weibo?q=%23%E5%B7%A5%E5%9C%B0%E6%8C%96%E5%88%B0%E5%BA%9F%E6%97%A7%E7%82%AE%E5%BC%B9%E7%9B%B4%E6%8E%A5%E6%8B%89%E5%88%B0%E6%B4%BE%E5%87%BA%E6%89%80%23&Refer=top) 226751
 1. [中美元首视频会晤都谈了什么](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E8%A7%86%E9%A2%91%E4%BC%9A%E6%99%A4%E9%83%BD%E8%B0%88%E4%BA%86%E4%BB%80%E4%B9%88%23&Refer=top) 226690
+1. [泡面大赏](https://s.weibo.com/weibo?q=%E6%B3%A1%E9%9D%A2%E5%A4%A7%E8%B5%8F&Refer=top) 225545
 1. [山东省考公告](https://s.weibo.com/weibo?q=%E5%B1%B1%E4%B8%9C%E7%9C%81%E8%80%83%E5%85%AC%E5%91%8A&Refer=top) 223219
 1. [装修算是被玩明白了](https://s.weibo.com/weibo?q=%23%E8%A3%85%E4%BF%AE%E7%AE%97%E6%98%AF%E8%A2%AB%E7%8E%A9%E6%98%8E%E7%99%BD%E4%BA%86%23&Refer=top) 223089
 1. [专家分析鳄鱼水中溺亡原因](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E5%88%86%E6%9E%90%E9%B3%84%E9%B1%BC%E6%B0%B4%E4%B8%AD%E6%BA%BA%E4%BA%A1%E5%8E%9F%E5%9B%A0%23&Refer=top) 221122
@@ -222,8 +225,6 @@
 1. [19日记得看天狗食月](https://s.weibo.com/weibo?q=%2319%E6%97%A5%E8%AE%B0%E5%BE%97%E7%9C%8B%E5%A4%A9%E7%8B%97%E9%A3%9F%E6%9C%88%23&Refer=top) 205720
 1. [小学生班会上讲对胖的理解](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%9F%E7%8F%AD%E4%BC%9A%E4%B8%8A%E8%AE%B2%E5%AF%B9%E8%83%96%E7%9A%84%E7%90%86%E8%A7%A3%23&Refer=top) 205019
 1. [扬名立万解析](https://s.weibo.com/weibo?q=%E6%89%AC%E5%90%8D%E7%AB%8B%E4%B8%87%E8%A7%A3%E6%9E%90&Refer=top) 204776
-1. [盲品区分百事与可口可乐](https://s.weibo.com/weibo?q=%23%E7%9B%B2%E5%93%81%E5%8C%BA%E5%88%86%E7%99%BE%E4%BA%8B%E4%B8%8E%E5%8F%AF%E5%8F%A3%E5%8F%AF%E4%B9%90%23&Refer=top) 204018
-1. [蔡文静雀斑妆封面造型](https://s.weibo.com/weibo?q=%23%E8%94%A1%E6%96%87%E9%9D%99%E9%9B%80%E6%96%91%E5%A6%86%E5%B0%81%E9%9D%A2%E9%80%A0%E5%9E%8B%23&Refer=top) 203292
 1. [成都顶峰水岸解封](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E9%A1%B6%E5%B3%B0%E6%B0%B4%E5%B2%B8%E8%A7%A3%E5%B0%81%23&Refer=top) 202825
 1. [中高风险区省会至北京航班每天只保留1班](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E9%AB%98%E9%A3%8E%E9%99%A9%E5%8C%BA%E7%9C%81%E4%BC%9A%E8%87%B3%E5%8C%97%E4%BA%AC%E8%88%AA%E7%8F%AD%E6%AF%8F%E5%A4%A9%E5%8F%AA%E4%BF%9D%E7%95%991%E7%8F%AD%23&Refer=top) 200840
 1. [消防员视角下最真实的火场](https://s.weibo.com/weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%98%E8%A7%86%E8%A7%92%E4%B8%8B%E6%9C%80%E7%9C%9F%E5%AE%9E%E7%9A%84%E7%81%AB%E5%9C%BA%23&Refer=top) 199827
@@ -234,6 +235,7 @@
 1. [初冬的银杏有多美](https://s.weibo.com/weibo?q=%23%E5%88%9D%E5%86%AC%E7%9A%84%E9%93%B6%E6%9D%8F%E6%9C%89%E5%A4%9A%E7%BE%8E%23&Refer=top) 195216
 1. [印度妇女请神职人员踩背求怀孕](https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%A6%87%E5%A5%B3%E8%AF%B7%E7%A5%9E%E8%81%8C%E4%BA%BA%E5%91%98%E8%B8%A9%E8%83%8C%E6%B1%82%E6%80%80%E5%AD%95%23&Refer=top) 194694
 1. [中美元首会晤近4小时](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E8%BF%914%E5%B0%8F%E6%97%B6%23&Refer=top) 194197
+1. [原来烤梨这么简单](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E7%83%A4%E6%A2%A8%E8%BF%99%E4%B9%88%E7%AE%80%E5%8D%95%23&Refer=top) 193205
 1. [我在社交中的敏感程度](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9C%A8%E7%A4%BE%E4%BA%A4%E4%B8%AD%E7%9A%84%E6%95%8F%E6%84%9F%E7%A8%8B%E5%BA%A6%23&Refer=top) 189405
 1. [双语梳理十九届六中全会公报](https://s.weibo.com/weibo?q=%23%E5%8F%8C%E8%AF%AD%E6%A2%B3%E7%90%86%E5%8D%81%E4%B9%9D%E5%B1%8A%E5%85%AD%E4%B8%AD%E5%85%A8%E4%BC%9A%E5%85%AC%E6%8A%A5%23&Refer=top) 189191
 1. [一家人围坐聚餐被邻居拍到温馨时刻](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%AE%B6%E4%BA%BA%E5%9B%B4%E5%9D%90%E8%81%9A%E9%A4%90%E8%A2%AB%E9%82%BB%E5%B1%85%E6%8B%8D%E5%88%B0%E6%B8%A9%E9%A6%A8%E6%97%B6%E5%88%BB%23&Refer=top) 189066
