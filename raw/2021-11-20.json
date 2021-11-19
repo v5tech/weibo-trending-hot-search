@@ -226,5 +226,9 @@
   "时光音乐会": {
     "url": "https://s.weibo.com/weibo?q=%E6%97%B6%E5%85%89%E9%9F%B3%E4%B9%90%E4%BC%9A&Refer=top",
     "hot": 31765
+  },
+  "海上升起月偏食": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B5%B7%E4%B8%8A%E5%8D%87%E8%B5%B7%E6%9C%88%E5%81%8F%E9%A3%9F%23&Refer=top",
+    "hot": 23421
   }
 }
