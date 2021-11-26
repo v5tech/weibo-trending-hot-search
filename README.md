@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2021-11-27 03:08:56.498922 
+最后更新时间 2021-11-27 03:22:09.304896 
 1. [洗米华被批捕](https://s.weibo.com/weibo?q=%23%E6%B4%97%E7%B1%B3%E5%8D%8E%E8%A2%AB%E6%89%B9%E6%8D%95%23&Refer=top) 2197874
 1. [男子科目4考96分被告知成绩作废](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%A7%91%E7%9B%AE4%E8%80%8396%E5%88%86%E8%A2%AB%E5%91%8A%E7%9F%A5%E6%88%90%E7%BB%A9%E4%BD%9C%E5%BA%9F%23&Refer=top) 1247043
 1. [解读十九届六中全会](https://s.weibo.com/weibo?q=%23%E8%A7%A3%E8%AF%BB%E5%8D%81%E4%B9%9D%E5%B1%8A%E5%85%AD%E4%B8%AD%E5%85%A8%E4%BC%9A%23&Refer=top) 850673
@@ -66,6 +66,7 @@
 1. [女心理师](https://s.weibo.com/weibo?q=%E5%A5%B3%E5%BF%83%E7%90%86%E5%B8%88&Refer=top) 76512
 1. [烟草专卖法实施条例修改](https://s.weibo.com/weibo?q=%E7%83%9F%E8%8D%89%E4%B8%93%E5%8D%96%E6%B3%95%E5%AE%9E%E6%96%BD%E6%9D%A1%E4%BE%8B%E4%BF%AE%E6%94%B9&Refer=top) 45199
 1. [一年一度喜剧大赛](https://s.weibo.com/weibo?q=%E4%B8%80%E5%B9%B4%E4%B8%80%E5%BA%A6%E5%96%9C%E5%89%A7%E5%A4%A7%E8%B5%9B&Refer=top) 35558
+1. [上海华山医院核酸检测窗口全开](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%8D%8E%E5%B1%B1%E5%8C%BB%E9%99%A2%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E7%AA%97%E5%8F%A3%E5%85%A8%E5%BC%80%23&Refer=top) 25276
 1. [72岁无腿大爷每天100个引体向上](https://s.weibo.com/weibo?q=%2372%E5%B2%81%E6%97%A0%E8%85%BF%E5%A4%A7%E7%88%B7%E6%AF%8F%E5%A4%A9100%E4%B8%AA%E5%BC%95%E4%BD%93%E5%90%91%E4%B8%8A%23&Refer=top) 24726
 <!-- END -->
 
