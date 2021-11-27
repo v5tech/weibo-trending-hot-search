@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2021-11-28 04:10:52.018846 
+最后更新时间 2021-11-28 04:29:07.091464 
 1. [顶级编剧都写不出的剧情](https://s.weibo.com/weibo?q=%23%E9%A1%B6%E7%BA%A7%E7%BC%96%E5%89%A7%E9%83%BD%E5%86%99%E4%B8%8D%E5%87%BA%E7%9A%84%E5%89%A7%E6%83%85%23&Refer=top) 1323672
 1. [千万不要都选C](https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E9%83%BD%E9%80%89C%23&Refer=top) 1046443
 1. [女子手指肿成萝卜头一查是肺癌](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%89%8B%E6%8C%87%E8%82%BF%E6%88%90%E8%90%9D%E5%8D%9C%E5%A4%B4%E4%B8%80%E6%9F%A5%E6%98%AF%E8%82%BA%E7%99%8C%23&Refer=top) 857990
@@ -64,9 +64,10 @@
 1. [海南体罚学生副校长被停职调查](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%8D%97%E4%BD%93%E7%BD%9A%E5%AD%A6%E7%94%9F%E5%89%AF%E6%A0%A1%E9%95%BF%E8%A2%AB%E5%81%9C%E8%81%8C%E8%B0%83%E6%9F%A5%23&Refer=top) 114166
 1. [高校封校后为24000余名学生加鸡腿](https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E5%B0%81%E6%A0%A1%E5%90%8E%E4%B8%BA24000%E4%BD%99%E5%90%8D%E5%AD%A6%E7%94%9F%E5%8A%A0%E9%B8%A1%E8%85%BF%23&Refer=top) 88558
 1. [新型变异毒株到底有多危险](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%9E%8B%E5%8F%98%E5%BC%82%E6%AF%92%E6%A0%AA%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%8D%B1%E9%99%A9%23&Refer=top) 50436
+1. [贾玲范丞丞第二季的约定第三季实现了](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E7%8E%B2%E8%8C%83%E4%B8%9E%E4%B8%9E%E7%AC%AC%E4%BA%8C%E5%AD%A3%E7%9A%84%E7%BA%A6%E5%AE%9A%E7%AC%AC%E4%B8%89%E5%AD%A3%E5%AE%9E%E7%8E%B0%E4%BA%86%23&Refer=top) 45251
 1. [全国最新产假一览表](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E6%9C%80%E6%96%B0%E4%BA%A7%E5%81%87%E4%B8%80%E8%A7%88%E8%A1%A8%23&Refer=top) 43481
-1. [贾玲范丞丞第二季的约定第三季实现了](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E7%8E%B2%E8%8C%83%E4%B8%9E%E4%B8%9E%E7%AC%AC%E4%BA%8C%E5%AD%A3%E7%9A%84%E7%BA%A6%E5%AE%9A%E7%AC%AC%E4%B8%89%E5%AD%A3%E5%AE%9E%E7%8E%B0%E4%BA%86%23&Refer=top) 32795
 1. [任子威短道速滑1500米夺冠](https://s.weibo.com/weibo?q=%23%E4%BB%BB%E5%AD%90%E5%A8%81%E7%9F%AD%E9%81%93%E9%80%9F%E6%BB%911500%E7%B1%B3%E5%A4%BA%E5%86%A0%23&Refer=top) 28033
+1. [王一博的头好像圆规画出来的](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E7%9A%84%E5%A4%B4%E5%A5%BD%E5%83%8F%E5%9C%86%E8%A7%84%E7%94%BB%E5%87%BA%E6%9D%A5%E7%9A%84%23&Refer=top) 22673
 1. [3岁萌娃数落爸爸训妹妹太叽歪](https://s.weibo.com/weibo?q=%233%E5%B2%81%E8%90%8C%E5%A8%83%E6%95%B0%E8%90%BD%E7%88%B8%E7%88%B8%E8%AE%AD%E5%A6%B9%E5%A6%B9%E5%A4%AA%E5%8F%BD%E6%AD%AA%23&Refer=top) 18874
 <!-- END -->
 
