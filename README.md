@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2021-11-28 13:48:40.497708 
+最后更新时间 2021-11-28 14:13:09.350830 
 1. [朱贤健被抓](https://s.weibo.com/weibo?q=%E6%9C%B1%E8%B4%A4%E5%81%A5%E8%A2%AB%E6%8A%93&Refer=top) 9226698
 1. [伊藤美诚](https://s.weibo.com/weibo?q=%E4%BC%8A%E8%97%A4%E7%BE%8E%E8%AF%9A&Refer=top) 4148264
 1. [好欢螺回应](https://s.weibo.com/weibo?q=%23%E5%A5%BD%E6%AC%A2%E8%9E%BA%E5%9B%9E%E5%BA%94%23&Refer=top) 3148357
@@ -43,6 +43,7 @@
 1. [刘惜君薛之谦烫嘴粤语但又好像没烫](https://s.weibo.com/weibo?q=%23%E5%88%98%E6%83%9C%E5%90%9B%E8%96%9B%E4%B9%8B%E8%B0%A6%E7%83%AB%E5%98%B4%E7%B2%A4%E8%AF%AD%E4%BD%86%E5%8F%88%E5%A5%BD%E5%83%8F%E6%B2%A1%E7%83%AB%23&Refer=top) 627799
 1. [陈小纭缇兰反差](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%B0%8F%E7%BA%AD%E7%BC%87%E5%85%B0%E5%8F%8D%E5%B7%AE%23&Refer=top) 626594
 1. [樊振东王楚钦无缘男双4强](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%97%A0%E7%BC%98%E7%94%B7%E5%8F%8C4%E5%BC%BA%23&Refer=top) 613726
+1. [谢彬彬王子璇是恋爱喜剧人](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%BD%AC%E5%BD%AC%E7%8E%8B%E5%AD%90%E7%92%87%E6%98%AF%E6%81%8B%E7%88%B1%E5%96%9C%E5%89%A7%E4%BA%BA%23&Refer=top) 607490
 1. [王一博的头好像圆规画出来的](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E7%9A%84%E5%A4%B4%E5%A5%BD%E5%83%8F%E5%9C%86%E8%A7%84%E7%94%BB%E5%87%BA%E6%9D%A5%E7%9A%84%23&Refer=top) 596733
 1. [新变异毒株会引发什么症状](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%8F%98%E5%BC%82%E6%AF%92%E6%A0%AA%E4%BC%9A%E5%BC%95%E5%8F%91%E4%BB%80%E4%B9%88%E7%97%87%E7%8A%B6%23&Refer=top) 584370
 1. [如何进行乳房自查](https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E8%BF%9B%E8%A1%8C%E4%B9%B3%E6%88%BF%E8%87%AA%E6%9F%A5%23&Refer=top) 574799
@@ -75,7 +76,6 @@
 1. [贵州10岁拳击女孩小汤圆现状](https://s.weibo.com/weibo?q=%23%E8%B4%B5%E5%B7%9E10%E5%B2%81%E6%8B%B3%E5%87%BB%E5%A5%B3%E5%AD%A9%E5%B0%8F%E6%B1%A4%E5%9C%86%E7%8E%B0%E7%8A%B6%23&Refer=top) 390633
 1. [我国若采用美式防疫每日新增将超63万](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E8%8B%A5%E9%87%87%E7%94%A8%E7%BE%8E%E5%BC%8F%E9%98%B2%E7%96%AB%E6%AF%8F%E6%97%A5%E6%96%B0%E5%A2%9E%E5%B0%86%E8%B6%8563%E4%B8%87%23&Refer=top) 388171
 1. [难听](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%90%AC&Refer=top) 386224
-1. [谢彬彬王子璇是恋爱喜剧人](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%BD%AC%E5%BD%AC%E7%8E%8B%E5%AD%90%E7%92%87%E6%98%AF%E6%81%8B%E7%88%B1%E5%96%9C%E5%89%A7%E4%BA%BA%23&Refer=top) 381327
 1. [女子欲让老人在展厅坐便器上排便](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%AC%B2%E8%AE%A9%E8%80%81%E4%BA%BA%E5%9C%A8%E5%B1%95%E5%8E%85%E5%9D%90%E4%BE%BF%E5%99%A8%E4%B8%8A%E6%8E%92%E4%BE%BF%23&Refer=top) 376022
 1. [八九千年前古人吃得好健康](https://s.weibo.com/weibo?q=%23%E5%85%AB%E4%B9%9D%E5%8D%83%E5%B9%B4%E5%89%8D%E5%8F%A4%E4%BA%BA%E5%90%83%E5%BE%97%E5%A5%BD%E5%81%A5%E5%BA%B7%23&Refer=top) 374281
 1. [孙俪曾在剧组救下一头驴](https://s.weibo.com/weibo?q=%23%E5%AD%99%E4%BF%AA%E6%9B%BE%E5%9C%A8%E5%89%A7%E7%BB%84%E6%95%91%E4%B8%8B%E4%B8%80%E5%A4%B4%E9%A9%B4%23&Refer=top) 372353
@@ -85,6 +85,7 @@
 1. [2022国考报考人数首破200万](https://s.weibo.com/weibo?q=%232022%E5%9B%BD%E8%80%83%E6%8A%A5%E8%80%83%E4%BA%BA%E6%95%B0%E9%A6%96%E7%A0%B4200%E4%B8%87%23&Refer=top) 357446
 1. [有种默契叫一起上北大](https://s.weibo.com/weibo?q=%23%E6%9C%89%E7%A7%8D%E9%BB%98%E5%A5%91%E5%8F%AB%E4%B8%80%E8%B5%B7%E4%B8%8A%E5%8C%97%E5%A4%A7%23&Refer=top) 349961
 1. [消失的初恋第八集](https://s.weibo.com/weibo?q=%23%E6%B6%88%E5%A4%B1%E7%9A%84%E5%88%9D%E6%81%8B%E7%AC%AC%E5%85%AB%E9%9B%86%23&Refer=top) 346835
+1. [张文宏谈新冠变异毒株奥密克戎](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%96%87%E5%AE%8F%E8%B0%88%E6%96%B0%E5%86%A0%E5%8F%98%E5%BC%82%E6%AF%92%E6%A0%AA%E5%A5%A5%E5%AF%86%E5%85%8B%E6%88%8E%23&Refer=top) 342005
 1. [为何新冠病毒传染力会不断增强](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BD%95%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E4%BC%A0%E6%9F%93%E5%8A%9B%E4%BC%9A%E4%B8%8D%E6%96%AD%E5%A2%9E%E5%BC%BA%23&Refer=top) 341808
 1. [世乒赛国乒包揽女单四强](https://s.weibo.com/weibo?q=%E4%B8%96%E4%B9%92%E8%B5%9B%E5%9B%BD%E4%B9%92%E5%8C%85%E6%8F%BD%E5%A5%B3%E5%8D%95%E5%9B%9B%E5%BC%BA&Refer=top) 340953
 1. [国考](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%80%83%23&Refer=top) 336685
@@ -133,7 +134,6 @@
 1. [Uzi游戏ID饮水机](https://s.weibo.com/weibo?q=%23Uzi%E6%B8%B8%E6%88%8FID%E9%A5%AE%E6%B0%B4%E6%9C%BA%23&Refer=top) 190444
 1. [民警帮病重老人找回亡妻唯一照片](https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E5%B8%AE%E7%97%85%E9%87%8D%E8%80%81%E4%BA%BA%E6%89%BE%E5%9B%9E%E4%BA%A1%E5%A6%BB%E5%94%AF%E4%B8%80%E7%85%A7%E7%89%87%23&Refer=top) 190231
 1. [玉米收购价上涨](https://s.weibo.com/weibo?q=%23%E7%8E%89%E7%B1%B3%E6%94%B6%E8%B4%AD%E4%BB%B7%E4%B8%8A%E6%B6%A8%23&Refer=top) 185703
-1. [张文宏谈新冠变异毒株奥密克戎](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%96%87%E5%AE%8F%E8%B0%88%E6%96%B0%E5%86%A0%E5%8F%98%E5%BC%82%E6%AF%92%E6%A0%AA%E5%A5%A5%E5%AF%86%E5%85%8B%E6%88%8E%23&Refer=top) 184125
 1. [双胞胎学霸兄弟一同保送北大](https://s.weibo.com/weibo?q=%23%E5%8F%8C%E8%83%9E%E8%83%8E%E5%AD%A6%E9%9C%B8%E5%85%84%E5%BC%9F%E4%B8%80%E5%90%8C%E4%BF%9D%E9%80%81%E5%8C%97%E5%A4%A7%23&Refer=top) 180849
 1. [国考常识](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%80%83%E5%B8%B8%E8%AF%86&Refer=top) 177560
 1. [考古人员是怎么测身高的](https://s.weibo.com/weibo?q=%23%E8%80%83%E5%8F%A4%E4%BA%BA%E5%91%98%E6%98%AF%E6%80%8E%E4%B9%88%E6%B5%8B%E8%BA%AB%E9%AB%98%E7%9A%84%23&Refer=top) 177194
