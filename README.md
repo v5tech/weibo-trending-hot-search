@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2021-12-01 04:30:42.252599 
+最后更新时间 2021-12-01 04:48:57.038411 
 1. [把螺蛳粉当饭吃有什么危害](https://s.weibo.com/weibo?q=%23%E6%8A%8A%E8%9E%BA%E8%9B%B3%E7%B2%89%E5%BD%93%E9%A5%AD%E5%90%83%E6%9C%89%E4%BB%80%E4%B9%88%E5%8D%B1%E5%AE%B3%23&Refer=top) 1500518
 1. [QQ为什么没有被微信淘汰](https://s.weibo.com/weibo?q=%23QQ%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%A1%E6%9C%89%E8%A2%AB%E5%BE%AE%E4%BF%A1%E6%B7%98%E6%B1%B0%23&Refer=top) 1339793
 1. [党的百年奋斗深刻影响了世界历史进程](https://s.weibo.com/weibo?q=%23%E5%85%9A%E7%9A%84%E7%99%BE%E5%B9%B4%E5%A5%8B%E6%96%97%E6%B7%B1%E5%88%BB%E5%BD%B1%E5%93%8D%E4%BA%86%E4%B8%96%E7%95%8C%E5%8E%86%E5%8F%B2%E8%BF%9B%E7%A8%8B%23&Refer=top) 1091458
@@ -68,7 +68,9 @@
 1. [关于奥密克戎的9个问题](https://s.weibo.com/weibo?q=%23%E5%85%B3%E4%BA%8E%E5%A5%A5%E5%AF%86%E5%85%8B%E6%88%8E%E7%9A%849%E4%B8%AA%E9%97%AE%E9%A2%98%23&Refer=top) 26990
 1. [塔克拉玛干沙漠雪景宛若童话世界](https://s.weibo.com/weibo?q=%23%E5%A1%94%E5%85%8B%E6%8B%89%E7%8E%9B%E5%B9%B2%E6%B2%99%E6%BC%A0%E9%9B%AA%E6%99%AF%E5%AE%9B%E8%8B%A5%E7%AB%A5%E8%AF%9D%E4%B8%96%E7%95%8C%23&Refer=top) 26736
 1. [12月天象预报](https://s.weibo.com/weibo?q=%2312%E6%9C%88%E5%A4%A9%E8%B1%A1%E9%A2%84%E6%8A%A5%23&Refer=top) 23494
-1. [外交部驳斥福奇涉疫情不当言论](https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E9%A9%B3%E6%96%A5%E7%A6%8F%E5%A5%87%E6%B6%89%E7%96%AB%E6%83%85%E4%B8%8D%E5%BD%93%E8%A8%80%E8%AE%BA%23&Refer=top) 16247
+1. [外交部驳斥福奇涉疫情不当言论](https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E9%A9%B3%E6%96%A5%E7%A6%8F%E5%A5%87%E6%B6%89%E7%96%AB%E6%83%85%E4%B8%8D%E5%BD%93%E8%A8%80%E8%AE%BA%23&Refer=top) 20360
+1. [山东全面推行先验房后收房](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E5%85%A8%E9%9D%A2%E6%8E%A8%E8%A1%8C%E5%85%88%E9%AA%8C%E6%88%BF%E5%90%8E%E6%94%B6%E6%88%BF%23&Refer=top) 17821
+1. [CBA第二阶段赛程出炉](https://s.weibo.com/weibo?q=%23CBA%E7%AC%AC%E4%BA%8C%E9%98%B6%E6%AE%B5%E8%B5%9B%E7%A8%8B%E5%87%BA%E7%82%89%23&Refer=top) 12666
 <!-- END -->
 
 历史归档 [./archives](./archives)
