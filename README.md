@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2021-12-04 04:48:45.124037 
+最后更新时间 2021-12-04 05:09:45.848661 
 1. [广州疫情](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E7%96%AB%E6%83%85%23&Refer=top) 3581228
 1. [iG在干嘛](https://s.weibo.com/weibo?q=%23iG%E5%9C%A8%E5%B9%B2%E5%98%9B%23&Refer=top) 2222977
 1. [上海确诊母女感染德尔塔变异株](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E7%A1%AE%E8%AF%8A%E6%AF%8D%E5%A5%B3%E6%84%9F%E6%9F%93%E5%BE%B7%E5%B0%94%E5%A1%94%E5%8F%98%E5%BC%82%E6%A0%AA%23&Refer=top) 1648147
@@ -69,6 +69,7 @@
 1. [爱很美味今日更新](https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%BE%88%E7%BE%8E%E5%91%B3%E4%BB%8A%E6%97%A5%E6%9B%B4%E6%96%B0%23&Refer=top) 50065
 1. [北京是全球唯一的双奥之城](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%98%AF%E5%85%A8%E7%90%83%E5%94%AF%E4%B8%80%E7%9A%84%E5%8F%8C%E5%A5%A5%E4%B9%8B%E5%9F%8E%23&Refer=top) 45680
 1. [斛珠夫人](https://s.weibo.com/weibo?q=%E6%96%9B%E7%8F%A0%E5%A4%AB%E4%BA%BA&Refer=top) 28820
+1. [情侣吵架男子将女友头按进火锅](https://s.weibo.com/weibo?q=%23%E6%83%85%E4%BE%A3%E5%90%B5%E6%9E%B6%E7%94%B7%E5%AD%90%E5%B0%86%E5%A5%B3%E5%8F%8B%E5%A4%B4%E6%8C%89%E8%BF%9B%E7%81%AB%E9%94%85%23&Refer=top) 17197
 <!-- END -->
 
 历史归档 [./archives](./archives)
