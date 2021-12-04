@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2021-12-05 01:42:48.227693 
+最后更新时间 2021-12-05 01:51:09.306792 
 1. [再晚30秒18万元就没了](https://s.weibo.com/weibo?q=%23%E5%86%8D%E6%99%9A30%E7%A7%9218%E4%B8%87%E5%85%83%E5%B0%B1%E6%B2%A1%E4%BA%86%23&Refer=top) 1047988
 1. [陶白白为什么那么准](https://s.weibo.com/weibo?q=%23%E9%99%B6%E7%99%BD%E7%99%BD%E4%B8%BA%E4%BB%80%E4%B9%88%E9%82%A3%E4%B9%88%E5%87%86%23&Refer=top) 989402
 1. [原来眼药水是滴在下眼睑](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E7%9C%BC%E8%8D%AF%E6%B0%B4%E6%98%AF%E6%BB%B4%E5%9C%A8%E4%B8%8B%E7%9C%BC%E7%9D%91%23&Refer=top) 761652
@@ -62,6 +62,8 @@
 1. [55岁退伍老兵守护海岛32年](https://s.weibo.com/weibo?q=%2355%E5%B2%81%E9%80%80%E4%BC%8D%E8%80%81%E5%85%B5%E5%AE%88%E6%8A%A4%E6%B5%B7%E5%B2%9B32%E5%B9%B4%23&Refer=top) 161958
 1. [日本野猪肉料理火了](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%87%8E%E7%8C%AA%E8%82%89%E6%96%99%E7%90%86%E7%81%AB%E4%BA%86%23&Refer=top) 156733
 1. [恋与制作人电话](https://s.weibo.com/weibo?q=%23%E6%81%8B%E4%B8%8E%E5%88%B6%E4%BD%9C%E4%BA%BA%E7%94%B5%E8%AF%9D%23&Refer=top) 103486
+1. [最爱第八集](https://s.weibo.com/weibo?q=%E6%9C%80%E7%88%B1%E7%AC%AC%E5%85%AB%E9%9B%86&Refer=top) 100347
+1. [超级金枪鱼](https://s.weibo.com/weibo?q=%E8%B6%85%E7%BA%A7%E9%87%91%E6%9E%AA%E9%B1%BC&Refer=top) 100241
 1. [奥运健儿访港与李克勤合唱红日](https://s.weibo.com/weibo?q=%23%E5%A5%A5%E8%BF%90%E5%81%A5%E5%84%BF%E8%AE%BF%E6%B8%AF%E4%B8%8E%E6%9D%8E%E5%85%8B%E5%8B%A4%E5%90%88%E5%94%B1%E7%BA%A2%E6%97%A5%23&Refer=top) 86382
 <!-- END -->
 
