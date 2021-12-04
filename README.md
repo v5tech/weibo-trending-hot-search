@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2021-12-05 04:30:47.767278 
+最后更新时间 2021-12-05 04:48:53.716253 
 1. [再晚30秒18万元就没了](https://s.weibo.com/weibo?q=%23%E5%86%8D%E6%99%9A30%E7%A7%9218%E4%B8%87%E5%85%83%E5%B0%B1%E6%B2%A1%E4%BA%86%23&Refer=top) 1047988
 1. [陶白白为什么那么准](https://s.weibo.com/weibo?q=%23%E9%99%B6%E7%99%BD%E7%99%BD%E4%B8%BA%E4%BB%80%E4%B9%88%E9%82%A3%E4%B9%88%E5%87%86%23&Refer=top) 989402
 1. [原来眼药水是滴在下眼睑](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E7%9C%BC%E8%8D%AF%E6%B0%B4%E6%98%AF%E6%BB%B4%E5%9C%A8%E4%B8%8B%E7%9C%BC%E7%9D%91%23&Refer=top) 761652
@@ -67,10 +67,11 @@
 1. [超级金枪鱼](https://s.weibo.com/weibo?q=%E8%B6%85%E7%BA%A7%E9%87%91%E6%9E%AA%E9%B1%BC&Refer=top) 100241
 1. [奥运健儿访港与李克勤合唱红日](https://s.weibo.com/weibo?q=%23%E5%A5%A5%E8%BF%90%E5%81%A5%E5%84%BF%E8%AE%BF%E6%B8%AF%E4%B8%8E%E6%9D%8E%E5%85%8B%E5%8B%A4%E5%90%88%E5%94%B1%E7%BA%A2%E6%97%A5%23&Refer=top) 86382
 1. [昶王是假的](https://s.weibo.com/weibo?q=%23%E6%98%B6%E7%8E%8B%E6%98%AF%E5%81%87%E7%9A%84%23&Refer=top) 49411
+1. [总书记与大学生的温暖瞬间](https://s.weibo.com/weibo?q=%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B8%8E%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%9A%84%E6%B8%A9%E6%9A%96%E7%9E%AC%E9%97%B4%23&Refer=top) 43544
 1. [女子遇电诈民警果断破门保住18万](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%81%87%E7%94%B5%E8%AF%88%E6%B0%91%E8%AD%A6%E6%9E%9C%E6%96%AD%E7%A0%B4%E9%97%A8%E4%BF%9D%E4%BD%8F18%E4%B8%87%23&Refer=top) 35066
 1. [北京猿人时期人类已能长时间保存火种](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E7%8C%BF%E4%BA%BA%E6%97%B6%E6%9C%9F%E4%BA%BA%E7%B1%BB%E5%B7%B2%E8%83%BD%E9%95%BF%E6%97%B6%E9%97%B4%E4%BF%9D%E5%AD%98%E7%81%AB%E7%A7%8D%23&Refer=top) 32798
-1. [总书记与大学生的温暖瞬间](https://s.weibo.com/weibo?q=%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E4%B8%8E%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%9A%84%E6%B8%A9%E6%9A%96%E7%9E%AC%E9%97%B4%23&Refer=top) 31037
 1. [工人购物掉钱店主连等一个月归还](https://s.weibo.com/weibo?q=%23%E5%B7%A5%E4%BA%BA%E8%B4%AD%E7%89%A9%E6%8E%89%E9%92%B1%E5%BA%97%E4%B8%BB%E8%BF%9E%E7%AD%89%E4%B8%80%E4%B8%AA%E6%9C%88%E5%BD%92%E8%BF%98%23&Refer=top) 27603
+1. [2021南极日全食](https://s.weibo.com/weibo?q=%232021%E5%8D%97%E6%9E%81%E6%97%A5%E5%85%A8%E9%A3%9F%23&Refer=top) 16242
 <!-- END -->
 
 历史归档 [./archives](./archives)
