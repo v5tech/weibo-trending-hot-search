@@ -7,9 +7,9 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2021-12-06 01:21:25.617866 
+最后更新时间 2021-12-06 01:41:28.980884 
 1. [妻子怀孕老公狂送礼物做家务](https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E6%80%80%E5%AD%95%E8%80%81%E5%85%AC%E7%8B%82%E9%80%81%E7%A4%BC%E7%89%A9%E5%81%9A%E5%AE%B6%E5%8A%A1%23&Refer=top) 1500990
-1. [风起洛阳到底谁是主角](https://s.weibo.com/weibo?q=%23%E9%A3%8E%E8%B5%B7%E6%B4%9B%E9%98%B3%E5%88%B0%E5%BA%95%E8%B0%81%E6%98%AF%E4%B8%BB%E8%A7%92%23&Refer=top) 1237404
+1. [风起洛阳到底谁是主角](https://s.weibo.com/weibo?q=%23%E9%A3%8E%E8%B5%B7%E6%B4%9B%E9%98%B3%E5%88%B0%E5%BA%95%E8%B0%81%E6%98%AF%E4%B8%BB%E8%A7%92%23&Refer=top) 1388179
 1. [深圳卫健委公号被投诉低俗博流量](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%8D%AB%E5%81%A5%E5%A7%94%E5%85%AC%E5%8F%B7%E8%A2%AB%E6%8A%95%E8%AF%89%E4%BD%8E%E4%BF%97%E5%8D%9A%E6%B5%81%E9%87%8F%23&Refer=top) 994270
 1. [女孩备战考研每天冷风中背书7小时](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%A4%87%E6%88%98%E8%80%83%E7%A0%94%E6%AF%8F%E5%A4%A9%E5%86%B7%E9%A3%8E%E4%B8%AD%E8%83%8C%E4%B9%A67%E5%B0%8F%E6%97%B6%23&Refer=top) 943734
 1. [中国之治的密码](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%B9%8B%E6%B2%BB%E7%9A%84%E5%AF%86%E7%A0%81%23&Refer=top) 938390
@@ -62,6 +62,7 @@
 1. [中国科学院院士吴新智逝世](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E9%99%A2%E9%99%A2%E5%A3%AB%E5%90%B4%E6%96%B0%E6%99%BA%E9%80%9D%E4%B8%96%23&Refer=top) 121050
 1. [戴佩妮刘宇宁合唱潇洒走一回](https://s.weibo.com/weibo?q=%23%E6%88%B4%E4%BD%A9%E5%A6%AE%E5%88%98%E5%AE%87%E5%AE%81%E5%90%88%E5%94%B1%E6%BD%87%E6%B4%92%E8%B5%B0%E4%B8%80%E5%9B%9E%23&Refer=top) 104521
 1. [男孩致同学受伤每天主动帮忙拎包](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E8%87%B4%E5%90%8C%E5%AD%A6%E5%8F%97%E4%BC%A4%E6%AF%8F%E5%A4%A9%E4%B8%BB%E5%8A%A8%E5%B8%AE%E5%BF%99%E6%8B%8E%E5%8C%85%23&Refer=top) 92518
+1. [樊振东3比0横扫晋级](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C3%E6%AF%940%E6%A8%AA%E6%89%AB%E6%99%8B%E7%BA%A7%23&Refer=top) 45976
 <!-- END -->
 
 历史归档 [./archives](./archives)
