@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2021-12-08 02:13:28.980627 
+最后更新时间 2021-12-08 02:37:12.802034 
 1. [满洲里大规模核酸共检出阳性431例](https://s.weibo.com/weibo?q=%23%E6%BB%A1%E6%B4%B2%E9%87%8C%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%A0%B8%E9%85%B8%E5%85%B1%E6%A3%80%E5%87%BA%E9%98%B3%E6%80%A7431%E4%BE%8B%23&Refer=top) 1063676
 1. [教资成绩](https://s.weibo.com/weibo?q=%E6%95%99%E8%B5%84%E6%88%90%E7%BB%A9&Refer=top) 819954
 1. [中国有伟大的知识宝库](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%9C%89%E4%BC%9F%E5%A4%A7%E7%9A%84%E7%9F%A5%E8%AF%86%E5%AE%9D%E5%BA%93%23&Refer=top) 817646
@@ -59,12 +59,12 @@
 1. [绍兴1例确诊行动轨迹](https://s.weibo.com/weibo?q=%23%E7%BB%8D%E5%85%B41%E4%BE%8B%E7%A1%AE%E8%AF%8A%E8%A1%8C%E5%8A%A8%E8%BD%A8%E8%BF%B9%23&Refer=top) 149015
 1. [樊振东夺冠后还与教练讨论战术](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%A4%BA%E5%86%A0%E5%90%8E%E8%BF%98%E4%B8%8E%E6%95%99%E7%BB%83%E8%AE%A8%E8%AE%BA%E6%88%98%E6%9C%AF%23&Refer=top) 148079
 1. [2021离谱剧情大赏](https://s.weibo.com/weibo?q=%232021%E7%A6%BB%E8%B0%B1%E5%89%A7%E6%83%85%E5%A4%A7%E8%B5%8F%23&Refer=top) 144358
+1. [宿舍有个奇怪的按钮](https://s.weibo.com/weibo?q=%23%E5%AE%BF%E8%88%8D%E6%9C%89%E4%B8%AA%E5%A5%87%E6%80%AA%E7%9A%84%E6%8C%89%E9%92%AE%23&Refer=top) 99215
 1. [孙颖莎vs王艺迪](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8Evs%E7%8E%8B%E8%89%BA%E8%BF%AA%23&Refer=top) 98943
+1. [微博禁言关闭526个恶意宣扬仇恨账号](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E7%A6%81%E8%A8%80%E5%85%B3%E9%97%AD526%E4%B8%AA%E6%81%B6%E6%84%8F%E5%AE%A3%E6%89%AC%E4%BB%87%E6%81%A8%E8%B4%A6%E5%8F%B7%23&Refer=top) 66644
 1. [被拐家庭该如何面对重逢](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%8B%90%E5%AE%B6%E5%BA%AD%E8%AF%A5%E5%A6%82%E4%BD%95%E9%9D%A2%E5%AF%B9%E9%87%8D%E9%80%A2%23&Refer=top) 65907
 1. [人缺乏蛋白质时容易脱发](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E7%BC%BA%E4%B9%8F%E8%9B%8B%E7%99%BD%E8%B4%A8%E6%97%B6%E5%AE%B9%E6%98%93%E8%84%B1%E5%8F%91%23&Refer=top) 65606
-1. [微博禁言关闭526个恶意宣扬仇恨账号](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E7%A6%81%E8%A8%80%E5%85%B3%E9%97%AD526%E4%B8%AA%E6%81%B6%E6%84%8F%E5%AE%A3%E6%89%AC%E4%BB%87%E6%81%A8%E8%B4%A6%E5%8F%B7%23&Refer=top) 57070
 1. [孙颖莎连轴转辛苦孩子了](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E8%BF%9E%E8%BD%B4%E8%BD%AC%E8%BE%9B%E8%8B%A6%E5%AD%A9%E5%AD%90%E4%BA%86%23&Refer=top) 37039
-1. [宿舍有个奇怪的按钮](https://s.weibo.com/weibo?q=%23%E5%AE%BF%E8%88%8D%E6%9C%89%E4%B8%AA%E5%A5%87%E6%80%AA%E7%9A%84%E6%8C%89%E9%92%AE%23&Refer=top) 36108
 <!-- END -->
 
 历史归档 [./archives](./archives)
