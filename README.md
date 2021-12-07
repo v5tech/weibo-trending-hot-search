@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2021-12-08 01:38:13.823643 
+最后更新时间 2021-12-08 01:52:11.872469 
 1. [满洲里大规模核酸共检出阳性431例](https://s.weibo.com/weibo?q=%23%E6%BB%A1%E6%B4%B2%E9%87%8C%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%A0%B8%E9%85%B8%E5%85%B1%E6%A3%80%E5%87%BA%E9%98%B3%E6%80%A7431%E4%BE%8B%23&Refer=top) 1063676
 1. [教资成绩](https://s.weibo.com/weibo?q=%E6%95%99%E8%B5%84%E6%88%90%E7%BB%A9&Refer=top) 819954
 1. [中国有伟大的知识宝库](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%9C%89%E4%BC%9F%E5%A4%A7%E7%9A%84%E7%9F%A5%E8%AF%86%E5%AE%9D%E5%BA%93%23&Refer=top) 817646
@@ -61,7 +61,8 @@
 1. [2021离谱剧情大赏](https://s.weibo.com/weibo?q=%232021%E7%A6%BB%E8%B0%B1%E5%89%A7%E6%83%85%E5%A4%A7%E8%B5%8F%23&Refer=top) 144358
 1. [孙颖莎vs王艺迪](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8Evs%E7%8E%8B%E8%89%BA%E8%BF%AA%23&Refer=top) 98943
 1. [被拐家庭该如何面对重逢](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%8B%90%E5%AE%B6%E5%BA%AD%E8%AF%A5%E5%A6%82%E4%BD%95%E9%9D%A2%E5%AF%B9%E9%87%8D%E9%80%A2%23&Refer=top) 65907
-1. [人缺乏蛋白质时容易脱发](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E7%BC%BA%E4%B9%8F%E8%9B%8B%E7%99%BD%E8%B4%A8%E6%97%B6%E5%AE%B9%E6%98%93%E8%84%B1%E5%8F%91%23&Refer=top) 55504
+1. [人缺乏蛋白质时容易脱发](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E7%BC%BA%E4%B9%8F%E8%9B%8B%E7%99%BD%E8%B4%A8%E6%97%B6%E5%AE%B9%E6%98%93%E8%84%B1%E5%8F%91%23&Refer=top) 65606
+1. [微博禁言关闭526个恶意宣扬仇恨账号](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E7%A6%81%E8%A8%80%E5%85%B3%E9%97%AD526%E4%B8%AA%E6%81%B6%E6%84%8F%E5%AE%A3%E6%89%AC%E4%BB%87%E6%81%A8%E8%B4%A6%E5%8F%B7%23&Refer=top) 43454
 <!-- END -->
 
 历史归档 [./archives](./archives)
