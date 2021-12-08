@@ -237,6 +237,10 @@
   },
   "杭州公布疫情流调情况": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%85%AC%E5%B8%83%E7%96%AB%E6%83%85%E6%B5%81%E8%B0%83%E6%83%85%E5%86%B5%23&Refer=top",
-    "hot": 26539
+    "hot": 27976
+  },
+  "宁波疫情": {
+    "url": "https://s.weibo.com/weibo?q=%E5%AE%81%E6%B3%A2%E7%96%AB%E6%83%85&Refer=top",
+    "hot": 21642
   }
 }
