@@ -235,12 +235,20 @@
     "url": "https://s.weibo.com/weibo?q=%23%E8%94%A1%E6%99%93%E4%B8%9C%E6%9C%80%E5%90%8E%E4%B8%80%E6%AC%A1%E6%8A%93%E6%8D%95%E7%94%BB%E9%9D%A2%E6%8A%AB%E9%9C%B2%23&Refer=top",
     "hot": 48864
   },
+  "宁波疫情": {
+    "url": "https://s.weibo.com/weibo?q=%E5%AE%81%E6%B3%A2%E7%96%AB%E6%83%85&Refer=top",
+    "hot": 30399
+  },
+  "绍兴上虞区启动I级应急响应": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BB%8D%E5%85%B4%E4%B8%8A%E8%99%9E%E5%8C%BA%E5%90%AF%E5%8A%A8I%E7%BA%A7%E5%BA%94%E6%80%A5%E5%93%8D%E5%BA%94%23&Refer=top",
+    "hot": 28012
+  },
   "杭州公布疫情流调情况": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%85%AC%E5%B8%83%E7%96%AB%E6%83%85%E6%B5%81%E8%B0%83%E6%83%85%E5%86%B5%23&Refer=top",
     "hot": 27976
   },
-  "宁波疫情": {
-    "url": "https://s.weibo.com/weibo?q=%E5%AE%81%E6%B3%A2%E7%96%AB%E6%83%85&Refer=top",
-    "hot": 23788
+  "最受欢迎的外带烤鸭": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9C%80%E5%8F%97%E6%AC%A2%E8%BF%8E%E7%9A%84%E5%A4%96%E5%B8%A6%E7%83%A4%E9%B8%AD%23&Refer=top",
+    "hot": 27343
   }
 }
