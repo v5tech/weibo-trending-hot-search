@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2021-12-10 03:09:23.279624 
+最后更新时间 2021-12-10 03:22:57.655373 
 1. [强扭的瓜爆甜](https://s.weibo.com/weibo?q=%23%E5%BC%BA%E6%89%AD%E7%9A%84%E7%93%9C%E7%88%86%E7%94%9C%23&Refer=top) 3223814
 1. [我国首个新冠特效药来了](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E9%A6%96%E4%B8%AA%E6%96%B0%E5%86%A0%E7%89%B9%E6%95%88%E8%8D%AF%E6%9D%A5%E4%BA%86%23&Refer=top) 1191090
 1. [2021中国经济新气象](https://s.weibo.com/weibo?q=%232021%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%96%B0%E6%B0%94%E8%B1%A1%23&Refer=top) 941345
@@ -68,6 +68,7 @@
 1. [天宫课堂第一课](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E5%AE%AB%E8%AF%BE%E5%A0%82%E7%AC%AC%E4%B8%80%E8%AF%BE%23&Refer=top) 30347
 1. [女心理师](https://s.weibo.com/weibo?q=%E5%A5%B3%E5%BF%83%E7%90%86%E5%B8%88&Refer=top) 25932
 1. [蒋龙连麦直播](https://s.weibo.com/weibo?q=%23%E8%92%8B%E9%BE%99%E8%BF%9E%E9%BA%A6%E7%9B%B4%E6%92%AD%23&Refer=top) 25903
+1. [饺子届的暗黑天花板](https://s.weibo.com/weibo?q=%23%E9%A5%BA%E5%AD%90%E5%B1%8A%E7%9A%84%E6%9A%97%E9%BB%91%E5%A4%A9%E8%8A%B1%E6%9D%BF%23&Refer=top) 23439
 <!-- END -->
 
 历史归档 [./archives](./archives)
