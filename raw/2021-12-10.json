@@ -233,7 +233,7 @@
   },
   "饺子届的暗黑天花板": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%A5%BA%E5%AD%90%E5%B1%8A%E7%9A%84%E6%9A%97%E9%BB%91%E5%A4%A9%E8%8A%B1%E6%9D%BF%23&Refer=top",
-    "hot": 32534
+    "hot": 33074
   },
   "天宫课堂第一课": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A9%E5%AE%AB%E8%AF%BE%E5%A0%82%E7%AC%AC%E4%B8%80%E8%AF%BE%23&Refer=top",
@@ -247,8 +247,16 @@
     "url": "https://s.weibo.com/weibo?q=%23%E8%92%8B%E9%BE%99%E8%BF%9E%E9%BA%A6%E7%9B%B4%E6%92%AD%23&Refer=top",
     "hot": 27347
   },
+  "圣诞烤鸡天花板": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%9C%A3%E8%AF%9E%E7%83%A4%E9%B8%A1%E5%A4%A9%E8%8A%B1%E6%9D%BF%23&Refer=top",
+    "hot": 22583
+  },
   "谁是凶手": {
     "url": "https://s.weibo.com/weibo?q=%E8%B0%81%E6%98%AF%E5%87%B6%E6%89%8B&Refer=top",
     "hot": 19490
+  },
+  "杭州疫情": {
+    "url": "https://s.weibo.com/weibo?q=%E6%9D%AD%E5%B7%9E%E7%96%AB%E6%83%85&Refer=top",
+    "hot": 16550
   }
 }
