@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2021-12-10 05:27:03.552300 
+最后更新时间 2021-12-10 05:38:18.267123 
 1. [强扭的瓜爆甜](https://s.weibo.com/weibo?q=%23%E5%BC%BA%E6%89%AD%E7%9A%84%E7%93%9C%E7%88%86%E7%94%9C%23&Refer=top) 3223814
 1. [我国首个新冠特效药来了](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E9%A6%96%E4%B8%AA%E6%96%B0%E5%86%A0%E7%89%B9%E6%95%88%E8%8D%AF%E6%9D%A5%E4%BA%86%23&Refer=top) 1191090
 1. [2021中国经济新气象](https://s.weibo.com/weibo?q=%232021%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%96%B0%E6%B0%94%E8%B1%A1%23&Refer=top) 941345
@@ -64,17 +64,19 @@
 1. [来央视频看太空授课](https://s.weibo.com/weibo?q=%23%E6%9D%A5%E5%A4%AE%E8%A7%86%E9%A2%91%E7%9C%8B%E5%A4%AA%E7%A9%BA%E6%8E%88%E8%AF%BE%23&Refer=top) 60945
 1. [太空网课极简版笔记](https://s.weibo.com/weibo?q=%23%E5%A4%AA%E7%A9%BA%E7%BD%91%E8%AF%BE%E6%9E%81%E7%AE%80%E7%89%88%E7%AC%94%E8%AE%B0%23&Refer=top) 56647
 1. [天宫课堂第一课开讲](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E5%AE%AB%E8%AF%BE%E5%A0%82%E7%AC%AC%E4%B8%80%E8%AF%BE%E5%BC%80%E8%AE%B2%23&Refer=top) 56139
+1. [韩国男生记录女友说过的名言](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%94%B7%E7%94%9F%E8%AE%B0%E5%BD%95%E5%A5%B3%E5%8F%8B%E8%AF%B4%E8%BF%87%E7%9A%84%E5%90%8D%E8%A8%80%23&Refer=top) 49987
 1. [周深小敏家片头曲](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E5%B0%8F%E6%95%8F%E5%AE%B6%E7%89%87%E5%A4%B4%E6%9B%B2%23&Refer=top) 36860
 1. [中国空间站进行首次太空授课](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E8%BF%9B%E8%A1%8C%E9%A6%96%E6%AC%A1%E5%A4%AA%E7%A9%BA%E6%8E%88%E8%AF%BE%23&Refer=top) 36748
+1. [圣诞烤鸡天花板](https://s.weibo.com/weibo?q=%23%E5%9C%A3%E8%AF%9E%E7%83%A4%E9%B8%A1%E5%A4%A9%E8%8A%B1%E6%9D%BF%23&Refer=top) 33244
 1. [饺子届的暗黑天花板](https://s.weibo.com/weibo?q=%23%E9%A5%BA%E5%AD%90%E5%B1%8A%E7%9A%84%E6%9A%97%E9%BB%91%E5%A4%A9%E8%8A%B1%E6%9D%BF%23&Refer=top) 33074
-1. [圣诞烤鸡天花板](https://s.weibo.com/weibo?q=%23%E5%9C%A3%E8%AF%9E%E7%83%A4%E9%B8%A1%E5%A4%A9%E8%8A%B1%E6%9D%BF%23&Refer=top) 31659
 1. [天宫课堂第一课](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E5%AE%AB%E8%AF%BE%E5%A0%82%E7%AC%AC%E4%B8%80%E8%AF%BE%23&Refer=top) 30347
 1. [女心理师](https://s.weibo.com/weibo?q=%E5%A5%B3%E5%BF%83%E7%90%86%E5%B8%88&Refer=top) 29899
 1. [蒋龙连麦直播](https://s.weibo.com/weibo?q=%23%E8%92%8B%E9%BE%99%E8%BF%9E%E9%BA%A6%E7%9B%B4%E6%92%AD%23&Refer=top) 27347
+1. [空巢老人独自照顾患病爱人26年](https://s.weibo.com/weibo?q=%23%E7%A9%BA%E5%B7%A2%E8%80%81%E4%BA%BA%E7%8B%AC%E8%87%AA%E7%85%A7%E9%A1%BE%E6%82%A3%E7%97%85%E7%88%B1%E4%BA%BA26%E5%B9%B4%23&Refer=top) 19950
 1. [谁是凶手](https://s.weibo.com/weibo?q=%E8%B0%81%E6%98%AF%E5%87%B6%E6%89%8B&Refer=top) 19490
 1. [杭州疫情](https://s.weibo.com/weibo?q=%E6%9D%AD%E5%B7%9E%E7%96%AB%E6%83%85&Refer=top) 16550
-1. [韩国男生记录女友说过的名言](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%94%B7%E7%94%9F%E8%AE%B0%E5%BD%95%E5%A5%B3%E5%8F%8B%E8%AF%B4%E8%BF%87%E7%9A%84%E5%90%8D%E8%A8%80%23&Refer=top) 14823
-1. [空巢老人独自照顾患病爱人26年](https://s.weibo.com/weibo?q=%23%E7%A9%BA%E5%B7%A2%E8%80%81%E4%BA%BA%E7%8B%AC%E8%87%AA%E7%85%A7%E9%A1%BE%E6%82%A3%E7%97%85%E7%88%B1%E4%BA%BA26%E5%B9%B4%23&Refer=top) 14680
+1. [神话故事竟然是有科学依据的](https://s.weibo.com/weibo?q=%23%E7%A5%9E%E8%AF%9D%E6%95%85%E4%BA%8B%E7%AB%9F%E7%84%B6%E6%98%AF%E6%9C%89%E7%A7%91%E5%AD%A6%E4%BE%9D%E6%8D%AE%E7%9A%84%23&Refer=top) 14283
+1. [猫咪的魅力到底有多大](https://s.weibo.com/weibo?q=%23%E7%8C%AB%E5%92%AA%E7%9A%84%E9%AD%85%E5%8A%9B%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%A4%A7%23&Refer=top) 12703
 <!-- END -->
 
 历史归档 [./archives](./archives)
