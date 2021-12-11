@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2021-12-12 01:41:10.907659 
+最后更新时间 2021-12-12 01:49:28.303254 
 1. [周杰伦yyds](https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6yyds&Refer=top) 2877730
 1. [华语乐坛](https://s.weibo.com/weibo?q=%E5%8D%8E%E8%AF%AD%E4%B9%90%E5%9D%9B&Refer=top) 2589458
 1. [自称遭性侵阿里女员工被解雇](https://s.weibo.com/weibo?q=%23%E8%87%AA%E7%A7%B0%E9%81%AD%E6%80%A7%E4%BE%B5%E9%98%BF%E9%87%8C%E5%A5%B3%E5%91%98%E5%B7%A5%E8%A2%AB%E8%A7%A3%E9%9B%87%23&Refer=top) 1551254
@@ -66,7 +66,8 @@
 1. [杭州市上城区暂停疫苗接种](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%B8%82%E4%B8%8A%E5%9F%8E%E5%8C%BA%E6%9A%82%E5%81%9C%E7%96%AB%E8%8B%97%E6%8E%A5%E7%A7%8D%23&Refer=top) 92053
 1. [Scout年度MVP](https://s.weibo.com/weibo?q=%23Scout%E5%B9%B4%E5%BA%A6MVP%23&Refer=top) 92039
 1. [叶羊](https://s.weibo.com/weibo?q=%E5%8F%B6%E7%BE%8A&Refer=top) 91802
-1. [TXT组合](https://s.weibo.com/weibo?q=TXT%E7%BB%84%E5%90%88&Refer=top) 55583
+1. [TXT组合](https://s.weibo.com/weibo?q=TXT%E7%BB%84%E5%90%88&Refer=top) 76974
+1. [宋轶演的柳然是古代袁湘琴吧](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%BD%B6%E6%BC%94%E7%9A%84%E6%9F%B3%E7%84%B6%E6%98%AF%E5%8F%A4%E4%BB%A3%E8%A2%81%E6%B9%98%E7%90%B4%E5%90%A7%23&Refer=top) 74501
 <!-- END -->
 
 历史归档 [./archives](./archives)
