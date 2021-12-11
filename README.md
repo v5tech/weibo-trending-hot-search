@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2021-12-12 04:29:49.246082 
+最后更新时间 2021-12-12 04:41:42.351911 
 1. [周杰伦yyds](https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6yyds&Refer=top) 2877730
 1. [华语乐坛](https://s.weibo.com/weibo?q=%E5%8D%8E%E8%AF%AD%E4%B9%90%E5%9D%9B&Refer=top) 2589458
 1. [自称遭性侵阿里女员工被解雇](https://s.weibo.com/weibo?q=%23%E8%87%AA%E7%A7%B0%E9%81%AD%E6%80%A7%E4%BE%B5%E9%98%BF%E9%87%8C%E5%A5%B3%E5%91%98%E5%B7%A5%E8%A2%AB%E8%A7%A3%E9%9B%87%23&Refer=top) 1551254
@@ -71,6 +71,7 @@
 1. [叶羊](https://s.weibo.com/weibo?q=%E5%8F%B6%E7%BE%8A&Refer=top) 91802
 1. [蔡徐坤感受她微醺氛围感](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E6%84%9F%E5%8F%97%E5%A5%B9%E5%BE%AE%E9%86%BA%E6%B0%9B%E5%9B%B4%E6%84%9F%23&Refer=top) 68708
 1. [TTG晋级败者组半决赛](https://s.weibo.com/weibo?q=%23TTG%E6%99%8B%E7%BA%A7%E8%B4%A5%E8%80%85%E7%BB%84%E5%8D%8A%E5%86%B3%E8%B5%9B%23&Refer=top) 18476
+1. [EDG全明星最大赢家](https://s.weibo.com/weibo?q=%23EDG%E5%85%A8%E6%98%8E%E6%98%9F%E6%9C%80%E5%A4%A7%E8%B5%A2%E5%AE%B6%23&Refer=top) 14370
 <!-- END -->
 
 历史归档 [./archives](./archives)
