@@ -246,5 +246,9 @@
   "年度欢乐放映厅": {
     "url": "https://s.weibo.com/weibo?q=%E5%B9%B4%E5%BA%A6%E6%AC%A2%E4%B9%90%E6%94%BE%E6%98%A0%E5%8E%85&Refer=top",
     "hot": 19203
+  },
+  "AG全员整活": {
+    "url": "https://s.weibo.com/weibo?q=%23AG%E5%85%A8%E5%91%98%E6%95%B4%E6%B4%BB%23&Refer=top",
+    "hot": 17873
   }
 }
