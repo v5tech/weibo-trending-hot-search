@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2021-12-18 15:27:20.997173 
+最后更新时间 2021-12-18 15:36:48.443551 
 1. [周大生与王力宏合作到期不再合作](https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%A4%A7%E7%94%9F%E4%B8%8E%E7%8E%8B%E5%8A%9B%E5%AE%8F%E5%90%88%E4%BD%9C%E5%88%B0%E6%9C%9F%E4%B8%8D%E5%86%8D%E5%90%88%E4%BD%9C%23&Refer=top) 10923955
 1. [张文宏称这将是最后一个疫情寒冬](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%96%87%E5%AE%8F%E7%A7%B0%E8%BF%99%E5%B0%86%E6%98%AF%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E7%96%AB%E6%83%85%E5%AF%92%E5%86%AC%23&Refer=top) 5975411
 1. [高质量发展是以人民为中心的发展](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E6%98%AF%E4%BB%A5%E4%BA%BA%E6%B0%91%E4%B8%BA%E4%B8%AD%E5%BF%83%E7%9A%84%E5%8F%91%E5%B1%95%23&Refer=top) 4831961
@@ -16,10 +16,10 @@
 1. [四六级](https://s.weibo.com/weibo?q=%E5%9B%9B%E5%85%AD%E7%BA%A7&Refer=top) 4488149
 1. [老黄去世](https://s.weibo.com/weibo?q=%23%E8%80%81%E9%BB%84%E5%8E%BB%E4%B8%96%23&Refer=top) 3870338
 1. [孙卓姐姐发声](https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%8D%93%E5%A7%90%E5%A7%90%E5%8F%91%E5%A3%B0%23&Refer=top) 3253250
+1. [央视评玲娜贝儿玩偶被炒至天价](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E8%AF%84%E7%8E%B2%E5%A8%9C%E8%B4%9D%E5%84%BF%E7%8E%A9%E5%81%B6%E8%A2%AB%E7%82%92%E8%87%B3%E5%A4%A9%E4%BB%B7%23&Refer=top) 2677057
 1. [四级听力](https://s.weibo.com/weibo?q=%E5%9B%9B%E7%BA%A7%E5%90%AC%E5%8A%9B&Refer=top) 2559697
 1. [proposal 四级](https://s.weibo.com/weibo?q=proposal%20%E5%9B%9B%E7%BA%A7&Refer=top) 2487151
 1. [英语四级作文](https://s.weibo.com/weibo?q=%E8%8B%B1%E8%AF%AD%E5%9B%9B%E7%BA%A7%E4%BD%9C%E6%96%87&Refer=top) 2456900
-1. [央视评玲娜贝儿玩偶被炒至天价](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E8%AF%84%E7%8E%B2%E5%A8%9C%E8%B4%9D%E5%84%BF%E7%8E%A9%E5%81%B6%E8%A2%AB%E7%82%92%E8%87%B3%E5%A4%A9%E4%BB%B7%23&Refer=top) 2356850
 1. [周思成](https://s.weibo.com/weibo?q=%E5%91%A8%E6%80%9D%E6%88%90&Refer=top) 2325757
 1. [都江堰 四级](https://s.weibo.com/weibo?q=%E9%83%BD%E6%B1%9F%E5%A0%B0%20%E5%9B%9B%E7%BA%A7&Refer=top) 2211096
 1. [四级翻译](https://s.weibo.com/weibo?q=%E5%9B%9B%E7%BA%A7%E7%BF%BB%E8%AF%91&Refer=top) 2202313
@@ -142,6 +142,7 @@
 1. [浓眉受伤](https://s.weibo.com/weibo?q=%23%E6%B5%93%E7%9C%89%E5%8F%97%E4%BC%A4%23&Refer=top) 292100
 1. [闪光的乐队年终总结式官宣](https://s.weibo.com/weibo?q=%23%E9%97%AA%E5%85%89%E7%9A%84%E4%B9%90%E9%98%9F%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93%E5%BC%8F%E5%AE%98%E5%AE%A3%23&Refer=top) 291665
 1. [广东人的独特技能](https://s.weibo.com/weibo?q=%E5%B9%BF%E4%B8%9C%E4%BA%BA%E7%9A%84%E7%8B%AC%E7%89%B9%E6%8A%80%E8%83%BD&Refer=top) 277219
+1. [这刺猬也也好哄了吧](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%88%BA%E7%8C%AC%E4%B9%9F%E4%B9%9F%E5%A5%BD%E5%93%84%E4%BA%86%E5%90%A7%23&Refer=top) 272700
 1. [一个人独居是种什么体验](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%8B%AC%E5%B1%85%E6%98%AF%E7%A7%8D%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23&Refer=top) 267052
 1. [雪中悍刀行](https://s.weibo.com/weibo?q=%E9%9B%AA%E4%B8%AD%E6%82%8D%E5%88%80%E8%A1%8C&Refer=top) 266795
 1. [内地奥运健儿将访澳门](https://s.weibo.com/weibo?q=%23%E5%86%85%E5%9C%B0%E5%A5%A5%E8%BF%90%E5%81%A5%E5%84%BF%E5%B0%86%E8%AE%BF%E6%BE%B3%E9%97%A8%23&Refer=top) 265138
@@ -154,7 +155,6 @@
 1. [一句话证明你玩过永劫无间](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%8F%A5%E8%AF%9D%E8%AF%81%E6%98%8E%E4%BD%A0%E7%8E%A9%E8%BF%87%E6%B0%B8%E5%8A%AB%E6%97%A0%E9%97%B4%23&Refer=top) 258225
 1. [雅思](https://s.weibo.com/weibo?q=%E9%9B%85%E6%80%9D&Refer=top) 252117
 1. [异物卡喉这样自救](https://s.weibo.com/weibo?q=%23%E5%BC%82%E7%89%A9%E5%8D%A1%E5%96%89%E8%BF%99%E6%A0%B7%E8%87%AA%E6%95%91%23&Refer=top) 248000
-1. [这刺猬也也好哄了吧](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%88%BA%E7%8C%AC%E4%B9%9F%E4%B9%9F%E5%A5%BD%E5%93%84%E4%BA%86%E5%90%A7%23&Refer=top) 245951
 1. [张雨霏夺个人短池世锦赛首金](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%A8%E9%9C%8F%E5%A4%BA%E4%B8%AA%E4%BA%BA%E7%9F%AD%E6%B1%A0%E4%B8%96%E9%94%A6%E8%B5%9B%E9%A6%96%E9%87%91%23&Refer=top) 245744
 1. [女心理师](https://s.weibo.com/weibo?q=%E5%A5%B3%E5%BF%83%E7%90%86%E5%B8%88&Refer=top) 240757
 1. [为救路边流浪猫司机违法停车横穿高速](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E6%95%91%E8%B7%AF%E8%BE%B9%E6%B5%81%E6%B5%AA%E7%8C%AB%E5%8F%B8%E6%9C%BA%E8%BF%9D%E6%B3%95%E5%81%9C%E8%BD%A6%E6%A8%AA%E7%A9%BF%E9%AB%98%E9%80%9F%23&Refer=top) 240330
@@ -168,6 +168,7 @@
 1. [张雨霏说今年是美梦成真的一年](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%A8%E9%9C%8F%E8%AF%B4%E4%BB%8A%E5%B9%B4%E6%98%AF%E7%BE%8E%E6%A2%A6%E6%88%90%E7%9C%9F%E7%9A%84%E4%B8%80%E5%B9%B4%23&Refer=top) 217482
 1. [迷你蛋挞披萨](https://s.weibo.com/weibo?q=%E8%BF%B7%E4%BD%A0%E8%9B%8B%E6%8C%9E%E6%8A%AB%E8%90%A8&Refer=top) 215930
 1. [鸡蛋神仙吃法](https://s.weibo.com/weibo?q=%23%E9%B8%A1%E8%9B%8B%E7%A5%9E%E4%BB%99%E5%90%83%E6%B3%95%23&Refer=top) 209273
+1. [误杀2最伟大的父爱是什么](https://s.weibo.com/weibo?q=%23%E8%AF%AF%E6%9D%802%E6%9C%80%E4%BC%9F%E5%A4%A7%E7%9A%84%E7%88%B6%E7%88%B1%E6%98%AF%E4%BB%80%E4%B9%88%23&Refer=top) 204403
 1. [这条视频承包2021整年的笑点](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%9D%A1%E8%A7%86%E9%A2%91%E6%89%BF%E5%8C%852021%E6%95%B4%E5%B9%B4%E7%9A%84%E7%AC%91%E7%82%B9%23&Refer=top) 202560
 1. [美国39州出现奥密克戎](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD39%E5%B7%9E%E5%87%BA%E7%8E%B0%E5%A5%A5%E5%AF%86%E5%85%8B%E6%88%8E%23&Refer=top) 198572
 1. [山西孝义市委书记被免职](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E5%AD%9D%E4%B9%89%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0%E8%A2%AB%E5%85%8D%E8%81%8C%23&Refer=top) 196696
@@ -189,6 +190,7 @@
 1. [你的狗长得像你吗](https://s.weibo.com/weibo?q=%E4%BD%A0%E7%9A%84%E7%8B%97%E9%95%BF%E5%BE%97%E5%83%8F%E4%BD%A0%E5%90%97&Refer=top) 151066
 1. [警方回应鞍山男子当众家暴儿子](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E9%9E%8D%E5%B1%B1%E7%94%B7%E5%AD%90%E5%BD%93%E4%BC%97%E5%AE%B6%E6%9A%B4%E5%84%BF%E5%AD%90%23&Refer=top) 144791
 1. [大有影画2022片单](https://s.weibo.com/weibo?q=%E5%A4%A7%E6%9C%89%E5%BD%B1%E7%94%BB2022%E7%89%87%E5%8D%95&Refer=top) 142444
+1. [卫健委强调防止疫情防控层层加码](https://s.weibo.com/weibo?q=%23%E5%8D%AB%E5%81%A5%E5%A7%94%E5%BC%BA%E8%B0%83%E9%98%B2%E6%AD%A2%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%E5%B1%82%E5%B1%82%E5%8A%A0%E7%A0%81%23&Refer=top) 139831
 1. [国务院安委会挂牌督办孝义透水事故](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%AE%89%E5%A7%94%E4%BC%9A%E6%8C%82%E7%89%8C%E7%9D%A3%E5%8A%9E%E5%AD%9D%E4%B9%89%E9%80%8F%E6%B0%B4%E4%BA%8B%E6%95%85%23&Refer=top) 138685
 1. [XYG止步KPL四强](https://s.weibo.com/weibo?q=%23XYG%E6%AD%A2%E6%AD%A5KPL%E5%9B%9B%E5%BC%BA%23&Refer=top) 136178
 1. [身高1米村医守护全村2000人健康](https://s.weibo.com/weibo?q=%23%E8%BA%AB%E9%AB%981%E7%B1%B3%E6%9D%91%E5%8C%BB%E5%AE%88%E6%8A%A4%E5%85%A8%E6%9D%912000%E4%BA%BA%E5%81%A5%E5%BA%B7%23&Refer=top) 121948
