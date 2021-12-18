@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2021-12-19 03:08:40.022176 
+最后更新时间 2021-12-19 03:22:23.912486 
 1. [张杰](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9D%B0&Refer=top) 3222777
 1. [西安出血热](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E5%87%BA%E8%A1%80%E7%83%AD%23&Refer=top) 3059554
 1. [中国妇女报评王力宏](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A6%87%E5%A5%B3%E6%8A%A5%E8%AF%84%E7%8E%8B%E5%8A%9B%E5%AE%8F%23&Refer=top) 2096671
@@ -59,8 +59,8 @@
 1. [六级答案](https://s.weibo.com/weibo?q=%E5%85%AD%E7%BA%A7%E7%AD%94%E6%A1%88&Refer=top) 163110
 1. [湖北一高速公路桥面侧翻现场](https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8C%97%E4%B8%80%E9%AB%98%E9%80%9F%E5%85%AC%E8%B7%AF%E6%A1%A5%E9%9D%A2%E4%BE%A7%E7%BF%BB%E7%8E%B0%E5%9C%BA%23&Refer=top) 161345
 1. [澳门旅行Vlog](https://s.weibo.com/weibo?q=%E6%BE%B3%E9%97%A8%E6%97%85%E8%A1%8CVlog&Refer=top) 156999
+1. [谭卓 搞笑女](https://s.weibo.com/weibo?q=%E8%B0%AD%E5%8D%93%20%E6%90%9E%E7%AC%91%E5%A5%B3&Refer=top) 150907
 1. [长沙检出2例境外输入奥密克戎感染者](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B2%99%E6%A3%80%E5%87%BA2%E4%BE%8B%E5%A2%83%E5%A4%96%E8%BE%93%E5%85%A5%E5%A5%A5%E5%AF%86%E5%85%8B%E6%88%8E%E6%84%9F%E6%9F%93%E8%80%85%23&Refer=top) 142140
-1. [谭卓 搞笑女](https://s.weibo.com/weibo?q=%E8%B0%AD%E5%8D%93%20%E6%90%9E%E7%AC%91%E5%A5%B3&Refer=top) 137919
 1. [云南猪脚米线](https://s.weibo.com/weibo?q=%E4%BA%91%E5%8D%97%E7%8C%AA%E8%84%9A%E7%B1%B3%E7%BA%BF&Refer=top) 137838
 1. [已婚大姐装未婚诈骗数10人养自己老公](https://s.weibo.com/weibo?q=%23%E5%B7%B2%E5%A9%9A%E5%A4%A7%E5%A7%90%E8%A3%85%E6%9C%AA%E5%A9%9A%E8%AF%88%E9%AA%97%E6%95%B010%E4%BA%BA%E5%85%BB%E8%87%AA%E5%B7%B1%E8%80%81%E5%85%AC%23&Refer=top) 123357
 1. [民警为67位隔离小朋友讲睡前故事](https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E4%B8%BA67%E4%BD%8D%E9%9A%94%E7%A6%BB%E5%B0%8F%E6%9C%8B%E5%8F%8B%E8%AE%B2%E7%9D%A1%E5%89%8D%E6%95%85%E4%BA%8B%23&Refer=top) 103079
