@@ -87,6 +87,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E5%9B%9E%E5%BA%94%E6%81%B6%E8%AF%84%23&Refer=top",
     "hot": 371371
   },
+  "林墨看到张艺凡微博的反应": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%A2%A8%E7%9C%8B%E5%88%B0%E5%BC%A0%E8%89%BA%E5%87%A1%E5%BE%AE%E5%8D%9A%E7%9A%84%E5%8F%8D%E5%BA%94%23&Refer=top",
+    "hot": 370587
+  },
   "长沙市检出2例入境奥密克戎感染者": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B2%99%E5%B8%82%E6%A3%80%E5%87%BA2%E4%BE%8B%E5%85%A5%E5%A2%83%E5%A5%A5%E5%AF%86%E5%85%8B%E6%88%8E%E6%84%9F%E6%9F%93%E8%80%85%23&Refer=top",
     "hot": 361844
@@ -159,10 +163,6 @@
     "url": "https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%9C%A8%E7%9B%B4%E5%8D%87%E6%9C%BA%E4%B8%8A%E9%B8%9F%E7%9E%B0%E4%BA%86%E6%B5%B7%E6%A3%A0%E6%B9%BE&Refer=top",
     "hot": 275425
   },
-  "林墨看到张艺凡微博的反应": {
-    "url": "https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%A2%A8%E7%9C%8B%E5%88%B0%E5%BC%A0%E8%89%BA%E5%87%A1%E5%BE%AE%E5%8D%9A%E7%9A%84%E5%8F%8D%E5%BA%94%23&Refer=top",
-    "hot": 246095
-  },
   "福建多地倡导就地过节": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E5%A4%9A%E5%9C%B0%E5%80%A1%E5%AF%BC%E5%B0%B1%E5%9C%B0%E8%BF%87%E8%8A%82%23&Refer=top",
     "hot": 245735
@@ -222,5 +222,9 @@
   "打工男子晕倒街头拒上120": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%89%93%E5%B7%A5%E7%94%B7%E5%AD%90%E6%99%95%E5%80%92%E8%A1%97%E5%A4%B4%E6%8B%92%E4%B8%8A120%23&Refer=top",
     "hot": 87552
+  },
+  "重庆狼队对阵广州TTG": {
+    "url": "https://s.weibo.com/weibo?q=%E9%87%8D%E5%BA%86%E7%8B%BC%E9%98%9F%E5%AF%B9%E9%98%B5%E5%B9%BF%E5%B7%9ETTG&Refer=top",
+    "hot": 36700
   }
 }
