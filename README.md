@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2021-12-20 05:48:49.938588 
+最后更新时间 2021-12-20 06:10:33.375150 
 1. [明星都是废话文学大师吧](https://s.weibo.com/weibo?q=%23%E6%98%8E%E6%98%9F%E9%83%BD%E6%98%AF%E5%BA%9F%E8%AF%9D%E6%96%87%E5%AD%A6%E5%A4%A7%E5%B8%88%E5%90%A7%23&Refer=top) 4107219
 1. [中国妇女报再评王力宏](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A6%87%E5%A5%B3%E6%8A%A5%E5%86%8D%E8%AF%84%E7%8E%8B%E5%8A%9B%E5%AE%8F%23&Refer=top) 3152917
 1. [高质量发展是以人民为中心的发展](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E6%98%AF%E4%BB%A5%E4%BA%BA%E6%B0%91%E4%B8%BA%E4%B8%AD%E5%BF%83%E7%9A%84%E5%8F%91%E5%B1%95%23&Refer=top) 2233994
@@ -59,15 +59,17 @@
 1. [大四女生用流利英语介绍彝族漆器](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%9B%9B%E5%A5%B3%E7%94%9F%E7%94%A8%E6%B5%81%E5%88%A9%E8%8B%B1%E8%AF%AD%E4%BB%8B%E7%BB%8D%E5%BD%9D%E6%97%8F%E6%BC%86%E5%99%A8%23&Refer=top) 104583
 1. [新娘坐三轮拿喇叭大喊终于结婚了](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%A8%98%E5%9D%90%E4%B8%89%E8%BD%AE%E6%8B%BF%E5%96%87%E5%8F%AD%E5%A4%A7%E5%96%8A%E7%BB%88%E4%BA%8E%E7%BB%93%E5%A9%9A%E4%BA%86%23&Refer=top) 103910
 1. [女子碰瓷数十次不给钱就掰雨刮器](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A2%B0%E7%93%B7%E6%95%B0%E5%8D%81%E6%AC%A1%E4%B8%8D%E7%BB%99%E9%92%B1%E5%B0%B1%E6%8E%B0%E9%9B%A8%E5%88%AE%E5%99%A8%23&Refer=top) 92931
+1. [郭京飞关掉李唐的滤镜](https://s.weibo.com/weibo?q=%23%E9%83%AD%E4%BA%AC%E9%A3%9E%E5%85%B3%E6%8E%89%E6%9D%8E%E5%94%90%E7%9A%84%E6%BB%A4%E9%95%9C%23&Refer=top) 70925
+1. [沈雨这一生太惨了](https://s.weibo.com/weibo?q=%23%E6%B2%88%E9%9B%A8%E8%BF%99%E4%B8%80%E7%94%9F%E5%A4%AA%E6%83%A8%E4%BA%86%23&Refer=top) 59253
+1. [官方通报网传城固教师殴打学生致残](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E7%BD%91%E4%BC%A0%E5%9F%8E%E5%9B%BA%E6%95%99%E5%B8%88%E6%AE%B4%E6%89%93%E5%AD%A6%E7%94%9F%E8%87%B4%E6%AE%8B%23&Refer=top) 56241
 1. [凡晨组合世锦赛2比0夺冠](https://s.weibo.com/weibo?q=%23%E5%87%A1%E6%99%A8%E7%BB%84%E5%90%88%E4%B8%96%E9%94%A6%E8%B5%9B2%E6%AF%940%E5%A4%BA%E5%86%A0%23&Refer=top) 52562
-1. [沈雨这一生太惨了](https://s.weibo.com/weibo?q=%23%E6%B2%88%E9%9B%A8%E8%BF%99%E4%B8%80%E7%94%9F%E5%A4%AA%E6%83%A8%E4%BA%86%23&Refer=top) 49907
 1. [2021年羽毛球世锦赛](https://s.weibo.com/weibo?q=%232021%E5%B9%B4%E7%BE%BD%E6%AF%9B%E7%90%83%E4%B8%96%E9%94%A6%E8%B5%9B%23&Refer=top) 40647
-1. [官方通报网传城固教师殴打学生致残](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E7%BD%91%E4%BC%A0%E5%9F%8E%E5%9B%BA%E6%95%99%E5%B8%88%E6%AE%B4%E6%89%93%E5%AD%A6%E7%94%9F%E8%87%B4%E6%AE%8B%23&Refer=top) 38888
 1. [男孩课堂上向妈妈表白收获超暖回应](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E8%AF%BE%E5%A0%82%E4%B8%8A%E5%90%91%E5%A6%88%E5%A6%88%E8%A1%A8%E7%99%BD%E6%94%B6%E8%8E%B7%E8%B6%85%E6%9A%96%E5%9B%9E%E5%BA%94%23&Refer=top) 33244
 1. [女子多地流窜专业碰瓷近30年](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%A4%9A%E5%9C%B0%E6%B5%81%E7%AA%9C%E4%B8%93%E4%B8%9A%E7%A2%B0%E7%93%B7%E8%BF%9130%E5%B9%B4%23&Refer=top) 32396
+1. [男孩掂量笔和砖头后乖乖写作业](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E6%8E%82%E9%87%8F%E7%AC%94%E5%92%8C%E7%A0%96%E5%A4%B4%E5%90%8E%E4%B9%96%E4%B9%96%E5%86%99%E4%BD%9C%E4%B8%9A%23&Refer=top) 27632
+1. [董子健演的角色都是虐文男主吧](https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%AD%90%E5%81%A5%E6%BC%94%E7%9A%84%E8%A7%92%E8%89%B2%E9%83%BD%E6%98%AF%E8%99%90%E6%96%87%E7%94%B7%E4%B8%BB%E5%90%A7%23&Refer=top) 24967
 1. [广州城5比0北京国安](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%9F%8E5%E6%AF%940%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89%23&Refer=top) 20910
 1. [风格大赏红毯](https://s.weibo.com/weibo?q=%23%E9%A3%8E%E6%A0%BC%E5%A4%A7%E8%B5%8F%E7%BA%A2%E6%AF%AF%23&Refer=top) 19892
-1. [男孩掂量笔和砖头后乖乖写作业](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E6%8E%82%E9%87%8F%E7%AC%94%E5%92%8C%E7%A0%96%E5%A4%B4%E5%90%8E%E4%B9%96%E4%B9%96%E5%86%99%E4%BD%9C%E4%B8%9A%23&Refer=top) 19534
 <!-- END -->
 
 历史归档 [./archives](./archives)
