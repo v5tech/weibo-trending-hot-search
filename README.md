@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2021-12-21 02:13:13.350115 
+最后更新时间 2021-12-21 02:36:46.189770 
 1. [薇娅全网被封](https://s.weibo.com/weibo?q=%23%E8%96%87%E5%A8%85%E5%85%A8%E7%BD%91%E8%A2%AB%E5%B0%81%23&Refer=top) 5234338
 1. [薇娅被罚前已与丈夫注销合伙企业](https://s.weibo.com/weibo?q=%23%E8%96%87%E5%A8%85%E8%A2%AB%E7%BD%9A%E5%89%8D%E5%B7%B2%E4%B8%8E%E4%B8%88%E5%A4%AB%E6%B3%A8%E9%94%80%E5%90%88%E4%BC%99%E4%BC%81%E4%B8%9A%23&Refer=top) 3615339
 1. [自我革命是百年大党风华正茂的奥秘所在](https://s.weibo.com/weibo?q=%23%E8%87%AA%E6%88%91%E9%9D%A9%E5%91%BD%E6%98%AF%E7%99%BE%E5%B9%B4%E5%A4%A7%E5%85%9A%E9%A3%8E%E5%8D%8E%E6%AD%A3%E8%8C%82%E7%9A%84%E5%A5%A5%E7%A7%98%E6%89%80%E5%9C%A8%23&Refer=top) 2395851
@@ -30,13 +30,13 @@
 1. [罗永浩](https://s.weibo.com/weibo?q=%E7%BD%97%E6%B0%B8%E6%B5%A9&Refer=top) 461289
 1. [揭秘薇娅的商业版图](https://s.weibo.com/weibo?q=%23%E6%8F%AD%E7%A7%98%E8%96%87%E5%A8%85%E7%9A%84%E5%95%86%E4%B8%9A%E7%89%88%E5%9B%BE%23&Refer=top) 459093
 1. [月亮](https://s.weibo.com/weibo?q=%E6%9C%88%E4%BA%AE&Refer=top) 388801
+1. [西安建议市民非必要不展码亮码](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E5%BB%BA%E8%AE%AE%E5%B8%82%E6%B0%91%E9%9D%9E%E5%BF%85%E8%A6%81%E4%B8%8D%E5%B1%95%E7%A0%81%E4%BA%AE%E7%A0%81%23&Refer=top) 375634
 1. [知乎网被约谈处罚](https://s.weibo.com/weibo?q=%23%E7%9F%A5%E4%B9%8E%E7%BD%91%E8%A2%AB%E7%BA%A6%E8%B0%88%E5%A4%84%E7%BD%9A%23&Refer=top) 358700
 1. [雪梨 薇娅](https://s.weibo.com/weibo?q=%E9%9B%AA%E6%A2%A8%20%E8%96%87%E5%A8%85&Refer=top) 356412
 1. [薇娅道歉](https://s.weibo.com/weibo?q=%23%E8%96%87%E5%A8%85%E9%81%93%E6%AD%89%23&Refer=top) 353661
 1. [薇娅老公道歉](https://s.weibo.com/weibo?q=%23%E8%96%87%E5%A8%85%E8%80%81%E5%85%AC%E9%81%93%E6%AD%89%23&Refer=top) 352307
 1. [赵丽颖沈雨](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%B2%88%E9%9B%A8%23&Refer=top) 350331
 1. [发往杭州绍兴的快递箱内被塞口罩](https://s.weibo.com/weibo?q=%23%E5%8F%91%E5%BE%80%E6%9D%AD%E5%B7%9E%E7%BB%8D%E5%85%B4%E7%9A%84%E5%BF%AB%E9%80%92%E7%AE%B1%E5%86%85%E8%A2%AB%E5%A1%9E%E5%8F%A3%E7%BD%A9%23&Refer=top) 347939
-1. [西安建议市民非必要不展码亮码](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E5%BB%BA%E8%AE%AE%E5%B8%82%E6%B0%91%E9%9D%9E%E5%BF%85%E8%A6%81%E4%B8%8D%E5%B1%95%E7%A0%81%E4%BA%AE%E7%A0%81%23&Refer=top) 319696
 1. [陕西岚皋首次发现野生凤头蜂鹰](https://s.weibo.com/weibo?q=%23%E9%99%95%E8%A5%BF%E5%B2%9A%E7%9A%8B%E9%A6%96%E6%AC%A1%E5%8F%91%E7%8E%B0%E9%87%8E%E7%94%9F%E5%87%A4%E5%A4%B4%E8%9C%82%E9%B9%B0%23&Refer=top) 305100
 1. [西安核酸](https://s.weibo.com/weibo?q=%E8%A5%BF%E5%AE%89%E6%A0%B8%E9%85%B8&Refer=top) 299104
 1. [饺子是食物界的顶流吧](https://s.weibo.com/weibo?q=%23%E9%A5%BA%E5%AD%90%E6%98%AF%E9%A3%9F%E7%89%A9%E7%95%8C%E7%9A%84%E9%A1%B6%E6%B5%81%E5%90%A7%23&Refer=top) 293119
