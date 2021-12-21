@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2021-12-22 03:22:57.204975 
+最后更新时间 2021-12-22 03:34:25.419461 
 1. [中国印钞造币总公司董事陈耀明主动投案](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%8D%B0%E9%92%9E%E9%80%A0%E5%B8%81%E6%80%BB%E5%85%AC%E5%8F%B8%E8%91%A3%E4%BA%8B%E9%99%88%E8%80%80%E6%98%8E%E4%B8%BB%E5%8A%A8%E6%8A%95%E6%A1%88%23&Refer=top) 1826773
 1. [江苏第一针免费HPV疫苗开打](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E7%AC%AC%E4%B8%80%E9%92%88%E5%85%8D%E8%B4%B9HPV%E7%96%AB%E8%8B%97%E5%BC%80%E6%89%93%23&Refer=top) 1317975
 1. [立足中国大地讲好中国故事](https://s.weibo.com/weibo?q=%23%E7%AB%8B%E8%B6%B3%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%9C%B0%E8%AE%B2%E5%A5%BD%E4%B8%AD%E5%9B%BD%E6%95%85%E4%BA%8B%23&Refer=top) 1163975
@@ -66,8 +66,8 @@
 1. [冬至快乐](https://s.weibo.com/weibo?q=%E5%86%AC%E8%87%B3%E5%BF%AB%E4%B9%90&Refer=top) 73939
 1. [雄狮少年对国漫意味着什么](https://s.weibo.com/weibo?q=%23%E9%9B%84%E7%8B%AE%E5%B0%91%E5%B9%B4%E5%AF%B9%E5%9B%BD%E6%BC%AB%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88%23&Refer=top) 48655
 1. [西安全城都在给抗疫人员送饺子](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E5%85%A8%E5%9F%8E%E9%83%BD%E5%9C%A8%E7%BB%99%E6%8A%97%E7%96%AB%E4%BA%BA%E5%91%98%E9%80%81%E9%A5%BA%E5%AD%90%23&Refer=top) 39561
-1. [2岁女童误食含违禁药减肥巧克力离世](https://s.weibo.com/weibo?q=%232%E5%B2%81%E5%A5%B3%E7%AB%A5%E8%AF%AF%E9%A3%9F%E5%90%AB%E8%BF%9D%E7%A6%81%E8%8D%AF%E5%87%8F%E8%82%A5%E5%B7%A7%E5%85%8B%E5%8A%9B%E7%A6%BB%E4%B8%96%23&Refer=top) 34244
-1. [长安大学](https://s.weibo.com/weibo?q=%E9%95%BF%E5%AE%89%E5%A4%A7%E5%AD%A6&Refer=top) 27128
+1. [2岁女童误食含违禁药减肥巧克力离世](https://s.weibo.com/weibo?q=%232%E5%B2%81%E5%A5%B3%E7%AB%A5%E8%AF%AF%E9%A3%9F%E5%90%AB%E8%BF%9D%E7%A6%81%E8%8D%AF%E5%87%8F%E8%82%A5%E5%B7%A7%E5%85%8B%E5%8A%9B%E7%A6%BB%E4%B8%96%23&Refer=top) 37005
+1. [长安大学](https://s.weibo.com/weibo?q=%E9%95%BF%E5%AE%89%E5%A4%A7%E5%AD%A6&Refer=top) 29284
 <!-- END -->
 
 历史归档 [./archives](./archives)
