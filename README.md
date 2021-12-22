@@ -7,16 +7,19 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2021-12-22 13:48:48.856221 
+最后更新时间 2021-12-22 14:14:19.304605 
 1. [央行辟谣陈耀明私印同号钞2万亿](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A1%8C%E8%BE%9F%E8%B0%A3%E9%99%88%E8%80%80%E6%98%8E%E7%A7%81%E5%8D%B0%E5%90%8C%E5%8F%B7%E9%92%9E2%E4%B8%87%E4%BA%BF%23&Refer=top) 3259709
 1. [老赖欠700万儿子上18万学费国际学校](https://s.weibo.com/weibo?q=%23%E8%80%81%E8%B5%96%E6%AC%A0700%E4%B8%87%E5%84%BF%E5%AD%90%E4%B8%8A18%E4%B8%87%E5%AD%A6%E8%B4%B9%E5%9B%BD%E9%99%85%E5%AD%A6%E6%A0%A1%23&Refer=top) 3175613
+1. [专家称明年九价HPV短缺或缓解](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E6%98%8E%E5%B9%B4%E4%B9%9D%E4%BB%B7HPV%E7%9F%AD%E7%BC%BA%E6%88%96%E7%BC%93%E8%A7%A3%23&Refer=top) 2870268
 1. [确保女厕位多于男厕位](https://s.weibo.com/weibo?q=%23%E7%A1%AE%E4%BF%9D%E5%A5%B3%E5%8E%95%E4%BD%8D%E5%A4%9A%E4%BA%8E%E7%94%B7%E5%8E%95%E4%BD%8D%23&Refer=top) 2805786
+1. [河南疫情](https://s.weibo.com/weibo?q=%E6%B2%B3%E5%8D%97%E7%96%AB%E6%83%85&Refer=top) 2065892
 1. [人贩子拐3小孩被村民发现后暴打](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E8%B4%A9%E5%AD%90%E6%8B%903%E5%B0%8F%E5%AD%A9%E8%A2%AB%E6%9D%91%E6%B0%91%E5%8F%91%E7%8E%B0%E5%90%8E%E6%9A%B4%E6%89%93%23&Refer=top) 2058335
 1. [中国印钞造币总公司董事陈耀明主动投案](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%8D%B0%E9%92%9E%E9%80%A0%E5%B8%81%E6%80%BB%E5%85%AC%E5%8F%B8%E8%91%A3%E4%BA%8B%E9%99%88%E8%80%80%E6%98%8E%E4%B8%BB%E5%8A%A8%E6%8A%95%E6%A1%88%23&Refer=top) 1826773
-1. [立足中国大地讲好中国故事](https://s.weibo.com/weibo?q=%23%E7%AB%8B%E8%B6%B3%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%9C%B0%E8%AE%B2%E5%A5%BD%E4%B8%AD%E5%9B%BD%E6%95%85%E4%BA%8B%23&Refer=top) 1693322
+1. [立足中国大地讲好中国故事](https://s.weibo.com/weibo?q=%23%E7%AB%8B%E8%B6%B3%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%9C%B0%E8%AE%B2%E5%A5%BD%E4%B8%AD%E5%9B%BD%E6%95%85%E4%BA%8B%23&Refer=top) 1777643
 1. [陈建斌蒋勤勤参股公司被强制执行](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BB%BA%E6%96%8C%E8%92%8B%E5%8B%A4%E5%8B%A4%E5%8F%82%E8%82%A1%E5%85%AC%E5%8F%B8%E8%A2%AB%E5%BC%BA%E5%88%B6%E6%89%A7%E8%A1%8C%23&Refer=top) 1682553
 1. [生菜生吃](https://s.weibo.com/weibo?q=%E7%94%9F%E8%8F%9C%E7%94%9F%E5%90%83&Refer=top) 1679928
 1. [新娘扔捧花瞬间6位伴娘鸟兽散](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%A8%98%E6%89%94%E6%8D%A7%E8%8A%B1%E7%9E%AC%E9%97%B46%E4%BD%8D%E4%BC%B4%E5%A8%98%E9%B8%9F%E5%85%BD%E6%95%A3%23&Refer=top) 1669236
+1. [我不喜欢和大家坐在一起吃饭](https://s.weibo.com/weibo?q=%E6%88%91%E4%B8%8D%E5%96%9C%E6%AC%A2%E5%92%8C%E5%A4%A7%E5%AE%B6%E5%9D%90%E5%9C%A8%E4%B8%80%E8%B5%B7%E5%90%83%E9%A5%AD&Refer=top) 1551167
 1. [第一次见这么大的狗](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E8%BF%99%E4%B9%88%E5%A4%A7%E7%9A%84%E7%8B%97%23&Refer=top) 1409938
 1. [情侣冬至因吃饺子意见不合起争执](https://s.weibo.com/weibo?q=%23%E6%83%85%E4%BE%A3%E5%86%AC%E8%87%B3%E5%9B%A0%E5%90%83%E9%A5%BA%E5%AD%90%E6%84%8F%E8%A7%81%E4%B8%8D%E5%90%88%E8%B5%B7%E4%BA%89%E6%89%A7%23&Refer=top) 1369205
 1. [陕西新增本土确诊53例](https://s.weibo.com/weibo?q=%23%E9%99%95%E8%A5%BF%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A53%E4%BE%8B%23&Refer=top) 1366618
@@ -32,14 +35,12 @@
 1. [孙卓入学问题还未解决](https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%8D%93%E5%85%A5%E5%AD%A6%E9%97%AE%E9%A2%98%E8%BF%98%E6%9C%AA%E8%A7%A3%E5%86%B3%23&Refer=top) 1054616
 1. [杜华为黄明昊包100场电影](https://s.weibo.com/weibo?q=%23%E6%9D%9C%E5%8D%8E%E4%B8%BA%E9%BB%84%E6%98%8E%E6%98%8A%E5%8C%85100%E5%9C%BA%E7%94%B5%E5%BD%B1%23&Refer=top) 1042269
 1. [李佳琦直播](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%9B%B4%E6%92%AD%23&Refer=top) 1036196
-1. [河南疫情](https://s.weibo.com/weibo?q=%E6%B2%B3%E5%8D%97%E7%96%AB%E6%83%85&Refer=top) 1029651
 1. [官方回应一男一女地铁互殴均被行拘](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E4%B8%80%E7%94%B7%E4%B8%80%E5%A5%B3%E5%9C%B0%E9%93%81%E4%BA%92%E6%AE%B4%E5%9D%87%E8%A2%AB%E8%A1%8C%E6%8B%98%23&Refer=top) 1023709
 1. [河南一彩民中526万元逾期未兑](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E4%B8%80%E5%BD%A9%E6%B0%91%E4%B8%AD526%E4%B8%87%E5%85%83%E9%80%BE%E6%9C%9F%E6%9C%AA%E5%85%91%23&Refer=top) 1014262
 1. [女子被鸭子抓伤致坏死性筋膜炎](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A2%AB%E9%B8%AD%E5%AD%90%E6%8A%93%E4%BC%A4%E8%87%B4%E5%9D%8F%E6%AD%BB%E6%80%A7%E7%AD%8B%E8%86%9C%E7%82%8E%23&Refer=top) 995681
 1. [浙大学霸作息表太震撼了](https://s.weibo.com/weibo?q=%23%E6%B5%99%E5%A4%A7%E5%AD%A6%E9%9C%B8%E4%BD%9C%E6%81%AF%E8%A1%A8%E5%A4%AA%E9%9C%87%E6%92%BC%E4%BA%86%23&Refer=top) 971990
 1. [腾讯要求抖音为斗罗大陆赔偿8亿](https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E8%A6%81%E6%B1%82%E6%8A%96%E9%9F%B3%E4%B8%BA%E6%96%97%E7%BD%97%E5%A4%A7%E9%99%86%E8%B5%94%E5%81%BF8%E4%BA%BF%23&Refer=top) 961868
 1. [你的月薪0.00005亿](https://s.weibo.com/weibo?q=%E4%BD%A0%E7%9A%84%E6%9C%88%E8%96%AA0.00005%E4%BA%BF&Refer=top) 960974
-1. [专家称明年九价HPV短缺或缓解](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E6%98%8E%E5%B9%B4%E4%B9%9D%E4%BB%B7HPV%E7%9F%AD%E7%BC%BA%E6%88%96%E7%BC%93%E8%A7%A3%23&Refer=top) 934143
 1. [日本导演的中国打工体验](https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%AF%BC%E6%BC%94%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%89%93%E5%B7%A5%E4%BD%93%E9%AA%8C&Refer=top) 839597
 1. [父亲房内睡觉4岁女童爬窗不慎坠亡](https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E6%88%BF%E5%86%85%E7%9D%A1%E8%A7%894%E5%B2%81%E5%A5%B3%E7%AB%A5%E7%88%AC%E7%AA%97%E4%B8%8D%E6%85%8E%E5%9D%A0%E4%BA%A1%23&Refer=top) 824677
 1. [西安这波出血热到底是怎么回事](https://s.weibo.com/weibo?q=%E8%A5%BF%E5%AE%89%E8%BF%99%E6%B3%A2%E5%87%BA%E8%A1%80%E7%83%AD%E5%88%B0%E5%BA%95%E6%98%AF%E6%80%8E%E4%B9%88%E5%9B%9E%E4%BA%8B&Refer=top) 818313
@@ -76,6 +77,7 @@
 1. [到西安各大火车站进站乘车需持公函](https://s.weibo.com/weibo?q=%23%E5%88%B0%E8%A5%BF%E5%AE%89%E5%90%84%E5%A4%A7%E7%81%AB%E8%BD%A6%E7%AB%99%E8%BF%9B%E7%AB%99%E4%B9%98%E8%BD%A6%E9%9C%80%E6%8C%81%E5%85%AC%E5%87%BD%23&Refer=top) 549807
 1. [成绩不好的原因找到了](https://s.weibo.com/weibo?q=%23%E6%88%90%E7%BB%A9%E4%B8%8D%E5%A5%BD%E7%9A%84%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&Refer=top) 522318
 1. [西安新增本土确诊52例](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A52%E4%BE%8B%23&Refer=top) 517582
+1. [沈丘疫情](https://s.weibo.com/weibo?q=%E6%B2%88%E4%B8%98%E7%96%AB%E6%83%85&Refer=top) 509194
 1. [磨牙是一种病](https://s.weibo.com/weibo?q=%23%E7%A3%A8%E7%89%99%E6%98%AF%E4%B8%80%E7%A7%8D%E7%97%85%23&Refer=top) 504668
 1. [被冰糖葫芦惊艳到了](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%86%B0%E7%B3%96%E8%91%AB%E8%8A%A6%E6%83%8A%E8%89%B3%E5%88%B0%E4%BA%86%23&Refer=top) 504352
 1. [吴镇宇是什么欢乐喜剧人](https://s.weibo.com/weibo?q=%23%E5%90%B4%E9%95%87%E5%AE%87%E6%98%AF%E4%BB%80%E4%B9%88%E6%AC%A2%E4%B9%90%E5%96%9C%E5%89%A7%E4%BA%BA%23&Refer=top) 500945
@@ -89,6 +91,7 @@
 1. [河南一饺子店连续6年冬至停业](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E4%B8%80%E9%A5%BA%E5%AD%90%E5%BA%97%E8%BF%9E%E7%BB%AD6%E5%B9%B4%E5%86%AC%E8%87%B3%E5%81%9C%E4%B8%9A%23&Refer=top) 396729
 1. [夫妻吵架开车互撞](https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E5%90%B5%E6%9E%B6%E5%BC%80%E8%BD%A6%E4%BA%92%E6%92%9E%23&Refer=top) 394955
 1. [穿过寒冬拥抱你宣传推广曲MV](https://s.weibo.com/weibo?q=%23%E7%A9%BF%E8%BF%87%E5%AF%92%E5%86%AC%E6%8B%A5%E6%8A%B1%E4%BD%A0%E5%AE%A3%E4%BC%A0%E6%8E%A8%E5%B9%BF%E6%9B%B2MV%23&Refer=top) 392380
+1. [原神](https://s.weibo.com/weibo?q=%E5%8E%9F%E7%A5%9E&Refer=top) 383197
 1. [做自己演唱会的纪律委员](https://s.weibo.com/weibo?q=%23%E5%81%9A%E8%87%AA%E5%B7%B1%E6%BC%94%E5%94%B1%E4%BC%9A%E7%9A%84%E7%BA%AA%E5%BE%8B%E5%A7%94%E5%91%98%23&Refer=top) 380336
 1. [新疆小伙做馕送给西安防疫人员](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E5%B0%8F%E4%BC%99%E5%81%9A%E9%A6%95%E9%80%81%E7%BB%99%E8%A5%BF%E5%AE%89%E9%98%B2%E7%96%AB%E4%BA%BA%E5%91%98%23&Refer=top) 378293
 1. [没见过这么会玩的粉丝](https://s.weibo.com/weibo?q=%23%E6%B2%A1%E8%A7%81%E8%BF%87%E8%BF%99%E4%B9%88%E4%BC%9A%E7%8E%A9%E7%9A%84%E7%B2%89%E4%B8%9D%23&Refer=top) 378220
@@ -126,18 +129,16 @@
 1. [雪滴花有哪些细思极恐的细节](https://s.weibo.com/weibo?q=%23%E9%9B%AA%E6%BB%B4%E8%8A%B1%E6%9C%89%E5%93%AA%E4%BA%9B%E7%BB%86%E6%80%9D%E6%9E%81%E6%81%90%E7%9A%84%E7%BB%86%E8%8A%82%23&Refer=top) 286708
 1. [这首歌仿佛在写巨蟹座](https://s.weibo.com/weibo?q=%23%E8%BF%99%E9%A6%96%E6%AD%8C%E4%BB%BF%E4%BD%9B%E5%9C%A8%E5%86%99%E5%B7%A8%E8%9F%B9%E5%BA%A7%23&Refer=top) 284849
 1. [赵立坚提醒个别国家香港已回归中国](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E7%AB%8B%E5%9D%9A%E6%8F%90%E9%86%92%E4%B8%AA%E5%88%AB%E5%9B%BD%E5%AE%B6%E9%A6%99%E6%B8%AF%E5%B7%B2%E5%9B%9E%E5%BD%92%E4%B8%AD%E5%9B%BD%23&Refer=top) 282473
-1. [沈丘疫情](https://s.weibo.com/weibo?q=%E6%B2%88%E4%B8%98%E7%96%AB%E6%83%85&Refer=top) 281254
 1. [那年我们](https://s.weibo.com/weibo?q=%E9%82%A3%E5%B9%B4%E6%88%91%E4%BB%AC&Refer=top) 280838
 1. [空间站里闲不住的翟志刚](https://s.weibo.com/weibo?q=%23%E7%A9%BA%E9%97%B4%E7%AB%99%E9%87%8C%E9%97%B2%E4%B8%8D%E4%BD%8F%E7%9A%84%E7%BF%9F%E5%BF%97%E5%88%9A%23&Refer=top) 280623
-1. [我不喜欢和大家坐在一起吃饭](https://s.weibo.com/weibo?q=%E6%88%91%E4%B8%8D%E5%96%9C%E6%AC%A2%E5%92%8C%E5%A4%A7%E5%AE%B6%E5%9D%90%E5%9C%A8%E4%B8%80%E8%B5%B7%E5%90%83%E9%A5%AD&Refer=top) 279313
 1. [12月21日本土新增57例](https://s.weibo.com/weibo?q=%2312%E6%9C%8821%E6%97%A5%E6%9C%AC%E5%9C%9F%E6%96%B0%E5%A2%9E57%E4%BE%8B%23&Refer=top) 279282
 1. [金家骏还债钱被骗](https://s.weibo.com/weibo?q=%23%E9%87%91%E5%AE%B6%E9%AA%8F%E8%BF%98%E5%80%BA%E9%92%B1%E8%A2%AB%E9%AA%97%23&Refer=top) 275792
 1. [记者调查黑客控制家用摄像头偷拍](https://s.weibo.com/weibo?q=%E8%AE%B0%E8%80%85%E8%B0%83%E6%9F%A5%E9%BB%91%E5%AE%A2%E6%8E%A7%E5%88%B6%E5%AE%B6%E7%94%A8%E6%91%84%E5%83%8F%E5%A4%B4%E5%81%B7%E6%8B%8D&Refer=top) 273682
 1. [重庆抢夺放飞商贩气球城管已停职](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E6%8A%A2%E5%A4%BA%E6%94%BE%E9%A3%9E%E5%95%86%E8%B4%A9%E6%B0%94%E7%90%83%E5%9F%8E%E7%AE%A1%E5%B7%B2%E5%81%9C%E8%81%8C%23&Refer=top) 272980
 1. [西安本土新增52例](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E6%9C%AC%E5%9C%9F%E6%96%B0%E5%A2%9E52%E4%BE%8B%23&Refer=top) 271900
-1. [原神](https://s.weibo.com/weibo?q=%E5%8E%9F%E7%A5%9E&Refer=top) 268091
 1. [薇娅们赚那么多为什么还逃税](https://s.weibo.com/weibo?q=%23%E8%96%87%E5%A8%85%E4%BB%AC%E8%B5%9A%E9%82%A3%E4%B9%88%E5%A4%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%98%E9%80%83%E7%A8%8E%23&Refer=top) 267446
 1. [西安考研](https://s.weibo.com/weibo?q=%E8%A5%BF%E5%AE%89%E8%80%83%E7%A0%94&Refer=top) 259796
+1. [大爷被困电梯淡定唠嗑等救援](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%88%B7%E8%A2%AB%E5%9B%B0%E7%94%B5%E6%A2%AF%E6%B7%A1%E5%AE%9A%E5%94%A0%E5%97%91%E7%AD%89%E6%95%91%E6%8F%B4%23&Refer=top) 252045
 1. [石家庄乔家大厨7名顾客因食物中毒死亡系谣言](https://s.weibo.com/weibo?q=%23%E7%9F%B3%E5%AE%B6%E5%BA%84%E4%B9%94%E5%AE%B6%E5%A4%A7%E5%8E%A87%E5%90%8D%E9%A1%BE%E5%AE%A2%E5%9B%A0%E9%A3%9F%E7%89%A9%E4%B8%AD%E6%AF%92%E6%AD%BB%E4%BA%A1%E7%B3%BB%E8%B0%A3%E8%A8%80%23&Refer=top) 251742
 1. [中国科技十年对比照](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E5%8D%81%E5%B9%B4%E5%AF%B9%E6%AF%94%E7%85%A7%23&Refer=top) 248859
 1. [陕西发布考研安排](https://s.weibo.com/weibo?q=%23%E9%99%95%E8%A5%BF%E5%8F%91%E5%B8%83%E8%80%83%E7%A0%94%E5%AE%89%E6%8E%92%23&Refer=top) 247298
