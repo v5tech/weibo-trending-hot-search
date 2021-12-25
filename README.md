@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2021-12-25 21:48:47.304874 
+最后更新时间 2021-12-25 22:10:00.698154 
 1. [肖秀荣 政治](https://s.weibo.com/weibo?q=%E8%82%96%E7%A7%80%E8%8D%A3%20%E6%94%BF%E6%B2%BB&Refer=top) 4440425
 1. [英语一](https://s.weibo.com/weibo?q=%E8%8B%B1%E8%AF%AD%E4%B8%80&Refer=top) 3501143
 1. [徐正疯了吧](https://s.weibo.com/weibo?q=%23%E5%BE%90%E6%AD%A3%E7%96%AF%E4%BA%86%E5%90%A7%23&Refer=top) 2797213
