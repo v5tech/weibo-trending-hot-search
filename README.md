@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2021-12-26 01:51:10.044094 
+最后更新时间 2021-12-26 02:13:00.168083 
 1. [周杰伦说好久没开演唱会了](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E8%AF%B4%E5%A5%BD%E4%B9%85%E6%B2%A1%E5%BC%80%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BA%86%23&Refer=top) 1882789
 1. [胡宇桐李润祺](https://s.weibo.com/weibo?q=%E8%83%A1%E5%AE%87%E6%A1%90%E6%9D%8E%E6%B6%A6%E7%A5%BA&Refer=top) 1457578
 1. [老师吃冻土豆引导孩子正确对待洋节](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E5%90%83%E5%86%BB%E5%9C%9F%E8%B1%86%E5%BC%95%E5%AF%BC%E5%AD%A9%E5%AD%90%E6%AD%A3%E7%A1%AE%E5%AF%B9%E5%BE%85%E6%B4%8B%E8%8A%82%23&Refer=top) 684720
@@ -62,7 +62,9 @@
 1. [英语一](https://s.weibo.com/weibo?q=%E8%8B%B1%E8%AF%AD%E4%B8%80&Refer=top) 102750
 1. [地表最强打野花海](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E8%A1%A8%E6%9C%80%E5%BC%BA%E6%89%93%E9%87%8E%E8%8A%B1%E6%B5%B7%23&Refer=top) 91558
 1. [花海总决赛MVP](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E6%B5%B7%E6%80%BB%E5%86%B3%E8%B5%9BMVP%23&Refer=top) 81124
+1. [宋轶说终于等到了七娘的成长](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%BD%B6%E8%AF%B4%E7%BB%88%E4%BA%8E%E7%AD%89%E5%88%B0%E4%BA%86%E4%B8%83%E5%A8%98%E7%9A%84%E6%88%90%E9%95%BF%23&Refer=top) 69302
 1. [回顾韦伯望远镜坎坷升空路](https://s.weibo.com/weibo?q=%23%E5%9B%9E%E9%A1%BE%E9%9F%A6%E4%BC%AF%E6%9C%9B%E8%BF%9C%E9%95%9C%E5%9D%8E%E5%9D%B7%E5%8D%87%E7%A9%BA%E8%B7%AF%23&Refer=top) 69060
+1. [詹姆斯韦伯太空望远镜发射](https://s.weibo.com/weibo?q=%23%E8%A9%B9%E5%A7%86%E6%96%AF%E9%9F%A6%E4%BC%AF%E5%A4%AA%E7%A9%BA%E6%9C%9B%E8%BF%9C%E9%95%9C%E5%8F%91%E5%B0%84%23&Refer=top) 35863
 <!-- END -->
 
 历史归档 [./archives](./archives)
