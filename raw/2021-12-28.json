@@ -222,5 +222,9 @@
   "2021最想珍藏的照片": {
     "url": "https://s.weibo.com/weibo?q=2021%E6%9C%80%E6%83%B3%E7%8F%8D%E8%97%8F%E7%9A%84%E7%85%A7%E7%89%87&Refer=top",
     "hot": 99657
+  },
+  "对手": {
+    "url": "https://s.weibo.com/weibo?q=%E5%AF%B9%E6%89%8B&Refer=top",
+    "hot": 57357
   }
 }
