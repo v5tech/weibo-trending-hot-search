@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-01-01 06:42:56.519844 
+最后更新时间 2022-01-01 06:51:15.887639 
 1. [大家忙了一整年付出了奉献了也收获了](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AE%B6%E5%BF%99%E4%BA%86%E4%B8%80%E6%95%B4%E5%B9%B4%E4%BB%98%E5%87%BA%E4%BA%86%E5%A5%89%E7%8C%AE%E4%BA%86%E4%B9%9F%E6%94%B6%E8%8E%B7%E4%BA%86%23&Refer=top) 1500116
 1. [跨年](https://s.weibo.com/weibo?q=%E8%B7%A8%E5%B9%B4&Refer=top) 1477925
 1. [新年贺词里的暖心话](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D%E9%87%8C%E7%9A%84%E6%9A%96%E5%BF%83%E8%AF%9D%23&Refer=top) 1474840
@@ -71,10 +71,10 @@
 1. [2021年股民人均赚5万](https://s.weibo.com/weibo?q=%232021%E5%B9%B4%E8%82%A1%E6%B0%91%E4%BA%BA%E5%9D%87%E8%B5%9A5%E4%B8%87%23&Refer=top) 220460
 1. [一路走来你已经很棒了](https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%B7%AF%E8%B5%B0%E6%9D%A5%E4%BD%A0%E5%B7%B2%E7%BB%8F%E5%BE%88%E6%A3%92%E4%BA%86%23&Refer=top) 219599
 1. [奋进2022](https://s.weibo.com/weibo?q=%E5%A5%8B%E8%BF%9B2022&Refer=top) 208565
+1. [西安小伙买馒头被群殴](https://s.weibo.com/weibo?q=%E8%A5%BF%E5%AE%89%E5%B0%8F%E4%BC%99%E4%B9%B0%E9%A6%92%E5%A4%B4%E8%A2%AB%E7%BE%A4%E6%AE%B4&Refer=top) 190870
 1. [中国向世界提供了20亿剂新冠疫苗](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%90%91%E4%B8%96%E7%95%8C%E6%8F%90%E4%BE%9B%E4%BA%8620%E4%BA%BF%E5%89%82%E6%96%B0%E5%86%A0%E7%96%AB%E8%8B%97%23&Refer=top) 184336
-1. [罗振宇 跨年](https://s.weibo.com/weibo?q=%E7%BD%97%E6%8C%AF%E5%AE%87%20%E8%B7%A8%E5%B9%B4&Refer=top) 126377
+1. [罗振宇 跨年](https://s.weibo.com/weibo?q=%E7%BD%97%E6%8C%AF%E5%AE%87%20%E8%B7%A8%E5%B9%B4&Refer=top) 132308
 1. [总台启航2022迎新年特别节目](https://s.weibo.com/weibo?q=%E6%80%BB%E5%8F%B0%E5%90%AF%E8%88%AA2022%E8%BF%8E%E6%96%B0%E5%B9%B4%E7%89%B9%E5%88%AB%E8%8A%82%E7%9B%AE&Refer=top) 121605
-1. [西安小伙买馒头被群殴](https://s.weibo.com/weibo?q=%E8%A5%BF%E5%AE%89%E5%B0%8F%E4%BC%99%E4%B9%B0%E9%A6%92%E5%A4%B4%E8%A2%AB%E7%BE%A4%E6%AE%B4&Refer=top) 112072
 1. [感谢你温暖我的2021](https://s.weibo.com/weibo?q=%23%E6%84%9F%E8%B0%A2%E4%BD%A0%E6%B8%A9%E6%9A%96%E6%88%91%E7%9A%842021%23&Refer=top) 81528
 <!-- END -->
 
