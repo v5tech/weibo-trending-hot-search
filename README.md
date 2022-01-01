@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-01-02 02:12:58.278279 
+最后更新时间 2022-01-02 02:35:42.651238 
 1. [浙江宁波新增7例确诊](https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E5%AE%81%E6%B3%A2%E6%96%B0%E5%A2%9E7%E4%BE%8B%E7%A1%AE%E8%AF%8A%23&Refer=top) 1089166
 1. [王者荣耀崩了](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E5%B4%A9%E4%BA%86%23&Refer=top) 926765
 1. [无数追梦人还在奋斗奉献](https://s.weibo.com/weibo?q=%23%E6%97%A0%E6%95%B0%E8%BF%BD%E6%A2%A6%E4%BA%BA%E8%BF%98%E5%9C%A8%E5%A5%8B%E6%96%97%E5%A5%89%E7%8C%AE%23&Refer=top) 815450
