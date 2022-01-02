@@ -7,9 +7,9 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-01-03 00:59:21.171878 
+最后更新时间 2022-01-03 01:26:36.271220 
 1. [小敏家陈卓得癌](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%95%8F%E5%AE%B6%E9%99%88%E5%8D%93%E5%BE%97%E7%99%8C%23&Refer=top) 1663448
-1. [禹州](https://s.weibo.com/weibo?q=%E7%A6%B9%E5%B7%9E&Refer=top) 1186637
+1. [禹州](https://s.weibo.com/weibo?q=%E7%A6%B9%E5%B7%9E&Refer=top) 1258438
 1. [西安雁塔区委书记被免职](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E9%9B%81%E5%A1%94%E5%8C%BA%E5%A7%94%E4%B9%A6%E8%AE%B0%E8%A2%AB%E5%85%8D%E8%81%8C%23&Refer=top) 822096
 1. [无数追梦人还在奋斗奉献](https://s.weibo.com/weibo?q=%23%E6%97%A0%E6%95%B0%E8%BF%BD%E6%A2%A6%E4%BA%BA%E8%BF%98%E5%9C%A8%E5%A5%8B%E6%96%97%E5%A5%89%E7%8C%AE%23&Refer=top) 753666
 1. [妲己女仆咖啡](https://s.weibo.com/weibo?q=%23%E5%A6%B2%E5%B7%B1%E5%A5%B3%E4%BB%86%E5%92%96%E5%95%A1%23&Refer=top) 567073
