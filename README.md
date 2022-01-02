@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-01-03 02:34:55.758674 
+最后更新时间 2022-01-03 02:52:40.641442 
 1. [小敏家陈卓得癌](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%95%8F%E5%AE%B6%E9%99%88%E5%8D%93%E5%BE%97%E7%99%8C%23&Refer=top) 1663448
 1. [禹州](https://s.weibo.com/weibo?q=%E7%A6%B9%E5%B7%9E&Refer=top) 1258438
 1. [西安雁塔区委书记被免职](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E9%9B%81%E5%A1%94%E5%8C%BA%E5%A7%94%E4%B9%A6%E8%AE%B0%E8%A2%AB%E5%85%8D%E8%81%8C%23&Refer=top) 822096
