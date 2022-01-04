@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-01-05 01:38:04.121845 
+最后更新时间 2022-01-05 01:52:00.779814 
 1. [西安疫情是武汉封城后最严重的一回](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E7%96%AB%E6%83%85%E6%98%AF%E6%AD%A6%E6%B1%89%E5%B0%81%E5%9F%8E%E5%90%8E%E6%9C%80%E4%B8%A5%E9%87%8D%E7%9A%84%E4%B8%80%E5%9B%9E%23&Refer=top) 1414942
 1. [菠萝味草莓一斤150元](https://s.weibo.com/weibo?q=%23%E8%8F%A0%E8%90%9D%E5%91%B3%E8%8D%89%E8%8E%93%E4%B8%80%E6%96%A4150%E5%85%83%23&Refer=top) 1303141
 1. [把握历史主动创造新的伟业](https://s.weibo.com/weibo?q=%23%E6%8A%8A%E6%8F%A1%E5%8E%86%E5%8F%B2%E4%B8%BB%E5%8A%A8%E5%88%9B%E9%80%A0%E6%96%B0%E7%9A%84%E4%BC%9F%E4%B8%9A%23&Refer=top) 1250115
@@ -46,6 +46,7 @@
 1. [金家骏陈佳佳最后一集终于亲了](https://s.weibo.com/weibo?q=%23%E9%87%91%E5%AE%B6%E9%AA%8F%E9%99%88%E4%BD%B3%E4%BD%B3%E6%9C%80%E5%90%8E%E4%B8%80%E9%9B%86%E7%BB%88%E4%BA%8E%E4%BA%B2%E4%BA%86%23&Refer=top) 178978
 1. [南京地铁公安超小号警犬兄弟征名中](https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E5%9C%B0%E9%93%81%E5%85%AC%E5%AE%89%E8%B6%85%E5%B0%8F%E5%8F%B7%E8%AD%A6%E7%8A%AC%E5%85%84%E5%BC%9F%E5%BE%81%E5%90%8D%E4%B8%AD%23&Refer=top) 178011
 1. [西安抗疫](https://s.weibo.com/weibo?q=%E8%A5%BF%E5%AE%89%E6%8A%97%E7%96%AB&Refer=top) 176323
+1. [陕西已连续5天未在校园出现确诊病例](https://s.weibo.com/weibo?q=%23%E9%99%95%E8%A5%BF%E5%B7%B2%E8%BF%9E%E7%BB%AD5%E5%A4%A9%E6%9C%AA%E5%9C%A8%E6%A0%A1%E5%9B%AD%E5%87%BA%E7%8E%B0%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B%23&Refer=top) 170316
 1. [禹州共发现20例病例](https://s.weibo.com/weibo?q=%23%E7%A6%B9%E5%B7%9E%E5%85%B1%E5%8F%91%E7%8E%B020%E4%BE%8B%E7%97%85%E4%BE%8B%23&Refer=top) 155335
 1. [阿不都沙拉木神仙球](https://s.weibo.com/weibo?q=%23%E9%98%BF%E4%B8%8D%E9%83%BD%E6%B2%99%E6%8B%89%E6%9C%A8%E7%A5%9E%E4%BB%99%E7%90%83%23&Refer=top) 137656
 1. [滑雪服为什么这么贵](https://s.weibo.com/weibo?q=%23%E6%BB%91%E9%9B%AA%E6%9C%8D%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%99%E4%B9%88%E8%B4%B5%23&Refer=top) 124896
@@ -59,7 +60,6 @@
 1. [自制空心泡泡干](https://s.weibo.com/weibo?q=%E8%87%AA%E5%88%B6%E7%A9%BA%E5%BF%83%E6%B3%A1%E6%B3%A1%E5%B9%B2&Refer=top) 101082
 1. [这猫咪怎么跟雪纳瑞似的](https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%8C%AB%E5%92%AA%E6%80%8E%E4%B9%88%E8%B7%9F%E9%9B%AA%E7%BA%B3%E7%91%9E%E4%BC%BC%E7%9A%84%23&Refer=top) 99173
 1. [人生特迷惑时刻](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E7%94%9F%E7%89%B9%E8%BF%B7%E6%83%91%E6%97%B6%E5%88%BB%23&Refer=top) 96638
-1. [陕西已连续5天未在校园出现确诊病例](https://s.weibo.com/weibo?q=%23%E9%99%95%E8%A5%BF%E5%B7%B2%E8%BF%9E%E7%BB%AD5%E5%A4%A9%E6%9C%AA%E5%9C%A8%E6%A0%A1%E5%9B%AD%E5%87%BA%E7%8E%B0%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B%23&Refer=top) 87291
 1. [郑州市民冒雪排队做核酸](https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E5%B8%82%E6%B0%91%E5%86%92%E9%9B%AA%E6%8E%92%E9%98%9F%E5%81%9A%E6%A0%B8%E9%85%B8%23&Refer=top) 60552
 <!-- END -->
 
