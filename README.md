@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-01-08 06:11:20.909109 
+最后更新时间 2022-01-08 06:31:01.767342 
 1. [青海门源6.9级地震](https://s.weibo.com/weibo?q=%E9%9D%92%E6%B5%B7%E9%97%A8%E6%BA%906.9%E7%BA%A7%E5%9C%B0%E9%9C%87&Refer=top) 2599050
 1. [专家称并不是睡得晚就是熬夜](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E5%B9%B6%E4%B8%8D%E6%98%AF%E7%9D%A1%E5%BE%97%E6%99%9A%E5%B0%B1%E6%98%AF%E7%86%AC%E5%A4%9C%23&Refer=top) 1723508
 1. [熬夜会降低大脑认知功能](https://s.weibo.com/weibo?q=%23%E7%86%AC%E5%A4%9C%E4%BC%9A%E9%99%8D%E4%BD%8E%E5%A4%A7%E8%84%91%E8%AE%A4%E7%9F%A5%E5%8A%9F%E8%83%BD%23&Refer=top) 1462125
@@ -64,8 +64,9 @@
 1. [全身牛奶肌是怎么养成的](https://s.weibo.com/weibo?q=%23%E5%85%A8%E8%BA%AB%E7%89%9B%E5%A5%B6%E8%82%8C%E6%98%AF%E6%80%8E%E4%B9%88%E5%85%BB%E6%88%90%E7%9A%84%23&Refer=top) 134199
 1. [男子取款时在手指写110向柜员求救](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%8F%96%E6%AC%BE%E6%97%B6%E5%9C%A8%E6%89%8B%E6%8C%87%E5%86%99110%E5%90%91%E6%9F%9C%E5%91%98%E6%B1%82%E6%95%91%23&Refer=top) 134014
 1. [辽宁海城发现1例疑似阳性](https://s.weibo.com/weibo?q=%23%E8%BE%BD%E5%AE%81%E6%B5%B7%E5%9F%8E%E5%8F%91%E7%8E%B01%E4%BE%8B%E7%96%91%E4%BC%BC%E9%98%B3%E6%80%A7%23&Refer=top) 133513
+1. [中方愿尽己所能向哈方提供必要支持](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E6%84%BF%E5%B0%BD%E5%B7%B1%E6%89%80%E8%83%BD%E5%90%91%E5%93%88%E6%96%B9%E6%8F%90%E4%BE%9B%E5%BF%85%E8%A6%81%E6%94%AF%E6%8C%81%23&Refer=top) 88611
 1. [梅西莱万萨拉赫世界足球先生候选](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%8E%B1%E4%B8%87%E8%90%A8%E6%8B%89%E8%B5%AB%E4%B8%96%E7%95%8C%E8%B6%B3%E7%90%83%E5%85%88%E7%94%9F%E5%80%99%E9%80%89%23&Refer=top) 81541
-1. [中方愿尽己所能向哈方提供必要支持](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E6%84%BF%E5%B0%BD%E5%B7%B1%E6%89%80%E8%83%BD%E5%90%91%E5%93%88%E6%96%B9%E6%8F%90%E4%BE%9B%E5%BF%85%E8%A6%81%E6%94%AF%E6%8C%81%23&Refer=top) 70711
+1. [3中国公民在尼日利亚被绑架](https://s.weibo.com/weibo?q=%233%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%9C%A8%E5%B0%BC%E6%97%A5%E5%88%A9%E4%BA%9A%E8%A2%AB%E7%BB%91%E6%9E%B6%23&Refer=top) 33130
 <!-- END -->
 
 历史归档 [./archives](./archives)
