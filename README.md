@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-01-08 04:48:51.480539 
+最后更新时间 2022-01-08 05:10:01.351862 
 1. [青海门源6.9级地震](https://s.weibo.com/weibo?q=%E9%9D%92%E6%B5%B7%E9%97%A8%E6%BA%906.9%E7%BA%A7%E5%9C%B0%E9%9C%87&Refer=top) 2599050
 1. [专家称并不是睡得晚就是熬夜](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E5%B9%B6%E4%B8%8D%E6%98%AF%E7%9D%A1%E5%BE%97%E6%99%9A%E5%B0%B1%E6%98%AF%E7%86%AC%E5%A4%9C%23&Refer=top) 1723508
 1. [熬夜会降低大脑认知功能](https://s.weibo.com/weibo?q=%23%E7%86%AC%E5%A4%9C%E4%BC%9A%E9%99%8D%E4%BD%8E%E5%A4%A7%E8%84%91%E8%AE%A4%E7%9F%A5%E5%8A%9F%E8%83%BD%23&Refer=top) 1462125
