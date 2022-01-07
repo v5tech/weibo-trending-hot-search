@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-01-08 04:32:52.696345 
+最后更新时间 2022-01-08 04:48:51.480539 
 1. [青海门源6.9级地震](https://s.weibo.com/weibo?q=%E9%9D%92%E6%B5%B7%E9%97%A8%E6%BA%906.9%E7%BA%A7%E5%9C%B0%E9%9C%87&Refer=top) 2599050
 1. [专家称并不是睡得晚就是熬夜](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E5%B9%B6%E4%B8%8D%E6%98%AF%E7%9D%A1%E5%BE%97%E6%99%9A%E5%B0%B1%E6%98%AF%E7%86%AC%E5%A4%9C%23&Refer=top) 1723508
 1. [熬夜会降低大脑认知功能](https://s.weibo.com/weibo?q=%23%E7%86%AC%E5%A4%9C%E4%BC%9A%E9%99%8D%E4%BD%8E%E5%A4%A7%E8%84%91%E8%AE%A4%E7%9F%A5%E5%8A%9F%E8%83%BD%23&Refer=top) 1462125
@@ -51,6 +51,7 @@
 1. [货拉拉女乘客坠亡案二审维持原判](https://s.weibo.com/weibo?q=%23%E8%B4%A7%E6%8B%89%E6%8B%89%E5%A5%B3%E4%B9%98%E5%AE%A2%E5%9D%A0%E4%BA%A1%E6%A1%88%E4%BA%8C%E5%AE%A1%E7%BB%B4%E6%8C%81%E5%8E%9F%E5%88%A4%23&Refer=top) 180303
 1. [自我管理的5个好习惯](https://s.weibo.com/weibo?q=%E8%87%AA%E6%88%91%E7%AE%A1%E7%90%86%E7%9A%845%E4%B8%AA%E5%A5%BD%E4%B9%A0%E6%83%AF&Refer=top) 178968
 1. [张艺谋称祖国强大才有双奥导演](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E8%B0%8B%E7%A7%B0%E7%A5%96%E5%9B%BD%E5%BC%BA%E5%A4%A7%E6%89%8D%E6%9C%89%E5%8F%8C%E5%A5%A5%E5%AF%BC%E6%BC%94%23&Refer=top) 174609
+1. [坂田](https://s.weibo.com/weibo?q=%E5%9D%82%E7%94%B0&Refer=top) 165955
 1. [西安27个街道出现病例部分来源不明](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%8927%E4%B8%AA%E8%A1%97%E9%81%93%E5%87%BA%E7%8E%B0%E7%97%85%E4%BE%8B%E9%83%A8%E5%88%86%E6%9D%A5%E6%BA%90%E4%B8%8D%E6%98%8E%23&Refer=top) 163928
 1. [西安市卫健委向全市人民致歉](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E5%B8%82%E5%8D%AB%E5%81%A5%E5%A7%94%E5%90%91%E5%85%A8%E5%B8%82%E4%BA%BA%E6%B0%91%E8%87%B4%E6%AD%89%23&Refer=top) 160734
 1. [逐梦亚军](https://s.weibo.com/weibo?q=%23%E9%80%90%E6%A2%A6%E4%BA%9A%E5%86%9B%23&Refer=top) 160711
@@ -58,7 +59,6 @@
 1. [深圳疫情](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E7%96%AB%E6%83%85%23&Refer=top) 158013
 1. [争议娃娃修复师已下架网店](https://s.weibo.com/weibo?q=%23%E4%BA%89%E8%AE%AE%E5%A8%83%E5%A8%83%E4%BF%AE%E5%A4%8D%E5%B8%88%E5%B7%B2%E4%B8%8B%E6%9E%B6%E7%BD%91%E5%BA%97%23&Refer=top) 156350
 1. [大锁一年一度喜剧大赛获奖发言](https://s.weibo.com/weibo?q=%E5%A4%A7%E9%94%81%E4%B8%80%E5%B9%B4%E4%B8%80%E5%BA%A6%E5%96%9C%E5%89%A7%E5%A4%A7%E8%B5%9B%E8%8E%B7%E5%A5%96%E5%8F%91%E8%A8%80&Refer=top) 152752
-1. [坂田](https://s.weibo.com/weibo?q=%E5%9D%82%E7%94%B0&Refer=top) 149424
 1. [福建橙码高龄产妇感谢医生接生](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E6%A9%99%E7%A0%81%E9%AB%98%E9%BE%84%E4%BA%A7%E5%A6%87%E6%84%9F%E8%B0%A2%E5%8C%BB%E7%94%9F%E6%8E%A5%E7%94%9F%23&Refer=top) 139206
 1. [全身牛奶肌是怎么养成的](https://s.weibo.com/weibo?q=%23%E5%85%A8%E8%BA%AB%E7%89%9B%E5%A5%B6%E8%82%8C%E6%98%AF%E6%80%8E%E4%B9%88%E5%85%BB%E6%88%90%E7%9A%84%23&Refer=top) 134199
 1. [男子取款时在手指写110向柜员求救](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%8F%96%E6%AC%BE%E6%97%B6%E5%9C%A8%E6%89%8B%E6%8C%87%E5%86%99110%E5%90%91%E6%9F%9C%E5%91%98%E6%B1%82%E6%95%91%23&Refer=top) 134014
