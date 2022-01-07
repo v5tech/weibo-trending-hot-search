@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-01-08 02:54:30.332483 
+最后更新时间 2022-01-08 03:08:07.730320 
 1. [青海门源6.9级地震](https://s.weibo.com/weibo?q=%E9%9D%92%E6%B5%B7%E9%97%A8%E6%BA%906.9%E7%BA%A7%E5%9C%B0%E9%9C%87&Refer=top) 2599050
 1. [专家称并不是睡得晚就是熬夜](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E5%B9%B6%E4%B8%8D%E6%98%AF%E7%9D%A1%E5%BE%97%E6%99%9A%E5%B0%B1%E6%98%AF%E7%86%AC%E5%A4%9C%23&Refer=top) 1723508
 1. [熬夜会降低大脑认知功能](https://s.weibo.com/weibo?q=%23%E7%86%AC%E5%A4%9C%E4%BC%9A%E9%99%8D%E4%BD%8E%E5%A4%A7%E8%84%91%E8%AE%A4%E7%9F%A5%E5%8A%9F%E8%83%BD%23&Refer=top) 1462125
@@ -18,6 +18,7 @@
 1. [热搜预定为了上热搜有多努力](https://s.weibo.com/weibo?q=%23%E7%83%AD%E6%90%9C%E9%A2%84%E5%AE%9A%E4%B8%BA%E4%BA%86%E4%B8%8A%E7%83%AD%E6%90%9C%E6%9C%89%E5%A4%9A%E5%8A%AA%E5%8A%9B%23&Refer=top) 802172
 1. [西安不再查验就医人员48小时核酸阴性证明](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E4%B8%8D%E5%86%8D%E6%9F%A5%E9%AA%8C%E5%B0%B1%E5%8C%BB%E4%BA%BA%E5%91%9848%E5%B0%8F%E6%97%B6%E6%A0%B8%E9%85%B8%E9%98%B4%E6%80%A7%E8%AF%81%E6%98%8E%23&Refer=top) 772506
 1. [西安本轮疫情来源于巴基斯坦航班输入](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E6%9C%AC%E8%BD%AE%E7%96%AB%E6%83%85%E6%9D%A5%E6%BA%90%E4%BA%8E%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%88%AA%E7%8F%AD%E8%BE%93%E5%85%A5%23&Refer=top) 693879
+1. [兰州地震](https://s.weibo.com/weibo?q=%E5%85%B0%E5%B7%9E%E5%9C%B0%E9%9C%87&Refer=top) 629339
 1. [郑州6小时完成1260万人核酸采样](https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E6%E5%B0%8F%E6%97%B6%E5%AE%8C%E6%88%901260%E4%B8%87%E4%BA%BA%E6%A0%B8%E9%85%B8%E9%87%87%E6%A0%B7%23&Refer=top) 585397
 1. [深圳2例确诊活动轨迹公布](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B32%E4%BE%8B%E7%A1%AE%E8%AF%8A%E6%B4%BB%E5%8A%A8%E8%BD%A8%E8%BF%B9%E5%85%AC%E5%B8%83%23&Refer=top) 531312
 1. [长沙85后女子私生饭式骚扰00后男子](https://s.weibo.com/weibo?q=%E9%95%BF%E6%B2%9985%E5%90%8E%E5%A5%B3%E5%AD%90%E7%A7%81%E7%94%9F%E9%A5%AD%E5%BC%8F%E9%AA%9A%E6%89%B000%E5%90%8E%E7%94%B7%E5%AD%90&Refer=top) 531151
@@ -26,7 +27,6 @@
 1. [刘宇宁直播唱新歌fallinlove](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E7%9B%B4%E6%92%AD%E5%94%B1%E6%96%B0%E6%AD%8Cfallinlove%23&Refer=top) 520823
 1. [一年一度喜剧大赛](https://s.weibo.com/weibo?q=%E4%B8%80%E5%B9%B4%E4%B8%80%E5%BA%A6%E5%96%9C%E5%89%A7%E5%A4%A7%E8%B5%9B&Refer=top) 518974
 1. [妈穿上25年前的婚纱看爸反应](https://s.weibo.com/weibo?q=%23%E5%A6%88%E7%A9%BF%E4%B8%8A25%E5%B9%B4%E5%89%8D%E7%9A%84%E5%A9%9A%E7%BA%B1%E7%9C%8B%E7%88%B8%E5%8F%8D%E5%BA%94%23&Refer=top) 448599
-1. [兰州地震](https://s.weibo.com/weibo?q=%E5%85%B0%E5%B7%9E%E5%9C%B0%E9%9C%87&Refer=top) 365666
 1. [重庆武隆食堂坍塌事故已致9人死亡](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E6%AD%A6%E9%9A%86%E9%A3%9F%E5%A0%82%E5%9D%8D%E5%A1%8C%E4%BA%8B%E6%95%85%E5%B7%B2%E8%87%B49%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&Refer=top) 361973
 1. [这情侣氛围感瞬间拉满了](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%83%85%E4%BE%A3%E6%B0%9B%E5%9B%B4%E6%84%9F%E7%9E%AC%E9%97%B4%E6%8B%89%E6%BB%A1%E4%BA%86%23&Refer=top) 337323
 1. [西安本轮疫情源头确定](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E6%9C%AC%E8%BD%AE%E7%96%AB%E6%83%85%E6%BA%90%E5%A4%B4%E7%A1%AE%E5%AE%9A%23&Refer=top) 309435

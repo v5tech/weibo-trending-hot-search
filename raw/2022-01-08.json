@@ -39,6 +39,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E6%9C%AC%E8%BD%AE%E7%96%AB%E6%83%85%E6%9D%A5%E6%BA%90%E4%BA%8E%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%88%AA%E7%8F%AD%E8%BE%93%E5%85%A5%23&Refer=top",
     "hot": 693879
   },
+  "兰州地震": {
+    "url": "https://s.weibo.com/weibo?q=%E5%85%B0%E5%B7%9E%E5%9C%B0%E9%9C%87&Refer=top",
+    "hot": 629339
+  },
   "郑州6小时完成1260万人核酸采样": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E6%E5%B0%8F%E6%97%B6%E5%AE%8C%E6%88%901260%E4%B8%87%E4%BA%BA%E6%A0%B8%E9%85%B8%E9%87%87%E6%A0%B7%23&Refer=top",
     "hot": 585397
@@ -70,10 +74,6 @@
   "妈穿上25年前的婚纱看爸反应": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%A6%88%E7%A9%BF%E4%B8%8A25%E5%B9%B4%E5%89%8D%E7%9A%84%E5%A9%9A%E7%BA%B1%E7%9C%8B%E7%88%B8%E5%8F%8D%E5%BA%94%23&Refer=top",
     "hot": 448599
-  },
-  "兰州地震": {
-    "url": "https://s.weibo.com/weibo?q=%E5%85%B0%E5%B7%9E%E5%9C%B0%E9%9C%87&Refer=top",
-    "hot": 365666
   },
   "重庆武隆食堂坍塌事故已致9人死亡": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E6%AD%A6%E9%9A%86%E9%A3%9F%E5%A0%82%E5%9D%8D%E5%A1%8C%E4%BA%8B%E6%95%85%E5%B7%B2%E8%87%B49%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&Refer=top",
