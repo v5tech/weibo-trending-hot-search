@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-01-09 03:22:48.754919 
+最后更新时间 2022-01-09 03:34:21.928885 
 1. [天津新增18例感染者](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E6%96%B0%E5%A2%9E18%E4%BE%8B%E6%84%9F%E6%9F%93%E8%80%85%23&Refer=top) 2445748
 1. [深圳卫健委让无法住院产妇电话发我](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%8D%AB%E5%81%A5%E5%A7%94%E8%AE%A9%E6%97%A0%E6%B3%95%E4%BD%8F%E9%99%A2%E4%BA%A7%E5%A6%87%E7%94%B5%E8%AF%9D%E5%8F%91%E6%88%91%23&Refer=top) 1774135
 1. [致广大而尽精微的智慧](https://s.weibo.com/weibo?q=%23%E8%87%B4%E5%B9%BF%E5%A4%A7%E8%80%8C%E5%B0%BD%E7%B2%BE%E5%BE%AE%E7%9A%84%E6%99%BA%E6%85%A7%23&Refer=top) 1618782
@@ -65,7 +65,7 @@
 1. [岳岳篮球比赛五个三分球](https://s.weibo.com/weibo?q=%23%E5%B2%B3%E5%B2%B3%E7%AF%AE%E7%90%83%E6%AF%94%E8%B5%9B%E4%BA%94%E4%B8%AA%E4%B8%89%E5%88%86%E7%90%83%23&Refer=top) 157591
 1. [哈萨克斯坦不明车辆向人群发放武器](https://s.weibo.com/weibo?q=%23%E5%93%88%E8%90%A8%E5%85%8B%E6%96%AF%E5%9D%A6%E4%B8%8D%E6%98%8E%E8%BD%A6%E8%BE%86%E5%90%91%E4%BA%BA%E7%BE%A4%E5%8F%91%E6%94%BE%E6%AD%A6%E5%99%A8%23&Refer=top) 157408
 1. [当你睡觉时猫在作什么妖](https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BD%A0%E7%9D%A1%E8%A7%89%E6%97%B6%E7%8C%AB%E5%9C%A8%E4%BD%9C%E4%BB%80%E4%B9%88%E5%A6%96%23&Refer=top) 145315
-1. [2021王者荣耀挑战者杯](https://s.weibo.com/weibo?q=2021%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%8C%91%E6%88%98%E8%80%85%E6%9D%AF&Refer=top) 33708
+1. [2021王者荣耀挑战者杯](https://s.weibo.com/weibo?q=2021%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%8C%91%E6%88%98%E8%80%85%E6%9D%AF&Refer=top) 39849
 <!-- END -->
 
 历史归档 [./archives](./archives)
