@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-01-09 01:46:40.957435 
+最后更新时间 2022-01-09 02:13:09.542479 
 1. [天津新增18例感染者](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E6%96%B0%E5%A2%9E18%E4%BE%8B%E6%84%9F%E6%9F%93%E8%80%85%23&Refer=top) 2445748
 1. [深圳卫健委让无法住院产妇电话发我](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%8D%AB%E5%81%A5%E5%A7%94%E8%AE%A9%E6%97%A0%E6%B3%95%E4%BD%8F%E9%99%A2%E4%BA%A7%E5%A6%87%E7%94%B5%E8%AF%9D%E5%8F%91%E6%88%91%23&Refer=top) 1774135
 1. [致广大而尽精微的智慧](https://s.weibo.com/weibo?q=%23%E8%87%B4%E5%B9%BF%E5%A4%A7%E8%80%8C%E5%B0%BD%E7%B2%BE%E5%BE%AE%E7%9A%84%E6%99%BA%E6%85%A7%23&Refer=top) 1618782
@@ -40,7 +40,7 @@
 1. [新疆特产有多绝](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E7%89%B9%E4%BA%A7%E6%9C%89%E5%A4%9A%E7%BB%9D%23&Refer=top) 264194
 1. [怎么看待渐行渐远的友情](https://s.weibo.com/weibo?q=%23%E6%80%8E%E4%B9%88%E7%9C%8B%E5%BE%85%E6%B8%90%E8%A1%8C%E6%B8%90%E8%BF%9C%E7%9A%84%E5%8F%8B%E6%83%85%23&Refer=top) 259100
 1. [雪中悍刀行陆地神仙打架](https://s.weibo.com/weibo?q=%23%E9%9B%AA%E4%B8%AD%E6%82%8D%E5%88%80%E8%A1%8C%E9%99%86%E5%9C%B0%E7%A5%9E%E4%BB%99%E6%89%93%E6%9E%B6%23&Refer=top) 249096
-1. [周冬雨演的护士去世片段](https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%86%AC%E9%9B%A8%E6%BC%94%E7%9A%84%E6%8A%A4%E5%A3%AB%E5%8E%BB%E4%B8%96%E7%89%87%E6%AE%B5%23&Refer=top) 226618
+1. [周冬雨演的护士去世片段](https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%86%AC%E9%9B%A8%E6%BC%94%E7%9A%84%E6%8A%A4%E5%A3%AB%E5%8E%BB%E4%B8%96%E7%89%87%E6%AE%B5%23&Refer=top) 235556
 1. [电影人分享冬奥会期待项目](https://s.weibo.com/weibo?q=%E7%94%B5%E5%BD%B1%E4%BA%BA%E5%88%86%E4%BA%AB%E5%86%AC%E5%A5%A5%E4%BC%9A%E6%9C%9F%E5%BE%85%E9%A1%B9%E7%9B%AE&Refer=top) 218442
 1. [男生能有多爱惜自己的车](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E8%83%BD%E6%9C%89%E5%A4%9A%E7%88%B1%E6%83%9C%E8%87%AA%E5%B7%B1%E7%9A%84%E8%BD%A6%23&Refer=top) 213672
 1. [IU舞台表情温差感](https://s.weibo.com/weibo?q=%23IU%E8%88%9E%E5%8F%B0%E8%A1%A8%E6%83%85%E6%B8%A9%E5%B7%AE%E6%84%9F%23&Refer=top) 213113
