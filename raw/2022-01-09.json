@@ -230,5 +230,9 @@
   "2021王者荣耀挑战者杯": {
     "url": "https://s.weibo.com/weibo?q=2021%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%8C%91%E6%88%98%E8%80%85%E6%9D%AF&Refer=top",
     "hot": 44179
+  },
+  "3X3黄金联赛": {
+    "url": "https://s.weibo.com/weibo?q=3X3%E9%BB%84%E9%87%91%E8%81%94%E8%B5%9B&Refer=top",
+    "hot": 18527
   }
 }
