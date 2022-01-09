@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-01-10 01:00:29.039198 
+最后更新时间 2022-01-10 01:37:09.267264 
 1. [老人丧子后洗碗10年替儿还清债款](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E4%B8%A7%E5%AD%90%E5%90%8E%E6%B4%97%E7%A2%9710%E5%B9%B4%E6%9B%BF%E5%84%BF%E8%BF%98%E6%B8%85%E5%80%BA%E6%AC%BE%23&Refer=top) 983593
 1. [新东方辞退6万员工](https://s.weibo.com/weibo?q=%23%E6%96%B0%E4%B8%9C%E6%96%B9%E8%BE%9E%E9%80%806%E4%B8%87%E5%91%98%E5%B7%A5%23&Refer=top) 920372
 1. [在民族复兴伟大航程中行稳致远](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E6%B0%91%E6%97%8F%E5%A4%8D%E5%85%B4%E4%BC%9F%E5%A4%A7%E8%88%AA%E7%A8%8B%E4%B8%AD%E8%A1%8C%E7%A8%B3%E8%87%B4%E8%BF%9C%23&Refer=top) 762401
@@ -26,6 +26,7 @@
 1. [南方连芋圆都是肉馅的](https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%96%B9%E8%BF%9E%E8%8A%8B%E5%9C%86%E9%83%BD%E6%98%AF%E8%82%89%E9%A6%85%E7%9A%84%23&Refer=top) 327144
 1. [白岩松评西安孕妇流产事件](https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%B2%A9%E6%9D%BE%E8%AF%84%E8%A5%BF%E5%AE%89%E5%AD%95%E5%A6%87%E6%B5%81%E4%BA%A7%E4%BA%8B%E4%BB%B6%23&Refer=top) 314918
 1. [青海6.9级地震震出8年逃犯](https://s.weibo.com/weibo?q=%23%E9%9D%92%E6%B5%B76.9%E7%BA%A7%E5%9C%B0%E9%9C%87%E9%9C%87%E5%87%BA8%E5%B9%B4%E9%80%83%E7%8A%AF%23&Refer=top) 314386
+1. [张继科念新闻稿舌头狂打结](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BB%A7%E7%A7%91%E5%BF%B5%E6%96%B0%E9%97%BB%E7%A8%BF%E8%88%8C%E5%A4%B4%E7%8B%82%E6%89%93%E7%BB%93%23&Refer=top) 291134
 1. [天津多站已停售进京车票](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E5%A4%9A%E7%AB%99%E5%B7%B2%E5%81%9C%E5%94%AE%E8%BF%9B%E4%BA%AC%E8%BD%A6%E7%A5%A8%23&Refer=top) 288103
 1. [这猫普通话过二甲了吧](https://s.weibo.com/weibo?q=%E8%BF%99%E7%8C%AB%E6%99%AE%E9%80%9A%E8%AF%9D%E8%BF%87%E4%BA%8C%E7%94%B2%E4%BA%86%E5%90%A7&Refer=top) 279901
 1. [外国人是这样逃网课的](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%98%AF%E8%BF%99%E6%A0%B7%E9%80%83%E7%BD%91%E8%AF%BE%E7%9A%84%23&Refer=top) 278588
@@ -37,7 +38,6 @@
 1. [田联最新排名苏炳添世界第八](https://s.weibo.com/weibo?q=%23%E7%94%B0%E8%81%94%E6%9C%80%E6%96%B0%E6%8E%92%E5%90%8D%E8%8B%8F%E7%82%B3%E6%B7%BB%E4%B8%96%E7%95%8C%E7%AC%AC%E5%85%AB%23&Refer=top) 229680
 1. [天津战奥密克戎两大难点不容小觑](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E6%88%98%E5%A5%A5%E5%AF%86%E5%85%8B%E6%88%8E%E4%B8%A4%E5%A4%A7%E9%9A%BE%E7%82%B9%E4%B8%8D%E5%AE%B9%E5%B0%8F%E8%A7%91%23&Refer=top) 219072
 1. [在天上看飞机是什么体验](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E5%A4%A9%E4%B8%8A%E7%9C%8B%E9%A3%9E%E6%9C%BA%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23&Refer=top) 217102
-1. [张继科念新闻稿舌头狂打结](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BB%A7%E7%A7%91%E5%BF%B5%E6%96%B0%E9%97%BB%E7%A8%BF%E8%88%8C%E5%A4%B4%E7%8B%82%E6%89%93%E7%BB%93%23&Refer=top) 215583
 1. [天津市民群众非必要不离津](https://s.weibo.com/weibo?q=%E5%A4%A9%E6%B4%A5%E5%B8%82%E6%B0%91%E7%BE%A4%E4%BC%97%E9%9D%9E%E5%BF%85%E8%A6%81%E4%B8%8D%E7%A6%BB%E6%B4%A5&Refer=top) 210633
 1. [王牌部队顾一野肩膀留下了后遗症](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%89%8C%E9%83%A8%E9%98%9F%E9%A1%BE%E4%B8%80%E9%87%8E%E8%82%A9%E8%86%80%E7%95%99%E4%B8%8B%E4%BA%86%E5%90%8E%E9%81%97%E7%97%87%23&Refer=top) 206391
 1. [易烊千玺年度新锐男演员](https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%B9%B4%E5%BA%A6%E6%96%B0%E9%94%90%E7%94%B7%E6%BC%94%E5%91%98%23&Refer=top) 205344
@@ -61,6 +61,8 @@
 1. [中国航天人绝不带问题上天](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E4%BA%BA%E7%BB%9D%E4%B8%8D%E5%B8%A6%E9%97%AE%E9%A2%98%E4%B8%8A%E5%A4%A9%23&Refer=top) 123131
 1. [TTG晋级总决赛](https://s.weibo.com/weibo?q=%23TTG%E6%99%8B%E7%BA%A7%E6%80%BB%E5%86%B3%E8%B5%9B%23&Refer=top) 110373
 1. [天津加强离津管理](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E5%8A%A0%E5%BC%BA%E7%A6%BB%E6%B4%A5%E7%AE%A1%E7%90%86%23&Refer=top) 88876
+1. [天津校园封闭式管理](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E6%A0%A1%E5%9B%AD%E5%B0%81%E9%97%AD%E5%BC%8F%E7%AE%A1%E7%90%86%23&Refer=top) 73078
+1. [拥有一双好看的手是什么体验](https://s.weibo.com/weibo?q=%23%E6%8B%A5%E6%9C%89%E4%B8%80%E5%8F%8C%E5%A5%BD%E7%9C%8B%E7%9A%84%E6%89%8B%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23&Refer=top) 40246
 <!-- END -->
 
 历史归档 [./archives](./archives)
