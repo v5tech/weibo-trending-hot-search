@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-01-12 05:48:41.891184 
+最后更新时间 2022-01-12 06:11:17.586465 
 1. [庆余年](https://s.weibo.com/weibo?q=%E5%BA%86%E4%BD%99%E5%B9%B4&Refer=top) 2142380
 1. [媒体评王冰冰遭人肉曝光隐私](https://s.weibo.com/weibo?q=%23%E5%AA%92%E4%BD%93%E8%AF%84%E7%8E%8B%E5%86%B0%E5%86%B0%E9%81%AD%E4%BA%BA%E8%82%89%E6%9B%9D%E5%85%89%E9%9A%90%E7%A7%81%23&Refer=top) 1583697
 1. [刘暖曦](https://s.weibo.com/weibo?q=%23%E5%88%98%E6%9A%96%E6%9B%A6%23&Refer=top) 1296619
@@ -64,11 +64,12 @@
 1. [这是我人生中笑得最惨的一次](https://s.weibo.com/weibo?q=%E8%BF%99%E6%98%AF%E6%88%91%E4%BA%BA%E7%94%9F%E4%B8%AD%E7%AC%91%E5%BE%97%E6%9C%80%E6%83%A8%E7%9A%84%E4%B8%80%E6%AC%A1&Refer=top) 125079
 1. [3人居家20天喝400瓶啤酒](https://s.weibo.com/weibo?q=%233%E4%BA%BA%E5%B1%85%E5%AE%B620%E5%A4%A9%E5%96%9D400%E7%93%B6%E5%95%A4%E9%85%92%23&Refer=top) 109407
 1. [邓佳鑫晒最佳主持获奖证书](https://s.weibo.com/weibo?q=%E9%82%93%E4%BD%B3%E9%91%AB%E6%99%92%E6%9C%80%E4%BD%B3%E4%B8%BB%E6%8C%81%E8%8E%B7%E5%A5%96%E8%AF%81%E4%B9%A6&Refer=top) 67881
+1. [陕西各高校是否放寒假还在等通知](https://s.weibo.com/weibo?q=%23%E9%99%95%E8%A5%BF%E5%90%84%E9%AB%98%E6%A0%A1%E6%98%AF%E5%90%A6%E6%94%BE%E5%AF%92%E5%81%87%E8%BF%98%E5%9C%A8%E7%AD%89%E9%80%9A%E7%9F%A5%23&Refer=top) 48907
+1. [见过长得最成熟的猫咪](https://s.weibo.com/weibo?q=%23%E8%A7%81%E8%BF%87%E9%95%BF%E5%BE%97%E6%9C%80%E6%88%90%E7%86%9F%E7%9A%84%E7%8C%AB%E5%92%AA%23&Refer=top) 48492
+1. [全球135个国家和地区报告奥密克戎](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83135%E4%B8%AA%E5%9B%BD%E5%AE%B6%E5%92%8C%E5%9C%B0%E5%8C%BA%E6%8A%A5%E5%91%8A%E5%A5%A5%E5%AF%86%E5%85%8B%E6%88%8E%23&Refer=top) 34206
 1. [防控疫情 天津在行动](https://s.weibo.com/weibo?q=%E9%98%B2%E6%8E%A7%E7%96%AB%E6%83%85%20%E5%A4%A9%E6%B4%A5%E5%9C%A8%E8%A1%8C%E5%8A%A8&Refer=top) 32565
-1. [全球135个国家和地区报告奥密克戎](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83135%E4%B8%AA%E5%9B%BD%E5%AE%B6%E5%92%8C%E5%9C%B0%E5%8C%BA%E6%8A%A5%E5%91%8A%E5%A5%A5%E5%AF%86%E5%85%8B%E6%88%8E%23&Refer=top) 31931
-1. [见过长得最成熟的猫咪](https://s.weibo.com/weibo?q=%23%E8%A7%81%E8%BF%87%E9%95%BF%E5%BE%97%E6%9C%80%E6%88%90%E7%86%9F%E7%9A%84%E7%8C%AB%E5%92%AA%23&Refer=top) 27887
-1. [美妆博主的年终总结](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%A6%86%E5%8D%9A%E4%B8%BB%E7%9A%84%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93%23&Refer=top) 22271
-1. [陕西各高校是否放寒假还在等通知](https://s.weibo.com/weibo?q=%23%E9%99%95%E8%A5%BF%E5%90%84%E9%AB%98%E6%A0%A1%E6%98%AF%E5%90%A6%E6%94%BE%E5%AF%92%E5%81%87%E8%BF%98%E5%9C%A8%E7%AD%89%E9%80%9A%E7%9F%A5%23&Refer=top) 19837
+1. [美妆博主的年终总结](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%A6%86%E5%8D%9A%E4%B8%BB%E7%9A%84%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93%23&Refer=top) 23619
+1. [打羽毛球被偷后场报警](https://s.weibo.com/weibo?q=%23%E6%89%93%E7%BE%BD%E6%AF%9B%E7%90%83%E8%A2%AB%E5%81%B7%E5%90%8E%E5%9C%BA%E6%8A%A5%E8%AD%A6%23&Refer=top) 23105
 <!-- END -->
 
 历史归档 [./archives](./archives)
