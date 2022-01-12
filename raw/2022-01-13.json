@@ -253,14 +253,18 @@
   },
   "NBA吐槽大会": {
     "url": "https://s.weibo.com/weibo?q=%23NBA%E5%90%90%E6%A7%BD%E5%A4%A7%E4%BC%9A%23&Refer=top",
-    "hot": 24055
+    "hot": 27505
   },
   "吃过这些零食的都长大了吧": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%90%83%E8%BF%87%E8%BF%99%E4%BA%9B%E9%9B%B6%E9%A3%9F%E7%9A%84%E9%83%BD%E9%95%BF%E5%A4%A7%E4%BA%86%E5%90%A7%23&Refer=top",
-    "hot": 20391
+    "hot": 22524
   },
   "怎样才能降低胆固醇": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%80%8E%E6%A0%B7%E6%89%8D%E8%83%BD%E9%99%8D%E4%BD%8E%E8%83%86%E5%9B%BA%E9%86%87%23&Refer=top",
     "hot": 16511
+  },
+  "这位医生示范操火了": {
+    "url": "https://s.weibo.com/weibo?q=%E8%BF%99%E4%BD%8D%E5%8C%BB%E7%94%9F%E7%A4%BA%E8%8C%83%E6%93%8D%E7%81%AB%E4%BA%86&Refer=top",
+    "hot": 14992
   }
 }
