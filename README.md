@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-01-13 01:27:49.880954 
+最后更新时间 2022-01-13 01:44:45.881556 
 1. [白鹿 胡杨](https://s.weibo.com/weibo?q=%E7%99%BD%E9%B9%BF%20%E8%83%A1%E6%9D%A8&Refer=top) 1851358
 1. [不要在黑暗中玩手机](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%A6%81%E5%9C%A8%E9%BB%91%E6%9A%97%E4%B8%AD%E7%8E%A9%E6%89%8B%E6%9C%BA%23&Refer=top) 1172946
 1. [肖鹤云失手杀人](https://s.weibo.com/weibo?q=%23%E8%82%96%E9%B9%A4%E4%BA%91%E5%A4%B1%E6%89%8B%E6%9D%80%E4%BA%BA%23&Refer=top) 1056042
@@ -64,6 +64,7 @@
 1. [年会C位氛围感妆](https://s.weibo.com/weibo?q=%23%E5%B9%B4%E4%BC%9AC%E4%BD%8D%E6%B0%9B%E5%9B%B4%E6%84%9F%E5%A6%86%23&Refer=top) 101754
 1. [当香菜走进配菜届](https://s.weibo.com/weibo?q=%23%E5%BD%93%E9%A6%99%E8%8F%9C%E8%B5%B0%E8%BF%9B%E9%85%8D%E8%8F%9C%E5%B1%8A%23&Refer=top) 98765
 1. [张文宏辟谣被居家隔离](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%96%87%E5%AE%8F%E8%BE%9F%E8%B0%A3%E8%A2%AB%E5%B1%85%E5%AE%B6%E9%9A%94%E7%A6%BB%23&Refer=top) 92173
+1. [警方通报佛山番海大桥一货车遭追截](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E4%BD%9B%E5%B1%B1%E7%95%AA%E6%B5%B7%E5%A4%A7%E6%A1%A5%E4%B8%80%E8%B4%A7%E8%BD%A6%E9%81%AD%E8%BF%BD%E6%88%AA%23&Refer=top) 79626
 <!-- END -->
 
 历史归档 [./archives](./archives)
