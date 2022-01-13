@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-01-13 13:40:51.972670 
+最后更新时间 2022-01-13 13:49:23.042802 
 1. [男友怀疑我得幽门螺旋杆菌后](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%8F%8B%E6%80%80%E7%96%91%E6%88%91%E5%BE%97%E5%B9%BD%E9%97%A8%E8%9E%BA%E6%97%8B%E6%9D%86%E8%8F%8C%E5%90%8E%23&Refer=top) 2745622
 1. [长津湖之水门桥定档大年初一](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B4%A5%E6%B9%96%E4%B9%8B%E6%B0%B4%E9%97%A8%E6%A1%A5%E5%AE%9A%E6%A1%A3%E5%A4%A7%E5%B9%B4%E5%88%9D%E4%B8%80%23&Refer=top) 2185531
 1. [天津新增41例本土确诊](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E6%96%B0%E5%A2%9E41%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%23&Refer=top) 2023399
@@ -35,10 +35,10 @@
 1. [花7000元送狗上学男子考虑弃养](https://s.weibo.com/weibo?q=%23%E8%8A%B17000%E5%85%83%E9%80%81%E7%8B%97%E4%B8%8A%E5%AD%A6%E7%94%B7%E5%AD%90%E8%80%83%E8%99%91%E5%BC%83%E5%85%BB%23&Refer=top) 891862
 1. [上海孕妇](https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E5%AD%95%E5%A6%87&Refer=top) 874812
 1. [广东中山报告1例新冠阳性](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E4%B8%AD%E5%B1%B1%E6%8A%A5%E5%91%8A1%E4%BE%8B%E6%96%B0%E5%86%A0%E9%98%B3%E6%80%A7%23&Refer=top) 856808
+1. [除了头孢吃这些药也不能喝酒](https://s.weibo.com/weibo?q=%23%E9%99%A4%E4%BA%86%E5%A4%B4%E5%AD%A2%E5%90%83%E8%BF%99%E4%BA%9B%E8%8D%AF%E4%B9%9F%E4%B8%8D%E8%83%BD%E5%96%9D%E9%85%92%23&Refer=top) 800778
 1. [1月12日新增确诊190例](https://s.weibo.com/weibo?q=%231%E6%9C%8812%E6%97%A5%E6%96%B0%E5%A2%9E%E7%A1%AE%E8%AF%8A190%E4%BE%8B%23&Refer=top) 794011
+1. [王者荣耀](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%23&Refer=top) 769974
 1. [开端](https://s.weibo.com/weibo?q=%E5%BC%80%E7%AB%AF&Refer=top) 735011
-1. [除了头孢吃这些药也不能喝酒](https://s.weibo.com/weibo?q=%23%E9%99%A4%E4%BA%86%E5%A4%B4%E5%AD%A2%E5%90%83%E8%BF%99%E4%BA%9B%E8%8D%AF%E4%B9%9F%E4%B8%8D%E8%83%BD%E5%96%9D%E9%85%92%23&Refer=top) 733684
-1. [王者荣耀](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%23&Refer=top) 732549
 1. [吴京在安全出口站4小时陪谢楠跨年](https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%AC%E5%9C%A8%E5%AE%89%E5%85%A8%E5%87%BA%E5%8F%A3%E7%AB%994%E5%B0%8F%E6%97%B6%E9%99%AA%E8%B0%A2%E6%A5%A0%E8%B7%A8%E5%B9%B4%23&Refer=top) 726713
 1. [考驾照时登记的照片有多重要](https://s.weibo.com/weibo?q=%23%E8%80%83%E9%A9%BE%E7%85%A7%E6%97%B6%E7%99%BB%E8%AE%B0%E7%9A%84%E7%85%A7%E7%89%87%E6%9C%89%E5%A4%9A%E9%87%8D%E8%A6%81%23&Refer=top) 709813
 1. [河南新增76例本土确诊](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E6%96%B0%E5%A2%9E76%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%23&Refer=top) 666932
@@ -62,6 +62,7 @@
 1. [半熟恋人](https://s.weibo.com/weibo?q=%E5%8D%8A%E7%86%9F%E6%81%8B%E4%BA%BA&Refer=top) 499291
 1. [易烊千玺电影奇迹](https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E7%94%B5%E5%BD%B1%E5%A5%87%E8%BF%B9%23&Refer=top) 491950
 1. [高圆圆说遗憾就是三缺一](https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%9C%86%E5%9C%86%E8%AF%B4%E9%81%97%E6%86%BE%E5%B0%B1%E6%98%AF%E4%B8%89%E7%BC%BA%E4%B8%80%23&Refer=top) 488710
+1. [男子隐居深山4年造出一个桃花谷](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%9A%90%E5%B1%85%E6%B7%B1%E5%B1%B14%E5%B9%B4%E9%80%A0%E5%87%BA%E4%B8%80%E4%B8%AA%E6%A1%83%E8%8A%B1%E8%B0%B7%23&Refer=top) 479847
 1. [笑果要开一个不讲脱口秀的大会](https://s.weibo.com/weibo?q=%23%E7%AC%91%E6%9E%9C%E8%A6%81%E5%BC%80%E4%B8%80%E4%B8%AA%E4%B8%8D%E8%AE%B2%E8%84%B1%E5%8F%A3%E7%A7%80%E7%9A%84%E5%A4%A7%E4%BC%9A%23&Refer=top) 476086
 1. [叮咚买菜被曝大裁员](https://s.weibo.com/weibo?q=%23%E5%8F%AE%E5%92%9A%E4%B9%B0%E8%8F%9C%E8%A2%AB%E6%9B%9D%E5%A4%A7%E8%A3%81%E5%91%98%23&Refer=top) 469930
 1. [香港警队7月1日起全面转用中式步操](https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E8%AD%A6%E9%98%9F7%E6%9C%881%E6%97%A5%E8%B5%B7%E5%85%A8%E9%9D%A2%E8%BD%AC%E7%94%A8%E4%B8%AD%E5%BC%8F%E6%AD%A5%E6%93%8D%23&Refer=top) 469511
@@ -84,10 +85,10 @@
 1. [78岁拾荒老人捡俩手机徒步5小时交给警察](https://s.weibo.com/weibo?q=%2378%E5%B2%81%E6%8B%BE%E8%8D%92%E8%80%81%E4%BA%BA%E6%8D%A1%E4%BF%A9%E6%89%8B%E6%9C%BA%E5%BE%92%E6%AD%A55%E5%B0%8F%E6%97%B6%E4%BA%A4%E7%BB%99%E8%AD%A6%E5%AF%9F%23&Refer=top) 351779
 1. [恋与制作人李泽言](https://s.weibo.com/weibo?q=%E6%81%8B%E4%B8%8E%E5%88%B6%E4%BD%9C%E4%BA%BA%E6%9D%8E%E6%B3%BD%E8%A8%80&Refer=top) 351253
 1. [开拍吧演员合同隐藏条款](https://s.weibo.com/weibo?q=%23%E5%BC%80%E6%8B%8D%E5%90%A7%E6%BC%94%E5%91%98%E5%90%88%E5%90%8C%E9%9A%90%E8%97%8F%E6%9D%A1%E6%AC%BE%23&Refer=top) 350285
-1. [男子隐居深山4年造出一个桃花谷](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%9A%90%E5%B1%85%E6%B7%B1%E5%B1%B14%E5%B9%B4%E9%80%A0%E5%87%BA%E4%B8%80%E4%B8%AA%E6%A1%83%E8%8A%B1%E8%B0%B7%23&Refer=top) 349679
 1. [英雄联盟](https://s.weibo.com/weibo?q=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F&Refer=top) 347870
 1. [北京加强对所有进返京人员健康监测](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%8A%A0%E5%BC%BA%E5%AF%B9%E6%89%80%E6%9C%89%E8%BF%9B%E8%BF%94%E4%BA%AC%E4%BA%BA%E5%91%98%E5%81%A5%E5%BA%B7%E7%9B%91%E6%B5%8B%23&Refer=top) 341768
 1. [家庭煮夫离婚获1.5万元经济补偿](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E5%BA%AD%E7%85%AE%E5%A4%AB%E7%A6%BB%E5%A9%9A%E8%8E%B71.5%E4%B8%87%E5%85%83%E7%BB%8F%E6%B5%8E%E8%A1%A5%E5%81%BF%23&Refer=top) 336186
+1. [谢楠徐梦洁模拟吵架好真实](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E6%A5%A0%E5%BE%90%E6%A2%A6%E6%B4%81%E6%A8%A1%E6%8B%9F%E5%90%B5%E6%9E%B6%E5%A5%BD%E7%9C%9F%E5%AE%9E%23&Refer=top) 334020
 1. [我国超500万中小学生脊柱侧弯](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E8%B6%85500%E4%B8%87%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%94%9F%E8%84%8A%E6%9F%B1%E4%BE%A7%E5%BC%AF%23&Refer=top) 329400
 1. [深圳为什么是奇迹之城](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E4%B8%BA%E4%BB%80%E4%B9%88%E6%98%AF%E5%A5%87%E8%BF%B9%E4%B9%8B%E5%9F%8E%23&Refer=top) 327132
 1. [阴阳师铃彦姬](https://s.weibo.com/weibo?q=%23%E9%98%B4%E9%98%B3%E5%B8%88%E9%93%83%E5%BD%A6%E5%A7%AC%23&Refer=top) 324252
@@ -124,6 +125,7 @@
 1. [春节前按摩椅订单涨一倍](https://s.weibo.com/weibo?q=%23%E6%98%A5%E8%8A%82%E5%89%8D%E6%8C%89%E6%91%A9%E6%A4%85%E8%AE%A2%E5%8D%95%E6%B6%A8%E4%B8%80%E5%80%8D%23&Refer=top) 215153
 1. [令人心动的offer](https://s.weibo.com/weibo?q=%E4%BB%A4%E4%BA%BA%E5%BF%83%E5%8A%A8%E7%9A%84offer&Refer=top) 212025
 1. [医生敲诈餐馆不给50万会出现新冠发热者](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E6%95%B2%E8%AF%88%E9%A4%90%E9%A6%86%E4%B8%8D%E7%BB%9950%E4%B8%87%E4%BC%9A%E5%87%BA%E7%8E%B0%E6%96%B0%E5%86%A0%E5%8F%91%E7%83%AD%E8%80%85%23&Refer=top) 209533
+1. [威少](https://s.weibo.com/weibo?q=%E5%A8%81%E5%B0%91&Refer=top) 209076
 1. [皇马3比2巴萨](https://s.weibo.com/weibo?q=%E7%9A%87%E9%A9%AC3%E6%AF%942%E5%B7%B4%E8%90%A8&Refer=top) 202631
 1. [江南征相信会再次和高粱相遇](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E5%8D%97%E5%BE%81%E7%9B%B8%E4%BF%A1%E4%BC%9A%E5%86%8D%E6%AC%A1%E5%92%8C%E9%AB%98%E7%B2%B1%E7%9B%B8%E9%81%87%23&Refer=top) 200941
 1. [刻进DNA里的中国菜](https://s.weibo.com/weibo?q=%23%E5%88%BB%E8%BF%9BDNA%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%E8%8F%9C%23&Refer=top) 200195
