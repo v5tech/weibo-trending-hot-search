@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-01-14 02:38:00.891928 
+最后更新时间 2022-01-14 02:54:36.035414 
 1. [上海疫情](https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E7%96%AB%E6%83%85&Refer=top) 1498293
 1. [骄阳似我](https://s.weibo.com/weibo?q=%E9%AA%84%E9%98%B3%E4%BC%BC%E6%88%91&Refer=top) 1086410
 1. [推动党史学习教育常态化长效化](https://s.weibo.com/weibo?q=%23%E6%8E%A8%E5%8A%A8%E5%85%9A%E5%8F%B2%E5%AD%A6%E4%B9%A0%E6%95%99%E8%82%B2%E5%B8%B8%E6%80%81%E5%8C%96%E9%95%BF%E6%95%88%E5%8C%96%23&Refer=top) 928757
@@ -38,6 +38,7 @@
 1. [上海市新冠肺炎疫情防控新闻发布会](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%B8%82%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A%23&Refer=top) 261035
 1. [卫健委回应新生儿夭折男子索赔200万](https://s.weibo.com/weibo?q=%23%E5%8D%AB%E5%81%A5%E5%A7%94%E5%9B%9E%E5%BA%94%E6%96%B0%E7%94%9F%E5%84%BF%E5%A4%AD%E6%8A%98%E7%94%B7%E5%AD%90%E7%B4%A2%E8%B5%94200%E4%B8%87%23&Refer=top) 241798
 1. [宋祖儿新剧太拼了](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E7%A5%96%E5%84%BF%E6%96%B0%E5%89%A7%E5%A4%AA%E6%8B%BC%E4%BA%86%23&Refer=top) 231792
+1. [开端播放量破亿](https://s.weibo.com/weibo?q=%23%E5%BC%80%E7%AB%AF%E6%92%AD%E6%94%BE%E9%87%8F%E7%A0%B4%E4%BA%BF%23&Refer=top) 221359
 1. [上海新增3例本土无症状](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%96%B0%E5%A2%9E3%E4%BE%8B%E6%9C%AC%E5%9C%9F%E6%97%A0%E7%97%87%E7%8A%B6%23&Refer=top) 219377
 1. [苏炳添异地恋的正确打开方式](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%82%B3%E6%B7%BB%E5%BC%82%E5%9C%B0%E6%81%8B%E7%9A%84%E6%AD%A3%E7%A1%AE%E6%89%93%E5%BC%80%E6%96%B9%E5%BC%8F%23&Refer=top) 217172
 1. [爸爸去哪儿最大的孩子已经16岁了](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E5%8E%BB%E5%93%AA%E5%84%BF%E6%9C%80%E5%A4%A7%E7%9A%84%E5%AD%A9%E5%AD%90%E5%B7%B2%E7%BB%8F16%E5%B2%81%E4%BA%86%23&Refer=top) 215930
@@ -45,7 +46,6 @@
 1. [夫妻欲离婚丈夫腰藏斧头拉扯妻儿](https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E6%AC%B2%E7%A6%BB%E5%A9%9A%E4%B8%88%E5%A4%AB%E8%85%B0%E8%97%8F%E6%96%A7%E5%A4%B4%E6%8B%89%E6%89%AF%E5%A6%BB%E5%84%BF%23&Refer=top) 213644
 1. [英国禁止华为设备系迫于美国压力](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E7%A6%81%E6%AD%A2%E5%8D%8E%E4%B8%BA%E8%AE%BE%E5%A4%87%E7%B3%BB%E8%BF%AB%E4%BA%8E%E7%BE%8E%E5%9B%BD%E5%8E%8B%E5%8A%9B%23&Refer=top) 211847
 1. [王牌部队](https://s.weibo.com/weibo?q=%E7%8E%8B%E7%89%8C%E9%83%A8%E9%98%9F&Refer=top) 197659
-1. [开端播放量破亿](https://s.weibo.com/weibo?q=%23%E5%BC%80%E7%AB%AF%E6%92%AD%E6%94%BE%E9%87%8F%E7%A0%B4%E4%BA%BF%23&Refer=top) 189874
 1. [辽粤大战](https://s.weibo.com/weibo?q=%23%E8%BE%BD%E7%B2%A4%E5%A4%A7%E6%88%98%23&Refer=top) 186431
 1. [TheShy2022首秀](https://s.weibo.com/weibo?q=%23TheShy2022%E9%A6%96%E7%A7%80%23&Refer=top) 181600
 1. [舅舅给外甥包50亿红包只值5毛钱](https://s.weibo.com/weibo?q=%23%E8%88%85%E8%88%85%E7%BB%99%E5%A4%96%E7%94%A5%E5%8C%8550%E4%BA%BF%E7%BA%A2%E5%8C%85%E5%8F%AA%E5%80%BC5%E6%AF%9B%E9%92%B1%23&Refer=top) 176811
@@ -62,9 +62,11 @@
 1. [南京通报一医院工作人员核酸异常情况](https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E9%80%9A%E6%8A%A5%E4%B8%80%E5%8C%BB%E9%99%A2%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E6%A0%B8%E9%85%B8%E5%BC%82%E5%B8%B8%E6%83%85%E5%86%B5%23&Refer=top) 137130
 1. [8090后的童年老物件有多统一](https://s.weibo.com/weibo?q=%238090%E5%90%8E%E7%9A%84%E7%AB%A5%E5%B9%B4%E8%80%81%E7%89%A9%E4%BB%B6%E6%9C%89%E5%A4%9A%E7%BB%9F%E4%B8%80%23&Refer=top) 123846
 1. [CBA](https://s.weibo.com/weibo?q=CBA&Refer=top) 103775
+1. [阮经天宋祖儿都是我的菜](https://s.weibo.com/weibo?q=%23%E9%98%AE%E7%BB%8F%E5%A4%A9%E5%AE%8B%E7%A5%96%E5%84%BF%E9%83%BD%E6%98%AF%E6%88%91%E7%9A%84%E8%8F%9C%23&Refer=top) 79136
+1. [想拥有这样一张嘴](https://s.weibo.com/weibo?q=%23%E6%83%B3%E6%8B%A5%E6%9C%89%E8%BF%99%E6%A0%B7%E4%B8%80%E5%BC%A0%E5%98%B4%23&Refer=top) 70791
 1. [上海新增一处中风险地区](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%96%B0%E5%A2%9E%E4%B8%80%E5%A4%84%E4%B8%AD%E9%A3%8E%E9%99%A9%E5%9C%B0%E5%8C%BA%23&Refer=top) 70085
-1. [想拥有这样一张嘴](https://s.weibo.com/weibo?q=%23%E6%83%B3%E6%8B%A5%E6%9C%89%E8%BF%99%E6%A0%B7%E4%B8%80%E5%BC%A0%E5%98%B4%23&Refer=top) 59959
 1. [三亚市委原书记童道驰被控受贿2.74亿余元](https://s.weibo.com/weibo?q=%23%E4%B8%89%E4%BA%9A%E5%B8%82%E5%A7%94%E5%8E%9F%E4%B9%A6%E8%AE%B0%E7%AB%A5%E9%81%93%E9%A9%B0%E8%A2%AB%E6%8E%A7%E5%8F%97%E8%B4%BF2.74%E4%BA%BF%E4%BD%99%E5%85%83%23&Refer=top) 47767
+1. [街头小吃百分之九十都有它](https://s.weibo.com/weibo?q=%23%E8%A1%97%E5%A4%B4%E5%B0%8F%E5%90%83%E7%99%BE%E5%88%86%E4%B9%8B%E4%B9%9D%E5%8D%81%E9%83%BD%E6%9C%89%E5%AE%83%23&Refer=top) 39172
 <!-- END -->
 
 历史归档 [./archives](./archives)
