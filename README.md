@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-01-14 01:39:18.811347 
+最后更新时间 2022-01-14 01:53:03.031366 
 1. [上海疫情](https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E7%96%AB%E6%83%85&Refer=top) 1498293
 1. [骄阳似我](https://s.weibo.com/weibo?q=%E9%AA%84%E9%98%B3%E4%BC%BC%E6%88%91&Refer=top) 1086410
 1. [推动党史学习教育常态化长效化](https://s.weibo.com/weibo?q=%23%E6%8E%A8%E5%8A%A8%E5%85%9A%E5%8F%B2%E5%AD%A6%E4%B9%A0%E6%95%99%E8%82%B2%E5%B8%B8%E6%80%81%E5%8C%96%E9%95%BF%E6%95%88%E5%8C%96%23&Refer=top) 928757
@@ -61,7 +61,7 @@
 1. [南京通报一医院工作人员核酸异常情况](https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E9%80%9A%E6%8A%A5%E4%B8%80%E5%8C%BB%E9%99%A2%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E6%A0%B8%E9%85%B8%E5%BC%82%E5%B8%B8%E6%83%85%E5%86%B5%23&Refer=top) 137130
 1. [8090后的童年老物件有多统一](https://s.weibo.com/weibo?q=%238090%E5%90%8E%E7%9A%84%E7%AB%A5%E5%B9%B4%E8%80%81%E7%89%A9%E4%BB%B6%E6%9C%89%E5%A4%9A%E7%BB%9F%E4%B8%80%23&Refer=top) 123846
 1. [CBA](https://s.weibo.com/weibo?q=CBA&Refer=top) 103775
-1. [上海新增一处中风险地区](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%96%B0%E5%A2%9E%E4%B8%80%E5%A4%84%E4%B8%AD%E9%A3%8E%E9%99%A9%E5%9C%B0%E5%8C%BA%23&Refer=top) 66793
+1. [上海新增一处中风险地区](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%96%B0%E5%A2%9E%E4%B8%80%E5%A4%84%E4%B8%AD%E9%A3%8E%E9%99%A9%E5%9C%B0%E5%8C%BA%23&Refer=top) 70085
 1. [三亚市委原书记童道驰被控受贿2.74亿余元](https://s.weibo.com/weibo?q=%23%E4%B8%89%E4%BA%9A%E5%B8%82%E5%A7%94%E5%8E%9F%E4%B9%A6%E8%AE%B0%E7%AB%A5%E9%81%93%E9%A9%B0%E8%A2%AB%E6%8E%A7%E5%8F%97%E8%B4%BF2.74%E4%BA%BF%E4%BD%99%E5%85%83%23&Refer=top) 47767
 <!-- END -->
 
