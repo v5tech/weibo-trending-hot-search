@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-01-19 03:34:33.091032 
+最后更新时间 2022-01-19 03:48:55.161396 
 1. [李诗情塌房了](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%AF%97%E6%83%85%E5%A1%8C%E6%88%BF%E4%BA%86%23&Refer=top) 2297021
 1. [刘涛准备药检](https://s.weibo.com/weibo?q=%23%E5%88%98%E6%B6%9B%E5%87%86%E5%A4%87%E8%8D%AF%E6%A3%80%23&Refer=top) 1712470
 1. [网上直播妇科手术涉事医生已被抓获](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%B8%8A%E7%9B%B4%E6%92%AD%E5%A6%87%E7%A7%91%E6%89%8B%E6%9C%AF%E6%B6%89%E4%BA%8B%E5%8C%BB%E7%94%9F%E5%B7%B2%E8%A2%AB%E6%8A%93%E8%8E%B7%23&Refer=top) 1359707
@@ -64,7 +64,7 @@
 1. [虎卡 晋升](https://s.weibo.com/weibo?q=%E8%99%8E%E5%8D%A1%20%E6%99%8B%E5%8D%87&Refer=top) 102983
 1. [亢奋](https://s.weibo.com/weibo?q=%E4%BA%A2%E5%A5%8B&Refer=top) 96453
 1. [卢笛 肖鹤云](https://s.weibo.com/weibo?q=%E5%8D%A2%E7%AC%9B%20%E8%82%96%E9%B9%A4%E4%BA%91&Refer=top) 71165
-1. [成源殴打他人拘留10日](https://s.weibo.com/weibo?q=%23%E6%88%90%E6%BA%90%E6%AE%B4%E6%89%93%E4%BB%96%E4%BA%BA%E6%8B%98%E7%95%9910%E6%97%A5%23&Refer=top) 66107
+1. [成源殴打他人拘留10日](https://s.weibo.com/weibo?q=%23%E6%88%90%E6%BA%90%E6%AE%B4%E6%89%93%E4%BB%96%E4%BA%BA%E6%8B%98%E7%95%9910%E6%97%A5%23&Refer=top) 70444
 <!-- END -->
 
 历史归档 [./archives](./archives)
