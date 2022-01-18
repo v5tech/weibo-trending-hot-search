@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-01-19 07:09:50.813208 
+最后更新时间 2022-01-19 07:24:47.731468 
 1. [李诗情塌房了](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%AF%97%E6%83%85%E5%A1%8C%E6%88%BF%E4%BA%86%23&Refer=top) 2297021
 1. [刘涛准备药检](https://s.weibo.com/weibo?q=%23%E5%88%98%E6%B6%9B%E5%87%86%E5%A4%87%E8%8D%AF%E6%A3%80%23&Refer=top) 1712470
 1. [网上直播妇科手术涉事医生已被抓获](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%B8%8A%E7%9B%B4%E6%92%AD%E5%A6%87%E7%A7%91%E6%89%8B%E6%9C%AF%E6%B6%89%E4%BA%8B%E5%8C%BB%E7%94%9F%E5%B7%B2%E8%A2%AB%E6%8A%93%E8%8E%B7%23&Refer=top) 1359707
@@ -33,6 +33,8 @@
 1. [陈小春跟hoho聊天秒变慈爱脸](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%B0%8F%E6%98%A5%E8%B7%9Fhoho%E8%81%8A%E5%A4%A9%E7%A7%92%E5%8F%98%E6%85%88%E7%88%B1%E8%84%B8%23&Refer=top) 338184
 1. [汤加政府在火山喷发后发布首个声明](https://s.weibo.com/weibo?q=%23%E6%B1%A4%E5%8A%A0%E6%94%BF%E5%BA%9C%E5%9C%A8%E7%81%AB%E5%B1%B1%E5%96%B7%E5%8F%91%E5%90%8E%E5%8F%91%E5%B8%83%E9%A6%96%E4%B8%AA%E5%A3%B0%E6%98%8E%23&Refer=top) 333230
 1. [15草莓](https://s.weibo.com/weibo?q=15%E8%8D%89%E8%8E%93&Refer=top) 301926
+1. [全球最大切割钻石亮相迪拜](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E5%88%87%E5%89%B2%E9%92%BB%E7%9F%B3%E4%BA%AE%E7%9B%B8%E8%BF%AA%E6%8B%9C%23&Refer=top) 300235
+1. [刘奕君回复网友评论](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%A5%95%E5%90%9B%E5%9B%9E%E5%A4%8D%E7%BD%91%E5%8F%8B%E8%AF%84%E8%AE%BA%23&Refer=top) 289501
 1. [谢广坤终于挨揍了](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%B9%BF%E5%9D%A4%E7%BB%88%E4%BA%8E%E6%8C%A8%E6%8F%8D%E4%BA%86%23&Refer=top) 272756
 1. [广东人宅家自制烤肉自助](https://s.weibo.com/weibo?q=%E5%B9%BF%E4%B8%9C%E4%BA%BA%E5%AE%85%E5%AE%B6%E8%87%AA%E5%88%B6%E7%83%A4%E8%82%89%E8%87%AA%E5%8A%A9&Refer=top) 252771
 1. [频繁做噩梦会增加心梗风险](https://s.weibo.com/weibo?q=%23%E9%A2%91%E7%B9%81%E5%81%9A%E5%99%A9%E6%A2%A6%E4%BC%9A%E5%A2%9E%E5%8A%A0%E5%BF%83%E6%A2%97%E9%A3%8E%E9%99%A9%23&Refer=top) 249210
@@ -54,20 +56,19 @@
 1. [半熟恋人](https://s.weibo.com/weibo?q=%E5%8D%8A%E7%86%9F%E6%81%8B%E4%BA%BA&Refer=top) 162115
 1. [从殡仪馆打来的电话](https://s.weibo.com/weibo?q=%23%E4%BB%8E%E6%AE%A1%E4%BB%AA%E9%A6%86%E6%89%93%E6%9D%A5%E7%9A%84%E7%94%B5%E8%AF%9D%23&Refer=top) 161972
 1. [新年红色系穿搭公式](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%B9%B4%E7%BA%A2%E8%89%B2%E7%B3%BB%E7%A9%BF%E6%90%AD%E5%85%AC%E5%BC%8F%23&Refer=top) 161570
-1. [全球最大切割钻石亮相迪拜](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E5%88%87%E5%89%B2%E9%92%BB%E7%9F%B3%E4%BA%AE%E7%9B%B8%E8%BF%AA%E6%8B%9C%23&Refer=top) 159138
 1. [男子狂蹬车为120开辟生命通道](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%8B%82%E8%B9%AC%E8%BD%A6%E4%B8%BA120%E5%BC%80%E8%BE%9F%E7%94%9F%E5%91%BD%E9%80%9A%E9%81%93%23&Refer=top) 146741
 1. [男子彩票没中带儿子连砸7处寺庙](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%BD%A9%E7%A5%A8%E6%B2%A1%E4%B8%AD%E5%B8%A6%E5%84%BF%E5%AD%90%E8%BF%9E%E7%A0%B87%E5%A4%84%E5%AF%BA%E5%BA%99%23&Refer=top) 139612
 1. [镜双城](https://s.weibo.com/weibo?q=%E9%95%9C%E5%8F%8C%E5%9F%8E&Refer=top) 138775
 1. [公公夜晚骑车50里给儿媳送物资](https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%85%AC%E5%A4%9C%E6%99%9A%E9%AA%91%E8%BD%A650%E9%87%8C%E7%BB%99%E5%84%BF%E5%AA%B3%E9%80%81%E7%89%A9%E8%B5%84%23&Refer=top) 136729
 1. [陈飞宇说应该提前买个保险](https://s.weibo.com/weibo?q=%23%E9%99%88%E9%A3%9E%E5%AE%87%E8%AF%B4%E5%BA%94%E8%AF%A5%E6%8F%90%E5%89%8D%E4%B9%B0%E4%B8%AA%E4%BF%9D%E9%99%A9%23&Refer=top) 128202
-1. [刘奕君回复网友评论](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%A5%95%E5%90%9B%E5%9B%9E%E5%A4%8D%E7%BD%91%E5%8F%8B%E8%AF%84%E8%AE%BA%23&Refer=top) 126843
 1. [2022最小满月晴好天气自家阳台可观赏](https://s.weibo.com/weibo?q=%232022%E6%9C%80%E5%B0%8F%E6%BB%A1%E6%9C%88%E6%99%B4%E5%A5%BD%E5%A4%A9%E6%B0%94%E8%87%AA%E5%AE%B6%E9%98%B3%E5%8F%B0%E5%8F%AF%E8%A7%82%E8%B5%8F%23&Refer=top) 122358
 1. [汤加火山](https://s.weibo.com/weibo?q=%23%E6%B1%A4%E5%8A%A0%E7%81%AB%E5%B1%B1%23&Refer=top) 111919
 1. [虎卡 晋升](https://s.weibo.com/weibo?q=%E8%99%8E%E5%8D%A1%20%E6%99%8B%E5%8D%87&Refer=top) 102983
 1. [亢奋](https://s.weibo.com/weibo?q=%E4%BA%A2%E5%A5%8B&Refer=top) 96453
-1. [成源殴打他人拘留10日](https://s.weibo.com/weibo?q=%23%E6%88%90%E6%BA%90%E6%AE%B4%E6%89%93%E4%BB%96%E4%BA%BA%E6%8B%98%E7%95%9910%E6%97%A5%23&Refer=top) 74903
+1. [被迫营业的猫咪有多无奈](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E8%BF%AB%E8%90%A5%E4%B8%9A%E7%9A%84%E7%8C%AB%E5%92%AA%E6%9C%89%E5%A4%9A%E6%97%A0%E5%A5%88%23&Refer=top) 84007
+1. [成源殴打他人拘留10日](https://s.weibo.com/weibo?q=%23%E6%88%90%E6%BA%90%E6%AE%B4%E6%89%93%E4%BB%96%E4%BA%BA%E6%8B%98%E7%95%9910%E6%97%A5%23&Refer=top) 80280
+1. [辽宁球迷拉横幅想念郭士强](https://s.weibo.com/weibo?q=%23%E8%BE%BD%E5%AE%81%E7%90%83%E8%BF%B7%E6%8B%89%E6%A8%AA%E5%B9%85%E6%83%B3%E5%BF%B5%E9%83%AD%E5%A3%AB%E5%BC%BA%23&Refer=top) 71468
 1. [卢笛 肖鹤云](https://s.weibo.com/weibo?q=%E5%8D%A2%E7%AC%9B%20%E8%82%96%E9%B9%A4%E4%BA%91&Refer=top) 71165
-1. [被迫营业的猫咪有多无奈](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E8%BF%AB%E8%90%A5%E4%B8%9A%E7%9A%84%E7%8C%AB%E5%92%AA%E6%9C%89%E5%A4%9A%E6%97%A0%E5%A5%88%23&Refer=top) 44825
 <!-- END -->
 
 历史归档 [./archives](./archives)
