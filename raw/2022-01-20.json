@@ -167,6 +167,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E6%B1%82%E8%80%81%E5%BC%A0%E5%A4%8D%E6%B4%BB%23&Refer=top",
     "hot": 164313
   },
+  "新冠病毒在纸上可存活2小时": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E5%9C%A8%E7%BA%B8%E4%B8%8A%E5%8F%AF%E5%AD%98%E6%B4%BB2%E5%B0%8F%E6%97%B6%23&Refer=top",
+    "hot": 161867
+  },
   "重庆姐弟坠亡案两被告人被指已上诉": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E5%A7%90%E5%BC%9F%E5%9D%A0%E4%BA%A1%E6%A1%88%E4%B8%A4%E8%A2%AB%E5%91%8A%E4%BA%BA%E8%A2%AB%E6%8C%87%E5%B7%B2%E4%B8%8A%E8%AF%89%23&Refer=top",
     "hot": 161159
@@ -218,9 +222,5 @@
   "那年我们": {
     "url": "https://s.weibo.com/weibo?q=%E9%82%A3%E5%B9%B4%E6%88%91%E4%BB%AC&Refer=top",
     "hot": 61213
-  },
-  "新冠病毒在纸上可存活2小时": {
-    "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E5%9C%A8%E7%BA%B8%E4%B8%8A%E5%8F%AF%E5%AD%98%E6%B4%BB2%E5%B0%8F%E6%97%B6%23&Refer=top",
-    "hot": 52406
   }
 }
