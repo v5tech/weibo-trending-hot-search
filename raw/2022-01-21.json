@@ -223,12 +223,12 @@
     "url": "https://s.weibo.com/weibo?q=%E5%A4%A7%E5%AF%92&Refer=top",
     "hot": 111205
   },
+  "西安三桥": {
+    "url": "https://s.weibo.com/weibo?q=%E8%A5%BF%E5%AE%89%E4%B8%89%E6%A1%A5&Refer=top",
+    "hot": 87647
+  },
   "王者荣耀": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%23&Refer=top",
     "hot": 77887
-  },
-  "西安三桥": {
-    "url": "https://s.weibo.com/weibo?q=%E8%A5%BF%E5%AE%89%E4%B8%89%E6%A1%A5&Refer=top",
-    "hot": 62924
   }
 }
