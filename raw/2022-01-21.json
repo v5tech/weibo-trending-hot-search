@@ -225,7 +225,7 @@
   },
   "西安三桥": {
     "url": "https://s.weibo.com/weibo?q=%E8%A5%BF%E5%AE%89%E4%B8%89%E6%A1%A5&Refer=top",
-    "hot": 100407
+    "hot": 107484
   },
   "王者荣耀": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%23&Refer=top",
@@ -233,10 +233,14 @@
   },
   "国防部回应美舰擅闯西沙领海": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%98%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E8%88%B0%E6%93%85%E9%97%AF%E8%A5%BF%E6%B2%99%E9%A2%86%E6%B5%B7%23&Refer=top",
-    "hot": 50498
+    "hot": 73680
   },
   "四川哪个地方的面最好吃": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%93%AA%E4%B8%AA%E5%9C%B0%E6%96%B9%E7%9A%84%E9%9D%A2%E6%9C%80%E5%A5%BD%E5%90%83%23&Refer=top",
-    "hot": 42396
+    "hot": 47358
+  },
+  "全国首个GDP超12万亿省份": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E9%A6%96%E4%B8%AAGDP%E8%B6%8512%E4%B8%87%E4%BA%BF%E7%9C%81%E4%BB%BD%23&Refer=top",
+    "hot": 32424
   }
 }
