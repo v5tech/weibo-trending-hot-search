@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-01-21 06:48:44.800377 
+最后更新时间 2022-01-21 07:10:30.799839 
 1. [开端大结局](https://s.weibo.com/weibo?q=%23%E5%BC%80%E7%AB%AF%E5%A4%A7%E7%BB%93%E5%B1%80%23&Refer=top) 1842795
 1. [疑似王某飞妻子称父母让她为孩子忍耐](https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC%E7%8E%8B%E6%9F%90%E9%A3%9E%E5%A6%BB%E5%AD%90%E7%A7%B0%E7%88%B6%E6%AF%8D%E8%AE%A9%E5%A5%B9%E4%B8%BA%E5%AD%A9%E5%AD%90%E5%BF%8D%E8%80%90%23&Refer=top) 1356066
 1. [坚持以零容忍态度惩治腐败](https://s.weibo.com/weibo?q=%23%E5%9D%9A%E6%8C%81%E4%BB%A5%E9%9B%B6%E5%AE%B9%E5%BF%8D%E6%80%81%E5%BA%A6%E6%83%A9%E6%B2%BB%E8%85%90%E8%B4%A5%23&Refer=top) 1132469
@@ -45,13 +45,14 @@
 1. [河南 防疫措施](https://s.weibo.com/weibo?q=%E6%B2%B3%E5%8D%97%20%E9%98%B2%E7%96%AB%E6%8E%AA%E6%96%BD&Refer=top) 246518
 1. [流光之城](https://s.weibo.com/weibo?q=%E6%B5%81%E5%85%89%E4%B9%8B%E5%9F%8E&Refer=top) 235365
 1. [医院官微赞扬英国相关责任人停职](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E5%AE%98%E5%BE%AE%E8%B5%9E%E6%89%AC%E8%8B%B1%E5%9B%BD%E7%9B%B8%E5%85%B3%E8%B4%A3%E4%BB%BB%E4%BA%BA%E5%81%9C%E8%81%8C%23&Refer=top) 231635
+1. [警方介入父亲用皮带抽打小孩事件](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5%E7%88%B6%E4%BA%B2%E7%94%A8%E7%9A%AE%E5%B8%A6%E6%8A%BD%E6%89%93%E5%B0%8F%E5%AD%A9%E4%BA%8B%E4%BB%B6%23&Refer=top) 222070
 1. [张若昀说两袖青蛇练习中](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%8B%A5%E6%98%80%E8%AF%B4%E4%B8%A4%E8%A2%96%E9%9D%92%E8%9B%87%E7%BB%83%E4%B9%A0%E4%B8%AD%23&Refer=top) 207383
 1. [刘宇宁直播](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E7%9B%B4%E6%92%AD%23&Refer=top) 206121
 1. [金钱豹发型](https://s.weibo.com/weibo?q=%23%E9%87%91%E9%92%B1%E8%B1%B9%E5%8F%91%E5%9E%8B%23&Refer=top) 186888
 1. [孟美岐我心飞扬确定撤档](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E7%BE%8E%E5%B2%90%E6%88%91%E5%BF%83%E9%A3%9E%E6%89%AC%E7%A1%AE%E5%AE%9A%E6%92%A4%E6%A1%A3%23&Refer=top) 185807
 1. [北京至成都一航班挂出7700紧急代码](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E8%87%B3%E6%88%90%E9%83%BD%E4%B8%80%E8%88%AA%E7%8F%AD%E6%8C%82%E5%87%BA7700%E7%B4%A7%E6%80%A5%E4%BB%A3%E7%A0%81%23&Refer=top) 184453
 1. [两猫被困只有一只活了下来](https://s.weibo.com/weibo?q=%E4%B8%A4%E7%8C%AB%E8%A2%AB%E5%9B%B0%E5%8F%AA%E6%9C%89%E4%B8%80%E5%8F%AA%E6%B4%BB%E4%BA%86%E4%B8%8B%E6%9D%A5&Refer=top) 162560
-1. [警方介入父亲用皮带抽打小孩事件](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5%E7%88%B6%E4%BA%B2%E7%94%A8%E7%9A%AE%E5%B8%A6%E6%8A%BD%E6%89%93%E5%B0%8F%E5%AD%A9%E4%BA%8B%E4%BB%B6%23&Refer=top) 158246
+1. [西安三桥](https://s.weibo.com/weibo?q=%E8%A5%BF%E5%AE%89%E4%B8%89%E6%A1%A5&Refer=top) 156134
 1. [父母省钱的方式有多绝](https://s.weibo.com/weibo?q=%23%E7%88%B6%E6%AF%8D%E7%9C%81%E9%92%B1%E7%9A%84%E6%96%B9%E5%BC%8F%E6%9C%89%E5%A4%9A%E7%BB%9D%23&Refer=top) 146640
 1. [交友软件有多离谱](https://s.weibo.com/weibo?q=%23%E4%BA%A4%E5%8F%8B%E8%BD%AF%E4%BB%B6%E6%9C%89%E5%A4%9A%E7%A6%BB%E8%B0%B1%23&Refer=top) 138284
 1. [BigHit新男团成员](https://s.weibo.com/weibo?q=%23BigHit%E6%96%B0%E7%94%B7%E5%9B%A2%E6%88%90%E5%91%98%23&Refer=top) 138199
@@ -59,16 +60,17 @@
 1. [马龙正手](https://s.weibo.com/weibo?q=%E9%A9%AC%E9%BE%99%E6%AD%A3%E6%89%8B&Refer=top) 137747
 1. [奇妙夜](https://s.weibo.com/weibo?q=%E5%A5%87%E5%A6%99%E5%A4%9C&Refer=top) 137320
 1. [骚白](https://s.weibo.com/weibo?q=%E9%AA%9A%E7%99%BD&Refer=top) 135774
+1. [国防部回应美舰擅闯西沙领海](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%98%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E8%88%B0%E6%93%85%E9%97%AF%E8%A5%BF%E6%B2%99%E9%A2%86%E6%B5%B7%23&Refer=top) 131739
 1. [警方通报陕西一公司高管家暴妻子](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E9%99%95%E8%A5%BF%E4%B8%80%E5%85%AC%E5%8F%B8%E9%AB%98%E7%AE%A1%E5%AE%B6%E6%9A%B4%E5%A6%BB%E5%AD%90%23&Refer=top) 124940
 1. [OMG BLG](https://s.weibo.com/weibo?q=OMG%20BLG&Refer=top) 119356
 1. [圆满](https://s.weibo.com/weibo?q=%E5%9C%86%E6%BB%A1&Refer=top) 118636
 1. [热爱竞新春](https://s.weibo.com/weibo?q=%E7%83%AD%E7%88%B1%E7%AB%9E%E6%96%B0%E6%98%A5&Refer=top) 116353
 1. [大寒](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%AF%92&Refer=top) 111205
-1. [西安三桥](https://s.weibo.com/weibo?q=%E8%A5%BF%E5%AE%89%E4%B8%89%E6%A1%A5&Refer=top) 107484
+1. [全国首个GDP超12万亿省份](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E9%A6%96%E4%B8%AAGDP%E8%B6%8512%E4%B8%87%E4%BA%BF%E7%9C%81%E4%BB%BD%23&Refer=top) 99008
 1. [王者荣耀](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%23&Refer=top) 77887
-1. [国防部回应美舰擅闯西沙领海](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%98%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E8%88%B0%E6%93%85%E9%97%AF%E8%A5%BF%E6%B2%99%E9%A2%86%E6%B5%B7%23&Refer=top) 73680
-1. [四川哪个地方的面最好吃](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%93%AA%E4%B8%AA%E5%9C%B0%E6%96%B9%E7%9A%84%E9%9D%A2%E6%9C%80%E5%A5%BD%E5%90%83%23&Refer=top) 47358
-1. [全国首个GDP超12万亿省份](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E9%A6%96%E4%B8%AAGDP%E8%B6%8512%E4%B8%87%E4%BA%BF%E7%9C%81%E4%BB%BD%23&Refer=top) 32424
+1. [员工称虎景房与动物园同一老板](https://s.weibo.com/weibo?q=%23%E5%91%98%E5%B7%A5%E7%A7%B0%E8%99%8E%E6%99%AF%E6%88%BF%E4%B8%8E%E5%8A%A8%E7%89%A9%E5%9B%AD%E5%90%8C%E4%B8%80%E8%80%81%E6%9D%BF%23&Refer=top) 66098
+1. [四川哪个地方的面最好吃](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%93%AA%E4%B8%AA%E5%9C%B0%E6%96%B9%E7%9A%84%E9%9D%A2%E6%9C%80%E5%A5%BD%E5%90%83%23&Refer=top) 64538
+1. [沉浸式洗地毯有多舒服](https://s.weibo.com/weibo?q=%23%E6%B2%89%E6%B5%B8%E5%BC%8F%E6%B4%97%E5%9C%B0%E6%AF%AF%E6%9C%89%E5%A4%9A%E8%88%92%E6%9C%8D%23&Refer=top) 49483
 <!-- END -->
 
 历史归档 [./archives](./archives)
