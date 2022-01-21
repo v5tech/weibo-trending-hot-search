@@ -191,6 +191,10 @@
     "url": "https://s.weibo.com/weibo?q=%E7%94%A8%E7%B3%AF%E7%B1%B3%E9%A5%AD%E5%81%9A%E7%88%86%E7%B1%B3%E8%8A%B1&Refer=top",
     "hot": 180014
   },
+  "北京丰台新增10名感染者": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E4%B8%B0%E5%8F%B0%E6%96%B0%E5%A2%9E10%E5%90%8D%E6%84%9F%E6%9F%93%E8%80%85%23&Refer=top",
+    "hot": 178360
+  },
   "李现现身狙击手观影场": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%B0%E7%8E%B0%E8%BA%AB%E7%8B%99%E5%87%BB%E6%89%8B%E8%A7%82%E5%BD%B1%E5%9C%BA%23&Refer=top",
     "hot": 173760
@@ -226,9 +230,5 @@
   "小众闽南语歌曲有多好听": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%97%E9%97%BD%E5%8D%97%E8%AF%AD%E6%AD%8C%E6%9B%B2%E6%9C%89%E5%A4%9A%E5%A5%BD%E5%90%AC%23&Refer=top",
     "hot": 98921
-  },
-  "北京丰台新增10名感染者": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E4%B8%B0%E5%8F%B0%E6%96%B0%E5%A2%9E10%E5%90%8D%E6%84%9F%E6%9F%93%E8%80%85%23&Refer=top",
-    "hot": 91966
   }
 }
