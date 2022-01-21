@@ -233,10 +233,14 @@
   },
   "时光音乐会": {
     "url": "https://s.weibo.com/weibo?q=%E6%97%B6%E5%85%89%E9%9F%B3%E4%B9%90%E4%BC%9A&Refer=top",
-    "hot": 82101
+    "hot": 82377
   },
   "零容忍": {
     "url": "https://s.weibo.com/weibo?q=%E9%9B%B6%E5%AE%B9%E5%BF%8D&Refer=top",
     "hot": 48571
+  },
+  "广东男篮外援莱多完成注册": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E7%94%B7%E7%AF%AE%E5%A4%96%E6%8F%B4%E8%8E%B1%E5%A4%9A%E5%AE%8C%E6%88%90%E6%B3%A8%E5%86%8C%23&Refer=top",
+    "hot": 44223
   }
 }
