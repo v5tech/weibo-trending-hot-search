@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-01-24 03:20:26.837089 
+最后更新时间 2022-01-24 03:34:00.026758 
 1. [Rookie](https://s.weibo.com/weibo?q=Rookie&Refer=top) 1186847
 1. [部分地方绿码有星要隔离14天](https://s.weibo.com/weibo?q=%23%E9%83%A8%E5%88%86%E5%9C%B0%E6%96%B9%E7%BB%BF%E7%A0%81%E6%9C%89%E6%98%9F%E8%A6%81%E9%9A%94%E7%A6%BB14%E5%A4%A9%23&Refer=top) 759299
 1. [聚焦国之大者强化政治监督](https://s.weibo.com/weibo?q=%23%E8%81%9A%E7%84%A6%E5%9B%BD%E4%B9%8B%E5%A4%A7%E8%80%85%E5%BC%BA%E5%8C%96%E6%94%BF%E6%B2%BB%E7%9B%91%E7%9D%A3%23&Refer=top) 746045
