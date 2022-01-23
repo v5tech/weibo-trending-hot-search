@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-01-24 06:37:20.576133 
+最后更新时间 2022-01-24 06:48:39.397683 
 1. [Rookie](https://s.weibo.com/weibo?q=Rookie&Refer=top) 1186847
 1. [部分地方绿码有星要隔离14天](https://s.weibo.com/weibo?q=%23%E9%83%A8%E5%88%86%E5%9C%B0%E6%96%B9%E7%BB%BF%E7%A0%81%E6%9C%89%E6%98%9F%E8%A6%81%E9%9A%94%E7%A6%BB14%E5%A4%A9%23&Refer=top) 759299
 1. [聚焦国之大者强化政治监督](https://s.weibo.com/weibo?q=%23%E8%81%9A%E7%84%A6%E5%9B%BD%E4%B9%8B%E5%A4%A7%E8%80%85%E5%BC%BA%E5%8C%96%E6%94%BF%E6%B2%BB%E7%9B%91%E7%9D%A3%23&Refer=top) 746045
@@ -63,12 +63,13 @@
 1. [新疆霍尔果斯新增2例无症状](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E9%9C%8D%E5%B0%94%E6%9E%9C%E6%96%AF%E6%96%B0%E5%A2%9E2%E4%BE%8B%E6%97%A0%E7%97%87%E7%8A%B6%23&Refer=top) 126430
 1. [福岛第一核电站泄漏4吨冷冻液](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%B2%9B%E7%AC%AC%E4%B8%80%E6%A0%B8%E7%94%B5%E7%AB%99%E6%B3%84%E6%BC%8F4%E5%90%A8%E5%86%B7%E5%86%BB%E6%B6%B2%23&Refer=top) 117033
 1. [王楚钦vs林高远](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E6%9E%97%E9%AB%98%E8%BF%9C%23&Refer=top) 110301
+1. [夫妻高速吵架丈夫停车暴走](https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E9%AB%98%E9%80%9F%E5%90%B5%E6%9E%B6%E4%B8%88%E5%A4%AB%E5%81%9C%E8%BD%A6%E6%9A%B4%E8%B5%B0%23&Refer=top) 100437
+1. [北京即日起调整病例情况发布形式](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%8D%B3%E6%97%A5%E8%B5%B7%E8%B0%83%E6%95%B4%E7%97%85%E4%BE%8B%E6%83%85%E5%86%B5%E5%8F%91%E5%B8%83%E5%BD%A2%E5%BC%8F%23&Refer=top) 98885
 1. [牧民雪中奔马送中国健儿出征](https://s.weibo.com/weibo?q=%23%E7%89%A7%E6%B0%91%E9%9B%AA%E4%B8%AD%E5%A5%94%E9%A9%AC%E9%80%81%E4%B8%AD%E5%9B%BD%E5%81%A5%E5%84%BF%E5%87%BA%E5%BE%81%23&Refer=top) 97884
-1. [夫妻高速吵架丈夫停车暴走](https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E9%AB%98%E9%80%9F%E5%90%B5%E6%9E%B6%E4%B8%88%E5%A4%AB%E5%81%9C%E8%BD%A6%E6%9A%B4%E8%B5%B0%23&Refer=top) 87678
-1. [沈腾说他作为一个母亲必须护住这个蛋](https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E8%AF%B4%E4%BB%96%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E6%AF%8D%E4%BA%B2%E5%BF%85%E9%A1%BB%E6%8A%A4%E4%BD%8F%E8%BF%99%E4%B8%AA%E8%9B%8B%23&Refer=top) 84125
-1. [北京即日起调整病例情况发布形式](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%8D%B3%E6%97%A5%E8%B5%B7%E8%B0%83%E6%95%B4%E7%97%85%E4%BE%8B%E6%83%85%E5%86%B5%E5%8F%91%E5%B8%83%E5%BD%A2%E5%BC%8F%23&Refer=top) 75745
-1. [雪中悍刀行后劲好大](https://s.weibo.com/weibo?q=%23%E9%9B%AA%E4%B8%AD%E6%82%8D%E5%88%80%E8%A1%8C%E5%90%8E%E5%8A%B2%E5%A5%BD%E5%A4%A7%23&Refer=top) 27449
-1. [职场妈妈比全职妈妈更能实现自我价值吗](https://s.weibo.com/weibo?q=%23%E8%81%8C%E5%9C%BA%E5%A6%88%E5%A6%88%E6%AF%94%E5%85%A8%E8%81%8C%E5%A6%88%E5%A6%88%E6%9B%B4%E8%83%BD%E5%AE%9E%E7%8E%B0%E8%87%AA%E6%88%91%E4%BB%B7%E5%80%BC%E5%90%97%23&Refer=top) 24484
+1. [沈腾说他作为一个母亲必须护住这个蛋](https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E8%AF%B4%E4%BB%96%E4%BD%9C%E4%B8%BA%E4%B8%80%E4%B8%AA%E6%AF%8D%E4%BA%B2%E5%BF%85%E9%A1%BB%E6%8A%A4%E4%BD%8F%E8%BF%99%E4%B8%AA%E8%9B%8B%23&Refer=top) 93339
+1. [职场妈妈比全职妈妈更能实现自我价值吗](https://s.weibo.com/weibo?q=%23%E8%81%8C%E5%9C%BA%E5%A6%88%E5%A6%88%E6%AF%94%E5%85%A8%E8%81%8C%E5%A6%88%E5%A6%88%E6%9B%B4%E8%83%BD%E5%AE%9E%E7%8E%B0%E8%87%AA%E6%88%91%E4%BB%B7%E5%80%BC%E5%90%97%23&Refer=top) 47214
+1. [聂宇晟拿的是女主剧本吧](https://s.weibo.com/weibo?q=%23%E8%81%82%E5%AE%87%E6%99%9F%E6%8B%BF%E7%9A%84%E6%98%AF%E5%A5%B3%E4%B8%BB%E5%89%A7%E6%9C%AC%E5%90%A7%23&Refer=top) 40342
+1. [雪中悍刀行后劲好大](https://s.weibo.com/weibo?q=%23%E9%9B%AA%E4%B8%AD%E6%82%8D%E5%88%80%E8%A1%8C%E5%90%8E%E5%8A%B2%E5%A5%BD%E5%A4%A7%23&Refer=top) 28156
 <!-- END -->
 
 历史归档 [./archives](./archives)
