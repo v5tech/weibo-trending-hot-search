@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-01-25 01:48:43.032755 
+最后更新时间 2022-01-25 02:10:45.395996 
 1. [05届超女是选秀天花板吧](https://s.weibo.com/weibo?q=%2305%E5%B1%8A%E8%B6%85%E5%A5%B3%E6%98%AF%E9%80%89%E7%A7%80%E5%A4%A9%E8%8A%B1%E6%9D%BF%E5%90%A7%23&Refer=top) 1506051
 1. [乌克兰](https://s.weibo.com/weibo?q=%E4%B9%8C%E5%85%8B%E5%85%B0&Refer=top) 768275
 1. [人民群众就是他的心心念念](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E7%BE%A4%E4%BC%97%E5%B0%B1%E6%98%AF%E4%BB%96%E7%9A%84%E5%BF%83%E5%BF%83%E5%BF%B5%E5%BF%B5%23&Refer=top) 752863
