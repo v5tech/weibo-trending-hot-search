@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-01-26 01:33:35.718441 
+最后更新时间 2022-01-26 01:49:05.237256 
 1. [INTO1新时代冬奥运首秀](https://s.weibo.com/weibo?q=INTO1%E6%96%B0%E6%97%B6%E4%BB%A3%E5%86%AC%E5%A5%A5%E8%BF%90%E9%A6%96%E7%A7%80&Refer=top) 1828275
 1. [学生参观私人博物馆打碎130万文物](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E5%8F%82%E8%A7%82%E7%A7%81%E4%BA%BA%E5%8D%9A%E7%89%A9%E9%A6%86%E6%89%93%E7%A2%8E130%E4%B8%87%E6%96%87%E7%89%A9%23&Refer=top) 945465
 1. [党和人民共同创造的精神财富](https://s.weibo.com/weibo?q=%23%E5%85%9A%E5%92%8C%E4%BA%BA%E6%B0%91%E5%85%B1%E5%90%8C%E5%88%9B%E9%80%A0%E7%9A%84%E7%B2%BE%E7%A5%9E%E8%B4%A2%E5%AF%8C%23&Refer=top) 723508
@@ -65,6 +65,7 @@
 1. [张杰公司被拖欠千万演唱会款项](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E5%85%AC%E5%8F%B8%E8%A2%AB%E6%8B%96%E6%AC%A0%E5%8D%83%E4%B8%87%E6%BC%94%E5%94%B1%E4%BC%9A%E6%AC%BE%E9%A1%B9%23&Refer=top) 107480
 1. [谭松韵带着满分甜度唱这首歌](https://s.weibo.com/weibo?q=%23%E8%B0%AD%E6%9D%BE%E9%9F%B5%E5%B8%A6%E7%9D%80%E6%BB%A1%E5%88%86%E7%94%9C%E5%BA%A6%E5%94%B1%E8%BF%99%E9%A6%96%E6%AD%8C%23&Refer=top) 103887
 1. [王者荣耀](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%23&Refer=top) 79096
+1. [杀人的网络暴力不整治不行了](https://s.weibo.com/weibo?q=%23%E6%9D%80%E4%BA%BA%E7%9A%84%E7%BD%91%E7%BB%9C%E6%9A%B4%E5%8A%9B%E4%B8%8D%E6%95%B4%E6%B2%BB%E4%B8%8D%E8%A1%8C%E4%BA%86%23&Refer=top) 59877
 <!-- END -->
 
 历史归档 [./archives](./archives)
