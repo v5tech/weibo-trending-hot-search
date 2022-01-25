@@ -111,6 +111,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E9%97%BA%E8%9C%9C%E9%80%81%E7%A4%BC%E6%8C%87%E5%8D%97%23&Refer=top",
     "hot": 240073
   },
+  "杀人的网络暴力不整治不行了": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%80%E4%BA%BA%E7%9A%84%E7%BD%91%E7%BB%9C%E6%9A%B4%E5%8A%9B%E4%B8%8D%E6%95%B4%E6%B2%BB%E4%B8%8D%E8%A1%8C%E4%BA%86%23&Refer=top",
+    "hot": 229378
+  },
   "奥运冠军的金牌都放哪里": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%A5%A5%E8%BF%90%E5%86%A0%E5%86%9B%E7%9A%84%E9%87%91%E7%89%8C%E9%83%BD%E6%94%BE%E5%93%AA%E9%87%8C%23&Refer=top",
     "hot": 226324
@@ -226,9 +230,5 @@
   "王者荣耀": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%23&Refer=top",
     "hot": 79096
-  },
-  "杀人的网络暴力不整治不行了": {
-    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%80%E4%BA%BA%E7%9A%84%E7%BD%91%E7%BB%9C%E6%9A%B4%E5%8A%9B%E4%B8%8D%E6%95%B4%E6%B2%BB%E4%B8%8D%E8%A1%8C%E4%BA%86%23&Refer=top",
-    "hot": 59877
   }
 }
