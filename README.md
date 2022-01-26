@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-01-27 04:38:05.858479 
+最后更新时间 2022-01-27 04:48:40.581052 
 1. [哇唧唧哇年会](https://s.weibo.com/weibo?q=%E5%93%87%E5%94%A7%E5%94%A7%E5%93%87%E5%B9%B4%E4%BC%9A&Refer=top) 2310158
 1. [杭州带星](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%B8%A6%E6%98%9F%23&Refer=top) 1838046
 1. [中国同中亚五国建交30周年视频峰会](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%90%8C%E4%B8%AD%E4%BA%9A%E4%BA%94%E5%9B%BD%E5%BB%BA%E4%BA%A430%E5%91%A8%E5%B9%B4%E8%A7%86%E9%A2%91%E5%B3%B0%E4%BC%9A%23&Refer=top) 1465896
