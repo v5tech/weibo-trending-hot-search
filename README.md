@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-01-28 04:37:59.608309 
+最后更新时间 2022-01-28 04:48:57.549518 
 1. [27岁男子打游戏到凌晨3点突发心梗](https://s.weibo.com/weibo?q=%2327%E5%B2%81%E7%94%B7%E5%AD%90%E6%89%93%E6%B8%B8%E6%88%8F%E5%88%B0%E5%87%8C%E6%99%A83%E7%82%B9%E7%AA%81%E5%8F%91%E5%BF%83%E6%A2%97%23&Refer=top) 1653110
 1. [被姜贞羽的羽毛舞台击中了](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%A7%9C%E8%B4%9E%E7%BE%BD%E7%9A%84%E7%BE%BD%E6%AF%9B%E8%88%9E%E5%8F%B0%E5%87%BB%E4%B8%AD%E4%BA%86%23&Refer=top) 1142914
 1. [时间属于奋进者历史属于奋进者](https://s.weibo.com/weibo?q=%23%E6%97%B6%E9%97%B4%E5%B1%9E%E4%BA%8E%E5%A5%8B%E8%BF%9B%E8%80%85%E5%8E%86%E5%8F%B2%E5%B1%9E%E4%BA%8E%E5%A5%8B%E8%BF%9B%E8%80%85%23&Refer=top) 1042638
@@ -65,6 +65,7 @@
 1. [鱼皮花生真的有鱼](https://s.weibo.com/weibo?q=%23%E9%B1%BC%E7%9A%AE%E8%8A%B1%E7%94%9F%E7%9C%9F%E7%9A%84%E6%9C%89%E9%B1%BC%23&Refer=top) 86286
 1. [91岁奶奶给40岁孙女发10元压岁钱](https://s.weibo.com/weibo?q=%2391%E5%B2%81%E5%A5%B6%E5%A5%B6%E7%BB%9940%E5%B2%81%E5%AD%99%E5%A5%B3%E5%8F%9110%E5%85%83%E5%8E%8B%E5%B2%81%E9%92%B1%23&Refer=top) 85590
 1. [开端](https://s.weibo.com/weibo?q=%E5%BC%80%E7%AB%AF&Refer=top) 39888
+1. [易方达出资1亿自购旗下股票基金](https://s.weibo.com/weibo?q=%23%E6%98%93%E6%96%B9%E8%BE%BE%E5%87%BA%E8%B5%841%E4%BA%BF%E8%87%AA%E8%B4%AD%E6%97%97%E4%B8%8B%E8%82%A1%E7%A5%A8%E5%9F%BA%E9%87%91%23&Refer=top) 12688
 <!-- END -->
 
 历史归档 [./archives](./archives)
