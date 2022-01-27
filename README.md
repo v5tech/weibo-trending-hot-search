@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-01-28 02:34:14.546908 
+最后更新时间 2022-01-28 02:50:34.242553 
 1. [27岁男子打游戏到凌晨3点突发心梗](https://s.weibo.com/weibo?q=%2327%E5%B2%81%E7%94%B7%E5%AD%90%E6%89%93%E6%B8%B8%E6%88%8F%E5%88%B0%E5%87%8C%E6%99%A83%E7%82%B9%E7%AA%81%E5%8F%91%E5%BF%83%E6%A2%97%23&Refer=top) 1653110
 1. [被姜贞羽的羽毛舞台击中了](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%A7%9C%E8%B4%9E%E7%BE%BD%E7%9A%84%E7%BE%BD%E6%AF%9B%E8%88%9E%E5%8F%B0%E5%87%BB%E4%B8%AD%E4%BA%86%23&Refer=top) 1142914
 1. [时间属于奋进者历史属于奋进者](https://s.weibo.com/weibo?q=%23%E6%97%B6%E9%97%B4%E5%B1%9E%E4%BA%8E%E5%A5%8B%E8%BF%9B%E8%80%85%E5%8E%86%E5%8F%B2%E5%B1%9E%E4%BA%8E%E5%A5%8B%E8%BF%9B%E8%80%85%23&Refer=top) 1042638
@@ -58,6 +58,7 @@
 1. [这真的是台下十年功](https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%9C%9F%E7%9A%84%E6%98%AF%E5%8F%B0%E4%B8%8B%E5%8D%81%E5%B9%B4%E5%8A%9F%23&Refer=top) 111769
 1. [国足可能大年初一出局](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3%E5%8F%AF%E8%83%BD%E5%A4%A7%E5%B9%B4%E5%88%9D%E4%B8%80%E5%87%BA%E5%B1%80%23&Refer=top) 111447
 1. [如何找到穿搭风格](https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E6%89%BE%E5%88%B0%E7%A9%BF%E6%90%AD%E9%A3%8E%E6%A0%BC%23&Refer=top) 108985
+1. [乌合之众的网暴行为真的管不了吗](https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%90%88%E4%B9%8B%E4%BC%97%E7%9A%84%E7%BD%91%E6%9A%B4%E8%A1%8C%E4%B8%BA%E7%9C%9F%E7%9A%84%E7%AE%A1%E4%B8%8D%E4%BA%86%E5%90%97%23&Refer=top) 104031
 1. [王者荣耀](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%23&Refer=top) 99907
 1. [为中国冬奥健儿加油](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%B8%AD%E5%9B%BD%E5%86%AC%E5%A5%A5%E5%81%A5%E5%84%BF%E5%8A%A0%E6%B2%B9&Refer=top) 95096
 1. [虎年红包算是被玩明白了](https://s.weibo.com/weibo?q=%23%E8%99%8E%E5%B9%B4%E7%BA%A2%E5%8C%85%E7%AE%97%E6%98%AF%E8%A2%AB%E7%8E%A9%E6%98%8E%E7%99%BD%E4%BA%86%23&Refer=top) 93178
