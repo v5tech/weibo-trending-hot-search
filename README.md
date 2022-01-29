@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-01-29 23:10:09.783893 
+最后更新时间 2022-01-29 23:28:15.562825 
 1. [过年前女生洗头有多纠结](https://s.weibo.com/weibo?q=%23%E8%BF%87%E5%B9%B4%E5%89%8D%E5%A5%B3%E7%94%9F%E6%B4%97%E5%A4%B4%E6%9C%89%E5%A4%9A%E7%BA%A0%E7%BB%93%23&Refer=top) 3611793
 1. [春晚彩排时孙俪要求邓超每天发体重照片](https://s.weibo.com/weibo?q=%E6%98%A5%E6%99%9A%E5%BD%A9%E6%8E%92%E6%97%B6%E5%AD%99%E4%BF%AA%E8%A6%81%E6%B1%82%E9%82%93%E8%B6%85%E6%AF%8F%E5%A4%A9%E5%8F%91%E4%BD%93%E9%87%8D%E7%85%A7%E7%89%87&Refer=top) 2998972
 1. [儿子收入下滑77岁老人连划十几辆新能源车](https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E6%94%B6%E5%85%A5%E4%B8%8B%E6%BB%9177%E5%B2%81%E8%80%81%E4%BA%BA%E8%BF%9E%E5%88%92%E5%8D%81%E5%87%A0%E8%BE%86%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%23&Refer=top) 2989584
@@ -52,7 +52,9 @@
 1. [天津疫情](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E7%96%AB%E6%83%85%23&Refer=top) 847188
 1. [郑州一医院深夜现300米长队做核酸](https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E4%B8%80%E5%8C%BB%E9%99%A2%E6%B7%B1%E5%A4%9C%E7%8E%B0300%E7%B1%B3%E9%95%BF%E9%98%9F%E5%81%9A%E6%A0%B8%E9%85%B8%23&Refer=top) 846735
 1. [在第八号当铺你会典当什么](https://s.weibo.com/weibo?q=%E5%9C%A8%E7%AC%AC%E5%85%AB%E5%8F%B7%E5%BD%93%E9%93%BA%E4%BD%A0%E4%BC%9A%E5%85%B8%E5%BD%93%E4%BB%80%E4%B9%88&Refer=top) 844483
+1. [安徽高考大调整](https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%BE%BD%E9%AB%98%E8%80%83%E5%A4%A7%E8%B0%83%E6%95%B4%23&Refer=top) 841218
 1. [上班 放假](https://s.weibo.com/weibo?q=%E4%B8%8A%E7%8F%AD%20%E6%94%BE%E5%81%87&Refer=top) 835238
+1. [王俊凯老喜剧人了](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E8%80%81%E5%96%9C%E5%89%A7%E4%BA%BA%E4%BA%86%23&Refer=top) 826331
 1. [杨紫有多少朋友看她的剧长大](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E6%9C%89%E5%A4%9A%E5%B0%91%E6%9C%8B%E5%8F%8B%E7%9C%8B%E5%A5%B9%E7%9A%84%E5%89%A7%E9%95%BF%E5%A4%A7%23&Refer=top) 823654
 1. [景甜一集被两个男人强吻](https://s.weibo.com/weibo?q=%23%E6%99%AF%E7%94%9C%E4%B8%80%E9%9B%86%E8%A2%AB%E4%B8%A4%E4%B8%AA%E7%94%B7%E4%BA%BA%E5%BC%BA%E5%90%BB%23&Refer=top) 817608
 1. [马丽说我不是女明星我是女演员](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%B8%BD%E8%AF%B4%E6%88%91%E4%B8%8D%E6%98%AF%E5%A5%B3%E6%98%8E%E6%98%9F%E6%88%91%E6%98%AF%E5%A5%B3%E6%BC%94%E5%91%98%23&Refer=top) 814657
@@ -70,7 +72,6 @@
 1. [易烊千玺春晚进行时新年祝福](https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%98%A5%E6%99%9A%E8%BF%9B%E8%A1%8C%E6%97%B6%E6%96%B0%E5%B9%B4%E7%A5%9D%E7%A6%8F%23&Refer=top) 702400
 1. [任嘉伦春晚进行时拒绝三连](https://s.weibo.com/weibo?q=%23%E4%BB%BB%E5%98%89%E4%BC%A6%E6%98%A5%E6%99%9A%E8%BF%9B%E8%A1%8C%E6%97%B6%E6%8B%92%E7%BB%9D%E4%B8%89%E8%BF%9E%23&Refer=top) 701864
 1. [王俊凯现身2022央视春晚第五次联排](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%8E%B0%E8%BA%AB2022%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E7%AC%AC%E4%BA%94%E6%AC%A1%E8%81%94%E6%8E%92%23&Refer=top) 682213
-1. [王俊凯老喜剧人了](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E8%80%81%E5%96%9C%E5%89%A7%E4%BA%BA%E4%BA%86%23&Refer=top) 677075
 1. [庆帝才是人世间幕后大boss](https://s.weibo.com/weibo?q=%23%E5%BA%86%E5%B8%9D%E6%89%8D%E6%98%AF%E4%BA%BA%E4%B8%96%E9%97%B4%E5%B9%95%E5%90%8E%E5%A4%A7boss%23&Refer=top) 676251
 1. [王俊凯说最喜欢的春晚演员是自己](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E8%AF%B4%E6%9C%80%E5%96%9C%E6%AC%A2%E7%9A%84%E6%98%A5%E6%99%9A%E6%BC%94%E5%91%98%E6%98%AF%E8%87%AA%E5%B7%B1%23&Refer=top) 671366
 1. [女孩开颅手术前求医生留下长发捐白血病患儿](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%BC%80%E9%A2%85%E6%89%8B%E6%9C%AF%E5%89%8D%E6%B1%82%E5%8C%BB%E7%94%9F%E7%95%99%E4%B8%8B%E9%95%BF%E5%8F%91%E6%8D%90%E7%99%BD%E8%A1%80%E7%97%85%E6%82%A3%E5%84%BF%23&Refer=top) 667966
@@ -102,9 +103,9 @@
 1. [患有阿兹海默症的八旬老人第23次走进派出所](https://s.weibo.com/weibo?q=%E6%82%A3%E6%9C%89%E9%98%BF%E5%85%B9%E6%B5%B7%E9%BB%98%E7%97%87%E7%9A%84%E5%85%AB%E6%97%AC%E8%80%81%E4%BA%BA%E7%AC%AC23%E6%AC%A1%E8%B5%B0%E8%BF%9B%E6%B4%BE%E5%87%BA%E6%89%80&Refer=top) 508612
 1. [华晨宇叫花花的原因终于找到了](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E5%8F%AB%E8%8A%B1%E8%8A%B1%E7%9A%84%E5%8E%9F%E5%9B%A0%E7%BB%88%E4%BA%8E%E6%89%BE%E5%88%B0%E4%BA%86%23&Refer=top) 503395
 1. [聂宇晟开始搞事业好带感](https://s.weibo.com/weibo?q=%23%E8%81%82%E5%AE%87%E6%99%9F%E5%BC%80%E5%A7%8B%E6%90%9E%E4%BA%8B%E4%B8%9A%E5%A5%BD%E5%B8%A6%E6%84%9F%23&Refer=top) 498330
-1. [安徽高考大调整](https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%BE%BD%E9%AB%98%E8%80%83%E5%A4%A7%E8%B0%83%E6%95%B4%23&Refer=top) 495639
 1. [周深梦幻演绎生活总该迎着光亮](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E6%A2%A6%E5%B9%BB%E6%BC%94%E7%BB%8E%E7%94%9F%E6%B4%BB%E6%80%BB%E8%AF%A5%E8%BF%8E%E7%9D%80%E5%85%89%E4%BA%AE%23&Refer=top) 495390
 1. [被春节给老人的跑腿订单备注戳到了](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%98%A5%E8%8A%82%E7%BB%99%E8%80%81%E4%BA%BA%E7%9A%84%E8%B7%91%E8%85%BF%E8%AE%A2%E5%8D%95%E5%A4%87%E6%B3%A8%E6%88%B3%E5%88%B0%E4%BA%86%23&Refer=top) 491616
+1. [一闪一闪亮星星](https://s.weibo.com/weibo?q=%E4%B8%80%E9%97%AA%E4%B8%80%E9%97%AA%E4%BA%AE%E6%98%9F%E6%98%9F&Refer=top) 489624
 1. [丁真张晚意我就是中国舞台梦幻联动](https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%9C%9F%E5%BC%A0%E6%99%9A%E6%84%8F%E6%88%91%E5%B0%B1%E6%98%AF%E4%B8%AD%E5%9B%BD%E8%88%9E%E5%8F%B0%E6%A2%A6%E5%B9%BB%E8%81%94%E5%8A%A8%23&Refer=top) 486210
 1. [英国家人帮我过了个中国年](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E5%AE%B6%E4%BA%BA%E5%B8%AE%E6%88%91%E8%BF%87%E4%BA%86%E4%B8%AA%E4%B8%AD%E5%9B%BD%E5%B9%B4%23&Refer=top) 482012
 1. [广东人过年有多敏感](https://s.weibo.com/weibo?q=%E5%B9%BF%E4%B8%9C%E4%BA%BA%E8%BF%87%E5%B9%B4%E6%9C%89%E5%A4%9A%E6%95%8F%E6%84%9F&Refer=top) 481350
@@ -115,6 +116,7 @@
 1. [刘彰冲刺高考的样子好有代入感](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%BD%B0%E5%86%B2%E5%88%BA%E9%AB%98%E8%80%83%E7%9A%84%E6%A0%B7%E5%AD%90%E5%A5%BD%E6%9C%89%E4%BB%A3%E5%85%A5%E6%84%9F%23&Refer=top) 466289
 1. [年夜饭](https://s.weibo.com/weibo?q=%E5%B9%B4%E5%A4%9C%E9%A5%AD&Refer=top) 462753
 1. [刘雨昕黑日白月舞台预告](https://s.weibo.com/weibo?q=%23%E5%88%98%E9%9B%A8%E6%98%95%E9%BB%91%E6%97%A5%E7%99%BD%E6%9C%88%E8%88%9E%E5%8F%B0%E9%A2%84%E5%91%8A%23&Refer=top) 460052
+1. [心态好的人往往做了这些事](https://s.weibo.com/weibo?q=%23%E5%BF%83%E6%80%81%E5%A5%BD%E7%9A%84%E4%BA%BA%E5%BE%80%E5%BE%80%E5%81%9A%E4%BA%86%E8%BF%99%E4%BA%9B%E4%BA%8B%23&Refer=top) 455950
 1. [百花迎春](https://s.weibo.com/weibo?q=%E7%99%BE%E8%8A%B1%E8%BF%8E%E6%98%A5&Refer=top) 454233
 1. [跟狐主任上班是一种什么体验](https://s.weibo.com/weibo?q=%23%E8%B7%9F%E7%8B%90%E4%B8%BB%E4%BB%BB%E4%B8%8A%E7%8F%AD%E6%98%AF%E4%B8%80%E7%A7%8D%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23&Refer=top) 452838
 1. [怎样判断另一半是否适合结婚](https://s.weibo.com/weibo?q=%23%E6%80%8E%E6%A0%B7%E5%88%A4%E6%96%AD%E5%8F%A6%E4%B8%80%E5%8D%8A%E6%98%AF%E5%90%A6%E9%80%82%E5%90%88%E7%BB%93%E5%A9%9A%23&Refer=top) 450050
@@ -132,7 +134,6 @@
 1. [80后爸爸辞职陪儿子滑雪5年](https://s.weibo.com/weibo?q=%2380%E5%90%8E%E7%88%B8%E7%88%B8%E8%BE%9E%E8%81%8C%E9%99%AA%E5%84%BF%E5%AD%90%E6%BB%91%E9%9B%AA5%E5%B9%B4%23&Refer=top) 429252
 1. [吵架都不背词](https://s.weibo.com/weibo?q=%E5%90%B5%E6%9E%B6%E9%83%BD%E4%B8%8D%E8%83%8C%E8%AF%8D&Refer=top) 426091
 1. [千万不要小瞧上海美食](https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E5%B0%8F%E7%9E%A7%E4%B8%8A%E6%B5%B7%E7%BE%8E%E9%A3%9F%23&Refer=top) 423956
-1. [一闪一闪亮星星](https://s.weibo.com/weibo?q=%E4%B8%80%E9%97%AA%E4%B8%80%E9%97%AA%E4%BA%AE%E6%98%9F%E6%98%9F&Refer=top) 421419
 1. [日本驻乌克兰大使馆开始部分撤离](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%A9%BB%E4%B9%8C%E5%85%8B%E5%85%B0%E5%A4%A7%E4%BD%BF%E9%A6%86%E5%BC%80%E5%A7%8B%E9%83%A8%E5%88%86%E6%92%A4%E7%A6%BB%23&Refer=top) 417534
 1. [张万森 一闪一闪亮星星](https://s.weibo.com/weibo?q=%E5%BC%A0%E4%B8%87%E6%A3%AE%20%E4%B8%80%E9%97%AA%E4%B8%80%E9%97%AA%E4%BA%AE%E6%98%9F%E6%98%9F&Refer=top) 417199
 1. [零基础学跳舞能有多滑稽](https://s.weibo.com/weibo?q=%23%E9%9B%B6%E5%9F%BA%E7%A1%80%E5%AD%A6%E8%B7%B3%E8%88%9E%E8%83%BD%E6%9C%89%E5%A4%9A%E6%BB%91%E7%A8%BD%23&Refer=top) 409430
@@ -154,6 +155,7 @@
 1. [中国正能量五个一百](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%AD%A3%E8%83%BD%E9%87%8F%E4%BA%94%E4%B8%AA%E4%B8%80%E7%99%BE%23&Refer=top) 369478
 1. [开端](https://s.weibo.com/weibo?q=%E5%BC%80%E7%AB%AF&Refer=top) 369405
 1. [一周的朋友定档](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%91%A8%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%AE%9A%E6%A1%A3%23&Refer=top) 368020
+1. [小鬼说我不会emo因为我相信光](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%AC%BC%E8%AF%B4%E6%88%91%E4%B8%8D%E4%BC%9Aemo%E5%9B%A0%E4%B8%BA%E6%88%91%E7%9B%B8%E4%BF%A1%E5%85%89%23&Refer=top) 361343
 1. [春晚进行时敢问敢答](https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%99%9A%E8%BF%9B%E8%A1%8C%E6%97%B6%E6%95%A2%E9%97%AE%E6%95%A2%E7%AD%94%23&Refer=top) 350903
 1. [王者五排不限段](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E4%BA%94%E6%8E%92%E4%B8%8D%E9%99%90%E6%AE%B5%23&Refer=top) 346420
 1. [觉醒年代台词有多硬核](https://s.weibo.com/weibo?q=%23%E8%A7%89%E9%86%92%E5%B9%B4%E4%BB%A3%E5%8F%B0%E8%AF%8D%E6%9C%89%E5%A4%9A%E7%A1%AC%E6%A0%B8%23&Refer=top) 345346
@@ -214,6 +216,7 @@
 1. [揭秘嗑瓜子上瘾的真相](https://s.weibo.com/weibo?q=%23%E6%8F%AD%E7%A7%98%E5%97%91%E7%93%9C%E5%AD%90%E4%B8%8A%E7%98%BE%E7%9A%84%E7%9C%9F%E7%9B%B8%23&Refer=top) 238559
 1. [威少半场30分](https://s.weibo.com/weibo?q=%23%E5%A8%81%E5%B0%91%E5%8D%8A%E5%9C%BA30%E5%88%86%23&Refer=top) 236372
 1. [9旬迷路老人派压岁钱式感谢民警](https://s.weibo.com/weibo?q=%239%E6%97%AC%E8%BF%B7%E8%B7%AF%E8%80%81%E4%BA%BA%E6%B4%BE%E5%8E%8B%E5%B2%81%E9%92%B1%E5%BC%8F%E6%84%9F%E8%B0%A2%E6%B0%91%E8%AD%A6%23&Refer=top) 235011
+1. [被胡宇桐行军鼓帅到了](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E8%83%A1%E5%AE%87%E6%A1%90%E8%A1%8C%E5%86%9B%E9%BC%93%E5%B8%85%E5%88%B0%E4%BA%86%23&Refer=top) 229473
 1. [杨超越直播](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%B6%85%E8%B6%8A%E7%9B%B4%E6%92%AD%23&Refer=top) 221128
 1. [杭州疫情](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E7%96%AB%E6%83%85%23&Refer=top) 220781
 1. [新的一年拒绝emo](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%9A%84%E4%B8%80%E5%B9%B4%E6%8B%92%E7%BB%9Demo%23&Refer=top) 220745
@@ -252,6 +255,7 @@
 1. [今年你们回家过年吗](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E4%BD%A0%E4%BB%AC%E5%9B%9E%E5%AE%B6%E8%BF%87%E5%B9%B4%E5%90%97%23&Refer=top) 168259
 1. [INTO1雪铲铲比赛全员鹅化](https://s.weibo.com/weibo?q=%23INTO1%E9%9B%AA%E9%93%B2%E9%93%B2%E6%AF%94%E8%B5%9B%E5%85%A8%E5%91%98%E9%B9%85%E5%8C%96%23&Refer=top) 165797
 1. [如果年度报告是这样的](https://s.weibo.com/weibo?q=%23%E5%A6%82%E6%9E%9C%E5%B9%B4%E5%BA%A6%E6%8A%A5%E5%91%8A%E6%98%AF%E8%BF%99%E6%A0%B7%E7%9A%84%23&Refer=top) 165249
+1. [什么是新型不孝](https://s.weibo.com/weibo?q=%23%E4%BB%80%E4%B9%88%E6%98%AF%E6%96%B0%E5%9E%8B%E4%B8%8D%E5%AD%9D%23&Refer=top) 162521
 1. [李梓萌问丁真看新闻联播吗](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%A2%93%E8%90%8C%E9%97%AE%E4%B8%81%E7%9C%9F%E7%9C%8B%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD%E5%90%97%23&Refer=top) 161090
 1. [虎年幸运红包封面](https://s.weibo.com/weibo?q=%23%E8%99%8E%E5%B9%B4%E5%B9%B8%E8%BF%90%E7%BA%A2%E5%8C%85%E5%B0%81%E9%9D%A2%23&Refer=top) 159883
 1. [朱正廷冰球少年片花](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E6%AD%A3%E5%BB%B7%E5%86%B0%E7%90%83%E5%B0%91%E5%B9%B4%E7%89%87%E8%8A%B1%23&Refer=top) 159426
@@ -276,7 +280,6 @@
 1. [赵立坚回应美方向中方推荐防疫方案](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E7%AB%8B%E5%9D%9A%E5%9B%9E%E5%BA%94%E7%BE%8E%E6%96%B9%E5%90%91%E4%B8%AD%E6%96%B9%E6%8E%A8%E8%8D%90%E9%98%B2%E7%96%AB%E6%96%B9%E6%A1%88%23&Refer=top) 132212
 1. [国宝幼儿园颜值天花板](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%9D%E5%B9%BC%E5%84%BF%E5%9B%AD%E9%A2%9C%E5%80%BC%E5%A4%A9%E8%8A%B1%E6%9D%BF%23&Refer=top) 130686
 1. [艾尔登法环](https://s.weibo.com/weibo?q=%23%E8%89%BE%E5%B0%94%E7%99%BB%E6%B3%95%E7%8E%AF%23&Refer=top) 128733
-1. [心态好的人往往做了这些事](https://s.weibo.com/weibo?q=%23%E5%BF%83%E6%80%81%E5%A5%BD%E7%9A%84%E4%BA%BA%E5%BE%80%E5%BE%80%E5%81%9A%E4%BA%86%E8%BF%99%E4%BA%9B%E4%BA%8B%23&Refer=top) 126173
 1. [战友回忆黄继光牺牲前的最后时刻](https://s.weibo.com/weibo?q=%23%E6%88%98%E5%8F%8B%E5%9B%9E%E5%BF%86%E9%BB%84%E7%BB%A7%E5%85%89%E7%89%BA%E7%89%B2%E5%89%8D%E7%9A%84%E6%9C%80%E5%90%8E%E6%97%B6%E5%88%BB%23&Refer=top) 125266
 1. [你好神枪手让江辰司徒末牵手成功](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A5%BD%E7%A5%9E%E6%9E%AA%E6%89%8B%E8%AE%A9%E6%B1%9F%E8%BE%B0%E5%8F%B8%E5%BE%92%E6%9C%AB%E7%89%B5%E6%89%8B%E6%88%90%E5%8A%9F%23&Refer=top) 124407
 1. [过年抢红包可以有多拼](https://s.weibo.com/weibo?q=%23%E8%BF%87%E5%B9%B4%E6%8A%A2%E7%BA%A2%E5%8C%85%E5%8F%AF%E4%BB%A5%E6%9C%89%E5%A4%9A%E6%8B%BC%23&Refer=top) 124256
