@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-01-30 03:22:12.914410 
+最后更新时间 2022-01-30 03:34:03.730323 
 1. [过年前女生洗头有多纠结](https://s.weibo.com/weibo?q=%23%E8%BF%87%E5%B9%B4%E5%89%8D%E5%A5%B3%E7%94%9F%E6%B4%97%E5%A4%B4%E6%9C%89%E5%A4%9A%E7%BA%A0%E7%BB%93%23&Refer=top) 2388928
 1. [高洁丝回应被曝卫生巾有虫卵](https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%B4%81%E4%B8%9D%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%9B%9D%E5%8D%AB%E7%94%9F%E5%B7%BE%E6%9C%89%E8%99%AB%E5%8D%B5%23&Refer=top) 1523542
 1. [杭州一地调整为高风险地区](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%B8%80%E5%9C%B0%E8%B0%83%E6%95%B4%E4%B8%BA%E9%AB%98%E9%A3%8E%E9%99%A9%E5%9C%B0%E5%8C%BA%23&Refer=top) 950311
@@ -69,6 +69,7 @@
 1. [我要和你做兄弟开播](https://s.weibo.com/weibo?q=%23%E6%88%91%E8%A6%81%E5%92%8C%E4%BD%A0%E5%81%9A%E5%85%84%E5%BC%9F%E5%BC%80%E6%92%AD%23&Refer=top) 106854
 1. [觉醒之战](https://s.weibo.com/weibo?q=%23%E8%A7%89%E9%86%92%E4%B9%8B%E6%88%98%23&Refer=top) 103498
 1. [女孩开颅手术前求医生留下长发捐白血病患儿](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%BC%80%E9%A2%85%E6%89%8B%E6%9C%AF%E5%89%8D%E6%B1%82%E5%8C%BB%E7%94%9F%E7%95%99%E4%B8%8B%E9%95%BF%E5%8F%91%E6%8D%90%E7%99%BD%E8%A1%80%E7%97%85%E6%82%A3%E5%84%BF%23&Refer=top) 67622
+1. [万茜问马思纯是不是大boss](https://s.weibo.com/weibo?q=%23%E4%B8%87%E8%8C%9C%E9%97%AE%E9%A9%AC%E6%80%9D%E7%BA%AF%E6%98%AF%E4%B8%8D%E6%98%AF%E5%A4%A7boss%23&Refer=top) 38083
 1. [廖三宁颧骨骨折](https://s.weibo.com/weibo?q=%23%E5%BB%96%E4%B8%89%E5%AE%81%E9%A2%A7%E9%AA%A8%E9%AA%A8%E6%8A%98%23&Refer=top) 32896
 <!-- END -->
 
