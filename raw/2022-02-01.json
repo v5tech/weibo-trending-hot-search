@@ -311,6 +311,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%8F%AF%E6%8A%8A%E8%BF%99%E7%8C%AB%E5%8E%89%E5%AE%B3%E5%9D%8F%E4%BA%86%23&Refer=top",
     "hot": 139093
   },
+  "十大神仙水饺": {
+    "url": "https://s.weibo.com/weibo?q=%E5%8D%81%E5%A4%A7%E7%A5%9E%E4%BB%99%E6%B0%B4%E9%A5%BA&Refer=top",
+    "hot": 107921
+  },
   "三星堆面具 震撼": {
     "url": "https://s.weibo.com/weibo?q=%E4%B8%89%E6%98%9F%E5%A0%86%E9%9D%A2%E5%85%B7%20%E9%9C%87%E6%92%BC&Refer=top",
     "hot": 107732
@@ -318,9 +322,5 @@
   "包饺子也能包出小老虎": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%8C%85%E9%A5%BA%E5%AD%90%E4%B9%9F%E8%83%BD%E5%8C%85%E5%87%BA%E5%B0%8F%E8%80%81%E8%99%8E%23&Refer=top",
     "hot": 105233
-  },
-  "十大神仙水饺": {
-    "url": "https://s.weibo.com/weibo?q=%E5%8D%81%E5%A4%A7%E7%A5%9E%E4%BB%99%E6%B0%B4%E9%A5%BA&Refer=top",
-    "hot": 87787
   }
 }
