@@ -151,6 +151,10 @@
     "url": "https://s.weibo.com/weibo?q=%232022%E8%83%BD%E9%87%8F%E6%BB%A1%E6%BB%A1%23&Refer=top",
     "hot": 695304
   },
+  "大张伟王勉尴尬": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%BC%A0%E4%BC%9F%E7%8E%8B%E5%8B%89%E5%B0%B4%E5%B0%AC%23&Refer=top",
+    "hot": 661086
+  },
   "有人不还你钱就给他放这首歌": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%BA%BA%E4%B8%8D%E8%BF%98%E4%BD%A0%E9%92%B1%E5%B0%B1%E7%BB%99%E4%BB%96%E6%94%BE%E8%BF%99%E9%A6%96%E6%AD%8C%23&Refer=top",
     "hot": 659377
@@ -211,10 +215,6 @@
     "url": "https://s.weibo.com/weibo?q=%E7%83%9F%E8%8A%B1%E8%A7%86%E9%A2%91&Refer=top",
     "hot": 383964
   },
-  "大张伟王勉尴尬": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%BC%A0%E4%BC%9F%E7%8E%8B%E5%8B%89%E5%B0%B4%E5%B0%AC%23&Refer=top",
-    "hot": 378266
-  },
   "刘欢帽子上是欢欢": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E6%AC%A2%E5%B8%BD%E5%AD%90%E4%B8%8A%E6%98%AF%E6%AC%A2%E6%AC%A2%23&Refer=top",
     "hot": 366569
@@ -265,7 +265,7 @@
   },
   "广东人过年的仪式感": {
     "url": "https://s.weibo.com/weibo?q=%E5%B9%BF%E4%B8%9C%E4%BA%BA%E8%BF%87%E5%B9%B4%E7%9A%84%E4%BB%AA%E5%BC%8F%E6%84%9F&Refer=top",
-    "hot": 219017
+    "hot": 221957
   },
   "过年如何应对亲戚催婚": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%BF%87%E5%B9%B4%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9%E4%BA%B2%E6%88%9A%E5%82%AC%E5%A9%9A%23&Refer=top",
@@ -321,6 +321,6 @@
   },
   "十大神仙水饺": {
     "url": "https://s.weibo.com/weibo?q=%E5%8D%81%E5%A4%A7%E7%A5%9E%E4%BB%99%E6%B0%B4%E9%A5%BA&Refer=top",
-    "hot": 69392
+    "hot": 81969
   }
 }
