@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-02-03 01:13:18.134307 
+最后更新时间 2022-02-03 01:31:33.080339 
 1. [冰壶](https://s.weibo.com/weibo?q=%E5%86%B0%E5%A3%B6&Refer=top) 1521410
 1. [羽生结弦](https://s.weibo.com/weibo?q=%23%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%23&Refer=top) 1353203
 1. [冬奥健儿超燃水墨动画](https://s.weibo.com/weibo?q=%23%E5%86%AC%E5%A5%A5%E5%81%A5%E5%84%BF%E8%B6%85%E7%87%83%E6%B0%B4%E5%A2%A8%E5%8A%A8%E7%94%BB%23&Refer=top) 871638
@@ -47,6 +47,7 @@
 1. [林更新带狗头也太好笑了](https://s.weibo.com/weibo?q=%23%E6%9E%97%E6%9B%B4%E6%96%B0%E5%B8%A6%E7%8B%97%E5%A4%B4%E4%B9%9F%E5%A4%AA%E5%A5%BD%E7%AC%91%E4%BA%86%23&Refer=top) 122196
 1. [定妆雷品大清单](https://s.weibo.com/weibo?q=%E5%AE%9A%E5%A6%86%E9%9B%B7%E5%93%81%E5%A4%A7%E6%B8%85%E5%8D%95&Refer=top) 109942
 1. [熊出没](https://s.weibo.com/weibo?q=%E7%86%8A%E5%87%BA%E6%B2%A1&Refer=top) 95715
+1. [王一博演的蒋先云](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%BC%94%E7%9A%84%E8%92%8B%E5%85%88%E4%BA%91%23&Refer=top) 94730
 1. [这压岁钱收的还挺有原则](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%8E%8B%E5%B2%81%E9%92%B1%E6%94%B6%E7%9A%84%E8%BF%98%E6%8C%BA%E6%9C%89%E5%8E%9F%E5%88%99%23&Refer=top) 92939
 1. [惠州新增1例新冠肺炎确诊病例](https://s.weibo.com/weibo?q=%23%E6%83%A0%E5%B7%9E%E6%96%B0%E5%A2%9E1%E4%BE%8B%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B%23&Refer=top) 85098
 1. [北京冬奥会](https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E4%BC%9A&Refer=top) 82603
