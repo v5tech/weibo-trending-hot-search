@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-02-03 05:25:50.600275 
+最后更新时间 2022-02-03 05:34:59.369816 
 1. [冰壶](https://s.weibo.com/weibo?q=%E5%86%B0%E5%A3%B6&Refer=top) 1521410
 1. [羽生结弦](https://s.weibo.com/weibo?q=%23%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%23&Refer=top) 1353203
 1. [冬奥健儿超燃水墨动画](https://s.weibo.com/weibo?q=%23%E5%86%AC%E5%A5%A5%E5%81%A5%E5%84%BF%E8%B6%85%E7%87%83%E6%B0%B4%E5%A2%A8%E5%8A%A8%E7%94%BB%23&Refer=top) 871638
@@ -67,6 +67,7 @@
 1. [半熟恋人](https://s.weibo.com/weibo?q=%E5%8D%8A%E7%86%9F%E6%81%8B%E4%BA%BA&Refer=top) 27244
 1. [保罗一条龙压哨上篮](https://s.weibo.com/weibo?q=%23%E4%BF%9D%E7%BD%97%E4%B8%80%E6%9D%A1%E9%BE%99%E5%8E%8B%E5%93%A8%E4%B8%8A%E7%AF%AE%23&Refer=top) 17811
 1. [春节刷片计划](https://s.weibo.com/weibo?q=%23%E6%98%A5%E8%8A%82%E5%88%B7%E7%89%87%E8%AE%A1%E5%88%92%23&Refer=top) 15565
+1. [麦基恐怖弹跳大帽哈登](https://s.weibo.com/weibo?q=%23%E9%BA%A6%E5%9F%BA%E6%81%90%E6%80%96%E5%BC%B9%E8%B7%B3%E5%A4%A7%E5%B8%BD%E5%93%88%E7%99%BB%23&Refer=top) 11194
 <!-- END -->
 
 历史归档 [./archives](./archives)
