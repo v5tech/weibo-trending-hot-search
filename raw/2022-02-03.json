@@ -155,6 +155,10 @@
     "url": "https://s.weibo.com/weibo?q=%E7%86%8A%E5%87%BA%E6%B2%A1&Refer=top",
     "hot": 95715
   },
+  "北京地震": {
+    "url": "https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E5%9C%B0%E9%9C%87&Refer=top",
+    "hot": 95370
+  },
   "王一博演的蒋先云": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%BC%94%E7%9A%84%E8%92%8B%E5%85%88%E4%BA%91%23&Refer=top",
     "hot": 94730
@@ -218,5 +222,9 @@
   "易烊千玺说妹妹又是软肋又是铠甲": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E8%AF%B4%E5%A6%B9%E5%A6%B9%E5%8F%88%E6%98%AF%E8%BD%AF%E8%82%8B%E5%8F%88%E6%98%AF%E9%93%A0%E7%94%B2%23&Refer=top",
     "hot": 46940
+  },
+  "半熟恋人": {
+    "url": "https://s.weibo.com/weibo?q=%E5%8D%8A%E7%86%9F%E6%81%8B%E4%BA%BA&Refer=top",
+    "hot": 27244
   }
 }
