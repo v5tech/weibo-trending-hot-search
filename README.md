@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-02-05 04:34:08.626588 
+最后更新时间 2022-02-05 04:49:01.102524 
 1. [北京冬奥会开幕式](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%23&Refer=top) 4971837
 1. [冬奥邓超](https://s.weibo.com/weibo?q=%23%E5%86%AC%E5%A5%A5%E9%82%93%E8%B6%85%23&Refer=top) 4751791
 1. [听妈妈的话](https://s.weibo.com/weibo?q=%23%E5%90%AC%E5%A6%88%E5%A6%88%E7%9A%84%E8%AF%9D%23&Refer=top) 3527348
