@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-02-07 06:36:42.167074 
+最后更新时间 2022-02-07 06:48:52.534330 
 1. [中国女足亚洲杯夺冠](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B3%E4%BA%9A%E6%B4%B2%E6%9D%AF%E5%A4%BA%E5%86%A0%23&Refer=top) 4565298
 1. [群星发文祝贺中国女足](https://s.weibo.com/weibo?q=%23%E7%BE%A4%E6%98%9F%E5%8F%91%E6%96%87%E7%A5%9D%E8%B4%BA%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B3%23&Refer=top) 4491490
 1. [蒙牛首个奖励中国女足夺冠](https://s.weibo.com/weibo?q=%23%E8%92%99%E7%89%9B%E9%A6%96%E4%B8%AA%E5%A5%96%E5%8A%B1%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B3%E5%A4%BA%E5%86%A0%23&Refer=top) 3714987
@@ -60,14 +60,14 @@
 1. [百色加油](https://s.weibo.com/weibo?q=%23%E7%99%BE%E8%89%B2%E5%8A%A0%E6%B2%B9%23&Refer=top) 447116
 1. [徐阳哭了](https://s.weibo.com/weibo?q=%23%E5%BE%90%E9%98%B3%E5%93%AD%E4%BA%86%23&Refer=top) 439374
 1. [冰墩墩汤圆](https://s.weibo.com/weibo?q=%23%E5%86%B0%E5%A2%A9%E5%A2%A9%E6%B1%A4%E5%9C%86%23&Refer=top) 372059
+1. [冰墩墩预售](https://s.weibo.com/weibo?q=%E5%86%B0%E5%A2%A9%E5%A2%A9%E9%A2%84%E5%94%AE&Refer=top) 197392
 1. [神奇逆转女将张琳艳](https://s.weibo.com/weibo?q=%23%E7%A5%9E%E5%A5%87%E9%80%86%E8%BD%AC%E5%A5%B3%E5%B0%86%E5%BC%A0%E7%90%B3%E8%89%B3%23&Refer=top) 184818
-1. [坐多久才能算久坐](https://s.weibo.com/weibo?q=%23%E5%9D%90%E5%A4%9A%E4%B9%85%E6%89%8D%E8%83%BD%E7%AE%97%E4%B9%85%E5%9D%90%23&Refer=top) 106055
-1. [雅西高速路况](https://s.weibo.com/weibo?q=%E9%9B%85%E8%A5%BF%E9%AB%98%E9%80%9F%E8%B7%AF%E5%86%B5&Refer=top) 105220
+1. [坐多久才能算久坐](https://s.weibo.com/weibo?q=%23%E5%9D%90%E5%A4%9A%E4%B9%85%E6%89%8D%E8%83%BD%E7%AE%97%E4%B9%85%E5%9D%90%23&Refer=top) 128022
+1. [雅西高速路况](https://s.weibo.com/weibo?q=%E9%9B%85%E8%A5%BF%E9%AB%98%E9%80%9F%E8%B7%AF%E5%86%B5&Refer=top) 124655
+1. [虎年开工第一天](https://s.weibo.com/weibo?q=%E8%99%8E%E5%B9%B4%E5%BC%80%E5%B7%A5%E7%AC%AC%E4%B8%80%E5%A4%A9&Refer=top) 90803
 1. [朱易谈冬奥首秀落泪](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E6%98%93%E8%B0%88%E5%86%AC%E5%A5%A5%E9%A6%96%E7%A7%80%E8%90%BD%E6%B3%AA%23&Refer=top) 76113
 1. [狙击手拍得有多真实](https://s.weibo.com/weibo?q=%23%E7%8B%99%E5%87%BB%E6%89%8B%E6%8B%8D%E5%BE%97%E6%9C%89%E5%A4%9A%E7%9C%9F%E5%AE%9E%23&Refer=top) 72136
-1. [虎年开工第一天](https://s.weibo.com/weibo?q=%E8%99%8E%E5%B9%B4%E5%BC%80%E5%B7%A5%E7%AC%AC%E4%B8%80%E5%A4%A9&Refer=top) 60395
-1. [冰墩墩预售](https://s.weibo.com/weibo?q=%E5%86%B0%E5%A2%A9%E5%A2%A9%E9%A2%84%E5%94%AE&Refer=top) 45391
-1. [收收心准备上班](https://s.weibo.com/weibo?q=%23%E6%94%B6%E6%94%B6%E5%BF%83%E5%87%86%E5%A4%87%E4%B8%8A%E7%8F%AD%23&Refer=top) 28173
+1. [收收心准备上班](https://s.weibo.com/weibo?q=%23%E6%94%B6%E6%94%B6%E5%BF%83%E5%87%86%E5%A4%87%E4%B8%8A%E7%8F%AD%23&Refer=top) 64068
 <!-- END -->
 
 历史归档 [./archives](./archives)
