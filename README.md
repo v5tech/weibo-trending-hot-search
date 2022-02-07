@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-02-08 01:48:47.679346 
+最后更新时间 2022-02-08 02:12:27.113968 
 1. [武大靖碰任子威的手示意他先走](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A4%A7%E9%9D%96%E7%A2%B0%E4%BB%BB%E5%AD%90%E5%A8%81%E7%9A%84%E6%89%8B%E7%A4%BA%E6%84%8F%E4%BB%96%E5%85%88%E8%B5%B0%23&Refer=top) 5971846
 1. [韩国选手拒绝采访直接离场](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E9%80%89%E6%89%8B%E6%8B%92%E7%BB%9D%E9%87%87%E8%AE%BF%E7%9B%B4%E6%8E%A5%E7%A6%BB%E5%9C%BA%23&Refer=top) 5569428
 1. [这张冬奥大合影弥足珍贵](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%BC%A0%E5%86%AC%E5%A5%A5%E5%A4%A7%E5%90%88%E5%BD%B1%E5%BC%A5%E8%B6%B3%E7%8F%8D%E8%B4%B5%23&Refer=top) 3311222
@@ -64,6 +64,7 @@
 1. [谢谢猎豹](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E8%B0%A2%E7%8C%8E%E8%B1%B9%23&Refer=top) 316930
 1. [被人类幼崽的主事天赋惊到了](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E4%BA%BA%E7%B1%BB%E5%B9%BC%E5%B4%BD%E7%9A%84%E4%B8%BB%E4%BA%8B%E5%A4%A9%E8%B5%8B%E6%83%8A%E5%88%B0%E4%BA%86%23&Refer=top) 189712
 1. [为中国冬奥健儿比心](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%B8%AD%E5%9B%BD%E5%86%AC%E5%A5%A5%E5%81%A5%E5%84%BF%E6%AF%94%E5%BF%83%23&Refer=top) 143432
+1. [外国人在中国春节闹了哪些笑话](https://s.weibo.com/weibo?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E5%9C%A8%E4%B8%AD%E5%9B%BD%E6%98%A5%E8%8A%82%E9%97%B9%E4%BA%86%E5%93%AA%E4%BA%9B%E7%AC%91%E8%AF%9D&Refer=top) 135717
 1. [为中国冬奥健儿加油](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%B8%AD%E5%9B%BD%E5%86%AC%E5%A5%A5%E5%81%A5%E5%84%BF%E5%8A%A0%E6%B2%B9&Refer=top) 129744
 <!-- END -->
 
