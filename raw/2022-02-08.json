@@ -215,8 +215,16 @@
     "url": "https://s.weibo.com/weibo?q=%23%E8%B0%A2%E8%B0%A2%E7%8C%8E%E8%B1%B9%23&Refer=top",
     "hot": 316930
   },
+  "被人类幼崽的主事天赋惊到了": {
+    "url": "https://s.weibo.com/weibo?q=%23%E8%A2%AB%E4%BA%BA%E7%B1%BB%E5%B9%BC%E5%B4%BD%E7%9A%84%E4%B8%BB%E4%BA%8B%E5%A4%A9%E8%B5%8B%E6%83%8A%E5%88%B0%E4%BA%86%23&Refer=top",
+    "hot": 169064
+  },
   "为中国冬奥健儿比心": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%B8%AD%E5%9B%BD%E5%86%AC%E5%A5%A5%E5%81%A5%E5%84%BF%E6%AF%94%E5%BF%83%23&Refer=top",
     "hot": 143432
+  },
+  "为中国冬奥健儿加油": {
+    "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%B8%AD%E5%9B%BD%E5%86%AC%E5%A5%A5%E5%81%A5%E5%84%BF%E5%8A%A0%E6%B2%B9&Refer=top",
+    "hot": 129744
   }
 }
