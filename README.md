@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-02-08 15:25:51.016553 
+最后更新时间 2022-02-08 15:36:23.170182 
 1. [谷爱凌金牌](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E9%87%91%E7%89%8C%23&Refer=top) 23236921
 1. [谷爱凌世界最高难度](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E4%B8%96%E7%95%8C%E6%9C%80%E9%AB%98%E9%9A%BE%E5%BA%A6%23&Refer=top) 15946605
 1. [羽生结弦](https://s.weibo.com/weibo?q=%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6&Refer=top) 14804439
@@ -16,13 +16,13 @@
 1. [谷爱凌做出难以置信的难度](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E5%81%9A%E5%87%BA%E9%9A%BE%E4%BB%A5%E7%BD%AE%E4%BF%A1%E7%9A%84%E9%9A%BE%E5%BA%A6%23&Refer=top) 5971879
 1. [武大靖碰任子威的手示意他先走](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A4%A7%E9%9D%96%E7%A2%B0%E4%BB%BB%E5%AD%90%E5%A8%81%E7%9A%84%E6%89%8B%E7%A4%BA%E6%84%8F%E4%BB%96%E5%85%88%E8%B5%B0%23&Refer=top) 5971846
 1. [羽生结弦 跳空](https://s.weibo.com/weibo?q=%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%20%E8%B7%B3%E7%A9%BA&Refer=top) 5804641
+1. [谷爱凌回怼美媒](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E5%9B%9E%E6%80%BC%E7%BE%8E%E5%AA%92%23&Refer=top) 5676444
 1. [韩国选手拒绝采访直接离场](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E9%80%89%E6%89%8B%E6%8B%92%E7%BB%9D%E9%87%87%E8%AE%BF%E7%9B%B4%E6%8E%A5%E7%A6%BB%E5%9C%BA%23&Refer=top) 5569428
 1. [谷爱凌是天才少女吧](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E6%98%AF%E5%A4%A9%E6%89%8D%E5%B0%91%E5%A5%B3%E5%90%A7%23&Refer=top) 5212786
 1. [谷爱凌哭了](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E5%93%AD%E4%BA%86%23&Refer=top) 5164328
 1. [1620](https://s.weibo.com/weibo?q=1620&Refer=top) 4988889
 1. [上帝到底给她关了哪扇窗](https://s.weibo.com/weibo?q=%E4%B8%8A%E5%B8%9D%E5%88%B0%E5%BA%95%E7%BB%99%E5%A5%B9%E5%85%B3%E4%BA%86%E5%93%AA%E6%89%87%E7%AA%97&Refer=top) 4622918
 1. [金博洋和羽生结弦竞技](https://s.weibo.com/weibo?q=%23%E9%87%91%E5%8D%9A%E6%B4%8B%E5%92%8C%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E7%AB%9E%E6%8A%80%23&Refer=top) 4606216
-1. [谷爱凌回怼美媒](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E5%9B%9E%E6%80%BC%E7%BE%8E%E5%AA%92%23&Refer=top) 4476232
 1. [恭喜谷爱凌](https://s.weibo.com/weibo?q=%23%E6%81%AD%E5%96%9C%E8%B0%B7%E7%88%B1%E5%87%8C%23&Refer=top) 3937694
 1. [安贤洙全家在韩遭网暴](https://s.weibo.com/weibo?q=%23%E5%AE%89%E8%B4%A4%E6%B4%99%E5%85%A8%E5%AE%B6%E5%9C%A8%E9%9F%A9%E9%81%AD%E7%BD%91%E6%9A%B4%23&Refer=top) 3571130
 1. [武大靖ins账号被韩国网友恶意刷屏](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A4%A7%E9%9D%96ins%E8%B4%A6%E5%8F%B7%E8%A2%AB%E9%9F%A9%E5%9B%BD%E7%BD%91%E5%8F%8B%E6%81%B6%E6%84%8F%E5%88%B7%E5%B1%8F%23&Refer=top) 3569461
@@ -51,6 +51,7 @@
 1. [金博洋暂列男单花滑第一](https://s.weibo.com/weibo?q=%23%E9%87%91%E5%8D%9A%E6%B4%8B%E6%9A%82%E5%88%97%E7%94%B7%E5%8D%95%E8%8A%B1%E6%BB%91%E7%AC%AC%E4%B8%80%23&Refer=top) 2143468
 1. [程潇程淼](https://s.weibo.com/weibo?q=%23%E7%A8%8B%E6%BD%87%E7%A8%8B%E6%B7%BC%23&Refer=top) 2109807
 1. [车俊焕 帅](https://s.weibo.com/weibo?q=%E8%BD%A6%E4%BF%8A%E7%84%95%20%E5%B8%85&Refer=top) 2106565
+1. [谢娜张杰方律师声明](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E5%BC%A0%E6%9D%B0%E6%96%B9%E5%BE%8B%E5%B8%88%E5%A3%B0%E6%98%8E%23&Refer=top) 2096385
 1. [刘少林犯规](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%B0%91%E6%9E%97%E7%8A%AF%E8%A7%84%23&Refer=top) 2041634
 1. [巴赫为谷爱凌鼓掌](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%B5%AB%E4%B8%BA%E8%B0%B7%E7%88%B1%E5%87%8C%E9%BC%93%E6%8E%8C%23&Refer=top) 1983914
 1. [泰丝](https://s.weibo.com/weibo?q=%E6%B3%B0%E4%B8%9D&Refer=top) 1968494
@@ -59,7 +60,6 @@
 1. [花滑男单短节目比赛](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E6%BB%91%E7%94%B7%E5%8D%95%E7%9F%AD%E8%8A%82%E7%9B%AE%E6%AF%94%E8%B5%9B%23&Refer=top) 1892907
 1. [盘点谢娜张杰商业版图](https://s.weibo.com/weibo?q=%23%E7%9B%98%E7%82%B9%E8%B0%A2%E5%A8%9C%E5%BC%A0%E6%9D%B0%E5%95%86%E4%B8%9A%E7%89%88%E5%9B%BE%23&Refer=top) 1860544
 1. [刘雨昕是王濛的得意大弟子吧](https://s.weibo.com/weibo?q=%23%E5%88%98%E9%9B%A8%E6%98%95%E6%98%AF%E7%8E%8B%E6%BF%9B%E7%9A%84%E5%BE%97%E6%84%8F%E5%A4%A7%E5%BC%9F%E5%AD%90%E5%90%A7%23&Refer=top) 1820818
-1. [谢娜张杰方律师声明](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E5%BC%A0%E6%9D%B0%E6%96%B9%E5%BE%8B%E5%B8%88%E5%A3%B0%E6%98%8E%23&Refer=top) 1794379
 1. [谷爱凌不是最强项还是这么稳](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E4%B8%8D%E6%98%AF%E6%9C%80%E5%BC%BA%E9%A1%B9%E8%BF%98%E6%98%AF%E8%BF%99%E4%B9%88%E7%A8%B3%23&Refer=top) 1679760
 1. [瑞幸](https://s.weibo.com/weibo?q=%E7%91%9E%E5%B9%B8&Refer=top) 1659498
 1. [葫芦岛市新增1例本土确诊病例](https://s.weibo.com/weibo?q=%E8%91%AB%E8%8A%A6%E5%B2%9B%E5%B8%82%E6%96%B0%E5%A2%9E1%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B&Refer=top) 1610597
@@ -80,6 +80,7 @@
 1. [任子威终于可以交作业了](https://s.weibo.com/weibo?q=%23%E4%BB%BB%E5%AD%90%E5%A8%81%E7%BB%88%E4%BA%8E%E5%8F%AF%E4%BB%A5%E4%BA%A4%E4%BD%9C%E4%B8%9A%E4%BA%86%23&Refer=top) 1354198
 1. [谷爱凌自己设计金龙战袍](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E8%87%AA%E5%B7%B1%E8%AE%BE%E8%AE%A1%E9%87%91%E9%BE%99%E6%88%98%E8%A2%8D%23&Refer=top) 1353586
 1. [中国雪上项目首金](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%9B%AA%E4%B8%8A%E9%A1%B9%E7%9B%AE%E9%A6%96%E9%87%91%23&Refer=top) 1344799
+1. [羽生结弦有可能实现三连冠吗](https://s.weibo.com/weibo?q=%23%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E6%9C%89%E5%8F%AF%E8%83%BD%E5%AE%9E%E7%8E%B0%E4%B8%89%E8%BF%9E%E5%86%A0%E5%90%97%23&Refer=top) 1318784
 1. [谷爱凌第二跳88.5](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E7%AC%AC%E4%BA%8C%E8%B7%B388.5%23&Refer=top) 1312409
 1. [实探冰墩墩生产工厂](https://s.weibo.com/weibo?q=%23%E5%AE%9E%E6%8E%A2%E5%86%B0%E5%A2%A9%E5%A2%A9%E7%94%9F%E4%BA%A7%E5%B7%A5%E5%8E%82%23&Refer=top) 1271697
 1. [刘少林 刘少昂](https://s.weibo.com/weibo?q=%E5%88%98%E5%B0%91%E6%9E%97%20%E5%88%98%E5%B0%91%E6%98%82&Refer=top) 1259730
@@ -91,10 +92,10 @@
 1. [韩国教练](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E6%95%99%E7%BB%83&Refer=top) 1208108
 1. [韩国代表团紧急记者会](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%9B%A2%E7%B4%A7%E6%80%A5%E8%AE%B0%E8%80%85%E4%BC%9A%23&Refer=top) 1203130
 1. [谷爱凌背影杀](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E8%83%8C%E5%BD%B1%E6%9D%80%23&Refer=top) 1195630
-1. [羽生结弦有可能实现三连冠吗](https://s.weibo.com/weibo?q=%23%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E6%9C%89%E5%8F%AF%E8%83%BD%E5%AE%9E%E7%8E%B0%E4%B8%89%E8%BF%9E%E5%86%A0%E5%90%97%23&Refer=top) 1174676
+1. [冰墩墩生产工厂已有序复工](https://s.weibo.com/weibo?q=%23%E5%86%B0%E5%A2%A9%E5%A2%A9%E7%94%9F%E4%BA%A7%E5%B7%A5%E5%8E%82%E5%B7%B2%E6%9C%89%E5%BA%8F%E5%A4%8D%E5%B7%A5%23&Refer=top) 1185965
+1. [藏海花](https://s.weibo.com/weibo?q=%E8%97%8F%E6%B5%B7%E8%8A%B1&Refer=top) 1180498
 1. [谷爱凌暂列第一](https://s.weibo.com/weibo?q=%E8%B0%B7%E7%88%B1%E5%87%8C%E6%9A%82%E5%88%97%E7%AC%AC%E4%B8%80&Refer=top) 1165058
 1. [谷爱凌 天降紫微星](https://s.weibo.com/weibo?q=%E8%B0%B7%E7%88%B1%E5%87%8C%20%E5%A4%A9%E9%99%8D%E7%B4%AB%E5%BE%AE%E6%98%9F&Refer=top) 1142981
-1. [藏海花](https://s.weibo.com/weibo?q=%E8%97%8F%E6%B5%B7%E8%8A%B1&Refer=top) 1131769
 1. [李晓楠姐姐车祸真相](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%99%93%E6%A5%A0%E5%A7%90%E5%A7%90%E8%BD%A6%E7%A5%B8%E7%9C%9F%E7%9B%B8%23&Refer=top) 1107301
 1. [不是主项拿到金牌是什么实力](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E6%98%AF%E4%B8%BB%E9%A1%B9%E6%8B%BF%E5%88%B0%E9%87%91%E7%89%8C%E6%98%AF%E4%BB%80%E4%B9%88%E5%AE%9E%E5%8A%9B%23&Refer=top) 1102452
 1. [一张纸巾制作眼镜防雾口罩](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%BC%A0%E7%BA%B8%E5%B7%BE%E5%88%B6%E4%BD%9C%E7%9C%BC%E9%95%9C%E9%98%B2%E9%9B%BE%E5%8F%A3%E7%BD%A9%23&Refer=top) 1075396
@@ -118,15 +119,16 @@
 1. [外交部回应美国国会涉华法案](https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD%E5%9B%BD%E4%BC%9A%E6%B6%89%E5%8D%8E%E6%B3%95%E6%A1%88%23&Refer=top) 929898
 1. [黄大宪犯规](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%A4%A7%E5%AE%AA%E7%8A%AF%E8%A7%84%23&Refer=top) 929793
 1. [任子威三天两金](https://s.weibo.com/weibo?q=%23%E4%BB%BB%E5%AD%90%E5%A8%81%E4%B8%89%E5%A4%A9%E4%B8%A4%E9%87%91%23&Refer=top) 929493
-1. [冰墩墩生产工厂已有序复工](https://s.weibo.com/weibo?q=%23%E5%86%B0%E5%A2%A9%E5%A2%A9%E7%94%9F%E4%BA%A7%E5%B7%A5%E5%8E%82%E5%B7%B2%E6%9C%89%E5%BA%8F%E5%A4%8D%E5%B7%A5%23&Refer=top) 919128
 1. [冬奥赛场播放了TFBOYS青春修炼手册](https://s.weibo.com/weibo?q=%23%E5%86%AC%E5%A5%A5%E8%B5%9B%E5%9C%BA%E6%92%AD%E6%94%BE%E4%BA%86TFBOYS%E9%9D%92%E6%98%A5%E4%BF%AE%E7%82%BC%E6%89%8B%E5%86%8C%23&Refer=top) 897603
 1. [韩国犯规](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E7%8A%AF%E8%A7%84&Refer=top) 883687
 1. [中国00后两天内斩获一金两银](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD00%E5%90%8E%E4%B8%A4%E5%A4%A9%E5%86%85%E6%96%A9%E8%8E%B7%E4%B8%80%E9%87%91%E4%B8%A4%E9%93%B6%23&Refer=top) 866802
 1. [谷爱凌又比心了](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E5%8F%88%E6%AF%94%E5%BF%83%E4%BA%86%23&Refer=top) 864650
 1. [柚子加油](https://s.weibo.com/weibo?q=%E6%9F%9A%E5%AD%90%E5%8A%A0%E6%B2%B9&Refer=top) 848735
 1. [什么时候才能实现冰墩墩自由](https://s.weibo.com/weibo?q=%23%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E6%89%8D%E8%83%BD%E5%AE%9E%E7%8E%B0%E5%86%B0%E5%A2%A9%E5%A2%A9%E8%87%AA%E7%94%B1%23&Refer=top) 842311
+1. [谷爱凌在海淀黄庄学奥数](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E5%9C%A8%E6%B5%B7%E6%B7%80%E9%BB%84%E5%BA%84%E5%AD%A6%E5%A5%A5%E6%95%B0%23&Refer=top) 827499
 1. [乌合麒麟画的撒贝宁王冰冰](https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%90%88%E9%BA%92%E9%BA%9F%E7%94%BB%E7%9A%84%E6%92%92%E8%B4%9D%E5%AE%81%E7%8E%8B%E5%86%B0%E5%86%B0%23&Refer=top) 820343
 1. [冰墩墩high了](https://s.weibo.com/weibo?q=%23%E5%86%B0%E5%A2%A9%E5%A2%A9high%E4%BA%86%23&Refer=top) 812521
+1. [狂风暴雪中26小时生死大营救](https://s.weibo.com/weibo?q=%E7%8B%82%E9%A3%8E%E6%9A%B4%E9%9B%AA%E4%B8%AD26%E5%B0%8F%E6%97%B6%E7%94%9F%E6%AD%BB%E5%A4%A7%E8%90%A5%E6%95%91&Refer=top) 807165
 1. [韩国男子1000全军覆没](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%94%B7%E5%AD%901000%E5%85%A8%E5%86%9B%E8%A6%86%E6%B2%A1%23&Refer=top) 757968
 1. [罗拉 王能能](https://s.weibo.com/weibo?q=%E7%BD%97%E6%8B%89%20%E7%8E%8B%E8%83%BD%E8%83%BD&Refer=top) 757199
 1. [陈滢解说](https://s.weibo.com/weibo?q=%E9%99%88%E6%BB%A2%E8%A7%A3%E8%AF%B4&Refer=top) 754261
@@ -134,6 +136,7 @@
 1. [开工大吉](https://s.weibo.com/weibo?q=%E5%BC%80%E5%B7%A5%E5%A4%A7%E5%90%89&Refer=top) 738690
 1. [王濛解说](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BF%9B%E8%A7%A3%E8%AF%B4%23&Refer=top) 721963
 1. [脊背上的中国龙 雪场上的花木兰](https://s.weibo.com/weibo?q=%E8%84%8A%E8%83%8C%E4%B8%8A%E7%9A%84%E4%B8%AD%E5%9B%BD%E9%BE%99%20%E9%9B%AA%E5%9C%BA%E4%B8%8A%E7%9A%84%E8%8A%B1%E6%9C%A8%E5%85%B0&Refer=top) 720950
+1. [云瑶情人节限定皮肤](https://s.weibo.com/weibo?q=%23%E4%BA%91%E7%91%B6%E6%83%85%E4%BA%BA%E8%8A%82%E9%99%90%E5%AE%9A%E7%9A%AE%E8%82%A4%23&Refer=top) 717158
 1. [谷爱凌你听到了吗](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E4%BD%A0%E5%90%AC%E5%88%B0%E4%BA%86%E5%90%97%23&Refer=top) 713116
 1. [谷爱凌决赛](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E5%86%B3%E8%B5%9B%23&Refer=top) 712324
 1. [谷爱凌谈1620](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E8%B0%881620%23&Refer=top) 708517
@@ -145,7 +148,6 @@
 1. [键山优真](https://s.weibo.com/weibo?q=%E9%94%AE%E5%B1%B1%E4%BC%98%E7%9C%9F&Refer=top) 657315
 1. [冬奥第一块女子大跳台金牌属于中国](https://s.weibo.com/weibo?q=%23%E5%86%AC%E5%A5%A5%E7%AC%AC%E4%B8%80%E5%9D%97%E5%A5%B3%E5%AD%90%E5%A4%A7%E8%B7%B3%E5%8F%B0%E9%87%91%E7%89%8C%E5%B1%9E%E4%BA%8E%E4%B8%AD%E5%9B%BD%23&Refer=top) 656825
 1. [车俊焕](https://s.weibo.com/weibo?q=%E8%BD%A6%E4%BF%8A%E7%84%95&Refer=top) 649610
-1. [狂风暴雪中26小时生死大营救](https://s.weibo.com/weibo?q=%E7%8B%82%E9%A3%8E%E6%9A%B4%E9%9B%AA%E4%B8%AD26%E5%B0%8F%E6%97%B6%E7%94%9F%E6%AD%BB%E5%A4%A7%E8%90%A5%E6%95%91&Refer=top) 648470
 1. [福建的雨什么时候能停](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E7%9A%84%E9%9B%A8%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E8%83%BD%E5%81%9C%23&Refer=top) 646232
 1. [宋祖儿面试社死](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E7%A5%96%E5%84%BF%E9%9D%A2%E8%AF%95%E7%A4%BE%E6%AD%BB%23&Refer=top) 642629
 1. [易烊千玺雪花太好哭了](https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E9%9B%AA%E8%8A%B1%E5%A4%AA%E5%A5%BD%E5%93%AD%E4%BA%86%23&Refer=top) 637204
@@ -153,7 +155,6 @@
 1. [李文龙获得银牌](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%96%87%E9%BE%99%E8%8E%B7%E5%BE%97%E9%93%B6%E7%89%8C%23&Refer=top) 629498
 1. [用热血MV的方式打开谷爱凌](https://s.weibo.com/weibo?q=%23%E7%94%A8%E7%83%AD%E8%A1%80MV%E7%9A%84%E6%96%B9%E5%BC%8F%E6%89%93%E5%BC%80%E8%B0%B7%E7%88%B1%E5%87%8C%23&Refer=top) 618189
 1. [为谷爱凌打call](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E8%B0%B7%E7%88%B1%E5%87%8C%E6%89%93call%23&Refer=top) 604362
-1. [云瑶情人节限定皮肤](https://s.weibo.com/weibo?q=%23%E4%BA%91%E7%91%B6%E6%83%85%E4%BA%BA%E8%8A%82%E9%99%90%E5%AE%9A%E7%9A%AE%E8%82%A4%23&Refer=top) 601104
 1. [这裁判能处](https://s.weibo.com/weibo?q=%23%E8%BF%99%E8%A3%81%E5%88%A4%E8%83%BD%E5%A4%84%23&Refer=top) 583511
 1. [易烊千玺在水门桥里的一滴泪](https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%9C%A8%E6%B0%B4%E9%97%A8%E6%A1%A5%E9%87%8C%E7%9A%84%E4%B8%80%E6%BB%B4%E6%B3%AA%23&Refer=top) 574622
 1. [自信的中国人是最美的](https://s.weibo.com/weibo?q=%23%E8%87%AA%E4%BF%A1%E7%9A%84%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%98%AF%E6%9C%80%E7%BE%8E%E7%9A%84%23&Refer=top) 572343
@@ -165,6 +166,7 @@
 1. [王诗玥柳鑫宇冰上土味蹦迪](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%AF%97%E7%8E%A5%E6%9F%B3%E9%91%AB%E5%AE%87%E5%86%B0%E4%B8%8A%E5%9C%9F%E5%91%B3%E8%B9%A6%E8%BF%AA%23&Refer=top) 503460
 1. [武大靖的战术](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A4%A7%E9%9D%96%E7%9A%84%E6%88%98%E6%9C%AF%23&Refer=top) 501154
 1. [原来冰墩墩是个大长腿](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%86%B0%E5%A2%A9%E5%A2%A9%E6%98%AF%E4%B8%AA%E5%A4%A7%E9%95%BF%E8%85%BF%23&Refer=top) 499624
+1. [新春特别版冰墩墩](https://s.weibo.com/weibo?q=%23%E6%96%B0%E6%98%A5%E7%89%B9%E5%88%AB%E7%89%88%E5%86%B0%E5%A2%A9%E5%A2%A9%23&Refer=top) 495947
 1. [冬奥赛场上放了王一博的justdance](https://s.weibo.com/weibo?q=%23%E5%86%AC%E5%A5%A5%E8%B5%9B%E5%9C%BA%E4%B8%8A%E6%94%BE%E4%BA%86%E7%8E%8B%E4%B8%80%E5%8D%9A%E7%9A%84justdance%23&Refer=top) 492539
 1. [给任子威李文龙一个特大号比心](https://s.weibo.com/weibo?q=%23%E7%BB%99%E4%BB%BB%E5%AD%90%E5%A8%81%E6%9D%8E%E6%96%87%E9%BE%99%E4%B8%80%E4%B8%AA%E7%89%B9%E5%A4%A7%E5%8F%B7%E6%AF%94%E5%BF%83%23&Refer=top) 492192
 1. [短道1000米中国加油](https://s.weibo.com/weibo?q=%23%E7%9F%AD%E9%81%931000%E7%B1%B3%E4%B8%AD%E5%9B%BD%E5%8A%A0%E6%B2%B9%23&Refer=top) 486740
@@ -172,6 +174,7 @@
 1. [谷爱凌纪录片](https://s.weibo.com/weibo?q=%E8%B0%B7%E7%88%B1%E5%87%8C%E7%BA%AA%E5%BD%95%E7%89%87&Refer=top) 468152
 1. [药明康德跌停](https://s.weibo.com/weibo?q=%E8%8D%AF%E6%98%8E%E5%BA%B7%E5%BE%B7%E8%B7%8C%E5%81%9C&Refer=top) 465906
 1. [土耳其大哥](https://s.weibo.com/weibo?q=%23%E5%9C%9F%E8%80%B3%E5%85%B6%E5%A4%A7%E5%93%A5%23&Refer=top) 462833
+1. [谷爱凌跳1620之前只在气垫上练过](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E8%B7%B31620%E4%B9%8B%E5%89%8D%E5%8F%AA%E5%9C%A8%E6%B0%94%E5%9E%AB%E4%B8%8A%E7%BB%83%E8%BF%87%23&Refer=top) 455524
 1. [上班第一天](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E7%8F%AD%E7%AC%AC%E4%B8%80%E5%A4%A9%23&Refer=top) 452588
 1. [短道速滑太刺激了](https://s.weibo.com/weibo?q=%23%E7%9F%AD%E9%81%93%E9%80%9F%E6%BB%91%E5%A4%AA%E5%88%BA%E6%BF%80%E4%BA%86%23&Refer=top) 452266
 1. [吴京说不介意用自己表情包多多益善](https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%AC%E8%AF%B4%E4%B8%8D%E4%BB%8B%E6%84%8F%E7%94%A8%E8%87%AA%E5%B7%B1%E8%A1%A8%E6%83%85%E5%8C%85%E5%A4%9A%E5%A4%9A%E7%9B%8A%E5%96%84%23&Refer=top) 440148
@@ -182,15 +185,14 @@
 1. [花滑解说](https://s.weibo.com/weibo?q=%E8%8A%B1%E6%BB%91%E8%A7%A3%E8%AF%B4&Refer=top) 422536
 1. [黄牌 短道](https://s.weibo.com/weibo?q=%E9%BB%84%E7%89%8C%20%E7%9F%AD%E9%81%93&Refer=top) 420145
 1. [任子威登上领奖台时指国旗瞬间太戳了](https://s.weibo.com/weibo?q=%23%E4%BB%BB%E5%AD%90%E5%A8%81%E7%99%BB%E4%B8%8A%E9%A2%86%E5%A5%96%E5%8F%B0%E6%97%B6%E6%8C%87%E5%9B%BD%E6%97%97%E7%9E%AC%E9%97%B4%E5%A4%AA%E6%88%B3%E4%BA%86%23&Refer=top) 417978
-1. [新春特别版冰墩墩](https://s.weibo.com/weibo?q=%23%E6%96%B0%E6%98%A5%E7%89%B9%E5%88%AB%E7%89%88%E5%86%B0%E5%A2%A9%E5%A2%A9%23&Refer=top) 410073
 1. [犯规 短道](https://s.weibo.com/weibo?q=%E7%8A%AF%E8%A7%84%20%E7%9F%AD%E9%81%93&Refer=top) 400571
 1. [王者之师不可阻挡](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E4%B9%8B%E5%B8%88%E4%B8%8D%E5%8F%AF%E9%98%BB%E6%8C%A1%23&Refer=top) 400371
 1. [逐梦北京冬奥](https://s.weibo.com/weibo?q=%23%E9%80%90%E6%A2%A6%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%23&Refer=top) 397988
-1. [谷爱凌在海淀黄庄学奥数](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E5%9C%A8%E6%B5%B7%E6%B7%80%E9%BB%84%E5%BA%84%E5%AD%A6%E5%A5%A5%E6%95%B0%23&Refer=top) 392821
 1. [花滑为啥转不晕](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E6%BB%91%E4%B8%BA%E5%95%A5%E8%BD%AC%E4%B8%8D%E6%99%95%23&Refer=top) 390034
 1. [阿根廷总统参观毛主席纪念堂](https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7%E6%80%BB%E7%BB%9F%E5%8F%82%E8%A7%82%E6%AF%9B%E4%B8%BB%E5%B8%AD%E7%BA%AA%E5%BF%B5%E5%A0%82%23&Refer=top) 389532
 1. [王珊珊回国第一顿想吃火锅](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%8F%8A%E7%8F%8A%E5%9B%9E%E5%9B%BD%E7%AC%AC%E4%B8%80%E9%A1%BF%E6%83%B3%E5%90%83%E7%81%AB%E9%94%85%23&Refer=top) 386206
 1. [大年初八](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%B9%B4%E5%88%9D%E5%85%AB&Refer=top) 373631
+1. [谷爱凌的秘密武器](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E7%9A%84%E7%A7%98%E5%AF%86%E6%AD%A6%E5%99%A8%23&Refer=top) 359270
 1. [k宝收获一只冰墩墩](https://s.weibo.com/weibo?q=%23k%E5%AE%9D%E6%94%B6%E8%8E%B7%E4%B8%80%E5%8F%AA%E5%86%B0%E5%A2%A9%E5%A2%A9%23&Refer=top) 343669
 1. [苏翊鸣曾两周攻克世界级难度动作](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%BF%8A%E9%B8%A3%E6%9B%BE%E4%B8%A4%E5%91%A8%E6%94%BB%E5%85%8B%E4%B8%96%E7%95%8C%E7%BA%A7%E9%9A%BE%E5%BA%A6%E5%8A%A8%E4%BD%9C%23&Refer=top) 327534
 1. [谢谢猎豹](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E8%B0%A2%E7%8C%8E%E8%B1%B9%23&Refer=top) 316930
