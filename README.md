@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-02-08 13:24:41.104001 
+最后更新时间 2022-02-08 13:34:02.922664 
 1. [谷爱凌金牌](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E9%87%91%E7%89%8C%23&Refer=top) 23236921
 1. [谷爱凌世界最高难度](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E4%B8%96%E7%95%8C%E6%9C%80%E9%AB%98%E9%9A%BE%E5%BA%A6%23&Refer=top) 15946605
 1. [羽生结弦](https://s.weibo.com/weibo?q=%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6&Refer=top) 14804439
@@ -29,6 +29,7 @@
 1. [谷爱凌跪地安慰失误的银牌选手](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E8%B7%AA%E5%9C%B0%E5%AE%89%E6%85%B0%E5%A4%B1%E8%AF%AF%E7%9A%84%E9%93%B6%E7%89%8C%E9%80%89%E6%89%8B%23&Refer=top) 3438109
 1. [谷爱凌冲击个人首枚奥运奖牌](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E5%86%B2%E5%87%BB%E4%B8%AA%E4%BA%BA%E9%A6%96%E6%9E%9A%E5%A5%A5%E8%BF%90%E5%A5%96%E7%89%8C%23&Refer=top) 3324886
 1. [2月7日新增确诊105例](https://s.weibo.com/weibo?q=%232%E6%9C%887%E6%97%A5%E6%96%B0%E5%A2%9E%E7%A1%AE%E8%AF%8A105%E4%BE%8B%23&Refer=top) 3196024
+1. [谷爱凌五环美甲](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E4%BA%94%E7%8E%AF%E7%BE%8E%E7%94%B2%23&Refer=top) 3110748
 1. [谷爱凌第一跳93.75](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E7%AC%AC%E4%B8%80%E8%B7%B393.75%23&Refer=top) 3104790
 1. [国际滑联驳回韩国队匈牙利队申诉](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%99%85%E6%BB%91%E8%81%94%E9%A9%B3%E5%9B%9E%E9%9F%A9%E5%9B%BD%E9%98%9F%E5%8C%88%E7%89%99%E5%88%A9%E9%98%9F%E7%94%B3%E8%AF%89%23&Refer=top) 2883324
 1. [谷爱凌身穿金龙雪服出场](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E8%BA%AB%E7%A9%BF%E9%87%91%E9%BE%99%E9%9B%AA%E6%9C%8D%E5%87%BA%E5%9C%BA%23&Refer=top) 2882456
@@ -40,7 +41,6 @@
 1. [谷爱凌1440](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C1440%23&Refer=top) 2527630
 1. [金博洋哭了](https://s.weibo.com/weibo?q=%23%E9%87%91%E5%8D%9A%E6%B4%8B%E5%93%AD%E4%BA%86%23&Refer=top) 2524030
 1. [谷爱凌跳出超高难度1620](https://s.weibo.com/weibo?q=%E8%B0%B7%E7%88%B1%E5%87%8C%E8%B7%B3%E5%87%BA%E8%B6%85%E9%AB%98%E9%9A%BE%E5%BA%A61620&Refer=top) 2224332
-1. [谷爱凌五环美甲](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E4%BA%94%E7%8E%AF%E7%BE%8E%E7%94%B2%23&Refer=top) 2222188
 1. [羽生结弦95.15分](https://s.weibo.com/weibo?q=%23%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A695.15%E5%88%86%23&Refer=top) 2207640
 1. [老兵挑着女儿穿越长津湖战场](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%85%B5%E6%8C%91%E7%9D%80%E5%A5%B3%E5%84%BF%E7%A9%BF%E8%B6%8A%E9%95%BF%E6%B4%A5%E6%B9%96%E6%88%98%E5%9C%BA%23&Refer=top) 2168158
 1. [传谢娜夫妇跳单买房将被起诉](https://s.weibo.com/weibo?q=%23%E4%BC%A0%E8%B0%A2%E5%A8%9C%E5%A4%AB%E5%A6%87%E8%B7%B3%E5%8D%95%E4%B9%B0%E6%88%BF%E5%B0%86%E8%A2%AB%E8%B5%B7%E8%AF%89%23&Refer=top) 2160418
@@ -65,6 +65,7 @@
 1. [任子威获金牌](https://s.weibo.com/weibo?q=%23%E4%BB%BB%E5%AD%90%E5%A8%81%E8%8E%B7%E9%87%91%E7%89%8C%23&Refer=top) 1421702
 1. [谷爱凌第一个金墩墩到手](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E7%AC%AC%E4%B8%80%E4%B8%AA%E9%87%91%E5%A2%A9%E5%A2%A9%E5%88%B0%E6%89%8B%23&Refer=top) 1406833
 1. [天天太棒了](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E5%A4%A9%E5%A4%AA%E6%A3%92%E4%BA%86%23&Refer=top) 1385573
+1. [车俊焕 帅](https://s.weibo.com/weibo?q=%E8%BD%A6%E4%BF%8A%E7%84%95%20%E5%B8%85&Refer=top) 1363486
 1. [疑似B站猝死员工表妹发声](https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BCB%E7%AB%99%E7%8C%9D%E6%AD%BB%E5%91%98%E5%B7%A5%E8%A1%A8%E5%A6%B9%E5%8F%91%E5%A3%B0%23&Refer=top) 1360881
 1. [为金博洋加油](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E9%87%91%E5%8D%9A%E6%B4%8B%E5%8A%A0%E6%B2%B9%23&Refer=top) 1360631
 1. [2021杭州新生儿爆款名字](https://s.weibo.com/weibo?q=%232021%E6%9D%AD%E5%B7%9E%E6%96%B0%E7%94%9F%E5%84%BF%E7%88%86%E6%AC%BE%E5%90%8D%E5%AD%97%23&Refer=top) 1356394
@@ -87,6 +88,7 @@
 1. [一张纸巾制作眼镜防雾口罩](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%BC%A0%E7%BA%B8%E5%B7%BE%E5%88%B6%E4%BD%9C%E7%9C%BC%E9%95%9C%E9%98%B2%E9%9B%BE%E5%8F%A3%E7%BD%A9%23&Refer=top) 1075396
 1. [羽生结弦北京冬奥首赛](https://s.weibo.com/weibo?q=%23%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E9%A6%96%E8%B5%9B%23&Refer=top) 1075381
 1. [谷爱凌强项](https://s.weibo.com/weibo?q=%E8%B0%B7%E7%88%B1%E5%87%8C%E5%BC%BA%E9%A1%B9&Refer=top) 1054684
+1. [羽生结弦晋级自由滑](https://s.weibo.com/weibo?q=%23%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E6%99%8B%E7%BA%A7%E8%87%AA%E7%94%B1%E6%BB%91%23&Refer=top) 1044144
 1. [宇野昌磨](https://s.weibo.com/weibo?q=%E5%AE%87%E9%87%8E%E6%98%8C%E7%A3%A8&Refer=top) 1040461
 1. [赵立坚说美国不要拿中国说事](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E7%AB%8B%E5%9D%9A%E8%AF%B4%E7%BE%8E%E5%9B%BD%E4%B8%8D%E8%A6%81%E6%8B%BF%E4%B8%AD%E5%9B%BD%E8%AF%B4%E4%BA%8B%23&Refer=top) 1038087
 1. [买不到冰墩墩的网友有多绝](https://s.weibo.com/weibo?q=%23%E4%B9%B0%E4%B8%8D%E5%88%B0%E5%86%B0%E5%A2%A9%E5%A2%A9%E7%9A%84%E7%BD%91%E5%8F%8B%E6%9C%89%E5%A4%9A%E7%BB%9D%23&Refer=top) 1026841
@@ -95,7 +97,6 @@
 1. [冠军对冠军](https://s.weibo.com/weibo?q=%E5%86%A0%E5%86%9B%E5%AF%B9%E5%86%A0%E5%86%9B&Refer=top) 991178
 1. [这就是我们中国的00后](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E6%88%91%E4%BB%AC%E4%B8%AD%E5%9B%BD%E7%9A%8400%E5%90%8E%23&Refer=top) 988339
 1. [谷爱凌北京冬奥进决赛](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E8%BF%9B%E5%86%B3%E8%B5%9B%23&Refer=top) 980718
-1. [羽生结弦晋级自由滑](https://s.weibo.com/weibo?q=%23%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E6%99%8B%E7%BA%A7%E8%87%AA%E7%94%B1%E6%BB%91%23&Refer=top) 959900
 1. [解说员杨扬哭了](https://s.weibo.com/weibo?q=%23%E8%A7%A3%E8%AF%B4%E5%91%98%E6%9D%A8%E6%89%AC%E5%93%AD%E4%BA%86%23&Refer=top) 959835
 1. [多伦多大学春节给学生发冥币红包](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E4%BC%A6%E5%A4%9A%E5%A4%A7%E5%AD%A6%E6%98%A5%E8%8A%82%E7%BB%99%E5%AD%A6%E7%94%9F%E5%8F%91%E5%86%A5%E5%B8%81%E7%BA%A2%E5%8C%85%23&Refer=top) 934137
 1. [黄子韬发博祝贺任子威夺冠](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%8F%91%E5%8D%9A%E7%A5%9D%E8%B4%BA%E4%BB%BB%E5%AD%90%E5%A8%81%E5%A4%BA%E5%86%A0%23&Refer=top) 930293
@@ -110,7 +111,6 @@
 1. [什么时候才能实现冰墩墩自由](https://s.weibo.com/weibo?q=%23%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E6%89%8D%E8%83%BD%E5%AE%9E%E7%8E%B0%E5%86%B0%E5%A2%A9%E5%A2%A9%E8%87%AA%E7%94%B1%23&Refer=top) 842311
 1. [乌合麒麟画的撒贝宁王冰冰](https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%90%88%E9%BA%92%E9%BA%9F%E7%94%BB%E7%9A%84%E6%92%92%E8%B4%9D%E5%AE%81%E7%8E%8B%E5%86%B0%E5%86%B0%23&Refer=top) 820343
 1. [冰墩墩high了](https://s.weibo.com/weibo?q=%23%E5%86%B0%E5%A2%A9%E5%A2%A9high%E4%BA%86%23&Refer=top) 812521
-1. [车俊焕 帅](https://s.weibo.com/weibo?q=%E8%BD%A6%E4%BF%8A%E7%84%95%20%E5%B8%85&Refer=top) 801492
 1. [韩国男子1000全军覆没](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%94%B7%E5%AD%901000%E5%85%A8%E5%86%9B%E8%A6%86%E6%B2%A1%23&Refer=top) 757968
 1. [罗拉 王能能](https://s.weibo.com/weibo?q=%E7%BD%97%E6%8B%89%20%E7%8E%8B%E8%83%BD%E8%83%BD&Refer=top) 757199
 1. [陈滢解说](https://s.weibo.com/weibo?q=%E9%99%88%E6%BB%A2%E8%A7%A3%E8%AF%B4&Refer=top) 754261
@@ -132,7 +132,7 @@
 1. [这裁判能处](https://s.weibo.com/weibo?q=%23%E8%BF%99%E8%A3%81%E5%88%A4%E8%83%BD%E5%A4%84%23&Refer=top) 583511
 1. [自信的中国人是最美的](https://s.weibo.com/weibo?q=%23%E8%87%AA%E4%BF%A1%E7%9A%84%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%98%AF%E6%9C%80%E7%BE%8E%E7%9A%84%23&Refer=top) 572343
 1. [林孝俊黄大宪](https://s.weibo.com/weibo?q=%E6%9E%97%E5%AD%9D%E4%BF%8A%E9%BB%84%E5%A4%A7%E5%AE%AA&Refer=top) 541561
-1. [谷爱凌谈1620](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E8%B0%881620%23&Refer=top) 523153
+1. [谷爱凌谈1620](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E8%B0%881620%23&Refer=top) 525042
 1. [光遇](https://s.weibo.com/weibo?q=%23%E5%85%89%E9%81%87%23&Refer=top) 522272
 1. [90后用炒菜机器人周入10万](https://s.weibo.com/weibo?q=%2390%E5%90%8E%E7%94%A8%E7%82%92%E8%8F%9C%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%91%A8%E5%85%A510%E4%B8%87%23&Refer=top) 517998
 1. [创业板](https://s.weibo.com/weibo?q=%E5%88%9B%E4%B8%9A%E6%9D%BF&Refer=top) 504084
