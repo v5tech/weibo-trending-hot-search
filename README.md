@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-02-09 02:50:31.663542 
+最后更新时间 2022-02-09 03:08:41.622515 
 1. [刘少昂晒与谷爱凌合影](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%B0%91%E6%98%82%E6%99%92%E4%B8%8E%E8%B0%B7%E7%88%B1%E5%87%8C%E5%90%88%E5%BD%B1%23&Refer=top) 2450790
 1. [周冬雨娜娜](https://s.weibo.com/weibo?q=%E5%91%A8%E5%86%AC%E9%9B%A8%E5%A8%9C%E5%A8%9C&Refer=top) 1768252
 1. [谷爱凌妈妈说不需要女儿上斯坦福](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E5%A6%88%E5%A6%88%E8%AF%B4%E4%B8%8D%E9%9C%80%E8%A6%81%E5%A5%B3%E5%84%BF%E4%B8%8A%E6%96%AF%E5%9D%A6%E7%A6%8F%23&Refer=top) 1256871
@@ -64,7 +64,8 @@
 1. [冰墩墩生产工厂已有序复工](https://s.weibo.com/weibo?q=%23%E5%86%B0%E5%A2%A9%E5%A2%A9%E7%94%9F%E4%BA%A7%E5%B7%A5%E5%8E%82%E5%B7%B2%E6%9C%89%E5%BA%8F%E5%A4%8D%E5%B7%A5%23&Refer=top) 167296
 1. [上海规定公交车内不得饮食及外放声音](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E8%A7%84%E5%AE%9A%E5%85%AC%E4%BA%A4%E8%BD%A6%E5%86%85%E4%B8%8D%E5%BE%97%E9%A5%AE%E9%A3%9F%E5%8F%8A%E5%A4%96%E6%94%BE%E5%A3%B0%E9%9F%B3%23&Refer=top) 165670
 1. [谷爱凌金牌](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E9%87%91%E7%89%8C%23&Refer=top) 135353
-1. [柳州特色果酱炸串](https://s.weibo.com/weibo?q=%23%E6%9F%B3%E5%B7%9E%E7%89%B9%E8%89%B2%E6%9E%9C%E9%85%B1%E7%82%B8%E4%B8%B2%23&Refer=top) 38642
+1. [柳州特色果酱炸串](https://s.weibo.com/weibo?q=%23%E6%9F%B3%E5%B7%9E%E7%89%B9%E8%89%B2%E6%9E%9C%E9%85%B1%E7%82%B8%E4%B8%B2%23&Refer=top) 58492
+1. [生产商回应冰墩墩外壳会发黄](https://s.weibo.com/weibo?q=%23%E7%94%9F%E4%BA%A7%E5%95%86%E5%9B%9E%E5%BA%94%E5%86%B0%E5%A2%A9%E5%A2%A9%E5%A4%96%E5%A3%B3%E4%BC%9A%E5%8F%91%E9%BB%84%23&Refer=top) 27782
 <!-- END -->
 
 历史归档 [./archives](./archives)
