@@ -7,12 +7,12 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-02-11 00:46:22.686960 
+最后更新时间 2022-02-11 01:11:31.355385 
 1. [丰县生育八孩女子事件调查处理情况](https://s.weibo.com/weibo?q=%23%E4%B8%B0%E5%8E%BF%E7%94%9F%E8%82%B2%E5%85%AB%E5%AD%A9%E5%A5%B3%E5%AD%90%E4%BA%8B%E4%BB%B6%E8%B0%83%E6%9F%A5%E5%A4%84%E7%90%86%E6%83%85%E5%86%B5%23&Refer=top) 2476891
 1. [苏翊鸣值得一个冠军](https://s.weibo.com/weibo?q=%E8%8B%8F%E7%BF%8A%E9%B8%A3%E5%80%BC%E5%BE%97%E4%B8%80%E4%B8%AA%E5%86%A0%E5%86%9B&Refer=top) 1462276
+1. [女孩觉得父母偏心弟弟起争执后报警](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E8%A7%89%E5%BE%97%E7%88%B6%E6%AF%8D%E5%81%8F%E5%BF%83%E5%BC%9F%E5%BC%9F%E8%B5%B7%E4%BA%89%E6%89%A7%E5%90%8E%E6%8A%A5%E8%AD%A6%23&Refer=top) 1382985
 1. [冬奥会上的激情庆祝瞬间](https://s.weibo.com/weibo?q=%23%E5%86%AC%E5%A5%A5%E4%BC%9A%E4%B8%8A%E7%9A%84%E6%BF%80%E6%83%85%E5%BA%86%E7%A5%9D%E7%9E%AC%E9%97%B4%23&Refer=top) 1298364
 1. [羽生结弦说为什么努力得不到回报](https://s.weibo.com/weibo?q=%23%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E8%AF%B4%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8A%AA%E5%8A%9B%E5%BE%97%E4%B8%8D%E5%88%B0%E5%9B%9E%E6%8A%A5%23&Refer=top) 1289187
-1. [女孩觉得父母偏心弟弟起争执后报警](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E8%A7%89%E5%BE%97%E7%88%B6%E6%AF%8D%E5%81%8F%E5%BF%83%E5%BC%9F%E5%BC%9F%E8%B5%B7%E4%BA%89%E6%89%A7%E5%90%8E%E6%8A%A5%E8%AD%A6%23&Refer=top) 1242614
 1. [比我们更想撒贝宁的是何炅](https://s.weibo.com/weibo?q=%23%E6%AF%94%E6%88%91%E4%BB%AC%E6%9B%B4%E6%83%B3%E6%92%92%E8%B4%9D%E5%AE%81%E7%9A%84%E6%98%AF%E4%BD%95%E7%82%85%23&Refer=top) 1125809
 1. [杭州一农村自建房造得像美术馆](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%B8%80%E5%86%9C%E6%9D%91%E8%87%AA%E5%BB%BA%E6%88%BF%E9%80%A0%E5%BE%97%E5%83%8F%E7%BE%8E%E6%9C%AF%E9%A6%86%23&Refer=top) 960715
 1. [男子回乡过年忘关火7天炼化卤鸡爪](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9B%9E%E4%B9%A1%E8%BF%87%E5%B9%B4%E5%BF%98%E5%85%B3%E7%81%AB7%E5%A4%A9%E7%82%BC%E5%8C%96%E5%8D%A4%E9%B8%A1%E7%88%AA%23&Refer=top) 884170
@@ -30,14 +30,15 @@
 1. [冰墩墩](https://s.weibo.com/weibo?q=%23%E5%86%B0%E5%A2%A9%E5%A2%A9%23&Refer=top) 497185
 1. [河南多地实现冰墩墩自由](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E5%A4%9A%E5%9C%B0%E5%AE%9E%E7%8E%B0%E5%86%B0%E5%A2%A9%E5%A2%A9%E8%87%AA%E7%94%B1%23&Refer=top) 482517
 1. [中国空中技巧队银牌](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%A9%BA%E4%B8%AD%E6%8A%80%E5%B7%A7%E9%98%9F%E9%93%B6%E7%89%8C%23&Refer=top) 448799
+1. [冬奥会的羽生结弦战胜了羽生结弦](https://s.weibo.com/weibo?q=%23%E5%86%AC%E5%A5%A5%E4%BC%9A%E7%9A%84%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E6%88%98%E8%83%9C%E4%BA%86%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%23&Refer=top) 413031
 1. [男子冰球中国vs美国](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%86%B0%E7%90%83%E4%B8%AD%E5%9B%BDvs%E7%BE%8E%E5%9B%BD%23&Refer=top) 406815
-1. [冬奥会的羽生结弦战胜了羽生结弦](https://s.weibo.com/weibo?q=%23%E5%86%AC%E5%A5%A5%E4%BC%9A%E7%9A%84%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E6%88%98%E8%83%9C%E4%BA%86%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%23&Refer=top) 406024
 1. [易烊千玺奇迹花絮旋一个翻车现场](https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%A5%87%E8%BF%B9%E8%8A%B1%E7%B5%AE%E6%97%8B%E4%B8%80%E4%B8%AA%E7%BF%BB%E8%BD%A6%E7%8E%B0%E5%9C%BA%23&Refer=top) 399877
 1. [侏罗纪世界3预告](https://s.weibo.com/weibo?q=%23%E4%BE%8F%E7%BD%97%E7%BA%AA%E4%B8%96%E7%95%8C3%E9%A2%84%E5%91%8A%23&Refer=top) 386285
 1. [冬奥村高峰时一天吃掉100多公斤饺子](https://s.weibo.com/weibo?q=%23%E5%86%AC%E5%A5%A5%E6%9D%91%E9%AB%98%E5%B3%B0%E6%97%B6%E4%B8%80%E5%A4%A9%E5%90%83%E6%8E%89100%E5%A4%9A%E5%85%AC%E6%96%A4%E9%A5%BA%E5%AD%90%23&Refer=top) 384641
+1. [不要低估任何一代年轻人](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%A6%81%E4%BD%8E%E4%BC%B0%E4%BB%BB%E4%BD%95%E4%B8%80%E4%BB%A3%E5%B9%B4%E8%BD%BB%E4%BA%BA%23&Refer=top) 337215
 1. [一闪一闪亮星星](https://s.weibo.com/weibo?q=%E4%B8%80%E9%97%AA%E4%B8%80%E9%97%AA%E4%BA%AE%E6%98%9F%E6%98%9F&Refer=top) 336941
 1. [谷爱凌说自己没有去过海南](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E8%AF%B4%E8%87%AA%E5%B7%B1%E6%B2%A1%E6%9C%89%E5%8E%BB%E8%BF%87%E6%B5%B7%E5%8D%97%23&Refer=top) 301377
-1. [不要低估任何一代年轻人](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%A6%81%E4%BD%8E%E4%BC%B0%E4%BB%BB%E4%BD%95%E4%B8%80%E4%BB%A3%E5%B9%B4%E8%BD%BB%E4%BA%BA%23&Refer=top) 282153
+1. [湖北一餐厅顾客救回心脏骤停服务员](https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8C%97%E4%B8%80%E9%A4%90%E5%8E%85%E9%A1%BE%E5%AE%A2%E6%95%91%E5%9B%9E%E5%BF%83%E8%84%8F%E9%AA%A4%E5%81%9C%E6%9C%8D%E5%8A%A1%E5%91%98%23&Refer=top) 282349
 1. [羽生结弦赛后采访](https://s.weibo.com/weibo?q=%23%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E8%B5%9B%E5%90%8E%E9%87%87%E8%AE%BF%23&Refer=top) 273847
 1. [理发师为顾客剪冰墩墩发型](https://s.weibo.com/weibo?q=%23%E7%90%86%E5%8F%91%E5%B8%88%E4%B8%BA%E9%A1%BE%E5%AE%A2%E5%89%AA%E5%86%B0%E5%A2%A9%E5%A2%A9%E5%8F%91%E5%9E%8B%23&Refer=top) 265648
 1. [女子冰壶中国不敌瑞士](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%86%B0%E5%A3%B6%E4%B8%AD%E5%9B%BD%E4%B8%8D%E6%95%8C%E7%91%9E%E5%A3%AB%23&Refer=top) 263833
@@ -56,12 +57,15 @@
 1. [羽生结弦启蒙教练称其爱挑战](https://s.weibo.com/weibo?q=%23%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E5%90%AF%E8%92%99%E6%95%99%E7%BB%83%E7%A7%B0%E5%85%B6%E7%88%B1%E6%8C%91%E6%88%98%23&Refer=top) 189709
 1. [徐梦桃对队友说干就完了](https://s.weibo.com/weibo?q=%23%E5%BE%90%E6%A2%A6%E6%A1%83%E5%AF%B9%E9%98%9F%E5%8F%8B%E8%AF%B4%E5%B9%B2%E5%B0%B1%E5%AE%8C%E4%BA%86%23&Refer=top) 189601
 1. [十三兰陵王偷家](https://s.weibo.com/weibo?q=%23%E5%8D%81%E4%B8%89%E5%85%B0%E9%99%B5%E7%8E%8B%E5%81%B7%E5%AE%B6%23&Refer=top) 178288
+1. [Uzi](https://s.weibo.com/weibo?q=Uzi&Refer=top) 169237
 1. [景甜演技爆发力](https://s.weibo.com/weibo?q=%23%E6%99%AF%E7%94%9C%E6%BC%94%E6%8A%80%E7%88%86%E5%8F%91%E5%8A%9B%23&Refer=top) 164107
-1. [湖北一餐厅顾客救回心脏骤停服务员](https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8C%97%E4%B8%80%E9%A4%90%E5%8E%85%E9%A1%BE%E5%AE%A2%E6%95%91%E5%9B%9E%E5%BF%83%E8%84%8F%E9%AA%A4%E5%81%9C%E6%9C%8D%E5%8A%A1%E5%91%98%23&Refer=top) 161576
 1. [男子酒后拨打110让帮忙占座打麻将](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%85%92%E5%90%8E%E6%8B%A8%E6%89%93110%E8%AE%A9%E5%B8%AE%E5%BF%99%E5%8D%A0%E5%BA%A7%E6%89%93%E9%BA%BB%E5%B0%86%23&Refer=top) 158599
 1. [王濛对赵磊说我的尺偏向你们这边](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BF%9B%E5%AF%B9%E8%B5%B5%E7%A3%8A%E8%AF%B4%E6%88%91%E7%9A%84%E5%B0%BA%E5%81%8F%E5%90%91%E4%BD%A0%E4%BB%AC%E8%BF%99%E8%BE%B9%23&Refer=top) 151744
 1. [孔令麒说成绩不是唯一评判标准](https://s.weibo.com/weibo?q=%23%E5%AD%94%E4%BB%A4%E9%BA%92%E8%AF%B4%E6%88%90%E7%BB%A9%E4%B8%8D%E6%98%AF%E5%94%AF%E4%B8%80%E8%AF%84%E5%88%A4%E6%A0%87%E5%87%86%23&Refer=top) 150464
+1. [我竟然嗑到了雷佳音殷桃的cp](https://s.weibo.com/weibo?q=%23%E6%88%91%E7%AB%9F%E7%84%B6%E5%97%91%E5%88%B0%E4%BA%86%E9%9B%B7%E4%BD%B3%E9%9F%B3%E6%AE%B7%E6%A1%83%E7%9A%84cp%23&Refer=top) 120566
 1. [阿姨路遇铁骑说媒被拒](https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%A7%A8%E8%B7%AF%E9%81%87%E9%93%81%E9%AA%91%E8%AF%B4%E5%AA%92%E8%A2%AB%E6%8B%92%23&Refer=top) 112552
+1. [谷爱凌想来海南冲浪](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E6%83%B3%E6%9D%A5%E6%B5%B7%E5%8D%97%E5%86%B2%E6%B5%AA%23&Refer=top) 76322
+1. [美术老师用粉笔画立体版冰墩墩](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%9C%AF%E8%80%81%E5%B8%88%E7%94%A8%E7%B2%89%E7%AC%94%E7%94%BB%E7%AB%8B%E4%BD%93%E7%89%88%E5%86%B0%E5%A2%A9%E5%A2%A9%23&Refer=top) 73463
 <!-- END -->
 
 历史归档 [./archives](./archives)
