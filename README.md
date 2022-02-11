@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-02-12 01:48:57.679047 
+最后更新时间 2022-02-12 02:12:30.301924 
 1. [老友记删减](https://s.weibo.com/weibo?q=%E8%80%81%E5%8F%8B%E8%AE%B0%E5%88%A0%E5%87%8F&Refer=top) 2673202
 1. [钢架雪车](https://s.weibo.com/weibo?q=%E9%92%A2%E6%9E%B6%E9%9B%AA%E8%BD%A6&Refer=top) 1603618
 1. [中国00后逐梦冬奥赛场](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD00%E5%90%8E%E9%80%90%E6%A2%A6%E5%86%AC%E5%A5%A5%E8%B5%9B%E5%9C%BA%23&Refer=top) 1451086
@@ -26,6 +26,7 @@
 1. [王濛王源梦幻联动](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BF%9B%E7%8E%8B%E6%BA%90%E6%A2%A6%E5%B9%BB%E8%81%94%E5%8A%A8%23&Refer=top) 558760
 1. [结婚登记大热门214遇冷了](https://s.weibo.com/weibo?q=%23%E7%BB%93%E5%A9%9A%E7%99%BB%E8%AE%B0%E5%A4%A7%E7%83%AD%E9%97%A8214%E9%81%87%E5%86%B7%E4%BA%86%23&Refer=top) 555876
 1. [冬奥纪念币](https://s.weibo.com/weibo?q=%E5%86%AC%E5%A5%A5%E7%BA%AA%E5%BF%B5%E5%B8%81&Refer=top) 532384
+1. [20岁大学生连续熬夜引起暴发性心肌炎](https://s.weibo.com/weibo?q=%2320%E5%B2%81%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%BF%9E%E7%BB%AD%E7%86%AC%E5%A4%9C%E5%BC%95%E8%B5%B7%E6%9A%B4%E5%8F%91%E6%80%A7%E5%BF%83%E8%82%8C%E7%82%8E%23&Refer=top) 530605
 1. [林孝埈终于发博了](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%AD%9D%E5%9F%88%E7%BB%88%E4%BA%8E%E5%8F%91%E5%8D%9A%E4%BA%86%23&Refer=top) 494696
 1. [武大靖好帅](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A4%A7%E9%9D%96%E5%A5%BD%E5%B8%85%23&Refer=top) 458170
 1. [油墩子阿婆生前已基本还清债务](https://s.weibo.com/weibo?q=%23%E6%B2%B9%E5%A2%A9%E5%AD%90%E9%98%BF%E5%A9%86%E7%94%9F%E5%89%8D%E5%B7%B2%E5%9F%BA%E6%9C%AC%E8%BF%98%E6%B8%85%E5%80%BA%E5%8A%A1%23&Refer=top) 458136
@@ -38,7 +39,6 @@
 1. [冬奥钞](https://s.weibo.com/weibo?q=%E5%86%AC%E5%A5%A5%E9%92%9E&Refer=top) 404514
 1. [异地一个月变得陌生了](https://s.weibo.com/weibo?q=%23%E5%BC%82%E5%9C%B0%E4%B8%80%E4%B8%AA%E6%9C%88%E5%8F%98%E5%BE%97%E9%99%8C%E7%94%9F%E4%BA%86%23&Refer=top) 402194
 1. [韩国粉头发运动员](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E7%B2%89%E5%A4%B4%E5%8F%91%E8%BF%90%E5%8A%A8%E5%91%98&Refer=top) 394646
-1. [20岁大学生连续熬夜引起暴发性心肌炎](https://s.weibo.com/weibo?q=%2320%E5%B2%81%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%BF%9E%E7%BB%AD%E7%86%AC%E5%A4%9C%E5%BC%95%E8%B5%B7%E6%9A%B4%E5%8F%91%E6%80%A7%E5%BF%83%E8%82%8C%E7%82%8E%23&Refer=top) 344961
 1. [女子称买肯德基套餐吃出油炸卫生纸](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%B0%E4%B9%B0%E8%82%AF%E5%BE%B7%E5%9F%BA%E5%A5%97%E9%A4%90%E5%90%83%E5%87%BA%E6%B2%B9%E7%82%B8%E5%8D%AB%E7%94%9F%E7%BA%B8%23&Refer=top) 338243
 1. [一闪一闪亮星星 张万森](https://s.weibo.com/weibo?q=%E4%B8%80%E9%97%AA%E4%B8%80%E9%97%AA%E4%BA%AE%E6%98%9F%E6%98%9F%20%E5%BC%A0%E4%B8%87%E6%A3%AE&Refer=top) 326408
 1. [徐梦桃领奖哭了](https://s.weibo.com/weibo?q=%23%E5%BE%90%E6%A2%A6%E6%A1%83%E9%A2%86%E5%A5%96%E5%93%AD%E4%BA%86%23&Refer=top) 322135
@@ -46,6 +46,7 @@
 1. [中国人有多喜欢看热闹](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9C%89%E5%A4%9A%E5%96%9C%E6%AC%A2%E7%9C%8B%E7%83%AD%E9%97%B9%23&Refer=top) 315125
 1. [假如王濛黄健翔说相声](https://s.weibo.com/weibo?q=%23%E5%81%87%E5%A6%82%E7%8E%8B%E6%BF%9B%E9%BB%84%E5%81%A5%E7%BF%94%E8%AF%B4%E7%9B%B8%E5%A3%B0%23&Refer=top) 296928
 1. [林孝埈微博评论区的土味情话](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%AD%9D%E5%9F%88%E5%BE%AE%E5%8D%9A%E8%AF%84%E8%AE%BA%E5%8C%BA%E7%9A%84%E5%9C%9F%E5%91%B3%E6%83%85%E8%AF%9D%23&Refer=top) 276522
+1. [陈赫演技爆发力](https://s.weibo.com/weibo?q=%23%E9%99%88%E8%B5%AB%E6%BC%94%E6%8A%80%E7%88%86%E5%8F%91%E5%8A%9B%23&Refer=top) 276127
 1. [李文龙解释比赛中发生了什么](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%96%87%E9%BE%99%E8%A7%A3%E9%87%8A%E6%AF%94%E8%B5%9B%E4%B8%AD%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88%23&Refer=top) 263508
 1. [那些让我委屈的屁大点事](https://s.weibo.com/weibo?q=%23%E9%82%A3%E4%BA%9B%E8%AE%A9%E6%88%91%E5%A7%94%E5%B1%88%E7%9A%84%E5%B1%81%E5%A4%A7%E7%82%B9%E4%BA%8B%23&Refer=top) 245655
 1. [羽生结弦地中海造型](https://s.weibo.com/weibo?q=%23%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E5%9C%B0%E4%B8%AD%E6%B5%B7%E9%80%A0%E5%9E%8B%23&Refer=top) 243106
@@ -60,11 +61,10 @@
 1. [住在热带雨林是种什么感觉](https://s.weibo.com/weibo?q=%23%E4%BD%8F%E5%9C%A8%E7%83%AD%E5%B8%A6%E9%9B%A8%E6%9E%97%E6%98%AF%E7%A7%8D%E4%BB%80%E4%B9%88%E6%84%9F%E8%A7%89%23&Refer=top) 196572
 1. [Angelababy画的冰墩墩](https://s.weibo.com/weibo?q=%23Angelababy%E7%94%BB%E7%9A%84%E5%86%B0%E5%A2%A9%E5%A2%A9%23&Refer=top) 195838
 1. [王濛说我教练是白当的吗](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BF%9B%E8%AF%B4%E6%88%91%E6%95%99%E7%BB%83%E6%98%AF%E7%99%BD%E5%BD%93%E7%9A%84%E5%90%97%23&Refer=top) 195203
-1. [陈赫演技爆发力](https://s.weibo.com/weibo?q=%23%E9%99%88%E8%B5%AB%E6%BC%94%E6%8A%80%E7%88%86%E5%8F%91%E5%8A%9B%23&Refer=top) 188083
 1. [百色医护人员翻山越岭为群众做核酸](https://s.weibo.com/weibo?q=%23%E7%99%BE%E8%89%B2%E5%8C%BB%E6%8A%A4%E4%BA%BA%E5%91%98%E7%BF%BB%E5%B1%B1%E8%B6%8A%E5%B2%AD%E4%B8%BA%E7%BE%A4%E4%BC%97%E5%81%9A%E6%A0%B8%E9%85%B8%23&Refer=top) 181782
 1. [中国钢架雪车历史最佳战绩](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%92%A2%E6%9E%B6%E9%9B%AA%E8%BD%A6%E5%8E%86%E5%8F%B2%E6%9C%80%E4%BD%B3%E6%88%98%E7%BB%A9%23&Refer=top) 174841
-1. [速度滑冰是地表最快的运动](https://s.weibo.com/weibo?q=%23%E9%80%9F%E5%BA%A6%E6%BB%91%E5%86%B0%E6%98%AF%E5%9C%B0%E8%A1%A8%E6%9C%80%E5%BF%AB%E7%9A%84%E8%BF%90%E5%8A%A8%23&Refer=top) 96516
-1. [姜文的电影台词能多有内涵](https://s.weibo.com/weibo?q=%23%E5%A7%9C%E6%96%87%E7%9A%84%E7%94%B5%E5%BD%B1%E5%8F%B0%E8%AF%8D%E8%83%BD%E5%A4%9A%E6%9C%89%E5%86%85%E6%B6%B5%23&Refer=top) 58314
+1. [速度滑冰是地表最快的运动](https://s.weibo.com/weibo?q=%23%E9%80%9F%E5%BA%A6%E6%BB%91%E5%86%B0%E6%98%AF%E5%9C%B0%E8%A1%A8%E6%9C%80%E5%BF%AB%E7%9A%84%E8%BF%90%E5%8A%A8%23&Refer=top) 109551
+1. [姜文的电影台词能多有内涵](https://s.weibo.com/weibo?q=%23%E5%A7%9C%E6%96%87%E7%9A%84%E7%94%B5%E5%BD%B1%E5%8F%B0%E8%AF%8D%E8%83%BD%E5%A4%9A%E6%9C%89%E5%86%85%E6%B6%B5%23&Refer=top) 104942
 <!-- END -->
 
 历史归档 [./archives](./archives)
