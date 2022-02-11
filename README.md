@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-02-11 23:29:22.473150 
+最后更新时间 2022-02-11 23:42:04.378789 
 1. [短道速滑男子5000米接力](https://s.weibo.com/weibo?q=%23%E7%9F%AD%E9%81%93%E9%80%9F%E6%BB%91%E7%94%B7%E5%AD%905000%E7%B1%B3%E6%8E%A5%E5%8A%9B%23&Refer=top) 13481384
 1. [王濛说踢刀了](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BF%9B%E8%AF%B4%E8%B8%A2%E5%88%80%E4%BA%86%23&Refer=top) 5010788
 1. [崔敏静哭了](https://s.weibo.com/weibo?q=%23%E5%B4%94%E6%95%8F%E9%9D%99%E5%93%AD%E4%BA%86%23&Refer=top) 4488102
@@ -49,6 +49,7 @@
 1. [千万不要用电饭煲做甜品](https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E7%94%A8%E7%94%B5%E9%A5%AD%E7%85%B2%E5%81%9A%E7%94%9C%E5%93%81%23&Refer=top) 1859382
 1. [羽生结弦地中海造型](https://s.weibo.com/weibo?q=%23%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E5%9C%B0%E4%B8%AD%E6%B5%B7%E9%80%A0%E5%9E%8B%23&Refer=top) 1785591
 1. [李承铉说没办法替不相信的人说话](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%89%BF%E9%93%89%E8%AF%B4%E6%B2%A1%E5%8A%9E%E6%B3%95%E6%9B%BF%E4%B8%8D%E7%9B%B8%E4%BF%A1%E7%9A%84%E4%BA%BA%E8%AF%B4%E8%AF%9D%23&Refer=top) 1770543
+1. [老友记删减](https://s.weibo.com/weibo?q=%E8%80%81%E5%8F%8B%E8%AE%B0%E5%88%A0%E5%87%8F&Refer=top) 1753844
 1. [苹果因iPadmini6果冻屏遭集体诉讼](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%9B%A0iPadmini6%E6%9E%9C%E5%86%BB%E5%B1%8F%E9%81%AD%E9%9B%86%E4%BD%93%E8%AF%89%E8%AE%BC%23&Refer=top) 1738230
 1. [女子花13万买到事故车获退赔53万](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%8A%B113%E4%B8%87%E4%B9%B0%E5%88%B0%E4%BA%8B%E6%95%85%E8%BD%A6%E8%8E%B7%E9%80%80%E8%B5%9453%E4%B8%87%23&Refer=top) 1721429
 1. [苏炳添发起全网鸡蛋挑战](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%82%B3%E6%B7%BB%E5%8F%91%E8%B5%B7%E5%85%A8%E7%BD%91%E9%B8%A1%E8%9B%8B%E6%8C%91%E6%88%98%23&Refer=top) 1714633
@@ -135,6 +136,7 @@
 1. [徐梦桃领奖哭了](https://s.weibo.com/weibo?q=%23%E5%BE%90%E6%A2%A6%E6%A1%83%E9%A2%86%E5%A5%96%E5%93%AD%E4%BA%86%23&Refer=top) 710523
 1. [卡米拉](https://s.weibo.com/weibo?q=%E5%8D%A1%E7%B1%B3%E6%8B%89&Refer=top) 708274
 1. [演员总片酬不得超过制作成本40%](https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%91%98%E6%80%BB%E7%89%87%E9%85%AC%E4%B8%8D%E5%BE%97%E8%B6%85%E8%BF%87%E5%88%B6%E4%BD%9C%E6%88%90%E6%9C%AC40%25%23&Refer=top) 706328
+1. [19岁糖尿病女孩甜食当三餐险丧命](https://s.weibo.com/weibo?q=%2319%E5%B2%81%E7%B3%96%E5%B0%BF%E7%97%85%E5%A5%B3%E5%AD%A9%E7%94%9C%E9%A3%9F%E5%BD%93%E4%B8%89%E9%A4%90%E9%99%A9%E4%B8%A7%E5%91%BD%23&Refer=top) 697858
 1. [加特林退役](https://s.weibo.com/weibo?q=%E5%8A%A0%E7%89%B9%E6%9E%97%E9%80%80%E5%BD%B9&Refer=top) 694394
 1. [中国姑娘短道速滑1000米](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A7%91%E5%A8%98%E7%9F%AD%E9%81%93%E9%80%9F%E6%BB%911000%E7%B1%B3%23&Refer=top) 692942
 1. [奇迹笨小孩票房破9亿](https://s.weibo.com/weibo?q=%23%E5%A5%87%E8%BF%B9%E7%AC%A8%E5%B0%8F%E5%AD%A9%E7%A5%A8%E6%88%BF%E7%A0%B49%E4%BA%BF%23&Refer=top) 686516
@@ -143,6 +145,7 @@
 1. [男生真心喜欢你是什么样的](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E7%9C%9F%E5%BF%83%E5%96%9C%E6%AC%A2%E4%BD%A0%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%23&Refer=top) 649355
 1. [90后鸡司令想摆冰墩墩可惜鸡太少](https://s.weibo.com/weibo?q=%2390%E5%90%8E%E9%B8%A1%E5%8F%B8%E4%BB%A4%E6%83%B3%E6%91%86%E5%86%B0%E5%A2%A9%E5%A2%A9%E5%8F%AF%E6%83%9C%E9%B8%A1%E5%A4%AA%E5%B0%91%23&Refer=top) 639657
 1. [冰墩墩的设计原来还有麋鹿老虎版](https://s.weibo.com/weibo?q=%23%E5%86%B0%E5%A2%A9%E5%A2%A9%E7%9A%84%E8%AE%BE%E8%AE%A1%E5%8E%9F%E6%9D%A5%E8%BF%98%E6%9C%89%E9%BA%8B%E9%B9%BF%E8%80%81%E8%99%8E%E7%89%88%23&Refer=top) 629139
+1. [钢架雪车队长耿文强观赛解说](https://s.weibo.com/weibo?q=%23%E9%92%A2%E6%9E%B6%E9%9B%AA%E8%BD%A6%E9%98%9F%E9%95%BF%E8%80%BF%E6%96%87%E5%BC%BA%E8%A7%82%E8%B5%9B%E8%A7%A3%E8%AF%B4%23&Refer=top) 628736
 1. [吃小酥肉会停不下来](https://s.weibo.com/weibo?q=%23%E5%90%83%E5%B0%8F%E9%85%A5%E8%82%89%E4%BC%9A%E5%81%9C%E4%B8%8D%E4%B8%8B%E6%9D%A5%23&Refer=top) 627745
 1. [冬奥钞](https://s.weibo.com/weibo?q=%E5%86%AC%E5%A5%A5%E9%92%9E&Refer=top) 624019
 1. [金博洋感谢祖国给他力量](https://s.weibo.com/weibo?q=%23%E9%87%91%E5%8D%9A%E6%B4%8B%E6%84%9F%E8%B0%A2%E7%A5%96%E5%9B%BD%E7%BB%99%E4%BB%96%E5%8A%9B%E9%87%8F%23&Refer=top) 621315
@@ -174,9 +177,7 @@
 1. [高校男生在宿舍开香肠派对](https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E7%94%B7%E7%94%9F%E5%9C%A8%E5%AE%BF%E8%88%8D%E5%BC%80%E9%A6%99%E8%82%A0%E6%B4%BE%E5%AF%B9%23&Refer=top) 532628
 1. [朱正廷说冰球少年的导演能处](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E6%AD%A3%E5%BB%B7%E8%AF%B4%E5%86%B0%E7%90%83%E5%B0%91%E5%B9%B4%E7%9A%84%E5%AF%BC%E6%BC%94%E8%83%BD%E5%A4%84%23&Refer=top) 531920
 1. [一闪一闪亮星星 张万森](https://s.weibo.com/weibo?q=%E4%B8%80%E9%97%AA%E4%B8%80%E9%97%AA%E4%BA%AE%E6%98%9F%E6%98%9F%20%E5%BC%A0%E4%B8%87%E6%A3%AE&Refer=top) 526301
-1. [19岁糖尿病女孩甜食当三餐险丧命](https://s.weibo.com/weibo?q=%2319%E5%B2%81%E7%B3%96%E5%B0%BF%E7%97%85%E5%A5%B3%E5%AD%A9%E7%94%9C%E9%A3%9F%E5%BD%93%E4%B8%89%E9%A4%90%E9%99%A9%E4%B8%A7%E5%91%BD%23&Refer=top) 521004
 1. [这姐妹真的能处](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%A7%90%E5%A6%B9%E7%9C%9F%E7%9A%84%E8%83%BD%E5%A4%84%23&Refer=top) 520155
-1. [钢架雪车队长耿文强观赛解说](https://s.weibo.com/weibo?q=%23%E9%92%A2%E6%9E%B6%E9%9B%AA%E8%BD%A6%E9%98%9F%E9%95%BF%E8%80%BF%E6%96%87%E5%BC%BA%E8%A7%82%E8%B5%9B%E8%A7%A3%E8%AF%B4%23&Refer=top) 516547
 1. [北京的含墩量有多高](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E7%9A%84%E5%90%AB%E5%A2%A9%E9%87%8F%E6%9C%89%E5%A4%9A%E9%AB%98%23&Refer=top) 512853
 1. [德云社节目单](https://s.weibo.com/weibo?q=%E5%BE%B7%E4%BA%91%E7%A4%BE%E8%8A%82%E7%9B%AE%E5%8D%95&Refer=top) 512535
 1. [妈妈在家设相亲角的福建女孩完婚](https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E5%9C%A8%E5%AE%B6%E8%AE%BE%E7%9B%B8%E4%BA%B2%E8%A7%92%E7%9A%84%E7%A6%8F%E5%BB%BA%E5%A5%B3%E5%AD%A9%E5%AE%8C%E5%A9%9A%23&Refer=top) 508870
@@ -318,6 +319,7 @@
 1. [如果诸葛亮社恐](https://s.weibo.com/weibo?q=%23%E5%A6%82%E6%9E%9C%E8%AF%B8%E8%91%9B%E4%BA%AE%E7%A4%BE%E6%81%90%23&Refer=top) 265806
 1. [理发师为顾客剪冰墩墩发型](https://s.weibo.com/weibo?q=%23%E7%90%86%E5%8F%91%E5%B8%88%E4%B8%BA%E9%A1%BE%E5%AE%A2%E5%89%AA%E5%86%B0%E5%A2%A9%E5%A2%A9%E5%8F%91%E5%9E%8B%23&Refer=top) 265648
 1. [约会装扮的加分细节](https://s.weibo.com/weibo?q=%23%E7%BA%A6%E4%BC%9A%E8%A3%85%E6%89%AE%E7%9A%84%E5%8A%A0%E5%88%86%E7%BB%86%E8%8A%82%23&Refer=top) 265123
+1. [蔡雪桐一半人生都与冬奥有关](https://s.weibo.com/weibo?q=%23%E8%94%A1%E9%9B%AA%E6%A1%90%E4%B8%80%E5%8D%8A%E4%BA%BA%E7%94%9F%E9%83%BD%E4%B8%8E%E5%86%AC%E5%A5%A5%E6%9C%89%E5%85%B3%23&Refer=top) 264478
 1. [被花滑青梅竹马浪漫到](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E8%8A%B1%E6%BB%91%E9%9D%92%E6%A2%85%E7%AB%B9%E9%A9%AC%E6%B5%AA%E6%BC%AB%E5%88%B0%23&Refer=top) 264410
 1. [动物版冬奥会](https://s.weibo.com/weibo?q=%23%E5%8A%A8%E7%89%A9%E7%89%88%E5%86%AC%E5%A5%A5%E4%BC%9A%23&Refer=top) 264246
 1. [女子冰壶中国不敌瑞士](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%86%B0%E5%A3%B6%E4%B8%AD%E5%9B%BD%E4%B8%8D%E6%95%8C%E7%91%9E%E5%A3%AB%23&Refer=top) 263833
@@ -335,7 +337,6 @@
 1. [花样滑冰到底有多难](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E6%A0%B7%E6%BB%91%E5%86%B0%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E9%9A%BE%23&Refer=top) 252183
 1. [去旅游也不忘给闺蜜求姻缘](https://s.weibo.com/weibo?q=%23%E5%8E%BB%E6%97%85%E6%B8%B8%E4%B9%9F%E4%B8%8D%E5%BF%98%E7%BB%99%E9%97%BA%E8%9C%9C%E6%B1%82%E5%A7%BB%E7%BC%98%23&Refer=top) 251917
 1. [武汉已开启冰墩墩预售](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89%E5%B7%B2%E5%BC%80%E5%90%AF%E5%86%B0%E5%A2%A9%E5%A2%A9%E9%A2%84%E5%94%AE%23&Refer=top) 249009
-1. [蔡雪桐一半人生都与冬奥有关](https://s.weibo.com/weibo?q=%23%E8%94%A1%E9%9B%AA%E6%A1%90%E4%B8%80%E5%8D%8A%E4%BA%BA%E7%94%9F%E9%83%BD%E4%B8%8E%E5%86%AC%E5%A5%A5%E6%9C%89%E5%85%B3%23&Refer=top) 248760
 1. [不要忘记我爱你告白版预告](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%A6%81%E5%BF%98%E8%AE%B0%E6%88%91%E7%88%B1%E4%BD%A0%E5%91%8A%E7%99%BD%E7%89%88%E9%A2%84%E5%91%8A%23&Refer=top) 248642
 1. [小狗狮虎园中霸气撵开老虎](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8B%97%E7%8B%AE%E8%99%8E%E5%9B%AD%E4%B8%AD%E9%9C%B8%E6%B0%94%E6%92%B5%E5%BC%80%E8%80%81%E8%99%8E%23&Refer=top) 248220
 1. [被斜杠中年的自白奋斗史整破防了](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%96%9C%E6%9D%A0%E4%B8%AD%E5%B9%B4%E7%9A%84%E8%87%AA%E7%99%BD%E5%A5%8B%E6%96%97%E5%8F%B2%E6%95%B4%E7%A0%B4%E9%98%B2%E4%BA%86%23&Refer=top) 247605
@@ -373,6 +374,7 @@
 1. [滑雪搞笑名场面大赏](https://s.weibo.com/weibo?q=%23%E6%BB%91%E9%9B%AA%E6%90%9E%E7%AC%91%E5%90%8D%E5%9C%BA%E9%9D%A2%E5%A4%A7%E8%B5%8F%23&Refer=top) 210653
 1. [美国CPI](https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BDCPI&Refer=top) 210533
 1. [一起向未来](https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%B5%B7%E5%90%91%E6%9C%AA%E6%9D%A5%23&Refer=top) 208579
+1. [油墩子阿婆生前已基本还清债务](https://s.weibo.com/weibo?q=%23%E6%B2%B9%E5%A2%A9%E5%AD%90%E9%98%BF%E5%A9%86%E7%94%9F%E5%89%8D%E5%B7%B2%E5%9F%BA%E6%9C%AC%E8%BF%98%E6%B8%85%E5%80%BA%E5%8A%A1%23&Refer=top) 207964
 1. [女儿离家时妈妈偷偷给行李中塞钱](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E7%A6%BB%E5%AE%B6%E6%97%B6%E5%A6%88%E5%A6%88%E5%81%B7%E5%81%B7%E7%BB%99%E8%A1%8C%E6%9D%8E%E4%B8%AD%E5%A1%9E%E9%92%B1%23&Refer=top) 207578
 1. [贾宗洋失误](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E5%AE%97%E6%B4%8B%E5%A4%B1%E8%AF%AF%23&Refer=top) 207547
 1. [中国男子冰壶队员都是90后](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E5%AD%90%E5%86%B0%E5%A3%B6%E9%98%9F%E5%91%98%E9%83%BD%E6%98%AF90%E5%90%8E%23&Refer=top) 207507
