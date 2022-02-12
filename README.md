@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-02-13 01:15:07.046701 
+最后更新时间 2022-02-13 01:28:38.616353 
 1. [一天6个豆沙包的马耳他运动员](https://s.weibo.com/weibo?q=%E4%B8%80%E5%A4%A96%E4%B8%AA%E8%B1%86%E6%B2%99%E5%8C%85%E7%9A%84%E9%A9%AC%E8%80%B3%E4%BB%96%E8%BF%90%E5%8A%A8%E5%91%98&Refer=top) 2353671
 1. [速度滑冰500米颁奖仪式](https://s.weibo.com/weibo?q=%E9%80%9F%E5%BA%A6%E6%BB%91%E5%86%B0500%E7%B1%B3%E9%A2%81%E5%A5%96%E4%BB%AA%E5%BC%8F&Refer=top) 1573859
 1. [中国00后逐梦冬奥赛场](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD00%E5%90%8E%E9%80%90%E6%A2%A6%E5%86%AC%E5%A5%A5%E8%B5%9B%E5%9C%BA%23&Refer=top) 1118709
@@ -15,18 +15,18 @@
 1. [速度滑冰](https://s.weibo.com/weibo?q=%E9%80%9F%E5%BA%A6%E6%BB%91%E5%86%B0&Refer=top) 1069486
 1. [金博洋的冰墩墩被要走了](https://s.weibo.com/weibo?q=%23%E9%87%91%E5%8D%9A%E6%B4%8B%E7%9A%84%E5%86%B0%E5%A2%A9%E5%A2%A9%E8%A2%AB%E8%A6%81%E8%B5%B0%E4%BA%86%23&Refer=top) 1025376
 1. [原来金博洋知道自己很社牛](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E9%87%91%E5%8D%9A%E6%B4%8B%E7%9F%A5%E9%81%93%E8%87%AA%E5%B7%B1%E5%BE%88%E7%A4%BE%E7%89%9B%23&Refer=top) 968773
+1. [谷爱凌中学800米最快2分36秒](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E4%B8%AD%E5%AD%A6800%E7%B1%B3%E6%9C%80%E5%BF%AB2%E5%88%8636%E7%A7%92%23&Refer=top) 850631
 1. [长沙女子轻生只因男友年会醉酒失联](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B2%99%E5%A5%B3%E5%AD%90%E8%BD%BB%E7%94%9F%E5%8F%AA%E5%9B%A0%E7%94%B7%E5%8F%8B%E5%B9%B4%E4%BC%9A%E9%86%89%E9%85%92%E5%A4%B1%E8%81%94%23&Refer=top) 836716
 1. [当男友考了皮肤管理师证](https://s.weibo.com/weibo?q=%23%E5%BD%93%E7%94%B7%E5%8F%8B%E8%80%83%E4%BA%86%E7%9A%AE%E8%82%A4%E7%AE%A1%E7%90%86%E5%B8%88%E8%AF%81%23&Refer=top) 752783
 1. [加拿大女选手肌肉](https://s.weibo.com/weibo?q=%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%A5%B3%E9%80%89%E6%89%8B%E8%82%8C%E8%82%89&Refer=top) 685793
 1. [喝完碳酸饮料过半小时再刷牙](https://s.weibo.com/weibo?q=%23%E5%96%9D%E5%AE%8C%E7%A2%B3%E9%85%B8%E9%A5%AE%E6%96%99%E8%BF%87%E5%8D%8A%E5%B0%8F%E6%97%B6%E5%86%8D%E5%88%B7%E7%89%99%23&Refer=top) 658450
-1. [谷爱凌中学800米最快2分36秒](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E4%B8%AD%E5%AD%A6800%E7%B1%B3%E6%9C%80%E5%BF%AB2%E5%88%8636%E7%A7%92%23&Refer=top) 624255
+1. [罗拉王能能](https://s.weibo.com/weibo?q=%E7%BD%97%E6%8B%89%E7%8E%8B%E8%83%BD%E8%83%BD&Refer=top) 632517
 1. [21岁小伙长期喝饮料吃外卖住进EICU](https://s.weibo.com/weibo?q=%2321%E5%B2%81%E5%B0%8F%E4%BC%99%E9%95%BF%E6%9C%9F%E5%96%9D%E9%A5%AE%E6%96%99%E5%90%83%E5%A4%96%E5%8D%96%E4%BD%8F%E8%BF%9BEICU%23&Refer=top) 623560
 1. [王濛评价韩国选手擦领奖台](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BF%9B%E8%AF%84%E4%BB%B7%E9%9F%A9%E5%9B%BD%E9%80%89%E6%89%8B%E6%93%A6%E9%A2%86%E5%A5%96%E5%8F%B0%23&Refer=top) 623249
 1. [速度滑冰颁奖](https://s.weibo.com/weibo?q=%23%E9%80%9F%E5%BA%A6%E6%BB%91%E5%86%B0%E9%A2%81%E5%A5%96%23&Refer=top) 619795
 1. [这水果吃法南方人都害怕](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%B0%B4%E6%9E%9C%E5%90%83%E6%B3%95%E5%8D%97%E6%96%B9%E4%BA%BA%E9%83%BD%E5%AE%B3%E6%80%95%23&Refer=top) 605753
 1. [马奎尔](https://s.weibo.com/weibo?q=%E9%A9%AC%E5%A5%8E%E5%B0%94&Refer=top) 540813
 1. [女店员16个月盗走店里530多万](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%BA%97%E5%91%9816%E4%B8%AA%E6%9C%88%E7%9B%97%E8%B5%B0%E5%BA%97%E9%87%8C530%E5%A4%9A%E4%B8%87%23&Refer=top) 535530
-1. [罗拉王能能](https://s.weibo.com/weibo?q=%E7%BD%97%E6%8B%89%E7%8E%8B%E8%83%BD%E8%83%BD&Refer=top) 534544
 1. [冰舞](https://s.weibo.com/weibo?q=%E5%86%B0%E8%88%9E&Refer=top) 486722
 1. [一闪一闪亮星星](https://s.weibo.com/weibo?q=%E4%B8%80%E9%97%AA%E4%B8%80%E9%97%AA%E4%BA%AE%E6%98%9F%E6%98%9F&Refer=top) 459109
 1. [微博有了冰墩墩表情](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E6%9C%89%E4%BA%86%E5%86%B0%E5%A2%A9%E5%A2%A9%E8%A1%A8%E6%83%85%23&Refer=top) 440980
