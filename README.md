@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-02-12 23:39:17.013512 
+最后更新时间 2022-02-12 23:48:48.204379 
 1. [高亭宇金牌](https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%BA%AD%E5%AE%87%E9%87%91%E7%89%8C%23&Refer=top) 10610610
 1. [许魏洲承认被PUA](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E9%AD%8F%E6%B4%B2%E6%89%BF%E8%AE%A4%E8%A2%ABPUA%23&Refer=top) 5182202
 1. [高亭宇破奥运纪录](https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%BA%AD%E5%AE%87%E7%A0%B4%E5%A5%A5%E8%BF%90%E7%BA%AA%E5%BD%95%23&Refer=top) 4833399
@@ -27,6 +27,7 @@
 1. [朴槿惠25亿韩元养老别墅曝光](https://s.weibo.com/weibo?q=%23%E6%9C%B4%E6%A7%BF%E6%83%A025%E4%BA%BF%E9%9F%A9%E5%85%83%E5%85%BB%E8%80%81%E5%88%AB%E5%A2%85%E6%9B%9D%E5%85%89%23&Refer=top) 2176595
 1. [全场飘起中国红](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9C%BA%E9%A3%98%E8%B5%B7%E4%B8%AD%E5%9B%BD%E7%BA%A2%23&Refer=top) 2075049
 1. [中韩日包揽速滑男子500米前三](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E9%9F%A9%E6%97%A5%E5%8C%85%E6%8F%BD%E9%80%9F%E6%BB%91%E7%94%B7%E5%AD%90500%E7%B1%B3%E5%89%8D%E4%B8%89%23&Refer=top) 1930125
+1. [一天6个豆沙包的马耳他运动员](https://s.weibo.com/weibo?q=%E4%B8%80%E5%A4%A96%E4%B8%AA%E8%B1%86%E6%B2%99%E5%8C%85%E7%9A%84%E9%A9%AC%E8%80%B3%E4%BB%96%E8%BF%90%E5%8A%A8%E5%91%98&Refer=top) 1878474
 1. [冰舞](https://s.weibo.com/weibo?q=%E5%86%B0%E8%88%9E&Refer=top) 1800595
 1. [李琰 高亭宇](https://s.weibo.com/weibo?q=%E6%9D%8E%E7%90%B0%20%E9%AB%98%E4%BA%AD%E5%AE%87&Refer=top) 1768700
 1. [钢架雪车](https://s.weibo.com/weibo?q=%E9%92%A2%E6%9E%B6%E9%9B%AA%E8%BD%A6&Refer=top) 1603618
@@ -45,7 +46,6 @@
 1. [博主称拿不出50万彩礼女友被强行拖走](https://s.weibo.com/weibo?q=%23%E5%8D%9A%E4%B8%BB%E7%A7%B0%E6%8B%BF%E4%B8%8D%E5%87%BA50%E4%B8%87%E5%BD%A9%E7%A4%BC%E5%A5%B3%E5%8F%8B%E8%A2%AB%E5%BC%BA%E8%A1%8C%E6%8B%96%E8%B5%B0%23&Refer=top) 1362803
 1. [冰壶](https://s.weibo.com/weibo?q=%E5%86%B0%E5%A3%B6&Refer=top) 1354628
 1. [湖南是唯一有省服的地方吧](https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E6%98%AF%E5%94%AF%E4%B8%80%E6%9C%89%E7%9C%81%E6%9C%8D%E7%9A%84%E5%9C%B0%E6%96%B9%E5%90%A7%23&Refer=top) 1354490
-1. [一天6个豆沙包的马耳他运动员](https://s.weibo.com/weibo?q=%E4%B8%80%E5%A4%A96%E4%B8%AA%E8%B1%86%E6%B2%99%E5%8C%85%E7%9A%84%E9%A9%AC%E8%80%B3%E4%BB%96%E8%BF%90%E5%8A%A8%E5%91%98&Refer=top) 1316942
 1. [白敬亭号召马思纯新剧看起来](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%8F%B7%E5%8F%AC%E9%A9%AC%E6%80%9D%E7%BA%AF%E6%96%B0%E5%89%A7%E7%9C%8B%E8%B5%B7%E6%9D%A5%23&Refer=top) 1299682
 1. [重庆将免费为适龄女性接种宫颈癌疫苗](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E5%B0%86%E5%85%8D%E8%B4%B9%E4%B8%BA%E9%80%82%E9%BE%84%E5%A5%B3%E6%80%A7%E6%8E%A5%E7%A7%8D%E5%AE%AB%E9%A2%88%E7%99%8C%E7%96%AB%E8%8B%97%23&Refer=top) 1270704
 1. [中国队踢刀晋级](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E9%98%9F%E8%B8%A2%E5%88%80%E6%99%8B%E7%BA%A7&Refer=top) 1257637
@@ -130,6 +130,7 @@
 1. [刘宇宁做面包拖鞋](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E5%81%9A%E9%9D%A2%E5%8C%85%E6%8B%96%E9%9E%8B%23&Refer=top) 563480
 1. [王濛王源梦幻联动](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BF%9B%E7%8E%8B%E6%BA%90%E6%A2%A6%E5%B9%BB%E8%81%94%E5%8A%A8%23&Refer=top) 558760
 1. [当你和女友在外偶遇家人时](https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BD%A0%E5%92%8C%E5%A5%B3%E5%8F%8B%E5%9C%A8%E5%A4%96%E5%81%B6%E9%81%87%E5%AE%B6%E4%BA%BA%E6%97%B6%23&Refer=top) 557411
+1. [马奎尔](https://s.weibo.com/weibo?q=%E9%A9%AC%E5%A5%8E%E5%B0%94&Refer=top) 547043
 1. [郁亮自曝订机票已不再买头等舱](https://s.weibo.com/weibo?q=%23%E9%83%81%E4%BA%AE%E8%87%AA%E6%9B%9D%E8%AE%A2%E6%9C%BA%E7%A5%A8%E5%B7%B2%E4%B8%8D%E5%86%8D%E4%B9%B0%E5%A4%B4%E7%AD%89%E8%88%B1%23&Refer=top) 543759
 1. [王诗玥柳鑫宇登场](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%AF%97%E7%8E%A5%E6%9F%B3%E9%91%AB%E5%AE%87%E7%99%BB%E5%9C%BA%23&Refer=top) 534272
 1. [冬奥纪念币](https://s.weibo.com/weibo?q=%E5%86%AC%E5%A5%A5%E7%BA%AA%E5%BF%B5%E5%B8%81&Refer=top) 532384
@@ -141,10 +142,10 @@
 1. [许静韬 冰壶](https://s.weibo.com/weibo?q=%E8%AE%B8%E9%9D%99%E9%9F%AC%20%E5%86%B0%E5%A3%B6&Refer=top) 522763
 1. [金晨王子异把恋爱玩明白了](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E7%8E%8B%E5%AD%90%E5%BC%82%E6%8A%8A%E6%81%8B%E7%88%B1%E7%8E%A9%E6%98%8E%E7%99%BD%E4%BA%86%23&Refer=top) 521543
 1. [刘宇宁现身央视元宵晚会录制](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E7%8E%B0%E8%BA%AB%E5%A4%AE%E8%A7%86%E5%85%83%E5%AE%B5%E6%99%9A%E4%BC%9A%E5%BD%95%E5%88%B6%23&Refer=top) 516527
+1. [这水果吃法南方人都害怕](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%B0%B4%E6%9E%9C%E5%90%83%E6%B3%95%E5%8D%97%E6%96%B9%E4%BA%BA%E9%83%BD%E5%AE%B3%E6%80%95%23&Refer=top) 515196
 1. [EDG战胜WE](https://s.weibo.com/weibo?q=%23EDG%E6%88%98%E8%83%9CWE%23&Refer=top) 509317
 1. [高亭宇说因伤未发挥出100%实力](https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%BA%AD%E5%AE%87%E8%AF%B4%E5%9B%A0%E4%BC%A4%E6%9C%AA%E5%8F%91%E6%8C%A5%E5%87%BA100%25%E5%AE%9E%E5%8A%9B%23&Refer=top) 508035
 1. [闪光的乐队](https://s.weibo.com/weibo?q=%E9%97%AA%E5%85%89%E7%9A%84%E4%B9%90%E9%98%9F&Refer=top) 508016
-1. [马奎尔](https://s.weibo.com/weibo?q=%E9%A9%AC%E5%A5%8E%E5%B0%94&Refer=top) 507631
 1. [电影狙击手票房破4亿](https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E7%8B%99%E5%87%BB%E6%89%8B%E7%A5%A8%E6%88%BF%E7%A0%B44%E4%BA%BF%23&Refer=top) 501412
 1. [高亭宇说奥运金牌是毕生梦想](https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%BA%AD%E5%AE%87%E8%AF%B4%E5%A5%A5%E8%BF%90%E9%87%91%E7%89%8C%E6%98%AF%E6%AF%95%E7%94%9F%E6%A2%A6%E6%83%B3%23&Refer=top) 500082
 1. [高亭宇哭了](https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%BA%AD%E5%AE%87%E5%93%AD%E4%BA%86%23&Refer=top) 499004
@@ -157,7 +158,6 @@
 1. [外婆买的冰墩墩周边](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%A9%86%E4%B9%B0%E7%9A%84%E5%86%B0%E5%A2%A9%E5%A2%A9%E5%91%A8%E8%BE%B9%23&Refer=top) 490257
 1. [过年为何使年轻人想断亲](https://s.weibo.com/weibo?q=%E8%BF%87%E5%B9%B4%E4%B8%BA%E4%BD%95%E4%BD%BF%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%83%B3%E6%96%AD%E4%BA%B2&Refer=top) 489922
 1. [武大靖第1双轮滑鞋是父亲2个月工资](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A4%A7%E9%9D%96%E7%AC%AC1%E5%8F%8C%E8%BD%AE%E6%BB%91%E9%9E%8B%E6%98%AF%E7%88%B6%E4%BA%B22%E4%B8%AA%E6%9C%88%E5%B7%A5%E8%B5%84%23&Refer=top) 489419
-1. [这水果吃法南方人都害怕](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%B0%B4%E6%9E%9C%E5%90%83%E6%B3%95%E5%8D%97%E6%96%B9%E4%BA%BA%E9%83%BD%E5%AE%B3%E6%80%95%23&Refer=top) 482152
 1. [王濛现场指导视频](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BF%9B%E7%8E%B0%E5%9C%BA%E6%8C%87%E5%AF%BC%E8%A7%86%E9%A2%91%23&Refer=top) 475380
 1. [家有儿女播出17周年](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E6%9C%89%E5%84%BF%E5%A5%B3%E6%92%AD%E5%87%BA17%E5%91%A8%E5%B9%B4%23&Refer=top) 473539
 1. [2月11日新增确诊99例](https://s.weibo.com/weibo?q=%232%E6%9C%8811%E6%97%A5%E6%96%B0%E5%A2%9E%E7%A1%AE%E8%AF%8A99%E4%BE%8B%23&Refer=top) 473140
@@ -177,6 +177,7 @@
 1. [钢架雪车队长耿文强观赛解说](https://s.weibo.com/weibo?q=%23%E9%92%A2%E6%9E%B6%E9%9B%AA%E8%BD%A6%E9%98%9F%E9%95%BF%E8%80%BF%E6%96%87%E5%BC%BA%E8%A7%82%E8%B5%9B%E8%A7%A3%E8%AF%B4%23&Refer=top) 455967
 1. [中国钢架雪车盼夺牌](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%92%A2%E6%9E%B6%E9%9B%AA%E8%BD%A6%E7%9B%BC%E5%A4%BA%E7%89%8C%23&Refer=top) 455803
 1. [汶川截肢女孩回应伍万里的提问](https://s.weibo.com/weibo?q=%23%E6%B1%B6%E5%B7%9D%E6%88%AA%E8%82%A2%E5%A5%B3%E5%AD%A9%E5%9B%9E%E5%BA%94%E4%BC%8D%E4%B8%87%E9%87%8C%E7%9A%84%E6%8F%90%E9%97%AE%23&Refer=top) 453278
+1. [高亭宇滑完就解衣服不是在耍酷](https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%BA%AD%E5%AE%87%E6%BB%91%E5%AE%8C%E5%B0%B1%E8%A7%A3%E8%A1%A3%E6%9C%8D%E4%B8%8D%E6%98%AF%E5%9C%A8%E8%80%8D%E9%85%B7%23&Refer=top) 453085
 1. [美国自己戴上胁迫这顶帽子才是当之无愧](https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E8%87%AA%E5%B7%B1%E6%88%B4%E4%B8%8A%E8%83%81%E8%BF%AB%E8%BF%99%E9%A1%B6%E5%B8%BD%E5%AD%90%E6%89%8D%E6%98%AF%E5%BD%93%E4%B9%8B%E6%97%A0%E6%84%A7&Refer=top) 449318
 1. [冬奥会再奏义勇军进行曲](https://s.weibo.com/weibo?q=%23%E5%86%AC%E5%A5%A5%E4%BC%9A%E5%86%8D%E5%A5%8F%E4%B9%89%E5%8B%87%E5%86%9B%E8%BF%9B%E8%A1%8C%E6%9B%B2%23&Refer=top) 443033
 1. [男生真心喜欢你是什么样的](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E7%9C%9F%E5%BF%83%E5%96%9C%E6%AC%A2%E4%BD%A0%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%23&Refer=top) 435820
@@ -223,7 +224,6 @@
 1. [时代少年团最美中国画MV拍摄花絮视频](https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%9C%80%E7%BE%8E%E4%B8%AD%E5%9B%BD%E7%94%BBMV%E6%8B%8D%E6%91%84%E8%8A%B1%E7%B5%AE%E8%A7%86%E9%A2%91%23&Refer=top) 339207
 1. [女子称买肯德基套餐吃出油炸卫生纸](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%B0%E4%B9%B0%E8%82%AF%E5%BE%B7%E5%9F%BA%E5%A5%97%E9%A4%90%E5%90%83%E5%87%BA%E6%B2%B9%E7%82%B8%E5%8D%AB%E7%94%9F%E7%BA%B8%23&Refer=top) 338243
 1. [任子威好稳](https://s.weibo.com/weibo?q=%23%E4%BB%BB%E5%AD%90%E5%A8%81%E5%A5%BD%E7%A8%B3%23&Refer=top) 338152
-1. [高亭宇滑完就解衣服不是在耍酷](https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%BA%AD%E5%AE%87%E6%BB%91%E5%AE%8C%E5%B0%B1%E8%A7%A3%E8%A1%A3%E6%9C%8D%E4%B8%8D%E6%98%AF%E5%9C%A8%E8%80%8D%E9%85%B7%23&Refer=top) 337796
 1. [针灸推拿成奥运村诊所明星项目](https://s.weibo.com/weibo?q=%23%E9%92%88%E7%81%B8%E6%8E%A8%E6%8B%BF%E6%88%90%E5%A5%A5%E8%BF%90%E6%9D%91%E8%AF%8A%E6%89%80%E6%98%8E%E6%98%9F%E9%A1%B9%E7%9B%AE%23&Refer=top) 334333
 1. [谢谢王濛的解说](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E8%B0%A2%E7%8E%8B%E6%BF%9B%E7%9A%84%E8%A7%A3%E8%AF%B4%23&Refer=top) 333269
 1. [中国代表团旗手高亭宇首秀](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%9B%A2%E6%97%97%E6%89%8B%E9%AB%98%E4%BA%AD%E5%AE%87%E9%A6%96%E7%A7%80&Refer=top) 332718
@@ -248,6 +248,7 @@
 1. [2022LPL春季赛](https://s.weibo.com/weibo?q=2022LPL%E6%98%A5%E5%AD%A3%E8%B5%9B&Refer=top) 307777
 1. [吴磊雪原vlog好像冒险纪录片](https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A3%8A%E9%9B%AA%E5%8E%9Fvlog%E5%A5%BD%E5%83%8F%E5%86%92%E9%99%A9%E7%BA%AA%E5%BD%95%E7%89%87%23&Refer=top) 305474
 1. [TF家族三代新年音乐会全纪录](https://s.weibo.com/weibo?q=%23TF%E5%AE%B6%E6%97%8F%E4%B8%89%E4%BB%A3%E6%96%B0%E5%B9%B4%E9%9F%B3%E4%B9%90%E4%BC%9A%E5%85%A8%E7%BA%AA%E5%BD%95%23&Refer=top) 304521
+1. [郑云龙你好星期六](https://s.weibo.com/weibo?q=%23%E9%83%91%E4%BA%91%E9%BE%99%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%23&Refer=top) 301691
 1. [加拿大外长敦促本国公民离开乌克兰](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%A4%96%E9%95%BF%E6%95%A6%E4%BF%83%E6%9C%AC%E5%9B%BD%E5%85%AC%E6%B0%91%E7%A6%BB%E5%BC%80%E4%B9%8C%E5%85%8B%E5%85%B0%23&Refer=top) 299397
 1. [冰丝带变身金丝带](https://s.weibo.com/weibo?q=%23%E5%86%B0%E4%B8%9D%E5%B8%A6%E5%8F%98%E8%BA%AB%E9%87%91%E4%B8%9D%E5%B8%A6%23&Refer=top) 298405
 1. [女子冰壶中国vs瑞典](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%86%B0%E5%A3%B6%E4%B8%AD%E5%9B%BDvs%E7%91%9E%E5%85%B8%23&Refer=top) 296972
@@ -309,6 +310,7 @@
 1. [见过最硬核的按摩](https://s.weibo.com/weibo?q=%23%E8%A7%81%E8%BF%87%E6%9C%80%E7%A1%AC%E6%A0%B8%E7%9A%84%E6%8C%89%E6%91%A9%23&Refer=top) 225079
 1. [离职倾向分析服务曝光](https://s.weibo.com/weibo?q=%23%E7%A6%BB%E8%81%8C%E5%80%BE%E5%90%91%E5%88%86%E6%9E%90%E6%9C%8D%E5%8A%A1%E6%9B%9D%E5%85%89%23&Refer=top) 223308
 1. [德国冰舞演绎小丑和小丑女](https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%9B%BD%E5%86%B0%E8%88%9E%E6%BC%94%E7%BB%8E%E5%B0%8F%E4%B8%91%E5%92%8C%E5%B0%8F%E4%B8%91%E5%A5%B3%23&Refer=top) 222796
+1. [外国运动员用的是熊猫滑雪板](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%9B%BD%E8%BF%90%E5%8A%A8%E5%91%98%E7%94%A8%E7%9A%84%E6%98%AF%E7%86%8A%E7%8C%AB%E6%BB%91%E9%9B%AA%E6%9D%BF%23&Refer=top) 219841
 1. [冰墩墩珠峰分墩](https://s.weibo.com/weibo?q=%23%E5%86%B0%E5%A2%A9%E5%A2%A9%E7%8F%A0%E5%B3%B0%E5%88%86%E5%A2%A9%23&Refer=top) 219548
 1. [俄奥委会回应运动员药检阳性](https://s.weibo.com/weibo?q=%23%E4%BF%84%E5%A5%A5%E5%A7%94%E4%BC%9A%E5%9B%9E%E5%BA%94%E8%BF%90%E5%8A%A8%E5%91%98%E8%8D%AF%E6%A3%80%E9%98%B3%E6%80%A7%23&Refer=top) 217995
 1. [你可以永远相信王濛的解说](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%8F%AF%E4%BB%A5%E6%B0%B8%E8%BF%9C%E7%9B%B8%E4%BF%A1%E7%8E%8B%E6%BF%9B%E7%9A%84%E8%A7%A3%E8%AF%B4%23&Refer=top) 217175
@@ -320,6 +322,7 @@
 1. [退休教师春节义务辅导全村孩子](https://s.weibo.com/weibo?q=%23%E9%80%80%E4%BC%91%E6%95%99%E5%B8%88%E6%98%A5%E8%8A%82%E4%B9%89%E5%8A%A1%E8%BE%85%E5%AF%BC%E5%85%A8%E6%9D%91%E5%AD%A9%E5%AD%90%23&Refer=top) 207017
 1. [给孩子保送迪士尼吧](https://s.weibo.com/weibo?q=%23%E7%BB%99%E5%AD%A9%E5%AD%90%E4%BF%9D%E9%80%81%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%90%A7%23&Refer=top) 206932
 1. [一度以为这是个声控冰壶](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%BA%A6%E4%BB%A5%E4%B8%BA%E8%BF%99%E6%98%AF%E4%B8%AA%E5%A3%B0%E6%8E%A7%E5%86%B0%E5%A3%B6%23&Refer=top) 206157
+1. [速度滑冰没有选手犯规的机会](https://s.weibo.com/weibo?q=%23%E9%80%9F%E5%BA%A6%E6%BB%91%E5%86%B0%E6%B2%A1%E6%9C%89%E9%80%89%E6%89%8B%E7%8A%AF%E8%A7%84%E7%9A%84%E6%9C%BA%E4%BC%9A%23&Refer=top) 206096
 1. [散发恋爱气息的香水](https://s.weibo.com/weibo?q=%23%E6%95%A3%E5%8F%91%E6%81%8B%E7%88%B1%E6%B0%94%E6%81%AF%E7%9A%84%E9%A6%99%E6%B0%B4%23&Refer=top) 203200
 1. [我猜马耳他选手说的是麻团吧](https://s.weibo.com/weibo?q=%23%E6%88%91%E7%8C%9C%E9%A9%AC%E8%80%B3%E4%BB%96%E9%80%89%E6%89%8B%E8%AF%B4%E7%9A%84%E6%98%AF%E9%BA%BB%E5%9B%A2%E5%90%A7%23&Refer=top) 201423
 1. [中国短道速滑男子5000米接力晋级决赛](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%9F%AD%E9%81%93%E9%80%9F%E6%BB%91%E7%94%B7%E5%AD%905000%E7%B1%B3%E6%8E%A5%E5%8A%9B%E6%99%8B%E7%BA%A7%E5%86%B3%E8%B5%9B%23&Refer=top) 199098
@@ -342,7 +345,6 @@
 1. [第一视角感受钢架雪车有多快](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E8%A7%86%E8%A7%92%E6%84%9F%E5%8F%97%E9%92%A2%E6%9E%B6%E9%9B%AA%E8%BD%A6%E6%9C%89%E5%A4%9A%E5%BF%AB%23&Refer=top) 185844
 1. [24节气里藏着中国人的浪漫](https://s.weibo.com/weibo?q=%2324%E8%8A%82%E6%B0%94%E9%87%8C%E8%97%8F%E7%9D%80%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E6%B5%AA%E6%BC%AB%23&Refer=top) 185723
 1. [男子冰壶中国vs意大利](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%86%B0%E5%A3%B6%E4%B8%AD%E5%9B%BDvs%E6%84%8F%E5%A4%A7%E5%88%A9%23&Refer=top) 184650
-1. [外国运动员用的是熊猫滑雪板](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%9B%BD%E8%BF%90%E5%8A%A8%E5%91%98%E7%94%A8%E7%9A%84%E6%98%AF%E7%86%8A%E7%8C%AB%E6%BB%91%E9%9B%AA%E6%9D%BF%23&Refer=top) 184052
 1. [被胡一天嘟嘴萌化了](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E8%83%A1%E4%B8%80%E5%A4%A9%E5%98%9F%E5%98%B4%E8%90%8C%E5%8C%96%E4%BA%86%23&Refer=top) 183839
 1. [给U型池划线是个技术活](https://s.weibo.com/weibo?q=%23%E7%BB%99U%E5%9E%8B%E6%B1%A0%E5%88%92%E7%BA%BF%E6%98%AF%E4%B8%AA%E6%8A%80%E6%9C%AF%E6%B4%BB%23&Refer=top) 183205
 1. [人世间](https://s.weibo.com/weibo?q=%E4%BA%BA%E4%B8%96%E9%97%B4&Refer=top) 182310
