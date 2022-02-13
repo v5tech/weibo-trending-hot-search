@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-02-13 23:41:19.131260 
+最后更新时间 2022-02-13 23:49:41.791539 
 1. [武大靖黄大宪刘少昂同组](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A4%A7%E9%9D%96%E9%BB%84%E5%A4%A7%E5%AE%AA%E5%88%98%E5%B0%91%E6%98%82%E5%90%8C%E7%BB%84%23&Refer=top) 7739074
 1. [武大靖无缘500米A组决赛](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A4%A7%E9%9D%96%E6%97%A0%E7%BC%98500%E7%B1%B3A%E7%BB%84%E5%86%B3%E8%B5%9B%23&Refer=top) 7297517
 1. [黄大宪犯规](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%A4%A7%E5%AE%AA%E7%8A%AF%E8%A7%84%23&Refer=top) 7269150
@@ -116,6 +116,7 @@
 1. [香椿一斤卖到80元](https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%A4%BF%E4%B8%80%E6%96%A4%E5%8D%96%E5%88%B080%E5%85%83%23&Refer=top) 724812
 1. [能治沈腾的只有马丽](https://s.weibo.com/weibo?q=%23%E8%83%BD%E6%B2%BB%E6%B2%88%E8%85%BE%E7%9A%84%E5%8F%AA%E6%9C%89%E9%A9%AC%E4%B8%BD%23&Refer=top) 721206
 1. [高亭宇说都来家门口了惯着谁啊](https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%BA%AD%E5%AE%87%E8%AF%B4%E9%83%BD%E6%9D%A5%E5%AE%B6%E9%97%A8%E5%8F%A3%E4%BA%86%E6%83%AF%E7%9D%80%E8%B0%81%E5%95%8A%23&Refer=top) 691592
+1. [为什么人喜欢微醺的状态](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BA%BA%E5%96%9C%E6%AC%A2%E5%BE%AE%E9%86%BA%E7%9A%84%E7%8A%B6%E6%80%81%23&Refer=top) 689288
 1. [带鸡去宠物店洗澡](https://s.weibo.com/weibo?q=%23%E5%B8%A6%E9%B8%A1%E5%8E%BB%E5%AE%A0%E7%89%A9%E5%BA%97%E6%B4%97%E6%BE%A1%23&Refer=top) 688044
 1. [加拿大女选手肌肉](https://s.weibo.com/weibo?q=%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%A5%B3%E9%80%89%E6%89%8B%E8%82%8C%E8%82%89&Refer=top) 685793
 1. [俄方称美国歇斯底里达到顶峰](https://s.weibo.com/weibo?q=%23%E4%BF%84%E6%96%B9%E7%A7%B0%E7%BE%8E%E5%9B%BD%E6%AD%87%E6%96%AF%E5%BA%95%E9%87%8C%E8%BE%BE%E5%88%B0%E9%A1%B6%E5%B3%B0%23&Refer=top) 678295
@@ -135,6 +136,7 @@
 1. [花滑运动员治好了我的emo](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E6%BB%91%E8%BF%90%E5%8A%A8%E5%91%98%E6%B2%BB%E5%A5%BD%E4%BA%86%E6%88%91%E7%9A%84emo%23&Refer=top) 589683
 1. [11年老兵为相恋7年妻子补办求婚仪式](https://s.weibo.com/weibo?q=%2311%E5%B9%B4%E8%80%81%E5%85%B5%E4%B8%BA%E7%9B%B8%E6%81%8B7%E5%B9%B4%E5%A6%BB%E5%AD%90%E8%A1%A5%E5%8A%9E%E6%B1%82%E5%A9%9A%E4%BB%AA%E5%BC%8F%23&Refer=top) 586027
 1. [谷爱凌第三位出场](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E7%AC%AC%E4%B8%89%E4%BD%8D%E5%87%BA%E5%9C%BA%23&Refer=top) 585266
+1. [武大靖赛后反复提到的两个字](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A4%A7%E9%9D%96%E8%B5%9B%E5%90%8E%E5%8F%8D%E5%A4%8D%E6%8F%90%E5%88%B0%E7%9A%84%E4%B8%A4%E4%B8%AA%E5%AD%97%23&Refer=top) 569833
 1. [谷爱凌比赛时间确定](https://s.weibo.com/weibo?q=%E8%B0%B7%E7%88%B1%E5%87%8C%E6%AF%94%E8%B5%9B%E6%97%B6%E9%97%B4%E7%A1%AE%E5%AE%9A&Refer=top) 568092
 1. [出现降雪停赛和降雪量无关](https://s.weibo.com/weibo?q=%23%E5%87%BA%E7%8E%B0%E9%99%8D%E9%9B%AA%E5%81%9C%E8%B5%9B%E5%92%8C%E9%99%8D%E9%9B%AA%E9%87%8F%E6%97%A0%E5%85%B3%23&Refer=top) 567350
 1. [詹姆斯NBA历史总得分王](https://s.weibo.com/weibo?q=%23%E8%A9%B9%E5%A7%86%E6%96%AFNBA%E5%8E%86%E5%8F%B2%E6%80%BB%E5%BE%97%E5%88%86%E7%8E%8B%23&Refer=top) 558063
@@ -185,7 +187,6 @@
 1. [高亭宇金牌](https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%BA%AD%E5%AE%87%E9%87%91%E7%89%8C%23&Refer=top) 410464
 1. [真墩墩吃醋冰墩墩](https://s.weibo.com/weibo?q=%23%E7%9C%9F%E5%A2%A9%E5%A2%A9%E5%90%83%E9%86%8B%E5%86%B0%E5%A2%A9%E5%A2%A9%23&Refer=top) 410341
 1. [这多少有点刻意了](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%A4%9A%E5%B0%91%E6%9C%89%E7%82%B9%E5%88%BB%E6%84%8F%E4%BA%86%23&Refer=top) 405616
-1. [为什么人喜欢微醺的状态](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BA%BA%E5%96%9C%E6%AC%A2%E5%BE%AE%E9%86%BA%E7%9A%84%E7%8A%B6%E6%80%81%23&Refer=top) 400480
 1. [橘子与牛奶真的不能一起吃吗](https://s.weibo.com/weibo?q=%23%E6%A9%98%E5%AD%90%E4%B8%8E%E7%89%9B%E5%A5%B6%E7%9C%9F%E7%9A%84%E4%B8%8D%E8%83%BD%E4%B8%80%E8%B5%B7%E5%90%83%E5%90%97%23&Refer=top) 400055
 1. [范可新厉害](https://s.weibo.com/weibo?q=%23%E8%8C%83%E5%8F%AF%E6%96%B0%E5%8E%89%E5%AE%B3%23&Refer=top) 400040
 1. [雪后的红灯笼成了雪容融](https://s.weibo.com/weibo?q=%23%E9%9B%AA%E5%90%8E%E7%9A%84%E7%BA%A2%E7%81%AF%E7%AC%BC%E6%88%90%E4%BA%86%E9%9B%AA%E5%AE%B9%E8%9E%8D%23&Refer=top) 394404
@@ -306,7 +307,6 @@
 1. [不一样的汤圆吃法](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E4%B8%80%E6%A0%B7%E7%9A%84%E6%B1%A4%E5%9C%86%E5%90%83%E6%B3%95%23&Refer=top) 195475
 1. [冰球](https://s.weibo.com/weibo?q=%E5%86%B0%E7%90%83&Refer=top) 195459
 1. [德国包揽钢架雪车和雪橇6金](https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%9B%BD%E5%8C%85%E6%8F%BD%E9%92%A2%E6%9E%B6%E9%9B%AA%E8%BD%A6%E5%92%8C%E9%9B%AA%E6%A9%876%E9%87%91%23&Refer=top) 193854
-1. [武大靖赛后反复提到的两个字](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A4%A7%E9%9D%96%E8%B5%9B%E5%90%8E%E5%8F%8D%E5%A4%8D%E6%8F%90%E5%88%B0%E7%9A%84%E4%B8%A4%E4%B8%AA%E5%AD%97%23&Refer=top) 193360
 1. [摄影师的手速有多快](https://s.weibo.com/weibo?q=%23%E6%91%84%E5%BD%B1%E5%B8%88%E7%9A%84%E6%89%8B%E9%80%9F%E6%9C%89%E5%A4%9A%E5%BF%AB%23&Refer=top) 193110
 1. [冬奥会志愿者服上小雪花会变色](https://s.weibo.com/weibo?q=%23%E5%86%AC%E5%A5%A5%E4%BC%9A%E5%BF%97%E6%84%BF%E8%80%85%E6%9C%8D%E4%B8%8A%E5%B0%8F%E9%9B%AA%E8%8A%B1%E4%BC%9A%E5%8F%98%E8%89%B2%23&Refer=top) 192090
 1. [中国女子钢架雪车首份冬奥成绩单](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E9%92%A2%E6%9E%B6%E9%9B%AA%E8%BD%A6%E9%A6%96%E4%BB%BD%E5%86%AC%E5%A5%A5%E6%88%90%E7%BB%A9%E5%8D%95%23&Refer=top) 190912
