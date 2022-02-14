@@ -215,8 +215,16 @@
     "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B3%E8%8D%A3%E6%88%91%E5%9B%BD%E5%A8%81&Refer=top",
     "hot": 80023
   },
+  "人民网评星巴克赶走民警": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E6%98%9F%E5%B7%B4%E5%85%8B%E8%B5%B6%E8%B5%B0%E6%B0%91%E8%AD%A6%23&Refer=top",
+    "hot": 75948
+  },
   "情人节微醺调酒": {
     "url": "https://s.weibo.com/weibo?q=%E6%83%85%E4%BA%BA%E8%8A%82%E5%BE%AE%E9%86%BA%E8%B0%83%E9%85%92&Refer=top",
     "hot": 32312
+  },
+  "情人节甜蜜碎钻妆": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%83%85%E4%BA%BA%E8%8A%82%E7%94%9C%E8%9C%9C%E7%A2%8E%E9%92%BB%E5%A6%86%23&Refer=top",
+    "hot": 25898
   }
 }
