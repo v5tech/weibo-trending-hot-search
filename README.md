@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-02-17 03:34:53.331969 
+最后更新时间 2022-02-17 03:48:53.254522 
 1. [吴亮已被执行死刑](https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%AE%E5%B7%B2%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23&Refer=top) 3481803
 1. [好心疼武大靖](https://s.weibo.com/weibo?q=%23%E5%A5%BD%E5%BF%83%E7%96%BC%E6%AD%A6%E5%A4%A7%E9%9D%96%23&Refer=top) 1936174
 1. [李文龙哭了](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%96%87%E9%BE%99%E5%93%AD%E4%BA%86%23&Refer=top) 1884416
@@ -64,7 +64,8 @@
 1. [神里绫人](https://s.weibo.com/weibo?q=%23%E7%A5%9E%E9%87%8C%E7%BB%AB%E4%BA%BA%23&Refer=top) 96373
 1. [留守儿童凌晨5点独自去15公里外报名上学](https://s.weibo.com/weibo?q=%23%E7%95%99%E5%AE%88%E5%84%BF%E7%AB%A5%E5%87%8C%E6%99%A85%E7%82%B9%E7%8B%AC%E8%87%AA%E5%8E%BB15%E5%85%AC%E9%87%8C%E5%A4%96%E6%8A%A5%E5%90%8D%E4%B8%8A%E5%AD%A6%23&Refer=top) 87638
 1. [小蜘蛛是如何织网的](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E8%9C%98%E8%9B%9B%E6%98%AF%E5%A6%82%E4%BD%95%E7%BB%87%E7%BD%91%E7%9A%84%23&Refer=top) 65619
-1. [冰墩墩](https://s.weibo.com/weibo?q=%23%E5%86%B0%E5%A2%A9%E5%A2%A9%23&Refer=top) 26654
+1. [冰墩墩](https://s.weibo.com/weibo?q=%23%E5%86%B0%E5%A2%A9%E5%A2%A9%23&Refer=top) 27935
+1. [星巴克还值得买吗](https://s.weibo.com/weibo?q=%23%E6%98%9F%E5%B7%B4%E5%85%8B%E8%BF%98%E5%80%BC%E5%BE%97%E4%B9%B0%E5%90%97%23&Refer=top) 24710
 <!-- END -->
 
 历史归档 [./archives](./archives)
