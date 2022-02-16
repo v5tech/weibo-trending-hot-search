@@ -225,10 +225,18 @@
   },
   "星巴克还值得买吗": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%98%9F%E5%B7%B4%E5%85%8B%E8%BF%98%E5%80%BC%E5%BE%97%E4%B9%B0%E5%90%97%23&Refer=top",
-    "hot": 40168
+    "hot": 45400
   },
   "冰墩墩": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%86%B0%E5%A2%A9%E5%A2%A9%23&Refer=top",
     "hot": 27935
+  },
+  "雷佳音终于动手了": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E4%BD%B3%E9%9F%B3%E7%BB%88%E4%BA%8E%E5%8A%A8%E6%89%8B%E4%BA%86%23&Refer=top",
+    "hot": 27496
+  },
+  "李易峰的三部古偶剧都是be": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%98%93%E5%B3%B0%E7%9A%84%E4%B8%89%E9%83%A8%E5%8F%A4%E5%81%B6%E5%89%A7%E9%83%BD%E6%98%AFbe%23&Refer=top",
+    "hot": 23650
   }
 }
