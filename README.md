@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-02-18 06:38:49.043112 
+最后更新时间 2022-02-18 06:48:52.928902 
 1. [莎莎哭了](https://s.weibo.com/weibo?q=%23%E8%8E%8E%E8%8E%8E%E5%93%AD%E4%BA%86%23&Refer=top) 3596024
 1. [谷爱凌把金牌给奶奶了](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E6%8A%8A%E9%87%91%E7%89%8C%E7%BB%99%E5%A5%B6%E5%A5%B6%E4%BA%86%23&Refer=top) 1871115
 1. [冬奥健儿告诉你什么是团结](https://s.weibo.com/weibo?q=%23%E5%86%AC%E5%A5%A5%E5%81%A5%E5%84%BF%E5%91%8A%E8%AF%89%E4%BD%A0%E4%BB%80%E4%B9%88%E6%98%AF%E5%9B%A2%E7%BB%93%23&Refer=top) 1613046
@@ -59,17 +59,19 @@
 1. [千金自由滑175.75分](https://s.weibo.com/weibo?q=%23%E5%8D%83%E9%87%91%E8%87%AA%E7%94%B1%E6%BB%91175.75%E5%88%86%23&Refer=top) 167766
 1. [特鲁索娃自由滑177.13分](https://s.weibo.com/weibo?q=%23%E7%89%B9%E9%B2%81%E7%B4%A2%E5%A8%83%E8%87%AA%E7%94%B1%E6%BB%91177.13%E5%88%86%23&Refer=top) 164059
 1. [为买房避税上家和下家假结婚](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%B9%B0%E6%88%BF%E9%81%BF%E7%A8%8E%E4%B8%8A%E5%AE%B6%E5%92%8C%E4%B8%8B%E5%AE%B6%E5%81%87%E7%BB%93%E5%A9%9A%23&Refer=top) 155665
+1. [谷爱凌明天决赛最想吃红糖饼](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E6%98%8E%E5%A4%A9%E5%86%B3%E8%B5%9B%E6%9C%80%E6%83%B3%E5%90%83%E7%BA%A2%E7%B3%96%E9%A5%BC%23&Refer=top) 146346
 1. [王濛说要给武大靖刷大火箭](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BF%9B%E8%AF%B4%E8%A6%81%E7%BB%99%E6%AD%A6%E5%A4%A7%E9%9D%96%E5%88%B7%E5%A4%A7%E7%81%AB%E7%AE%AD%23&Refer=top) 145365
 1. [碧桂园美好讨薪季](https://s.weibo.com/weibo?q=%23%E7%A2%A7%E6%A1%82%E5%9B%AD%E7%BE%8E%E5%A5%BD%E8%AE%A8%E8%96%AA%E5%AD%A3%23&Refer=top) 143066
 1. [LPL春季赛](https://s.weibo.com/weibo?q=LPL%E6%98%A5%E5%AD%A3%E8%B5%9B&Refer=top) 140157
-1. [谷爱凌明天决赛最想吃红糖饼](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E6%98%8E%E5%A4%A9%E5%86%B3%E8%B5%9B%E6%9C%80%E6%83%B3%E5%90%83%E7%BA%A2%E7%B3%96%E9%A5%BC%23&Refer=top) 115410
-1. [美方应让亚裔等少数族裔远离暴力恐惧](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%96%B9%E5%BA%94%E8%AE%A9%E4%BA%9A%E8%A3%94%E7%AD%89%E5%B0%91%E6%95%B0%E6%97%8F%E8%A3%94%E8%BF%9C%E7%A6%BB%E6%9A%B4%E5%8A%9B%E6%81%90%E6%83%A7%23&Refer=top) 104313
+1. [美方应让亚裔等少数族裔远离暴力恐惧](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%96%B9%E5%BA%94%E8%AE%A9%E4%BA%9A%E8%A3%94%E7%AD%89%E5%B0%91%E6%95%B0%E6%97%8F%E8%A3%94%E8%BF%9C%E7%A6%BB%E6%9A%B4%E5%8A%9B%E6%81%90%E6%83%A7%23&Refer=top) 109049
 1. [买奢侈品包包是理财吗](https://s.weibo.com/weibo?q=%23%E4%B9%B0%E5%A5%A2%E4%BE%88%E5%93%81%E5%8C%85%E5%8C%85%E6%98%AF%E7%90%86%E8%B4%A2%E5%90%97%23&Refer=top) 89120
-1. [许巍 桃城](https://s.weibo.com/weibo?q=%E8%AE%B8%E5%B7%8D%20%E6%A1%83%E5%9F%8E&Refer=top) 85068
-1. [江苏5旬夫妇改造房车帮被拐儿童寻亲](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F5%E6%97%AC%E5%A4%AB%E5%A6%87%E6%94%B9%E9%80%A0%E6%88%BF%E8%BD%A6%E5%B8%AE%E8%A2%AB%E6%8B%90%E5%84%BF%E7%AB%A5%E5%AF%BB%E4%BA%B2%23&Refer=top) 69740
+1. [江苏5旬夫妇改造房车帮被拐儿童寻亲](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F5%E6%97%AC%E5%A4%AB%E5%A6%87%E6%94%B9%E9%80%A0%E6%88%BF%E8%BD%A6%E5%B8%AE%E8%A2%AB%E6%8B%90%E5%84%BF%E7%AB%A5%E5%AF%BB%E4%BA%B2%23&Refer=top) 88961
+1. [许巍 桃城](https://s.weibo.com/weibo?q=%E8%AE%B8%E5%B7%8D%20%E6%A1%83%E5%9F%8E&Refer=top) 88014
+1. [林更新新游记](https://s.weibo.com/weibo?q=%E6%9E%97%E6%9B%B4%E6%96%B0%E6%96%B0%E6%B8%B8%E8%AE%B0&Refer=top) 44351
 1. [部落冲突](https://s.weibo.com/weibo?q=%23%E9%83%A8%E8%90%BD%E5%86%B2%E7%AA%81%23&Refer=top) 42177
+1. [法治副校长参与治理学生欺凌](https://s.weibo.com/weibo?q=%23%E6%B3%95%E6%B2%BB%E5%89%AF%E6%A0%A1%E9%95%BF%E5%8F%82%E4%B8%8E%E6%B2%BB%E7%90%86%E5%AD%A6%E7%94%9F%E6%AC%BA%E5%87%8C%23&Refer=top) 36533
+1. [政府回应医院装镭射灯如KTV](https://s.weibo.com/weibo?q=%23%E6%94%BF%E5%BA%9C%E5%9B%9E%E5%BA%94%E5%8C%BB%E9%99%A2%E8%A3%85%E9%95%AD%E5%B0%84%E7%81%AF%E5%A6%82KTV%23&Refer=top) 33192
 1. [原神](https://s.weibo.com/weibo?q=%E5%8E%9F%E7%A5%9E&Refer=top) 31816
-1. [法治副校长参与治理学生欺凌](https://s.weibo.com/weibo?q=%23%E6%B3%95%E6%B2%BB%E5%89%AF%E6%A0%A1%E9%95%BF%E5%8F%82%E4%B8%8E%E6%B2%BB%E7%90%86%E5%AD%A6%E7%94%9F%E6%AC%BA%E5%87%8C%23&Refer=top) 29508
 <!-- END -->
 
 历史归档 [./archives](./archives)
