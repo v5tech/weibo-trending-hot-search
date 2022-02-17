@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-02-18 03:34:16.835337 
+最后更新时间 2022-02-18 03:48:56.973916 
 1. [莎莎哭了](https://s.weibo.com/weibo?q=%23%E8%8E%8E%E8%8E%8E%E5%93%AD%E4%BA%86%23&Refer=top) 3596024
 1. [谷爱凌把金牌给奶奶了](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E6%8A%8A%E9%87%91%E7%89%8C%E7%BB%99%E5%A5%B6%E5%A5%B6%E4%BA%86%23&Refer=top) 1871115
 1. [冬奥健儿告诉你什么是团结](https://s.weibo.com/weibo?q=%23%E5%86%AC%E5%A5%A5%E5%81%A5%E5%84%BF%E5%91%8A%E8%AF%89%E4%BD%A0%E4%BB%80%E4%B9%88%E6%98%AF%E5%9B%A2%E7%BB%93%23&Refer=top) 1613046
@@ -64,7 +64,7 @@
 1. [LPL春季赛](https://s.weibo.com/weibo?q=LPL%E6%98%A5%E5%AD%A3%E8%B5%9B&Refer=top) 140157
 1. [买奢侈品包包是理财吗](https://s.weibo.com/weibo?q=%23%E4%B9%B0%E5%A5%A2%E4%BE%88%E5%93%81%E5%8C%85%E5%8C%85%E6%98%AF%E7%90%86%E8%B4%A2%E5%90%97%23&Refer=top) 89120
 1. [部落冲突](https://s.weibo.com/weibo?q=%23%E9%83%A8%E8%90%BD%E5%86%B2%E7%AA%81%23&Refer=top) 42177
-1. [许巍 桃城](https://s.weibo.com/weibo?q=%E8%AE%B8%E5%B7%8D%20%E6%A1%83%E5%9F%8E&Refer=top) 35719
+1. [许巍 桃城](https://s.weibo.com/weibo?q=%E8%AE%B8%E5%B7%8D%20%E6%A1%83%E5%9F%8E&Refer=top) 40078
 1. [原神](https://s.weibo.com/weibo?q=%E5%8E%9F%E7%A5%9E&Refer=top) 22606
 <!-- END -->
 
