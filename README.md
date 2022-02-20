@@ -7,9 +7,9 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-02-21 00:44:06.114736 
+最后更新时间 2022-02-21 00:58:19.687606 
+1. [查到考研成绩有多激动](https://s.weibo.com/weibo?q=%23%E6%9F%A5%E5%88%B0%E8%80%83%E7%A0%94%E6%88%90%E7%BB%A9%E6%9C%89%E5%A4%9A%E6%BF%80%E5%8A%A8%23&Refer=top) 2775151
 1. [冰墩墩哭了](https://s.weibo.com/weibo?q=%23%E5%86%B0%E5%A2%A9%E5%A2%A9%E5%93%AD%E4%BA%86%23&Refer=top) 2729478
-1. [查到考研成绩有多激动](https://s.weibo.com/weibo?q=%23%E6%9F%A5%E5%88%B0%E8%80%83%E7%A0%94%E6%88%90%E7%BB%A9%E6%9C%89%E5%A4%9A%E6%BF%80%E5%8A%A8%23&Refer=top) 2727123
 1. [冰墩墩售罄](https://s.weibo.com/weibo?q=%23%E5%86%B0%E5%A2%A9%E5%A2%A9%E5%94%AE%E7%BD%84%23&Refer=top) 2233745
 1. [北京冬奥耀眼的中国红](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E8%80%80%E7%9C%BC%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%BA%A2%23&Refer=top) 1960512
 1. [乌克兰运动员拥抱俄罗斯运动员](https://s.weibo.com/weibo?q=%E4%B9%8C%E5%85%8B%E5%85%B0%E8%BF%90%E5%8A%A8%E5%91%98%E6%8B%A5%E6%8A%B1%E4%BF%84%E7%BD%97%E6%96%AF%E8%BF%90%E5%8A%A8%E5%91%98&Refer=top) 1944743
@@ -35,6 +35,7 @@
 1. [张艺谋谈中国人的家国情怀](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E8%B0%8B%E8%B0%88%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E5%AE%B6%E5%9B%BD%E6%83%85%E6%80%80%23&Refer=top) 703241
 1. [一起向未来](https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%B5%B7%E5%90%91%E6%9C%AA%E6%9D%A5%23&Refer=top) 649138
 1. [冰墩墩挥手再见](https://s.weibo.com/weibo?q=%23%E5%86%B0%E5%A2%A9%E5%A2%A9%E6%8C%A5%E6%89%8B%E5%86%8D%E8%A7%81%23&Refer=top) 643811
+1. [手机壳买多少个才算够](https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E5%A3%B3%E4%B9%B0%E5%A4%9A%E5%B0%91%E4%B8%AA%E6%89%8D%E7%AE%97%E5%A4%9F%23&Refer=top) 631536
 1. [开幕二十四节气闭幕十二生肖](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%B9%95%E4%BA%8C%E5%8D%81%E5%9B%9B%E8%8A%82%E6%B0%94%E9%97%AD%E5%B9%95%E5%8D%81%E4%BA%8C%E7%94%9F%E8%82%96%23&Refer=top) 600111
 1. [再见了北京冬奥](https://s.weibo.com/weibo?q=%23%E5%86%8D%E8%A7%81%E4%BA%86%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%23&Refer=top) 587743
 1. [成都市发现1例新冠肺炎本土病例](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%B8%82%E5%8F%91%E7%8E%B01%E4%BE%8B%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E6%9C%AC%E5%9C%9F%E7%97%85%E4%BE%8B%23&Refer=top) 550641
@@ -55,12 +56,12 @@
 1. [折柳寄情太浪漫了](https://s.weibo.com/weibo?q=%23%E6%8A%98%E6%9F%B3%E5%AF%84%E6%83%85%E5%A4%AA%E6%B5%AA%E6%BC%AB%E4%BA%86%23&Refer=top) 367781
 1. [巴赫又不穿羽绒服](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%B5%AB%E5%8F%88%E4%B8%8D%E7%A9%BF%E7%BE%BD%E7%BB%92%E6%9C%8D%23&Refer=top) 355875
 1. [张艺谋把我整哭了](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E8%B0%8B%E6%8A%8A%E6%88%91%E6%95%B4%E5%93%AD%E4%BA%86%23&Refer=top) 346229
-1. [手机壳买多少个才算够](https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E5%A3%B3%E4%B9%B0%E5%A4%9A%E5%B0%91%E4%B8%AA%E6%89%8D%E7%AE%97%E5%A4%9F%23&Refer=top) 317714
+1. [冬残奥会](https://s.weibo.com/weibo?q=%E5%86%AC%E6%AE%8B%E5%A5%A5%E4%BC%9A&Refer=top) 336823
 1. [2008北京奥运五环再次升起](https://s.weibo.com/weibo?q=%232008%E5%8C%97%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%BA%94%E7%8E%AF%E5%86%8D%E6%AC%A1%E5%8D%87%E8%B5%B7%23&Refer=top) 317350
 1. [冰墩墩](https://s.weibo.com/weibo?q=%23%E5%86%B0%E5%A2%A9%E5%A2%A9%23&Refer=top) 302093
 1. [广州下雪破案了](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E4%B8%8B%E9%9B%AA%E7%A0%B4%E6%A1%88%E4%BA%86%23&Refer=top) 298582
-1. [这是中国给全世界的浪漫](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%BB%99%E5%85%A8%E4%B8%96%E7%95%8C%E7%9A%84%E6%B5%AA%E6%BC%AB%23&Refer=top) 255139
-1. [冬残奥会](https://s.weibo.com/weibo?q=%E5%86%AC%E6%AE%8B%E5%A5%A5%E4%BC%9A&Refer=top) 246492
+1. [这是中国给全世界的浪漫](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%BB%99%E5%85%A8%E4%B8%96%E7%95%8C%E7%9A%84%E6%B5%AA%E6%BC%AB%23&Refer=top) 255672
+1. [北京2022年冬奥会](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC2022%E5%B9%B4%E5%86%AC%E5%A5%A5%E4%BC%9A%23&Refer=top) 173808
 <!-- END -->
 
 历史归档 [./archives](./archives)
