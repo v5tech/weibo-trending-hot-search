@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-02-21 04:48:49.014401 
+最后更新时间 2022-02-21 05:10:31.554274 
 1. [查到考研成绩有多激动](https://s.weibo.com/weibo?q=%23%E6%9F%A5%E5%88%B0%E8%80%83%E7%A0%94%E6%88%90%E7%BB%A9%E6%9C%89%E5%A4%9A%E6%BF%80%E5%8A%A8%23&Refer=top) 2775151
 1. [冰墩墩哭了](https://s.weibo.com/weibo?q=%23%E5%86%B0%E5%A2%A9%E5%A2%A9%E5%93%AD%E4%BA%86%23&Refer=top) 2729478
 1. [冰墩墩售罄](https://s.weibo.com/weibo?q=%23%E5%86%B0%E5%A2%A9%E5%A2%A9%E5%94%AE%E7%BD%84%23&Refer=top) 2233745
@@ -65,8 +65,9 @@
 1. [袁咏仪 盛装](https://s.weibo.com/weibo?q=%E8%A2%81%E5%92%8F%E4%BB%AA%20%E7%9B%9B%E8%A3%85&Refer=top) 214278
 1. [北京2022年冬奥会](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC2022%E5%B9%B4%E5%86%AC%E5%A5%A5%E4%BC%9A%23&Refer=top) 173808
 1. [哈利波特](https://s.weibo.com/weibo?q=%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9&Refer=top) 104095
-1. [用西游记的方式打开北京冬奥会](https://s.weibo.com/weibo?q=%23%E7%94%A8%E8%A5%BF%E6%B8%B8%E8%AE%B0%E7%9A%84%E6%96%B9%E5%BC%8F%E6%89%93%E5%BC%80%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E4%BC%9A%23&Refer=top) 62709
+1. [用西游记的方式打开北京冬奥会](https://s.weibo.com/weibo?q=%23%E7%94%A8%E8%A5%BF%E6%B8%B8%E8%AE%B0%E7%9A%84%E6%96%B9%E5%BC%8F%E6%89%93%E5%BC%80%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E4%BC%9A%23&Refer=top) 63040
 1. [乌克兰军方称炮击致乌军2死4伤](https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%85%8B%E5%85%B0%E5%86%9B%E6%96%B9%E7%A7%B0%E7%82%AE%E5%87%BB%E8%87%B4%E4%B9%8C%E5%86%9B2%E6%AD%BB4%E4%BC%A4%23&Refer=top) 44684
+1. [武大靖范可新拍卖金墩墩做公益](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A4%A7%E9%9D%96%E8%8C%83%E5%8F%AF%E6%96%B0%E6%8B%8D%E5%8D%96%E9%87%91%E5%A2%A9%E5%A2%A9%E5%81%9A%E5%85%AC%E7%9B%8A%23&Refer=top) 23232
 1. [广东人实现打雪仗堆雪人的快乐](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E4%BA%BA%E5%AE%9E%E7%8E%B0%E6%89%93%E9%9B%AA%E4%BB%97%E5%A0%86%E9%9B%AA%E4%BA%BA%E7%9A%84%E5%BF%AB%E4%B9%90%23&Refer=top) 21121
 <!-- END -->
 
