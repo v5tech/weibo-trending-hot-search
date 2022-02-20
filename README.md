@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-02-21 01:15:21.008033 
+最后更新时间 2022-02-21 01:28:33.027056 
 1. [查到考研成绩有多激动](https://s.weibo.com/weibo?q=%23%E6%9F%A5%E5%88%B0%E8%80%83%E7%A0%94%E6%88%90%E7%BB%A9%E6%9C%89%E5%A4%9A%E6%BF%80%E5%8A%A8%23&Refer=top) 2775151
 1. [冰墩墩哭了](https://s.weibo.com/weibo?q=%23%E5%86%B0%E5%A2%A9%E5%A2%A9%E5%93%AD%E4%BA%86%23&Refer=top) 2729478
 1. [冰墩墩售罄](https://s.weibo.com/weibo?q=%23%E5%86%B0%E5%A2%A9%E5%A2%A9%E5%94%AE%E7%BD%84%23&Refer=top) 2233745
