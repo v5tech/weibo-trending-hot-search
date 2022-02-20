@@ -7,19 +7,19 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-02-20 21:35:59.618584 
+最后更新时间 2022-02-20 21:48:53.497539 
+1. [张艺谋太懂了](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E8%B0%8B%E5%A4%AA%E6%87%82%E4%BA%86%23&Refer=top) 11250863
 1. [羽生结弦春来了好美](https://s.weibo.com/weibo?q=%23%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E6%98%A5%E6%9D%A5%E4%BA%86%E5%A5%BD%E7%BE%8E%23&Refer=top) 10827293
-1. [张艺谋太懂了](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E8%B0%8B%E5%A4%AA%E6%87%82%E4%BA%86%23&Refer=top) 10682179
+1. [请运动员们落座观礼](https://s.weibo.com/weibo?q=%23%E8%AF%B7%E8%BF%90%E5%8A%A8%E5%91%98%E4%BB%AC%E8%90%BD%E5%BA%A7%E8%A7%82%E7%A4%BC%23&Refer=top) 5266850
 1. [谷爱凌苏翊鸣像在蹦迪](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E8%8B%8F%E7%BF%8A%E9%B8%A3%E5%83%8F%E5%9C%A8%E8%B9%A6%E8%BF%AA%23&Refer=top) 4633402
+1. [北京冬奥耀眼的中国红](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E8%80%80%E7%9C%BC%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%BA%A2%23&Refer=top) 4534280
+1. [李玉刚羽生结弦](https://s.weibo.com/weibo?q=%E6%9D%8E%E7%8E%89%E5%88%9A%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6&Refer=top) 4252635
 1. [北京冬奥会闭幕式](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E4%BC%9A%E9%97%AD%E5%B9%95%E5%BC%8F%23&Refer=top) 4154088
 1. [千金是天使吧](https://s.weibo.com/weibo?q=%23%E5%8D%83%E9%87%91%E6%98%AF%E5%A4%A9%E4%BD%BF%E5%90%A7%23&Refer=top) 3688516
 1. [千金摔倒](https://s.weibo.com/weibo?q=%E5%8D%83%E9%87%91%E6%91%94%E5%80%92&Refer=top) 3613103
-1. [北京冬奥耀眼的中国红](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E8%80%80%E7%9C%BC%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%BA%A2%23&Refer=top) 3544513
 1. [一百万只冰墩墩到货](https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%99%BE%E4%B8%87%E5%8F%AA%E5%86%B0%E5%A2%A9%E5%A2%A9%E5%88%B0%E8%B4%A7%23&Refer=top) 3381411
 1. [谷爱家族](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%AE%B6%E6%97%8F%23&Refer=top) 3276062
 1. [中国国旗是举得最高的](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%9B%BD%E6%97%97%E6%98%AF%E4%B8%BE%E5%BE%97%E6%9C%80%E9%AB%98%E7%9A%84%23&Refer=top) 3239084
-1. [请运动员们落座观礼](https://s.weibo.com/weibo?q=%23%E8%AF%B7%E8%BF%90%E5%8A%A8%E5%91%98%E4%BB%AC%E8%90%BD%E5%BA%A7%E8%A7%82%E7%A4%BC%23&Refer=top) 3187406
-1. [李玉刚羽生结弦](https://s.weibo.com/weibo?q=%E6%9D%8E%E7%8E%89%E5%88%9A%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6&Refer=top) 3163093
 1. [加拿大羽绒服](https://s.weibo.com/weibo?q=%E5%8A%A0%E6%8B%BF%E5%A4%A7%E7%BE%BD%E7%BB%92%E6%9C%8D&Refer=top) 3126307
 1. [这就是北京冬奥会的魅力](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E4%BC%9A%E7%9A%84%E9%AD%85%E5%8A%9B%23&Refer=top) 3105992
 1. [花样滑冰表演滑](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E6%A0%B7%E6%BB%91%E5%86%B0%E8%A1%A8%E6%BC%94%E6%BB%91%23&Refer=top) 3081692
@@ -29,7 +29,9 @@
 1. [冰墩墩表演滑](https://s.weibo.com/weibo?q=%E5%86%B0%E5%A2%A9%E5%A2%A9%E8%A1%A8%E6%BC%94%E6%BB%91&Refer=top) 2717555
 1. [普京直言俄罗斯被耍了](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E7%9B%B4%E8%A8%80%E4%BF%84%E7%BD%97%E6%96%AF%E8%A2%AB%E8%80%8D%E4%BA%86%23&Refer=top) 2701524
 1. [巴赫又不穿羽绒服](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%B5%AB%E5%8F%88%E4%B8%8D%E7%A9%BF%E7%BE%BD%E7%BB%92%E6%9C%8D%23&Refer=top) 2629205
-1. [妈妈收拾女儿化妆品惊呆了](https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E6%94%B6%E6%8B%BE%E5%A5%B3%E5%84%BF%E5%8C%96%E5%A6%86%E5%93%81%E6%83%8A%E5%91%86%E4%BA%86%23&Refer=top) 2371080
+1. [妈妈收拾女儿化妆品惊呆了](https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E6%94%B6%E6%8B%BE%E5%A5%B3%E5%84%BF%E5%8C%96%E5%A6%86%E5%93%81%E6%83%8A%E5%91%86%E4%BA%86%23&Refer=top) 2491068
+1. [香港新增6067例新冠肺炎确诊病例](https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E6%96%B0%E5%A2%9E6067%E4%BE%8B%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B%23&Refer=top) 2400675
+1. [意大利8分钟](https://s.weibo.com/weibo?q=%23%E6%84%8F%E5%A4%A7%E5%88%A98%E5%88%86%E9%92%9F%23&Refer=top) 2382434
 1. [金博洋和羽生结弦手拉手滑冰](https://s.weibo.com/weibo?q=%23%E9%87%91%E5%8D%9A%E6%B4%8B%E5%92%8C%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E6%89%8B%E6%8B%89%E6%89%8B%E6%BB%91%E5%86%B0%23&Refer=top) 2346685
 1. [河北夫妻卖房悬赏100万寻两子](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8C%97%E5%A4%AB%E5%A6%BB%E5%8D%96%E6%88%BF%E6%82%AC%E8%B5%8F100%E4%B8%87%E5%AF%BB%E4%B8%A4%E5%AD%90%23&Refer=top) 2280026
 1. [北京冬奥闭幕式鸟巢现场](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E9%97%AD%E5%B9%95%E5%BC%8F%E9%B8%9F%E5%B7%A2%E7%8E%B0%E5%9C%BA%23&Refer=top) 2229809
@@ -46,7 +48,6 @@
 1. [北京冬奥今晚闭幕](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E4%BB%8A%E6%99%9A%E9%97%AD%E5%B9%95%23&Refer=top) 1881418
 1. [隋文静扑倒冰墩墩](https://s.weibo.com/weibo?q=%23%E9%9A%8B%E6%96%87%E9%9D%99%E6%89%91%E5%80%92%E5%86%B0%E5%A2%A9%E5%A2%A9%23&Refer=top) 1849027
 1. [闭幕式出现巨型中国结](https://s.weibo.com/weibo?q=%23%E9%97%AD%E5%B9%95%E5%BC%8F%E5%87%BA%E7%8E%B0%E5%B7%A8%E5%9E%8B%E4%B8%AD%E5%9B%BD%E7%BB%93%23&Refer=top) 1841065
-1. [意大利8分钟](https://s.weibo.com/weibo?q=%23%E6%84%8F%E5%A4%A7%E5%88%A98%E5%88%86%E9%92%9F%23&Refer=top) 1821225
 1. [挪威国歌](https://s.weibo.com/weibo?q=%E6%8C%AA%E5%A8%81%E5%9B%BD%E6%AD%8C&Refer=top) 1818592
 1. [苏翊鸣冬奥会开幕式17岁闭幕式18岁](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%BF%8A%E9%B8%A3%E5%86%AC%E5%A5%A5%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F17%E5%B2%81%E9%97%AD%E5%B9%95%E5%BC%8F18%E5%B2%81%23&Refer=top) 1743882
 1. [运动员们好欢乐](https://s.weibo.com/weibo?q=%23%E8%BF%90%E5%8A%A8%E5%91%98%E4%BB%AC%E5%A5%BD%E6%AC%A2%E4%B9%90%23&Refer=top) 1723078
@@ -62,29 +63,32 @@
 1. [莎莎演绎神奇女侠](https://s.weibo.com/weibo?q=%23%E8%8E%8E%E8%8E%8E%E6%BC%94%E7%BB%8E%E7%A5%9E%E5%A5%87%E5%A5%B3%E4%BE%A0%23&Refer=top) 1618739
 1. [柳鑫宇抱羽生结弦8.0版](https://s.weibo.com/weibo?q=%23%E6%9F%B3%E9%91%AB%E5%AE%87%E6%8A%B1%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A68.0%E7%89%88%23&Refer=top) 1588136
 1. [私人影院有多可怕](https://s.weibo.com/weibo?q=%23%E7%A7%81%E4%BA%BA%E5%BD%B1%E9%99%A2%E6%9C%89%E5%A4%9A%E5%8F%AF%E6%80%95%23&Refer=top) 1578868
+1. [如何用中国式浪漫说闭幕](https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E7%94%A8%E4%B8%AD%E5%9B%BD%E5%BC%8F%E6%B5%AA%E6%BC%AB%E8%AF%B4%E9%97%AD%E5%B9%95%23&Refer=top) 1561380
 1. [再见了北京冬奥](https://s.weibo.com/weibo?q=%23%E5%86%8D%E8%A7%81%E4%BA%86%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%23&Refer=top) 1557684
 1. [金博洋演绎西城男孩天使](https://s.weibo.com/weibo?q=%23%E9%87%91%E5%8D%9A%E6%B4%8B%E6%BC%94%E7%BB%8E%E8%A5%BF%E5%9F%8E%E7%94%B7%E5%AD%A9%E5%A4%A9%E4%BD%BF%23&Refer=top) 1529210
 1. [世锦赛](https://s.weibo.com/weibo?q=%E4%B8%96%E9%94%A6%E8%B5%9B&Refer=top) 1487047
-1. [如何用中国式浪漫说闭幕](https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E7%94%A8%E4%B8%AD%E5%9B%BD%E5%BC%8F%E6%B5%AA%E6%BC%AB%E8%AF%B4%E9%97%AD%E5%B9%95%23&Refer=top) 1472981
 1. [特鲁索娃再现经典蟹步](https://s.weibo.com/weibo?q=%23%E7%89%B9%E9%B2%81%E7%B4%A2%E5%A8%83%E5%86%8D%E7%8E%B0%E7%BB%8F%E5%85%B8%E8%9F%B9%E6%AD%A5%23&Refer=top) 1464542
 1. [羽生结弦表演滑结束用中文说谢谢](https://s.weibo.com/weibo?q=%23%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E8%A1%A8%E6%BC%94%E6%BB%91%E7%BB%93%E6%9D%9F%E7%94%A8%E4%B8%AD%E6%96%87%E8%AF%B4%E8%B0%A2%E8%B0%A2%23&Refer=top) 1459511
 1. [尼罗河上的惨案豆瓣评分6.1](https://s.weibo.com/weibo?q=%23%E5%B0%BC%E7%BD%97%E6%B2%B3%E4%B8%8A%E7%9A%84%E6%83%A8%E6%A1%88%E8%B1%86%E7%93%A3%E8%AF%84%E5%88%866.1%23&Refer=top) 1442091
 1. [北京冬奥所有比赛结束](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E6%89%80%E6%9C%89%E6%AF%94%E8%B5%9B%E7%BB%93%E6%9D%9F%23&Refer=top) 1418072
 1. [没想到被王濛戴耳环笑到了](https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E8%A2%AB%E7%8E%8B%E6%BF%9B%E6%88%B4%E8%80%B3%E7%8E%AF%E7%AC%91%E5%88%B0%E4%BA%86%23&Refer=top) 1411613
 1. [花滑表演滑羽生结弦第21位出场](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E6%BB%91%E8%A1%A8%E6%BC%94%E6%BB%91%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E7%AC%AC21%E4%BD%8D%E5%87%BA%E5%9C%BA%23&Refer=top) 1359977
+1. [意大利八分钟主题与北京冬奥会口号不谋而合](https://s.weibo.com/weibo?q=%23%E6%84%8F%E5%A4%A7%E5%88%A9%E5%85%AB%E5%88%86%E9%92%9F%E4%B8%BB%E9%A2%98%E4%B8%8E%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E4%BC%9A%E5%8F%A3%E5%8F%B7%E4%B8%8D%E8%B0%8B%E8%80%8C%E5%90%88%23&Refer=top) 1359588
 1. [山西晋中5人初检阳性](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E6%99%8B%E4%B8%AD5%E4%BA%BA%E5%88%9D%E6%A3%80%E9%98%B3%E6%80%A7%23&Refer=top) 1310254
+1. [成都市发现1例新冠肺炎本土病例](https://s.weibo.com/weibo?q=%E6%88%90%E9%83%BD%E5%B8%82%E5%8F%91%E7%8E%B01%E4%BE%8B%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E6%9C%AC%E5%9C%9F%E7%97%85%E4%BE%8B&Refer=top) 1310149
+1. [冰墩墩下班了](https://s.weibo.com/weibo?q=%23%E5%86%B0%E5%A2%A9%E5%A2%A9%E4%B8%8B%E7%8F%AD%E4%BA%86%23&Refer=top) 1286004
 1. [开闭幕式原来是连续剧](https://s.weibo.com/weibo?q=%23%E5%BC%80%E9%97%AD%E5%B9%95%E5%BC%8F%E5%8E%9F%E6%9D%A5%E6%98%AF%E8%BF%9E%E7%BB%AD%E5%89%A7%23&Refer=top) 1280554
 1. [花滑场馆播放了TFBOYS的青春修炼手册](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E6%BB%91%E5%9C%BA%E9%A6%86%E6%92%AD%E6%94%BE%E4%BA%86TFBOYS%E7%9A%84%E9%9D%92%E6%98%A5%E4%BF%AE%E7%82%BC%E6%89%8B%E5%86%8C%23&Refer=top) 1276219
 1. [今天是冰墩墩最后一天上班](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%86%B0%E5%A2%A9%E5%A2%A9%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9%E4%B8%8A%E7%8F%AD%23&Refer=top) 1269955
-1. [香港新增6067例新冠肺炎确诊病例](https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E6%96%B0%E5%A2%9E6067%E4%BE%8B%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B%23&Refer=top) 1256649
 1. [中国代表团9金4银2铜](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%9B%A29%E9%87%914%E9%93%B62%E9%93%9C%23&Refer=top) 1246602
+1. [康辉 闭幕式](https://s.weibo.com/weibo?q=%E5%BA%B7%E8%BE%89%20%E9%97%AD%E5%B9%95%E5%BC%8F&Refer=top) 1227720
 1. [花滑表演滑有哪些亮点](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E6%BB%91%E8%A1%A8%E6%BC%94%E6%BB%91%E6%9C%89%E5%93%AA%E4%BA%9B%E4%BA%AE%E7%82%B9%23&Refer=top) 1216053
 1. [闭幕式旗手脸上挂着泪痕](https://s.weibo.com/weibo?q=%23%E9%97%AD%E5%B9%95%E5%BC%8F%E6%97%97%E6%89%8B%E8%84%B8%E4%B8%8A%E6%8C%82%E7%9D%80%E6%B3%AA%E7%97%95%23&Refer=top) 1189790
 1. [闭幕式现场全景](https://s.weibo.com/weibo?q=%23%E9%97%AD%E5%B9%95%E5%BC%8F%E7%8E%B0%E5%9C%BA%E5%85%A8%E6%99%AF%23&Refer=top) 1180683
+1. [北京冬奥正式闭幕](https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E6%AD%A3%E5%BC%8F%E9%97%AD%E5%B9%95&Refer=top) 1173903
 1. [任子威黄子韬微博互关](https://s.weibo.com/weibo?q=%23%E4%BB%BB%E5%AD%90%E5%A8%81%E9%BB%84%E5%AD%90%E9%9F%AC%E5%BE%AE%E5%8D%9A%E4%BA%92%E5%85%B3%23&Refer=top) 1173592
 1. [表演滑开场](https://s.weibo.com/weibo?q=%E8%A1%A8%E6%BC%94%E6%BB%91%E5%BC%80%E5%9C%BA&Refer=top) 1172052
 1. [葱桶组合等齐聚花滑盛宴](https://s.weibo.com/weibo?q=%23%E8%91%B1%E6%A1%B6%E7%BB%84%E5%90%88%E7%AD%89%E9%BD%90%E8%81%9A%E8%8A%B1%E6%BB%91%E7%9B%9B%E5%AE%B4%23&Refer=top) 1167008
-1. [意大利八分钟主题与北京冬奥会口号不谋而合](https://s.weibo.com/weibo?q=%23%E6%84%8F%E5%A4%A7%E5%88%A9%E5%85%AB%E5%88%86%E9%92%9F%E4%B8%BB%E9%A2%98%E4%B8%8E%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E4%BC%9A%E5%8F%A3%E5%8F%B7%E4%B8%8D%E8%B0%8B%E8%80%8C%E5%90%88%23&Refer=top) 1150083
 1. [云裳羽衣](https://s.weibo.com/weibo?q=%23%E4%BA%91%E8%A3%B3%E7%BE%BD%E8%A1%A3%23&Refer=top) 1147220
 1. [广州下雪破案了](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E4%B8%8B%E9%9B%AA%E7%A0%B4%E6%A1%88%E4%BA%86%23&Refer=top) 1121648
 1. [闭幕式望远镜](https://s.weibo.com/weibo?q=%E9%97%AD%E5%B9%95%E5%BC%8F%E6%9C%9B%E8%BF%9C%E9%95%9C&Refer=top) 1105688
@@ -94,9 +98,11 @@
 1. [羽生结弦帮忙修补冰面](https://s.weibo.com/weibo?q=%23%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E5%B8%AE%E5%BF%99%E4%BF%AE%E8%A1%A5%E5%86%B0%E9%9D%A2%23&Refer=top) 1064776
 1. [全世界都在学中国抛跳技术](https://s.weibo.com/weibo?q=%23%E5%85%A8%E4%B8%96%E7%95%8C%E9%83%BD%E5%9C%A8%E5%AD%A6%E4%B8%AD%E5%9B%BD%E6%8A%9B%E8%B7%B3%E6%8A%80%E6%9C%AF%23&Refer=top) 1055697
 1. [英国女王新冠病毒检测呈阳性](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E5%A5%B3%E7%8E%8B%E6%96%B0%E5%86%A0%E7%97%85%E6%AF%92%E6%A3%80%E6%B5%8B%E5%91%88%E9%98%B3%E6%80%A7%23&Refer=top) 1054138
+1. [冰墩墩要下班了好舍不得](https://s.weibo.com/weibo?q=%23%E5%86%B0%E5%A2%A9%E5%A2%A9%E8%A6%81%E4%B8%8B%E7%8F%AD%E4%BA%86%E5%A5%BD%E8%88%8D%E4%B8%8D%E5%BE%97%23&Refer=top) 1052452
 1. [韩聪把隋文静举上最高奖台](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E8%81%AA%E6%8A%8A%E9%9A%8B%E6%96%87%E9%9D%99%E4%B8%BE%E4%B8%8A%E6%9C%80%E9%AB%98%E5%A5%96%E5%8F%B0%23&Refer=top) 1049304
 1. [中国队15枚奖牌收官](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F15%E6%9E%9A%E5%A5%96%E7%89%8C%E6%94%B6%E5%AE%98%23&Refer=top) 1035938
 1. [陈巍表演滑](https://s.weibo.com/weibo?q=%E9%99%88%E5%B7%8D%E8%A1%A8%E6%BC%94%E6%BB%91&Refer=top) 1035740
+1. [巴赫谢谢中国](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%B5%AB%E8%B0%A2%E8%B0%A2%E4%B8%AD%E5%9B%BD%23&Refer=top) 1008581
 1. [宇野昌磨表演滑摔了](https://s.weibo.com/weibo?q=%23%E5%AE%87%E9%87%8E%E6%98%8C%E7%A3%A8%E8%A1%A8%E6%BC%94%E6%BB%91%E6%91%94%E4%BA%86%23&Refer=top) 987396
 1. [女教师去上课办公室男同事帮哄娃](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%95%99%E5%B8%88%E5%8E%BB%E4%B8%8A%E8%AF%BE%E5%8A%9E%E5%85%AC%E5%AE%A4%E7%94%B7%E5%90%8C%E4%BA%8B%E5%B8%AE%E5%93%84%E5%A8%83%23&Refer=top) 973428
 1. [中国队冬奥金牌9宫格](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%86%AC%E5%A5%A5%E9%87%91%E7%89%8C9%E5%AE%AB%E6%A0%BC%23&Refer=top) 970437
@@ -116,12 +122,12 @@
 1. [莎莎召唤神灯](https://s.weibo.com/weibo?q=%23%E8%8E%8E%E8%8E%8E%E5%8F%AC%E5%94%A4%E7%A5%9E%E7%81%AF%23&Refer=top) 824524
 1. [开幕式小雪花来到闭幕式了](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%B9%95%E5%BC%8F%E5%B0%8F%E9%9B%AA%E8%8A%B1%E6%9D%A5%E5%88%B0%E9%97%AD%E5%B9%95%E5%BC%8F%E4%BA%86%23&Refer=top) 823569
 1. [周深献声致敬冬奥](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E7%8C%AE%E5%A3%B0%E8%87%B4%E6%95%AC%E5%86%AC%E5%A5%A5%23&Refer=top) 820814
-1. [冰墩墩要下班了好舍不得](https://s.weibo.com/weibo?q=%23%E5%86%B0%E5%A2%A9%E5%A2%A9%E8%A6%81%E4%B8%8B%E7%8F%AD%E4%BA%86%E5%A5%BD%E8%88%8D%E4%B8%8D%E5%BE%97%23&Refer=top) 818081
 1. [原来冰墩墩是被金博洋撞翻了](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%86%B0%E5%A2%A9%E5%A2%A9%E6%98%AF%E8%A2%AB%E9%87%91%E5%8D%9A%E6%B4%8B%E6%92%9E%E7%BF%BB%E4%BA%86%23&Refer=top) 812488
 1. [金博洋羽生结弦等花滑表演滑齐聚](https://s.weibo.com/weibo?q=%23%E9%87%91%E5%8D%9A%E6%B4%8B%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E7%AD%89%E8%8A%B1%E6%BB%91%E8%A1%A8%E6%BC%94%E6%BB%91%E9%BD%90%E8%81%9A%23&Refer=top) 807246
 1. [中国代表团终于穿羽绒服了](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%9B%A2%E7%BB%88%E4%BA%8E%E7%A9%BF%E7%BE%BD%E7%BB%92%E6%9C%8D%E4%BA%86%23&Refer=top) 806484
 1. [谢尔巴科娃与天鹅装的适配度](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%B0%94%E5%B7%B4%E7%A7%91%E5%A8%83%E4%B8%8E%E5%A4%A9%E9%B9%85%E8%A3%85%E7%9A%84%E9%80%82%E9%85%8D%E5%BA%A6%23&Refer=top) 804937
 1. [墩墩冰场摔倒一众花滑名将来救场](https://s.weibo.com/weibo?q=%23%E5%A2%A9%E5%A2%A9%E5%86%B0%E5%9C%BA%E6%91%94%E5%80%92%E4%B8%80%E4%BC%97%E8%8A%B1%E6%BB%91%E5%90%8D%E5%B0%86%E6%9D%A5%E6%95%91%E5%9C%BA%23&Refer=top) 799264
+1. [濛翔成真了](https://s.weibo.com/weibo?q=%23%E6%BF%9B%E7%BF%94%E6%88%90%E7%9C%9F%E4%BA%86%23&Refer=top) 790154
 1. [隋文静韩聪有多不易](https://s.weibo.com/weibo?q=%23%E9%9A%8B%E6%96%87%E9%9D%99%E9%9F%A9%E8%81%AA%E6%9C%89%E5%A4%9A%E4%B8%8D%E6%98%93%23&Refer=top) 785810
 1. [高亭宇徐梦桃当选闭幕式旗手](https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%BA%AD%E5%AE%87%E5%BE%90%E6%A2%A6%E6%A1%83%E5%BD%93%E9%80%89%E9%97%AD%E5%B9%95%E5%BC%8F%E6%97%97%E6%89%8B%23&Refer=top) 778496
 1. [韩国单日新增确诊病例超过10万例](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%8D%95%E6%97%A5%E6%96%B0%E5%A2%9E%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B%E8%B6%85%E8%BF%8710%E4%B8%87%E4%BE%8B%23&Refer=top) 764007
@@ -136,6 +142,7 @@
 1. [沉香如屑杨紫成毅大婚花絮视频](https://s.weibo.com/weibo?q=%23%E6%B2%89%E9%A6%99%E5%A6%82%E5%B1%91%E6%9D%A8%E7%B4%AB%E6%88%90%E6%AF%85%E5%A4%A7%E5%A9%9A%E8%8A%B1%E7%B5%AE%E8%A7%86%E9%A2%91%23&Refer=top) 680817
 1. [北京2022年冬奥会](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC2022%E5%B9%B4%E5%86%AC%E5%A5%A5%E4%BC%9A%23&Refer=top) 670202
 1. [冰墩墩钥匙扣](https://s.weibo.com/weibo?q=%E5%86%B0%E5%A2%A9%E5%A2%A9%E9%92%A5%E5%8C%99%E6%89%A3&Refer=top) 668130
+1. [这是中国给全世界的浪漫](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%BB%99%E5%85%A8%E4%B8%96%E7%95%8C%E7%9A%84%E6%B5%AA%E6%BC%AB%23&Refer=top) 667806
 1. [北京冬奥闭幕式主创团队合影](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E9%97%AD%E5%B9%95%E5%BC%8F%E4%B8%BB%E5%88%9B%E5%9B%A2%E9%98%9F%E5%90%88%E5%BD%B1%23&Refer=top) 665949
 1. [周知方 表演滑](https://s.weibo.com/weibo?q=%E5%91%A8%E7%9F%A5%E6%96%B9%20%E8%A1%A8%E6%BC%94%E6%BB%91&Refer=top) 656924
 1. [中国第9金](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%AC%AC9%E9%87%91%23&Refer=top) 656340
@@ -147,12 +154,14 @@
 1. [拉尼娜现象导致广州2月持续寒冷](https://s.weibo.com/weibo?q=%23%E6%8B%89%E5%B0%BC%E5%A8%9C%E7%8E%B0%E8%B1%A1%E5%AF%BC%E8%87%B4%E5%B9%BF%E5%B7%9E2%E6%9C%88%E6%8C%81%E7%BB%AD%E5%AF%92%E5%86%B7%23&Refer=top) 635049
 1. [中国代表团锁定北京冬奥会金牌榜第三名](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%9B%A2%E9%94%81%E5%AE%9A%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E4%BC%9A%E9%87%91%E7%89%8C%E6%A6%9C%E7%AC%AC%E4%B8%89%E5%90%8D%23&Refer=top) 633366
 1. [杨幂麻花特开心下期预告](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E9%BA%BB%E8%8A%B1%E7%89%B9%E5%BC%80%E5%BF%83%E4%B8%8B%E6%9C%9F%E9%A2%84%E5%91%8A%23&Refer=top) 628261
+1. [疫情欠的演唱会今年能还吗](https://s.weibo.com/weibo?q=%23%E7%96%AB%E6%83%85%E6%AC%A0%E7%9A%84%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BB%8A%E5%B9%B4%E8%83%BD%E8%BF%98%E5%90%97%23&Refer=top) 627758
 1. [北京永远欢迎你](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%B0%B8%E8%BF%9C%E6%AC%A2%E8%BF%8E%E4%BD%A0%23&Refer=top) 622978
 1. [EDG iG](https://s.weibo.com/weibo?q=EDG%20iG&Refer=top) 610247
 1. [无锡隔离物资也太顶了](https://s.weibo.com/weibo?q=%23%E6%97%A0%E9%94%A1%E9%9A%94%E7%A6%BB%E7%89%A9%E8%B5%84%E4%B9%9F%E5%A4%AA%E9%A1%B6%E4%BA%86%23&Refer=top) 609725
 1. [北京冬奥会动情瞬间](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E4%BC%9A%E5%8A%A8%E6%83%85%E7%9E%AC%E9%97%B4%23&Refer=top) 603539
 1. [雪容融](https://s.weibo.com/weibo?q=%23%E9%9B%AA%E5%AE%B9%E8%9E%8D%23&Refer=top) 599893
 1. [白百何佟大为浅过一下周末](https://s.weibo.com/weibo?q=%23%E7%99%BD%E7%99%BE%E4%BD%95%E4%BD%9F%E5%A4%A7%E4%B8%BA%E6%B5%85%E8%BF%87%E4%B8%80%E4%B8%8B%E5%91%A8%E6%9C%AB%23&Refer=top) 595146
+1. [意大利人说中文](https://s.weibo.com/weibo?q=%23%E6%84%8F%E5%A4%A7%E5%88%A9%E4%BA%BA%E8%AF%B4%E4%B8%AD%E6%96%87%23&Refer=top) 592916
 1. [等考研成绩有多焦虑](https://s.weibo.com/weibo?q=%23%E7%AD%89%E8%80%83%E7%A0%94%E6%88%90%E7%BB%A9%E6%9C%89%E5%A4%9A%E7%84%A6%E8%99%91%23&Refer=top) 589509
 1. [让志愿者站上舞台中央](https://s.weibo.com/weibo?q=%23%E8%AE%A9%E5%BF%97%E6%84%BF%E8%80%85%E7%AB%99%E4%B8%8A%E8%88%9E%E5%8F%B0%E4%B8%AD%E5%A4%AE%23&Refer=top) 588381
 1. [NBA全明星扣篮大赛](https://s.weibo.com/weibo?q=%23NBA%E5%85%A8%E6%98%8E%E6%98%9F%E6%89%A3%E7%AF%AE%E5%A4%A7%E8%B5%9B%23&Refer=top) 586081
@@ -165,6 +174,7 @@
 1. [北京冬奥闭幕式是个大Party](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E9%97%AD%E5%B9%95%E5%BC%8F%E6%98%AF%E4%B8%AA%E5%A4%A7Party%23&Refer=top) 532764
 1. [中国队首次出战高山滑雪混合团体比赛](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E9%A6%96%E6%AC%A1%E5%87%BA%E6%88%98%E9%AB%98%E5%B1%B1%E6%BB%91%E9%9B%AA%E6%B7%B7%E5%90%88%E5%9B%A2%E4%BD%93%E6%AF%94%E8%B5%9B%23&Refer=top) 531990
 1. [闭幕式转圈圈](https://s.weibo.com/weibo?q=%23%E9%97%AD%E5%B9%95%E5%BC%8F%E8%BD%AC%E5%9C%88%E5%9C%88%23&Refer=top) 530937
+1. [北京冬奥主火炬熄灭](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E4%B8%BB%E7%81%AB%E7%82%AC%E7%86%84%E7%81%AD%23&Refer=top) 526891
 1. [看花滑被感动到了](https://s.weibo.com/weibo?q=%23%E7%9C%8B%E8%8A%B1%E6%BB%91%E8%A2%AB%E6%84%9F%E5%8A%A8%E5%88%B0%E4%BA%86%23&Refer=top) 518000
 1. [苏州现有中风险地区50个](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E5%B7%9E%E7%8E%B0%E6%9C%89%E4%B8%AD%E9%A3%8E%E9%99%A9%E5%9C%B0%E5%8C%BA50%E4%B8%AA%23&Refer=top) 506675
 1. [警嫂不离不弃唤醒植物人丈夫](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E5%AB%82%E4%B8%8D%E7%A6%BB%E4%B8%8D%E5%BC%83%E5%94%A4%E9%86%92%E6%A4%8D%E7%89%A9%E4%BA%BA%E4%B8%88%E5%A4%AB%23&Refer=top) 505404
@@ -176,10 +186,8 @@
 1. [金博洋高举会当凌绝顶一览众山小](https://s.weibo.com/weibo?q=%23%E9%87%91%E5%8D%9A%E6%B4%8B%E9%AB%98%E4%B8%BE%E4%BC%9A%E5%BD%93%E5%87%8C%E7%BB%9D%E9%A1%B6%E4%B8%80%E8%A7%88%E4%BC%97%E5%B1%B1%E5%B0%8F%23&Refer=top) 489264
 1. [马达引擎冰上演绎我爱你中国](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E8%BE%BE%E5%BC%95%E6%93%8E%E5%86%B0%E4%B8%8A%E6%BC%94%E7%BB%8E%E6%88%91%E7%88%B1%E4%BD%A0%E4%B8%AD%E5%9B%BD%23&Refer=top) 484335
 1. [王俊凯COSMO封面拍摄花絮视频](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AFCOSMO%E5%B0%81%E9%9D%A2%E6%8B%8D%E6%91%84%E8%8A%B1%E7%B5%AE%E8%A7%86%E9%A2%91%23&Refer=top) 483915
-1. [巴赫谢谢中国](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%B5%AB%E8%B0%A2%E8%B0%A2%E4%B8%AD%E5%9B%BD%23&Refer=top) 467565
+1. [当我看到运动员还没入座](https://s.weibo.com/weibo?q=%23%E5%BD%93%E6%88%91%E7%9C%8B%E5%88%B0%E8%BF%90%E5%8A%A8%E5%91%98%E8%BF%98%E6%B2%A1%E5%85%A5%E5%BA%A7%23&Refer=top) 473716
 1. [今晚到明晨广东最冷](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E6%99%9A%E5%88%B0%E6%98%8E%E6%99%A8%E5%B9%BF%E4%B8%9C%E6%9C%80%E5%86%B7%23&Refer=top) 467237
-1. [北京冬奥正式闭幕](https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E6%AD%A3%E5%BC%8F%E9%97%AD%E5%B9%95&Refer=top) 467069
-1. [这是中国给全世界的浪漫](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%BB%99%E5%85%A8%E4%B8%96%E7%95%8C%E7%9A%84%E6%B5%AA%E6%BC%AB%23&Refer=top) 466966
 1. [越野车翻下网红坡男子疑被压身亡](https://s.weibo.com/weibo?q=%23%E8%B6%8A%E9%87%8E%E8%BD%A6%E7%BF%BB%E4%B8%8B%E7%BD%91%E7%BA%A2%E5%9D%A1%E7%94%B7%E5%AD%90%E7%96%91%E8%A2%AB%E5%8E%8B%E8%BA%AB%E4%BA%A1%23&Refer=top) 462942
 1. [隋文静韩聪自由滑155.47分](https://s.weibo.com/weibo?q=%23%E9%9A%8B%E6%96%87%E9%9D%99%E9%9F%A9%E8%81%AA%E8%87%AA%E7%94%B1%E6%BB%91155.47%E5%88%86%23&Refer=top) 462462
 1. [奥林匹克会旗交接](https://s.weibo.com/weibo?q=%23%E5%A5%A5%E6%9E%97%E5%8C%B9%E5%85%8B%E4%BC%9A%E6%97%97%E4%BA%A4%E6%8E%A5%23&Refer=top) 460344
