@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-02-21 03:22:24.212526 
+最后更新时间 2022-02-21 03:34:13.525555 
 1. [查到考研成绩有多激动](https://s.weibo.com/weibo?q=%23%E6%9F%A5%E5%88%B0%E8%80%83%E7%A0%94%E6%88%90%E7%BB%A9%E6%9C%89%E5%A4%9A%E6%BF%80%E5%8A%A8%23&Refer=top) 2775151
 1. [冰墩墩哭了](https://s.weibo.com/weibo?q=%23%E5%86%B0%E5%A2%A9%E5%A2%A9%E5%93%AD%E4%BA%86%23&Refer=top) 2729478
 1. [冰墩墩售罄](https://s.weibo.com/weibo?q=%23%E5%86%B0%E5%A2%A9%E5%A2%A9%E5%94%AE%E7%BD%84%23&Refer=top) 2233745
@@ -64,8 +64,8 @@
 1. [其实谁也不想离家那么远](https://s.weibo.com/weibo?q=%23%E5%85%B6%E5%AE%9E%E8%B0%81%E4%B9%9F%E4%B8%8D%E6%83%B3%E7%A6%BB%E5%AE%B6%E9%82%A3%E4%B9%88%E8%BF%9C%23&Refer=top) 248689
 1. [袁咏仪 盛装](https://s.weibo.com/weibo?q=%E8%A2%81%E5%92%8F%E4%BB%AA%20%E7%9B%9B%E8%A3%85&Refer=top) 214278
 1. [北京2022年冬奥会](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC2022%E5%B9%B4%E5%86%AC%E5%A5%A5%E4%BC%9A%23&Refer=top) 173808
-1. [哈利波特](https://s.weibo.com/weibo?q=%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9&Refer=top) 43629
-1. [用西游记的方式打开北京冬奥会](https://s.weibo.com/weibo?q=%23%E7%94%A8%E8%A5%BF%E6%B8%B8%E8%AE%B0%E7%9A%84%E6%96%B9%E5%BC%8F%E6%89%93%E5%BC%80%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E4%BC%9A%23&Refer=top) 42777
+1. [哈利波特](https://s.weibo.com/weibo?q=%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9&Refer=top) 72707
+1. [用西游记的方式打开北京冬奥会](https://s.weibo.com/weibo?q=%23%E7%94%A8%E8%A5%BF%E6%B8%B8%E8%AE%B0%E7%9A%84%E6%96%B9%E5%BC%8F%E6%89%93%E5%BC%80%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E4%BC%9A%23&Refer=top) 47095
 <!-- END -->
 
 历史归档 [./archives](./archives)
