@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-02-22 04:29:25.258952 
+最后更新时间 2022-02-22 04:39:51.784351 
 1. [楚原去世](https://s.weibo.com/weibo?q=%23%E6%A5%9A%E5%8E%9F%E5%8E%BB%E4%B8%96%23&Refer=top) 1703943
 1. [武汉新增4例新冠阳性病例](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89%E6%96%B0%E5%A2%9E4%E4%BE%8B%E6%96%B0%E5%86%A0%E9%98%B3%E6%80%A7%E7%97%85%E4%BE%8B%23&Refer=top) 1570382
 1. [3分钟回顾北京冬奥精彩瞬间](https://s.weibo.com/weibo?q=%233%E5%88%86%E9%92%9F%E5%9B%9E%E9%A1%BE%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E7%B2%BE%E5%BD%A9%E7%9E%AC%E9%97%B4%23&Refer=top) 1464907
