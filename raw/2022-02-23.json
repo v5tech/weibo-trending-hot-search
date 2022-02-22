@@ -147,6 +147,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%83%BD%E8%83%BD%E9%82%80%E8%AF%B7%E7%BD%97%E6%8B%89%E8%A1%A8%E7%99%BD%23&Refer=top",
     "hot": 212057
   },
+  "四川多所高校发布暂缓返校通知": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%A4%9A%E6%89%80%E9%AB%98%E6%A0%A1%E5%8F%91%E5%B8%83%E6%9A%82%E7%BC%93%E8%BF%94%E6%A0%A1%E9%80%9A%E7%9F%A5%23&Refer=top",
+    "hot": 210260
+  },
   "武汉阳性病例为奥密克戎变异株": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89%E9%98%B3%E6%80%A7%E7%97%85%E4%BE%8B%E4%B8%BA%E5%A5%A5%E5%AF%86%E5%85%8B%E6%88%8E%E5%8F%98%E5%BC%82%E6%A0%AA%23&Refer=top",
     "hot": 199309
@@ -158,10 +162,6 @@
   "2月22日陪父母离婚的小女孩": {
     "url": "https://s.weibo.com/weibo?q=%232%E6%9C%8822%E6%97%A5%E9%99%AA%E7%88%B6%E6%AF%8D%E7%A6%BB%E5%A9%9A%E7%9A%84%E5%B0%8F%E5%A5%B3%E5%AD%A9%23&Refer=top",
     "hot": 184830
-  },
-  "四川多所高校发布暂缓返校通知": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%A4%9A%E6%89%80%E9%AB%98%E6%A0%A1%E5%8F%91%E5%B8%83%E6%9A%82%E7%BC%93%E8%BF%94%E6%A0%A1%E9%80%9A%E7%9F%A5%23&Refer=top",
-    "hot": 182649
   },
   "这嗓子可以借我吗": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%97%93%E5%AD%90%E5%8F%AF%E4%BB%A5%E5%80%9F%E6%88%91%E5%90%97%23&Refer=top",
@@ -218,5 +218,9 @@
   "俄乌局势将如何发展": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%BF%84%E4%B9%8C%E5%B1%80%E5%8A%BF%E5%B0%86%E5%A6%82%E4%BD%95%E5%8F%91%E5%B1%95%23&Refer=top",
     "hot": 100421
+  },
+  "武汉14例阳性感染者活动轨迹公布": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%8914%E4%BE%8B%E9%98%B3%E6%80%A7%E6%84%9F%E6%9F%93%E8%80%85%E6%B4%BB%E5%8A%A8%E8%BD%A8%E8%BF%B9%E5%85%AC%E5%B8%83%23&Refer=top",
+    "hot": 25003
   }
 }
