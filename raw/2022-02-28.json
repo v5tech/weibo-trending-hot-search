@@ -35,6 +35,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%85%8B%E5%85%B0%E6%80%BB%E7%BB%9F%E7%A1%AE%E8%AE%A4%E8%B0%88%E5%88%A4%E5%9C%A8%E4%B9%8C%E7%99%BD%E8%BE%B9%E5%A2%83%E4%B8%BE%E8%A1%8C%23&Refer=top",
     "hot": 724600
   },
+  "美欧宣布禁止俄部分银行使用SWIFT": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%AC%A7%E5%AE%A3%E5%B8%83%E7%A6%81%E6%AD%A2%E4%BF%84%E9%83%A8%E5%88%86%E9%93%B6%E8%A1%8C%E4%BD%BF%E7%94%A8SWIFT%23&Refer=top",
+    "hot": 666278
+  },
   "宝可梦朱紫": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%AE%9D%E5%8F%AF%E6%A2%A6%E6%9C%B1%E7%B4%AB%23&Refer=top",
     "hot": 632207
@@ -62,10 +66,6 @@
   "泪失禁体质可以多能哭": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%B3%AA%E5%A4%B1%E7%A6%81%E4%BD%93%E8%B4%A8%E5%8F%AF%E4%BB%A5%E5%A4%9A%E8%83%BD%E5%93%AD%23&Refer=top",
     "hot": 405871
-  },
-  "美欧宣布禁止俄部分银行使用SWIFT": {
-    "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%AC%A7%E5%AE%A3%E5%B8%83%E7%A6%81%E6%AD%A2%E4%BF%84%E9%83%A8%E5%88%86%E9%93%B6%E8%A1%8C%E4%BD%BF%E7%94%A8SWIFT%23&Refer=top",
-    "hot": 395373
   },
   "北约是乌克兰危机的根源": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E7%BA%A6%E6%98%AF%E4%B9%8C%E5%85%8B%E5%85%B0%E5%8D%B1%E6%9C%BA%E7%9A%84%E6%A0%B9%E6%BA%90%23&Refer=top",
@@ -210,5 +210,13 @@
   "这篇夜读送给备战高考的你": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%AF%87%E5%A4%9C%E8%AF%BB%E9%80%81%E7%BB%99%E5%A4%87%E6%88%98%E9%AB%98%E8%80%83%E7%9A%84%E4%BD%A0%23&Refer=top",
     "hot": 48657
+  },
+  "关注俄乌局势最新进展": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%B3%A8%E4%BF%84%E4%B9%8C%E5%B1%80%E5%8A%BF%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95%23&Refer=top",
+    "hot": 36843
+  },
+  "ale LNG": {
+    "url": "https://s.weibo.com/weibo?q=ale%20LNG&Refer=top",
+    "hot": 33640
   }
 }
