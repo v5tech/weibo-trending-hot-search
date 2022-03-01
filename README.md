@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-03-02 02:33:52.031383 
+最后更新时间 2022-03-02 02:50:18.692306 
 1. [好丽友涨价](https://s.weibo.com/weibo?q=%E5%A5%BD%E4%B8%BD%E5%8F%8B%E6%B6%A8%E4%BB%B7&Refer=top) 2840293
 1. [俄罗斯1万亿卢布购买遭制裁公司股票](https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF1%E4%B8%87%E4%BA%BF%E5%8D%A2%E5%B8%83%E8%B4%AD%E4%B9%B0%E9%81%AD%E5%88%B6%E8%A3%81%E5%85%AC%E5%8F%B8%E8%82%A1%E7%A5%A8%23&Refer=top) 1560487
 1. [北京冬残奥火炬传递线路公布](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%86%AC%E6%AE%8B%E5%A5%A5%E7%81%AB%E7%82%AC%E4%BC%A0%E9%80%92%E7%BA%BF%E8%B7%AF%E5%85%AC%E5%B8%83%23&Refer=top) 1400505
