@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-03-07 02:33:14.681386 
+最后更新时间 2022-03-07 02:49:20.822195 
 1. [建议鼓励在校硕士和博士生结婚生育](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E9%BC%93%E5%8A%B1%E5%9C%A8%E6%A0%A1%E7%A1%95%E5%A3%AB%E5%92%8C%E5%8D%9A%E5%A3%AB%E7%94%9F%E7%BB%93%E5%A9%9A%E7%94%9F%E8%82%B2%23&Refer=top) 2801753
 1. [建议禁止明星代言游戏广告](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E7%A6%81%E6%AD%A2%E6%98%8E%E6%98%9F%E4%BB%A3%E8%A8%80%E6%B8%B8%E6%88%8F%E5%B9%BF%E5%91%8A%23&Refer=top) 1849721
 1. [100秒看2022政府工作报告](https://s.weibo.com/weibo?q=%23100%E7%A7%92%E7%9C%8B2022%E6%94%BF%E5%BA%9C%E5%B7%A5%E4%BD%9C%E6%8A%A5%E5%91%8A%23&Refer=top) 1473890
