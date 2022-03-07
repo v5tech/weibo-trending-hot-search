@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-03-08 03:34:54.434359 
+最后更新时间 2022-03-08 03:49:04.919015 
 1. [俄罗斯允许以卢布偿还不友好国家债务](https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E5%85%81%E8%AE%B8%E4%BB%A5%E5%8D%A2%E5%B8%83%E5%81%BF%E8%BF%98%E4%B8%8D%E5%8F%8B%E5%A5%BD%E5%9B%BD%E5%AE%B6%E5%80%BA%E5%8A%A1%23&Refer=top) 2398565
 1. [三月份开始准备考研的我](https://s.weibo.com/weibo?q=%23%E4%B8%89%E6%9C%88%E4%BB%BD%E5%BC%80%E5%A7%8B%E5%87%86%E5%A4%87%E8%80%83%E7%A0%94%E7%9A%84%E6%88%91%23&Refer=top) 1109203
 1. [冬残奥赛场上的中国00后](https://s.weibo.com/weibo?q=%23%E5%86%AC%E6%AE%8B%E5%A5%A5%E8%B5%9B%E5%9C%BA%E4%B8%8A%E7%9A%84%E4%B8%AD%E5%9B%BD00%E5%90%8E%23&Refer=top) 1026752
