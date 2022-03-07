@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-03-08 04:30:20.298239 
+最后更新时间 2022-03-08 04:41:25.683384 
 1. [俄罗斯允许以卢布偿还不友好国家债务](https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E5%85%81%E8%AE%B8%E4%BB%A5%E5%8D%A2%E5%B8%83%E5%81%BF%E8%BF%98%E4%B8%8D%E5%8F%8B%E5%A5%BD%E5%9B%BD%E5%AE%B6%E5%80%BA%E5%8A%A1%23&Refer=top) 2398565
 1. [三月份开始准备考研的我](https://s.weibo.com/weibo?q=%23%E4%B8%89%E6%9C%88%E4%BB%BD%E5%BC%80%E5%A7%8B%E5%87%86%E5%A4%87%E8%80%83%E7%A0%94%E7%9A%84%E6%88%91%23&Refer=top) 1109203
 1. [冬残奥赛场上的中国00后](https://s.weibo.com/weibo?q=%23%E5%86%AC%E6%AE%8B%E5%A5%A5%E8%B5%9B%E5%9C%BA%E4%B8%8A%E7%9A%84%E4%B8%AD%E5%9B%BD00%E5%90%8E%23&Refer=top) 1026752
@@ -66,7 +66,7 @@
 1. [年轻人的包有多怪](https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E5%8C%85%E6%9C%89%E5%A4%9A%E6%80%AA%23&Refer=top) 44166
 1. [轮椅冰壶](https://s.weibo.com/weibo?q=%E8%BD%AE%E6%A4%85%E5%86%B0%E5%A3%B6&Refer=top) 30194
 1. [剁椒辣翅](https://s.weibo.com/weibo?q=%23%E5%89%81%E6%A4%92%E8%BE%A3%E7%BF%85%23&Refer=top) 23325
-1. [那些损伤听力的生活习惯](https://s.weibo.com/weibo?q=%23%E9%82%A3%E4%BA%9B%E6%8D%9F%E4%BC%A4%E5%90%AC%E5%8A%9B%E7%9A%84%E7%94%9F%E6%B4%BB%E4%B9%A0%E6%83%AF%23&Refer=top) 14694
+1. [那些损伤听力的生活习惯](https://s.weibo.com/weibo?q=%23%E9%82%A3%E4%BA%9B%E6%8D%9F%E4%BC%A4%E5%90%AC%E5%8A%9B%E7%9A%84%E7%94%9F%E6%B4%BB%E4%B9%A0%E6%83%AF%23&Refer=top) 18924
 <!-- END -->
 
 历史归档 [./archives](./archives)
