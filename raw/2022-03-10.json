@@ -87,6 +87,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E8%80%B3%E9%A5%B0%E5%A6%82%E4%BD%95%E9%81%BF%E5%85%8D%E5%BB%89%E4%BB%B7%E6%84%9F%23&Refer=top",
     "hot": 226481
   },
+  "韩国山火面积逼近历史纪录": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%B1%B1%E7%81%AB%E9%9D%A2%E7%A7%AF%E9%80%BC%E8%BF%91%E5%8E%86%E5%8F%B2%E7%BA%AA%E5%BD%95%23&Refer=top",
+    "hot": 219185
+  },
   "3月9日西安新增8例本土确诊": {
     "url": "https://s.weibo.com/weibo?q=%233%E6%9C%889%E6%97%A5%E8%A5%BF%E5%AE%89%E6%96%B0%E5%A2%9E8%E4%BE%8B%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A%23&Refer=top",
     "hot": 218064
@@ -98,10 +102,6 @@
   "邓伦大侦探少爷造型好绝": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%82%93%E4%BC%A6%E5%A4%A7%E4%BE%A6%E6%8E%A2%E5%B0%91%E7%88%B7%E9%80%A0%E5%9E%8B%E5%A5%BD%E7%BB%9D%23&Refer=top",
     "hot": 200661
-  },
-  "韩国山火面积逼近历史纪录": {
-    "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%B1%B1%E7%81%AB%E9%9D%A2%E7%A7%AF%E9%80%BC%E8%BF%91%E5%8E%86%E5%8F%B2%E7%BA%AA%E5%BD%95%23&Refer=top",
-    "hot": 192152
   },
   "成都人有多爱吃锅盔": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E4%BA%BA%E6%9C%89%E5%A4%9A%E7%88%B1%E5%90%83%E9%94%85%E7%9B%94%23&Refer=top",
@@ -214,5 +214,9 @@
   "沈明宝什么时候和杨争离婚": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%98%8E%E5%AE%9D%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E5%92%8C%E6%9D%A8%E4%BA%89%E7%A6%BB%E5%A9%9A%23&Refer=top",
     "hot": 46016
+  },
+  "乌军方同意基辅当地时间9时至21时停火": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%86%9B%E6%96%B9%E5%90%8C%E6%84%8F%E5%9F%BA%E8%BE%85%E5%BD%93%E5%9C%B0%E6%97%B6%E9%97%B49%E6%97%B6%E8%87%B321%E6%97%B6%E5%81%9C%E7%81%AB%23&Refer=top",
+    "hot": 36070
   }
 }
