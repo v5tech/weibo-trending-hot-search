@@ -39,6 +39,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E6%96%AD%E7%BD%91%E5%8D%81%E5%B9%B4%E4%BA%86%E5%90%A7%23&Refer=top",
     "hot": 1059570
   },
+  "吉林市市长被免职": {
+    "url": "https://s.weibo.com/weibo?q=%E5%90%89%E6%9E%97%E5%B8%82%E5%B8%82%E9%95%BF%E8%A2%AB%E5%85%8D%E8%81%8C&Refer=top",
+    "hot": 1036814
+  },
   "Ning": {
     "url": "https://s.weibo.com/weibo?q=Ning&Refer=top",
     "hot": 957027
@@ -218,9 +222,5 @@
   "原来你们就是气氛终结者": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E4%BD%A0%E4%BB%AC%E5%B0%B1%E6%98%AF%E6%B0%94%E6%B0%9B%E7%BB%88%E7%BB%93%E8%80%85%23&Refer=top",
     "hot": 91219
-  },
-  "吉林市市长被免职": {
-    "url": "https://s.weibo.com/weibo?q=%E5%90%89%E6%9E%97%E5%B8%82%E5%B8%82%E9%95%BF%E8%A2%AB%E5%85%8D%E8%81%8C&Refer=top",
-    "hot": 62400
   }
 }
