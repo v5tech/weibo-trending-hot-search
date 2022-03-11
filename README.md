@@ -7,13 +7,13 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-03-12 06:30:07.085481 
+最后更新时间 2022-03-12 06:41:15.427310 
 1. [一疑似新冠阳性人员进入广交会展馆](https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%96%91%E4%BC%BC%E6%96%B0%E5%86%A0%E9%98%B3%E6%80%A7%E4%BA%BA%E5%91%98%E8%BF%9B%E5%85%A5%E5%B9%BF%E4%BA%A4%E4%BC%9A%E5%B1%95%E9%A6%86%23&Refer=top) 3170797
 1. [重庆疫情通报](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E7%96%AB%E6%83%85%E9%80%9A%E6%8A%A5%23&Refer=top) 2558515
 1. [祝福速度赶不上中国队夺牌速度](https://s.weibo.com/weibo?q=%23%E7%A5%9D%E7%A6%8F%E9%80%9F%E5%BA%A6%E8%B5%B6%E4%B8%8D%E4%B8%8A%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%A4%BA%E7%89%8C%E9%80%9F%E5%BA%A6%23&Refer=top) 2238139
 1. [俄罗斯用格瓦斯取代可乐](https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E7%94%A8%E6%A0%BC%E7%93%A6%E6%96%AF%E5%8F%96%E4%BB%A3%E5%8F%AF%E4%B9%90%23&Refer=top) 2002118
 1. [怎么会不遗憾呢](https://s.weibo.com/weibo?q=%23%E6%80%8E%E4%B9%88%E4%BC%9A%E4%B8%8D%E9%81%97%E6%86%BE%E5%91%A2%23&Refer=top) 1520402
-1. [吉林市市长被免职](https://s.weibo.com/weibo?q=%E5%90%89%E6%9E%97%E5%B8%82%E5%B8%82%E9%95%BF%E8%A2%AB%E5%85%8D%E8%81%8C&Refer=top) 1321272
+1. [吉林市市长被免职](https://s.weibo.com/weibo?q=%E5%90%89%E6%9E%97%E5%B8%82%E5%B8%82%E9%95%BF%E8%A2%AB%E5%85%8D%E8%81%8C&Refer=top) 1362853
 1. [周深唱的克卜勒仿佛穿越星际](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E5%94%B1%E7%9A%84%E5%85%8B%E5%8D%9C%E5%8B%92%E4%BB%BF%E4%BD%9B%E7%A9%BF%E8%B6%8A%E6%98%9F%E9%99%85%23&Refer=top) 1185448
 1. [弟弟偷亲姐买房钱被姐姐报警](https://s.weibo.com/weibo?q=%23%E5%BC%9F%E5%BC%9F%E5%81%B7%E4%BA%B2%E5%A7%90%E4%B9%B0%E6%88%BF%E9%92%B1%E8%A2%AB%E5%A7%90%E5%A7%90%E6%8A%A5%E8%AD%A6%23&Refer=top) 1161801
 1. [重庆教资](https://s.weibo.com/weibo?q=%E9%87%8D%E5%BA%86%E6%95%99%E8%B5%84&Refer=top) 1148218
@@ -59,19 +59,19 @@
 1. [缓解肩颈酸痛的治疗动作](https://s.weibo.com/weibo?q=%23%E7%BC%93%E8%A7%A3%E8%82%A9%E9%A2%88%E9%85%B8%E7%97%9B%E7%9A%84%E6%B2%BB%E7%96%97%E5%8A%A8%E4%BD%9C%23&Refer=top) 232608
 1. [网传今晚上海封城不属实](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E4%BB%8A%E6%99%9A%E4%B8%8A%E6%B5%B7%E5%B0%81%E5%9F%8E%E4%B8%8D%E5%B1%9E%E5%AE%9E%23&Refer=top) 226399
 1. [广交会展馆活动暂停](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%BA%A4%E4%BC%9A%E5%B1%95%E9%A6%86%E6%B4%BB%E5%8A%A8%E6%9A%82%E5%81%9C%23&Refer=top) 225090
+1. [特朗普自称曾得到过普京保证](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%87%AA%E7%A7%B0%E6%9B%BE%E5%BE%97%E5%88%B0%E8%BF%87%E6%99%AE%E4%BA%AC%E4%BF%9D%E8%AF%81%23&Refer=top) 222326
 1. [北京天空](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%A4%A9%E7%A9%BA%23&Refer=top) 220816
 1. [考研人数](https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94%E4%BA%BA%E6%95%B0&Refer=top) 214070
 1. [LPL](https://s.weibo.com/weibo?q=LPL&Refer=top) 208521
+1. [乌克兰成了美国的生物武器试验场](https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%90%E4%BA%86%E7%BE%8E%E5%9B%BD%E7%9A%84%E7%94%9F%E7%89%A9%E6%AD%A6%E5%99%A8%E8%AF%95%E9%AA%8C%E5%9C%BA%23&Refer=top) 179034
 1. [广东人的攀比逻辑](https://s.weibo.com/weibo?q=%E5%B9%BF%E4%B8%9C%E4%BA%BA%E7%9A%84%E6%94%80%E6%AF%94%E9%80%BB%E8%BE%91&Refer=top) 178230
-1. [特朗普自称曾得到过普京保证](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%87%AA%E7%A7%B0%E6%9B%BE%E5%BE%97%E5%88%B0%E8%BF%87%E6%99%AE%E4%BA%AC%E4%BF%9D%E8%AF%81%23&Refer=top) 174656
-1. [乌克兰成了美国的生物武器试验场](https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%90%E4%BA%86%E7%BE%8E%E5%9B%BD%E7%9A%84%E7%94%9F%E7%89%A9%E6%AD%A6%E5%99%A8%E8%AF%95%E9%AA%8C%E5%9C%BA%23&Refer=top) 143460
-1. [美副总统被问乌难民问题哈哈大笑](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%89%AF%E6%80%BB%E7%BB%9F%E8%A2%AB%E9%97%AE%E4%B9%8C%E9%9A%BE%E6%B0%91%E9%97%AE%E9%A2%98%E5%93%88%E5%93%88%E5%A4%A7%E7%AC%91%23&Refer=top) 142563
+1. [美副总统被问乌难民问题哈哈大笑](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%89%AF%E6%80%BB%E7%BB%9F%E8%A2%AB%E9%97%AE%E4%B9%8C%E9%9A%BE%E6%B0%91%E9%97%AE%E9%A2%98%E5%93%88%E5%93%88%E5%A4%A7%E7%AC%91%23&Refer=top) 174442
 1. [T1十五连胜刷新纪录](https://s.weibo.com/weibo?q=%23T1%E5%8D%81%E4%BA%94%E8%BF%9E%E8%83%9C%E5%88%B7%E6%96%B0%E7%BA%AA%E5%BD%95%23&Refer=top) 137313
+1. [你有朋友圈依赖症吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E6%9C%89%E6%9C%8B%E5%8F%8B%E5%9C%88%E4%BE%9D%E8%B5%96%E7%97%87%E5%90%97%23&Refer=top) 110838
 1. [原来你们就是气氛终结者](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E4%BD%A0%E4%BB%AC%E5%B0%B1%E6%98%AF%E6%B0%94%E6%B0%9B%E7%BB%88%E7%BB%93%E8%80%85%23&Refer=top) 91219
 1. [当你说出一句95加满](https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BD%A0%E8%AF%B4%E5%87%BA%E4%B8%80%E5%8F%A595%E5%8A%A0%E6%BB%A1%23&Refer=top) 83486
-1. [你有朋友圈依赖症吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E6%9C%89%E6%9C%8B%E5%8F%8B%E5%9C%88%E4%BE%9D%E8%B5%96%E7%97%87%E5%90%97%23&Refer=top) 82742
-1. [对实际种粮农民发200亿一次性补贴](https://s.weibo.com/weibo?q=%23%E5%AF%B9%E5%AE%9E%E9%99%85%E7%A7%8D%E7%B2%AE%E5%86%9C%E6%B0%91%E5%8F%91200%E4%BA%BF%E4%B8%80%E6%AC%A1%E6%80%A7%E8%A1%A5%E8%B4%B4%23&Refer=top) 37811
-1. [春日野餐怎么拍元气又出片](https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%97%A5%E9%87%8E%E9%A4%90%E6%80%8E%E4%B9%88%E6%8B%8D%E5%85%83%E6%B0%94%E5%8F%88%E5%87%BA%E7%89%87%23&Refer=top) 33563
+1. [对实际种粮农民发200亿一次性补贴](https://s.weibo.com/weibo?q=%23%E5%AF%B9%E5%AE%9E%E9%99%85%E7%A7%8D%E7%B2%AE%E5%86%9C%E6%B0%91%E5%8F%91200%E4%BA%BF%E4%B8%80%E6%AC%A1%E6%80%A7%E8%A1%A5%E8%B4%B4%23&Refer=top) 47553
+1. [春日野餐怎么拍元气又出片](https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%97%A5%E9%87%8E%E9%A4%90%E6%80%8E%E4%B9%88%E6%8B%8D%E5%85%83%E6%B0%94%E5%8F%88%E5%87%BA%E7%89%87%23&Refer=top) 35501
 <!-- END -->
 
 历史归档 [./archives](./archives)
