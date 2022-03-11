@@ -7,18 +7,18 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-03-12 02:14:00.221809 
+最后更新时间 2022-03-12 02:35:21.687635 
 1. [一疑似新冠阳性人员进入广交会展馆](https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%96%91%E4%BC%BC%E6%96%B0%E5%86%A0%E9%98%B3%E6%80%A7%E4%BA%BA%E5%91%98%E8%BF%9B%E5%85%A5%E5%B9%BF%E4%BA%A4%E4%BC%9A%E5%B1%95%E9%A6%86%23&Refer=top) 3170797
 1. [重庆疫情通报](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E7%96%AB%E6%83%85%E9%80%9A%E6%8A%A5%23&Refer=top) 2558515
 1. [祝福速度赶不上中国队夺牌速度](https://s.weibo.com/weibo?q=%23%E7%A5%9D%E7%A6%8F%E9%80%9F%E5%BA%A6%E8%B5%B6%E4%B8%8D%E4%B8%8A%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%A4%BA%E7%89%8C%E9%80%9F%E5%BA%A6%23&Refer=top) 2238139
 1. [俄罗斯用格瓦斯取代可乐](https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E7%94%A8%E6%A0%BC%E7%93%A6%E6%96%AF%E5%8F%96%E4%BB%A3%E5%8F%AF%E4%B9%90%23&Refer=top) 2002118
 1. [怎么会不遗憾呢](https://s.weibo.com/weibo?q=%23%E6%80%8E%E4%B9%88%E4%BC%9A%E4%B8%8D%E9%81%97%E6%86%BE%E5%91%A2%23&Refer=top) 1520402
+1. [吉林市市长被免职](https://s.weibo.com/weibo?q=%E5%90%89%E6%9E%97%E5%B8%82%E5%B8%82%E9%95%BF%E8%A2%AB%E5%85%8D%E8%81%8C&Refer=top) 1321272
 1. [周深唱的克卜勒仿佛穿越星际](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E5%94%B1%E7%9A%84%E5%85%8B%E5%8D%9C%E5%8B%92%E4%BB%BF%E4%BD%9B%E7%A9%BF%E8%B6%8A%E6%98%9F%E9%99%85%23&Refer=top) 1185448
 1. [弟弟偷亲姐买房钱被姐姐报警](https://s.weibo.com/weibo?q=%23%E5%BC%9F%E5%BC%9F%E5%81%B7%E4%BA%B2%E5%A7%90%E4%B9%B0%E6%88%BF%E9%92%B1%E8%A2%AB%E5%A7%90%E5%A7%90%E6%8A%A5%E8%AD%A6%23&Refer=top) 1161801
 1. [重庆教资](https://s.weibo.com/weibo?q=%E9%87%8D%E5%BA%86%E6%95%99%E8%B5%84&Refer=top) 1148218
 1. [沈腾连续两次把浙江卫视说成江苏卫视](https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E8%BF%9E%E7%BB%AD%E4%B8%A4%E6%AC%A1%E6%8A%8A%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86%E8%AF%B4%E6%88%90%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86%23&Refer=top) 1093905
 1. [黄子韬断网十年了吧](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E6%96%AD%E7%BD%91%E5%8D%81%E5%B9%B4%E4%BA%86%E5%90%A7%23&Refer=top) 1059570
-1. [吉林市市长被免职](https://s.weibo.com/weibo?q=%E5%90%89%E6%9E%97%E5%B8%82%E5%B8%82%E9%95%BF%E8%A2%AB%E5%85%8D%E8%81%8C&Refer=top) 1036814
 1. [Ning](https://s.weibo.com/weibo?q=Ning&Refer=top) 957027
 1. [韩国21小时内新增新冠确诊超34万](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD21%E5%B0%8F%E6%97%B6%E5%86%85%E6%96%B0%E5%A2%9E%E6%96%B0%E5%86%A0%E7%A1%AE%E8%AF%8A%E8%B6%8534%E4%B8%87%23&Refer=top) 927856
 1. [滨州发现2例新冠肺炎确诊病例](https://s.weibo.com/weibo?q=%23%E6%BB%A8%E5%B7%9E%E5%8F%91%E7%8E%B02%E4%BE%8B%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B%23&Refer=top) 878021
@@ -64,6 +64,7 @@
 1. [广东人的攀比逻辑](https://s.weibo.com/weibo?q=%E5%B9%BF%E4%B8%9C%E4%BA%BA%E7%9A%84%E6%94%80%E6%AF%94%E9%80%BB%E8%BE%91&Refer=top) 178230
 1. [T1十五连胜刷新纪录](https://s.weibo.com/weibo?q=%23T1%E5%8D%81%E4%BA%94%E8%BF%9E%E8%83%9C%E5%88%B7%E6%96%B0%E7%BA%AA%E5%BD%95%23&Refer=top) 137313
 1. [原来你们就是气氛终结者](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E4%BD%A0%E4%BB%AC%E5%B0%B1%E6%98%AF%E6%B0%94%E6%B0%9B%E7%BB%88%E7%BB%93%E8%80%85%23&Refer=top) 91219
+1. [当你说出一句95加满](https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BD%A0%E8%AF%B4%E5%87%BA%E4%B8%80%E5%8F%A595%E5%8A%A0%E6%BB%A1%23&Refer=top) 59809
 <!-- END -->
 
 历史归档 [./archives](./archives)

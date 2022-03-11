@@ -19,6 +19,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E6%80%8E%E4%B9%88%E4%BC%9A%E4%B8%8D%E9%81%97%E6%86%BE%E5%91%A2%23&Refer=top",
     "hot": 1520402
   },
+  "吉林市市长被免职": {
+    "url": "https://s.weibo.com/weibo?q=%E5%90%89%E6%9E%97%E5%B8%82%E5%B8%82%E9%95%BF%E8%A2%AB%E5%85%8D%E8%81%8C&Refer=top",
+    "hot": 1321272
+  },
   "周深唱的克卜勒仿佛穿越星际": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E5%94%B1%E7%9A%84%E5%85%8B%E5%8D%9C%E5%8B%92%E4%BB%BF%E4%BD%9B%E7%A9%BF%E8%B6%8A%E6%98%9F%E9%99%85%23&Refer=top",
     "hot": 1185448
@@ -38,10 +42,6 @@
   "黄子韬断网十年了吧": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E6%96%AD%E7%BD%91%E5%8D%81%E5%B9%B4%E4%BA%86%E5%90%A7%23&Refer=top",
     "hot": 1059570
-  },
-  "吉林市市长被免职": {
-    "url": "https://s.weibo.com/weibo?q=%E5%90%89%E6%9E%97%E5%B8%82%E5%B8%82%E9%95%BF%E8%A2%AB%E5%85%8D%E8%81%8C&Refer=top",
-    "hot": 1036814
   },
   "Ning": {
     "url": "https://s.weibo.com/weibo?q=Ning&Refer=top",
@@ -222,5 +222,9 @@
   "原来你们就是气氛终结者": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E4%BD%A0%E4%BB%AC%E5%B0%B1%E6%98%AF%E6%B0%94%E6%B0%9B%E7%BB%88%E7%BB%93%E8%80%85%23&Refer=top",
     "hot": 91219
+  },
+  "当你说出一句95加满": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BD%A0%E8%AF%B4%E5%87%BA%E4%B8%80%E5%8F%A595%E5%8A%A0%E6%BB%A1%23&Refer=top",
+    "hot": 59809
   }
 }
