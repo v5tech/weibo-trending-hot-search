@@ -111,6 +111,10 @@
     "url": "https://s.weibo.com/weibo?q=%2310%E5%B2%81%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%89%93%E8%B4%A5%E6%B8%85%E5%8C%97%E5%93%88%E4%BD%9B%E5%AD%A6%E9%9C%B8%23&Refer=top",
     "hot": 425138
   },
+  "张若昀大学学的是医学吧": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%8B%A5%E6%98%80%E5%A4%A7%E5%AD%A6%E5%AD%A6%E7%9A%84%E6%98%AF%E5%8C%BB%E5%AD%A6%E5%90%A7%23&Refer=top",
+    "hot": 418327
+  },
   "杨丞琳为李荣浩脱胎换骨MV打call": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E4%B8%9E%E7%90%B3%E4%B8%BA%E6%9D%8E%E8%8D%A3%E6%B5%A9%E8%84%B1%E8%83%8E%E6%8D%A2%E9%AA%A8MV%E6%89%93call%23&Refer=top",
     "hot": 398875
@@ -150,6 +154,10 @@
   "春天花会开": {
     "url": "https://s.weibo.com/weibo?q=%E6%98%A5%E5%A4%A9%E8%8A%B1%E4%BC%9A%E5%BC%80&Refer=top",
     "hot": 294784
+  },
+  "韩国21小时内新增新冠确诊超34万": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD21%E5%B0%8F%E6%97%B6%E5%86%85%E6%96%B0%E5%A2%9E%E6%96%B0%E5%86%A0%E7%A1%AE%E8%AF%8A%E8%B6%8534%E4%B8%87%23&Refer=top",
+    "hot": 280438
   },
   "一个人走上坡路的10个习惯": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E4%BA%BA%E8%B5%B0%E4%B8%8A%E5%9D%A1%E8%B7%AF%E7%9A%8410%E4%B8%AA%E4%B9%A0%E6%83%AF%23&Refer=top",
@@ -203,8 +211,12 @@
     "url": "https://s.weibo.com/weibo?q=%E5%B9%BF%E4%B8%9C%E4%BA%BA%E7%9A%84%E6%94%80%E6%AF%94%E9%80%BB%E8%BE%91&Refer=top",
     "hot": 178230
   },
-  "张若昀大学学的是医学吧": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%8B%A5%E6%98%80%E5%A4%A7%E5%AD%A6%E5%AD%A6%E7%9A%84%E6%98%AF%E5%8C%BB%E5%AD%A6%E5%90%A7%23&Refer=top",
-    "hot": 177837
+  "原来你们就是气氛终结者": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E4%BD%A0%E4%BB%AC%E5%B0%B1%E6%98%AF%E6%B0%94%E6%B0%9B%E7%BB%88%E7%BB%93%E8%80%85%23&Refer=top",
+    "hot": 91219
+  },
+  "T1十五连胜刷新纪录": {
+    "url": "https://s.weibo.com/weibo?q=%23T1%E5%8D%81%E4%BA%94%E8%BF%9E%E8%83%9C%E5%88%B7%E6%96%B0%E7%BA%AA%E5%BD%95%23&Refer=top",
+    "hot": 90763
   }
 }
