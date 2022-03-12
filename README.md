@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-03-13 01:48:51.673366 
+最后更新时间 2022-03-13 02:13:11.574444 
 1. [多名TikTok百万粉丝大V为俄发声](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%90%8DTikTok%E7%99%BE%E4%B8%87%E7%B2%89%E4%B8%9D%E5%A4%A7V%E4%B8%BA%E4%BF%84%E5%8F%91%E5%A3%B0%23&Refer=top) 1785135
 1. [上海市民非必要不离沪](https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E5%B8%82%E6%B0%91%E9%9D%9E%E5%BF%85%E8%A6%81%E4%B8%8D%E7%A6%BB%E6%B2%AA&Refer=top) 1707391
 1. [原来智齿是这样拔出来的](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%99%BA%E9%BD%BF%E6%98%AF%E8%BF%99%E6%A0%B7%E6%8B%94%E5%87%BA%E6%9D%A5%E7%9A%84%23&Refer=top) 1608671
@@ -40,6 +40,7 @@
 1. [潍坊疫情](https://s.weibo.com/weibo?q=%23%E6%BD%8D%E5%9D%8A%E7%96%AB%E6%83%85%23&Refer=top) 323727
 1. [刘宇宁直播](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E7%9B%B4%E6%92%AD%23&Refer=top) 321811
 1. [考完教资后有多绝望](https://s.weibo.com/weibo?q=%23%E8%80%83%E5%AE%8C%E6%95%99%E8%B5%84%E5%90%8E%E6%9C%89%E5%A4%9A%E7%BB%9D%E6%9C%9B%23&Refer=top) 319488
+1. [南方气温破30℃东北还在下雪](https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%96%B9%E6%B0%94%E6%B8%A9%E7%A0%B430%E2%84%83%E4%B8%9C%E5%8C%97%E8%BF%98%E5%9C%A8%E4%B8%8B%E9%9B%AA%23&Refer=top) 281395
 1. [被深圳外卖小哥的留言整破防了](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%B7%B1%E5%9C%B3%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E7%9A%84%E7%95%99%E8%A8%80%E6%95%B4%E7%A0%B4%E9%98%B2%E4%BA%86%23&Refer=top) 268666
 1. [美国女星提议把俄罗斯踢出北约](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A5%B3%E6%98%9F%E6%8F%90%E8%AE%AE%E6%8A%8A%E4%BF%84%E7%BD%97%E6%96%AF%E8%B8%A2%E5%87%BA%E5%8C%97%E7%BA%A6%23&Refer=top) 268598
 1. [肖战吃梨变装视频登上CCTV6](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%90%83%E6%A2%A8%E5%8F%98%E8%A3%85%E8%A7%86%E9%A2%91%E7%99%BB%E4%B8%8ACCTV6%23&Refer=top) 268515
@@ -49,7 +50,6 @@
 1. [有女朋友后越来越胖的原因](https://s.weibo.com/weibo?q=%23%E6%9C%89%E5%A5%B3%E6%9C%8B%E5%8F%8B%E5%90%8E%E8%B6%8A%E6%9D%A5%E8%B6%8A%E8%83%96%E7%9A%84%E5%8E%9F%E5%9B%A0%23&Refer=top) 232020
 1. [女生表白男生被拒绝要怎么办](https://s.weibo.com/weibo?q=%E5%A5%B3%E7%94%9F%E8%A1%A8%E7%99%BD%E7%94%B7%E7%94%9F%E8%A2%AB%E6%8B%92%E7%BB%9D%E8%A6%81%E6%80%8E%E4%B9%88%E5%8A%9E&Refer=top) 219337
 1. [罗永浩教大家取消手机视频彩铃](https://s.weibo.com/weibo?q=%23%E7%BD%97%E6%B0%B8%E6%B5%A9%E6%95%99%E5%A4%A7%E5%AE%B6%E5%8F%96%E6%B6%88%E6%89%8B%E6%9C%BA%E8%A7%86%E9%A2%91%E5%BD%A9%E9%93%83%23&Refer=top) 212015
-1. [南方气温破30℃东北还在下雪](https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%96%B9%E6%B0%94%E6%B8%A9%E7%A0%B430%E2%84%83%E4%B8%9C%E5%8C%97%E8%BF%98%E5%9C%A8%E4%B8%8B%E9%9B%AA%23&Refer=top) 211823
 1. [青春变形记](https://s.weibo.com/weibo?q=%E9%9D%92%E6%98%A5%E5%8F%98%E5%BD%A2%E8%AE%B0&Refer=top) 205049
 1. [故宫的玉兰花开了](https://s.weibo.com/weibo?q=%23%E6%95%85%E5%AE%AB%E7%9A%84%E7%8E%89%E5%85%B0%E8%8A%B1%E5%BC%80%E4%BA%86%23&Refer=top) 186054
 1. [被新疆雪景给美哭](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%96%B0%E7%96%86%E9%9B%AA%E6%99%AF%E7%BB%99%E7%BE%8E%E5%93%AD%23&Refer=top) 183166
@@ -66,7 +66,9 @@
 1. [林高远0比3林钟勋](https://s.weibo.com/weibo?q=%23%E6%9E%97%E9%AB%98%E8%BF%9C0%E6%AF%943%E6%9E%97%E9%92%9F%E5%8B%8B%23&Refer=top) 121611
 1. [FoFo 狐狸](https://s.weibo.com/weibo?q=FoFo%20%E7%8B%90%E7%8B%B8&Refer=top) 118748
 1. [快速出门全套造型分享](https://s.weibo.com/weibo?q=%E5%BF%AB%E9%80%9F%E5%87%BA%E9%97%A8%E5%85%A8%E5%A5%97%E9%80%A0%E5%9E%8B%E5%88%86%E4%BA%AB&Refer=top) 115617
+1. [魏大勋半夜起来给秦霄贤盖被子](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E5%8D%8A%E5%A4%9C%E8%B5%B7%E6%9D%A5%E7%BB%99%E7%A7%A6%E9%9C%84%E8%B4%A4%E7%9B%96%E8%A2%AB%E5%AD%90%23&Refer=top) 103792
 1. [安凯直播](https://s.weibo.com/weibo?q=%E5%AE%89%E5%87%AF%E7%9B%B4%E6%92%AD&Refer=top) 97058
+1. [美国家庭加油每月多花1750元](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%AE%B6%E5%BA%AD%E5%8A%A0%E6%B2%B9%E6%AF%8F%E6%9C%88%E5%A4%9A%E8%8A%B11750%E5%85%83%23&Refer=top) 74304
 <!-- END -->
 
 历史归档 [./archives](./archives)
