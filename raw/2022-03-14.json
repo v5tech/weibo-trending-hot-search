@@ -147,6 +147,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%86%B0%E5%A2%A9%E5%A2%A9%E6%9C%89%E5%B0%8F%E5%90%8D%E5%95%A6%23&Refer=top",
     "hot": 300548
   },
+  "四川气温破纪录了": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E6%B0%94%E6%B8%A9%E7%A0%B4%E7%BA%AA%E5%BD%95%E4%BA%86%23&Refer=top",
+    "hot": 294262
+  },
   "乌克兰军事训练场遭空袭造成严重伤亡": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%85%8B%E5%85%B0%E5%86%9B%E4%BA%8B%E8%AE%AD%E7%BB%83%E5%9C%BA%E9%81%AD%E7%A9%BA%E8%A2%AD%E9%80%A0%E6%88%90%E4%B8%A5%E9%87%8D%E4%BC%A4%E4%BA%A1%23&Refer=top",
     "hot": 287745
@@ -202,9 +206,5 @@
   "PEL赛场放了华晨宇新歌": {
     "url": "https://s.weibo.com/weibo?q=%23PEL%E8%B5%9B%E5%9C%BA%E6%94%BE%E4%BA%86%E5%8D%8E%E6%99%A8%E5%AE%87%E6%96%B0%E6%AD%8C%23&Refer=top",
     "hot": 189438
-  },
-  "四川气温破纪录了": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E6%B0%94%E6%B8%A9%E7%A0%B4%E7%BA%AA%E5%BD%95%E4%BA%86%23&Refer=top",
-    "hot": 125408
   }
 }
