@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-03-14 01:11:52.049728 
+最后更新时间 2022-03-14 01:28:37.128422 
 1. [上海交大疫情](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%BA%A4%E5%A4%A7%E7%96%AB%E6%83%85%23&Refer=top) 2687147
 1. [冯潇霆巩汉林](https://s.weibo.com/weibo?q=%E5%86%AF%E6%BD%87%E9%9C%86%E5%B7%A9%E6%B1%89%E6%9E%97&Refer=top) 1854202
 1. [每天读书半小时寿命延长2年](https://s.weibo.com/weibo?q=%23%E6%AF%8F%E5%A4%A9%E8%AF%BB%E4%B9%A6%E5%8D%8A%E5%B0%8F%E6%97%B6%E5%AF%BF%E5%91%BD%E5%BB%B6%E9%95%BF2%E5%B9%B4%23&Refer=top) 1598491
@@ -37,6 +37,7 @@
 1. [当代女性的爱情观有多清醒](https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BB%A3%E5%A5%B3%E6%80%A7%E7%9A%84%E7%88%B1%E6%83%85%E8%A7%82%E6%9C%89%E5%A4%9A%E6%B8%85%E9%86%92%23&Refer=top) 386822
 1. [原来番茄鸡蛋还能这样做](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E7%95%AA%E8%8C%84%E9%B8%A1%E8%9B%8B%E8%BF%98%E8%83%BD%E8%BF%99%E6%A0%B7%E5%81%9A%23&Refer=top) 372152
 1. [8岁小朋友以一敌百挑战飞花令](https://s.weibo.com/weibo?q=%238%E5%B2%81%E5%B0%8F%E6%9C%8B%E5%8F%8B%E4%BB%A5%E4%B8%80%E6%95%8C%E7%99%BE%E6%8C%91%E6%88%98%E9%A3%9E%E8%8A%B1%E4%BB%A4%23&Refer=top) 361070
+1. [四川气温破纪录了](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E6%B0%94%E6%B8%A9%E7%A0%B4%E7%BA%AA%E5%BD%95%E4%BA%86%23&Refer=top) 354944
 1. [美国否认在乌生物实验室遭群嘲](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%90%A6%E8%AE%A4%E5%9C%A8%E4%B9%8C%E7%94%9F%E7%89%A9%E5%AE%9E%E9%AA%8C%E5%AE%A4%E9%81%AD%E7%BE%A4%E5%98%B2%23&Refer=top) 345017
 1. [TFBOYS魔法城堡发布八周年](https://s.weibo.com/weibo?q=%23TFBOYS%E9%AD%94%E6%B3%95%E5%9F%8E%E5%A0%A1%E5%8F%91%E5%B8%83%E5%85%AB%E5%91%A8%E5%B9%B4%23&Refer=top) 333889
 1. [王雨城晒和王能能罗拉周锦舜周楠团建视频](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%9B%A8%E5%9F%8E%E6%99%92%E5%92%8C%E7%8E%8B%E8%83%BD%E8%83%BD%E7%BD%97%E6%8B%89%E5%91%A8%E9%94%A6%E8%88%9C%E5%91%A8%E6%A5%A0%E5%9B%A2%E5%BB%BA%E8%A7%86%E9%A2%91%23&Refer=top) 333526
@@ -45,7 +46,6 @@
 1. [新疆美食人间值得](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E7%BE%8E%E9%A3%9F%E4%BA%BA%E9%97%B4%E5%80%BC%E5%BE%97%23&Refer=top) 327612
 1. [二十五二十一](https://s.weibo.com/weibo?q=%E4%BA%8C%E5%8D%81%E4%BA%94%E4%BA%8C%E5%8D%81%E4%B8%80&Refer=top) 306398
 1. [冰墩墩有小名啦](https://s.weibo.com/weibo?q=%23%E5%86%B0%E5%A2%A9%E5%A2%A9%E6%9C%89%E5%B0%8F%E5%90%8D%E5%95%A6%23&Refer=top) 300548
-1. [四川气温破纪录了](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E6%B0%94%E6%B8%A9%E7%A0%B4%E7%BA%AA%E5%BD%95%E4%BA%86%23&Refer=top) 294262
 1. [乌克兰军事训练场遭空袭造成严重伤亡](https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%85%8B%E5%85%B0%E5%86%9B%E4%BA%8B%E8%AE%AD%E7%BB%83%E5%9C%BA%E9%81%AD%E7%A9%BA%E8%A2%AD%E9%80%A0%E6%88%90%E4%B8%A5%E9%87%8D%E4%BC%A4%E4%BA%A1%23&Refer=top) 287745
 1. [再见了北京冬残奥会](https://s.weibo.com/weibo?q=%23%E5%86%8D%E8%A7%81%E4%BA%86%E5%8C%97%E4%BA%AC%E5%86%AC%E6%AE%8B%E5%A5%A5%E4%BC%9A%23&Refer=top) 274113
 1. [柳鑫宇晒和羽生结弦托举照](https://s.weibo.com/weibo?q=%23%E6%9F%B3%E9%91%AB%E5%AE%87%E6%99%92%E5%92%8C%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E6%89%98%E4%B8%BE%E7%85%A7%23&Refer=top) 262418
