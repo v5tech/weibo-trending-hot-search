@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-03-14 02:49:42.974848 
+最后更新时间 2022-03-14 03:09:03.612564 
 1. [上海交大疫情](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%BA%A4%E5%A4%A7%E7%96%AB%E6%83%85%23&Refer=top) 2687147
 1. [冯潇霆巩汉林](https://s.weibo.com/weibo?q=%E5%86%AF%E6%BD%87%E9%9C%86%E5%B7%A9%E6%B1%89%E6%9E%97&Refer=top) 1854202
 1. [每天读书半小时寿命延长2年](https://s.weibo.com/weibo?q=%23%E6%AF%8F%E5%A4%A9%E8%AF%BB%E4%B9%A6%E5%8D%8A%E5%B0%8F%E6%97%B6%E5%AF%BF%E5%91%BD%E5%BB%B6%E9%95%BF2%E5%B9%B4%23&Refer=top) 1598491
@@ -60,7 +60,7 @@
 1. [尚食许凯从皇太孙演到皇上](https://s.weibo.com/weibo?q=%23%E5%B0%9A%E9%A3%9F%E8%AE%B8%E5%87%AF%E4%BB%8E%E7%9A%87%E5%A4%AA%E5%AD%99%E6%BC%94%E5%88%B0%E7%9A%87%E4%B8%8A%23&Refer=top) 213208
 1. [北京冬残奥会闭幕式现场图](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%86%AC%E6%AE%8B%E5%A5%A5%E4%BC%9A%E9%97%AD%E5%B9%95%E5%BC%8F%E7%8E%B0%E5%9C%BA%E5%9B%BE%23&Refer=top) 197925
 1. [PEL赛场放了华晨宇新歌](https://s.weibo.com/weibo?q=%23PEL%E8%B5%9B%E5%9C%BA%E6%94%BE%E4%BA%86%E5%8D%8E%E6%99%A8%E5%AE%87%E6%96%B0%E6%AD%8C%23&Refer=top) 189438
-1. [外媒称美国记者在基辅郊区被杀](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%AA%92%E7%A7%B0%E7%BE%8E%E5%9B%BD%E8%AE%B0%E8%80%85%E5%9C%A8%E5%9F%BA%E8%BE%85%E9%83%8A%E5%8C%BA%E8%A2%AB%E6%9D%80%23&Refer=top) 35745
+1. [外媒称美国记者在基辅郊区被杀](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%AA%92%E7%A7%B0%E7%BE%8E%E5%9B%BD%E8%AE%B0%E8%80%85%E5%9C%A8%E5%9F%BA%E8%BE%85%E9%83%8A%E5%8C%BA%E8%A2%AB%E6%9D%80%23&Refer=top) 81383
 <!-- END -->
 
 历史归档 [./archives](./archives)
