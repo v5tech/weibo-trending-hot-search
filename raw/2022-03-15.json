@@ -217,6 +217,10 @@
   },
   "美股 港股": {
     "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1%20%E6%B8%AF%E8%82%A1&Refer=top",
-    "hot": 28601
+    "hot": 55534
+  },
+  "中方车队抵达中美会晤地点视频": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E8%BD%A6%E9%98%9F%E6%8A%B5%E8%BE%BE%E4%B8%AD%E7%BE%8E%E4%BC%9A%E6%99%A4%E5%9C%B0%E7%82%B9%E8%A7%86%E9%A2%91%23&Refer=top",
+    "hot": 14590
   }
 }
