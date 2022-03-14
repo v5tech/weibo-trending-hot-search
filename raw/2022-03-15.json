@@ -35,6 +35,10 @@
     "url": "https://s.weibo.com/weibo?q=weiwei&Refer=top",
     "hot": 928523
   },
+  "悦诗风吟最高涨价36%": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%82%A6%E8%AF%97%E9%A3%8E%E5%90%9F%E6%9C%80%E9%AB%98%E6%B6%A8%E4%BB%B736%25%23&Refer=top",
+    "hot": 895614
+  },
   "福建泉州新增22例确诊28例无症状": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E6%B3%89%E5%B7%9E%E6%96%B0%E5%A2%9E22%E4%BE%8B%E7%A1%AE%E8%AF%8A28%E4%BE%8B%E6%97%A0%E7%97%87%E7%8A%B6%23&Refer=top",
     "hot": 857262
@@ -42,10 +46,6 @@
   "王俊凯一生要强的嘴": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E4%B8%80%E7%94%9F%E8%A6%81%E5%BC%BA%E7%9A%84%E5%98%B4%23&Refer=top",
     "hot": 823418
-  },
-  "悦诗风吟最高涨价36%": {
-    "url": "https://s.weibo.com/weibo?q=%23%E6%82%A6%E8%AF%97%E9%A3%8E%E5%90%9F%E6%9C%80%E9%AB%98%E6%B6%A8%E4%BB%B736%25%23&Refer=top",
-    "hot": 800259
   },
   "上海交大上千老师开私家车为学生送饭": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%BA%A4%E5%A4%A7%E4%B8%8A%E5%8D%83%E8%80%81%E5%B8%88%E5%BC%80%E7%A7%81%E5%AE%B6%E8%BD%A6%E4%B8%BA%E5%AD%A6%E7%94%9F%E9%80%81%E9%A5%AD%23&Refer=top",
@@ -206,5 +206,9 @@
   "BLG战胜UP": {
     "url": "https://s.weibo.com/weibo?q=%23BLG%E6%88%98%E8%83%9CUP%23&Refer=top",
     "hot": 131748
+  },
+  "咸梅促肉": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%92%B8%E6%A2%85%E4%BF%83%E8%82%89%23&Refer=top",
+    "hot": 46673
   }
 }
