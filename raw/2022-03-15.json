@@ -214,5 +214,9 @@
   "咸梅促肉": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%92%B8%E6%A2%85%E4%BF%83%E8%82%89%23&Refer=top",
     "hot": 70163
+  },
+  "美股 港股": {
+    "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1%20%E6%B8%AF%E8%82%A1&Refer=top",
+    "hot": 28601
   }
 }
