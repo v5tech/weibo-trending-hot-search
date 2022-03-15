@@ -225,10 +225,18 @@
   },
   "美股上涨": {
     "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1%E4%B8%8A%E6%B6%A8&Refer=top",
-    "hot": 53644
+    "hot": 55594
   },
   "戚风蛋糕能有多富贵": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%88%9A%E9%A3%8E%E8%9B%8B%E7%B3%95%E8%83%BD%E6%9C%89%E5%A4%9A%E5%AF%8C%E8%B4%B5%23&Refer=top",
     "hot": 43197
+  },
+  "315看1818": {
+    "url": "https://s.weibo.com/weibo?q=%23315%E7%9C%8B1818%23&Refer=top",
+    "hot": 23801
+  },
+  "韩国网红欲从乌克兰入境波兰被拒": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%BD%91%E7%BA%A2%E6%AC%B2%E4%BB%8E%E4%B9%8C%E5%85%8B%E5%85%B0%E5%85%A5%E5%A2%83%E6%B3%A2%E5%85%B0%E8%A2%AB%E6%8B%92%23&Refer=top",
+    "hot": 19861
   }
 }
