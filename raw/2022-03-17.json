@@ -143,6 +143,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E9%A6%96%E6%AC%BE%E9%B8%BF%E8%92%99%E6%99%BA%E8%83%BD%E9%97%A8%E9%94%81%23&Refer=top",
     "hot": 392017
   },
+  "上沙疫情": {
+    "url": "https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B2%99%E7%96%AB%E6%83%85&Refer=top",
+    "hot": 388301
+  },
   "日本富士山": {
     "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%AF%8C%E5%A3%AB%E5%B1%B1&Refer=top",
     "hot": 377277
@@ -154,10 +158,6 @@
   "日本福岛县发生7.3级地震": {
     "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E7%A6%8F%E5%B2%9B%E5%8E%BF%E5%8F%91%E7%94%9F7.3%E7%BA%A7%E5%9C%B0%E9%9C%87&Refer=top",
     "hot": 362685
-  },
-  "上沙疫情": {
-    "url": "https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B2%99%E7%96%AB%E6%83%85&Refer=top",
-    "hot": 360746
   },
   "檀健次不愧是初代男团": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E4%B8%8D%E6%84%A7%E6%98%AF%E5%88%9D%E4%BB%A3%E7%94%B7%E5%9B%A2%23&Refer=top",
