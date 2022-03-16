@@ -143,6 +143,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E9%A6%96%E6%AC%BE%E9%B8%BF%E8%92%99%E6%99%BA%E8%83%BD%E9%97%A8%E9%94%81%23&Refer=top",
     "hot": 392017
   },
+  "北大教授劝年轻人别太早买房": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88%E5%8A%9D%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%88%AB%E5%A4%AA%E6%97%A9%E4%B9%B0%E6%88%BF%23&Refer=top",
+    "hot": 389493
+  },
   "上沙疫情": {
     "url": "https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B2%99%E7%96%AB%E6%83%85&Refer=top",
     "hot": 388301
@@ -178,10 +182,6 @@
   "华为P50有九种颜色": {
     "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BAP50%E6%9C%89%E4%B9%9D%E7%A7%8D%E9%A2%9C%E8%89%B2&Refer=top",
     "hot": 317082
-  },
-  "北大教授劝年轻人别太早买房": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88%E5%8A%9D%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%88%AB%E5%A4%AA%E6%97%A9%E4%B9%B0%E6%88%BF%23&Refer=top",
-    "hot": 313755
   },
   "Ming的嬴政": {
     "url": "https://s.weibo.com/weibo?q=%23Ming%E7%9A%84%E5%AC%B4%E6%94%BF%23&Refer=top",
@@ -237,11 +237,11 @@
   },
   "千万人数收听的00后歌手": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E4%BA%BA%E6%95%B0%E6%94%B6%E5%90%AC%E7%9A%8400%E5%90%8E%E6%AD%8C%E6%89%8B%23&Refer=top",
-    "hot": 139187
+    "hot": 171219
   },
   "房产税": {
     "url": "https://s.weibo.com/weibo?q=%E6%88%BF%E4%BA%A7%E7%A8%8E&Refer=top",
-    "hot": 136831
+    "hot": 147120
   },
   "想不起来这是什么歌了": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%83%B3%E4%B8%8D%E8%B5%B7%E6%9D%A5%E8%BF%99%E6%98%AF%E4%BB%80%E4%B9%88%E6%AD%8C%E4%BA%86%23&Refer=top",
@@ -249,6 +249,10 @@
   },
   "这屁屁被打得太冤枉了": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B1%81%E5%B1%81%E8%A2%AB%E6%89%93%E5%BE%97%E5%A4%AA%E5%86%A4%E6%9E%89%E4%BA%86%23&Refer=top",
-    "hot": 49325
+    "hot": 74699
+  },
+  "中国智能手机在俄销量大涨": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E5%9C%A8%E4%BF%84%E9%94%80%E9%87%8F%E5%A4%A7%E6%B6%A8%23&Refer=top",
+    "hot": 53015
   }
 }
