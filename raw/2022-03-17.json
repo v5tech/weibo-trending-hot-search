@@ -195,9 +195,17 @@
     "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%AF%8C%E5%A3%AB%E5%B1%B1&Refer=top",
     "hot": 782480
   },
+  "大侦探": {
+    "url": "https://s.weibo.com/weibo?q=%E5%A4%A7%E4%BE%A6%E6%8E%A2&Refer=top",
+    "hot": 764659
+  },
   "如何看待成功女性被要求降低择偶标准": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E6%88%90%E5%8A%9F%E5%A5%B3%E6%80%A7%E8%A2%AB%E8%A6%81%E6%B1%82%E9%99%8D%E4%BD%8E%E6%8B%A9%E5%81%B6%E6%A0%87%E5%87%86%23&Refer=top",
     "hot": 757292
+  },
+  "4名女孩轮流扇一女孩耳光": {
+    "url": "https://s.weibo.com/weibo?q=%234%E5%90%8D%E5%A5%B3%E5%AD%A9%E8%BD%AE%E6%B5%81%E6%89%87%E4%B8%80%E5%A5%B3%E5%AD%A9%E8%80%B3%E5%85%89%23&Refer=top",
+    "hot": 752980
   },
   "上沙疫情": {
     "url": "https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B2%99%E7%96%AB%E6%83%85&Refer=top",
@@ -214,10 +222,6 @@
   "北京下雪": {
     "url": "https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E4%B8%8B%E9%9B%AA&Refer=top",
     "hot": 704105
-  },
-  "大侦探": {
-    "url": "https://s.weibo.com/weibo?q=%E5%A4%A7%E4%BE%A6%E6%8E%A2&Refer=top",
-    "hot": 703973
   },
   "拜登又口误称第一夫人的丈夫感染新冠": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E5%8F%88%E5%8F%A3%E8%AF%AF%E7%A7%B0%E7%AC%AC%E4%B8%80%E5%A4%AB%E4%BA%BA%E7%9A%84%E4%B8%88%E5%A4%AB%E6%84%9F%E6%9F%93%E6%96%B0%E5%86%A0%23&Refer=top",
@@ -355,6 +359,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B1%81%E5%B1%81%E8%A2%AB%E6%89%93%E5%BE%97%E5%A4%AA%E5%86%A4%E6%9E%89%E4%BA%86%23&Refer=top",
     "hot": 471749
   },
+  "六成中小学生睡眠时长增加": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%85%AD%E6%88%90%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%94%9F%E7%9D%A1%E7%9C%A0%E6%97%B6%E9%95%BF%E5%A2%9E%E5%8A%A0%23&Refer=top",
+    "hot": 464316
+  },
   "正宗北京卤煮原来是这样": {
     "url": "https://s.weibo.com/weibo?q=%E6%AD%A3%E5%AE%97%E5%8C%97%E4%BA%AC%E5%8D%A4%E7%85%AE%E5%8E%9F%E6%9D%A5%E6%98%AF%E8%BF%99%E6%A0%B7&Refer=top",
     "hot": 456244
@@ -419,6 +427,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E9%A6%96%E6%AC%BE%E9%B8%BF%E8%92%99%E6%99%BA%E8%83%BD%E9%97%A8%E9%94%81%23&Refer=top",
     "hot": 392017
   },
+  "2022胡润全球富豪榜": {
+    "url": "https://s.weibo.com/weibo?q=%232022%E8%83%A1%E6%B6%A6%E5%85%A8%E7%90%83%E5%AF%8C%E8%B1%AA%E6%A6%9C%23&Refer=top",
+    "hot": 385393
+  },
   "暂未收到在日华人伤亡报告": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%9A%82%E6%9C%AA%E6%94%B6%E5%88%B0%E5%9C%A8%E6%97%A5%E5%8D%8E%E4%BA%BA%E4%BC%A4%E4%BA%A1%E6%8A%A5%E5%91%8A%23&Refer=top",
     "hot": 384830
@@ -430,10 +442,6 @@
   "山东的倒春寒太猛了": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E7%9A%84%E5%80%92%E6%98%A5%E5%AF%92%E5%A4%AA%E7%8C%9B%E4%BA%86%23&Refer=top",
     "hot": 382402
-  },
-  "2022胡润全球富豪榜": {
-    "url": "https://s.weibo.com/weibo?q=%232022%E8%83%A1%E6%B6%A6%E5%85%A8%E7%90%83%E5%AF%8C%E8%B1%AA%E6%A6%9C%23&Refer=top",
-    "hot": 382150
   },
   "冰川时代原来已经20年了": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%86%B0%E5%B7%9D%E6%97%B6%E4%BB%A3%E5%8E%9F%E6%9D%A5%E5%B7%B2%E7%BB%8F20%E5%B9%B4%E4%BA%86%23&Refer=top",
@@ -486,10 +494,6 @@
   "电影维和防暴队想看数破18万": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E7%BB%B4%E5%92%8C%E9%98%B2%E6%9A%B4%E9%98%9F%E6%83%B3%E7%9C%8B%E6%95%B0%E7%A0%B418%E4%B8%87%23&Refer=top",
     "hot": 331898
-  },
-  "六成中小学生睡眠时长增加": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%85%AD%E6%88%90%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%94%9F%E7%9D%A1%E7%9C%A0%E6%97%B6%E9%95%BF%E5%A2%9E%E5%8A%A0%23&Refer=top",
-    "hot": 331349
   },
   "冯巩": {
     "url": "https://s.weibo.com/weibo?q=%E5%86%AF%E5%B7%A9&Refer=top",
@@ -551,13 +555,13 @@
     "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E7%8E%9B%E7%BA%B3%E6%96%AF%E8%93%9D%E6%B9%96%E7%BE%8E%E5%A6%82%E4%BB%99%E5%A2%83%23&Refer=top",
     "hot": 286118
   },
+  "大白躺雪地休息与雪融为一体": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%99%BD%E8%BA%BA%E9%9B%AA%E5%9C%B0%E4%BC%91%E6%81%AF%E4%B8%8E%E9%9B%AA%E8%9E%8D%E4%B8%BA%E4%B8%80%E4%BD%93%23&Refer=top",
+    "hot": 281108
+  },
   "河北现有本土确诊271例": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8C%97%E7%8E%B0%E6%9C%89%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A271%E4%BE%8B%23&Refer=top",
     "hot": 280354
-  },
-  "大白躺雪地休息与雪融为一体": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%99%BD%E8%BA%BA%E9%9B%AA%E5%9C%B0%E4%BC%91%E6%81%AF%E4%B8%8E%E9%9B%AA%E8%9E%8D%E4%B8%BA%E4%B8%80%E4%BD%93%23&Refer=top",
-    "hot": 280342
   },
   "插旗菜业董事长致歉": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%8F%92%E6%97%97%E8%8F%9C%E4%B8%9A%E8%91%A3%E4%BA%8B%E9%95%BF%E8%87%B4%E6%AD%89%23&Refer=top",
@@ -607,10 +611,6 @@
     "url": "https://s.weibo.com/weibo?q=%E5%A4%A7%E7%89%8C%E5%B0%8F%E4%BC%97%E9%A6%99%E5%88%86%E4%BA%AB&Refer=top",
     "hot": 247041
   },
-  "4名女孩轮流扇一女孩耳光": {
-    "url": "https://s.weibo.com/weibo?q=%234%E5%90%8D%E5%A5%B3%E5%AD%A9%E8%BD%AE%E6%B5%81%E6%89%87%E4%B8%80%E5%A5%B3%E5%AD%A9%E8%80%B3%E5%85%89%23&Refer=top",
-    "hot": 242446
-  },
   "南京新增28例阳性": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E6%96%B0%E5%A2%9E28%E4%BE%8B%E9%98%B3%E6%80%A7%23&Refer=top",
     "hot": 241300
@@ -630,6 +630,10 @@
   "吉林新增本土无症状415例": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%90%89%E6%9E%97%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E6%97%A0%E7%97%87%E7%8A%B6415%E4%BE%8B%23&Refer=top",
     "hot": 198392
+  },
+  "特斯拉ModelY涨价": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89ModelY%E6%B6%A8%E4%BB%B7%23&Refer=top",
+    "hot": 185931
   },
   "想不起来这是什么歌了": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%83%B3%E4%B8%8D%E8%B5%B7%E6%9D%A5%E8%BF%99%E6%98%AF%E4%BB%80%E4%B9%88%E6%AD%8C%E4%BA%86%23&Refer=top",
