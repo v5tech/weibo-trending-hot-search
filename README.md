@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-03-21 01:19:52.208664 
-1. [周冠宇F1首秀拿分](https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%86%A0%E5%AE%87F1%E9%A6%96%E7%A7%80%E6%8B%BF%E5%88%86%23&Refer=top) 1863279
+最后更新时间 2022-03-21 01:35:52.558434 
+1. [周冠宇F1首秀拿分](https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%86%A0%E5%AE%87F1%E9%A6%96%E7%A7%80%E6%8B%BF%E5%88%86%23&Refer=top) 2176509
 1. [00后情侣为拍草莓熊连追两条街](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E6%83%85%E4%BE%A3%E4%B8%BA%E6%8B%8D%E8%8D%89%E8%8E%93%E7%86%8A%E8%BF%9E%E8%BF%BD%E4%B8%A4%E6%9D%A1%E8%A1%97%23&Refer=top) 1725317
 1. [上海迪士尼度假区将暂时关闭](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%BA%A6%E5%81%87%E5%8C%BA%E5%B0%86%E6%9A%82%E6%97%B6%E5%85%B3%E9%97%AD%23&Refer=top) 1309630
 1. [广西通报夫妇生育15孩事件](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E9%80%9A%E6%8A%A5%E5%A4%AB%E5%A6%87%E7%94%9F%E8%82%B215%E5%AD%A9%E4%BA%8B%E4%BB%B6%23&Refer=top) 1221769
@@ -17,6 +17,7 @@
 1. [罗翔老师这段话说得太对了](https://s.weibo.com/weibo?q=%E7%BD%97%E7%BF%94%E8%80%81%E5%B8%88%E8%BF%99%E6%AE%B5%E8%AF%9D%E8%AF%B4%E5%BE%97%E5%A4%AA%E5%AF%B9%E4%BA%86&Refer=top) 1073785
 1. [樊振东WTT男单冠军](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9CWTT%E7%94%B7%E5%8D%95%E5%86%A0%E5%86%9B%23&Refer=top) 1013979
 1. [白桃cp终于亲了](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%A1%83cp%E7%BB%88%E4%BA%8E%E4%BA%B2%E4%BA%86%23&Refer=top) 924752
+1. [美国一警察违规跪压12岁女生](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%80%E8%AD%A6%E5%AF%9F%E8%BF%9D%E8%A7%84%E8%B7%AA%E5%8E%8B12%E5%B2%81%E5%A5%B3%E7%94%9F%23&Refer=top) 899963
 1. [上海北蔡疫情](https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E5%8C%97%E8%94%A1%E7%96%AB%E6%83%85&Refer=top) 890541
 1. [法国宣布冻结俄央行220亿欧元资产](https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E5%AE%A3%E5%B8%83%E5%86%BB%E7%BB%93%E4%BF%84%E5%A4%AE%E8%A1%8C220%E4%BA%BF%E6%AC%A7%E5%85%83%E8%B5%84%E4%BA%A7%23&Refer=top) 701851
 1. [他一生完成15000多例手术89岁仍出诊](https://s.weibo.com/weibo?q=%23%E4%BB%96%E4%B8%80%E7%94%9F%E5%AE%8C%E6%88%9015000%E5%A4%9A%E4%BE%8B%E6%89%8B%E6%9C%AF89%E5%B2%81%E4%BB%8D%E5%87%BA%E8%AF%8A%23&Refer=top) 592756
@@ -32,7 +33,6 @@
 1. [涉疫烤鸭店830人中477人未扫码登记](https://s.weibo.com/weibo?q=%23%E6%B6%89%E7%96%AB%E7%83%A4%E9%B8%AD%E5%BA%97830%E4%BA%BA%E4%B8%AD477%E4%BA%BA%E6%9C%AA%E6%89%AB%E7%A0%81%E7%99%BB%E8%AE%B0%23&Refer=top) 458255
 1. [邯郸肇事司机被当场控制](https://s.weibo.com/weibo?q=%23%E9%82%AF%E9%83%B8%E8%82%87%E4%BA%8B%E5%8F%B8%E6%9C%BA%E8%A2%AB%E5%BD%93%E5%9C%BA%E6%8E%A7%E5%88%B6%23&Refer=top) 453174
 1. [春分](https://s.weibo.com/weibo?q=%23%E6%98%A5%E5%88%86%23&Refer=top) 428691
-1. [美国一警察违规跪压12岁女生](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%80%E8%AD%A6%E5%AF%9F%E8%BF%9D%E8%A7%84%E8%B7%AA%E5%8E%8B12%E5%B2%81%E5%A5%B3%E7%94%9F%23&Refer=top) 406850
 1. [甄嬛的眼睛里有打光板](https://s.weibo.com/weibo?q=%23%E7%94%84%E5%AC%9B%E7%9A%84%E7%9C%BC%E7%9D%9B%E9%87%8C%E6%9C%89%E6%89%93%E5%85%89%E6%9D%BF%23&Refer=top) 401621
 1. [金泽李莎旻子双向暗恋](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%B3%BD%E6%9D%8E%E8%8E%8E%E6%97%BB%E5%AD%90%E5%8F%8C%E5%90%91%E6%9A%97%E6%81%8B%23&Refer=top) 385103
 1. [20名快递小哥翻4万件快递找救命药](https://s.weibo.com/weibo?q=%2320%E5%90%8D%E5%BF%AB%E9%80%92%E5%B0%8F%E5%93%A5%E7%BF%BB4%E4%B8%87%E4%BB%B6%E5%BF%AB%E9%80%92%E6%89%BE%E6%95%91%E5%91%BD%E8%8D%AF%23&Refer=top) 379922
