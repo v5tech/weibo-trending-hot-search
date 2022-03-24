@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-03-25 02:51:39.826203 
+最后更新时间 2022-03-25 03:09:43.529909 
 1. [MU5735家属带走一罐现场泥土](https://s.weibo.com/weibo?q=%23MU5735%E5%AE%B6%E5%B1%9E%E5%B8%A6%E8%B5%B0%E4%B8%80%E7%BD%90%E7%8E%B0%E5%9C%BA%E6%B3%A5%E5%9C%9F%23&Refer=top) 9195445
 1. [国足丢球](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3%E4%B8%A2%E7%90%83%23&Refer=top) 2792407
 1. [天宫课堂第二课](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E5%AE%AB%E8%AF%BE%E5%A0%82%E7%AC%AC%E4%BA%8C%E8%AF%BE%23&Refer=top) 2132991
@@ -69,11 +69,11 @@
 1. [易烊千玺体验角色有多极致](https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E4%BD%93%E9%AA%8C%E8%A7%92%E8%89%B2%E6%9C%89%E5%A4%9A%E6%9E%81%E8%87%B4%23&Refer=top) 163057
 1. [张琳芃三连铲](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%90%B3%E8%8A%83%E4%B8%89%E8%BF%9E%E9%93%B2%23&Refer=top) 130555
 1. [国足的拼劲](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3%E7%9A%84%E6%8B%BC%E5%8A%B2%23&Refer=top) 126427
+1. [男子长期戴耳机睡觉左耳听觉丧失](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%95%BF%E6%9C%9F%E6%88%B4%E8%80%B3%E6%9C%BA%E7%9D%A1%E8%A7%89%E5%B7%A6%E8%80%B3%E5%90%AC%E8%A7%89%E4%B8%A7%E5%A4%B1%23&Refer=top) 118495
 1. [早春的爆棚购物欲](https://s.weibo.com/weibo?q=%23%E6%97%A9%E6%98%A5%E7%9A%84%E7%88%86%E6%A3%9A%E8%B4%AD%E7%89%A9%E6%AC%B2%23&Refer=top) 106000
 1. [朱辰杰点球破门](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E8%BE%B0%E6%9D%B0%E7%82%B9%E7%90%83%E7%A0%B4%E9%97%A8%23&Refer=top) 87084
 1. [颜骏凌神扑](https://s.weibo.com/weibo?q=%23%E9%A2%9C%E9%AA%8F%E5%87%8C%E7%A5%9E%E6%89%91%23&Refer=top) 52422
 1. [松垮小肚腩的逆袭训练](https://s.weibo.com/weibo?q=%23%E6%9D%BE%E5%9E%AE%E5%B0%8F%E8%82%9A%E8%85%A9%E7%9A%84%E9%80%86%E8%A2%AD%E8%AE%AD%E7%BB%83%23&Refer=top) 36573
-1. [男子长期戴耳机睡觉左耳听觉丧失](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%95%BF%E6%9C%9F%E6%88%B4%E8%80%B3%E6%9C%BA%E7%9D%A1%E8%A7%89%E5%B7%A6%E8%80%B3%E5%90%AC%E8%A7%89%E4%B8%A7%E5%A4%B1%23&Refer=top) 26621
 <!-- END -->
 
 历史归档 [./archives](./archives)
