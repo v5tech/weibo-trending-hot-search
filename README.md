@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-03-26 05:27:40.391921 
+最后更新时间 2022-03-26 05:38:58.026024 
 1. [卫龙辣条包装被指打低俗擦边球](https://s.weibo.com/weibo?q=%23%E5%8D%AB%E9%BE%99%E8%BE%A3%E6%9D%A1%E5%8C%85%E8%A3%85%E8%A2%AB%E6%8C%87%E6%89%93%E4%BD%8E%E4%BF%97%E6%93%A6%E8%BE%B9%E7%90%83%23&Refer=top) 3028576
 1. [今日发现的橙色碎片不是第二个黑匣子](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E6%97%A5%E5%8F%91%E7%8E%B0%E7%9A%84%E6%A9%99%E8%89%B2%E7%A2%8E%E7%89%87%E4%B8%8D%E6%98%AF%E7%AC%AC%E4%BA%8C%E4%B8%AA%E9%BB%91%E5%8C%A3%E5%AD%90%23&Refer=top) 1480512
 1. [4月1日起交通违法记分将调整](https://s.weibo.com/weibo?q=%234%E6%9C%881%E6%97%A5%E8%B5%B7%E4%BA%A4%E9%80%9A%E8%BF%9D%E6%B3%95%E8%AE%B0%E5%88%86%E5%B0%86%E8%B0%83%E6%95%B4%23&Refer=top) 1379158
@@ -61,11 +61,11 @@
 1. [机组人员没有挂出任何紧急代码](https://s.weibo.com/weibo?q=%23%E6%9C%BA%E7%BB%84%E4%BA%BA%E5%91%98%E6%B2%A1%E6%9C%89%E6%8C%82%E5%87%BA%E4%BB%BB%E4%BD%95%E7%B4%A7%E6%80%A5%E4%BB%A3%E7%A0%81%23&Refer=top) 92693
 1. [爱心企业向吉林高校捐赠果汁](https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%BF%83%E4%BC%81%E4%B8%9A%E5%90%91%E5%90%89%E6%9E%97%E9%AB%98%E6%A0%A1%E6%8D%90%E8%B5%A0%E6%9E%9C%E6%B1%81%23&Refer=top) 89323
 1. [雪润敦煌景如画](https://s.weibo.com/weibo?q=%23%E9%9B%AA%E6%B6%A6%E6%95%A6%E7%85%8C%E6%99%AF%E5%A6%82%E7%94%BB%23&Refer=top) 78729
-1. [顾客头发理一半着急回家理发师隔栅栏剪完](https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E5%A4%B4%E5%8F%91%E7%90%86%E4%B8%80%E5%8D%8A%E7%9D%80%E6%80%A5%E5%9B%9E%E5%AE%B6%E7%90%86%E5%8F%91%E5%B8%88%E9%9A%94%E6%A0%85%E6%A0%8F%E5%89%AA%E5%AE%8C%23&Refer=top) 61183
+1. [顾客头发理一半着急回家理发师隔栅栏剪完](https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E5%A4%B4%E5%8F%91%E7%90%86%E4%B8%80%E5%8D%8A%E7%9D%80%E6%80%A5%E5%9B%9E%E5%AE%B6%E7%90%86%E5%8F%91%E5%B8%88%E9%9A%94%E6%A0%85%E6%A0%8F%E5%89%AA%E5%AE%8C%23&Refer=top) 66469
 1. [手机拍出花墙氛围照攻略](https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E6%8B%8D%E5%87%BA%E8%8A%B1%E5%A2%99%E6%B0%9B%E5%9B%B4%E7%85%A7%E6%94%BB%E7%95%A5%23&Refer=top) 39554
 1. [泸州通报食物中毒致4死](https://s.weibo.com/weibo?q=%23%E6%B3%B8%E5%B7%9E%E9%80%9A%E6%8A%A5%E9%A3%9F%E7%89%A9%E4%B8%AD%E6%AF%92%E8%87%B44%E6%AD%BB%23&Refer=top) 36956
 1. [网红虾能有多膨胀](https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E8%99%BE%E8%83%BD%E6%9C%89%E5%A4%9A%E8%86%A8%E8%83%80%23&Refer=top) 30687
-1. [毛孝泉任徐州丰县代县长](https://s.weibo.com/weibo?q=%23%E6%AF%9B%E5%AD%9D%E6%B3%89%E4%BB%BB%E5%BE%90%E5%B7%9E%E4%B8%B0%E5%8E%BF%E4%BB%A3%E5%8E%BF%E9%95%BF%23&Refer=top) 21088
+1. [毛孝泉任徐州丰县代县长](https://s.weibo.com/weibo?q=%23%E6%AF%9B%E5%AD%9D%E6%B3%89%E4%BB%BB%E5%BE%90%E5%B7%9E%E4%B8%B0%E5%8E%BF%E4%BB%A3%E5%8E%BF%E9%95%BF%23&Refer=top) 25451
 <!-- END -->
 
 历史归档 [./archives](./archives)
