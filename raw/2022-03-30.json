@@ -79,6 +79,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E6%B1%82%E6%B1%82%E5%AE%89%E9%99%B5%E5%AE%B9%E5%88%AB%E5%94%B1%E4%BA%86%23&Refer=top",
     "hot": 517648
   },
+  "葡萄牙vs北马其顿": {
+    "url": "https://s.weibo.com/weibo?q=%23%E8%91%A1%E8%90%84%E7%89%99vs%E5%8C%97%E9%A9%AC%E5%85%B6%E9%A1%BF%23&Refer=top",
+    "hot": 515318
+  },
   "运城学院": {
     "url": "https://s.weibo.com/weibo?q=%E8%BF%90%E5%9F%8E%E5%AD%A6%E9%99%A2&Refer=top",
     "hot": 498314
@@ -146,10 +150,6 @@
   "没谈过恋爱的我暂停播出": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%B2%A1%E8%B0%88%E8%BF%87%E6%81%8B%E7%88%B1%E7%9A%84%E6%88%91%E6%9A%82%E5%81%9C%E6%92%AD%E5%87%BA%23&Refer=top",
     "hot": 294406
-  },
-  "葡萄牙vs北马其顿": {
-    "url": "https://s.weibo.com/weibo?q=%23%E8%91%A1%E8%90%84%E7%89%99vs%E5%8C%97%E9%A9%AC%E5%85%B6%E9%A1%BF%23&Refer=top",
-    "hot": 290685
   },
   "这些症状可能是抑郁的表现": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BA%9B%E7%97%87%E7%8A%B6%E5%8F%AF%E8%83%BD%E6%98%AF%E6%8A%91%E9%83%81%E7%9A%84%E8%A1%A8%E7%8E%B0%23&Refer=top",
@@ -273,7 +273,7 @@
   },
   "郑秀妍将在浪姐3演唱中文版隐形的翅膀": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%83%91%E7%A7%80%E5%A6%8D%E5%B0%86%E5%9C%A8%E6%B5%AA%E5%A7%903%E6%BC%94%E5%94%B1%E4%B8%AD%E6%96%87%E7%89%88%E9%9A%90%E5%BD%A2%E7%9A%84%E7%BF%85%E8%86%80%23&Refer=top",
-    "hot": 60449
+    "hot": 63401
   },
   "心疼有胡渣的顾魏": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%BF%83%E7%96%BC%E6%9C%89%E8%83%A1%E6%B8%A3%E7%9A%84%E9%A1%BE%E9%AD%8F%23&Refer=top",
@@ -286,5 +286,9 @@
   "这嘴快到脑子都跟不上了": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%98%B4%E5%BF%AB%E5%88%B0%E8%84%91%E5%AD%90%E9%83%BD%E8%B7%9F%E4%B8%8D%E4%B8%8A%E4%BA%86%23&Refer=top",
     "hot": 30604
+  },
+  "新冠治疗口服药到浙江了": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%86%A0%E6%B2%BB%E7%96%97%E5%8F%A3%E6%9C%8D%E8%8D%AF%E5%88%B0%E6%B5%99%E6%B1%9F%E4%BA%86%23&Refer=top",
+    "hot": 30010
   }
 }
