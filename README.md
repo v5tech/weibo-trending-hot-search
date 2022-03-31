@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-04-01 02:37:58.512311 
+最后更新时间 2022-04-01 02:52:39.720008 
 1. [新冠毒株XE](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%86%A0%E6%AF%92%E6%A0%AAXE%23&Refer=top) 5802347
 1. [愚人节](https://s.weibo.com/weibo?q=%E6%84%9A%E4%BA%BA%E8%8A%82&Refer=top) 5453243
 1. [20220331](https://s.weibo.com/weibo?q=20220331&Refer=top) 4305474
@@ -55,15 +55,16 @@
 1. [仓溢东苑 防疫](https://s.weibo.com/weibo?q=%E4%BB%93%E6%BA%A2%E4%B8%9C%E8%8B%91%20%E9%98%B2%E7%96%AB&Refer=top) 225909
 1. [四月文案](https://s.weibo.com/weibo?q=%E5%9B%9B%E6%9C%88%E6%96%87%E6%A1%88&Refer=top) 223288
 1. [仙侠剧造型请按这个标准](https://s.weibo.com/weibo?q=%23%E4%BB%99%E4%BE%A0%E5%89%A7%E9%80%A0%E5%9E%8B%E8%AF%B7%E6%8C%89%E8%BF%99%E4%B8%AA%E6%A0%87%E5%87%86%23&Refer=top) 217613
+1. [你为哪对cp捡过垃圾](https://s.weibo.com/weibo?q=%E4%BD%A0%E4%B8%BA%E5%93%AA%E5%AF%B9cp%E6%8D%A1%E8%BF%87%E5%9E%83%E5%9C%BE&Refer=top) 211565
 1. [狗子随主人被困高速泡面吃到怀疑狗生](https://s.weibo.com/weibo?q=%23%E7%8B%97%E5%AD%90%E9%9A%8F%E4%B8%BB%E4%BA%BA%E8%A2%AB%E5%9B%B0%E9%AB%98%E9%80%9F%E6%B3%A1%E9%9D%A2%E5%90%83%E5%88%B0%E6%80%80%E7%96%91%E7%8B%97%E7%94%9F%23&Refer=top) 203359
 1. [退役军人钻进着火汽车救司机](https://s.weibo.com/weibo?q=%23%E9%80%80%E5%BD%B9%E5%86%9B%E4%BA%BA%E9%92%BB%E8%BF%9B%E7%9D%80%E7%81%AB%E6%B1%BD%E8%BD%A6%E6%95%91%E5%8F%B8%E6%9C%BA%23&Refer=top) 200203
-1. [你为哪对cp捡过垃圾](https://s.weibo.com/weibo?q=%E4%BD%A0%E4%B8%BA%E5%93%AA%E5%AF%B9cp%E6%8D%A1%E8%BF%87%E5%9E%83%E5%9C%BE&Refer=top) 199463
 1. [王濛的歌手简介有多长](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BF%9B%E7%9A%84%E6%AD%8C%E6%89%8B%E7%AE%80%E4%BB%8B%E6%9C%89%E5%A4%9A%E9%95%BF%23&Refer=top) 184014
 1. [刘宇宁直播](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E7%9B%B4%E6%92%AD%23&Refer=top) 180251
 1. [光晞不行他不能捐](https://s.weibo.com/weibo?q=%23%E5%85%89%E6%99%9E%E4%B8%8D%E8%A1%8C%E4%BB%96%E4%B8%8D%E8%83%BD%E6%8D%90%23&Refer=top) 176494
 1. [女子做美容醒来发现被刷43.8万](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%81%9A%E7%BE%8E%E5%AE%B9%E9%86%92%E6%9D%A5%E5%8F%91%E7%8E%B0%E8%A2%AB%E5%88%B743.8%E4%B8%87%23&Refer=top) 173133
 1. [上海第二批封控区域内交通安排](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E7%AC%AC%E4%BA%8C%E6%89%B9%E5%B0%81%E6%8E%A7%E5%8C%BA%E5%9F%9F%E5%86%85%E4%BA%A4%E9%80%9A%E5%AE%89%E6%8E%92%23&Refer=top) 166987
 1. [张真源话剧铁流东进彩排视频](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%9C%9F%E6%BA%90%E8%AF%9D%E5%89%A7%E9%93%81%E6%B5%81%E4%B8%9C%E8%BF%9B%E5%BD%A9%E6%8E%92%E8%A7%86%E9%A2%91%23&Refer=top) 150719
+1. [唐九洲说王一博穿着蜘蛛侠的衣服四处走](https://s.weibo.com/weibo?q=%23%E5%94%90%E4%B9%9D%E6%B4%B2%E8%AF%B4%E7%8E%8B%E4%B8%80%E5%8D%9A%E7%A9%BF%E7%9D%80%E8%9C%98%E8%9B%9B%E4%BE%A0%E7%9A%84%E8%A1%A3%E6%9C%8D%E5%9B%9B%E5%A4%84%E8%B5%B0%23&Refer=top) 101438
 1. [剁椒鱼头的隐藏吃法](https://s.weibo.com/weibo?q=%E5%89%81%E6%A4%92%E9%B1%BC%E5%A4%B4%E7%9A%84%E9%9A%90%E8%97%8F%E5%90%83%E6%B3%95&Refer=top) 92442
 1. [林之校爸爸去世](https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%B9%8B%E6%A0%A1%E7%88%B8%E7%88%B8%E5%8E%BB%E4%B8%96%23&Refer=top) 85238
 <!-- END -->
