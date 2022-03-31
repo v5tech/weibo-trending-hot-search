@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-04-01 01:34:00.726701 
+最后更新时间 2022-04-01 01:48:48.726995 
 1. [新冠毒株XE](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%86%A0%E6%AF%92%E6%A0%AAXE%23&Refer=top) 5802347
 1. [愚人节](https://s.weibo.com/weibo?q=%E6%84%9A%E4%BA%BA%E8%8A%82&Refer=top) 5453243
 1. [20220331](https://s.weibo.com/weibo?q=20220331&Refer=top) 4305474
@@ -22,12 +22,12 @@
 1. [陈鑫](https://s.weibo.com/weibo?q=%E9%99%88%E9%91%AB&Refer=top) 808888
 1. [王一博为河南水灾捐款三百万](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E4%B8%BA%E6%B2%B3%E5%8D%97%E6%B0%B4%E7%81%BE%E6%8D%90%E6%AC%BE%E4%B8%89%E7%99%BE%E4%B8%87%23&Refer=top) 740532
 1. [韩剧TV](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%89%A7TV%23&Refer=top) 668368
+1. [男子750元买狐狸给女友当宠物](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90750%E5%85%83%E4%B9%B0%E7%8B%90%E7%8B%B8%E7%BB%99%E5%A5%B3%E5%8F%8B%E5%BD%93%E5%AE%A0%E7%89%A9%23&Refer=top) 647654
 1. [宇宙少女](https://s.weibo.com/weibo?q=%E5%AE%87%E5%AE%99%E5%B0%91%E5%A5%B3&Refer=top) 598439
 1. [生吃三文鱼是谁发明的](https://s.weibo.com/weibo?q=%23%E7%94%9F%E5%90%83%E4%B8%89%E6%96%87%E9%B1%BC%E6%98%AF%E8%B0%81%E5%8F%91%E6%98%8E%E7%9A%84%23&Refer=top) 594748
 1. [三亚新增2例无症状感染者](https://s.weibo.com/weibo?q=%23%E4%B8%89%E4%BA%9A%E6%96%B0%E5%A2%9E2%E4%BE%8B%E6%97%A0%E7%97%87%E7%8A%B6%E6%84%9F%E6%9F%93%E8%80%85%23&Refer=top) 561144
 1. [被困一个月反倒吃胖了的猫](https://s.weibo.com/weibo?q=%E8%A2%AB%E5%9B%B0%E4%B8%80%E4%B8%AA%E6%9C%88%E5%8F%8D%E5%80%92%E5%90%83%E8%83%96%E4%BA%86%E7%9A%84%E7%8C%AB&Refer=top) 521762
 1. [云蹦迪](https://s.weibo.com/weibo?q=%E4%BA%91%E8%B9%A6%E8%BF%AA&Refer=top) 517653
-1. [男子750元买狐狸给女友当宠物](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90750%E5%85%83%E4%B9%B0%E7%8B%90%E7%8B%B8%E7%BB%99%E5%A5%B3%E5%8F%8B%E5%BD%93%E5%AE%A0%E7%89%A9%23&Refer=top) 499903
 1. [普京签署以卢布结算天然气法令](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E7%AD%BE%E7%BD%B2%E4%BB%A5%E5%8D%A2%E5%B8%83%E7%BB%93%E7%AE%97%E5%A4%A9%E7%84%B6%E6%B0%94%E6%B3%95%E4%BB%A4%23&Refer=top) 424376
 1. [上海消杀](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%B6%88%E6%9D%80%23&Refer=top) 423861
 1. [宋亚轩唐九洲何运晨社牛情景剧](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E5%94%90%E4%B9%9D%E6%B4%B2%E4%BD%95%E8%BF%90%E6%99%A8%E7%A4%BE%E7%89%9B%E6%83%85%E6%99%AF%E5%89%A7%23&Refer=top) 413192
