@@ -75,6 +75,10 @@
     "url": "https://s.weibo.com/weibo?q=%E4%BA%91%E8%B9%A6%E8%BF%AA&Refer=top",
     "hot": 517653
   },
+  "男子750元买狐狸给女友当宠物": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90750%E5%85%83%E4%B9%B0%E7%8B%90%E7%8B%B8%E7%BB%99%E5%A5%B3%E5%8F%8B%E5%BD%93%E5%AE%A0%E7%89%A9%23&Refer=top",
+    "hot": 499903
+  },
   "普京签署以卢布结算天然气法令": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E7%AD%BE%E7%BD%B2%E4%BB%A5%E5%8D%A2%E5%B8%83%E7%BB%93%E7%AE%97%E5%A4%A9%E7%84%B6%E6%B0%94%E6%B3%95%E4%BB%A4%23&Refer=top",
     "hot": 424376
@@ -147,10 +151,6 @@
     "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%98%A5%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E5%AD%90%E7%BC%96%E9%80%A0%E6%91%86%E6%8B%8D%E9%80%81%E8%8F%9C%E4%BA%8B%E4%BB%B6%23&Refer=top",
     "hot": 278926
   },
-  "男子750元买狐狸给女友当宠物": {
-    "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90750%E5%85%83%E4%B9%B0%E7%8B%90%E7%8B%B8%E7%BB%99%E5%A5%B3%E5%8F%8B%E5%BD%93%E5%AE%A0%E7%89%A9%23&Refer=top",
-    "hot": 265209
-  },
   "5岁男童幼儿园午睡时猝死": {
     "url": "https://s.weibo.com/weibo?q=%235%E5%B2%81%E7%94%B7%E7%AB%A5%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%8D%88%E7%9D%A1%E6%97%B6%E7%8C%9D%E6%AD%BB%23&Refer=top",
     "hot": 240243
@@ -217,6 +217,6 @@
   },
   "剁椒鱼头的隐藏吃法": {
     "url": "https://s.weibo.com/weibo?q=%E5%89%81%E6%A4%92%E9%B1%BC%E5%A4%B4%E7%9A%84%E9%9A%90%E8%97%8F%E5%90%83%E6%B3%95&Refer=top",
-    "hot": 88093
+    "hot": 92442
   }
 }
