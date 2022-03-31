@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-04-01 04:13:08.038411 
+最后更新时间 2022-04-01 04:31:09.620587 
 1. [新冠毒株XE](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%86%A0%E6%AF%92%E6%A0%AAXE%23&Refer=top) 5802347
 1. [愚人节](https://s.weibo.com/weibo?q=%E6%84%9A%E4%BA%BA%E8%8A%82&Refer=top) 5453243
 1. [20220331](https://s.weibo.com/weibo?q=20220331&Refer=top) 4305474
@@ -67,6 +67,7 @@
 1. [唐九洲说王一博穿着蜘蛛侠的衣服四处走](https://s.weibo.com/weibo?q=%23%E5%94%90%E4%B9%9D%E6%B4%B2%E8%AF%B4%E7%8E%8B%E4%B8%80%E5%8D%9A%E7%A9%BF%E7%9D%80%E8%9C%98%E8%9B%9B%E4%BE%A0%E7%9A%84%E8%A1%A3%E6%9C%8D%E5%9B%9B%E5%A4%84%E8%B5%B0%23&Refer=top) 118674
 1. [剁椒鱼头的隐藏吃法](https://s.weibo.com/weibo?q=%E5%89%81%E6%A4%92%E9%B1%BC%E5%A4%B4%E7%9A%84%E9%9A%90%E8%97%8F%E5%90%83%E6%B3%95&Refer=top) 92442
 1. [林之校爸爸去世](https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%B9%8B%E6%A0%A1%E7%88%B8%E7%88%B8%E5%8E%BB%E4%B8%96%23&Refer=top) 85238
+1. [这狗好像披着羊皮的狼](https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%8B%97%E5%A5%BD%E5%83%8F%E6%8A%AB%E7%9D%80%E7%BE%8A%E7%9A%AE%E7%9A%84%E7%8B%BC%23&Refer=top) 17772
 <!-- END -->
 
 历史归档 [./archives](./archives)
