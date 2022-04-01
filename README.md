@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-04-02 03:48:43.671655 
+最后更新时间 2022-04-02 04:13:06.775308 
 1. [上海疫情正处于快速上升阶段](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E7%96%AB%E6%83%85%E6%AD%A3%E5%A4%84%E4%BA%8E%E5%BF%AB%E9%80%9F%E4%B8%8A%E5%8D%87%E9%98%B6%E6%AE%B5%23&Refer=top) 2000741
 1. [卡塔尔世界杯](https://s.weibo.com/weibo?q=%23%E5%8D%A1%E5%A1%94%E5%B0%94%E4%B8%96%E7%95%8C%E6%9D%AF%23&Refer=top) 1312220
 1. [2022世界杯抽签](https://s.weibo.com/weibo?q=%232022%E4%B8%96%E7%95%8C%E6%9D%AF%E6%8A%BD%E7%AD%BE%23&Refer=top) 1251552
