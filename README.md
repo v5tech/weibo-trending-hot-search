@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-04-05 04:48:41.991076 
+最后更新时间 2022-04-05 05:11:03.174760 
 1. [睡眠不足5小时更容易引发癌症](https://s.weibo.com/weibo?q=%23%E7%9D%A1%E7%9C%A0%E4%B8%8D%E8%B6%B35%E5%B0%8F%E6%97%B6%E6%9B%B4%E5%AE%B9%E6%98%93%E5%BC%95%E5%8F%91%E7%99%8C%E7%97%87%23&Refer=top) 2544700
 1. [上海世博方舱附近发生火灾](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%B8%96%E5%8D%9A%E6%96%B9%E8%88%B1%E9%99%84%E8%BF%91%E5%8F%91%E7%94%9F%E7%81%AB%E7%81%BE%23&Refer=top) 1392398
 1. [为烈士寻亲](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E7%83%88%E5%A3%AB%E5%AF%BB%E4%BA%B2%23&Refer=top) 1064134
@@ -64,11 +64,12 @@
 1. [学霸情侣相恋四年双双保研上海交大](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E9%9C%B8%E6%83%85%E4%BE%A3%E7%9B%B8%E6%81%8B%E5%9B%9B%E5%B9%B4%E5%8F%8C%E5%8F%8C%E4%BF%9D%E7%A0%94%E4%B8%8A%E6%B5%B7%E4%BA%A4%E5%A4%A7%23&Refer=top) 139020
 1. [封校后大学生宿舍楼下玩跳房子](https://s.weibo.com/weibo?q=%23%E5%B0%81%E6%A0%A1%E5%90%8E%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%AE%BF%E8%88%8D%E6%A5%BC%E4%B8%8B%E7%8E%A9%E8%B7%B3%E6%88%BF%E5%AD%90%23&Refer=top) 135948
 1. [浦锦](https://s.weibo.com/weibo?q=%E6%B5%A6%E9%94%A6&Refer=top) 134427
+1. [特朗普称美国最大威胁是国内政客](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%9B%BD%E6%9C%80%E5%A4%A7%E5%A8%81%E8%83%81%E6%98%AF%E5%9B%BD%E5%86%85%E6%94%BF%E5%AE%A2%23&Refer=top) 126999
 1. [长意自愿和纪云禾一起承受痛苦](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%84%8F%E8%87%AA%E6%84%BF%E5%92%8C%E7%BA%AA%E4%BA%91%E7%A6%BE%E4%B8%80%E8%B5%B7%E6%89%BF%E5%8F%97%E7%97%9B%E8%8B%A6%23&Refer=top) 110673
 1. [上海核酸](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%A0%B8%E9%85%B8%23&Refer=top) 98971
 1. [纪云禾长意夫妻混合双打](https://s.weibo.com/weibo?q=%23%E7%BA%AA%E4%BA%91%E7%A6%BE%E9%95%BF%E6%84%8F%E5%A4%AB%E5%A6%BB%E6%B7%B7%E5%90%88%E5%8F%8C%E6%89%93%23&Refer=top) 39107
-1. [特朗普称美国最大威胁是国内政客](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%9B%BD%E6%9C%80%E5%A4%A7%E5%A8%81%E8%83%81%E6%98%AF%E5%9B%BD%E5%86%85%E6%94%BF%E5%AE%A2%23&Refer=top) 39084
 1. [和若铁路是怎样的](https://s.weibo.com/weibo?q=%23%E5%92%8C%E8%8B%A5%E9%93%81%E8%B7%AF%E6%98%AF%E6%80%8E%E6%A0%B7%E7%9A%84%23&Refer=top) 26292
+1. [民警喊来轻生女子男友发现是逃犯](https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E5%96%8A%E6%9D%A5%E8%BD%BB%E7%94%9F%E5%A5%B3%E5%AD%90%E7%94%B7%E5%8F%8B%E5%8F%91%E7%8E%B0%E6%98%AF%E9%80%83%E7%8A%AF%23&Refer=top) 19190
 <!-- END -->
 
 历史归档 [./archives](./archives)
