@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-04-05 01:40:09.350133 
+最后更新时间 2022-04-05 01:49:00.470619 
 1. [睡眠不足5小时更容易引发癌症](https://s.weibo.com/weibo?q=%23%E7%9D%A1%E7%9C%A0%E4%B8%8D%E8%B6%B35%E5%B0%8F%E6%97%B6%E6%9B%B4%E5%AE%B9%E6%98%93%E5%BC%95%E5%8F%91%E7%99%8C%E7%97%87%23&Refer=top) 2544700
 1. [上海世博方舱附近发生火灾](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%B8%96%E5%8D%9A%E6%96%B9%E8%88%B1%E9%99%84%E8%BF%91%E5%8F%91%E7%94%9F%E7%81%AB%E7%81%BE%23&Refer=top) 1392398
 1. [为烈士寻亲](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E7%83%88%E5%A3%AB%E5%AF%BB%E4%BA%B2%23&Refer=top) 1064134
@@ -64,7 +64,7 @@
 1. [浦锦](https://s.weibo.com/weibo?q=%E6%B5%A6%E9%94%A6&Refer=top) 134427
 1. [长意自愿和纪云禾一起承受痛苦](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%84%8F%E8%87%AA%E6%84%BF%E5%92%8C%E7%BA%AA%E4%BA%91%E7%A6%BE%E4%B8%80%E8%B5%B7%E6%89%BF%E5%8F%97%E7%97%9B%E8%8B%A6%23&Refer=top) 110673
 1. [上海核酸](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%A0%B8%E9%85%B8%23&Refer=top) 98971
-1. [封校后大学生宿舍楼下玩跳房子](https://s.weibo.com/weibo?q=%23%E5%B0%81%E6%A0%A1%E5%90%8E%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%AE%BF%E8%88%8D%E6%A5%BC%E4%B8%8B%E7%8E%A9%E8%B7%B3%E6%88%BF%E5%AD%90%23&Refer=top) 54442
+1. [封校后大学生宿舍楼下玩跳房子](https://s.weibo.com/weibo?q=%23%E5%B0%81%E6%A0%A1%E5%90%8E%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%AE%BF%E8%88%8D%E6%A5%BC%E4%B8%8B%E7%8E%A9%E8%B7%B3%E6%88%BF%E5%AD%90%23&Refer=top) 93828
 <!-- END -->
 
 历史归档 [./archives](./archives)
