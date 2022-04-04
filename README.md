@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-04-05 02:15:20.418313 
+最后更新时间 2022-04-05 02:39:00.510157 
 1. [睡眠不足5小时更容易引发癌症](https://s.weibo.com/weibo?q=%23%E7%9D%A1%E7%9C%A0%E4%B8%8D%E8%B6%B35%E5%B0%8F%E6%97%B6%E6%9B%B4%E5%AE%B9%E6%98%93%E5%BC%95%E5%8F%91%E7%99%8C%E7%97%87%23&Refer=top) 2544700
 1. [上海世博方舱附近发生火灾](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%B8%96%E5%8D%9A%E6%96%B9%E8%88%B1%E9%99%84%E8%BF%91%E5%8F%91%E7%94%9F%E7%81%AB%E7%81%BE%23&Refer=top) 1392398
 1. [为烈士寻亲](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E7%83%88%E5%A3%AB%E5%AF%BB%E4%BA%B2%23&Refer=top) 1064134
@@ -39,6 +39,7 @@
 1. [疫情下的大学生活什么样](https://s.weibo.com/weibo?q=%23%E7%96%AB%E6%83%85%E4%B8%8B%E7%9A%84%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%B4%BB%E4%BB%80%E4%B9%88%E6%A0%B7%23&Refer=top) 370079
 1. [广州南沙 防疫](https://s.weibo.com/weibo?q=%E5%B9%BF%E5%B7%9E%E5%8D%97%E6%B2%99%20%E9%98%B2%E7%96%AB&Refer=top) 344906
 1. [被新疆美食馋到了](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%96%B0%E7%96%86%E7%BE%8E%E9%A3%9F%E9%A6%8B%E5%88%B0%E4%BA%86%23&Refer=top) 329353
+1. [日本地震](https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87&Refer=top) 326860
 1. [上海小伙薅光奶奶菜地送抗疫酒店](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%B0%8F%E4%BC%99%E8%96%85%E5%85%89%E5%A5%B6%E5%A5%B6%E8%8F%9C%E5%9C%B0%E9%80%81%E6%8A%97%E7%96%AB%E9%85%92%E5%BA%97%23&Refer=top) 317456
 1. [顺德仙姬毁容原声花絮](https://s.weibo.com/weibo?q=%23%E9%A1%BA%E5%BE%B7%E4%BB%99%E5%A7%AC%E6%AF%81%E5%AE%B9%E5%8E%9F%E5%A3%B0%E8%8A%B1%E7%B5%AE%23&Refer=top) 316690
 1. [社内相亲预告](https://s.weibo.com/weibo?q=%23%E7%A4%BE%E5%86%85%E7%9B%B8%E4%BA%B2%E9%A2%84%E5%91%8A%23&Refer=top) 306273
@@ -61,9 +62,8 @@
 1. [你真的想努力减脂吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%9C%9F%E7%9A%84%E6%83%B3%E5%8A%AA%E5%8A%9B%E5%87%8F%E8%84%82%E5%90%97%23&Refer=top) 143851
 1. [用大米做香煎米糕](https://s.weibo.com/weibo?q=%23%E7%94%A8%E5%A4%A7%E7%B1%B3%E5%81%9A%E9%A6%99%E7%85%8E%E7%B1%B3%E7%B3%95%23&Refer=top) 140488
 1. [学霸情侣相恋四年双双保研上海交大](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E9%9C%B8%E6%83%85%E4%BE%A3%E7%9B%B8%E6%81%8B%E5%9B%9B%E5%B9%B4%E5%8F%8C%E5%8F%8C%E4%BF%9D%E7%A0%94%E4%B8%8A%E6%B5%B7%E4%BA%A4%E5%A4%A7%23&Refer=top) 139020
+1. [封校后大学生宿舍楼下玩跳房子](https://s.weibo.com/weibo?q=%23%E5%B0%81%E6%A0%A1%E5%90%8E%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%AE%BF%E8%88%8D%E6%A5%BC%E4%B8%8B%E7%8E%A9%E8%B7%B3%E6%88%BF%E5%AD%90%23&Refer=top) 135948
 1. [浦锦](https://s.weibo.com/weibo?q=%E6%B5%A6%E9%94%A6&Refer=top) 134427
-1. [封校后大学生宿舍楼下玩跳房子](https://s.weibo.com/weibo?q=%23%E5%B0%81%E6%A0%A1%E5%90%8E%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%AE%BF%E8%88%8D%E6%A5%BC%E4%B8%8B%E7%8E%A9%E8%B7%B3%E6%88%BF%E5%AD%90%23&Refer=top) 131347
-1. [日本地震](https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87&Refer=top) 131264
 1. [长意自愿和纪云禾一起承受痛苦](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%84%8F%E8%87%AA%E6%84%BF%E5%92%8C%E7%BA%AA%E4%BA%91%E7%A6%BE%E4%B8%80%E8%B5%B7%E6%89%BF%E5%8F%97%E7%97%9B%E8%8B%A6%23&Refer=top) 110673
 1. [上海核酸](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%A0%B8%E9%85%B8%23&Refer=top) 98971
 <!-- END -->
