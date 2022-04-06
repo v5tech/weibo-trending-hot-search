@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-04-07 03:48:57.240561 
+最后更新时间 2022-04-07 04:12:53.007391 
 1. [从睡觉看肾好不好](https://s.weibo.com/weibo?q=%23%E4%BB%8E%E7%9D%A1%E8%A7%89%E7%9C%8B%E8%82%BE%E5%A5%BD%E4%B8%8D%E5%A5%BD%23&Refer=top) 1904973
 1. [为什么很多人不愿意谈恋爱了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BE%88%E5%A4%9A%E4%BA%BA%E4%B8%8D%E6%84%BF%E6%84%8F%E8%B0%88%E6%81%8B%E7%88%B1%E4%BA%86%23&Refer=top) 1517422
 1. [守沪与被守护的双向奔赴](https://s.weibo.com/weibo?q=%23%E5%AE%88%E6%B2%AA%E4%B8%8E%E8%A2%AB%E5%AE%88%E6%8A%A4%E7%9A%84%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4%23&Refer=top) 1427996
@@ -64,6 +64,8 @@
 1. [戍边英雄的故事2022年了还有后续](https://s.weibo.com/weibo?q=%23%E6%88%8D%E8%BE%B9%E8%8B%B1%E9%9B%84%E7%9A%84%E6%95%85%E4%BA%8B2022%E5%B9%B4%E4%BA%86%E8%BF%98%E6%9C%89%E5%90%8E%E7%BB%AD%23&Refer=top) 108398
 1. [一段关系最好的纪念物](https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%AE%B5%E5%85%B3%E7%B3%BB%E6%9C%80%E5%A5%BD%E7%9A%84%E7%BA%AA%E5%BF%B5%E7%89%A9%23&Refer=top) 58421
 1. [狗狗能有多喜欢自己的玩具](https://s.weibo.com/weibo?q=%23%E7%8B%97%E7%8B%97%E8%83%BD%E6%9C%89%E5%A4%9A%E5%96%9C%E6%AC%A2%E8%87%AA%E5%B7%B1%E7%9A%84%E7%8E%A9%E5%85%B7%23&Refer=top) 36837
+1. [主题曲舞台为什么打动人](https://s.weibo.com/weibo?q=%23%E4%B8%BB%E9%A2%98%E6%9B%B2%E8%88%9E%E5%8F%B0%E4%B8%BA%E4%BB%80%E4%B9%88%E6%89%93%E5%8A%A8%E4%BA%BA%23&Refer=top) 16963
+1. [北约正加强对乌军事和财政支持力度](https://s.weibo.com/weibo?q=%23%E5%8C%97%E7%BA%A6%E6%AD%A3%E5%8A%A0%E5%BC%BA%E5%AF%B9%E4%B9%8C%E5%86%9B%E4%BA%8B%E5%92%8C%E8%B4%A2%E6%94%BF%E6%94%AF%E6%8C%81%E5%8A%9B%E5%BA%A6%23&Refer=top) 14063
 <!-- END -->
 
 历史归档 [./archives](./archives)
