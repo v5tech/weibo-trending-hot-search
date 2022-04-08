@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-04-09 06:30:58.180676 
+最后更新时间 2022-04-09 06:48:49.415911 
 1. [妻子被调戏丈夫反击致1死3伤无罪](https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E8%A2%AB%E8%B0%83%E6%88%8F%E4%B8%88%E5%A4%AB%E5%8F%8D%E5%87%BB%E8%87%B41%E6%AD%BB3%E4%BC%A4%E6%97%A0%E7%BD%AA%23&Refer=top) 2122712
 1. [上海4月9日全市开展抗原检测](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B74%E6%9C%889%E6%97%A5%E5%85%A8%E5%B8%82%E5%BC%80%E5%B1%95%E6%8A%97%E5%8E%9F%E6%A3%80%E6%B5%8B%23&Refer=top) 1599444
 1. [这24名冬奥冬残奥运动员有突出贡献](https://s.weibo.com/weibo?q=%23%E8%BF%9924%E5%90%8D%E5%86%AC%E5%A5%A5%E5%86%AC%E6%AE%8B%E5%A5%A5%E8%BF%90%E5%8A%A8%E5%91%98%E6%9C%89%E7%AA%81%E5%87%BA%E8%B4%A1%E7%8C%AE%23&Refer=top) 1520035
@@ -39,12 +39,13 @@
 1. [张紫宁James唱的嘉宾满眼都是遗憾](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%B4%AB%E5%AE%81James%E5%94%B1%E7%9A%84%E5%98%89%E5%AE%BE%E6%BB%A1%E7%9C%BC%E9%83%BD%E6%98%AF%E9%81%97%E6%86%BE%23&Refer=top) 396840
 1. [挖矿潮退显卡价格暴跌](https://s.weibo.com/weibo?q=%23%E6%8C%96%E7%9F%BF%E6%BD%AE%E9%80%80%E6%98%BE%E5%8D%A1%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C%23&Refer=top) 385617
 1. [谈恋爱一定要趁早](https://s.weibo.com/weibo?q=%23%E8%B0%88%E6%81%8B%E7%88%B1%E4%B8%80%E5%AE%9A%E8%A6%81%E8%B6%81%E6%97%A9%23&Refer=top) 383387
+1. [温太医张晓龙再跳惊鸿舞](https://s.weibo.com/weibo?q=%23%E6%B8%A9%E5%A4%AA%E5%8C%BB%E5%BC%A0%E6%99%93%E9%BE%99%E5%86%8D%E8%B7%B3%E6%83%8A%E9%B8%BF%E8%88%9E%23&Refer=top) 373562
 1. [沈腾叫错时代少年团名字](https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E5%8F%AB%E9%94%99%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E5%90%8D%E5%AD%97%23&Refer=top) 366225
 1. [许嵩好会说话一男的](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%B5%A9%E5%A5%BD%E4%BC%9A%E8%AF%B4%E8%AF%9D%E4%B8%80%E7%94%B7%E7%9A%84%23&Refer=top) 349836
+1. [宿迁疫情](https://s.weibo.com/weibo?q=%23%E5%AE%BF%E8%BF%81%E7%96%AB%E6%83%85%23&Refer=top) 347432
 1. [这么看甄嬛传还是第一次见](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B9%88%E7%9C%8B%E7%94%84%E5%AC%9B%E4%BC%A0%E8%BF%98%E6%98%AF%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%23&Refer=top) 337734
 1. [久诚的百里守约](https://s.weibo.com/weibo?q=%23%E4%B9%85%E8%AF%9A%E7%9A%84%E7%99%BE%E9%87%8C%E5%AE%88%E7%BA%A6%23&Refer=top) 336173
 1. [神奇动物](https://s.weibo.com/weibo?q=%23%E7%A5%9E%E5%A5%87%E5%8A%A8%E7%89%A9%23&Refer=top) 333420
-1. [温太医张晓龙再跳惊鸿舞](https://s.weibo.com/weibo?q=%23%E6%B8%A9%E5%A4%AA%E5%8C%BB%E5%BC%A0%E6%99%93%E9%BE%99%E5%86%8D%E8%B7%B3%E6%83%8A%E9%B8%BF%E8%88%9E%23&Refer=top) 328447
 1. [原来耿耿于怀的一直是我们](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%80%BF%E8%80%BF%E4%BA%8E%E6%80%80%E7%9A%84%E4%B8%80%E7%9B%B4%E6%98%AF%E6%88%91%E4%BB%AC%23&Refer=top) 326275
 1. [谷爱凌说北京冬奥会是我最珍贵美好的经历](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E8%AF%B4%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E4%BC%9A%E6%98%AF%E6%88%91%E6%9C%80%E7%8F%8D%E8%B4%B5%E7%BE%8E%E5%A5%BD%E7%9A%84%E7%BB%8F%E5%8E%86%23&Refer=top) 319834
 1. [欧盟正式批准通过第五轮对俄制裁](https://s.weibo.com/weibo?q=%23%E6%AC%A7%E7%9B%9F%E6%AD%A3%E5%BC%8F%E6%89%B9%E5%87%86%E9%80%9A%E8%BF%87%E7%AC%AC%E4%BA%94%E8%BD%AE%E5%AF%B9%E4%BF%84%E5%88%B6%E8%A3%81%23&Refer=top) 309908
@@ -60,18 +61,17 @@
 1. [神奇动物3台词删减](https://s.weibo.com/weibo?q=%23%E7%A5%9E%E5%A5%87%E5%8A%A8%E7%89%A93%E5%8F%B0%E8%AF%8D%E5%88%A0%E5%87%8F%23&Refer=top) 203784
 1. [任嘉伦说get不到he的剧本](https://s.weibo.com/weibo?q=%23%E4%BB%BB%E5%98%89%E4%BC%A6%E8%AF%B4get%E4%B8%8D%E5%88%B0he%E7%9A%84%E5%89%A7%E6%9C%AC%23&Refer=top) 201096
 1. [华东师大回应为留学生过生日](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%9C%E5%B8%88%E5%A4%A7%E5%9B%9E%E5%BA%94%E4%B8%BA%E7%95%99%E5%AD%A6%E7%94%9F%E8%BF%87%E7%94%9F%E6%97%A5%23&Refer=top) 189228
-1. [宿迁疫情](https://s.weibo.com/weibo?q=%23%E5%AE%BF%E8%BF%81%E7%96%AB%E6%83%85%23&Refer=top) 181202
+1. [58岁患病男子给妻子转钱后失踪](https://s.weibo.com/weibo?q=%2358%E5%B2%81%E6%82%A3%E7%97%85%E7%94%B7%E5%AD%90%E7%BB%99%E5%A6%BB%E5%AD%90%E8%BD%AC%E9%92%B1%E5%90%8E%E5%A4%B1%E8%B8%AA%23&Refer=top) 187720
 1. [Nuguri DK](https://s.weibo.com/weibo?q=Nuguri%20DK&Refer=top) 173931
 1. [郑州小伙行程码持续三个月每天变红](https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E5%B0%8F%E4%BC%99%E8%A1%8C%E7%A8%8B%E7%A0%81%E6%8C%81%E7%BB%AD%E4%B8%89%E4%B8%AA%E6%9C%88%E6%AF%8F%E5%A4%A9%E5%8F%98%E7%BA%A2%23&Refer=top) 172420
+1. [好羡慕这种同频的友谊](https://s.weibo.com/weibo?q=%23%E5%A5%BD%E7%BE%A1%E6%85%95%E8%BF%99%E7%A7%8D%E5%90%8C%E9%A2%91%E7%9A%84%E5%8F%8B%E8%B0%8A%23&Refer=top) 146147
 1. [把甄嬛传角色当成结婚对象](https://s.weibo.com/weibo?q=%23%E6%8A%8A%E7%94%84%E5%AC%9B%E4%BC%A0%E8%A7%92%E8%89%B2%E5%BD%93%E6%88%90%E7%BB%93%E5%A9%9A%E5%AF%B9%E8%B1%A1%23&Refer=top) 144893
-1. [58岁患病男子给妻子转钱后失踪](https://s.weibo.com/weibo?q=%2358%E5%B2%81%E6%82%A3%E7%97%85%E7%94%B7%E5%AD%90%E7%BB%99%E5%A6%BB%E5%AD%90%E8%BD%AC%E9%92%B1%E5%90%8E%E5%A4%B1%E8%B8%AA%23&Refer=top) 139320
 1. [孙娜恩离开Apink](https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%A8%9C%E6%81%A9%E7%A6%BB%E5%BC%80Apink%23&Refer=top) 123632
 1. [十大凡尔赛采访名场面](https://s.weibo.com/weibo?q=%23%E5%8D%81%E5%A4%A7%E5%87%A1%E5%B0%94%E8%B5%9B%E9%87%87%E8%AE%BF%E5%90%8D%E5%9C%BA%E9%9D%A2%23&Refer=top) 111491
-1. [航拍上海建设中最大方舱](https://s.weibo.com/weibo?q=%23%E8%88%AA%E6%8B%8D%E4%B8%8A%E6%B5%B7%E5%BB%BA%E8%AE%BE%E4%B8%AD%E6%9C%80%E5%A4%A7%E6%96%B9%E8%88%B1%23&Refer=top) 77604
-1. [好羡慕这种同频的友谊](https://s.weibo.com/weibo?q=%23%E5%A5%BD%E7%BE%A1%E6%85%95%E8%BF%99%E7%A7%8D%E5%90%8C%E9%A2%91%E7%9A%84%E5%8F%8B%E8%B0%8A%23&Refer=top) 71388
-1. [初恋是爱情里美好的怀念吗](https://s.weibo.com/weibo?q=%23%E5%88%9D%E6%81%8B%E6%98%AF%E7%88%B1%E6%83%85%E9%87%8C%E7%BE%8E%E5%A5%BD%E7%9A%84%E6%80%80%E5%BF%B5%E5%90%97%23&Refer=top) 37500
-1. [CBA](https://s.weibo.com/weibo?q=CBA&Refer=top) 33637
-1. [感情里为什么需要情绪稳定](https://s.weibo.com/weibo?q=%23%E6%84%9F%E6%83%85%E9%87%8C%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9C%80%E8%A6%81%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A%23&Refer=top) 33441
+1. [航拍上海建设中最大方舱](https://s.weibo.com/weibo?q=%23%E8%88%AA%E6%8B%8D%E4%B8%8A%E6%B5%B7%E5%BB%BA%E8%AE%BE%E4%B8%AD%E6%9C%80%E5%A4%A7%E6%96%B9%E8%88%B1%23&Refer=top) 105972
+1. [初恋是爱情里美好的怀念吗](https://s.weibo.com/weibo?q=%23%E5%88%9D%E6%81%8B%E6%98%AF%E7%88%B1%E6%83%85%E9%87%8C%E7%BE%8E%E5%A5%BD%E7%9A%84%E6%80%80%E5%BF%B5%E5%90%97%23&Refer=top) 46197
+1. [感情里为什么需要情绪稳定](https://s.weibo.com/weibo?q=%23%E6%84%9F%E6%83%85%E9%87%8C%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9C%80%E8%A6%81%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A%23&Refer=top) 43192
+1. [CBA](https://s.weibo.com/weibo?q=CBA&Refer=top) 35123
 <!-- END -->
 
 历史归档 [./archives](./archives)
