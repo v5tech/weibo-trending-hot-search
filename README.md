@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-04-10 03:09:35.010160 
+最后更新时间 2022-04-10 03:22:46.485117 
 1. [网友举报虎牙一主播表演内容低俗](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E4%B8%BE%E6%8A%A5%E8%99%8E%E7%89%99%E4%B8%80%E4%B8%BB%E6%92%AD%E8%A1%A8%E6%BC%94%E5%86%85%E5%AE%B9%E4%BD%8E%E4%BF%97%23&Refer=top) 2393211
 1. [上海流浪街头的江西老人已入院](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%B5%81%E6%B5%AA%E8%A1%97%E5%A4%B4%E7%9A%84%E6%B1%9F%E8%A5%BF%E8%80%81%E4%BA%BA%E5%B7%B2%E5%85%A5%E9%99%A2%23&Refer=top) 1179427
 1. [北京冬奥冬残奥树立了奥运新标杆](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E5%86%AC%E6%AE%8B%E5%A5%A5%E6%A0%91%E7%AB%8B%E4%BA%86%E5%A5%A5%E8%BF%90%E6%96%B0%E6%A0%87%E6%9D%86%23&Refer=top) 1166369
@@ -38,6 +38,7 @@
 1. [谷爱凌说永远忘不了北京冬奥](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E8%AF%B4%E6%B0%B8%E8%BF%9C%E5%BF%98%E4%B8%8D%E4%BA%86%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%23&Refer=top) 227541
 1. [我家猫说它喜欢](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%AE%B6%E7%8C%AB%E8%AF%B4%E5%AE%83%E5%96%9C%E6%AC%A2%23&Refer=top) 227154
 1. [XYG](https://s.weibo.com/weibo?q=XYG&Refer=top) 215467
+1. [雪中悍刀行播放量突破70亿](https://s.weibo.com/weibo?q=%23%E9%9B%AA%E4%B8%AD%E6%82%8D%E5%88%80%E8%A1%8C%E6%92%AD%E6%94%BE%E9%87%8F%E7%AA%81%E7%A0%B470%E4%BA%BF%23&Refer=top) 192183
 1. [穿衣风格不需要被定义](https://s.weibo.com/weibo?q=%23%E7%A9%BF%E8%A1%A3%E9%A3%8E%E6%A0%BC%E4%B8%8D%E9%9C%80%E8%A6%81%E8%A2%AB%E5%AE%9A%E4%B9%89%23&Refer=top) 191974
 1. [广州市民黄码需实行七天三检](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%B8%82%E6%B0%91%E9%BB%84%E7%A0%81%E9%9C%80%E5%AE%9E%E8%A1%8C%E4%B8%83%E5%A4%A9%E4%B8%89%E6%A3%80%23&Refer=top) 180715
 1. [在巴基斯坦的一段偶遇经历](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E7%9A%84%E4%B8%80%E6%AE%B5%E5%81%B6%E9%81%87%E7%BB%8F%E5%8E%86%23&Refer=top) 180145
@@ -52,7 +53,6 @@
 1. [EXO十周年演唱会金钟仁哭了](https://s.weibo.com/weibo?q=%23EXO%E5%8D%81%E5%91%A8%E5%B9%B4%E6%BC%94%E5%94%B1%E4%BC%9A%E9%87%91%E9%92%9F%E4%BB%81%E5%93%AD%E4%BA%86%23&Refer=top) 145729
 1. [原来在家也能走掉小肚腩](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%9C%A8%E5%AE%B6%E4%B9%9F%E8%83%BD%E8%B5%B0%E6%8E%89%E5%B0%8F%E8%82%9A%E8%85%A9%23&Refer=top) 143333
 1. [北京朝阳区新增确诊为外地来京人员](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%9C%9D%E9%98%B3%E5%8C%BA%E6%96%B0%E5%A2%9E%E7%A1%AE%E8%AF%8A%E4%B8%BA%E5%A4%96%E5%9C%B0%E6%9D%A5%E4%BA%AC%E4%BA%BA%E5%91%98%23&Refer=top) 140163
-1. [雪中悍刀行播放量突破70亿](https://s.weibo.com/weibo?q=%23%E9%9B%AA%E4%B8%AD%E6%82%8D%E5%88%80%E8%A1%8C%E6%92%AD%E6%94%BE%E9%87%8F%E7%AA%81%E7%A0%B470%E4%BA%BF%23&Refer=top) 138691
 1. [马斯克认为不应帮助人类长寿](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E8%AE%A4%E4%B8%BA%E4%B8%8D%E5%BA%94%E5%B8%AE%E5%8A%A9%E4%BA%BA%E7%B1%BB%E9%95%BF%E5%AF%BF%23&Refer=top) 134932
 1. [张艺兴白敬亭檀健次单身但想当爹](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E7%99%BD%E6%95%AC%E4%BA%AD%E6%AA%80%E5%81%A5%E6%AC%A1%E5%8D%95%E8%BA%AB%E4%BD%86%E6%83%B3%E5%BD%93%E7%88%B9%23&Refer=top) 134552
 1. [上海多家超市卖场恢复营业](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%A4%9A%E5%AE%B6%E8%B6%85%E5%B8%82%E5%8D%96%E5%9C%BA%E6%81%A2%E5%A4%8D%E8%90%A5%E4%B8%9A%23&Refer=top) 134051
