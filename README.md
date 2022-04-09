@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-04-10 05:26:34.366358 
+最后更新时间 2022-04-10 05:36:43.349365 
 1. [网友举报虎牙一主播表演内容低俗](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E4%B8%BE%E6%8A%A5%E8%99%8E%E7%89%99%E4%B8%80%E4%B8%BB%E6%92%AD%E8%A1%A8%E6%BC%94%E5%86%85%E5%AE%B9%E4%BD%8E%E4%BF%97%23&Refer=top) 2393211
 1. [上海流浪街头的江西老人已入院](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%B5%81%E6%B5%AA%E8%A1%97%E5%A4%B4%E7%9A%84%E6%B1%9F%E8%A5%BF%E8%80%81%E4%BA%BA%E5%B7%B2%E5%85%A5%E9%99%A2%23&Refer=top) 1179427
 1. [北京冬奥冬残奥树立了奥运新标杆](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E5%86%AC%E6%AE%8B%E5%A5%A5%E6%A0%91%E7%AB%8B%E4%BA%86%E5%A5%A5%E8%BF%90%E6%96%B0%E6%A0%87%E6%9D%86%23&Refer=top) 1166369
