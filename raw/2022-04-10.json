@@ -95,6 +95,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E8%B4%AD%E9%9D%9E%E5%BF%85%E9%9C%80%E5%93%81%E8%AE%A9%E5%A4%A7%E7%99%BD%E7%88%AC%E6%A5%BC%E5%B8%AE%E9%80%81%E5%BC%95%E4%BA%89%E8%AE%AE%23&Refer=top",
     "hot": 274404
   },
+  "卡士": {
+    "url": "https://s.weibo.com/weibo?q=%E5%8D%A1%E5%A3%AB&Refer=top",
+    "hot": 273856
+  },
   "杨迪对王鸥说你的脚在你的脚上": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%BF%AA%E5%AF%B9%E7%8E%8B%E9%B8%A5%E8%AF%B4%E4%BD%A0%E7%9A%84%E8%84%9A%E5%9C%A8%E4%BD%A0%E7%9A%84%E8%84%9A%E4%B8%8A%23&Refer=top",
     "hot": 239954
@@ -191,6 +195,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E7%BA%A6%E5%A6%84%E7%A7%B0%E4%B8%AD%E5%9B%BD%E6%8B%92%E7%BB%9D%E8%B0%B4%E8%B4%A3%E4%BF%84%E7%BD%97%E6%96%AF%E6%98%AF%E4%B8%A5%E9%87%8D%E6%8C%91%E6%88%98%23&Refer=top",
     "hot": 117499
   },
+  "你从哪首歌开始听孙燕姿的": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%BB%8E%E5%93%AA%E9%A6%96%E6%AD%8C%E5%BC%80%E5%A7%8B%E5%90%AC%E5%AD%99%E7%87%95%E5%A7%BF%E7%9A%84%23&Refer=top",
+    "hot": 115545
+  },
   "建武汉火神山的工人又建了上海方舱": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E6%AD%A6%E6%B1%89%E7%81%AB%E7%A5%9E%E5%B1%B1%E7%9A%84%E5%B7%A5%E4%BA%BA%E5%8F%88%E5%BB%BA%E4%BA%86%E4%B8%8A%E6%B5%B7%E6%96%B9%E8%88%B1%23&Refer=top",
     "hot": 109859
@@ -202,9 +210,5 @@
   "杨洋说刚从隧道里救出来的泥燕子": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B4%8B%E8%AF%B4%E5%88%9A%E4%BB%8E%E9%9A%A7%E9%81%93%E9%87%8C%E6%95%91%E5%87%BA%E6%9D%A5%E7%9A%84%E6%B3%A5%E7%87%95%E5%AD%90%23&Refer=top",
     "hot": 97374
-  },
-  "卡士": {
-    "url": "https://s.weibo.com/weibo?q=%E5%8D%A1%E5%A3%AB&Refer=top",
-    "hot": 90419
   }
 }
