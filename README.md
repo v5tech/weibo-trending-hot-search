@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-04-11 04:30:04.444414 
+最后更新时间 2022-04-11 04:41:41.089274 
 1. [新冠感染者为什么不能居家隔离](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%86%A0%E6%84%9F%E6%9F%93%E8%80%85%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E8%83%BD%E5%B1%85%E5%AE%B6%E9%9A%94%E7%A6%BB%23&Refer=top) 2630020
 1. [突然就不emo了](https://s.weibo.com/weibo?q=%23%E7%AA%81%E7%84%B6%E5%B0%B1%E4%B8%8Demo%E4%BA%86%23&Refer=top) 1441985
 1. [安全生产十五条措施](https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%85%A8%E7%94%9F%E4%BA%A7%E5%8D%81%E4%BA%94%E6%9D%A1%E6%8E%AA%E6%96%BD%23&Refer=top) 1386312
@@ -70,7 +70,7 @@
 1. [留学生质疑芬达橙配料表双标](https://s.weibo.com/weibo?q=%23%E7%95%99%E5%AD%A6%E7%94%9F%E8%B4%A8%E7%96%91%E8%8A%AC%E8%BE%BE%E6%A9%99%E9%85%8D%E6%96%99%E8%A1%A8%E5%8F%8C%E6%A0%87%23&Refer=top) 54928
 1. [用音乐声援上海](https://s.weibo.com/weibo?q=%23%E7%94%A8%E9%9F%B3%E4%B9%90%E5%A3%B0%E6%8F%B4%E4%B8%8A%E6%B5%B7%23&Refer=top) 39270
 1. [如何破解读过就忘的现象](https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E7%A0%B4%E8%A7%A3%E8%AF%BB%E8%BF%87%E5%B0%B1%E5%BF%98%E7%9A%84%E7%8E%B0%E8%B1%A1%23&Refer=top) 22976
-1. [消防员两次下激流救回轻生女子](https://s.weibo.com/weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%98%E4%B8%A4%E6%AC%A1%E4%B8%8B%E6%BF%80%E6%B5%81%E6%95%91%E5%9B%9E%E8%BD%BB%E7%94%9F%E5%A5%B3%E5%AD%90%23&Refer=top) 15220
+1. [消防员两次下激流救回轻生女子](https://s.weibo.com/weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%98%E4%B8%A4%E6%AC%A1%E4%B8%8B%E6%BF%80%E6%B5%81%E6%95%91%E5%9B%9E%E8%BD%BB%E7%94%9F%E5%A5%B3%E5%AD%90%23&Refer=top) 18903
 <!-- END -->
 
 历史归档 [./archives](./archives)
