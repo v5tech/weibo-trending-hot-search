@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-04-12 00:56:17.550610 
+最后更新时间 2022-04-12 01:18:21.696837 
 1. [东航事故后部分空勤人员出现应激心理反应](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E8%88%AA%E4%BA%8B%E6%95%85%E5%90%8E%E9%83%A8%E5%88%86%E7%A9%BA%E5%8B%A4%E4%BA%BA%E5%91%98%E5%87%BA%E7%8E%B0%E5%BA%94%E6%BF%80%E5%BF%83%E7%90%86%E5%8F%8D%E5%BA%94%23&Refer=top) 1370248
 1. [日本发现首例XE毒株病例](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8F%91%E7%8E%B0%E9%A6%96%E4%BE%8BXE%E6%AF%92%E6%A0%AA%E7%97%85%E4%BE%8B%23&Refer=top) 1186632
 1. [加快建设全国统一大市场](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E5%BF%AB%E5%BB%BA%E8%AE%BE%E5%85%A8%E5%9B%BD%E7%BB%9F%E4%B8%80%E5%A4%A7%E5%B8%82%E5%9C%BA%23&Refer=top) 938917
@@ -33,6 +33,7 @@
 1. [北京已建立主要生活必需品政府储备](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%B7%B2%E5%BB%BA%E7%AB%8B%E4%B8%BB%E8%A6%81%E7%94%9F%E6%B4%BB%E5%BF%85%E9%9C%80%E5%93%81%E6%94%BF%E5%BA%9C%E5%82%A8%E5%A4%87%23&Refer=top) 383646
 1. [广州新增阳性感染者38例](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E6%96%B0%E5%A2%9E%E9%98%B3%E6%80%A7%E6%84%9F%E6%9F%93%E8%80%8538%E4%BE%8B%23&Refer=top) 382500
 1. [南京组织400吨生活物资支援上海](https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E7%BB%84%E7%BB%87400%E5%90%A8%E7%94%9F%E6%B4%BB%E7%89%A9%E8%B5%84%E6%94%AF%E6%8F%B4%E4%B8%8A%E6%B5%B7%23&Refer=top) 377259
+1. [广州本次疫情累计报告新冠感染者61例](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E6%9C%AC%E6%AC%A1%E7%96%AB%E6%83%85%E7%B4%AF%E8%AE%A1%E6%8A%A5%E5%91%8A%E6%96%B0%E5%86%A0%E6%84%9F%E6%9F%93%E8%80%8561%E4%BE%8B%23&Refer=top) 363008
 1. [摆烂式爱情](https://s.weibo.com/weibo?q=%23%E6%91%86%E7%83%82%E5%BC%8F%E7%88%B1%E6%83%85%23&Refer=top) 330638
 1. [当心洗澡玩具小黄鸭](https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%BF%83%E6%B4%97%E6%BE%A1%E7%8E%A9%E5%85%B7%E5%B0%8F%E9%BB%84%E9%B8%AD%23&Refer=top) 326997
 1. [你以为的哄和男朋友的哄](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%BB%A5%E4%B8%BA%E7%9A%84%E5%93%84%E5%92%8C%E7%94%B7%E6%9C%8B%E5%8F%8B%E7%9A%84%E5%93%84%23&Refer=top) 286982
@@ -47,13 +48,12 @@
 1. [当你挠小狗的痒痒肉](https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BD%A0%E6%8C%A0%E5%B0%8F%E7%8B%97%E7%9A%84%E7%97%92%E7%97%92%E8%82%89%23&Refer=top) 215769
 1. [春天摄影大赛](https://s.weibo.com/weibo?q=%23%E6%98%A5%E5%A4%A9%E6%91%84%E5%BD%B1%E5%A4%A7%E8%B5%9B%23&Refer=top) 215160
 1. [深圳宠物方舱是双向奔赴的爱](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%AE%A0%E7%89%A9%E6%96%B9%E8%88%B1%E6%98%AF%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4%E7%9A%84%E7%88%B1%23&Refer=top) 195878
-1. [当第一次使用智能马桶](https://s.weibo.com/weibo?q=%23%E5%BD%93%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%BF%E7%94%A8%E6%99%BA%E8%83%BD%E9%A9%AC%E6%A1%B6%23&Refer=top) 181991
+1. [当第一次使用智能马桶](https://s.weibo.com/weibo?q=%23%E5%BD%93%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%BF%E7%94%A8%E6%99%BA%E8%83%BD%E9%A9%AC%E6%A1%B6%23&Refer=top) 189004
 1. [特战荣耀](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%88%98%E8%8D%A3%E8%80%80%23&Refer=top) 176693
 1. [梦中情床](https://s.weibo.com/weibo?q=%E6%A2%A6%E4%B8%AD%E6%83%85%E5%BA%8A&Refer=top) 171299
 1. [时代少年团夏日少年派朱雀舞台](https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E5%A4%8F%E6%97%A5%E5%B0%91%E5%B9%B4%E6%B4%BE%E6%9C%B1%E9%9B%80%E8%88%9E%E5%8F%B0%23&Refer=top) 167581
 1. [00后女孩帮爷爷线上经营动物园](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E5%A5%B3%E5%AD%A9%E5%B8%AE%E7%88%B7%E7%88%B7%E7%BA%BF%E4%B8%8A%E7%BB%8F%E8%90%A5%E5%8A%A8%E7%89%A9%E5%9B%AD%23&Refer=top) 166939
 1. [17战队](https://s.weibo.com/weibo?q=17%E6%88%98%E9%98%9F&Refer=top) 162767
-1. [广州本次疫情累计报告新冠感染者61例](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E6%9C%AC%E6%AC%A1%E7%96%AB%E6%83%85%E7%B4%AF%E8%AE%A1%E6%8A%A5%E5%91%8A%E6%96%B0%E5%86%A0%E6%84%9F%E6%9F%93%E8%80%8561%E4%BE%8B%23&Refer=top) 161371
 1. [恰似故人归](https://s.weibo.com/weibo?q=%23%E6%81%B0%E4%BC%BC%E6%95%85%E4%BA%BA%E5%BD%92%23&Refer=top) 153735
 1. [济南市新增8例本土无症状感染者](https://s.weibo.com/weibo?q=%23%E6%B5%8E%E5%8D%97%E5%B8%82%E6%96%B0%E5%A2%9E8%E4%BE%8B%E6%9C%AC%E5%9C%9F%E6%97%A0%E7%97%87%E7%8A%B6%E6%84%9F%E6%9F%93%E8%80%85%23&Refer=top) 148854
 1. [江苏要求不得禁止或限制邮政快递车辆正常通行](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E8%A6%81%E6%B1%82%E4%B8%8D%E5%BE%97%E7%A6%81%E6%AD%A2%E6%88%96%E9%99%90%E5%88%B6%E9%82%AE%E6%94%BF%E5%BF%AB%E9%80%92%E8%BD%A6%E8%BE%86%E6%AD%A3%E5%B8%B8%E9%80%9A%E8%A1%8C%23&Refer=top) 145660
