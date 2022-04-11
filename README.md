@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-04-12 02:15:54.003910 
+最后更新时间 2022-04-12 02:45:51.735468 
 1. [东航事故后部分空勤人员出现应激心理反应](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E8%88%AA%E4%BA%8B%E6%95%85%E5%90%8E%E9%83%A8%E5%88%86%E7%A9%BA%E5%8B%A4%E4%BA%BA%E5%91%98%E5%87%BA%E7%8E%B0%E5%BA%94%E6%BF%80%E5%BF%83%E7%90%86%E5%8F%8D%E5%BA%94%23&Refer=top) 1370248
 1. [日本发现首例XE毒株病例](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8F%91%E7%8E%B0%E9%A6%96%E4%BE%8BXE%E6%AF%92%E6%A0%AA%E7%97%85%E4%BE%8B%23&Refer=top) 1186632
 1. [加快建设全国统一大市场](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E5%BF%AB%E5%BB%BA%E8%AE%BE%E5%85%A8%E5%9B%BD%E7%BB%9F%E4%B8%80%E5%A4%A7%E5%B8%82%E5%9C%BA%23&Refer=top) 938917
@@ -62,7 +62,7 @@
 1. [豆瓣崩了](https://s.weibo.com/weibo?q=%23%E8%B1%86%E7%93%A3%E5%B4%A9%E4%BA%86%23&Refer=top) 136941
 1. [PCL2022](https://s.weibo.com/weibo?q=%23PCL2022%23&Refer=top) 136713
 1. [字写不好与笔无关](https://s.weibo.com/weibo?q=%23%E5%AD%97%E5%86%99%E4%B8%8D%E5%A5%BD%E4%B8%8E%E7%AC%94%E6%97%A0%E5%85%B3%23&Refer=top) 126099
-1. [好朋友都是阶段式的吗](https://s.weibo.com/weibo?q=%23%E5%A5%BD%E6%9C%8B%E5%8F%8B%E9%83%BD%E6%98%AF%E9%98%B6%E6%AE%B5%E5%BC%8F%E7%9A%84%E5%90%97%23&Refer=top) 24588
+1. [好朋友都是阶段式的吗](https://s.weibo.com/weibo?q=%23%E5%A5%BD%E6%9C%8B%E5%8F%8B%E9%83%BD%E6%98%AF%E9%98%B6%E6%AE%B5%E5%BC%8F%E7%9A%84%E5%90%97%23&Refer=top) 34873
 <!-- END -->
 
 历史归档 [./archives](./archives)
