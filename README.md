@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-04-13 04:48:45.495785 
+最后更新时间 2022-04-13 05:10:56.277184 
 1. [康师傅老坛酸菜方便面重返超市货架](https://s.weibo.com/weibo?q=%23%E5%BA%B7%E5%B8%88%E5%82%85%E8%80%81%E5%9D%9B%E9%85%B8%E8%8F%9C%E6%96%B9%E4%BE%BF%E9%9D%A2%E9%87%8D%E8%BF%94%E8%B6%85%E5%B8%82%E8%B4%A7%E6%9E%B6%23&Refer=top) 3014855
 1. [为什么喜欢日落](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%96%9C%E6%AC%A2%E6%97%A5%E8%90%BD%23&Refer=top) 1575981
 1. [青年大学习](https://s.weibo.com/weibo?q=%E9%9D%92%E5%B9%B4%E5%A4%A7%E5%AD%A6%E4%B9%A0&Refer=top) 1440346
@@ -64,12 +64,13 @@
 1. [杨洋赵露思且试天下多国海报](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B4%8B%E8%B5%B5%E9%9C%B2%E6%80%9D%E4%B8%94%E8%AF%95%E5%A4%A9%E4%B8%8B%E5%A4%9A%E5%9B%BD%E6%B5%B7%E6%8A%A5%23&Refer=top) 136586
 1. [苏州新增阳性31例](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E5%B7%9E%E6%96%B0%E5%A2%9E%E9%98%B3%E6%80%A731%E4%BE%8B%23&Refer=top) 136489
 1. [CBA](https://s.weibo.com/weibo?q=CBA&Refer=top) 103264
+1. [秦昊任素汐吵架戏爆发力](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E6%98%8A%E4%BB%BB%E7%B4%A0%E6%B1%90%E5%90%B5%E6%9E%B6%E6%88%8F%E7%88%86%E5%8F%91%E5%8A%9B%23&Refer=top) 84616
 1. [美国CPI](https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BDCPI&Refer=top) 77390
 1. [就怕陈奕迅说儿化音](https://s.weibo.com/weibo?q=%23%E5%B0%B1%E6%80%95%E9%99%88%E5%A5%95%E8%BF%85%E8%AF%B4%E5%84%BF%E5%8C%96%E9%9F%B3%23&Refer=top) 70800
-1. [秦昊任素汐吵架戏爆发力](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E6%98%8A%E4%BB%BB%E7%B4%A0%E6%B1%90%E5%90%B5%E6%9E%B6%E6%88%8F%E7%88%86%E5%8F%91%E5%8A%9B%23&Refer=top) 56150
 1. [曝信元发育宝猫粮致230只猫中毒](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E4%BF%A1%E5%85%83%E5%8F%91%E8%82%B2%E5%AE%9D%E7%8C%AB%E7%B2%AE%E8%87%B4230%E5%8F%AA%E7%8C%AB%E4%B8%AD%E6%AF%92%23&Refer=top) 28318
-1. [电子烟强制性国家标准10月起实施](https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%AD%90%E7%83%9F%E5%BC%BA%E5%88%B6%E6%80%A7%E5%9B%BD%E5%AE%B6%E6%A0%87%E5%87%8610%E6%9C%88%E8%B5%B7%E5%AE%9E%E6%96%BD%23&Refer=top) 26706
-1. [游乐园还可以这样玩](https://s.weibo.com/weibo?q=%23%E6%B8%B8%E4%B9%90%E5%9B%AD%E8%BF%98%E5%8F%AF%E4%BB%A5%E8%BF%99%E6%A0%B7%E7%8E%A9%23&Refer=top) 13968
+1. [电子烟强制性国家标准10月起实施](https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%AD%90%E7%83%9F%E5%BC%BA%E5%88%B6%E6%80%A7%E5%9B%BD%E5%AE%B6%E6%A0%87%E5%87%8610%E6%9C%88%E8%B5%B7%E5%AE%9E%E6%96%BD%23&Refer=top) 27987
+1. [游乐园还可以这样玩](https://s.weibo.com/weibo?q=%23%E6%B8%B8%E4%B9%90%E5%9B%AD%E8%BF%98%E5%8F%AF%E4%BB%A5%E8%BF%99%E6%A0%B7%E7%8E%A9%23&Refer=top) 15497
+1. [管泽元](https://s.weibo.com/weibo?q=%E7%AE%A1%E6%B3%BD%E5%85%83&Refer=top) 14819
 <!-- END -->
 
 历史归档 [./archives](./archives)
