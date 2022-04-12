@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-04-13 06:11:50.268842 
+最后更新时间 2022-04-13 06:30:28.342303 
 1. [康师傅老坛酸菜方便面重返超市货架](https://s.weibo.com/weibo?q=%23%E5%BA%B7%E5%B8%88%E5%82%85%E8%80%81%E5%9D%9B%E9%85%B8%E8%8F%9C%E6%96%B9%E4%BE%BF%E9%9D%A2%E9%87%8D%E8%BF%94%E8%B6%85%E5%B8%82%E8%B4%A7%E6%9E%B6%23&Refer=top) 3014855
 1. [为什么喜欢日落](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%96%9C%E6%AC%A2%E6%97%A5%E8%90%BD%23&Refer=top) 1575981
 1. [青年大学习](https://s.weibo.com/weibo?q=%E9%9D%92%E5%B9%B4%E5%A4%A7%E5%AD%A6%E4%B9%A0&Refer=top) 1440346
@@ -47,6 +47,7 @@
 1. [长意哭了一地珍珠](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%84%8F%E5%93%AD%E4%BA%86%E4%B8%80%E5%9C%B0%E7%8F%8D%E7%8F%A0%23&Refer=top) 252399
 1. [金宵大厦2](https://s.weibo.com/weibo?q=%23%E9%87%91%E5%AE%B5%E5%A4%A7%E5%8E%A62%23&Refer=top) 243450
 1. [07快男把搞笑刻进DNA了吧](https://s.weibo.com/weibo?q=%2307%E5%BF%AB%E7%94%B7%E6%8A%8A%E6%90%9E%E7%AC%91%E5%88%BB%E8%BF%9BDNA%E4%BA%86%E5%90%A7%23&Refer=top) 239337
+1. [秦昊任素汐吵架戏爆发力](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E6%98%8A%E4%BB%BB%E7%B4%A0%E6%B1%90%E5%90%B5%E6%9E%B6%E6%88%8F%E7%88%86%E5%8F%91%E5%8A%9B%23&Refer=top) 239018
 1. [生个孩子啥感觉](https://s.weibo.com/weibo?q=%23%E7%94%9F%E4%B8%AA%E5%AD%A9%E5%AD%90%E5%95%A5%E6%84%9F%E8%A7%89%23&Refer=top) 230881
 1. [上海网传起火点并非蔬菜物资仓库](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E7%BD%91%E4%BC%A0%E8%B5%B7%E7%81%AB%E7%82%B9%E5%B9%B6%E9%9D%9E%E8%94%AC%E8%8F%9C%E7%89%A9%E8%B5%84%E4%BB%93%E5%BA%93%23&Refer=top) 227725
 1. [电影奇迹入围意大利远东电影节主竞赛单元](https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E5%A5%87%E8%BF%B9%E5%85%A5%E5%9B%B4%E6%84%8F%E5%A4%A7%E5%88%A9%E8%BF%9C%E4%B8%9C%E7%94%B5%E5%BD%B1%E8%8A%82%E4%B8%BB%E7%AB%9E%E8%B5%9B%E5%8D%95%E5%85%83%23&Refer=top) 224169
@@ -55,23 +56,22 @@
 1. [郑州财经学院](https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E8%B4%A2%E7%BB%8F%E5%AD%A6%E9%99%A2%23&Refer=top) 192699
 1. [男子与妻子赌气离家流浪21年](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%8E%E5%A6%BB%E5%AD%90%E8%B5%8C%E6%B0%94%E7%A6%BB%E5%AE%B6%E6%B5%81%E6%B5%AA21%E5%B9%B4%23&Refer=top) 183251
 1. [小朋友穿防护服的样子](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9C%8B%E5%8F%8B%E7%A9%BF%E9%98%B2%E6%8A%A4%E6%9C%8D%E7%9A%84%E6%A0%B7%E5%AD%90%23&Refer=top) 182016
-1. [秦昊任素汐吵架戏爆发力](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E6%98%8A%E4%BB%BB%E7%B4%A0%E6%B1%90%E5%90%B5%E6%9E%B6%E6%88%8F%E7%88%86%E5%8F%91%E5%8A%9B%23&Refer=top) 178280
 1. [拒绝摆烂开花贝果](https://s.weibo.com/weibo?q=%23%E6%8B%92%E7%BB%9D%E6%91%86%E7%83%82%E5%BC%80%E8%8A%B1%E8%B4%9D%E6%9E%9C%23&Refer=top) 171486
 1. [郭艾伦](https://s.weibo.com/weibo?q=%E9%83%AD%E8%89%BE%E4%BC%A6&Refer=top) 171031
 1. [杨鸣表情](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E9%B8%A3%E8%A1%A8%E6%83%85%23&Refer=top) 159012
 1. [恰似故人归播放热度破万](https://s.weibo.com/weibo?q=%23%E6%81%B0%E4%BC%BC%E6%95%85%E4%BA%BA%E5%BD%92%E6%92%AD%E6%94%BE%E7%83%AD%E5%BA%A6%E7%A0%B4%E4%B8%87%23&Refer=top) 158852
+1. [中国是最早记录极光的国家](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%98%AF%E6%9C%80%E6%97%A9%E8%AE%B0%E5%BD%95%E6%9E%81%E5%85%89%E7%9A%84%E5%9B%BD%E5%AE%B6%23&Refer=top) 147975
 1. [追星揽月的航天女将](https://s.weibo.com/weibo?q=%23%E8%BF%BD%E6%98%9F%E6%8F%BD%E6%9C%88%E7%9A%84%E8%88%AA%E5%A4%A9%E5%A5%B3%E5%B0%86%23&Refer=top) 137239
 1. [熊猫吃竹笋好吃到眯起眼睛](https://s.weibo.com/weibo?q=%23%E7%86%8A%E7%8C%AB%E5%90%83%E7%AB%B9%E7%AC%8B%E5%A5%BD%E5%90%83%E5%88%B0%E7%9C%AF%E8%B5%B7%E7%9C%BC%E7%9D%9B%23&Refer=top) 136641
 1. [杨洋赵露思且试天下多国海报](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B4%8B%E8%B5%B5%E9%9C%B2%E6%80%9D%E4%B8%94%E8%AF%95%E5%A4%A9%E4%B8%8B%E5%A4%9A%E5%9B%BD%E6%B5%B7%E6%8A%A5%23&Refer=top) 136586
 1. [苏州新增阳性31例](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E5%B7%9E%E6%96%B0%E5%A2%9E%E9%98%B3%E6%80%A731%E4%BE%8B%23&Refer=top) 136489
+1. [电子烟强制性国家标准10月起实施](https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%AD%90%E7%83%9F%E5%BC%BA%E5%88%B6%E6%80%A7%E5%9B%BD%E5%AE%B6%E6%A0%87%E5%87%8610%E6%9C%88%E8%B5%B7%E5%AE%9E%E6%96%BD%23&Refer=top) 119926
 1. [CBA](https://s.weibo.com/weibo?q=CBA&Refer=top) 103264
 1. [美国CPI](https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BDCPI&Refer=top) 77390
 1. [就怕陈奕迅说儿化音](https://s.weibo.com/weibo?q=%23%E5%B0%B1%E6%80%95%E9%99%88%E5%A5%95%E8%BF%85%E8%AF%B4%E5%84%BF%E5%8C%96%E9%9F%B3%23&Refer=top) 70800
-1. [电子烟强制性国家标准10月起实施](https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%AD%90%E7%83%9F%E5%BC%BA%E5%88%B6%E6%80%A7%E5%9B%BD%E5%AE%B6%E6%A0%87%E5%87%8610%E6%9C%88%E8%B5%B7%E5%AE%9E%E6%96%BD%23&Refer=top) 47267
-1. [中国是最早记录极光的国家](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%98%AF%E6%9C%80%E6%97%A9%E8%AE%B0%E5%BD%95%E6%9E%81%E5%85%89%E7%9A%84%E5%9B%BD%E5%AE%B6%23&Refer=top) 36930
-1. [8旬老人为感谢民警徒步10里地送苹果](https://s.weibo.com/weibo?q=%238%E6%97%AC%E8%80%81%E4%BA%BA%E4%B8%BA%E6%84%9F%E8%B0%A2%E6%B0%91%E8%AD%A6%E5%BE%92%E6%AD%A510%E9%87%8C%E5%9C%B0%E9%80%81%E8%8B%B9%E6%9E%9C%23&Refer=top) 32664
-1. [曝信元发育宝猫粮致230只猫中毒](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E4%BF%A1%E5%85%83%E5%8F%91%E8%82%B2%E5%AE%9D%E7%8C%AB%E7%B2%AE%E8%87%B4230%E5%8F%AA%E7%8C%AB%E4%B8%AD%E6%AF%92%23&Refer=top) 28318
-1. [管泽元](https://s.weibo.com/weibo?q=%E7%AE%A1%E6%B3%BD%E5%85%83&Refer=top) 19821
+1. [8旬老人为感谢民警徒步10里地送苹果](https://s.weibo.com/weibo?q=%238%E6%97%AC%E8%80%81%E4%BA%BA%E4%B8%BA%E6%84%9F%E8%B0%A2%E6%B0%91%E8%AD%A6%E5%BE%92%E6%AD%A510%E9%87%8C%E5%9C%B0%E9%80%81%E8%8B%B9%E6%9E%9C%23&Refer=top) 55672
+1. [曝信元发育宝猫粮致230只猫中毒](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E4%BF%A1%E5%85%83%E5%8F%91%E8%82%B2%E5%AE%9D%E7%8C%AB%E7%B2%AE%E8%87%B4230%E5%8F%AA%E7%8C%AB%E4%B8%AD%E6%AF%92%23&Refer=top) 30669
+1. [管泽元](https://s.weibo.com/weibo?q=%E7%AE%A1%E6%B3%BD%E5%85%83&Refer=top) 23857
 1. [游乐园还可以这样玩](https://s.weibo.com/weibo?q=%23%E6%B8%B8%E4%B9%90%E5%9B%AD%E8%BF%98%E5%8F%AF%E4%BB%A5%E8%BF%99%E6%A0%B7%E7%8E%A9%23&Refer=top) 15497
 <!-- END -->
 
