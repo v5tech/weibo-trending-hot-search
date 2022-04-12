@@ -7,6 +7,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%96%9C%E6%AC%A2%E6%97%A5%E8%90%BD%23&Refer=top",
     "hot": 1575981
   },
+  "青年大学习": {
+    "url": "https://s.weibo.com/weibo?q=%E9%9D%92%E5%B9%B4%E5%A4%A7%E5%AD%A6%E4%B9%A0&Refer=top",
+    "hot": 1440346
+  },
   "160秒混剪中国航天大事记": {
     "url": "https://s.weibo.com/weibo?q=%23160%E7%A7%92%E6%B7%B7%E5%89%AA%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%A4%A7%E4%BA%8B%E8%AE%B0%23&Refer=top",
     "hot": 1335712
@@ -14,10 +18,6 @@
   "龚俊经纪公司声明": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%BE%9A%E4%BF%8A%E7%BB%8F%E7%BA%AA%E5%85%AC%E5%8F%B8%E5%A3%B0%E6%98%8E%23&Refer=top",
     "hot": 1214823
-  },
-  "青年大学习": {
-    "url": "https://s.weibo.com/weibo?q=%E9%9D%92%E5%B9%B4%E5%A4%A7%E5%AD%A6%E4%B9%A0&Refer=top",
-    "hot": 1092437
   },
   "樊振东 大学": {
     "url": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%20%E5%A4%A7%E5%AD%A6&Refer=top",
@@ -167,6 +167,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%AE%A0%E5%9D%8F%E7%9A%84%E6%99%AE%E9%80%9A%E4%BA%BA%E5%AE%B6%E7%9A%84%E5%AD%A9%E5%AD%90%23&Refer=top",
     "hot": 199898
   },
+  "我是山姆真的太好哭了": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E6%98%AF%E5%B1%B1%E5%A7%86%E7%9C%9F%E7%9A%84%E5%A4%AA%E5%A5%BD%E5%93%AD%E4%BA%86%23&Refer=top",
+    "hot": 197840
+  },
   "福原爱发博为刘诗雯庆生": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%8E%9F%E7%88%B1%E5%8F%91%E5%8D%9A%E4%B8%BA%E5%88%98%E8%AF%97%E9%9B%AF%E5%BA%86%E7%94%9F%23&Refer=top",
     "hot": 193882
@@ -222,5 +226,9 @@
   "就怕陈奕迅说儿化音": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%B0%B1%E6%80%95%E9%99%88%E5%A5%95%E8%BF%85%E8%AF%B4%E5%84%BF%E5%8C%96%E9%9F%B3%23&Refer=top",
     "hot": 70800
+  },
+  "美国CPI": {
+    "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BDCPI&Refer=top",
+    "hot": 50279
   }
 }
