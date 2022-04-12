@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-04-13 01:43:31.620240 
+最后更新时间 2022-04-13 01:51:01.351901 
 1. [康师傅老坛酸菜方便面重返超市货架](https://s.weibo.com/weibo?q=%23%E5%BA%B7%E5%B8%88%E5%82%85%E8%80%81%E5%9D%9B%E9%85%B8%E8%8F%9C%E6%96%B9%E4%BE%BF%E9%9D%A2%E9%87%8D%E8%BF%94%E8%B6%85%E5%B8%82%E8%B4%A7%E6%9E%B6%23&Refer=top) 3014855
 1. [为什么喜欢日落](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%96%9C%E6%AC%A2%E6%97%A5%E8%90%BD%23&Refer=top) 1575981
 1. [160秒混剪中国航天大事记](https://s.weibo.com/weibo?q=%23160%E7%A7%92%E6%B7%B7%E5%89%AA%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%A4%A7%E4%BA%8B%E8%AE%B0%23&Refer=top) 1335712
@@ -21,13 +21,13 @@
 1. [朱颜剧名变更为玉骨遥](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E9%A2%9C%E5%89%A7%E5%90%8D%E5%8F%98%E6%9B%B4%E4%B8%BA%E7%8E%89%E9%AA%A8%E9%81%A5%23&Refer=top) 827158
 1. [预计未来几日上海新增感染者人数仍将处于高位](https://s.weibo.com/weibo?q=%23%E9%A2%84%E8%AE%A1%E6%9C%AA%E6%9D%A5%E5%87%A0%E6%97%A5%E4%B8%8A%E6%B5%B7%E6%96%B0%E5%A2%9E%E6%84%9F%E6%9F%93%E8%80%85%E4%BA%BA%E6%95%B0%E4%BB%8D%E5%B0%86%E5%A4%84%E4%BA%8E%E9%AB%98%E4%BD%8D%23&Refer=top) 747221
 1. [刘畊宏健身](https://s.weibo.com/weibo?q=%23%E5%88%98%E7%95%8A%E5%AE%8F%E5%81%A5%E8%BA%AB%23&Refer=top) 685642
+1. [青年大学习](https://s.weibo.com/weibo?q=%E9%9D%92%E5%B9%B4%E5%A4%A7%E5%AD%A6%E4%B9%A0&Refer=top) 601957
 1. [突然有点想家了](https://s.weibo.com/weibo?q=%E7%AA%81%E7%84%B6%E6%9C%89%E7%82%B9%E6%83%B3%E5%AE%B6%E4%BA%86&Refer=top) 546811
 1. [父亲备24万元为失踪21年儿子庆生](https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E5%A4%8724%E4%B8%87%E5%85%83%E4%B8%BA%E5%A4%B1%E8%B8%AA21%E5%B9%B4%E5%84%BF%E5%AD%90%E5%BA%86%E7%94%9F%23&Refer=top) 520117
 1. [以后吵架再也不怕吵输了](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E5%90%8E%E5%90%B5%E6%9E%B6%E5%86%8D%E4%B9%9F%E4%B8%8D%E6%80%95%E5%90%B5%E8%BE%93%E4%BA%86%23&Refer=top) 512899
 1. [一张图证明你的数学水平](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%BC%A0%E5%9B%BE%E8%AF%81%E6%98%8E%E4%BD%A0%E7%9A%84%E6%95%B0%E5%AD%A6%E6%B0%B4%E5%B9%B3%23&Refer=top) 498665
 1. [中年夫妻生活会是什么样子](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B9%B4%E5%A4%AB%E5%A6%BB%E7%94%9F%E6%B4%BB%E4%BC%9A%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E5%AD%90%23&Refer=top) 489506
 1. [大学生操场合唱蔡徐坤情人](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%93%8D%E5%9C%BA%E5%90%88%E5%94%B1%E8%94%A1%E5%BE%90%E5%9D%A4%E6%83%85%E4%BA%BA%23&Refer=top) 475056
-1. [青年大学习](https://s.weibo.com/weibo?q=%E9%9D%92%E5%B9%B4%E5%A4%A7%E5%AD%A6%E4%B9%A0&Refer=top) 431911
 1. [纽约布鲁克林地铁站多人中弹](https://s.weibo.com/weibo?q=%23%E7%BA%BD%E7%BA%A6%E5%B8%83%E9%B2%81%E5%85%8B%E6%9E%97%E5%9C%B0%E9%93%81%E7%AB%99%E5%A4%9A%E4%BA%BA%E4%B8%AD%E5%BC%B9%23&Refer=top) 414142
 1. [XL毒株与XE毒株有啥区别](https://s.weibo.com/weibo?q=%23XL%E6%AF%92%E6%A0%AA%E4%B8%8EXE%E6%AF%92%E6%A0%AA%E6%9C%89%E5%95%A5%E5%8C%BA%E5%88%AB%23&Refer=top) 414009
 1. [这两天买菜的广东人](https://s.weibo.com/weibo?q=%E8%BF%99%E4%B8%A4%E5%A4%A9%E4%B9%B0%E8%8F%9C%E7%9A%84%E5%B9%BF%E4%B8%9C%E4%BA%BA&Refer=top) 390527
@@ -63,7 +63,7 @@
 1. [杨洋赵露思且试天下多国海报](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B4%8B%E8%B5%B5%E9%9C%B2%E6%80%9D%E4%B8%94%E8%AF%95%E5%A4%A9%E4%B8%8B%E5%A4%9A%E5%9B%BD%E6%B5%B7%E6%8A%A5%23&Refer=top) 136586
 1. [苏州新增阳性31例](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E5%B7%9E%E6%96%B0%E5%A2%9E%E9%98%B3%E6%80%A731%E4%BE%8B%23&Refer=top) 136489
 1. [CBA](https://s.weibo.com/weibo?q=CBA&Refer=top) 103264
-1. [就怕陈奕迅说儿化音](https://s.weibo.com/weibo?q=%23%E5%B0%B1%E6%80%95%E9%99%88%E5%A5%95%E8%BF%85%E8%AF%B4%E5%84%BF%E5%8C%96%E9%9F%B3%23&Refer=top) 68577
+1. [就怕陈奕迅说儿化音](https://s.weibo.com/weibo?q=%23%E5%B0%B1%E6%80%95%E9%99%88%E5%A5%95%E8%BF%85%E8%AF%B4%E5%84%BF%E5%8C%96%E9%9F%B3%23&Refer=top) 70800
 <!-- END -->
 
 历史归档 [./archives](./archives)
