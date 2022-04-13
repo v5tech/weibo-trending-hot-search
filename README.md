@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-04-14 05:48:49.752471 
+最后更新时间 2022-04-14 06:29:22.791094 
 1. [美国就是全球最大的人权赤字国](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%B0%B1%E6%98%AF%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E7%9A%84%E4%BA%BA%E6%9D%83%E8%B5%A4%E5%AD%97%E5%9B%BD%23&Refer=top) 3522209
 1. [上海查处多起涉疫谣言](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%9F%A5%E5%A4%84%E5%A4%9A%E8%B5%B7%E6%B6%89%E7%96%AB%E8%B0%A3%E8%A8%80%23&Refer=top) 2517884
 1. [椰树集团再发争议广告](https://s.weibo.com/weibo?q=%23%E6%A4%B0%E6%A0%91%E9%9B%86%E5%9B%A2%E5%86%8D%E5%8F%91%E4%BA%89%E8%AE%AE%E5%B9%BF%E5%91%8A%23&Refer=top) 1448472
@@ -35,6 +35,7 @@
 1. [太原疫情](https://s.weibo.com/weibo?q=%23%E5%A4%AA%E5%8E%9F%E7%96%AB%E6%83%85%23&Refer=top) 379381
 1. [当你情绪低落时会找谁倾诉](https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BD%A0%E6%83%85%E7%BB%AA%E4%BD%8E%E8%90%BD%E6%97%B6%E4%BC%9A%E6%89%BE%E8%B0%81%E5%80%BE%E8%AF%89%23&Refer=top) 370312
 1. [广州地铁共14个站点停止对外服务](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%9C%B0%E9%93%81%E5%85%B114%E4%B8%AA%E7%AB%99%E7%82%B9%E5%81%9C%E6%AD%A2%E5%AF%B9%E5%A4%96%E6%9C%8D%E5%8A%A1%23&Refer=top) 357201
+1. [iPhone14或将支持卫星网络连接](https://s.weibo.com/weibo?q=%23iPhone14%E6%88%96%E5%B0%86%E6%94%AF%E6%8C%81%E5%8D%AB%E6%98%9F%E7%BD%91%E7%BB%9C%E8%BF%9E%E6%8E%A5%23&Refer=top) 353634
 1. [Selina说新男友真的很像天使的存在](https://s.weibo.com/weibo?q=%23Selina%E8%AF%B4%E6%96%B0%E7%94%B7%E5%8F%8B%E7%9C%9F%E7%9A%84%E5%BE%88%E5%83%8F%E5%A4%A9%E4%BD%BF%E7%9A%84%E5%AD%98%E5%9C%A8%23&Refer=top) 338916
 1. [6岁女孩发现姥姥遗照崩溃大哭](https://s.weibo.com/weibo?q=%236%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%8F%91%E7%8E%B0%E5%A7%A5%E5%A7%A5%E9%81%97%E7%85%A7%E5%B4%A9%E6%BA%83%E5%A4%A7%E5%93%AD%23&Refer=top) 334663
 1. [空明洛洛吻戏](https://s.weibo.com/weibo?q=%23%E7%A9%BA%E6%98%8E%E6%B4%9B%E6%B4%9B%E5%90%BB%E6%88%8F%23&Refer=top) 328712
@@ -59,24 +60,25 @@
 1. [疫情下群众们最后的倔强](https://s.weibo.com/weibo?q=%23%E7%96%AB%E6%83%85%E4%B8%8B%E7%BE%A4%E4%BC%97%E4%BB%AC%E6%9C%80%E5%90%8E%E7%9A%84%E5%80%94%E5%BC%BA%23&Refer=top) 182601
 1. [奔跑吧](https://s.weibo.com/weibo?q=%E5%A5%94%E8%B7%91%E5%90%A7&Refer=top) 181421
 1. [RNG让二追三战胜JDG](https://s.weibo.com/weibo?q=%23RNG%E8%AE%A9%E4%BA%8C%E8%BF%BD%E4%B8%89%E6%88%98%E8%83%9CJDG%23&Refer=top) 179514
+1. [外交部提醒在美中国公民提高风险防范意识](https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E6%8F%90%E9%86%92%E5%9C%A8%E7%BE%8E%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%8F%90%E9%AB%98%E9%A3%8E%E9%99%A9%E9%98%B2%E8%8C%83%E6%84%8F%E8%AF%86%23&Refer=top) 174708
 1. [上海市监局提醒电商平台制止骑手恶意加价](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%B8%82%E7%9B%91%E5%B1%80%E6%8F%90%E9%86%92%E7%94%B5%E5%95%86%E5%B9%B3%E5%8F%B0%E5%88%B6%E6%AD%A2%E9%AA%91%E6%89%8B%E6%81%B6%E6%84%8F%E5%8A%A0%E4%BB%B7%23&Refer=top) 160556
+1. [边充电边玩手机电源插口起火烧家](https://s.weibo.com/weibo?q=%23%E8%BE%B9%E5%85%85%E7%94%B5%E8%BE%B9%E7%8E%A9%E6%89%8B%E6%9C%BA%E7%94%B5%E6%BA%90%E6%8F%92%E5%8F%A3%E8%B5%B7%E7%81%AB%E7%83%A7%E5%AE%B6%23&Refer=top) 158896
+1. [白展堂是全能偶像吧](https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%B1%95%E5%A0%82%E6%98%AF%E5%85%A8%E8%83%BD%E5%81%B6%E5%83%8F%E5%90%A7%23&Refer=top) 157049
 1. [当我哥教我70斤女生吃饭法](https://s.weibo.com/weibo?q=%23%E5%BD%93%E6%88%91%E5%93%A5%E6%95%99%E6%88%9170%E6%96%A4%E5%A5%B3%E7%94%9F%E5%90%83%E9%A5%AD%E6%B3%95%23&Refer=top) 153466
 1. [浪姐2团建为蒋璐霞特战荣耀打call](https://s.weibo.com/weibo?q=%23%E6%B5%AA%E5%A7%902%E5%9B%A2%E5%BB%BA%E4%B8%BA%E8%92%8B%E7%92%90%E9%9C%9E%E7%89%B9%E6%88%98%E8%8D%A3%E8%80%80%E6%89%93call%23&Refer=top) 150327
 1. [南昌疫情](https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%98%8C%E7%96%AB%E6%83%85%23&Refer=top) 148811
 1. [林俊杰分享测试唱歌视频](https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%88%86%E4%BA%AB%E6%B5%8B%E8%AF%95%E5%94%B1%E6%AD%8C%E8%A7%86%E9%A2%91%23&Refer=top) 145767
 1. [科切拉](https://s.weibo.com/weibo?q=%E7%A7%91%E5%88%87%E6%8B%89&Refer=top) 140727
-1. [iPhone14或将支持卫星网络连接](https://s.weibo.com/weibo?q=%23iPhone14%E6%88%96%E5%B0%86%E6%94%AF%E6%8C%81%E5%8D%AB%E6%98%9F%E7%BD%91%E7%BB%9C%E8%BF%9E%E6%8E%A5%23&Refer=top) 131420
-1. [外交部提醒在美中国公民提高风险防范意识](https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E6%8F%90%E9%86%92%E5%9C%A8%E7%BE%8E%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%8F%90%E9%AB%98%E9%A3%8E%E9%99%A9%E9%98%B2%E8%8C%83%E6%84%8F%E8%AF%86%23&Refer=top) 131031
 1. [TXT公开新logo](https://s.weibo.com/weibo?q=%23TXT%E5%85%AC%E5%BC%80%E6%96%B0logo%23&Refer=top) 126517
+1. [因代购救命药被控贩毒男子被羁押9个月](https://s.weibo.com/weibo?q=%23%E5%9B%A0%E4%BB%A3%E8%B4%AD%E6%95%91%E5%91%BD%E8%8D%AF%E8%A2%AB%E6%8E%A7%E8%B4%A9%E6%AF%92%E7%94%B7%E5%AD%90%E8%A2%AB%E7%BE%81%E6%8A%BC9%E4%B8%AA%E6%9C%88%23&Refer=top) 104684
 1. [乐园员工有点魔法天赋在身上](https://s.weibo.com/weibo?q=%23%E4%B9%90%E5%9B%AD%E5%91%98%E5%B7%A5%E6%9C%89%E7%82%B9%E9%AD%94%E6%B3%95%E5%A4%A9%E8%B5%8B%E5%9C%A8%E8%BA%AB%E4%B8%8A%23&Refer=top) 101252
 1. [古早港综有多敢说](https://s.weibo.com/weibo?q=%23%E5%8F%A4%E6%97%A9%E6%B8%AF%E7%BB%BC%E6%9C%89%E5%A4%9A%E6%95%A2%E8%AF%B4%23&Refer=top) 100108
-1. [网店回应客服称河南是贫民窟](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%BA%97%E5%9B%9E%E5%BA%94%E5%AE%A2%E6%9C%8D%E7%A7%B0%E6%B2%B3%E5%8D%97%E6%98%AF%E8%B4%AB%E6%B0%91%E7%AA%9F%23&Refer=top) 74023
-1. [边充电边玩手机电源插口起火烧家](https://s.weibo.com/weibo?q=%23%E8%BE%B9%E5%85%85%E7%94%B5%E8%BE%B9%E7%8E%A9%E6%89%8B%E6%9C%BA%E7%94%B5%E6%BA%90%E6%8F%92%E5%8F%A3%E8%B5%B7%E7%81%AB%E7%83%A7%E5%AE%B6%23&Refer=top) 62119
-1. [因代购救命药被控贩毒男子被羁押9个月](https://s.weibo.com/weibo?q=%23%E5%9B%A0%E4%BB%A3%E8%B4%AD%E6%95%91%E5%91%BD%E8%8D%AF%E8%A2%AB%E6%8E%A7%E8%B4%A9%E6%AF%92%E7%94%B7%E5%AD%90%E8%A2%AB%E7%BE%81%E6%8A%BC9%E4%B8%AA%E6%9C%88%23&Refer=top) 61658
-1. [白展堂是全能偶像吧](https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%B1%95%E5%A0%82%E6%98%AF%E5%85%A8%E8%83%BD%E5%81%B6%E5%83%8F%E5%90%A7%23&Refer=top) 60165
+1. [网店回应客服称河南是贫民窟](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%BA%97%E5%9B%9E%E5%BA%94%E5%AE%A2%E6%9C%8D%E7%A7%B0%E6%B2%B3%E5%8D%97%E6%98%AF%E8%B4%AB%E6%B0%91%E7%AA%9F%23&Refer=top) 94401
+1. [恰似故人归 加更吧](https://s.weibo.com/weibo?q=%E6%81%B0%E4%BC%BC%E6%95%85%E4%BA%BA%E5%BD%92%20%E5%8A%A0%E6%9B%B4%E5%90%A7&Refer=top) 74776
+1. [4名孩子楼顶玩轮滑并多次抛物](https://s.weibo.com/weibo?q=%234%E5%90%8D%E5%AD%A9%E5%AD%90%E6%A5%BC%E9%A1%B6%E7%8E%A9%E8%BD%AE%E6%BB%91%E5%B9%B6%E5%A4%9A%E6%AC%A1%E6%8A%9B%E7%89%A9%23&Refer=top) 74614
 1. [有一种温柔叫蜡笔小新](https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%B8%80%E7%A7%8D%E6%B8%A9%E6%9F%94%E5%8F%AB%E8%9C%A1%E7%AC%94%E5%B0%8F%E6%96%B0%23&Refer=top) 48174
-1. [恰似故人归 加更吧](https://s.weibo.com/weibo?q=%E6%81%B0%E4%BC%BC%E6%95%85%E4%BA%BA%E5%BD%92%20%E5%8A%A0%E6%9B%B4%E5%90%A7&Refer=top) 33723
 1. [没想到还可以这样画画](https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E8%BF%98%E5%8F%AF%E4%BB%A5%E8%BF%99%E6%A0%B7%E7%94%BB%E7%94%BB%23&Refer=top) 30358
+1. [熊猫犯困捂着眼睛睡觉觉](https://s.weibo.com/weibo?q=%23%E7%86%8A%E7%8C%AB%E7%8A%AF%E5%9B%B0%E6%8D%82%E7%9D%80%E7%9C%BC%E7%9D%9B%E7%9D%A1%E8%A7%89%E8%A7%89%23&Refer=top) 29329
 1. [耳熟能详的BGM合集](https://s.weibo.com/weibo?q=%23%E8%80%B3%E7%86%9F%E8%83%BD%E8%AF%A6%E7%9A%84BGM%E5%90%88%E9%9B%86%23&Refer=top) 14432
 <!-- END -->
 
