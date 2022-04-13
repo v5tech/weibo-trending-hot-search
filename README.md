@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-04-14 05:28:03.700477 
+最后更新时间 2022-04-14 05:39:14.412623 
 1. [美国就是全球最大的人权赤字国](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%B0%B1%E6%98%AF%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E7%9A%84%E4%BA%BA%E6%9D%83%E8%B5%A4%E5%AD%97%E5%9B%BD%23&Refer=top) 3522209
 1. [上海查处多起涉疫谣言](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%9F%A5%E5%A4%84%E5%A4%9A%E8%B5%B7%E6%B6%89%E7%96%AB%E8%B0%A3%E8%A8%80%23&Refer=top) 2517884
 1. [椰树集团再发争议广告](https://s.weibo.com/weibo?q=%23%E6%A4%B0%E6%A0%91%E9%9B%86%E5%9B%A2%E5%86%8D%E5%8F%91%E4%BA%89%E8%AE%AE%E5%B9%BF%E5%91%8A%23&Refer=top) 1448472
@@ -66,18 +66,18 @@
 1. [林俊杰分享测试唱歌视频](https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%88%86%E4%BA%AB%E6%B5%8B%E8%AF%95%E5%94%B1%E6%AD%8C%E8%A7%86%E9%A2%91%23&Refer=top) 145767
 1. [科切拉](https://s.weibo.com/weibo?q=%E7%A7%91%E5%88%87%E6%8B%89&Refer=top) 140727
 1. [TXT公开新logo](https://s.weibo.com/weibo?q=%23TXT%E5%85%AC%E5%BC%80%E6%96%B0logo%23&Refer=top) 126517
+1. [iPhone14或将支持卫星网络连接](https://s.weibo.com/weibo?q=%23iPhone14%E6%88%96%E5%B0%86%E6%94%AF%E6%8C%81%E5%8D%AB%E6%98%9F%E7%BD%91%E7%BB%9C%E8%BF%9E%E6%8E%A5%23&Refer=top) 124568
+1. [外交部提醒在美中国公民提高风险防范意识](https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E6%8F%90%E9%86%92%E5%9C%A8%E7%BE%8E%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%8F%90%E9%AB%98%E9%A3%8E%E9%99%A9%E9%98%B2%E8%8C%83%E6%84%8F%E8%AF%86%23&Refer=top) 117077
 1. [乐园员工有点魔法天赋在身上](https://s.weibo.com/weibo?q=%23%E4%B9%90%E5%9B%AD%E5%91%98%E5%B7%A5%E6%9C%89%E7%82%B9%E9%AD%94%E6%B3%95%E5%A4%A9%E8%B5%8B%E5%9C%A8%E8%BA%AB%E4%B8%8A%23&Refer=top) 101252
 1. [古早港综有多敢说](https://s.weibo.com/weibo?q=%23%E5%8F%A4%E6%97%A9%E6%B8%AF%E7%BB%BC%E6%9C%89%E5%A4%9A%E6%95%A2%E8%AF%B4%23&Refer=top) 100108
 1. [网店回应客服称河南是贫民窟](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%BA%97%E5%9B%9E%E5%BA%94%E5%AE%A2%E6%9C%8D%E7%A7%B0%E6%B2%B3%E5%8D%97%E6%98%AF%E8%B4%AB%E6%B0%91%E7%AA%9F%23&Refer=top) 74023
-1. [iPhone14或将支持卫星网络连接](https://s.weibo.com/weibo?q=%23iPhone14%E6%88%96%E5%B0%86%E6%94%AF%E6%8C%81%E5%8D%AB%E6%98%9F%E7%BD%91%E7%BB%9C%E8%BF%9E%E6%8E%A5%23&Refer=top) 49733
-1. [外交部提醒在美中国公民提高风险防范意识](https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E6%8F%90%E9%86%92%E5%9C%A8%E7%BE%8E%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%8F%90%E9%AB%98%E9%A3%8E%E9%99%A9%E9%98%B2%E8%8C%83%E6%84%8F%E8%AF%86%23&Refer=top) 49554
-1. [因代购救命药被控贩毒男子被羁押9个月](https://s.weibo.com/weibo?q=%23%E5%9B%A0%E4%BB%A3%E8%B4%AD%E6%95%91%E5%91%BD%E8%8D%AF%E8%A2%AB%E6%8E%A7%E8%B4%A9%E6%AF%92%E7%94%B7%E5%AD%90%E8%A2%AB%E7%BE%81%E6%8A%BC9%E4%B8%AA%E6%9C%88%23&Refer=top) 49483
-1. [白展堂是全能偶像吧](https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%B1%95%E5%A0%82%E6%98%AF%E5%85%A8%E8%83%BD%E5%81%B6%E5%83%8F%E5%90%A7%23&Refer=top) 49216
+1. [因代购救命药被控贩毒男子被羁押9个月](https://s.weibo.com/weibo?q=%23%E5%9B%A0%E4%BB%A3%E8%B4%AD%E6%95%91%E5%91%BD%E8%8D%AF%E8%A2%AB%E6%8E%A7%E8%B4%A9%E6%AF%92%E7%94%B7%E5%AD%90%E8%A2%AB%E7%BE%81%E6%8A%BC9%E4%B8%AA%E6%9C%88%23&Refer=top) 57424
+1. [边充电边玩手机电源插口起火烧家](https://s.weibo.com/weibo?q=%23%E8%BE%B9%E5%85%85%E7%94%B5%E8%BE%B9%E7%8E%A9%E6%89%8B%E6%9C%BA%E7%94%B5%E6%BA%90%E6%8F%92%E5%8F%A3%E8%B5%B7%E7%81%AB%E7%83%A7%E5%AE%B6%23&Refer=top) 56778
+1. [白展堂是全能偶像吧](https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%B1%95%E5%A0%82%E6%98%AF%E5%85%A8%E8%83%BD%E5%81%B6%E5%83%8F%E5%90%A7%23&Refer=top) 55503
 1. [有一种温柔叫蜡笔小新](https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%B8%80%E7%A7%8D%E6%B8%A9%E6%9F%94%E5%8F%AB%E8%9C%A1%E7%AC%94%E5%B0%8F%E6%96%B0%23&Refer=top) 48174
-1. [边充电边玩手机电源插口起火烧家](https://s.weibo.com/weibo?q=%23%E8%BE%B9%E5%85%85%E7%94%B5%E8%BE%B9%E7%8E%A9%E6%89%8B%E6%9C%BA%E7%94%B5%E6%BA%90%E6%8F%92%E5%8F%A3%E8%B5%B7%E7%81%AB%E7%83%A7%E5%AE%B6%23&Refer=top) 37730
 1. [没想到还可以这样画画](https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E8%BF%98%E5%8F%AF%E4%BB%A5%E8%BF%99%E6%A0%B7%E7%94%BB%E7%94%BB%23&Refer=top) 30358
-1. [恰似故人归 加更吧](https://s.weibo.com/weibo?q=%E6%81%B0%E4%BC%BC%E6%95%85%E4%BA%BA%E5%BD%92%20%E5%8A%A0%E6%9B%B4%E5%90%A7&Refer=top) 26144
-1. [耳熟能详的BGM合集](https://s.weibo.com/weibo?q=%23%E8%80%B3%E7%86%9F%E8%83%BD%E8%AF%A6%E7%9A%84BGM%E5%90%88%E9%9B%86%23&Refer=top) 14338
+1. [恰似故人归 加更吧](https://s.weibo.com/weibo?q=%E6%81%B0%E4%BC%BC%E6%95%85%E4%BA%BA%E5%BD%92%20%E5%8A%A0%E6%9B%B4%E5%90%A7&Refer=top) 29925
+1. [耳熟能详的BGM合集](https://s.weibo.com/weibo?q=%23%E8%80%B3%E7%86%9F%E8%83%BD%E8%AF%A6%E7%9A%84BGM%E5%90%88%E9%9B%86%23&Refer=top) 14432
 <!-- END -->
 
 历史归档 [./archives](./archives)
