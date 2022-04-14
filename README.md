@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-04-15 03:25:18.680622 
+最后更新时间 2022-04-15 03:34:35.761621 
 1. [史上最多毕业生1076万](https://s.weibo.com/weibo?q=%23%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%9A%E6%AF%95%E4%B8%9A%E7%94%9F1076%E4%B8%87%23&Refer=top) 1860113
 1. [双汇火腿肠吃出尖锐异物](https://s.weibo.com/weibo?q=%23%E5%8F%8C%E6%B1%87%E7%81%AB%E8%85%BF%E8%82%A0%E5%90%83%E5%87%BA%E5%B0%96%E9%94%90%E5%BC%82%E7%89%A9%23&Refer=top) 1632550
 1. [比林有有段位还高的人出现了](https://s.weibo.com/weibo?q=%23%E6%AF%94%E6%9E%97%E6%9C%89%E6%9C%89%E6%AE%B5%E4%BD%8D%E8%BF%98%E9%AB%98%E7%9A%84%E4%BA%BA%E5%87%BA%E7%8E%B0%E4%BA%86%23&Refer=top) 1242278
@@ -71,7 +71,7 @@
 1. [热门赶海生物图鉴](https://s.weibo.com/weibo?q=%23%E7%83%AD%E9%97%A8%E8%B5%B6%E6%B5%B7%E7%94%9F%E7%89%A9%E5%9B%BE%E9%89%B4%23&Refer=top) 105252
 1. [邓布利多之谜](https://s.weibo.com/weibo?q=%23%E9%82%93%E5%B8%83%E5%88%A9%E5%A4%9A%E4%B9%8B%E8%B0%9C%23&Refer=top) 66470
 1. [好的感情要双方都不内耗](https://s.weibo.com/weibo?q=%23%E5%A5%BD%E7%9A%84%E6%84%9F%E6%83%85%E8%A6%81%E5%8F%8C%E6%96%B9%E9%83%BD%E4%B8%8D%E5%86%85%E8%80%97%23&Refer=top) 63089
-1. [榆次疫情防控](https://s.weibo.com/weibo?q=%E6%A6%86%E6%AC%A1%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7&Refer=top) 23634
+1. [榆次疫情防控](https://s.weibo.com/weibo?q=%E6%A6%86%E6%AC%A1%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7&Refer=top) 26453
 <!-- END -->
 
 历史归档 [./archives](./archives)
