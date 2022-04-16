@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-04-17 04:12:12.678960 
+最后更新时间 2022-04-17 04:30:09.584963 
 1. [灰码](https://s.weibo.com/weibo?q=%E7%81%B0%E7%A0%81&Refer=top) 4641772
 1. [C罗帽子戏法](https://s.weibo.com/weibo?q=%23C%E7%BD%97%E5%B8%BD%E5%AD%90%E6%88%8F%E6%B3%95%23&Refer=top) 1984785
 1. [周末睡懒觉能降低抑郁风险](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9C%AB%E7%9D%A1%E6%87%92%E8%A7%89%E8%83%BD%E9%99%8D%E4%BD%8E%E6%8A%91%E9%83%81%E9%A3%8E%E9%99%A9%23&Refer=top) 1449398
@@ -50,8 +50,8 @@
 1. [广东男篮vs辽宁男篮 裁判](https://s.weibo.com/weibo?q=%E5%B9%BF%E4%B8%9C%E7%94%B7%E7%AF%AEvs%E8%BE%BD%E5%AE%81%E7%94%B7%E7%AF%AE%20%E8%A3%81%E5%88%A4&Refer=top) 266701
 1. [苏翊鸣弹吉他](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%BF%8A%E9%B8%A3%E5%BC%B9%E5%90%89%E4%BB%96%23&Refer=top) 265133
 1. [07届快男直播连麦](https://s.weibo.com/weibo?q=%2307%E5%B1%8A%E5%BF%AB%E7%94%B7%E7%9B%B4%E6%92%AD%E8%BF%9E%E9%BA%A6%23&Refer=top) 253647
+1. [被姐夫投毒百草枯女孩属重伤一级](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%A7%90%E5%A4%AB%E6%8A%95%E6%AF%92%E7%99%BE%E8%8D%89%E6%9E%AF%E5%A5%B3%E5%AD%A9%E5%B1%9E%E9%87%8D%E4%BC%A4%E4%B8%80%E7%BA%A7%23&Refer=top) 230702
 1. [俄罗斯宣布制裁英首相约翰逊](https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E5%AE%A3%E5%B8%83%E5%88%B6%E8%A3%81%E8%8B%B1%E9%A6%96%E7%9B%B8%E7%BA%A6%E7%BF%B0%E9%80%8A%23&Refer=top) 230369
-1. [被姐夫投毒百草枯女孩属重伤一级](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%A7%90%E5%A4%AB%E6%8A%95%E6%AF%92%E7%99%BE%E8%8D%89%E6%9E%AF%E5%A5%B3%E5%AD%A9%E5%B1%9E%E9%87%8D%E4%BC%A4%E4%B8%80%E7%BA%A7%23&Refer=top) 226476
 1. [跟着主人陪嫁的小猫咪](https://s.weibo.com/weibo?q=%23%E8%B7%9F%E7%9D%80%E4%B8%BB%E4%BA%BA%E9%99%AA%E5%AB%81%E7%9A%84%E5%B0%8F%E7%8C%AB%E5%92%AA%23&Refer=top) 224608
 1. [新游记](https://s.weibo.com/weibo?q=%E6%96%B0%E6%B8%B8%E8%AE%B0&Refer=top) 222039
 1. [蓝焰突击](https://s.weibo.com/weibo?q=%23%E8%93%9D%E7%84%B0%E7%AA%81%E5%87%BB%23&Refer=top) 219737
@@ -69,9 +69,9 @@
 1. [这几个人会跳的歌可真多](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%87%A0%E4%B8%AA%E4%BA%BA%E4%BC%9A%E8%B7%B3%E7%9A%84%E6%AD%8C%E5%8F%AF%E7%9C%9F%E5%A4%9A%23&Refer=top) 126196
 1. [欢迎翟志刚王亚平叶光富回地球](https://s.weibo.com/weibo?q=%23%E6%AC%A2%E8%BF%8E%E7%BF%9F%E5%BF%97%E5%88%9A%E7%8E%8B%E4%BA%9A%E5%B9%B3%E5%8F%B6%E5%85%89%E5%AF%8C%E5%9B%9E%E5%9C%B0%E7%90%83%23&Refer=top) 73637
 1. [学没学过小提琴都被侮辱了](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E6%B2%A1%E5%AD%A6%E8%BF%87%E5%B0%8F%E6%8F%90%E7%90%B4%E9%83%BD%E8%A2%AB%E4%BE%AE%E8%BE%B1%E4%BA%86%23&Refer=top) 64583
+1. [广州小伙被隔离网吧一周没洗澡](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%B0%8F%E4%BC%99%E8%A2%AB%E9%9A%94%E7%A6%BB%E7%BD%91%E5%90%A7%E4%B8%80%E5%91%A8%E6%B2%A1%E6%B4%97%E6%BE%A1%23&Refer=top) 55472
 1. [曾繁日顶翻赵继伟](https://s.weibo.com/weibo?q=%23%E6%9B%BE%E7%B9%81%E6%97%A5%E9%A1%B6%E7%BF%BB%E8%B5%B5%E7%BB%A7%E4%BC%9F%23&Refer=top) 47586
 1. [祝卿好预告](https://s.weibo.com/weibo?q=%23%E7%A5%9D%E5%8D%BF%E5%A5%BD%E9%A2%84%E5%91%8A%23&Refer=top) 21878
-1. [广州小伙被隔离网吧一周没洗澡](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%B0%8F%E4%BC%99%E8%A2%AB%E9%9A%94%E7%A6%BB%E7%BD%91%E5%90%A7%E4%B8%80%E5%91%A8%E6%B2%A1%E6%B4%97%E6%BE%A1%23&Refer=top) 21754
 1. [魔法觉醒绽放舞会](https://s.weibo.com/weibo?q=%23%E9%AD%94%E6%B3%95%E8%A7%89%E9%86%92%E7%BB%BD%E6%94%BE%E8%88%9E%E4%BC%9A%23&Refer=top) 13414
 <!-- END -->
 
