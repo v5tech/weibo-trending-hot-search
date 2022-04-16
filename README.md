@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-04-17 05:37:40.941965 
+最后更新时间 2022-04-17 05:48:53.923989 
 1. [灰码](https://s.weibo.com/weibo?q=%E7%81%B0%E7%A0%81&Refer=top) 4641772
 1. [C罗帽子戏法](https://s.weibo.com/weibo?q=%23C%E7%BD%97%E5%B8%BD%E5%AD%90%E6%88%8F%E6%B3%95%23&Refer=top) 1984785
 1. [周末睡懒觉能降低抑郁风险](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9C%AB%E7%9D%A1%E6%87%92%E8%A7%89%E8%83%BD%E9%99%8D%E4%BD%8E%E6%8A%91%E9%83%81%E9%A3%8E%E9%99%A9%23&Refer=top) 1449398
@@ -67,12 +67,14 @@
 1. [辽宁男篮淘汰广东男篮](https://s.weibo.com/weibo?q=%23%E8%BE%BD%E5%AE%81%E7%94%B7%E7%AF%AE%E6%B7%98%E6%B1%B0%E5%B9%BF%E4%B8%9C%E7%94%B7%E7%AF%AE%23&Refer=top) 169587
 1. [情侣租户房间堆满垃圾难以下脚](https://s.weibo.com/weibo?q=%23%E6%83%85%E4%BE%A3%E7%A7%9F%E6%88%B7%E6%88%BF%E9%97%B4%E5%A0%86%E6%BB%A1%E5%9E%83%E5%9C%BE%E9%9A%BE%E4%BB%A5%E4%B8%8B%E8%84%9A%23&Refer=top) 134689
 1. [这几个人会跳的歌可真多](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%87%A0%E4%B8%AA%E4%BA%BA%E4%BC%9A%E8%B7%B3%E7%9A%84%E6%AD%8C%E5%8F%AF%E7%9C%9F%E5%A4%9A%23&Refer=top) 126196
-1. [广州小伙被隔离网吧一周没洗澡](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%B0%8F%E4%BC%99%E8%A2%AB%E9%9A%94%E7%A6%BB%E7%BD%91%E5%90%A7%E4%B8%80%E5%91%A8%E6%B2%A1%E6%B4%97%E6%BE%A1%23&Refer=top) 101066
+1. [广州小伙被隔离网吧一周没洗澡](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%B0%8F%E4%BC%99%E8%A2%AB%E9%9A%94%E7%A6%BB%E7%BD%91%E5%90%A7%E4%B8%80%E5%91%A8%E6%B2%A1%E6%B4%97%E6%BE%A1%23&Refer=top) 105451
 1. [欢迎翟志刚王亚平叶光富回地球](https://s.weibo.com/weibo?q=%23%E6%AC%A2%E8%BF%8E%E7%BF%9F%E5%BF%97%E5%88%9A%E7%8E%8B%E4%BA%9A%E5%B9%B3%E5%8F%B6%E5%85%89%E5%AF%8C%E5%9B%9E%E5%9C%B0%E7%90%83%23&Refer=top) 73637
 1. [学没学过小提琴都被侮辱了](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E6%B2%A1%E5%AD%A6%E8%BF%87%E5%B0%8F%E6%8F%90%E7%90%B4%E9%83%BD%E8%A2%AB%E4%BE%AE%E8%BE%B1%E4%BA%86%23&Refer=top) 64583
 1. [曾繁日顶翻赵继伟](https://s.weibo.com/weibo?q=%23%E6%9B%BE%E7%B9%81%E6%97%A5%E9%A1%B6%E7%BF%BB%E8%B5%B5%E7%BB%A7%E4%BC%9F%23&Refer=top) 47586
+1. [张角](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%A7%92&Refer=top) 32090
 1. [祝卿好预告](https://s.weibo.com/weibo?q=%23%E7%A5%9D%E5%8D%BF%E5%A5%BD%E9%A2%84%E5%91%8A%23&Refer=top) 21878
-1. [张角](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%A7%92&Refer=top) 20043
+1. [睢宁新增阳性感染者24例](https://s.weibo.com/weibo?q=%E7%9D%A2%E5%AE%81%E6%96%B0%E5%A2%9E%E9%98%B3%E6%80%A7%E6%84%9F%E6%9F%93%E8%80%8524%E4%BE%8B&Refer=top) 18906
+1. [北辰郊野公园](https://s.weibo.com/weibo?q=%E5%8C%97%E8%BE%B0%E9%83%8A%E9%87%8E%E5%85%AC%E5%9B%AD&Refer=top) 14198
 1. [一诺的马可波罗](https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%AF%BA%E7%9A%84%E9%A9%AC%E5%8F%AF%E6%B3%A2%E7%BD%97%23&Refer=top) 13708
 1. [魔法觉醒绽放舞会](https://s.weibo.com/weibo?q=%23%E9%AD%94%E6%B3%95%E8%A7%89%E9%86%92%E7%BB%BD%E6%94%BE%E8%88%9E%E4%BC%9A%23&Refer=top) 13414
 <!-- END -->
