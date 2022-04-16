@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-04-17 01:48:58.520461 
+最后更新时间 2022-04-17 02:14:22.586571 
 1. [灰码](https://s.weibo.com/weibo?q=%E7%81%B0%E7%A0%81&Refer=top) 4641772
 1. [C罗帽子戏法](https://s.weibo.com/weibo?q=%23C%E7%BD%97%E5%B8%BD%E5%AD%90%E6%88%8F%E6%B3%95%23&Refer=top) 1984785
 1. [周末睡懒觉能降低抑郁风险](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9C%AB%E7%9D%A1%E6%87%92%E8%A7%89%E8%83%BD%E9%99%8D%E4%BD%8E%E6%8A%91%E9%83%81%E9%A3%8E%E9%99%A9%23&Refer=top) 1449398
@@ -63,8 +63,8 @@
 1. [哈尔滨疫情](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E7%96%AB%E6%83%85%23&Refer=top) 174314
 1. [AG首次无缘季后赛](https://s.weibo.com/weibo?q=%23AG%E9%A6%96%E6%AC%A1%E6%97%A0%E7%BC%98%E5%AD%A3%E5%90%8E%E8%B5%9B%23&Refer=top) 169921
 1. [辽宁男篮淘汰广东男篮](https://s.weibo.com/weibo?q=%23%E8%BE%BD%E5%AE%81%E7%94%B7%E7%AF%AE%E6%B7%98%E6%B1%B0%E5%B9%BF%E4%B8%9C%E7%94%B7%E7%AF%AE%23&Refer=top) 169587
+1. [司机突发脑梗倒下前保住13名孩子](https://s.weibo.com/weibo?q=%23%E5%8F%B8%E6%9C%BA%E7%AA%81%E5%8F%91%E8%84%91%E6%A2%97%E5%80%92%E4%B8%8B%E5%89%8D%E4%BF%9D%E4%BD%8F13%E5%90%8D%E5%AD%A9%E5%AD%90%23&Refer=top) 149358
 1. [这几个人会跳的歌可真多](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%87%A0%E4%B8%AA%E4%BA%BA%E4%BC%9A%E8%B7%B3%E7%9A%84%E6%AD%8C%E5%8F%AF%E7%9C%9F%E5%A4%9A%23&Refer=top) 126196
-1. [司机突发脑梗倒下前保住13名孩子](https://s.weibo.com/weibo?q=%23%E5%8F%B8%E6%9C%BA%E7%AA%81%E5%8F%91%E8%84%91%E6%A2%97%E5%80%92%E4%B8%8B%E5%89%8D%E4%BF%9D%E4%BD%8F13%E5%90%8D%E5%AD%A9%E5%AD%90%23&Refer=top) 106573
 1. [欢迎翟志刚王亚平叶光富回地球](https://s.weibo.com/weibo?q=%23%E6%AC%A2%E8%BF%8E%E7%BF%9F%E5%BF%97%E5%88%9A%E7%8E%8B%E4%BA%9A%E5%B9%B3%E5%8F%B6%E5%85%89%E5%AF%8C%E5%9B%9E%E5%9C%B0%E7%90%83%23&Refer=top) 73637
 1. [曾繁日顶翻赵继伟](https://s.weibo.com/weibo?q=%23%E6%9B%BE%E7%B9%81%E6%97%A5%E9%A1%B6%E7%BF%BB%E8%B5%B5%E7%BB%A7%E4%BC%9F%23&Refer=top) 47586
 <!-- END -->
