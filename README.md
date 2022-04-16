@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-04-17 04:50:19.755690 
+最后更新时间 2022-04-17 05:10:39.022678 
 1. [灰码](https://s.weibo.com/weibo?q=%E7%81%B0%E7%A0%81&Refer=top) 4641772
 1. [C罗帽子戏法](https://s.weibo.com/weibo?q=%23C%E7%BD%97%E5%B8%BD%E5%AD%90%E6%88%8F%E6%B3%95%23&Refer=top) 1984785
 1. [周末睡懒觉能降低抑郁风险](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9C%AB%E7%9D%A1%E6%87%92%E8%A7%89%E8%83%BD%E9%99%8D%E4%BD%8E%E6%8A%91%E9%83%81%E9%A3%8E%E9%99%A9%23&Refer=top) 1449398
@@ -72,8 +72,8 @@
 1. [广州小伙被隔离网吧一周没洗澡](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%B0%8F%E4%BC%99%E8%A2%AB%E9%9A%94%E7%A6%BB%E7%BD%91%E5%90%A7%E4%B8%80%E5%91%A8%E6%B2%A1%E6%B4%97%E6%BE%A1%23&Refer=top) 55472
 1. [曾繁日顶翻赵继伟](https://s.weibo.com/weibo?q=%23%E6%9B%BE%E7%B9%81%E6%97%A5%E9%A1%B6%E7%BF%BB%E8%B5%B5%E7%BB%A7%E4%BC%9F%23&Refer=top) 47586
 1. [祝卿好预告](https://s.weibo.com/weibo?q=%23%E7%A5%9D%E5%8D%BF%E5%A5%BD%E9%A2%84%E5%91%8A%23&Refer=top) 21878
+1. [一诺的马可波罗](https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%AF%BA%E7%9A%84%E9%A9%AC%E5%8F%AF%E6%B3%A2%E7%BD%97%23&Refer=top) 13708
 1. [魔法觉醒绽放舞会](https://s.weibo.com/weibo?q=%23%E9%AD%94%E6%B3%95%E8%A7%89%E9%86%92%E7%BB%BD%E6%94%BE%E8%88%9E%E4%BC%9A%23&Refer=top) 13414
-1. [一诺的马可波罗](https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%AF%BA%E7%9A%84%E9%A9%AC%E5%8F%AF%E6%B3%A2%E7%BD%97%23&Refer=top) 12879
 <!-- END -->
 
 历史归档 [./archives](./archives)
