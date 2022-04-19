@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-04-20 03:10:38.209657 
+最后更新时间 2022-04-20 03:24:23.919206 
 1. [微信朋友圈10年](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E6%9C%8B%E5%8F%8B%E5%9C%8810%E5%B9%B4%23&Refer=top) 2055522
 1. [日本男子杀害中国姐妹案二审宣判](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%94%B7%E5%AD%90%E6%9D%80%E5%AE%B3%E4%B8%AD%E5%9B%BD%E5%A7%90%E5%A6%B9%E6%A1%88%E4%BA%8C%E5%AE%A1%E5%AE%A3%E5%88%A4%23&Refer=top) 1987555
 1. [租客洗澡触电身亡房东被判赔43万](https://s.weibo.com/weibo?q=%23%E7%A7%9F%E5%AE%A2%E6%B4%97%E6%BE%A1%E8%A7%A6%E7%94%B5%E8%BA%AB%E4%BA%A1%E6%88%BF%E4%B8%9C%E8%A2%AB%E5%88%A4%E8%B5%9443%E4%B8%87%23&Refer=top) 1688093
