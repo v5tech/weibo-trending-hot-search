@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-04-26 01:43:00.793566 
+最后更新时间 2022-04-26 01:51:40.870644 
 1. [日本疑似出现首例儿童不明原因急性肝炎病例](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%96%91%E4%BC%BC%E5%87%BA%E7%8E%B0%E9%A6%96%E4%BE%8B%E5%84%BF%E7%AB%A5%E4%B8%8D%E6%98%8E%E5%8E%9F%E5%9B%A0%E6%80%A5%E6%80%A7%E8%82%9D%E7%82%8E%E7%97%85%E4%BE%8B%23&Refer=top) 6205773
 1. [上海暴雨](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%9A%B4%E9%9B%A8%23&Refer=top) 1094988
 1. [中国这十年系列发布会](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%BF%99%E5%8D%81%E5%B9%B4%E7%B3%BB%E5%88%97%E5%8F%91%E5%B8%83%E4%BC%9A%23&Refer=top) 1055695
@@ -46,7 +46,7 @@
 1. [不吃主食的8个副作用](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%90%83%E4%B8%BB%E9%A3%9F%E7%9A%848%E4%B8%AA%E5%89%AF%E4%BD%9C%E7%94%A8%23&Refer=top) 234401
 1. [江苏2022年专转本选拔考试时间公告](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F2022%E5%B9%B4%E4%B8%93%E8%BD%AC%E6%9C%AC%E9%80%89%E6%8B%94%E8%80%83%E8%AF%95%E6%97%B6%E9%97%B4%E5%85%AC%E5%91%8A%23&Refer=top) 210030
 1. [周杰伦听完都要愣一下](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%90%AC%E5%AE%8C%E9%83%BD%E8%A6%81%E6%84%A3%E4%B8%80%E4%B8%8B%23&Refer=top) 208520
-1. [张伯礼回应动态清零政策](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BC%AF%E7%A4%BC%E5%9B%9E%E5%BA%94%E5%8A%A8%E6%80%81%E6%B8%85%E9%9B%B6%E6%94%BF%E7%AD%96%23&Refer=top) 201057
+1. [张伯礼回应动态清零政策](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BC%AF%E7%A4%BC%E5%9B%9E%E5%BA%94%E5%8A%A8%E6%80%81%E6%B8%85%E9%9B%B6%E6%94%BF%E7%AD%96%23&Refer=top) 202812
 1. [刻进DNA的粤语歌](https://s.weibo.com/weibo?q=%23%E5%88%BB%E8%BF%9BDNA%E7%9A%84%E7%B2%A4%E8%AF%AD%E6%AD%8C%23&Refer=top) 194407
 1. [已经开始期待五一假期了](https://s.weibo.com/weibo?q=%23%E5%B7%B2%E7%BB%8F%E5%BC%80%E5%A7%8B%E6%9C%9F%E5%BE%85%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E4%BA%86%23&Refer=top) 192804
 1. [包头疫情](https://s.weibo.com/weibo?q=%23%E5%8C%85%E5%A4%B4%E7%96%AB%E6%83%85%23&Refer=top) 185138
@@ -63,8 +63,9 @@
 1. [smart](https://s.weibo.com/weibo?q=smart&Refer=top) 134877
 1. [86岁老人晕车儿女用板车接力7小时拉回](https://s.weibo.com/weibo?q=%2386%E5%B2%81%E8%80%81%E4%BA%BA%E6%99%95%E8%BD%A6%E5%84%BF%E5%A5%B3%E7%94%A8%E6%9D%BF%E8%BD%A6%E6%8E%A5%E5%8A%9B7%E5%B0%8F%E6%97%B6%E6%8B%89%E5%9B%9E%23&Refer=top) 133346
 1. [且试天下](https://s.weibo.com/weibo?q=%23%E4%B8%94%E8%AF%95%E5%A4%A9%E4%B8%8B%23&Refer=top) 128796
+1. [北京市新增病例在管控范围内](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%B8%82%E6%96%B0%E5%A2%9E%E7%97%85%E4%BE%8B%E5%9C%A8%E7%AE%A1%E6%8E%A7%E8%8C%83%E5%9B%B4%E5%86%85%23&Refer=top) 115694
 1. [河南周口4岁留守男孩失踪2天](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E5%91%A8%E5%8F%A34%E5%B2%81%E7%95%99%E5%AE%88%E7%94%B7%E5%AD%A9%E5%A4%B1%E8%B8%AA2%E5%A4%A9%23&Refer=top) 115580
-1. [北京市新增病例在管控范围内](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%B8%82%E6%96%B0%E5%A2%9E%E7%97%85%E4%BE%8B%E5%9C%A8%E7%AE%A1%E6%8E%A7%E8%8C%83%E5%9B%B4%E5%86%85%23&Refer=top) 93866
+1. [宠物更喜欢孩子的原因](https://s.weibo.com/weibo?q=%23%E5%AE%A0%E7%89%A9%E6%9B%B4%E5%96%9C%E6%AC%A2%E5%AD%A9%E5%AD%90%E7%9A%84%E5%8E%9F%E5%9B%A0%23&Refer=top) 40076
 <!-- END -->
 
 历史归档 [./archives](./archives)
