@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-05-03 01:27:50.092036 
+最后更新时间 2022-05-03 01:44:12.247828 
 1. [帕梅拉 录播](https://s.weibo.com/weibo?q=%E5%B8%95%E6%A2%85%E6%8B%89%20%E5%BD%95%E6%92%AD&Refer=top) 2096631
 1. [外面已经发展成这样了吗](https://s.weibo.com/weibo?q=%23%E5%A4%96%E9%9D%A2%E5%B7%B2%E7%BB%8F%E5%8F%91%E5%B1%95%E6%88%90%E8%BF%99%E6%A0%B7%E4%BA%86%E5%90%97%23&Refer=top) 1568126
 1. [平凡的岗位上是不平凡的奋斗者](https://s.weibo.com/weibo?q=%23%E5%B9%B3%E5%87%A1%E7%9A%84%E5%B2%97%E4%BD%8D%E4%B8%8A%E6%98%AF%E4%B8%8D%E5%B9%B3%E5%87%A1%E7%9A%84%E5%A5%8B%E6%96%97%E8%80%85%23&Refer=top) 1276243
@@ -60,7 +60,9 @@
 1. [长沙自建房倒塌救出第8名被困人员](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B2%99%E8%87%AA%E5%BB%BA%E6%88%BF%E5%80%92%E5%A1%8C%E6%95%91%E5%87%BA%E7%AC%AC8%E5%90%8D%E8%A2%AB%E5%9B%B0%E4%BA%BA%E5%91%98%23&Refer=top) 96495
 1. [长沙被困女孩说想大口喝矿泉水](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B2%99%E8%A2%AB%E5%9B%B0%E5%A5%B3%E5%AD%A9%E8%AF%B4%E6%83%B3%E5%A4%A7%E5%8F%A3%E5%96%9D%E7%9F%BF%E6%B3%89%E6%B0%B4%23&Refer=top) 95341
 1. [东玄 约瑟夫](https://s.weibo.com/weibo?q=%E4%B8%9C%E7%8E%84%20%E7%BA%A6%E7%91%9F%E5%A4%AB&Refer=top) 95052
+1. [拜登政府首项对台军售取消](https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E6%94%BF%E5%BA%9C%E9%A6%96%E9%A1%B9%E5%AF%B9%E5%8F%B0%E5%86%9B%E5%94%AE%E5%8F%96%E6%B6%88%23&Refer=top) 51919
 1. [绝龙诗](https://s.weibo.com/weibo?q=%E7%BB%9D%E9%BE%99%E8%AF%97&Refer=top) 37913
+1. [丰兰息好可爱](https://s.weibo.com/weibo?q=%E4%B8%B0%E5%85%B0%E6%81%AF%E5%A5%BD%E5%8F%AF%E7%88%B1&Refer=top) 35267
 <!-- END -->
 
 历史归档 [./archives](./archives)
