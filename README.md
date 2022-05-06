@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-05-07 03:25:38.293452 
+最后更新时间 2022-05-07 03:34:53.450794 
 1. [向往的生活暂停播出](https://s.weibo.com/weibo?q=%E5%90%91%E5%BE%80%E7%9A%84%E7%94%9F%E6%B4%BB%E6%9A%82%E5%81%9C%E6%92%AD%E5%87%BA&Refer=top) 2180052
 1. [医生建议吃小龙虾1个人不要超过1斤](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E5%BB%BA%E8%AE%AE%E5%90%83%E5%B0%8F%E9%BE%99%E8%99%BE1%E4%B8%AA%E4%BA%BA%E4%B8%8D%E8%A6%81%E8%B6%85%E8%BF%871%E6%96%A4%23&Refer=top) 2175859
 1. [韦神](https://s.weibo.com/weibo?q=%E9%9F%A6%E7%A5%9E&Refer=top) 1429277
