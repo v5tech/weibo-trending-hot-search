@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-05-13 03:10:09.802184 
+最后更新时间 2022-05-13 03:25:02.429077 
 1. [警方回应哈尔滨男子烧伤死亡](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E5%93%88%E5%B0%94%E6%BB%A8%E7%94%B7%E5%AD%90%E7%83%A7%E4%BC%A4%E6%AD%BB%E4%BA%A1%23&Refer=top) 2172689
 1. [黑洞](https://s.weibo.com/weibo?q=%23%E9%BB%91%E6%B4%9E%23&Refer=top) 1785339
 1. [上海快递个人散件派送正在恢复](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%BF%AB%E9%80%92%E4%B8%AA%E4%BA%BA%E6%95%A3%E4%BB%B6%E6%B4%BE%E9%80%81%E6%AD%A3%E5%9C%A8%E6%81%A2%E5%A4%8D%23&Refer=top) 1474440
