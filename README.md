@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-05-15 03:24:40.786030 
+最后更新时间 2022-05-15 03:48:46.905064 
 1. [RNG](https://s.weibo.com/weibo?q=%23RNG%23&Refer=top) 1975009
 1. [西安掉下水道失踪男童父母发声](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E6%8E%89%E4%B8%8B%E6%B0%B4%E9%81%93%E5%A4%B1%E8%B8%AA%E7%94%B7%E7%AB%A5%E7%88%B6%E6%AF%8D%E5%8F%91%E5%A3%B0%23&Refer=top) 1736282
 1. [首架交付的C919首飞试验圆满成功](https://s.weibo.com/weibo?q=%23%E9%A6%96%E6%9E%B6%E4%BA%A4%E4%BB%98%E7%9A%84C919%E9%A6%96%E9%A3%9E%E8%AF%95%E9%AA%8C%E5%9C%86%E6%BB%A1%E6%88%90%E5%8A%9F%23&Refer=top) 1681857
@@ -65,6 +65,8 @@
 1. [我的解放日志](https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E8%A7%A3%E6%94%BE%E6%97%A5%E5%BF%97%23&Refer=top) 92690
 1. [哈兰德告别多特蒙德](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%85%B0%E5%BE%B7%E5%91%8A%E5%88%AB%E5%A4%9A%E7%89%B9%E8%92%99%E5%BE%B7%23&Refer=top) 65452
 1. [国羽尤杯亚军也很棒](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E7%BE%BD%E5%B0%A4%E6%9D%AF%E4%BA%9A%E5%86%9B%E4%B9%9F%E5%BE%88%E6%A3%92%23&Refer=top) 57383
+1. [人大副校长称美元出现历史性新信号](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E5%A4%A7%E5%89%AF%E6%A0%A1%E9%95%BF%E7%A7%B0%E7%BE%8E%E5%85%83%E5%87%BA%E7%8E%B0%E5%8E%86%E5%8F%B2%E6%80%A7%E6%96%B0%E4%BF%A1%E5%8F%B7%23&Refer=top) 19844
+1. [南奥塞梯敲定7月17日举行入俄公投](https://s.weibo.com/weibo?q=%23%E5%8D%97%E5%A5%A5%E5%A1%9E%E6%A2%AF%E6%95%B2%E5%AE%9A7%E6%9C%8817%E6%97%A5%E4%B8%BE%E8%A1%8C%E5%85%A5%E4%BF%84%E5%85%AC%E6%8A%95%23&Refer=top) 15154
 <!-- END -->
 
 历史归档 [./archives](./archives)
