@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-05-23 01:49:24.979169 
+最后更新时间 2022-05-23 02:38:24.400734 
 1. [为什么王心凌突然又火了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%8B%E5%BF%83%E5%87%8C%E7%AA%81%E7%84%B6%E5%8F%88%E7%81%AB%E4%BA%86%23&Refer=top) 4759578
 1. [退退退](https://s.weibo.com/weibo?q=%E9%80%80%E9%80%80%E9%80%80&Refer=top) 2360195
 1. [利物浦](https://s.weibo.com/weibo?q=%E5%88%A9%E7%89%A9%E6%B5%A6&Refer=top) 1642662
@@ -22,12 +22,12 @@
 1. [猴痘](https://s.weibo.com/weibo?q=%23%E7%8C%B4%E7%97%98%23&Refer=top) 809383
 1. [今后河南人隔一天采样一次核酸](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%90%8E%E6%B2%B3%E5%8D%97%E4%BA%BA%E9%9A%94%E4%B8%80%E5%A4%A9%E9%87%87%E6%A0%B7%E4%B8%80%E6%AC%A1%E6%A0%B8%E9%85%B8%23&Refer=top) 763771
 1. [你一票我一票心凌80还唱跳](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%B8%80%E7%A5%A8%E6%88%91%E4%B8%80%E7%A5%A8%E5%BF%83%E5%87%8C80%E8%BF%98%E5%94%B1%E8%B7%B3%23&Refer=top) 724446
+1. [刘某某瞒报行程致疫情在北京扩散传播](https://s.weibo.com/weibo?q=%23%E5%88%98%E6%9F%90%E6%9F%90%E7%9E%92%E6%8A%A5%E8%A1%8C%E7%A8%8B%E8%87%B4%E7%96%AB%E6%83%85%E5%9C%A8%E5%8C%97%E4%BA%AC%E6%89%A9%E6%95%A3%E4%BC%A0%E6%92%AD%23&Refer=top) 699855
 1. [老太太公园搭帐篷钻入2斤大蛇](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%A4%AA%E5%A4%AA%E5%85%AC%E5%9B%AD%E6%90%AD%E5%B8%90%E7%AF%B7%E9%92%BB%E5%85%A52%E6%96%A4%E5%A4%A7%E8%9B%87%23&Refer=top) 565478
 1. [王心凌 人气](https://s.weibo.com/weibo?q=%E7%8E%8B%E5%BF%83%E5%87%8C%20%E4%BA%BA%E6%B0%94&Refer=top) 564662
 1. [知网崩了](https://s.weibo.com/weibo?q=%E7%9F%A5%E7%BD%91%E5%B4%A9%E4%BA%86&Refer=top) 562773
 1. [孙兴慜萨拉赫并列英超金靴](https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%85%B4%E6%85%9C%E8%90%A8%E6%8B%89%E8%B5%AB%E5%B9%B6%E5%88%97%E8%8B%B1%E8%B6%85%E9%87%91%E9%9D%B4%23&Refer=top) 558456
 1. [曼城卫冕英超冠军](https://s.weibo.com/weibo?q=%23%E6%9B%BC%E5%9F%8E%E5%8D%AB%E5%86%95%E8%8B%B1%E8%B6%85%E5%86%A0%E5%86%9B%23&Refer=top) 438349
-1. [刘某某瞒报行程致疫情在北京扩散传播](https://s.weibo.com/weibo?q=%23%E5%88%98%E6%9F%90%E6%9F%90%E7%9E%92%E6%8A%A5%E8%A1%8C%E7%A8%8B%E8%87%B4%E7%96%AB%E6%83%85%E5%9C%A8%E5%8C%97%E4%BA%AC%E6%89%A9%E6%95%A3%E4%BC%A0%E6%92%AD%23&Refer=top) 372868
 1. [河南常态化采样最迟8小时出结果](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E5%B8%B8%E6%80%81%E5%8C%96%E9%87%87%E6%A0%B7%E6%9C%80%E8%BF%9F8%E5%B0%8F%E6%97%B6%E5%87%BA%E7%BB%93%E6%9E%9C%23&Refer=top) 311582
 1. [北京2人持假护士证采集核酸被查](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC2%E4%BA%BA%E6%8C%81%E5%81%87%E6%8A%A4%E5%A3%AB%E8%AF%81%E9%87%87%E9%9B%86%E6%A0%B8%E9%85%B8%E8%A2%AB%E6%9F%A5%23&Refer=top) 310435
 1. [间谍过家家](https://s.weibo.com/weibo?q=%23%E9%97%B4%E8%B0%8D%E8%BF%87%E5%AE%B6%E5%AE%B6%23&Refer=top) 287295
