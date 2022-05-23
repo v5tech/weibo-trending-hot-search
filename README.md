@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-05-24 04:14:31.982980 
+最后更新时间 2022-05-24 04:34:31.263979 
 1. [台湾偶像剧收视率前十](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E5%81%B6%E5%83%8F%E5%89%A7%E6%94%B6%E8%A7%86%E7%8E%87%E5%89%8D%E5%8D%81%23&Refer=top) 2920811
 1. [上海西瓜滞销瓜农求助](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E8%A5%BF%E7%93%9C%E6%BB%9E%E9%94%80%E7%93%9C%E5%86%9C%E6%B1%82%E5%8A%A9%23&Refer=top) 1234592
 1. [挺身而出的平凡英雄](https://s.weibo.com/weibo?q=%23%E6%8C%BA%E8%BA%AB%E8%80%8C%E5%87%BA%E7%9A%84%E5%B9%B3%E5%87%A1%E8%8B%B1%E9%9B%84%23&Refer=top) 1040294
@@ -64,10 +64,12 @@
 1. [白百何说郑有恩的X光片是陆晨曦拍的](https://s.weibo.com/weibo?q=%23%E7%99%BD%E7%99%BE%E4%BD%95%E8%AF%B4%E9%83%91%E6%9C%89%E6%81%A9%E7%9A%84X%E5%85%89%E7%89%87%E6%98%AF%E9%99%86%E6%99%A8%E6%9B%A6%E6%8B%8D%E7%9A%84%23&Refer=top) 93024
 1. [男子酒驾被查狂喝水要求重测](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%85%92%E9%A9%BE%E8%A2%AB%E6%9F%A5%E7%8B%82%E5%96%9D%E6%B0%B4%E8%A6%81%E6%B1%82%E9%87%8D%E6%B5%8B%23&Refer=top) 88701
 1. [三份猴痘病毒最新基因测序结果公布](https://s.weibo.com/weibo?q=%23%E4%B8%89%E4%BB%BD%E7%8C%B4%E7%97%98%E7%97%85%E6%AF%92%E6%9C%80%E6%96%B0%E5%9F%BA%E5%9B%A0%E6%B5%8B%E5%BA%8F%E7%BB%93%E6%9E%9C%E5%85%AC%E5%B8%83%23&Refer=top) 52599
+1. [建设方舱医院绝不是疫情严重的信号](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%BE%E6%96%B9%E8%88%B1%E5%8C%BB%E9%99%A2%E7%BB%9D%E4%B8%8D%E6%98%AF%E7%96%AB%E6%83%85%E4%B8%A5%E9%87%8D%E7%9A%84%E4%BF%A1%E5%8F%B7%23&Refer=top) 35120
 1. [MANNER咖啡一上海门店被立案调查](https://s.weibo.com/weibo?q=%23MANNER%E5%92%96%E5%95%A1%E4%B8%80%E4%B8%8A%E6%B5%B7%E9%97%A8%E5%BA%97%E8%A2%AB%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5%23&Refer=top) 34980
-1. [夏天戴口罩要注意什么](https://s.weibo.com/weibo?q=%23%E5%A4%8F%E5%A4%A9%E6%88%B4%E5%8F%A3%E7%BD%A9%E8%A6%81%E6%B3%A8%E6%84%8F%E4%BB%80%E4%B9%88%23&Refer=top) 23228
-1. [男子酒驾被查疯狂抱怨姐姐害死人](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%85%92%E9%A9%BE%E8%A2%AB%E6%9F%A5%E7%96%AF%E7%8B%82%E6%8A%B1%E6%80%A8%E5%A7%90%E5%A7%90%E5%AE%B3%E6%AD%BB%E4%BA%BA%23&Refer=top) 20225
-1. [建设方舱医院绝不是疫情严重的信号](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%BE%E6%96%B9%E8%88%B1%E5%8C%BB%E9%99%A2%E7%BB%9D%E4%B8%8D%E6%98%AF%E7%96%AB%E6%83%85%E4%B8%A5%E9%87%8D%E7%9A%84%E4%BF%A1%E5%8F%B7%23&Refer=top) 11178
+1. [男子酒驾被查疯狂抱怨姐姐害死人](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%85%92%E9%A9%BE%E8%A2%AB%E6%9F%A5%E7%96%AF%E7%8B%82%E6%8A%B1%E6%80%A8%E5%A7%90%E5%A7%90%E5%AE%B3%E6%AD%BB%E4%BA%BA%23&Refer=top) 31948
+1. [夏天戴口罩要注意什么](https://s.weibo.com/weibo?q=%23%E5%A4%8F%E5%A4%A9%E6%88%B4%E5%8F%A3%E7%BD%A9%E8%A6%81%E6%B3%A8%E6%84%8F%E4%BB%80%E4%B9%88%23&Refer=top) 27089
+1. [柯桥新增2例阳性感染者](https://s.weibo.com/weibo?q=%E6%9F%AF%E6%A1%A5%E6%96%B0%E5%A2%9E2%E4%BE%8B%E9%98%B3%E6%80%A7%E6%84%9F%E6%9F%93%E8%80%85&Refer=top) 10825
+1. [猴痘不是新版天花](https://s.weibo.com/weibo?q=%23%E7%8C%B4%E7%97%98%E4%B8%8D%E6%98%AF%E6%96%B0%E7%89%88%E5%A4%A9%E8%8A%B1%23&Refer=top) 9225
 <!-- END -->
 
 历史归档 [./archives](./archives)
