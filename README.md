@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-05-25 02:17:15.815506 
+最后更新时间 2022-05-25 02:47:04.580843 
 1. [浪姐4能不能请孙燕姿](https://s.weibo.com/weibo?q=%23%E6%B5%AA%E5%A7%904%E8%83%BD%E4%B8%8D%E8%83%BD%E8%AF%B7%E5%AD%99%E7%87%95%E5%A7%BF%23&Refer=top) 2039268
 1. [看了能戒奶茶](https://s.weibo.com/weibo?q=%23%E7%9C%8B%E4%BA%86%E8%83%BD%E6%88%92%E5%A5%B6%E8%8C%B6%23&Refer=top) 975716
 1. [为2022届高考生加油](https://s.weibo.com/weibo?q=%23%E4%B8%BA2022%E5%B1%8A%E9%AB%98%E8%80%83%E7%94%9F%E5%8A%A0%E6%B2%B9%23&Refer=top) 942863
@@ -61,7 +61,7 @@
 1. [00后女孩频繁挖鼻孔致颅内感染险丧命](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E5%A5%B3%E5%AD%A9%E9%A2%91%E7%B9%81%E6%8C%96%E9%BC%BB%E5%AD%94%E8%87%B4%E9%A2%85%E5%86%85%E6%84%9F%E6%9F%93%E9%99%A9%E4%B8%A7%E5%91%BD%23&Refer=top) 121033
 1. [西安5月25日开展大规模核酸检测](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%895%E6%9C%8825%E6%97%A5%E5%BC%80%E5%B1%95%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%23&Refer=top) 117433
 1. [白宇帆演的考研党过于真实了](https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%AE%87%E5%B8%86%E6%BC%94%E7%9A%84%E8%80%83%E7%A0%94%E5%85%9A%E8%BF%87%E4%BA%8E%E7%9C%9F%E5%AE%9E%E4%BA%86%23&Refer=top) 112744
-1. [被孟子义揭开面纱瞬间撩到](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%AD%9F%E5%AD%90%E4%B9%89%E6%8F%AD%E5%BC%80%E9%9D%A2%E7%BA%B1%E7%9E%AC%E9%97%B4%E6%92%A9%E5%88%B0%23&Refer=top) 80022
+1. [被孟子义揭开面纱瞬间撩到](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%AD%9F%E5%AD%90%E4%B9%89%E6%8F%AD%E5%BC%80%E9%9D%A2%E7%BA%B1%E7%9E%AC%E9%97%B4%E6%92%A9%E5%88%B0%23&Refer=top) 88979
 1. [BBC](https://s.weibo.com/weibo?q=BBC&Refer=top) 63807
 <!-- END -->
 
