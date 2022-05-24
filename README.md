@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-05-25 03:25:36.679462 
+最后更新时间 2022-05-25 03:35:18.776768 
 1. [浪姐4能不能请孙燕姿](https://s.weibo.com/weibo?q=%23%E6%B5%AA%E5%A7%904%E8%83%BD%E4%B8%8D%E8%83%BD%E8%AF%B7%E5%AD%99%E7%87%95%E5%A7%BF%23&Refer=top) 2039268
 1. [看了能戒奶茶](https://s.weibo.com/weibo?q=%23%E7%9C%8B%E4%BA%86%E8%83%BD%E6%88%92%E5%A5%B6%E8%8C%B6%23&Refer=top) 975716
 1. [为2022届高考生加油](https://s.weibo.com/weibo?q=%23%E4%B8%BA2022%E5%B1%8A%E9%AB%98%E8%80%83%E7%94%9F%E5%8A%A0%E6%B2%B9%23&Refer=top) 942863
