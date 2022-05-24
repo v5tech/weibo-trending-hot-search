@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-05-25 04:15:21.852630 
+最后更新时间 2022-05-25 04:36:09.026217 
 1. [浪姐4能不能请孙燕姿](https://s.weibo.com/weibo?q=%23%E6%B5%AA%E5%A7%904%E8%83%BD%E4%B8%8D%E8%83%BD%E8%AF%B7%E5%AD%99%E7%87%95%E5%A7%BF%23&Refer=top) 2039268
 1. [看了能戒奶茶](https://s.weibo.com/weibo?q=%23%E7%9C%8B%E4%BA%86%E8%83%BD%E6%88%92%E5%A5%B6%E8%8C%B6%23&Refer=top) 975716
 1. [为2022届高考生加油](https://s.weibo.com/weibo?q=%23%E4%B8%BA2022%E5%B1%8A%E9%AB%98%E8%80%83%E7%94%9F%E5%8A%A0%E6%B2%B9%23&Refer=top) 942863
@@ -63,7 +63,9 @@
 1. [白宇帆演的考研党过于真实了](https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%AE%87%E5%B8%86%E6%BC%94%E7%9A%84%E8%80%83%E7%A0%94%E5%85%9A%E8%BF%87%E4%BA%8E%E7%9C%9F%E5%AE%9E%E4%BA%86%23&Refer=top) 112744
 1. [被孟子义揭开面纱瞬间撩到](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%AD%9F%E5%AD%90%E4%B9%89%E6%8F%AD%E5%BC%80%E9%9D%A2%E7%BA%B1%E7%9E%AC%E9%97%B4%E6%92%A9%E5%88%B0%23&Refer=top) 88979
 1. [BBC](https://s.weibo.com/weibo?q=BBC&Refer=top) 63807
-1. [北京五地降级](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E4%BA%94%E5%9C%B0%E9%99%8D%E7%BA%A7%23&Refer=top) 15463
+1. [北京五地降级](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E4%BA%94%E5%9C%B0%E9%99%8D%E7%BA%A7%23&Refer=top) 43674
+1. [专家称新冠感染后间歇性排毒没科学依据](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E6%96%B0%E5%86%A0%E6%84%9F%E6%9F%93%E5%90%8E%E9%97%B4%E6%AD%87%E6%80%A7%E6%8E%92%E6%AF%92%E6%B2%A1%E7%A7%91%E5%AD%A6%E4%BE%9D%E6%8D%AE%23&Refer=top) 14508
+1. [北京石景山24日新增3名核酸阳性人员](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E7%9F%B3%E6%99%AF%E5%B1%B124%E6%97%A5%E6%96%B0%E5%A2%9E3%E5%90%8D%E6%A0%B8%E9%85%B8%E9%98%B3%E6%80%A7%E4%BA%BA%E5%91%98%23&Refer=top) 9916
 <!-- END -->
 
 历史归档 [./archives](./archives)
