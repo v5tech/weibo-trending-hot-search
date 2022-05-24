@@ -218,5 +218,9 @@
   "BBC": {
     "url": "https://s.weibo.com/weibo?q=BBC&Refer=top",
     "hot": 63807
+  },
+  "北京五地降级": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E4%BA%94%E5%9C%B0%E9%99%8D%E7%BA%A7%23&Refer=top",
+    "hot": 15463
   }
 }
