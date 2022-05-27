@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-05-28 03:35:14.727457 
+最后更新时间 2022-05-28 03:48:54.669180 
 1. [金莎确诊新冠](https://s.weibo.com/weibo?q=%23%E9%87%91%E8%8E%8E%E7%A1%AE%E8%AF%8A%E6%96%B0%E5%86%A0%23&Refer=top) 3018184
 1. [人教社官网删除人教Pad价格](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%95%99%E7%A4%BE%E5%AE%98%E7%BD%91%E5%88%A0%E9%99%A4%E4%BA%BA%E6%95%99Pad%E4%BB%B7%E6%A0%BC%23&Refer=top) 2498976
 1. [高考最后10天冲刺](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E6%9C%80%E5%90%8E10%E5%A4%A9%E5%86%B2%E5%88%BA%23&Refer=top) 1532995
