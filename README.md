@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-05-28 01:45:50.772997 
+最后更新时间 2022-05-28 02:16:07.939549 
 1. [金莎确诊新冠](https://s.weibo.com/weibo?q=%23%E9%87%91%E8%8E%8E%E7%A1%AE%E8%AF%8A%E6%96%B0%E5%86%A0%23&Refer=top) 3018184
 1. [人教社官网删除人教Pad价格](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%95%99%E7%A4%BE%E5%AE%98%E7%BD%91%E5%88%A0%E9%99%A4%E4%BA%BA%E6%95%99Pad%E4%BB%B7%E6%A0%BC%23&Refer=top) 2498976
 1. [高考最后10天冲刺](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E6%9C%80%E5%90%8E10%E5%A4%A9%E5%86%B2%E5%88%BA%23&Refer=top) 1532995
@@ -37,6 +37,7 @@
 1. [92号汽油或首次突破9元](https://s.weibo.com/weibo?q=%2392%E5%8F%B7%E6%B1%BD%E6%B2%B9%E6%88%96%E9%A6%96%E6%AC%A1%E7%AA%81%E7%A0%B49%E5%85%83%23&Refer=top) 339519
 1. [童话作家郑渊洁谈人教版教材争议](https://s.weibo.com/weibo?q=%23%E7%AB%A5%E8%AF%9D%E4%BD%9C%E5%AE%B6%E9%83%91%E6%B8%8A%E6%B4%81%E8%B0%88%E4%BA%BA%E6%95%99%E7%89%88%E6%95%99%E6%9D%90%E4%BA%89%E8%AE%AE%23&Refer=top) 331425
 1. [被收养流浪猫协助警方破案获奖](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%94%B6%E5%85%BB%E6%B5%81%E6%B5%AA%E7%8C%AB%E5%8D%8F%E5%8A%A9%E8%AD%A6%E6%96%B9%E7%A0%B4%E6%A1%88%E8%8E%B7%E5%A5%96%23&Refer=top) 321578
+1. [蔡徐坤聪明](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E8%81%AA%E6%98%8E%23&Refer=top) 287410
 1. [人教版数学教材配图被写进硕士论文](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%95%99%E7%89%88%E6%95%B0%E5%AD%A6%E6%95%99%E6%9D%90%E9%85%8D%E5%9B%BE%E8%A2%AB%E5%86%99%E8%BF%9B%E7%A1%95%E5%A3%AB%E8%AE%BA%E6%96%87%23&Refer=top) 277427
 1. [孙燕姿线上演唱会](https://s.weibo.com/weibo?q=%23%E5%AD%99%E7%87%95%E5%A7%BF%E7%BA%BF%E4%B8%8A%E6%BC%94%E5%94%B1%E4%BC%9A%23&Refer=top) 246280
 1. [中国科学家提出寻找地球2.0计划](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E6%8F%90%E5%87%BA%E5%AF%BB%E6%89%BE%E5%9C%B0%E7%90%832.0%E8%AE%A1%E5%88%92%23&Refer=top) 242576
