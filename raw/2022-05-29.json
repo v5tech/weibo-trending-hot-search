@@ -23,6 +23,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E8%A6%81%E6%B1%82%E5%85%A8%E9%9D%A2%E6%8E%92%E6%9F%A5%E5%85%A8%E5%9B%BD%E4%B8%AD%E5%B0%8F%E5%AD%A6%E6%95%99%E6%9D%90%23&Refer=top",
     "hot": 1213970
   },
+  "戛纳电影节": {
+    "url": "https://s.weibo.com/weibo?q=%E6%88%9B%E7%BA%B3%E7%94%B5%E5%BD%B1%E8%8A%82&Refer=top",
+    "hot": 675059
+  },
   "3岁男童玩漂白剂洁厕剂中毒进ICU": {
     "url": "https://s.weibo.com/weibo?q=%233%E5%B2%81%E7%94%B7%E7%AB%A5%E7%8E%A9%E6%BC%82%E7%99%BD%E5%89%82%E6%B4%81%E5%8E%95%E5%89%82%E4%B8%AD%E6%AF%92%E8%BF%9BICU%23&Refer=top",
     "hot": 649640
@@ -46,10 +50,6 @@
   "三三乌龙": {
     "url": "https://s.weibo.com/weibo?q=%E4%B8%89%E4%B8%89%E4%B9%8C%E9%BE%99&Refer=top",
     "hot": 475528
-  },
-  "戛纳电影节": {
-    "url": "https://s.weibo.com/weibo?q=%E6%88%9B%E7%BA%B3%E7%94%B5%E5%BD%B1%E8%8A%82&Refer=top",
-    "hot": 471565
   },
   "赵丽颖直播": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%9B%B4%E6%92%AD%23&Refer=top",
@@ -225,7 +225,7 @@
   },
   "拉丁舞冠军夫妇把婚礼办成晚会": {
     "url": "https://s.weibo.com/weibo?q=%E6%8B%89%E4%B8%81%E8%88%9E%E5%86%A0%E5%86%9B%E5%A4%AB%E5%A6%87%E6%8A%8A%E5%A9%9A%E7%A4%BC%E5%8A%9E%E6%88%90%E6%99%9A%E4%BC%9A&Refer=top",
-    "hot": 68023
+    "hot": 68091
   },
   "育人读物不该成毁人毒物": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%82%B2%E4%BA%BA%E8%AF%BB%E7%89%A9%E4%B8%8D%E8%AF%A5%E6%88%90%E6%AF%81%E4%BA%BA%E6%AF%92%E7%89%A9%23&Refer=top",
