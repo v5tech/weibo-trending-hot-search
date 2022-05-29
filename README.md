@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-05-30 02:39:12.994066 
+最后更新时间 2022-05-30 03:11:03.271840 
 1. [长期不吃晚饭真的会变瘦吗](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E4%B8%8D%E5%90%83%E6%99%9A%E9%A5%AD%E7%9C%9F%E7%9A%84%E4%BC%9A%E5%8F%98%E7%98%A6%E5%90%97%23&Refer=top) 3532194
 1. [上海白蚁](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E7%99%BD%E8%9A%81%23&Refer=top) 2654952
 1. [我国痔疮发病人群或达5亿](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E7%97%94%E7%96%AE%E5%8F%91%E7%97%85%E4%BA%BA%E7%BE%A4%E6%88%96%E8%BE%BE5%E4%BA%BF%23&Refer=top) 2442664
@@ -63,6 +63,7 @@
 1. [00后都在听什么歌](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E9%83%BD%E5%9C%A8%E5%90%AC%E4%BB%80%E4%B9%88%E6%AD%8C%23&Refer=top) 116937
 1. [暗夜行者 高能](https://s.weibo.com/weibo?q=%E6%9A%97%E5%A4%9C%E8%A1%8C%E8%80%85%20%E9%AB%98%E8%83%BD&Refer=top) 75448
 1. [法网2022](https://s.weibo.com/weibo?q=%23%E6%B3%95%E7%BD%912022%23&Refer=top) 68821
+1. [GALA单杀Gumayusi](https://s.weibo.com/weibo?q=%23GALA%E5%8D%95%E6%9D%80Gumayusi%23&Refer=top) 22582
 <!-- END -->
 
 历史归档 [./archives](./archives)
