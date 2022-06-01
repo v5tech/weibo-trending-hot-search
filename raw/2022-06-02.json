@@ -71,6 +71,10 @@
     "url": "https://s.weibo.com/weibo?q=%23EDG%E5%AE%98%E5%AE%A3JunJia%E5%9B%9E%E5%BD%92%23&Refer=top",
     "hot": 460232
   },
+  "美国仍有44个州存在合法童婚": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BB%8D%E6%9C%8944%E4%B8%AA%E5%B7%9E%E5%AD%98%E5%9C%A8%E5%90%88%E6%B3%95%E7%AB%A5%E5%A9%9A%23&Refer=top",
+    "hot": 455785
+  },
   "BLG官宣Bin加入": {
     "url": "https://s.weibo.com/weibo?q=%23BLG%E5%AE%98%E5%AE%A3Bin%E5%8A%A0%E5%85%A5%23&Refer=top",
     "hot": 442877
@@ -78,10 +82,6 @@
   "Bin": {
     "url": "https://s.weibo.com/weibo?q=%23Bin%23&Refer=top",
     "hot": 436926
-  },
-  "美国仍有44个州存在合法童婚": {
-    "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BB%8D%E6%9C%8944%E4%B8%AA%E5%B7%9E%E5%AD%98%E5%9C%A8%E5%90%88%E6%B3%95%E7%AB%A5%E5%A9%9A%23&Refer=top",
-    "hot": 424016
   },
   "2022LPL春季转会期": {
     "url": "https://s.weibo.com/weibo?q=%232022LPL%E6%98%A5%E5%AD%A3%E8%BD%AC%E4%BC%9A%E6%9C%9F%23&Refer=top",
@@ -213,6 +213,6 @@
   },
   "2022世界女排联赛": {
     "url": "https://s.weibo.com/weibo?q=%232022%E4%B8%96%E7%95%8C%E5%A5%B3%E6%8E%92%E8%81%94%E8%B5%9B%23&Refer=top",
-    "hot": 59058
+    "hot": 82113
   }
 }

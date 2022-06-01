@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-06-02 01:31:17.602991 
+最后更新时间 2022-06-02 01:57:37.746379 
 1. [RNG](https://s.weibo.com/weibo?q=%23RNG%23&Refer=top) 3984099
 1. [Uzi](https://s.weibo.com/weibo?q=Uzi&Refer=top) 2190829
 1. [这些新规6月起施行](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BA%9B%E6%96%B0%E8%A7%846%E6%9C%88%E8%B5%B7%E6%96%BD%E8%A1%8C%23&Refer=top) 1636867
@@ -26,9 +26,9 @@
 1. [上海核酸](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%A0%B8%E9%85%B8%23&Refer=top) 527257
 1. [RNG官宣Breathe加入](https://s.weibo.com/weibo?q=%23RNG%E5%AE%98%E5%AE%A3Breathe%E5%8A%A0%E5%85%A5%23&Refer=top) 522157
 1. [EDG官宣JunJia回归](https://s.weibo.com/weibo?q=%23EDG%E5%AE%98%E5%AE%A3JunJia%E5%9B%9E%E5%BD%92%23&Refer=top) 460232
+1. [美国仍有44个州存在合法童婚](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BB%8D%E6%9C%8944%E4%B8%AA%E5%B7%9E%E5%AD%98%E5%9C%A8%E5%90%88%E6%B3%95%E7%AB%A5%E5%A9%9A%23&Refer=top) 455785
 1. [BLG官宣Bin加入](https://s.weibo.com/weibo?q=%23BLG%E5%AE%98%E5%AE%A3Bin%E5%8A%A0%E5%85%A5%23&Refer=top) 442877
 1. [Bin](https://s.weibo.com/weibo?q=%23Bin%23&Refer=top) 436926
-1. [美国仍有44个州存在合法童婚](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BB%8D%E6%9C%8944%E4%B8%AA%E5%B7%9E%E5%AD%98%E5%9C%A8%E5%90%88%E6%B3%95%E7%AB%A5%E5%A9%9A%23&Refer=top) 424016
 1. [2022LPL春季转会期](https://s.weibo.com/weibo?q=%232022LPL%E6%98%A5%E5%AD%A3%E8%BD%AC%E4%BC%9A%E6%9C%9F%23&Refer=top) 412102
 1. [温儒敏否认语文教材选编课文夹带私货](https://s.weibo.com/weibo?q=%23%E6%B8%A9%E5%84%92%E6%95%8F%E5%90%A6%E8%AE%A4%E8%AF%AD%E6%96%87%E6%95%99%E6%9D%90%E9%80%89%E7%BC%96%E8%AF%BE%E6%96%87%E5%A4%B9%E5%B8%A6%E7%A7%81%E8%B4%A7%23&Refer=top) 406877
 1. [官方回应山姆促销员因上厕所被辞退](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%B1%B1%E5%A7%86%E4%BF%83%E9%94%80%E5%91%98%E5%9B%A0%E4%B8%8A%E5%8E%95%E6%89%80%E8%A2%AB%E8%BE%9E%E9%80%80%23&Refer=top) 374987
@@ -61,7 +61,7 @@
 1. [黄明昊方澄清](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%98%8E%E6%98%8A%E6%96%B9%E6%BE%84%E6%B8%85%23&Refer=top) 155151
 1. [一起去上海压马路](https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%B5%B7%E5%8E%BB%E4%B8%8A%E6%B5%B7%E5%8E%8B%E9%A9%AC%E8%B7%AF%23&Refer=top) 149175
 1. [短期内芦山余震区再发生更大地震可能性不大](https://s.weibo.com/weibo?q=%23%E7%9F%AD%E6%9C%9F%E5%86%85%E8%8A%A6%E5%B1%B1%E4%BD%99%E9%9C%87%E5%8C%BA%E5%86%8D%E5%8F%91%E7%94%9F%E6%9B%B4%E5%A4%A7%E5%9C%B0%E9%9C%87%E5%8F%AF%E8%83%BD%E6%80%A7%E4%B8%8D%E5%A4%A7%23&Refer=top) 136636
-1. [2022世界女排联赛](https://s.weibo.com/weibo?q=%232022%E4%B8%96%E7%95%8C%E5%A5%B3%E6%8E%92%E8%81%94%E8%B5%9B%23&Refer=top) 59058
+1. [2022世界女排联赛](https://s.weibo.com/weibo?q=%232022%E4%B8%96%E7%95%8C%E5%A5%B3%E6%8E%92%E8%81%94%E8%B5%9B%23&Refer=top) 82113
 <!-- END -->
 
 历史归档 [./archives](./archives)
