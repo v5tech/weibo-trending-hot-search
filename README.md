@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-06-02 03:10:43.002783 
+最后更新时间 2022-06-02 03:26:15.328938 
 1. [RNG](https://s.weibo.com/weibo?q=%23RNG%23&Refer=top) 3984099
 1. [Uzi](https://s.weibo.com/weibo?q=Uzi&Refer=top) 2190829
 1. [这些新规6月起施行](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BA%9B%E6%96%B0%E8%A7%846%E6%9C%88%E8%B5%B7%E6%96%BD%E8%A1%8C%23&Refer=top) 1636867
