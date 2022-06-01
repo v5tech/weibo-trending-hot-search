@@ -79,6 +79,10 @@
     "url": "https://s.weibo.com/weibo?q=%23Bin%23&Refer=top",
     "hot": 436926
   },
+  "美国仍有44个州存在合法童婚": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BB%8D%E6%9C%8944%E4%B8%AA%E5%B7%9E%E5%AD%98%E5%9C%A8%E5%90%88%E6%B3%95%E7%AB%A5%E5%A9%9A%23&Refer=top",
+    "hot": 424016
+  },
   "2022LPL春季转会期": {
     "url": "https://s.weibo.com/weibo?q=%232022LPL%E6%98%A5%E5%AD%A3%E8%BD%AC%E4%BC%9A%E6%9C%9F%23&Refer=top",
     "hot": 412102
@@ -149,7 +153,7 @@
   },
   "小米回应电视屏幕频现脱落": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94%E7%94%B5%E8%A7%86%E5%B1%8F%E5%B9%95%E9%A2%91%E7%8E%B0%E8%84%B1%E8%90%BD%23&Refer=top",
-    "hot": 238773
+    "hot": 239693
   },
   "fgo": {
     "url": "https://s.weibo.com/weibo?q=fgo&Refer=top",
@@ -203,12 +207,12 @@
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%B5%B7%E5%8E%BB%E4%B8%8A%E6%B5%B7%E5%8E%8B%E9%A9%AC%E8%B7%AF%23&Refer=top",
     "hot": 149175
   },
-  "美国仍有44个州存在合法童婚": {
-    "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BB%8D%E6%9C%8944%E4%B8%AA%E5%B7%9E%E5%AD%98%E5%9C%A8%E5%90%88%E6%B3%95%E7%AB%A5%E5%A9%9A%23&Refer=top",
-    "hot": 139514
-  },
   "短期内芦山余震区再发生更大地震可能性不大": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%9F%AD%E6%9C%9F%E5%86%85%E8%8A%A6%E5%B1%B1%E4%BD%99%E9%9C%87%E5%8C%BA%E5%86%8D%E5%8F%91%E7%94%9F%E6%9B%B4%E5%A4%A7%E5%9C%B0%E9%9C%87%E5%8F%AF%E8%83%BD%E6%80%A7%E4%B8%8D%E5%A4%A7%23&Refer=top",
     "hot": 136636
+  },
+  "2022世界女排联赛": {
+    "url": "https://s.weibo.com/weibo?q=%232022%E4%B8%96%E7%95%8C%E5%A5%B3%E6%8E%92%E8%81%94%E8%B5%9B%23&Refer=top",
+    "hot": 59058
   }
 }
