@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-06-04 01:14:27.339735 
+最后更新时间 2022-06-04 01:31:28.312078 
 1. [郑州就120延误救治事件成立调查组](https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E5%B0%B1120%E5%BB%B6%E8%AF%AF%E6%95%91%E6%B2%BB%E4%BA%8B%E4%BB%B6%E6%88%90%E7%AB%8B%E8%B0%83%E6%9F%A5%E7%BB%84%23&Refer=top) 2864075
 1. [卫健委回应河大大三女生脑出血去世](https://s.weibo.com/weibo?q=%23%E5%8D%AB%E5%81%A5%E5%A7%94%E5%9B%9E%E5%BA%94%E6%B2%B3%E5%A4%A7%E5%A4%A7%E4%B8%89%E5%A5%B3%E7%94%9F%E8%84%91%E5%87%BA%E8%A1%80%E5%8E%BB%E4%B8%96%23&Refer=top) 2119588
 1. [睡够了真的可以自然瘦](https://s.weibo.com/weibo?q=%23%E7%9D%A1%E5%A4%9F%E4%BA%86%E7%9C%9F%E7%9A%84%E5%8F%AF%E4%BB%A5%E8%87%AA%E7%84%B6%E7%98%A6%23&Refer=top) 1779078
@@ -27,7 +27,7 @@
 1. [法网](https://s.weibo.com/weibo?q=%E6%B3%95%E7%BD%91&Refer=top) 403478
 1. [Uzi直播宣布夏季赛休息](https://s.weibo.com/weibo?q=%23Uzi%E7%9B%B4%E6%92%AD%E5%AE%A3%E5%B8%83%E5%A4%8F%E5%AD%A3%E8%B5%9B%E4%BC%91%E6%81%AF%23&Refer=top) 308639
 1. [小伙瘫痪981天后第一次站起来](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E7%98%AB%E7%97%AA981%E5%A4%A9%E5%90%8E%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%AB%99%E8%B5%B7%E6%9D%A5%23&Refer=top) 293700
-1. [狗狗被蛰成了大头皮鞋](https://s.weibo.com/weibo?q=%23%E7%8B%97%E7%8B%97%E8%A2%AB%E8%9B%B0%E6%88%90%E4%BA%86%E5%A4%A7%E5%A4%B4%E7%9A%AE%E9%9E%8B%23&Refer=top) 246361
+1. [狗狗被蛰成了大头皮鞋](https://s.weibo.com/weibo?q=%23%E7%8B%97%E7%8B%97%E8%A2%AB%E8%9B%B0%E6%88%90%E4%BA%86%E5%A4%A7%E5%A4%B4%E7%9A%AE%E9%9E%8B%23&Refer=top) 280172
 1. [端午祝福](https://s.weibo.com/weibo?q=%E7%AB%AF%E5%8D%88%E7%A5%9D%E7%A6%8F&Refer=top) 245490
 1. [原来情侣穿搭还可以这样](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%83%85%E4%BE%A3%E7%A9%BF%E6%90%AD%E8%BF%98%E5%8F%AF%E4%BB%A5%E8%BF%99%E6%A0%B7%23&Refer=top) 205136
 1. [赵樱子 衣服](https://s.weibo.com/weibo?q=%E8%B5%B5%E6%A8%B1%E5%AD%90%20%E8%A1%A3%E6%9C%8D&Refer=top) 201847
