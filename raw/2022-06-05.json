@@ -231,6 +231,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E8%94%A1%E6%97%AD%E5%93%B2%E5%B0%86%E6%88%90%E4%B8%BA%E6%B2%B3%E5%8C%97%E9%A6%96%E4%BD%8D%E8%BF%9B%E5%85%A5%E5%A4%AA%E7%A9%BA%E7%9A%84%E8%88%AA%E5%A4%A9%E5%91%98%23&Refer=top",
     "hot": 9815
   },
+  "中国建造的家将造福全人类": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%BB%BA%E9%80%A0%E7%9A%84%E5%AE%B6%E5%B0%86%E9%80%A0%E7%A6%8F%E5%85%A8%E4%BA%BA%E7%B1%BB%23&Refer=top",
+    "hot": 6621
+  },
   "神十四航天员训练画面公布": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%A5%9E%E5%8D%81%E5%9B%9B%E8%88%AA%E5%A4%A9%E5%91%98%E8%AE%AD%E7%BB%83%E7%94%BB%E9%9D%A2%E5%85%AC%E5%B8%83%23&Refer=top",
     "hot": 6303
@@ -242,5 +246,9 @@
   "神十四乘组训练画面": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%A5%9E%E5%8D%81%E5%9B%9B%E4%B9%98%E7%BB%84%E8%AE%AD%E7%BB%83%E7%94%BB%E9%9D%A2%23&Refer=top",
     "hot": 5757
+  },
+  "FE电动方程式": {
+    "url": "https://s.weibo.com/weibo?q=%23FE%E7%94%B5%E5%8A%A8%E6%96%B9%E7%A8%8B%E5%BC%8F%23&Refer=top",
+    "hot": 5186
   }
 }
