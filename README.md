@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-06-05 05:38:10.430880 
+最后更新时间 2022-06-05 05:48:55.422040 
 1. [曹建军酒驾](https://s.weibo.com/weibo?q=%E6%9B%B9%E5%BB%BA%E5%86%9B%E9%85%92%E9%A9%BE&Refer=top) 2886081
 1. [D2809殉职司机杨勇](https://s.weibo.com/weibo?q=%23D2809%E6%AE%89%E8%81%8C%E5%8F%B8%E6%9C%BA%E6%9D%A8%E5%8B%87%23&Refer=top) 2208543
 1. [梦回赵灵儿](https://s.weibo.com/weibo?q=%E6%A2%A6%E5%9B%9E%E8%B5%B5%E7%81%B5%E5%84%BF&Refer=top) 1845667
