@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-06-07 03:35:11.979942 
+最后更新时间 2022-06-07 04:17:38.177886 
 1. [郑州通报120延误救治事件问责情况](https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E9%80%9A%E6%8A%A5120%E5%BB%B6%E8%AF%AF%E6%95%91%E6%B2%BB%E4%BA%8B%E4%BB%B6%E9%97%AE%E8%B4%A3%E6%83%85%E5%86%B5%23&Refer=top) 3731538
 1. [月薪1万8但无意义的工作你愿意做吗](https://s.weibo.com/weibo?q=%23%E6%9C%88%E8%96%AA1%E4%B8%878%E4%BD%86%E6%97%A0%E6%84%8F%E4%B9%89%E7%9A%84%E5%B7%A5%E4%BD%9C%E4%BD%A0%E6%84%BF%E6%84%8F%E5%81%9A%E5%90%97%23&Refer=top) 3566080
 1. [小贝饿了回应夜市遭遇男子骚扰](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E8%B4%9D%E9%A5%BF%E4%BA%86%E5%9B%9E%E5%BA%94%E5%A4%9C%E5%B8%82%E9%81%AD%E9%81%87%E7%94%B7%E5%AD%90%E9%AA%9A%E6%89%B0%23&Refer=top) 2402562
@@ -69,6 +69,8 @@
 1. [Suk加入TEC](https://s.weibo.com/weibo?q=%23Suk%E5%8A%A0%E5%85%A5TEC%23&Refer=top) 101290
 1. [Suk夏季转会期标王](https://s.weibo.com/weibo?q=%23Suk%E5%A4%8F%E5%AD%A3%E8%BD%AC%E4%BC%9A%E6%9C%9F%E6%A0%87%E7%8E%8B%23&Refer=top) 73576
 1. [杨紫嘀了个下班卡](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%98%80%E4%BA%86%E4%B8%AA%E4%B8%8B%E7%8F%AD%E5%8D%A1%23&Refer=top) 25505
+1. [当古装美男是个倒霉蛋](https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%8F%A4%E8%A3%85%E7%BE%8E%E7%94%B7%E6%98%AF%E4%B8%AA%E5%80%92%E9%9C%89%E8%9B%8B%23&Refer=top) 21970
+1. [白百何口播式告别欢迎光临](https://s.weibo.com/weibo?q=%23%E7%99%BD%E7%99%BE%E4%BD%95%E5%8F%A3%E6%92%AD%E5%BC%8F%E5%91%8A%E5%88%AB%E6%AC%A2%E8%BF%8E%E5%85%89%E4%B8%B4%23&Refer=top) 20973
 <!-- END -->
 
 历史归档 [./archives](./archives)
