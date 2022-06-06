@@ -25,7 +25,7 @@
   },
   "iOS 16自定义锁屏": {
     "url": "https://s.weibo.com/weibo?q=iOS%2016%E8%87%AA%E5%AE%9A%E4%B9%89%E9%94%81%E5%B1%8F&Refer=top",
-    "hot": 1152944
+    "hot": 1165386
   },
   "苹果发布会": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E4%BC%9A%23&Refer=top",
@@ -115,6 +115,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E6%BC%B3%E5%B7%9E%E5%8F%91%E7%8E%B01%E4%BE%8B%E6%97%A0%E7%97%87%E7%8A%B6%E6%84%9F%E6%9F%93%E8%80%85%23&Refer=top",
     "hot": 250252
   },
+  "全新CarPlay": {
+    "url": "https://s.weibo.com/weibo?q=%E5%85%A8%E6%96%B0CarPlay&Refer=top",
+    "hot": 246300
+  },
   "特斯拉中国仍在大量招人": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%AD%E5%9B%BD%E4%BB%8D%E5%9C%A8%E5%A4%A7%E9%87%8F%E6%8B%9B%E4%BA%BA%23&Refer=top",
     "hot": 243456
@@ -142,6 +146,10 @@
   "梦华录不更新的日子": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%A2%A6%E5%8D%8E%E5%BD%95%E4%B8%8D%E6%9B%B4%E6%96%B0%E7%9A%84%E6%97%A5%E5%AD%90%23&Refer=top",
     "hot": 214918
+  },
+  "M2芯片": {
+    "url": "https://s.weibo.com/weibo?q=M2%E8%8A%AF%E7%89%87&Refer=top",
+    "hot": 214726
   },
   "孔雪儿直播好美": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%AD%94%E9%9B%AA%E5%84%BF%E7%9B%B4%E6%92%AD%E5%A5%BD%E7%BE%8E%23&Refer=top",
@@ -222,5 +230,9 @@
   "Suk夏季转会期标王": {
     "url": "https://s.weibo.com/weibo?q=%23Suk%E5%A4%8F%E5%AD%A3%E8%BD%AC%E4%BC%9A%E6%9C%9F%E6%A0%87%E7%8E%8B%23&Refer=top",
     "hot": 73576
+  },
+  "杨紫嘀了个下班卡": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%98%80%E4%BA%86%E4%B8%AA%E4%B8%8B%E7%8F%AD%E5%8D%A1%23&Refer=top",
+    "hot": 22616
   }
 }
