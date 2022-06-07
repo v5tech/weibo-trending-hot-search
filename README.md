@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-06-08 01:20:20.570669 
+最后更新时间 2022-06-08 01:41:47.160017 
 1. [高考数学被指泄题](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E8%A2%AB%E6%8C%87%E6%B3%84%E9%A2%98%23&Refer=top) 8002920
 1. [李诞 离婚都没分这么多](https://s.weibo.com/weibo?q=%E6%9D%8E%E8%AF%9E%20%E7%A6%BB%E5%A9%9A%E9%83%BD%E6%B2%A1%E5%88%86%E8%BF%99%E4%B9%88%E5%A4%9A&Refer=top) 2313621
 1. [男生保送北大后为同学们送考](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E4%BF%9D%E9%80%81%E5%8C%97%E5%A4%A7%E5%90%8E%E4%B8%BA%E5%90%8C%E5%AD%A6%E4%BB%AC%E9%80%81%E8%80%83%23&Refer=top) 2095575
@@ -61,6 +61,7 @@
 1. [欧国联](https://s.weibo.com/weibo?q=%23%E6%AC%A7%E5%9B%BD%E8%81%94%23&Refer=top) 99145
 1. [高考作文](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%23&Refer=top) 60327
 1. [晒出最美海平线](https://s.weibo.com/weibo?q=%23%E6%99%92%E5%87%BA%E6%9C%80%E7%BE%8E%E6%B5%B7%E5%B9%B3%E7%BA%BF%23&Refer=top) 52091
+1. [格力将再招3000到5000名大学毕业生](https://s.weibo.com/weibo?q=%23%E6%A0%BC%E5%8A%9B%E5%B0%86%E5%86%8D%E6%8B%9B3000%E5%88%B05000%E5%90%8D%E5%A4%A7%E5%AD%A6%E6%AF%95%E4%B8%9A%E7%94%9F%23&Refer=top) 36380
 <!-- END -->
 
 历史归档 [./archives](./archives)
