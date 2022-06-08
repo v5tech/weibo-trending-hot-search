@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-06-09 03:10:03.837541 
+最后更新时间 2022-06-09 03:23:50.586148 
 1. [台湾歌手萧敬腾称已常居成都](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E6%AD%8C%E6%89%8B%E8%90%A7%E6%95%AC%E8%85%BE%E7%A7%B0%E5%B7%B2%E5%B8%B8%E5%B1%85%E6%88%90%E9%83%BD%23&Refer=top) 2652188
 1. [一诺](https://s.weibo.com/weibo?q=%E4%B8%80%E8%AF%BA&Refer=top) 1394743
 1. [考场外那些暖心瞬间](https://s.weibo.com/weibo?q=%23%E8%80%83%E5%9C%BA%E5%A4%96%E9%82%A3%E4%BA%9B%E6%9A%96%E5%BF%83%E7%9E%AC%E9%97%B4%23&Refer=top) 1301927
