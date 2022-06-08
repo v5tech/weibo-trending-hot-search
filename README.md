@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-06-09 03:48:46.287829 
+最后更新时间 2022-06-09 04:12:56.108142 
 1. [台湾歌手萧敬腾称已常居成都](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E6%AD%8C%E6%89%8B%E8%90%A7%E6%95%AC%E8%85%BE%E7%A7%B0%E5%B7%B2%E5%B8%B8%E5%B1%85%E6%88%90%E9%83%BD%23&Refer=top) 2652188
 1. [一诺](https://s.weibo.com/weibo?q=%E4%B8%80%E8%AF%BA&Refer=top) 1394743
 1. [考场外那些暖心瞬间](https://s.weibo.com/weibo?q=%23%E8%80%83%E5%9C%BA%E5%A4%96%E9%82%A3%E4%BA%9B%E6%9A%96%E5%BF%83%E7%9E%AC%E9%97%B4%23&Refer=top) 1301927
@@ -65,6 +65,8 @@
 1. [27岁姐姐梳母亲生前发型送妹妹高考](https://s.weibo.com/weibo?q=%2327%E5%B2%81%E5%A7%90%E5%A7%90%E6%A2%B3%E6%AF%8D%E4%BA%B2%E7%94%9F%E5%89%8D%E5%8F%91%E5%9E%8B%E9%80%81%E5%A6%B9%E5%A6%B9%E9%AB%98%E8%80%83%23&Refer=top) 132687
 1. [上海来浙返浙人员健康管理措施](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%9D%A5%E6%B5%99%E8%BF%94%E6%B5%99%E4%BA%BA%E5%91%98%E5%81%A5%E5%BA%B7%E7%AE%A1%E7%90%86%E6%8E%AA%E6%96%BD%23&Refer=top) 127873
 1. [刘亦菲送剧组同事lv礼物](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E9%80%81%E5%89%A7%E7%BB%84%E5%90%8C%E4%BA%8Blv%E7%A4%BC%E7%89%A9%23&Refer=top) 91638
+1. [影帝马修麦康纳白宫现场激动捶桌](https://s.weibo.com/weibo?q=%23%E5%BD%B1%E5%B8%9D%E9%A9%AC%E4%BF%AE%E9%BA%A6%E5%BA%B7%E7%BA%B3%E7%99%BD%E5%AE%AB%E7%8E%B0%E5%9C%BA%E6%BF%80%E5%8A%A8%E6%8D%B6%E6%A1%8C%23&Refer=top) 17311
+1. [华为累计申请发明专利超20万件](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E7%B4%AF%E8%AE%A1%E7%94%B3%E8%AF%B7%E5%8F%91%E6%98%8E%E4%B8%93%E5%88%A9%E8%B6%8520%E4%B8%87%E4%BB%B6%23&Refer=top) 10734
 <!-- END -->
 
 历史归档 [./archives](./archives)
