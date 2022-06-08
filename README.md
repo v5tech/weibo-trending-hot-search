@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-06-09 04:48:56.620443 
+最后更新时间 2022-06-09 05:10:55.593068 
 1. [台湾歌手萧敬腾称已常居成都](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E6%AD%8C%E6%89%8B%E8%90%A7%E6%95%AC%E8%85%BE%E7%A7%B0%E5%B7%B2%E5%B8%B8%E5%B1%85%E6%88%90%E9%83%BD%23&Refer=top) 2652188
 1. [一诺](https://s.weibo.com/weibo?q=%E4%B8%80%E8%AF%BA&Refer=top) 1394743
 1. [考场外那些暖心瞬间](https://s.weibo.com/weibo?q=%23%E8%80%83%E5%9C%BA%E5%A4%96%E9%82%A3%E4%BA%9B%E6%9A%96%E5%BF%83%E7%9E%AC%E9%97%B4%23&Refer=top) 1301927
@@ -65,11 +65,13 @@
 1. [27岁姐姐梳母亲生前发型送妹妹高考](https://s.weibo.com/weibo?q=%2327%E5%B2%81%E5%A7%90%E5%A7%90%E6%A2%B3%E6%AF%8D%E4%BA%B2%E7%94%9F%E5%89%8D%E5%8F%91%E5%9E%8B%E9%80%81%E5%A6%B9%E5%A6%B9%E9%AB%98%E8%80%83%23&Refer=top) 132687
 1. [上海来浙返浙人员健康管理措施](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%9D%A5%E6%B5%99%E8%BF%94%E6%B5%99%E4%BA%BA%E5%91%98%E5%81%A5%E5%BA%B7%E7%AE%A1%E7%90%86%E6%8E%AA%E6%96%BD%23&Refer=top) 127873
 1. [刘亦菲送剧组同事lv礼物](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E9%80%81%E5%89%A7%E7%BB%84%E5%90%8C%E4%BA%8Blv%E7%A4%BC%E7%89%A9%23&Refer=top) 91638
-1. [影帝马修麦康纳白宫现场激动捶桌](https://s.weibo.com/weibo?q=%23%E5%BD%B1%E5%B8%9D%E9%A9%AC%E4%BF%AE%E9%BA%A6%E5%BA%B7%E7%BA%B3%E7%99%BD%E5%AE%AB%E7%8E%B0%E5%9C%BA%E6%BF%80%E5%8A%A8%E6%8D%B6%E6%A1%8C%23&Refer=top) 28988
+1. [影帝马修麦康纳白宫现场激动捶桌](https://s.weibo.com/weibo?q=%23%E5%BD%B1%E5%B8%9D%E9%A9%AC%E4%BF%AE%E9%BA%A6%E5%BA%B7%E7%BA%B3%E7%99%BD%E5%AE%AB%E7%8E%B0%E5%9C%BA%E6%BF%80%E5%8A%A8%E6%8D%B6%E6%A1%8C%23&Refer=top) 37229
+1. [女子为留住男友的心伪造3本房产证](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B8%BA%E7%95%99%E4%BD%8F%E7%94%B7%E5%8F%8B%E7%9A%84%E5%BF%83%E4%BC%AA%E9%80%A03%E6%9C%AC%E6%88%BF%E4%BA%A7%E8%AF%81%23&Refer=top) 29177
+1. [台湾多名儿童感染新冠后出现脑炎](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E5%A4%9A%E5%90%8D%E5%84%BF%E7%AB%A5%E6%84%9F%E6%9F%93%E6%96%B0%E5%86%A0%E5%90%8E%E5%87%BA%E7%8E%B0%E8%84%91%E7%82%8E%23&Refer=top) 15483
 1. [华为累计申请发明专利超20万件](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E7%B4%AF%E8%AE%A1%E7%94%B3%E8%AF%B7%E5%8F%91%E6%98%8E%E4%B8%93%E5%88%A9%E8%B6%8520%E4%B8%87%E4%BB%B6%23&Refer=top) 10734
+1. [比亚迪新能源汽车起火车辆噼啪作响](https://s.weibo.com/weibo?q=%23%E6%AF%94%E4%BA%9A%E8%BF%AA%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E8%B5%B7%E7%81%AB%E8%BD%A6%E8%BE%86%E5%99%BC%E5%95%AA%E4%BD%9C%E5%93%8D%23&Refer=top) 10599
 1. [广东的强降雨还在继续](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E7%9A%84%E5%BC%BA%E9%99%8D%E9%9B%A8%E8%BF%98%E5%9C%A8%E7%BB%A7%E7%BB%AD%23&Refer=top) 10097
 1. [觉得自己老了的三个时刻](https://s.weibo.com/weibo?q=%23%E8%A7%89%E5%BE%97%E8%87%AA%E5%B7%B1%E8%80%81%E4%BA%86%E7%9A%84%E4%B8%89%E4%B8%AA%E6%97%B6%E5%88%BB%23&Refer=top) 9961
-1. [女子为留住男友的心伪造3本房产证](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B8%BA%E7%95%99%E4%BD%8F%E7%94%B7%E5%8F%8B%E7%9A%84%E5%BF%83%E4%BC%AA%E9%80%A03%E6%9C%AC%E6%88%BF%E4%BA%A7%E8%AF%81%23&Refer=top) 9815
 1. [高中那些碎碎念现在才听懂](https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%B8%AD%E9%82%A3%E4%BA%9B%E7%A2%8E%E7%A2%8E%E5%BF%B5%E7%8E%B0%E5%9C%A8%E6%89%8D%E5%90%AC%E6%87%82%23&Refer=top) 9196
 1. [擦边球广告为何前赴后继](https://s.weibo.com/weibo?q=%23%E6%93%A6%E8%BE%B9%E7%90%83%E5%B9%BF%E5%91%8A%E4%B8%BA%E4%BD%95%E5%89%8D%E8%B5%B4%E5%90%8E%E7%BB%A7%23&Refer=top) 8805
 <!-- END -->
