@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-06-10 05:35:29.813141 
+最后更新时间 2022-06-10 05:48:45.505206 
 1. [四川马尔康连发4次地震](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E9%A9%AC%E5%B0%94%E5%BA%B7%E8%BF%9E%E5%8F%914%E6%AC%A1%E5%9C%B0%E9%9C%87%23&Refer=top) 3072639
 1. [四川阿坝马尔康5.8级地震](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E9%98%BF%E5%9D%9D%E9%A9%AC%E5%B0%94%E5%BA%B75.8%E7%BA%A7%E5%9C%B0%E9%9C%87%23&Refer=top) 3057267
 1. [高考结束那晚你是如何度过的](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E9%82%A3%E6%99%9A%E4%BD%A0%E6%98%AF%E5%A6%82%E4%BD%95%E5%BA%A6%E8%BF%87%E7%9A%84%23&Refer=top) 2739263
@@ -70,14 +70,16 @@
 1. [这才是炸蛋的正确打开方式](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%89%8D%E6%98%AF%E7%82%B8%E8%9B%8B%E7%9A%84%E6%AD%A3%E7%A1%AE%E6%89%93%E5%BC%80%E6%96%B9%E5%BC%8F%23&Refer=top) 91974
 1. [校长师生雨中踢球告别高考](https://s.weibo.com/weibo?q=%23%E6%A0%A1%E9%95%BF%E5%B8%88%E7%94%9F%E9%9B%A8%E4%B8%AD%E8%B8%A2%E7%90%83%E5%91%8A%E5%88%AB%E9%AB%98%E8%80%83%23&Refer=top) 69218
 1. [杭州市场火灾初判为施工操作不当](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%B8%82%E5%9C%BA%E7%81%AB%E7%81%BE%E5%88%9D%E5%88%A4%E4%B8%BA%E6%96%BD%E5%B7%A5%E6%93%8D%E4%BD%9C%E4%B8%8D%E5%BD%93%23&Refer=top) 65960
+1. [15分钟核酸采样圈不要求所有城市都建立](https://s.weibo.com/weibo?q=%2315%E5%88%86%E9%92%9F%E6%A0%B8%E9%85%B8%E9%87%87%E6%A0%B7%E5%9C%88%E4%B8%8D%E8%A6%81%E6%B1%82%E6%89%80%E6%9C%89%E5%9F%8E%E5%B8%82%E9%83%BD%E5%BB%BA%E7%AB%8B%23&Refer=top) 55860
+1. [女教师跳水库救回落水女子](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%95%99%E5%B8%88%E8%B7%B3%E6%B0%B4%E5%BA%93%E6%95%91%E5%9B%9E%E8%90%BD%E6%B0%B4%E5%A5%B3%E5%AD%90%23&Refer=top) 55762
 1. [女子朝拜登车队抗议被特工一把按倒](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%9C%9D%E6%8B%9C%E7%99%BB%E8%BD%A6%E9%98%9F%E6%8A%97%E8%AE%AE%E8%A2%AB%E7%89%B9%E5%B7%A5%E4%B8%80%E6%8A%8A%E6%8C%89%E5%80%92%23&Refer=top) 45533
-1. [女教师跳水库救回落水女子](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%95%99%E5%B8%88%E8%B7%B3%E6%B0%B4%E5%BA%93%E6%95%91%E5%9B%9E%E8%90%BD%E6%B0%B4%E5%A5%B3%E5%AD%90%23&Refer=top) 44844
-1. [15分钟核酸采样圈不要求所有城市都建立](https://s.weibo.com/weibo?q=%2315%E5%88%86%E9%92%9F%E6%A0%B8%E9%85%B8%E9%87%87%E6%A0%B7%E5%9C%88%E4%B8%8D%E8%A6%81%E6%B1%82%E6%89%80%E6%9C%89%E5%9F%8E%E5%B8%82%E9%83%BD%E5%BB%BA%E7%AB%8B%23&Refer=top) 44718
 1. [周鸿祎称被俞敏洪安利做直播带货](https://s.weibo.com/weibo?q=%23%E5%91%A8%E9%B8%BF%E7%A5%8E%E7%A7%B0%E8%A2%AB%E4%BF%9E%E6%95%8F%E6%B4%AA%E5%AE%89%E5%88%A9%E5%81%9A%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%23&Refer=top) 35143
+1. [科学家成功让细胞自裁](https://s.weibo.com/weibo?q=%23%E7%A7%91%E5%AD%A6%E5%AE%B6%E6%88%90%E5%8A%9F%E8%AE%A9%E7%BB%86%E8%83%9E%E8%87%AA%E8%A3%81%23&Refer=top) 28675
+1. [外交部回应美方新一轮对台军售](https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E6%96%B9%E6%96%B0%E4%B8%80%E8%BD%AE%E5%AF%B9%E5%8F%B0%E5%86%9B%E5%94%AE%23&Refer=top) 26130
 1. [中国援柬云壤海军基地升级改造项目开工](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E6%8F%B4%E6%9F%AC%E4%BA%91%E5%A3%A4%E6%B5%B7%E5%86%9B%E5%9F%BA%E5%9C%B0%E5%8D%87%E7%BA%A7%E6%94%B9%E9%80%A0%E9%A1%B9%E7%9B%AE%E5%BC%80%E5%B7%A5&Refer=top) 25799
 1. [我有一个装满星星的口袋](https://s.weibo.com/weibo?q=%E6%88%91%E6%9C%89%E4%B8%80%E4%B8%AA%E8%A3%85%E6%BB%A1%E6%98%9F%E6%98%9F%E7%9A%84%E5%8F%A3%E8%A2%8B&Refer=top) 25525
-1. [外交部回应美方新一轮对台军售](https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E6%96%B9%E6%96%B0%E4%B8%80%E8%BD%AE%E5%AF%B9%E5%8F%B0%E5%86%9B%E5%94%AE%23&Refer=top) 24495
-1. [科学家成功让细胞自裁](https://s.weibo.com/weibo?q=%23%E7%A7%91%E5%AD%A6%E5%AE%B6%E6%88%90%E5%8A%9F%E8%AE%A9%E7%BB%86%E8%83%9E%E8%87%AA%E8%A3%81%23&Refer=top) 17252
+1. [北京为何将核酸证明时间调为72小时](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E4%B8%BA%E4%BD%95%E5%B0%86%E6%A0%B8%E9%85%B8%E8%AF%81%E6%98%8E%E6%97%B6%E9%97%B4%E8%B0%83%E4%B8%BA72%E5%B0%8F%E6%97%B6%23&Refer=top) 23971
+1. [首位秦腔虚拟人冲破次元壁](https://s.weibo.com/weibo?q=%23%E9%A6%96%E4%BD%8D%E7%A7%A6%E8%85%94%E8%99%9A%E6%8B%9F%E4%BA%BA%E5%86%B2%E7%A0%B4%E6%AC%A1%E5%85%83%E5%A3%81%23&Refer=top) 13013
 1. [美国眼中的世界地图是什么样](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%9C%BC%E4%B8%AD%E7%9A%84%E4%B8%96%E7%95%8C%E5%9C%B0%E5%9B%BE%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%23&Refer=top) 9721
 1. [百岁革命老人离世前为捐遗体争了3次](https://s.weibo.com/weibo?q=%23%E7%99%BE%E5%B2%81%E9%9D%A9%E5%91%BD%E8%80%81%E4%BA%BA%E7%A6%BB%E4%B8%96%E5%89%8D%E4%B8%BA%E6%8D%90%E9%81%97%E4%BD%93%E4%BA%89%E4%BA%863%E6%AC%A1%23&Refer=top) 9500
 1. [城市巡游记](https://s.weibo.com/weibo?q=%23%E5%9F%8E%E5%B8%82%E5%B7%A1%E6%B8%B8%E8%AE%B0%23&Refer=top) 9187
