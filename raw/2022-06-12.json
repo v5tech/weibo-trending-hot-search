@@ -163,6 +163,10 @@
     "url": "https://s.weibo.com/weibo?q=%E5%91%A8%E5%86%A0%E5%AE%87&Refer=top",
     "hot": 312461
   },
+  "唐山恶性伤人事件我们因何愤怒": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%94%90%E5%B1%B1%E6%81%B6%E6%80%A7%E4%BC%A4%E4%BA%BA%E4%BA%8B%E4%BB%B6%E6%88%91%E4%BB%AC%E5%9B%A0%E4%BD%95%E6%84%A4%E6%80%92%23&Refer=top",
+    "hot": 309305
+  },
   "北京涉酒吧疫情已判定密接6158人": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%B6%89%E9%85%92%E5%90%A7%E7%96%AB%E6%83%85%E5%B7%B2%E5%88%A4%E5%AE%9A%E5%AF%86%E6%8E%A56158%E4%BA%BA%23&Refer=top",
     "hot": 306013
@@ -207,10 +211,6 @@
     "url": "https://s.weibo.com/weibo?q=needy&Refer=top",
     "hot": 172089
   },
-  "唐山恶性伤人事件我们因何愤怒": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%94%90%E5%B1%B1%E6%81%B6%E6%80%A7%E4%BC%A4%E4%BA%BA%E4%BA%8B%E4%BB%B6%E6%88%91%E4%BB%AC%E5%9B%A0%E4%BD%95%E6%84%A4%E6%80%92%23&Refer=top",
-    "hot": 169341
-  },
   "3名外卖小哥联手抓住小偷": {
     "url": "https://s.weibo.com/weibo?q=%233%E5%90%8D%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E8%81%94%E6%89%8B%E6%8A%93%E4%BD%8F%E5%B0%8F%E5%81%B7%23&Refer=top",
     "hot": 150651
@@ -233,6 +233,6 @@
   },
   "2022年文化和自然遗产日": {
     "url": "https://s.weibo.com/weibo?q=%232022%E5%B9%B4%E6%96%87%E5%8C%96%E5%92%8C%E8%87%AA%E7%84%B6%E9%81%97%E4%BA%A7%E6%97%A5%23&Refer=top",
-    "hot": 7693
+    "hot": 12693
   }
 }
