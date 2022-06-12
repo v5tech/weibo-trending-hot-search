@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-06-13 06:29:14.989274 
+最后更新时间 2022-06-13 06:39:59.061695 
 1. [唐山蛋糕店事件嫌疑人落网](https://s.weibo.com/weibo?q=%23%E5%94%90%E5%B1%B1%E8%9B%8B%E7%B3%95%E5%BA%97%E4%BA%8B%E4%BB%B6%E5%AB%8C%E7%96%91%E4%BA%BA%E8%90%BD%E7%BD%91%23&Refer=top) 10466881
 1. [唐山被举报酒吧还有多人被打](https://s.weibo.com/weibo?q=%23%E5%94%90%E5%B1%B1%E8%A2%AB%E4%B8%BE%E6%8A%A5%E9%85%92%E5%90%A7%E8%BF%98%E6%9C%89%E5%A4%9A%E4%BA%BA%E8%A2%AB%E6%89%93%23&Refer=top) 9153959
 1. [中国男排太牛了](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%94%B7%E6%8E%92%E5%A4%AA%E7%89%9B%E4%BA%86&Refer=top) 3256452
@@ -56,16 +56,16 @@
 1. [孟子义问徐志胜你是我的宝吗](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E9%97%AE%E5%BE%90%E5%BF%97%E8%83%9C%E4%BD%A0%E6%98%AF%E6%88%91%E7%9A%84%E5%AE%9D%E5%90%97%23&Refer=top) 182448
 1. [小伙接诈骗电话把对方聊到自曝身份](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E6%8E%A5%E8%AF%88%E9%AA%97%E7%94%B5%E8%AF%9D%E6%8A%8A%E5%AF%B9%E6%96%B9%E8%81%8A%E5%88%B0%E8%87%AA%E6%9B%9D%E8%BA%AB%E4%BB%BD%23&Refer=top) 179801
 1. [北京7区出现冰雹](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC7%E5%8C%BA%E5%87%BA%E7%8E%B0%E5%86%B0%E9%9B%B9%23&Refer=top) 179756
+1. [曾对峙47小时长沙舰驱离外舰](https://s.weibo.com/weibo?q=%23%E6%9B%BE%E5%AF%B9%E5%B3%9947%E5%B0%8F%E6%97%B6%E9%95%BF%E6%B2%99%E8%88%B0%E9%A9%B1%E7%A6%BB%E5%A4%96%E8%88%B0%23&Refer=top) 165060
 1. [女子网上买餐桌到货发现没脚掌大](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%BD%91%E4%B8%8A%E4%B9%B0%E9%A4%90%E6%A1%8C%E5%88%B0%E8%B4%A7%E5%8F%91%E7%8E%B0%E6%B2%A1%E8%84%9A%E6%8E%8C%E5%A4%A7%23&Refer=top) 149358
+1. [北京朝阳新增密接2457人次密703人](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%9C%9D%E9%98%B3%E6%96%B0%E5%A2%9E%E5%AF%86%E6%8E%A52457%E4%BA%BA%E6%AC%A1%E5%AF%86703%E4%BA%BA%23&Refer=top) 146965
 1. [重庆加辣6元荤菜老火锅](https://s.weibo.com/weibo?q=%E9%87%8D%E5%BA%86%E5%8A%A0%E8%BE%A36%E5%85%83%E8%8D%A4%E8%8F%9C%E8%80%81%E7%81%AB%E9%94%85&Refer=top) 142983
 1. [中国男排小太阳张景胤](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E6%8E%92%E5%B0%8F%E5%A4%AA%E9%98%B3%E5%BC%A0%E6%99%AF%E8%83%A4%23&Refer=top) 136543
-1. [曾对峙47小时长沙舰驱离外舰](https://s.weibo.com/weibo?q=%23%E6%9B%BE%E5%AF%B9%E5%B3%9947%E5%B0%8F%E6%97%B6%E9%95%BF%E6%B2%99%E8%88%B0%E9%A9%B1%E7%A6%BB%E5%A4%96%E8%88%B0%23&Refer=top) 131805
-1. [北京朝阳新增密接2457人次密703人](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%9C%9D%E9%98%B3%E6%96%B0%E5%A2%9E%E5%AF%86%E6%8E%A52457%E4%BA%BA%E6%AC%A1%E5%AF%86703%E4%BA%BA%23&Refer=top) 129746
 1. [密接者称天堂超市酒吧查健康码不仔细](https://s.weibo.com/weibo?q=%23%E5%AF%86%E6%8E%A5%E8%80%85%E7%A7%B0%E5%A4%A9%E5%A0%82%E8%B6%85%E5%B8%82%E9%85%92%E5%90%A7%E6%9F%A5%E5%81%A5%E5%BA%B7%E7%A0%81%E4%B8%8D%E4%BB%94%E7%BB%86%23&Refer=top) 127451
 1. [女子回酒店遭男子尾随欲行不轨](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9B%9E%E9%85%92%E5%BA%97%E9%81%AD%E7%94%B7%E5%AD%90%E5%B0%BE%E9%9A%8F%E6%AC%B2%E8%A1%8C%E4%B8%8D%E8%BD%A8%23&Refer=top) 123593
 1. [上海社会面新增本土确诊1例无症状4例](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E7%A4%BE%E4%BC%9A%E9%9D%A2%E6%96%B0%E5%A2%9E%E6%9C%AC%E5%9C%9F%E7%A1%AE%E8%AF%8A1%E4%BE%8B%E6%97%A0%E7%97%87%E7%8A%B64%E4%BE%8B%23&Refer=top) 123534
-1. [投资1000亿陕西电网升级](https://s.weibo.com/weibo?q=%E6%8A%95%E8%B5%841000%E4%BA%BF%E9%99%95%E8%A5%BF%E7%94%B5%E7%BD%91%E5%8D%87%E7%BA%A7&Refer=top) 49891
-1. [全军主题团日活动](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%86%9B%E4%B8%BB%E9%A2%98%E5%9B%A2%E6%97%A5%E6%B4%BB%E5%8A%A8%23&Refer=top) 25918
+1. [投资1000亿陕西电网升级](https://s.weibo.com/weibo?q=%E6%8A%95%E8%B5%841000%E4%BA%BF%E9%99%95%E8%A5%BF%E7%94%B5%E7%BD%91%E5%8D%87%E7%BA%A7&Refer=top) 57753
+1. [全军主题团日活动](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%86%9B%E4%B8%BB%E9%A2%98%E5%9B%A2%E6%97%A5%E6%B4%BB%E5%8A%A8%23&Refer=top) 26929
 1. [北京人艺70周年院庆](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E4%BA%BA%E8%89%BA70%E5%91%A8%E5%B9%B4%E9%99%A2%E5%BA%86%23&Refer=top) 9567
 <!-- END -->
 
