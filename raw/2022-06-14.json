@@ -213,10 +213,18 @@
   },
   "日元对美元汇率创近24年来新低": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%85%83%E5%AF%B9%E7%BE%8E%E5%85%83%E6%B1%87%E7%8E%87%E5%88%9B%E8%BF%9124%E5%B9%B4%E6%9D%A5%E6%96%B0%E4%BD%8E%23&Refer=top",
-    "hot": 34309
+    "hot": 35453
   },
   "EDG开赛二连胜": {
     "url": "https://s.weibo.com/weibo?q=%23EDG%E5%BC%80%E8%B5%9B%E4%BA%8C%E8%BF%9E%E8%83%9C%23&Refer=top",
     "hot": 22046
+  },
+  "北京明白24小时都在线": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%98%8E%E7%99%BD24%E5%B0%8F%E6%97%B6%E9%83%BD%E5%9C%A8%E7%BA%BF%23&Refer=top",
+    "hot": 15989
+  },
+  "重庆省考": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E7%9C%81%E8%80%83%23&Refer=top",
+    "hot": 7887
   }
 }
