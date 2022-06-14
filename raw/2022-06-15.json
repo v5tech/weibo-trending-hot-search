@@ -222,5 +222,9 @@
   "油价": {
     "url": "https://s.weibo.com/weibo?q=%E6%B2%B9%E4%BB%B7&Refer=top",
     "hot": 32714
+  },
+  "欧国联": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%AC%A7%E5%9B%BD%E8%81%94%23&Refer=top",
+    "hot": 23556
   }
 }
