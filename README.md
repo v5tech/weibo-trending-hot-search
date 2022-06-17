@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-06-18 03:24:20.635749 
+最后更新时间 2022-06-18 03:35:19.039030 
 1. [医院否认唐山被打女子去世传言](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E5%90%A6%E8%AE%A4%E5%94%90%E5%B1%B1%E8%A2%AB%E6%89%93%E5%A5%B3%E5%AD%90%E5%8E%BB%E4%B8%96%E4%BC%A0%E8%A8%80%23&Refer=top) 2252635
 1. [杨幂镜头少](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E9%95%9C%E5%A4%B4%E5%B0%91&Refer=top) 1710984
 1. [兰州爆炸事故失联6人全部遇难](https://s.weibo.com/weibo?q=%23%E5%85%B0%E5%B7%9E%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E5%A4%B1%E8%81%946%E4%BA%BA%E5%85%A8%E9%83%A8%E9%81%87%E9%9A%BE%23&Refer=top) 1473075
@@ -71,7 +71,7 @@
 1. [一招缓解因久坐导致的腰痛](https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%8B%9B%E7%BC%93%E8%A7%A3%E5%9B%A0%E4%B9%85%E5%9D%90%E5%AF%BC%E8%87%B4%E7%9A%84%E8%85%B0%E7%97%9B%23&Refer=top) 57501
 1. [萌探探探案](https://s.weibo.com/weibo?q=%E8%90%8C%E6%8E%A2%E6%8E%A2%E6%8E%A2%E6%A1%88&Refer=top) 48309
 1. [邓家佳又美又飒](https://s.weibo.com/weibo?q=%23%E9%82%93%E5%AE%B6%E4%BD%B3%E5%8F%88%E7%BE%8E%E5%8F%88%E9%A3%92%23&Refer=top) 36903
-1. [三星堆考古为何未发现文字](https://s.weibo.com/weibo?q=%23%E4%B8%89%E6%98%9F%E5%A0%86%E8%80%83%E5%8F%A4%E4%B8%BA%E4%BD%95%E6%9C%AA%E5%8F%91%E7%8E%B0%E6%96%87%E5%AD%97%23&Refer=top) 35550
+1. [三星堆考古为何未发现文字](https://s.weibo.com/weibo?q=%23%E4%B8%89%E6%98%9F%E5%A0%86%E8%80%83%E5%8F%A4%E4%B8%BA%E4%BD%95%E6%9C%AA%E5%8F%91%E7%8E%B0%E6%96%87%E5%AD%97%23&Refer=top) 35886
 <!-- END -->
 
 历史归档 [./archives](./archives)
