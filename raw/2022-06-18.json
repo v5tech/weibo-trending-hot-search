@@ -75,6 +75,10 @@
     "url": "https://s.weibo.com/weibo?q=Icon%20BLG&Refer=top",
     "hot": 345887
   },
+  "花儿与少年 无聊": {
+    "url": "https://s.weibo.com/weibo?q=%E8%8A%B1%E5%84%BF%E4%B8%8E%E5%B0%91%E5%B9%B4%20%E6%97%A0%E8%81%8A&Refer=top",
+    "hot": 319291
+  },
   "这种虫子飞到身上千万别拍": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%A7%8D%E8%99%AB%E5%AD%90%E9%A3%9E%E5%88%B0%E8%BA%AB%E4%B8%8A%E5%8D%83%E4%B8%87%E5%88%AB%E6%8B%8D%23&Refer=top",
     "hot": 293459
@@ -249,6 +253,6 @@
   },
   "三星堆考古为何未发现文字": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E6%98%9F%E5%A0%86%E8%80%83%E5%8F%A4%E4%B8%BA%E4%BD%95%E6%9C%AA%E5%8F%91%E7%8E%B0%E6%96%87%E5%AD%97%23&Refer=top",
-    "hot": 19300
+    "hot": 25733
   }
 }
