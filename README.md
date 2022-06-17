@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-06-18 02:19:33.866082 
+最后更新时间 2022-06-18 02:39:34.467227 
 1. [医院否认唐山被打女子去世传言](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E5%90%A6%E8%AE%A4%E5%94%90%E5%B1%B1%E8%A2%AB%E6%89%93%E5%A5%B3%E5%AD%90%E5%8E%BB%E4%B8%96%E4%BC%A0%E8%A8%80%23&Refer=top) 2252635
 1. [杨幂镜头少](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E9%95%9C%E5%A4%B4%E5%B0%91&Refer=top) 1710984
 1. [兰州爆炸事故失联6人全部遇难](https://s.weibo.com/weibo?q=%23%E5%85%B0%E5%B7%9E%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E5%A4%B1%E8%81%946%E4%BA%BA%E5%85%A8%E9%83%A8%E9%81%87%E9%9A%BE%23&Refer=top) 1473075
@@ -27,6 +27,7 @@
 1. [张子枫希望螃蟹妈妈安全到家](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%AD%90%E6%9E%AB%E5%B8%8C%E6%9C%9B%E8%9E%83%E8%9F%B9%E5%A6%88%E5%A6%88%E5%AE%89%E5%85%A8%E5%88%B0%E5%AE%B6%23&Refer=top) 361717
 1. [售价20熬夜水人参成本仅2元](https://s.weibo.com/weibo?q=%23%E5%94%AE%E4%BB%B720%E7%86%AC%E5%A4%9C%E6%B0%B4%E4%BA%BA%E5%8F%82%E6%88%90%E6%9C%AC%E4%BB%852%E5%85%83%23&Refer=top) 352624
 1. [Icon BLG](https://s.weibo.com/weibo?q=Icon%20BLG&Refer=top) 345887
+1. [这种虫子飞到身上千万别拍](https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%A7%8D%E8%99%AB%E5%AD%90%E9%A3%9E%E5%88%B0%E8%BA%AB%E4%B8%8A%E5%8D%83%E4%B8%87%E5%88%AB%E6%8B%8D%23&Refer=top) 293459
 1. [西安新房价格上涨](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E6%96%B0%E6%88%BF%E4%BB%B7%E6%A0%BC%E4%B8%8A%E6%B6%A8%23&Refer=top) 267071
 1. [年轻人为什么现在都爱囤货](https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E9%83%BD%E7%88%B1%E5%9B%A4%E8%B4%A7%23&Refer=top) 254707
 1. [疯狂动物城衍生剧定档1109](https://s.weibo.com/weibo?q=%23%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E%E8%A1%8D%E7%94%9F%E5%89%A7%E5%AE%9A%E6%A1%A31109%23&Refer=top) 250643
@@ -46,7 +47,6 @@
 1. [许知远 向往的生活](https://s.weibo.com/weibo?q=%E8%AE%B8%E7%9F%A5%E8%BF%9C%20%E5%90%91%E5%BE%80%E7%9A%84%E7%94%9F%E6%B4%BB&Refer=top) 161885
 1. [公交车上的母爱](https://s.weibo.com/weibo?q=%23%E5%85%AC%E4%BA%A4%E8%BD%A6%E4%B8%8A%E7%9A%84%E6%AF%8D%E7%88%B1%23&Refer=top) 158728
 1. [马内 拜仁](https://s.weibo.com/weibo?q=%E9%A9%AC%E5%86%85%20%E6%8B%9C%E4%BB%81&Refer=top) 140478
-1. [这种虫子飞到身上千万别拍](https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%A7%8D%E8%99%AB%E5%AD%90%E9%A3%9E%E5%88%B0%E8%BA%AB%E4%B8%8A%E5%8D%83%E4%B8%87%E5%88%AB%E6%8B%8D%23&Refer=top) 139189
 1. [一诺 失误](https://s.weibo.com/weibo?q=%E4%B8%80%E8%AF%BA%20%E5%A4%B1%E8%AF%AF&Refer=top) 138106
 1. [广西的水果能有多便宜](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E7%9A%84%E6%B0%B4%E6%9E%9C%E8%83%BD%E6%9C%89%E5%A4%9A%E4%BE%BF%E5%AE%9C%23&Refer=top) 138100
 1. [张艺兴玩照片版干瞪眼出不了牌](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E7%8E%A9%E7%85%A7%E7%89%87%E7%89%88%E5%B9%B2%E7%9E%AA%E7%9C%BC%E5%87%BA%E4%B8%8D%E4%BA%86%E7%89%8C%23&Refer=top) 137602
@@ -67,9 +67,10 @@
 1. [60秒看中国人为治沙有多努力](https://s.weibo.com/weibo?q=%2360%E7%A7%92%E7%9C%8B%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%B8%BA%E6%B2%BB%E6%B2%99%E6%9C%89%E5%A4%9A%E5%8A%AA%E5%8A%9B%23&Refer=top) 79952
 1. [二次元毕业pose](https://s.weibo.com/weibo?q=%23%E4%BA%8C%E6%AC%A1%E5%85%83%E6%AF%95%E4%B8%9Apose%23&Refer=top) 79938
 1. [单依纯对秦霄贤说撕名牌我保护你](https://s.weibo.com/weibo?q=%23%E5%8D%95%E4%BE%9D%E7%BA%AF%E5%AF%B9%E7%A7%A6%E9%9C%84%E8%B4%A4%E8%AF%B4%E6%92%95%E5%90%8D%E7%89%8C%E6%88%91%E4%BF%9D%E6%8A%A4%E4%BD%A0%23&Refer=top) 72455
-1. [一招缓解因久坐导致的腰痛](https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%8B%9B%E7%BC%93%E8%A7%A3%E5%9B%A0%E4%B9%85%E5%9D%90%E5%AF%BC%E8%87%B4%E7%9A%84%E8%85%B0%E7%97%9B%23&Refer=top) 46669
-1. [萌探探探案](https://s.weibo.com/weibo?q=%E8%90%8C%E6%8E%A2%E6%8E%A2%E6%8E%A2%E6%A1%88&Refer=top) 37603
+1. [一招缓解因久坐导致的腰痛](https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%8B%9B%E7%BC%93%E8%A7%A3%E5%9B%A0%E4%B9%85%E5%9D%90%E5%AF%BC%E8%87%B4%E7%9A%84%E8%85%B0%E7%97%9B%23&Refer=top) 57501
+1. [萌探探探案](https://s.weibo.com/weibo?q=%E8%90%8C%E6%8E%A2%E6%8E%A2%E6%8E%A2%E6%A1%88&Refer=top) 48309
 1. [邓家佳又美又飒](https://s.weibo.com/weibo?q=%23%E9%82%93%E5%AE%B6%E4%BD%B3%E5%8F%88%E7%BE%8E%E5%8F%88%E9%A3%92%23&Refer=top) 36903
+1. [三星堆考古为何未发现文字](https://s.weibo.com/weibo?q=%23%E4%B8%89%E6%98%9F%E5%A0%86%E8%80%83%E5%8F%A4%E4%B8%BA%E4%BD%95%E6%9C%AA%E5%8F%91%E7%8E%B0%E6%96%87%E5%AD%97%23&Refer=top) 19300
 <!-- END -->
 
 历史归档 [./archives](./archives)

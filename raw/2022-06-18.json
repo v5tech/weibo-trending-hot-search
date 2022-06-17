@@ -75,6 +75,10 @@
     "url": "https://s.weibo.com/weibo?q=Icon%20BLG&Refer=top",
     "hot": 345887
   },
+  "这种虫子飞到身上千万别拍": {
+    "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%A7%8D%E8%99%AB%E5%AD%90%E9%A3%9E%E5%88%B0%E8%BA%AB%E4%B8%8A%E5%8D%83%E4%B8%87%E5%88%AB%E6%8B%8D%23&Refer=top",
+    "hot": 293459
+  },
   "西安新房价格上涨": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E6%96%B0%E6%88%BF%E4%BB%B7%E6%A0%BC%E4%B8%8A%E6%B6%A8%23&Refer=top",
     "hot": 267071
@@ -150,10 +154,6 @@
   "马内 拜仁": {
     "url": "https://s.weibo.com/weibo?q=%E9%A9%AC%E5%86%85%20%E6%8B%9C%E4%BB%81&Refer=top",
     "hot": 140478
-  },
-  "这种虫子飞到身上千万别拍": {
-    "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%A7%8D%E8%99%AB%E5%AD%90%E9%A3%9E%E5%88%B0%E8%BA%AB%E4%B8%8A%E5%8D%83%E4%B8%87%E5%88%AB%E6%8B%8D%23&Refer=top",
-    "hot": 139189
   },
   "一诺 失误": {
     "url": "https://s.weibo.com/weibo?q=%E4%B8%80%E8%AF%BA%20%E5%A4%B1%E8%AF%AF&Refer=top",
@@ -237,14 +237,18 @@
   },
   "一招缓解因久坐导致的腰痛": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%8B%9B%E7%BC%93%E8%A7%A3%E5%9B%A0%E4%B9%85%E5%9D%90%E5%AF%BC%E8%87%B4%E7%9A%84%E8%85%B0%E7%97%9B%23&Refer=top",
-    "hot": 46669
+    "hot": 57501
   },
   "萌探探探案": {
     "url": "https://s.weibo.com/weibo?q=%E8%90%8C%E6%8E%A2%E6%8E%A2%E6%8E%A2%E6%A1%88&Refer=top",
-    "hot": 37603
+    "hot": 48309
   },
   "邓家佳又美又飒": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%82%93%E5%AE%B6%E4%BD%B3%E5%8F%88%E7%BE%8E%E5%8F%88%E9%A3%92%23&Refer=top",
     "hot": 36903
+  },
+  "三星堆考古为何未发现文字": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E6%98%9F%E5%A0%86%E8%80%83%E5%8F%A4%E4%B8%BA%E4%BD%95%E6%9C%AA%E5%8F%91%E7%8E%B0%E6%96%87%E5%AD%97%23&Refer=top",
+    "hot": 19300
   }
 }
