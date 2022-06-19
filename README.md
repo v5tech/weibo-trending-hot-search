@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-06-20 05:11:01.923322 
+最后更新时间 2022-06-20 05:27:17.194968 
 1. [建议尽早带爸妈接种带状疱疹疫苗](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%B0%BD%E6%97%A9%E5%B8%A6%E7%88%B8%E5%A6%88%E6%8E%A5%E7%A7%8D%E5%B8%A6%E7%8A%B6%E7%96%B1%E7%96%B9%E7%96%AB%E8%8B%97%23&Refer=top) 2015802
 1. [初二学生网购花光母亲12万手术费](https://s.weibo.com/weibo?q=%23%E5%88%9D%E4%BA%8C%E5%AD%A6%E7%94%9F%E7%BD%91%E8%B4%AD%E8%8A%B1%E5%85%89%E6%AF%8D%E4%BA%B212%E4%B8%87%E6%89%8B%E6%9C%AF%E8%B4%B9%23&Refer=top) 1847956
 1. [原来云有这么多种类](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E4%BA%91%E6%9C%89%E8%BF%99%E4%B9%88%E5%A4%9A%E7%A7%8D%E7%B1%BB%23&Refer=top) 1534776
@@ -61,9 +61,10 @@
 1. [北京今天检出1例社会面阳性](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E4%BB%8A%E5%A4%A9%E6%A3%80%E5%87%BA1%E4%BE%8B%E7%A4%BE%E4%BC%9A%E9%9D%A2%E9%98%B3%E6%80%A7%23&Refer=top) 68209
 1. [侏罗纪世界3票房破6亿](https://s.weibo.com/weibo?q=%23%E4%BE%8F%E7%BD%97%E7%BA%AA%E4%B8%96%E7%95%8C3%E7%A5%A8%E6%88%BF%E7%A0%B46%E4%BA%BF%23&Refer=top) 64991
 1. [花海解锁2000杀成就](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E6%B5%B7%E8%A7%A3%E9%94%812000%E6%9D%80%E6%88%90%E5%B0%B1%23&Refer=top) 60494
-1. [10岁男孩送爸爸攒了3年的零用钱](https://s.weibo.com/weibo?q=%2310%E5%B2%81%E7%94%B7%E5%AD%A9%E9%80%81%E7%88%B8%E7%88%B8%E6%94%92%E4%BA%863%E5%B9%B4%E7%9A%84%E9%9B%B6%E7%94%A8%E9%92%B1%23&Refer=top) 32207
-1. [四川盐源发现1100余座商代至西汉墓葬](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E7%9B%90%E6%BA%90%E5%8F%91%E7%8E%B01100%E4%BD%99%E5%BA%A7%E5%95%86%E4%BB%A3%E8%87%B3%E8%A5%BF%E6%B1%89%E5%A2%93%E8%91%AC%23&Refer=top) 24114
+1. [10岁男孩送爸爸攒了3年的零用钱](https://s.weibo.com/weibo?q=%2310%E5%B2%81%E7%94%B7%E5%AD%A9%E9%80%81%E7%88%B8%E7%88%B8%E6%94%92%E4%BA%863%E5%B9%B4%E7%9A%84%E9%9B%B6%E7%94%A8%E9%92%B1%23&Refer=top) 42874
+1. [四川盐源发现1100余座商代至西汉墓葬](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E7%9B%90%E6%BA%90%E5%8F%91%E7%8E%B01100%E4%BD%99%E5%BA%A7%E5%95%86%E4%BB%A3%E8%87%B3%E8%A5%BF%E6%B1%89%E5%A2%93%E8%91%AC%23&Refer=top) 28487
 1. [八三夭好好休息](https://s.weibo.com/weibo?q=%E5%85%AB%E4%B8%89%E5%A4%AD%E5%A5%BD%E5%A5%BD%E4%BC%91%E6%81%AF&Refer=top) 23642
+1. [北京5家餐馆因防疫不力被通报](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC5%E5%AE%B6%E9%A4%90%E9%A6%86%E5%9B%A0%E9%98%B2%E7%96%AB%E4%B8%8D%E5%8A%9B%E8%A2%AB%E9%80%9A%E6%8A%A5%23&Refer=top) 11028
 1. [安徽南部有大暴雨](https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%BE%BD%E5%8D%97%E9%83%A8%E6%9C%89%E5%A4%A7%E6%9A%B4%E9%9B%A8%23&Refer=top) 9276
 1. [在重庆相信导航的后果](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E9%87%8D%E5%BA%86%E7%9B%B8%E4%BF%A1%E5%AF%BC%E8%88%AA%E7%9A%84%E5%90%8E%E6%9E%9C%23&Refer=top) 8024
 <!-- END -->
