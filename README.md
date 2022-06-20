@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-06-21 02:40:13.094173 
+最后更新时间 2022-06-21 02:54:24.269852 
 1. [唐山打人事件涉事烧烤店已搬空](https://s.weibo.com/weibo?q=%23%E5%94%90%E5%B1%B1%E6%89%93%E4%BA%BA%E4%BA%8B%E4%BB%B6%E6%B6%89%E4%BA%8B%E7%83%A7%E7%83%A4%E5%BA%97%E5%B7%B2%E6%90%AC%E7%A9%BA%23&Refer=top) 4800229
 1. [两所985大学共享同一位校长](https://s.weibo.com/weibo?q=%23%E4%B8%A4%E6%89%80985%E5%A4%A7%E5%AD%A6%E5%85%B1%E4%BA%AB%E5%90%8C%E4%B8%80%E4%BD%8D%E6%A0%A1%E9%95%BF%23&Refer=top) 2126551
 1. [这只大熊猫为啥这么白](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%8F%AA%E5%A4%A7%E7%86%8A%E7%8C%AB%E4%B8%BA%E5%95%A5%E8%BF%99%E4%B9%88%E7%99%BD%23&Refer=top) 1051720
