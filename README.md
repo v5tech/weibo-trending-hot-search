@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-06-22 02:15:07.066534 
+最后更新时间 2022-06-22 02:39:53.149402 
 1. [洗米华案涉及金额高达6800亿](https://s.weibo.com/weibo?q=%23%E6%B4%97%E7%B1%B3%E5%8D%8E%E6%A1%88%E6%B6%89%E5%8F%8A%E9%87%91%E9%A2%9D%E9%AB%98%E8%BE%BE6800%E4%BA%BF%23&Refer=top) 1243748
 1. [蟑螂算是碰到克星了](https://s.weibo.com/weibo?q=%23%E8%9F%91%E8%9E%82%E7%AE%97%E6%98%AF%E7%A2%B0%E5%88%B0%E5%85%8B%E6%98%9F%E4%BA%86%23&Refer=top) 924740
 1. [目前已经官宣阵容的三部仙剑作品](https://s.weibo.com/weibo?q=%23%E7%9B%AE%E5%89%8D%E5%B7%B2%E7%BB%8F%E5%AE%98%E5%AE%A3%E9%98%B5%E5%AE%B9%E7%9A%84%E4%B8%89%E9%83%A8%E4%BB%99%E5%89%91%E4%BD%9C%E5%93%81%23&Refer=top) 878209
@@ -46,8 +46,8 @@
 1. [于文文晒与张天爱合照](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%96%87%E6%96%87%E6%99%92%E4%B8%8E%E5%BC%A0%E5%A4%A9%E7%88%B1%E5%90%88%E7%85%A7%23&Refer=top) 214389
 1. [武汉本市户籍已有2套住房可再买一套](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89%E6%9C%AC%E5%B8%82%E6%88%B7%E7%B1%8D%E5%B7%B2%E6%9C%892%E5%A5%97%E4%BD%8F%E6%88%BF%E5%8F%AF%E5%86%8D%E4%B9%B0%E4%B8%80%E5%A5%97%23&Refer=top) 208005
 1. [RNG重开](https://s.weibo.com/weibo?q=%23RNG%E9%87%8D%E5%BC%80%23&Refer=top) 205988
+1. [英德站水位超警戒水位8.57米](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%BE%B7%E7%AB%99%E6%B0%B4%E4%BD%8D%E8%B6%85%E8%AD%A6%E6%88%92%E6%B0%B4%E4%BD%8D8.57%E7%B1%B3%23&Refer=top) 201333
 1. [香港警察训练中式步操](https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E8%AD%A6%E5%AF%9F%E8%AE%AD%E7%BB%83%E4%B8%AD%E5%BC%8F%E6%AD%A5%E6%93%8D%23&Refer=top) 194855
-1. [英德站水位超警戒水位8.57米](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%BE%B7%E7%AB%99%E6%B0%B4%E4%BD%8D%E8%B6%85%E8%AD%A6%E6%88%92%E6%B0%B4%E4%BD%8D8.57%E7%B1%B3%23&Refer=top) 186972
 1. [6月22日起合肥暂停常态化核酸检测](https://s.weibo.com/weibo?q=%236%E6%9C%8822%E6%97%A5%E8%B5%B7%E5%90%88%E8%82%A5%E6%9A%82%E5%81%9C%E5%B8%B8%E6%80%81%E5%8C%96%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%23&Refer=top) 183522
 1. [酒后坐车里吹空调算酒驾吗](https://s.weibo.com/weibo?q=%23%E9%85%92%E5%90%8E%E5%9D%90%E8%BD%A6%E9%87%8C%E5%90%B9%E7%A9%BA%E8%B0%83%E7%AE%97%E9%85%92%E9%A9%BE%E5%90%97%23&Refer=top) 176861
 1. [学习通](https://s.weibo.com/weibo?q=%E5%AD%A6%E4%B9%A0%E9%80%9A&Refer=top) 176455
@@ -63,10 +63,10 @@
 1. [动画折枝有多绝](https://s.weibo.com/weibo?q=%23%E5%8A%A8%E7%94%BB%E6%8A%98%E6%9E%9D%E6%9C%89%E5%A4%9A%E7%BB%9D%23&Refer=top) 117487
 1. [管泽元说呼吸哥获得呼吸权](https://s.weibo.com/weibo?q=%23%E7%AE%A1%E6%B3%BD%E5%85%83%E8%AF%B4%E5%91%BC%E5%90%B8%E5%93%A5%E8%8E%B7%E5%BE%97%E5%91%BC%E5%90%B8%E6%9D%83%23&Refer=top) 105976
 1. [今天开始我们](https://s.weibo.com/weibo?q=%E4%BB%8A%E5%A4%A9%E5%BC%80%E5%A7%8B%E6%88%91%E4%BB%AC&Refer=top) 102770
-1. [孙怡不愧是我的互联网嘴替](https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%80%A1%E4%B8%8D%E6%84%A7%E6%98%AF%E6%88%91%E7%9A%84%E4%BA%92%E8%81%94%E7%BD%91%E5%98%B4%E6%9B%BF%23&Refer=top) 68333
+1. [孙怡不愧是我的互联网嘴替](https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%80%A1%E4%B8%8D%E6%84%A7%E6%98%AF%E6%88%91%E7%9A%84%E4%BA%92%E8%81%94%E7%BD%91%E5%98%B4%E6%9B%BF%23&Refer=top) 87766
+1. [85条河流发生超警以上洪水](https://s.weibo.com/weibo?q=%2385%E6%9D%A1%E6%B2%B3%E6%B5%81%E5%8F%91%E7%94%9F%E8%B6%85%E8%AD%A6%E4%BB%A5%E4%B8%8A%E6%B4%AA%E6%B0%B4%23&Refer=top) 71747
 1. [想看许昕打球了](https://s.weibo.com/weibo?q=%23%E6%83%B3%E7%9C%8B%E8%AE%B8%E6%98%95%E6%89%93%E7%90%83%E4%BA%86%23&Refer=top) 67277
 1. [原来大张伟也是王心凌男孩](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%A4%A7%E5%BC%A0%E4%BC%9F%E4%B9%9F%E6%98%AF%E7%8E%8B%E5%BF%83%E5%87%8C%E7%94%B7%E5%AD%A9%23&Refer=top) 62086
-1. [85条河流发生超警以上洪水](https://s.weibo.com/weibo?q=%2385%E6%9D%A1%E6%B2%B3%E6%B5%81%E5%8F%91%E7%94%9F%E8%B6%85%E8%AD%A6%E4%BB%A5%E4%B8%8A%E6%B4%AA%E6%B0%B4%23&Refer=top) 60959
 1. [总算把夏天的快乐玩明白了](https://s.weibo.com/weibo?q=%23%E6%80%BB%E7%AE%97%E6%8A%8A%E5%A4%8F%E5%A4%A9%E7%9A%84%E5%BF%AB%E4%B9%90%E7%8E%A9%E6%98%8E%E7%99%BD%E4%BA%86%23&Refer=top) 39216
 1. [汪顺200混晋级半决赛](https://s.weibo.com/weibo?q=%23%E6%B1%AA%E9%A1%BA200%E6%B7%B7%E6%99%8B%E7%BA%A7%E5%8D%8A%E5%86%B3%E8%B5%9B%23&Refer=top) 30391
 <!-- END -->
