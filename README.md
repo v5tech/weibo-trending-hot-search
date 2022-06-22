@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-06-23 05:40:04.976307 
+最后更新时间 2022-06-23 05:48:59.608594 
 1. [爸爸睡觉翻身压住宝宝头部](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E7%9D%A1%E8%A7%89%E7%BF%BB%E8%BA%AB%E5%8E%8B%E4%BD%8F%E5%AE%9D%E5%AE%9D%E5%A4%B4%E9%83%A8%23&Refer=top) 1928296
 1. [真的不建议手机电量耗尽再充电](https://s.weibo.com/weibo?q=%23%E7%9C%9F%E7%9A%84%E4%B8%8D%E5%BB%BA%E8%AE%AE%E6%89%8B%E6%9C%BA%E7%94%B5%E9%87%8F%E8%80%97%E5%B0%BD%E5%86%8D%E5%85%85%E7%94%B5%23&Refer=top) 1786032
 1. [香港故宫文化博物馆抢先看](https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E6%95%85%E5%AE%AB%E6%96%87%E5%8C%96%E5%8D%9A%E7%89%A9%E9%A6%86%E6%8A%A2%E5%85%88%E7%9C%8B%23&Refer=top) 1458240
@@ -51,12 +51,12 @@
 1. [父母眼中最重要的事情](https://s.weibo.com/weibo?q=%23%E7%88%B6%E6%AF%8D%E7%9C%BC%E4%B8%AD%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E4%BA%8B%E6%83%85%23&Refer=top) 173799
 1. [鹅厂要开演唱会了](https://s.weibo.com/weibo?q=%23%E9%B9%85%E5%8E%82%E8%A6%81%E5%BC%80%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BA%86%23&Refer=top) 173245
 1. [饿了么肯德基](https://s.weibo.com/weibo?q=%E9%A5%BF%E4%BA%86%E4%B9%88%E8%82%AF%E5%BE%B7%E5%9F%BA&Refer=top) 158261
+1. [金锣玉米肠被曝吃出黑色硬物](https://s.weibo.com/weibo?q=%23%E9%87%91%E9%94%A3%E7%8E%89%E7%B1%B3%E8%82%A0%E8%A2%AB%E6%9B%9D%E5%90%83%E5%87%BA%E9%BB%91%E8%89%B2%E7%A1%AC%E7%89%A9%23&Refer=top) 156026
 1. [物业回应湖南儿童17楼坠落](https://s.weibo.com/weibo?q=%23%E7%89%A9%E4%B8%9A%E5%9B%9E%E5%BA%94%E6%B9%96%E5%8D%97%E5%84%BF%E7%AB%A517%E6%A5%BC%E5%9D%A0%E8%90%BD%23&Refer=top) 151506
 1. [闪婚一年离婚欲要回20万彩礼](https://s.weibo.com/weibo?q=%23%E9%97%AA%E5%A9%9A%E4%B8%80%E5%B9%B4%E7%A6%BB%E5%A9%9A%E6%AC%B2%E8%A6%81%E5%9B%9E20%E4%B8%87%E5%BD%A9%E7%A4%BC%23&Refer=top) 136564
 1. [弗兰肯斯坦中文版](https://s.weibo.com/weibo?q=%23%E5%BC%97%E5%85%B0%E8%82%AF%E6%96%AF%E5%9D%A6%E4%B8%AD%E6%96%87%E7%89%88%23&Refer=top) 134631
 1. [网购未开封香肠内现大量霉块](https://s.weibo.com/weibo?q=%23%E7%BD%91%E8%B4%AD%E6%9C%AA%E5%BC%80%E5%B0%81%E9%A6%99%E8%82%A0%E5%86%85%E7%8E%B0%E5%A4%A7%E9%87%8F%E9%9C%89%E5%9D%97%23&Refer=top) 133626
 1. [西安一幼儿园200余名儿童疑食物中毒](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E4%B8%80%E5%B9%BC%E5%84%BF%E5%9B%AD200%E4%BD%99%E5%90%8D%E5%84%BF%E7%AB%A5%E7%96%91%E9%A3%9F%E7%89%A9%E4%B8%AD%E6%AF%92%23&Refer=top) 126871
-1. [金锣玉米肠被曝吃出黑色硬物](https://s.weibo.com/weibo?q=%23%E9%87%91%E9%94%A3%E7%8E%89%E7%B1%B3%E8%82%A0%E8%A2%AB%E6%9B%9D%E5%90%83%E5%87%BA%E9%BB%91%E8%89%B2%E7%A1%AC%E7%89%A9%23&Refer=top) 126711
 1. [专家称苹果自乔布斯后再无创新](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E8%8B%B9%E6%9E%9C%E8%87%AA%E4%B9%94%E5%B8%83%E6%96%AF%E5%90%8E%E5%86%8D%E6%97%A0%E5%88%9B%E6%96%B0%23&Refer=top) 126613
 1. [武汉核酸检测调整为五天一检](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E8%B0%83%E6%95%B4%E4%B8%BA%E4%BA%94%E5%A4%A9%E4%B8%80%E6%A3%80%23&Refer=top) 124591
 1. [6月22日深圳新增2例社区筛查无症状](https://s.weibo.com/weibo?q=6%E6%9C%8822%E6%97%A5%E6%B7%B1%E5%9C%B3%E6%96%B0%E5%A2%9E2%E4%BE%8B%E7%A4%BE%E5%8C%BA%E7%AD%9B%E6%9F%A5%E6%97%A0%E7%97%87%E7%8A%B6&Refer=top) 121800
@@ -64,14 +64,14 @@
 1. [顾千帆和他爹真的一模一样](https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%8D%83%E5%B8%86%E5%92%8C%E4%BB%96%E7%88%B9%E7%9C%9F%E7%9A%84%E4%B8%80%E6%A8%A1%E4%B8%80%E6%A0%B7%23&Refer=top) 115413
 1. [林墨镜头下的杨超越](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%A2%A8%E9%95%9C%E5%A4%B4%E4%B8%8B%E7%9A%84%E6%9D%A8%E8%B6%85%E8%B6%8A%23&Refer=top) 114776
 1. [男生宿舍讨论追女孩有多好笑](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E5%AE%BF%E8%88%8D%E8%AE%A8%E8%AE%BA%E8%BF%BD%E5%A5%B3%E5%AD%A9%E6%9C%89%E5%A4%9A%E5%A5%BD%E7%AC%91%23&Refer=top) 95826
-1. [涉事幼儿园回应200余儿童发烧](https://s.weibo.com/weibo?q=%23%E6%B6%89%E4%BA%8B%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%9B%9E%E5%BA%94200%E4%BD%99%E5%84%BF%E7%AB%A5%E5%8F%91%E7%83%A7%23&Refer=top) 58446
+1. [涉事幼儿园回应200余儿童发烧](https://s.weibo.com/weibo?q=%23%E6%B6%89%E4%BA%8B%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%9B%9E%E5%BA%94200%E4%BD%99%E5%84%BF%E7%AB%A5%E5%8F%91%E7%83%A7%23&Refer=top) 64035
+1. [山东大娘用烧火棍在墙上作画](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E5%A4%A7%E5%A8%98%E7%94%A8%E7%83%A7%E7%81%AB%E6%A3%8D%E5%9C%A8%E5%A2%99%E4%B8%8A%E4%BD%9C%E7%94%BB%23&Refer=top) 48742
+1. [多名CBA球员加盟湾区翼龙](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%90%8DCBA%E7%90%83%E5%91%98%E5%8A%A0%E7%9B%9F%E6%B9%BE%E5%8C%BA%E7%BF%BC%E9%BE%99%23&Refer=top) 44498
 1. [用了笑脸特效的沈如琢和宋引章](https://s.weibo.com/weibo?q=%23%E7%94%A8%E4%BA%86%E7%AC%91%E8%84%B8%E7%89%B9%E6%95%88%E7%9A%84%E6%B2%88%E5%A6%82%E7%90%A2%E5%92%8C%E5%AE%8B%E5%BC%95%E7%AB%A0%23&Refer=top) 43146
 1. [高校办昆虫宴送别毕业生](https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E5%8A%9E%E6%98%86%E8%99%AB%E5%AE%B4%E9%80%81%E5%88%AB%E6%AF%95%E4%B8%9A%E7%94%9F%23&Refer=top) 41380
-1. [多名CBA球员加盟湾区翼龙](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%90%8DCBA%E7%90%83%E5%91%98%E5%8A%A0%E7%9B%9F%E6%B9%BE%E5%8C%BA%E7%BF%BC%E9%BE%99%23&Refer=top) 40131
-1. [山东大娘用烧火棍在墙上作画](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E5%A4%A7%E5%A8%98%E7%94%A8%E7%83%A7%E7%81%AB%E6%A3%8D%E5%9C%A8%E5%A2%99%E4%B8%8A%E4%BD%9C%E7%94%BB%23&Refer=top) 33544
-1. [上海发布今夏首个高温预警](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%8F%91%E5%B8%83%E4%BB%8A%E5%A4%8F%E9%A6%96%E4%B8%AA%E9%AB%98%E6%B8%A9%E9%A2%84%E8%AD%A6%23&Refer=top) 20514
+1. [上海发布今夏首个高温预警](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%8F%91%E5%B8%83%E4%BB%8A%E5%A4%8F%E9%A6%96%E4%B8%AA%E9%AB%98%E6%B8%A9%E9%A2%84%E8%AD%A6%23&Refer=top) 25118
 1. [邓家佳说密室逃脱是没有真人NPC吗](https://s.weibo.com/weibo?q=%23%E9%82%93%E5%AE%B6%E4%BD%B3%E8%AF%B4%E5%AF%86%E5%AE%A4%E9%80%83%E8%84%B1%E6%98%AF%E6%B2%A1%E6%9C%89%E7%9C%9F%E4%BA%BANPC%E5%90%97%23&Refer=top) 18750
-1. [中国花游队演绎巾帼英雄](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%8A%B1%E6%B8%B8%E9%98%9F%E6%BC%94%E7%BB%8E%E5%B7%BE%E5%B8%BC%E8%8B%B1%E9%9B%84%23&Refer=top) 13560
+1. [中国花游队演绎巾帼英雄](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%8A%B1%E6%B8%B8%E9%98%9F%E6%BC%94%E7%BB%8E%E5%B7%BE%E5%B8%BC%E8%8B%B1%E9%9B%84%23&Refer=top) 14866
 <!-- END -->
 
 历史归档 [./archives](./archives)
