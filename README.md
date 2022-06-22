@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-06-23 00:57:05.475018 
+最后更新时间 2022-06-23 01:28:12.821671 
 1. [爸爸睡觉翻身压住宝宝头部](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E7%9D%A1%E8%A7%89%E7%BF%BB%E8%BA%AB%E5%8E%8B%E4%BD%8F%E5%AE%9D%E5%AE%9D%E5%A4%B4%E9%83%A8%23&Refer=top) 1928296
 1. [真的不建议手机电量耗尽再充电](https://s.weibo.com/weibo?q=%23%E7%9C%9F%E7%9A%84%E4%B8%8D%E5%BB%BA%E8%AE%AE%E6%89%8B%E6%9C%BA%E7%94%B5%E9%87%8F%E8%80%97%E5%B0%BD%E5%86%8D%E5%85%85%E7%94%B5%23&Refer=top) 1786032
 1. [香港故宫文化博物馆抢先看](https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E6%95%85%E5%AE%AB%E6%96%87%E5%8C%96%E5%8D%9A%E7%89%A9%E9%A6%86%E6%8A%A2%E5%85%88%E7%9C%8B%23&Refer=top) 1458240
@@ -58,10 +58,11 @@
 1. [西安一幼儿园200余名儿童疑食物中毒](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E4%B8%80%E5%B9%BC%E5%84%BF%E5%9B%AD200%E4%BD%99%E5%90%8D%E5%84%BF%E7%AB%A5%E7%96%91%E9%A3%9F%E7%89%A9%E4%B8%AD%E6%AF%92%23&Refer=top) 126871
 1. [专家称苹果自乔布斯后再无创新](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E8%8B%B9%E6%9E%9C%E8%87%AA%E4%B9%94%E5%B8%83%E6%96%AF%E5%90%8E%E5%86%8D%E6%97%A0%E5%88%9B%E6%96%B0%23&Refer=top) 126613
 1. [武汉核酸检测调整为五天一检](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E8%B0%83%E6%95%B4%E4%B8%BA%E4%BA%94%E5%A4%A9%E4%B8%80%E6%A3%80%23&Refer=top) 124591
+1. [6月22日深圳新增2例社区筛查无症状](https://s.weibo.com/weibo?q=6%E6%9C%8822%E6%97%A5%E6%B7%B1%E5%9C%B3%E6%96%B0%E5%A2%9E2%E4%BE%8B%E7%A4%BE%E5%8C%BA%E7%AD%9B%E6%9F%A5%E6%97%A0%E7%97%87%E7%8A%B6&Refer=top) 121800
 1. [郑云龙人形生物首秀](https://s.weibo.com/weibo?q=%23%E9%83%91%E4%BA%91%E9%BE%99%E4%BA%BA%E5%BD%A2%E7%94%9F%E7%89%A9%E9%A6%96%E7%A7%80%23&Refer=top) 121040
-1. [6月22日深圳新增2例社区筛查无症状](https://s.weibo.com/weibo?q=6%E6%9C%8822%E6%97%A5%E6%B7%B1%E5%9C%B3%E6%96%B0%E5%A2%9E2%E4%BE%8B%E7%A4%BE%E5%8C%BA%E7%AD%9B%E6%9F%A5%E6%97%A0%E7%97%87%E7%8A%B6&Refer=top) 119148
 1. [顾千帆和他爹真的一模一样](https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%8D%83%E5%B8%86%E5%92%8C%E4%BB%96%E7%88%B9%E7%9C%9F%E7%9A%84%E4%B8%80%E6%A8%A1%E4%B8%80%E6%A0%B7%23&Refer=top) 115413
 1. [林墨镜头下的杨超越](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%A2%A8%E9%95%9C%E5%A4%B4%E4%B8%8B%E7%9A%84%E6%9D%A8%E8%B6%85%E8%B6%8A%23&Refer=top) 114776
+1. [男生宿舍讨论追女孩有多好笑](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E5%AE%BF%E8%88%8D%E8%AE%A8%E8%AE%BA%E8%BF%BD%E5%A5%B3%E5%AD%A9%E6%9C%89%E5%A4%9A%E5%A5%BD%E7%AC%91%23&Refer=top) 95826
 <!-- END -->
 
 历史归档 [./archives](./archives)
