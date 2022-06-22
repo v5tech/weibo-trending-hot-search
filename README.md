@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-06-23 03:49:01.391079 
+最后更新时间 2022-06-23 04:13:00.774486 
 1. [爸爸睡觉翻身压住宝宝头部](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E7%9D%A1%E8%A7%89%E7%BF%BB%E8%BA%AB%E5%8E%8B%E4%BD%8F%E5%AE%9D%E5%AE%9D%E5%A4%B4%E9%83%A8%23&Refer=top) 1928296
 1. [真的不建议手机电量耗尽再充电](https://s.weibo.com/weibo?q=%23%E7%9C%9F%E7%9A%84%E4%B8%8D%E5%BB%BA%E8%AE%AE%E6%89%8B%E6%9C%BA%E7%94%B5%E9%87%8F%E8%80%97%E5%B0%BD%E5%86%8D%E5%85%85%E7%94%B5%23&Refer=top) 1786032
 1. [香港故宫文化博物馆抢先看](https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E6%95%85%E5%AE%AB%E6%96%87%E5%8C%96%E5%8D%9A%E7%89%A9%E9%A6%86%E6%8A%A2%E5%85%88%E7%9C%8B%23&Refer=top) 1458240
@@ -64,7 +64,7 @@
 1. [林墨镜头下的杨超越](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%A2%A8%E9%95%9C%E5%A4%B4%E4%B8%8B%E7%9A%84%E6%9D%A8%E8%B6%85%E8%B6%8A%23&Refer=top) 114776
 1. [男生宿舍讨论追女孩有多好笑](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E5%AE%BF%E8%88%8D%E8%AE%A8%E8%AE%BA%E8%BF%BD%E5%A5%B3%E5%AD%A9%E6%9C%89%E5%A4%9A%E5%A5%BD%E7%AC%91%23&Refer=top) 95826
 1. [高校办昆虫宴送别毕业生](https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E5%8A%9E%E6%98%86%E8%99%AB%E5%AE%B4%E9%80%81%E5%88%AB%E6%AF%95%E4%B8%9A%E7%94%9F%23&Refer=top) 41380
-1. [用了笑脸特效的沈如琢和宋引章](https://s.weibo.com/weibo?q=%23%E7%94%A8%E4%BA%86%E7%AC%91%E8%84%B8%E7%89%B9%E6%95%88%E7%9A%84%E6%B2%88%E5%A6%82%E7%90%A2%E5%92%8C%E5%AE%8B%E5%BC%95%E7%AB%A0%23&Refer=top) 24997
+1. [用了笑脸特效的沈如琢和宋引章](https://s.weibo.com/weibo?q=%23%E7%94%A8%E4%BA%86%E7%AC%91%E8%84%B8%E7%89%B9%E6%95%88%E7%9A%84%E6%B2%88%E5%A6%82%E7%90%A2%E5%92%8C%E5%AE%8B%E5%BC%95%E7%AB%A0%23&Refer=top) 35587
 <!-- END -->
 
 历史归档 [./archives](./archives)
