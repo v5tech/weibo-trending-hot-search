@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-06-24 05:48:58.547166 
+最后更新时间 2022-06-24 06:11:26.089701 
 1. [男生高考681分满脸淡定父亲激动抹泪](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E9%AB%98%E8%80%83681%E5%88%86%E6%BB%A1%E8%84%B8%E6%B7%A1%E5%AE%9A%E7%88%B6%E4%BA%B2%E6%BF%80%E5%8A%A8%E6%8A%B9%E6%B3%AA%23&Refer=top) 1878406
 1. [2022年清华大学在河南计划招生101人](https://s.weibo.com/weibo?q=%232022%E5%B9%B4%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E5%9C%A8%E6%B2%B3%E5%8D%97%E8%AE%A1%E5%88%92%E6%8B%9B%E7%94%9F101%E4%BA%BA%23&Refer=top) 1615692
 1. [爱国者治港才能为香港市民谋幸福](https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%9B%BD%E8%80%85%E6%B2%BB%E6%B8%AF%E6%89%8D%E8%83%BD%E4%B8%BA%E9%A6%99%E6%B8%AF%E5%B8%82%E6%B0%91%E8%B0%8B%E5%B9%B8%E7%A6%8F%23&Refer=top) 1471428
@@ -57,6 +57,7 @@
 1. [你有过写小说的冲动吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E6%9C%89%E8%BF%87%E5%86%99%E5%B0%8F%E8%AF%B4%E7%9A%84%E5%86%B2%E5%8A%A8%E5%90%97%23&Refer=top) 136342
 1. [俄罗斯给美驻俄大使馆地址改了个名](https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E7%BB%99%E7%BE%8E%E9%A9%BB%E4%BF%84%E5%A4%A7%E4%BD%BF%E9%A6%86%E5%9C%B0%E5%9D%80%E6%94%B9%E4%BA%86%E4%B8%AA%E5%90%8D%23&Refer=top) 134483
 1. [四川高考出分日天空现彩虹](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E9%AB%98%E8%80%83%E5%87%BA%E5%88%86%E6%97%A5%E5%A4%A9%E7%A9%BA%E7%8E%B0%E5%BD%A9%E8%99%B9%23&Refer=top) 126371
+1. [江苏多地发布暴雨黄色预警](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E5%A4%9A%E5%9C%B0%E5%8F%91%E5%B8%83%E6%9A%B4%E9%9B%A8%E9%BB%84%E8%89%B2%E9%A2%84%E8%AD%A6%23&Refer=top) 123263
 1. [星汉灿烂总集数变更为57集](https://s.weibo.com/weibo?q=%23%E6%98%9F%E6%B1%89%E7%81%BF%E7%83%82%E6%80%BB%E9%9B%86%E6%95%B0%E5%8F%98%E6%9B%B4%E4%B8%BA57%E9%9B%86%23&Refer=top) 120949
 1. [辽宁高考分数线](https://s.weibo.com/weibo?q=%23%E8%BE%BD%E5%AE%81%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%23&Refer=top) 119963
 1. [十亿吨跑男的料](https://s.weibo.com/weibo?q=%23%E5%8D%81%E4%BA%BF%E5%90%A8%E8%B7%91%E7%94%B7%E7%9A%84%E6%96%99%23&Refer=top) 115314
@@ -67,14 +68,13 @@
 1. [XYG对战狼队](https://s.weibo.com/weibo?q=%23XYG%E5%AF%B9%E6%88%98%E7%8B%BC%E9%98%9F%23&Refer=top) 96637
 1. [永安楼开张](https://s.weibo.com/weibo?q=%23%E6%B0%B8%E5%AE%89%E6%A5%BC%E5%BC%80%E5%BC%A0%23&Refer=top) 96634
 1. [泰坦尼克号重制版明年全球多地重映](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7%E9%87%8D%E5%88%B6%E7%89%88%E6%98%8E%E5%B9%B4%E5%85%A8%E7%90%83%E5%A4%9A%E5%9C%B0%E9%87%8D%E6%98%A0%23&Refer=top) 92437
-1. [江苏多地发布暴雨黄色预警](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E5%A4%9A%E5%9C%B0%E5%8F%91%E5%B8%83%E6%9A%B4%E9%9B%A8%E9%BB%84%E8%89%B2%E9%A2%84%E8%AD%A6%23&Refer=top) 90805
 1. [非主流时期的三大女巨头](https://s.weibo.com/weibo?q=%23%E9%9D%9E%E4%B8%BB%E6%B5%81%E6%97%B6%E6%9C%9F%E7%9A%84%E4%B8%89%E5%A4%A7%E5%A5%B3%E5%B7%A8%E5%A4%B4%23&Refer=top) 69264
+1. [求萧钦言不要再为顾千帆着想了](https://s.weibo.com/weibo?q=%23%E6%B1%82%E8%90%A7%E9%92%A6%E8%A8%80%E4%B8%8D%E8%A6%81%E5%86%8D%E4%B8%BA%E9%A1%BE%E5%8D%83%E5%B8%86%E7%9D%80%E6%83%B3%E4%BA%86%23&Refer=top) 66376
+1. [西安多区24日开展核酸检测](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E5%A4%9A%E5%8C%BA24%E6%97%A5%E5%BC%80%E5%B1%95%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%23&Refer=top) 57403
+1. [刘畊宏 披荆斩棘](https://s.weibo.com/weibo?q=%E5%88%98%E7%95%8A%E5%AE%8F%20%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98&Refer=top) 54933
 1. [福建高考成绩将于6月24日下午公布](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E5%B0%86%E4%BA%8E6%E6%9C%8824%E6%97%A5%E4%B8%8B%E5%8D%88%E5%85%AC%E5%B8%83%23&Refer=top) 53311
 1. [马尔代夫建造海上漂浮城市](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%B0%94%E4%BB%A3%E5%A4%AB%E5%BB%BA%E9%80%A0%E6%B5%B7%E4%B8%8A%E6%BC%82%E6%B5%AE%E5%9F%8E%E5%B8%82%23&Refer=top) 49166
-1. [求萧钦言不要再为顾千帆着想了](https://s.weibo.com/weibo?q=%23%E6%B1%82%E8%90%A7%E9%92%A6%E8%A8%80%E4%B8%8D%E8%A6%81%E5%86%8D%E4%B8%BA%E9%A1%BE%E5%8D%83%E5%B8%86%E7%9D%80%E6%83%B3%E4%BA%86%23&Refer=top) 37168
-1. [刘畊宏 披荆斩棘](https://s.weibo.com/weibo?q=%E5%88%98%E7%95%8A%E5%AE%8F%20%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98&Refer=top) 31143
-1. [江西一本线](https://s.weibo.com/weibo?q=%E6%B1%9F%E8%A5%BF%E4%B8%80%E6%9C%AC%E7%BA%BF&Refer=top) 13229
-1. [西安多区24日开展核酸检测](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E5%A4%9A%E5%8C%BA24%E6%97%A5%E5%BC%80%E5%B1%95%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%23&Refer=top) 11867
+1. [江西一本线](https://s.weibo.com/weibo?q=%E6%B1%9F%E8%A5%BF%E4%B8%80%E6%9C%AC%E7%BA%BF&Refer=top) 18327
 <!-- END -->
 
 历史归档 [./archives](./archives)
