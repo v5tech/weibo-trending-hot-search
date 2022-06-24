@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-06-25 06:29:27.506089 
+最后更新时间 2022-06-25 06:41:04.055064 
 1. [My love](https://s.weibo.com/weibo?q=My%20love&Refer=top) 2205103
 1. [美国最高法院取消宪法规定的堕胎权](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2%E5%8F%96%E6%B6%88%E5%AE%AA%E6%B3%95%E8%A7%84%E5%AE%9A%E7%9A%84%E5%A0%95%E8%83%8E%E6%9D%83%23&Refer=top) 1769251
 1. [中国花游世锦赛第四金](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%8A%B1%E6%B8%B8%E4%B8%96%E9%94%A6%E8%B5%9B%E7%AC%AC%E5%9B%9B%E9%87%91%23&Refer=top) 1639550
@@ -62,10 +62,11 @@
 1. [义墩墩入驻微博啦](https://s.weibo.com/weibo?q=%23%E4%B9%89%E5%A2%A9%E5%A2%A9%E5%85%A5%E9%A9%BB%E5%BE%AE%E5%8D%9A%E5%95%A6%23&Refer=top) 113274
 1. [即日起丹东快递全部恢复运营](https://s.weibo.com/weibo?q=%23%E5%8D%B3%E6%97%A5%E8%B5%B7%E4%B8%B9%E4%B8%9C%E5%BF%AB%E9%80%92%E5%85%A8%E9%83%A8%E6%81%A2%E5%A4%8D%E8%BF%90%E8%90%A5%23&Refer=top) 102247
 1. [萧逸打电话](https://s.weibo.com/weibo?q=%E8%90%A7%E9%80%B8%E6%89%93%E7%94%B5%E8%AF%9D&Refer=top) 97813
+1. [2022河南高考理科一本分数线509](https://s.weibo.com/weibo?q=%232022%E6%B2%B3%E5%8D%97%E9%AB%98%E8%80%83%E7%90%86%E7%A7%91%E4%B8%80%E6%9C%AC%E5%88%86%E6%95%B0%E7%BA%BF509%23&Refer=top) 96717
 1. [女子收到好友还款竟是练功钞](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%94%B6%E5%88%B0%E5%A5%BD%E5%8F%8B%E8%BF%98%E6%AC%BE%E7%AB%9F%E6%98%AF%E7%BB%83%E5%8A%9F%E9%92%9E%23&Refer=top) 91409
-1. [2022河南高考理科一本分数线509](https://s.weibo.com/weibo?q=%232022%E6%B2%B3%E5%8D%97%E9%AB%98%E8%80%83%E7%90%86%E7%A7%91%E4%B8%80%E6%9C%AC%E5%88%86%E6%95%B0%E7%BA%BF509%23&Refer=top) 89738
+1. [张艺兴用厨房纸巾给黄磊擦汗](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E7%94%A8%E5%8E%A8%E6%88%BF%E7%BA%B8%E5%B7%BE%E7%BB%99%E9%BB%84%E7%A3%8A%E6%93%A6%E6%B1%97%23&Refer=top) 85485
 1. [侏罗纪世界3票房破7亿](https://s.weibo.com/weibo?q=%23%E4%BE%8F%E7%BD%97%E7%BA%AA%E4%B8%96%E7%95%8C3%E7%A5%A8%E6%88%BF%E7%A0%B47%E4%BA%BF%23&Refer=top) 67520
-1. [张艺兴用厨房纸巾给黄磊擦汗](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E7%94%A8%E5%8E%A8%E6%88%BF%E7%BA%B8%E5%B7%BE%E7%BB%99%E9%BB%84%E7%A3%8A%E6%93%A6%E6%B1%97%23&Refer=top) 67243
+1. [任敏是吃可爱多长大的吗](https://s.weibo.com/weibo?q=%23%E4%BB%BB%E6%95%8F%E6%98%AF%E5%90%83%E5%8F%AF%E7%88%B1%E5%A4%9A%E9%95%BF%E5%A4%A7%E7%9A%84%E5%90%97%23&Refer=top) 60814
 1. [转发这个朱洁静](https://s.weibo.com/weibo?q=%E8%BD%AC%E5%8F%91%E8%BF%99%E4%B8%AA%E6%9C%B1%E6%B4%81%E9%9D%99&Refer=top) 60812
 1. [采访算是被六公主玩明白了](https://s.weibo.com/weibo?q=%23%E9%87%87%E8%AE%BF%E7%AE%97%E6%98%AF%E8%A2%AB%E5%85%AD%E5%85%AC%E4%B8%BB%E7%8E%A9%E6%98%8E%E7%99%BD%E4%BA%86%23&Refer=top) 41533
 1. [后舍男生 后街男孩](https://s.weibo.com/weibo?q=%E5%90%8E%E8%88%8D%E7%94%B7%E7%94%9F%20%E5%90%8E%E8%A1%97%E7%94%B7%E5%AD%A9&Refer=top) 35741
