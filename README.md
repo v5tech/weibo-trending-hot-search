@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-06-25 05:38:38.061593 
+最后更新时间 2022-06-25 05:48:56.012951 
 1. [My love](https://s.weibo.com/weibo?q=My%20love&Refer=top) 2205103
 1. [美国最高法院取消宪法规定的堕胎权](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2%E5%8F%96%E6%B6%88%E5%AE%AA%E6%B3%95%E8%A7%84%E5%AE%9A%E7%9A%84%E5%A0%95%E8%83%8E%E6%9D%83%23&Refer=top) 1769251
 1. [中国花游世锦赛第四金](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%8A%B1%E6%B8%B8%E4%B8%96%E9%94%A6%E8%B5%9B%E7%AC%AC%E5%9B%9B%E9%87%91%23&Refer=top) 1639550
@@ -65,11 +65,11 @@
 1. [女子收到好友还款竟是练功钞](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%94%B6%E5%88%B0%E5%A5%BD%E5%8F%8B%E8%BF%98%E6%AC%BE%E7%AB%9F%E6%98%AF%E7%BB%83%E5%8A%9F%E9%92%9E%23&Refer=top) 91409
 1. [转发这个朱洁静](https://s.weibo.com/weibo?q=%E8%BD%AC%E5%8F%91%E8%BF%99%E4%B8%AA%E6%9C%B1%E6%B4%81%E9%9D%99&Refer=top) 60812
 1. [后舍男生 后街男孩](https://s.weibo.com/weibo?q=%E5%90%8E%E8%88%8D%E7%94%B7%E7%94%9F%20%E5%90%8E%E8%A1%97%E7%94%B7%E5%AD%A9&Refer=top) 35741
+1. [侏罗纪世界3票房破7亿](https://s.weibo.com/weibo?q=%23%E4%BE%8F%E7%BD%97%E7%BA%AA%E4%B8%96%E7%95%8C3%E7%A5%A8%E6%88%BF%E7%A0%B47%E4%BA%BF%23&Refer=top) 32917
+1. [张艺兴用厨房纸巾给黄磊擦汗](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E7%94%A8%E5%8E%A8%E6%88%BF%E7%BA%B8%E5%B7%BE%E7%BB%99%E9%BB%84%E7%A3%8A%E6%93%A6%E6%B1%97%23&Refer=top) 32853
+1. [2022河南高考理科一本分数线509](https://s.weibo.com/weibo?q=%232022%E6%B2%B3%E5%8D%97%E9%AB%98%E8%80%83%E7%90%86%E7%A7%91%E4%B8%80%E6%9C%AC%E5%88%86%E6%95%B0%E7%BA%BF509%23&Refer=top) 32798
 1. [撒贝宁刘畊宏谁更凡尔赛](https://s.weibo.com/weibo?q=%23%E6%92%92%E8%B4%9D%E5%AE%81%E5%88%98%E7%95%8A%E5%AE%8F%E8%B0%81%E6%9B%B4%E5%87%A1%E5%B0%94%E8%B5%9B%23&Refer=top) 31993
-1. [2022河南高考理科一本分数线509](https://s.weibo.com/weibo?q=%232022%E6%B2%B3%E5%8D%97%E9%AB%98%E8%80%83%E7%90%86%E7%A7%91%E4%B8%80%E6%9C%AC%E5%88%86%E6%95%B0%E7%BA%BF509%23&Refer=top) 28669
-1. [侏罗纪世界3票房破7亿](https://s.weibo.com/weibo?q=%23%E4%BE%8F%E7%BD%97%E7%BA%AA%E4%B8%96%E7%95%8C3%E7%A5%A8%E6%88%BF%E7%A0%B47%E4%BA%BF%23&Refer=top) 25605
 1. [毕业ing](https://s.weibo.com/weibo?q=%E6%AF%95%E4%B8%9Aing&Refer=top) 24206
-1. [张艺兴用厨房纸巾给黄磊擦汗](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E7%94%A8%E5%8E%A8%E6%88%BF%E7%BA%B8%E5%B7%BE%E7%BB%99%E9%BB%84%E7%A3%8A%E6%93%A6%E6%B1%97%23&Refer=top) 21469
 1. [李斯丹妮丁程鑫捍卫南方语言](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%96%AF%E4%B8%B9%E5%A6%AE%E4%B8%81%E7%A8%8B%E9%91%AB%E6%8D%8D%E5%8D%AB%E5%8D%97%E6%96%B9%E8%AF%AD%E8%A8%80%23&Refer=top) 15215
 1. [你会直接开口争取想要的东西吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%BC%9A%E7%9B%B4%E6%8E%A5%E5%BC%80%E5%8F%A3%E4%BA%89%E5%8F%96%E6%83%B3%E8%A6%81%E7%9A%84%E4%B8%9C%E8%A5%BF%E5%90%97%23&Refer=top) 12788
 1. [霉霉新歌Carolina完整版](https://s.weibo.com/weibo?q=%23%E9%9C%89%E9%9C%89%E6%96%B0%E6%AD%8CCarolina%E5%AE%8C%E6%95%B4%E7%89%88%23&Refer=top) 12494
