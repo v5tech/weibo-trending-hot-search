@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-06-26 03:09:39.027188 
+最后更新时间 2022-06-26 03:23:32.350670 
 1. [避孕套巨头过去两年销量下降40%](https://s.weibo.com/weibo?q=%23%E9%81%BF%E5%AD%95%E5%A5%97%E5%B7%A8%E5%A4%B4%E8%BF%87%E5%8E%BB%E4%B8%A4%E5%B9%B4%E9%94%80%E9%87%8F%E4%B8%8B%E9%99%8D40%25%23&Refer=top) 5387390
 1. [李紫婷求助爱犬死亡原因](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%B4%AB%E5%A9%B7%E6%B1%82%E5%8A%A9%E7%88%B1%E7%8A%AC%E6%AD%BB%E4%BA%A1%E5%8E%9F%E5%9B%A0%23&Refer=top) 2180861
 1. [乃万情绪失控](https://s.weibo.com/weibo?q=%23%E4%B9%83%E4%B8%87%E6%83%85%E7%BB%AA%E5%A4%B1%E6%8E%A7%23&Refer=top) 1770234
@@ -70,6 +70,7 @@
 1. [刘雨昕与大学生同唱青春赋](https://s.weibo.com/weibo?q=%23%E5%88%98%E9%9B%A8%E6%98%95%E4%B8%8E%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%90%8C%E5%94%B1%E9%9D%92%E6%98%A5%E8%B5%8B%23&Refer=top) 47351
 1. [欧阳旭吓人](https://s.weibo.com/weibo?q=%23%E6%AC%A7%E9%98%B3%E6%97%AD%E5%90%93%E4%BA%BA%23&Refer=top) 45675
 1. [薛凯琪等齐溪一个解释](https://s.weibo.com/weibo?q=%23%E8%96%9B%E5%87%AF%E7%90%AA%E7%AD%89%E9%BD%90%E6%BA%AA%E4%B8%80%E4%B8%AA%E8%A7%A3%E9%87%8A%23&Refer=top) 22769
+1. [夏日浪游计划](https://s.weibo.com/weibo?q=%E5%A4%8F%E6%97%A5%E6%B5%AA%E6%B8%B8%E8%AE%A1%E5%88%92&Refer=top) 8522
 <!-- END -->
 
 历史归档 [./archives](./archives)
