@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-06-26 02:51:42.454871 
+最后更新时间 2022-06-26 03:09:39.027188 
 1. [避孕套巨头过去两年销量下降40%](https://s.weibo.com/weibo?q=%23%E9%81%BF%E5%AD%95%E5%A5%97%E5%B7%A8%E5%A4%B4%E8%BF%87%E5%8E%BB%E4%B8%A4%E5%B9%B4%E9%94%80%E9%87%8F%E4%B8%8B%E9%99%8D40%25%23&Refer=top) 5387390
 1. [李紫婷求助爱犬死亡原因](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%B4%AB%E5%A9%B7%E6%B1%82%E5%8A%A9%E7%88%B1%E7%8A%AC%E6%AD%BB%E4%BA%A1%E5%8E%9F%E5%9B%A0%23&Refer=top) 2180861
 1. [乃万情绪失控](https://s.weibo.com/weibo?q=%23%E4%B9%83%E4%B8%87%E6%83%85%E7%BB%AA%E5%A4%B1%E6%8E%A7%23&Refer=top) 1770234
