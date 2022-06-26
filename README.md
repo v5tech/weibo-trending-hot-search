@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-06-27 00:45:09.986645 
+最后更新时间 2022-06-27 01:00:20.397735 
 1. [专家称已婚男人寿命比未婚男人长7.5年](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E5%B7%B2%E5%A9%9A%E7%94%B7%E4%BA%BA%E5%AF%BF%E5%91%BD%E6%AF%94%E6%9C%AA%E5%A9%9A%E7%94%B7%E4%BA%BA%E9%95%BF7.5%E5%B9%B4%23&Refer=top) 2392575
 1. [梦华录结局](https://s.weibo.com/weibo?q=%23%E6%A2%A6%E5%8D%8E%E5%BD%95%E7%BB%93%E5%B1%80%23&Refer=top) 1666888
 1. [收到疑似作弊短信别信](https://s.weibo.com/weibo?q=%23%E6%94%B6%E5%88%B0%E7%96%91%E4%BC%BC%E4%BD%9C%E5%BC%8A%E7%9F%AD%E4%BF%A1%E5%88%AB%E4%BF%A1%23&Refer=top) 1493557
@@ -16,7 +16,7 @@
 1. [女子吸食笑气3个月差点瘫痪](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%90%B8%E9%A3%9F%E7%AC%91%E6%B0%943%E4%B8%AA%E6%9C%88%E5%B7%AE%E7%82%B9%E7%98%AB%E7%97%AA%23&Refer=top) 944039
 1. [广东彩票史上第一大奖诞生](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E5%BD%A9%E7%A5%A8%E5%8F%B2%E4%B8%8A%E7%AC%AC%E4%B8%80%E5%A4%A7%E5%A5%96%E8%AF%9E%E7%94%9F%23&Refer=top) 862329
 1. [学习通](https://s.weibo.com/weibo?q=%E5%AD%A6%E4%B9%A0%E9%80%9A&Refer=top) 845005
-1. [女子高考落榜读专科逆袭买千万别墅](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%AB%98%E8%80%83%E8%90%BD%E6%A6%9C%E8%AF%BB%E4%B8%93%E7%A7%91%E9%80%86%E8%A2%AD%E4%B9%B0%E5%8D%83%E4%B8%87%E5%88%AB%E5%A2%85%23&Refer=top) 803027
+1. [女子高考落榜读专科逆袭买千万别墅](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%AB%98%E8%80%83%E8%90%BD%E6%A6%9C%E8%AF%BB%E4%B8%93%E7%A7%91%E9%80%86%E8%A2%AD%E4%B9%B0%E5%8D%83%E4%B8%87%E5%88%AB%E5%A2%85%23&Refer=top) 807560
 1. [15岁女孩误食毒蘑菇全身换血保命](https://s.weibo.com/weibo?q=%2315%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%AF%AF%E9%A3%9F%E6%AF%92%E8%98%91%E8%8F%87%E5%85%A8%E8%BA%AB%E6%8D%A2%E8%A1%80%E4%BF%9D%E5%91%BD%23&Refer=top) 717714
 1. [突然就没那么焦虑了](https://s.weibo.com/weibo?q=%23%E7%AA%81%E7%84%B6%E5%B0%B1%E6%B2%A1%E9%82%A3%E4%B9%88%E7%84%A6%E8%99%91%E4%BA%86%23&Refer=top) 546568
 1. [刘强东事件女方多次称自愿发生关系](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%BC%BA%E4%B8%9C%E4%BA%8B%E4%BB%B6%E5%A5%B3%E6%96%B9%E5%A4%9A%E6%AC%A1%E7%A7%B0%E8%87%AA%E6%84%BF%E5%8F%91%E7%94%9F%E5%85%B3%E7%B3%BB%23&Refer=top) 536890
