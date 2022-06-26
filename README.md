@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-06-27 01:48:44.738126 
+最后更新时间 2022-06-27 02:34:31.940611 
 1. [专家称已婚男人寿命比未婚男人长7.5年](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E5%B7%B2%E5%A9%9A%E7%94%B7%E4%BA%BA%E5%AF%BF%E5%91%BD%E6%AF%94%E6%9C%AA%E5%A9%9A%E7%94%B7%E4%BA%BA%E9%95%BF7.5%E5%B9%B4%23&Refer=top) 2392575
 1. [梦华录结局](https://s.weibo.com/weibo?q=%23%E6%A2%A6%E5%8D%8E%E5%BD%95%E7%BB%93%E5%B1%80%23&Refer=top) 1666888
 1. [收到疑似作弊短信别信](https://s.weibo.com/weibo?q=%23%E6%94%B6%E5%88%B0%E7%96%91%E4%BC%BC%E4%BD%9C%E5%BC%8A%E7%9F%AD%E4%BF%A1%E5%88%AB%E4%BF%A1%23&Refer=top) 1493557
@@ -48,13 +48,13 @@
 1. [14省份将有大到暴雨](https://s.weibo.com/weibo?q=%2314%E7%9C%81%E4%BB%BD%E5%B0%86%E6%9C%89%E5%A4%A7%E5%88%B0%E6%9A%B4%E9%9B%A8%23&Refer=top) 164505
 1. [姐姐考579分弟弟比姐姐还激动](https://s.weibo.com/weibo?q=%23%E5%A7%90%E5%A7%90%E8%80%83579%E5%88%86%E5%BC%9F%E5%BC%9F%E6%AF%94%E5%A7%90%E5%A7%90%E8%BF%98%E6%BF%80%E5%8A%A8%23&Refer=top) 161244
 1. [小学作业让在古诗中找汽车品牌](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E4%BD%9C%E4%B8%9A%E8%AE%A9%E5%9C%A8%E5%8F%A4%E8%AF%97%E4%B8%AD%E6%89%BE%E6%B1%BD%E8%BD%A6%E5%93%81%E7%89%8C%23&Refer=top) 129072
+1. [年轻人为什么喜欢音乐节](https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E5%96%9C%E6%AC%A2%E9%9F%B3%E4%B9%90%E8%8A%82%23&Refer=top) 120439
 1. [女子故意制造噪音邻居苦不堪言](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%95%85%E6%84%8F%E5%88%B6%E9%80%A0%E5%99%AA%E9%9F%B3%E9%82%BB%E5%B1%85%E8%8B%A6%E4%B8%8D%E5%A0%AA%E8%A8%80%23&Refer=top) 112268
 1. [KPL超级兵偷家日](https://s.weibo.com/weibo?q=%23KPL%E8%B6%85%E7%BA%A7%E5%85%B5%E5%81%B7%E5%AE%B6%E6%97%A5%23&Refer=top) 111843
 1. [人生大事 烟花葬](https://s.weibo.com/weibo?q=%E4%BA%BA%E7%94%9F%E5%A4%A7%E4%BA%8B%20%E7%83%9F%E8%8A%B1%E8%91%AC&Refer=top) 109770
 1. [王濛说唱我的眼睛就是尺](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BF%9B%E8%AF%B4%E5%94%B1%E6%88%91%E7%9A%84%E7%9C%BC%E7%9D%9B%E5%B0%B1%E6%98%AF%E5%B0%BA%23&Refer=top) 108243
 1. [陈芋汐全红婵排名前二晋级](https://s.weibo.com/weibo?q=%23%E9%99%88%E8%8A%8B%E6%B1%90%E5%85%A8%E7%BA%A2%E5%A9%B5%E6%8E%92%E5%90%8D%E5%89%8D%E4%BA%8C%E6%99%8B%E7%BA%A7%23&Refer=top) 106271
 1. [曹缘王宗源男双3米板称王](https://s.weibo.com/weibo?q=%23%E6%9B%B9%E7%BC%98%E7%8E%8B%E5%AE%97%E6%BA%90%E7%94%B7%E5%8F%8C3%E7%B1%B3%E6%9D%BF%E7%A7%B0%E7%8E%8B%23&Refer=top) 104251
-1. [年轻人为什么喜欢音乐节](https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E5%96%9C%E6%AC%A2%E9%9F%B3%E4%B9%90%E8%8A%82%23&Refer=top) 93818
 1. [被男朋友妈妈重视是啥体验](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%94%B7%E6%9C%8B%E5%8F%8B%E5%A6%88%E5%A6%88%E9%87%8D%E8%A7%86%E6%98%AF%E5%95%A5%E4%BD%93%E9%AA%8C%23&Refer=top) 91636
 1. [花钱解压到底靠谱吗](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E9%92%B1%E8%A7%A3%E5%8E%8B%E5%88%B0%E5%BA%95%E9%9D%A0%E8%B0%B1%E5%90%97%23&Refer=top) 89994
 1. [杭州夏日粉色天空](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%A4%8F%E6%97%A5%E7%B2%89%E8%89%B2%E5%A4%A9%E7%A9%BA%23&Refer=top) 86311
