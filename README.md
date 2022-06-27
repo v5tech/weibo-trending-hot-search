@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-06-28 01:29:10.047657 
+最后更新时间 2022-06-28 01:45:12.319652 
 1. [情侣同居不同房是什么体验](https://s.weibo.com/weibo?q=%23%E6%83%85%E4%BE%A3%E5%90%8C%E5%B1%85%E4%B8%8D%E5%90%8C%E6%88%BF%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23&Refer=top) 988935
 1. [南京鼓楼区4街道开展区域核酸](https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E9%BC%93%E6%A5%BC%E5%8C%BA4%E8%A1%97%E9%81%93%E5%BC%80%E5%B1%95%E5%8C%BA%E5%9F%9F%E6%A0%B8%E9%85%B8%23&Refer=top) 639940
 1. [母亲回应3个孩子2个上清华](https://s.weibo.com/weibo?q=%23%E6%AF%8D%E4%BA%B2%E5%9B%9E%E5%BA%943%E4%B8%AA%E5%AD%A9%E5%AD%902%E4%B8%AA%E4%B8%8A%E6%B8%85%E5%8D%8E%23&Refer=top) 565376
@@ -16,6 +16,7 @@
 1. [洛克王国手游](https://s.weibo.com/weibo?q=%23%E6%B4%9B%E5%85%8B%E7%8E%8B%E5%9B%BD%E6%89%8B%E6%B8%B8%23&Refer=top) 482604
 1. [陈霄华已被刑事拘留](https://s.weibo.com/weibo?q=%23%E9%99%88%E9%9C%84%E5%8D%8E%E5%B7%B2%E8%A2%AB%E5%88%91%E4%BA%8B%E6%8B%98%E7%95%99%23&Refer=top) 429068
 1. [被西藏的厕所惊艳到了](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E8%A5%BF%E8%97%8F%E7%9A%84%E5%8E%95%E6%89%80%E6%83%8A%E8%89%B3%E5%88%B0%E4%BA%86%23&Refer=top) 350467
+1. [全红婵陈芋汐再战女子10米台决赛](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E9%99%88%E8%8A%8B%E6%B1%90%E5%86%8D%E6%88%98%E5%A5%B3%E5%AD%9010%E7%B1%B3%E5%8F%B0%E5%86%B3%E8%B5%9B%23&Refer=top) 339496
 1. [网传时代少年团演唱会曲目](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%BC%94%E5%94%B1%E4%BC%9A%E6%9B%B2%E7%9B%AE%23&Refer=top) 297469
 1. [梦华录删吻戏](https://s.weibo.com/weibo?q=%23%E6%A2%A6%E5%8D%8E%E5%BD%95%E5%88%A0%E5%90%BB%E6%88%8F%23&Refer=top) 292045
 1. [腾讯股价跳水](https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E8%82%A1%E4%BB%B7%E8%B7%B3%E6%B0%B4%23&Refer=top) 287348
@@ -34,11 +35,11 @@
 1. [月薪8000买什么车](https://s.weibo.com/weibo?q=%23%E6%9C%88%E8%96%AA8000%E4%B9%B0%E4%BB%80%E4%B9%88%E8%BD%A6%23&Refer=top) 170022
 1. [微信表情符号写入判决](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E8%A1%A8%E6%83%85%E7%AC%A6%E5%8F%B7%E5%86%99%E5%85%A5%E5%88%A4%E5%86%B3%23&Refer=top) 159790
 1. [宝宝误进电梯上楼男子热心送回](https://s.weibo.com/weibo?q=%23%E5%AE%9D%E5%AE%9D%E8%AF%AF%E8%BF%9B%E7%94%B5%E6%A2%AF%E4%B8%8A%E6%A5%BC%E7%94%B7%E5%AD%90%E7%83%AD%E5%BF%83%E9%80%81%E5%9B%9E%23&Refer=top) 157638
-1. [全红婵陈芋汐再战女子10米台决赛](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E9%99%88%E8%8A%8B%E6%B1%90%E5%86%8D%E6%88%98%E5%A5%B3%E5%AD%9010%E7%B1%B3%E5%8F%B0%E5%86%B3%E8%B5%9B%23&Refer=top) 148702
 1. [邓孝慈分分钟需要你](https://s.weibo.com/weibo?q=%23%E9%82%93%E5%AD%9D%E6%85%88%E5%88%86%E5%88%86%E9%92%9F%E9%9C%80%E8%A6%81%E4%BD%A0%23&Refer=top) 146899
 1. [刘宪华小提琴版卡农](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%AA%E5%8D%8E%E5%B0%8F%E6%8F%90%E7%90%B4%E7%89%88%E5%8D%A1%E5%86%9C%23&Refer=top) 131586
 1. [玉米都热成爆米花了](https://s.weibo.com/weibo?q=%23%E7%8E%89%E7%B1%B3%E9%83%BD%E7%83%AD%E6%88%90%E7%88%86%E7%B1%B3%E8%8A%B1%E4%BA%86%23&Refer=top) 110902
 1. [全国电视塔为5G点亮](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E7%94%B5%E8%A7%86%E5%A1%94%E4%B8%BA5G%E7%82%B9%E4%BA%AE%23&Refer=top) 109621
+1. [全红婵决赛首跳得85.50分](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%86%B3%E8%B5%9B%E9%A6%96%E8%B7%B3%E5%BE%9785.50%E5%88%86%23&Refer=top) 108199
 1. [2022腾讯游戏发布会](https://s.weibo.com/weibo?q=2022%E8%85%BE%E8%AE%AF%E6%B8%B8%E6%88%8F%E5%8F%91%E5%B8%83%E4%BC%9A&Refer=top) 107666
 1. [男生高考462分喝酒庆祝酒驾被查](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E9%AB%98%E8%80%83462%E5%88%86%E5%96%9D%E9%85%92%E5%BA%86%E7%A5%9D%E9%85%92%E9%A9%BE%E8%A2%AB%E6%9F%A5%23&Refer=top) 100680
 1. [德不发音](https://s.weibo.com/weibo?q=%E5%BE%B7%E4%B8%8D%E5%8F%91%E9%9F%B3&Refer=top) 99871
@@ -60,7 +61,9 @@
 1. [何超欣清华大学毕业照](https://s.weibo.com/weibo?q=%23%E4%BD%95%E8%B6%85%E6%AC%A3%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E6%AF%95%E4%B8%9A%E7%85%A7%23&Refer=top) 54465
 1. [南京六合部分街道开展核酸检测](https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E5%85%AD%E5%90%88%E9%83%A8%E5%88%86%E8%A1%97%E9%81%93%E5%BC%80%E5%B1%95%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%23&Refer=top) 51679
 1. [大家叫我刘清华不考上不好意思](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AE%B6%E5%8F%AB%E6%88%91%E5%88%98%E6%B8%85%E5%8D%8E%E4%B8%8D%E8%80%83%E4%B8%8A%E4%B8%8D%E5%A5%BD%E6%84%8F%E6%80%9D%23&Refer=top) 45535
+1. [陈若琳全红婵奥运冠军师徒](https://s.weibo.com/weibo?q=%23%E9%99%88%E8%8B%A5%E7%90%B3%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%A5%A5%E8%BF%90%E5%86%A0%E5%86%9B%E5%B8%88%E5%BE%92%23&Refer=top) 42966
 1. [上海市民遇援沪小哥撤离高喊谢谢](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%B8%82%E6%B0%91%E9%81%87%E6%8F%B4%E6%B2%AA%E5%B0%8F%E5%93%A5%E6%92%A4%E7%A6%BB%E9%AB%98%E5%96%8A%E8%B0%A2%E8%B0%A2%23&Refer=top) 40410
+1. [谁能夺得女子10米台冠军](https://s.weibo.com/weibo?q=%23%E8%B0%81%E8%83%BD%E5%A4%BA%E5%BE%97%E5%A5%B3%E5%AD%9010%E7%B1%B3%E5%8F%B0%E5%86%A0%E5%86%9B%23&Refer=top) 35276
 1. [王宗源第1曹缘第2晋级决赛](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%97%E6%BA%90%E7%AC%AC1%E6%9B%B9%E7%BC%98%E7%AC%AC2%E6%99%8B%E7%BA%A7%E5%86%B3%E8%B5%9B%23&Refer=top) 33864
 <!-- END -->
 
