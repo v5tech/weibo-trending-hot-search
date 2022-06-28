@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-06-29 02:16:51.632811 
+最后更新时间 2022-06-29 02:50:12.697808 
 1. [张家齐](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%AE%B6%E9%BD%90&Refer=top) 1934425
 1. [再也不怕快递丢件了](https://s.weibo.com/weibo?q=%23%E5%86%8D%E4%B9%9F%E4%B8%8D%E6%80%95%E5%BF%AB%E9%80%92%E4%B8%A2%E4%BB%B6%E4%BA%86%23&Refer=top) 1583468
 1. [打造各具特色的现代版富春山居图](https://s.weibo.com/weibo?q=%23%E6%89%93%E9%80%A0%E5%90%84%E5%85%B7%E7%89%B9%E8%89%B2%E7%9A%84%E7%8E%B0%E4%BB%A3%E7%89%88%E5%AF%8C%E6%98%A5%E5%B1%B1%E5%B1%85%E5%9B%BE%23&Refer=top) 1347707
