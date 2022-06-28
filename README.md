@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-06-29 05:48:51.921741 
+最后更新时间 2022-06-29 06:14:01.592358 
 1. [张家齐](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%AE%B6%E9%BD%90&Refer=top) 1934425
 1. [再也不怕快递丢件了](https://s.weibo.com/weibo?q=%23%E5%86%8D%E4%B9%9F%E4%B8%8D%E6%80%95%E5%BF%AB%E9%80%92%E4%B8%A2%E4%BB%B6%E4%BA%86%23&Refer=top) 1583468
 1. [打造各具特色的现代版富春山居图](https://s.weibo.com/weibo?q=%23%E6%89%93%E9%80%A0%E5%90%84%E5%85%B7%E7%89%B9%E8%89%B2%E7%9A%84%E7%8E%B0%E4%BB%A3%E7%89%88%E5%AF%8C%E6%98%A5%E5%B1%B1%E5%B1%85%E5%9B%BE%23&Refer=top) 1347707
@@ -43,6 +43,7 @@
 1. [南京排查出4例阳性](https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E6%8E%92%E6%9F%A5%E5%87%BA4%E4%BE%8B%E9%98%B3%E6%80%A7%23&Refer=top) 158681
 1. [王宗源夺得跳水3米板金牌](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%97%E6%BA%90%E5%A4%BA%E5%BE%97%E8%B7%B3%E6%B0%B43%E7%B1%B3%E6%9D%BF%E9%87%91%E7%89%8C%23&Refer=top) 147127
 1. [阴阳师](https://s.weibo.com/weibo?q=%E9%98%B4%E9%98%B3%E5%B8%88&Refer=top) 144774
+1. [车主加满一箱油将少花12.5元](https://s.weibo.com/weibo?q=%23%E8%BD%A6%E4%B8%BB%E5%8A%A0%E6%BB%A1%E4%B8%80%E7%AE%B1%E6%B2%B9%E5%B0%86%E5%B0%91%E8%8A%B112.5%E5%85%83%23&Refer=top) 142298
 1. [浙江90后妈妈在汉诞下四胞胎](https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F90%E5%90%8E%E5%A6%88%E5%A6%88%E5%9C%A8%E6%B1%89%E8%AF%9E%E4%B8%8B%E5%9B%9B%E8%83%9E%E8%83%8E%23&Refer=top) 138863
 1. [Uzi结婚照瘦了](https://s.weibo.com/weibo?q=%23Uzi%E7%BB%93%E5%A9%9A%E7%85%A7%E7%98%A6%E4%BA%86%23&Refer=top) 137790
 1. [中国女排加油](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E5%8A%A0%E6%B2%B9%23&Refer=top) 133236
@@ -57,19 +58,18 @@
 1. [辽宁回应网传高考地理疑现审阅失误](https://s.weibo.com/weibo?q=%23%E8%BE%BD%E5%AE%81%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E9%AB%98%E8%80%83%E5%9C%B0%E7%90%86%E7%96%91%E7%8E%B0%E5%AE%A1%E9%98%85%E5%A4%B1%E8%AF%AF%23&Refer=top) 99796
 1. [深圳每套房可省5块钱](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%AF%8F%E5%A5%97%E6%88%BF%E5%8F%AF%E7%9C%815%E5%9D%97%E9%92%B1%23&Refer=top) 86237
 1. [明起国内油价下调](https://s.weibo.com/weibo?q=%23%E6%98%8E%E8%B5%B7%E5%9B%BD%E5%86%85%E6%B2%B9%E4%BB%B7%E4%B8%8B%E8%B0%83%23&Refer=top) 80984
+1. [上海坠河公交现场首位救援小哥发声](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%9D%A0%E6%B2%B3%E5%85%AC%E4%BA%A4%E7%8E%B0%E5%9C%BA%E9%A6%96%E4%BD%8D%E6%95%91%E6%8F%B4%E5%B0%8F%E5%93%A5%E5%8F%91%E5%A3%B0%23&Refer=top) 76872
 1. [拳击冠军小伙高考638分](https://s.weibo.com/weibo?q=%23%E6%8B%B3%E5%87%BB%E5%86%A0%E5%86%9B%E5%B0%8F%E4%BC%99%E9%AB%98%E8%80%83638%E5%88%86%23&Refer=top) 75987
 1. [妈妈将女儿涂鸦做成周边留住童年](https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E5%B0%86%E5%A5%B3%E5%84%BF%E6%B6%82%E9%B8%A6%E5%81%9A%E6%88%90%E5%91%A8%E8%BE%B9%E7%95%99%E4%BD%8F%E7%AB%A5%E5%B9%B4%23&Refer=top) 74830
 1. [你收到过妈妈送的什么礼物](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E6%94%B6%E5%88%B0%E8%BF%87%E5%A6%88%E5%A6%88%E9%80%81%E7%9A%84%E4%BB%80%E4%B9%88%E7%A4%BC%E7%89%A9%23&Refer=top) 73447
 1. [华山6月1日起免费开放](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E5%B1%B16%E6%9C%881%E6%97%A5%E8%B5%B7%E5%85%8D%E8%B4%B9%E5%BC%80%E6%94%BE%23&Refer=top) 72948
+1. [上海梅雨季成没雨季](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%A2%85%E9%9B%A8%E5%AD%A3%E6%88%90%E6%B2%A1%E9%9B%A8%E5%AD%A3%23&Refer=top) 56162
+1. [吉林平均降雨创1951年来历史极值](https://s.weibo.com/weibo?q=%23%E5%90%89%E6%9E%97%E5%B9%B3%E5%9D%87%E9%99%8D%E9%9B%A8%E5%88%9B1951%E5%B9%B4%E6%9D%A5%E5%8E%86%E5%8F%B2%E6%9E%81%E5%80%BC%23&Refer=top) 55191
 1. [中国跳水队再包揽金银牌](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%B7%B3%E6%B0%B4%E9%98%9F%E5%86%8D%E5%8C%85%E6%8F%BD%E9%87%91%E9%93%B6%E7%89%8C%23&Refer=top) 50089
-1. [车主加满一箱油将少花12.5元](https://s.weibo.com/weibo?q=%23%E8%BD%A6%E4%B8%BB%E5%8A%A0%E6%BB%A1%E4%B8%80%E7%AE%B1%E6%B2%B9%E5%B0%86%E5%B0%91%E8%8A%B112.5%E5%85%83%23&Refer=top) 49549
-1. [上海坠河公交现场首位救援小哥发声](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%9D%A0%E6%B2%B3%E5%85%AC%E4%BA%A4%E7%8E%B0%E5%9C%BA%E9%A6%96%E4%BD%8D%E6%95%91%E6%8F%B4%E5%B0%8F%E5%93%A5%E5%8F%91%E5%A3%B0%23&Refer=top) 48858
 1. [新疆雅丹的日月星辰](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E9%9B%85%E4%B8%B9%E7%9A%84%E6%97%A5%E6%9C%88%E6%98%9F%E8%BE%B0%23&Refer=top) 43029
-1. [吉林平均降雨创1951年来历史极值](https://s.weibo.com/weibo?q=%23%E5%90%89%E6%9E%97%E5%B9%B3%E5%9D%87%E9%99%8D%E9%9B%A8%E5%88%9B1951%E5%B9%B4%E6%9D%A5%E5%8E%86%E5%8F%B2%E6%9E%81%E5%80%BC%23&Refer=top) 30890
-1. [上海梅雨季成没雨季](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%A2%85%E9%9B%A8%E5%AD%A3%E6%88%90%E6%B2%A1%E9%9B%A8%E5%AD%A3%23&Refer=top) 22850
-1. [一条plog告别六月](https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%9D%A1plog%E5%91%8A%E5%88%AB%E5%85%AD%E6%9C%88%23&Refer=top) 20575
+1. [如何看待年轻人MBTI交友](https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%B9%B4%E8%BD%BB%E4%BA%BAMBTI%E4%BA%A4%E5%8F%8B%23&Refer=top) 34498
+1. [一条plog告别六月](https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%9D%A1plog%E5%91%8A%E5%88%AB%E5%85%AD%E6%9C%88%23&Refer=top) 21607
 1. [迪士尼相关访问量环比暴涨655%](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E5%A3%AB%E5%B0%BC%E7%9B%B8%E5%85%B3%E8%AE%BF%E9%97%AE%E9%87%8F%E7%8E%AF%E6%AF%94%E6%9A%B4%E6%B6%A8655%25%23&Refer=top) 17343
-1. [如何看待年轻人MBTI交友](https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%B9%B4%E8%BD%BB%E4%BA%BAMBTI%E4%BA%A4%E5%8F%8B%23&Refer=top) 17009
 1. [贵州绝美火烧云](https://s.weibo.com/weibo?q=%23%E8%B4%B5%E5%B7%9E%E7%BB%9D%E7%BE%8E%E7%81%AB%E7%83%A7%E4%BA%91%23&Refer=top) 8067
 1. [路人王二萌](https://s.weibo.com/weibo?q=%E8%B7%AF%E4%BA%BA%E7%8E%8B%E4%BA%8C%E8%90%8C&Refer=top) 7688
 <!-- END -->
