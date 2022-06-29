@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-06-30 01:07:59.883294 
+最后更新时间 2022-06-30 01:53:57.536205 
 1. [高价雪糕为什么卖不动了](https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%BB%B7%E9%9B%AA%E7%B3%95%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86%23&Refer=top) 1522113
 1. [彩虹](https://s.weibo.com/weibo?q=%23%E5%BD%A9%E8%99%B9%23&Refer=top) 1060228
 1. [上半年中国航天高燃发射瞬间](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E5%8D%8A%E5%B9%B4%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E9%AB%98%E7%87%83%E5%8F%91%E5%B0%84%E7%9E%AC%E9%97%B4%23&Refer=top) 936436
@@ -16,9 +16,9 @@
 1. [男子网购300多次退款不退货被抓](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%BD%91%E8%B4%AD300%E5%A4%9A%E6%AC%A1%E9%80%80%E6%AC%BE%E4%B8%8D%E9%80%80%E8%B4%A7%E8%A2%AB%E6%8A%93%23&Refer=top) 737731
 1. [赵丽颖演技](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%BC%94%E6%8A%80%23&Refer=top) 728641
 1. [全能婵](https://s.weibo.com/weibo?q=%E5%85%A8%E8%83%BD%E5%A9%B5&Refer=top) 712430
+1. [裴秀智新剧安娜引争议](https://s.weibo.com/weibo?q=%23%E8%A3%B4%E7%A7%80%E6%99%BA%E6%96%B0%E5%89%A7%E5%AE%89%E5%A8%9C%E5%BC%95%E4%BA%89%E8%AE%AE%23&Refer=top) 645230
 1. [麦趣尔](https://s.weibo.com/weibo?q=%E9%BA%A6%E8%B6%A3%E5%B0%94&Refer=top) 642029
 1. [为什么要和有趣的人谈恋爱](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%92%8C%E6%9C%89%E8%B6%A3%E7%9A%84%E4%BA%BA%E8%B0%88%E6%81%8B%E7%88%B1%23&Refer=top) 634144
-1. [裴秀智新剧安娜引争议](https://s.weibo.com/weibo?q=%23%E8%A3%B4%E7%A7%80%E6%99%BA%E6%96%B0%E5%89%A7%E5%AE%89%E5%A8%9C%E5%BC%95%E4%BA%89%E8%AE%AE%23&Refer=top) 549449
 1. [妈妈酿李子酒半夜爆炸吓醒全家](https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E9%85%BF%E6%9D%8E%E5%AD%90%E9%85%92%E5%8D%8A%E5%A4%9C%E7%88%86%E7%82%B8%E5%90%93%E9%86%92%E5%85%A8%E5%AE%B6%23&Refer=top) 537581
 1. [北约成员国正式同意邀请瑞典芬兰加入](https://s.weibo.com/weibo?q=%23%E5%8C%97%E7%BA%A6%E6%88%90%E5%91%98%E5%9B%BD%E6%AD%A3%E5%BC%8F%E5%90%8C%E6%84%8F%E9%82%80%E8%AF%B7%E7%91%9E%E5%85%B8%E8%8A%AC%E5%85%B0%E5%8A%A0%E5%85%A5%23&Refer=top) 515045
 1. [半个娱乐圈明星都在湖南](https://s.weibo.com/weibo?q=%23%E5%8D%8A%E4%B8%AA%E5%A8%B1%E4%B9%90%E5%9C%88%E6%98%8E%E6%98%9F%E9%83%BD%E5%9C%A8%E6%B9%96%E5%8D%97%23&Refer=top) 496386
@@ -50,6 +50,7 @@
 1. [全红婵跳板首秀](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E8%B7%B3%E6%9D%BF%E9%A6%96%E7%A7%80%23&Refer=top) 143216
 1. [七国集团没有资格代表全世界](https://s.weibo.com/weibo?q=%23%E4%B8%83%E5%9B%BD%E9%9B%86%E5%9B%A2%E6%B2%A1%E6%9C%89%E8%B5%84%E6%A0%BC%E4%BB%A3%E8%A1%A8%E5%85%A8%E4%B8%96%E7%95%8C%23&Refer=top) 126097
 1. [朱一龙又说这是电影频道哎](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E5%8F%88%E8%AF%B4%E8%BF%99%E6%98%AF%E7%94%B5%E5%BD%B1%E9%A2%91%E9%81%93%E5%93%8E%23&Refer=top) 124485
+1. [暴扣哥回应盛宇说他不配](https://s.weibo.com/weibo?q=%23%E6%9A%B4%E6%89%A3%E5%93%A5%E5%9B%9E%E5%BA%94%E7%9B%9B%E5%AE%87%E8%AF%B4%E4%BB%96%E4%B8%8D%E9%85%8D%23&Refer=top) 120969
 1. [幸福到万家](https://s.weibo.com/weibo?q=%23%E5%B9%B8%E7%A6%8F%E5%88%B0%E4%B8%87%E5%AE%B6%23&Refer=top) 118931
 1. [行程卡摘星意味着什么](https://s.weibo.com/weibo?q=%23%E8%A1%8C%E7%A8%8B%E5%8D%A1%E6%91%98%E6%98%9F%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88%23&Refer=top) 117643
 1. [当闺蜜突然结婚了](https://s.weibo.com/weibo?q=%23%E5%BD%93%E9%97%BA%E8%9C%9C%E7%AA%81%E7%84%B6%E7%BB%93%E5%A9%9A%E4%BA%86%23&Refer=top) 113767
