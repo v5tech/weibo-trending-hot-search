@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-06-30 05:49:09.721164 
+最后更新时间 2022-06-30 06:11:56.168163 
 1. [高价雪糕为什么卖不动了](https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%BB%B7%E9%9B%AA%E7%B3%95%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86%23&Refer=top) 1522113
 1. [彩虹](https://s.weibo.com/weibo?q=%23%E5%BD%A9%E8%99%B9%23&Refer=top) 1060228
 1. [上半年中国航天高燃发射瞬间](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E5%8D%8A%E5%B9%B4%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E9%AB%98%E7%87%83%E5%8F%91%E5%B0%84%E7%9E%AC%E9%97%B4%23&Refer=top) 936436
@@ -60,19 +60,20 @@
 1. [官方回应长春一高考生质疑物理成绩](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E9%95%BF%E6%98%A5%E4%B8%80%E9%AB%98%E8%80%83%E7%94%9F%E8%B4%A8%E7%96%91%E7%89%A9%E7%90%86%E6%88%90%E7%BB%A9%23&Refer=top) 98190
 1. [全红婵在跳台上闪闪发光](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%9C%A8%E8%B7%B3%E5%8F%B0%E4%B8%8A%E9%97%AA%E9%97%AA%E5%8F%91%E5%85%89%23&Refer=top) 96495
 1. [孙颖莎老师上线](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E8%80%81%E5%B8%88%E4%B8%8A%E7%BA%BF%23&Refer=top) 93998
+1. [证人称特朗普曾想参与国会山骚乱](https://s.weibo.com/weibo?q=%23%E8%AF%81%E4%BA%BA%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E6%9B%BE%E6%83%B3%E5%8F%82%E4%B8%8E%E5%9B%BD%E4%BC%9A%E5%B1%B1%E9%AA%9A%E4%B9%B1%23&Refer=top) 91200
 1. [水做的扇子有多惊艳](https://s.weibo.com/weibo?q=%23%E6%B0%B4%E5%81%9A%E7%9A%84%E6%89%87%E5%AD%90%E6%9C%89%E5%A4%9A%E6%83%8A%E8%89%B3%23&Refer=top) 81871
+1. [你觉得幸福到万家好看吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%A7%89%E5%BE%97%E5%B9%B8%E7%A6%8F%E5%88%B0%E4%B8%87%E5%AE%B6%E5%A5%BD%E7%9C%8B%E5%90%97%23&Refer=top) 77263
 1. [李亚杰女子1米板金牌](https://s.weibo.com/weibo?q=%E6%9D%8E%E4%BA%9A%E6%9D%B0%E5%A5%B3%E5%AD%901%E7%B1%B3%E6%9D%BF%E9%87%91%E7%89%8C&Refer=top) 69892
-1. [证人称特朗普曾想参与国会山骚乱](https://s.weibo.com/weibo?q=%23%E8%AF%81%E4%BA%BA%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E6%9B%BE%E6%83%B3%E5%8F%82%E4%B8%8E%E5%9B%BD%E4%BC%9A%E5%B1%B1%E9%AA%9A%E4%B9%B1%23&Refer=top) 61194
+1. [85后农机手夫妻收割一天最高挣一万](https://s.weibo.com/weibo?q=%2385%E5%90%8E%E5%86%9C%E6%9C%BA%E6%89%8B%E5%A4%AB%E5%A6%BB%E6%94%B6%E5%89%B2%E4%B8%80%E5%A4%A9%E6%9C%80%E9%AB%98%E6%8C%A3%E4%B8%80%E4%B8%87%23&Refer=top) 62952
 1. [这就是江南美人吧](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E6%B1%9F%E5%8D%97%E7%BE%8E%E4%BA%BA%E5%90%A7%23&Refer=top) 60304
-1. [你觉得幸福到万家好看吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%A7%89%E5%BE%97%E5%B9%B8%E7%A6%8F%E5%88%B0%E4%B8%87%E5%AE%B6%E5%A5%BD%E7%9C%8B%E5%90%97%23&Refer=top) 54817
 1. [上海影院将于7月8日有序恢复开放](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%BD%B1%E9%99%A2%E5%B0%86%E4%BA%8E7%E6%9C%888%E6%97%A5%E6%9C%89%E5%BA%8F%E6%81%A2%E5%A4%8D%E5%BC%80%E6%94%BE%23&Refer=top) 53130
 1. [人生大事票房走势后劲好足](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E7%94%9F%E5%A4%A7%E4%BA%8B%E7%A5%A8%E6%88%BF%E8%B5%B0%E5%8A%BF%E5%90%8E%E5%8A%B2%E5%A5%BD%E8%B6%B3%23&Refer=top) 40769
 1. [原神 提纳里](https://s.weibo.com/weibo?q=%E5%8E%9F%E7%A5%9E%20%E6%8F%90%E7%BA%B3%E9%87%8C&Refer=top) 25441
-1. [易建联登陆NBA15周年](https://s.weibo.com/weibo?q=%23%E6%98%93%E5%BB%BA%E8%81%94%E7%99%BB%E9%99%86NBA15%E5%91%A8%E5%B9%B4%23&Refer=top) 20576
-1. [科技自立自强是国家强盛之基](https://s.weibo.com/weibo?q=%23%E7%A7%91%E6%8A%80%E8%87%AA%E7%AB%8B%E8%87%AA%E5%BC%BA%E6%98%AF%E5%9B%BD%E5%AE%B6%E5%BC%BA%E7%9B%9B%E4%B9%8B%E5%9F%BA%23&Refer=top) 12829
+1. [于文文说野蔷薇长在我心里了](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%96%87%E6%96%87%E8%AF%B4%E9%87%8E%E8%94%B7%E8%96%87%E9%95%BF%E5%9C%A8%E6%88%91%E5%BF%83%E9%87%8C%E4%BA%86%23&Refer=top) 23510
+1. [易建联登陆NBA15周年](https://s.weibo.com/weibo?q=%23%E6%98%93%E5%BB%BA%E8%81%94%E7%99%BB%E9%99%86NBA15%E5%91%A8%E5%B9%B4%23&Refer=top) 22870
+1. [科技自立自强是国家强盛之基](https://s.weibo.com/weibo?q=%23%E7%A7%91%E6%8A%80%E8%87%AA%E7%AB%8B%E8%87%AA%E5%BC%BA%E6%98%AF%E5%9B%BD%E5%AE%B6%E5%BC%BA%E7%9B%9B%E4%B9%8B%E5%9F%BA%23&Refer=top) 15252
 1. [王紫璇把包袱搞丢了](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%B4%AB%E7%92%87%E6%8A%8A%E5%8C%85%E8%A2%B1%E6%90%9E%E4%B8%A2%E4%BA%86%23&Refer=top) 10877
 1. [李易峰南都娱乐封面](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%98%93%E5%B3%B0%E5%8D%97%E9%83%BD%E5%A8%B1%E4%B9%90%E5%B0%81%E9%9D%A2%23&Refer=top) 9819
-1. [85后农机手夫妻收割一天最高挣一万](https://s.weibo.com/weibo?q=%2385%E5%90%8E%E5%86%9C%E6%9C%BA%E6%89%8B%E5%A4%AB%E5%A6%BB%E6%94%B6%E5%89%B2%E4%B8%80%E5%A4%A9%E6%9C%80%E9%AB%98%E6%8C%A3%E4%B8%80%E4%B8%87%23&Refer=top) 9256
 <!-- END -->
 
 历史归档 [./archives](./archives)
