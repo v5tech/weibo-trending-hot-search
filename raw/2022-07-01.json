@@ -179,6 +179,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E8%B4%B5%E7%9A%84%E9%9B%AA%E7%B3%95%E6%9B%B4%E5%A5%BD%E5%90%83%E5%90%97%23&Refer=top",
     "hot": 108791
   },
+  "花月宴yyds": {
+    "url": "https://s.weibo.com/weibo?q=%23%E8%8A%B1%E6%9C%88%E5%AE%B4yyds%23&Refer=top",
+    "hot": 104641
+  },
   "8岁男孩一路摔倒为晕厥母亲求救": {
     "url": "https://s.weibo.com/weibo?q=%238%E5%B2%81%E7%94%B7%E5%AD%A9%E4%B8%80%E8%B7%AF%E6%91%94%E5%80%92%E4%B8%BA%E6%99%95%E5%8E%A5%E6%AF%8D%E4%BA%B2%E6%B1%82%E6%95%91%23&Refer=top",
     "hot": 104444
@@ -230,5 +234,9 @@
   "中国女排 敲锣打鼓": {
     "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%20%E6%95%B2%E9%94%A3%E6%89%93%E9%BC%93&Refer=top",
     "hot": 56300
+  },
+  "我一直挂念着香港": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E4%B8%80%E7%9B%B4%E6%8C%82%E5%BF%B5%E7%9D%80%E9%A6%99%E6%B8%AF%23&Refer=top",
+    "hot": 33151
   }
 }
