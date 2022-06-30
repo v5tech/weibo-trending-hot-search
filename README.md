@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-07-01 02:48:12.464433 
+最后更新时间 2022-07-01 03:09:42.366970 
 1. [钟薛高](https://s.weibo.com/weibo?q=%23%E9%92%9F%E8%96%9B%E9%AB%98%23&Refer=top) 1267566
 1. [5岁女孩用顶级摄影机拍作业](https://s.weibo.com/weibo?q=%235%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%94%A8%E9%A1%B6%E7%BA%A7%E6%91%84%E5%BD%B1%E6%9C%BA%E6%8B%8D%E4%BD%9C%E4%B8%9A%23&Refer=top) 881960
 1. [全红婵陈芋汐女双10米台夺金](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E9%99%88%E8%8A%8B%E6%B1%90%E5%A5%B3%E5%8F%8C10%E7%B1%B3%E5%8F%B0%E5%A4%BA%E9%87%91%23&Refer=top) 795872
