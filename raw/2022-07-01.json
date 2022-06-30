@@ -243,12 +243,20 @@
     "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E4%B8%80%E7%9B%B4%E6%8C%82%E5%BF%B5%E7%9D%80%E9%A6%99%E6%B8%AF%23&Refer=top",
     "hot": 33162
   },
+  "草神": {
+    "url": "https://s.weibo.com/weibo?q=%E8%8D%89%E7%A5%9E&Refer=top",
+    "hot": 19190
+  },
   "中吉乌铁路还有哪些障碍": {
     "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%90%89%E4%B9%8C%E9%93%81%E8%B7%AF%E8%BF%98%E6%9C%89%E5%93%AA%E4%BA%9B%E9%9A%9C%E7%A2%8D&Refer=top",
-    "hot": 17451
+    "hot": 18865
   },
   "2022年上半年的目标": {
     "url": "https://s.weibo.com/weibo?q=%232022%E5%B9%B4%E4%B8%8A%E5%8D%8A%E5%B9%B4%E7%9A%84%E7%9B%AE%E6%A0%87%23&Refer=top",
-    "hot": 11240
+    "hot": 11556
+  },
+  "普京强势回怼约翰逊": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E5%BC%BA%E5%8A%BF%E5%9B%9E%E6%80%BC%E7%BA%A6%E7%BF%B0%E9%80%8A%23&Refer=top",
+    "hot": 10208
   }
 }
