@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-07-02 05:38:17.742146 
+最后更新时间 2022-07-02 05:48:49.724799 
 1. [某实验室正式揭牌成立](https://s.weibo.com/weibo?q=%23%E6%9F%90%E5%AE%9E%E9%AA%8C%E5%AE%A4%E6%AD%A3%E5%BC%8F%E6%8F%AD%E7%89%8C%E6%88%90%E7%AB%8B%23&Refer=top) 1488440
 1. [英国应正视香港已回归25年的现实](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E5%BA%94%E6%AD%A3%E8%A7%86%E9%A6%99%E6%B8%AF%E5%B7%B2%E5%9B%9E%E5%BD%9225%E5%B9%B4%E7%9A%84%E7%8E%B0%E5%AE%9E%23&Refer=top) 664375
 1. [这铿锵有力的宣誓声震撼人心](https://s.weibo.com/weibo?q=%23%E8%BF%99%E9%93%BF%E9%94%B5%E6%9C%89%E5%8A%9B%E7%9A%84%E5%AE%A3%E8%AA%93%E5%A3%B0%E9%9C%87%E6%92%BC%E4%BA%BA%E5%BF%83%23&Refer=top) 435490
@@ -68,13 +68,14 @@
 1. [杨幂花少cos小丑女](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E8%8A%B1%E5%B0%91cos%E5%B0%8F%E4%B8%91%E5%A5%B3%23&Refer=top) 54679
 1. [刘恋梦中人仿妆](https://s.weibo.com/weibo?q=%E5%88%98%E6%81%8B%E6%A2%A6%E4%B8%AD%E4%BA%BA%E4%BB%BF%E5%A6%86&Refer=top) 40237
 1. [被流浪猫追求一年是什么体验](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%B5%81%E6%B5%AA%E7%8C%AB%E8%BF%BD%E6%B1%82%E4%B8%80%E5%B9%B4%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23&Refer=top) 36294
-1. [台风暹芭将正面袭击粤西](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E6%9A%B9%E8%8A%AD%E5%B0%86%E6%AD%A3%E9%9D%A2%E8%A2%AD%E5%87%BB%E7%B2%A4%E8%A5%BF%23&Refer=top) 32238
-1. [美在乌军人身上进行危险实验](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9C%A8%E4%B9%8C%E5%86%9B%E4%BA%BA%E8%BA%AB%E4%B8%8A%E8%BF%9B%E8%A1%8C%E5%8D%B1%E9%99%A9%E5%AE%9E%E9%AA%8C%23&Refer=top) 22187
-1. [家务4路透男人凑一起有多幼稚](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E5%8A%A14%E8%B7%AF%E9%80%8F%E7%94%B7%E4%BA%BA%E5%87%91%E4%B8%80%E8%B5%B7%E6%9C%89%E5%A4%9A%E5%B9%BC%E7%A8%9A%23&Refer=top) 21522
+1. [美在乌军人身上进行危险实验](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9C%A8%E4%B9%8C%E5%86%9B%E4%BA%BA%E8%BA%AB%E4%B8%8A%E8%BF%9B%E8%A1%8C%E5%8D%B1%E9%99%A9%E5%AE%9E%E9%AA%8C%23&Refer=top) 34562
+1. [台风暹芭将正面袭击粤西](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E6%9A%B9%E8%8A%AD%E5%B0%86%E6%AD%A3%E9%9D%A2%E8%A2%AD%E5%87%BB%E7%B2%A4%E8%A5%BF%23&Refer=top) 33816
+1. [家务4路透男人凑一起有多幼稚](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E5%8A%A14%E8%B7%AF%E9%80%8F%E7%94%B7%E4%BA%BA%E5%87%91%E4%B8%80%E8%B5%B7%E6%9C%89%E5%A4%9A%E5%B9%BC%E7%A8%9A%23&Refer=top) 23792
+1. [人生大事讲的是人与人的相遇](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E7%94%9F%E5%A4%A7%E4%BA%8B%E8%AE%B2%E7%9A%84%E6%98%AF%E4%BA%BA%E4%B8%8E%E4%BA%BA%E7%9A%84%E7%9B%B8%E9%81%87%23&Refer=top) 11961
 1. [属于1997的BGM](https://s.weibo.com/weibo?q=%23%E5%B1%9E%E4%BA%8E1997%E7%9A%84BGM%23&Refer=top) 11743
-1. [人生大事讲的是人与人的相遇](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E7%94%9F%E5%A4%A7%E4%BA%8B%E8%AE%B2%E7%9A%84%E6%98%AF%E4%BA%BA%E4%B8%8E%E4%BA%BA%E7%9A%84%E7%9B%B8%E9%81%87%23&Refer=top) 11415
+1. [2022年广东初台](https://s.weibo.com/weibo?q=%232022%E5%B9%B4%E5%B9%BF%E4%B8%9C%E5%88%9D%E5%8F%B0%23&Refer=top) 11040
+1. [猫头鹰一家在南京相继热中暑](https://s.weibo.com/weibo?q=%23%E7%8C%AB%E5%A4%B4%E9%B9%B0%E4%B8%80%E5%AE%B6%E5%9C%A8%E5%8D%97%E4%BA%AC%E7%9B%B8%E7%BB%A7%E7%83%AD%E4%B8%AD%E6%9A%91%23&Refer=top) 10648
 1. [郭艾伦15分](https://s.weibo.com/weibo?q=%23%E9%83%AD%E8%89%BE%E4%BC%A615%E5%88%86%23&Refer=top) 10561
-1. [2022年广东初台](https://s.weibo.com/weibo?q=%232022%E5%B9%B4%E5%B9%BF%E4%B8%9C%E5%88%9D%E5%8F%B0%23&Refer=top) 10014
 1. [冰封王座发售19周年](https://s.weibo.com/weibo?q=%23%E5%86%B0%E5%B0%81%E7%8E%8B%E5%BA%A7%E5%8F%91%E5%94%AE19%E5%91%A8%E5%B9%B4%23&Refer=top) 9475
 1. [如何评价中国男篮世预赛两战表现](https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%96%E9%A2%84%E8%B5%9B%E4%B8%A4%E6%88%98%E8%A1%A8%E7%8E%B0%23&Refer=top) 8030
 <!-- END -->
