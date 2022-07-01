@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-07-02 03:26:23.952047 
+最后更新时间 2022-07-02 03:34:40.408635 
 1. [某实验室正式揭牌成立](https://s.weibo.com/weibo?q=%23%E6%9F%90%E5%AE%9E%E9%AA%8C%E5%AE%A4%E6%AD%A3%E5%BC%8F%E6%8F%AD%E7%89%8C%E6%88%90%E7%AB%8B%23&Refer=top) 1488440
 1. [英国应正视香港已回归25年的现实](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E5%BA%94%E6%AD%A3%E8%A7%86%E9%A6%99%E6%B8%AF%E5%B7%B2%E5%9B%9E%E5%BD%9225%E5%B9%B4%E7%9A%84%E7%8E%B0%E5%AE%9E%23&Refer=top) 664375
 1. [这铿锵有力的宣誓声震撼人心](https://s.weibo.com/weibo?q=%23%E8%BF%99%E9%93%BF%E9%94%B5%E6%9C%89%E5%8A%9B%E7%9A%84%E5%AE%A3%E8%AA%93%E5%A3%B0%E9%9C%87%E6%92%BC%E4%BA%BA%E5%BF%83%23&Refer=top) 435490
