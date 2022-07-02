@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-07-03 01:11:57.968741 
+最后更新时间 2022-07-03 01:29:05.378948 
 1. [钟薛高31度室温下放1小时不化](https://s.weibo.com/weibo?q=%23%E9%92%9F%E8%96%9B%E9%AB%9831%E5%BA%A6%E5%AE%A4%E6%B8%A9%E4%B8%8B%E6%94%BE1%E5%B0%8F%E6%97%B6%E4%B8%8D%E5%8C%96%23&Refer=top) 2139847
 1. [父亲制止孩子哭闹掌掴孩子致死被判刑](https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E5%88%B6%E6%AD%A2%E5%AD%A9%E5%AD%90%E5%93%AD%E9%97%B9%E6%8E%8C%E6%8E%B4%E5%AD%A9%E5%AD%90%E8%87%B4%E6%AD%BB%E8%A2%AB%E5%88%A4%E5%88%91%23&Refer=top) 2091044
 1. [钟薛高回应雪糕长时间不融化](https://s.weibo.com/weibo?q=%23%E9%92%9F%E8%96%9B%E9%AB%98%E5%9B%9E%E5%BA%94%E9%9B%AA%E7%B3%95%E9%95%BF%E6%97%B6%E9%97%B4%E4%B8%8D%E8%9E%8D%E5%8C%96%23&Refer=top) 1611172
@@ -36,8 +36,8 @@
 1. [高诗岩](https://s.weibo.com/weibo?q=%E9%AB%98%E8%AF%97%E5%B2%A9&Refer=top) 292065
 1. [黛灰](https://s.weibo.com/weibo?q=%E9%BB%9B%E7%81%B0&Refer=top) 259210
 1. [WBG对战TES](https://s.weibo.com/weibo?q=%23WBG%E5%AF%B9%E6%88%98TES%23&Refer=top) 247775
+1. [热恋琪是真的](https://s.weibo.com/weibo?q=%23%E7%83%AD%E6%81%8B%E7%90%AA%E6%98%AF%E7%9C%9F%E7%9A%84%23&Refer=top) 241541
 1. [无锡汽车客运站暂停运行](https://s.weibo.com/weibo?q=%23%E6%97%A0%E9%94%A1%E6%B1%BD%E8%BD%A6%E5%AE%A2%E8%BF%90%E7%AB%99%E6%9A%82%E5%81%9C%E8%BF%90%E8%A1%8C%23&Refer=top) 237723
-1. [热恋琪是真的](https://s.weibo.com/weibo?q=%23%E7%83%AD%E6%81%8B%E7%90%AA%E6%98%AF%E7%9C%9F%E7%9A%84%23&Refer=top) 236749
 1. [邓家佳说原声台词对演员很重要](https://s.weibo.com/weibo?q=%23%E9%82%93%E5%AE%B6%E4%BD%B3%E8%AF%B4%E5%8E%9F%E5%A3%B0%E5%8F%B0%E8%AF%8D%E5%AF%B9%E6%BC%94%E5%91%98%E5%BE%88%E9%87%8D%E8%A6%81%23&Refer=top) 236004
 1. [黑河女生俄罗斯留学距家仅500m](https://s.weibo.com/weibo?q=%23%E9%BB%91%E6%B2%B3%E5%A5%B3%E7%94%9F%E4%BF%84%E7%BD%97%E6%96%AF%E7%95%99%E5%AD%A6%E8%B7%9D%E5%AE%B6%E4%BB%85500m%23&Refer=top) 235526
 1. [要是我也这么会拒绝就好了](https://s.weibo.com/weibo?q=%23%E8%A6%81%E6%98%AF%E6%88%91%E4%B9%9F%E8%BF%99%E4%B9%88%E4%BC%9A%E6%8B%92%E7%BB%9D%E5%B0%B1%E5%A5%BD%E4%BA%86%23&Refer=top) 218863
@@ -61,7 +61,8 @@
 1. [原神 须弥](https://s.weibo.com/weibo?q=%E5%8E%9F%E7%A5%9E%20%E9%A1%BB%E5%BC%A5&Refer=top) 129383
 1. [十大长尾剧](https://s.weibo.com/weibo?q=%23%E5%8D%81%E5%A4%A7%E9%95%BF%E5%B0%BE%E5%89%A7%23&Refer=top) 117203
 1. [百天宝宝因病去世捐器官救其他小朋友](https://s.weibo.com/weibo?q=%23%E7%99%BE%E5%A4%A9%E5%AE%9D%E5%AE%9D%E5%9B%A0%E7%97%85%E5%8E%BB%E4%B8%96%E6%8D%90%E5%99%A8%E5%AE%98%E6%95%91%E5%85%B6%E4%BB%96%E5%B0%8F%E6%9C%8B%E5%8F%8B%23&Refer=top) 111602
-1. [没想到结个婚还挺废人](https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E7%BB%93%E4%B8%AA%E5%A9%9A%E8%BF%98%E6%8C%BA%E5%BA%9F%E4%BA%BA%23&Refer=top) 86542
+1. [没想到结个婚还挺废人](https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E7%BB%93%E4%B8%AA%E5%A9%9A%E8%BF%98%E6%8C%BA%E5%BA%9F%E4%BA%BA%23&Refer=top) 91008
+1. [杨幂说已经不是第一次把胡夏拉黑了](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E8%AF%B4%E5%B7%B2%E7%BB%8F%E4%B8%8D%E6%98%AF%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%8A%8A%E8%83%A1%E5%A4%8F%E6%8B%89%E9%BB%91%E4%BA%86%23&Refer=top) 76914
 1. [青海湖湟鱼跃起洄游](https://s.weibo.com/weibo?q=%23%E9%9D%92%E6%B5%B7%E6%B9%96%E6%B9%9F%E9%B1%BC%E8%B7%83%E8%B5%B7%E6%B4%84%E6%B8%B8%23&Refer=top) 53930
 <!-- END -->
 
