@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-07-03 00:50:22.256380 
+最后更新时间 2022-07-03 01:11:57.968741 
 1. [钟薛高31度室温下放1小时不化](https://s.weibo.com/weibo?q=%23%E9%92%9F%E8%96%9B%E9%AB%9831%E5%BA%A6%E5%AE%A4%E6%B8%A9%E4%B8%8B%E6%94%BE1%E5%B0%8F%E6%97%B6%E4%B8%8D%E5%8C%96%23&Refer=top) 2139847
 1. [父亲制止孩子哭闹掌掴孩子致死被判刑](https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E5%88%B6%E6%AD%A2%E5%AD%A9%E5%AD%90%E5%93%AD%E9%97%B9%E6%8E%8C%E6%8E%B4%E5%AD%A9%E5%AD%90%E8%87%B4%E6%AD%BB%E8%A2%AB%E5%88%A4%E5%88%91%23&Refer=top) 2091044
 1. [钟薛高回应雪糕长时间不融化](https://s.weibo.com/weibo?q=%23%E9%92%9F%E8%96%9B%E9%AB%98%E5%9B%9E%E5%BA%94%E9%9B%AA%E7%B3%95%E9%95%BF%E6%97%B6%E9%97%B4%E4%B8%8D%E8%9E%8D%E5%8C%96%23&Refer=top) 1611172
@@ -61,7 +61,8 @@
 1. [原神 须弥](https://s.weibo.com/weibo?q=%E5%8E%9F%E7%A5%9E%20%E9%A1%BB%E5%BC%A5&Refer=top) 129383
 1. [十大长尾剧](https://s.weibo.com/weibo?q=%23%E5%8D%81%E5%A4%A7%E9%95%BF%E5%B0%BE%E5%89%A7%23&Refer=top) 117203
 1. [百天宝宝因病去世捐器官救其他小朋友](https://s.weibo.com/weibo?q=%23%E7%99%BE%E5%A4%A9%E5%AE%9D%E5%AE%9D%E5%9B%A0%E7%97%85%E5%8E%BB%E4%B8%96%E6%8D%90%E5%99%A8%E5%AE%98%E6%95%91%E5%85%B6%E4%BB%96%E5%B0%8F%E6%9C%8B%E5%8F%8B%23&Refer=top) 111602
-1. [没想到结个婚还挺废人](https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E7%BB%93%E4%B8%AA%E5%A9%9A%E8%BF%98%E6%8C%BA%E5%BA%9F%E4%BA%BA%23&Refer=top) 68281
+1. [没想到结个婚还挺废人](https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E7%BB%93%E4%B8%AA%E5%A9%9A%E8%BF%98%E6%8C%BA%E5%BA%9F%E4%BA%BA%23&Refer=top) 86542
+1. [青海湖湟鱼跃起洄游](https://s.weibo.com/weibo?q=%23%E9%9D%92%E6%B5%B7%E6%B9%96%E6%B9%9F%E9%B1%BC%E8%B7%83%E8%B5%B7%E6%B4%84%E6%B8%B8%23&Refer=top) 53930
 <!-- END -->
 
 历史归档 [./archives](./archives)
