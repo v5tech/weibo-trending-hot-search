@@ -31,6 +31,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%B1%86%E8%85%90%E5%B9%B2%E5%86%85%E5%90%83%E5%87%BA%E6%89%8B%E5%A5%97%E9%81%AD%E5%8E%82%E5%AE%B6%E8%B4%A8%E7%96%91%23&Refer=top",
     "hot": 889595
   },
+  "原来Angelababy一件衣服穿5年": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5Angelababy%E4%B8%80%E4%BB%B6%E8%A1%A3%E6%9C%8D%E7%A9%BF5%E5%B9%B4%23&Refer=top",
+    "hot": 859168
+  },
   "蔡健雅四封歌后": {
     "url": "https://s.weibo.com/weibo?q=%E8%94%A1%E5%81%A5%E9%9B%85%E5%9B%9B%E5%B0%81%E6%AD%8C%E5%90%8E&Refer=top",
     "hot": 849703
@@ -82,10 +86,6 @@
   "汕头新增8例核酸阳性": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%B1%95%E5%A4%B4%E6%96%B0%E5%A2%9E8%E4%BE%8B%E6%A0%B8%E9%85%B8%E9%98%B3%E6%80%A7%23&Refer=top",
     "hot": 321880
-  },
-  "原来Angelababy一件衣服穿5年": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5Angelababy%E4%B8%80%E4%BB%B6%E8%A1%A3%E6%9C%8D%E7%A9%BF5%E5%B9%B4%23&Refer=top",
-    "hot": 307570
   },
   "中国台北球员锁脖中国球员毫无歉意": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%8F%B0%E5%8C%97%E7%90%83%E5%91%98%E9%94%81%E8%84%96%E4%B8%AD%E5%9B%BD%E7%90%83%E5%91%98%E6%AF%AB%E6%97%A0%E6%AD%89%E6%84%8F%23&Refer=top",
@@ -226,5 +226,9 @@
   "青海湖湟鱼跃起洄游": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%9D%92%E6%B5%B7%E6%B9%96%E6%B9%9F%E9%B1%BC%E8%B7%83%E8%B5%B7%E6%B4%84%E6%B8%B8%23&Refer=top",
     "hot": 53930
+  },
+  "2022国际泳联世锦赛": {
+    "url": "https://s.weibo.com/weibo?q=%232022%E5%9B%BD%E9%99%85%E6%B3%B3%E8%81%94%E4%B8%96%E9%94%A6%E8%B5%9B%23&Refer=top",
+    "hot": 21838
   }
 }
