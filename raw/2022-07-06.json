@@ -159,6 +159,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%8F%AA%E6%9C%89%E5%9C%A8%E9%87%8D%E5%BA%86%E6%89%8D%E6%95%A2%E8%B5%B0%E7%9A%84%E8%B7%AF%23&Refer=top",
     "hot": 179769
   },
+  "疫情溢入是北京当前面临的最大风险": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%96%AB%E6%83%85%E6%BA%A2%E5%85%A5%E6%98%AF%E5%8C%97%E4%BA%AC%E5%BD%93%E5%89%8D%E9%9D%A2%E4%B8%B4%E7%9A%84%E6%9C%80%E5%A4%A7%E9%A3%8E%E9%99%A9%23&Refer=top",
+    "hot": 163454
+  },
   "公安部要求快准狠打击侵害妇女儿童等犯罪": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%AE%89%E9%83%A8%E8%A6%81%E6%B1%82%E5%BF%AB%E5%87%86%E7%8B%A0%E6%89%93%E5%87%BB%E4%BE%B5%E5%AE%B3%E5%A6%87%E5%A5%B3%E5%84%BF%E7%AB%A5%E7%AD%89%E7%8A%AF%E7%BD%AA%23&Refer=top",
     "hot": 158118
@@ -215,10 +219,6 @@
     "url": "https://s.weibo.com/weibo?q=%23%E8%A7%81%E5%A6%BB%E5%AD%90%E8%A2%AB%E5%86%B2%E8%B5%B0%E6%97%B1%E9%B8%AD%E5%AD%90%E4%B8%88%E5%A4%AB%E6%89%91%E8%BF%9B%E6%80%A5%E6%B5%81%23&Refer=top",
     "hot": 87270
   },
-  "疫情溢入是北京当前面临的最大风险": {
-    "url": "https://s.weibo.com/weibo?q=%23%E7%96%AB%E6%83%85%E6%BA%A2%E5%85%A5%E6%98%AF%E5%8C%97%E4%BA%AC%E5%BD%93%E5%89%8D%E9%9D%A2%E4%B8%B4%E7%9A%84%E6%9C%80%E5%A4%A7%E9%A3%8E%E9%99%A9%23&Refer=top",
-    "hot": 57228
-  },
   "看完阿黛尔演唱会后": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%9C%8B%E5%AE%8C%E9%98%BF%E9%BB%9B%E5%B0%94%E6%BC%94%E5%94%B1%E4%BC%9A%E5%90%8E%23&Refer=top",
     "hot": 56126
@@ -230,5 +230,9 @@
   "把四川话说成了英语": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%8A%8A%E5%9B%9B%E5%B7%9D%E8%AF%9D%E8%AF%B4%E6%88%90%E4%BA%86%E8%8B%B1%E8%AF%AD%23&Refer=top",
     "hot": 15313
+  },
+  "厦门暴雨": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8E%A6%E9%97%A8%E6%9A%B4%E9%9B%A8%23&Refer=top",
+    "hot": 8832
   }
 }
