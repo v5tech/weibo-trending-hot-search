@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-07-07 03:34:45.240008 
+最后更新时间 2022-07-07 03:48:57.458450 
 1. [真的不建议痛经去坐石墩](https://s.weibo.com/weibo?q=%23%E7%9C%9F%E7%9A%84%E4%B8%8D%E5%BB%BA%E8%AE%AE%E7%97%9B%E7%BB%8F%E5%8E%BB%E5%9D%90%E7%9F%B3%E5%A2%A9%23&Refer=top) 2424653
 1. [余秀华直播中与丈夫激烈争吵](https://s.weibo.com/weibo?q=%23%E4%BD%99%E7%A7%80%E5%8D%8E%E7%9B%B4%E6%92%AD%E4%B8%AD%E4%B8%8E%E4%B8%88%E5%A4%AB%E6%BF%80%E7%83%88%E4%BA%89%E5%90%B5%23&Refer=top) 1962070
 1. [神十四在轨进度已达六分之一](https://s.weibo.com/weibo?q=%23%E7%A5%9E%E5%8D%81%E5%9B%9B%E5%9C%A8%E8%BD%A8%E8%BF%9B%E5%BA%A6%E5%B7%B2%E8%BE%BE%E5%85%AD%E5%88%86%E4%B9%8B%E4%B8%80%23&Refer=top) 1186087
@@ -69,6 +69,7 @@
 1. [景区饭店5元餐具费被指价格过高](https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%8C%BA%E9%A5%AD%E5%BA%975%E5%85%83%E9%A4%90%E5%85%B7%E8%B4%B9%E8%A2%AB%E6%8C%87%E4%BB%B7%E6%A0%BC%E8%BF%87%E9%AB%98%23&Refer=top) 88729
 1. [周杰伦最伟大的作品MV](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%9C%80%E4%BC%9F%E5%A4%A7%E7%9A%84%E4%BD%9C%E5%93%81MV%23&Refer=top) 75242
 1. [余秀华](https://s.weibo.com/weibo?q=%E4%BD%99%E7%A7%80%E5%8D%8E&Refer=top) 46393
+1. [周杰伦同款相机身价翻倍](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%90%8C%E6%AC%BE%E7%9B%B8%E6%9C%BA%E8%BA%AB%E4%BB%B7%E7%BF%BB%E5%80%8D%23&Refer=top) 43795
 1. [张彬彬吴倩三分野杀青路透](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%BD%AC%E5%BD%AC%E5%90%B4%E5%80%A9%E4%B8%89%E5%88%86%E9%87%8E%E6%9D%80%E9%9D%92%E8%B7%AF%E9%80%8F%23&Refer=top) 40405
 1. [周杰伦郎朗弹钢琴](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E9%83%8E%E6%9C%97%E5%BC%B9%E9%92%A2%E7%90%B4%23&Refer=top) 31796
 1. [郭采洁把乘风破浪当马拉松了吧](https://s.weibo.com/weibo?q=%23%E9%83%AD%E9%87%87%E6%B4%81%E6%8A%8A%E4%B9%98%E9%A3%8E%E7%A0%B4%E6%B5%AA%E5%BD%93%E9%A9%AC%E6%8B%89%E6%9D%BE%E4%BA%86%E5%90%A7%23&Refer=top) 19999
