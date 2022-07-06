@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-07-07 01:24:03.238406 
+最后更新时间 2022-07-07 01:42:34.351586 
 1. [真的不建议痛经去坐石墩](https://s.weibo.com/weibo?q=%23%E7%9C%9F%E7%9A%84%E4%B8%8D%E5%BB%BA%E8%AE%AE%E7%97%9B%E7%BB%8F%E5%8E%BB%E5%9D%90%E7%9F%B3%E5%A2%A9%23&Refer=top) 2424653
 1. [余秀华直播中与丈夫激烈争吵](https://s.weibo.com/weibo?q=%23%E4%BD%99%E7%A7%80%E5%8D%8E%E7%9B%B4%E6%92%AD%E4%B8%AD%E4%B8%8E%E4%B8%88%E5%A4%AB%E6%BF%80%E7%83%88%E4%BA%89%E5%90%B5%23&Refer=top) 1962070
 1. [神十四在轨进度已达六分之一](https://s.weibo.com/weibo?q=%23%E7%A5%9E%E5%8D%81%E5%9B%9B%E5%9C%A8%E8%BD%A8%E8%BF%9B%E5%BA%A6%E5%B7%B2%E8%BE%BE%E5%85%AD%E5%88%86%E4%B9%8B%E4%B8%80%23&Refer=top) 1186087
@@ -63,9 +63,9 @@
 1. [七七事变85年](https://s.weibo.com/weibo?q=%23%E4%B8%83%E4%B8%83%E4%BA%8B%E5%8F%9885%E5%B9%B4%23&Refer=top) 106169
 1. [陈延年唯一的3秒活动影像](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BB%B6%E5%B9%B4%E5%94%AF%E4%B8%80%E7%9A%843%E7%A7%92%E6%B4%BB%E5%8A%A8%E5%BD%B1%E5%83%8F%23&Refer=top) 104793
 1. [青岛疫情防控](https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%23&Refer=top) 104710
+1. [欧佩克秘书长去世](https://s.weibo.com/weibo?q=%23%E6%AC%A7%E4%BD%A9%E5%85%8B%E7%A7%98%E4%B9%A6%E9%95%BF%E5%8E%BB%E4%B8%96%23&Refer=top) 96638
 1. [地震局回应郑州新密3.1级地震](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%9C%87%E5%B1%80%E5%9B%9E%E5%BA%94%E9%83%91%E5%B7%9E%E6%96%B0%E5%AF%863.1%E7%BA%A7%E5%9C%B0%E9%9C%87%23&Refer=top) 88855
 1. [景区饭店5元餐具费被指价格过高](https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%8C%BA%E9%A5%AD%E5%BA%975%E5%85%83%E9%A4%90%E5%85%B7%E8%B4%B9%E8%A2%AB%E6%8C%87%E4%BB%B7%E6%A0%BC%E8%BF%87%E9%AB%98%23&Refer=top) 88729
-1. [欧佩克秘书长去世](https://s.weibo.com/weibo?q=%23%E6%AC%A7%E4%BD%A9%E5%85%8B%E7%A7%98%E4%B9%A6%E9%95%BF%E5%8E%BB%E4%B8%96%23&Refer=top) 81372
 <!-- END -->
 
 历史归档 [./archives](./archives)

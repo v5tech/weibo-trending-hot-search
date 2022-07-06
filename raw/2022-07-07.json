@@ -219,6 +219,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%23&Refer=top",
     "hot": 104710
   },
+  "欧佩克秘书长去世": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%AC%A7%E4%BD%A9%E5%85%8B%E7%A7%98%E4%B9%A6%E9%95%BF%E5%8E%BB%E4%B8%96%23&Refer=top",
+    "hot": 96638
+  },
   "地震局回应郑州新密3.1级地震": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%9C%87%E5%B1%80%E5%9B%9E%E5%BA%94%E9%83%91%E5%B7%9E%E6%96%B0%E5%AF%863.1%E7%BA%A7%E5%9C%B0%E9%9C%87%23&Refer=top",
     "hot": 88855
@@ -226,9 +230,5 @@
   "景区饭店5元餐具费被指价格过高": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%8C%BA%E9%A5%AD%E5%BA%975%E5%85%83%E9%A4%90%E5%85%B7%E8%B4%B9%E8%A2%AB%E6%8C%87%E4%BB%B7%E6%A0%BC%E8%BF%87%E9%AB%98%23&Refer=top",
     "hot": 88729
-  },
-  "欧佩克秘书长去世": {
-    "url": "https://s.weibo.com/weibo?q=%23%E6%AC%A7%E4%BD%A9%E5%85%8B%E7%A7%98%E4%B9%A6%E9%95%BF%E5%8E%BB%E4%B8%96%23&Refer=top",
-    "hot": 81372
   }
 }
