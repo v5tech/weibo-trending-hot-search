@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-07-07 01:51:27.664559 
+最后更新时间 2022-07-07 02:14:57.065982 
 1. [真的不建议痛经去坐石墩](https://s.weibo.com/weibo?q=%23%E7%9C%9F%E7%9A%84%E4%B8%8D%E5%BB%BA%E8%AE%AE%E7%97%9B%E7%BB%8F%E5%8E%BB%E5%9D%90%E7%9F%B3%E5%A2%A9%23&Refer=top) 2424653
 1. [余秀华直播中与丈夫激烈争吵](https://s.weibo.com/weibo?q=%23%E4%BD%99%E7%A7%80%E5%8D%8E%E7%9B%B4%E6%92%AD%E4%B8%AD%E4%B8%8E%E4%B8%88%E5%A4%AB%E6%BF%80%E7%83%88%E4%BA%89%E5%90%B5%23&Refer=top) 1962070
 1. [神十四在轨进度已达六分之一](https://s.weibo.com/weibo?q=%23%E7%A5%9E%E5%8D%81%E5%9B%9B%E5%9C%A8%E8%BD%A8%E8%BF%9B%E5%BA%A6%E5%B7%B2%E8%BE%BE%E5%85%AD%E5%88%86%E4%B9%8B%E4%B8%80%23&Refer=top) 1186087
@@ -51,8 +51,8 @@
 1. [50只宠物鹦鹉被放生市民连夜救援](https://s.weibo.com/weibo?q=%2350%E5%8F%AA%E5%AE%A0%E7%89%A9%E9%B9%A6%E9%B9%89%E8%A2%AB%E6%94%BE%E7%94%9F%E5%B8%82%E6%B0%91%E8%BF%9E%E5%A4%9C%E6%95%91%E6%8F%B4%23&Refer=top) 186077
 1. [得到博士学位后明白的道理](https://s.weibo.com/weibo?q=%23%E5%BE%97%E5%88%B0%E5%8D%9A%E5%A3%AB%E5%AD%A6%E4%BD%8D%E5%90%8E%E6%98%8E%E7%99%BD%E7%9A%84%E9%81%93%E7%90%86%23&Refer=top) 166156
 1. [怦然2毕业舞会](https://s.weibo.com/weibo?q=%23%E6%80%A6%E7%84%B62%E6%AF%95%E4%B8%9A%E8%88%9E%E4%BC%9A%23&Refer=top) 162927
+1. [延长男性陪产假时间有必要吗](https://s.weibo.com/weibo?q=%23%E5%BB%B6%E9%95%BF%E7%94%B7%E6%80%A7%E9%99%AA%E4%BA%A7%E5%81%87%E6%97%B6%E9%97%B4%E6%9C%89%E5%BF%85%E8%A6%81%E5%90%97%23&Refer=top) 148311
 1. [周迅是我的脸替吧](https://s.weibo.com/weibo?q=%23%E5%91%A8%E8%BF%85%E6%98%AF%E6%88%91%E7%9A%84%E8%84%B8%E6%9B%BF%E5%90%A7%23&Refer=top) 146848
-1. [延长男性陪产假时间有必要吗](https://s.weibo.com/weibo?q=%23%E5%BB%B6%E9%95%BF%E7%94%B7%E6%80%A7%E9%99%AA%E4%BA%A7%E5%81%87%E6%97%B6%E9%97%B4%E6%9C%89%E5%BF%85%E8%A6%81%E5%90%97%23&Refer=top) 144177
 1. [北京地铁首次进河北](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%9C%B0%E9%93%81%E9%A6%96%E6%AC%A1%E8%BF%9B%E6%B2%B3%E5%8C%97%23&Refer=top) 141111
 1. [最伟大的作品钢琴前奏](https://s.weibo.com/weibo?q=%E6%9C%80%E4%BC%9F%E5%A4%A7%E7%9A%84%E4%BD%9C%E5%93%81%E9%92%A2%E7%90%B4%E5%89%8D%E5%A5%8F&Refer=top) 140712
 1. [于正 颖宝一出谁与争锋](https://s.weibo.com/weibo?q=%E4%BA%8E%E6%AD%A3%20%E9%A2%96%E5%AE%9D%E4%B8%80%E5%87%BA%E8%B0%81%E4%B8%8E%E4%BA%89%E9%94%8B&Refer=top) 138722
@@ -66,6 +66,7 @@
 1. [欧佩克秘书长去世](https://s.weibo.com/weibo?q=%23%E6%AC%A7%E4%BD%A9%E5%85%8B%E7%A7%98%E4%B9%A6%E9%95%BF%E5%8E%BB%E4%B8%96%23&Refer=top) 96638
 1. [地震局回应郑州新密3.1级地震](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%9C%87%E5%B1%80%E5%9B%9E%E5%BA%94%E9%83%91%E5%B7%9E%E6%96%B0%E5%AF%863.1%E7%BA%A7%E5%9C%B0%E9%9C%87%23&Refer=top) 88855
 1. [景区饭店5元餐具费被指价格过高](https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%8C%BA%E9%A5%AD%E5%BA%975%E5%85%83%E9%A4%90%E5%85%B7%E8%B4%B9%E8%A2%AB%E6%8C%87%E4%BB%B7%E6%A0%BC%E8%BF%87%E9%AB%98%23&Refer=top) 88729
+1. [余秀华](https://s.weibo.com/weibo?q=%E4%BD%99%E7%A7%80%E5%8D%8E&Refer=top) 46393
 <!-- END -->
 
 历史归档 [./archives](./archives)
