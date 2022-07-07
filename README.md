@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-07-08 02:15:53.052684 
+最后更新时间 2022-07-08 02:46:22.239869 
 1. [终于知道怎么群删好友了](https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E6%80%8E%E4%B9%88%E7%BE%A4%E5%88%A0%E5%A5%BD%E5%8F%8B%E4%BA%86%23&Refer=top) 1561008
 1. [行程卡查询结果调为7天](https://s.weibo.com/weibo?q=%23%E8%A1%8C%E7%A8%8B%E5%8D%A1%E6%9F%A5%E8%AF%A2%E7%BB%93%E6%9E%9C%E8%B0%83%E4%B8%BA7%E5%A4%A9%23&Refer=top) 1261683
 1. [谢谢高温下的坚守](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E8%B0%A2%E9%AB%98%E6%B8%A9%E4%B8%8B%E7%9A%84%E5%9D%9A%E5%AE%88%23&Refer=top) 1144783
@@ -51,12 +51,12 @@
 1. [哈根达斯被检出一类致癌物](https://s.weibo.com/weibo?q=%23%E5%93%88%E6%A0%B9%E8%BE%BE%E6%96%AF%E8%A2%AB%E6%A3%80%E5%87%BA%E4%B8%80%E7%B1%BB%E8%87%B4%E7%99%8C%E7%89%A9%23&Refer=top) 101497
 1. [这才是真正的痛经克星吧](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%89%8D%E6%98%AF%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%97%9B%E7%BB%8F%E5%85%8B%E6%98%9F%E5%90%A7%23&Refer=top) 101323
 1. [网传狐妖小红娘月红篇明天官宣](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E7%8B%90%E5%A6%96%E5%B0%8F%E7%BA%A2%E5%A8%98%E6%9C%88%E7%BA%A2%E7%AF%87%E6%98%8E%E5%A4%A9%E5%AE%98%E5%AE%A3%23&Refer=top) 101010
+1. [永远会被清醒发言戳到](https://s.weibo.com/weibo?q=%23%E6%B0%B8%E8%BF%9C%E4%BC%9A%E8%A2%AB%E6%B8%85%E9%86%92%E5%8F%91%E8%A8%80%E6%88%B3%E5%88%B0%23&Refer=top) 96929
 1. [人生大事导演回应影片成绩](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E7%94%9F%E5%A4%A7%E4%BA%8B%E5%AF%BC%E6%BC%94%E5%9B%9E%E5%BA%94%E5%BD%B1%E7%89%87%E6%88%90%E7%BB%A9%23&Refer=top) 96303
 1. [部分痛经者坐石墩或起反作用](https://s.weibo.com/weibo?q=%23%E9%83%A8%E5%88%86%E7%97%9B%E7%BB%8F%E8%80%85%E5%9D%90%E7%9F%B3%E5%A2%A9%E6%88%96%E8%B5%B7%E5%8F%8D%E4%BD%9C%E7%94%A8%23&Refer=top) 95821
 1. [成都热成全国第一](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E7%83%AD%E6%88%90%E5%85%A8%E5%9B%BD%E7%AC%AC%E4%B8%80%23&Refer=top) 95255
 1. [周琦晕倒](https://s.weibo.com/weibo?q=%E5%91%A8%E7%90%A6%E6%99%95%E5%80%92&Refer=top) 94531
 1. [何幸福当清洁工](https://s.weibo.com/weibo?q=%23%E4%BD%95%E5%B9%B8%E7%A6%8F%E5%BD%93%E6%B8%85%E6%B4%81%E5%B7%A5%23&Refer=top) 91755
-1. [永远会被清醒发言戳到](https://s.weibo.com/weibo?q=%23%E6%B0%B8%E8%BF%9C%E4%BC%9A%E8%A2%AB%E6%B8%85%E9%86%92%E5%8F%91%E8%A8%80%E6%88%B3%E5%88%B0%23&Refer=top) 71729
 1. [香港为学生设内地考察课](https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E4%B8%BA%E5%AD%A6%E7%94%9F%E8%AE%BE%E5%86%85%E5%9C%B0%E8%80%83%E5%AF%9F%E8%AF%BE%23&Refer=top) 66451
 1. [医生一路狂奔8分钟救回窒息婴儿](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E4%B8%80%E8%B7%AF%E7%8B%82%E5%A5%948%E5%88%86%E9%92%9F%E6%95%91%E5%9B%9E%E7%AA%92%E6%81%AF%E5%A9%B4%E5%84%BF%23&Refer=top) 57556
 1. [这首歌在唱我吧](https://s.weibo.com/weibo?q=%23%E8%BF%99%E9%A6%96%E6%AD%8C%E5%9C%A8%E5%94%B1%E6%88%91%E5%90%A7%23&Refer=top) 56473
