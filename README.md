@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-07-09 02:54:22.212395 
+最后更新时间 2022-07-09 03:24:30.709420 
 1. [安倍晋三遗体将于凌晨运往东京](https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%80%8D%E6%99%8B%E4%B8%89%E9%81%97%E4%BD%93%E5%B0%86%E4%BA%8E%E5%87%8C%E6%99%A8%E8%BF%90%E5%BE%80%E4%B8%9C%E4%BA%AC%23&Refer=top) 3587502
 1. [安倍遇袭最新画面曝光](https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%80%8D%E9%81%87%E8%A2%AD%E6%9C%80%E6%96%B0%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89%23&Refer=top) 2754514
 1. [专业选热门的还是热爱的](https://s.weibo.com/weibo?q=%23%E4%B8%93%E4%B8%9A%E9%80%89%E7%83%AD%E9%97%A8%E7%9A%84%E8%BF%98%E6%98%AF%E7%83%AD%E7%88%B1%E7%9A%84%23&Refer=top) 2029788
@@ -65,6 +65,7 @@
 1. [为妹妹报志愿的事难过了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E5%A6%B9%E5%A6%B9%E6%8A%A5%E5%BF%97%E6%84%BF%E7%9A%84%E4%BA%8B%E9%9A%BE%E8%BF%87%E4%BA%86%23&Refer=top) 99447
 1. [新英雄戈娅登场KPL](https://s.weibo.com/weibo?q=%23%E6%96%B0%E8%8B%B1%E9%9B%84%E6%88%88%E5%A8%85%E7%99%BB%E5%9C%BAKPL%23&Refer=top) 97149
 1. [安娜](https://s.weibo.com/weibo?q=%E5%AE%89%E5%A8%9C&Refer=top) 74114
+1. [全球网友都来给哥交作业啦](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E7%BD%91%E5%8F%8B%E9%83%BD%E6%9D%A5%E7%BB%99%E5%93%A5%E4%BA%A4%E4%BD%9C%E4%B8%9A%E5%95%A6%23&Refer=top) 45424
 <!-- END -->
 
 历史归档 [./archives](./archives)
