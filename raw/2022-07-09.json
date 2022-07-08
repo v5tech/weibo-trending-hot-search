@@ -107,6 +107,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E4%B8%BA%E5%AE%89%E5%80%8D%E9%81%87%E5%88%BA%E5%93%80%E6%82%BC%E4%B8%80%E5%A4%A9%23&Refer=top",
     "hot": 356375
   },
+  "科学家和演员是平等的": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%92%8C%E6%BC%94%E5%91%98%E6%98%AF%E5%B9%B3%E7%AD%89%E7%9A%84%23&Refer=top",
+    "hot": 355780
+  },
   "liyuu": {
     "url": "https://s.weibo.com/weibo?q=liyuu&Refer=top",
     "hot": 347456
@@ -149,7 +153,7 @@
   },
   "这天空是卡bug了吗": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%A4%A9%E7%A9%BA%E6%98%AF%E5%8D%A1bug%E4%BA%86%E5%90%97%23&Refer=top",
-    "hot": 248924
+    "hot": 253887
   },
   "安倍中枪将给日本带来什么影响": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%80%8D%E4%B8%AD%E6%9E%AA%E5%B0%86%E7%BB%99%E6%97%A5%E6%9C%AC%E5%B8%A6%E6%9D%A5%E4%BB%80%E4%B9%88%E5%BD%B1%E5%93%8D%23&Refer=top",
@@ -165,7 +169,7 @@
   },
   "赵丽颖说从今天起是事业福": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%AF%B4%E4%BB%8E%E4%BB%8A%E5%A4%A9%E8%B5%B7%E6%98%AF%E4%BA%8B%E4%B8%9A%E7%A6%8F%23&Refer=top",
-    "hot": 204298
+    "hot": 226307
   },
   "才知道拒绝白嫖这么爽": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%89%8D%E7%9F%A5%E9%81%93%E6%8B%92%E7%BB%9D%E7%99%BD%E5%AB%96%E8%BF%99%E4%B9%88%E7%88%BD%23&Refer=top",
@@ -197,7 +201,7 @@
   },
   "王一博影剧综哪个先来": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%BD%B1%E5%89%A7%E7%BB%BC%E5%93%AA%E4%B8%AA%E5%85%88%E6%9D%A5%23&Refer=top",
-    "hot": 103353
+    "hot": 125249
   },
   "Fly的花木兰": {
     "url": "https://s.weibo.com/weibo?q=%23Fly%E7%9A%84%E8%8A%B1%E6%9C%A8%E5%85%B0%23&Refer=top",
@@ -210,5 +214,9 @@
   "新英雄戈娅登场KPL": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E8%8B%B1%E9%9B%84%E6%88%88%E5%A8%85%E7%99%BB%E5%9C%BAKPL%23&Refer=top",
     "hot": 97149
+  },
+  "王嘉尔泰国发布会台下像开音乐节": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E6%B3%B0%E5%9B%BD%E5%8F%91%E5%B8%83%E4%BC%9A%E5%8F%B0%E4%B8%8B%E5%83%8F%E5%BC%80%E9%9F%B3%E4%B9%90%E8%8A%82%23&Refer=top",
+    "hot": 54169
   }
 }
