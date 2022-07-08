@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-07-09 01:38:24.164624 
+最后更新时间 2022-07-09 01:52:52.873714 
 1. [安倍晋三遗体将于凌晨运往东京](https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%80%8D%E6%99%8B%E4%B8%89%E9%81%97%E4%BD%93%E5%B0%86%E4%BA%8E%E5%87%8C%E6%99%A8%E8%BF%90%E5%BE%80%E4%B8%9C%E4%BA%AC%23&Refer=top) 3587502
 1. [安倍遇袭最新画面曝光](https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%80%8D%E9%81%87%E8%A2%AD%E6%9C%80%E6%96%B0%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89%23&Refer=top) 2754514
 1. [专业选热门的还是热爱的](https://s.weibo.com/weibo?q=%23%E4%B8%93%E4%B8%9A%E9%80%89%E7%83%AD%E9%97%A8%E7%9A%84%E8%BF%98%E6%98%AF%E7%83%AD%E7%88%B1%E7%9A%84%23&Refer=top) 2029788
@@ -48,6 +48,7 @@
 1. [嫌疑人枪支或为3D打印机制作](https://s.weibo.com/weibo?q=%23%E5%AB%8C%E7%96%91%E4%BA%BA%E6%9E%AA%E6%94%AF%E6%88%96%E4%B8%BA3D%E6%89%93%E5%8D%B0%E6%9C%BA%E5%88%B6%E4%BD%9C%23&Refer=top) 292342
 1. [这天空是卡bug了吗](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%A4%A9%E7%A9%BA%E6%98%AF%E5%8D%A1bug%E4%BA%86%E5%90%97%23&Refer=top) 253887
 1. [安倍中枪将给日本带来什么影响](https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%80%8D%E4%B8%AD%E6%9E%AA%E5%B0%86%E7%BB%99%E6%97%A5%E6%9C%AC%E5%B8%A6%E6%9D%A5%E4%BB%80%E4%B9%88%E5%BD%B1%E5%93%8D%23&Refer=top) 247540
+1. [王嘉尔泰国发布会台下像开音乐节](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E6%B3%B0%E5%9B%BD%E5%8F%91%E5%B8%83%E4%BC%9A%E5%8F%B0%E4%B8%8B%E5%83%8F%E5%BC%80%E9%9F%B3%E4%B9%90%E8%8A%82%23&Refer=top) 245920
 1. [母亲教我的择偶法则](https://s.weibo.com/weibo?q=%23%E6%AF%8D%E4%BA%B2%E6%95%99%E6%88%91%E7%9A%84%E6%8B%A9%E5%81%B6%E6%B3%95%E5%88%99%23&Refer=top) 241019
 1. [约翰逊用日语回应安倍遇刺](https://s.weibo.com/weibo?q=%23%E7%BA%A6%E7%BF%B0%E9%80%8A%E7%94%A8%E6%97%A5%E8%AF%AD%E5%9B%9E%E5%BA%94%E5%AE%89%E5%80%8D%E9%81%87%E5%88%BA%23&Refer=top) 239413
 1. [赵丽颖说从今天起是事业福](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%AF%B4%E4%BB%8E%E4%BB%8A%E5%A4%A9%E8%B5%B7%E6%98%AF%E4%BA%8B%E4%B8%9A%E7%A6%8F%23&Refer=top) 226307
@@ -57,12 +58,12 @@
 1. [安倍晋三妻子已抵达奈良](https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%80%8D%E6%99%8B%E4%B8%89%E5%A6%BB%E5%AD%90%E5%B7%B2%E6%8A%B5%E8%BE%BE%E5%A5%88%E8%89%AF%23&Refer=top) 173973
 1. [河南省考](https://s.weibo.com/weibo?q=%E6%B2%B3%E5%8D%97%E7%9C%81%E8%80%83&Refer=top) 170680
 1. [22岁辅警为救落水儿童不幸牺牲](https://s.weibo.com/weibo?q=%2322%E5%B2%81%E8%BE%85%E8%AD%A6%E4%B8%BA%E6%95%91%E8%90%BD%E6%B0%B4%E5%84%BF%E7%AB%A5%E4%B8%8D%E5%B9%B8%E7%89%BA%E7%89%B2%23&Refer=top) 165370
+1. [蔡徐坤我也是歌手收到这个通告](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E6%88%91%E4%B9%9F%E6%98%AF%E6%AD%8C%E6%89%8B%E6%94%B6%E5%88%B0%E8%BF%99%E4%B8%AA%E9%80%9A%E5%91%8A%23&Refer=top) 142889
 1. [戒不掉手机的原因找到了](https://s.weibo.com/weibo?q=%23%E6%88%92%E4%B8%8D%E6%8E%89%E6%89%8B%E6%9C%BA%E7%9A%84%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&Refer=top) 128420
 1. [王一博影剧综哪个先来](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%BD%B1%E5%89%A7%E7%BB%BC%E5%93%AA%E4%B8%AA%E5%85%88%E6%9D%A5%23&Refer=top) 125249
 1. [Fly的花木兰](https://s.weibo.com/weibo?q=%23Fly%E7%9A%84%E8%8A%B1%E6%9C%A8%E5%85%B0%23&Refer=top) 99577
 1. [为妹妹报志愿的事难过了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E5%A6%B9%E5%A6%B9%E6%8A%A5%E5%BF%97%E6%84%BF%E7%9A%84%E4%BA%8B%E9%9A%BE%E8%BF%87%E4%BA%86%23&Refer=top) 99447
 1. [新英雄戈娅登场KPL](https://s.weibo.com/weibo?q=%23%E6%96%B0%E8%8B%B1%E9%9B%84%E6%88%88%E5%A8%85%E7%99%BB%E5%9C%BAKPL%23&Refer=top) 97149
-1. [王嘉尔泰国发布会台下像开音乐节](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E6%B3%B0%E5%9B%BD%E5%8F%91%E5%B8%83%E4%BC%9A%E5%8F%B0%E4%B8%8B%E5%83%8F%E5%BC%80%E9%9F%B3%E4%B9%90%E8%8A%82%23&Refer=top) 54169
 <!-- END -->
 
 历史归档 [./archives](./archives)
