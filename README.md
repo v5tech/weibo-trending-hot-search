@@ -7,11 +7,12 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-07-10 02:14:09.156463 
+最后更新时间 2022-07-10 02:36:00.280182 
 1. [杨幂工作室回应受伤](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%9B%9E%E5%BA%94%E5%8F%97%E4%BC%A4&Refer=top) 9576287
 1. [嫌疑人刺杀安倍的弹药是哪里来的](https://s.weibo.com/weibo?q=%23%E5%AB%8C%E7%96%91%E4%BA%BA%E5%88%BA%E6%9D%80%E5%AE%89%E5%80%8D%E7%9A%84%E5%BC%B9%E8%8D%AF%E6%98%AF%E5%93%AA%E9%87%8C%E6%9D%A5%E7%9A%84%23&Refer=top) 2955386
 1. [150秒高效燃脂操](https://s.weibo.com/weibo?q=%23150%E7%A7%92%E9%AB%98%E6%95%88%E7%87%83%E8%84%82%E6%93%8D%23&Refer=top) 2228520
 1. [密室大逃脱节目组致歉](https://s.weibo.com/weibo?q=%E5%AF%86%E5%AE%A4%E5%A4%A7%E9%80%83%E8%84%B1%E8%8A%82%E7%9B%AE%E7%BB%84%E8%87%B4%E6%AD%89&Refer=top) 2184561
+1. [杨幂眼角缝合](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E7%9C%BC%E8%A7%92%E7%BC%9D%E5%90%88&Refer=top) 2157695
 1. [赵丽颖谈30岁一定要结婚](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%B0%8830%E5%B2%81%E4%B8%80%E5%AE%9A%E8%A6%81%E7%BB%93%E5%A9%9A%23&Refer=top) 2104357
 1. [张大大被打哭](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%A4%A7%E5%A4%A7%E8%A2%AB%E6%89%93%E5%93%AD&Refer=top) 1934379
 1. [张大大 他打我后脑勺](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%A4%A7%E5%A4%A7%20%E4%BB%96%E6%89%93%E6%88%91%E5%90%8E%E8%84%91%E5%8B%BA&Refer=top) 1711650
@@ -65,7 +66,7 @@
 1. [幼儿园搭百平水池供学生抓泥鳅](https://s.weibo.com/weibo?q=%23%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%90%AD%E7%99%BE%E5%B9%B3%E6%B0%B4%E6%B1%A0%E4%BE%9B%E5%AD%A6%E7%94%9F%E6%8A%93%E6%B3%A5%E9%B3%85%23&Refer=top) 110692
 1. [Bin 加油](https://s.weibo.com/weibo?q=Bin%20%E5%8A%A0%E6%B2%B9&Refer=top) 110274
 1. [宋祖儿开推网恋被骗](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E7%A5%96%E5%84%BF%E5%BC%80%E6%8E%A8%E7%BD%91%E6%81%8B%E8%A2%AB%E9%AA%97%23&Refer=top) 105871
-1. [喜欢一个人会变得多卑微](https://s.weibo.com/weibo?q=%23%E5%96%9C%E6%AC%A2%E4%B8%80%E4%B8%AA%E4%BA%BA%E4%BC%9A%E5%8F%98%E5%BE%97%E5%A4%9A%E5%8D%91%E5%BE%AE%23&Refer=top) 76713
+1. [喜欢一个人会变得多卑微](https://s.weibo.com/weibo?q=%23%E5%96%9C%E6%AC%A2%E4%B8%80%E4%B8%AA%E4%BA%BA%E4%BC%9A%E5%8F%98%E5%BE%97%E5%A4%9A%E5%8D%91%E5%BE%AE%23&Refer=top) 82075
 <!-- END -->
 
 历史归档 [./archives](./archives)
