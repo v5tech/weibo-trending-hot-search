@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-07-16 02:15:54.435862 
+最后更新时间 2022-07-16 02:45:46.719226 
 1. [迪奥 抄袭](https://s.weibo.com/weibo?q=%E8%BF%AA%E5%A5%A5%20%E6%8A%84%E8%A2%AD&Refer=top) 3422721
 1. [冒名顶替上大学毁了当事人一生](https://s.weibo.com/weibo?q=%23%E5%86%92%E5%90%8D%E9%A1%B6%E6%9B%BF%E4%B8%8A%E5%A4%A7%E5%AD%A6%E6%AF%81%E4%BA%86%E5%BD%93%E4%BA%8B%E4%BA%BA%E4%B8%80%E7%94%9F%23&Refer=top) 1010849
 1. [海南舰之大镜头里装不下](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%8D%97%E8%88%B0%E4%B9%8B%E5%A4%A7%E9%95%9C%E5%A4%B4%E9%87%8C%E8%A3%85%E4%B8%8D%E4%B8%8B%23&Refer=top) 925583
@@ -36,12 +36,13 @@
 1. [世界上第一口锅长什么样](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E4%B8%8A%E7%AC%AC%E4%B8%80%E5%8F%A3%E9%94%85%E9%95%BF%E4%BB%80%E4%B9%88%E6%A0%B7%23&Refer=top) 188541
 1. [北京WB](https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%ACWB&Refer=top) 171412
 1. [杨迪在非正感谢杨紫解围](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%BF%AA%E5%9C%A8%E9%9D%9E%E6%AD%A3%E6%84%9F%E8%B0%A2%E6%9D%A8%E7%B4%AB%E8%A7%A3%E5%9B%B4%23&Refer=top) 167680
+1. [幸福到万家破1](https://s.weibo.com/weibo?q=%E5%B9%B8%E7%A6%8F%E5%88%B0%E4%B8%87%E5%AE%B6%E7%A0%B41&Refer=top) 165388
 1. [新闻联播](https://s.weibo.com/weibo?q=%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD&Refer=top) 163760
 1. [未定事件簿 左然](https://s.weibo.com/weibo?q=%E6%9C%AA%E5%AE%9A%E4%BA%8B%E4%BB%B6%E7%B0%BF%20%E5%B7%A6%E7%84%B6&Refer=top) 160599
 1. [安徽怀远发现151例初筛阳性人员](https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%BE%BD%E6%80%80%E8%BF%9C%E5%8F%91%E7%8E%B0151%E4%BE%8B%E5%88%9D%E7%AD%9B%E9%98%B3%E6%80%A7%E4%BA%BA%E5%91%98%23&Refer=top) 151085
 1. [幻花](https://s.weibo.com/weibo?q=%E5%B9%BB%E8%8A%B1&Refer=top) 127991
+1. [山东建成北方最大冷热同供系统](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E5%BB%BA%E6%88%90%E5%8C%97%E6%96%B9%E6%9C%80%E5%A4%A7%E5%86%B7%E7%83%AD%E5%90%8C%E4%BE%9B%E7%B3%BB%E7%BB%9F%23&Refer=top) 119934
 1. [近百只瑶妹现身漫展](https://s.weibo.com/weibo?q=%23%E8%BF%91%E7%99%BE%E5%8F%AA%E7%91%B6%E5%A6%B9%E7%8E%B0%E8%BA%AB%E6%BC%AB%E5%B1%95%23&Refer=top) 116340
-1. [山东建成北方最大冷热同供系统](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E5%BB%BA%E6%88%90%E5%8C%97%E6%96%B9%E6%9C%80%E5%A4%A7%E5%86%B7%E7%83%AD%E5%90%8C%E4%BE%9B%E7%B3%BB%E7%BB%9F%23&Refer=top) 114486
 1. [被幸运庆志气死](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%B9%B8%E8%BF%90%E5%BA%86%E5%BF%97%E6%B0%94%E6%AD%BB%23&Refer=top) 113888
 1. [出差十五夜hybe团建](https://s.weibo.com/weibo?q=%23%E5%87%BA%E5%B7%AE%E5%8D%81%E4%BA%94%E5%A4%9Chybe%E5%9B%A2%E5%BB%BA%23&Refer=top) 113537
 1. [未定事件簿](https://s.weibo.com/weibo?q=%E6%9C%AA%E5%AE%9A%E4%BA%8B%E4%BB%B6%E7%B0%BF&Refer=top) 112457
@@ -55,10 +56,9 @@
 1. [WB晋级季后赛及世冠](https://s.weibo.com/weibo?q=%23WB%E6%99%8B%E7%BA%A7%E5%AD%A3%E5%90%8E%E8%B5%9B%E5%8F%8A%E4%B8%96%E5%86%A0%23&Refer=top) 75236
 1. [蔡徐坤的弹跳力](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E7%9A%84%E5%BC%B9%E8%B7%B3%E5%8A%9B%23&Refer=top) 74057
 1. [四川南充1热射病患者死亡](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%8D%97%E5%85%851%E7%83%AD%E5%B0%84%E7%97%85%E6%82%A3%E8%80%85%E6%AD%BB%E4%BA%A1%23&Refer=top) 71751
-1. [幸福到万家破1](https://s.weibo.com/weibo?q=%E5%B9%B8%E7%A6%8F%E5%88%B0%E4%B8%87%E5%AE%B6%E7%A0%B41&Refer=top) 68696
+1. [功勋犬被领养训导员哭成泪人](https://s.weibo.com/weibo?q=%23%E5%8A%9F%E5%8B%8B%E7%8A%AC%E8%A2%AB%E9%A2%86%E5%85%BB%E8%AE%AD%E5%AF%BC%E5%91%98%E5%93%AD%E6%88%90%E6%B3%AA%E4%BA%BA%23&Refer=top) 70105
 1. [少年派2](https://s.weibo.com/weibo?q=%23%E5%B0%91%E5%B9%B4%E6%B4%BE2%23&Refer=top) 67619
 1. [一不小心掉进了言情小说世界](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%8D%E5%B0%8F%E5%BF%83%E6%8E%89%E8%BF%9B%E4%BA%86%E8%A8%80%E6%83%85%E5%B0%8F%E8%AF%B4%E4%B8%96%E7%95%8C%23&Refer=top) 67592
-1. [功勋犬被领养训导员哭成泪人](https://s.weibo.com/weibo?q=%23%E5%8A%9F%E5%8B%8B%E7%8A%AC%E8%A2%AB%E9%A2%86%E5%85%BB%E8%AE%AD%E5%AF%BC%E5%91%98%E5%93%AD%E6%88%90%E6%B3%AA%E4%BA%BA%23&Refer=top) 66891
 1. [GALA金克丝五杀](https://s.weibo.com/weibo?q=%23GALA%E9%87%91%E5%85%8B%E4%B8%9D%E4%BA%94%E6%9D%80%23&Refer=top) 62234
 1. [马龙 解说](https://s.weibo.com/weibo?q=%E9%A9%AC%E9%BE%99%20%E8%A7%A3%E8%AF%B4&Refer=top) 59582
 1. [RNG对战LNG](https://s.weibo.com/weibo?q=%23RNG%E5%AF%B9%E6%88%98LNG%23&Refer=top) 45968
@@ -67,6 +67,7 @@
 1. [AG逆风翻盘](https://s.weibo.com/weibo?q=%23AG%E9%80%86%E9%A3%8E%E7%BF%BB%E7%9B%98%23&Refer=top) 33755
 1. [辅警江边拍婚纱照救起两人](https://s.weibo.com/weibo?q=%23%E8%BE%85%E8%AD%A6%E6%B1%9F%E8%BE%B9%E6%8B%8D%E5%A9%9A%E7%BA%B1%E7%85%A7%E6%95%91%E8%B5%B7%E4%B8%A4%E4%BA%BA%23&Refer=top) 32004
 1. [全国最大的奥特曼](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E6%9C%80%E5%A4%A7%E7%9A%84%E5%A5%A5%E7%89%B9%E6%9B%BC%23&Refer=top) 30390
+1. [丁程鑫的元气感染了刘敏涛](https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A8%8B%E9%91%AB%E7%9A%84%E5%85%83%E6%B0%94%E6%84%9F%E6%9F%93%E4%BA%86%E5%88%98%E6%95%8F%E6%B6%9B%23&Refer=top) 27481
 <!-- END -->
 
 历史归档 [./archives](./archives)
