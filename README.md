@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-07-17 04:50:59.915685 
+最后更新时间 2022-07-17 05:10:28.487652 
 1. [上海此次KTV疫情在沪密接2.3万人](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%AD%A4%E6%AC%A1KTV%E7%96%AB%E6%83%85%E5%9C%A8%E6%B2%AA%E5%AF%86%E6%8E%A52.3%E4%B8%87%E4%BA%BA%23&Refer=top) 3697148
 1. [工人收工路上因热射病去世](https://s.weibo.com/weibo?q=%23%E5%B7%A5%E4%BA%BA%E6%94%B6%E5%B7%A5%E8%B7%AF%E4%B8%8A%E5%9B%A0%E7%83%AD%E5%B0%84%E7%97%85%E5%8E%BB%E4%B8%96%23&Refer=top) 2192404
 1. [烈日下的劳动者辛苦了](https://s.weibo.com/weibo?q=%23%E7%83%88%E6%97%A5%E4%B8%8B%E7%9A%84%E5%8A%B3%E5%8A%A8%E8%80%85%E8%BE%9B%E8%8B%A6%E4%BA%86%23&Refer=top) 1740703
