@@ -123,6 +123,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%AD%A6%E8%BD%A6%E5%89%8D%E5%90%8E%E7%9A%84%E8%82%A4%E8%89%B2%E5%8F%98%E5%8C%96%23&Refer=top",
     "hot": 200328
   },
+  "luca": {
+    "url": "https://s.weibo.com/weibo?q=luca&Refer=top",
+    "hot": 199291
+  },
   "张嘉倪cos佟掌柜": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%98%89%E5%80%AAcos%E4%BD%9F%E6%8E%8C%E6%9F%9C%23&Refer=top",
     "hot": 193350
@@ -219,10 +223,6 @@
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E4%B9%92%E9%94%81%E5%AE%9A%E5%A5%B3%E5%8D%95%E5%86%A0%E5%86%9B%23&Refer=top",
     "hot": 90114
   },
-  "luca": {
-    "url": "https://s.weibo.com/weibo?q=luca&Refer=top",
-    "hot": 59395
-  },
   "王楚钦王曼昱3比2张本智和早田希娜": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E7%8E%8B%E6%9B%BC%E6%98%B13%E6%AF%942%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E6%97%A9%E7%94%B0%E5%B8%8C%E5%A8%9C%23&Refer=top",
     "hot": 58075
@@ -237,6 +237,6 @@
   },
   "马龙王楚钦无缘男双决赛": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%97%A0%E7%BC%98%E7%94%B7%E5%8F%8C%E5%86%B3%E8%B5%9B%23&Refer=top",
-    "hot": 14190
+    "hot": 14793
   }
 }
