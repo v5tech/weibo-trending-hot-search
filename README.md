@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-07-18 03:10:15.574994 
+最后更新时间 2022-07-18 03:24:04.493288 
 1. [新疆被全国游客挤爆了](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E8%A2%AB%E5%85%A8%E5%9B%BD%E6%B8%B8%E5%AE%A2%E6%8C%A4%E7%88%86%E4%BA%86%23&Refer=top) 3436973
 1. [2000多名游客滞留北海](https://s.weibo.com/weibo?q=%232000%E5%A4%9A%E5%90%8D%E6%B8%B8%E5%AE%A2%E6%BB%9E%E7%95%99%E5%8C%97%E6%B5%B7%23&Refer=top) 1549082
 1. [智齿](https://s.weibo.com/weibo?q=%E6%99%BA%E9%BD%BF&Refer=top) 1399031
