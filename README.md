@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-07-18 01:42:04.330492 
+最后更新时间 2022-07-18 01:50:17.919907 
 1. [新疆被全国游客挤爆了](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E8%A2%AB%E5%85%A8%E5%9B%BD%E6%B8%B8%E5%AE%A2%E6%8C%A4%E7%88%86%E4%BA%86%23&Refer=top) 3436973
 1. [2000多名游客滞留北海](https://s.weibo.com/weibo?q=%232000%E5%A4%9A%E5%90%8D%E6%B8%B8%E5%AE%A2%E6%BB%9E%E7%95%99%E5%8C%97%E6%B5%B7%23&Refer=top) 1549082
 1. [智齿](https://s.weibo.com/weibo?q=%E6%99%BA%E9%BD%BF&Refer=top) 1399031
@@ -37,9 +37,9 @@
 1. [WBG战胜V5](https://s.weibo.com/weibo?q=%23WBG%E6%88%98%E8%83%9CV5%23&Refer=top) 214724
 1. [蓝基因崩了](https://s.weibo.com/weibo?q=%E8%93%9D%E5%9F%BA%E5%9B%A0%E5%B4%A9%E4%BA%86&Refer=top) 188413
 1. [有被公主裙奶奶的心态治愈到](https://s.weibo.com/weibo?q=%23%E6%9C%89%E8%A2%AB%E5%85%AC%E4%B8%BB%E8%A3%99%E5%A5%B6%E5%A5%B6%E7%9A%84%E5%BF%83%E6%80%81%E6%B2%BB%E6%84%88%E5%88%B0%23&Refer=top) 175611
+1. [张大大从战至巅峰消失了](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%A4%A7%E5%A4%A7%E4%BB%8E%E6%88%98%E8%87%B3%E5%B7%85%E5%B3%B0%E6%B6%88%E5%A4%B1%E4%BA%86%23&Refer=top) 173992
 1. [王曼昱双冠](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%8F%8C%E5%86%A0%23&Refer=top) 170069
 1. [人生大事周末票房又逆跌了](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E7%94%9F%E5%A4%A7%E4%BA%8B%E5%91%A8%E6%9C%AB%E7%A5%A8%E6%88%BF%E5%8F%88%E9%80%86%E8%B7%8C%E4%BA%86%23&Refer=top) 163191
-1. [张大大从战至巅峰消失了](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%A4%A7%E5%A4%A7%E4%BB%8E%E6%88%98%E8%87%B3%E5%B7%85%E5%B3%B0%E6%B6%88%E5%A4%B1%E4%BA%86%23&Refer=top) 161901
 1. [成都新增](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E6%96%B0%E5%A2%9E%23&Refer=top) 157643
 1. [破事精英](https://s.weibo.com/weibo?q=%E7%A0%B4%E4%BA%8B%E7%B2%BE%E8%8B%B1&Refer=top) 157272
 1. [梅艳芳](https://s.weibo.com/weibo?q=%E6%A2%85%E8%89%B3%E8%8A%B3&Refer=top) 153388
