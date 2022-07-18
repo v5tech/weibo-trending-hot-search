@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-07-19 01:45:18.221460 
+最后更新时间 2022-07-19 01:53:49.000725 
 1. [阴阳怪气还得看驾校教练](https://s.weibo.com/weibo?q=%23%E9%98%B4%E9%98%B3%E6%80%AA%E6%B0%94%E8%BF%98%E5%BE%97%E7%9C%8B%E9%A9%BE%E6%A0%A1%E6%95%99%E7%BB%83%23&Refer=top) 2465504
 1. [高考生查分第2天脑出血进ICU](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E7%94%9F%E6%9F%A5%E5%88%86%E7%AC%AC2%E5%A4%A9%E8%84%91%E5%87%BA%E8%A1%80%E8%BF%9BICU%23&Refer=top) 1593595
 1. [长大后我和初中班主任成了同桌](https://s.weibo.com/weibo?q=%23%E9%95%BF%E5%A4%A7%E5%90%8E%E6%88%91%E5%92%8C%E5%88%9D%E4%B8%AD%E7%8F%AD%E4%B8%BB%E4%BB%BB%E6%88%90%E4%BA%86%E5%90%8C%E6%A1%8C%23&Refer=top) 1255058
@@ -56,11 +56,12 @@
 1. [成都本土疫情病例活动轨迹风险点位一览](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E6%9C%AC%E5%9C%9F%E7%96%AB%E6%83%85%E7%97%85%E4%BE%8B%E6%B4%BB%E5%8A%A8%E8%BD%A8%E8%BF%B9%E9%A3%8E%E9%99%A9%E7%82%B9%E4%BD%8D%E4%B8%80%E8%A7%88%23&Refer=top) 94969
 1. [奥比岛 装修](https://s.weibo.com/weibo?q=%E5%A5%A5%E6%AF%94%E5%B2%9B%20%E8%A3%85%E4%BF%AE&Refer=top) 91510
 1. [古代就有站岗小狗](https://s.weibo.com/weibo?q=%23%E5%8F%A4%E4%BB%A3%E5%B0%B1%E6%9C%89%E7%AB%99%E5%B2%97%E5%B0%8F%E7%8B%97%23&Refer=top) 90787
+1. [王庆来霸气为幸福讨公道](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%BA%86%E6%9D%A5%E9%9C%B8%E6%B0%94%E4%B8%BA%E5%B9%B8%E7%A6%8F%E8%AE%A8%E5%85%AC%E9%81%93%23&Refer=top) 88163
 1. [人类幼崽请你逛超市是什么体验](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E7%B1%BB%E5%B9%BC%E5%B4%BD%E8%AF%B7%E4%BD%A0%E9%80%9B%E8%B6%85%E5%B8%82%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23&Refer=top) 85063
 1. [胡明轩14分](https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%98%8E%E8%BD%A914%E5%88%86%23&Refer=top) 81575
 1. [张小泉总经理称中国人切菜方法不对](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%B3%89%E6%80%BB%E7%BB%8F%E7%90%86%E7%A7%B0%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%88%87%E8%8F%9C%E6%96%B9%E6%B3%95%E4%B8%8D%E5%AF%B9%23&Refer=top) 74489
 1. [中国男篮大胜印尼男篮](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E5%A4%A7%E8%83%9C%E5%8D%B0%E5%B0%BC%E7%94%B7%E7%AF%AE%23&Refer=top) 72871
-1. [王庆来霸气为幸福讨公道](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%BA%86%E6%9D%A5%E9%9C%B8%E6%B0%94%E4%B8%BA%E5%B9%B8%E7%A6%8F%E8%AE%A8%E5%85%AC%E9%81%93%23&Refer=top) 69165
+1. [人类移民为什么最先拿火星练手](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E7%B1%BB%E7%A7%BB%E6%B0%91%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%80%E5%85%88%E6%8B%BF%E7%81%AB%E6%98%9F%E7%BB%83%E6%89%8B%23&Refer=top) 50915
 <!-- END -->
 
 历史归档 [./archives](./archives)
