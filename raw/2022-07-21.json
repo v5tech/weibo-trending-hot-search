@@ -249,14 +249,26 @@
   },
   "有点眼红现在小孩的玩具": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%9C%89%E7%82%B9%E7%9C%BC%E7%BA%A2%E7%8E%B0%E5%9C%A8%E5%B0%8F%E5%AD%A9%E7%9A%84%E7%8E%A9%E5%85%B7%23&Refer=top",
-    "hot": 46680
+    "hot": 48966
   },
   "丹东一医院数月未发工资": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%B9%E4%B8%9C%E4%B8%80%E5%8C%BB%E9%99%A2%E6%95%B0%E6%9C%88%E6%9C%AA%E5%8F%91%E5%B7%A5%E8%B5%84%23&Refer=top",
-    "hot": 43481
+    "hot": 46975
+  },
+  "男子离异后拒绝让9岁儿子上学": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%A6%BB%E5%BC%82%E5%90%8E%E6%8B%92%E7%BB%9D%E8%AE%A99%E5%B2%81%E5%84%BF%E5%AD%90%E4%B8%8A%E5%AD%A6%23&Refer=top",
+    "hot": 37697
   },
   "伊甸园": {
     "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E7%94%B8%E5%9B%AD&Refer=top",
     "hot": 18456
+  },
+  "LCK": {
+    "url": "https://s.weibo.com/weibo?q=LCK&Refer=top",
+    "hot": 13293
+  },
+  "BLG对战RNG": {
+    "url": "https://s.weibo.com/weibo?q=%23BLG%E5%AF%B9%E6%88%98RNG%23&Refer=top",
+    "hot": 12907
   }
 }
