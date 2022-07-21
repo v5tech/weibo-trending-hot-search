@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-07-22 03:48:56.209834 
+最后更新时间 2022-07-22 04:14:30.236530 
 1. [长江白鲟被正式宣布灭绝](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B1%9F%E7%99%BD%E9%B2%9F%E8%A2%AB%E6%AD%A3%E5%BC%8F%E5%AE%A3%E5%B8%83%E7%81%AD%E7%BB%9D%23&Refer=top) 2652270
 1. [拜登新冠检测阳性](https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E6%96%B0%E5%86%A0%E6%A3%80%E6%B5%8B%E9%98%B3%E6%80%A7%23&Refer=top) 1802133
 1. [祝融号在火星过冬至](https://s.weibo.com/weibo?q=%23%E7%A5%9D%E8%9E%8D%E5%8F%B7%E5%9C%A8%E7%81%AB%E6%98%9F%E8%BF%87%E5%86%AC%E8%87%B3%23&Refer=top) 1545021
@@ -69,6 +69,8 @@
 1. [诺兰新片海报](https://s.weibo.com/weibo?q=%23%E8%AF%BA%E5%85%B0%E6%96%B0%E7%89%87%E6%B5%B7%E6%8A%A5%23&Refer=top) 96282
 1. [四川理县发生3.3级地震](https://s.weibo.com/weibo?q=%E5%9B%9B%E5%B7%9D%E7%90%86%E5%8E%BF%E5%8F%91%E7%94%9F3.3%E7%BA%A7%E5%9C%B0%E9%9C%87&Refer=top) 94415
 1. [缅甸5.9级地震](https://s.weibo.com/weibo?q=%E7%BC%85%E7%94%B85.9%E7%BA%A7%E5%9C%B0%E9%9C%87&Refer=top) 68741
+1. [成都目前所有病例均属同一传播链](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E7%9B%AE%E5%89%8D%E6%89%80%E6%9C%89%E7%97%85%E4%BE%8B%E5%9D%87%E5%B1%9E%E5%90%8C%E4%B8%80%E4%BC%A0%E6%92%AD%E9%93%BE%23&Refer=top) 34223
+1. [刘宇宁身上还能塞多少东西](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E8%BA%AB%E4%B8%8A%E8%BF%98%E8%83%BD%E5%A1%9E%E5%A4%9A%E5%B0%91%E4%B8%9C%E8%A5%BF%23&Refer=top) 18905
 <!-- END -->
 
 历史归档 [./archives](./archives)
