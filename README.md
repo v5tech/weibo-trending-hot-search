@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-07-23 02:17:01.388969 
+最后更新时间 2022-07-23 02:46:45.600111 
 1. [金靖道歉](https://s.weibo.com/weibo?q=%23%E9%87%91%E9%9D%96%E9%81%93%E6%AD%89%23&Refer=top) 3449352
 1. [微信崩了](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E5%B4%A9%E4%BA%86%23&Refer=top) 2531747
 1. [来自中国空间站的第一封回信](https://s.weibo.com/weibo?q=%23%E6%9D%A5%E8%87%AA%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E7%9A%84%E7%AC%AC%E4%B8%80%E5%B0%81%E5%9B%9E%E4%BF%A1%23&Refer=top) 1882929
@@ -63,6 +63,7 @@
 1. [王者荣耀](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80&Refer=top) 144158
 1. [南京回应玄奘寺供奉牌位有关情况](https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E5%9B%9E%E5%BA%94%E7%8E%84%E5%A5%98%E5%AF%BA%E4%BE%9B%E5%A5%89%E7%89%8C%E4%BD%8D%E6%9C%89%E5%85%B3%E6%83%85%E5%86%B5%23&Refer=top) 123538
 1. [今天星期五](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E6%98%9F%E6%9C%9F%E4%BA%94%23&Refer=top) 113143
+1. [以为等不到兄弟团的蔡徐坤好失落](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E4%B8%BA%E7%AD%89%E4%B8%8D%E5%88%B0%E5%85%84%E5%BC%9F%E5%9B%A2%E7%9A%84%E8%94%A1%E5%BE%90%E5%9D%A4%E5%A5%BD%E5%A4%B1%E8%90%BD%23&Refer=top) 111147
 1. [杨幂怎么也飞不出花花的世界](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E6%80%8E%E4%B9%88%E4%B9%9F%E9%A3%9E%E4%B8%8D%E5%87%BA%E8%8A%B1%E8%8A%B1%E7%9A%84%E4%B8%96%E7%95%8C%23&Refer=top) 77730
 1. [蔡徐坤节奏感好强](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E8%8A%82%E5%A5%8F%E6%84%9F%E5%A5%BD%E5%BC%BA%23&Refer=top) 49088
 <!-- END -->
