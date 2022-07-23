@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-07-24 02:53:39.338500 
+最后更新时间 2022-07-24 03:10:44.241251 
 1. [孩子发烧取化验单护士低头玩手机](https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E5%8F%91%E7%83%A7%E5%8F%96%E5%8C%96%E9%AA%8C%E5%8D%95%E6%8A%A4%E5%A3%AB%E4%BD%8E%E5%A4%B4%E7%8E%A9%E6%89%8B%E6%9C%BA%23&Refer=top) 2643044
 1. [胃就是这样被弄坏的](https://s.weibo.com/weibo?q=%23%E8%83%83%E5%B0%B1%E6%98%AF%E8%BF%99%E6%A0%B7%E8%A2%AB%E5%BC%84%E5%9D%8F%E7%9A%84%23&Refer=top) 1596696
 1. [长期超量进食易患老年痴呆](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E8%B6%85%E9%87%8F%E8%BF%9B%E9%A3%9F%E6%98%93%E6%82%A3%E8%80%81%E5%B9%B4%E7%97%B4%E5%91%86%23&Refer=top) 1355233
@@ -37,8 +37,8 @@
 1. [林妙妙分手了](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%A6%99%E5%A6%99%E5%88%86%E6%89%8B%E4%BA%86%23&Refer=top) 364484
 1. [最后一条白鲟从我的手中放走](https://s.weibo.com/weibo?q=%23%E6%9C%80%E5%90%8E%E4%B8%80%E6%9D%A1%E7%99%BD%E9%B2%9F%E4%BB%8E%E6%88%91%E7%9A%84%E6%89%8B%E4%B8%AD%E6%94%BE%E8%B5%B0%23&Refer=top) 342162
 1. [天津蓟州文旅局通报景区游客坠亡](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E8%93%9F%E5%B7%9E%E6%96%87%E6%97%85%E5%B1%80%E9%80%9A%E6%8A%A5%E6%99%AF%E5%8C%BA%E6%B8%B8%E5%AE%A2%E5%9D%A0%E4%BA%A1%23&Refer=top) 325715
+1. [杨紫说火锅凌晨吃不长胖](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E8%AF%B4%E7%81%AB%E9%94%85%E5%87%8C%E6%99%A8%E5%90%83%E4%B8%8D%E9%95%BF%E8%83%96%23&Refer=top) 306175
 1. [男子一口闷冰镇红茶后狂吐1000ml血](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%80%E5%8F%A3%E9%97%B7%E5%86%B0%E9%95%87%E7%BA%A2%E8%8C%B6%E5%90%8E%E7%8B%82%E5%90%901000ml%E8%A1%80%23&Refer=top) 282026
-1. [杨紫说火锅凌晨吃不长胖](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E8%AF%B4%E7%81%AB%E9%94%85%E5%87%8C%E6%99%A8%E5%90%83%E4%B8%8D%E9%95%BF%E8%83%96%23&Refer=top) 252702
 1. [和相亲过最真诚的男生在一起了](https://s.weibo.com/weibo?q=%23%E5%92%8C%E7%9B%B8%E4%BA%B2%E8%BF%87%E6%9C%80%E7%9C%9F%E8%AF%9A%E7%9A%84%E7%94%B7%E7%94%9F%E5%9C%A8%E4%B8%80%E8%B5%B7%E4%BA%86%23&Refer=top) 251977
 1. [你们见过汗血宝马游泳吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%BB%AC%E8%A7%81%E8%BF%87%E6%B1%97%E8%A1%80%E5%AE%9D%E9%A9%AC%E6%B8%B8%E6%B3%B3%E5%90%97%23&Refer=top) 246567
 1. [京藏高速一路怒男子被拘](https://s.weibo.com/weibo?q=%23%E4%BA%AC%E8%97%8F%E9%AB%98%E9%80%9F%E4%B8%80%E8%B7%AF%E6%80%92%E7%94%B7%E5%AD%90%E8%A2%AB%E6%8B%98%23&Refer=top) 239910
