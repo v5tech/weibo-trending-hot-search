@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-07-27 03:25:04.455576 
+最后更新时间 2022-07-27 03:34:47.080182 
 1. [乐山一民警持枪击伤两人后驾车逃匿](https://s.weibo.com/weibo?q=%23%E4%B9%90%E5%B1%B1%E4%B8%80%E6%B0%91%E8%AD%A6%E6%8C%81%E6%9E%AA%E5%87%BB%E4%BC%A4%E4%B8%A4%E4%BA%BA%E5%90%8E%E9%A9%BE%E8%BD%A6%E9%80%83%E5%8C%BF%23&Refer=top) 3846978
 1. [王力宏新冠确诊](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%8A%9B%E5%AE%8F%E6%96%B0%E5%86%A0%E7%A1%AE%E8%AF%8A%23&Refer=top) 2476575
 1. [二舅](https://s.weibo.com/weibo?q=%E4%BA%8C%E8%88%85&Refer=top) 2432647
@@ -56,15 +56,15 @@
 1. [武汉核酸](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89%E6%A0%B8%E9%85%B8%23&Refer=top) 151227
 1. [九尾的不知火舞](https://s.weibo.com/weibo?q=%23%E4%B9%9D%E5%B0%BE%E7%9A%84%E4%B8%8D%E7%9F%A5%E7%81%AB%E8%88%9E%23&Refer=top) 148560
 1. [男子从桥上将10多辆共享单车扔进河中](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%BB%8E%E6%A1%A5%E4%B8%8A%E5%B0%8610%E5%A4%9A%E8%BE%86%E5%85%B1%E4%BA%AB%E5%8D%95%E8%BD%A6%E6%89%94%E8%BF%9B%E6%B2%B3%E4%B8%AD%23&Refer=top) 136861
+1. [女子乘公交核酸过期拒下车](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B9%98%E5%85%AC%E4%BA%A4%E6%A0%B8%E9%85%B8%E8%BF%87%E6%9C%9F%E6%8B%92%E4%B8%8B%E8%BD%A6%23&Refer=top) 133089
+1. [应渊和沈眉庄的共同点](https://s.weibo.com/weibo?q=%23%E5%BA%94%E6%B8%8A%E5%92%8C%E6%B2%88%E7%9C%89%E5%BA%84%E7%9A%84%E5%85%B1%E5%90%8C%E7%82%B9%23&Refer=top) 127971
 1. [你可以更相信中国女足](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%8F%AF%E4%BB%A5%E6%9B%B4%E7%9B%B8%E4%BF%A1%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B3%23&Refer=top) 125063
 1. [说到做到的爱情真的好浪漫](https://s.weibo.com/weibo?q=%23%E8%AF%B4%E5%88%B0%E5%81%9A%E5%88%B0%E7%9A%84%E7%88%B1%E6%83%85%E7%9C%9F%E7%9A%84%E5%A5%BD%E6%B5%AA%E6%BC%AB%23&Refer=top) 124194
 1. [央媒热评阿里双重主要上市](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E5%AA%92%E7%83%AD%E8%AF%84%E9%98%BF%E9%87%8C%E5%8F%8C%E9%87%8D%E4%B8%BB%E8%A6%81%E4%B8%8A%E5%B8%82%23&Refer=top) 123929
 1. [颜淡走进夜忘川](https://s.weibo.com/weibo?q=%23%E9%A2%9C%E6%B7%A1%E8%B5%B0%E8%BF%9B%E5%A4%9C%E5%BF%98%E5%B7%9D%23&Refer=top) 123701
 1. [特斯拉将配免费卡拉ok程序](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E5%B0%86%E9%85%8D%E5%85%8D%E8%B4%B9%E5%8D%A1%E6%8B%89ok%E7%A8%8B%E5%BA%8F%23&Refer=top) 123118
 1. [赵立坚说请注意你的措辞](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E7%AB%8B%E5%9D%9A%E8%AF%B4%E8%AF%B7%E6%B3%A8%E6%84%8F%E4%BD%A0%E7%9A%84%E6%8E%AA%E8%BE%9E%23&Refer=top) 117443
-1. [女子乘公交核酸过期拒下车](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B9%98%E5%85%AC%E4%BA%A4%E6%A0%B8%E9%85%B8%E8%BF%87%E6%9C%9F%E6%8B%92%E4%B8%8B%E8%BD%A6%23&Refer=top) 116131
 1. [沉香如屑一集比一集虐](https://s.weibo.com/weibo?q=%23%E6%B2%89%E9%A6%99%E5%A6%82%E5%B1%91%E4%B8%80%E9%9B%86%E6%AF%94%E4%B8%80%E9%9B%86%E8%99%90%23&Refer=top) 111811
-1. [应渊和沈眉庄的共同点](https://s.weibo.com/weibo?q=%23%E5%BA%94%E6%B8%8A%E5%92%8C%E6%B2%88%E7%9C%89%E5%BA%84%E7%9A%84%E5%85%B1%E5%90%8C%E7%82%B9%23&Refer=top) 110179
 1. [校园贷危害有多大](https://s.weibo.com/weibo?q=%23%E6%A0%A1%E5%9B%AD%E8%B4%B7%E5%8D%B1%E5%AE%B3%E6%9C%89%E5%A4%9A%E5%A4%A7%23&Refer=top) 97014
 1. [杰威尔否认周杰伦团队违反防疫规定](https://s.weibo.com/weibo?q=%23%E6%9D%B0%E5%A8%81%E5%B0%94%E5%90%A6%E8%AE%A4%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%9B%A2%E9%98%9F%E8%BF%9D%E5%8F%8D%E9%98%B2%E7%96%AB%E8%A7%84%E5%AE%9A%23&Refer=top) 89326
 1. [黄磊一个人就是一个司机宇宙](https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%A3%8A%E4%B8%80%E4%B8%AA%E4%BA%BA%E5%B0%B1%E6%98%AF%E4%B8%80%E4%B8%AA%E5%8F%B8%E6%9C%BA%E5%AE%87%E5%AE%99%23&Refer=top) 87326
