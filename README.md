@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-07-31 01:49:51.121170 
+最后更新时间 2022-07-31 02:14:12.783335 
 1. [沈腾0票](https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE0%E7%A5%A8%23&Refer=top) 4017650
 1. [建议午睡不要超过半小时](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%8D%88%E7%9D%A1%E4%B8%8D%E8%A6%81%E8%B6%85%E8%BF%87%E5%8D%8A%E5%B0%8F%E6%97%B6%23&Refer=top) 2865024
 1. [贾玲 我终于可以拿着自己的奖杯去见你](https://s.weibo.com/weibo?q=%E8%B4%BE%E7%8E%B2%20%E6%88%91%E7%BB%88%E4%BA%8E%E5%8F%AF%E4%BB%A5%E6%8B%BF%E7%9D%80%E8%87%AA%E5%B7%B1%E7%9A%84%E5%A5%96%E6%9D%AF%E5%8E%BB%E8%A7%81%E4%BD%A0&Refer=top) 1403374
@@ -59,13 +59,17 @@
 1. [清融的弈星](https://s.weibo.com/weibo?q=%23%E6%B8%85%E8%9E%8D%E7%9A%84%E5%BC%88%E6%98%9F%23&Refer=top) 109610
 1. [海清0票](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E6%B8%850%E7%A5%A8%23&Refer=top) 109359
 1. [江西修水回应班主任要升学宴红包](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E4%BF%AE%E6%B0%B4%E5%9B%9E%E5%BA%94%E7%8F%AD%E4%B8%BB%E4%BB%BB%E8%A6%81%E5%8D%87%E5%AD%A6%E5%AE%B4%E7%BA%A2%E5%8C%85%23&Refer=top) 105240
+1. [范丞丞回应好会亲](https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E5%9B%9E%E5%BA%94%E5%A5%BD%E4%BC%9A%E4%BA%B2%23&Refer=top) 101368
+1. [9宫格和26键哪个更好用](https://s.weibo.com/weibo?q=%239%E5%AE%AB%E6%A0%BC%E5%92%8C26%E9%94%AE%E5%93%AA%E4%B8%AA%E6%9B%B4%E5%A5%BD%E7%94%A8%23&Refer=top) 99697
 1. [婆媳因空调闹矛盾丈夫竟要赶走妻子](https://s.weibo.com/weibo?q=%23%E5%A9%86%E5%AA%B3%E5%9B%A0%E7%A9%BA%E8%B0%83%E9%97%B9%E7%9F%9B%E7%9B%BE%E4%B8%88%E5%A4%AB%E7%AB%9F%E8%A6%81%E8%B5%B6%E8%B5%B0%E5%A6%BB%E5%AD%90%23&Refer=top) 98911
+1. [武大靖说焦虑代表不够努力](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A4%A7%E9%9D%96%E8%AF%B4%E7%84%A6%E8%99%91%E4%BB%A3%E8%A1%A8%E4%B8%8D%E5%A4%9F%E5%8A%AA%E5%8A%9B%23&Refer=top) 97966
 1. [GEN战胜T1](https://s.weibo.com/weibo?q=%23GEN%E6%88%98%E8%83%9CT1%23&Refer=top) 96866
 1. [福建厦门发现1例确诊](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E5%8E%A6%E9%97%A8%E5%8F%91%E7%8E%B01%E4%BE%8B%E7%A1%AE%E8%AF%8A%23&Refer=top) 95744
 1. [RNG战胜JDG](https://s.weibo.com/weibo?q=%23RNG%E6%88%98%E8%83%9CJDG%23&Refer=top) 95437
 1. [法老龚琳娜新歌](https://s.weibo.com/weibo?q=%E6%B3%95%E8%80%81%E9%BE%9A%E7%90%B3%E5%A8%9C%E6%96%B0%E6%AD%8C&Refer=top) 92807
 1. [9岁娃没写作业被爸爸骂背书包出走](https://s.weibo.com/weibo?q=%239%E5%B2%81%E5%A8%83%E6%B2%A1%E5%86%99%E4%BD%9C%E4%B8%9A%E8%A2%AB%E7%88%B8%E7%88%B8%E9%AA%82%E8%83%8C%E4%B9%A6%E5%8C%85%E5%87%BA%E8%B5%B0%23&Refer=top) 90297
 1. [TTG对战eStar](https://s.weibo.com/weibo?q=%23TTG%E5%AF%B9%E6%88%98eStar%23&Refer=top) 82081
+1. [百花奖最佳男主角票数](https://s.weibo.com/weibo?q=%23%E7%99%BE%E8%8A%B1%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B7%E4%B8%BB%E8%A7%92%E7%A5%A8%E6%95%B0%23&Refer=top) 58454
 1. [利物浦曼城红蓝大战](https://s.weibo.com/weibo?q=%23%E5%88%A9%E7%89%A9%E6%B5%A6%E6%9B%BC%E5%9F%8E%E7%BA%A2%E8%93%9D%E5%A4%A7%E6%88%98%23&Refer=top) 36162
 <!-- END -->
 
