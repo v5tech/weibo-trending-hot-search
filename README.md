@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-07-31 03:10:00.285320 
+最后更新时间 2022-07-31 03:23:47.232361 
 1. [沈腾0票](https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE0%E7%A5%A8%23&Refer=top) 4017650
 1. [建议午睡不要超过半小时](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%8D%88%E7%9D%A1%E4%B8%8D%E8%A6%81%E8%B6%85%E8%BF%87%E5%8D%8A%E5%B0%8F%E6%97%B6%23&Refer=top) 2865024
 1. [贾玲 我终于可以拿着自己的奖杯去见你](https://s.weibo.com/weibo?q=%E8%B4%BE%E7%8E%B2%20%E6%88%91%E7%BB%88%E4%BA%8E%E5%8F%AF%E4%BB%A5%E6%8B%BF%E7%9D%80%E8%87%AA%E5%B7%B1%E7%9A%84%E5%A5%96%E6%9D%AF%E5%8E%BB%E8%A7%81%E4%BD%A0&Refer=top) 1403374
@@ -73,6 +73,7 @@
 1. [百花奖最佳男主角票数](https://s.weibo.com/weibo?q=%23%E7%99%BE%E8%8A%B1%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B7%E4%B8%BB%E8%A7%92%E7%A5%A8%E6%95%B0%23&Refer=top) 58454
 1. [利物浦曼城红蓝大战](https://s.weibo.com/weibo?q=%23%E5%88%A9%E7%89%A9%E6%B5%A6%E6%9B%BC%E5%9F%8E%E7%BA%A2%E8%93%9D%E5%A4%A7%E6%88%98%23&Refer=top) 36162
 1. [伯远超越极限的少年首唱舞台](https://s.weibo.com/weibo?q=%23%E4%BC%AF%E8%BF%9C%E8%B6%85%E8%B6%8A%E6%9E%81%E9%99%90%E7%9A%84%E5%B0%91%E5%B9%B4%E9%A6%96%E5%94%B1%E8%88%9E%E5%8F%B0%23&Refer=top) 26378
+1. [檀健次是杨紫的专用翻译](https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E6%98%AF%E6%9D%A8%E7%B4%AB%E7%9A%84%E4%B8%93%E7%94%A8%E7%BF%BB%E8%AF%91%23&Refer=top) 25215
 <!-- END -->
 
 历史归档 [./archives](./archives)
