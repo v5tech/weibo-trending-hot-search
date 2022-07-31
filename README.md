@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-08-01 02:35:56.295166 
+最后更新时间 2022-08-01 02:51:55.287000 
 1. [二舅](https://s.weibo.com/weibo?q=%E4%BA%8C%E8%88%85&Refer=top) 3407657
 1. [警方认定网红用濒危大白鲨做美食](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E8%AE%A4%E5%AE%9A%E7%BD%91%E7%BA%A2%E7%94%A8%E6%BF%92%E5%8D%B1%E5%A4%A7%E7%99%BD%E9%B2%A8%E5%81%9A%E7%BE%8E%E9%A3%9F%23&Refer=top) 2251698
 1. [致敬人民子弟兵](https://s.weibo.com/weibo?q=%23%E8%87%B4%E6%95%AC%E4%BA%BA%E6%B0%91%E5%AD%90%E5%BC%9F%E5%85%B5%23&Refer=top) 1720673
@@ -41,6 +41,7 @@
 1. [美军里根号航母离开南海](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E9%87%8C%E6%A0%B9%E5%8F%B7%E8%88%AA%E6%AF%8D%E7%A6%BB%E5%BC%80%E5%8D%97%E6%B5%B7%23&Refer=top) 268577
 1. [佩洛西8月1日到访新加坡](https://s.weibo.com/weibo?q=%23%E4%BD%A9%E6%B4%9B%E8%A5%BF8%E6%9C%881%E6%97%A5%E5%88%B0%E8%AE%BF%E6%96%B0%E5%8A%A0%E5%9D%A1%23&Refer=top) 263548
 1. [法拉利 战术](https://s.weibo.com/weibo?q=%E6%B3%95%E6%8B%89%E5%88%A9%20%E6%88%98%E6%9C%AF&Refer=top) 252354
+1. [八一建军节](https://s.weibo.com/weibo?q=%23%E5%85%AB%E4%B8%80%E5%BB%BA%E5%86%9B%E8%8A%82%23&Refer=top) 242148
 1. [一家三代四口人完成遗体捐献](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%AE%B6%E4%B8%89%E4%BB%A3%E5%9B%9B%E5%8F%A3%E4%BA%BA%E5%AE%8C%E6%88%90%E9%81%97%E4%BD%93%E6%8D%90%E7%8C%AE%23&Refer=top) 237291
 1. [七月再见](https://s.weibo.com/weibo?q=%23%E4%B8%83%E6%9C%88%E5%86%8D%E8%A7%81%23&Refer=top) 224713
 1. [独行月球片尾11个字看破防了](https://s.weibo.com/weibo?q=%23%E7%8B%AC%E8%A1%8C%E6%9C%88%E7%90%83%E7%89%87%E5%B0%BE11%E4%B8%AA%E5%AD%97%E7%9C%8B%E7%A0%B4%E9%98%B2%E4%BA%86%23&Refer=top) 215755
