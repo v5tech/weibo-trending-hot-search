@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-08-01 01:50:11.411761 
+最后更新时间 2022-08-01 02:14:06.652531 
 1. [二舅](https://s.weibo.com/weibo?q=%E4%BA%8C%E8%88%85&Refer=top) 3407657
 1. [警方认定网红用濒危大白鲨做美食](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E8%AE%A4%E5%AE%9A%E7%BD%91%E7%BA%A2%E7%94%A8%E6%BF%92%E5%8D%B1%E5%A4%A7%E7%99%BD%E9%B2%A8%E5%81%9A%E7%BE%8E%E9%A3%9F%23&Refer=top) 2251698
 1. [致敬人民子弟兵](https://s.weibo.com/weibo?q=%23%E8%87%B4%E6%95%AC%E4%BA%BA%E6%B0%91%E5%AD%90%E5%BC%9F%E5%85%B5%23&Refer=top) 1720673
@@ -47,6 +47,7 @@
 1. [月升沧海](https://s.weibo.com/weibo?q=%23%E6%9C%88%E5%8D%87%E6%B2%A7%E6%B5%B7%23&Refer=top) 214173
 1. [张阳 面试](https://s.weibo.com/weibo?q=%E5%BC%A0%E9%98%B3%20%E9%9D%A2%E8%AF%95&Refer=top) 212427
 1. [近日曾到北京南站这些点位人员立即报备](https://s.weibo.com/weibo?q=%23%E8%BF%91%E6%97%A5%E6%9B%BE%E5%88%B0%E5%8C%97%E4%BA%AC%E5%8D%97%E7%AB%99%E8%BF%99%E4%BA%9B%E7%82%B9%E4%BD%8D%E4%BA%BA%E5%91%98%E7%AB%8B%E5%8D%B3%E6%8A%A5%E5%A4%87%23&Refer=top) 211258
+1. [谢谢你们守护安全感](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E8%B0%A2%E4%BD%A0%E4%BB%AC%E5%AE%88%E6%8A%A4%E5%AE%89%E5%85%A8%E6%84%9F%23&Refer=top) 211167
 1. [这个世界不能没有傻狗](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E4%B8%8D%E8%83%BD%E6%B2%A1%E6%9C%89%E5%82%BB%E7%8B%97%23&Refer=top) 211116
 1. [武大靖说会坚持到下一届冬奥会](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A4%A7%E9%9D%96%E8%AF%B4%E4%BC%9A%E5%9D%9A%E6%8C%81%E5%88%B0%E4%B8%8B%E4%B8%80%E5%B1%8A%E5%86%AC%E5%A5%A5%E4%BC%9A%23&Refer=top) 204105
 1. [一诺](https://s.weibo.com/weibo?q=%E4%B8%80%E8%AF%BA&Refer=top) 186172
@@ -60,10 +61,12 @@
 1. [点赞强军](https://s.weibo.com/weibo?q=%23%E7%82%B9%E8%B5%9E%E5%BC%BA%E5%86%9B%23&Refer=top) 113189
 1. [AG最大问题](https://s.weibo.com/weibo?q=%23AG%E6%9C%80%E5%A4%A7%E9%97%AE%E9%A2%98%23&Refer=top) 104809
 1. [这5种明星食物有平价替代](https://s.weibo.com/weibo?q=%23%E8%BF%995%E7%A7%8D%E6%98%8E%E6%98%9F%E9%A3%9F%E7%89%A9%E6%9C%89%E5%B9%B3%E4%BB%B7%E6%9B%BF%E4%BB%A3%23&Refer=top) 100336
+1. [林妙妙被尾随](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%A6%99%E5%A6%99%E8%A2%AB%E5%B0%BE%E9%9A%8F%23&Refer=top) 99046
 1. [美空军宣布F35机队暂停飞行](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E7%A9%BA%E5%86%9B%E5%AE%A3%E5%B8%83F35%E6%9C%BA%E9%98%9F%E6%9A%82%E5%81%9C%E9%A3%9E%E8%A1%8C%23&Refer=top) 87798
-1. [林妙妙被尾随](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%A6%99%E5%A6%99%E8%A2%AB%E5%B0%BE%E9%9A%8F%23&Refer=top) 85313
+1. [解放军建军95周年](https://s.weibo.com/weibo?q=%23%E8%A7%A3%E6%94%BE%E5%86%9B%E5%BB%BA%E5%86%9B95%E5%91%A8%E5%B9%B4%23&Refer=top) 74557
 1. [闪耀暖暖三周年](https://s.weibo.com/weibo?q=%E9%97%AA%E8%80%80%E6%9A%96%E6%9A%96%E4%B8%89%E5%91%A8%E5%B9%B4&Refer=top) 74467
 1. [F1匈牙利大奖赛](https://s.weibo.com/weibo?q=F1%E5%8C%88%E7%89%99%E5%88%A9%E5%A4%A7%E5%A5%96%E8%B5%9B&Refer=top) 51127
+1. [吴磊每一句情话都说进我心里](https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A3%8A%E6%AF%8F%E4%B8%80%E5%8F%A5%E6%83%85%E8%AF%9D%E9%83%BD%E8%AF%B4%E8%BF%9B%E6%88%91%E5%BF%83%E9%87%8C%23&Refer=top) 42376
 <!-- END -->
 
 历史归档 [./archives](./archives)
