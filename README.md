@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-08-02 06:33:52.423283 
+最后更新时间 2022-08-02 06:49:30.108105 
 1. [若佩洛西敢去台湾那我们拭目以待](https://s.weibo.com/weibo?q=%23%E8%8B%A5%E4%BD%A9%E6%B4%9B%E8%A5%BF%E6%95%A2%E5%8E%BB%E5%8F%B0%E6%B9%BE%E9%82%A3%E6%88%91%E4%BB%AC%E6%8B%AD%E7%9B%AE%E4%BB%A5%E5%BE%85%23&Refer=top) 11391774
 1. [东部战区](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%23&Refer=top) 5097343
 1. [谢谢人民子弟兵的守护](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E8%B0%A2%E4%BA%BA%E6%B0%91%E5%AD%90%E5%BC%9F%E5%85%B5%E7%9A%84%E5%AE%88%E6%8A%A4%23&Refer=top) 4832043
@@ -36,6 +36,7 @@
 1. [不要取奇奇怪怪的快递名](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%A6%81%E5%8F%96%E5%A5%87%E5%A5%87%E6%80%AA%E6%80%AA%E7%9A%84%E5%BF%AB%E9%80%92%E5%90%8D%23&Refer=top) 419357
 1. [李显龙告诉佩洛西中美关系稳定很重要](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%98%BE%E9%BE%99%E5%91%8A%E8%AF%89%E4%BD%A9%E6%B4%9B%E8%A5%BF%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB%E7%A8%B3%E5%AE%9A%E5%BE%88%E9%87%8D%E8%A6%81%23&Refer=top) 413155
 1. [周周在西非](https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%91%A8%E5%9C%A8%E8%A5%BF%E9%9D%9E%23&Refer=top) 399499
+1. [美方在台湾问题上不要搞双重标准](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%96%B9%E5%9C%A8%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%E4%B8%8A%E4%B8%8D%E8%A6%81%E6%90%9E%E5%8F%8C%E9%87%8D%E6%A0%87%E5%87%86%23&Refer=top) 372982
 1. [你会听ASMR入睡吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%BC%9A%E5%90%ACASMR%E5%85%A5%E7%9D%A1%E5%90%97%23&Refer=top) 364658
 1. [美媒称佩洛西将窜访台湾](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%AA%92%E7%A7%B0%E4%BD%A9%E6%B4%9B%E8%A5%BF%E5%B0%86%E7%AA%9C%E8%AE%BF%E5%8F%B0%E6%B9%BE%23&Refer=top) 340458
 1. [这牙齿可不兴长啊](https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%89%99%E9%BD%BF%E5%8F%AF%E4%B8%8D%E5%85%B4%E9%95%BF%E5%95%8A%23&Refer=top) 319208
@@ -48,16 +49,16 @@
 1. [背景太假小伙曾上过央视](https://s.weibo.com/weibo?q=%23%E8%83%8C%E6%99%AF%E5%A4%AA%E5%81%87%E5%B0%8F%E4%BC%99%E6%9B%BE%E4%B8%8A%E8%BF%87%E5%A4%AE%E8%A7%86%23&Refer=top) 239311
 1. [扬州大学回应教师游学倒欠7万](https://s.weibo.com/weibo?q=%23%E6%89%AC%E5%B7%9E%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E6%95%99%E5%B8%88%E6%B8%B8%E5%AD%A6%E5%80%92%E6%AC%A07%E4%B8%87%23&Refer=top) 200297
 1. [情侣需要保持高频聊天节奏吗](https://s.weibo.com/weibo?q=%23%E6%83%85%E4%BE%A3%E9%9C%80%E8%A6%81%E4%BF%9D%E6%8C%81%E9%AB%98%E9%A2%91%E8%81%8A%E5%A4%A9%E8%8A%82%E5%A5%8F%E5%90%97%23&Refer=top) 200010
+1. [你为什么没放弃母乳喂养](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%A1%E6%94%BE%E5%BC%83%E6%AF%8D%E4%B9%B3%E5%96%82%E5%85%BB%23&Refer=top) 197245
+1. [11岁男孩从早到晚帮爸爸看三个摊](https://s.weibo.com/weibo?q=%2311%E5%B2%81%E7%94%B7%E5%AD%A9%E4%BB%8E%E6%97%A9%E5%88%B0%E6%99%9A%E5%B8%AE%E7%88%B8%E7%88%B8%E7%9C%8B%E4%B8%89%E4%B8%AA%E6%91%8A%23&Refer=top) 196440
 1. [执法部门回应主播吃大白鲨暂未立案](https://s.weibo.com/weibo?q=%23%E6%89%A7%E6%B3%95%E9%83%A8%E9%97%A8%E5%9B%9E%E5%BA%94%E4%B8%BB%E6%92%AD%E5%90%83%E5%A4%A7%E7%99%BD%E9%B2%A8%E6%9A%82%E6%9C%AA%E7%AB%8B%E6%A1%88%23&Refer=top) 196361
-1. [你为什么没放弃母乳喂养](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%A1%E6%94%BE%E5%BC%83%E6%AF%8D%E4%B9%B3%E5%96%82%E5%85%BB%23&Refer=top) 187030
 1. [伊能静工作室回应](https://s.weibo.com/weibo?q=%23%E4%BC%8A%E8%83%BD%E9%9D%99%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%9B%9E%E5%BA%94%23&Refer=top) 185828
 1. [胡锡进](https://s.weibo.com/weibo?q=%E8%83%A1%E9%94%A1%E8%BF%9B&Refer=top) 183078
-1. [11岁男孩从早到晚帮爸爸看三个摊](https://s.weibo.com/weibo?q=%2311%E5%B2%81%E7%94%B7%E5%AD%A9%E4%BB%8E%E6%97%A9%E5%88%B0%E6%99%9A%E5%B8%AE%E7%88%B8%E7%88%B8%E7%9C%8B%E4%B8%89%E4%B8%AA%E6%91%8A%23&Refer=top) 180241
 1. [官方辟谣网红从京东购买大白鲨](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E7%BD%91%E7%BA%A2%E4%BB%8E%E4%BA%AC%E4%B8%9C%E8%B4%AD%E4%B9%B0%E5%A4%A7%E7%99%BD%E9%B2%A8%23&Refer=top) 180014
 1. [坐上鲲鹏去上学](https://s.weibo.com/weibo?q=%23%E5%9D%90%E4%B8%8A%E9%B2%B2%E9%B9%8F%E5%8E%BB%E4%B8%8A%E5%AD%A6%23&Refer=top) 179156
 1. [媳妇生孩子丈夫送不锈钢牌匾庆祝](https://s.weibo.com/weibo?q=%23%E5%AA%B3%E5%A6%87%E7%94%9F%E5%AD%A9%E5%AD%90%E4%B8%88%E5%A4%AB%E9%80%81%E4%B8%8D%E9%94%88%E9%92%A2%E7%89%8C%E5%8C%BE%E5%BA%86%E7%A5%9D%23&Refer=top) 177368
-1. [美方在台湾问题上不要搞双重标准](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%96%B9%E5%9C%A8%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%E4%B8%8A%E4%B8%8D%E8%A6%81%E6%90%9E%E5%8F%8C%E9%87%8D%E6%A0%87%E5%87%86%23&Refer=top) 167653
 1. [女子吃螺后呼吸衰竭病危](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%90%83%E8%9E%BA%E5%90%8E%E5%91%BC%E5%90%B8%E8%A1%B0%E7%AB%AD%E7%97%85%E5%8D%B1%23&Refer=top) 158997
+1. [沈小婷赢麻了](https://s.weibo.com/weibo?q=%23%E6%B2%88%E5%B0%8F%E5%A9%B7%E8%B5%A2%E9%BA%BB%E4%BA%86%23&Refer=top) 157409
 1. [柯基满身是血用眼神求助路人送医](https://s.weibo.com/weibo?q=%23%E6%9F%AF%E5%9F%BA%E6%BB%A1%E8%BA%AB%E6%98%AF%E8%A1%80%E7%94%A8%E7%9C%BC%E7%A5%9E%E6%B1%82%E5%8A%A9%E8%B7%AF%E4%BA%BA%E9%80%81%E5%8C%BB%23&Refer=top) 156881
 1. [裴之伤害自己](https://s.weibo.com/weibo?q=%23%E8%A3%B4%E4%B9%8B%E4%BC%A4%E5%AE%B3%E8%87%AA%E5%B7%B1%23&Refer=top) 142943
 1. [松本润确诊新冠](https://s.weibo.com/weibo?q=%23%E6%9D%BE%E6%9C%AC%E6%B6%A6%E7%A1%AE%E8%AF%8A%E6%96%B0%E5%86%A0%23&Refer=top) 141456
@@ -65,9 +66,8 @@
 1. [成毅演的应渊唐周反差感](https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E6%BC%94%E7%9A%84%E5%BA%94%E6%B8%8A%E5%94%90%E5%91%A8%E5%8F%8D%E5%B7%AE%E6%84%9F%23&Refer=top) 137899
 1. [假如琅琊榜玩狼人杀](https://s.weibo.com/weibo?q=%E5%81%87%E5%A6%82%E7%90%85%E7%90%8A%E6%A6%9C%E7%8E%A9%E7%8B%BC%E4%BA%BA%E6%9D%80&Refer=top) 134584
 1. [北京上海等地率先落实核酸结果互认](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E4%B8%8A%E6%B5%B7%E7%AD%89%E5%9C%B0%E7%8E%87%E5%85%88%E8%90%BD%E5%AE%9E%E6%A0%B8%E9%85%B8%E7%BB%93%E6%9E%9C%E4%BA%92%E8%AE%A4%23&Refer=top) 127145
-1. [沈小婷赢麻了](https://s.weibo.com/weibo?q=%23%E6%B2%88%E5%B0%8F%E5%A9%B7%E8%B5%A2%E9%BA%BB%E4%BA%86%23&Refer=top) 115166
+1. [章子怡周冬雨亮相first影展](https://s.weibo.com/weibo?q=%23%E7%AB%A0%E5%AD%90%E6%80%A1%E5%91%A8%E5%86%AC%E9%9B%A8%E4%BA%AE%E7%9B%B8first%E5%BD%B1%E5%B1%95%23&Refer=top) 107012
 1. [早见沙织确诊新冠](https://s.weibo.com/weibo?q=%23%E6%97%A9%E8%A7%81%E6%B2%99%E7%BB%87%E7%A1%AE%E8%AF%8A%E6%96%B0%E5%86%A0%23&Refer=top) 102233
-1. [章子怡周冬雨亮相first影展](https://s.weibo.com/weibo?q=%23%E7%AB%A0%E5%AD%90%E6%80%A1%E5%91%A8%E5%86%AC%E9%9B%A8%E4%BA%AE%E7%9B%B8first%E5%BD%B1%E5%B1%95%23&Refer=top) 74894
 1. [林妙妙钱三一隔空比心](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%A6%99%E5%A6%99%E9%92%B1%E4%B8%89%E4%B8%80%E9%9A%94%E7%A9%BA%E6%AF%94%E5%BF%83%23&Refer=top) 72162
 1. [胡军回应代言理财产品爆雷](https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%86%9B%E5%9B%9E%E5%BA%94%E4%BB%A3%E8%A8%80%E7%90%86%E8%B4%A2%E4%BA%A7%E5%93%81%E7%88%86%E9%9B%B7%23&Refer=top) 67083
 1. [俩狗狗打闹时看到镜头马上表情管理](https://s.weibo.com/weibo?q=%23%E4%BF%A9%E7%8B%97%E7%8B%97%E6%89%93%E9%97%B9%E6%97%B6%E7%9C%8B%E5%88%B0%E9%95%9C%E5%A4%B4%E9%A9%AC%E4%B8%8A%E8%A1%A8%E6%83%85%E7%AE%A1%E7%90%86%23&Refer=top) 49507
