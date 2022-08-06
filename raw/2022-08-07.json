@@ -183,6 +183,10 @@
     "url": "https://s.weibo.com/weibo?q=%23Hero%E6%99%8B%E7%BA%A7%E5%AD%A3%E5%90%8E%E8%B5%9B%E5%8F%8A%E4%B8%96%E5%86%A0%23&Refer=top",
     "hot": 187093
   },
+  "奥比岛手游被指强买强卖": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A5%A5%E6%AF%94%E5%B2%9B%E6%89%8B%E6%B8%B8%E8%A2%AB%E6%8C%87%E5%BC%BA%E4%B9%B0%E5%BC%BA%E5%8D%96%23&Refer=top",
+    "hot": 186209
+  },
   "鹿晗为邓紫棋宣传新歌": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E4%B8%BA%E9%82%93%E7%B4%AB%E6%A3%8B%E5%AE%A3%E4%BC%A0%E6%96%B0%E6%AD%8C%23&Refer=top",
     "hot": 170955
@@ -190,6 +194,10 @@
   "周深说我很怕孤单很怕黑": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E8%AF%B4%E6%88%91%E5%BE%88%E6%80%95%E5%AD%A4%E5%8D%95%E5%BE%88%E6%80%95%E9%BB%91%23&Refer=top",
     "hot": 166928
+  },
+  "钱三一想多了": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%92%B1%E4%B8%89%E4%B8%80%E6%83%B3%E5%A4%9A%E4%BA%86%23&Refer=top",
+    "hot": 152611
   },
   "央视新闻这段唢呐蔡英文听懂了吗": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%96%B0%E9%97%BB%E8%BF%99%E6%AE%B5%E5%94%A2%E5%91%90%E8%94%A1%E8%8B%B1%E6%96%87%E5%90%AC%E6%87%82%E4%BA%86%E5%90%97%23&Refer=top",
@@ -210,9 +218,5 @@
   "2022KPL夏季赛": {
     "url": "https://s.weibo.com/weibo?q=2022KPL%E5%A4%8F%E5%AD%A3%E8%B5%9B&Refer=top",
     "hot": 144254
-  },
-  "钱三一想多了": {
-    "url": "https://s.weibo.com/weibo?q=%23%E9%92%B1%E4%B8%89%E4%B8%80%E6%83%B3%E5%A4%9A%E4%BA%86%23&Refer=top",
-    "hot": 115077
   }
 }
