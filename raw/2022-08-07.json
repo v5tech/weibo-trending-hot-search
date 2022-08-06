@@ -43,6 +43,10 @@
     "url": "https://s.weibo.com/weibo?q=8%E4%B8%87%E6%B8%B8%E5%AE%A2%E6%BB%9E%E7%95%99%E4%B8%89%E4%BA%9A&Refer=top",
     "hot": 581180
   },
+  "奥比岛手游被指强买强卖": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A5%A5%E6%AF%94%E5%B2%9B%E6%89%8B%E6%B8%B8%E8%A2%AB%E6%8C%87%E5%BC%BA%E4%B9%B0%E5%BC%BA%E5%8D%96%23&Refer=top",
+    "hot": 575443
+  },
   "不用精子卵子子宫科学家培育出胚胎": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8D%E7%94%A8%E7%B2%BE%E5%AD%90%E5%8D%B5%E5%AD%90%E5%AD%90%E5%AE%AB%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%9F%B9%E8%82%B2%E5%87%BA%E8%83%9A%E8%83%8E%23&Refer=top",
     "hot": 558779
@@ -58,10 +62,6 @@
   "生腌为何突然爆火": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%94%9F%E8%85%8C%E4%B8%BA%E4%BD%95%E7%AA%81%E7%84%B6%E7%88%86%E7%81%AB%23&Refer=top",
     "hot": 504957
-  },
-  "奥比岛手游被指强买强卖": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%A5%A5%E6%AF%94%E5%B2%9B%E6%89%8B%E6%B8%B8%E8%A2%AB%E6%8C%87%E5%BC%BA%E4%B9%B0%E5%BC%BA%E5%8D%96%23&Refer=top",
-    "hot": 499081
   },
   "黄锐直播": {
     "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%94%90%E7%9B%B4%E6%92%AD&Refer=top",
@@ -225,6 +225,10 @@
   },
   "没有回应的喜欢你会坚持多久": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%9C%89%E5%9B%9E%E5%BA%94%E7%9A%84%E5%96%9C%E6%AC%A2%E4%BD%A0%E4%BC%9A%E5%9D%9A%E6%8C%81%E5%A4%9A%E4%B9%85%23&Refer=top",
-    "hot": 83284
+    "hot": 109782
+  },
+  "浙江本轮疫情系奥密克戎BA.5.2变异株": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E6%9C%AC%E8%BD%AE%E7%96%AB%E6%83%85%E7%B3%BB%E5%A5%A5%E5%AF%86%E5%85%8B%E6%88%8EBA.5.2%E5%8F%98%E5%BC%82%E6%A0%AA%23&Refer=top",
+    "hot": 48591
   }
 }
