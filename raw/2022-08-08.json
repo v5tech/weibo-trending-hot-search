@@ -249,10 +249,14 @@
   },
   "明日战记票房两亿": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%98%8E%E6%97%A5%E6%88%98%E8%AE%B0%E7%A5%A8%E6%88%BF%E4%B8%A4%E4%BA%BF%23&Refer=top",
-    "hot": 11819
+    "hot": 12276
   },
   "梅州客家2比1武汉长江": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%A2%85%E5%B7%9E%E5%AE%A2%E5%AE%B62%E6%AF%941%E6%AD%A6%E6%B1%89%E9%95%BF%E6%B1%9F%23&Refer=top",
     "hot": 11681
+  },
+  "钟义浩破门": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%92%9F%E4%B9%89%E6%B5%A9%E7%A0%B4%E9%97%A8%23&Refer=top",
+    "hot": 11212
   }
 }
