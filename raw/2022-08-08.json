@@ -225,7 +225,7 @@
   },
   "三亚新增186例确诊病例": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E4%BA%9A%E6%96%B0%E5%A2%9E186%E4%BE%8B%E7%A1%AE%E8%AF%8A%E7%97%85%E4%BE%8B%23&Refer=top",
-    "hot": 70089
+    "hot": 70868
   },
   "曼联1比2布莱顿": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%9B%BC%E8%81%941%E6%AF%942%E5%B8%83%E8%8E%B1%E9%A1%BF%23&Refer=top",
@@ -234,5 +234,9 @@
   "西汉姆联vs曼城": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E6%B1%89%E5%A7%86%E8%81%94vs%E6%9B%BC%E5%9F%8E%23&Refer=top",
     "hot": 52770
+  },
+  "新员工喊话让老板三年后退休": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%91%98%E5%B7%A5%E5%96%8A%E8%AF%9D%E8%AE%A9%E8%80%81%E6%9D%BF%E4%B8%89%E5%B9%B4%E5%90%8E%E9%80%80%E4%BC%91%23&Refer=top",
+    "hot": 27547
   }
 }
