@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-08-10 01:49:23.469862 
+最后更新时间 2022-08-10 02:15:22.749905 
 1. [蔡徐坤工作室发文回应](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%8F%91%E6%96%87%E5%9B%9E%E5%BA%94%23&Refer=top) 2556430
 1. [被Wendy笑死](https://s.weibo.com/weibo?q=%23%E8%A2%ABWendy%E7%AC%91%E6%AD%BB%23&Refer=top) 2000505
 1. [拜登正式签署芯片法案](https://s.weibo.com/weibo?q=%E6%8B%9C%E7%99%BB%E6%AD%A3%E5%BC%8F%E7%AD%BE%E7%BD%B2%E8%8A%AF%E7%89%87%E6%B3%95%E6%A1%88&Refer=top) 1762249
@@ -61,10 +61,12 @@
 1. [男子进店推销无果后跪地不起](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%BF%9B%E5%BA%97%E6%8E%A8%E9%94%80%E6%97%A0%E6%9E%9C%E5%90%8E%E8%B7%AA%E5%9C%B0%E4%B8%8D%E8%B5%B7%23&Refer=top) 144275
 1. [女子微整形失败10个月没敢出门](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%BE%AE%E6%95%B4%E5%BD%A2%E5%A4%B1%E8%B4%A510%E4%B8%AA%E6%9C%88%E6%B2%A1%E6%95%A2%E5%87%BA%E9%97%A8%23&Refer=top) 137270
 1. [上海市民朋友圈晒晚霞](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%B8%82%E6%B0%91%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%99%92%E6%99%9A%E9%9C%9E%23&Refer=top) 132085
+1. [高温作业工人死在出租屋获赔8.3万](https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%B8%A9%E4%BD%9C%E4%B8%9A%E5%B7%A5%E4%BA%BA%E6%AD%BB%E5%9C%A8%E5%87%BA%E7%A7%9F%E5%B1%8B%E8%8E%B7%E8%B5%948.3%E4%B8%87%23&Refer=top) 130337
 1. [yolo](https://s.weibo.com/weibo?q=%23yolo%23&Refer=top) 114058
 1. [苍兰诀吻戏好多](https://s.weibo.com/weibo?q=%23%E8%8B%8D%E5%85%B0%E8%AF%80%E5%90%BB%E6%88%8F%E5%A5%BD%E5%A4%9A%23&Refer=top) 110326
-1. [厦门重点人群今天开展一次核酸检测](https://s.weibo.com/weibo?q=%23%E5%8E%A6%E9%97%A8%E9%87%8D%E7%82%B9%E4%BA%BA%E7%BE%A4%E4%BB%8A%E5%A4%A9%E5%BC%80%E5%B1%95%E4%B8%80%E6%AC%A1%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%23&Refer=top) 78094
-1. [高温作业工人死在出租屋获赔8.3万](https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%B8%A9%E4%BD%9C%E4%B8%9A%E5%B7%A5%E4%BA%BA%E6%AD%BB%E5%9C%A8%E5%87%BA%E7%A7%9F%E5%B1%8B%E8%8E%B7%E8%B5%948.3%E4%B8%87%23&Refer=top) 73681
+1. [华晨宇神树 物理降温](https://s.weibo.com/weibo?q=%E5%8D%8E%E6%99%A8%E5%AE%87%E7%A5%9E%E6%A0%91%20%E7%89%A9%E7%90%86%E9%99%8D%E6%B8%A9&Refer=top) 88098
+1. [厦门重点人群今天开展一次核酸检测](https://s.weibo.com/weibo?q=%23%E5%8E%A6%E9%97%A8%E9%87%8D%E7%82%B9%E4%BA%BA%E7%BE%A4%E4%BB%8A%E5%A4%A9%E5%BC%80%E5%B1%95%E4%B8%80%E6%AC%A1%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%23&Refer=top) 79710
+1. [8旬老人因一道算术题起诉儿子](https://s.weibo.com/weibo?q=%238%E6%97%AC%E8%80%81%E4%BA%BA%E5%9B%A0%E4%B8%80%E9%81%93%E7%AE%97%E6%9C%AF%E9%A2%98%E8%B5%B7%E8%AF%89%E5%84%BF%E5%AD%90%23&Refer=top) 35374
 <!-- END -->
 
 历史归档 [./archives](./archives)
