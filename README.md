@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-08-10 03:50:15.612019 
+最后更新时间 2022-08-10 04:33:51.224253 
 1. [蔡徐坤工作室发文回应](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%8F%91%E6%96%87%E5%9B%9E%E5%BA%94%23&Refer=top) 2556430
 1. [被Wendy笑死](https://s.weibo.com/weibo?q=%23%E8%A2%ABWendy%E7%AC%91%E6%AD%BB%23&Refer=top) 2000505
 1. [拜登正式签署芯片法案](https://s.weibo.com/weibo?q=%E6%8B%9C%E7%99%BB%E6%AD%A3%E5%BC%8F%E7%AD%BE%E7%BD%B2%E8%8A%AF%E7%89%87%E6%B3%95%E6%A1%88&Refer=top) 1762249
@@ -70,6 +70,9 @@
 1. [Billboard首封预告是王嘉尔吧](https://s.weibo.com/weibo?q=%23Billboard%E9%A6%96%E5%B0%81%E9%A2%84%E5%91%8A%E6%98%AF%E7%8E%8B%E5%98%89%E5%B0%94%E5%90%A7%23&Refer=top) 48739
 1. [乃万喜提驾照](https://s.weibo.com/weibo?q=%23%E4%B9%83%E4%B8%87%E5%96%9C%E6%8F%90%E9%A9%BE%E7%85%A7%23&Refer=top) 40835
 1. [好莱坞多家公司不让片中角色抽烟](https://s.weibo.com/weibo?q=%23%E5%A5%BD%E8%8E%B1%E5%9D%9E%E5%A4%9A%E5%AE%B6%E5%85%AC%E5%8F%B8%E4%B8%8D%E8%AE%A9%E7%89%87%E4%B8%AD%E8%A7%92%E8%89%B2%E6%8A%BD%E7%83%9F%23&Refer=top) 36643
+1. [95号汽油喜迎8元时代](https://s.weibo.com/weibo?q=%2395%E5%8F%B7%E6%B1%BD%E6%B2%B9%E5%96%9C%E8%BF%8E8%E5%85%83%E6%97%B6%E4%BB%A3%23&Refer=top) 36603
+1. [齐涛家暴丁木木好恐怖](https://s.weibo.com/weibo?q=%23%E9%BD%90%E6%B6%9B%E5%AE%B6%E6%9A%B4%E4%B8%81%E6%9C%A8%E6%9C%A8%E5%A5%BD%E6%81%90%E6%80%96%23&Refer=top) 17711
+1. [男子离家返工父母给带回活鸡鸭羊](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%A6%BB%E5%AE%B6%E8%BF%94%E5%B7%A5%E7%88%B6%E6%AF%8D%E7%BB%99%E5%B8%A6%E5%9B%9E%E6%B4%BB%E9%B8%A1%E9%B8%AD%E7%BE%8A%23&Refer=top) 14287
 <!-- END -->
 
 历史归档 [./archives](./archives)
