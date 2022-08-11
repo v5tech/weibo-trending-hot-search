@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-08-12 02:15:26.719557 
+最后更新时间 2022-08-12 02:41:10.221987 
 1. [26岁小伙口渴难耐吃半个西瓜险丧命](https://s.weibo.com/weibo?q=%2326%E5%B2%81%E5%B0%8F%E4%BC%99%E5%8F%A3%E6%B8%B4%E9%9A%BE%E8%80%90%E5%90%83%E5%8D%8A%E4%B8%AA%E8%A5%BF%E7%93%9C%E9%99%A9%E4%B8%A7%E5%91%BD%23&Refer=top) 1260595
 1. [全场凌公子买单](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9C%BA%E5%87%8C%E5%85%AC%E5%AD%90%E4%B9%B0%E5%8D%95%23&Refer=top) 1230954
 1. [电信网络诈骗套路有多深](https://s.weibo.com/weibo?q=%23%E7%94%B5%E4%BF%A1%E7%BD%91%E7%BB%9C%E8%AF%88%E9%AA%97%E5%A5%97%E8%B7%AF%E6%9C%89%E5%A4%9A%E6%B7%B1%23&Refer=top) 1100200
@@ -24,11 +24,11 @@
 1. [欢乐颂3五美出场就一起进警察局](https://s.weibo.com/weibo?q=%23%E6%AC%A2%E4%B9%90%E9%A2%823%E4%BA%94%E7%BE%8E%E5%87%BA%E5%9C%BA%E5%B0%B1%E4%B8%80%E8%B5%B7%E8%BF%9B%E8%AD%A6%E5%AF%9F%E5%B1%80%23&Refer=top) 447919
 1. [知网为100%国有控股企业](https://s.weibo.com/weibo?q=%23%E7%9F%A5%E7%BD%91%E4%B8%BA100%25%E5%9B%BD%E6%9C%89%E6%8E%A7%E8%82%A1%E4%BC%81%E4%B8%9A%23&Refer=top) 385849
 1. [何广智cos周杰伦](https://s.weibo.com/weibo?q=%23%E4%BD%95%E5%B9%BF%E6%99%BAcos%E5%91%A8%E6%9D%B0%E4%BC%A6%23&Refer=top) 371679
+1. [为什么年轻人越来越惜命](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%B6%8A%E6%9D%A5%E8%B6%8A%E6%83%9C%E5%91%BD%23&Refer=top) 359774
 1. [中元节到底是什么节日](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%85%83%E8%8A%82%E5%88%B0%E5%BA%95%E6%98%AF%E4%BB%80%E4%B9%88%E8%8A%82%E6%97%A5%23&Refer=top) 340788
 1. [男子偷200万买房靠卖房收租为生](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%81%B7200%E4%B8%87%E4%B9%B0%E6%88%BF%E9%9D%A0%E5%8D%96%E6%88%BF%E6%94%B6%E7%A7%9F%E4%B8%BA%E7%94%9F%23&Refer=top) 339243
 1. [小米自动驾驶首次亮相](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E9%A6%96%E6%AC%A1%E4%BA%AE%E7%9B%B8%23&Refer=top) 329403
 1. [村BA向姚明和CBA发出邀请](https://s.weibo.com/weibo?q=%23%E6%9D%91BA%E5%90%91%E5%A7%9A%E6%98%8E%E5%92%8CCBA%E5%8F%91%E5%87%BA%E9%82%80%E8%AF%B7%23&Refer=top) 327616
-1. [为什么年轻人越来越惜命](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%B6%8A%E6%9D%A5%E8%B6%8A%E6%83%9C%E5%91%BD%23&Refer=top) 300621
 1. [男朋友好会给自己找台阶下](https://s.weibo.com/weibo?q=%23%E7%94%B7%E6%9C%8B%E5%8F%8B%E5%A5%BD%E4%BC%9A%E7%BB%99%E8%87%AA%E5%B7%B1%E6%89%BE%E5%8F%B0%E9%98%B6%E4%B8%8B%23&Refer=top) 300132
 1. [冰雨火观后感](https://s.weibo.com/weibo?q=%23%E5%86%B0%E9%9B%A8%E7%81%AB%E8%A7%82%E5%90%8E%E6%84%9F%23&Refer=top) 299459
 1. [程少商含泪吻住凌不疑](https://s.weibo.com/weibo?q=%23%E7%A8%8B%E5%B0%91%E5%95%86%E5%90%AB%E6%B3%AA%E5%90%BB%E4%BD%8F%E5%87%8C%E4%B8%8D%E7%96%91%23&Refer=top) 298221
