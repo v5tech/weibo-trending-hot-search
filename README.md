@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-08-12 05:50:51.572698 
+最后更新时间 2022-08-12 06:12:26.555257 
 1. [26岁小伙口渴难耐吃半个西瓜险丧命](https://s.weibo.com/weibo?q=%2326%E5%B2%81%E5%B0%8F%E4%BC%99%E5%8F%A3%E6%B8%B4%E9%9A%BE%E8%80%90%E5%90%83%E5%8D%8A%E4%B8%AA%E8%A5%BF%E7%93%9C%E9%99%A9%E4%B8%A7%E5%91%BD%23&Refer=top) 1260595
 1. [全场凌公子买单](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9C%BA%E5%87%8C%E5%85%AC%E5%AD%90%E4%B9%B0%E5%8D%95%23&Refer=top) 1230954
 1. [电信网络诈骗套路有多深](https://s.weibo.com/weibo?q=%23%E7%94%B5%E4%BF%A1%E7%BD%91%E7%BB%9C%E8%AF%88%E9%AA%97%E5%A5%97%E8%B7%AF%E6%9C%89%E5%A4%9A%E6%B7%B1%23&Refer=top) 1100200
@@ -47,6 +47,7 @@
 1. [雷军7天成销冠](https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B7%E5%A4%A9%E6%88%90%E9%94%80%E5%86%A0%23&Refer=top) 183199
 1. [国家电影局发1亿元观影消费券](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E7%94%B5%E5%BD%B1%E5%B1%80%E5%8F%911%E4%BA%BF%E5%85%83%E8%A7%82%E5%BD%B1%E6%B6%88%E8%B4%B9%E5%88%B8%23&Refer=top) 181538
 1. [陈宇眼神杀](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%AE%87%E7%9C%BC%E7%A5%9E%E6%9D%80%23&Refer=top) 174741
+1. [女子忍迷信丈夫10年后起诉离婚](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%BF%8D%E8%BF%B7%E4%BF%A1%E4%B8%88%E5%A4%AB10%E5%B9%B4%E5%90%8E%E8%B5%B7%E8%AF%89%E7%A6%BB%E5%A9%9A%23&Refer=top) 163442
 1. [孩子落水父亲欲托举施救双双溺亡](https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E8%90%BD%E6%B0%B4%E7%88%B6%E4%BA%B2%E6%AC%B2%E6%89%98%E4%B8%BE%E6%96%BD%E6%95%91%E5%8F%8C%E5%8F%8C%E6%BA%BA%E4%BA%A1%23&Refer=top) 162393
 1. [月亮](https://s.weibo.com/weibo?q=%23%E6%9C%88%E4%BA%AE%23&Refer=top) 160921
 1. [女子买饮品无故殴打2女孩](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B9%B0%E9%A5%AE%E5%93%81%E6%97%A0%E6%95%85%E6%AE%B4%E6%89%932%E5%A5%B3%E5%AD%A9%23&Refer=top) 160483
@@ -59,20 +60,21 @@
 1. [月升沧海太子支棱起来了](https://s.weibo.com/weibo?q=%23%E6%9C%88%E5%8D%87%E6%B2%A7%E6%B5%B7%E5%A4%AA%E5%AD%90%E6%94%AF%E6%A3%B1%E8%B5%B7%E6%9D%A5%E4%BA%86%23&Refer=top) 137027
 1. [昕羊 最佳拍档第二轮舞台](https://s.weibo.com/weibo?q=%E6%98%95%E7%BE%8A%20%E6%9C%80%E4%BD%B3%E6%8B%8D%E6%A1%A3%E7%AC%AC%E4%BA%8C%E8%BD%AE%E8%88%9E%E5%8F%B0&Refer=top) 132570
 1. [原来误入荷花深处这么美](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%AF%AF%E5%85%A5%E8%8D%B7%E8%8A%B1%E6%B7%B1%E5%A4%84%E8%BF%99%E4%B9%88%E7%BE%8E%23&Refer=top) 131806
+1. [年轻人为什么不爱做家务](https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E7%88%B1%E5%81%9A%E5%AE%B6%E5%8A%A1%23&Refer=top) 127675
 1. [郭艾伦收到三家海外俱乐部报价](https://s.weibo.com/weibo?q=%23%E9%83%AD%E8%89%BE%E4%BC%A6%E6%94%B6%E5%88%B0%E4%B8%89%E5%AE%B6%E6%B5%B7%E5%A4%96%E4%BF%B1%E4%B9%90%E9%83%A8%E6%8A%A5%E4%BB%B7%23&Refer=top) 121434
 1. [立陶宛一再违背承诺是赤裸裸背信弃义](https://s.weibo.com/weibo?q=%23%E7%AB%8B%E9%99%B6%E5%AE%9B%E4%B8%80%E5%86%8D%E8%BF%9D%E8%83%8C%E6%89%BF%E8%AF%BA%E6%98%AF%E8%B5%A4%E8%A3%B8%E8%A3%B8%E8%83%8C%E4%BF%A1%E5%BC%83%E4%B9%89%23&Refer=top) 117364
 1. [K50至尊版价格](https://s.weibo.com/weibo?q=%23K50%E8%87%B3%E5%B0%8A%E7%89%88%E4%BB%B7%E6%A0%BC%23&Refer=top) 113469
 1. [冰雨火不够看](https://s.weibo.com/weibo?q=%23%E5%86%B0%E9%9B%A8%E7%81%AB%E4%B8%8D%E5%A4%9F%E7%9C%8B%23&Refer=top) 111278
-1. [年轻人为什么不爱做家务](https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E7%88%B1%E5%81%9A%E5%AE%B6%E5%8A%A1%23&Refer=top) 97997
+1. [暑期大剧卷起来了](https://s.weibo.com/weibo?q=%23%E6%9A%91%E6%9C%9F%E5%A4%A7%E5%89%A7%E5%8D%B7%E8%B5%B7%E6%9D%A5%E4%BA%86%23&Refer=top) 101264
+1. [美军用144辆油罐车盗运叙利亚石油](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E7%94%A8144%E8%BE%86%E6%B2%B9%E7%BD%90%E8%BD%A6%E7%9B%97%E8%BF%90%E5%8F%99%E5%88%A9%E4%BA%9A%E7%9F%B3%E6%B2%B9%23&Refer=top) 85245
 1. [成都铲子哥等5人获见义勇为奖](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E9%93%B2%E5%AD%90%E5%93%A5%E7%AD%895%E4%BA%BA%E8%8E%B7%E8%A7%81%E4%B9%89%E5%8B%87%E4%B8%BA%E5%A5%96%23&Refer=top) 76914
 1. [小男孩因主角牺牲嚎啕大哭响彻影院](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%94%B7%E5%AD%A9%E5%9B%A0%E4%B8%BB%E8%A7%92%E7%89%BA%E7%89%B2%E5%9A%8E%E5%95%95%E5%A4%A7%E5%93%AD%E5%93%8D%E5%BD%BB%E5%BD%B1%E9%99%A2%23&Refer=top) 75099
 1. [海关查获24套错绘漏绘问题地图](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%85%B3%E6%9F%A5%E8%8E%B724%E5%A5%97%E9%94%99%E7%BB%98%E6%BC%8F%E7%BB%98%E9%97%AE%E9%A2%98%E5%9C%B0%E5%9B%BE%23&Refer=top) 73829
 1. [江疏影连续五个角色一出场就进警察局](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E7%96%8F%E5%BD%B1%E8%BF%9E%E7%BB%AD%E4%BA%94%E4%B8%AA%E8%A7%92%E8%89%B2%E4%B8%80%E5%87%BA%E5%9C%BA%E5%B0%B1%E8%BF%9B%E8%AD%A6%E5%AF%9F%E5%B1%80%23&Refer=top) 65616
+1. [爱马仕新款自行车卖16.5万](https://s.weibo.com/weibo?q=%23%E7%88%B1%E9%A9%AC%E4%BB%95%E6%96%B0%E6%AC%BE%E8%87%AA%E8%A1%8C%E8%BD%A6%E5%8D%9616.5%E4%B8%87%23&Refer=top) 65044
 1. [欢乐颂3信息量好大](https://s.weibo.com/weibo?q=%23%E6%AC%A2%E4%B9%90%E9%A2%823%E4%BF%A1%E6%81%AF%E9%87%8F%E5%A5%BD%E5%A4%A7%23&Refer=top) 64860
-1. [暑期大剧卷起来了](https://s.weibo.com/weibo?q=%23%E6%9A%91%E6%9C%9F%E5%A4%A7%E5%89%A7%E5%8D%B7%E8%B5%B7%E6%9D%A5%E4%BA%86%23&Refer=top) 55970
-1. [女子忍迷信丈夫10年后起诉离婚](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%BF%8D%E8%BF%B7%E4%BF%A1%E4%B8%88%E5%A4%AB10%E5%B9%B4%E5%90%8E%E8%B5%B7%E8%AF%89%E7%A6%BB%E5%A9%9A%23&Refer=top) 53798
-1. [美军用144辆油罐车盗运叙利亚石油](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E7%94%A8144%E8%BE%86%E6%B2%B9%E7%BD%90%E8%BD%A6%E7%9B%97%E8%BF%90%E5%8F%99%E5%88%A9%E4%BA%9A%E7%9F%B3%E6%B2%B9%23&Refer=top) 53777
 1. [严浩翔看到虫子的反应好呆](https://s.weibo.com/weibo?q=%23%E4%B8%A5%E6%B5%A9%E7%BF%94%E7%9C%8B%E5%88%B0%E8%99%AB%E5%AD%90%E7%9A%84%E5%8F%8D%E5%BA%94%E5%A5%BD%E5%91%86%23&Refer=top) 35605
+1. [冰雨火 致敬缉毒警察](https://s.weibo.com/weibo?q=%E5%86%B0%E9%9B%A8%E7%81%AB%20%E8%87%B4%E6%95%AC%E7%BC%89%E6%AF%92%E8%AD%A6%E5%AF%9F&Refer=top) 25942
 <!-- END -->
 
 历史归档 [./archives](./archives)
