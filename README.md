@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-08-12 02:55:58.425877 
+最后更新时间 2022-08-12 03:09:52.907994 
 1. [26岁小伙口渴难耐吃半个西瓜险丧命](https://s.weibo.com/weibo?q=%2326%E5%B2%81%E5%B0%8F%E4%BC%99%E5%8F%A3%E6%B8%B4%E9%9A%BE%E8%80%90%E5%90%83%E5%8D%8A%E4%B8%AA%E8%A5%BF%E7%93%9C%E9%99%A9%E4%B8%A7%E5%91%BD%23&Refer=top) 1260595
 1. [全场凌公子买单](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9C%BA%E5%87%8C%E5%85%AC%E5%AD%90%E4%B9%B0%E5%8D%95%23&Refer=top) 1230954
 1. [电信网络诈骗套路有多深](https://s.weibo.com/weibo?q=%23%E7%94%B5%E4%BF%A1%E7%BD%91%E7%BB%9C%E8%AF%88%E9%AA%97%E5%A5%97%E8%B7%AF%E6%9C%89%E5%A4%9A%E6%B7%B1%23&Refer=top) 1100200
