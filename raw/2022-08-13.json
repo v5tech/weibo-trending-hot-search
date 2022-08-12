@@ -242,5 +242,9 @@
   "断桥": {
     "url": "https://s.weibo.com/weibo?q=%E6%96%AD%E6%A1%A5&Refer=top",
     "hot": 38250
+  },
+  "离琼申请": {
+    "url": "https://s.weibo.com/weibo?q=%E7%A6%BB%E7%90%BC%E7%94%B3%E8%AF%B7&Refer=top",
+    "hot": 21299
   }
 }
