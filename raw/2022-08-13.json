@@ -235,6 +235,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E7%88%B8%E7%88%B8%E8%A7%81%E4%BA%86%E5%94%90%E4%B9%9D%E6%B4%B2%E5%BF%98%E8%AE%B0%E4%BA%B2%E5%84%BF%E5%AD%90%23&Refer=top",
     "hot": 51596
   },
+  "离琼申请": {
+    "url": "https://s.weibo.com/weibo?q=%E7%A6%BB%E7%90%BC%E7%94%B3%E8%AF%B7&Refer=top",
+    "hot": 47663
+  },
   "尹正买瓜唠嗑让路人错过公交": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%B0%B9%E6%AD%A3%E4%B9%B0%E7%93%9C%E5%94%A0%E5%97%91%E8%AE%A9%E8%B7%AF%E4%BA%BA%E9%94%99%E8%BF%87%E5%85%AC%E4%BA%A4%23&Refer=top",
     "hot": 47492
@@ -242,9 +246,5 @@
   "断桥": {
     "url": "https://s.weibo.com/weibo?q=%E6%96%AD%E6%A1%A5&Refer=top",
     "hot": 38250
-  },
-  "离琼申请": {
-    "url": "https://s.weibo.com/weibo?q=%E7%A6%BB%E7%90%BC%E7%94%B3%E8%AF%B7&Refer=top",
-    "hot": 31352
   }
 }
