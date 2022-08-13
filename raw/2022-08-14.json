@@ -67,13 +67,13 @@
     "url": "https://s.weibo.com/weibo?q=%E7%9C%8B%E4%B8%8D%E6%87%82%E4%BD%86%E5%A4%A7%E4%B8%BA%E9%9C%87%E6%92%BC%E7%9A%84%E6%83%85%E4%BE%A3%E8%A1%8C%E4%B8%BA&Refer=top",
     "hot": 507157
   },
+  "ITZY你是我的姐": {
+    "url": "https://s.weibo.com/weibo?q=%23ITZY%E4%BD%A0%E6%98%AF%E6%88%91%E7%9A%84%E5%A7%90%23&Refer=top",
+    "hot": 479752
+  },
   "附近群众称砸中路人跳楼者实为50多岁男性": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%99%84%E8%BF%91%E7%BE%A4%E4%BC%97%E7%A7%B0%E7%A0%B8%E4%B8%AD%E8%B7%AF%E4%BA%BA%E8%B7%B3%E6%A5%BC%E8%80%85%E5%AE%9E%E4%B8%BA50%E5%A4%9A%E5%B2%81%E7%94%B7%E6%80%A7%23&Refer=top",
     "hot": 445942
-  },
-  "ITZY你是我的姐": {
-    "url": "https://s.weibo.com/weibo?q=%23ITZY%E4%BD%A0%E6%98%AF%E6%88%91%E7%9A%84%E5%A7%90%23&Refer=top",
-    "hot": 442915
   },
   "给无毛猫搓澡是什么体验": {
     "url": "https://s.weibo.com/weibo?q=%E7%BB%99%E6%97%A0%E6%AF%9B%E7%8C%AB%E6%90%93%E6%BE%A1%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C&Refer=top",
@@ -226,5 +226,9 @@
   "游乐园又多了一个伤心的人": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%B8%B8%E4%B9%90%E5%9B%AD%E5%8F%88%E5%A4%9A%E4%BA%86%E4%B8%80%E4%B8%AA%E4%BC%A4%E5%BF%83%E7%9A%84%E4%BA%BA%23&Refer=top",
     "hot": 51754
+  },
+  "尹正买西瓜": {
+    "url": "https://s.weibo.com/weibo?q=%E5%B0%B9%E6%AD%A3%E4%B9%B0%E8%A5%BF%E7%93%9C&Refer=top",
+    "hot": 45720
   }
 }

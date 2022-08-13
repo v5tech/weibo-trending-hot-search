@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-08-14 01:48:48.266031 
+最后更新时间 2022-08-14 02:14:33.334950 
 1. [周冬雨说心疼马思纯演的晓雨](https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%86%AC%E9%9B%A8%E8%AF%B4%E5%BF%83%E7%96%BC%E9%A9%AC%E6%80%9D%E7%BA%AF%E6%BC%94%E7%9A%84%E6%99%93%E9%9B%A8%23&Refer=top) 2510106
 1. [孕妇每天1杯奶茶喝成奶茶血](https://s.weibo.com/weibo?q=%23%E5%AD%95%E5%A6%87%E6%AF%8F%E5%A4%A91%E6%9D%AF%E5%A5%B6%E8%8C%B6%E5%96%9D%E6%88%90%E5%A5%B6%E8%8C%B6%E8%A1%80%23&Refer=top) 2088420
 1. [中国创造相当于地球磁场90多万倍的磁场](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%88%9B%E9%80%A0%E7%9B%B8%E5%BD%93%E4%BA%8E%E5%9C%B0%E7%90%83%E7%A3%81%E5%9C%BA90%E5%A4%9A%E4%B8%87%E5%80%8D%E7%9A%84%E7%A3%81%E5%9C%BA%23&Refer=top) 1767885
@@ -25,8 +25,8 @@
 1. [张翰朱梓骁合体直播](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BF%B0%E6%9C%B1%E6%A2%93%E9%AA%81%E5%90%88%E4%BD%93%E7%9B%B4%E6%92%AD%23&Refer=top) 632280
 1. [龙漕沟系野生网红打卡地](https://s.weibo.com/weibo?q=%23%E9%BE%99%E6%BC%95%E6%B2%9F%E7%B3%BB%E9%87%8E%E7%94%9F%E7%BD%91%E7%BA%A2%E6%89%93%E5%8D%A1%E5%9C%B0%23&Refer=top) 548243
 1. [看不懂但大为震撼的情侣行为](https://s.weibo.com/weibo?q=%E7%9C%8B%E4%B8%8D%E6%87%82%E4%BD%86%E5%A4%A7%E4%B8%BA%E9%9C%87%E6%92%BC%E7%9A%84%E6%83%85%E4%BE%A3%E8%A1%8C%E4%B8%BA&Refer=top) 507157
+1. [ITZY你是我的姐](https://s.weibo.com/weibo?q=%23ITZY%E4%BD%A0%E6%98%AF%E6%88%91%E7%9A%84%E5%A7%90%23&Refer=top) 479752
 1. [附近群众称砸中路人跳楼者实为50多岁男性](https://s.weibo.com/weibo?q=%23%E9%99%84%E8%BF%91%E7%BE%A4%E4%BC%97%E7%A7%B0%E7%A0%B8%E4%B8%AD%E8%B7%AF%E4%BA%BA%E8%B7%B3%E6%A5%BC%E8%80%85%E5%AE%9E%E4%B8%BA50%E5%A4%9A%E5%B2%81%E7%94%B7%E6%80%A7%23&Refer=top) 445942
-1. [ITZY你是我的姐](https://s.weibo.com/weibo?q=%23ITZY%E4%BD%A0%E6%98%AF%E6%88%91%E7%9A%84%E5%A7%90%23&Refer=top) 442915
 1. [给无毛猫搓澡是什么体验](https://s.weibo.com/weibo?q=%E7%BB%99%E6%97%A0%E6%AF%9B%E7%8C%AB%E6%90%93%E6%BE%A1%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C&Refer=top) 390545
 1. [疑商夫妇](https://s.weibo.com/weibo?q=%E7%96%91%E5%95%86%E5%A4%AB%E5%A6%87&Refer=top) 387016
 1. [地面太烫蜗牛开启急速模式](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%9D%A2%E5%A4%AA%E7%83%AB%E8%9C%97%E7%89%9B%E5%BC%80%E5%90%AF%E6%80%A5%E9%80%9F%E6%A8%A1%E5%BC%8F%23&Refer=top) 318781
@@ -65,6 +65,7 @@
 1. [王一博电子科幻风破次元大秀](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E7%94%B5%E5%AD%90%E7%A7%91%E5%B9%BB%E9%A3%8E%E7%A0%B4%E6%AC%A1%E5%85%83%E5%A4%A7%E7%A7%80%23&Refer=top) 59896
 1. [新疆库尔勒临时性静态管理](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E5%BA%93%E5%B0%94%E5%8B%92%E4%B8%B4%E6%97%B6%E6%80%A7%E9%9D%99%E6%80%81%E7%AE%A1%E7%90%86%23&Refer=top) 54158
 1. [游乐园又多了一个伤心的人](https://s.weibo.com/weibo?q=%23%E6%B8%B8%E4%B9%90%E5%9B%AD%E5%8F%88%E5%A4%9A%E4%BA%86%E4%B8%80%E4%B8%AA%E4%BC%A4%E5%BF%83%E7%9A%84%E4%BA%BA%23&Refer=top) 51754
+1. [尹正买西瓜](https://s.weibo.com/weibo?q=%E5%B0%B9%E6%AD%A3%E4%B9%B0%E8%A5%BF%E7%93%9C&Refer=top) 45720
 <!-- END -->
 
 历史归档 [./archives](./archives)
