@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-08-20 03:24:41.545962 
+最后更新时间 2022-08-20 03:35:08.715198 
 1. [为什么你越来越没有耐心了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BD%A0%E8%B6%8A%E6%9D%A5%E8%B6%8A%E6%B2%A1%E6%9C%89%E8%80%90%E5%BF%83%E4%BA%86%23&Refer=top) 2193263
 1. [河南成为全国第一个40℃大满贯省份](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E6%88%90%E4%B8%BA%E5%85%A8%E5%9B%BD%E7%AC%AC%E4%B8%80%E4%B8%AA40%E2%84%83%E5%A4%A7%E6%BB%A1%E8%B4%AF%E7%9C%81%E4%BB%BD%23&Refer=top) 1335667
 1. [这是真实的中国医生](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF%E7%9C%9F%E5%AE%9E%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%8C%BB%E7%94%9F%23&Refer=top) 1065571
