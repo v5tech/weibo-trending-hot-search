@@ -135,6 +135,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%99%BD%E5%B1%B1%E4%B8%8B%E9%9B%AA%E4%BA%86%23&Refer=top",
     "hot": 187675
   },
+  "杨迪长在于文文的笑点上": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%BF%AA%E9%95%BF%E5%9C%A8%E4%BA%8E%E6%96%87%E6%96%87%E7%9A%84%E7%AC%91%E7%82%B9%E4%B8%8A%23&Refer=top",
+    "hot": 178506
+  },
   "王鹤棣哭戏原声": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%93%AD%E6%88%8F%E5%8E%9F%E5%A3%B0%23&Refer=top",
     "hot": 175733
@@ -221,18 +225,18 @@
   },
   "看雀斑公主稀里糊涂哭了": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%9C%8B%E9%9B%80%E6%96%91%E5%85%AC%E4%B8%BB%E7%A8%80%E9%87%8C%E7%B3%8A%E6%B6%82%E5%93%AD%E4%BA%86%23&Refer=top",
-    "hot": 51730
+    "hot": 57006
+  },
+  "山火与干旱报告": {
+    "url": "https://s.weibo.com/weibo?q=%E5%B1%B1%E7%81%AB%E4%B8%8E%E5%B9%B2%E6%97%B1%E6%8A%A5%E5%91%8A&Refer=top",
+    "hot": 48477
   },
   "怎么会不爱狗狗呢": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%80%8E%E4%B9%88%E4%BC%9A%E4%B8%8D%E7%88%B1%E7%8B%97%E7%8B%97%E5%91%A2%23&Refer=top",
     "hot": 46994
   },
-  "杨迪长在于文文的笑点上": {
-    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%BF%AA%E9%95%BF%E5%9C%A8%E4%BA%8E%E6%96%87%E6%96%87%E7%9A%84%E7%AC%91%E7%82%B9%E4%B8%8A%23&Refer=top",
-    "hot": 40198
-  },
   "英超": {
     "url": "https://s.weibo.com/weibo?q=%E8%8B%B1%E8%B6%85&Refer=top",
-    "hot": 20625
+    "hot": 23483
   }
 }
