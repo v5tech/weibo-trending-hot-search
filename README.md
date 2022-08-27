@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-08-28 03:24:34.826287 
+最后更新时间 2022-08-28 03:34:54.810234 
 1. [公司要求一旦怀孕自动离职](https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%8F%B8%E8%A6%81%E6%B1%82%E4%B8%80%E6%97%A6%E6%80%80%E5%AD%95%E8%87%AA%E5%8A%A8%E7%A6%BB%E8%81%8C%23&Refer=top) 2939107
 1. [虞书欣镜头外还在哭](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E9%95%9C%E5%A4%B4%E5%A4%96%E8%BF%98%E5%9C%A8%E5%93%AD%23&Refer=top) 1348488
 1. [山城的灯光战胜了火光](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E5%9F%8E%E7%9A%84%E7%81%AF%E5%85%89%E6%88%98%E8%83%9C%E4%BA%86%E7%81%AB%E5%85%89%23&Refer=top) 1249155
@@ -68,6 +68,7 @@
 1. [山火与干旱报告](https://s.weibo.com/weibo?q=%E5%B1%B1%E7%81%AB%E4%B8%8E%E5%B9%B2%E6%97%B1%E6%8A%A5%E5%91%8A&Refer=top) 48477
 1. [怎么会不爱狗狗呢](https://s.weibo.com/weibo?q=%23%E6%80%8E%E4%B9%88%E4%BC%9A%E4%B8%8D%E7%88%B1%E7%8B%97%E7%8B%97%E5%91%A2%23&Refer=top) 46994
 1. [英超](https://s.weibo.com/weibo?q=%E8%8B%B1%E8%B6%85&Refer=top) 31364
+1. [吴建豪一字马](https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%BB%BA%E8%B1%AA%E4%B8%80%E5%AD%97%E9%A9%AC%23&Refer=top) 13135
 <!-- END -->
 
 历史归档 [./archives](./archives)

@@ -238,5 +238,9 @@
   "英超": {
     "url": "https://s.weibo.com/weibo?q=%E8%8B%B1%E8%B6%85&Refer=top",
     "hot": 31364
+  },
+  "吴建豪一字马": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%BB%BA%E8%B1%AA%E4%B8%80%E5%AD%97%E9%A9%AC%23&Refer=top",
+    "hot": 13135
   }
 }
