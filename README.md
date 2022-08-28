@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-08-29 01:33:07.749929 
+最后更新时间 2022-08-29 01:48:43.109830 
 1. [女子火锅配冰奶茶上吐下泻碱中毒](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%81%AB%E9%94%85%E9%85%8D%E5%86%B0%E5%A5%B6%E8%8C%B6%E4%B8%8A%E5%90%90%E4%B8%8B%E6%B3%BB%E7%A2%B1%E4%B8%AD%E6%AF%92%23&Refer=top) 1764060
 1. [不为什么](https://s.weibo.com/weibo?q=%E4%B8%8D%E4%B8%BA%E4%BB%80%E4%B9%88&Refer=top) 1756852
 1. [骨兰变成了东方青苍](https://s.weibo.com/weibo?q=%23%E9%AA%A8%E5%85%B0%E5%8F%98%E6%88%90%E4%BA%86%E4%B8%9C%E6%96%B9%E9%9D%92%E8%8B%8D%23&Refer=top) 1729949
@@ -58,12 +58,13 @@
 1. [这是什么百万转场](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF%E4%BB%80%E4%B9%88%E7%99%BE%E4%B8%87%E8%BD%AC%E5%9C%BA%23&Refer=top) 101211
 1. [成都疫情防控](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%23&Refer=top) 94134
 1. [JDG锁定S12名额](https://s.weibo.com/weibo?q=%23JDG%E9%94%81%E5%AE%9AS12%E5%90%8D%E9%A2%9D%23&Refer=top) 85182
+1. [梁静茹一开口青春就回来了](https://s.weibo.com/weibo?q=%23%E6%A2%81%E9%9D%99%E8%8C%B9%E4%B8%80%E5%BC%80%E5%8F%A3%E9%9D%92%E6%98%A5%E5%B0%B1%E5%9B%9E%E6%9D%A5%E4%BA%86%23&Refer=top) 84607
 1. [莲花楼剧组 打人](https://s.weibo.com/weibo?q=%E8%8E%B2%E8%8A%B1%E6%A5%BC%E5%89%A7%E7%BB%84%20%E6%89%93%E4%BA%BA&Refer=top) 79905
 1. [公厕里的洗手液有多脏](https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%8E%95%E9%87%8C%E7%9A%84%E6%B4%97%E6%89%8B%E6%B6%B2%E6%9C%89%E5%A4%9A%E8%84%8F%23&Refer=top) 76529
 1. [剑网三](https://s.weibo.com/weibo?q=%23%E5%89%91%E7%BD%91%E4%B8%89%23&Refer=top) 67590
 1. [K甲](https://s.weibo.com/weibo?q=K%E7%94%B2&Refer=top) 64233
-1. [梁静茹一开口青春就回来了](https://s.weibo.com/weibo?q=%23%E6%A2%81%E9%9D%99%E8%8C%B9%E4%B8%80%E5%BC%80%E5%8F%A3%E9%9D%92%E6%98%A5%E5%B0%B1%E5%9B%9E%E6%9D%A5%E4%BA%86%23&Refer=top) 63620
 1. [英雄战士与英雄人民的双向奔赴](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E6%88%98%E5%A3%AB%E4%B8%8E%E8%8B%B1%E9%9B%84%E4%BA%BA%E6%B0%91%E7%9A%84%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4%23&Refer=top) 50906
+1. [如何评价朱一龙演技](https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E6%9C%B1%E4%B8%80%E9%BE%99%E6%BC%94%E6%8A%80%23&Refer=top) 42456
 <!-- END -->
 
 历史归档 [./archives](./archives)
