@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-09-04 04:49:46.947279 
+最后更新时间 2022-09-04 05:12:03.384138 
 1. [刘德华 2亿多人](https://s.weibo.com/weibo?q=%E5%88%98%E5%BE%B7%E5%8D%8E%202%E4%BA%BF%E5%A4%9A%E4%BA%BA&Refer=top) 2176392
 1. [17岁](https://s.weibo.com/weibo?q=17%E5%B2%81&Refer=top) 1614219
 1. [神十四首次出舱任务全回顾](https://s.weibo.com/weibo?q=%23%E7%A5%9E%E5%8D%81%E5%9B%9B%E9%A6%96%E6%AC%A1%E5%87%BA%E8%88%B1%E4%BB%BB%E5%8A%A1%E5%85%A8%E5%9B%9E%E9%A1%BE%23&Refer=top) 1104389
@@ -66,8 +66,8 @@
 1. [重庆狼队冠军签名](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E7%8B%BC%E9%98%9F%E5%86%A0%E5%86%9B%E7%AD%BE%E5%90%8D%23&Refer=top) 53588
 1. [虚拟陪伴是否能代替真人需求](https://s.weibo.com/weibo?q=%23%E8%99%9A%E6%8B%9F%E9%99%AA%E4%BC%B4%E6%98%AF%E5%90%A6%E8%83%BD%E4%BB%A3%E6%9B%BF%E7%9C%9F%E4%BA%BA%E9%9C%80%E6%B1%82%23&Refer=top) 42415
 1. [3个动作有效缓解眼部疲劳](https://s.weibo.com/weibo?q=%233%E4%B8%AA%E5%8A%A8%E4%BD%9C%E6%9C%89%E6%95%88%E7%BC%93%E8%A7%A3%E7%9C%BC%E9%83%A8%E7%96%B2%E5%8A%B3%23&Refer=top) 33175
+1. [余墨好惨](https://s.weibo.com/weibo?q=%23%E4%BD%99%E5%A2%A8%E5%A5%BD%E6%83%A8%23&Refer=top) 29222
 1. [魏晨穿了六年前同款西装](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E6%99%A8%E7%A9%BF%E4%BA%86%E5%85%AD%E5%B9%B4%E5%89%8D%E5%90%8C%E6%AC%BE%E8%A5%BF%E8%A3%85%23&Refer=top) 26746
-1. [余墨好惨](https://s.weibo.com/weibo?q=%23%E4%BD%99%E5%A2%A8%E5%A5%BD%E6%83%A8%23&Refer=top) 22233
 <!-- END -->
 
 历史归档 [./archives](./archives)
