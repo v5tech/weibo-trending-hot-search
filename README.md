@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-09-04 00:52:46.235704 
+最后更新时间 2022-09-04 01:14:50.035728 
 1. [刘德华 2亿多人](https://s.weibo.com/weibo?q=%E5%88%98%E5%BE%B7%E5%8D%8E%202%E4%BA%BF%E5%A4%9A%E4%BA%BA&Refer=top) 2176392
 1. [17岁](https://s.weibo.com/weibo?q=17%E5%B2%81&Refer=top) 1614219
 1. [神十四首次出舱任务全回顾](https://s.weibo.com/weibo?q=%23%E7%A5%9E%E5%8D%81%E5%9B%9B%E9%A6%96%E6%AC%A1%E5%87%BA%E8%88%B1%E4%BB%BB%E5%8A%A1%E5%85%A8%E5%9B%9E%E9%A1%BE%23&Refer=top) 1104389
@@ -59,6 +59,7 @@
 1. [百米长龙抢购网红月饼或成历史](https://s.weibo.com/weibo?q=%23%E7%99%BE%E7%B1%B3%E9%95%BF%E9%BE%99%E6%8A%A2%E8%B4%AD%E7%BD%91%E7%BA%A2%E6%9C%88%E9%A5%BC%E6%88%96%E6%88%90%E5%8E%86%E5%8F%B2%23&Refer=top) 88908
 1. [妖刀说我们也太强了吧](https://s.weibo.com/weibo?q=%23%E5%A6%96%E5%88%80%E8%AF%B4%E6%88%91%E4%BB%AC%E4%B9%9F%E5%A4%AA%E5%BC%BA%E4%BA%86%E5%90%A7%23&Refer=top) 78182
 1. [重庆狼队冠军签名](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E7%8B%BC%E9%98%9F%E5%86%A0%E5%86%9B%E7%AD%BE%E5%90%8D%23&Refer=top) 53588
+1. [虚拟陪伴是否能代替真人需求](https://s.weibo.com/weibo?q=%23%E8%99%9A%E6%8B%9F%E9%99%AA%E4%BC%B4%E6%98%AF%E5%90%A6%E8%83%BD%E4%BB%A3%E6%9B%BF%E7%9C%9F%E4%BA%BA%E9%9C%80%E6%B1%82%23&Refer=top) 42415
 <!-- END -->
 
 历史归档 [./archives](./archives)
