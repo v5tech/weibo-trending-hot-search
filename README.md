@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-09-05 05:49:10.958154 
+最后更新时间 2022-09-05 06:12:50.060914 
 1. [90%学生被取消学籍系因游戏](https://s.weibo.com/weibo?q=%2390%25%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%8F%96%E6%B6%88%E5%AD%A6%E7%B1%8D%E7%B3%BB%E5%9B%A0%E6%B8%B8%E6%88%8F%23&Refer=top) 1892514
 1. [呼吸哥哭了](https://s.weibo.com/weibo?q=%23%E5%91%BC%E5%90%B8%E5%93%A5%E5%93%AD%E4%BA%86%23&Refer=top) 1295344
 1. [Light哭了](https://s.weibo.com/weibo?q=%23Light%E5%93%AD%E4%BA%86%23&Refer=top) 943411
@@ -60,19 +60,20 @@
 1. [女子称自己复活成仙骗男网友486万](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%B0%E8%87%AA%E5%B7%B1%E5%A4%8D%E6%B4%BB%E6%88%90%E4%BB%99%E9%AA%97%E7%94%B7%E7%BD%91%E5%8F%8B486%E4%B8%87%23&Refer=top) 119276
 1. [上海台风](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%8F%B0%E9%A3%8E%23&Refer=top) 103854
 1. [7条定律助你提升自我](https://s.weibo.com/weibo?q=%237%E6%9D%A1%E5%AE%9A%E5%BE%8B%E5%8A%A9%E4%BD%A0%E6%8F%90%E5%8D%87%E8%87%AA%E6%88%91%23&Refer=top) 100882
+1. [布拉格爆发抗议反对欧盟和北约](https://s.weibo.com/weibo?q=%23%E5%B8%83%E6%8B%89%E6%A0%BC%E7%88%86%E5%8F%91%E6%8A%97%E8%AE%AE%E5%8F%8D%E5%AF%B9%E6%AC%A7%E7%9B%9F%E5%92%8C%E5%8C%97%E7%BA%A6%23&Refer=top) 94054
+1. [老人在小区用牵引绳抽狗疑泄愤](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%9C%A8%E5%B0%8F%E5%8C%BA%E7%94%A8%E7%89%B5%E5%BC%95%E7%BB%B3%E6%8A%BD%E7%8B%97%E7%96%91%E6%B3%84%E6%84%A4%23&Refer=top) 82299
 1. [实现躺平午休有多舒服](https://s.weibo.com/weibo?q=%23%E5%AE%9E%E7%8E%B0%E8%BA%BA%E5%B9%B3%E5%8D%88%E4%BC%91%E6%9C%89%E5%A4%9A%E8%88%92%E6%9C%8D%23&Refer=top) 81075
 1. [NH金色的雨](https://s.weibo.com/weibo?q=%23NH%E9%87%91%E8%89%B2%E7%9A%84%E9%9B%A8%23&Refer=top) 73947
+1. [覆流年里女主的爹是萧剑](https://s.weibo.com/weibo?q=%23%E8%A6%86%E6%B5%81%E5%B9%B4%E9%87%8C%E5%A5%B3%E4%B8%BB%E7%9A%84%E7%88%B9%E6%98%AF%E8%90%A7%E5%89%91%23&Refer=top) 67845
 1. [福州现巨型乌云](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%B7%9E%E7%8E%B0%E5%B7%A8%E5%9E%8B%E4%B9%8C%E4%BA%91%23&Refer=top) 65874
-1. [布拉格爆发抗议反对欧盟和北约](https://s.weibo.com/weibo?q=%23%E5%B8%83%E6%8B%89%E6%A0%BC%E7%88%86%E5%8F%91%E6%8A%97%E8%AE%AE%E5%8F%8D%E5%AF%B9%E6%AC%A7%E7%9B%9F%E5%92%8C%E5%8C%97%E7%BA%A6%23&Refer=top) 43697
-1. [老人在小区用牵引绳抽狗疑泄愤](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%9C%A8%E5%B0%8F%E5%8C%BA%E7%94%A8%E7%89%B5%E5%BC%95%E7%BB%B3%E6%8A%BD%E7%8B%97%E7%96%91%E6%B3%84%E6%84%A4%23&Refer=top) 43664
-1. [覆流年里女主的爹是萧剑](https://s.weibo.com/weibo?q=%23%E8%A6%86%E6%B5%81%E5%B9%B4%E9%87%8C%E5%A5%B3%E4%B8%BB%E7%9A%84%E7%88%B9%E6%98%AF%E8%90%A7%E5%89%91%23&Refer=top) 41628
-1. [一个更容易打到蚊子的方法](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E6%9B%B4%E5%AE%B9%E6%98%93%E6%89%93%E5%88%B0%E8%9A%8A%E5%AD%90%E7%9A%84%E6%96%B9%E6%B3%95%23&Refer=top) 30213
-1. [今夏为1961年来最热夏天](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%8F%E4%B8%BA1961%E5%B9%B4%E6%9D%A5%E6%9C%80%E7%83%AD%E5%A4%8F%E5%A4%A9%23&Refer=top) 25009
+1. [一个更容易打到蚊子的方法](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E6%9B%B4%E5%AE%B9%E6%98%93%E6%89%93%E5%88%B0%E8%9A%8A%E5%AD%90%E7%9A%84%E6%96%B9%E6%B3%95%23&Refer=top) 65346
+1. [今夏为1961年来最热夏天](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%8F%E4%B8%BA1961%E5%B9%B4%E6%9D%A5%E6%9C%80%E7%83%AD%E5%A4%8F%E5%A4%A9%23&Refer=top) 51026
+1. [胰岛素含片或将问世](https://s.weibo.com/weibo?q=%23%E8%83%B0%E5%B2%9B%E7%B4%A0%E5%90%AB%E7%89%87%E6%88%96%E5%B0%86%E9%97%AE%E4%B8%96%23&Refer=top) 32526
+1. [舒淇是珠光宝气代名词吧](https://s.weibo.com/weibo?q=%23%E8%88%92%E6%B7%87%E6%98%AF%E7%8F%A0%E5%85%89%E5%AE%9D%E6%B0%94%E4%BB%A3%E5%90%8D%E8%AF%8D%E5%90%A7%23&Refer=top) 31794
 1. [F1荷兰大奖赛](https://s.weibo.com/weibo?q=%23F1%E8%8D%B7%E5%85%B0%E5%A4%A7%E5%A5%96%E8%B5%9B%23&Refer=top) 23572
 1. [罚罪](https://s.weibo.com/weibo?q=%E7%BD%9A%E7%BD%AA&Refer=top) 22866
+1. [全校536名学生视力全部5.0或以上](https://s.weibo.com/weibo?q=%23%E5%85%A8%E6%A0%A1536%E5%90%8D%E5%AD%A6%E7%94%9F%E8%A7%86%E5%8A%9B%E5%85%A8%E9%83%A85.0%E6%88%96%E4%BB%A5%E4%B8%8A%23&Refer=top) 16056
 1. [苍兰夫妇闪现吻花絮](https://s.weibo.com/weibo?q=%23%E8%8B%8D%E5%85%B0%E5%A4%AB%E5%A6%87%E9%97%AA%E7%8E%B0%E5%90%BB%E8%8A%B1%E7%B5%AE%23&Refer=top) 15405
-1. [舒淇是珠光宝气代名词吧](https://s.weibo.com/weibo?q=%23%E8%88%92%E6%B7%87%E6%98%AF%E7%8F%A0%E5%85%89%E5%AE%9D%E6%B0%94%E4%BB%A3%E5%90%8D%E8%AF%8D%E5%90%A7%23&Refer=top) 13777
-1. [胰岛素含片或将问世](https://s.weibo.com/weibo?q=%23%E8%83%B0%E5%B2%9B%E7%B4%A0%E5%90%AB%E7%89%87%E6%88%96%E5%B0%86%E9%97%AE%E4%B8%96%23&Refer=top) 11183
 1. [浙大男生创中国网球新历史](https://s.weibo.com/weibo?q=%23%E6%B5%99%E5%A4%A7%E7%94%B7%E7%94%9F%E5%88%9B%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%90%83%E6%96%B0%E5%8E%86%E5%8F%B2%23&Refer=top) 7857
 1. [老人被困火场青年爬楼破墙救人](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E8%A2%AB%E5%9B%B0%E7%81%AB%E5%9C%BA%E9%9D%92%E5%B9%B4%E7%88%AC%E6%A5%BC%E7%A0%B4%E5%A2%99%E6%95%91%E4%BA%BA%23&Refer=top) 7610
 1. [江浙沪一大半地区在下雨](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E6%B5%99%E6%B2%AA%E4%B8%80%E5%A4%A7%E5%8D%8A%E5%9C%B0%E5%8C%BA%E5%9C%A8%E4%B8%8B%E9%9B%A8%23&Refer=top) 7507
