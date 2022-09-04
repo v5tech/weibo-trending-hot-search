@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-09-05 03:10:48.142951 
+最后更新时间 2022-09-05 03:25:03.312899 
 1. [90%学生被取消学籍系因游戏](https://s.weibo.com/weibo?q=%2390%25%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%8F%96%E6%B6%88%E5%AD%A6%E7%B1%8D%E7%B3%BB%E5%9B%A0%E6%B8%B8%E6%88%8F%23&Refer=top) 1892514
 1. [呼吸哥哭了](https://s.weibo.com/weibo?q=%23%E5%91%BC%E5%90%B8%E5%93%A5%E5%93%AD%E4%BA%86%23&Refer=top) 1295344
 1. [Light哭了](https://s.weibo.com/weibo?q=%23Light%E5%93%AD%E4%BA%86%23&Refer=top) 943411
@@ -62,7 +62,7 @@
 1. [7条定律助你提升自我](https://s.weibo.com/weibo?q=%237%E6%9D%A1%E5%AE%9A%E5%BE%8B%E5%8A%A9%E4%BD%A0%E6%8F%90%E5%8D%87%E8%87%AA%E6%88%91%23&Refer=top) 100882
 1. [实现躺平午休有多舒服](https://s.weibo.com/weibo?q=%23%E5%AE%9E%E7%8E%B0%E8%BA%BA%E5%B9%B3%E5%8D%88%E4%BC%91%E6%9C%89%E5%A4%9A%E8%88%92%E6%9C%8D%23&Refer=top) 81075
 1. [NH金色的雨](https://s.weibo.com/weibo?q=%23NH%E9%87%91%E8%89%B2%E7%9A%84%E9%9B%A8%23&Refer=top) 73947
-1. [福州现巨型乌云](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%B7%9E%E7%8E%B0%E5%B7%A8%E5%9E%8B%E4%B9%8C%E4%BA%91%23&Refer=top) 56901
+1. [福州现巨型乌云](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%B7%9E%E7%8E%B0%E5%B7%A8%E5%9E%8B%E4%B9%8C%E4%BA%91%23&Refer=top) 59016
 1. [F1荷兰大奖赛](https://s.weibo.com/weibo?q=%23F1%E8%8D%B7%E5%85%B0%E5%A4%A7%E5%A5%96%E8%B5%9B%23&Refer=top) 23572
 1. [罚罪](https://s.weibo.com/weibo?q=%E7%BD%9A%E7%BD%AA&Refer=top) 22866
 <!-- END -->
