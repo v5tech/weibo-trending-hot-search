@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-09-05 01:48:55.884896 
+最后更新时间 2022-09-05 02:15:24.320144 
 1. [90%学生被取消学籍系因游戏](https://s.weibo.com/weibo?q=%2390%25%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%8F%96%E6%B6%88%E5%AD%A6%E7%B1%8D%E7%B3%BB%E5%9B%A0%E6%B8%B8%E6%88%8F%23&Refer=top) 1892514
 1. [呼吸哥哭了](https://s.weibo.com/weibo?q=%23%E5%91%BC%E5%90%B8%E5%93%A5%E5%93%AD%E4%BA%86%23&Refer=top) 1295344
 1. [Light哭了](https://s.weibo.com/weibo?q=%23Light%E5%93%AD%E4%BA%86%23&Refer=top) 943411
@@ -33,6 +33,7 @@
 1. [赵丽颖直播](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%9B%B4%E6%92%AD&Refer=top) 355071
 1. [林柏叡走秀](https://s.weibo.com/weibo?q=%23%E6%9E%97%E6%9F%8F%E5%8F%A1%E8%B5%B0%E7%A7%80%23&Refer=top) 321510
 1. [Ale](https://s.weibo.com/weibo?q=Ale&Refer=top) 294130
+1. [世界赛](https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E8%B5%9B&Refer=top) 287588
 1. [成都车祸](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E8%BD%A6%E7%A5%B8%23&Refer=top) 277402
 1. [深圳疫情防控](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%23&Refer=top) 275632
 1. [朱正廷霸王别姬舞台](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E6%AD%A3%E5%BB%B7%E9%9C%B8%E7%8E%8B%E5%88%AB%E5%A7%AC%E8%88%9E%E5%8F%B0%23&Refer=top) 272589
@@ -59,8 +60,8 @@
 1. [女子称自己复活成仙骗男网友486万](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%B0%E8%87%AA%E5%B7%B1%E5%A4%8D%E6%B4%BB%E6%88%90%E4%BB%99%E9%AA%97%E7%94%B7%E7%BD%91%E5%8F%8B486%E4%B8%87%23&Refer=top) 119276
 1. [上海台风](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%8F%B0%E9%A3%8E%23&Refer=top) 103854
 1. [7条定律助你提升自我](https://s.weibo.com/weibo?q=%237%E6%9D%A1%E5%AE%9A%E5%BE%8B%E5%8A%A9%E4%BD%A0%E6%8F%90%E5%8D%87%E8%87%AA%E6%88%91%23&Refer=top) 100882
+1. [实现躺平午休有多舒服](https://s.weibo.com/weibo?q=%23%E5%AE%9E%E7%8E%B0%E8%BA%BA%E5%B9%B3%E5%8D%88%E4%BC%91%E6%9C%89%E5%A4%9A%E8%88%92%E6%9C%8D%23&Refer=top) 81075
 1. [NH金色的雨](https://s.weibo.com/weibo?q=%23NH%E9%87%91%E8%89%B2%E7%9A%84%E9%9B%A8%23&Refer=top) 73947
-1. [实现躺平午休有多舒服](https://s.weibo.com/weibo?q=%23%E5%AE%9E%E7%8E%B0%E8%BA%BA%E5%B9%B3%E5%8D%88%E4%BC%91%E6%9C%89%E5%A4%9A%E8%88%92%E6%9C%8D%23&Refer=top) 59398
 1. [F1荷兰大奖赛](https://s.weibo.com/weibo?q=%23F1%E8%8D%B7%E5%85%B0%E5%A4%A7%E5%A5%96%E8%B5%9B%23&Refer=top) 23572
 <!-- END -->
 
