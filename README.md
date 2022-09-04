@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-09-05 03:25:03.312899 
+最后更新时间 2022-09-05 03:34:49.502105 
 1. [90%学生被取消学籍系因游戏](https://s.weibo.com/weibo?q=%2390%25%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%8F%96%E6%B6%88%E5%AD%A6%E7%B1%8D%E7%B3%BB%E5%9B%A0%E6%B8%B8%E6%88%8F%23&Refer=top) 1892514
 1. [呼吸哥哭了](https://s.weibo.com/weibo?q=%23%E5%91%BC%E5%90%B8%E5%93%A5%E5%93%AD%E4%BA%86%23&Refer=top) 1295344
 1. [Light哭了](https://s.weibo.com/weibo?q=%23Light%E5%93%AD%E4%BA%86%23&Refer=top) 943411
@@ -65,6 +65,7 @@
 1. [福州现巨型乌云](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%B7%9E%E7%8E%B0%E5%B7%A8%E5%9E%8B%E4%B9%8C%E4%BA%91%23&Refer=top) 59016
 1. [F1荷兰大奖赛](https://s.weibo.com/weibo?q=%23F1%E8%8D%B7%E5%85%B0%E5%A4%A7%E5%A5%96%E8%B5%9B%23&Refer=top) 23572
 1. [罚罪](https://s.weibo.com/weibo?q=%E7%BD%9A%E7%BD%AA&Refer=top) 22866
+1. [覆流年里女主的爹是萧剑](https://s.weibo.com/weibo?q=%23%E8%A6%86%E6%B5%81%E5%B9%B4%E9%87%8C%E5%A5%B3%E4%B8%BB%E7%9A%84%E7%88%B9%E6%98%AF%E8%90%A7%E5%89%91%23&Refer=top) 18343
 <!-- END -->
 
 历史归档 [./archives](./archives)
