@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-09-06 02:47:11.480301 
+最后更新时间 2022-09-06 03:10:19.351489 
 1. [泸定地震46人遇难](https://s.weibo.com/weibo?q=%23%E6%B3%B8%E5%AE%9A%E5%9C%B0%E9%9C%8746%E4%BA%BA%E9%81%87%E9%9A%BE%23&Refer=top) 2186023
 1. [被公司发的月饼气到了](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%85%AC%E5%8F%B8%E5%8F%91%E7%9A%84%E6%9C%88%E9%A5%BC%E6%B0%94%E5%88%B0%E4%BA%86%23&Refer=top) 994247
 1. [泸定地震最新动态](https://s.weibo.com/weibo?q=%23%E6%B3%B8%E5%AE%9A%E5%9C%B0%E9%9C%87%E6%9C%80%E6%96%B0%E5%8A%A8%E6%80%81%23&Refer=top) 915241
