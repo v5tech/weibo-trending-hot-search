@@ -226,5 +226,9 @@
   "BLACKPINK新歌未通过KBS审议": {
     "url": "https://s.weibo.com/weibo?q=%23BLACKPINK%E6%96%B0%E6%AD%8C%E6%9C%AA%E9%80%9A%E8%BF%87KBS%E5%AE%A1%E8%AE%AE%23&Refer=top",
     "hot": 45147
+  },
+  "成都世乒赛国乒无直板参赛": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E4%B8%96%E4%B9%92%E8%B5%9B%E5%9B%BD%E4%B9%92%E6%97%A0%E7%9B%B4%E6%9D%BF%E5%8F%82%E8%B5%9B%23&Refer=top",
+    "hot": 6898
   }
 }
