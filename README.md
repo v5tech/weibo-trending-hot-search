@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-09-07 03:10:40.028940 
+最后更新时间 2022-09-07 03:25:40.517256 
 1. [猴痘](https://s.weibo.com/weibo?q=%E7%8C%B4%E7%97%98&Refer=top) 1340573
 1. [原来大学才是努力的开始](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%A4%A7%E5%AD%A6%E6%89%8D%E6%98%AF%E5%8A%AA%E5%8A%9B%E7%9A%84%E5%BC%80%E5%A7%8B%23&Refer=top) 928539
 1. [中科院试验站遇难女研究生家属发声](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%A7%91%E9%99%A2%E8%AF%95%E9%AA%8C%E7%AB%99%E9%81%87%E9%9A%BE%E5%A5%B3%E7%A0%94%E7%A9%B6%E7%94%9F%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0%23&Refer=top) 759436
