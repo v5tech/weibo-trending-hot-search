@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-09-09 03:29:07.247310 
+最后更新时间 2022-09-09 03:40:43.660053 
 1. [英国女王去世](https://s.weibo.com/weibo?q=%E8%8B%B1%E5%9B%BD%E5%A5%B3%E7%8E%8B%E5%8E%BB%E4%B8%96&t=31&band_rank=1&Refer=top) 10652682
 1. [英国女王正处于医疗监护状态](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E5%A5%B3%E7%8E%8B%E6%AD%A3%E5%A4%84%E4%BA%8E%E5%8C%BB%E7%96%97%E7%9B%91%E6%8A%A4%E7%8A%B6%E6%80%81%23&t=31&band_rank=1&Refer=top) 7804709
 1. [查尔斯成为英国国王](https://s.weibo.com/weibo?q=%23%E6%9F%A5%E5%B0%94%E6%96%AF%E6%88%90%E4%B8%BA%E8%8B%B1%E5%9B%BD%E5%9B%BD%E7%8E%8B%23&t=31&band_rank=2&Refer=top) 5593485
@@ -72,8 +72,8 @@
 1. [好像突然就想通了](https://s.weibo.com/weibo?q=%23%E5%A5%BD%E5%83%8F%E7%AA%81%E7%84%B6%E5%B0%B1%E6%83%B3%E9%80%9A%E4%BA%86%23&t=31&band_rank=48&Refer=top) 125687
 1. [百名产品经理倡议将选择权还给用户](https://s.weibo.com/weibo?q=%23%E7%99%BE%E5%90%8D%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E5%80%A1%E8%AE%AE%E5%B0%86%E9%80%89%E6%8B%A9%E6%9D%83%E8%BF%98%E7%BB%99%E7%94%A8%E6%88%B7%23&t=31&band_rank=50&Refer=top) 101525
 1. [英女王生平](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%A5%B3%E7%8E%8B%E7%94%9F%E5%B9%B3%23&t=31&band_rank=26&Refer=top) 99182
+1. [联合国秘书长致哀](https://s.weibo.com/weibo?q=%E8%81%94%E5%90%88%E5%9B%BD%E7%A7%98%E4%B9%A6%E9%95%BF%E8%87%B4%E5%93%80&t=31&band_rank=39&Refer=top) 50817
 1. [白冰说姐讲的不是人话是神话](https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%86%B0%E8%AF%B4%E5%A7%90%E8%AE%B2%E7%9A%84%E4%B8%8D%E6%98%AF%E4%BA%BA%E8%AF%9D%E6%98%AF%E7%A5%9E%E8%AF%9D%23&t=31&band_rank=32&Refer=top) 49954
-1. [联合国秘书长致哀](https://s.weibo.com/weibo?q=%E8%81%94%E5%90%88%E5%9B%BD%E7%A7%98%E4%B9%A6%E9%95%BF%E8%87%B4%E5%93%80&t=31&band_rank=39&Refer=top) 47849
 1. [苏黎世vs阿森纳](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%BB%8E%E4%B8%96vs%E9%98%BF%E6%A3%AE%E7%BA%B3%23&t=31&band_rank=50&Refer=top) 34469
 <!-- END -->
 
