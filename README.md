@@ -7,14 +7,16 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-09-09 02:16:46.381420 
+最后更新时间 2022-09-09 02:49:15.696086 
 1. [英国女王去世](https://s.weibo.com/weibo?q=%E8%8B%B1%E5%9B%BD%E5%A5%B3%E7%8E%8B%E5%8E%BB%E4%B8%96&t=31&band_rank=1&Refer=top) 10652682
 1. [英国女王正处于医疗监护状态](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E5%A5%B3%E7%8E%8B%E6%AD%A3%E5%A4%84%E4%BA%8E%E5%8C%BB%E7%96%97%E7%9B%91%E6%8A%A4%E7%8A%B6%E6%80%81%23&t=31&band_rank=1&Refer=top) 7804709
 1. [查尔斯成为英国国王](https://s.weibo.com/weibo?q=%23%E6%9F%A5%E5%B0%94%E6%96%AF%E6%88%90%E4%B8%BA%E8%8B%B1%E5%9B%BD%E5%9B%BD%E7%8E%8B%23&t=31&band_rank=2&Refer=top) 5593485
 1. [泸定抗震救灾72小时](https://s.weibo.com/weibo?q=%23%E6%B3%B8%E5%AE%9A%E6%8A%97%E9%9C%87%E6%95%91%E7%81%BE72%E5%B0%8F%E6%97%B6%23&t=31&band_rank=3&Refer=top) 2996833
+1. [伦敦桥塌了](https://s.weibo.com/weibo?q=%23%E4%BC%A6%E6%95%A6%E6%A1%A5%E5%A1%8C%E4%BA%86%23&t=31&band_rank=4&Refer=top) 2353201
 1. [英媒称严重程度前所未见](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%AA%92%E7%A7%B0%E4%B8%A5%E9%87%8D%E7%A8%8B%E5%BA%A6%E5%89%8D%E6%89%80%E6%9C%AA%E8%A7%81%23&t=31&band_rank=2&Refer=top) 2292762
 1. [英国BBC主播穿全黑西装戴黑领带](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BDBBC%E4%B8%BB%E6%92%AD%E7%A9%BF%E5%85%A8%E9%BB%91%E8%A5%BF%E8%A3%85%E6%88%B4%E9%BB%91%E9%A2%86%E5%B8%A6%23&t=31&band_rank=4&Refer=top) 1227061
 1. [邓家佳华鼎奖最佳女主角](https://s.weibo.com/weibo?q=%23%E9%82%93%E5%AE%B6%E4%BD%B3%E5%8D%8E%E9%BC%8E%E5%A5%96%E6%9C%80%E4%BD%B3%E5%A5%B3%E4%B8%BB%E8%A7%92%23&t=31&band_rank=5&Refer=top) 1185847
+1. [英国全国哀悼期已经开始](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E5%85%A8%E5%9B%BD%E5%93%80%E6%82%BC%E6%9C%9F%E5%B7%B2%E7%BB%8F%E5%BC%80%E5%A7%8B%23&t=31&band_rank=11&Refer=top) 1069143
 1. [胡歌霍建华 鬼怪](https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E9%9C%8D%E5%BB%BA%E5%8D%8E%20%E9%AC%BC%E6%80%AA%23&t=31&band_rank=6&Refer=top) 1056479
 1. [新疆酸奶疙瘩月饼](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E9%85%B8%E5%A5%B6%E7%96%99%E7%98%A9%E6%9C%88%E9%A5%BC%23&t=31&band_rank=7&Refer=top) 1034110
 1. [英国王室证实女王身体状况堪忧](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E7%8E%8B%E5%AE%A4%E8%AF%81%E5%AE%9E%E5%A5%B3%E7%8E%8B%E8%BA%AB%E4%BD%93%E7%8A%B6%E5%86%B5%E5%A0%AA%E5%BF%A7%23&t=31&band_rank=8&Refer=top) 968490
@@ -24,6 +26,7 @@
 1. [英国女王所有子女在其身边陪伴](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E5%A5%B3%E7%8E%8B%E6%89%80%E6%9C%89%E5%AD%90%E5%A5%B3%E5%9C%A8%E5%85%B6%E8%BA%AB%E8%BE%B9%E9%99%AA%E4%BC%B4%23&t=31&band_rank=35&Refer=top) 777890
 1. [查尔斯王子已到女王身边](https://s.weibo.com/weibo?q=%23%E6%9F%A5%E5%B0%94%E6%96%AF%E7%8E%8B%E5%AD%90%E5%B7%B2%E5%88%B0%E5%A5%B3%E7%8E%8B%E8%BA%AB%E8%BE%B9%23&t=31&band_rank=11&Refer=top) 702979
 1. [B站二季度净亏损20亿](https://s.weibo.com/weibo?q=%23B%E7%AB%99%E4%BA%8C%E5%AD%A3%E5%BA%A6%E5%87%80%E4%BA%8F%E6%8D%9F20%E4%BA%BF%23&t=31&band_rank=12&Refer=top) 596462
+1. [英国国王声明](https://s.weibo.com/weibo?q=%E8%8B%B1%E5%9B%BD%E5%9B%BD%E7%8E%8B%E5%A3%B0%E6%98%8E&t=31&band_rank=6&Refer=top) 573724
 1. [王阳 鬼怪](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%98%B3%20%E9%AC%BC%E6%80%AA%23&t=31&band_rank=13&Refer=top) 508888
 1. [周寻出场3分钟 齐颂30集白演](https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%AF%BB%E5%87%BA%E5%9C%BA3%E5%88%86%E9%92%9F%20%E9%BD%90%E9%A2%8230%E9%9B%86%E7%99%BD%E6%BC%94%23&t=31&band_rank=14&Refer=top) 506231
 1. [英国BBC中断原本节目](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BDBBC%E4%B8%AD%E6%96%AD%E5%8E%9F%E6%9C%AC%E8%8A%82%E7%9B%AE%23&t=31&band_rank=15&Refer=top) 490977
@@ -42,7 +45,6 @@
 1. [中国版鬼怪选角提名](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%89%88%E9%AC%BC%E6%80%AA%E9%80%89%E8%A7%92%E6%8F%90%E5%90%8D%23&t=31&band_rank=24&Refer=top) 275370
 1. [男子割伤狗舌头称其吓到自己小孩](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%89%B2%E4%BC%A4%E7%8B%97%E8%88%8C%E5%A4%B4%E7%A7%B0%E5%85%B6%E5%90%93%E5%88%B0%E8%87%AA%E5%B7%B1%E5%B0%8F%E5%AD%A9%23&t=31&band_rank=25&Refer=top) 274763
 1. [上班第一天被同事欺负要怎么办](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E7%8F%AD%E7%AC%AC%E4%B8%80%E5%A4%A9%E8%A2%AB%E5%90%8C%E4%BA%8B%E6%AC%BA%E8%B4%9F%E8%A6%81%E6%80%8E%E4%B9%88%E5%8A%9E%23&t=31&band_rank=26&Refer=top) 272081
-1. [英国全国哀悼期已经开始](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E5%85%A8%E5%9B%BD%E5%93%80%E6%82%BC%E6%9C%9F%E5%B7%B2%E7%BB%8F%E5%BC%80%E5%A7%8B%23&t=31&band_rank=11&Refer=top) 268628
 1. [特朗普前政治顾问班农自首](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%89%8D%E6%94%BF%E6%B2%BB%E9%A1%BE%E9%97%AE%E7%8F%AD%E5%86%9C%E8%87%AA%E9%A6%96%23&t=31&band_rank=27&Refer=top) 266506
 1. [中国运营商不支持美版iPhone14](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%BF%90%E8%90%A5%E5%95%86%E4%B8%8D%E6%94%AF%E6%8C%81%E7%BE%8E%E7%89%88iPhone14%23&t=31&band_rank=28&Refer=top) 260451
 1. [一个人能成事的5种迹象](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E4%BA%BA%E8%83%BD%E6%88%90%E4%BA%8B%E7%9A%845%E7%A7%8D%E8%BF%B9%E8%B1%A1%23&t=31&band_rank=29&Refer=top) 260333
@@ -68,6 +70,8 @@
 1. [网友建议中秋节放长假](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E5%BB%BA%E8%AE%AE%E4%B8%AD%E7%A7%8B%E8%8A%82%E6%94%BE%E9%95%BF%E5%81%87%23&t=31&band_rank=47&Refer=top) 128550
 1. [好像突然就想通了](https://s.weibo.com/weibo?q=%23%E5%A5%BD%E5%83%8F%E7%AA%81%E7%84%B6%E5%B0%B1%E6%83%B3%E9%80%9A%E4%BA%86%23&t=31&band_rank=48&Refer=top) 125687
 1. [百名产品经理倡议将选择权还给用户](https://s.weibo.com/weibo?q=%23%E7%99%BE%E5%90%8D%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E5%80%A1%E8%AE%AE%E5%B0%86%E9%80%89%E6%8B%A9%E6%9D%83%E8%BF%98%E7%BB%99%E7%94%A8%E6%88%B7%23&t=31&band_rank=50&Refer=top) 101525
+1. [见证历史](https://s.weibo.com/weibo?q=%E8%A7%81%E8%AF%81%E5%8E%86%E5%8F%B2&t=31&band_rank=24&Refer=top) 100012
+1. [英女王生平](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%A5%B3%E7%8E%8B%E7%94%9F%E5%B9%B3%23&t=31&band_rank=26&Refer=top) 96362
 1. [苏黎世vs阿森纳](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%BB%8E%E4%B8%96vs%E9%98%BF%E6%A3%AE%E7%BA%B3%23&t=31&band_rank=50&Refer=top) 34469
 <!-- END -->
 
