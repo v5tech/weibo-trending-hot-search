@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-09-12 02:46:50.889853 
+最后更新时间 2022-09-12 03:10:46.520554 
 1. [北京警方通报李易峰多次嫖娼](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E6%9D%8E%E6%98%93%E5%B3%B0%E5%A4%9A%E6%AC%A1%E5%AB%96%E5%A8%BC%23&t=31&band_rank=1&Refer=top) 3018296
 1. [你也有美丽羞耻症吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%B9%9F%E6%9C%89%E7%BE%8E%E4%B8%BD%E7%BE%9E%E8%80%BB%E7%97%87%E5%90%97%23&t=31&band_rank=2&Refer=top) 1313465
 1. [绿水青山是我家](https://s.weibo.com/weibo?q=%23%E7%BB%BF%E6%B0%B4%E9%9D%92%E5%B1%B1%E6%98%AF%E6%88%91%E5%AE%B6%23&t=31&band_rank=3&Refer=top) 1213736
@@ -65,9 +65,10 @@
 1. [古人的烘焙作品什么样](https://s.weibo.com/weibo?q=%23%E5%8F%A4%E4%BA%BA%E7%9A%84%E7%83%98%E7%84%99%E4%BD%9C%E5%93%81%E4%BB%80%E4%B9%88%E6%A0%B7%23&t=31&band_rank=49&Refer=top) 46497
 1. [鹿晗运动天赋](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E8%BF%90%E5%8A%A8%E5%A4%A9%E8%B5%8B%23&t=31&band_rank=34&Refer=top) 44268
 1. [山东济宁表示深深歉意](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E6%B5%8E%E5%AE%81%E8%A1%A8%E7%A4%BA%E6%B7%B1%E6%B7%B1%E6%AD%89%E6%84%8F%23&t=31&band_rank=50&Refer=top) 43933
-1. [李景亮懵了](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%99%AF%E4%BA%AE%E6%87%B5%E4%BA%86%23&t=31&band_rank=47&Refer=top) 34976
+1. [李景亮懵了](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%99%AF%E4%BA%AE%E6%87%B5%E4%BA%86%23&t=31&band_rank=47&Refer=top) 37004
 1. [20岁和15岁的自己合唱](https://s.weibo.com/weibo?q=%2320%E5%B2%81%E5%92%8C15%E5%B2%81%E7%9A%84%E8%87%AA%E5%B7%B1%E5%90%88%E5%94%B1%23&t=31&band_rank=42&Refer=top) 34014
-1. [什么是极简养猫法](https://s.weibo.com/weibo?q=%23%E4%BB%80%E4%B9%88%E6%98%AF%E6%9E%81%E7%AE%80%E5%85%BB%E7%8C%AB%E6%B3%95%23&t=31&band_rank=45&Refer=top) 19950
+1. [什么是极简养猫法](https://s.weibo.com/weibo?q=%23%E4%BB%80%E4%B9%88%E6%98%AF%E6%9E%81%E7%AE%80%E5%85%BB%E7%8C%AB%E6%B3%95%23&t=31&band_rank=45&Refer=top) 30650
+1. [小学生沉迷文具店开盲盒](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%B2%89%E8%BF%B7%E6%96%87%E5%85%B7%E5%BA%97%E5%BC%80%E7%9B%B2%E7%9B%92%23&t=31&band_rank=50&Refer=top) 9866
 <!-- END -->
 
 历史归档 [./archives](./archives)
