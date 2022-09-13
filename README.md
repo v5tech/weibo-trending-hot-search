@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-09-14 04:52:36.239297 
+最后更新时间 2022-09-14 05:13:01.211186 
 1. [羊了个羊 bug](https://s.weibo.com/weibo?q=%E7%BE%8A%E4%BA%86%E4%B8%AA%E7%BE%8A%20bug&t=31&band_rank=1&Refer=top) 5075268
 1. [人民网评张翰新剧](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E5%BC%A0%E7%BF%B0%E6%96%B0%E5%89%A7%23&t=31&band_rank=2&Refer=top) 4277489
 1. [消防员车上挂满泸定人送的哈达](https://s.weibo.com/weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%98%E8%BD%A6%E4%B8%8A%E6%8C%82%E6%BB%A1%E6%B3%B8%E5%AE%9A%E4%BA%BA%E9%80%81%E7%9A%84%E5%93%88%E8%BE%BE%23&t=31&band_rank=3&Refer=top) 2508747
@@ -64,11 +64,12 @@
 1. [陈宇杨玲深情告别](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%AE%87%E6%9D%A8%E7%8E%B2%E6%B7%B1%E6%83%85%E5%91%8A%E5%88%AB%23&t=31&band_rank=50&Refer=top) 94997
 1. [大学生才不会觉得幼稚](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%89%8D%E4%B8%8D%E4%BC%9A%E8%A7%89%E5%BE%97%E5%B9%BC%E7%A8%9A%23&t=31&band_rank=26&Refer=top) 94465
 1. [一念关山全员开机照](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%E5%85%A8%E5%91%98%E5%BC%80%E6%9C%BA%E7%85%A7%23&t=31&band_rank=43&Refer=top) 78757
+1. [3岁幼童被牵绳大狗咬伤](https://s.weibo.com/weibo?q=%233%E5%B2%81%E5%B9%BC%E7%AB%A5%E8%A2%AB%E7%89%B5%E7%BB%B3%E5%A4%A7%E7%8B%97%E5%92%AC%E4%BC%A4%23&t=31&band_rank=46&Refer=top) 61175
 1. [妈妈带宝宝看猩猩反被围观](https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E5%B8%A6%E5%AE%9D%E5%AE%9D%E7%9C%8B%E7%8C%A9%E7%8C%A9%E5%8F%8D%E8%A2%AB%E5%9B%B4%E8%A7%82%23&t=31&band_rank=47&Refer=top) 50993
-1. [3岁幼童被牵绳大狗咬伤](https://s.weibo.com/weibo?q=%233%E5%B2%81%E5%B9%BC%E7%AB%A5%E8%A2%AB%E7%89%B5%E7%BB%B3%E5%A4%A7%E7%8B%97%E5%92%AC%E4%BC%A4%23&t=31&band_rank=46&Refer=top) 28885
 1. [姐姐嫌妈妈太凶亲自辅导弟弟被气哭](https://s.weibo.com/weibo?q=%23%E5%A7%90%E5%A7%90%E5%AB%8C%E5%A6%88%E5%A6%88%E5%A4%AA%E5%87%B6%E4%BA%B2%E8%87%AA%E8%BE%85%E5%AF%BC%E5%BC%9F%E5%BC%9F%E8%A2%AB%E6%B0%94%E5%93%AD%23&t=31&band_rank=45&Refer=top) 12091
 1. [尼克杨回应被KO](https://s.weibo.com/weibo?q=%23%E5%B0%BC%E5%85%8B%E6%9D%A8%E5%9B%9E%E5%BA%94%E8%A2%ABKO%23&t=31&band_rank=50&Refer=top) 9461
 1. [怎样释怀走散的友情](https://s.weibo.com/weibo?q=%23%E6%80%8E%E6%A0%B7%E9%87%8A%E6%80%80%E8%B5%B0%E6%95%A3%E7%9A%84%E5%8F%8B%E6%83%85%23&t=31&band_rank=50&Refer=top) 9223
+1. [什么都能武器化的美国该停手了](https://s.weibo.com/weibo?q=%23%E4%BB%80%E4%B9%88%E9%83%BD%E8%83%BD%E6%AD%A6%E5%99%A8%E5%8C%96%E7%9A%84%E7%BE%8E%E5%9B%BD%E8%AF%A5%E5%81%9C%E6%89%8B%E4%BA%86%23&t=31&band_rank=49&Refer=top) 8136
 1. [警犬协助缴毒23公斤获奖火腿肠两根](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E7%8A%AC%E5%8D%8F%E5%8A%A9%E7%BC%B4%E6%AF%9223%E5%85%AC%E6%96%A4%E8%8E%B7%E5%A5%96%E7%81%AB%E8%85%BF%E8%82%A0%E4%B8%A4%E6%A0%B9%23&t=31&band_rank=50&Refer=top) 7826
 <!-- END -->
 
