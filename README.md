@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-09-14 02:49:57.438295 
+最后更新时间 2022-09-14 03:11:28.008831 
 1. [羊了个羊 bug](https://s.weibo.com/weibo?q=%E7%BE%8A%E4%BA%86%E4%B8%AA%E7%BE%8A%20bug&t=31&band_rank=1&Refer=top) 5075268
 1. [人民网评张翰新剧](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E5%BC%A0%E7%BF%B0%E6%96%B0%E5%89%A7%23&t=31&band_rank=2&Refer=top) 4277489
 1. [消防员车上挂满泸定人送的哈达](https://s.weibo.com/weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%98%E8%BD%A6%E4%B8%8A%E6%8C%82%E6%BB%A1%E6%B3%B8%E5%AE%9A%E4%BA%BA%E9%80%81%E7%9A%84%E5%93%88%E8%BE%BE%23&t=31&band_rank=3&Refer=top) 2508747
