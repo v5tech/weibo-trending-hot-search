@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-09-14 04:15:35.226254 
+最后更新时间 2022-09-14 04:36:38.157283 
 1. [羊了个羊 bug](https://s.weibo.com/weibo?q=%E7%BE%8A%E4%BA%86%E4%B8%AA%E7%BE%8A%20bug&t=31&band_rank=1&Refer=top) 5075268
 1. [人民网评张翰新剧](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E5%BC%A0%E7%BF%B0%E6%96%B0%E5%89%A7%23&t=31&band_rank=2&Refer=top) 4277489
 1. [消防员车上挂满泸定人送的哈达](https://s.weibo.com/weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%98%E8%BD%A6%E4%B8%8A%E6%8C%82%E6%BB%A1%E6%B3%B8%E5%AE%9A%E4%BA%BA%E9%80%81%E7%9A%84%E5%93%88%E8%BE%BE%23&t=31&band_rank=3&Refer=top) 2508747
@@ -50,12 +50,12 @@
 1. [碰到一只社恐小狗](https://s.weibo.com/weibo?q=%23%E7%A2%B0%E5%88%B0%E4%B8%80%E5%8F%AA%E7%A4%BE%E6%81%90%E5%B0%8F%E7%8B%97%23&t=31&band_rank=39&Refer=top) 129837
 1. [图书馆未免承受了太多社死](https://s.weibo.com/weibo?q=%23%E5%9B%BE%E4%B9%A6%E9%A6%86%E6%9C%AA%E5%85%8D%E6%89%BF%E5%8F%97%E4%BA%86%E5%A4%AA%E5%A4%9A%E7%A4%BE%E6%AD%BB%23&t=31&band_rank=40&Refer=top) 128332
 1. [张朝阳称iPhone14紫色光谱里不存在](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9C%9D%E9%98%B3%E7%A7%B0iPhone14%E7%B4%AB%E8%89%B2%E5%85%89%E8%B0%B1%E9%87%8C%E4%B8%8D%E5%AD%98%E5%9C%A8%23&t=31&band_rank=41&Refer=top) 126781
+1. [复星集团董事长郭广昌发声](https://s.weibo.com/weibo?q=%E5%A4%8D%E6%98%9F%E9%9B%86%E5%9B%A2%E8%91%A3%E4%BA%8B%E9%95%BF%E9%83%AD%E5%B9%BF%E6%98%8C%E5%8F%91%E5%A3%B0&t=31&band_rank=38&Refer=top) 124404
 1. [肖晨下线](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%99%A8%E4%B8%8B%E7%BA%BF%23&t=31&band_rank=42&Refer=top) 122045
 1. [狮子也是小猫咪呀](https://s.weibo.com/weibo?q=%23%E7%8B%AE%E5%AD%90%E4%B9%9F%E6%98%AF%E5%B0%8F%E7%8C%AB%E5%92%AA%E5%91%80%23&t=31&band_rank=43&Refer=top) 116822
 1. [远嫁女儿第一次带宝宝回娘家](https://s.weibo.com/weibo?q=%23%E8%BF%9C%E5%AB%81%E5%A5%B3%E5%84%BF%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%B8%A6%E5%AE%9D%E5%AE%9D%E5%9B%9E%E5%A8%98%E5%AE%B6%23&t=31&band_rank=44&Refer=top) 112775
 1. [当猫咪眉毛上有眼屎](https://s.weibo.com/weibo?q=%23%E5%BD%93%E7%8C%AB%E5%92%AA%E7%9C%89%E6%AF%9B%E4%B8%8A%E6%9C%89%E7%9C%BC%E5%B1%8E%23&t=31&band_rank=34&Refer=top) 111355
 1. [这就是重庆的兔子嘛](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E9%87%8D%E5%BA%86%E7%9A%84%E5%85%94%E5%AD%90%E5%98%9B%23&t=31&band_rank=45&Refer=top) 111160
-1. [复星集团董事长郭广昌发声](https://s.weibo.com/weibo?q=%E5%A4%8D%E6%98%9F%E9%9B%86%E5%9B%A2%E8%91%A3%E4%BA%8B%E9%95%BF%E9%83%AD%E5%B9%BF%E6%98%8C%E5%8F%91%E5%A3%B0&t=31&band_rank=38&Refer=top) 108334
 1. [丈夫踩蛇被吓飞妻子单手拎起](https://s.weibo.com/weibo?q=%23%E4%B8%88%E5%A4%AB%E8%B8%A9%E8%9B%87%E8%A2%AB%E5%90%93%E9%A3%9E%E5%A6%BB%E5%AD%90%E5%8D%95%E6%89%8B%E6%8B%8E%E8%B5%B7%23&t=31&band_rank=46&Refer=top) 107893
 1. [苹果四款机型不支持电量百分比](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%9B%9B%E6%AC%BE%E6%9C%BA%E5%9E%8B%E4%B8%8D%E6%94%AF%E6%8C%81%E7%94%B5%E9%87%8F%E7%99%BE%E5%88%86%E6%AF%94%23&t=31&band_rank=47&Refer=top) 106951
 1. [外交部回应美计划扩大对美企向中国出口芯片限制](https://s.weibo.com/weibo?q=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E8%AE%A1%E5%88%92%E6%89%A9%E5%A4%A7%E5%AF%B9%E7%BE%8E%E4%BC%81%E5%90%91%E4%B8%AD%E5%9B%BD%E5%87%BA%E5%8F%A3%E8%8A%AF%E7%89%87%E9%99%90%E5%88%B6&t=31&band_rank=48&Refer=top) 104759
@@ -65,7 +65,8 @@
 1. [大学生才不会觉得幼稚](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%89%8D%E4%B8%8D%E4%BC%9A%E8%A7%89%E5%BE%97%E5%B9%BC%E7%A8%9A%23&t=31&band_rank=26&Refer=top) 94465
 1. [一念关山全员开机照](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%E5%85%A8%E5%91%98%E5%BC%80%E6%9C%BA%E7%85%A7%23&t=31&band_rank=43&Refer=top) 78757
 1. [妈妈带宝宝看猩猩反被围观](https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E5%B8%A6%E5%AE%9D%E5%AE%9D%E7%9C%8B%E7%8C%A9%E7%8C%A9%E5%8F%8D%E8%A2%AB%E5%9B%B4%E8%A7%82%23&t=31&band_rank=47&Refer=top) 50993
-1. [3岁幼童被牵绳大狗咬伤](https://s.weibo.com/weibo?q=%233%E5%B2%81%E5%B9%BC%E7%AB%A5%E8%A2%AB%E7%89%B5%E7%BB%B3%E5%A4%A7%E7%8B%97%E5%92%AC%E4%BC%A4%23&t=31&band_rank=46&Refer=top) 11801
+1. [3岁幼童被牵绳大狗咬伤](https://s.weibo.com/weibo?q=%233%E5%B2%81%E5%B9%BC%E7%AB%A5%E8%A2%AB%E7%89%B5%E7%BB%B3%E5%A4%A7%E7%8B%97%E5%92%AC%E4%BC%A4%23&t=31&band_rank=46&Refer=top) 28885
+1. [姐姐嫌妈妈太凶亲自辅导弟弟被气哭](https://s.weibo.com/weibo?q=%23%E5%A7%90%E5%A7%90%E5%AB%8C%E5%A6%88%E5%A6%88%E5%A4%AA%E5%87%B6%E4%BA%B2%E8%87%AA%E8%BE%85%E5%AF%BC%E5%BC%9F%E5%BC%9F%E8%A2%AB%E6%B0%94%E5%93%AD%23&t=31&band_rank=45&Refer=top) 12091
 1. [尼克杨回应被KO](https://s.weibo.com/weibo?q=%23%E5%B0%BC%E5%85%8B%E6%9D%A8%E5%9B%9E%E5%BA%94%E8%A2%ABKO%23&t=31&band_rank=50&Refer=top) 9461
 1. [怎样释怀走散的友情](https://s.weibo.com/weibo?q=%23%E6%80%8E%E6%A0%B7%E9%87%8A%E6%80%80%E8%B5%B0%E6%95%A3%E7%9A%84%E5%8F%8B%E6%83%85%23&t=31&band_rank=50&Refer=top) 9223
 <!-- END -->
