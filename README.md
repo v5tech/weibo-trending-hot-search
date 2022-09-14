@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-09-15 03:49:59.635161 
+最后更新时间 2022-09-15 04:16:19.839542 
 1. [羊了个羊 驴了个驴](https://s.weibo.com/weibo?q=%E7%BE%8A%E4%BA%86%E4%B8%AA%E7%BE%8A%20%E9%A9%B4%E4%BA%86%E4%B8%AA%E9%A9%B4&t=31&band_rank=15&Refer=top) 1751073
 1. [奶茶溅入电脑显示屏致蚂蚁筑巢](https://s.weibo.com/weibo?q=%23%E5%A5%B6%E8%8C%B6%E6%BA%85%E5%85%A5%E7%94%B5%E8%84%91%E6%98%BE%E7%A4%BA%E5%B1%8F%E8%87%B4%E8%9A%82%E8%9A%81%E7%AD%91%E5%B7%A2%23&t=31&band_rank=1&Refer=top) 1515746
 1. [韩剧现偶男主角人设天花板](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%89%A7%E7%8E%B0%E5%81%B6%E7%94%B7%E4%B8%BB%E8%A7%92%E4%BA%BA%E8%AE%BE%E5%A4%A9%E8%8A%B1%E6%9D%BF%23&t=31&band_rank=2&Refer=top) 1135003
