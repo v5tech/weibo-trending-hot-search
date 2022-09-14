@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-09-15 02:17:46.264421 
+最后更新时间 2022-09-15 02:49:52.855983 
 1. [羊了个羊 驴了个驴](https://s.weibo.com/weibo?q=%E7%BE%8A%E4%BA%86%E4%B8%AA%E7%BE%8A%20%E9%A9%B4%E4%BA%86%E4%B8%AA%E9%A9%B4&t=31&band_rank=15&Refer=top) 1751073
 1. [奶茶溅入电脑显示屏致蚂蚁筑巢](https://s.weibo.com/weibo?q=%23%E5%A5%B6%E8%8C%B6%E6%BA%85%E5%85%A5%E7%94%B5%E8%84%91%E6%98%BE%E7%A4%BA%E5%B1%8F%E8%87%B4%E8%9A%82%E8%9A%81%E7%AD%91%E5%B7%A2%23&t=31&band_rank=1&Refer=top) 1515746
 1. [韩剧现偶男主角人设天花板](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%89%A7%E7%8E%B0%E5%81%B6%E7%94%B7%E4%B8%BB%E8%A7%92%E4%BA%BA%E8%AE%BE%E5%A4%A9%E8%8A%B1%E6%9D%BF%23&t=31&band_rank=2&Refer=top) 1135003
@@ -63,9 +63,9 @@
 1. [王鹤棣新剧状态](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%96%B0%E5%89%A7%E7%8A%B6%E6%80%81%23&t=31&band_rank=49&Refer=top) 96482
 1. [中方回应是否派员出席英女王国葬](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%98%AF%E5%90%A6%E6%B4%BE%E5%91%98%E5%87%BA%E5%B8%AD%E8%8B%B1%E5%A5%B3%E7%8E%8B%E5%9B%BD%E8%91%AC%23&t=31&band_rank=50&Refer=top) 95450
 1. [冰雨火](https://s.weibo.com/weibo?q=%23%E5%86%B0%E9%9B%A8%E7%81%AB%23&t=31&band_rank=19&Refer=top) 93880
+1. [世界杯哪队的中国球迷最多](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%E5%93%AA%E9%98%9F%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%90%83%E8%BF%B7%E6%9C%80%E5%A4%9A%23&t=31&band_rank=41&Refer=top) 55490
 1. [58岁自驾阿姨苏敏称会继续出发](https://s.weibo.com/weibo?q=%2358%E5%B2%81%E8%87%AA%E9%A9%BE%E9%98%BF%E5%A7%A8%E8%8B%8F%E6%95%8F%E7%A7%B0%E4%BC%9A%E7%BB%A7%E7%BB%AD%E5%87%BA%E5%8F%91%23&t=31&band_rank=50&Refer=top) 53196
 1. [这是书里走出来的大家闺秀吧](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF%E4%B9%A6%E9%87%8C%E8%B5%B0%E5%87%BA%E6%9D%A5%E7%9A%84%E5%A4%A7%E5%AE%B6%E9%97%BA%E7%A7%80%E5%90%A7%23&t=31&band_rank=43&Refer=top) 52939
-1. [世界杯哪队的中国球迷最多](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%E5%93%AA%E9%98%9F%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%90%83%E8%BF%B7%E6%9C%80%E5%A4%9A%23&t=31&band_rank=41&Refer=top) 35263
 1. [18岁小伙文前女友名字去掉需切除](https://s.weibo.com/weibo?q=%2318%E5%B2%81%E5%B0%8F%E4%BC%99%E6%96%87%E5%89%8D%E5%A5%B3%E5%8F%8B%E5%90%8D%E5%AD%97%E5%8E%BB%E6%8E%89%E9%9C%80%E5%88%87%E9%99%A4%23&t=31&band_rank=50&Refer=top) 31469
 1. [当一群社恐狗狗聚会](https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%B8%80%E7%BE%A4%E7%A4%BE%E6%81%90%E7%8B%97%E7%8B%97%E8%81%9A%E4%BC%9A%23&t=31&band_rank=50&Refer=top) 20170
 <!-- END -->
