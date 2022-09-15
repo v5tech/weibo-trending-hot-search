@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-09-16 03:28:20.733592 
+最后更新时间 2022-09-16 03:39:52.363459 
 1. [海南免税版iPhone14系列价格](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%8D%97%E5%85%8D%E7%A8%8E%E7%89%88iPhone14%E7%B3%BB%E5%88%97%E4%BB%B7%E6%A0%BC%23&t=31&band_rank=11&Refer=top) 1044213
 1. [女儿送务农爸爸跑步机让他健身](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E9%80%81%E5%8A%A1%E5%86%9C%E7%88%B8%E7%88%B8%E8%B7%91%E6%AD%A5%E6%9C%BA%E8%AE%A9%E4%BB%96%E5%81%A5%E8%BA%AB%23&t=31&band_rank=1&Refer=top) 554889
 1. [费德勒宣布退役](https://s.weibo.com/weibo?q=%23%E8%B4%B9%E5%BE%B7%E5%8B%92%E5%AE%A3%E5%B8%83%E9%80%80%E5%BD%B9%23&t=31&band_rank=2&Refer=top) 427298
