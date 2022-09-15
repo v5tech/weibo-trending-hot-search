@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-09-16 03:12:00.965868 
+最后更新时间 2022-09-16 03:28:20.733592 
 1. [海南免税版iPhone14系列价格](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%8D%97%E5%85%8D%E7%A8%8E%E7%89%88iPhone14%E7%B3%BB%E5%88%97%E4%BB%B7%E6%A0%BC%23&t=31&band_rank=11&Refer=top) 1044213
 1. [女儿送务农爸爸跑步机让他健身](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E9%80%81%E5%8A%A1%E5%86%9C%E7%88%B8%E7%88%B8%E8%B7%91%E6%AD%A5%E6%9C%BA%E8%AE%A9%E4%BB%96%E5%81%A5%E8%BA%AB%23&t=31&band_rank=1&Refer=top) 554889
 1. [费德勒宣布退役](https://s.weibo.com/weibo?q=%23%E8%B4%B9%E5%BE%B7%E5%8B%92%E5%AE%A3%E5%B8%83%E9%80%80%E5%BD%B9%23&t=31&band_rank=2&Refer=top) 427298
@@ -61,6 +61,7 @@
 1. [平价下饭神器](https://s.weibo.com/weibo?q=%23%E5%B9%B3%E4%BB%B7%E4%B8%8B%E9%A5%AD%E7%A5%9E%E5%99%A8%23&t=31&band_rank=48&Refer=top) 70270
 1. [狗狗进饭店站婴儿座椅里进食](https://s.weibo.com/weibo?q=%23%E7%8B%97%E7%8B%97%E8%BF%9B%E9%A5%AD%E5%BA%97%E7%AB%99%E5%A9%B4%E5%84%BF%E5%BA%A7%E6%A4%85%E9%87%8C%E8%BF%9B%E9%A3%9F%23&t=31&band_rank=49&Refer=top) 70267
 1. [落霞与白鹭齐飞原来这么美](https://s.weibo.com/weibo?q=%23%E8%90%BD%E9%9C%9E%E4%B8%8E%E7%99%BD%E9%B9%AD%E9%BD%90%E9%A3%9E%E5%8E%9F%E6%9D%A5%E8%BF%99%E4%B9%88%E7%BE%8E%23&t=31&band_rank=50&Refer=top) 67360
+1. [白冰新剧用30万与原生家庭和解](https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%86%B0%E6%96%B0%E5%89%A7%E7%94%A830%E4%B8%87%E4%B8%8E%E5%8E%9F%E7%94%9F%E5%AE%B6%E5%BA%AD%E5%92%8C%E8%A7%A3%23&t=31&band_rank=4&Refer=top) 67336
 1. [中了陈小春的美男计](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BA%86%E9%99%88%E5%B0%8F%E6%98%A5%E7%9A%84%E7%BE%8E%E7%94%B7%E8%AE%A1%23&t=31&band_rank=42&Refer=top) 64949
 1. [很难不对明艳大美人心动吧](https://s.weibo.com/weibo?q=%23%E5%BE%88%E9%9A%BE%E4%B8%8D%E5%AF%B9%E6%98%8E%E8%89%B3%E5%A4%A7%E7%BE%8E%E4%BA%BA%E5%BF%83%E5%8A%A8%E5%90%A7%23&t=31&band_rank=32&Refer=top) 60184
 1. [琼姐杨兴权吻别](https://s.weibo.com/weibo?q=%23%E7%90%BC%E5%A7%90%E6%9D%A8%E5%85%B4%E6%9D%83%E5%90%BB%E5%88%AB%23&t=31&band_rank=9&Refer=top) 45871
