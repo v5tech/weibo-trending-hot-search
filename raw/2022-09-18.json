@@ -5,7 +5,7 @@
   },
   "今日中国再不是1931年的中国": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8A%E6%97%A5%E4%B8%AD%E5%9B%BD%E5%86%8D%E4%B8%8D%E6%98%AF1931%E5%B9%B4%E7%9A%84%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=8&Refer=top",
-    "hot": 1387321
+    "hot": 1617319
   },
   "台湾6.5级地震": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE6.5%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=2&Refer=top",
@@ -119,6 +119,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E9%9C%87%E6%84%9F%23&t=31&band_rank=23&Refer=top",
     "hot": 206216
   },
+  "黑话律师": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%BB%91%E8%AF%9D%E5%BE%8B%E5%B8%88%23&t=31&band_rank=41&Refer=top",
+    "hot": 196076
+  },
   "顾客过生日饭店墙体地面被涂满蛋糕": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E8%BF%87%E7%94%9F%E6%97%A5%E9%A5%AD%E5%BA%97%E5%A2%99%E4%BD%93%E5%9C%B0%E9%9D%A2%E8%A2%AB%E6%B6%82%E6%BB%A1%E8%9B%8B%E7%B3%95%23&t=31&band_rank=24&Refer=top",
     "hot": 186186
@@ -138,10 +142,6 @@
   "2022LBL": {
     "url": "https://s.weibo.com/weibo?q=%232022LBL%23&t=31&band_rank=29&Refer=top",
     "hot": 149123
-  },
-  "黑话律师": {
-    "url": "https://s.weibo.com/weibo?q=%23%E9%BB%91%E8%AF%9D%E5%BE%8B%E5%B8%88%23&t=31&band_rank=41&Refer=top",
-    "hot": 148910
   },
   "这届大学生有多会答题": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B1%8A%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%9C%89%E5%A4%9A%E4%BC%9A%E7%AD%94%E9%A2%98%23&t=31&band_rank=30&Refer=top",
@@ -179,6 +179,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%AB%A5%E6%BB%91%E6%9D%BF%E5%A4%B1%E6%8E%A7%E7%9E%AC%E9%97%B4%E5%B0%91%E5%B9%B4%E4%B8%80%E6%8A%8A%E6%8B%89%E4%BD%8F%23&t=31&band_rank=40&Refer=top",
     "hot": 119337
   },
+  "妻子刷新闻看到老公救人": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E5%88%B7%E6%96%B0%E9%97%BB%E7%9C%8B%E5%88%B0%E8%80%81%E5%85%AC%E6%95%91%E4%BA%BA%23&t=31&band_rank=48&Refer=top",
+    "hot": 118125
+  },
   "你好星期六修罗场观后感": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%E4%BF%AE%E7%BD%97%E5%9C%BA%E8%A7%82%E5%90%8E%E6%84%9F%23&t=31&band_rank=42&Refer=top",
     "hot": 115904
@@ -187,6 +191,10 @@
     "url": "https://s.weibo.com/weibo?q=%23Uzi%E5%8F%82%E5%8A%A0LBL%23&t=31&band_rank=43&Refer=top",
     "hot": 111956
   },
+  "Doinb": {
+    "url": "https://s.weibo.com/weibo?q=Doinb&t=31&band_rank=45&Refer=top",
+    "hot": 104320
+  },
   "德国正式接管俄石油公司在德业务": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%9B%BD%E6%AD%A3%E5%BC%8F%E6%8E%A5%E7%AE%A1%E4%BF%84%E7%9F%B3%E6%B2%B9%E5%85%AC%E5%8F%B8%E5%9C%A8%E5%BE%B7%E4%B8%9A%E5%8A%A1%23&t=31&band_rank=45&Refer=top",
     "hot": 102286
@@ -194,14 +202,6 @@
   "这就是街舞": {
     "url": "https://s.weibo.com/weibo?q=%E8%BF%99%E5%B0%B1%E6%98%AF%E8%A1%97%E8%88%9E&t=31&band_rank=33&Refer=top",
     "hot": 101602
-  },
-  "妻子刷新闻看到老公救人": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E5%88%B7%E6%96%B0%E9%97%BB%E7%9C%8B%E5%88%B0%E8%80%81%E5%85%AC%E6%95%91%E4%BA%BA%23&t=31&band_rank=48&Refer=top",
-    "hot": 99291
-  },
-  "Doinb": {
-    "url": "https://s.weibo.com/weibo?q=Doinb&t=31&band_rank=45&Refer=top",
-    "hot": 98316
   },
   "这就是打磨了四年的剧本吗": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E6%89%93%E7%A3%A8%E4%BA%86%E5%9B%9B%E5%B9%B4%E7%9A%84%E5%89%A7%E6%9C%AC%E5%90%97%23&t=31&band_rank=36&Refer=top",
@@ -227,12 +227,12 @@
     "url": "https://s.weibo.com/weibo?q=%23%E6%9A%96%E9%98%B3%E7%9A%84%E6%BE%9C%23&t=31&band_rank=50&Refer=top",
     "hot": 77529
   },
+  "为什么有人热衷于美黑": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%BA%E7%83%AD%E8%A1%B7%E4%BA%8E%E7%BE%8E%E9%BB%91%23&t=31&band_rank=48&Refer=top",
+    "hot": 72616
+  },
   "苍兰诀直播": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%8B%8D%E5%85%B0%E8%AF%80%E7%9B%B4%E6%92%AD%23&t=31&band_rank=42&Refer=top",
     "hot": 67454
-  },
-  "为什么有人热衷于美黑": {
-    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%BA%E7%83%AD%E8%A1%B7%E4%BA%8E%E7%BE%8E%E9%BB%91%23&t=31&band_rank=48&Refer=top",
-    "hot": 41199
   }
 }
