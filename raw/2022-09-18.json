@@ -253,11 +253,15 @@
   },
   "关注超强台风南玛都": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%B3%A8%E8%B6%85%E5%BC%BA%E5%8F%B0%E9%A3%8E%E5%8D%97%E7%8E%9B%E9%83%BD%23&t=31&band_rank=50&Refer=top",
-    "hot": 17466
+    "hot": 21115
   },
   "IU演唱会视频": {
     "url": "https://s.weibo.com/weibo?q=IU%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A7%86%E9%A2%91&t=31&band_rank=34&Refer=top",
-    "hot": 14298
+    "hot": 14751
+  },
+  "92岁老人突发中风教科书式自救": {
+    "url": "https://s.weibo.com/weibo?q=%2392%E5%B2%81%E8%80%81%E4%BA%BA%E7%AA%81%E5%8F%91%E4%B8%AD%E9%A3%8E%E6%95%99%E7%A7%91%E4%B9%A6%E5%BC%8F%E8%87%AA%E6%95%91%23&t=31&band_rank=46&Refer=top",
+    "hot": 10526
   },
   "DNA可使敦煌壁画9.4℃保存2万年": {
     "url": "https://s.weibo.com/weibo?q=%23DNA%E5%8F%AF%E4%BD%BF%E6%95%A6%E7%85%8C%E5%A3%81%E7%94%BB9.4%E2%84%83%E4%BF%9D%E5%AD%982%E4%B8%87%E5%B9%B4%23&t=31&band_rank=49&Refer=top",
@@ -266,5 +270,9 @@
   "侵华日军射击鉴查写真机首次展出": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%BE%B5%E5%8D%8E%E6%97%A5%E5%86%9B%E5%B0%84%E5%87%BB%E9%89%B4%E6%9F%A5%E5%86%99%E7%9C%9F%E6%9C%BA%E9%A6%96%E6%AC%A1%E5%B1%95%E5%87%BA%23&t=31&band_rank=50&Refer=top",
     "hot": 9010
+  },
+  "哪种睡姿最健康": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%93%AA%E7%A7%8D%E7%9D%A1%E5%A7%BF%E6%9C%80%E5%81%A5%E5%BA%B7%23&t=31&band_rank=50&Refer=top",
+    "hot": 8252
   }
 }
