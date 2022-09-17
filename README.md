@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-09-18 04:14:25.466322 
+最后更新时间 2022-09-18 04:35:39.055659 
 1. [情侣间需要每天聊天吗](https://s.weibo.com/weibo?q=%23%E6%83%85%E4%BE%A3%E9%97%B4%E9%9C%80%E8%A6%81%E6%AF%8F%E5%A4%A9%E8%81%8A%E5%A4%A9%E5%90%97%23&t=31&band_rank=1&Refer=top) 2028499
 1. [今日中国再不是1931年的中国](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E6%97%A5%E4%B8%AD%E5%9B%BD%E5%86%8D%E4%B8%8D%E6%98%AF1931%E5%B9%B4%E7%9A%84%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=8&Refer=top) 1617319
 1. [台湾6.5级地震](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE6.5%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=2&Refer=top) 1209504
@@ -70,8 +70,11 @@
 1. [王鹤棣看张彬彬叫虞书欣的表情](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E7%9C%8B%E5%BC%A0%E5%BD%AC%E5%BD%AC%E5%8F%AB%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%9A%84%E8%A1%A8%E6%83%85%23&t=31&band_rank=13&Refer=top) 71391
 1. [苍兰诀直播](https://s.weibo.com/weibo?q=%23%E8%8B%8D%E5%85%B0%E8%AF%80%E7%9B%B4%E6%92%AD%23&t=31&band_rank=42&Refer=top) 67454
 1. [猴痘潜伏期最长23天](https://s.weibo.com/weibo?q=%23%E7%8C%B4%E7%97%98%E6%BD%9C%E4%BC%8F%E6%9C%9F%E6%9C%80%E9%95%BF23%E5%A4%A9%23&t=31&band_rank=44&Refer=top) 60590
-1. [小伙租房失联留满屋垃圾熏吐房主](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E7%A7%9F%E6%88%BF%E5%A4%B1%E8%81%94%E7%95%99%E6%BB%A1%E5%B1%8B%E5%9E%83%E5%9C%BE%E7%86%8F%E5%90%90%E6%88%BF%E4%B8%BB%23&t=31&band_rank=37&Refer=top) 18228
-1. [关注超强台风南玛都](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%B3%A8%E8%B6%85%E5%BC%BA%E5%8F%B0%E9%A3%8E%E5%8D%97%E7%8E%9B%E9%83%BD%23&t=31&band_rank=50&Refer=top) 10546
+1. [小伙租房失联留满屋垃圾熏吐房主](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E7%A7%9F%E6%88%BF%E5%A4%B1%E8%81%94%E7%95%99%E6%BB%A1%E5%B1%8B%E5%9E%83%E5%9C%BE%E7%86%8F%E5%90%90%E6%88%BF%E4%B8%BB%23&t=31&band_rank=37&Refer=top) 38964
+1. [关注超强台风南玛都](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%B3%A8%E8%B6%85%E5%BC%BA%E5%8F%B0%E9%A3%8E%E5%8D%97%E7%8E%9B%E9%83%BD%23&t=31&band_rank=50&Refer=top) 17466
+1. [IU演唱会视频](https://s.weibo.com/weibo?q=IU%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A7%86%E9%A2%91&t=31&band_rank=34&Refer=top) 14298
+1. [DNA可使敦煌壁画9.4℃保存2万年](https://s.weibo.com/weibo?q=%23DNA%E5%8F%AF%E4%BD%BF%E6%95%A6%E7%85%8C%E5%A3%81%E7%94%BB9.4%E2%84%83%E4%BF%9D%E5%AD%982%E4%B8%87%E5%B9%B4%23&t=31&band_rank=49&Refer=top) 9328
+1. [侵华日军射击鉴查写真机首次展出](https://s.weibo.com/weibo?q=%23%E4%BE%B5%E5%8D%8E%E6%97%A5%E5%86%9B%E5%B0%84%E5%87%BB%E9%89%B4%E6%9F%A5%E5%86%99%E7%9C%9F%E6%9C%BA%E9%A6%96%E6%AC%A1%E5%B1%95%E5%87%BA%23&t=31&band_rank=50&Refer=top) 9010
 <!-- END -->
 
 历史归档 [./archives](./archives)
