@@ -7,10 +7,10 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-09-19 01:44:17.898781 
+最后更新时间 2022-09-19 01:54:26.038293 
+1. [贵阳通报向全社会作出诚恳道歉](https://s.weibo.com/weibo?q=%E8%B4%B5%E9%98%B3%E9%80%9A%E6%8A%A5%E5%90%91%E5%85%A8%E7%A4%BE%E4%BC%9A%E4%BD%9C%E5%87%BA%E8%AF%9A%E6%81%B3%E9%81%93%E6%AD%89&t=31&band_rank=50&Refer=top) 1876037
 1. [老太切除多器官3个月后去世](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%A4%AA%E5%88%87%E9%99%A4%E5%A4%9A%E5%99%A8%E5%AE%983%E4%B8%AA%E6%9C%88%E5%90%8E%E5%8E%BB%E4%B8%96%23&t=31&band_rank=1&Refer=top) 1317603
 1. [高开高走的韩剧](https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%BC%80%E9%AB%98%E8%B5%B0%E7%9A%84%E9%9F%A9%E5%89%A7%23&t=31&band_rank=1&Refer=top) 1219687
-1. [贵阳通报向全社会作出诚恳道歉](https://s.weibo.com/weibo?q=%E8%B4%B5%E9%98%B3%E9%80%9A%E6%8A%A5%E5%90%91%E5%85%A8%E7%A4%BE%E4%BC%9A%E4%BD%9C%E5%87%BA%E8%AF%9A%E6%81%B3%E9%81%93%E6%AD%89&t=31&band_rank=50&Refer=top) 1142212
 1. [这样的雨伞建议量产](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%A0%B7%E7%9A%84%E9%9B%A8%E4%BC%9E%E5%BB%BA%E8%AE%AE%E9%87%8F%E4%BA%A7%23&t=31&band_rank=2&Refer=top) 856907
 1. [英雄回家](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E5%9B%9E%E5%AE%B6%23&t=31&band_rank=3&Refer=top) 848538
 1. [垫底辣孩再次致歉](https://s.weibo.com/weibo?q=%23%E5%9E%AB%E5%BA%95%E8%BE%A3%E5%AD%A9%E5%86%8D%E6%AC%A1%E8%87%B4%E6%AD%89%23&t=31&band_rank=4&Refer=top) 839649
