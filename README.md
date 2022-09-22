@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-09-23 03:29:39.349892 
+最后更新时间 2022-09-23 03:41:58.278978 
 1. [上海不再全面禁止路边摊](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%B8%8D%E5%86%8D%E5%85%A8%E9%9D%A2%E7%A6%81%E6%AD%A2%E8%B7%AF%E8%BE%B9%E6%91%8A%23&t=31&band_rank=1&Refer=top) 1940054
 1. [深圳楼盘604套千万豪宅一天卖光](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%A5%BC%E7%9B%98604%E5%A5%97%E5%8D%83%E4%B8%87%E8%B1%AA%E5%AE%85%E4%B8%80%E5%A4%A9%E5%8D%96%E5%85%89%23&t=31&band_rank=5&Refer=top) 745597
 1. [这是一只23岁的猫猫](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF%E4%B8%80%E5%8F%AA23%E5%B2%81%E7%9A%84%E7%8C%AB%E7%8C%AB%23&t=31&band_rank=2&Refer=top) 568183
@@ -69,7 +69,8 @@
 1. [S12选手评分](https://s.weibo.com/weibo?q=%23S12%E9%80%89%E6%89%8B%E8%AF%84%E5%88%86%23&t=31&band_rank=49&Refer=top) 19563
 1. [王者新赛季今日开启](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E6%96%B0%E8%B5%9B%E5%AD%A3%E4%BB%8A%E6%97%A5%E5%BC%80%E5%90%AF%23&t=31&band_rank=50&Refer=top) 9978
 1. [5男生同骑一辆共享电动车](https://s.weibo.com/weibo?q=%235%E7%94%B7%E7%94%9F%E5%90%8C%E9%AA%91%E4%B8%80%E8%BE%86%E5%85%B1%E4%BA%AB%E7%94%B5%E5%8A%A8%E8%BD%A6%23&t=31&band_rank=47&Refer=top) 8598
-1. [重庆首批地标菜名单](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E9%A6%96%E6%89%B9%E5%9C%B0%E6%A0%87%E8%8F%9C%E5%90%8D%E5%8D%95%23&t=31&band_rank=50&Refer=top) 7145
+1. [重庆首批地标菜名单](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E9%A6%96%E6%89%B9%E5%9C%B0%E6%A0%87%E8%8F%9C%E5%90%8D%E5%8D%95%23&t=31&band_rank=50&Refer=top) 7149
+1. [老中医看病抓药不用称全凭手感](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%B8%AD%E5%8C%BB%E7%9C%8B%E7%97%85%E6%8A%93%E8%8D%AF%E4%B8%8D%E7%94%A8%E7%A7%B0%E5%85%A8%E5%87%AD%E6%89%8B%E6%84%9F%23&t=31&band_rank=50&Refer=top) 6675
 <!-- END -->
 
 历史归档 [./archives](./archives)
