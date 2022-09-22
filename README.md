@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-09-23 01:57:13.787382 
+最后更新时间 2022-09-23 02:21:38.667599 
 1. [上海不再全面禁止路边摊](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%B8%8D%E5%86%8D%E5%85%A8%E9%9D%A2%E7%A6%81%E6%AD%A2%E8%B7%AF%E8%BE%B9%E6%91%8A%23&t=31&band_rank=1&Refer=top) 1940054
 1. [深圳楼盘604套千万豪宅一天卖光](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%A5%BC%E7%9B%98604%E5%A5%97%E5%8D%83%E4%B8%87%E8%B1%AA%E5%AE%85%E4%B8%80%E5%A4%A9%E5%8D%96%E5%85%89%23&t=31&band_rank=5&Refer=top) 745597
 1. [这是一只23岁的猫猫](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF%E4%B8%80%E5%8F%AA23%E5%B2%81%E7%9A%84%E7%8C%AB%E7%8C%AB%23&t=31&band_rank=2&Refer=top) 568183
@@ -62,8 +62,11 @@
 1. [研究称地球上共有2亿亿只蚂蚁](https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E7%A7%B0%E5%9C%B0%E7%90%83%E4%B8%8A%E5%85%B1%E6%9C%892%E4%BA%BF%E4%BA%BF%E5%8F%AA%E8%9A%82%E8%9A%81%23&t=31&band_rank=47&Refer=top) 78336
 1. [原来手机可以一键转移数据](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%89%8B%E6%9C%BA%E5%8F%AF%E4%BB%A5%E4%B8%80%E9%94%AE%E8%BD%AC%E7%A7%BB%E6%95%B0%E6%8D%AE%23&t=31&band_rank=49&Refer=top) 73880
 1. [5岁男孩礼貌求摸警犬获众人鼓励](https://s.weibo.com/weibo?q=%235%E5%B2%81%E7%94%B7%E5%AD%A9%E7%A4%BC%E8%B2%8C%E6%B1%82%E6%91%B8%E8%AD%A6%E7%8A%AC%E8%8E%B7%E4%BC%97%E4%BA%BA%E9%BC%93%E5%8A%B1%23&t=31&band_rank=50&Refer=top) 61364
+1. [女子办证时偷偷递纸条给民警求助](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%8A%9E%E8%AF%81%E6%97%B6%E5%81%B7%E5%81%B7%E9%80%92%E7%BA%B8%E6%9D%A1%E7%BB%99%E6%B0%91%E8%AD%A6%E6%B1%82%E5%8A%A9%23&t=31&band_rank=30&Refer=top) 35068
 1. [这里是流浪猫的天堂吧](https://s.weibo.com/weibo?q=%23%E8%BF%99%E9%87%8C%E6%98%AF%E6%B5%81%E6%B5%AA%E7%8C%AB%E7%9A%84%E5%A4%A9%E5%A0%82%E5%90%A7%23&t=31&band_rank=48&Refer=top) 31037
 1. [高质量居家好物](https://s.weibo.com/weibo?q=%E9%AB%98%E8%B4%A8%E9%87%8F%E5%B1%85%E5%AE%B6%E5%A5%BD%E7%89%A9&t=31&band_rank=49&Refer=top) 30498
+1. [S12选手评分](https://s.weibo.com/weibo?q=%23S12%E9%80%89%E6%89%8B%E8%AF%84%E5%88%86%23&t=31&band_rank=49&Refer=top) 14331
+1. [顾客称吃饭被收20元空调费](https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E7%A7%B0%E5%90%83%E9%A5%AD%E8%A2%AB%E6%94%B620%E5%85%83%E7%A9%BA%E8%B0%83%E8%B4%B9%23&t=31&band_rank=50&Refer=top) 12542
 <!-- END -->
 
 历史归档 [./archives](./archives)
