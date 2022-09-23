@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-09-24 03:14:59.294361 
+最后更新时间 2022-09-24 03:31:54.065973 
 1. [你其实不喜欢谈恋爱](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%85%B6%E5%AE%9E%E4%B8%8D%E5%96%9C%E6%AC%A2%E8%B0%88%E6%81%8B%E7%88%B1%23&t=31&band_rank=1&Refer=top) 1998580
 1. [法考](https://s.weibo.com/weibo?q=%E6%B3%95%E8%80%83&t=31&band_rank=2&Refer=top) 1247038
 1. [1家4人查出幽门螺杆菌孩子疼得打滚](https://s.weibo.com/weibo?q=%231%E5%AE%B64%E4%BA%BA%E6%9F%A5%E5%87%BA%E5%B9%BD%E9%97%A8%E8%9E%BA%E6%9D%86%E8%8F%8C%E5%AD%A9%E5%AD%90%E7%96%BC%E5%BE%97%E6%89%93%E6%BB%9A%23&t=31&band_rank=5&Refer=top) 1016796
@@ -62,7 +62,7 @@
 1. [黄大妈说不可能要求年轻人豁达](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%A4%A7%E5%A6%88%E8%AF%B4%E4%B8%8D%E5%8F%AF%E8%83%BD%E8%A6%81%E6%B1%82%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%B1%81%E8%BE%BE%23&t=31&band_rank=41&Refer=top) 61154
 1. [韩国空中出租车成功试飞](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%A9%BA%E4%B8%AD%E5%87%BA%E7%A7%9F%E8%BD%A6%E6%88%90%E5%8A%9F%E8%AF%95%E9%A3%9E%23&t=31&band_rank=50&Refer=top) 59113
 1. [台风奥鹿生成](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E5%A5%A5%E9%B9%BF%E7%94%9F%E6%88%90%23&t=31&band_rank=43&Refer=top) 23519
-1. [05后造出猫脸识别喂食器](https://s.weibo.com/weibo?q=%2305%E5%90%8E%E9%80%A0%E5%87%BA%E7%8C%AB%E8%84%B8%E8%AF%86%E5%88%AB%E5%96%82%E9%A3%9F%E5%99%A8%23&t=31&band_rank=45&Refer=top) 16168
+1. [05后造出猫脸识别喂食器](https://s.weibo.com/weibo?q=%2305%E5%90%8E%E9%80%A0%E5%87%BA%E7%8C%AB%E8%84%B8%E8%AF%86%E5%88%AB%E5%96%82%E9%A3%9F%E5%99%A8%23&t=31&band_rank=45&Refer=top) 18535
 1. [这些食物别生吃了](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BA%9B%E9%A3%9F%E7%89%A9%E5%88%AB%E7%94%9F%E5%90%83%E4%BA%86%23&t=31&band_rank=50&Refer=top) 10302
 <!-- END -->
 
