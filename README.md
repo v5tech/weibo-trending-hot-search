@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-09-25 01:53:36.596101 
+最后更新时间 2022-09-25 02:17:56.227271 
 1. [教育部回应降低英语教学比重建议](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E9%99%8D%E4%BD%8E%E8%8B%B1%E8%AF%AD%E6%95%99%E5%AD%A6%E6%AF%94%E9%87%8D%E5%BB%BA%E8%AE%AE%23&t=31&band_rank=1&Refer=top) 2690810
 1. [日本将用网红宣传福岛食品](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B0%86%E7%94%A8%E7%BD%91%E7%BA%A2%E5%AE%A3%E4%BC%A0%E7%A6%8F%E5%B2%9B%E9%A3%9F%E5%93%81%23&t=31&band_rank=39&Refer=top) 1108086
 1. [真正披荆斩棘的是齐思钧吧](https://s.weibo.com/weibo?q=%23%E7%9C%9F%E6%AD%A3%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E7%9A%84%E6%98%AF%E9%BD%90%E6%80%9D%E9%92%A7%E5%90%A7%23&t=31&band_rank=2&Refer=top) 856227
@@ -63,6 +63,7 @@
 1. [武汉三镇3比4沧州雄狮](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89%E4%B8%89%E9%95%873%E6%AF%944%E6%B2%A7%E5%B7%9E%E9%9B%84%E7%8B%AE%23&t=31&band_rank=50&Refer=top) 61406
 1. [河南大学110岁了](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E5%A4%A7%E5%AD%A6110%E5%B2%81%E4%BA%86%23&t=31&band_rank=47&Refer=top) 48553
 1. [爱好真的能当饭吃吗](https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%BD%E7%9C%9F%E7%9A%84%E8%83%BD%E5%BD%93%E9%A5%AD%E5%90%83%E5%90%97%23&t=31&band_rank=49&Refer=top) 27247
+1. [中学教室后排设蹲班制老师引热议](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%AD%A6%E6%95%99%E5%AE%A4%E5%90%8E%E6%8E%92%E8%AE%BE%E8%B9%B2%E7%8F%AD%E5%88%B6%E8%80%81%E5%B8%88%E5%BC%95%E7%83%AD%E8%AE%AE%23&t=31&band_rank=48&Refer=top) 17792
 <!-- END -->
 
 历史归档 [./archives](./archives)
