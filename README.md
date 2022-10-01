@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-10-02 02:17:19.299241 
+最后更新时间 2022-10-02 02:50:21.180367 
 1. [长津湖首播收视率第一](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B4%A5%E6%B9%96%E9%A6%96%E6%92%AD%E6%94%B6%E8%A7%86%E7%8E%87%E7%AC%AC%E4%B8%80%23&t=31&band_rank=1&Refer=top) 1012967
 1. [左麟右李](https://s.weibo.com/weibo?q=%E5%B7%A6%E9%BA%9F%E5%8F%B3%E6%9D%8E&t=31&band_rank=2&Refer=top) 839154
 1. [亲爱的祖国生日快乐](https://s.weibo.com/weibo?q=%23%E4%BA%B2%E7%88%B1%E7%9A%84%E7%A5%96%E5%9B%BD%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90%23&t=31&band_rank=3&Refer=top) 608398
