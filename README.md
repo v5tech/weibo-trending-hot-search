@@ -7,21 +7,21 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-10-03 00:24:29.440138 
+最后更新时间 2022-10-03 00:59:47.096624 
 1. [C罗](https://s.weibo.com/weibo?q=%23C%E7%BD%97%23&t=31&band_rank=1&Refer=top) 1484232
 1. [糊但好看的剧](https://s.weibo.com/weibo?q=%23%E7%B3%8A%E4%BD%86%E5%A5%BD%E7%9C%8B%E7%9A%84%E5%89%A7%23&t=31&band_rank=2&Refer=top) 1183333
-1. [新时代 我在中国](https://s.weibo.com/weibo?q=%23%E6%96%B0%E6%97%B6%E4%BB%A3%20%E6%88%91%E5%9C%A8%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top) 796537
+1. [新时代 我在中国](https://s.weibo.com/weibo?q=%23%E6%96%B0%E6%97%B6%E4%BB%A3%20%E6%88%91%E5%9C%A8%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top) 797251
+1. [8旬老baby因洗碗持兵器开战](https://s.weibo.com/weibo?q=%238%E6%97%AC%E8%80%81baby%E5%9B%A0%E6%B4%97%E7%A2%97%E6%8C%81%E5%85%B5%E5%99%A8%E5%BC%80%E6%88%98%23&t=31&band_rank=12&Refer=top) 794882
 1. [俄罗斯暂停向意大利供应天然气](https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E6%9A%82%E5%81%9C%E5%90%91%E6%84%8F%E5%A4%A7%E5%88%A9%E4%BE%9B%E5%BA%94%E5%A4%A9%E7%84%B6%E6%B0%94%23&t=31&band_rank=4&Refer=top) 689722
 1. [男子开特斯拉返乡堵到没电叫拖车](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%BC%80%E7%89%B9%E6%96%AF%E6%8B%89%E8%BF%94%E4%B9%A1%E5%A0%B5%E5%88%B0%E6%B2%A1%E7%94%B5%E5%8F%AB%E6%8B%96%E8%BD%A6%23&t=31&band_rank=5&Refer=top) 586426
 1. [爷爷为孙女做百余个拇指大小馒头](https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E4%B8%BA%E5%AD%99%E5%A5%B3%E5%81%9A%E7%99%BE%E4%BD%99%E4%B8%AA%E6%8B%87%E6%8C%87%E5%A4%A7%E5%B0%8F%E9%A6%92%E5%A4%B4%23&t=31&band_rank=6&Refer=top) 469386
+1. [德国民众雨中示威要求停止对俄制裁](https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%9B%BD%E6%B0%91%E4%BC%97%E9%9B%A8%E4%B8%AD%E7%A4%BA%E5%A8%81%E8%A6%81%E6%B1%82%E5%81%9C%E6%AD%A2%E5%AF%B9%E4%BF%84%E5%88%B6%E8%A3%81%23&t=31&band_rank=11&Refer=top) 445059
 1. [今年总要去一次长沙吧](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E6%80%BB%E8%A6%81%E5%8E%BB%E4%B8%80%E6%AC%A1%E9%95%BF%E6%B2%99%E5%90%A7%23&t=31&band_rank=7&Refer=top) 430139
 1. [医生隔着妈妈肚皮将宝宝调了个头](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E9%9A%94%E7%9D%80%E5%A6%88%E5%A6%88%E8%82%9A%E7%9A%AE%E5%B0%86%E5%AE%9D%E5%AE%9D%E8%B0%83%E4%BA%86%E4%B8%AA%E5%A4%B4%23&t=31&band_rank=8&Refer=top) 419455
+1. [BLACKPINKShutDown获人歌一位](https://s.weibo.com/weibo?q=%23BLACKPINKShutDown%E8%8E%B7%E4%BA%BA%E6%AD%8C%E4%B8%80%E4%BD%8D%23&t=31&band_rank=14&Refer=top) 393577
 1. [周亦安决定辞职](https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%BA%A6%E5%AE%89%E5%86%B3%E5%AE%9A%E8%BE%9E%E8%81%8C%23&t=31&band_rank=9&Refer=top) 353582
 1. [北溪管道泄漏将产生灾难性影响](https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%BA%AA%E7%AE%A1%E9%81%93%E6%B3%84%E6%BC%8F%E5%B0%86%E4%BA%A7%E7%94%9F%E7%81%BE%E9%9A%BE%E6%80%A7%E5%BD%B1%E5%93%8D%23&t=31&band_rank=10&Refer=top) 347404
-1. [德国民众雨中示威要求停止对俄制裁](https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%9B%BD%E6%B0%91%E4%BC%97%E9%9B%A8%E4%B8%AD%E7%A4%BA%E5%A8%81%E8%A6%81%E6%B1%82%E5%81%9C%E6%AD%A2%E5%AF%B9%E4%BF%84%E5%88%B6%E8%A3%81%23&t=31&band_rank=11&Refer=top) 342663
-1. [8旬老baby因洗碗持兵器开战](https://s.weibo.com/weibo?q=%238%E6%97%AC%E8%80%81baby%E5%9B%A0%E6%B4%97%E7%A2%97%E6%8C%81%E5%85%B5%E5%99%A8%E5%BC%80%E6%88%98%23&t=31&band_rank=12&Refer=top) 338598
 1. [23岁女孩吃网红药意识混乱险丧命](https://s.weibo.com/weibo?q=%2323%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%90%83%E7%BD%91%E7%BA%A2%E8%8D%AF%E6%84%8F%E8%AF%86%E6%B7%B7%E4%B9%B1%E9%99%A9%E4%B8%A7%E5%91%BD%23&t=31&band_rank=13&Refer=top) 324400
-1. [BLACKPINKShutDown获人歌一位](https://s.weibo.com/weibo?q=%23BLACKPINKShutDown%E8%8E%B7%E4%BA%BA%E6%AD%8C%E4%B8%80%E4%BD%8D%23&t=31&band_rank=14&Refer=top) 289778
 1. [研究发现3亿年后太平洋将消失](https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E5%8F%91%E7%8E%B03%E4%BA%BF%E5%B9%B4%E5%90%8E%E5%A4%AA%E5%B9%B3%E6%B4%8B%E5%B0%86%E6%B6%88%E5%A4%B1%23&t=31&band_rank=15&Refer=top) 266098
 1. [陈慧娴33年隔空对唱千千阙歌](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%85%A7%E5%A8%B433%E5%B9%B4%E9%9A%94%E7%A9%BA%E5%AF%B9%E5%94%B1%E5%8D%83%E5%8D%83%E9%98%99%E6%AD%8C%23&t=31&band_rank=16&Refer=top) 235832
 1. [曼城6比3曼联](https://s.weibo.com/weibo?q=%23%E6%9B%BC%E5%9F%8E6%E6%AF%943%E6%9B%BC%E8%81%94%23&t=31&band_rank=17&Refer=top) 229703
@@ -36,6 +36,7 @@
 1. [1岁娃玩药粉妈妈帮清洗全被染紫](https://s.weibo.com/weibo?q=%231%E5%B2%81%E5%A8%83%E7%8E%A9%E8%8D%AF%E7%B2%89%E5%A6%88%E5%A6%88%E5%B8%AE%E6%B8%85%E6%B4%97%E5%85%A8%E8%A2%AB%E6%9F%93%E7%B4%AB%23&t=31&band_rank=26&Refer=top) 131243
 1. [万里归途票房破4亿](https://s.weibo.com/weibo?q=%23%E4%B8%87%E9%87%8C%E5%BD%92%E9%80%94%E7%A5%A8%E6%88%BF%E7%A0%B44%E4%BA%BF%23&t=31&band_rank=27&Refer=top) 130664
 1. [你听过最好的安慰是怎样的](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%90%AC%E8%BF%87%E6%9C%80%E5%A5%BD%E7%9A%84%E5%AE%89%E6%85%B0%E6%98%AF%E6%80%8E%E6%A0%B7%E7%9A%84%23&t=31&band_rank=28&Refer=top) 130009
+1. [太原新增5例感染者](https://s.weibo.com/weibo?q=%23%E5%A4%AA%E5%8E%9F%E6%96%B0%E5%A2%9E5%E4%BE%8B%E6%84%9F%E6%9F%93%E8%80%85%23&t=31&band_rank=50&Refer=top) 116733
 1. [大爷捡19万现金苦等失主6小时](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%88%B7%E6%8D%A119%E4%B8%87%E7%8E%B0%E9%87%91%E8%8B%A6%E7%AD%89%E5%A4%B1%E4%B8%BB6%E5%B0%8F%E6%97%B6%23&t=31&band_rank=29&Refer=top) 109597
 1. [该成熟的时候就要成熟](https://s.weibo.com/weibo?q=%23%E8%AF%A5%E6%88%90%E7%86%9F%E7%9A%84%E6%97%B6%E5%80%99%E5%B0%B1%E8%A6%81%E6%88%90%E7%86%9F%23&t=31&band_rank=30&Refer=top) 109520
 1. [故宫高清壁纸上新](https://s.weibo.com/weibo?q=%23%E6%95%85%E5%AE%AB%E9%AB%98%E6%B8%85%E5%A3%81%E7%BA%B8%E4%B8%8A%E6%96%B0%23&t=31&band_rank=31&Refer=top) 107906
@@ -57,7 +58,6 @@
 1. [哈兰德3分钟2球](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%85%B0%E5%BE%B73%E5%88%86%E9%92%9F2%E7%90%83%23&t=31&band_rank=47&Refer=top) 53048
 1. [哈兰德太强了](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%85%B0%E5%BE%B7%E5%A4%AA%E5%BC%BA%E4%BA%86%23&t=31&band_rank=48&Refer=top) 52780
 1. [成毅周亦安振作起来](https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E5%91%A8%E4%BA%A6%E5%AE%89%E6%8C%AF%E4%BD%9C%E8%B5%B7%E6%9D%A5%23&t=31&band_rank=49&Refer=top) 52748
-1. [太原新增5例感染者](https://s.weibo.com/weibo?q=%23%E5%A4%AA%E5%8E%9F%E6%96%B0%E5%A2%9E5%E4%BE%8B%E6%84%9F%E6%9F%93%E8%80%85%23&t=31&band_rank=50&Refer=top) 38140
 <!-- END -->
 
 历史归档 [./archives](./archives)
