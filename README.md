@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-10-03 02:17:37.428646 
+最后更新时间 2022-10-03 02:50:25.601397 
 1. [C罗](https://s.weibo.com/weibo?q=%23C%E7%BD%97%23&t=31&band_rank=1&Refer=top) 1484232
 1. [糊但好看的剧](https://s.weibo.com/weibo?q=%23%E7%B3%8A%E4%BD%86%E5%A5%BD%E7%9C%8B%E7%9A%84%E5%89%A7%23&t=31&band_rank=2&Refer=top) 1183333
 1. [新时代 我在中国](https://s.weibo.com/weibo?q=%23%E6%96%B0%E6%97%B6%E4%BB%A3%20%E6%88%91%E5%9C%A8%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top) 797251
@@ -59,6 +59,7 @@
 1. [哈兰德3分钟2球](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%85%B0%E5%BE%B73%E5%88%86%E9%92%9F2%E7%90%83%23&t=31&band_rank=47&Refer=top) 53048
 1. [哈兰德太强了](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%85%B0%E5%BE%B7%E5%A4%AA%E5%BC%BA%E4%BA%86%23&t=31&band_rank=48&Refer=top) 52780
 1. [成毅周亦安振作起来](https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E5%91%A8%E4%BA%A6%E5%AE%89%E6%8C%AF%E4%BD%9C%E8%B5%B7%E6%9D%A5%23&t=31&band_rank=49&Refer=top) 52748
+1. [尼日利亚考虑买C919](https://s.weibo.com/weibo?q=%23%E5%B0%BC%E6%97%A5%E5%88%A9%E4%BA%9A%E8%80%83%E8%99%91%E4%B9%B0C919%23&t=31&band_rank=27&Refer=top) 36117
 1. [陈哲远综艺之神降临](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%93%B2%E8%BF%9C%E7%BB%BC%E8%89%BA%E4%B9%8B%E7%A5%9E%E9%99%8D%E4%B8%B4%23&t=31&band_rank=45&Refer=top) 28195
 <!-- END -->
 
