@@ -213,7 +213,7 @@
   },
   "RNG状态": {
     "url": "https://s.weibo.com/weibo?q=%23RNG%E7%8A%B6%E6%80%81%23&t=31&band_rank=49&Refer=top",
-    "hot": 30885
+    "hot": 39398
   },
   "乌云遇皎月还原度": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%B9%8C%E4%BA%91%E9%81%87%E7%9A%8E%E6%9C%88%E8%BF%98%E5%8E%9F%E5%BA%A6%23&t=31&band_rank=38&Refer=top",
@@ -235,6 +235,10 @@
     "url": "https://s.weibo.com/weibo?q=%23FNC%E6%99%8B%E7%BA%A7%E5%B0%8F%E7%BB%84%E8%B5%9B%23&t=31&band_rank=46&Refer=top",
     "hot": 6827
   },
+  "成都现6级大风降温明显": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E7%8E%B06%E7%BA%A7%E5%A4%A7%E9%A3%8E%E9%99%8D%E6%B8%A9%E6%98%8E%E6%98%BE%23&t=31&band_rank=44&Refer=top",
+    "hot": 6224
+  },
   "女子悬挂天桥桥上桥下众人齐救援": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%82%AC%E6%8C%82%E5%A4%A9%E6%A1%A5%E6%A1%A5%E4%B8%8A%E6%A1%A5%E4%B8%8B%E4%BC%97%E4%BA%BA%E9%BD%90%E6%95%91%E6%8F%B4%23&t=31&band_rank=49&Refer=top",
     "hot": 6082
@@ -242,5 +246,17 @@
   "消防员彻夜扑救山火后席地而睡": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%98%E5%BD%BB%E5%A4%9C%E6%89%91%E6%95%91%E5%B1%B1%E7%81%AB%E5%90%8E%E5%B8%AD%E5%9C%B0%E8%80%8C%E7%9D%A1%23&t=31&band_rank=50&Refer=top",
     "hot": 5692
+  },
+  "河北启动省地震灾害Ⅳ级应急响应": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8C%97%E5%90%AF%E5%8A%A8%E7%9C%81%E5%9C%B0%E9%9C%87%E7%81%BE%E5%AE%B3%E2%85%A3%E7%BA%A7%E5%BA%94%E6%80%A5%E5%93%8D%E5%BA%94%23&t=31&band_rank=46&Refer=top",
+    "hot": 5681
+  },
+  "高速堵车大哥淡定摆弄钓鱼竿": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%80%9F%E5%A0%B5%E8%BD%A6%E5%A4%A7%E5%93%A5%E6%B7%A1%E5%AE%9A%E6%91%86%E5%BC%84%E9%92%93%E9%B1%BC%E7%AB%BF%23&t=31&band_rank=49&Refer=top",
+    "hot": 5342
+  },
+  "北京10月4日最低温仅4摄氏度": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC10%E6%9C%884%E6%97%A5%E6%9C%80%E4%BD%8E%E6%B8%A9%E4%BB%854%E6%91%84%E6%B0%8F%E5%BA%A6%23&t=31&band_rank=50&Refer=top",
+    "hot": 5340
   }
 }
