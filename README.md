@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-10-08 03:40:43.972788 
+最后更新时间 2022-10-08 03:51:10.047299 
 1. [王楚钦](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%23&t=31&band_rank=1&Refer=top) 2295162
 1. [以前觉得晚上九点就很晚了](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E5%89%8D%E8%A7%89%E5%BE%97%E6%99%9A%E4%B8%8A%E4%B9%9D%E7%82%B9%E5%B0%B1%E5%BE%88%E6%99%9A%E4%BA%86%23&t=31&band_rank=6&Refer=top) 1274401
 1. [体检报告上的常见异常](https://s.weibo.com/weibo?q=%23%E4%BD%93%E6%A3%80%E6%8A%A5%E5%91%8A%E4%B8%8A%E7%9A%84%E5%B8%B8%E8%A7%81%E5%BC%82%E5%B8%B8%23&t=31&band_rank=2&Refer=top) 1008309
@@ -64,11 +64,13 @@
 1. [王楚钦连扳3局](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%BF%9E%E6%89%B33%E5%B1%80%23&t=31&band_rank=50&Refer=top) 38766
 1. [张馨予踢足球vlog](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%A6%A8%E4%BA%88%E8%B8%A2%E8%B6%B3%E7%90%83vlog%23&t=31&band_rank=44&Refer=top) 37355
 1. [虞书欣反矫达人](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%8F%8D%E7%9F%AB%E8%BE%BE%E4%BA%BA%23&t=31&band_rank=44&Refer=top) 21173
-1. [老师逐一检查学生是否穿秋裤](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E9%80%90%E4%B8%80%E6%A3%80%E6%9F%A5%E5%AD%A6%E7%94%9F%E6%98%AF%E5%90%A6%E7%A9%BF%E7%A7%8B%E8%A3%A4%23&t=31&band_rank=47&Refer=top) 16968
+1. [老师逐一检查学生是否穿秋裤](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E9%80%90%E4%B8%80%E6%A3%80%E6%9F%A5%E5%AD%A6%E7%94%9F%E6%98%AF%E5%90%A6%E7%A9%BF%E7%A7%8B%E8%A3%A4%23&t=31&band_rank=47&Refer=top) 17790
 1. [白鹿晒宁安如梦配音随拍](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E6%99%92%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%E9%85%8D%E9%9F%B3%E9%9A%8F%E6%8B%8D%23&t=31&band_rank=50&Refer=top) 8419
+1. [去过丰台这一公厕人员请报告](https://s.weibo.com/weibo?q=%23%E5%8E%BB%E8%BF%87%E4%B8%B0%E5%8F%B0%E8%BF%99%E4%B8%80%E5%85%AC%E5%8E%95%E4%BA%BA%E5%91%98%E8%AF%B7%E6%8A%A5%E5%91%8A%23&t=31&band_rank=50&Refer=top) 7598
+1. [库里谈追梦格林普尔冲突](https://s.weibo.com/weibo?q=%23%E5%BA%93%E9%87%8C%E8%B0%88%E8%BF%BD%E6%A2%A6%E6%A0%BC%E6%9E%97%E6%99%AE%E5%B0%94%E5%86%B2%E7%AA%81%23&t=31&band_rank=47&Refer=top) 7584
+1. [泰国一幼儿园遭袭](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E4%B8%80%E5%B9%BC%E5%84%BF%E5%9B%AD%E9%81%AD%E8%A2%AD%23&t=31&band_rank=49&Refer=top) 7570
+1. [男生发现钟表比学生还着急下课](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E5%8F%91%E7%8E%B0%E9%92%9F%E8%A1%A8%E6%AF%94%E5%AD%A6%E7%94%9F%E8%BF%98%E7%9D%80%E6%80%A5%E4%B8%8B%E8%AF%BE%23&t=31&band_rank=50&Refer=top) 7546
 1. [蜡笔小新演我过国庆](https://s.weibo.com/weibo?q=%23%E8%9C%A1%E7%AC%94%E5%B0%8F%E6%96%B0%E6%BC%94%E6%88%91%E8%BF%87%E5%9B%BD%E5%BA%86%23&t=31&band_rank=47&Refer=top) 6833
-1. [泰国一幼儿园遭袭](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E4%B8%80%E5%B9%BC%E5%84%BF%E5%9B%AD%E9%81%AD%E8%A2%AD%23&t=31&band_rank=49&Refer=top) 6436
-1. [去过丰台这一公厕人员请报告](https://s.weibo.com/weibo?q=%23%E5%8E%BB%E8%BF%87%E4%B8%B0%E5%8F%B0%E8%BF%99%E4%B8%80%E5%85%AC%E5%8E%95%E4%BA%BA%E5%91%98%E8%AF%B7%E6%8A%A5%E5%91%8A%23&t=31&band_rank=50&Refer=top) 6289
 <!-- END -->
 
 历史归档 [./archives](./archives)
