@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-10-14 03:25:42.718068 
+最后更新时间 2022-10-14 03:43:09.618754 
 1. [工信部通报38款APP侵害用户权益](https://s.weibo.com/weibo?q=%23%E5%B7%A5%E4%BF%A1%E9%83%A8%E9%80%9A%E6%8A%A538%E6%AC%BEAPP%E4%BE%B5%E5%AE%B3%E7%94%A8%E6%88%B7%E6%9D%83%E7%9B%8A%23&t=31&band_rank=12&Refer=top) 366144
 1. [苏明玉受的气姚晨这次还回来了](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E6%98%8E%E7%8E%89%E5%8F%97%E7%9A%84%E6%B0%94%E5%A7%9A%E6%99%A8%E8%BF%99%E6%AC%A1%E8%BF%98%E5%9B%9E%E6%9D%A5%E4%BA%86%23&t=31&band_rank=1&Refer=top) 361499
 1. [全班43人帮9岁听障女孩练习说话](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%8F%AD43%E4%BA%BA%E5%B8%AE9%E5%B2%81%E5%90%AC%E9%9A%9C%E5%A5%B3%E5%AD%A9%E7%BB%83%E4%B9%A0%E8%AF%B4%E8%AF%9D%23&t=31&band_rank=2&Refer=top) 202985
@@ -65,8 +65,11 @@
 1. [中国高领毛衣火到欧洲](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%AB%98%E9%A2%86%E6%AF%9B%E8%A1%A3%E7%81%AB%E5%88%B0%E6%AC%A7%E6%B4%B2%23&t=31&band_rank=12&Refer=top) 26159
 1. [TVB新剧女性群像还是熟悉的味道](https://s.weibo.com/weibo?q=%23TVB%E6%96%B0%E5%89%A7%E5%A5%B3%E6%80%A7%E7%BE%A4%E5%83%8F%E8%BF%98%E6%98%AF%E7%86%9F%E6%82%89%E7%9A%84%E5%91%B3%E9%81%93%23&t=31&band_rank=22&Refer=top) 17913
 1. [乌方称基辅州重要基础设施发生爆炸](https://s.weibo.com/weibo?q=%23%E4%B9%8C%E6%96%B9%E7%A7%B0%E5%9F%BA%E8%BE%85%E5%B7%9E%E9%87%8D%E8%A6%81%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8%23&t=31&band_rank=23&Refer=top) 17450
+1. [电钻突然在脚下破地而出](https://s.weibo.com/weibo?q=%23%E7%94%B5%E9%92%BB%E7%AA%81%E7%84%B6%E5%9C%A8%E8%84%9A%E4%B8%8B%E7%A0%B4%E5%9C%B0%E8%80%8C%E5%87%BA%23&t=31&band_rank=50&Refer=top) 8345
 1. [8000元现金丢失民警发现小猫作案](https://s.weibo.com/weibo?q=%238000%E5%85%83%E7%8E%B0%E9%87%91%E4%B8%A2%E5%A4%B1%E6%B0%91%E8%AD%A6%E5%8F%91%E7%8E%B0%E5%B0%8F%E7%8C%AB%E4%BD%9C%E6%A1%88%23&t=31&band_rank=47&Refer=top) 7582
-1. [电钻突然在脚下破地而出](https://s.weibo.com/weibo?q=%23%E7%94%B5%E9%92%BB%E7%AA%81%E7%84%B6%E5%9C%A8%E8%84%9A%E4%B8%8B%E7%A0%B4%E5%9C%B0%E8%80%8C%E5%87%BA%23&t=31&band_rank=50&Refer=top) 6810
+1. [今年将迎来冷冬还是暖冬](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E5%B0%86%E8%BF%8E%E6%9D%A5%E5%86%B7%E5%86%AC%E8%BF%98%E6%98%AF%E6%9A%96%E5%86%AC%23&t=31&band_rank=47&Refer=top) 6496
+1. [国内首套大丝束碳纤维生产线成功投产](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%86%85%E9%A6%96%E5%A5%97%E5%A4%A7%E4%B8%9D%E6%9D%9F%E7%A2%B3%E7%BA%A4%E7%BB%B4%E7%94%9F%E4%BA%A7%E7%BA%BF%E6%88%90%E5%8A%9F%E6%8A%95%E4%BA%A7%23&t=31&band_rank=49&Refer=top) 6485
+1. [普京谈欧洲能源危机](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E8%B0%88%E6%AC%A7%E6%B4%B2%E8%83%BD%E6%BA%90%E5%8D%B1%E6%9C%BA%23&t=31&band_rank=50&Refer=top) 6481
 <!-- END -->
 
 历史归档 [./archives](./archives)
