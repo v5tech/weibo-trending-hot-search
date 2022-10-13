@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-10-14 01:10:57.785210 
+最后更新时间 2022-10-14 01:54:27.278347 
 1. [工信部通报38款APP侵害用户权益](https://s.weibo.com/weibo?q=%23%E5%B7%A5%E4%BF%A1%E9%83%A8%E9%80%9A%E6%8A%A538%E6%AC%BEAPP%E4%BE%B5%E5%AE%B3%E7%94%A8%E6%88%B7%E6%9D%83%E7%9B%8A%23&t=31&band_rank=12&Refer=top) 366144
 1. [苏明玉受的气姚晨这次还回来了](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E6%98%8E%E7%8E%89%E5%8F%97%E7%9A%84%E6%B0%94%E5%A7%9A%E6%99%A8%E8%BF%99%E6%AC%A1%E8%BF%98%E5%9B%9E%E6%9D%A5%E4%BA%86%23&t=31&band_rank=1&Refer=top) 361499
 1. [全班43人帮9岁听障女孩练习说话](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%8F%AD43%E4%BA%BA%E5%B8%AE9%E5%B2%81%E5%90%AC%E9%9A%9C%E5%A5%B3%E5%AD%A9%E7%BB%83%E4%B9%A0%E8%AF%B4%E8%AF%9D%23&t=31&band_rank=2&Refer=top) 202985
@@ -60,6 +60,8 @@
 1. [俄称修复北溪管道至少要一年](https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%A7%B0%E4%BF%AE%E5%A4%8D%E5%8C%97%E6%BA%AA%E7%AE%A1%E9%81%93%E8%87%B3%E5%B0%91%E8%A6%81%E4%B8%80%E5%B9%B4%23&t=31&band_rank=49&Refer=top) 37425
 1. [周深和国风歌曲的适配度](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E5%92%8C%E5%9B%BD%E9%A3%8E%E6%AD%8C%E6%9B%B2%E7%9A%84%E9%80%82%E9%85%8D%E5%BA%A6%23&t=31&band_rank=41&Refer=top) 33727
 1. [王大陆发文感谢披荆斩棘的兄弟们](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%A4%A7%E9%99%86%E5%8F%91%E6%96%87%E6%84%9F%E8%B0%A2%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E7%9A%84%E5%85%84%E5%BC%9F%E4%BB%AC%23&t=31&band_rank=42&Refer=top) 32012
+1. [沈小婷wefresh武术镜头](https://s.weibo.com/weibo?q=%23%E6%B2%88%E5%B0%8F%E5%A9%B7wefresh%E6%AD%A6%E6%9C%AF%E9%95%9C%E5%A4%B4%23&t=31&band_rank=28&Refer=top) 28694
+1. [原来狗看电视也舍不得睡觉](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E7%8B%97%E7%9C%8B%E7%94%B5%E8%A7%86%E4%B9%9F%E8%88%8D%E4%B8%8D%E5%BE%97%E7%9D%A1%E8%A7%89%23&t=31&band_rank=47&Refer=top) 14999
 <!-- END -->
 
 历史归档 [./archives](./archives)
