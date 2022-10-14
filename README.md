@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-10-15 02:00:11.492554 
+最后更新时间 2022-10-15 02:36:34.729483 
 1. [梵高名画向日葵被泼番茄罐头](https://s.weibo.com/weibo?q=%23%E6%A2%B5%E9%AB%98%E5%90%8D%E7%94%BB%E5%90%91%E6%97%A5%E8%91%B5%E8%A2%AB%E6%B3%BC%E7%95%AA%E8%8C%84%E7%BD%90%E5%A4%B4%23&t=31&band_rank=1&Refer=top) 1592906
 1. [进化论](https://s.weibo.com/weibo?q=%23%E8%BF%9B%E5%8C%96%E8%AE%BA%23&t=31&band_rank=13&Refer=top) 801764
 1. [男子心跳停1小时医生持续抢救成功](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%BF%83%E8%B7%B3%E5%81%9C1%E5%B0%8F%E6%97%B6%E5%8C%BB%E7%94%9F%E6%8C%81%E7%BB%AD%E6%8A%A2%E6%95%91%E6%88%90%E5%8A%9F%23&t=31&band_rank=2&Refer=top) 698790
@@ -60,7 +60,9 @@
 1. [TTG](https://s.weibo.com/weibo?q=TTG&t=31&band_rank=48&Refer=top) 55405
 1. [婴幼儿渐冻症救命药入医保70万降至3.3万](https://s.weibo.com/weibo?q=%23%E5%A9%B4%E5%B9%BC%E5%84%BF%E6%B8%90%E5%86%BB%E7%97%87%E6%95%91%E5%91%BD%E8%8D%AF%E5%85%A5%E5%8C%BB%E4%BF%9D70%E4%B8%87%E9%99%8D%E8%87%B33.3%E4%B8%87%23&t=31&band_rank=49&Refer=top) 55094
 1. [遗忘15年股票找回后1万变50万](https://s.weibo.com/weibo?q=%23%E9%81%97%E5%BF%9815%E5%B9%B4%E8%82%A1%E7%A5%A8%E6%89%BE%E5%9B%9E%E5%90%8E1%E4%B8%87%E5%8F%9850%E4%B8%87%23&t=31&band_rank=50&Refer=top) 50324
-1. [困难时国家给你应急我们必须还上](https://s.weibo.com/weibo?q=%23%E5%9B%B0%E9%9A%BE%E6%97%B6%E5%9B%BD%E5%AE%B6%E7%BB%99%E4%BD%A0%E5%BA%94%E6%80%A5%E6%88%91%E4%BB%AC%E5%BF%85%E9%A1%BB%E8%BF%98%E4%B8%8A%23&t=31&band_rank=50&Refer=top) 17919
+1. [困难时国家给你应急我们必须还上](https://s.weibo.com/weibo?q=%23%E5%9B%B0%E9%9A%BE%E6%97%B6%E5%9B%BD%E5%AE%B6%E7%BB%99%E4%BD%A0%E5%BA%94%E6%80%A5%E6%88%91%E4%BB%AC%E5%BF%85%E9%A1%BB%E8%BF%98%E4%B8%8A%23&t=31&band_rank=50&Refer=top) 39654
+1. [周深说我们一起向光而行](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E8%AF%B4%E6%88%91%E4%BB%AC%E4%B8%80%E8%B5%B7%E5%90%91%E5%85%89%E8%80%8C%E8%A1%8C%23&t=31&band_rank=42&Refer=top) 20556
+1. [这动物园门票算是没白买](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%8A%A8%E7%89%A9%E5%9B%AD%E9%97%A8%E7%A5%A8%E7%AE%97%E6%98%AF%E6%B2%A1%E7%99%BD%E4%B9%B0%23&t=31&band_rank=49&Refer=top) 14793
 <!-- END -->
 
 历史归档 [./archives](./archives)
