@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-10-15 01:06:19.354410 
+最后更新时间 2022-10-15 01:45:24.122714 
 1. [梵高名画向日葵被泼番茄罐头](https://s.weibo.com/weibo?q=%23%E6%A2%B5%E9%AB%98%E5%90%8D%E7%94%BB%E5%90%91%E6%97%A5%E8%91%B5%E8%A2%AB%E6%B3%BC%E7%95%AA%E8%8C%84%E7%BD%90%E5%A4%B4%23&t=31&band_rank=1&Refer=top) 1592906
 1. [进化论](https://s.weibo.com/weibo?q=%23%E8%BF%9B%E5%8C%96%E8%AE%BA%23&t=31&band_rank=13&Refer=top) 801764
 1. [男子心跳停1小时医生持续抢救成功](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%BF%83%E8%B7%B3%E5%81%9C1%E5%B0%8F%E6%97%B6%E5%8C%BB%E7%94%9F%E6%8C%81%E7%BB%AD%E6%8A%A2%E6%95%91%E6%88%90%E5%8A%9F%23&t=31&band_rank=2&Refer=top) 698790
@@ -24,6 +24,7 @@
 1. [美国俩父亲争吵开枪互射对方女儿](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BF%A9%E7%88%B6%E4%BA%B2%E4%BA%89%E5%90%B5%E5%BC%80%E6%9E%AA%E4%BA%92%E5%B0%84%E5%AF%B9%E6%96%B9%E5%A5%B3%E5%84%BF%23&t=31&band_rank=14&Refer=top) 324076
 1. [日本男子出租自己4年赚近200万](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%94%B7%E5%AD%90%E5%87%BA%E7%A7%9F%E8%87%AA%E5%B7%B14%E5%B9%B4%E8%B5%9A%E8%BF%91200%E4%B8%87%23&t=31&band_rank=15&Refer=top) 288657
 1. [浙大女孩14年从电表工成长为劳模](https://s.weibo.com/weibo?q=%23%E6%B5%99%E5%A4%A7%E5%A5%B3%E5%AD%A914%E5%B9%B4%E4%BB%8E%E7%94%B5%E8%A1%A8%E5%B7%A5%E6%88%90%E9%95%BF%E4%B8%BA%E5%8A%B3%E6%A8%A1%23&t=31&band_rank=16&Refer=top) 276192
+1. [哈利波特海格扮演者去世](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E6%B5%B7%E6%A0%BC%E6%89%AE%E6%BC%94%E8%80%85%E5%8E%BB%E4%B8%96%23&t=31&band_rank=4&Refer=top) 231821
 1. [同事都有对象单身女服务员趴桌大哭](https://s.weibo.com/weibo?q=%23%E5%90%8C%E4%BA%8B%E9%83%BD%E6%9C%89%E5%AF%B9%E8%B1%A1%E5%8D%95%E8%BA%AB%E5%A5%B3%E6%9C%8D%E5%8A%A1%E5%91%98%E8%B6%B4%E6%A1%8C%E5%A4%A7%E5%93%AD%23&t=31&band_rank=18&Refer=top) 226815
 1. [东北一串店禁玩手机每人低消10串](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E4%B8%80%E4%B8%B2%E5%BA%97%E7%A6%81%E7%8E%A9%E6%89%8B%E6%9C%BA%E6%AF%8F%E4%BA%BA%E4%BD%8E%E6%B6%8810%E4%B8%B2%23&t=31&band_rank=17&Refer=top) 220062
 1. [AG](https://s.weibo.com/weibo?q=AG&t=31&band_rank=19&Refer=top) 165091
@@ -59,6 +60,7 @@
 1. [TTG](https://s.weibo.com/weibo?q=TTG&t=31&band_rank=48&Refer=top) 55405
 1. [婴幼儿渐冻症救命药入医保70万降至3.3万](https://s.weibo.com/weibo?q=%23%E5%A9%B4%E5%B9%BC%E5%84%BF%E6%B8%90%E5%86%BB%E7%97%87%E6%95%91%E5%91%BD%E8%8D%AF%E5%85%A5%E5%8C%BB%E4%BF%9D70%E4%B8%87%E9%99%8D%E8%87%B33.3%E4%B8%87%23&t=31&band_rank=49&Refer=top) 55094
 1. [遗忘15年股票找回后1万变50万](https://s.weibo.com/weibo?q=%23%E9%81%97%E5%BF%9815%E5%B9%B4%E8%82%A1%E7%A5%A8%E6%89%BE%E5%9B%9E%E5%90%8E1%E4%B8%87%E5%8F%9850%E4%B8%87%23&t=31&band_rank=50&Refer=top) 50324
+1. [困难时国家给你应急我们必须还上](https://s.weibo.com/weibo?q=%23%E5%9B%B0%E9%9A%BE%E6%97%B6%E5%9B%BD%E5%AE%B6%E7%BB%99%E4%BD%A0%E5%BA%94%E6%80%A5%E6%88%91%E4%BB%AC%E5%BF%85%E9%A1%BB%E8%BF%98%E4%B8%8A%23&t=31&band_rank=50&Refer=top) 17846
 <!-- END -->
 
 历史归档 [./archives](./archives)
