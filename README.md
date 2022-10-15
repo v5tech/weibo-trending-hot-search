@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-10-16 02:20:23.799675 
+最后更新时间 2022-10-16 02:50:33.902102 
 1. [新一届中央政治局常委将同中外记者见面](https://s.weibo.com/weibo?q=%23%E6%96%B0%E4%B8%80%E5%B1%8A%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%E5%B8%B8%E5%A7%94%E5%B0%86%E5%90%8C%E4%B8%AD%E5%A4%96%E8%AE%B0%E8%80%85%E8%A7%81%E9%9D%A2%23&t=31&band_rank=1&Refer=top) 383648
 1. [二十大发言人回应疫情防控](https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%A4%A7%E5%8F%91%E8%A8%80%E4%BA%BA%E5%9B%9E%E5%BA%94%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%23&t=31&band_rank=2&Refer=top) 379432
 1. [二十大议程](https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%A4%A7%E8%AE%AE%E7%A8%8B%23&t=31&band_rank=3&Refer=top) 375205
@@ -60,6 +60,8 @@
 1. [广东男篮vs深圳男篮](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E7%94%B7%E7%AF%AEvs%E6%B7%B1%E5%9C%B3%E7%94%B7%E7%AF%AE%23&t=31&band_rank=48&Refer=top) 33385
 1. [68岁重庆嬢嬢把钩钩针做成了非遗](https://s.weibo.com/weibo?q=%2368%E5%B2%81%E9%87%8D%E5%BA%86%E5%AC%A2%E5%AC%A2%E6%8A%8A%E9%92%A9%E9%92%A9%E9%92%88%E5%81%9A%E6%88%90%E4%BA%86%E9%9D%9E%E9%81%97%23&t=31&band_rank=49&Refer=top) 31505
 1. [党的二十大举行预备会议](https://s.weibo.com/weibo?q=%23%E5%85%9A%E7%9A%84%E4%BA%8C%E5%8D%81%E5%A4%A7%E4%B8%BE%E8%A1%8C%E9%A2%84%E5%A4%87%E4%BC%9A%E8%AE%AE%23&t=31&band_rank=50&Refer=top) 31370
+1. [交警30分钟送断指孩子就医](https://s.weibo.com/weibo?q=%23%E4%BA%A4%E8%AD%A630%E5%88%86%E9%92%9F%E9%80%81%E6%96%AD%E6%8C%87%E5%AD%A9%E5%AD%90%E5%B0%B1%E5%8C%BB%23&t=31&band_rank=45&Refer=top) 9147
+1. [运20生产车间罕见曝光](https://s.weibo.com/weibo?q=%23%E8%BF%9020%E7%94%9F%E4%BA%A7%E8%BD%A6%E9%97%B4%E7%BD%95%E8%A7%81%E6%9B%9D%E5%85%89%23&t=31&band_rank=48&Refer=top) 8956
 <!-- END -->
 
 历史归档 [./archives](./archives)
