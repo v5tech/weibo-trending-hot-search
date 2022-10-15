@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-10-16 06:39:20.006503 
+最后更新时间 2022-10-16 06:54:56.034877 
 1. [新一届中央政治局常委将同中外记者见面](https://s.weibo.com/weibo?q=%23%E6%96%B0%E4%B8%80%E5%B1%8A%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%E5%B8%B8%E5%A7%94%E5%B0%86%E5%90%8C%E4%B8%AD%E5%A4%96%E8%AE%B0%E8%80%85%E8%A7%81%E9%9D%A2%23&t=31&band_rank=1&Refer=top) 383648
 1. [二十大发言人回应疫情防控](https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%A4%A7%E5%8F%91%E8%A8%80%E4%BA%BA%E5%9B%9E%E5%BA%94%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%23&t=31&band_rank=2&Refer=top) 379432
 1. [二十大议程](https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%A4%A7%E8%AE%AE%E7%A8%8B%23&t=31&band_rank=3&Refer=top) 375205
@@ -49,29 +49,29 @@
 1. [罗杰斯称中国将成为21世纪最成功的国家](https://s.weibo.com/weibo?q=%23%E7%BD%97%E6%9D%B0%E6%96%AF%E7%A7%B0%E4%B8%AD%E5%9B%BD%E5%B0%86%E6%88%90%E4%B8%BA21%E4%B8%96%E7%BA%AA%E6%9C%80%E6%88%90%E5%8A%9F%E7%9A%84%E5%9B%BD%E5%AE%B6%23&t=31&band_rank=37&Refer=top) 63403
 1. [同时照12000面镜子是什么感觉](https://s.weibo.com/weibo?q=%23%E5%90%8C%E6%97%B6%E7%85%A712000%E9%9D%A2%E9%95%9C%E5%AD%90%E6%98%AF%E4%BB%80%E4%B9%88%E6%84%9F%E8%A7%89%23&t=31&band_rank=38&Refer=top) 55306
 1. [摇滚狂花](https://s.weibo.com/weibo?q=%23%E6%91%87%E6%BB%9A%E7%8B%82%E8%8A%B1%23&t=31&band_rank=39&Refer=top) 55157
+1. [乘客公交车上晕倒女护士跪地抢救](https://s.weibo.com/weibo?q=%23%E4%B9%98%E5%AE%A2%E5%85%AC%E4%BA%A4%E8%BD%A6%E4%B8%8A%E6%99%95%E5%80%92%E5%A5%B3%E6%8A%A4%E5%A3%AB%E8%B7%AA%E5%9C%B0%E6%8A%A2%E6%95%91%23&t=31&band_rank=38&Refer=top) 52999
+1. [大众宣布168亿在华投资项目](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E4%BC%97%E5%AE%A3%E5%B8%83168%E4%BA%BF%E5%9C%A8%E5%8D%8E%E6%8A%95%E8%B5%84%E9%A1%B9%E7%9B%AE%23&t=31&band_rank=15&Refer=top) 51201
 1. [羡慕猫咪的睡眠质量](https://s.weibo.com/weibo?q=%23%E7%BE%A1%E6%85%95%E7%8C%AB%E5%92%AA%E7%9A%84%E7%9D%A1%E7%9C%A0%E8%B4%A8%E9%87%8F%23&t=31&band_rank=40&Refer=top) 50746
 1. [哄睡师包月套餐标价1.8万](https://s.weibo.com/weibo?q=%23%E5%93%84%E7%9D%A1%E5%B8%88%E5%8C%85%E6%9C%88%E5%A5%97%E9%A4%90%E6%A0%87%E4%BB%B71.8%E4%B8%87%23&t=31&band_rank=41&Refer=top) 49406
 1. [帮别人点外卖时先通知对方](https://s.weibo.com/weibo?q=%23%E5%B8%AE%E5%88%AB%E4%BA%BA%E7%82%B9%E5%A4%96%E5%8D%96%E6%97%B6%E5%85%88%E9%80%9A%E7%9F%A5%E5%AF%B9%E6%96%B9%23&t=31&band_rank=42&Refer=top) 49245
 1. [姚晨晒照告别摇滚狂花](https://s.weibo.com/weibo?q=%23%E5%A7%9A%E6%99%A8%E6%99%92%E7%85%A7%E5%91%8A%E5%88%AB%E6%91%87%E6%BB%9A%E7%8B%82%E8%8A%B1%23&t=31&band_rank=43&Refer=top) 47690
 1. [光与夜之恋](https://s.weibo.com/weibo?q=%23%E5%85%89%E4%B8%8E%E5%A4%9C%E4%B9%8B%E6%81%8B%23&t=31&band_rank=44&Refer=top) 45536
-1. [大众宣布168亿在华投资项目](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E4%BC%97%E5%AE%A3%E5%B8%83168%E4%BA%BF%E5%9C%A8%E5%8D%8E%E6%8A%95%E8%B5%84%E9%A1%B9%E7%9B%AE%23&t=31&band_rank=15&Refer=top) 43727
+1. [交警30分钟送断指孩子就医](https://s.weibo.com/weibo?q=%23%E4%BA%A4%E8%AD%A630%E5%88%86%E9%92%9F%E9%80%81%E6%96%AD%E6%8C%87%E5%AD%A9%E5%AD%90%E5%B0%B1%E5%8C%BB%23&t=31&band_rank=45&Refer=top) 42298
+1. [男子躲高铁厕所抽烟被行拘5日](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%BA%B2%E9%AB%98%E9%93%81%E5%8E%95%E6%89%80%E6%8A%BD%E7%83%9F%E8%A2%AB%E8%A1%8C%E6%8B%985%E6%97%A5%23&t=31&band_rank=37&Refer=top) 42264
 1. [中国U17女足0比2哥伦比亚U17](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BDU17%E5%A5%B3%E8%B6%B30%E6%AF%942%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9AU17%23&t=31&band_rank=45&Refer=top) 41931
+1. [南疆军区无人机空中侦察首次实飞](https://s.weibo.com/weibo?q=%23%E5%8D%97%E7%96%86%E5%86%9B%E5%8C%BA%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%A9%BA%E4%B8%AD%E4%BE%A6%E5%AF%9F%E9%A6%96%E6%AC%A1%E5%AE%9E%E9%A3%9E%23&t=31&band_rank=46&Refer=top) 41846
 1. [将盆栽越坐越歪的猫咪](https://s.weibo.com/weibo?q=%23%E5%B0%86%E7%9B%86%E6%A0%BD%E8%B6%8A%E5%9D%90%E8%B6%8A%E6%AD%AA%E7%9A%84%E7%8C%AB%E5%92%AA%23&t=31&band_rank=46&Refer=top) 37855
 1. [顾全32分](https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%85%A832%E5%88%86%23&t=31&band_rank=47&Refer=top) 37686
 1. [广东男篮vs深圳男篮](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E7%94%B7%E7%AF%AEvs%E6%B7%B1%E5%9C%B3%E7%94%B7%E7%AF%AE%23&t=31&band_rank=48&Refer=top) 33385
 1. [68岁重庆嬢嬢把钩钩针做成了非遗](https://s.weibo.com/weibo?q=%2368%E5%B2%81%E9%87%8D%E5%BA%86%E5%AC%A2%E5%AC%A2%E6%8A%8A%E9%92%A9%E9%92%A9%E9%92%88%E5%81%9A%E6%88%90%E4%BA%86%E9%9D%9E%E9%81%97%23&t=31&band_rank=49&Refer=top) 31505
 1. [党的二十大举行预备会议](https://s.weibo.com/weibo?q=%23%E5%85%9A%E7%9A%84%E4%BA%8C%E5%8D%81%E5%A4%A7%E4%B8%BE%E8%A1%8C%E9%A2%84%E5%A4%87%E4%BC%9A%E8%AE%AE%23&t=31&band_rank=50&Refer=top) 31370
 1. [DK战胜EG](https://s.weibo.com/weibo?q=%23DK%E6%88%98%E8%83%9CEG%23&t=31&band_rank=44&Refer=top) 29507
-1. [男子躲高铁厕所抽烟被行拘5日](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%BA%B2%E9%AB%98%E9%93%81%E5%8E%95%E6%89%80%E6%8A%BD%E7%83%9F%E8%A2%AB%E8%A1%8C%E6%8B%985%E6%97%A5%23&t=31&band_rank=37&Refer=top) 28742
-1. [南疆军区无人机空中侦察首次实飞](https://s.weibo.com/weibo?q=%23%E5%8D%97%E7%96%86%E5%86%9B%E5%8C%BA%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%A9%BA%E4%B8%AD%E4%BE%A6%E5%AF%9F%E9%A6%96%E6%AC%A1%E5%AE%9E%E9%A3%9E%23&t=31&band_rank=46&Refer=top) 28659
-1. [乘客公交车上晕倒女护士跪地抢救](https://s.weibo.com/weibo?q=%23%E4%B9%98%E5%AE%A2%E5%85%AC%E4%BA%A4%E8%BD%A6%E4%B8%8A%E6%99%95%E5%80%92%E5%A5%B3%E6%8A%A4%E5%A3%AB%E8%B7%AA%E5%9C%B0%E6%8A%A2%E6%95%91%23&t=31&band_rank=38&Refer=top) 28262
-1. [交警30分钟送断指孩子就医](https://s.weibo.com/weibo?q=%23%E4%BA%A4%E8%AD%A630%E5%88%86%E9%92%9F%E9%80%81%E6%96%AD%E6%8C%87%E5%AD%A9%E5%AD%90%E5%B0%B1%E5%8C%BB%23&t=31&band_rank=45&Refer=top) 23371
 1. [EG对战DK](https://s.weibo.com/weibo?q=%23EG%E5%AF%B9%E6%88%98DK%23&t=31&band_rank=20&Refer=top) 19392
+1. [库里庆祝后滑倒](https://s.weibo.com/weibo?q=%23%E5%BA%93%E9%87%8C%E5%BA%86%E7%A5%9D%E5%90%8E%E6%BB%91%E5%80%92%23&t=31&band_rank=46&Refer=top) 17695
+1. [施罗德手指受伤](https://s.weibo.com/weibo?q=%23%E6%96%BD%E7%BD%97%E5%BE%B7%E6%89%8B%E6%8C%87%E5%8F%97%E4%BC%A4%23&t=31&band_rank=48&Refer=top) 12251
+1. [格威踩爆球鞋](https://s.weibo.com/weibo?q=%23%E6%A0%BC%E5%A8%81%E8%B8%A9%E7%88%86%E7%90%83%E9%9E%8B%23&t=31&band_rank=48&Refer=top) 12248
 1. [高校组织采摘活动让学生体验秋收](https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E7%BB%84%E7%BB%87%E9%87%87%E6%91%98%E6%B4%BB%E5%8A%A8%E8%AE%A9%E5%AD%A6%E7%94%9F%E4%BD%93%E9%AA%8C%E7%A7%8B%E6%94%B6%23&t=31&band_rank=48&Refer=top) 9942
-1. [库里庆祝后滑倒](https://s.weibo.com/weibo?q=%23%E5%BA%93%E9%87%8C%E5%BA%86%E7%A5%9D%E5%90%8E%E6%BB%91%E5%80%92%23&t=31&band_rank=46&Refer=top) 9600
-1. [格威踩爆球鞋](https://s.weibo.com/weibo?q=%23%E6%A0%BC%E5%A8%81%E8%B8%A9%E7%88%86%E7%90%83%E9%9E%8B%23&t=31&band_rank=48&Refer=top) 9583
 1. [运20生产车间罕见曝光](https://s.weibo.com/weibo?q=%23%E8%BF%9020%E7%94%9F%E4%BA%A7%E8%BD%A6%E9%97%B4%E7%BD%95%E8%A7%81%E6%9B%9D%E5%85%89%23&t=31&band_rank=48&Refer=top) 8956
-1. [施罗德手指受伤](https://s.weibo.com/weibo?q=%23%E6%96%BD%E7%BD%97%E5%BE%B7%E6%89%8B%E6%8C%87%E5%8F%97%E4%BC%A4%23&t=31&band_rank=48&Refer=top) 7201
 1. [别再辜负你的细胞了](https://s.weibo.com/weibo?q=%23%E5%88%AB%E5%86%8D%E8%BE%9C%E8%B4%9F%E4%BD%A0%E7%9A%84%E7%BB%86%E8%83%9E%E4%BA%86%23&t=31&band_rank=46&Refer=top) 6608
 1. [见过最会享受的狗狗](https://s.weibo.com/weibo?q=%23%E8%A7%81%E8%BF%87%E6%9C%80%E4%BC%9A%E4%BA%AB%E5%8F%97%E7%9A%84%E7%8B%97%E7%8B%97%23&t=31&band_rank=49&Refer=top) 6244
 1. [村民过上了新农人的日子](https://s.weibo.com/weibo?q=%23%E6%9D%91%E6%B0%91%E8%BF%87%E4%B8%8A%E4%BA%86%E6%96%B0%E5%86%9C%E4%BA%BA%E7%9A%84%E6%97%A5%E5%AD%90%23&t=31&band_rank=50&Refer=top) 5821
