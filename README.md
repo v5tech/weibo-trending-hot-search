@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-10-17 22:54:44.171786 
+最后更新时间 2022-10-17 23:20:15.224408 
 1. [二十大报告中的9个数字](https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%A4%A7%E6%8A%A5%E5%91%8A%E4%B8%AD%E7%9A%849%E4%B8%AA%E6%95%B0%E5%AD%97%23&t=31&band_rank=1&Refer=top) 812534
 1. [这是9671.2万分之一的回答](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF9671.2%E4%B8%87%E5%88%86%E4%B9%8B%E4%B8%80%E7%9A%84%E5%9B%9E%E7%AD%94%23&t=31&band_rank=1&Refer=top) 681651
 1. [未来中国开放的大门只会越开越大](https://s.weibo.com/weibo?q=%23%E6%9C%AA%E6%9D%A5%E4%B8%AD%E5%9B%BD%E5%BC%80%E6%94%BE%E7%9A%84%E5%A4%A7%E9%97%A8%E5%8F%AA%E4%BC%9A%E8%B6%8A%E5%BC%80%E8%B6%8A%E5%A4%A7%23&t=31&band_rank=6&Refer=top) 517064
@@ -92,13 +92,19 @@
 1. [85后女孩成济南皮影首位女掌门](https://s.weibo.com/weibo?q=%2385%E5%90%8E%E5%A5%B3%E5%AD%A9%E6%88%90%E6%B5%8E%E5%8D%97%E7%9A%AE%E5%BD%B1%E9%A6%96%E4%BD%8D%E5%A5%B3%E6%8E%8C%E9%97%A8%23&t=31&band_rank=15&Refer=top) 135248
 1. [中国永远不称霸永远不搞扩张](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B0%B8%E8%BF%9C%E4%B8%8D%E7%A7%B0%E9%9C%B8%E6%B0%B8%E8%BF%9C%E4%B8%8D%E6%90%9E%E6%89%A9%E5%BC%A0%23&t=31&band_rank=8&Refer=top) 134699
 1. [敦煌胡杨一半倒影一半真](https://s.weibo.com/weibo?q=%23%E6%95%A6%E7%85%8C%E8%83%A1%E6%9D%A8%E4%B8%80%E5%8D%8A%E5%80%92%E5%BD%B1%E4%B8%80%E5%8D%8A%E7%9C%9F%23&t=31&band_rank=44&Refer=top) 134652
+1. [二十大广西代表团讨论](https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%A4%A7%E5%B9%BF%E8%A5%BF%E4%BB%A3%E8%A1%A8%E5%9B%A2%E8%AE%A8%E8%AE%BA%23&t=31&band_rank=50&Refer=top) 134461
 1. [广东受台风和冷空气夹击](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E5%8F%97%E5%8F%B0%E9%A3%8E%E5%92%8C%E5%86%B7%E7%A9%BA%E6%B0%94%E5%A4%B9%E5%87%BB%23&t=31&band_rank=25&Refer=top) 134222
 1. [电视剧我们这十年](https://s.weibo.com/weibo?q=%23%E7%94%B5%E8%A7%86%E5%89%A7%E6%88%91%E4%BB%AC%E8%BF%99%E5%8D%81%E5%B9%B4%23&t=31&band_rank=47&Refer=top) 133777
 1. [摇滚狂花原剧本结局是be](https://s.weibo.com/weibo?q=%23%E6%91%87%E6%BB%9A%E7%8B%82%E8%8A%B1%E5%8E%9F%E5%89%A7%E6%9C%AC%E7%BB%93%E5%B1%80%E6%98%AFbe%23&t=31&band_rank=30&Refer=top) 133379
 1. [原来被爱的感觉这么好](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%A2%AB%E7%88%B1%E7%9A%84%E6%84%9F%E8%A7%89%E8%BF%99%E4%B9%88%E5%A5%BD%23&t=31&band_rank=13&Refer=top) 133321
 1. [云南老板为外地人操碎了心](https://s.weibo.com/weibo?q=%23%E4%BA%91%E5%8D%97%E8%80%81%E6%9D%BF%E4%B8%BA%E5%A4%96%E5%9C%B0%E4%BA%BA%E6%93%8D%E7%A2%8E%E4%BA%86%E5%BF%83%23&t=31&band_rank=39&Refer=top) 132708
+1. [2岁女童突发抽搐消防车秒变救护车](https://s.weibo.com/weibo?q=%232%E5%B2%81%E5%A5%B3%E7%AB%A5%E7%AA%81%E5%8F%91%E6%8A%BD%E6%90%90%E6%B6%88%E9%98%B2%E8%BD%A6%E7%A7%92%E5%8F%98%E6%95%91%E6%8A%A4%E8%BD%A6%23&t=31&band_rank=15&Refer=top) 132063
+1. [止痛药不要连续服用超过7天](https://s.weibo.com/weibo?q=%23%E6%AD%A2%E7%97%9B%E8%8D%AF%E4%B8%8D%E8%A6%81%E8%BF%9E%E7%BB%AD%E6%9C%8D%E7%94%A8%E8%B6%85%E8%BF%877%E5%A4%A9%23&t=31&band_rank=34&Refer=top) 128472
+1. [碎碎念要分享给有回应的人](https://s.weibo.com/weibo?q=%23%E7%A2%8E%E7%A2%8E%E5%BF%B5%E8%A6%81%E5%88%86%E4%BA%AB%E7%BB%99%E6%9C%89%E5%9B%9E%E5%BA%94%E7%9A%84%E4%BA%BA%23&t=31&band_rank=37&Refer=top) 127920
 1. [TI11 RNG可惜](https://s.weibo.com/weibo?q=TI11%20RNG%E5%8F%AF%E6%83%9C&t=31&band_rank=18&Refer=top) 127289
+1. [希望小朋友都能遇见这种老师](https://s.weibo.com/weibo?q=%23%E5%B8%8C%E6%9C%9B%E5%B0%8F%E6%9C%8B%E5%8F%8B%E9%83%BD%E8%83%BD%E9%81%87%E8%A7%81%E8%BF%99%E7%A7%8D%E8%80%81%E5%B8%88%23&t=31&band_rank=41&Refer=top) 127199
 1. [中国粮带给中国人的安全感](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%B2%AE%E5%B8%A6%E7%BB%99%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E5%AE%89%E5%85%A8%E6%84%9F%23&t=31&band_rank=4&Refer=top) 126653
+1. [一日三餐镜头里的烟火气](https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%97%A5%E4%B8%89%E9%A4%90%E9%95%9C%E5%A4%B4%E9%87%8C%E7%9A%84%E7%83%9F%E7%81%AB%E6%B0%94%23&t=31&band_rank=49&Refer=top) 125609
 1. [别拿疼痛不当病](https://s.weibo.com/weibo?q=%23%E5%88%AB%E6%8B%BF%E7%96%BC%E7%97%9B%E4%B8%8D%E5%BD%93%E7%97%85%23&t=31&band_rank=50&Refer=top) 121318
 1. [三季度中国上市企业市值500强](https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%AD%A3%E5%BA%A6%E4%B8%AD%E5%9B%BD%E4%B8%8A%E5%B8%82%E4%BC%81%E4%B8%9A%E5%B8%82%E5%80%BC500%E5%BC%BA%23&t=31&band_rank=26&Refer=top) 120538
 1. [张开泰犬系男友](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%BC%80%E6%B3%B0%E7%8A%AC%E7%B3%BB%E7%94%B7%E5%8F%8B%23&t=31&band_rank=45&Refer=top) 120439
@@ -156,7 +162,6 @@
 1. [巨魔芋结实长这样](https://s.weibo.com/weibo?q=%23%E5%B7%A8%E9%AD%94%E8%8A%8B%E7%BB%93%E5%AE%9E%E9%95%BF%E8%BF%99%E6%A0%B7%23&t=31&band_rank=48&Refer=top) 81047
 1. [乌云遇皎月30秒神反转](https://s.weibo.com/weibo?q=%23%E4%B9%8C%E4%BA%91%E9%81%87%E7%9A%8E%E6%9C%8830%E7%A7%92%E7%A5%9E%E5%8F%8D%E8%BD%AC%23&t=31&band_rank=46&Refer=top) 71241
 1. [俩萌娃舞狮为62岁爷爷祝寿](https://s.weibo.com/weibo?q=%23%E4%BF%A9%E8%90%8C%E5%A8%83%E8%88%9E%E7%8B%AE%E4%B8%BA62%E5%B2%81%E7%88%B7%E7%88%B7%E7%A5%9D%E5%AF%BF%23&t=31&band_rank=40&Refer=top) 69515
-1. [二十大广西代表团讨论](https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%A4%A7%E5%B9%BF%E8%A5%BF%E4%BB%A3%E8%A1%A8%E5%9B%A2%E8%AE%A8%E8%AE%BA%23&t=31&band_rank=50&Refer=top) 68407
 1. [曾没公路没电的牧区如今用无人机放牧](https://s.weibo.com/weibo?q=%23%E6%9B%BE%E6%B2%A1%E5%85%AC%E8%B7%AF%E6%B2%A1%E7%94%B5%E7%9A%84%E7%89%A7%E5%8C%BA%E5%A6%82%E4%BB%8A%E7%94%A8%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%94%BE%E7%89%A7%23&t=31&band_rank=42&Refer=top) 65042
 1. [韩东君说生活要有沸点和火花](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E4%B8%9C%E5%90%9B%E8%AF%B4%E7%94%9F%E6%B4%BB%E8%A6%81%E6%9C%89%E6%B2%B8%E7%82%B9%E5%92%8C%E7%81%AB%E8%8A%B1%23&t=31&band_rank=44&Refer=top) 62696
 1. [北控男篮vs深圳男篮](https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%8E%A7%E7%94%B7%E7%AF%AEvs%E6%B7%B1%E5%9C%B3%E7%94%B7%E7%AF%AE%23&t=31&band_rank=44&Refer=top) 61407
