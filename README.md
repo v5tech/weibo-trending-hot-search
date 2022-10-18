@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-10-19 01:54:29.672481 
+最后更新时间 2022-10-19 02:27:08.501939 
 1. [山西省委强调不能让国家为煤发愁](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E7%9C%81%E5%A7%94%E5%BC%BA%E8%B0%83%E4%B8%8D%E8%83%BD%E8%AE%A9%E5%9B%BD%E5%AE%B6%E4%B8%BA%E7%85%A4%E5%8F%91%E6%84%81%23&t=31&band_rank=1&Refer=top) 172321
 1. [二十大广西代表团讨论微镜头](https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%A4%A7%E5%B9%BF%E8%A5%BF%E4%BB%A3%E8%A1%A8%E5%9B%A2%E8%AE%A8%E8%AE%BA%E5%BE%AE%E9%95%9C%E5%A4%B4%23&t=31&band_rank=2&Refer=top) 31945
 1. [数读二十大](https://s.weibo.com/weibo?q=%23%E6%95%B0%E8%AF%BB%E4%BA%8C%E5%8D%81%E5%A4%A7%23&t=31&band_rank=3&Refer=top) 31938
@@ -59,6 +59,9 @@
 1. [八旬夫妻穿情侣装牵手散步](https://s.weibo.com/weibo?q=%23%E5%85%AB%E6%97%AC%E5%A4%AB%E5%A6%BB%E7%A9%BF%E6%83%85%E4%BE%A3%E8%A3%85%E7%89%B5%E6%89%8B%E6%95%A3%E6%AD%A5%23&t=31&band_rank=49&Refer=top) 31627
 1. [减肥期间的PUA行为](https://s.weibo.com/weibo?q=%23%E5%87%8F%E8%82%A5%E6%9C%9F%E9%97%B4%E7%9A%84PUA%E8%A1%8C%E4%B8%BA%23&t=31&band_rank=50&Refer=top) 31619
 1. [狗子肉摊前连续作揖讨肉吃](https://s.weibo.com/weibo?q=%23%E7%8B%97%E5%AD%90%E8%82%89%E6%91%8A%E5%89%8D%E8%BF%9E%E7%BB%AD%E4%BD%9C%E6%8F%96%E8%AE%A8%E8%82%89%E5%90%83%23&t=31&band_rank=37&Refer=top) 16229
+1. [刘雁宇受伤](https://s.weibo.com/weibo?q=%23%E5%88%98%E9%9B%81%E5%AE%87%E5%8F%97%E4%BC%A4%23&t=31&band_rank=47&Refer=top) 10592
+1. [男子投喂白狐后被引见给同伴](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8A%95%E5%96%82%E7%99%BD%E7%8B%90%E5%90%8E%E8%A2%AB%E5%BC%95%E8%A7%81%E7%BB%99%E5%90%8C%E4%BC%B4%23&t=31&band_rank=49&Refer=top) 10591
+1. [2022年丹麦羽毛球公开赛](https://s.weibo.com/weibo?q=%232022%E5%B9%B4%E4%B8%B9%E9%BA%A6%E7%BE%BD%E6%AF%9B%E7%90%83%E5%85%AC%E5%BC%80%E8%B5%9B%23&t=31&band_rank=50&Refer=top) 10588
 <!-- END -->
 
 历史归档 [./archives](./archives)
