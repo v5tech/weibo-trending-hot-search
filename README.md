@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-10-21 04:47:11.088721 
+最后更新时间 2022-10-21 05:14:33.943297 
 1. [中国外汇储备连续17年全球第一](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A4%96%E6%B1%87%E5%82%A8%E5%A4%87%E8%BF%9E%E7%BB%AD17%E5%B9%B4%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80%23&t=31&band_rank=1&Refer=top) 272818
 1. [连续拿下台湾当局9个所谓邦交国](https://s.weibo.com/weibo?q=%23%E8%BF%9E%E7%BB%AD%E6%8B%BF%E4%B8%8B%E5%8F%B0%E6%B9%BE%E5%BD%93%E5%B1%809%E4%B8%AA%E6%89%80%E8%B0%93%E9%82%A6%E4%BA%A4%E5%9B%BD%23&t=31&band_rank=2&Refer=top) 170400
 1. [祖国各地的二十大时光](https://s.weibo.com/weibo?q=%23%E7%A5%96%E5%9B%BD%E5%90%84%E5%9C%B0%E7%9A%84%E4%BA%8C%E5%8D%81%E5%A4%A7%E6%97%B6%E5%85%89%23&t=31&band_rank=3&Refer=top) 170320
@@ -66,6 +66,7 @@
 1. [高钙调制奶相当于牛奶配钙片](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%92%99%E8%B0%83%E5%88%B6%E5%A5%B6%E7%9B%B8%E5%BD%93%E4%BA%8E%E7%89%9B%E5%A5%B6%E9%85%8D%E9%92%99%E7%89%87%23&t=31&band_rank=50&Refer=top) 17430
 1. [狗狗课堂表演滑板引围观](https://s.weibo.com/weibo?q=%23%E7%8B%97%E7%8B%97%E8%AF%BE%E5%A0%82%E8%A1%A8%E6%BC%94%E6%BB%91%E6%9D%BF%E5%BC%95%E5%9B%B4%E8%A7%82%23&t=31&band_rank=47&Refer=top) 15744
 1. [79岁爷爷每天来地铁口接孙女下班](https://s.weibo.com/weibo?q=%2379%E5%B2%81%E7%88%B7%E7%88%B7%E6%AF%8F%E5%A4%A9%E6%9D%A5%E5%9C%B0%E9%93%81%E5%8F%A3%E6%8E%A5%E5%AD%99%E5%A5%B3%E4%B8%8B%E7%8F%AD%23&t=31&band_rank=50&Refer=top) 15589
+1. [骨质疏松症也叫静悄悄的流行病](https://s.weibo.com/weibo?q=%23%E9%AA%A8%E8%B4%A8%E7%96%8F%E6%9D%BE%E7%97%87%E4%B9%9F%E5%8F%AB%E9%9D%99%E6%82%84%E6%82%84%E7%9A%84%E6%B5%81%E8%A1%8C%E7%97%85%23&t=31&band_rank=50&Refer=top) 12986
 1. [谭松韵李心遥接受爱的告白](https://s.weibo.com/weibo?q=%23%E8%B0%AD%E6%9D%BE%E9%9F%B5%E6%9D%8E%E5%BF%83%E9%81%A5%E6%8E%A5%E5%8F%97%E7%88%B1%E7%9A%84%E5%91%8A%E7%99%BD%23&t=31&band_rank=49&Refer=top) 12061
 <!-- END -->
 
