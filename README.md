@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-10-21 06:15:39.594645 
+最后更新时间 2022-10-21 06:47:31.678514 
 1. [中国外汇储备连续17年全球第一](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A4%96%E6%B1%87%E5%82%A8%E5%A4%87%E8%BF%9E%E7%BB%AD17%E5%B9%B4%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80%23&t=31&band_rank=1&Refer=top) 272818
 1. [连续拿下台湾当局9个所谓邦交国](https://s.weibo.com/weibo?q=%23%E8%BF%9E%E7%BB%AD%E6%8B%BF%E4%B8%8B%E5%8F%B0%E6%B9%BE%E5%BD%93%E5%B1%809%E4%B8%AA%E6%89%80%E8%B0%93%E9%82%A6%E4%BA%A4%E5%9B%BD%23&t=31&band_rank=2&Refer=top) 170400
 1. [祖国各地的二十大时光](https://s.weibo.com/weibo?q=%23%E7%A5%96%E5%9B%BD%E5%90%84%E5%9C%B0%E7%9A%84%E4%BA%8C%E5%8D%81%E5%A4%A7%E6%97%B6%E5%85%89%23&t=31&band_rank=3&Refer=top) 170320
@@ -46,26 +46,26 @@
 1. [s12](https://s.weibo.com/weibo?q=s12&t=31&band_rank=34&Refer=top) 102248
 1. [匿名网友连续800多天向南大捐钱](https://s.weibo.com/weibo?q=%23%E5%8C%BF%E5%90%8D%E7%BD%91%E5%8F%8B%E8%BF%9E%E7%BB%AD800%E5%A4%9A%E5%A4%A9%E5%90%91%E5%8D%97%E5%A4%A7%E6%8D%90%E9%92%B1%23&t=31&band_rank=35&Refer=top) 99552
 1. [陪你碎碎念的人还在身边吗](https://s.weibo.com/weibo?q=%23%E9%99%AA%E4%BD%A0%E7%A2%8E%E7%A2%8E%E5%BF%B5%E7%9A%84%E4%BA%BA%E8%BF%98%E5%9C%A8%E8%BA%AB%E8%BE%B9%E5%90%97%23&t=31&band_rank=36&Refer=top) 90277
+1. [骨质疏松症也叫静悄悄的流行病](https://s.weibo.com/weibo?q=%23%E9%AA%A8%E8%B4%A8%E7%96%8F%E6%9D%BE%E7%97%87%E4%B9%9F%E5%8F%AB%E9%9D%99%E6%82%84%E6%82%84%E7%9A%84%E6%B5%81%E8%A1%8C%E7%97%85%23&t=31&band_rank=50&Refer=top) 89916
+1. [90后家长回应给儿子取名张总](https://s.weibo.com/weibo?q=%2390%E5%90%8E%E5%AE%B6%E9%95%BF%E5%9B%9E%E5%BA%94%E7%BB%99%E5%84%BF%E5%AD%90%E5%8F%96%E5%90%8D%E5%BC%A0%E6%80%BB%23&t=31&band_rank=49&Refer=top) 89890
 1. [RNG告别TI11](https://s.weibo.com/weibo?q=%23RNG%E5%91%8A%E5%88%ABTI11%23&t=31&band_rank=37&Refer=top) 86646
 1. [老人要钱被请吃面却剩下大半](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E8%A6%81%E9%92%B1%E8%A2%AB%E8%AF%B7%E5%90%83%E9%9D%A2%E5%8D%B4%E5%89%A9%E4%B8%8B%E5%A4%A7%E5%8D%8A%23&t=31&band_rank=38&Refer=top) 85343
 1. [大富翁11上线](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AF%8C%E7%BF%8111%E4%B8%8A%E7%BA%BF%23&t=31&band_rank=39&Refer=top) 81694
 1. [Maybe我的青春结束了](https://s.weibo.com/weibo?q=%23Maybe%E6%88%91%E7%9A%84%E9%9D%92%E6%98%A5%E7%BB%93%E6%9D%9F%E4%BA%86%23&t=31&band_rank=40&Refer=top) 79772
 1. [女子下厨招待朋友被狗子5分钟炫光](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B8%8B%E5%8E%A8%E6%8B%9B%E5%BE%85%E6%9C%8B%E5%8F%8B%E8%A2%AB%E7%8B%97%E5%AD%905%E5%88%86%E9%92%9F%E7%82%AB%E5%85%89%23&t=31&band_rank=41&Refer=top) 77787
 1. [周杰伦明天发新MV](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%98%8E%E5%A4%A9%E5%8F%91%E6%96%B0MV%23&t=31&band_rank=43&Refer=top) 74922
+1. [中国女足成为世界杯二档种子](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B3%E6%88%90%E4%B8%BA%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BA%8C%E6%A1%A3%E7%A7%8D%E5%AD%90%23&t=31&band_rank=40&Refer=top) 73258
 1. [美经济学家称全世界英美最残暴](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%AE%B6%E7%A7%B0%E5%85%A8%E4%B8%96%E7%95%8C%E8%8B%B1%E7%BE%8E%E6%9C%80%E6%AE%8B%E6%9A%B4%23&t=31&band_rank=44&Refer=top) 72630
 1. [吃柿子最好去皮](https://s.weibo.com/weibo?q=%23%E5%90%83%E6%9F%BF%E5%AD%90%E6%9C%80%E5%A5%BD%E5%8E%BB%E7%9A%AE%23&t=31&band_rank=45&Refer=top) 66246
 1. [被李诞的话抚平了职场焦虑](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%9D%8E%E8%AF%9E%E7%9A%84%E8%AF%9D%E6%8A%9A%E5%B9%B3%E4%BA%86%E8%81%8C%E5%9C%BA%E7%84%A6%E8%99%91%23&t=31&band_rank=46&Refer=top) 64951
 1. [吴磊赵露思星汉灿烂已上线网飞](https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A3%8A%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%98%9F%E6%B1%89%E7%81%BF%E7%83%82%E5%B7%B2%E4%B8%8A%E7%BA%BF%E7%BD%91%E9%A3%9E%23&t=31&band_rank=47&Refer=top) 63925
 1. [减肥和健康同时安排了](https://s.weibo.com/weibo?q=%23%E5%87%8F%E8%82%A5%E5%92%8C%E5%81%A5%E5%BA%B7%E5%90%8C%E6%97%B6%E5%AE%89%E6%8E%92%E4%BA%86%23&t=31&band_rank=49&Refer=top) 55500
 1. [谭松韵饰演的李心遥好励志](https://s.weibo.com/weibo?q=%23%E8%B0%AD%E6%9D%BE%E9%9F%B5%E9%A5%B0%E6%BC%94%E7%9A%84%E6%9D%8E%E5%BF%83%E9%81%A5%E5%A5%BD%E5%8A%B1%E5%BF%97%23&t=31&band_rank=48&Refer=top) 55470
-1. [90后家长回应给儿子取名张总](https://s.weibo.com/weibo?q=%2390%E5%90%8E%E5%AE%B6%E9%95%BF%E5%9B%9E%E5%BA%94%E7%BB%99%E5%84%BF%E5%AD%90%E5%8F%96%E5%90%8D%E5%BC%A0%E6%80%BB%23&t=31&band_rank=49&Refer=top) 49475
-1. [中国女足成为世界杯二档种子](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B3%E6%88%90%E4%B8%BA%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BA%8C%E6%A1%A3%E7%A7%8D%E5%AD%90%23&t=31&band_rank=40&Refer=top) 48253
-1. [骨质疏松症也叫静悄悄的流行病](https://s.weibo.com/weibo?q=%23%E9%AA%A8%E8%B4%A8%E7%96%8F%E6%9D%BE%E7%97%87%E4%B9%9F%E5%8F%AB%E9%9D%99%E6%82%84%E6%82%84%E7%9A%84%E6%B5%81%E8%A1%8C%E7%97%85%23&t=31&band_rank=50&Refer=top) 46767
+1. [盖茨称欧洲能源危机长远看是好事](https://s.weibo.com/weibo?q=%23%E7%9B%96%E8%8C%A8%E7%A7%B0%E6%AC%A7%E6%B4%B2%E8%83%BD%E6%BA%90%E5%8D%B1%E6%9C%BA%E9%95%BF%E8%BF%9C%E7%9C%8B%E6%98%AF%E5%A5%BD%E4%BA%8B%23&t=31&band_rank=43&Refer=top) 51630
+1. [泰山五岳独尊石怎么来的](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%B1%B1%E4%BA%94%E5%B2%B3%E7%8B%AC%E5%B0%8A%E7%9F%B3%E6%80%8E%E4%B9%88%E6%9D%A5%E7%9A%84%23&t=31&band_rank=49&Refer=top) 48369
 1. [隔着玻璃晒太阳是无效补钙](https://s.weibo.com/weibo?q=%23%E9%9A%94%E7%9D%80%E7%8E%BB%E7%92%83%E6%99%92%E5%A4%AA%E9%98%B3%E6%98%AF%E6%97%A0%E6%95%88%E8%A1%A5%E9%92%99%23&t=31&band_rank=50&Refer=top) 43055
-1. [盖茨称欧洲能源危机长远看是好事](https://s.weibo.com/weibo?q=%23%E7%9B%96%E8%8C%A8%E7%A7%B0%E6%AC%A7%E6%B4%B2%E8%83%BD%E6%BA%90%E5%8D%B1%E6%9C%BA%E9%95%BF%E8%BF%9C%E7%9C%8B%E6%98%AF%E5%A5%BD%E4%BA%8B%23&t=31&band_rank=43&Refer=top) 42521
 1. [外资巨头增持中资互联网股](https://s.weibo.com/weibo?q=%23%E5%A4%96%E8%B5%84%E5%B7%A8%E5%A4%B4%E5%A2%9E%E6%8C%81%E4%B8%AD%E8%B5%84%E4%BA%92%E8%81%94%E7%BD%91%E8%82%A1%23&t=31&band_rank=48&Refer=top) 41350
 1. [谷爱凌晒首尔plog](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E6%99%92%E9%A6%96%E5%B0%94plog%23&t=31&band_rank=45&Refer=top) 39802
-1. [泰山五岳独尊石怎么来的](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%B1%B1%E4%BA%94%E5%B2%B3%E7%8B%AC%E5%B0%8A%E7%9F%B3%E6%80%8E%E4%B9%88%E6%9D%A5%E7%9A%84%23&t=31&band_rank=49&Refer=top) 37869
 1. [高钙调制奶相当于牛奶配钙片](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%92%99%E8%B0%83%E5%88%B6%E5%A5%B6%E7%9B%B8%E5%BD%93%E4%BA%8E%E7%89%9B%E5%A5%B6%E9%85%8D%E9%92%99%E7%89%87%23&t=31&band_rank=50&Refer=top) 17430
 1. [狗狗课堂表演滑板引围观](https://s.weibo.com/weibo?q=%23%E7%8B%97%E7%8B%97%E8%AF%BE%E5%A0%82%E8%A1%A8%E6%BC%94%E6%BB%91%E6%9D%BF%E5%BC%95%E5%9B%B4%E8%A7%82%23&t=31&band_rank=47&Refer=top) 15744
 1. [79岁爷爷每天来地铁口接孙女下班](https://s.weibo.com/weibo?q=%2379%E5%B2%81%E7%88%B7%E7%88%B7%E6%AF%8F%E5%A4%A9%E6%9D%A5%E5%9C%B0%E9%93%81%E5%8F%A3%E6%8E%A5%E5%AD%99%E5%A5%B3%E4%B8%8B%E7%8F%AD%23&t=31&band_rank=50&Refer=top) 15589
