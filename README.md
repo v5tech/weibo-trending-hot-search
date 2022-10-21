@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-10-21 15:42:39.606604 
+最后更新时间 2022-10-21 15:57:27.962029 
 1. [中国外汇储备连续17年全球第一](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A4%96%E6%B1%87%E5%82%A8%E5%A4%87%E8%BF%9E%E7%BB%AD17%E5%B9%B4%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80%23&t=31&band_rank=1&Refer=top) 406973
 1. [党的二十大报告提到了这些精神](https://s.weibo.com/weibo?q=%23%E5%85%9A%E7%9A%84%E4%BA%8C%E5%8D%81%E5%A4%A7%E6%8A%A5%E5%91%8A%E6%8F%90%E5%88%B0%E4%BA%86%E8%BF%99%E4%BA%9B%E7%B2%BE%E7%A5%9E%23&t=31&band_rank=2&Refer=top) 404811
 1. [祖国各地的二十大时光](https://s.weibo.com/weibo?q=%23%E7%A5%96%E5%9B%BD%E5%90%84%E5%9C%B0%E7%9A%84%E4%BA%8C%E5%8D%81%E5%A4%A7%E6%97%B6%E5%85%89%23&t=31&band_rank=3&Refer=top) 403563
@@ -66,7 +66,7 @@
 1. [RGE对战JDG](https://s.weibo.com/weibo?q=%23RGE%E5%AF%B9%E6%88%98JDG%23&t=31&band_rank=23&Refer=top) 269422
 1. [二十大献礼片单展映](https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%A4%A7%E7%8C%AE%E7%A4%BC%E7%89%87%E5%8D%95%E5%B1%95%E6%98%A0%23&t=31&band_rank=5&Refer=top) 243498
 1. [9个字细读党的二十大报告](https://s.weibo.com/weibo?q=%239%E4%B8%AA%E5%AD%97%E7%BB%86%E8%AF%BB%E5%85%9A%E7%9A%84%E4%BA%8C%E5%8D%81%E5%A4%A7%E6%8A%A5%E5%91%8A%23&t=31&band_rank=10&Refer=top) 239470
-1. [一张思维导图了解中国式现代化](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%BC%A0%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE%E4%BA%86%E8%A7%A3%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%23&t=31&band_rank=5&Refer=top) 234656
+1. [一张思维导图了解中国式现代化](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%BC%A0%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE%E4%BA%86%E8%A7%A3%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%23&t=31&band_rank=5&Refer=top) 235195
 1. [威少11投0中](https://s.weibo.com/weibo?q=%23%E5%A8%81%E5%B0%9111%E6%8A%950%E4%B8%AD%23&t=31&band_rank=18&Refer=top) 217898
 1. [航天员拍到月亮羞答答溜走](https://s.weibo.com/weibo?q=%23%E8%88%AA%E5%A4%A9%E5%91%98%E6%8B%8D%E5%88%B0%E6%9C%88%E4%BA%AE%E7%BE%9E%E7%AD%94%E7%AD%94%E6%BA%9C%E8%B5%B0%23&t=31&band_rank=7&Refer=top) 217295
 1. [WTT澳门冠军赛2022](https://s.weibo.com/weibo?q=%23WTT%E6%BE%B3%E9%97%A8%E5%86%A0%E5%86%9B%E8%B5%9B2022%23&t=31&band_rank=8&Refer=top) 215669
@@ -101,6 +101,7 @@
 1. [女子捡猫主人慷慨相送并附赠1只](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%8D%A1%E7%8C%AB%E4%B8%BB%E4%BA%BA%E6%85%B7%E6%85%A8%E7%9B%B8%E9%80%81%E5%B9%B6%E9%99%84%E8%B5%A01%E5%8F%AA%23&t=31&band_rank=42&Refer=top) 151189
 1. [马斯克称准备裁掉75%推特员工](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B0%E5%87%86%E5%A4%87%E8%A3%81%E6%8E%8975%25%E6%8E%A8%E7%89%B9%E5%91%98%E5%B7%A5%23&t=31&band_rank=18&Refer=top) 148743
 1. [张宁27分](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%AE%8127%E5%88%86%23&t=31&band_rank=26&Refer=top) 147833
+1. [中国新能源汽车产销量居世界第一](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E4%BA%A7%E9%94%80%E9%87%8F%E5%B1%85%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80%23&t=31&band_rank=7&Refer=top) 135500
 1. [英国在野党要求立刻举行大选](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E5%9C%A8%E9%87%8E%E5%85%9A%E8%A6%81%E6%B1%82%E7%AB%8B%E5%88%BB%E4%B8%BE%E8%A1%8C%E5%A4%A7%E9%80%89%23&t=31&band_rank=29&Refer=top) 133282
 1. [全国男女人均预期寿命差距拉大](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E7%94%B7%E5%A5%B3%E4%BA%BA%E5%9D%87%E9%A2%84%E6%9C%9F%E5%AF%BF%E5%91%BD%E5%B7%AE%E8%B7%9D%E6%8B%89%E5%A4%A7%23&t=31&band_rank=14&Refer=top) 130510
 1. [披荆斩棘](https://s.weibo.com/weibo?q=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98&t=31&band_rank=42&Refer=top) 130307
@@ -111,7 +112,6 @@
 1. [让别人瞬间不自信的方法](https://s.weibo.com/weibo?q=%23%E8%AE%A9%E5%88%AB%E4%BA%BA%E7%9E%AC%E9%97%B4%E4%B8%8D%E8%87%AA%E4%BF%A1%E7%9A%84%E6%96%B9%E6%B3%95%23&t=31&band_rank=31&Refer=top) 119298
 1. [aster晋级ti六强](https://s.weibo.com/weibo?q=%23aster%E6%99%8B%E7%BA%A7ti%E5%85%AD%E5%BC%BA%23&t=31&band_rank=43&Refer=top) 118752
 1. [s12](https://s.weibo.com/weibo?q=s12&t=31&band_rank=34&Refer=top) 117958
-1. [中国新能源汽车产销量居世界第一](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E4%BA%A7%E9%94%80%E9%87%8F%E5%B1%85%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80%23&t=31&band_rank=7&Refer=top) 112925
 1. [midnights](https://s.weibo.com/weibo?q=midnights&t=31&band_rank=23&Refer=top) 107812
 1. [炽道](https://s.weibo.com/weibo?q=%E7%82%BD%E9%81%93&t=31&band_rank=32&Refer=top) 104386
 1. [万神殿](https://s.weibo.com/weibo?q=%E4%B8%87%E7%A5%9E%E6%AE%BF&t=31&band_rank=38&Refer=top) 103962
@@ -147,6 +147,9 @@
 1. [Maybe我的青春结束了](https://s.weibo.com/weibo?q=%23Maybe%E6%88%91%E7%9A%84%E9%9D%92%E6%98%A5%E7%BB%93%E6%9D%9F%E4%BA%86%23&t=31&band_rank=40&Refer=top) 79772
 1. [外资巨头增持中资互联网股](https://s.weibo.com/weibo?q=%23%E5%A4%96%E8%B5%84%E5%B7%A8%E5%A4%B4%E5%A2%9E%E6%8C%81%E4%B8%AD%E8%B5%84%E4%BA%92%E8%81%94%E7%BD%91%E8%82%A1%23&t=31&band_rank=48&Refer=top) 79525
 1. [周杰伦明天发新MV](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%98%8E%E5%A4%A9%E5%8F%91%E6%96%B0MV%23&t=31&band_rank=43&Refer=top) 74922
+1. [TaylorSwift新专辑Midnights](https://s.weibo.com/weibo?q=%23TaylorSwift%E6%96%B0%E4%B8%93%E8%BE%91Midnights%23&t=31&band_rank=25&Refer=top) 74536
+1. [真诚是爱情的加分项吗](https://s.weibo.com/weibo?q=%23%E7%9C%9F%E8%AF%9A%E6%98%AF%E7%88%B1%E6%83%85%E7%9A%84%E5%8A%A0%E5%88%86%E9%A1%B9%E5%90%97%23&t=31&band_rank=49&Refer=top) 74450
+1. [群众自行灭油锅火怕尴尬拉黑消防](https://s.weibo.com/weibo?q=%23%E7%BE%A4%E4%BC%97%E8%87%AA%E8%A1%8C%E7%81%AD%E6%B2%B9%E9%94%85%E7%81%AB%E6%80%95%E5%B0%B4%E5%B0%AC%E6%8B%89%E9%BB%91%E6%B6%88%E9%98%B2%23&t=31&band_rank=50&Refer=top) 74448
 1. [美经济学家称全世界英美最残暴](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%AE%B6%E7%A7%B0%E5%85%A8%E4%B8%96%E7%95%8C%E8%8B%B1%E7%BE%8E%E6%9C%80%E6%AE%8B%E6%9A%B4%23&t=31&band_rank=44&Refer=top) 72630
 1. [谭松韵新剧事业爱情双丰收](https://s.weibo.com/weibo?q=%23%E8%B0%AD%E6%9D%BE%E9%9F%B5%E6%96%B0%E5%89%A7%E4%BA%8B%E4%B8%9A%E7%88%B1%E6%83%85%E5%8F%8C%E4%B8%B0%E6%94%B6%23&t=31&band_rank=49&Refer=top) 71458
 1. [谷爱凌晒首尔plog](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E6%99%92%E9%A6%96%E5%B0%94plog%23&t=31&band_rank=45&Refer=top) 69820
