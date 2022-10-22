@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-10-23 01:42:47.068933 
+最后更新时间 2022-10-23 01:57:38.731456 
 1. [二十届中央委员会委员名单](https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%B1%8A%E4%B8%AD%E5%A4%AE%E5%A7%94%E5%91%98%E4%BC%9A%E5%A7%94%E5%91%98%E5%90%8D%E5%8D%95%23&t=31&band_rank=1&Refer=top) 179130
 1. [关于党章修正案的决议通过](https://s.weibo.com/weibo?q=%23%E5%85%B3%E4%BA%8E%E5%85%9A%E7%AB%A0%E4%BF%AE%E6%AD%A3%E6%A1%88%E7%9A%84%E5%86%B3%E8%AE%AE%E9%80%9A%E8%BF%87%23&t=31&band_rank=2&Refer=top) 97667
 1. [新征程再出发](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%BE%81%E7%A8%8B%E5%86%8D%E5%87%BA%E5%8F%91%23&t=31&band_rank=3&Refer=top) 69285
@@ -60,6 +60,7 @@
 1. [刘雨昕学舞的速度](https://s.weibo.com/weibo?q=%23%E5%88%98%E9%9B%A8%E6%98%95%E5%AD%A6%E8%88%9E%E7%9A%84%E9%80%9F%E5%BA%A6%23&t=31&band_rank=50&Refer=top) 9334
 1. [郑在玹golddust舞台](https://s.weibo.com/weibo?q=%23%E9%83%91%E5%9C%A8%E7%8E%B9golddust%E8%88%9E%E5%8F%B0%23&t=31&band_rank=48&Refer=top) 6357
 1. [英超联赛](https://s.weibo.com/weibo?q=%E8%8B%B1%E8%B6%85%E8%81%94%E8%B5%9B&t=31&band_rank=50&Refer=top) 6341
+1. [爸爸射箭帮8岁儿子拔牙](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E5%B0%84%E7%AE%AD%E5%B8%AE8%E5%B2%81%E5%84%BF%E5%AD%90%E6%8B%94%E7%89%99%23&t=31&band_rank=49&Refer=top) 3173
 <!-- END -->
 
 历史归档 [./archives](./archives)
