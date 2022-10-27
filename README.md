@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-10-28 01:52:55.250102 
+最后更新时间 2022-10-28 02:20:32.373250 
 1. [金博洋](https://s.weibo.com/weibo?q=%E9%87%91%E5%8D%9A%E6%B4%8B&t=31&band_rank=1&Refer=top) 695232
 1. [坚持早睡身体会有什么变化](https://s.weibo.com/weibo?q=%23%E5%9D%9A%E6%8C%81%E6%97%A9%E7%9D%A1%E8%BA%AB%E4%BD%93%E4%BC%9A%E6%9C%89%E4%BB%80%E4%B9%88%E5%8F%98%E5%8C%96%23&t=31&band_rank=2&Refer=top) 635326
 1. [飞天圆梦](https://s.weibo.com/weibo?q=%23%E9%A3%9E%E5%A4%A9%E5%9C%86%E6%A2%A6%23&t=31&band_rank=3&Refer=top) 274066
@@ -62,6 +62,8 @@
 1. [从小就会玩谐音梗](https://s.weibo.com/weibo?q=%23%E4%BB%8E%E5%B0%8F%E5%B0%B1%E4%BC%9A%E7%8E%A9%E8%B0%90%E9%9F%B3%E6%A2%97%23&t=31&band_rank=49&Refer=top) 43979
 1. [专家称是人斯人两种写法都有](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E6%98%AF%E4%BA%BA%E6%96%AF%E4%BA%BA%E4%B8%A4%E7%A7%8D%E5%86%99%E6%B3%95%E9%83%BD%E6%9C%89%23&t=31&band_rank=50&Refer=top) 42330
 1. [gidle新歌获MCD一位](https://s.weibo.com/weibo?q=%23gidle%E6%96%B0%E6%AD%8C%E8%8E%B7MCD%E4%B8%80%E4%BD%8D%23&t=31&band_rank=48&Refer=top) 31974
+1. [林彦俊晒日常随拍](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BD%A6%E4%BF%8A%E6%99%92%E6%97%A5%E5%B8%B8%E9%9A%8F%E6%8B%8D%23&t=31&band_rank=44&Refer=top) 17259
+1. [学生时期留下的永久印迹](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E6%97%B6%E6%9C%9F%E7%95%99%E4%B8%8B%E7%9A%84%E6%B0%B8%E4%B9%85%E5%8D%B0%E8%BF%B9%23&t=31&band_rank=50&Refer=top) 13453
 <!-- END -->
 
 历史归档 [./archives](./archives)
