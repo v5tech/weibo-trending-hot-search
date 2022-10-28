@@ -23,6 +23,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E6%B5%B7%E6%81%A9%E8%B4%A4%E5%9C%AD%E6%88%90%E4%BA%86%23&t=31&band_rank=6&Refer=top",
     "hot": 519074
   },
+  "奶奶被喂嚼过方便面魔性拒绝": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B6%E5%A5%B6%E8%A2%AB%E5%96%82%E5%9A%BC%E8%BF%87%E6%96%B9%E4%BE%BF%E9%9D%A2%E9%AD%94%E6%80%A7%E6%8B%92%E7%BB%9D%23&t=31&band_rank=40&Refer=top",
+    "hot": 492403
+  },
   "台北故宫3件文物破损照曝光": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E5%8C%97%E6%95%85%E5%AE%AB3%E4%BB%B6%E6%96%87%E7%89%A9%E7%A0%B4%E6%8D%9F%E7%85%A7%E6%9B%9D%E5%85%89%23&t=31&band_rank=7&Refer=top",
     "hot": 422688
@@ -62,10 +66,6 @@
   "女生上课用手机举弹幕求上厕所": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E4%B8%8A%E8%AF%BE%E7%94%A8%E6%89%8B%E6%9C%BA%E4%B8%BE%E5%BC%B9%E5%B9%95%E6%B1%82%E4%B8%8A%E5%8E%95%E6%89%80%23&t=31&band_rank=16&Refer=top",
     "hot": 212056
-  },
-  "奶奶被喂嚼过方便面魔性拒绝": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B6%E5%A5%B6%E8%A2%AB%E5%96%82%E5%9A%BC%E8%BF%87%E6%96%B9%E4%BE%BF%E9%9D%A2%E9%AD%94%E6%80%A7%E6%8B%92%E7%BB%9D%23&t=31&band_rank=40&Refer=top",
-    "hot": 207048
   },
   "海恩贤圭情侣照": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%B5%B7%E6%81%A9%E8%B4%A4%E5%9C%AD%E6%83%85%E4%BE%A3%E7%85%A7%23&t=31&band_rank=12&Refer=top",
@@ -210,5 +210,13 @@
   "那英在上一种很新的菜": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%82%A3%E8%8B%B1%E5%9C%A8%E4%B8%8A%E4%B8%80%E7%A7%8D%E5%BE%88%E6%96%B0%E7%9A%84%E8%8F%9C%23&t=31&band_rank=46&Refer=top",
     "hot": 47753
+  },
+  "美丽战场": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%B8%BD%E6%88%98%E5%9C%BA%23&t=31&band_rank=48&Refer=top",
+    "hot": 35412
+  },
+  "30岁了依然期待爱情": {
+    "url": "https://s.weibo.com/weibo?q=%2330%E5%B2%81%E4%BA%86%E4%BE%9D%E7%84%B6%E6%9C%9F%E5%BE%85%E7%88%B1%E6%83%85%23&t=31&band_rank=50&Refer=top",
+    "hot": 30995
   }
 }
