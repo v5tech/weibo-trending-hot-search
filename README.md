@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-10-29 01:19:48.799231 
+最后更新时间 2022-10-29 01:43:35.089520 
 1. [林孝埈](https://s.weibo.com/weibo?q=%E6%9E%97%E5%AD%9D%E5%9F%88&t=31&band_rank=1&Refer=top) 1981007
 1. [贪便宜买了个电动牙刷](https://s.weibo.com/weibo?q=%23%E8%B4%AA%E4%BE%BF%E5%AE%9C%E4%B9%B0%E4%BA%86%E4%B8%AA%E7%94%B5%E5%8A%A8%E7%89%99%E5%88%B7%23&t=31&band_rank=2&Refer=top) 772039
 1. [30个知识点带你学习党章](https://s.weibo.com/weibo?q=%2330%E4%B8%AA%E7%9F%A5%E8%AF%86%E7%82%B9%E5%B8%A6%E4%BD%A0%E5%AD%A6%E4%B9%A0%E5%85%9A%E7%AB%A0%23&t=31&band_rank=3&Refer=top) 657816
