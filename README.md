@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-10-30 01:50:05.222393 
+最后更新时间 2022-10-30 02:16:08.287317 
 1. [梨泰院](https://s.weibo.com/weibo?q=%E6%A2%A8%E6%B3%B0%E9%99%A2&t=31&band_rank=1&Refer=top) 5605388
 1. [李宇春父亲回应女儿病情](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AE%87%E6%98%A5%E7%88%B6%E4%BA%B2%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%84%BF%E7%97%85%E6%83%85%23&t=31&band_rank=2&Refer=top) 2012464
 1. [党的二十大报告学习工具](https://s.weibo.com/weibo?q=%23%E5%85%9A%E7%9A%84%E4%BA%8C%E5%8D%81%E5%A4%A7%E6%8A%A5%E5%91%8A%E5%AD%A6%E4%B9%A0%E5%B7%A5%E5%85%B7%23&t=31&band_rank=3&Refer=top) 1186603
@@ -26,6 +26,7 @@
 1. [消防通报南京金盛百货失火](https://s.weibo.com/weibo?q=%23%E6%B6%88%E9%98%B2%E9%80%9A%E6%8A%A5%E5%8D%97%E4%BA%AC%E9%87%91%E7%9B%9B%E7%99%BE%E8%B4%A7%E5%A4%B1%E7%81%AB%23&t=31&band_rank=14&Refer=top) 343051
 1. [迪丽热巴今晚直播生图](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E4%BB%8A%E6%99%9A%E7%9B%B4%E6%92%AD%E7%94%9F%E5%9B%BE%23&t=31&band_rank=15&Refer=top) 342459
 1. [小姨化妆后去接娃外甥没敢认](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%A7%A8%E5%8C%96%E5%A6%86%E5%90%8E%E5%8E%BB%E6%8E%A5%E5%A8%83%E5%A4%96%E7%94%A5%E6%B2%A1%E6%95%A2%E8%AE%A4%23&t=31&band_rank=16&Refer=top) 330100
+1. [赣州市公安局通报爆炸事故](https://s.weibo.com/weibo?q=%23%E8%B5%A3%E5%B7%9E%E5%B8%82%E5%85%AC%E5%AE%89%E5%B1%80%E9%80%9A%E6%8A%A5%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%23&t=31&band_rank=32&Refer=top) 320318
 1. [女生因病休学2年独自旅行49个城市](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E5%9B%A0%E7%97%85%E4%BC%91%E5%AD%A62%E5%B9%B4%E7%8B%AC%E8%87%AA%E6%97%85%E8%A1%8C49%E4%B8%AA%E5%9F%8E%E5%B8%82%23&t=31&band_rank=17&Refer=top) 315966
 1. [韩国首尔梨泰院踩踏事故已致2人死亡](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E9%A6%96%E5%B0%94%E6%A2%A8%E6%B3%B0%E9%99%A2%E8%B8%A9%E8%B8%8F%E4%BA%8B%E6%95%85%E5%B7%B2%E8%87%B42%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=31&Refer=top) 291690
 1. [赣州一店面爆炸致1死10余人受伤](https://s.weibo.com/weibo?q=%23%E8%B5%A3%E5%B7%9E%E4%B8%80%E5%BA%97%E9%9D%A2%E7%88%86%E7%82%B8%E8%87%B41%E6%AD%BB10%E4%BD%99%E4%BA%BA%E5%8F%97%E4%BC%A4%23&t=31&band_rank=15&Refer=top) 283563
@@ -33,7 +34,6 @@
 1. [外卖员被打赏1元1角以为求救秒报警](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%8D%96%E5%91%98%E8%A2%AB%E6%89%93%E8%B5%8F1%E5%85%831%E8%A7%92%E4%BB%A5%E4%B8%BA%E6%B1%82%E6%95%91%E7%A7%92%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=19&Refer=top) 266393
 1. [小白diss](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%99%BDdiss&t=31&band_rank=20&Refer=top) 263541
 1. [那奇沃夫](https://s.weibo.com/weibo?q=%E9%82%A3%E5%A5%87%E6%B2%83%E5%A4%AB&t=31&band_rank=21&Refer=top) 241183
-1. [赣州市公安局通报爆炸事故](https://s.weibo.com/weibo?q=%23%E8%B5%A3%E5%B7%9E%E5%B8%82%E5%85%AC%E5%AE%89%E5%B1%80%E9%80%9A%E6%8A%A5%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%23&t=31&band_rank=32&Refer=top) 240538
 1. [李玟删除中国好声音所有微博](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E5%88%A0%E9%99%A4%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%E6%89%80%E6%9C%89%E5%BE%AE%E5%8D%9A%23&t=31&band_rank=22&Refer=top) 233129
 1. [突然从焦虑变得不焦虑了](https://s.weibo.com/weibo?q=%23%E7%AA%81%E7%84%B6%E4%BB%8E%E7%84%A6%E8%99%91%E5%8F%98%E5%BE%97%E4%B8%8D%E7%84%A6%E8%99%91%E4%BA%86%23&t=31&band_rank=23&Refer=top) 217690
 1. [马龙vs王楚钦](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99vs%E7%8E%8B%E6%A5%9A%E9%92%A6%23&t=31&band_rank=24&Refer=top) 194915
