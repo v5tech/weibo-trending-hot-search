@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-11-02 04:53:29.958322 
+最后更新时间 2022-11-02 05:13:16.261418 
 1. [热依扎获奖孙俪在台下哭了](https://s.weibo.com/weibo?q=%23%E7%83%AD%E4%BE%9D%E6%89%8E%E8%8E%B7%E5%A5%96%E5%AD%99%E4%BF%AA%E5%9C%A8%E5%8F%B0%E4%B8%8B%E5%93%AD%E4%BA%86%23&t=31&band_rank=1&Refer=top) 1494602
 1. [福原爱被男友前妻起诉](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%8E%9F%E7%88%B1%E8%A2%AB%E7%94%B7%E5%8F%8B%E5%89%8D%E5%A6%BB%E8%B5%B7%E8%AF%89%23&t=31&band_rank=2&Refer=top) 852927
 1. [十年百变](https://s.weibo.com/weibo?q=%23%E5%8D%81%E5%B9%B4%E7%99%BE%E5%8F%98%23&t=31&band_rank=3&Refer=top) 719297
