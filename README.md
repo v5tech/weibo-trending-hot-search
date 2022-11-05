@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-11-06 00:49:56.372741 
+最后更新时间 2022-11-06 01:11:59.377613 
 1. [国家疾控局回应近期是否调整防控政策](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E7%96%BE%E6%8E%A7%E5%B1%80%E5%9B%9E%E5%BA%94%E8%BF%91%E6%9C%9F%E6%98%AF%E5%90%A6%E8%B0%83%E6%95%B4%E9%98%B2%E6%8E%A7%E6%94%BF%E7%AD%96%23&t=31&band_rank=1&Refer=top) 1042278
 1. [乌鲁木齐辟谣再封三个月](https://s.weibo.com/weibo?q=%23%E4%B9%8C%E9%B2%81%E6%9C%A8%E9%BD%90%E8%BE%9F%E8%B0%A3%E5%86%8D%E5%B0%81%E4%B8%89%E4%B8%AA%E6%9C%88%23&t=31&band_rank=2&Refer=top) 973034
 1. [中国国际进口博览会](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%9B%BD%E9%99%85%E8%BF%9B%E5%8F%A3%E5%8D%9A%E8%A7%88%E4%BC%9A%23&t=31&band_rank=3&Refer=top) 906055
@@ -27,6 +27,7 @@
 1. [陕西村民突然播音腔惊呆尼格买提](https://s.weibo.com/weibo?q=%23%E9%99%95%E8%A5%BF%E6%9D%91%E6%B0%91%E7%AA%81%E7%84%B6%E6%92%AD%E9%9F%B3%E8%85%94%E6%83%8A%E5%91%86%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%23&t=31&band_rank=17&Refer=top) 251807
 1. [孙怡金鹰节vlog](https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%80%A1%E9%87%91%E9%B9%B0%E8%8A%82vlog%23&t=31&band_rank=18&Refer=top) 248933
 1. [阿瑟是有点清澈的愚蠢在身上的](https://s.weibo.com/weibo?q=%23%E9%98%BF%E7%91%9F%E6%98%AF%E6%9C%89%E7%82%B9%E6%B8%85%E6%BE%88%E7%9A%84%E6%84%9A%E8%A0%A2%E5%9C%A8%E8%BA%AB%E4%B8%8A%E7%9A%84%23&t=31&band_rank=21&Refer=top) 242344
+1. [孙怡说她第一次网购增高鞋](https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%80%A1%E8%AF%B4%E5%A5%B9%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%BD%91%E8%B4%AD%E5%A2%9E%E9%AB%98%E9%9E%8B%23&t=31&band_rank=11&Refer=top) 183633
 1. [你在上一段感情学到了什么](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%9C%A8%E4%B8%8A%E4%B8%80%E6%AE%B5%E6%84%9F%E6%83%85%E5%AD%A6%E5%88%B0%E4%BA%86%E4%BB%80%E4%B9%88%23&t=31&band_rank=19&Refer=top) 165497
 1. [00后女生榨蔬菜汁将小狗染成绿色](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E5%A5%B3%E7%94%9F%E6%A6%A8%E8%94%AC%E8%8F%9C%E6%B1%81%E5%B0%86%E5%B0%8F%E7%8B%97%E6%9F%93%E6%88%90%E7%BB%BF%E8%89%B2%23&t=31&band_rank=20&Refer=top) 159651
 1. [张云龙你赢的可是李雪琴](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BA%91%E9%BE%99%E4%BD%A0%E8%B5%A2%E7%9A%84%E5%8F%AF%E6%98%AF%E6%9D%8E%E9%9B%AA%E7%90%B4%23&t=31&band_rank=22&Refer=top) 154856
@@ -53,12 +54,13 @@
 1. [天津人有点英语基础](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E4%BA%BA%E6%9C%89%E7%82%B9%E8%8B%B1%E8%AF%AD%E5%9F%BA%E7%A1%80%23&t=31&band_rank=43&Refer=top) 84763
 1. [开心就好不必正常](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%BF%83%E5%B0%B1%E5%A5%BD%E4%B8%8D%E5%BF%85%E6%AD%A3%E5%B8%B8%23&t=31&band_rank=44&Refer=top) 81435
 1. [林高远2比3薛飞](https://s.weibo.com/weibo?q=%23%E6%9E%97%E9%AB%98%E8%BF%9C2%E6%AF%943%E8%96%9B%E9%A3%9E%23&t=31&band_rank=45&Refer=top) 71703
+1. [特斯拉人形机器人首次在国内亮相](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%A6%96%E6%AC%A1%E5%9C%A8%E5%9B%BD%E5%86%85%E4%BA%AE%E7%9B%B8%23&t=31&band_rank=46&Refer=top) 71008
 1. [坚持动态清零总方针不动摇](https://s.weibo.com/weibo?q=%23%E5%9D%9A%E6%8C%81%E5%8A%A8%E6%80%81%E6%B8%85%E9%9B%B6%E6%80%BB%E6%96%B9%E9%92%88%E4%B8%8D%E5%8A%A8%E6%91%87%23&t=31&band_rank=46&Refer=top) 59057
 1. [同学父亲送肉酱全班大喊谢谢爸爸](https://s.weibo.com/weibo?q=%23%E5%90%8C%E5%AD%A6%E7%88%B6%E4%BA%B2%E9%80%81%E8%82%89%E9%85%B1%E5%85%A8%E7%8F%AD%E5%A4%A7%E5%96%8A%E8%B0%A2%E8%B0%A2%E7%88%B8%E7%88%B8%23&t=31&band_rank=47&Refer=top) 53186
 1. [一盒薯条养活了全家宠物](https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%9B%92%E8%96%AF%E6%9D%A1%E5%85%BB%E6%B4%BB%E4%BA%86%E5%85%A8%E5%AE%B6%E5%AE%A0%E7%89%A9%23&t=31&band_rank=48&Refer=top) 51412
 1. [一看就是放假回家的孩子](https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%9C%8B%E5%B0%B1%E6%98%AF%E6%94%BE%E5%81%87%E5%9B%9E%E5%AE%B6%E7%9A%84%E5%AD%A9%E5%AD%90%23&t=31&band_rank=49&Refer=top) 51089
 1. [林高远3比0马特](https://s.weibo.com/weibo?q=%23%E6%9E%97%E9%AB%98%E8%BF%9C3%E6%AF%940%E9%A9%AC%E7%89%B9%23&t=31&band_rank=50&Refer=top) 51073
-1. [特斯拉人形机器人首次在国内亮相](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%A6%96%E6%AC%A1%E5%9C%A8%E5%9B%BD%E5%86%85%E4%BA%AE%E7%9B%B8%23&t=31&band_rank=46&Refer=top) 43057
+1. [什么是低成本情绪价值](https://s.weibo.com/weibo?q=%23%E4%BB%80%E4%B9%88%E6%98%AF%E4%BD%8E%E6%88%90%E6%9C%AC%E6%83%85%E7%BB%AA%E4%BB%B7%E5%80%BC%23&t=31&band_rank=50&Refer=top) 43389
 1. [刘诗诗一念关山婚服造型](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%E5%A9%9A%E6%9C%8D%E9%80%A0%E5%9E%8B%23&t=31&band_rank=49&Refer=top) 40887
 <!-- END -->
 
