@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-11-11 02:56:44.789499 
+最后更新时间 2022-11-11 03:13:47.942610 
 1. [少爷和我](https://s.weibo.com/weibo?q=%23%E5%B0%91%E7%88%B7%E5%92%8C%E6%88%91%23&t=31&band_rank=1&Refer=top) 1090010
 1. [匈牙利同意刘氏兄弟更改国籍](https://s.weibo.com/weibo?q=%23%E5%8C%88%E7%89%99%E5%88%A9%E5%90%8C%E6%84%8F%E5%88%98%E6%B0%8F%E5%85%84%E5%BC%9F%E6%9B%B4%E6%94%B9%E5%9B%BD%E7%B1%8D%23&t=31&band_rank=2&Refer=top) 902890
 1. [探馆中国航展航空航天馆](https://s.weibo.com/weibo?q=%23%E6%8E%A2%E9%A6%86%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%B1%95%E8%88%AA%E7%A9%BA%E8%88%AA%E5%A4%A9%E9%A6%86%23&t=31&band_rank=3&Refer=top) 736409
@@ -28,13 +28,13 @@
 1. [中国首位女战神的战斗力到底有多强](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A6%96%E4%BD%8D%E5%A5%B3%E6%88%98%E7%A5%9E%E7%9A%84%E6%88%98%E6%96%97%E5%8A%9B%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%BC%BA%23&t=31&band_rank=16&Refer=top) 256948
 1. [TVB余子明去世](https://s.weibo.com/weibo?q=%23TVB%E4%BD%99%E5%AD%90%E6%98%8E%E5%8E%BB%E4%B8%96%23&t=31&band_rank=17&Refer=top) 244016
 1. [寻找吉林18岁失联女孩](https://s.weibo.com/weibo?q=%23%E5%AF%BB%E6%89%BE%E5%90%89%E6%9E%9718%E5%B2%81%E5%A4%B1%E8%81%94%E5%A5%B3%E5%AD%A9%23&t=31&band_rank=18&Refer=top) 239906
+1. [新疆新增无症状657例](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E6%96%B0%E5%A2%9E%E6%97%A0%E7%97%87%E7%8A%B6657%E4%BE%8B%23&t=31&band_rank=50&Refer=top) 230605
 1. [母女吵架双双爬上15米高塔被困](https://s.weibo.com/weibo?q=%23%E6%AF%8D%E5%A5%B3%E5%90%B5%E6%9E%B6%E5%8F%8C%E5%8F%8C%E7%88%AC%E4%B8%8A15%E7%B1%B3%E9%AB%98%E5%A1%94%E8%A2%AB%E5%9B%B0%23&t=31&band_rank=20&Refer=top) 214481
 1. [疯狂小杨哥称绝不避税](https://s.weibo.com/weibo?q=%23%E7%96%AF%E7%8B%82%E5%B0%8F%E6%9D%A8%E5%93%A5%E7%A7%B0%E7%BB%9D%E4%B8%8D%E9%81%BF%E7%A8%8E%23&t=31&band_rank=21&Refer=top) 213004
 1. [鲁某某家人登门下跪道歉求谅解](https://s.weibo.com/weibo?q=%23%E9%B2%81%E6%9F%90%E6%9F%90%E5%AE%B6%E4%BA%BA%E7%99%BB%E9%97%A8%E4%B8%8B%E8%B7%AA%E9%81%93%E6%AD%89%E6%B1%82%E8%B0%85%E8%A7%A3%23&t=31&band_rank=22&Refer=top) 213002
 1. [张小斐去年金鸡影后今年金鸡主持](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%E5%8E%BB%E5%B9%B4%E9%87%91%E9%B8%A1%E5%BD%B1%E5%90%8E%E4%BB%8A%E5%B9%B4%E9%87%91%E9%B8%A1%E4%B8%BB%E6%8C%81%23&t=31&band_rank=23&Refer=top) 211336
 1. [全网唯二的观众居然认亲了](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BD%91%E5%94%AF%E4%BA%8C%E7%9A%84%E8%A7%82%E4%BC%97%E5%B1%85%E7%84%B6%E8%AE%A4%E4%BA%B2%E4%BA%86%23&t=31&band_rank=24&Refer=top) 191673
 1. [王鹤棣被鸡踹到头](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E8%A2%AB%E9%B8%A1%E8%B8%B9%E5%88%B0%E5%A4%B4%23&t=31&band_rank=31&Refer=top) 189299
-1. [新疆新增无症状657例](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E6%96%B0%E5%A2%9E%E6%97%A0%E7%97%87%E7%8A%B6657%E4%BE%8B%23&t=31&band_rank=50&Refer=top) 184473
 1. [广州荔湾区进一步强化管控措施](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E8%8D%94%E6%B9%BE%E5%8C%BA%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%BC%BA%E5%8C%96%E7%AE%A1%E6%8E%A7%E6%8E%AA%E6%96%BD%23&t=31&band_rank=25&Refer=top) 132845
 1. [男子抢喝孕妻咖啡边喝边呕](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8A%A2%E5%96%9D%E5%AD%95%E5%A6%BB%E5%92%96%E5%95%A1%E8%BE%B9%E5%96%9D%E8%BE%B9%E5%91%95%23&t=31&band_rank=26&Refer=top) 129746
 1. [英格兰队公布世界杯大名单](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E6%A0%BC%E5%85%B0%E9%98%9F%E5%85%AC%E5%B8%83%E4%B8%96%E7%95%8C%E6%9D%AF%E5%A4%A7%E5%90%8D%E5%8D%95%23&t=31&band_rank=27&Refer=top) 123262
@@ -66,6 +66,7 @@
 1. [樊振东削球手上线](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%89%8A%E7%90%83%E6%89%8B%E4%B8%8A%E7%BA%BF%23&t=31&band_rank=49&Refer=top) 75505
 1. [妈妈们是懂套娃的](https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E4%BB%AC%E6%98%AF%E6%87%82%E5%A5%97%E5%A8%83%E7%9A%84%23&t=31&band_rank=50&Refer=top) 75474
 1. [李峋的审美](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B3%8B%E7%9A%84%E5%AE%A1%E7%BE%8E%23&t=31&band_rank=41&Refer=top) 40208
+1. [重庆疫情辟谣](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E7%96%AB%E6%83%85%E8%BE%9F%E8%B0%A3%23&t=31&band_rank=47&Refer=top) 13641
 <!-- END -->
 
 历史归档 [./archives](./archives)
