@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-11-13 05:39:26.898084 
+最后更新时间 2022-11-13 05:49:00.939891 
 1. [朱一龙获奖倪妮的祝贺词](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E8%8E%B7%E5%A5%96%E5%80%AA%E5%A6%AE%E7%9A%84%E7%A5%9D%E8%B4%BA%E8%AF%8D%23&t=31&band_rank=1&Refer=top) 1293404
 1. [29岁博士因社恐1月叫2次救护车](https://s.weibo.com/weibo?q=%2329%E5%B2%81%E5%8D%9A%E5%A3%AB%E5%9B%A0%E7%A4%BE%E6%81%901%E6%9C%88%E5%8F%AB2%E6%AC%A1%E6%95%91%E6%8A%A4%E8%BD%A6%23&t=31&band_rank=1&Refer=top) 1182228
 1. [奚美娟金鸡奖最佳女主角](https://s.weibo.com/weibo?q=%23%E5%A5%9A%E7%BE%8E%E5%A8%9F%E9%87%91%E9%B8%A1%E5%A5%96%E6%9C%80%E4%BD%B3%E5%A5%B3%E4%B8%BB%E8%A7%92%23&t=31&band_rank=2&Refer=top) 752986
@@ -70,11 +70,11 @@
 1. [爱情神话获金鸡奖最佳编剧](https://s.weibo.com/weibo?q=%23%E7%88%B1%E6%83%85%E7%A5%9E%E8%AF%9D%E8%8E%B7%E9%87%91%E9%B8%A1%E5%A5%96%E6%9C%80%E4%BD%B3%E7%BC%96%E5%89%A7%23&t=31&band_rank=42&Refer=top) 60979
 1. [李薇答应做尹峥的夫人](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%96%87%E7%AD%94%E5%BA%94%E5%81%9A%E5%B0%B9%E5%B3%A5%E7%9A%84%E5%A4%AB%E4%BA%BA%23&t=31&band_rank=34&Refer=top) 50649
 1. [人生大事](https://s.weibo.com/weibo?q=%E4%BA%BA%E7%94%9F%E5%A4%A7%E4%BA%8B&t=31&band_rank=21&Refer=top) 34441
-1. [家长抱娃坐副驾急刹致娃颅脑骨折](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%95%BF%E6%8A%B1%E5%A8%83%E5%9D%90%E5%89%AF%E9%A9%BE%E6%80%A5%E5%88%B9%E8%87%B4%E5%A8%83%E9%A2%85%E8%84%91%E9%AA%A8%E6%8A%98%23&t=31&band_rank=50&Refer=top) 29642
+1. [邻居称鲁某某是个有素质的人](https://s.weibo.com/weibo?q=%23%E9%82%BB%E5%B1%85%E7%A7%B0%E9%B2%81%E6%9F%90%E6%9F%90%E6%98%AF%E4%B8%AA%E6%9C%89%E7%B4%A0%E8%B4%A8%E7%9A%84%E4%BA%BA%23&t=31&band_rank=43&Refer=top) 32127
+1. [家长抱娃坐副驾急刹致娃颅脑骨折](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%95%BF%E6%8A%B1%E5%A8%83%E5%9D%90%E5%89%AF%E9%A9%BE%E6%80%A5%E5%88%B9%E8%87%B4%E5%A8%83%E9%A2%85%E8%84%91%E9%AA%A8%E6%8A%98%23&t=31&band_rank=50&Refer=top) 30537
+1. [所谓24海里线不存在请注意用语](https://s.weibo.com/weibo?q=%23%E6%89%80%E8%B0%9324%E6%B5%B7%E9%87%8C%E7%BA%BF%E4%B8%8D%E5%AD%98%E5%9C%A8%E8%AF%B7%E6%B3%A8%E6%84%8F%E7%94%A8%E8%AF%AD%23&t=31&band_rank=46&Refer=top) 25189
 1. [猫和老鼠的新版动画片](https://s.weibo.com/weibo?q=%23%E7%8C%AB%E5%92%8C%E8%80%81%E9%BC%A0%E7%9A%84%E6%96%B0%E7%89%88%E5%8A%A8%E7%94%BB%E7%89%87%23&t=31&band_rank=46&Refer=top) 22908
 1. [陈小纭郝葭演我](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%B0%8F%E7%BA%AD%E9%83%9D%E8%91%AD%E6%BC%94%E6%88%91%23&t=31&band_rank=35&Refer=top) 22619
-1. [邻居称鲁某某是个有素质的人](https://s.weibo.com/weibo?q=%23%E9%82%BB%E5%B1%85%E7%A7%B0%E9%B2%81%E6%9F%90%E6%9F%90%E6%98%AF%E4%B8%AA%E6%9C%89%E7%B4%A0%E8%B4%A8%E7%9A%84%E4%BA%BA%23&t=31&band_rank=43&Refer=top) 21383
-1. [所谓24海里线不存在请注意用语](https://s.weibo.com/weibo?q=%23%E6%89%80%E8%B0%9324%E6%B5%B7%E9%87%8C%E7%BA%BF%E4%B8%8D%E5%AD%98%E5%9C%A8%E8%AF%B7%E6%B3%A8%E6%84%8F%E7%94%A8%E8%AF%AD%23&t=31&band_rank=46&Refer=top) 21005
 1. [苏有朋的第三部电影即将开机](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E6%9C%89%E6%9C%8B%E7%9A%84%E7%AC%AC%E4%B8%89%E9%83%A8%E7%94%B5%E5%BD%B1%E5%8D%B3%E5%B0%86%E5%BC%80%E6%9C%BA%23&t=31&band_rank=31&Refer=top) 19477
 1. [伯克利黑帮](https://s.weibo.com/weibo?q=%23%E4%BC%AF%E5%85%8B%E5%88%A9%E9%BB%91%E5%B8%AE%23&t=31&band_rank=38&Refer=top) 18158
 1. [第四代防空武器装备首次公开亮相](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E5%9B%9B%E4%BB%A3%E9%98%B2%E7%A9%BA%E6%AD%A6%E5%99%A8%E8%A3%85%E5%A4%87%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80%E4%BA%AE%E7%9B%B8%23&t=31&band_rank=50&Refer=top) 12646
