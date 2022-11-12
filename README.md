@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-11-13 02:53:05.816618 
+最后更新时间 2022-11-13 03:24:09.134048 
 1. [朱一龙获奖倪妮的祝贺词](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E8%8E%B7%E5%A5%96%E5%80%AA%E5%A6%AE%E7%9A%84%E7%A5%9D%E8%B4%BA%E8%AF%8D%23&t=31&band_rank=1&Refer=top) 1293404
 1. [29岁博士因社恐1月叫2次救护车](https://s.weibo.com/weibo?q=%2329%E5%B2%81%E5%8D%9A%E5%A3%AB%E5%9B%A0%E7%A4%BE%E6%81%901%E6%9C%88%E5%8F%AB2%E6%AC%A1%E6%95%91%E6%8A%A4%E8%BD%A6%23&t=31&band_rank=1&Refer=top) 1182228
 1. [奚美娟金鸡奖最佳女主角](https://s.weibo.com/weibo?q=%23%E5%A5%9A%E7%BE%8E%E5%A8%9F%E9%87%91%E9%B8%A1%E5%A5%96%E6%9C%80%E4%BD%B3%E5%A5%B3%E4%B8%BB%E8%A7%92%23&t=31&band_rank=2&Refer=top) 752986
@@ -49,6 +49,7 @@
 1. [齐溪首获金鸡奖又哭又笑](https://s.weibo.com/weibo?q=%23%E9%BD%90%E6%BA%AA%E9%A6%96%E8%8E%B7%E9%87%91%E9%B8%A1%E5%A5%96%E5%8F%88%E5%93%AD%E5%8F%88%E7%AC%91%23&t=31&band_rank=23&Refer=top) 136456
 1. [第35届金鸡奖获奖名单](https://s.weibo.com/weibo?q=%23%E7%AC%AC35%E5%B1%8A%E9%87%91%E9%B8%A1%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95%23&t=31&band_rank=34&Refer=top) 135579
 1. [妻子手卡压面机丈夫满眼心疼](https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E6%89%8B%E5%8D%A1%E5%8E%8B%E9%9D%A2%E6%9C%BA%E4%B8%88%E5%A4%AB%E6%BB%A1%E7%9C%BC%E5%BF%83%E7%96%BC%23&t=31&band_rank=35&Refer=top) 134824
+1. [李薇考第一](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%96%87%E8%80%83%E7%AC%AC%E4%B8%80%23&t=31&band_rank=21&Refer=top) 129068
 1. [王者荣耀](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80&t=31&band_rank=37&Refer=top) 126733
 1. [爸爸拿体教资10年教不会儿子跳绳](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E6%8B%BF%E4%BD%93%E6%95%99%E8%B5%8410%E5%B9%B4%E6%95%99%E4%B8%8D%E4%BC%9A%E5%84%BF%E5%AD%90%E8%B7%B3%E7%BB%B3%23&t=31&band_rank=38&Refer=top) 124970
 1. [托尼绝杀](https://s.weibo.com/weibo?q=%23%E6%89%98%E5%B0%BC%E7%BB%9D%E6%9D%80%23&t=31&band_rank=39&Refer=top) 124820
@@ -66,10 +67,11 @@
 1. [养猫后电脑都关不了](https://s.weibo.com/weibo?q=%23%E5%85%BB%E7%8C%AB%E5%90%8E%E7%94%B5%E8%84%91%E9%83%BD%E5%85%B3%E4%B8%8D%E4%BA%86%23&t=31&band_rank=49&Refer=top) 92070
 1. [谁的学校还没有一个小甜妹呢](https://s.weibo.com/weibo?q=%23%E8%B0%81%E7%9A%84%E5%AD%A6%E6%A0%A1%E8%BF%98%E6%B2%A1%E6%9C%89%E4%B8%80%E4%B8%AA%E5%B0%8F%E7%94%9C%E5%A6%B9%E5%91%A2%23&t=31&band_rank=48&Refer=top) 91913
 1. [王者万象棋](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E4%B8%87%E8%B1%A1%E6%A3%8B%23&t=31&band_rank=50&Refer=top) 91756
-1. [李薇考第一](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%96%87%E8%80%83%E7%AC%AC%E4%B8%80%23&t=31&band_rank=21&Refer=top) 67308
 1. [爱情神话获金鸡奖最佳编剧](https://s.weibo.com/weibo?q=%23%E7%88%B1%E6%83%85%E7%A5%9E%E8%AF%9D%E8%8E%B7%E9%87%91%E9%B8%A1%E5%A5%96%E6%9C%80%E4%BD%B3%E7%BC%96%E5%89%A7%23&t=31&band_rank=42&Refer=top) 60979
 1. [李薇答应做尹峥的夫人](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%96%87%E7%AD%94%E5%BA%94%E5%81%9A%E5%B0%B9%E5%B3%A5%E7%9A%84%E5%A4%AB%E4%BA%BA%23&t=31&band_rank=34&Refer=top) 50649
+1. [人生大事](https://s.weibo.com/weibo?q=%E4%BA%BA%E7%94%9F%E5%A4%A7%E4%BA%8B&t=31&band_rank=21&Refer=top) 34441
 1. [家长抱娃坐副驾急刹致娃颅脑骨折](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%95%BF%E6%8A%B1%E5%A8%83%E5%9D%90%E5%89%AF%E9%A9%BE%E6%80%A5%E5%88%B9%E8%87%B4%E5%A8%83%E9%A2%85%E8%84%91%E9%AA%A8%E6%8A%98%23&t=31&band_rank=50&Refer=top) 26008
+1. [猫和老鼠的新版动画片](https://s.weibo.com/weibo?q=%23%E7%8C%AB%E5%92%8C%E8%80%81%E9%BC%A0%E7%9A%84%E6%96%B0%E7%89%88%E5%8A%A8%E7%94%BB%E7%89%87%23&t=31&band_rank=46&Refer=top) 17768
 <!-- END -->
 
 历史归档 [./archives](./archives)
