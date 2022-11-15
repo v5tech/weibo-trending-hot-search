@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-11-16 02:43:10.873229 
+最后更新时间 2022-11-16 02:53:28.021709 
 1. [鸟鸟 文本](https://s.weibo.com/weibo?q=%E9%B8%9F%E9%B8%9F%20%E6%96%87%E6%9C%AC&t=31&band_rank=1&Refer=top) 1254698
 1. [银行行长退休后当群演4天赚1200](https://s.weibo.com/weibo?q=%23%E9%93%B6%E8%A1%8C%E8%A1%8C%E9%95%BF%E9%80%80%E4%BC%91%E5%90%8E%E5%BD%93%E7%BE%A4%E6%BC%944%E5%A4%A9%E8%B5%9A1200%23&t=31&band_rank=2&Refer=top) 1035515
 1. [谈恋爱要不要在朋友圈公开](https://s.weibo.com/weibo?q=%23%E8%B0%88%E6%81%8B%E7%88%B1%E8%A6%81%E4%B8%8D%E8%A6%81%E5%9C%A8%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%85%AC%E5%BC%80%23&t=31&band_rank=10&Refer=top) 901153
@@ -67,7 +67,7 @@
 1. [爸爸为锻炼2岁儿子将其独自扔下](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E4%B8%BA%E9%94%BB%E7%82%BC2%E5%B2%81%E5%84%BF%E5%AD%90%E5%B0%86%E5%85%B6%E7%8B%AC%E8%87%AA%E6%89%94%E4%B8%8B%23&t=31&band_rank=50&Refer=top) 59266
 1. [警犬看到教官怀抱小狗吃醋](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E7%8A%AC%E7%9C%8B%E5%88%B0%E6%95%99%E5%AE%98%E6%80%80%E6%8A%B1%E5%B0%8F%E7%8B%97%E5%90%83%E9%86%8B%23&t=31&band_rank=49&Refer=top) 40954
 1. [陈奕迅新歌](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A5%95%E8%BF%85%E6%96%B0%E6%AD%8C%23&t=31&band_rank=43&Refer=top) 29118
-1. [包装盒上的牛肉面](https://s.weibo.com/weibo?q=%23%E5%8C%85%E8%A3%85%E7%9B%92%E4%B8%8A%E7%9A%84%E7%89%9B%E8%82%89%E9%9D%A2%23&t=31&band_rank=50&Refer=top) 23071
+1. [包装盒上的牛肉面](https://s.weibo.com/weibo?q=%23%E5%8C%85%E8%A3%85%E7%9B%92%E4%B8%8A%E7%9A%84%E7%89%9B%E8%82%89%E9%9D%A2%23&t=31&band_rank=50&Refer=top) 23842
 <!-- END -->
 
 历史归档 [./archives](./archives)
