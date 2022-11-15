@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-11-16 03:23:21.188822 
+最后更新时间 2022-11-16 03:35:18.706477 
 1. [鸟鸟 文本](https://s.weibo.com/weibo?q=%E9%B8%9F%E9%B8%9F%20%E6%96%87%E6%9C%AC&t=31&band_rank=1&Refer=top) 1254698
 1. [银行行长退休后当群演4天赚1200](https://s.weibo.com/weibo?q=%23%E9%93%B6%E8%A1%8C%E8%A1%8C%E9%95%BF%E9%80%80%E4%BC%91%E5%90%8E%E5%BD%93%E7%BE%A4%E6%BC%944%E5%A4%A9%E8%B5%9A1200%23&t=31&band_rank=2&Refer=top) 1035515
 1. [谈恋爱要不要在朋友圈公开](https://s.weibo.com/weibo?q=%23%E8%B0%88%E6%81%8B%E7%88%B1%E8%A6%81%E4%B8%8D%E8%A6%81%E5%9C%A8%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%85%AC%E5%BC%80%23&t=31&band_rank=10&Refer=top) 901153
