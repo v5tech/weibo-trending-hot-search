@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-11-20 03:09:45.243037 
+最后更新时间 2022-11-20 03:22:55.158500 
 1. [王冰冰更博了](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%86%B0%E5%86%B0%E6%9B%B4%E5%8D%9A%E4%BA%86%23&t=31&band_rank=1&Refer=top) 2020305
 1. [鹿晗回来内娱开门](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E5%9B%9E%E6%9D%A5%E5%86%85%E5%A8%B1%E5%BC%80%E9%97%A8%23&t=31&band_rank=2&Refer=top) 1856116
 1. [重庆市民可免费观看世界杯](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E5%B8%82%E6%B0%91%E5%8F%AF%E5%85%8D%E8%B4%B9%E8%A7%82%E7%9C%8B%E4%B8%96%E7%95%8C%E6%9D%AF%23&t=31&band_rank=5&Refer=top) 1364634
@@ -52,6 +52,7 @@
 1. [KPL](https://s.weibo.com/weibo?q=KPL&t=31&band_rank=37&Refer=top) 108134
 1. [哪家手机系统广告多](https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%AE%B6%E6%89%8B%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%B9%BF%E5%91%8A%E5%A4%9A%23&t=31&band_rank=38&Refer=top) 107027
 1. [秦施暴击阳华](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E6%96%BD%E6%9A%B4%E5%87%BB%E9%98%B3%E5%8D%8E%23&t=31&band_rank=33&Refer=top) 105817
+1. [于文文弹唱唯一](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%96%87%E6%96%87%E5%BC%B9%E5%94%B1%E5%94%AF%E4%B8%80%23&t=31&band_rank=6&Refer=top) 105147
 1. [霍华德38分25篮板](https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%8D%8E%E5%BE%B738%E5%88%8625%E7%AF%AE%E6%9D%BF%23&t=31&band_rank=39&Refer=top) 103856
 1. [你还有随时可以打扰的人吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%BF%98%E6%9C%89%E9%9A%8F%E6%97%B6%E5%8F%AF%E4%BB%A5%E6%89%93%E6%89%B0%E7%9A%84%E4%BA%BA%E5%90%97%23&t=31&band_rank=40&Refer=top) 103024
 1. [半岛铁盒](https://s.weibo.com/weibo?q=%E5%8D%8A%E5%B2%9B%E9%93%81%E7%9B%92&t=31&band_rank=41&Refer=top) 102967
