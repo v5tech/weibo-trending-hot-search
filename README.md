@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-11-21 03:22:55.165882 
+最后更新时间 2022-11-21 03:35:15.811234 
 1. [世界杯开幕式](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E5%B9%95%E5%BC%8F%23&t=31&band_rank=1&Refer=top) 7690900
 1. [卡塔尔vs厄瓜多尔](https://s.weibo.com/weibo?q=%23%E5%8D%A1%E5%A1%94%E5%B0%94vs%E5%8E%84%E7%93%9C%E5%A4%9A%E5%B0%94%23&t=31&band_rank=4&Refer=top) 3973425
 1. [田柾国](https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9F%BE%E5%9B%BD%23&t=31&band_rank=2&Refer=top) 2718106
