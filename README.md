@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-11-21 02:51:16.097099 
+最后更新时间 2022-11-21 03:09:45.776961 
 1. [世界杯开幕式](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E5%B9%95%E5%BC%8F%23&t=31&band_rank=1&Refer=top) 7690900
 1. [卡塔尔vs厄瓜多尔](https://s.weibo.com/weibo?q=%23%E5%8D%A1%E5%A1%94%E5%B0%94vs%E5%8E%84%E7%93%9C%E5%A4%9A%E5%B0%94%23&t=31&band_rank=4&Refer=top) 3973425
 1. [田柾国](https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9F%BE%E5%9B%BD%23&t=31&band_rank=2&Refer=top) 2718106
@@ -61,10 +61,10 @@
 1. [25岁小伙辞去公职去看世界杯](https://s.weibo.com/weibo?q=%2325%E5%B2%81%E5%B0%8F%E4%BC%99%E8%BE%9E%E5%8E%BB%E5%85%AC%E8%81%8C%E5%8E%BB%E7%9C%8B%E4%B8%96%E7%95%8C%E6%9D%AF%23&t=31&band_rank=50&Refer=top) 169334
 1. [摩根弗里曼 手](https://s.weibo.com/weibo?q=%E6%91%A9%E6%A0%B9%E5%BC%97%E9%87%8C%E6%9B%BC%20%E6%89%8B&t=31&band_rank=33&Refer=top) 156421
 1. [本泽马已离开卡塔尔](https://s.weibo.com/weibo?q=%23%E6%9C%AC%E6%B3%BD%E9%A9%AC%E5%B7%B2%E7%A6%BB%E5%BC%80%E5%8D%A1%E5%A1%94%E5%B0%94%23&t=31&band_rank=39&Refer=top) 155181
+1. [世界杯东道主揭幕战92年首败](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%9C%E9%81%93%E4%B8%BB%E6%8F%AD%E5%B9%95%E6%88%9892%E5%B9%B4%E9%A6%96%E8%B4%A5%23&t=31&band_rank=24&Refer=top) 147381
 1. [厄瓜多尔门将长啥样](https://s.weibo.com/weibo?q=%23%E5%8E%84%E7%93%9C%E5%A4%9A%E5%B0%94%E9%97%A8%E5%B0%86%E9%95%BF%E5%95%A5%E6%A0%B7%23&t=31&band_rank=18&Refer=top) 144137
 1. [厄瓜多尔进球被吹](https://s.weibo.com/weibo?q=%23%E5%8E%84%E7%93%9C%E5%A4%9A%E5%B0%94%E8%BF%9B%E7%90%83%E8%A2%AB%E5%90%B9%23&t=31&band_rank=48&Refer=top) 139460
 1. [父母为什么理解不了我们的累](https://s.weibo.com/weibo?q=%23%E7%88%B6%E6%AF%8D%E4%B8%BA%E4%BB%80%E4%B9%88%E7%90%86%E8%A7%A3%E4%B8%8D%E4%BA%86%E6%88%91%E4%BB%AC%E7%9A%84%E7%B4%AF%23&t=31&band_rank=40&Refer=top) 138567
-1. [世界杯东道主揭幕战92年首败](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%9C%E9%81%93%E4%B8%BB%E6%8F%AD%E5%B9%95%E6%88%9892%E5%B9%B4%E9%A6%96%E8%B4%A5%23&t=31&band_rank=24&Refer=top) 138145
 1. [宋舞宋武成亲](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%88%9E%E5%AE%8B%E6%AD%A6%E6%88%90%E4%BA%B2%23&t=31&band_rank=41&Refer=top) 137755
 1. [开幕式 沙丘](https://s.weibo.com/weibo?q=%E5%BC%80%E5%B9%95%E5%BC%8F%20%E6%B2%99%E4%B8%98&t=31&band_rank=42&Refer=top) 136035
 1. [江西16岁失联男孩已找到](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF16%E5%B2%81%E5%A4%B1%E8%81%94%E7%94%B7%E5%AD%A9%E5%B7%B2%E6%89%BE%E5%88%B0%23&t=31&band_rank=43&Refer=top) 131625
@@ -85,8 +85,10 @@
 1. [瓦伦西亚梅开二度](https://s.weibo.com/weibo?q=%23%E7%93%A6%E4%BC%A6%E8%A5%BF%E4%BA%9A%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6%23&t=31&band_rank=46&Refer=top) 83079
 1. [于和伟说世界杯开幕我又活了](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E5%92%8C%E4%BC%9F%E8%AF%B4%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E5%B9%95%E6%88%91%E5%8F%88%E6%B4%BB%E4%BA%86%23&t=31&band_rank=48&Refer=top) 79087
 1. [饺子皮好可爱](https://s.weibo.com/weibo?q=%E9%A5%BA%E5%AD%90%E7%9A%AE%E5%A5%BD%E5%8F%AF%E7%88%B1&t=31&band_rank=50&Refer=top) 63210
-1. [世界杯 唱歌](https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%20%E5%94%B1%E6%AD%8C&t=31&band_rank=42&Refer=top) 59332
+1. [世界杯 唱歌](https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%20%E5%94%B1%E6%AD%8C&t=31&band_rank=42&Refer=top) 61462
 1. [世界杯开幕式上的特殊少年](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E5%B9%95%E5%BC%8F%E4%B8%8A%E7%9A%84%E7%89%B9%E6%AE%8A%E5%B0%91%E5%B9%B4%23&t=31&band_rank=50&Refer=top) 48923
+1. [刘维何超莲下班就解散的友情](https://s.weibo.com/weibo?q=%23%E5%88%98%E7%BB%B4%E4%BD%95%E8%B6%85%E8%8E%B2%E4%B8%8B%E7%8F%AD%E5%B0%B1%E8%A7%A3%E6%95%A3%E7%9A%84%E5%8F%8B%E6%83%85%23&t=31&band_rank=41&Refer=top) 33911
+1. [世界杯历史上东道主首战从未输球](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8E%86%E5%8F%B2%E4%B8%8A%E4%B8%9C%E9%81%93%E4%B8%BB%E9%A6%96%E6%88%98%E4%BB%8E%E6%9C%AA%E8%BE%93%E7%90%83%23&t=31&band_rank=44&Refer=top) 32366
 <!-- END -->
 
 历史归档 [./archives](./archives)
