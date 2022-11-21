@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-11-22 03:35:33.098005 
+最后更新时间 2022-11-22 03:49:01.436105 
 1. [伊朗队开场未唱国歌](https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E9%98%9F%E5%BC%80%E5%9C%BA%E6%9C%AA%E5%94%B1%E5%9B%BD%E6%AD%8C%23&t=31&band_rank=1&Refer=top) 1286765
 1. [别再踩公厕马桶圈了](https://s.weibo.com/weibo?q=%23%E5%88%AB%E5%86%8D%E8%B8%A9%E5%85%AC%E5%8E%95%E9%A9%AC%E6%A1%B6%E5%9C%88%E4%BA%86%23&t=31&band_rank=40&Refer=top) 1197816
 1. [鹿晗因为曼联支持英格兰](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E5%9B%A0%E4%B8%BA%E6%9B%BC%E8%81%94%E6%94%AF%E6%8C%81%E8%8B%B1%E6%A0%BC%E5%85%B0%23&t=31&band_rank=2&Refer=top) 1041568
