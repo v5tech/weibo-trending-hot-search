@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-11-23 03:35:23.461388 
+最后更新时间 2022-11-23 03:48:59.979246 
 1. [给国足道歉](https://s.weibo.com/weibo?q=%23%E7%BB%99%E5%9B%BD%E8%B6%B3%E9%81%93%E6%AD%89%23&t=31&band_rank=20&Refer=top) 3652822
 1. [阿根廷输球一小时后无人走出更衣室](https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7%E8%BE%93%E7%90%83%E4%B8%80%E5%B0%8F%E6%97%B6%E5%90%8E%E6%97%A0%E4%BA%BA%E8%B5%B0%E5%87%BA%E6%9B%B4%E8%A1%A3%E5%AE%A4%23&t=31&band_rank=1&Refer=top) 2229329
 1. [沙特全国放假一天](https://s.weibo.com/weibo?q=%23%E6%B2%99%E7%89%B9%E5%85%A8%E5%9B%BD%E6%94%BE%E5%81%87%E4%B8%80%E5%A4%A9%23&t=31&band_rank=40&Refer=top) 2034545
@@ -68,15 +68,15 @@
 1. [郝葭生产](https://s.weibo.com/weibo?q=%23%E9%83%9D%E8%91%AD%E7%94%9F%E4%BA%A7%23&t=31&band_rank=49&Refer=top) 142693
 1. [沙特门将 牛](https://s.weibo.com/weibo?q=%23%E6%B2%99%E7%89%B9%E9%97%A8%E5%B0%86%20%E7%89%9B%23&t=31&band_rank=50&Refer=top) 137101
 1. [尹峥试鞋是白敬亭本人吧](https://s.weibo.com/weibo?q=%23%E5%B0%B9%E5%B3%A5%E8%AF%95%E9%9E%8B%E6%98%AF%E7%99%BD%E6%95%AC%E4%BA%AD%E6%9C%AC%E4%BA%BA%E5%90%A7%23&t=31&band_rank=38&Refer=top) 124235
+1. [世界杯期间被女友上了一课](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%9F%E9%97%B4%E8%A2%AB%E5%A5%B3%E5%8F%8B%E4%B8%8A%E4%BA%86%E4%B8%80%E8%AF%BE%23&t=31&band_rank=46&Refer=top) 115845
 1. [苏醒最不快乐的一天](https://s.weibo.com/weibo?q=%E8%8B%8F%E9%86%92%E6%9C%80%E4%B8%8D%E5%BF%AB%E4%B9%90%E7%9A%84%E4%B8%80%E5%A4%A9&t=31&band_rank=42&Refer=top) 114177
 1. [淀粉心情](https://s.weibo.com/weibo?q=%23%E6%B7%80%E7%B2%89%E5%BF%83%E6%83%85%23&t=31&band_rank=49&Refer=top) 111961
 1. [杨幂汤晶媚新剧第一次联手](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E6%B1%A4%E6%99%B6%E5%AA%9A%E6%96%B0%E5%89%A7%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%81%94%E6%89%8B%23&t=31&band_rank=50&Refer=top) 105851
 1. [gidle新歌Nxde微醺live](https://s.weibo.com/weibo?q=%23gidle%E6%96%B0%E6%AD%8CNxde%E5%BE%AE%E9%86%BAlive%23&t=31&band_rank=22&Refer=top) 105361
 1. [郑州最后一家家乐福停业](https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E6%9C%80%E5%90%8E%E4%B8%80%E5%AE%B6%E5%AE%B6%E4%B9%90%E7%A6%8F%E5%81%9C%E4%B8%9A%23&t=31&band_rank=49&Refer=top) 93583
-1. [世界杯期间被女友上了一课](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%9F%E9%97%B4%E8%A2%AB%E5%A5%B3%E5%8F%8B%E4%B8%8A%E4%BA%86%E4%B8%80%E8%AF%BE%23&t=31&band_rank=46&Refer=top) 89611
+1. [法国vs澳大利亚](https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BDvs%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%23&t=31&band_rank=16&Refer=top) 68329
 1. [破次元许愿季](https://s.weibo.com/weibo?q=%23%E7%A0%B4%E6%AC%A1%E5%85%83%E8%AE%B8%E6%84%BF%E5%AD%A3%23&t=31&band_rank=50&Refer=top) 64417
 1. [梅西也是巨蟹座](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E4%B9%9F%E6%98%AF%E5%B7%A8%E8%9F%B9%E5%BA%A7%23&t=31&band_rank=48&Refer=top) 57158
-1. [法国vs澳大利亚](https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BDvs%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%23&t=31&band_rank=16&Refer=top) 55112
 1. [阿根廷射门次数14比3沙特](https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%B0%84%E9%97%A8%E6%AC%A1%E6%95%B014%E6%AF%943%E6%B2%99%E7%89%B9%23&t=31&band_rank=49&Refer=top) 47383
 1. [这张中国面孔被很多坦桑尼亚人记住](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%BC%A0%E4%B8%AD%E5%9B%BD%E9%9D%A2%E5%AD%94%E8%A2%AB%E5%BE%88%E5%A4%9A%E5%9D%A6%E6%A1%91%E5%B0%BC%E4%BA%9A%E4%BA%BA%E8%AE%B0%E4%BD%8F%23&t=31&band_rank=30&Refer=top) 46531
 1. [孟川这人有点东西](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%B7%9D%E8%BF%99%E4%BA%BA%E6%9C%89%E7%82%B9%E4%B8%9C%E8%A5%BF%23&t=31&band_rank=48&Refer=top) 37032
