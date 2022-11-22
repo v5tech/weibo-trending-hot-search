@@ -15,6 +15,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E5%90%89%E7%A5%A5%E7%89%A9%E6%98%AF%E4%BD%A0%E6%9C%80%E7%88%B1%23&t=31&band_rank=3&Refer=top",
     "hot": 1658262
   },
+  "曼联官宣C罗离队": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9B%BC%E8%81%94%E5%AE%98%E5%AE%A3C%E7%BD%97%E7%A6%BB%E9%98%9F%23&t=31&band_rank=11&Refer=top",
+    "hot": 1435692
+  },
   "meiko": {
     "url": "https://s.weibo.com/weibo?q=meiko&t=31&band_rank=8&Refer=top",
     "hot": 1142261
@@ -143,17 +147,13 @@
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8F%B2%E4%B8%8A%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8F%AF%E6%8B%86%E5%8D%B8%E7%90%83%E5%9C%BA%23&t=31&band_rank=29&Refer=top",
     "hot": 253182
   },
-  "曼联官宣C罗离队": {
-    "url": "https://s.weibo.com/weibo?q=%23%E6%9B%BC%E8%81%94%E5%AE%98%E5%AE%A3C%E7%BD%97%E7%A6%BB%E9%98%9F%23&t=31&band_rank=11&Refer=top",
-    "hot": 238337
+  "阿根廷出线": {
+    "url": "https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%87%BA%E7%BA%BF&t=31&band_rank=32&Refer=top",
+    "hot": 248742
   },
   "白敬亭把人从天盛长歌踹到卿卿日常": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E6%8A%8A%E4%BA%BA%E4%BB%8E%E5%A4%A9%E7%9B%9B%E9%95%BF%E6%AD%8C%E8%B8%B9%E5%88%B0%E5%8D%BF%E5%8D%BF%E6%97%A5%E5%B8%B8%23&t=31&band_rank=30&Refer=top",
     "hot": 236431
-  },
-  "阿根廷出线": {
-    "url": "https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%87%BA%E7%BA%BF&t=31&band_rank=32&Refer=top",
-    "hot": 233557
   },
   "刘强东十几年捐了60%的收入": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E5%BC%BA%E4%B8%9C%E5%8D%81%E5%87%A0%E5%B9%B4%E6%8D%90%E4%BA%8660%25%E7%9A%84%E6%94%B6%E5%85%A5%23&t=31&band_rank=32&Refer=top",
@@ -237,11 +237,15 @@
   },
   "淀粉心情": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%B7%80%E7%B2%89%E5%BF%83%E6%83%85%23&t=31&band_rank=49&Refer=top",
-    "hot": 111619
+    "hot": 111961
   },
   "杨幂汤晶媚新剧第一次联手": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E6%B1%A4%E6%99%B6%E5%AA%9A%E6%96%B0%E5%89%A7%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%81%94%E6%89%8B%23&t=31&band_rank=50&Refer=top",
     "hot": 105851
+  },
+  "gidle新歌Nxde微醺live": {
+    "url": "https://s.weibo.com/weibo?q=%23gidle%E6%96%B0%E6%AD%8CNxde%E5%BE%AE%E9%86%BAlive%23&t=31&band_rank=22&Refer=top",
+    "hot": 105361
   },
   "郑州最后一家家乐福停业": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E6%9C%80%E5%90%8E%E4%B8%80%E5%AE%B6%E5%AE%B6%E4%B9%90%E7%A6%8F%E5%81%9C%E4%B8%9A%23&t=31&band_rank=49&Refer=top",
@@ -250,5 +254,17 @@
   "破次元许愿季": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%A0%B4%E6%AC%A1%E5%85%83%E8%AE%B8%E6%84%BF%E5%AD%A3%23&t=31&band_rank=50&Refer=top",
     "hot": 64417
+  },
+  "世界杯期间被女友上了一课": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%9F%E9%97%B4%E8%A2%AB%E5%A5%B3%E5%8F%8B%E4%B8%8A%E4%BA%86%E4%B8%80%E8%AF%BE%23&t=31&band_rank=46&Refer=top",
+    "hot": 49891
+  },
+  "梅西也是巨蟹座": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E4%B9%9F%E6%98%AF%E5%B7%A8%E8%9F%B9%E5%BA%A7%23&t=31&band_rank=48&Refer=top",
+    "hot": 47699
+  },
+  "阿根廷射门次数14比3沙特": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%B0%84%E9%97%A8%E6%AC%A1%E6%95%B014%E6%AF%943%E6%B2%99%E7%89%B9%23&t=31&band_rank=49&Refer=top",
+    "hot": 47383
   }
 }

@@ -7,11 +7,12 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-11-23 01:48:50.702580 
+最后更新时间 2022-11-23 02:15:41.229511 
 1. [给国足道歉](https://s.weibo.com/weibo?q=%23%E7%BB%99%E5%9B%BD%E8%B6%B3%E9%81%93%E6%AD%89%23&t=31&band_rank=20&Refer=top) 3652822
 1. [阿根廷输球一小时后无人走出更衣室](https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7%E8%BE%93%E7%90%83%E4%B8%80%E5%B0%8F%E6%97%B6%E5%90%8E%E6%97%A0%E4%BA%BA%E8%B5%B0%E5%87%BA%E6%9B%B4%E8%A1%A3%E5%AE%A4%23&t=31&band_rank=1&Refer=top) 2229329
 1. [沙特全国放假一天](https://s.weibo.com/weibo?q=%23%E6%B2%99%E7%89%B9%E5%85%A8%E5%9B%BD%E6%94%BE%E5%81%87%E4%B8%80%E5%A4%A9%23&t=31&band_rank=40&Refer=top) 2034545
 1. [哪届世界杯吉祥物是你最爱](https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E5%90%89%E7%A5%A5%E7%89%A9%E6%98%AF%E4%BD%A0%E6%9C%80%E7%88%B1%23&t=31&band_rank=3&Refer=top) 1658262
+1. [曼联官宣C罗离队](https://s.weibo.com/weibo?q=%23%E6%9B%BC%E8%81%94%E5%AE%98%E5%AE%A3C%E7%BD%97%E7%A6%BB%E9%98%9F%23&t=31&band_rank=11&Refer=top) 1435692
 1. [meiko](https://s.weibo.com/weibo?q=meiko&t=31&band_rank=8&Refer=top) 1142261
 1. [梅西输球后刘畊宏哭了](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%BE%93%E7%90%83%E5%90%8E%E5%88%98%E7%95%8A%E5%AE%8F%E5%93%AD%E4%BA%86%23&t=31&band_rank=2&Refer=top) 1126605
 1. [沙特门将 身价暴涨](https://s.weibo.com/weibo?q=%E6%B2%99%E7%89%B9%E9%97%A8%E5%B0%86%20%E8%BA%AB%E4%BB%B7%E6%9A%B4%E6%B6%A8&t=31&band_rank=4&Refer=top) 1114150
@@ -44,9 +45,8 @@
 1. [沙特球迷庆祝胜利把家里门拆了](https://s.weibo.com/weibo?q=%23%E6%B2%99%E7%89%B9%E7%90%83%E8%BF%B7%E5%BA%86%E7%A5%9D%E8%83%9C%E5%88%A9%E6%8A%8A%E5%AE%B6%E9%87%8C%E9%97%A8%E6%8B%86%E4%BA%86%23&t=31&band_rank=31&Refer=top) 264725
 1. [世界杯 大冷门](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%20%E5%A4%A7%E5%86%B7%E9%97%A8%23&t=31&band_rank=28&Refer=top) 260833
 1. [世界杯史上第一个可拆卸球场](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8F%B2%E4%B8%8A%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8F%AF%E6%8B%86%E5%8D%B8%E7%90%83%E5%9C%BA%23&t=31&band_rank=29&Refer=top) 253182
-1. [曼联官宣C罗离队](https://s.weibo.com/weibo?q=%23%E6%9B%BC%E8%81%94%E5%AE%98%E5%AE%A3C%E7%BD%97%E7%A6%BB%E9%98%9F%23&t=31&band_rank=11&Refer=top) 238337
+1. [阿根廷出线](https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%87%BA%E7%BA%BF&t=31&band_rank=32&Refer=top) 248742
 1. [白敬亭把人从天盛长歌踹到卿卿日常](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E6%8A%8A%E4%BA%BA%E4%BB%8E%E5%A4%A9%E7%9B%9B%E9%95%BF%E6%AD%8C%E8%B8%B9%E5%88%B0%E5%8D%BF%E5%8D%BF%E6%97%A5%E5%B8%B8%23&t=31&band_rank=30&Refer=top) 236431
-1. [阿根廷出线](https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%87%BA%E7%BA%BF&t=31&band_rank=32&Refer=top) 233557
 1. [刘强东十几年捐了60%的收入](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%BC%BA%E4%B8%9C%E5%8D%81%E5%87%A0%E5%B9%B4%E6%8D%90%E4%BA%8660%25%E7%9A%84%E6%94%B6%E5%85%A5%23&t=31&band_rank=32&Refer=top) 226487
 1. [梦华录首播收视](https://s.weibo.com/weibo?q=%23%E6%A2%A6%E5%8D%8E%E5%BD%95%E9%A6%96%E6%92%AD%E6%94%B6%E8%A7%86%23&t=31&band_rank=33&Refer=top) 221737
 1. [苏醒帮阿根廷在热搜上击败沙特门将](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%86%92%E5%B8%AE%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%9C%A8%E7%83%AD%E6%90%9C%E4%B8%8A%E5%87%BB%E8%B4%A5%E6%B2%99%E7%89%B9%E9%97%A8%E5%B0%86%23&t=31&band_rank=34&Refer=top) 221587
@@ -67,10 +67,14 @@
 1. [沙特门将 牛](https://s.weibo.com/weibo?q=%23%E6%B2%99%E7%89%B9%E9%97%A8%E5%B0%86%20%E7%89%9B%23&t=31&band_rank=50&Refer=top) 137101
 1. [尹峥试鞋是白敬亭本人吧](https://s.weibo.com/weibo?q=%23%E5%B0%B9%E5%B3%A5%E8%AF%95%E9%9E%8B%E6%98%AF%E7%99%BD%E6%95%AC%E4%BA%AD%E6%9C%AC%E4%BA%BA%E5%90%A7%23&t=31&band_rank=38&Refer=top) 124235
 1. [苏醒最不快乐的一天](https://s.weibo.com/weibo?q=%E8%8B%8F%E9%86%92%E6%9C%80%E4%B8%8D%E5%BF%AB%E4%B9%90%E7%9A%84%E4%B8%80%E5%A4%A9&t=31&band_rank=42&Refer=top) 114177
-1. [淀粉心情](https://s.weibo.com/weibo?q=%23%E6%B7%80%E7%B2%89%E5%BF%83%E6%83%85%23&t=31&band_rank=49&Refer=top) 111619
+1. [淀粉心情](https://s.weibo.com/weibo?q=%23%E6%B7%80%E7%B2%89%E5%BF%83%E6%83%85%23&t=31&band_rank=49&Refer=top) 111961
 1. [杨幂汤晶媚新剧第一次联手](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E6%B1%A4%E6%99%B6%E5%AA%9A%E6%96%B0%E5%89%A7%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%81%94%E6%89%8B%23&t=31&band_rank=50&Refer=top) 105851
+1. [gidle新歌Nxde微醺live](https://s.weibo.com/weibo?q=%23gidle%E6%96%B0%E6%AD%8CNxde%E5%BE%AE%E9%86%BAlive%23&t=31&band_rank=22&Refer=top) 105361
 1. [郑州最后一家家乐福停业](https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E6%9C%80%E5%90%8E%E4%B8%80%E5%AE%B6%E5%AE%B6%E4%B9%90%E7%A6%8F%E5%81%9C%E4%B8%9A%23&t=31&band_rank=49&Refer=top) 93583
 1. [破次元许愿季](https://s.weibo.com/weibo?q=%23%E7%A0%B4%E6%AC%A1%E5%85%83%E8%AE%B8%E6%84%BF%E5%AD%A3%23&t=31&band_rank=50&Refer=top) 64417
+1. [世界杯期间被女友上了一课](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%9F%E9%97%B4%E8%A2%AB%E5%A5%B3%E5%8F%8B%E4%B8%8A%E4%BA%86%E4%B8%80%E8%AF%BE%23&t=31&band_rank=46&Refer=top) 49891
+1. [梅西也是巨蟹座](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E4%B9%9F%E6%98%AF%E5%B7%A8%E8%9F%B9%E5%BA%A7%23&t=31&band_rank=48&Refer=top) 47699
+1. [阿根廷射门次数14比3沙特](https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%B0%84%E9%97%A8%E6%AC%A1%E6%95%B014%E6%AF%943%E6%B2%99%E7%89%B9%23&t=31&band_rank=49&Refer=top) 47383
 <!-- END -->
 
 历史归档 [./archives](./archives)
