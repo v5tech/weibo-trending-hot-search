@@ -143,6 +143,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E6%AF%94%E5%88%A9%E6%97%B6vs%E5%8A%A0%E6%8B%BF%E5%A4%A7%23&t=31&band_rank=29&Refer=top",
     "hot": 286564
   },
+  "德国门将": {
+    "url": "https://s.weibo.com/weibo?q=%E5%BE%B7%E5%9B%BD%E9%97%A8%E5%B0%86&t=31&band_rank=47&Refer=top",
+    "hot": 272419
+  },
   "西班牙vs哥斯达黎加首发": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E7%8F%AD%E7%89%99vs%E5%93%A5%E6%96%AF%E8%BE%BE%E9%BB%8E%E5%8A%A0%E9%A6%96%E5%8F%91%23&t=31&band_rank=26&Refer=top",
     "hot": 267704
@@ -175,6 +179,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%9C%9F%E6%BA%90%E8%B0%88%E7%88%B1%E8%B1%86%E4%B8%8E%E7%B2%89%E4%B8%9D%E7%9A%84%E5%85%B3%E7%B3%BB%23&t=31&band_rank=37&Refer=top",
     "hot": 248386
   },
+  "消息称富士康私自改动招工补贴金额": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B6%88%E6%81%AF%E7%A7%B0%E5%AF%8C%E5%A3%AB%E5%BA%B7%E7%A7%81%E8%87%AA%E6%94%B9%E5%8A%A8%E6%8B%9B%E5%B7%A5%E8%A1%A5%E8%B4%B4%E9%87%91%E9%A2%9D%23&t=31&band_rank=50&Refer=top",
+    "hot": 238115
+  },
   "网友吐槽银行每月只上2天班": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD%E9%93%B6%E8%A1%8C%E6%AF%8F%E6%9C%88%E5%8F%AA%E4%B8%8A2%E5%A4%A9%E7%8F%AD%23&t=31&band_rank=38&Refer=top",
     "hot": 224801
@@ -186,14 +194,6 @@
   "连花清瘟断货后出现涨价": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%BF%9E%E8%8A%B1%E6%B8%85%E7%98%9F%E6%96%AD%E8%B4%A7%E5%90%8E%E5%87%BA%E7%8E%B0%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=41&Refer=top",
     "hot": 211359
-  },
-  "德国门将": {
-    "url": "https://s.weibo.com/weibo?q=%E5%BE%B7%E5%9B%BD%E9%97%A8%E5%B0%86&t=31&band_rank=47&Refer=top",
-    "hot": 211040
-  },
-  "消息称富士康私自改动招工补贴金额": {
-    "url": "https://s.weibo.com/weibo?q=%23%E6%B6%88%E6%81%AF%E7%A7%B0%E5%AF%8C%E5%A3%AB%E5%BA%B7%E7%A7%81%E8%87%AA%E6%94%B9%E5%8A%A8%E6%8B%9B%E5%B7%A5%E8%A1%A5%E8%B4%B4%E9%87%91%E9%A2%9D%23&t=31&band_rank=50&Refer=top",
-    "hot": 206568
   },
   "时代少年团三周年有微电影": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E4%B8%89%E5%91%A8%E5%B9%B4%E6%9C%89%E5%BE%AE%E7%94%B5%E5%BD%B1%23&t=31&band_rank=42&Refer=top",
@@ -251,6 +251,10 @@
     "url": "https://s.weibo.com/weibo?q=%E7%A9%86%E8%A5%BF%E4%BA%9A%E6%8B%89%20%E6%B2%A1%E5%86%99%E5%AE%8C%E4%BD%9C%E4%B8%9A%E7%9A%84%E5%AD%A9%E5%AD%90&t=31&band_rank=46&Refer=top",
     "hot": 122757
   },
+  "德国队控球率": {
+    "url": "https://s.weibo.com/weibo?q=%E5%BE%B7%E5%9B%BD%E9%98%9F%E6%8E%A7%E7%90%83%E7%8E%87&t=31&band_rank=43&Refer=top",
+    "hot": 115706
+  },
   "没有勒夫的德国队": {
     "url": "https://s.weibo.com/weibo?q=%E6%B2%A1%E6%9C%89%E5%8B%92%E5%A4%AB%E7%9A%84%E5%BE%B7%E5%9B%BD%E9%98%9F&t=31&band_rank=49&Refer=top",
     "hot": 112180
@@ -258,10 +262,6 @@
   "如果噩梦变成现实是啥样": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%A6%82%E6%9E%9C%E5%99%A9%E6%A2%A6%E5%8F%98%E6%88%90%E7%8E%B0%E5%AE%9E%E6%98%AF%E5%95%A5%E6%A0%B7%23&t=31&band_rank=50&Refer=top",
     "hot": 104890
-  },
-  "德国队控球率": {
-    "url": "https://s.weibo.com/weibo?q=%E5%BE%B7%E5%9B%BD%E9%98%9F%E6%8E%A7%E7%90%83%E7%8E%87&t=31&band_rank=43&Refer=top",
-    "hot": 103973
   },
   "GAI哥在做啥子": {
     "url": "https://s.weibo.com/weibo?q=%23GAI%E5%93%A5%E5%9C%A8%E5%81%9A%E5%95%A5%E5%AD%90%23&t=31&band_rank=37&Refer=top",
@@ -275,6 +275,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A3%AE%E8%A5%BF%E5%A5%A5%E7%A0%B4%E9%97%A8%23&t=31&band_rank=46&Refer=top",
     "hot": 96988
   },
+  "最有喜感的车祸": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9C%80%E6%9C%89%E5%96%9C%E6%84%9F%E7%9A%84%E8%BD%A6%E7%A5%B8%23&t=31&band_rank=35&Refer=top",
+    "hot": 71132
+  },
   "西班牙队史世界杯第100球": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E7%8F%AD%E7%89%99%E9%98%9F%E5%8F%B2%E4%B8%96%E7%95%8C%E6%9D%AF%E7%AC%AC100%E7%90%83%23&t=31&band_rank=44&Refer=top",
     "hot": 64055
@@ -282,5 +286,9 @@
   "让更多人才找到自己的舞台": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%AE%A9%E6%9B%B4%E5%A4%9A%E4%BA%BA%E6%89%8D%E6%89%BE%E5%88%B0%E8%87%AA%E5%B7%B1%E7%9A%84%E8%88%9E%E5%8F%B0%23&t=31&band_rank=49&Refer=top",
     "hot": 59865
+  },
+  "穆夏拉可惜": {
+    "url": "https://s.weibo.com/weibo?q=%E7%A9%86%E5%A4%8F%E6%8B%89%E5%8F%AF%E6%83%9C&t=31&band_rank=48&Refer=top",
+    "hot": 46773
   }
 }
