@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-11-24 02:49:44.383889 
+最后更新时间 2022-11-24 03:09:47.273868 
 1. [日本赔率](https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E8%B5%94%E7%8E%87&t=31&band_rank=2&Refer=top) 2585767
 1. [外交部回应韩剧在中国播放](https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E9%9F%A9%E5%89%A7%E5%9C%A8%E4%B8%AD%E5%9B%BD%E6%92%AD%E6%94%BE%23&t=31&band_rank=1&Refer=top) 2320324
 1. [世界杯随处可见中国元素](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%E9%9A%8F%E5%A4%84%E5%8F%AF%E8%A7%81%E4%B8%AD%E5%9B%BD%E5%85%83%E7%B4%A0%23&t=31&band_rank=3&Refer=top) 1520289
@@ -82,13 +82,13 @@
 1. [GAI哥在做啥子](https://s.weibo.com/weibo?q=%23GAI%E5%93%A5%E5%9C%A8%E5%81%9A%E5%95%A5%E5%AD%90%23&t=31&band_rank=37&Refer=top) 101128
 1. [奥尔莫破门](https://s.weibo.com/weibo?q=%23%E5%A5%A5%E5%B0%94%E8%8E%AB%E7%A0%B4%E9%97%A8%23&t=31&band_rank=45&Refer=top) 97483
 1. [阿森西奥破门](https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A3%AE%E8%A5%BF%E5%A5%A5%E7%A0%B4%E9%97%A8%23&t=31&band_rank=46&Refer=top) 96988
+1. [男子醉驾见女友丧命父母要求索赔](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%86%89%E9%A9%BE%E8%A7%81%E5%A5%B3%E5%8F%8B%E4%B8%A7%E5%91%BD%E7%88%B6%E6%AF%8D%E8%A6%81%E6%B1%82%E7%B4%A2%E8%B5%94%23&t=31&band_rank=50&Refer=top) 83556
 1. [最有喜感的车祸](https://s.weibo.com/weibo?q=%23%E6%9C%80%E6%9C%89%E5%96%9C%E6%84%9F%E7%9A%84%E8%BD%A6%E7%A5%B8%23&t=31&band_rank=35&Refer=top) 71132
 1. [费兰托雷斯梅开二度](https://s.weibo.com/weibo?q=%23%E8%B4%B9%E5%85%B0%E6%89%98%E9%9B%B7%E6%96%AF%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6%23&t=31&band_rank=34&Refer=top) 63356
 1. [莫拉塔破门](https://s.weibo.com/weibo?q=%23%E8%8E%AB%E6%8B%89%E5%A1%94%E7%A0%B4%E9%97%A8%23&t=31&band_rank=31&Refer=top) 60929
 1. [让更多人才找到自己的舞台](https://s.weibo.com/weibo?q=%23%E8%AE%A9%E6%9B%B4%E5%A4%9A%E4%BA%BA%E6%89%8D%E6%89%BE%E5%88%B0%E8%87%AA%E5%B7%B1%E7%9A%84%E8%88%9E%E5%8F%B0%23&t=31&band_rank=49&Refer=top) 59865
 1. [卡塔尔世界杯最大分差](https://s.weibo.com/weibo?q=%23%E5%8D%A1%E5%A1%94%E5%B0%94%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%80%E5%A4%A7%E5%88%86%E5%B7%AE%23&t=31&band_rank=31&Refer=top) 47661
 1. [西班牙净胜球赚麻了](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E7%8F%AD%E7%89%99%E5%87%80%E8%83%9C%E7%90%83%E8%B5%9A%E9%BA%BB%E4%BA%86%23&t=31&band_rank=32&Refer=top) 47533
-1. [男子醉驾见女友丧命父母要求索赔](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%86%89%E9%A9%BE%E8%A7%81%E5%A5%B3%E5%8F%8B%E4%B8%A7%E5%91%BD%E7%88%B6%E6%AF%8D%E8%A6%81%E6%B1%82%E7%B4%A2%E8%B5%94%23&t=31&band_rank=50&Refer=top) 46800
 1. [穆夏拉可惜](https://s.weibo.com/weibo?q=%E7%A9%86%E5%A4%8F%E6%8B%89%E5%8F%AF%E6%83%9C&t=31&band_rank=48&Refer=top) 46773
 1. [西班牙全场传球1043次](https://s.weibo.com/weibo?q=%E8%A5%BF%E7%8F%AD%E7%89%99%E5%85%A8%E5%9C%BA%E4%BC%A0%E7%90%831043%E6%AC%A1&t=31&band_rank=40&Refer=top) 41498
 <!-- END -->
