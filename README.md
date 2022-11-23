@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-11-24 04:39:21.348192 
+最后更新时间 2022-11-24 04:49:04.705842 
 1. [日本赔率](https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E8%B5%94%E7%8E%87&t=31&band_rank=2&Refer=top) 2585767
 1. [外交部回应韩剧在中国播放](https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E9%9F%A9%E5%89%A7%E5%9C%A8%E4%B8%AD%E5%9B%BD%E6%92%AD%E6%94%BE%23&t=31&band_rank=1&Refer=top) 2320324
 1. [世界杯随处可见中国元素](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%E9%9A%8F%E5%A4%84%E5%8F%AF%E8%A7%81%E4%B8%AD%E5%9B%BD%E5%85%83%E7%B4%A0%23&t=31&band_rank=3&Refer=top) 1520289
@@ -92,7 +92,7 @@
 1. [卡塔尔世界杯最大分差](https://s.weibo.com/weibo?q=%23%E5%8D%A1%E5%A1%94%E5%B0%94%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%80%E5%A4%A7%E5%88%86%E5%B7%AE%23&t=31&band_rank=31&Refer=top) 47661
 1. [穆夏拉可惜](https://s.weibo.com/weibo?q=%E7%A9%86%E5%A4%8F%E6%8B%89%E5%8F%AF%E6%83%9C&t=31&band_rank=48&Refer=top) 46773
 1. [西班牙全场传球1043次](https://s.weibo.com/weibo?q=%E8%A5%BF%E7%8F%AD%E7%89%99%E5%85%A8%E5%9C%BA%E4%BC%A0%E7%90%831043%E6%AC%A1&t=31&band_rank=40&Refer=top) 41498
-1. [加维成世界杯历史第三年轻进球者](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E7%BB%B4%E6%88%90%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8E%86%E5%8F%B2%E7%AC%AC%E4%B8%89%E5%B9%B4%E8%BD%BB%E8%BF%9B%E7%90%83%E8%80%85%23&t=31&band_rank=33&Refer=top) 21103
+1. [加维成世界杯历史第三年轻进球者](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E7%BB%B4%E6%88%90%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8E%86%E5%8F%B2%E7%AC%AC%E4%B8%89%E5%B9%B4%E8%BD%BB%E8%BF%9B%E7%90%83%E8%80%85%23&t=31&band_rank=33&Refer=top) 21111
 <!-- END -->
 
 历史归档 [./archives](./archives)
