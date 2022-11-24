@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-11-25 03:34:47.830515 
+最后更新时间 2022-11-25 03:48:58.392960 
 1. [裁判 瞎了](https://s.weibo.com/weibo?q=%E8%A3%81%E5%88%A4%20%E7%9E%8E%E4%BA%86&t=31&band_rank=17&Refer=top) 5931293
 1. [C罗哭了](https://s.weibo.com/weibo?q=%23C%E7%BD%97%E5%93%AD%E4%BA%86%23&t=31&band_rank=1&Refer=top) 5191415
 1. [葡萄牙vs加纳](https://s.weibo.com/weibo?q=%23%E8%91%A1%E8%90%84%E7%89%99vs%E5%8A%A0%E7%BA%B3%23&t=31&band_rank=1&Refer=top) 4066805
@@ -64,9 +64,9 @@
 1. [徐艺洋分享一组新的照片](https://s.weibo.com/weibo?q=%23%E5%BE%90%E8%89%BA%E6%B4%8B%E5%88%86%E4%BA%AB%E4%B8%80%E7%BB%84%E6%96%B0%E7%9A%84%E7%85%A7%E7%89%87%23&t=31&band_rank=26&Refer=top) 285756
 1. [加纳 黄牌](https://s.weibo.com/weibo?q=%E5%8A%A0%E7%BA%B3%20%E9%BB%84%E7%89%8C&t=31&band_rank=33&Refer=top) 274247
 1. [本届世界杯第4场0比0](https://s.weibo.com/weibo?q=%23%E6%9C%AC%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E7%AC%AC4%E5%9C%BA0%E6%AF%940%23&t=31&band_rank=28&Refer=top) 249753
+1. [巴西vs塞尔维亚首发](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BFvs%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%E9%A6%96%E5%8F%91%23&t=31&band_rank=37&Refer=top) 249629
 1. [乌拉圭遇到韩国队怎么老打门框](https://s.weibo.com/weibo?q=%23%E4%B9%8C%E6%8B%89%E5%9C%AD%E9%81%87%E5%88%B0%E9%9F%A9%E5%9B%BD%E9%98%9F%E6%80%8E%E4%B9%88%E8%80%81%E6%89%93%E9%97%A8%E6%A1%86%23&t=31&band_rank=29&Refer=top) 241246
 1. [虞书欣仙剑六明日杀青](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E4%BB%99%E5%89%91%E5%85%AD%E6%98%8E%E6%97%A5%E6%9D%80%E9%9D%92%23&t=31&band_rank=30&Refer=top) 231112
-1. [巴西vs塞尔维亚首发](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BFvs%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%E9%A6%96%E5%8F%91%23&t=31&band_rank=37&Refer=top) 228774
 1. [原来浪漫真的不需要花钱](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%B5%AA%E6%BC%AB%E7%9C%9F%E7%9A%84%E4%B8%8D%E9%9C%80%E8%A6%81%E8%8A%B1%E9%92%B1%23&t=31&band_rank=33&Refer=top) 223601
 1. [苏亚雷斯](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E4%BA%9A%E9%9B%B7%E6%96%AF%23&t=31&band_rank=31&Refer=top) 216559
 1. [卡塔尔王子回应被中国网友制成表情包](https://s.weibo.com/weibo?q=%23%E5%8D%A1%E5%A1%94%E5%B0%94%E7%8E%8B%E5%AD%90%E5%9B%9E%E5%BA%94%E8%A2%AB%E4%B8%AD%E5%9B%BD%E7%BD%91%E5%8F%8B%E5%88%B6%E6%88%90%E8%A1%A8%E6%83%85%E5%8C%85%23&t=31&band_rank=32&Refer=top) 215619
