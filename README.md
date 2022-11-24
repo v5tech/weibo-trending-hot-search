@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-11-25 04:38:34.418101 
+最后更新时间 2022-11-25 04:49:01.395540 
 1. [裁判 瞎了](https://s.weibo.com/weibo?q=%E8%A3%81%E5%88%A4%20%E7%9E%8E%E4%BA%86&t=31&band_rank=17&Refer=top) 5931293
 1. [C罗哭了](https://s.weibo.com/weibo?q=%23C%E7%BD%97%E5%93%AD%E4%BA%86%23&t=31&band_rank=1&Refer=top) 5191415
 1. [葡萄牙vs加纳](https://s.weibo.com/weibo?q=%23%E8%91%A1%E8%90%84%E7%89%99vs%E5%8A%A0%E7%BA%B3%23&t=31&band_rank=1&Refer=top) 4066805
@@ -97,13 +97,13 @@
 1. [秦施陶俊辉分手原因是秦施家庭](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E6%96%BD%E9%99%B6%E4%BF%8A%E8%BE%89%E5%88%86%E6%89%8B%E5%8E%9F%E5%9B%A0%E6%98%AF%E7%A7%A6%E6%96%BD%E5%AE%B6%E5%BA%AD%23&t=31&band_rank=37&Refer=top) 97407
 1. [巴黎世家因宣传照争议道歉](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E%E4%B8%96%E5%AE%B6%E5%9B%A0%E5%AE%A3%E4%BC%A0%E7%85%A7%E4%BA%89%E8%AE%AE%E9%81%93%E6%AD%89%23&t=31&band_rank=47&Refer=top) 91252
 1. [被C罗刷屏了](https://s.weibo.com/weibo?q=%23%E8%A2%ABC%E7%BD%97%E5%88%B7%E5%B1%8F%E4%BA%86%23&t=31&band_rank=49&Refer=top) 85060
+1. [巴西半场0比0塞尔维亚](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF%E5%8D%8A%E5%9C%BA0%E6%AF%940%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%23&t=31&band_rank=48&Refer=top) 79145
 1. [葡萄牙节奏](https://s.weibo.com/weibo?q=%E8%91%A1%E8%90%84%E7%89%99%E8%8A%82%E5%A5%8F&t=31&band_rank=42&Refer=top) 78981
 1. [C罗是葡萄牙赢球关键](https://s.weibo.com/weibo?q=%23C%E7%BD%97%E6%98%AF%E8%91%A1%E8%90%84%E7%89%99%E8%B5%A2%E7%90%83%E5%85%B3%E9%94%AE%23&t=31&band_rank=47&Refer=top) 49539
 1. [女孩因烧伤致残毕业后成手作簪娘](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%9B%A0%E7%83%A7%E4%BC%A4%E8%87%B4%E6%AE%8B%E6%AF%95%E4%B8%9A%E5%90%8E%E6%88%90%E6%89%8B%E4%BD%9C%E7%B0%AA%E5%A8%98%23&t=31&band_rank=50&Refer=top) 43171
 1. [真的有被C罗的举动给暖到](https://s.weibo.com/weibo?q=%23%E7%9C%9F%E7%9A%84%E6%9C%89%E8%A2%ABC%E7%BD%97%E7%9A%84%E4%B8%BE%E5%8A%A8%E7%BB%99%E6%9A%96%E5%88%B0%23&t=31&band_rank=50&Refer=top) 42861
-1. [巴西半场0比0塞尔维亚](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF%E5%8D%8A%E5%9C%BA0%E6%AF%940%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%23&t=31&band_rank=48&Refer=top) 28174
 1. [伊涅斯塔力挺梅西](https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%B6%85%E6%96%AF%E5%A1%94%E5%8A%9B%E6%8C%BA%E6%A2%85%E8%A5%BF%23&t=31&band_rank=37&Refer=top) 27020
-1. [C罗好自律](https://s.weibo.com/weibo?q=%23C%E7%BD%97%E5%A5%BD%E8%87%AA%E5%BE%8B%23&t=31&band_rank=43&Refer=top) 19860
+1. [C罗好自律](https://s.weibo.com/weibo?q=%23C%E7%BD%97%E5%A5%BD%E8%87%AA%E5%BE%8B%23&t=31&band_rank=43&Refer=top) 21498
 <!-- END -->
 
 历史归档 [./archives](./archives)
