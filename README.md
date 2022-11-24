@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-11-25 02:35:09.421650 
+最后更新时间 2022-11-25 02:50:12.531361 
 1. [裁判 瞎了](https://s.weibo.com/weibo?q=%E8%A3%81%E5%88%A4%20%E7%9E%8E%E4%BA%86&t=31&band_rank=17&Refer=top) 5931293
 1. [C罗哭了](https://s.weibo.com/weibo?q=%23C%E7%BD%97%E5%93%AD%E4%BA%86%23&t=31&band_rank=1&Refer=top) 5191415
 1. [葡萄牙vs加纳](https://s.weibo.com/weibo?q=%23%E8%91%A1%E8%90%84%E7%89%99vs%E5%8A%A0%E7%BA%B3%23&t=31&band_rank=1&Refer=top) 4066805
@@ -32,7 +32,8 @@
 1. [C罗帅的很直接](https://s.weibo.com/weibo?q=%23C%E7%BD%97%E5%B8%85%E7%9A%84%E5%BE%88%E7%9B%B4%E6%8E%A5%23&t=31&band_rank=47&Refer=top) 676070
 1. [巴西vs塞尔维亚](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BFvs%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%23&t=31&band_rank=7&Refer=top) 625071
 1. [婆婆为省奶粉钱给一岁孙女炒面粉](https://s.weibo.com/weibo?q=%23%E5%A9%86%E5%A9%86%E4%B8%BA%E7%9C%81%E5%A5%B6%E7%B2%89%E9%92%B1%E7%BB%99%E4%B8%80%E5%B2%81%E5%AD%99%E5%A5%B3%E7%82%92%E9%9D%A2%E7%B2%89%23&t=31&band_rank=8&Refer=top) 590726
-1. [葡萄牙门将](https://s.weibo.com/weibo?q=%E8%91%A1%E8%90%84%E7%89%99%E9%97%A8%E5%B0%86&t=31&band_rank=15&Refer=top) 559857
+1. [葡萄牙门将](https://s.weibo.com/weibo?q=%E8%91%A1%E8%90%84%E7%89%99%E9%97%A8%E5%B0%86&t=31&band_rank=15&Refer=top) 581776
+1. [卡卡 帅](https://s.weibo.com/weibo?q=%E5%8D%A1%E5%8D%A1%20%E5%B8%85&t=31&band_rank=47&Refer=top) 537413
 1. [不挣钱的人是没有话语权的](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E6%8C%A3%E9%92%B1%E7%9A%84%E4%BA%BA%E6%98%AF%E6%B2%A1%E6%9C%89%E8%AF%9D%E8%AF%AD%E6%9D%83%E7%9A%84%23&t=31&band_rank=27&Refer=top) 529997
 1. [葡萄牙半场0比0加纳](https://s.weibo.com/weibo?q=%23%E8%91%A1%E8%90%84%E7%89%99%E5%8D%8A%E5%9C%BA0%E6%AF%940%E5%8A%A0%E7%BA%B3%23&t=31&band_rank=20&Refer=top) 495380
 1. [韩国球迷 吵](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E7%90%83%E8%BF%B7%20%E5%90%B5&t=31&band_rank=9&Refer=top) 486026
@@ -41,7 +42,6 @@
 1. [网传马嘉祺刘耀文严浩翔将发新歌](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E9%A9%AC%E5%98%89%E7%A5%BA%E5%88%98%E8%80%80%E6%96%87%E4%B8%A5%E6%B5%A9%E7%BF%94%E5%B0%86%E5%8F%91%E6%96%B0%E6%AD%8C%23&t=31&band_rank=13&Refer=top) 446673
 1. [加纳门将](https://s.weibo.com/weibo?q=%E5%8A%A0%E7%BA%B3%E9%97%A8%E5%B0%86&t=31&band_rank=40&Refer=top) 438161
 1. [台媒你们是真的懂采访](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E5%AA%92%E4%BD%A0%E4%BB%AC%E6%98%AF%E7%9C%9F%E7%9A%84%E6%87%82%E9%87%87%E8%AE%BF%23&t=31&band_rank=12&Refer=top) 436407
-1. [卡卡 帅](https://s.weibo.com/weibo?q=%E5%8D%A1%E5%8D%A1%20%E5%B8%85&t=31&band_rank=47&Refer=top) 402837
 1. [刘语熙预测韩国乌拉圭打平](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%AD%E7%86%99%E9%A2%84%E6%B5%8B%E9%9F%A9%E5%9B%BD%E4%B9%8C%E6%8B%89%E5%9C%AD%E6%89%93%E5%B9%B3%23&t=31&band_rank=14&Refer=top) 402121
 1. [朱广权押韵评C罗五战世界杯](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E5%B9%BF%E6%9D%83%E6%8A%BC%E9%9F%B5%E8%AF%84C%E7%BD%97%E4%BA%94%E6%88%98%E4%B8%96%E7%95%8C%E6%9D%AF%23&t=31&band_rank=31&Refer=top) 387302
 1. [C罗弹跳](https://s.weibo.com/weibo?q=%23C%E7%BD%97%E5%BC%B9%E8%B7%B3%23&t=31&band_rank=13&Refer=top) 386357
@@ -84,6 +84,7 @@
 1. [许凯仙剑六祈今朝杀青](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%87%AF%E4%BB%99%E5%89%91%E5%85%AD%E7%A5%88%E4%BB%8A%E6%9C%9D%E6%9D%80%E9%9D%92%23&t=31&band_rank=45&Refer=top) 162660
 1. [女子煮墨鱼没放墨汁似熬沥青](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%85%AE%E5%A2%A8%E9%B1%BC%E6%B2%A1%E6%94%BE%E5%A2%A8%E6%B1%81%E4%BC%BC%E7%86%AC%E6%B2%A5%E9%9D%92%23&t=31&band_rank=46&Refer=top) 162106
 1. [男孩遭霸凌殴打被逼下跪磕头](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E9%81%AD%E9%9C%B8%E5%87%8C%E6%AE%B4%E6%89%93%E8%A2%AB%E9%80%BC%E4%B8%8B%E8%B7%AA%E7%A3%95%E5%A4%B4%23&t=31&band_rank=47&Refer=top) 160636
+1. [巴西vs塞尔维亚首发](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BFvs%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%E9%A6%96%E5%8F%91%23&t=31&band_rank=37&Refer=top) 159620
 1. [乌拉圭vs韩国](https://s.weibo.com/weibo?q=%23%E4%B9%8C%E6%8B%89%E5%9C%ADvs%E9%9F%A9%E5%9B%BD%23&t=31&band_rank=49&Refer=top) 159445
 1. [易烊千玺提名年度荣誉男演员](https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%8F%90%E5%90%8D%E5%B9%B4%E5%BA%A6%E8%8D%A3%E8%AA%89%E7%94%B7%E6%BC%94%E5%91%98%23&t=31&band_rank=50&Refer=top) 150131
 1. [陈紫函说赵芳如矿姐变拽姐](https://s.weibo.com/weibo?q=%23%E9%99%88%E7%B4%AB%E5%87%BD%E8%AF%B4%E8%B5%B5%E8%8A%B3%E5%A6%82%E7%9F%BF%E5%A7%90%E5%8F%98%E6%8B%BD%E5%A7%90%23&t=31&band_rank=42&Refer=top) 132414
@@ -92,11 +93,13 @@
 1. [加纳扳平](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E7%BA%B3%E6%89%B3%E5%B9%B3%23&t=31&band_rank=31&Refer=top) 110887
 1. [这就是气质如兰吧](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E6%B0%94%E8%B4%A8%E5%A6%82%E5%85%B0%E5%90%A7%23&t=31&band_rank=50&Refer=top) 97760
 1. [秦施陶俊辉分手原因是秦施家庭](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E6%96%BD%E9%99%B6%E4%BF%8A%E8%BE%89%E5%88%86%E6%89%8B%E5%8E%9F%E5%9B%A0%E6%98%AF%E7%A7%A6%E6%96%BD%E5%AE%B6%E5%BA%AD%23&t=31&band_rank=37&Refer=top) 97407
-1. [巴西vs塞尔维亚首发](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BFvs%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%E9%A6%96%E5%8F%91%23&t=31&band_rank=37&Refer=top) 95822
+1. [C罗37岁身材](https://s.weibo.com/weibo?q=%23C%E7%BD%9737%E5%B2%81%E8%BA%AB%E6%9D%90%23&t=31&band_rank=37&Refer=top) 82359
+1. [巴黎世家因宣传照争议道歉](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E%E4%B8%96%E5%AE%B6%E5%9B%A0%E5%AE%A3%E4%BC%A0%E7%85%A7%E4%BA%89%E8%AE%AE%E9%81%93%E6%AD%89%23&t=31&band_rank=47&Refer=top) 80822
 1. [葡萄牙节奏](https://s.weibo.com/weibo?q=%E8%91%A1%E8%90%84%E7%89%99%E8%8A%82%E5%A5%8F&t=31&band_rank=42&Refer=top) 78981
-1. [巴黎世家因宣传照争议道歉](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E%E4%B8%96%E5%AE%B6%E5%9B%A0%E5%AE%A3%E4%BC%A0%E7%85%A7%E4%BA%89%E8%AE%AE%E9%81%93%E6%AD%89%23&t=31&band_rank=47&Refer=top) 76708
 1. [C罗是葡萄牙赢球关键](https://s.weibo.com/weibo?q=%23C%E7%BD%97%E6%98%AF%E8%91%A1%E8%90%84%E7%89%99%E8%B5%A2%E7%90%83%E5%85%B3%E9%94%AE%23&t=31&band_rank=47&Refer=top) 49539
+1. [被C罗刷屏了](https://s.weibo.com/weibo?q=%23%E8%A2%ABC%E7%BD%97%E5%88%B7%E5%B1%8F%E4%BA%86%23&t=31&band_rank=49&Refer=top) 43928
 1. [女孩因烧伤致残毕业后成手作簪娘](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%9B%A0%E7%83%A7%E4%BC%A4%E8%87%B4%E6%AE%8B%E6%AF%95%E4%B8%9A%E5%90%8E%E6%88%90%E6%89%8B%E4%BD%9C%E7%B0%AA%E5%A8%98%23&t=31&band_rank=50&Refer=top) 43171
+1. [真的有被C罗的举动给暖到](https://s.weibo.com/weibo?q=%23%E7%9C%9F%E7%9A%84%E6%9C%89%E8%A2%ABC%E7%BD%97%E7%9A%84%E4%B8%BE%E5%8A%A8%E7%BB%99%E6%9A%96%E5%88%B0%23&t=31&band_rank=50&Refer=top) 42861
 <!-- END -->
 
 历史归档 [./archives](./archives)
