@@ -119,6 +119,10 @@
     "url": "https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E7%90%83%E8%BF%B7%20%E5%90%B5&t=31&band_rank=9&Refer=top",
     "hot": 486026
   },
+  "巴西2比0塞尔维亚": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF2%E6%AF%940%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%23&t=31&band_rank=10&Refer=top",
+    "hot": 478387
+  },
   "8旬老人得带状疱疹6年不敢盖被子": {
     "url": "https://s.weibo.com/weibo?q=%238%E6%97%AC%E8%80%81%E4%BA%BA%E5%BE%97%E5%B8%A6%E7%8A%B6%E7%96%B1%E7%96%B96%E5%B9%B4%E4%B8%8D%E6%95%A2%E7%9B%96%E8%A2%AB%E5%AD%90%23&t=31&band_rank=10&Refer=top",
     "hot": 473999
@@ -170,10 +174,6 @@
   "C罗连续十届大赛进球": {
     "url": "https://s.weibo.com/weibo?q=%23C%E7%BD%97%E8%BF%9E%E7%BB%AD%E5%8D%81%E5%B1%8A%E5%A4%A7%E8%B5%9B%E8%BF%9B%E7%90%83%23&t=31&band_rank=32&Refer=top",
     "hot": 341442
-  },
-  "巴西2比0塞尔维亚": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF2%E6%AF%940%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%23&t=31&band_rank=10&Refer=top",
-    "hot": 336676
   },
   "外交部回应日方希望中方放松防疫措施": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E6%97%A5%E6%96%B9%E5%B8%8C%E6%9C%9B%E4%B8%AD%E6%96%B9%E6%94%BE%E6%9D%BE%E9%98%B2%E7%96%AB%E6%8E%AA%E6%96%BD%23&t=31&band_rank=16&Refer=top",
@@ -383,9 +383,13 @@
     "url": "https://s.weibo.com/weibo?q=%23%E7%9C%9F%E7%9A%84%E6%9C%89%E8%A2%ABC%E7%BD%97%E7%9A%84%E4%B8%BE%E5%8A%A8%E7%BB%99%E6%9A%96%E5%88%B0%23&t=31&band_rank=50&Refer=top",
     "hot": 42861
   },
+  "熊孩子划伤多辆汽车奶奶说没钱赔": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%86%8A%E5%AD%A9%E5%AD%90%E5%88%92%E4%BC%A4%E5%A4%9A%E8%BE%86%E6%B1%BD%E8%BD%A6%E5%A5%B6%E5%A5%B6%E8%AF%B4%E6%B2%A1%E9%92%B1%E8%B5%94%23&t=31&band_rank=43&Refer=top",
+    "hot": 40637
+  },
   "世界杯": {
     "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF&t=31&band_rank=30&Refer=top",
-    "hot": 31376
+    "hot": 34744
   },
   "伊涅斯塔力挺梅西": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%B6%85%E6%96%AF%E5%A1%94%E5%8A%9B%E6%8C%BA%E6%A2%85%E8%A5%BF%23&t=31&band_rank=37&Refer=top",
@@ -398,9 +402,5 @@
   "最美中轴线": {
     "url": "https://s.weibo.com/weibo?q=%E6%9C%80%E7%BE%8E%E4%B8%AD%E8%BD%B4%E7%BA%BF&t=31&band_rank=37&Refer=top",
     "hot": 27738
-  },
-  "熊孩子划伤多辆汽车奶奶说没钱赔": {
-    "url": "https://s.weibo.com/weibo?q=%23%E7%86%8A%E5%AD%A9%E5%AD%90%E5%88%92%E4%BC%A4%E5%A4%9A%E8%BE%86%E6%B1%BD%E8%BD%A6%E5%A5%B6%E5%A5%B6%E8%AF%B4%E6%B2%A1%E9%92%B1%E8%B5%94%23&t=31&band_rank=43&Refer=top",
-    "hot": 20991
   }
 }
