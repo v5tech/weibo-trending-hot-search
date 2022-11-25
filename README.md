@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-11-26 04:28:40.101255 
+最后更新时间 2022-11-26 04:38:57.924806 
 1. [内马尔无缘小组赛剩余比赛](https://s.weibo.com/weibo?q=%23%E5%86%85%E9%A9%AC%E5%B0%94%E6%97%A0%E7%BC%98%E5%B0%8F%E7%BB%84%E8%B5%9B%E5%89%A9%E4%BD%99%E6%AF%94%E8%B5%9B%23&t=31&band_rank=10&Refer=top) 3019105
 1. [分手的决心赢麻了](https://s.weibo.com/weibo?q=%23%E5%88%86%E6%89%8B%E7%9A%84%E5%86%B3%E5%BF%83%E8%B5%A2%E9%BA%BB%E4%BA%86%23&t=31&band_rank=1&Refer=top) 2586811
 1. [北京加快集中隔离场所和方舱医院储备建设](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%8A%A0%E5%BF%AB%E9%9B%86%E4%B8%AD%E9%9A%94%E7%A6%BB%E5%9C%BA%E6%89%80%E5%92%8C%E6%96%B9%E8%88%B1%E5%8C%BB%E9%99%A2%E5%82%A8%E5%A4%87%E5%BB%BA%E8%AE%BE%23&t=31&band_rank=39&Refer=top) 1798177
@@ -89,6 +89,7 @@
 1. [女子夜晚狗拉雪橇式遛7只哈士奇](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%A4%9C%E6%99%9A%E7%8B%97%E6%8B%89%E9%9B%AA%E6%A9%87%E5%BC%8F%E9%81%9B7%E5%8F%AA%E5%93%88%E5%A3%AB%E5%A5%87%23&t=31&band_rank=50&Refer=top) 27188
 1. [娱乐圈里那些撞脸的艺人](https://s.weibo.com/weibo?q=%23%E5%A8%B1%E4%B9%90%E5%9C%88%E9%87%8C%E9%82%A3%E4%BA%9B%E6%92%9E%E8%84%B8%E7%9A%84%E8%89%BA%E4%BA%BA%23&t=31&band_rank=40&Refer=top) 25787
 1. [乌镇戏剧节今日开幕](https://s.weibo.com/weibo?q=%23%E4%B9%8C%E9%95%87%E6%88%8F%E5%89%A7%E8%8A%82%E4%BB%8A%E6%97%A5%E5%BC%80%E5%B9%95%23&t=31&band_rank=50&Refer=top) 21841
+1. [英格兰vs美国首发](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E6%A0%BC%E5%85%B0vs%E7%BE%8E%E5%9B%BD%E9%A6%96%E5%8F%91%23&t=31&band_rank=46&Refer=top) 20006
 <!-- END -->
 
 历史归档 [./archives](./archives)
