@@ -115,6 +115,14 @@
     "url": "https://s.weibo.com/weibo?q=%23IVE%E4%BB%8A%E5%A4%A9%E8%B5%A2%E9%BA%BB%E4%BA%86%23&t=31&band_rank=18&Refer=top",
     "hot": 449580
   },
+  "内马尔晒脚踝伤势": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%86%85%E9%A9%AC%E5%B0%94%E6%99%92%E8%84%9A%E8%B8%9D%E4%BC%A4%E5%8A%BF%23&t=31&band_rank=11&Refer=top",
+    "hot": 445789
+  },
+  "阿根廷2比0墨西哥": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B72%E6%AF%940%E5%A2%A8%E8%A5%BF%E5%93%A5%23&t=31&band_rank=26&Refer=top",
+    "hot": 410105
+  },
   "广州TTG": {
     "url": "https://s.weibo.com/weibo?q=%E5%B9%BF%E5%B7%9ETTG&t=31&band_rank=19&Refer=top",
     "hot": 409142
@@ -147,10 +155,6 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%8D%A1%E5%A1%94%E5%B0%94%E4%BA%BA%E8%BE%93%E6%80%A5%E7%9C%BC%E4%BA%86%23&t=31&band_rank=23&Refer=top",
     "hot": 362215
   },
-  "阿根廷2比0墨西哥": {
-    "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B72%E6%AF%940%E5%A2%A8%E8%A5%BF%E5%93%A5%23&t=31&band_rank=26&Refer=top",
-    "hot": 355147
-  },
   "九尾": {
     "url": "https://s.weibo.com/weibo?q=%E4%B9%9D%E5%B0%BE&t=31&band_rank=24&Refer=top",
     "hot": 340512
@@ -158,6 +162,10 @@
   "家猫走失5天后被收养的流浪猫带回": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%AE%B6%E7%8C%AB%E8%B5%B0%E5%A4%B15%E5%A4%A9%E5%90%8E%E8%A2%AB%E6%94%B6%E5%85%BB%E7%9A%84%E6%B5%81%E6%B5%AA%E7%8C%AB%E5%B8%A6%E5%9B%9E%23&t=31&band_rank=40&Refer=top",
     "hot": 330186
+  },
+  "费尔南德斯世界波": {
+    "url": "https://s.weibo.com/weibo?q=%23%E8%B4%B9%E5%B0%94%E5%8D%97%E5%BE%B7%E6%96%AF%E4%B8%96%E7%95%8C%E6%B3%A2%23&t=31&band_rank=14&Refer=top",
+    "hot": 312924
   },
   "为梅西熬夜": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%BA%E6%A2%85%E8%A5%BF%E7%86%AC%E5%A4%9C%23&t=31&band_rank=32&Refer=top",
@@ -215,10 +223,6 @@
     "url": "https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E9%98%9F%E6%99%8B%E7%BA%A7%E4%B8%96%E7%95%8C%E6%9D%AF16%E5%BC%BA%23&t=31&band_rank=40&Refer=top",
     "hot": 235262
   },
-  "内马尔晒脚踝伤势": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%86%85%E9%A9%AC%E5%B0%94%E6%99%92%E8%84%9A%E8%B8%9D%E4%BC%A4%E5%8A%BF%23&t=31&band_rank=11&Refer=top",
-    "hot": 231107
-  },
   "卡塔尔饺子皮出新皮肤了": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%8D%A1%E5%A1%94%E5%B0%94%E9%A5%BA%E5%AD%90%E7%9A%AE%E5%87%BA%E6%96%B0%E7%9A%AE%E8%82%A4%E4%BA%86%23&t=31&band_rank=34&Refer=top",
     "hot": 229834
@@ -230,10 +234,6 @@
   "shadow": {
     "url": "https://s.weibo.com/weibo?q=shadow&t=31&band_rank=36&Refer=top",
     "hot": 220016
-  },
-  "费尔南德斯世界波": {
-    "url": "https://s.weibo.com/weibo?q=%23%E8%B4%B9%E5%B0%94%E5%8D%97%E5%BE%B7%E6%96%AF%E4%B8%96%E7%95%8C%E6%B3%A2%23&t=31&band_rank=14&Refer=top",
-    "hot": 217505
   },
   "快递小哥嫌挣得少1月连偷7次": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%BF%AB%E9%80%92%E5%B0%8F%E5%93%A5%E5%AB%8C%E6%8C%A3%E5%BE%97%E5%B0%911%E6%9C%88%E8%BF%9E%E5%81%B77%E6%AC%A1%23&t=31&band_rank=37&Refer=top",
@@ -369,7 +369,7 @@
   },
   "墨西哥球迷是懂内涵的": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%A2%A8%E8%A5%BF%E5%93%A5%E7%90%83%E8%BF%B7%E6%98%AF%E6%87%82%E5%86%85%E6%B6%B5%E7%9A%84%23&t=31&band_rank=33&Refer=top",
-    "hot": 87601
+    "hot": 89568
   },
   "阿根廷球迷一路高歌进场": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7%E7%90%83%E8%BF%B7%E4%B8%80%E8%B7%AF%E9%AB%98%E6%AD%8C%E8%BF%9B%E5%9C%BA%23&t=31&band_rank=39&Refer=top",
@@ -389,6 +389,6 @@
   },
   "女子失聪且患尿毒症求助消防站开锁": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%A4%B1%E8%81%AA%E4%B8%94%E6%82%A3%E5%B0%BF%E6%AF%92%E7%97%87%E6%B1%82%E5%8A%A9%E6%B6%88%E9%98%B2%E7%AB%99%E5%BC%80%E9%94%81%23&t=31&band_rank=49&Refer=top",
-    "hot": 21646
+    "hot": 23002
   }
 }
