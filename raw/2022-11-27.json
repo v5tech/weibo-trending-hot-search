@@ -287,6 +287,10 @@
     "url": "https://s.weibo.com/weibo?q=%23gidle%E6%9C%AA%E6%B6%88%E9%9F%B3%E7%89%88TOMBOY%E6%9C%80%E6%96%B0%E8%88%9E%E5%8F%B0%23&t=31&band_rank=39&Refer=top",
     "hot": 171727
   },
+  "梅西是时候展示真正的实力了": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E6%98%AF%E6%97%B6%E5%80%99%E5%B1%95%E7%A4%BA%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AE%9E%E5%8A%9B%E4%BA%86%23&t=31&band_rank=36&Refer=top",
+    "hot": 168162
+  },
   "赵让希望Ｃ罗或者梅西举起大力神杯": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%B5%B5%E8%AE%A9%E5%B8%8C%E6%9C%9B%EF%BC%A3%E7%BD%97%E6%88%96%E8%80%85%E6%A2%85%E8%A5%BF%E4%B8%BE%E8%B5%B7%E5%A4%A7%E5%8A%9B%E7%A5%9E%E6%9D%AF%23&t=31&band_rank=33&Refer=top",
     "hot": 160947
@@ -319,10 +323,6 @@
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%B9%E9%BA%A6%E6%89%B3%E5%B9%B3%23&t=31&band_rank=33&Refer=top",
     "hot": 133322
   },
-  "梅西是时候展示真正的实力了": {
-    "url": "https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E6%98%AF%E6%97%B6%E5%80%99%E5%B1%95%E7%A4%BA%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AE%9E%E5%8A%9B%E4%BA%86%23&t=31&band_rank=36&Refer=top",
-    "hot": 128299
-  },
   "1899深度解析": {
     "url": "https://s.weibo.com/weibo?q=%231899%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%23&t=31&band_rank=42&Refer=top",
     "hot": 110065
@@ -334,5 +334,9 @@
   "墨西哥球迷是懂内涵的": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%A2%A8%E8%A5%BF%E5%93%A5%E7%90%83%E8%BF%B7%E6%98%AF%E6%87%82%E5%86%85%E6%B6%B5%E7%9A%84%23&t=31&band_rank=33&Refer=top",
     "hot": 70539
+  },
+  "每天8杯水或超过大多数人真正需水量": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%AF%8F%E5%A4%A98%E6%9D%AF%E6%B0%B4%E6%88%96%E8%B6%85%E8%BF%87%E5%A4%A7%E5%A4%9A%E6%95%B0%E4%BA%BA%E7%9C%9F%E6%AD%A3%E9%9C%80%E6%B0%B4%E9%87%8F%23&t=31&band_rank=34&Refer=top",
+    "hot": 49872
   }
 }
