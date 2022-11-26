@@ -243,6 +243,10 @@
     "url": "https://s.weibo.com/weibo?q=%23TTG%E9%86%92%E9%86%92%23&t=31&band_rank=42&Refer=top",
     "hot": 189004
   },
+  "梅西是时候展示真正的实力了": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E6%98%AF%E6%97%B6%E5%80%99%E5%B1%95%E7%A4%BA%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AE%9E%E5%8A%9B%E4%BA%86%23&t=31&band_rank=36&Refer=top",
+    "hot": 188678
+  },
   "玲娜贝儿跳wakawaka": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%8E%B2%E5%A8%9C%E8%B4%9D%E5%84%BF%E8%B7%B3wakawaka%23&t=31&band_rank=43&Refer=top",
     "hot": 187300
@@ -270,10 +274,6 @@
   "朱韵的规划里依旧有李峋": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%9C%B1%E9%9F%B5%E7%9A%84%E8%A7%84%E5%88%92%E9%87%8C%E4%BE%9D%E6%97%A7%E6%9C%89%E6%9D%8E%E5%B3%8B%23&t=31&band_rank=48&Refer=top",
     "hot": 177276
-  },
-  "梅西是时候展示真正的实力了": {
-    "url": "https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E6%98%AF%E6%97%B6%E5%80%99%E5%B1%95%E7%A4%BA%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%AE%9E%E5%8A%9B%E4%BA%86%23&t=31&band_rank=36&Refer=top",
-    "hot": 176719
   },
   "0713你要跳舞吗舞台满地打滚": {
     "url": "https://s.weibo.com/weibo?q=%230713%E4%BD%A0%E8%A6%81%E8%B7%B3%E8%88%9E%E5%90%97%E8%88%9E%E5%8F%B0%E6%BB%A1%E5%9C%B0%E6%89%93%E6%BB%9A%23&t=31&band_rank=49&Refer=top",
@@ -323,13 +323,13 @@
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%B9%E9%BA%A6%E6%89%B3%E5%B9%B3%23&t=31&band_rank=33&Refer=top",
     "hot": 133322
   },
+  "每天8杯水或超过大多数人真正需水量": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%AF%8F%E5%A4%A98%E6%9D%AF%E6%B0%B4%E6%88%96%E8%B6%85%E8%BF%87%E5%A4%A7%E5%A4%9A%E6%95%B0%E4%BA%BA%E7%9C%9F%E6%AD%A3%E9%9C%80%E6%B0%B4%E9%87%8F%23&t=31&band_rank=34&Refer=top",
+    "hot": 120402
+  },
   "1899深度解析": {
     "url": "https://s.weibo.com/weibo?q=%231899%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%23&t=31&band_rank=42&Refer=top",
     "hot": 110065
-  },
-  "每天8杯水或超过大多数人真正需水量": {
-    "url": "https://s.weibo.com/weibo?q=%23%E6%AF%8F%E5%A4%A98%E6%9D%AF%E6%B0%B4%E6%88%96%E8%B6%85%E8%BF%87%E5%A4%A7%E5%A4%9A%E6%95%B0%E4%BA%BA%E7%9C%9F%E6%AD%A3%E9%9C%80%E6%B0%B4%E9%87%8F%23&t=31&band_rank=34&Refer=top",
-    "hot": 82093
   },
   "阿根廷球迷一路高歌进场": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7%E7%90%83%E8%BF%B7%E4%B8%80%E8%B7%AF%E9%AB%98%E6%AD%8C%E8%BF%9B%E5%9C%BA%23&t=31&band_rank=39&Refer=top",
@@ -339,8 +339,16 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%A2%A8%E8%A5%BF%E5%93%A5%E7%90%83%E8%BF%B7%E6%98%AF%E6%87%82%E5%86%85%E6%B6%B5%E7%9A%84%23&t=31&band_rank=33&Refer=top",
     "hot": 70539
   },
+  "阿根廷vs墨西哥首发": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7vs%E5%A2%A8%E8%A5%BF%E5%93%A5%E9%A6%96%E5%8F%91%23&t=31&band_rank=20&Refer=top",
+    "hot": 67415
+  },
   "墨西哥球迷大喊梅西回家": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%A2%A8%E8%A5%BF%E5%93%A5%E7%90%83%E8%BF%B7%E5%A4%A7%E5%96%8A%E6%A2%85%E8%A5%BF%E5%9B%9E%E5%AE%B6%23&t=31&band_rank=34&Refer=top",
     "hot": 46092
+  },
+  "马宁担任法国丹麦第四官员": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%AE%81%E6%8B%85%E4%BB%BB%E6%B3%95%E5%9B%BD%E4%B8%B9%E9%BA%A6%E7%AC%AC%E5%9B%9B%E5%AE%98%E5%91%98%23&t=31&band_rank=48&Refer=top",
+    "hot": 27363
   }
 }
