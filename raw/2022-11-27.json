@@ -103,9 +103,17 @@
     "url": "https://s.weibo.com/weibo?q=%23%E8%9B%8B%E7%82%92%E9%A5%AD%E8%A6%81%E7%94%A8%E9%9A%94%E5%A4%9C%E7%B1%B3%E9%A5%AD%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=30&Refer=top",
     "hot": 509270
   },
+  "阿根廷2比0墨西哥": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B72%E6%AF%940%E5%A2%A8%E8%A5%BF%E5%93%A5%23&t=31&band_rank=26&Refer=top",
+    "hot": 496736
+  },
   "苏醒用娱乐圈比喻世界杯关系": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%86%92%E7%94%A8%E5%A8%B1%E4%B9%90%E5%9C%88%E6%AF%94%E5%96%BB%E4%B8%96%E7%95%8C%E6%9D%AF%E5%85%B3%E7%B3%BB%23&t=31&band_rank=33&Refer=top",
     "hot": 495212
+  },
+  "梅西疯狂庆祝": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E7%96%AF%E7%8B%82%E5%BA%86%E7%A5%9D%23&t=31&band_rank=48&Refer=top",
+    "hot": 495200
   },
   "法国2比1丹麦": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD2%E6%AF%941%E4%B8%B9%E9%BA%A6%23&t=31&band_rank=10&Refer=top",
@@ -118,10 +126,6 @@
   "内马尔晒脚踝伤势": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%86%85%E9%A9%AC%E5%B0%94%E6%99%92%E8%84%9A%E8%B8%9D%E4%BC%A4%E5%8A%BF%23&t=31&band_rank=11&Refer=top",
     "hot": 445789
-  },
-  "阿根廷2比0墨西哥": {
-    "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B72%E6%AF%940%E5%A2%A8%E8%A5%BF%E5%93%A5%23&t=31&band_rank=26&Refer=top",
-    "hot": 410105
   },
   "广州TTG": {
     "url": "https://s.weibo.com/weibo?q=%E5%B9%BF%E5%B7%9ETTG&t=31&band_rank=19&Refer=top",
@@ -155,9 +159,9 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%8D%A1%E5%A1%94%E5%B0%94%E4%BA%BA%E8%BE%93%E6%80%A5%E7%9C%BC%E4%BA%86%23&t=31&band_rank=23&Refer=top",
     "hot": 362215
   },
-  "梅西疯狂庆祝": {
-    "url": "https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E7%96%AF%E7%8B%82%E5%BA%86%E7%A5%9D%23&t=31&band_rank=48&Refer=top",
-    "hot": 341749
+  "梅西偶像哭了": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E5%81%B6%E5%83%8F%E5%93%AD%E4%BA%86%23&t=31&band_rank=37&Refer=top",
+    "hot": 340872
   },
   "九尾": {
     "url": "https://s.weibo.com/weibo?q=%E4%B9%9D%E5%B0%BE&t=31&band_rank=24&Refer=top",
@@ -191,6 +195,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E7%95%8A%E5%AE%8F%E4%B8%BA%E9%98%BF%E6%A0%B9%E5%BB%B7%E6%A2%85%E8%A5%BF%E5%8A%A0%E6%B2%B9%23&t=31&band_rank=32&Refer=top",
     "hot": 303555
   },
+  "每天8杯水或超过大多数人真正需水量": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%AF%8F%E5%A4%A98%E6%9D%AF%E6%B0%B4%E6%88%96%E8%B6%85%E8%BF%87%E5%A4%A7%E5%A4%9A%E6%95%B0%E4%BA%BA%E7%9C%9F%E6%AD%A3%E9%9C%80%E6%B0%B4%E9%87%8F%23&t=31&band_rank=34&Refer=top",
+    "hot": 294402
+  },
   "女子苦干12年赚钱给弟弟买房买车": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%8B%A6%E5%B9%B212%E5%B9%B4%E8%B5%9A%E9%92%B1%E7%BB%99%E5%BC%9F%E5%BC%9F%E4%B9%B0%E6%88%BF%E4%B9%B0%E8%BD%A6%23&t=31&band_rank=26&Refer=top",
     "hot": 287540
@@ -210,6 +218,10 @@
   "女子16万买2车库精装修后入住": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%9016%E4%B8%87%E4%B9%B02%E8%BD%A6%E5%BA%93%E7%B2%BE%E8%A3%85%E4%BF%AE%E5%90%8E%E5%85%A5%E4%BD%8F%23&t=31&band_rank=30&Refer=top",
     "hot": 262339
+  },
+  "法国终结卫冕冠军出局魔咒": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E7%BB%88%E7%BB%93%E5%8D%AB%E5%86%95%E5%86%A0%E5%86%9B%E5%87%BA%E5%B1%80%E9%AD%94%E5%92%92%23&t=31&band_rank=43&Refer=top",
+    "hot": 261907
   },
   "人民锐评": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E9%94%90%E8%AF%84%23&t=31&band_rank=31&Refer=top",
@@ -251,6 +263,10 @@
     "url": "https://s.weibo.com/weibo?q=BLG%20Doinb&t=31&band_rank=38&Refer=top",
     "hot": 199296
   },
+  "梅西追平马拉多纳世界杯进球数": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%BF%BD%E5%B9%B3%E9%A9%AC%E6%8B%89%E5%A4%9A%E7%BA%B3%E4%B8%96%E7%95%8C%E6%9D%AF%E8%BF%9B%E7%90%83%E6%95%B0%23&t=31&band_rank=15&Refer=top",
+    "hot": 197916
+  },
   "周深cos哪吒好可爱": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1cos%E5%93%AA%E5%90%92%E5%A5%BD%E5%8F%AF%E7%88%B1%23&t=31&band_rank=34&Refer=top",
     "hot": 194738
@@ -262,10 +278,6 @@
   "时代少年团听歌识曲": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E5%90%AC%E6%AD%8C%E8%AF%86%E6%9B%B2%23&t=31&band_rank=35&Refer=top",
     "hot": 192794
-  },
-  "法国终结卫冕冠军出局魔咒": {
-    "url": "https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E7%BB%88%E7%BB%93%E5%8D%AB%E5%86%95%E5%86%A0%E5%86%9B%E5%87%BA%E5%B1%80%E9%AD%94%E5%92%92%23&t=31&band_rank=43&Refer=top",
-    "hot": 191044
   },
   "张凌赫你好星期六比耶自拍": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%E6%AF%94%E8%80%B6%E8%87%AA%E6%8B%8D%23&t=31&band_rank=41&Refer=top",
@@ -295,17 +307,9 @@
     "url": "https://s.weibo.com/weibo?q=%E6%B2%99%E7%89%B9%E6%95%99%E7%BB%83&t=31&band_rank=45&Refer=top",
     "hot": 184757
   },
-  "每天8杯水或超过大多数人真正需水量": {
-    "url": "https://s.weibo.com/weibo?q=%23%E6%AF%8F%E5%A4%A98%E6%9D%AF%E6%B0%B4%E6%88%96%E8%B6%85%E8%BF%87%E5%A4%A7%E5%A4%9A%E6%95%B0%E4%BA%BA%E7%9C%9F%E6%AD%A3%E9%9C%80%E6%B0%B4%E9%87%8F%23&t=31&band_rank=34&Refer=top",
-    "hot": 181931
-  },
   "阿根廷vs墨西哥首发": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7vs%E5%A2%A8%E8%A5%BF%E5%93%A5%E9%A6%96%E5%8F%91%23&t=31&band_rank=20&Refer=top",
     "hot": 181527
-  },
-  "梅西偶像哭了": {
-    "url": "https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E5%81%B6%E5%83%8F%E5%93%AD%E4%BA%86%23&t=31&band_rank=37&Refer=top",
-    "hot": 181442
   },
   "英格兰威尔士球迷爆发冲突": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E6%A0%BC%E5%85%B0%E5%A8%81%E5%B0%94%E5%A3%AB%E7%90%83%E8%BF%B7%E7%88%86%E5%8F%91%E5%86%B2%E7%AA%81%23&t=31&band_rank=46&Refer=top",
@@ -335,9 +339,9 @@
     "url": "https://s.weibo.com/weibo?q=%23gidle%E6%9C%AA%E6%B6%88%E9%9F%B3%E7%89%88TOMBOY%E6%9C%80%E6%96%B0%E8%88%9E%E5%8F%B0%23&t=31&band_rank=39&Refer=top",
     "hot": 171727
   },
-  "梅西追平马拉多纳世界杯进球数": {
-    "url": "https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%BF%BD%E5%B9%B3%E9%A9%AC%E6%8B%89%E5%A4%9A%E7%BA%B3%E4%B8%96%E7%95%8C%E6%9D%AF%E8%BF%9B%E7%90%83%E6%95%B0%23&t=31&band_rank=15&Refer=top",
-    "hot": 162760
+  "卿卿日常原著里的李薇": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8D%BF%E5%8D%BF%E6%97%A5%E5%B8%B8%E5%8E%9F%E8%91%97%E9%87%8C%E7%9A%84%E6%9D%8E%E8%96%87%23&t=31&band_rank=21&Refer=top",
+    "hot": 168754
   },
   "赵让希望Ｃ罗或者梅西举起大力神杯": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%B5%B5%E8%AE%A9%E5%B8%8C%E6%9C%9B%EF%BC%A3%E7%BD%97%E6%88%96%E8%80%85%E6%A2%85%E8%A5%BF%E4%B8%BE%E8%B5%B7%E5%A4%A7%E5%8A%9B%E7%A5%9E%E6%9D%AF%23&t=31&band_rank=33&Refer=top",
@@ -367,13 +371,13 @@
     "url": "https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E7%94%BB%E5%87%BA%E6%9D%A5%E7%9A%84%E9%83%BD%E6%98%AF%E5%A6%96%E6%80%AA%23&t=31&band_rank=49&Refer=top",
     "hot": 139309
   },
+  "女子失聪且患尿毒症求助消防站开锁": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%A4%B1%E8%81%AA%E4%B8%94%E6%82%A3%E5%B0%BF%E6%AF%92%E7%97%87%E6%B1%82%E5%8A%A9%E6%B6%88%E9%98%B2%E7%AB%99%E5%BC%80%E9%94%81%23&t=31&band_rank=49&Refer=top",
+    "hot": 137361
+  },
   "丹麦扳平": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%B9%E9%BA%A6%E6%89%B3%E5%B9%B3%23&t=31&band_rank=33&Refer=top",
     "hot": 133322
-  },
-  "女子失聪且患尿毒症求助消防站开锁": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%A4%B1%E8%81%AA%E4%B8%94%E6%82%A3%E5%B0%BF%E6%AF%92%E7%97%87%E6%B1%82%E5%8A%A9%E6%B6%88%E9%98%B2%E7%AB%99%E5%BC%80%E9%94%81%23&t=31&band_rank=49&Refer=top",
-    "hot": 122167
   },
   "1899深度解析": {
     "url": "https://s.weibo.com/weibo?q=%231899%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%23&t=31&band_rank=42&Refer=top",
@@ -387,9 +391,17 @@
     "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%94%81%E5%AE%9A%E8%83%9C%E5%B1%80%23&t=31&band_rank=48&Refer=top",
     "hot": 102255
   },
+  "李薇为了郝葭直接夺刀意欲闯府": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%96%87%E4%B8%BA%E4%BA%86%E9%83%9D%E8%91%AD%E7%9B%B4%E6%8E%A5%E5%A4%BA%E5%88%80%E6%84%8F%E6%AC%B2%E9%97%AF%E5%BA%9C%23&t=31&band_rank=32&Refer=top",
+    "hot": 91899
+  },
   "墨西哥球迷是懂内涵的": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%A2%A8%E8%A5%BF%E5%93%A5%E7%90%83%E8%BF%B7%E6%98%AF%E6%87%82%E5%86%85%E6%B6%B5%E7%9A%84%23&t=31&band_rank=33&Refer=top",
     "hot": 89568
+  },
+  "熬夜看阿根廷值了": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%86%AC%E5%A4%9C%E7%9C%8B%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%80%BC%E4%BA%86%23&t=31&band_rank=35&Refer=top",
+    "hot": 84534
   },
   "阿根廷球迷一路高歌进场": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7%E7%90%83%E8%BF%B7%E4%B8%80%E8%B7%AF%E9%AB%98%E6%AD%8C%E8%BF%9B%E5%9C%BA%23&t=31&band_rank=39&Refer=top",
@@ -399,21 +411,29 @@
     "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%AE%81%E6%8B%85%E4%BB%BB%E6%B3%95%E5%9B%BD%E4%B8%B9%E9%BA%A6%E7%AC%AC%E5%9B%9B%E5%AE%98%E5%91%98%23&t=31&band_rank=48&Refer=top",
     "hot": 54035
   },
+  "养殖户给牛加热水槽被质疑没必要": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%85%BB%E6%AE%96%E6%88%B7%E7%BB%99%E7%89%9B%E5%8A%A0%E7%83%AD%E6%B0%B4%E6%A7%BD%E8%A2%AB%E8%B4%A8%E7%96%91%E6%B2%A1%E5%BF%85%E8%A6%81%23&t=31&band_rank=49&Refer=top",
+    "hot": 52621
+  },
+  "阿根廷队加油": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%98%9F%E5%8A%A0%E6%B2%B9%23&t=31&band_rank=45&Refer=top",
+    "hot": 48827
+  },
+  "宝爸用铁轨小火车驮婴儿车遛娃": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%AE%9D%E7%88%B8%E7%94%A8%E9%93%81%E8%BD%A8%E5%B0%8F%E7%81%AB%E8%BD%A6%E9%A9%AE%E5%A9%B4%E5%84%BF%E8%BD%A6%E9%81%9B%E5%A8%83%23&t=31&band_rank=47&Refer=top",
+    "hot": 46761
+  },
   "姆巴佩庆祝晋级": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%BA%86%E7%A5%9D%E6%99%8B%E7%BA%A7%23&t=31&band_rank=34&Refer=top",
     "hot": 45039
   },
-  "宝爸用铁轨小火车驮婴儿车遛娃": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%AE%9D%E7%88%B8%E7%94%A8%E9%93%81%E8%BD%A8%E5%B0%8F%E7%81%AB%E8%BD%A6%E9%A9%AE%E5%A9%B4%E5%84%BF%E8%BD%A6%E9%81%9B%E5%A8%83%23&t=31&band_rank=47&Refer=top",
-    "hot": 37610
+  "看着像双向奔赴其实是互相耽误": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%9C%8B%E7%9D%80%E5%83%8F%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4%E5%85%B6%E5%AE%9E%E6%98%AF%E4%BA%92%E7%9B%B8%E8%80%BD%E8%AF%AF%23&t=31&band_rank=47&Refer=top",
+    "hot": 42987
   },
   "梅西拯救阿根廷": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E6%8B%AF%E6%95%91%E9%98%BF%E6%A0%B9%E5%BB%B7%23&t=31&band_rank=39&Refer=top",
     "hot": 36576
-  },
-  "养殖户给牛加热水槽被质疑没必要": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%85%BB%E6%AE%96%E6%88%B7%E7%BB%99%E7%89%9B%E5%8A%A0%E7%83%AD%E6%B0%B4%E6%A7%BD%E8%A2%AB%E8%B4%A8%E7%96%91%E6%B2%A1%E5%BF%85%E8%A6%81%23&t=31&band_rank=49&Refer=top",
-    "hot": 30486
   },
   "一场关于李峋的梦就是朱韵的救赎": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%9C%BA%E5%85%B3%E4%BA%8E%E6%9D%8E%E5%B3%8B%E7%9A%84%E6%A2%A6%E5%B0%B1%E6%98%AF%E6%9C%B1%E9%9F%B5%E7%9A%84%E6%95%91%E8%B5%8E%23&t=31&band_rank=49&Refer=top",
