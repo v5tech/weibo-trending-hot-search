@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-11-28 04:11:39.982174 
+最后更新时间 2022-11-28 04:27:45.204269 
 1. [一核酸公司实控人今年注册16家核酸机构](https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%A0%B8%E9%85%B8%E5%85%AC%E5%8F%B8%E5%AE%9E%E6%8E%A7%E4%BA%BA%E4%BB%8A%E5%B9%B4%E6%B3%A8%E5%86%8C16%E5%AE%B6%E6%A0%B8%E9%85%B8%E6%9C%BA%E6%9E%84%23&t=31&band_rank=1&Refer=top) 9983874
 1. [又爆冷一场](https://s.weibo.com/weibo?q=%23%E5%8F%88%E7%88%86%E5%86%B7%E4%B8%80%E5%9C%BA%23&t=31&band_rank=2&Refer=top) 2095834
 1. [神十五已做好出征准备](https://s.weibo.com/weibo?q=%23%E7%A5%9E%E5%8D%81%E4%BA%94%E5%B7%B2%E5%81%9A%E5%A5%BD%E5%87%BA%E5%BE%81%E5%87%86%E5%A4%87%23&t=31&band_rank=3&Refer=top) 1870552
