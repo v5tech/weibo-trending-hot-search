@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-11-29 03:49:00.972129 
+最后更新时间 2022-11-29 04:12:35.803214 
 1. [韩国教练 红牌](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E6%95%99%E7%BB%83%20%E7%BA%A2%E7%89%8C&t=31&band_rank=1&Refer=top) 5592655
 1. [没有内马尔](https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%9C%89%E5%86%85%E9%A9%AC%E5%B0%94%23&t=31&band_rank=4&Refer=top) 1895055
 1. [韩国后卫好像提前飞回国了](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%90%8E%E5%8D%AB%E5%A5%BD%E5%83%8F%E6%8F%90%E5%89%8D%E9%A3%9E%E5%9B%9E%E5%9B%BD%E4%BA%86%23&t=31&band_rank=2&Refer=top) 1531972
@@ -48,8 +48,8 @@
 1. [女儿不满房产分配纵火烧父母房](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E4%B8%8D%E6%BB%A1%E6%88%BF%E4%BA%A7%E5%88%86%E9%85%8D%E7%BA%B5%E7%81%AB%E7%83%A7%E7%88%B6%E6%AF%8D%E6%88%BF%23&t=31&band_rank=46&Refer=top) 249606
 1. [男孩10元零花钱给小甜甜花8元](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A910%E5%85%83%E9%9B%B6%E8%8A%B1%E9%92%B1%E7%BB%99%E5%B0%8F%E7%94%9C%E7%94%9C%E8%8A%B18%E5%85%83%23&t=31&band_rank=48&Refer=top) 245680
 1. [没给韩国角球](https://s.weibo.com/weibo?q=%E6%B2%A1%E7%BB%99%E9%9F%A9%E5%9B%BD%E8%A7%92%E7%90%83&t=31&band_rank=28&Refer=top) 245176
+1. [葡萄牙vs乌拉圭首发](https://s.weibo.com/weibo?q=%23%E8%91%A1%E8%90%84%E7%89%99vs%E4%B9%8C%E6%8B%89%E5%9C%AD%E9%A6%96%E5%8F%91%23&t=31&band_rank=33&Refer=top) 240955
 1. [韩国女团最新机场新闻图](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%A5%B3%E5%9B%A2%E6%9C%80%E6%96%B0%E6%9C%BA%E5%9C%BA%E6%96%B0%E9%97%BB%E5%9B%BE%23&t=31&band_rank=29&Refer=top) 231520
-1. [葡萄牙vs乌拉圭首发](https://s.weibo.com/weibo?q=%23%E8%91%A1%E8%90%84%E7%89%99vs%E4%B9%8C%E6%8B%89%E5%9C%AD%E9%A6%96%E5%8F%91%23&t=31&band_rank=33&Refer=top) 228921
 1. [原来琼瑶剧运动量这么大](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E7%90%BC%E7%91%B6%E5%89%A7%E8%BF%90%E5%8A%A8%E9%87%8F%E8%BF%99%E4%B9%88%E5%A4%A7%23&t=31&band_rank=30&Refer=top) 219860
 1. [李国庆称张兰是他尊敬的企业家](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9B%BD%E5%BA%86%E7%A7%B0%E5%BC%A0%E5%85%B0%E6%98%AF%E4%BB%96%E5%B0%8A%E6%95%AC%E7%9A%84%E4%BC%81%E4%B8%9A%E5%AE%B6%23&t=31&band_rank=31&Refer=top) 219568
 1. [解封后你想吃什么呢](https://s.weibo.com/weibo?q=%23%E8%A7%A3%E5%B0%81%E5%90%8E%E4%BD%A0%E6%83%B3%E5%90%83%E4%BB%80%E4%B9%88%E5%91%A2%23&t=31&band_rank=36&Refer=top) 216698
@@ -79,11 +79,12 @@
 1. [黑化的美嘉](https://s.weibo.com/weibo?q=%23%E9%BB%91%E5%8C%96%E7%9A%84%E7%BE%8E%E5%98%89%23&t=31&band_rank=37&Refer=top) 130601
 1. [巴西首发](https://s.weibo.com/weibo?q=%E5%B7%B4%E8%A5%BF%E9%A6%96%E5%8F%91&t=31&band_rank=50&Refer=top) 128273
 1. [巴西队晋级16强](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF%E9%98%9F%E6%99%8B%E7%BA%A716%E5%BC%BA%23&t=31&band_rank=35&Refer=top) 126648
-1. [为C罗熬夜](https://s.weibo.com/weibo?q=%23%E4%B8%BAC%E7%BD%97%E7%86%AC%E5%A4%9C%23&t=31&band_rank=42&Refer=top) 88967
+1. [为C罗熬夜](https://s.weibo.com/weibo?q=%23%E4%B8%BAC%E7%BD%97%E7%86%AC%E5%A4%9C%23&t=31&band_rank=42&Refer=top) 110507
 1. [张馨予晒原相机自拍照](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%A6%A8%E4%BA%88%E6%99%92%E5%8E%9F%E7%9B%B8%E6%9C%BA%E8%87%AA%E6%8B%8D%E7%85%A7%23&t=31&band_rank=45&Refer=top) 79926
+1. [C罗佩佩并肩作战](https://s.weibo.com/weibo?q=%23C%E7%BD%97%E4%BD%A9%E4%BD%A9%E5%B9%B6%E8%82%A9%E4%BD%9C%E6%88%98%23&t=31&band_rank=31&Refer=top) 79781
 1. [巴西队传球好丝滑](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF%E9%98%9F%E4%BC%A0%E7%90%83%E5%A5%BD%E4%B8%9D%E6%BB%91%23&t=31&band_rank=50&Refer=top) 38995
-1. [C罗佩佩并肩作战](https://s.weibo.com/weibo?q=%23C%E7%BD%97%E4%BD%A9%E4%BD%A9%E5%B9%B6%E8%82%A9%E4%BD%9C%E6%88%98%23&t=31&band_rank=31&Refer=top) 34782
-1. [巴西球迷旗帜上写想你内马尔](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF%E7%90%83%E8%BF%B7%E6%97%97%E5%B8%9C%E4%B8%8A%E5%86%99%E6%83%B3%E4%BD%A0%E5%86%85%E9%A9%AC%E5%B0%94%23&t=31&band_rank=47&Refer=top) 22064
+1. [巴西vs瑞士贵宾席有多豪华](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BFvs%E7%91%9E%E5%A3%AB%E8%B4%B5%E5%AE%BE%E5%B8%AD%E6%9C%89%E5%A4%9A%E8%B1%AA%E5%8D%8E%23&t=31&band_rank=31&Refer=top) 33342
+1. [巴西球迷旗帜上写想你内马尔](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF%E7%90%83%E8%BF%B7%E6%97%97%E5%B8%9C%E4%B8%8A%E5%86%99%E6%83%B3%E4%BD%A0%E5%86%85%E9%A9%AC%E5%B0%94%23&t=31&band_rank=47&Refer=top) 33328
 <!-- END -->
 
 历史归档 [./archives](./archives)
