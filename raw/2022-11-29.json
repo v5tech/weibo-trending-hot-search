@@ -75,6 +75,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E7%9C%9F%E7%9A%84%E6%9C%89%E4%BA%BA%E7%A9%BF%E4%BB%80%E4%B9%88%E9%83%BD%E5%A5%BD%E7%9C%8B%23&t=31&band_rank=14&Refer=top",
     "hot": 522730
   },
+  "巴西球迷称内马尔比不上梅西和C罗": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF%E7%90%83%E8%BF%B7%E7%A7%B0%E5%86%85%E9%A9%AC%E5%B0%94%E6%AF%94%E4%B8%8D%E4%B8%8A%E6%A2%85%E8%A5%BF%E5%92%8CC%E7%BD%97%23&t=31&band_rank=31&Refer=top",
+    "hot": 505050
+  },
   "巴西 传球": {
     "url": "https://s.weibo.com/weibo?q=%E5%B7%B4%E8%A5%BF%20%E4%BC%A0%E7%90%83&t=31&band_rank=50&Refer=top",
     "hot": 499778
@@ -146,10 +150,6 @@
   "女儿不满房产分配纵火烧父母房": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E4%B8%8D%E6%BB%A1%E6%88%BF%E4%BA%A7%E5%88%86%E9%85%8D%E7%BA%B5%E7%81%AB%E7%83%A7%E7%88%B6%E6%AF%8D%E6%88%BF%23&t=31&band_rank=46&Refer=top",
     "hot": 249606
-  },
-  "巴西球迷称内马尔比不上梅西和C罗": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF%E7%90%83%E8%BF%B7%E7%A7%B0%E5%86%85%E9%A9%AC%E5%B0%94%E6%AF%94%E4%B8%8D%E4%B8%8A%E6%A2%85%E8%A5%BF%E5%92%8CC%E7%BD%97%23&t=31&band_rank=31&Refer=top",
-    "hot": 248065
   },
   "男孩10元零花钱给小甜甜花8元": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A910%E5%85%83%E9%9B%B6%E8%8A%B1%E9%92%B1%E7%BB%99%E5%B0%8F%E7%94%9C%E7%94%9C%E8%8A%B18%E5%85%83%23&t=31&band_rank=48&Refer=top",
@@ -251,9 +251,21 @@
     "url": "https://s.weibo.com/weibo?q=%E7%91%9E%E5%A3%AB%E9%98%B2%E5%AE%88&t=31&band_rank=34&Refer=top",
     "hot": 142528
   },
+  "内马尔在酒店看比赛": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%86%85%E9%A9%AC%E5%B0%94%E5%9C%A8%E9%85%92%E5%BA%97%E7%9C%8B%E6%AF%94%E8%B5%9B%23&t=31&band_rank=31&Refer=top",
+    "hot": 138452
+  },
   "萨利苏破门": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%90%A8%E5%88%A9%E8%8B%8F%E7%A0%B4%E9%97%A8%23&t=31&band_rank=50&Refer=top",
     "hot": 137960
+  },
+  "本泽马已康复": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9C%AC%E6%B3%BD%E9%A9%AC%E5%B7%B2%E5%BA%B7%E5%A4%8D%23&t=31&band_rank=32&Refer=top",
+    "hot": 136441
+  },
+  "葡萄牙vs乌拉圭首发": {
+    "url": "https://s.weibo.com/weibo?q=%23%E8%91%A1%E8%90%84%E7%89%99vs%E4%B9%8C%E6%8B%89%E5%9C%AD%E9%A6%96%E5%8F%91%23&t=31&band_rank=33&Refer=top",
+    "hot": 136257
   },
   "卡塞米罗破门": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%8D%A1%E5%A1%9E%E7%B1%B3%E7%BD%97%E7%A0%B4%E9%97%A8%23&t=31&band_rank=21&Refer=top",
@@ -269,22 +281,18 @@
   },
   "巴西队晋级16强": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF%E9%98%9F%E6%99%8B%E7%BA%A716%E5%BC%BA%23&t=31&band_rank=35&Refer=top",
-    "hot": 125696
+    "hot": 126648
   },
   "张馨予晒原相机自拍照": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%A6%A8%E4%BA%88%E6%99%92%E5%8E%9F%E7%9B%B8%E6%9C%BA%E8%87%AA%E6%8B%8D%E7%85%A7%23&t=31&band_rank=45&Refer=top",
     "hot": 79926
   },
-  "内马尔在酒店看比赛": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%86%85%E9%A9%AC%E5%B0%94%E5%9C%A8%E9%85%92%E5%BA%97%E7%9C%8B%E6%AF%94%E8%B5%9B%23&t=31&band_rank=31&Refer=top",
-    "hot": 69403
+  "为C罗熬夜": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%BAC%E7%BD%97%E7%86%AC%E5%A4%9C%23&t=31&band_rank=42&Refer=top",
+    "hot": 45860
   },
-  "本泽马已康复": {
-    "url": "https://s.weibo.com/weibo?q=%23%E6%9C%AC%E6%B3%BD%E9%A9%AC%E5%B7%B2%E5%BA%B7%E5%A4%8D%23&t=31&band_rank=32&Refer=top",
-    "hot": 69265
-  },
-  "葡萄牙vs乌拉圭首发": {
-    "url": "https://s.weibo.com/weibo?q=%23%E8%91%A1%E8%90%84%E7%89%99vs%E4%B9%8C%E6%8B%89%E5%9C%AD%E9%A6%96%E5%8F%91%23&t=31&band_rank=33&Refer=top",
-    "hot": 69114
+  "巴西队传球好丝滑": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF%E9%98%9F%E4%BC%A0%E7%90%83%E5%A5%BD%E4%B8%9D%E6%BB%91%23&t=31&band_rank=50&Refer=top",
+    "hot": 38995
   }
 }
