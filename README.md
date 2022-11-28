@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-11-29 04:12:35.803214 
+最后更新时间 2022-11-29 04:38:36.227781 
 1. [韩国教练 红牌](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E6%95%99%E7%BB%83%20%E7%BA%A2%E7%89%8C&t=31&band_rank=1&Refer=top) 5592655
 1. [没有内马尔](https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%9C%89%E5%86%85%E9%A9%AC%E5%B0%94%23&t=31&band_rank=4&Refer=top) 1895055
 1. [韩国后卫好像提前飞回国了](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%90%8E%E5%8D%AB%E5%A5%BD%E5%83%8F%E6%8F%90%E5%89%8D%E9%A3%9E%E5%9B%9E%E5%9B%BD%E4%BA%86%23&t=31&band_rank=2&Refer=top) 1531972
@@ -66,6 +66,7 @@
 1. [威神V直播状态](https://s.weibo.com/weibo?q=%23%E5%A8%81%E7%A5%9EV%E7%9B%B4%E6%92%AD%E7%8A%B6%E6%80%81%23&t=31&band_rank=44&Refer=top) 182058
 1. [多家麻六记门店称人气大涨](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%AE%B6%E9%BA%BB%E5%85%AD%E8%AE%B0%E9%97%A8%E5%BA%97%E7%A7%B0%E4%BA%BA%E6%B0%94%E5%A4%A7%E6%B6%A8%23&t=31&band_rank=45&Refer=top) 181916
 1. [加纳门将](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E7%BA%B3%E9%97%A8%E5%B0%86%23&t=31&band_rank=46&Refer=top) 181238
+1. [C罗佩佩并肩作战](https://s.weibo.com/weibo?q=%23C%E7%BD%97%E4%BD%A9%E4%BD%A9%E5%B9%B6%E8%82%A9%E4%BD%9C%E6%88%98%23&t=31&band_rank=31&Refer=top) 168609
 1. [苹果手机将全迈入全面屏时代](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E5%B0%86%E5%85%A8%E8%BF%88%E5%85%A5%E5%85%A8%E9%9D%A2%E5%B1%8F%E6%97%B6%E4%BB%A3%23&t=31&band_rank=47&Refer=top) 161286
 1. [韩国教练是葡萄牙人](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E6%95%99%E7%BB%83%E6%98%AF%E8%91%A1%E8%90%84%E7%89%99%E4%BA%BA&t=31&band_rank=49&Refer=top) 158699
 1. [好的爱情是能相互治愈的](https://s.weibo.com/weibo?q=%23%E5%A5%BD%E7%9A%84%E7%88%B1%E6%83%85%E6%98%AF%E8%83%BD%E7%9B%B8%E4%BA%92%E6%B2%BB%E6%84%88%E7%9A%84%23&t=31&band_rank=46&Refer=top) 148524
@@ -81,10 +82,10 @@
 1. [巴西队晋级16强](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF%E9%98%9F%E6%99%8B%E7%BA%A716%E5%BC%BA%23&t=31&band_rank=35&Refer=top) 126648
 1. [为C罗熬夜](https://s.weibo.com/weibo?q=%23%E4%B8%BAC%E7%BD%97%E7%86%AC%E5%A4%9C%23&t=31&band_rank=42&Refer=top) 110507
 1. [张馨予晒原相机自拍照](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%A6%A8%E4%BA%88%E6%99%92%E5%8E%9F%E7%9B%B8%E6%9C%BA%E8%87%AA%E6%8B%8D%E7%85%A7%23&t=31&band_rank=45&Refer=top) 79926
-1. [C罗佩佩并肩作战](https://s.weibo.com/weibo?q=%23C%E7%BD%97%E4%BD%A9%E4%BD%A9%E5%B9%B6%E8%82%A9%E4%BD%9C%E6%88%98%23&t=31&band_rank=31&Refer=top) 79781
 1. [巴西队传球好丝滑](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF%E9%98%9F%E4%BC%A0%E7%90%83%E5%A5%BD%E4%B8%9D%E6%BB%91%23&t=31&band_rank=50&Refer=top) 38995
 1. [巴西vs瑞士贵宾席有多豪华](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BFvs%E7%91%9E%E5%A3%AB%E8%B4%B5%E5%AE%BE%E5%B8%AD%E6%9C%89%E5%A4%9A%E8%B1%AA%E5%8D%8E%23&t=31&band_rank=31&Refer=top) 33342
 1. [巴西球迷旗帜上写想你内马尔](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF%E7%90%83%E8%BF%B7%E6%97%97%E5%B8%9C%E4%B8%8A%E5%86%99%E6%83%B3%E4%BD%A0%E5%86%85%E9%A9%AC%E5%B0%94%23&t=31&band_rank=47&Refer=top) 33328
+1. [瑞士球员说内马尔缺席比赛也不轻松](https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%A3%AB%E7%90%83%E5%91%98%E8%AF%B4%E5%86%85%E9%A9%AC%E5%B0%94%E7%BC%BA%E5%B8%AD%E6%AF%94%E8%B5%9B%E4%B9%9F%E4%B8%8D%E8%BD%BB%E6%9D%BE%23&t=31&band_rank=35&Refer=top) 28504
 <!-- END -->
 
 历史归档 [./archives](./archives)

@@ -231,6 +231,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%8A%A0%E7%BA%B3%E9%97%A8%E5%B0%86%23&t=31&band_rank=46&Refer=top",
     "hot": 181238
   },
+  "C罗佩佩并肩作战": {
+    "url": "https://s.weibo.com/weibo?q=%23C%E7%BD%97%E4%BD%A9%E4%BD%A9%E5%B9%B6%E8%82%A9%E4%BD%9C%E6%88%98%23&t=31&band_rank=31&Refer=top",
+    "hot": 168609
+  },
   "苹果手机将全迈入全面屏时代": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E5%B0%86%E5%85%A8%E8%BF%88%E5%85%A5%E5%85%A8%E9%9D%A2%E5%B1%8F%E6%97%B6%E4%BB%A3%23&t=31&band_rank=47&Refer=top",
     "hot": 161286
@@ -291,10 +295,6 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%A6%A8%E4%BA%88%E6%99%92%E5%8E%9F%E7%9B%B8%E6%9C%BA%E8%87%AA%E6%8B%8D%E7%85%A7%23&t=31&band_rank=45&Refer=top",
     "hot": 79926
   },
-  "C罗佩佩并肩作战": {
-    "url": "https://s.weibo.com/weibo?q=%23C%E7%BD%97%E4%BD%A9%E4%BD%A9%E5%B9%B6%E8%82%A9%E4%BD%9C%E6%88%98%23&t=31&band_rank=31&Refer=top",
-    "hot": 79781
-  },
   "巴西队传球好丝滑": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF%E9%98%9F%E4%BC%A0%E7%90%83%E5%A5%BD%E4%B8%9D%E6%BB%91%23&t=31&band_rank=50&Refer=top",
     "hot": 38995
@@ -306,5 +306,9 @@
   "巴西球迷旗帜上写想你内马尔": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF%E7%90%83%E8%BF%B7%E6%97%97%E5%B8%9C%E4%B8%8A%E5%86%99%E6%83%B3%E4%BD%A0%E5%86%85%E9%A9%AC%E5%B0%94%23&t=31&band_rank=47&Refer=top",
     "hot": 33328
+  },
+  "瑞士球员说内马尔缺席比赛也不轻松": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%A3%AB%E7%90%83%E5%91%98%E8%AF%B4%E5%86%85%E9%A9%AC%E5%B0%94%E7%BC%BA%E5%B8%AD%E6%AF%94%E8%B5%9B%E4%B9%9F%E4%B8%8D%E8%BD%BB%E6%9D%BE%23&t=31&band_rank=35&Refer=top",
+    "hot": 28504
   }
 }
