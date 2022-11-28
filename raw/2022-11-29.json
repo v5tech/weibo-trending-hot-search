@@ -35,13 +35,13 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BFvs%E7%91%9E%E5%A3%AB%23&t=31&band_rank=6&Refer=top",
     "hot": 866763
   },
+  "C罗碰到球了吗": {
+    "url": "https://s.weibo.com/weibo?q=%23C%E7%BD%97%E7%A2%B0%E5%88%B0%E7%90%83%E4%BA%86%E5%90%97%23&t=31&band_rank=34&Refer=top",
+    "hot": 838580
+  },
   "巴西1比0瑞士": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF1%E6%AF%940%E7%91%9E%E5%A3%AB%23&t=31&band_rank=4&Refer=top",
     "hot": 831757
-  },
-  "C罗碰到球了吗": {
-    "url": "https://s.weibo.com/weibo?q=%23C%E7%BD%97%E7%A2%B0%E5%88%B0%E7%90%83%E4%BA%86%E5%90%97%23&t=31&band_rank=34&Refer=top",
-    "hot": 782815
   },
   "重庆抗疫一线医护人员的肺腑之言": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E6%8A%97%E7%96%AB%E4%B8%80%E7%BA%BF%E5%8C%BB%E6%8A%A4%E4%BA%BA%E5%91%98%E7%9A%84%E8%82%BA%E8%85%91%E4%B9%8B%E8%A8%80%23&t=31&band_rank=7&Refer=top",
@@ -83,13 +83,13 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF%E7%90%83%E8%BF%B7%E7%A7%B0%E5%86%85%E9%A9%AC%E5%B0%94%E6%AF%94%E4%B8%8D%E4%B8%8A%E6%A2%85%E8%A5%BF%E5%92%8CC%E7%BD%97%23&t=31&band_rank=31&Refer=top",
     "hot": 505050
   },
+  "核子基因多次被罚仍中标核酸检测项目": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%A0%B8%E5%AD%90%E5%9F%BA%E5%9B%A0%E5%A4%9A%E6%AC%A1%E8%A2%AB%E7%BD%9A%E4%BB%8D%E4%B8%AD%E6%A0%87%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E9%A1%B9%E7%9B%AE%23&t=31&band_rank=13&Refer=top",
+    "hot": 501742
+  },
   "巴西 传球": {
     "url": "https://s.weibo.com/weibo?q=%E5%B7%B4%E8%A5%BF%20%E4%BC%A0%E7%90%83&t=31&band_rank=50&Refer=top",
     "hot": 499778
-  },
-  "核子基因多次被罚仍中标核酸检测项目": {
-    "url": "https://s.weibo.com/weibo?q=%23%E6%A0%B8%E5%AD%90%E5%9F%BA%E5%9B%A0%E5%A4%9A%E6%AC%A1%E8%A2%AB%E7%BD%9A%E4%BB%8D%E4%B8%AD%E6%A0%87%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E9%A1%B9%E7%9B%AE%23&t=31&band_rank=13&Refer=top",
-    "hot": 496182
   },
   "李薇成为正夫人": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%96%87%E6%88%90%E4%B8%BA%E6%AD%A3%E5%A4%AB%E4%BA%BA%23&t=31&band_rank=15&Refer=top",
@@ -114,6 +114,10 @@
   "巴西进球 越位": {
     "url": "https://s.weibo.com/weibo?q=%E5%B7%B4%E8%A5%BF%E8%BF%9B%E7%90%83%20%E8%B6%8A%E4%BD%8D&t=31&band_rank=21&Refer=top",
     "hot": 377162
+  },
+  "葡萄牙2比0乌拉圭": {
+    "url": "https://s.weibo.com/weibo?q=%23%E8%91%A1%E8%90%84%E7%89%992%E6%AF%940%E4%B9%8C%E6%8B%89%E5%9C%AD%23&t=31&band_rank=38&Refer=top",
+    "hot": 374612
   },
   "广州海珠试行闭环泡泡": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E6%B5%B7%E7%8F%A0%E8%AF%95%E8%A1%8C%E9%97%AD%E7%8E%AF%E6%B3%A1%E6%B3%A1%23&t=31&band_rank=18&Refer=top",
@@ -142,10 +146,6 @@
   "山东一医院开诊亮灯仪式被指像KTV": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E4%B8%80%E5%8C%BB%E9%99%A2%E5%BC%80%E8%AF%8A%E4%BA%AE%E7%81%AF%E4%BB%AA%E5%BC%8F%E8%A2%AB%E6%8C%87%E5%83%8FKTV%23&t=31&band_rank=25&Refer=top",
     "hot": 288075
-  },
-  "葡萄牙2比0乌拉圭": {
-    "url": "https://s.weibo.com/weibo?q=%23%E8%91%A1%E8%90%84%E7%89%992%E6%AF%940%E4%B9%8C%E6%8B%89%E5%9C%AD%23&t=31&band_rank=38&Refer=top",
-    "hot": 283803
   },
   "尹岐上官婧和离": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%B0%B9%E5%B2%90%E4%B8%8A%E5%AE%98%E5%A9%A7%E5%92%8C%E7%A6%BB%23&t=31&band_rank=26&Refer=top",
@@ -199,6 +199,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B3%8B%E7%9A%84%E5%98%B4%E6%B4%BE%E4%B8%8A%E7%94%A8%E5%9C%BA%E4%BA%86%23&t=31&band_rank=33&Refer=top",
     "hot": 215404
   },
+  "1岁娃被猫抓伤反复高烧患猫抓病": {
+    "url": "https://s.weibo.com/weibo?q=%231%E5%B2%81%E5%A8%83%E8%A2%AB%E7%8C%AB%E6%8A%93%E4%BC%A4%E5%8F%8D%E5%A4%8D%E9%AB%98%E7%83%A7%E6%82%A3%E7%8C%AB%E6%8A%93%E7%97%85%23&t=31&band_rank=18&Refer=top",
+    "hot": 208321
+  },
   "你愿意花几年考研上岸": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%BD%A0%E6%84%BF%E6%84%8F%E8%8A%B1%E5%87%A0%E5%B9%B4%E8%80%83%E7%A0%94%E4%B8%8A%E5%B2%B8%23&t=31&band_rank=34&Refer=top",
     "hot": 208157
@@ -230,10 +234,6 @@
   "曾可妮翻唱你说你还不了": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%9B%BE%E5%8F%AF%E5%A6%AE%E7%BF%BB%E5%94%B1%E4%BD%A0%E8%AF%B4%E4%BD%A0%E8%BF%98%E4%B8%8D%E4%BA%86%23&t=31&band_rank=42&Refer=top",
     "hot": 185267
-  },
-  "1岁娃被猫抓伤反复高烧患猫抓病": {
-    "url": "https://s.weibo.com/weibo?q=%231%E5%B2%81%E5%A8%83%E8%A2%AB%E7%8C%AB%E6%8A%93%E4%BC%A4%E5%8F%8D%E5%A4%8D%E9%AB%98%E7%83%A7%E6%82%A3%E7%8C%AB%E6%8A%93%E7%97%85%23&t=31&band_rank=18&Refer=top",
-    "hot": 183238
   },
   "威神V直播状态": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%A8%81%E7%A5%9EV%E7%9B%B4%E6%92%AD%E7%8A%B6%E6%80%81%23&t=31&band_rank=44&Refer=top",
@@ -303,13 +303,17 @@
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%BAC%E7%BD%97%E7%86%AC%E5%A4%9C%23&t=31&band_rank=42&Refer=top",
     "hot": 110507
   },
+  "醉驾女子称我长这么好看还查我": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%86%89%E9%A9%BE%E5%A5%B3%E5%AD%90%E7%A7%B0%E6%88%91%E9%95%BF%E8%BF%99%E4%B9%88%E5%A5%BD%E7%9C%8B%E8%BF%98%E6%9F%A5%E6%88%91%23&t=31&band_rank=43&Refer=top",
+    "hot": 90145
+  },
   "张馨予晒原相机自拍照": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%A6%A8%E4%BA%88%E6%99%92%E5%8E%9F%E7%9B%B8%E6%9C%BA%E8%87%AA%E6%8B%8D%E7%85%A7%23&t=31&band_rank=45&Refer=top",
     "hot": 79926
   },
-  "醉驾女子称我长这么好看还查我": {
-    "url": "https://s.weibo.com/weibo?q=%23%E9%86%89%E9%A9%BE%E5%A5%B3%E5%AD%90%E7%A7%B0%E6%88%91%E9%95%BF%E8%BF%99%E4%B9%88%E5%A5%BD%E7%9C%8B%E8%BF%98%E6%9F%A5%E6%88%91%23&t=31&band_rank=43&Refer=top",
-    "hot": 55534
+  "巴西vs瑞士贵宾席有多豪华": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BFvs%E7%91%9E%E5%A3%AB%E8%B4%B5%E5%AE%BE%E5%B8%AD%E6%9C%89%E5%A4%9A%E8%B1%AA%E5%8D%8E%23&t=31&band_rank=31&Refer=top",
+    "hot": 48984
   },
   "巴西球迷旗帜上写想你内马尔": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF%E7%90%83%E8%BF%B7%E6%97%97%E5%B8%9C%E4%B8%8A%E5%86%99%E6%83%B3%E4%BD%A0%E5%86%85%E9%A9%AC%E5%B0%94%23&t=31&band_rank=47&Refer=top",
@@ -319,16 +323,12 @@
     "url": "https://s.weibo.com/weibo?q=%23%E8%91%A1%E8%90%84%E7%89%99%E5%8D%8A%E5%9C%BA0%E6%AF%940%E4%B9%8C%E6%8B%89%E5%9C%AD%23&t=31&band_rank=35&Refer=top",
     "hot": 47499
   },
-  "巴西vs瑞士贵宾席有多豪华": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BFvs%E7%91%9E%E5%A3%AB%E8%B4%B5%E5%AE%BE%E5%B8%AD%E6%9C%89%E5%A4%9A%E8%B1%AA%E5%8D%8E%23&t=31&band_rank=31&Refer=top",
-    "hot": 44619
-  },
   "巴西队传球好丝滑": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF%E9%98%9F%E4%BC%A0%E7%90%83%E5%A5%BD%E4%B8%9D%E6%BB%91%23&t=31&band_rank=50&Refer=top",
     "hot": 38995
   },
   "瑞士球员说内马尔缺席比赛也不轻松": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%A3%AB%E7%90%83%E5%91%98%E8%AF%B4%E5%86%85%E9%A9%AC%E5%B0%94%E7%BC%BA%E5%B8%AD%E6%AF%94%E8%B5%9B%E4%B9%9F%E4%B8%8D%E8%BD%BB%E6%9D%BE%23&t=31&band_rank=35&Refer=top",
-    "hot": 34863
+    "hot": 36197
   }
 }
