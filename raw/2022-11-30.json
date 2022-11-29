@@ -115,6 +115,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E6%96%B9%E5%90%91%E7%9B%98%E5%A5%97%E5%B9%BF%E5%91%8A%E8%AF%AD%E8%A2%AB%E6%8C%87%E4%BE%AE%E8%BE%B1%E5%A5%B3%E6%80%A7%23&t=31&band_rank=23&Refer=top",
     "hot": 299477
   },
+  "伊朗半场0比1美国": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%8D%8A%E5%9C%BA0%E6%AF%941%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=31&Refer=top",
+    "hot": 293554
+  },
   "Somi撞衫小S": {
     "url": "https://s.weibo.com/weibo?q=%23Somi%E6%92%9E%E8%A1%AB%E5%B0%8FS%23&t=31&band_rank=24&Refer=top",
     "hot": 290892
@@ -275,6 +279,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%8E%84%E7%93%9C%E5%A4%9A%E5%B0%941%E6%AF%942%E5%A1%9E%E5%86%85%E5%8A%A0%E5%B0%94%23&t=31&band_rank=43&Refer=top",
     "hot": 85267
   },
+  "威尔士0比3英格兰": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A8%81%E5%B0%94%E5%A3%AB0%E6%AF%943%E8%8B%B1%E6%A0%BC%E5%85%B0%23&t=31&band_rank=11&Refer=top",
+    "hot": 83552
+  },
   "上官婧跟尹岐表白后又拒绝": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E5%AE%98%E5%A9%A7%E8%B7%9F%E5%B0%B9%E5%B2%90%E8%A1%A8%E7%99%BD%E5%90%8E%E5%8F%88%E6%8B%92%E7%BB%9D%23&t=31&band_rank=49&Refer=top",
     "hot": 76598
@@ -282,10 +290,6 @@
   "肖战红毯后台路透": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%BA%A2%E6%AF%AF%E5%90%8E%E5%8F%B0%E8%B7%AF%E9%80%8F%23&t=31&band_rank=48&Refer=top",
     "hot": 71788
-  },
-  "伊朗半场0比1美国": {
-    "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%8D%8A%E5%9C%BA0%E6%AF%941%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=31&Refer=top",
-    "hot": 65561
   },
   "肖战评价盛阳顾魏顾一野": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%AF%84%E4%BB%B7%E7%9B%9B%E9%98%B3%E9%A1%BE%E9%AD%8F%E9%A1%BE%E4%B8%80%E9%87%8E%23&t=31&band_rank=31&Refer=top",
@@ -323,12 +327,16 @@
     "url": "https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%8E%A8%E8%8D%90%E5%A4%A7%E5%AE%B6%E9%80%9A%E8%BF%87%E8%BF%90%E5%8A%A8%E6%8E%92%E8%A7%A3%E5%8E%8B%E5%8A%9B%23&t=31&band_rank=35&Refer=top",
     "hot": 36854
   },
+  "美国小组第二出线": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%B0%8F%E7%BB%84%E7%AC%AC%E4%BA%8C%E5%87%BA%E7%BA%BF%23&t=31&band_rank=31&Refer=top",
+    "hot": 31816
+  },
   "卡塔尔三连败": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%8D%A1%E5%A1%94%E5%B0%94%E4%B8%89%E8%BF%9E%E8%B4%A5%23&t=31&band_rank=32&Refer=top",
-    "hot": 27038
+    "hot": 28846
   },
   "拉什福德任意球世界波": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%8B%89%E4%BB%80%E7%A6%8F%E5%BE%B7%E4%BB%BB%E6%84%8F%E7%90%83%E4%B8%96%E7%95%8C%E6%B3%A2%23&t=31&band_rank=33&Refer=top",
-    "hot": 25931
+    "hot": 28187
   }
 }
