@@ -259,16 +259,28 @@
     "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E7%A7%91%E6%8A%80%E4%BB%8B%E5%85%A5%E8%B6%B3%E7%90%83%E6%98%AF%E5%A5%BD%E6%98%AF%E5%9D%8F%23&t=31&band_rank=50&Refer=top",
     "hot": 35621
   },
+  "阿尔瓦雷斯破门": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%B0%94%E7%93%A6%E9%9B%B7%E6%96%AF%E7%A0%B4%E9%97%A8%23&t=31&band_rank=31&Refer=top",
+    "hot": 29530
+  },
   "波兰半场0比0阿根廷": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%B3%A2%E5%85%B0%E5%8D%8A%E5%9C%BA0%E6%AF%940%E9%98%BF%E6%A0%B9%E5%BB%B7%23&t=31&band_rank=31&Refer=top",
     "hot": 25310
   },
+  "波兰0比2阿根廷": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B3%A2%E5%85%B00%E6%AF%942%E9%98%BF%E6%A0%B9%E5%BB%B7%23&t=31&band_rank=31&Refer=top",
+    "hot": 22228
+  },
+  "沙特阿拉伯半场0比0墨西哥": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B2%99%E7%89%B9%E9%98%BF%E6%8B%89%E4%BC%AF%E5%8D%8A%E5%9C%BA0%E6%AF%940%E5%A2%A8%E8%A5%BF%E5%93%A5%23&t=31&band_rank=32&Refer=top",
+    "hot": 22213
+  },
   "麦卡利斯特破门": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%BA%A6%E5%8D%A1%E5%88%A9%E6%96%AF%E7%89%B9%E7%A0%B4%E9%97%A8%23&t=31&band_rank=32&Refer=top",
-    "hot": 21751
+    "hot": 22169
   },
-  "阿尔瓦雷斯破门": {
-    "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%B0%94%E7%93%A6%E9%9B%B7%E6%96%AF%E7%A0%B4%E9%97%A8%23&t=31&band_rank=31&Refer=top",
-    "hot": 20379
+  "查韦斯任意球破门": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9F%A5%E9%9F%A6%E6%96%AF%E4%BB%BB%E6%84%8F%E7%90%83%E7%A0%B4%E9%97%A8%23&t=31&band_rank=37&Refer=top",
+    "hot": 21400
   }
 }
