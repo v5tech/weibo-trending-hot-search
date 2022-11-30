@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-12-01 03:23:01.180221 
+最后更新时间 2022-12-01 03:34:22.750948 
 1. [江泽民同志在上海逝世享年96岁](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E6%B3%BD%E6%B0%91%E5%90%8C%E5%BF%97%E5%9C%A8%E4%B8%8A%E6%B5%B7%E9%80%9D%E4%B8%96%E4%BA%AB%E5%B9%B496%E5%B2%81%23&t=31&band_rank=1&Refer=top) 1327470
 1. [北京天安门下半旗志哀](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%A4%A9%E5%AE%89%E9%97%A8%E4%B8%8B%E5%8D%8A%E6%97%97%E5%BF%97%E5%93%80%23&t=31&band_rank=2&Refer=top) 561265
 1. [告全党全军全国各族人民书](https://s.weibo.com/weibo?q=%23%E5%91%8A%E5%85%A8%E5%85%9A%E5%85%A8%E5%86%9B%E5%85%A8%E5%9B%BD%E5%90%84%E6%97%8F%E4%BA%BA%E6%B0%91%E4%B9%A6%23&t=31&band_rank=3&Refer=top) 518890
