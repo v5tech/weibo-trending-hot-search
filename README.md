@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-12-02 05:48:47.597250 
+最后更新时间 2022-12-02 06:10:50.614742 
 1. [江泽民同志遗体由专机敬移北京](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E6%B3%BD%E6%B0%91%E5%90%8C%E5%BF%97%E9%81%97%E4%BD%93%E7%94%B1%E4%B8%93%E6%9C%BA%E6%95%AC%E7%A7%BB%E5%8C%97%E4%BA%AC%23&t=31&band_rank=1&Refer=top) 902580
 1. [12月6日隆重举行江泽民同志追悼大会](https://s.weibo.com/weibo?q=%2312%E6%9C%886%E6%97%A5%E9%9A%86%E9%87%8D%E4%B8%BE%E8%A1%8C%E6%B1%9F%E6%B3%BD%E6%B0%91%E5%90%8C%E5%BF%97%E8%BF%BD%E6%82%BC%E5%A4%A7%E4%BC%9A%23&t=31&band_rank=2&Refer=top) 888908
 1. [各地持续优化新冠肺炎疫情防控举措](https://s.weibo.com/weibo?q=%23%E5%90%84%E5%9C%B0%E6%8C%81%E7%BB%AD%E4%BC%98%E5%8C%96%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%E4%B8%BE%E6%8E%AA%23&t=31&band_rank=3&Refer=top) 883074
@@ -51,25 +51,25 @@
 1. [比利时黄金一代谢幕](https://s.weibo.com/weibo?q=%23%E6%AF%94%E5%88%A9%E6%97%B6%E9%BB%84%E9%87%91%E4%B8%80%E4%BB%A3%E8%B0%A2%E5%B9%95%23&t=31&band_rank=32&Refer=top) 217686
 1. [重庆无疫小区实行常态化防控](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E6%97%A0%E7%96%AB%E5%B0%8F%E5%8C%BA%E5%AE%9E%E8%A1%8C%E5%B8%B8%E6%80%81%E5%8C%96%E9%98%B2%E6%8E%A7%23&t=31&band_rank=41&Refer=top) 214876
 1. [莫拉塔破门](https://s.weibo.com/weibo?q=%23%E8%8E%AB%E6%8B%89%E5%A1%94%E7%A0%B4%E9%97%A8%23&t=31&band_rank=14&Refer=top) 213532
+1. [大妈常玩手机致手指卡住不能动](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%A6%88%E5%B8%B8%E7%8E%A9%E6%89%8B%E6%9C%BA%E8%87%B4%E6%89%8B%E6%8C%87%E5%8D%A1%E4%BD%8F%E4%B8%8D%E8%83%BD%E5%8A%A8%23&t=31&band_rank=29&Refer=top) 213501
 1. [日本半场0比1西班牙](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8D%8A%E5%9C%BA0%E6%AF%941%E8%A5%BF%E7%8F%AD%E7%89%99%23&t=31&band_rank=32&Refer=top) 213492
 1. [哥斯达黎加半场0比1德国](https://s.weibo.com/weibo?q=%23%E5%93%A5%E6%96%AF%E8%BE%BE%E9%BB%8E%E5%8A%A0%E5%8D%8A%E5%9C%BA0%E6%AF%941%E5%BE%B7%E5%9B%BD%23&t=31&band_rank=31&Refer=top) 210881
 1. [马丁内斯卸任比利时主帅](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%B8%81%E5%86%85%E6%96%AF%E5%8D%B8%E4%BB%BB%E6%AF%94%E5%88%A9%E6%97%B6%E4%B8%BB%E5%B8%85%23&t=31&band_rank=41&Refer=top) 207134
 1. [克罗地亚0比0比利时](https://s.weibo.com/weibo?q=%23%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A0%E6%AF%940%E6%AF%94%E5%88%A9%E6%97%B6%23&t=31&band_rank=23&Refer=top) 202262
 1. [格纳布里头球破门](https://s.weibo.com/weibo?q=%23%E6%A0%BC%E7%BA%B3%E5%B8%83%E9%87%8C%E5%A4%B4%E7%90%83%E7%A0%B4%E9%97%A8%23&t=31&band_rank=32&Refer=top) 192583
-1. [大妈常玩手机致手指卡住不能动](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%A6%88%E5%B8%B8%E7%8E%A9%E6%89%8B%E6%9C%BA%E8%87%B4%E6%89%8B%E6%8C%87%E5%8D%A1%E4%BD%8F%E4%B8%8D%E8%83%BD%E5%8A%A8%23&t=31&band_rank=29&Refer=top) 190467
 1. [这猫长在我知识盲区了](https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%8C%AB%E9%95%BF%E5%9C%A8%E6%88%91%E7%9F%A5%E8%AF%86%E7%9B%B2%E5%8C%BA%E4%BA%86%23&t=31&band_rank=33&Refer=top) 186829
+1. [女子在鹤岗花4万买房创业亏10多万](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9C%A8%E9%B9%A4%E5%B2%97%E8%8A%B14%E4%B8%87%E4%B9%B0%E6%88%BF%E5%88%9B%E4%B8%9A%E4%BA%8F10%E5%A4%9A%E4%B8%87%23&t=31&band_rank=30&Refer=top) 182580
 1. [世界杯](https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF&t=31&band_rank=40&Refer=top) 178437
 1. [克罗地亚半场0比0比利时](https://s.weibo.com/weibo?q=%23%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%E5%8D%8A%E5%9C%BA0%E6%AF%940%E6%AF%94%E5%88%A9%E6%97%B6%23&t=31&band_rank=32&Refer=top) 175484
-1. [女子在鹤岗花4万买房创业亏10多万](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9C%A8%E9%B9%A4%E5%B2%97%E8%8A%B14%E4%B8%87%E4%B9%B0%E6%88%BF%E5%88%9B%E4%B8%9A%E4%BA%8F10%E5%A4%9A%E4%B8%87%23&t=31&band_rank=30&Refer=top) 174458
 1. [莱万晒女儿照片](https://s.weibo.com/weibo?q=%23%E8%8E%B1%E4%B8%87%E6%99%92%E5%A5%B3%E5%84%BF%E7%85%A7%E7%89%87%23&t=31&band_rank=45&Refer=top) 172767
 1. [女子拒退35万彩礼被列为失信人](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%8B%92%E9%80%8035%E4%B8%87%E5%BD%A9%E7%A4%BC%E8%A2%AB%E5%88%97%E4%B8%BA%E5%A4%B1%E4%BF%A1%E4%BA%BA%23&t=31&band_rank=46&Refer=top) 170895
-1. [女子求职面试后老板报价2万约饭](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%B1%82%E8%81%8C%E9%9D%A2%E8%AF%95%E5%90%8E%E8%80%81%E6%9D%BF%E6%8A%A5%E4%BB%B72%E4%B8%87%E7%BA%A6%E9%A5%AD%23&t=31&band_rank=25&Refer=top) 160928
+1. [女子求职面试后老板报价2万约饭](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%B1%82%E8%81%8C%E9%9D%A2%E8%AF%95%E5%90%8E%E8%80%81%E6%9D%BF%E6%8A%A5%E4%BB%B72%E4%B8%87%E7%BA%A6%E9%A5%AD%23&t=31&band_rank=25&Refer=top) 167118
+1. [锦州发文能清零而不清零太可惜](https://s.weibo.com/weibo?q=%23%E9%94%A6%E5%B7%9E%E5%8F%91%E6%96%87%E8%83%BD%E6%B8%85%E9%9B%B6%E8%80%8C%E4%B8%8D%E6%B8%85%E9%9B%B6%E5%A4%AA%E5%8F%AF%E6%83%9C%23&t=31&band_rank=36&Refer=top) 162229
 1. [广州回归日常](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%9B%9E%E5%BD%92%E6%97%A5%E5%B8%B8%23&t=31&band_rank=26&Refer=top) 156131
 1. [加拿大vs摩洛哥](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%8B%BF%E5%A4%A7vs%E6%91%A9%E6%B4%9B%E5%93%A5%23&t=31&band_rank=27&Refer=top) 154516
 1. [原来还有无痛起床](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%BF%98%E6%9C%89%E6%97%A0%E7%97%9B%E8%B5%B7%E5%BA%8A%23&t=31&band_rank=35&Refer=top) 135367
 1. [西安一高校雪后秒变童话世界](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E4%B8%80%E9%AB%98%E6%A0%A1%E9%9B%AA%E5%90%8E%E7%A7%92%E5%8F%98%E7%AB%A5%E8%AF%9D%E4%B8%96%E7%95%8C%23&t=31&band_rank=34&Refer=top) 134246
 1. [山东人有多爱面食](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E4%BA%BA%E6%9C%89%E5%A4%9A%E7%88%B1%E9%9D%A2%E9%A3%9F%23&t=31&band_rank=38&Refer=top) 128227
-1. [锦州发文能清零而不清零太可惜](https://s.weibo.com/weibo?q=%23%E9%94%A6%E5%B7%9E%E5%8F%91%E6%96%87%E8%83%BD%E6%B8%85%E9%9B%B6%E8%80%8C%E4%B8%8D%E6%B8%85%E9%9B%B6%E5%A4%AA%E5%8F%AF%E6%83%9C%23&t=31&band_rank=36&Refer=top) 119717
 1. [北京医院不得拒绝无48小时核酸患者进入](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%8C%BB%E9%99%A2%E4%B8%8D%E5%BE%97%E6%8B%92%E7%BB%9D%E6%97%A048%E5%B0%8F%E6%97%B6%E6%A0%B8%E9%85%B8%E6%82%A3%E8%80%85%E8%BF%9B%E5%85%A5%23&t=31&band_rank=45&Refer=top) 117831
 1. [不要给2岁以下孩子看手机](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%A6%81%E7%BB%992%E5%B2%81%E4%BB%A5%E4%B8%8B%E5%AD%A9%E5%AD%90%E7%9C%8B%E6%89%8B%E6%9C%BA%23&t=31&band_rank=37&Refer=top) 112540
 1. [哈工大学生回应被安排专机返乡](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B7%A5%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%AE%89%E6%8E%92%E4%B8%93%E6%9C%BA%E8%BF%94%E4%B9%A1%23&t=31&band_rank=40&Refer=top) 111825
