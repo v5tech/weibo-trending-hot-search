@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-12-02 04:11:35.801587 
+最后更新时间 2022-12-02 04:26:48.927166 
 1. [江泽民同志遗体由专机敬移北京](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E6%B3%BD%E6%B0%91%E5%90%8C%E5%BF%97%E9%81%97%E4%BD%93%E7%94%B1%E4%B8%93%E6%9C%BA%E6%95%AC%E7%A7%BB%E5%8C%97%E4%BA%AC%23&t=31&band_rank=1&Refer=top) 902580
 1. [12月6日隆重举行江泽民同志追悼大会](https://s.weibo.com/weibo?q=%2312%E6%9C%886%E6%97%A5%E9%9A%86%E9%87%8D%E4%B8%BE%E8%A1%8C%E6%B1%9F%E6%B3%BD%E6%B0%91%E5%90%8C%E5%BF%97%E8%BF%BD%E6%82%BC%E5%A4%A7%E4%BC%9A%23&t=31&band_rank=2&Refer=top) 888908
 1. [各地持续优化新冠肺炎疫情防控举措](https://s.weibo.com/weibo?q=%23%E5%90%84%E5%9C%B0%E6%8C%81%E7%BB%AD%E4%BC%98%E5%8C%96%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%E4%B8%BE%E6%8E%AA%23&t=31&band_rank=3&Refer=top) 883074
@@ -68,6 +68,7 @@
 1. [复核结果阴性要立即解除相关人员管控](https://s.weibo.com/weibo?q=%23%E5%A4%8D%E6%A0%B8%E7%BB%93%E6%9E%9C%E9%98%B4%E6%80%A7%E8%A6%81%E7%AB%8B%E5%8D%B3%E8%A7%A3%E9%99%A4%E7%9B%B8%E5%85%B3%E4%BA%BA%E5%91%98%E7%AE%A1%E6%8E%A7%23&t=31&band_rank=42&Refer=top) 93013
 1. [女子盐焗40多个鸡蛋开盖变炸蛋](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%9B%90%E7%84%9740%E5%A4%9A%E4%B8%AA%E9%B8%A1%E8%9B%8B%E5%BC%80%E7%9B%96%E5%8F%98%E7%82%B8%E8%9B%8B%23&t=31&band_rank=43&Refer=top) 92356
 1. [改善了提笔忘字的情况](https://s.weibo.com/weibo?q=%23%E6%94%B9%E5%96%84%E4%BA%86%E6%8F%90%E7%AC%94%E5%BF%98%E5%AD%97%E7%9A%84%E6%83%85%E5%86%B5%23&t=31&band_rank=44&Refer=top) 88755
+1. [哥斯达黎加半场0比1德国](https://s.weibo.com/weibo?q=%23%E5%93%A5%E6%96%AF%E8%BE%BE%E9%BB%8E%E5%8A%A0%E5%8D%8A%E5%9C%BA0%E6%AF%941%E5%BE%B7%E5%9B%BD%23&t=31&band_rank=31&Refer=top) 82677
 1. [格纳布里头球破门](https://s.weibo.com/weibo?q=%23%E6%A0%BC%E7%BA%B3%E5%B8%83%E9%87%8C%E5%A4%B4%E7%90%83%E7%A0%B4%E9%97%A8%23&t=31&band_rank=32&Refer=top) 80258
 1. [齐耶赫超远吊射](https://s.weibo.com/weibo?q=%23%E9%BD%90%E8%80%B6%E8%B5%AB%E8%B6%85%E8%BF%9C%E5%90%8A%E5%B0%84%23&t=31&band_rank=47&Refer=top) 75369
 1. [小猫咪洗澡有多委屈](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8C%AB%E5%92%AA%E6%B4%97%E6%BE%A1%E6%9C%89%E5%A4%9A%E5%A7%94%E5%B1%88%23&t=31&band_rank=48&Refer=top) 72810
