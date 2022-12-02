@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-12-02 18:12:49.479817 
+最后更新时间 2022-12-02 18:30:55.003693 
 1. [江泽民同志遗体由专机敬移北京](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E6%B3%BD%E6%B0%91%E5%90%8C%E5%BF%97%E9%81%97%E4%BD%93%E7%94%B1%E4%B8%93%E6%9C%BA%E6%95%AC%E7%A7%BB%E5%8C%97%E4%BA%AC%23&t=31&band_rank=1&Refer=top) 1731359
 1. [联合国安理会就江泽民逝世举行默哀仪式](https://s.weibo.com/weibo?q=%23%E8%81%94%E5%90%88%E5%9B%BD%E5%AE%89%E7%90%86%E4%BC%9A%E5%B0%B1%E6%B1%9F%E6%B3%BD%E6%B0%91%E9%80%9D%E4%B8%96%E4%B8%BE%E8%A1%8C%E9%BB%98%E5%93%80%E4%BB%AA%E5%BC%8F%23&t=31&band_rank=2&Refer=top) 1721297
 1. [世界首条高寒地区高铁10岁了](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E9%A6%96%E6%9D%A1%E9%AB%98%E5%AF%92%E5%9C%B0%E5%8C%BA%E9%AB%98%E9%93%8110%E5%B2%81%E4%BA%86%23&t=31&band_rank=3&Refer=top) 1704734
@@ -136,27 +136,29 @@
 1. [混阳人群复核为阴性隔离时间怎么定](https://s.weibo.com/weibo?q=%23%E6%B7%B7%E9%98%B3%E4%BA%BA%E7%BE%A4%E5%A4%8D%E6%A0%B8%E4%B8%BA%E9%98%B4%E6%80%A7%E9%9A%94%E7%A6%BB%E6%97%B6%E9%97%B4%E6%80%8E%E4%B9%88%E5%AE%9A%23&t=31&band_rank=50&Refer=top) 731704
 1. [考研没延期](https://s.weibo.com/weibo?q=%23%E8%80%83%E7%A0%94%E6%B2%A1%E5%BB%B6%E6%9C%9F%23&t=31&band_rank=10&Refer=top) 724560
 1. [夫妻间经常谩骂侮辱也算家暴](https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E9%97%B4%E7%BB%8F%E5%B8%B8%E8%B0%A9%E9%AA%82%E4%BE%AE%E8%BE%B1%E4%B9%9F%E7%AE%97%E5%AE%B6%E6%9A%B4%23&t=31&band_rank=32&Refer=top) 717686
+1. [核酸检测乱象耗的是国库伤的是民心](https://s.weibo.com/weibo?q=%23%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E4%B9%B1%E8%B1%A1%E8%80%97%E7%9A%84%E6%98%AF%E5%9B%BD%E5%BA%93%E4%BC%A4%E7%9A%84%E6%98%AF%E6%B0%91%E5%BF%83%23&t=31&band_rank=39&Refer=top) 713865
 1. [黄健翔不敢嘲笑日本队痴人说梦了](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%81%A5%E7%BF%94%E4%B8%8D%E6%95%A2%E5%98%B2%E7%AC%91%E6%97%A5%E6%9C%AC%E9%98%9F%E7%97%B4%E4%BA%BA%E8%AF%B4%E6%A2%A6%E4%BA%86%23&t=31&band_rank=29&Refer=top) 705621
 1. [2023年度流行色](https://s.weibo.com/weibo?q=%232023%E5%B9%B4%E5%BA%A6%E6%B5%81%E8%A1%8C%E8%89%B2%23&t=31&band_rank=41&Refer=top) 698190
 1. [电商平台发布3600个残疾人岗位](https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%95%86%E5%B9%B3%E5%8F%B0%E5%8F%91%E5%B8%833600%E4%B8%AA%E6%AE%8B%E7%96%BE%E4%BA%BA%E5%B2%97%E4%BD%8D%23&t=31&band_rank=41&Refer=top) 697561
 1. [特斯拉Semi电动卡车正式交付](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89Semi%E7%94%B5%E5%8A%A8%E5%8D%A1%E8%BD%A6%E6%AD%A3%E5%BC%8F%E4%BA%A4%E4%BB%98%23&t=31&band_rank=46&Refer=top) 697118
 1. [女子在鹤岗花4万买房创业亏10多万](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9C%A8%E9%B9%A4%E5%B2%97%E8%8A%B14%E4%B8%87%E4%B9%B0%E6%88%BF%E5%88%9B%E4%B8%9A%E4%BA%8F10%E5%A4%9A%E4%B8%87%23&t=31&band_rank=30&Refer=top) 696676
 1. [国务院联防联控机制专家回应热点](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%8A%A1%E9%99%A2%E8%81%94%E9%98%B2%E8%81%94%E6%8E%A7%E6%9C%BA%E5%88%B6%E4%B8%93%E5%AE%B6%E5%9B%9E%E5%BA%94%E7%83%AD%E7%82%B9%23&t=31&band_rank=30&Refer=top) 691716
-1. [核酸检测乱象耗的是国库伤的是民心](https://s.weibo.com/weibo?q=%23%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E4%B9%B1%E8%B1%A1%E8%80%97%E7%9A%84%E6%98%AF%E5%9B%BD%E5%BA%93%E4%BC%A4%E7%9A%84%E6%98%AF%E6%B0%91%E5%BF%83%23&t=31&band_rank=39&Refer=top) 691288
 1. [卢卡库浪费必进球帽子戏法](https://s.weibo.com/weibo?q=%23%E5%8D%A2%E5%8D%A1%E5%BA%93%E6%B5%AA%E8%B4%B9%E5%BF%85%E8%BF%9B%E7%90%83%E5%B8%BD%E5%AD%90%E6%88%8F%E6%B3%95%23&t=31&band_rank=27&Refer=top) 686694
 1. [西班牙将对阵摩洛哥](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E7%8F%AD%E7%89%99%E5%B0%86%E5%AF%B9%E9%98%B5%E6%91%A9%E6%B4%9B%E5%93%A5%23&t=31&band_rank=33&Refer=top) 686405
 1. [民警一路狂奔保住760万](https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E4%B8%80%E8%B7%AF%E7%8B%82%E5%A5%94%E4%BF%9D%E4%BD%8F760%E4%B8%87%23&t=31&band_rank=38&Refer=top) 684951
 1. [特等功臣女扮男装参加八路军](https://s.weibo.com/weibo?q=%23%E7%89%B9%E7%AD%89%E5%8A%9F%E8%87%A3%E5%A5%B3%E6%89%AE%E7%94%B7%E8%A3%85%E5%8F%82%E5%8A%A0%E5%85%AB%E8%B7%AF%E5%86%9B%23&t=31&band_rank=49&Refer=top) 682878
+1. [科学家发现管不住嘴神经元](https://s.weibo.com/weibo?q=%23%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%8F%91%E7%8E%B0%E7%AE%A1%E4%B8%8D%E4%BD%8F%E5%98%B4%E7%A5%9E%E7%BB%8F%E5%85%83%23&t=31&band_rank=46&Refer=top) 675590
 1. [韩媒抱怨VAR不帮韩国](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%AA%92%E6%8A%B1%E6%80%A8VAR%E4%B8%8D%E5%B8%AE%E9%9F%A9%E5%9B%BD%23&t=31&band_rank=50&Refer=top) 675123
 1. [西湖冬日限定雪景](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E6%B9%96%E5%86%AC%E6%97%A5%E9%99%90%E5%AE%9A%E9%9B%AA%E6%99%AF%23&t=31&band_rank=49&Refer=top) 674558
 1. [90后男子待业5年欠30万贷款](https://s.weibo.com/weibo?q=%2390%E5%90%8E%E7%94%B7%E5%AD%90%E5%BE%85%E4%B8%9A5%E5%B9%B4%E6%AC%A030%E4%B8%87%E8%B4%B7%E6%AC%BE%23&t=31&band_rank=31&Refer=top) 674133
+1. [27人因考试买卖答案被判刑](https://s.weibo.com/weibo?q=%2327%E4%BA%BA%E5%9B%A0%E8%80%83%E8%AF%95%E4%B9%B0%E5%8D%96%E7%AD%94%E6%A1%88%E8%A2%AB%E5%88%A4%E5%88%91%23&t=31&band_rank=43&Refer=top) 674068
 1. [死亡之组 刺激](https://s.weibo.com/weibo?q=%E6%AD%BB%E4%BA%A1%E4%B9%8B%E7%BB%84%20%E5%88%BA%E6%BF%80&t=31&band_rank=34&Refer=top) 667380
 1. [德布劳内 遗憾](https://s.weibo.com/weibo?q=%E5%BE%B7%E5%B8%83%E5%8A%B3%E5%86%85%20%E9%81%97%E6%86%BE&t=31&band_rank=49&Refer=top) 666251
-1. [科学家发现管不住嘴神经元](https://s.weibo.com/weibo?q=%23%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%8F%91%E7%8E%B0%E7%AE%A1%E4%B8%8D%E4%BD%8F%E5%98%B4%E7%A5%9E%E7%BB%8F%E5%85%83%23&t=31&band_rank=46&Refer=top) 654642
+1. [江泽民伟大光辉的一生](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E6%B3%BD%E6%B0%91%E4%BC%9F%E5%A4%A7%E5%85%89%E8%BE%89%E7%9A%84%E4%B8%80%E7%94%9F%23&t=31&band_rank=11&Refer=top) 665378
 1. [300元衣服老人穿28年依旧如新](https://s.weibo.com/weibo?q=%23300%E5%85%83%E8%A1%A3%E6%9C%8D%E8%80%81%E4%BA%BA%E7%A9%BF28%E5%B9%B4%E4%BE%9D%E6%97%A7%E5%A6%82%E6%96%B0%23&t=31&band_rank=46&Refer=top) 650981
 1. [卢卡库](https://s.weibo.com/weibo?q=%E5%8D%A2%E5%8D%A1%E5%BA%93&t=31&band_rank=19&Refer=top) 649848
 1. [郑州快递派送正逐步恢复](https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E5%BF%AB%E9%80%92%E6%B4%BE%E9%80%81%E6%AD%A3%E9%80%90%E6%AD%A5%E6%81%A2%E5%A4%8D%23&t=31&band_rank=29&Refer=top) 645910
-1. [27人因考试买卖答案被判刑](https://s.weibo.com/weibo?q=%2327%E4%BA%BA%E5%9B%A0%E8%80%83%E8%AF%95%E4%B9%B0%E5%8D%96%E7%AD%94%E6%A1%88%E8%A2%AB%E5%88%A4%E5%88%91%23&t=31&band_rank=43&Refer=top) 641846
+1. [广州普通门急诊凭绿码就医](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E6%99%AE%E9%80%9A%E9%97%A8%E6%80%A5%E8%AF%8A%E5%87%AD%E7%BB%BF%E7%A0%81%E5%B0%B1%E5%8C%BB%23&t=31&band_rank=27&Refer=top) 639152
 1. [95后支教老师将后进班变成年级第一](https://s.weibo.com/weibo?q=%2395%E5%90%8E%E6%94%AF%E6%95%99%E8%80%81%E5%B8%88%E5%B0%86%E5%90%8E%E8%BF%9B%E7%8F%AD%E5%8F%98%E6%88%90%E5%B9%B4%E7%BA%A7%E7%AC%AC%E4%B8%80%23&t=31&band_rank=28&Refer=top) 637738
 1. [驻日美军F35战机跑道上机头砸向地面](https://s.weibo.com/weibo?q=%23%E9%A9%BB%E6%97%A5%E7%BE%8E%E5%86%9BF35%E6%88%98%E6%9C%BA%E8%B7%91%E9%81%93%E4%B8%8A%E6%9C%BA%E5%A4%B4%E7%A0%B8%E5%90%91%E5%9C%B0%E9%9D%A2%23&t=31&band_rank=50&Refer=top) 634555
 1. [重庆无疫小区实行常态化防控](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E6%97%A0%E7%96%AB%E5%B0%8F%E5%8C%BA%E5%AE%9E%E8%A1%8C%E5%B8%B8%E6%80%81%E5%8C%96%E9%98%B2%E6%8E%A7%23&t=31&band_rank=41&Refer=top) 632731
@@ -167,19 +169,20 @@
 1. [老板娘用玩具留住走失男孩后报警](https://s.weibo.com/weibo?q=%23%E8%80%81%E6%9D%BF%E5%A8%98%E7%94%A8%E7%8E%A9%E5%85%B7%E7%95%99%E4%BD%8F%E8%B5%B0%E5%A4%B1%E7%94%B7%E5%AD%A9%E5%90%8E%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=46&Refer=top) 609159
 1. [加拿大1比2摩洛哥](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%8B%BF%E5%A4%A71%E6%AF%942%E6%91%A9%E6%B4%9B%E5%93%A5%23&t=31&band_rank=29&Refer=top) 593203
 1. [韩乔生一首回家送给德国](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E4%B9%94%E7%94%9F%E4%B8%80%E9%A6%96%E5%9B%9E%E5%AE%B6%E9%80%81%E7%BB%99%E5%BE%B7%E5%9B%BD%23&t=31&band_rank=40&Refer=top) 590420
+1. [丈夫捐器官3年后妻子获优先移植](https://s.weibo.com/weibo?q=%23%E4%B8%88%E5%A4%AB%E6%8D%90%E5%99%A8%E5%AE%983%E5%B9%B4%E5%90%8E%E5%A6%BB%E5%AD%90%E8%8E%B7%E4%BC%98%E5%85%88%E7%A7%BB%E6%A4%8D%23&t=31&band_rank=47&Refer=top) 589672
 1. [这些药网络禁售](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BA%9B%E8%8D%AF%E7%BD%91%E7%BB%9C%E7%A6%81%E5%94%AE%23&t=31&band_rank=41&Refer=top) 585571
 1. [摩洛哥小组第一晋级](https://s.weibo.com/weibo?q=%23%E6%91%A9%E6%B4%9B%E5%93%A5%E5%B0%8F%E7%BB%84%E7%AC%AC%E4%B8%80%E6%99%8B%E7%BA%A7%23&t=31&band_rank=26&Refer=top) 583227
 1. [广州回归日常](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%9B%9E%E5%BD%92%E6%97%A5%E5%B8%B8%23&t=31&band_rank=26&Refer=top) 572516
-1. [阳性居家隔离操作手册](https://s.weibo.com/weibo?q=%23%E9%98%B3%E6%80%A7%E5%B1%85%E5%AE%B6%E9%9A%94%E7%A6%BB%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8C%23&t=31&band_rank=48&Refer=top) 570731
+1. [阳性居家隔离操作手册](https://s.weibo.com/weibo?q=%23%E9%98%B3%E6%80%A7%E5%B1%85%E5%AE%B6%E9%9A%94%E7%A6%BB%E6%93%8D%E4%BD%9C%E6%89%8B%E5%86%8C%23&t=31&band_rank=48&Refer=top) 571554
 1. [流浪老人树下发抖女子买被子相送](https://s.weibo.com/weibo?q=%23%E6%B5%81%E6%B5%AA%E8%80%81%E4%BA%BA%E6%A0%91%E4%B8%8B%E5%8F%91%E6%8A%96%E5%A5%B3%E5%AD%90%E4%B9%B0%E8%A2%AB%E5%AD%90%E7%9B%B8%E9%80%81%23&t=31&band_rank=37&Refer=top) 566193
 1. [克罗地亚点球被取消](https://s.weibo.com/weibo?q=%23%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%E7%82%B9%E7%90%83%E8%A2%AB%E5%8F%96%E6%B6%88%23&t=31&band_rank=6&Refer=top) 563027
 1. [阿扎尔](https://s.weibo.com/weibo?q=%E9%98%BF%E6%89%8E%E5%B0%94&t=31&band_rank=47&Refer=top) 561217
 1. [国美电器已被申请破产清算](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E7%BE%8E%E7%94%B5%E5%99%A8%E5%B7%B2%E8%A2%AB%E7%94%B3%E8%AF%B7%E7%A0%B4%E4%BA%A7%E6%B8%85%E7%AE%97%23&t=31&band_rank=16&Refer=top) 551138
-1. [广州普通门急诊凭绿码就医](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E6%99%AE%E9%80%9A%E9%97%A8%E6%80%A5%E8%AF%8A%E5%87%AD%E7%BB%BF%E7%A0%81%E5%B0%B1%E5%8C%BB%23&t=31&band_rank=27&Refer=top) 549098
 1. [商业养老金与个人养老金有何不同](https://s.weibo.com/weibo?q=%23%E5%95%86%E4%B8%9A%E5%85%BB%E8%80%81%E9%87%91%E4%B8%8E%E4%B8%AA%E4%BA%BA%E5%85%BB%E8%80%81%E9%87%91%E6%9C%89%E4%BD%95%E4%B8%8D%E5%90%8C%23&t=31&band_rank=43&Refer=top) 539357
 1. [白岩松说C罗不该和B费争进球](https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%B2%A9%E6%9D%BE%E8%AF%B4C%E7%BD%97%E4%B8%8D%E8%AF%A5%E5%92%8CB%E8%B4%B9%E4%BA%89%E8%BF%9B%E7%90%83%23&t=31&band_rank=23&Refer=top) 537899
-1. [警方回应男子拼接同学不雅照造谣一事](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E7%94%B7%E5%AD%90%E6%8B%BC%E6%8E%A5%E5%90%8C%E5%AD%A6%E4%B8%8D%E9%9B%85%E7%85%A7%E9%80%A0%E8%B0%A3%E4%B8%80%E4%BA%8B%23&t=31&band_rank=49&Refer=top) 534988
+1. [警方回应男子拼接同学不雅照造谣一事](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E7%94%B7%E5%AD%90%E6%8B%BC%E6%8E%A5%E5%90%8C%E5%AD%A6%E4%B8%8D%E9%9B%85%E7%85%A7%E9%80%A0%E8%B0%A3%E4%B8%80%E4%BA%8B%23&t=31&band_rank=49&Refer=top) 535856
 1. [1分钟学会3种倒车入库方法](https://s.weibo.com/weibo?q=%231%E5%88%86%E9%92%9F%E5%AD%A6%E4%BC%9A3%E7%A7%8D%E5%80%92%E8%BD%A6%E5%85%A5%E5%BA%93%E6%96%B9%E6%B3%95%23&t=31&band_rank=47&Refer=top) 533928
+1. [北京公交地铁不得拒绝无48小时核酸阴性乘客](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%85%AC%E4%BA%A4%E5%9C%B0%E9%93%81%E4%B8%8D%E5%BE%97%E6%8B%92%E7%BB%9D%E6%97%A048%E5%B0%8F%E6%97%B6%E6%A0%B8%E9%85%B8%E9%98%B4%E6%80%A7%E4%B9%98%E5%AE%A2%23&t=31&band_rank=31&Refer=top) 530857
 1. [德国队死磕哥斯达黎加](https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%9B%BD%E9%98%9F%E6%AD%BB%E7%A3%95%E5%93%A5%E6%96%AF%E8%BE%BE%E9%BB%8E%E5%8A%A0%23&t=31&band_rank=8&Refer=top) 530196
 1. [寻找闪光的你](https://s.weibo.com/weibo?q=%E5%AF%BB%E6%89%BE%E9%97%AA%E5%85%89%E7%9A%84%E4%BD%A0&t=31&band_rank=44&Refer=top) 526796
 1. [比利时黄金一代谢幕](https://s.weibo.com/weibo?q=%23%E6%AF%94%E5%88%A9%E6%97%B6%E9%BB%84%E9%87%91%E4%B8%80%E4%BB%A3%E8%B0%A2%E5%B9%95%23&t=31&band_rank=32&Refer=top) 522234
@@ -198,7 +201,6 @@
 1. [超萌小松鼠采食柿子全程被偷拍](https://s.weibo.com/weibo?q=%23%E8%B6%85%E8%90%8C%E5%B0%8F%E6%9D%BE%E9%BC%A0%E9%87%87%E9%A3%9F%E6%9F%BF%E5%AD%90%E5%85%A8%E7%A8%8B%E8%A2%AB%E5%81%B7%E6%8B%8D%23&t=31&band_rank=43&Refer=top) 447976
 1. [男子2天帮残疾小伙卖出万斤大葱](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%902%E5%A4%A9%E5%B8%AE%E6%AE%8B%E7%96%BE%E5%B0%8F%E4%BC%99%E5%8D%96%E5%87%BA%E4%B8%87%E6%96%A4%E5%A4%A7%E8%91%B1%23&t=31&band_rank=50&Refer=top) 439711
 1. [女子拒退35万彩礼被列为失信人](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%8B%92%E9%80%8035%E4%B8%87%E5%BD%A9%E7%A4%BC%E8%A2%AB%E5%88%97%E4%B8%BA%E5%A4%B1%E4%BF%A1%E4%BA%BA%23&t=31&band_rank=46&Refer=top) 433435
-1. [丈夫捐器官3年后妻子获优先移植](https://s.weibo.com/weibo?q=%23%E4%B8%88%E5%A4%AB%E6%8D%90%E5%99%A8%E5%AE%983%E5%B9%B4%E5%90%8E%E5%A6%BB%E5%AD%90%E8%8E%B7%E4%BC%98%E5%85%88%E7%A7%BB%E6%A4%8D%23&t=31&band_rank=47&Refer=top) 421645
 1. [外交部驳斥美方涉华言论](https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E9%A9%B3%E6%96%A5%E7%BE%8E%E6%96%B9%E6%B6%89%E5%8D%8E%E8%A8%80%E8%AE%BA%23&t=31&band_rank=48&Refer=top) 418173
 1. [苏亚雷斯拒绝为2010年手球道歉](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E4%BA%9A%E9%9B%B7%E6%96%AF%E6%8B%92%E7%BB%9D%E4%B8%BA2010%E5%B9%B4%E6%89%8B%E7%90%83%E9%81%93%E6%AD%89%23&t=31&band_rank=17&Refer=top) 417873
 1. [弗利克说不担心上届世界杯历史重演](https://s.weibo.com/weibo?q=%23%E5%BC%97%E5%88%A9%E5%85%8B%E8%AF%B4%E4%B8%8D%E6%8B%85%E5%BF%83%E4%B8%8A%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8E%86%E5%8F%B2%E9%87%8D%E6%BC%94%23&t=31&band_rank=50&Refer=top) 409069
