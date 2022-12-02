@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-12-02 16:14:19.153964 
+最后更新时间 2022-12-02 16:32:21.826555 
 1. [江泽民同志遗体由专机敬移北京](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E6%B3%BD%E6%B0%91%E5%90%8C%E5%BF%97%E9%81%97%E4%BD%93%E7%94%B1%E4%B8%93%E6%9C%BA%E6%95%AC%E7%A7%BB%E5%8C%97%E4%BA%AC%23&t=31&band_rank=1&Refer=top) 1731359
 1. [联合国安理会就江泽民逝世举行默哀仪式](https://s.weibo.com/weibo?q=%23%E8%81%94%E5%90%88%E5%9B%BD%E5%AE%89%E7%90%86%E4%BC%9A%E5%B0%B1%E6%B1%9F%E6%B3%BD%E6%B0%91%E9%80%9D%E4%B8%96%E4%B8%BE%E8%A1%8C%E9%BB%98%E5%93%80%E4%BB%AA%E5%BC%8F%23&t=31&band_rank=2&Refer=top) 1721297
 1. [世界首条高寒地区高铁10岁了](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E9%A6%96%E6%9D%A1%E9%AB%98%E5%AF%92%E5%9C%B0%E5%8C%BA%E9%AB%98%E9%93%8110%E5%B2%81%E4%BA%86%23&t=31&band_rank=3&Refer=top) 1704734
@@ -177,14 +177,18 @@
 1. [克罗地亚vs比利时](https://s.weibo.com/weibo?q=%23%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9Avs%E6%AF%94%E5%88%A9%E6%97%B6%23&t=31&band_rank=18&Refer=top) 509276
 1. [苹果AR头显系统名改为xrOS](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9CAR%E5%A4%B4%E6%98%BE%E7%B3%BB%E7%BB%9F%E5%90%8D%E6%94%B9%E4%B8%BAxrOS%23&t=31&band_rank=50&Refer=top) 504441
 1. [黄健翔说VAR毁了足球](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%81%A5%E7%BF%94%E8%AF%B4VAR%E6%AF%81%E4%BA%86%E8%B6%B3%E7%90%83%23&t=31&band_rank=28&Refer=top) 497795
+1. [92号汽油或将重回7元时代](https://s.weibo.com/weibo?q=%2392%E5%8F%B7%E6%B1%BD%E6%B2%B9%E6%88%96%E5%B0%86%E9%87%8D%E5%9B%9E7%E5%85%83%E6%97%B6%E4%BB%A3%23&t=31&band_rank=22&Refer=top) 487927
 1. [消防员跳入冰窟窿救起男孩](https://s.weibo.com/weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%98%E8%B7%B3%E5%85%A5%E5%86%B0%E7%AA%9F%E7%AA%BF%E6%95%91%E8%B5%B7%E7%94%B7%E5%AD%A9%23&t=31&band_rank=50&Refer=top) 485776
 1. [这猫长在我知识盲区了](https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%8C%AB%E9%95%BF%E5%9C%A8%E6%88%91%E7%9F%A5%E8%AF%86%E7%9B%B2%E5%8C%BA%E4%BA%86%23&t=31&band_rank=33&Refer=top) 485551
+1. [周琦被入室盗窃](https://s.weibo.com/weibo?q=%23%E5%91%A8%E7%90%A6%E8%A2%AB%E5%85%A5%E5%AE%A4%E7%9B%97%E7%AA%83%23&t=31&band_rank=32&Refer=top) 434328
 1. [女子拒退35万彩礼被列为失信人](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%8B%92%E9%80%8035%E4%B8%87%E5%BD%A9%E7%A4%BC%E8%A2%AB%E5%88%97%E4%B8%BA%E5%A4%B1%E4%BF%A1%E4%BA%BA%23&t=31&band_rank=46&Refer=top) 433435
+1. [天津地铁取消72小时核酸查验](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E5%9C%B0%E9%93%81%E5%8F%96%E6%B6%8872%E5%B0%8F%E6%97%B6%E6%A0%B8%E9%85%B8%E6%9F%A5%E9%AA%8C%23&t=31&band_rank=34&Refer=top) 428828
 1. [苏亚雷斯拒绝为2010年手球道歉](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E4%BA%9A%E9%9B%B7%E6%96%AF%E6%8B%92%E7%BB%9D%E4%B8%BA2010%E5%B9%B4%E6%89%8B%E7%90%83%E9%81%93%E6%AD%89%23&t=31&band_rank=17&Refer=top) 417873
 1. [弗利克说不担心上届世界杯历史重演](https://s.weibo.com/weibo?q=%23%E5%BC%97%E5%88%A9%E5%85%8B%E8%AF%B4%E4%B8%8D%E6%8B%85%E5%BF%83%E4%B8%8A%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8E%86%E5%8F%B2%E9%87%8D%E6%BC%94%23&t=31&band_rank=50&Refer=top) 409069
 1. [卢卡库中柱](https://s.weibo.com/weibo?q=%23%E5%8D%A2%E5%8D%A1%E5%BA%93%E4%B8%AD%E6%9F%B1%23&t=31&band_rank=45&Refer=top) 408040
 1. [马丁内斯卸任比利时主帅](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%B8%81%E5%86%85%E6%96%AF%E5%8D%B8%E4%BB%BB%E6%AF%94%E5%88%A9%E6%97%B6%E4%B8%BB%E5%B8%85%23&t=31&band_rank=41&Refer=top) 400930
 1. [日本半场0比1西班牙](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8D%8A%E5%9C%BA0%E6%AF%941%E8%A5%BF%E7%8F%AD%E7%89%99%23&t=31&band_rank=32&Refer=top) 399376
+1. [2023年度流行色](https://s.weibo.com/weibo?q=%232023%E5%B9%B4%E5%BA%A6%E6%B5%81%E8%A1%8C%E8%89%B2%23&t=31&band_rank=41&Refer=top) 388877
 1. [加拿大vs摩洛哥](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%8B%BF%E5%A4%A7vs%E6%91%A9%E6%B4%9B%E5%93%A5%23&t=31&band_rank=27&Refer=top) 388638
 1. [哥斯达黎加vs德国](https://s.weibo.com/weibo?q=%23%E5%93%A5%E6%96%AF%E8%BE%BE%E9%BB%8E%E5%8A%A0vs%E5%BE%B7%E5%9B%BD%23&t=31&band_rank=49&Refer=top) 276189
 1. [哈弗茨替补破门](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%BC%97%E8%8C%A8%E6%9B%BF%E8%A1%A5%E7%A0%B4%E9%97%A8%23&t=31&band_rank=31&Refer=top) 263422
