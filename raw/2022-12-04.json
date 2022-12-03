@@ -1,7 +1,11 @@
 {
   "江泽民同志生平": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%B1%9F%E6%B3%BD%E6%B0%91%E5%90%8C%E5%BF%97%E7%94%9F%E5%B9%B3%23&t=31&band_rank=1&Refer=top",
-    "hot": 649486
+    "hot": 649817
+  },
+  "荷兰3比1美国": {
+    "url": "https://s.weibo.com/weibo?q=%23%E8%8D%B7%E5%85%B03%E6%AF%941%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=2&Refer=top",
+    "hot": 649607
   },
   "荷兰vs美国": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%8D%B7%E5%85%B0vs%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=2&Refer=top",
@@ -53,7 +57,7 @@
   },
   "荷兰球衣": {
     "url": "https://s.weibo.com/weibo?q=%E8%8D%B7%E5%85%B0%E7%90%83%E8%A1%A3&t=31&band_rank=14&Refer=top",
-    "hot": 640609
+    "hot": 641003
   },
   "离婚冷静期后遭丈夫殴打女子已离婚": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%A6%BB%E5%A9%9A%E5%86%B7%E9%9D%99%E6%9C%9F%E5%90%8E%E9%81%AD%E4%B8%88%E5%A4%AB%E6%AE%B4%E6%89%93%E5%A5%B3%E5%AD%90%E5%B7%B2%E7%A6%BB%E5%A9%9A%23&t=31&band_rank=15&Refer=top",
@@ -90,6 +94,10 @@
   "1岁半姐姐为睡着妹妹轻轻盖好被子": {
     "url": "https://s.weibo.com/weibo?q=%231%E5%B2%81%E5%8D%8A%E5%A7%90%E5%A7%90%E4%B8%BA%E7%9D%A1%E7%9D%80%E5%A6%B9%E5%A6%B9%E8%BD%BB%E8%BD%BB%E7%9B%96%E5%A5%BD%E8%A2%AB%E5%AD%90%23&t=31&band_rank=23&Refer=top",
     "hot": 634028
+  },
+  "9至45岁女性可接种HPV九价疫苗": {
+    "url": "https://s.weibo.com/weibo?q=%239%E8%87%B345%E5%B2%81%E5%A5%B3%E6%80%A7%E5%8F%AF%E6%8E%A5%E7%A7%8DHPV%E4%B9%9D%E4%BB%B7%E7%96%AB%E8%8B%97%23&t=31&band_rank=25&Refer=top",
+    "hot": 633951
   },
   "大妈微信存400万手机丢失没设密码": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%A6%88%E5%BE%AE%E4%BF%A1%E5%AD%98400%E4%B8%87%E6%89%8B%E6%9C%BA%E4%B8%A2%E5%A4%B1%E6%B2%A1%E8%AE%BE%E5%AF%86%E7%A0%81%23&t=31&band_rank=24&Refer=top",
@@ -199,21 +207,33 @@
     "url": "https://s.weibo.com/weibo?q=%E8%8D%B7%E5%85%B0%20%E9%98%B2%E5%AE%88%E5%8F%8D%E5%87%BB&t=31&band_rank=50&Refer=top",
     "hot": 614987
   },
-  "9至45岁女性可接种HPV九价疫苗": {
-    "url": "https://s.weibo.com/weibo?q=%239%E8%87%B345%E5%B2%81%E5%A5%B3%E6%80%A7%E5%8F%AF%E6%8E%A5%E7%A7%8DHPV%E4%B9%9D%E4%BB%B7%E7%96%AB%E8%8B%97%23&t=31&band_rank=25&Refer=top",
-    "hot": 519147
+  "阿根廷vs澳大利亚": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7vs%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%23&t=31&band_rank=15&Refer=top",
+    "hot": 609293
   },
   "美国 进攻": {
     "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%20%E8%BF%9B%E6%94%BB&t=31&band_rank=30&Refer=top",
-    "hot": 496940
+    "hot": 606227
+  },
+  "荷兰晋级8强": {
+    "url": "https://s.weibo.com/weibo?q=%23%E8%8D%B7%E5%85%B0%E6%99%8B%E7%BA%A78%E5%BC%BA%23&t=31&band_rank=23&Refer=top",
+    "hot": 584063
+  },
+  "邓弗里斯破门": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%82%93%E5%BC%97%E9%87%8C%E6%96%AF%E7%A0%B4%E9%97%A8%23&t=31&band_rank=42&Refer=top",
+    "hot": 565898
+  },
+  "荷兰晋级世界杯8强": {
+    "url": "https://s.weibo.com/weibo?q=%23%E8%8D%B7%E5%85%B0%E6%99%8B%E7%BA%A7%E4%B8%96%E7%95%8C%E6%9D%AF8%E5%BC%BA%23&t=31&band_rank=31&Refer=top",
+    "hot": 559181
+  },
+  "美国进球": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%BF%9B%E7%90%83%23&t=31&band_rank=42&Refer=top",
+    "hot": 526849
   },
   "邓弗里斯助攻梅开二度": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%82%93%E5%BC%97%E9%87%8C%E6%96%AF%E5%8A%A9%E6%94%BB%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6%23&t=31&band_rank=45&Refer=top",
     "hot": 479151
-  },
-  "邓弗里斯破门": {
-    "url": "https://s.weibo.com/weibo?q=%23%E9%82%93%E5%BC%97%E9%87%8C%E6%96%AF%E7%A0%B4%E9%97%A8%23&t=31&band_rank=42&Refer=top",
-    "hot": 461628
   },
   "2022王者世冠KIC": {
     "url": "https://s.weibo.com/weibo?q=2022%E7%8E%8B%E8%80%85%E4%B8%96%E5%86%A0KIC&t=31&band_rank=50&Refer=top",
