@@ -291,6 +291,10 @@
     "url": "https://s.weibo.com/weibo?q=%E8%8E%B1%E4%B8%87%E7%82%B9%E7%90%83%E7%A0%B4%E9%97%A8&t=31&band_rank=32&Refer=top",
     "hot": 81017
   },
+  "英格兰半场2比0塞内加尔": {
+    "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E6%A0%BC%E5%85%B0%E5%8D%8A%E5%9C%BA2%E6%AF%940%E5%A1%9E%E5%86%85%E5%8A%A0%E5%B0%94%23&t=31&band_rank=31&Refer=top",
+    "hot": 63267
+  },
   "英格兰vs塞内加尔首发": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E6%A0%BC%E5%85%B0vs%E5%A1%9E%E5%86%85%E5%8A%A0%E5%B0%94%E9%A6%96%E5%8F%91%23&t=31&band_rank=31&Refer=top",
     "hot": 63210
@@ -302,9 +306,5 @@
   "斯特林缺阵淘汰赛首战": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%96%AF%E7%89%B9%E6%9E%97%E7%BC%BA%E9%98%B5%E6%B7%98%E6%B1%B0%E8%B5%9B%E9%A6%96%E6%88%98%23&t=31&band_rank=34&Refer=top",
     "hot": 42455
-  },
-  "英格兰半场2比0塞内加尔": {
-    "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E6%A0%BC%E5%85%B0%E5%8D%8A%E5%9C%BA2%E6%AF%940%E5%A1%9E%E5%86%85%E5%8A%A0%E5%B0%94%23&t=31&band_rank=31&Refer=top",
-    "hot": 28680
   }
 }
