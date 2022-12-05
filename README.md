@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-12-06 03:49:01.569337 
+最后更新时间 2022-12-06 04:11:55.852240 
 1. [向江泽民同志作最后的诀别](https://s.weibo.com/weibo?q=%23%E5%90%91%E6%B1%9F%E6%B3%BD%E6%B0%91%E5%90%8C%E5%BF%97%E4%BD%9C%E6%9C%80%E5%90%8E%E7%9A%84%E8%AF%80%E5%88%AB%23&t=31&band_rank=1&Refer=top) 2264882
 1. [江泽民同志遗体在北京火化](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E6%B3%BD%E6%B0%91%E5%90%8C%E5%BF%97%E9%81%97%E4%BD%93%E5%9C%A8%E5%8C%97%E4%BA%AC%E7%81%AB%E5%8C%96%23&t=31&band_rank=2&Refer=top) 858912
 1. [全国多地优化疫情防控措施](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E5%A4%9A%E5%9C%B0%E4%BC%98%E5%8C%96%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%E6%8E%AA%E6%96%BD%23&t=31&band_rank=3&Refer=top) 857347
@@ -59,26 +59,27 @@
 1. [前田大然破门](https://s.weibo.com/weibo?q=%23%E5%89%8D%E7%94%B0%E5%A4%A7%E7%84%B6%E7%A0%B4%E9%97%A8%23&t=31&band_rank=49&Refer=top) 518518
 1. [警方回应男子当街脚踢拖拽孩子](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E7%94%B7%E5%AD%90%E5%BD%93%E8%A1%97%E8%84%9A%E8%B8%A2%E6%8B%96%E6%8B%BD%E5%AD%A9%E5%AD%90%23&t=31&band_rank=50&Refer=top) 509225
 1. [克罗地亚进球](https://s.weibo.com/weibo?q=%23%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%E8%BF%9B%E7%90%83%23&t=31&band_rank=24&Refer=top) 401844
+1. [巴西vs韩国](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BFvs%E9%9F%A9%E5%9B%BD%23&t=31&band_rank=13&Refer=top) 379534
+1. [内马尔点球破门](https://s.weibo.com/weibo?q=%23%E5%86%85%E9%A9%AC%E5%B0%94%E7%82%B9%E7%90%83%E7%A0%B4%E9%97%A8%23&t=31&band_rank=6&Refer=top) 376184
+1. [韩媒称巴西人只关心决赛对手是谁](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%AA%92%E7%A7%B0%E5%B7%B4%E8%A5%BF%E4%BA%BA%E5%8F%AA%E5%85%B3%E5%BF%83%E5%86%B3%E8%B5%9B%E5%AF%B9%E6%89%8B%E6%98%AF%E8%B0%81%23&t=31&band_rank=31&Refer=top) 373896
+1. [日本四次止步世界杯16强](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%9B%9B%E6%AC%A1%E6%AD%A2%E6%AD%A5%E4%B8%96%E7%95%8C%E6%9D%AF16%E5%BC%BA%23&t=31&band_rank=46&Refer=top) 370542
+1. [日本2比4克罗地亚](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC2%E6%AF%944%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%23&t=31&band_rank=35&Refer=top) 364931
+1. [克罗地亚点球战胜日本](https://s.weibo.com/weibo?q=%23%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%E7%82%B9%E7%90%83%E6%88%98%E8%83%9C%E6%97%A5%E6%9C%AC%23&t=31&band_rank=6&Refer=top) 359484
+1. [克罗地亚门将神了](https://s.weibo.com/weibo?q=%23%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%E9%97%A8%E5%B0%86%E7%A5%9E%E4%BA%86%23&t=31&band_rank=11&Refer=top) 356239
 1. [日本克罗地亚 加时赛](https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%20%E5%8A%A0%E6%97%B6%E8%B5%9B&t=31&band_rank=8&Refer=top) 354232
 1. [格子军团](https://s.weibo.com/weibo?q=%E6%A0%BC%E5%AD%90%E5%86%9B%E5%9B%A2&t=31&band_rank=44&Refer=top) 353302
+1. [巴西半场4比0韩国](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF%E5%8D%8A%E5%9C%BA4%E6%AF%940%E9%9F%A9%E5%9B%BD%23&t=31&band_rank=13&Refer=top) 350145
 1. [佩里西奇头球破门](https://s.weibo.com/weibo?q=%23%E4%BD%A9%E9%87%8C%E8%A5%BF%E5%A5%87%E5%A4%B4%E7%90%83%E7%A0%B4%E9%97%A8%23&t=31&band_rank=32&Refer=top) 346137
-1. [韩媒称巴西人只关心决赛对手是谁](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%AA%92%E7%A7%B0%E5%B7%B4%E8%A5%BF%E4%BA%BA%E5%8F%AA%E5%85%B3%E5%BF%83%E5%86%B3%E8%B5%9B%E5%AF%B9%E6%89%8B%E6%98%AF%E8%B0%81%23&t=31&band_rank=31&Refer=top) 296916
+1. [巴西vs韩国首发](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BFvs%E9%9F%A9%E5%9B%BD%E9%A6%96%E5%8F%91%23&t=31&band_rank=31&Refer=top) 345140
+1. [加时赛之王](https://s.weibo.com/weibo?q=%E5%8A%A0%E6%97%B6%E8%B5%9B%E4%B9%8B%E7%8E%8B&t=31&band_rank=17&Refer=top) 340309
+1. [点球大战](https://s.weibo.com/weibo?q=%E7%82%B9%E7%90%83%E5%A4%A7%E6%88%98&t=31&band_rank=8&Refer=top) 320818
 1. [12月5日新闻联播](https://s.weibo.com/weibo?q=%2312%E6%9C%885%E6%97%A5%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD%23&t=31&band_rank=48&Refer=top) 285960
-1. [加时赛之王](https://s.weibo.com/weibo?q=%E5%8A%A0%E6%97%B6%E8%B5%9B%E4%B9%8B%E7%8E%8B&t=31&band_rank=17&Refer=top) 280140
-1. [点球大战](https://s.weibo.com/weibo?q=%E7%82%B9%E7%90%83%E5%A4%A7%E6%88%98&t=31&band_rank=8&Refer=top) 221922
-1. [克罗地亚晋级8强](https://s.weibo.com/weibo?q=%23%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%E6%99%8B%E7%BA%A78%E5%BC%BA%23&t=31&band_rank=10&Refer=top) 220020
+1. [克罗地亚晋级8强](https://s.weibo.com/weibo?q=%23%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%E6%99%8B%E7%BA%A78%E5%BC%BA%23&t=31&band_rank=10&Refer=top) 279589
+1. [常规时间日本1比1克罗地亚](https://s.weibo.com/weibo?q=%23%E5%B8%B8%E8%A7%84%E6%97%B6%E9%97%B4%E6%97%A5%E6%9C%AC1%E6%AF%941%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%23&t=31&band_rank=17&Refer=top) 238371
+1. [南野拓实失点](https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%87%8E%E6%8B%93%E5%AE%9E%E5%A4%B1%E7%82%B9%23&t=31&band_rank=31&Refer=top) 235074
 1. [老师撒娇说手冷萌娃放怀里暖](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E6%92%92%E5%A8%87%E8%AF%B4%E6%89%8B%E5%86%B7%E8%90%8C%E5%A8%83%E6%94%BE%E6%80%80%E9%87%8C%E6%9A%96%23&t=31&band_rank=47&Refer=top) 204823
 1. [伊东纯也停球好稳](https://s.weibo.com/weibo?q=%23%E4%BC%8A%E4%B8%9C%E7%BA%AF%E4%B9%9F%E5%81%9C%E7%90%83%E5%A5%BD%E7%A8%B3%23&t=31&band_rank=50&Refer=top) 195302
-1. [克罗地亚点球战胜日本](https://s.weibo.com/weibo?q=%23%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%E7%82%B9%E7%90%83%E6%88%98%E8%83%9C%E6%97%A5%E6%9C%AC%23&t=31&band_rank=6&Refer=top) 164739
-1. [克罗地亚门将神了](https://s.weibo.com/weibo?q=%23%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%E9%97%A8%E5%B0%86%E7%A5%9E%E4%BA%86%23&t=31&band_rank=11&Refer=top) 162806
-1. [巴西vs韩国](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BFvs%E9%9F%A9%E5%9B%BD%23&t=31&band_rank=13&Refer=top) 162155
 1. [利瓦科维奇 牛](https://s.weibo.com/weibo?q=%E5%88%A9%E7%93%A6%E7%A7%91%E7%BB%B4%E5%A5%87%20%E7%89%9B&t=31&band_rank=15&Refer=top) 161082
-1. [常规时间日本1比1克罗地亚](https://s.weibo.com/weibo?q=%23%E5%B8%B8%E8%A7%84%E6%97%B6%E9%97%B4%E6%97%A5%E6%9C%AC1%E6%AF%941%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%23&t=31&band_rank=17&Refer=top) 159983
-1. [日本2比4克罗地亚](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC2%E6%AF%944%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%23&t=31&band_rank=35&Refer=top) 114307
-1. [南野拓实失点](https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%87%8E%E6%8B%93%E5%AE%9E%E5%A4%B1%E7%82%B9%23&t=31&band_rank=31&Refer=top) 90685
-1. [巴西vs韩国首发](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BFvs%E9%9F%A9%E5%9B%BD%E9%A6%96%E5%8F%91%23&t=31&band_rank=31&Refer=top) 86955
-1. [日本四次止步世界杯16强](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%9B%9B%E6%AC%A1%E6%AD%A2%E6%AD%A5%E4%B8%96%E7%95%8C%E6%9D%AF16%E5%BC%BA%23&t=31&band_rank=46&Refer=top) 70842
-1. [内马尔点球破门](https://s.weibo.com/weibo?q=%23%E5%86%85%E9%A9%AC%E5%B0%94%E7%82%B9%E7%90%83%E7%A0%B4%E9%97%A8%23&t=31&band_rank=6&Refer=top) 55586
 <!-- END -->
 
 历史归档 [./archives](./archives)
