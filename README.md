@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-12-05 23:28:53.775424 
+最后更新时间 2022-12-05 23:39:59.092626 
 1. [江泽民同志遗体在北京火化](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E6%B3%BD%E6%B0%91%E5%90%8C%E5%BF%97%E9%81%97%E4%BD%93%E5%9C%A8%E5%8C%97%E4%BA%AC%E7%81%AB%E5%8C%96%23&t=31&band_rank=1&Refer=top) 3303366
 1. [男子称做核酸导航误入方舱被隔离5天](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%A7%B0%E5%81%9A%E6%A0%B8%E9%85%B8%E5%AF%BC%E8%88%AA%E8%AF%AF%E5%85%A5%E6%96%B9%E8%88%B1%E8%A2%AB%E9%9A%94%E7%A6%BB5%E5%A4%A9%23&t=31&band_rank=20&Refer=top) 2568752
 1. [全国多地优化疫情防控措施](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E5%A4%9A%E5%9C%B0%E4%BC%98%E5%8C%96%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%E6%8E%AA%E6%96%BD%23&t=31&band_rank=1&Refer=top) 2528390
@@ -156,12 +156,13 @@
 1. [赵继伟发博支持内马尔](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E7%BB%A7%E4%BC%9F%E5%8F%91%E5%8D%9A%E6%94%AF%E6%8C%81%E5%86%85%E9%A9%AC%E5%B0%94%23&t=31&band_rank=49&Refer=top) 671100
 1. [华大基因回应核酸检测不准被举报](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E5%A4%A7%E5%9F%BA%E5%9B%A0%E5%9B%9E%E5%BA%94%E6%A0%B8%E9%85%B8%E6%A3%80%E6%B5%8B%E4%B8%8D%E5%87%86%E8%A2%AB%E4%B8%BE%E6%8A%A5%23&t=31&band_rank=6&Refer=top) 645536
 1. [法国进球](https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E8%BF%9B%E7%90%83%23&t=31&band_rank=13&Refer=top) 629342
+1. [杭州哄抬药价最高罚款300万](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%93%84%E6%8A%AC%E8%8D%AF%E4%BB%B7%E6%9C%80%E9%AB%98%E7%BD%9A%E6%AC%BE300%E4%B8%87%23&t=31&band_rank=46&Refer=top) 626726
+1. [莫德里奇](https://s.weibo.com/weibo?q=%23%E8%8E%AB%E5%BE%B7%E9%87%8C%E5%A5%87%23&t=31&band_rank=36&Refer=top) 619130
 1. [绝美石崖冰挂演绎滴水成冰](https://s.weibo.com/weibo?q=%23%E7%BB%9D%E7%BE%8E%E7%9F%B3%E5%B4%96%E5%86%B0%E6%8C%82%E6%BC%94%E7%BB%8E%E6%BB%B4%E6%B0%B4%E6%88%90%E5%86%B0%23&t=31&band_rank=50&Refer=top) 607227
 1. [婚礼后5天发现老婆与前男友领证](https://s.weibo.com/weibo?q=%23%E5%A9%9A%E7%A4%BC%E5%90%8E5%E5%A4%A9%E5%8F%91%E7%8E%B0%E8%80%81%E5%A9%86%E4%B8%8E%E5%89%8D%E7%94%B7%E5%8F%8B%E9%A2%86%E8%AF%81%23&t=31&band_rank=11&Refer=top) 598633
-1. [杭州哄抬药价最高罚款300万](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%93%84%E6%8A%AC%E8%8D%AF%E4%BB%B7%E6%9C%80%E9%AB%98%E7%BD%9A%E6%AC%BE300%E4%B8%87%23&t=31&band_rank=46&Refer=top) 596878
-1. [莫德里奇](https://s.weibo.com/weibo?q=%23%E8%8E%AB%E5%BE%B7%E9%87%8C%E5%A5%87%23&t=31&band_rank=36&Refer=top) 595680
 1. [英格兰vs塞内加尔](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E6%A0%BC%E5%85%B0vs%E5%A1%9E%E5%86%85%E5%8A%A0%E5%B0%94%23&t=31&band_rank=34&Refer=top) 588661
 1. [人民币升破7.0关口](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E5%B8%81%E5%8D%87%E7%A0%B47.0%E5%85%B3%E5%8F%A3%23&t=31&band_rank=14&Refer=top) 585470
+1. [金铲铲](https://s.weibo.com/weibo?q=%E9%87%91%E9%93%B2%E9%93%B2&t=31&band_rank=48&Refer=top) 565273
 1. [法国vs波兰](https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BDvs%E6%B3%A2%E5%85%B0%23&t=31&band_rank=17&Refer=top) 565248
 1. [吉林失联高三女生父亲回应女儿被目击](https://s.weibo.com/weibo?q=%23%E5%90%89%E6%9E%97%E5%A4%B1%E8%81%94%E9%AB%98%E4%B8%89%E5%A5%B3%E7%94%9F%E7%88%B6%E4%BA%B2%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%84%BF%E8%A2%AB%E7%9B%AE%E5%87%BB%23&t=31&band_rank=50&Refer=top) 562304
 1. [爸爸花49元为2娃搭大棚式阳光房](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E8%8A%B149%E5%85%83%E4%B8%BA2%E5%A8%83%E6%90%AD%E5%A4%A7%E6%A3%9A%E5%BC%8F%E9%98%B3%E5%85%89%E6%88%BF%23&t=31&band_rank=16&Refer=top) 561506
@@ -173,7 +174,6 @@
 1. [男子塞招嫖卡被退伍军人一把揪住](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%A1%9E%E6%8B%9B%E5%AB%96%E5%8D%A1%E8%A2%AB%E9%80%80%E4%BC%8D%E5%86%9B%E4%BA%BA%E4%B8%80%E6%8A%8A%E6%8F%AA%E4%BD%8F%23&t=31&band_rank=12&Refer=top) 547025
 1. [马克龙预测法国3比1胜波兰](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%85%8B%E9%BE%99%E9%A2%84%E6%B5%8B%E6%B3%95%E5%9B%BD3%E6%AF%941%E8%83%9C%E6%B3%A2%E5%85%B0%23&t=31&band_rank=21&Refer=top) 543894
 1. [法国解除封印](https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E8%A7%A3%E9%99%A4%E5%B0%81%E5%8D%B0%23&t=31&band_rank=41&Refer=top) 529469
-1. [金铲铲](https://s.weibo.com/weibo?q=%E9%87%91%E9%93%B2%E9%93%B2&t=31&band_rank=48&Refer=top) 517897
 1. [江苏省考](https://s.weibo.com/weibo?q=%E6%B1%9F%E8%8B%8F%E7%9C%81%E8%80%83&t=31&band_rank=7&Refer=top) 511529
 1. [警方回应男子当街脚踢拖拽孩子](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E7%94%B7%E5%AD%90%E5%BD%93%E8%A1%97%E8%84%9A%E8%B8%A2%E6%8B%96%E6%8B%BD%E5%AD%A9%E5%AD%90%23&t=31&band_rank=49&Refer=top) 510963
 1. [山东进入公共场所不再查验健康码和核酸](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E8%BF%9B%E5%85%A5%E5%85%AC%E5%85%B1%E5%9C%BA%E6%89%80%E4%B8%8D%E5%86%8D%E6%9F%A5%E9%AA%8C%E5%81%A5%E5%BA%B7%E7%A0%81%E5%92%8C%E6%A0%B8%E9%85%B8%23&t=31&band_rank=14&Refer=top) 507625
