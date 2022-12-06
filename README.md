@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-12-07 05:10:20.807408 
+最后更新时间 2022-12-07 05:24:06.173962 
 1. [摩洛哥vs西班牙](https://s.weibo.com/weibo?q=%23%E6%91%A9%E6%B4%9B%E5%93%A5vs%E8%A5%BF%E7%8F%AD%E7%89%99%23&t=31&band_rank=1&Refer=top) 1587481
 1. [摩洛哥足球 纯粹](https://s.weibo.com/weibo?q=%E6%91%A9%E6%B4%9B%E5%93%A5%E8%B6%B3%E7%90%83%20%E7%BA%AF%E7%B2%B9&t=31&band_rank=17&Refer=top) 1318747
 1. [C罗对阵瑞士无缘首发](https://s.weibo.com/weibo?q=C%E7%BD%97%E5%AF%B9%E9%98%B5%E7%91%9E%E5%A3%AB%E6%97%A0%E7%BC%98%E9%A6%96%E5%8F%91&t=31&band_rank=14&Refer=top) 938739
@@ -22,6 +22,7 @@
 1. [摩洛哥半场0比0西班牙](https://s.weibo.com/weibo?q=%23%E6%91%A9%E6%B4%9B%E5%93%A5%E5%8D%8A%E5%9C%BA0%E6%AF%940%E8%A5%BF%E7%8F%AD%E7%89%99%23&t=31&band_rank=12&Refer=top) 589598
 1. [摩洛哥点球战胜西班牙](https://s.weibo.com/weibo?q=%23%E6%91%A9%E6%B4%9B%E5%93%A5%E7%82%B9%E7%90%83%E6%88%98%E8%83%9C%E8%A5%BF%E7%8F%AD%E7%89%99%23&t=31&band_rank=7&Refer=top) 586305
 1. [葡萄牙首发](https://s.weibo.com/weibo?q=%23%E8%91%A1%E8%90%84%E7%89%99%E9%A6%96%E5%8F%91%23&t=31&band_rank=13&Refer=top) 561390
+1. [葡萄牙6比1瑞士](https://s.weibo.com/weibo?q=%23%E8%91%A1%E8%90%84%E7%89%996%E6%AF%941%E7%91%9E%E5%A3%AB%23&t=31&band_rank=5&Refer=top) 539376
 1. [奥密克戎毒力接近季节性流感](https://s.weibo.com/weibo?q=%23%E5%A5%A5%E5%AF%86%E5%85%8B%E6%88%8E%E6%AF%92%E5%8A%9B%E6%8E%A5%E8%BF%91%E5%AD%A3%E8%8A%82%E6%80%A7%E6%B5%81%E6%84%9F%23&t=31&band_rank=2&Refer=top) 503232
 1. [加维 帅](https://s.weibo.com/weibo?q=%E5%8A%A0%E7%BB%B4%20%E5%B8%85&t=31&band_rank=4&Refer=top) 493147
 1. [葡萄牙vs瑞士](https://s.weibo.com/weibo?q=%23%E8%91%A1%E8%90%84%E7%89%99vs%E7%91%9E%E5%A3%AB%23&t=31&band_rank=11&Refer=top) 492530
@@ -47,7 +48,6 @@
 1. [大四男生晒一家三口幸福视频](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%9B%9B%E7%94%B7%E7%94%9F%E6%99%92%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E5%B9%B8%E7%A6%8F%E8%A7%86%E9%A2%91%23&t=31&band_rank=21&Refer=top) 281460
 1. [广州疫情政策调整后就诊人数并无大幅增加](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E7%96%AB%E6%83%85%E6%94%BF%E7%AD%96%E8%B0%83%E6%95%B4%E5%90%8E%E5%B0%B1%E8%AF%8A%E4%BA%BA%E6%95%B0%E5%B9%B6%E6%97%A0%E5%A4%A7%E5%B9%85%E5%A2%9E%E5%8A%A0%23&t=31&band_rank=22&Refer=top) 266097
 1. [警方通报女子遭泼墨捆绑殴打](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E9%81%AD%E6%B3%BC%E5%A2%A8%E6%8D%86%E7%BB%91%E6%AE%B4%E6%89%93%23&t=31&band_rank=23&Refer=top) 252098
-1. [葡萄牙6比1瑞士](https://s.weibo.com/weibo?q=%23%E8%91%A1%E8%90%84%E7%89%996%E6%AF%941%E7%91%9E%E5%A3%AB%23&t=31&band_rank=5&Refer=top) 244209
 1. [小胖闯非洲](https://s.weibo.com/weibo?q=%E5%B0%8F%E8%83%96%E9%97%AF%E9%9D%9E%E6%B4%B2&t=31&band_rank=24&Refer=top) 225724
 1. [内马尔把全场最佳颁给拉菲尼亚](https://s.weibo.com/weibo?q=%23%E5%86%85%E9%A9%AC%E5%B0%94%E6%8A%8A%E5%85%A8%E5%9C%BA%E6%9C%80%E4%BD%B3%E9%A2%81%E7%BB%99%E6%8B%89%E8%8F%B2%E5%B0%BC%E4%BA%9A%23&t=31&band_rank=38&Refer=top) 216727
 1. [勺子点球](https://s.weibo.com/weibo?q=%E5%8B%BA%E5%AD%90%E7%82%B9%E7%90%83&t=31&band_rank=18&Refer=top) 196700
@@ -90,7 +90,7 @@
 1. [西班牙连续三届世界杯无缘8强](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E7%8F%AD%E7%89%99%E8%BF%9E%E7%BB%AD%E4%B8%89%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E6%97%A0%E7%BC%988%E5%BC%BA%23&t=31&band_rank=31&Refer=top) 56039
 1. [C罗冲击世界杯淘汰赛首球](https://s.weibo.com/weibo?q=%23C%E7%BD%97%E5%86%B2%E5%87%BB%E4%B8%96%E7%95%8C%E6%9D%AF%E6%B7%98%E6%B1%B0%E8%B5%9B%E9%A6%96%E7%90%83%23&t=31&band_rank=49&Refer=top) 47753
 1. [德容说没有方法能够阻止梅西](https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%AE%B9%E8%AF%B4%E6%B2%A1%E6%9C%89%E6%96%B9%E6%B3%95%E8%83%BD%E5%A4%9F%E9%98%BB%E6%AD%A2%E6%A2%85%E8%A5%BF%23&t=31&band_rank=50&Refer=top) 38759
-1. [格雷罗破门](https://s.weibo.com/weibo?q=%23%E6%A0%BC%E9%9B%B7%E7%BD%97%E7%A0%B4%E9%97%A8%23&t=31&band_rank=31&Refer=top) 30305
+1. [格雷罗破门](https://s.weibo.com/weibo?q=%23%E6%A0%BC%E9%9B%B7%E7%BD%97%E7%A0%B4%E9%97%A8%23&t=31&band_rank=31&Refer=top) 31242
 1. [加维反差萌](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E7%BB%B4%E5%8F%8D%E5%B7%AE%E8%90%8C%23&t=31&band_rank=41&Refer=top) 26777
 <!-- END -->
 
