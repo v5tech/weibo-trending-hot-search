@@ -7,11 +7,11 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-12-07 03:21:21.155375 
+最后更新时间 2022-12-07 03:34:28.442885 
 1. [摩洛哥vs西班牙](https://s.weibo.com/weibo?q=%23%E6%91%A9%E6%B4%9B%E5%93%A5vs%E8%A5%BF%E7%8F%AD%E7%89%99%23&t=31&band_rank=1&Refer=top) 1587481
 1. [摩洛哥足球 纯粹](https://s.weibo.com/weibo?q=%E6%91%A9%E6%B4%9B%E5%93%A5%E8%B6%B3%E7%90%83%20%E7%BA%AF%E7%B2%B9&t=31&band_rank=17&Refer=top) 1318747
+1. [C罗对阵瑞士无缘首发](https://s.weibo.com/weibo?q=C%E7%BD%97%E5%AF%B9%E9%98%B5%E7%91%9E%E5%A3%AB%E6%97%A0%E7%BC%98%E9%A6%96%E5%8F%91&t=31&band_rank=14&Refer=top) 938739
 1. [药师详解奥密克戎轻症处理妙招](https://s.weibo.com/weibo?q=%23%E8%8D%AF%E5%B8%88%E8%AF%A6%E8%A7%A3%E5%A5%A5%E5%AF%86%E5%85%8B%E6%88%8E%E8%BD%BB%E7%97%87%E5%A4%84%E7%90%86%E5%A6%99%E6%8B%9B%23&t=31&band_rank=3&Refer=top) 924202
-1. [C罗对阵瑞士无缘首发](https://s.weibo.com/weibo?q=C%E7%BD%97%E5%AF%B9%E9%98%B5%E7%91%9E%E5%A3%AB%E6%97%A0%E7%BC%98%E9%A6%96%E5%8F%91&t=31&band_rank=14&Refer=top) 924150
 1. [摩洛哥3比0西班牙](https://s.weibo.com/weibo?q=%23%E6%91%A9%E6%B4%9B%E5%93%A53%E6%AF%940%E8%A5%BF%E7%8F%AD%E7%89%99%23&t=31&band_rank=2&Refer=top) 853425
 1. [加维都摔绿了](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E7%BB%B4%E9%83%BD%E6%91%94%E7%BB%BF%E4%BA%86%23&t=31&band_rank=35&Refer=top) 850777
 1. [西班牙教练表情](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E7%8F%AD%E7%89%99%E6%95%99%E7%BB%83%E8%A1%A8%E6%83%85%23&t=31&band_rank=50&Refer=top) 765647
@@ -87,6 +87,7 @@
 1. [西班牙连续三届世界杯无缘8强](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E7%8F%AD%E7%89%99%E8%BF%9E%E7%BB%AD%E4%B8%89%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E6%97%A0%E7%BC%988%E5%BC%BA%23&t=31&band_rank=31&Refer=top) 45332
 1. [西班牙队本场状态](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E7%8F%AD%E7%89%99%E9%98%9F%E6%9C%AC%E5%9C%BA%E7%8A%B6%E6%80%81%23&t=31&band_rank=48&Refer=top) 40280
 1. [德容说没有方法能够阻止梅西](https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%AE%B9%E8%AF%B4%E6%B2%A1%E6%9C%89%E6%96%B9%E6%B3%95%E8%83%BD%E5%A4%9F%E9%98%BB%E6%AD%A2%E6%A2%85%E8%A5%BF%23&t=31&band_rank=50&Refer=top) 38759
+1. [加维反差萌](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E7%BB%B4%E5%8F%8D%E5%B7%AE%E8%90%8C%23&t=31&band_rank=41&Refer=top) 26777
 <!-- END -->
 
 历史归档 [./archives](./archives)
