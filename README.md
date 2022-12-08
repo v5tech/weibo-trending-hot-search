@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-12-09 03:09:19.874231 
+最后更新时间 2022-12-09 03:21:17.897166 
 1. [我们正式迈向结束疫情生活的道路](https://s.weibo.com/weibo?q=%23%E6%88%91%E4%BB%AC%E6%AD%A3%E5%BC%8F%E8%BF%88%E5%90%91%E7%BB%93%E6%9D%9F%E7%96%AB%E6%83%85%E7%94%9F%E6%B4%BB%E7%9A%84%E9%81%93%E8%B7%AF%23&t=31&band_rank=1&Refer=top) 3042704
 1. [钟南山院士谈奥密克戎](https://s.weibo.com/weibo?q=%23%E9%92%9F%E5%8D%97%E5%B1%B1%E9%99%A2%E5%A3%AB%E8%B0%88%E5%A5%A5%E5%AF%86%E5%85%8B%E6%88%8E%23&t=31&band_rank=2&Refer=top) 1541207
 1. [老人手包一次性内裤遭质疑不卫生](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E6%89%8B%E5%8C%85%E4%B8%80%E6%AC%A1%E6%80%A7%E5%86%85%E8%A3%A4%E9%81%AD%E8%B4%A8%E7%96%91%E4%B8%8D%E5%8D%AB%E7%94%9F%23&t=31&band_rank=16&Refer=top) 1231861
