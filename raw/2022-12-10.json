@@ -99,13 +99,17 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%E6%99%8B%E7%BA%A74%E5%BC%BA%23&t=31&band_rank=16&Refer=top",
     "hot": 1212945
   },
+  "巴西爆冷": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF%E7%88%86%E5%86%B7%23&t=31&band_rank=24&Refer=top",
+    "hot": 1171092
+  },
   "张栋梁17年前vs17年后": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%A0%8B%E6%A2%8117%E5%B9%B4%E5%89%8Dvs17%E5%B9%B4%E5%90%8E%23&t=31&band_rank=5&Refer=top",
     "hot": 1129355
   },
-  "巴西爆冷": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF%E7%88%86%E5%86%B7%23&t=31&band_rank=24&Refer=top",
-    "hot": 1127510
+  "荷兰5比6阿根廷": {
+    "url": "https://s.weibo.com/weibo?q=%23%E8%8D%B7%E5%85%B05%E6%AF%946%E9%98%BF%E6%A0%B9%E5%BB%B7%23&t=31&band_rank=36&Refer=top",
+    "hot": 990678
   },
   "4人毒杀89只狗": {
     "url": "https://s.weibo.com/weibo?q=%234%E4%BA%BA%E6%AF%92%E6%9D%8089%E5%8F%AA%E7%8B%97%23&t=31&band_rank=8&Refer=top",
@@ -118,10 +122,6 @@
   "厂家称黄桃罐头没有任何药效": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%8E%82%E5%AE%B6%E7%A7%B0%E9%BB%84%E6%A1%83%E7%BD%90%E5%A4%B4%E6%B2%A1%E6%9C%89%E4%BB%BB%E4%BD%95%E8%8D%AF%E6%95%88%23&t=31&band_rank=9&Refer=top",
     "hot": 806068
-  },
-  "荷兰5比6阿根廷": {
-    "url": "https://s.weibo.com/weibo?q=%23%E8%8D%B7%E5%85%B05%E6%AF%946%E9%98%BF%E6%A0%B9%E5%BB%B7%23&t=31&band_rank=36&Refer=top",
-    "hot": 715942
   },
   "白敬亭说和田曦薇现实中也是非常好的朋友": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E8%AF%B4%E5%92%8C%E7%94%B0%E6%9B%A6%E8%96%87%E7%8E%B0%E5%AE%9E%E4%B8%AD%E4%B9%9F%E6%98%AF%E9%9D%9E%E5%B8%B8%E5%A5%BD%E7%9A%84%E6%9C%8B%E5%8F%8B%23&t=31&band_rank=11&Refer=top",
@@ -259,6 +259,14 @@
     "url": "https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E6%89%8B%E6%9C%AF%E5%88%80%E5%8A%A9%E6%94%BB%23&t=31&band_rank=22&Refer=top",
     "hot": 265210
   },
+  "世界杯四强": {
+    "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%9B%9B%E5%BC%BA&t=31&band_rank=33&Refer=top",
+    "hot": 222695
+  },
+  "央视曝光天价疏通马桶骗局": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%A4%A9%E4%BB%B7%E7%96%8F%E9%80%9A%E9%A9%AC%E6%A1%B6%E9%AA%97%E5%B1%80%23&t=31&band_rank=34&Refer=top",
+    "hot": 217838
+  },
   "男子未戴手套制作蛋糕胚被指恶心": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%9C%AA%E6%88%B4%E6%89%8B%E5%A5%97%E5%88%B6%E4%BD%9C%E8%9B%8B%E7%B3%95%E8%83%9A%E8%A2%AB%E6%8C%87%E6%81%B6%E5%BF%83%23&t=31&band_rank=27&Refer=top",
     "hot": 216379
@@ -283,6 +291,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%82%B9%E7%82%B8%E9%B8%A1%E6%B2%A1%E7%86%9F%E5%8F%8D%E9%A6%88%E5%90%8E%E8%A2%AB%E8%A1%A5%E5%81%BF%E7%82%B8%E7%84%A6%E7%9A%84%23&t=31&band_rank=35&Refer=top",
     "hot": 206175
   },
+  "圣马丁": {
+    "url": "https://s.weibo.com/weibo?q=%E5%9C%A3%E9%A9%AC%E4%B8%81&t=31&band_rank=24&Refer=top",
+    "hot": 195203
+  },
   "六级": {
     "url": "https://s.weibo.com/weibo?q=%E5%85%AD%E7%BA%A7&t=31&band_rank=38&Refer=top",
     "hot": 188721
@@ -302,10 +314,6 @@
   "Doinb": {
     "url": "https://s.weibo.com/weibo?q=Doinb&t=31&band_rank=39&Refer=top",
     "hot": 173645
-  },
-  "央视曝光天价疏通马桶骗局": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%A4%A9%E4%BB%B7%E7%96%8F%E9%80%9A%E9%A9%AC%E6%A1%B6%E9%AA%97%E5%B1%80%23&t=31&band_rank=34&Refer=top",
-    "hot": 169791
   },
   "财政部决定发行7500亿元特别国债": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%B4%A2%E6%94%BF%E9%83%A8%E5%86%B3%E5%AE%9A%E5%8F%91%E8%A1%8C7500%E4%BA%BF%E5%85%83%E7%89%B9%E5%88%AB%E5%9B%BD%E5%80%BA%23&t=31&band_rank=40&Refer=top",
@@ -355,6 +363,10 @@
     "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E5%80%BA&t=31&band_rank=48&Refer=top",
     "hot": 138527
   },
+  "阿根廷点球": {
+    "url": "https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E7%82%B9%E7%90%83&t=31&band_rank=34&Refer=top",
+    "hot": 136094
+  },
   "李薇说明年一定比今年更好": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%96%87%E8%AF%B4%E6%98%8E%E5%B9%B4%E4%B8%80%E5%AE%9A%E6%AF%94%E4%BB%8A%E5%B9%B4%E6%9B%B4%E5%A5%BD%23&t=31&band_rank=40&Refer=top",
     "hot": 132478
@@ -375,6 +387,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%86%85%E9%A9%AC%E5%B0%94%E8%BF%9B%E7%90%83%E5%B7%B4%E8%A5%BF%E9%A2%86%E5%85%88%23&t=31&band_rank=40&Refer=top",
     "hot": 117648
   },
+  "劳塔罗自我救赎": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8A%B3%E5%A1%94%E7%BD%97%E8%87%AA%E6%88%91%E6%95%91%E8%B5%8E%23&t=31&band_rank=33&Refer=top",
+    "hot": 116179
+  },
   "相信卡塔尔世界杯将成载入史册的世界杯": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%9B%B8%E4%BF%A1%E5%8D%A1%E5%A1%94%E5%B0%94%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B0%86%E6%88%90%E8%BD%BD%E5%85%A5%E5%8F%B2%E5%86%8C%E7%9A%84%E4%B8%96%E7%95%8C%E6%9D%AF%23&t=31&band_rank=48&Refer=top",
     "hot": 115317
@@ -383,13 +399,17 @@
     "url": "https://s.weibo.com/weibo?q=%E5%85%B1%E4%BA%AB%E9%93%B2%E6%9D%83&t=31&band_rank=50&Refer=top",
     "hot": 113783
   },
-  "世界杯四强": {
-    "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%9B%9B%E5%BC%BA&t=31&band_rank=33&Refer=top",
-    "hot": 110517
-  },
   "内马尔个人能力": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%86%85%E9%A9%AC%E5%B0%94%E4%B8%AA%E4%BA%BA%E8%83%BD%E5%8A%9B%23&t=31&band_rank=32&Refer=top",
     "hot": 108734
+  },
+  "四级": {
+    "url": "https://s.weibo.com/weibo?q=%E5%9B%9B%E7%BA%A7&t=31&band_rank=37&Refer=top",
+    "hot": 108629
+  },
+  "帕雷德斯": {
+    "url": "https://s.weibo.com/weibo?q=%E5%B8%95%E9%9B%B7%E5%BE%B7%E6%96%AF&t=31&band_rank=38&Refer=top",
+    "hot": 108599
   },
   "利瓦科维奇 身价": {
     "url": "https://s.weibo.com/weibo?q=%E5%88%A9%E7%93%A6%E7%A7%91%E7%BB%B4%E5%A5%87%20%E8%BA%AB%E4%BB%B7&t=31&band_rank=34&Refer=top",
@@ -398,10 +418,6 @@
   "命韵峋环恋爱纪念册": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%91%BD%E9%9F%B5%E5%B3%8B%E7%8E%AF%E6%81%8B%E7%88%B1%E7%BA%AA%E5%BF%B5%E5%86%8C%23&t=31&band_rank=48&Refer=top",
     "hot": 107149
-  },
-  "阿根廷点球": {
-    "url": "https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E7%82%B9%E7%90%83&t=31&band_rank=34&Refer=top",
-    "hot": 105009
   },
   "克罗地亚狂想曲": {
     "url": "https://s.weibo.com/weibo?q=%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%E7%8B%82%E6%83%B3%E6%9B%B2&t=31&band_rank=43&Refer=top",
@@ -434,6 +450,10 @@
   "阿根廷首发": {
     "url": "https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%A6%96%E5%8F%91&t=31&band_rank=40&Refer=top",
     "hot": 89758
+  },
+  "梅西点球": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E7%82%B9%E7%90%83%23&t=31&band_rank=47&Refer=top",
+    "hot": 80754
   },
   "伊甸园": {
     "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E7%94%B8%E5%9B%AD&t=31&band_rank=49&Refer=top",
