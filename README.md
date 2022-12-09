@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-12-10 05:48:57.555751 
+最后更新时间 2022-12-10 06:10:51.695077 
 1. [克罗地亚vs巴西](https://s.weibo.com/weibo?q=%23%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9Avs%E5%B7%B4%E8%A5%BF%23&t=31&band_rank=1&Refer=top) 14501063
 1. [内马尔进球](https://s.weibo.com/weibo?q=%23%E5%86%85%E9%A9%AC%E5%B0%94%E8%BF%9B%E7%90%83%23&t=31&band_rank=1&Refer=top) 10517326
 1. [克罗地亚门将](https://s.weibo.com/weibo?q=%23%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%E9%97%A8%E5%B0%86%23&t=31&band_rank=13&Refer=top) 7591016
@@ -22,17 +22,17 @@
 1. [莫德里奇 中场大师](https://s.weibo.com/weibo?q=%E8%8E%AB%E5%BE%B7%E9%87%8C%E5%A5%87%20%E4%B8%AD%E5%9C%BA%E5%A4%A7%E5%B8%88&t=31&band_rank=43&Refer=top) 1954391
 1. [利瓦科维奇 门神](https://s.weibo.com/weibo?q=%E5%88%A9%E7%93%A6%E7%A7%91%E7%BB%B4%E5%A5%87%20%E9%97%A8%E7%A5%9E&t=31&band_rank=7&Refer=top) 1918405
 1. [点球大战](https://s.weibo.com/weibo?q=%23%E7%82%B9%E7%90%83%E5%A4%A7%E6%88%98%23&t=31&band_rank=6&Refer=top) 1859705
+1. [梅西](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%23&t=31&band_rank=16&Refer=top) 1832777
 1. [不用再担心核酸阳性医院不接诊](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E7%94%A8%E5%86%8D%E6%8B%85%E5%BF%83%E6%A0%B8%E9%85%B8%E9%98%B3%E6%80%A7%E5%8C%BB%E9%99%A2%E4%B8%8D%E6%8E%A5%E8%AF%8A%23&t=31&band_rank=26&Refer=top) 1694531
 1. [巴西状态](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF%E7%8A%B6%E6%80%81%23&t=31&band_rank=2&Refer=top) 1661089
 1. [加时赛](https://s.weibo.com/weibo?q=%E5%8A%A0%E6%97%B6%E8%B5%9B&t=31&band_rank=9&Refer=top) 1626577
 1. [莫德里奇](https://s.weibo.com/weibo?q=%23%E8%8E%AB%E5%BE%B7%E9%87%8C%E5%A5%87%23&t=31&band_rank=19&Refer=top) 1493314
 1. [魔笛 胖虎](https://s.weibo.com/weibo?q=%E9%AD%94%E7%AC%9B%20%E8%83%96%E8%99%8E&t=31&band_rank=43&Refer=top) 1449855
 1. [巴西队又双叒有人染白发了](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF%E9%98%9F%E5%8F%88%E5%8F%8C%E5%8F%92%E6%9C%89%E4%BA%BA%E6%9F%93%E7%99%BD%E5%8F%91%E4%BA%86%23&t=31&band_rank=6&Refer=top) 1385620
-1. [裁判 偏](https://s.weibo.com/weibo?q=%E8%A3%81%E5%88%A4%20%E5%81%8F&t=31&band_rank=22&Refer=top) 1370331
+1. [裁判 偏](https://s.weibo.com/weibo?q=%E8%A3%81%E5%88%A4%20%E5%81%8F&t=31&band_rank=22&Refer=top) 1374572
 1. [克罗地亚半场0比0巴西](https://s.weibo.com/weibo?q=%23%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%E5%8D%8A%E5%9C%BA0%E6%AF%940%E5%B7%B4%E8%A5%BF%23&t=31&band_rank=4&Refer=top) 1289293
 1. [克罗地亚晋级4强](https://s.weibo.com/weibo?q=%23%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%E6%99%8B%E7%BA%A74%E5%BC%BA%23&t=31&band_rank=16&Refer=top) 1212945
 1. [张栋梁17年前vs17年后](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%A0%8B%E6%A2%8117%E5%B9%B4%E5%89%8Dvs17%E5%B9%B4%E5%90%8E%23&t=31&band_rank=5&Refer=top) 1129355
-1. [梅西](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%23&t=31&band_rank=16&Refer=top) 982756
 1. [巴西爆冷](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF%E7%88%86%E5%86%B7%23&t=31&band_rank=24&Refer=top) 974770
 1. [4人毒杀89只狗](https://s.weibo.com/weibo?q=%234%E4%BA%BA%E6%AF%92%E6%9D%8089%E5%8F%AA%E7%8B%97%23&t=31&band_rank=8&Refer=top) 867162
 1. [孙悦 状态](https://s.weibo.com/weibo?q=%E5%AD%99%E6%82%A6%20%E7%8A%B6%E6%80%81&t=31&band_rank=7&Refer=top) 840834
@@ -69,6 +69,7 @@
 1. [女子花千元买柯基第二天查出细小](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%8A%B1%E5%8D%83%E5%85%83%E4%B9%B0%E6%9F%AF%E5%9F%BA%E7%AC%AC%E4%BA%8C%E5%A4%A9%E6%9F%A5%E5%87%BA%E7%BB%86%E5%B0%8F%23&t=31&band_rank=28&Refer=top) 276778
 1. [陈飞宇说很荣幸能演绎李峋的人生](https://s.weibo.com/weibo?q=%23%E9%99%88%E9%A3%9E%E5%AE%87%E8%AF%B4%E5%BE%88%E8%8D%A3%E5%B9%B8%E8%83%BD%E6%BC%94%E7%BB%8E%E6%9D%8E%E5%B3%8B%E7%9A%84%E4%BA%BA%E7%94%9F%23&t=31&band_rank=25&Refer=top) 269133
 1. [梅西手术刀助攻](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E6%89%8B%E6%9C%AF%E5%88%80%E5%8A%A9%E6%94%BB%23&t=31&band_rank=22&Refer=top) 265210
+1. [梅西追平巴蒂纪录](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%BF%BD%E5%B9%B3%E5%B7%B4%E8%92%82%E7%BA%AA%E5%BD%95%23&t=31&band_rank=39&Refer=top) 254508
 1. [男子未戴手套制作蛋糕胚被指恶心](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%9C%AA%E6%88%B4%E6%89%8B%E5%A5%97%E5%88%B6%E4%BD%9C%E8%9B%8B%E7%B3%95%E8%83%9A%E8%A2%AB%E6%8C%87%E6%81%B6%E5%BF%83%23&t=31&band_rank=27&Refer=top) 216379
 1. [睡眠不好的人有福了](https://s.weibo.com/weibo?q=%23%E7%9D%A1%E7%9C%A0%E4%B8%8D%E5%A5%BD%E7%9A%84%E4%BA%BA%E6%9C%89%E7%A6%8F%E4%BA%86%23&t=31&band_rank=29&Refer=top) 209062
 1. [NCT4名成员发生坠落事故](https://s.weibo.com/weibo?q=%23NCT4%E5%90%8D%E6%88%90%E5%91%98%E5%8F%91%E7%94%9F%E5%9D%A0%E8%90%BD%E4%BA%8B%E6%95%85%23&t=31&band_rank=31&Refer=top) 208900
@@ -107,6 +108,7 @@
 1. [沙溢问白鹿白梦妍是哪个角色名](https://s.weibo.com/weibo?q=%23%E6%B2%99%E6%BA%A2%E9%97%AE%E7%99%BD%E9%B9%BF%E7%99%BD%E6%A2%A6%E5%A6%8D%E6%98%AF%E5%93%AA%E4%B8%AA%E8%A7%92%E8%89%B2%E5%90%8D%23&t=31&band_rank=46&Refer=top) 101443
 1. [克罗地亚 顽强](https://s.weibo.com/weibo?q=%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%20%E9%A1%BD%E5%BC%BA&t=31&band_rank=45&Refer=top) 101151
 1. [央视曝光天价疏通马桶骗局](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%A4%A9%E4%BB%B7%E7%96%8F%E9%80%9A%E9%A9%AC%E6%A1%B6%E9%AA%97%E5%B1%80%23&t=31&band_rank=34&Refer=top) 96725
+1. [阿根廷晋级4强](https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7%E6%99%8B%E7%BA%A74%E5%BC%BA%23&t=31&band_rank=21&Refer=top) 96492
 1. [内马尔太帅了](https://s.weibo.com/weibo?q=%23%E5%86%85%E9%A9%AC%E5%B0%94%E5%A4%AA%E5%B8%85%E4%BA%86%23&t=31&band_rank=49&Refer=top) 95757
 1. [卿卿日常](https://s.weibo.com/weibo?q=%E5%8D%BF%E5%8D%BF%E6%97%A5%E5%B8%B8&t=31&band_rank=48&Refer=top) 91202
 1. [阿根廷首发](https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%A6%96%E5%8F%91&t=31&band_rank=40&Refer=top) 89758
@@ -114,7 +116,6 @@
 1. [RNG](https://s.weibo.com/weibo?q=%23RNG%23&t=31&band_rank=48&Refer=top) 52313
 1. [克罗地亚 大心脏](https://s.weibo.com/weibo?q=%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%20%E5%A4%A7%E5%BF%83%E8%84%8F&t=31&band_rank=35&Refer=top) 38251
 1. [中阿友好相信还会好上加好](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E9%98%BF%E5%8F%8B%E5%A5%BD%E7%9B%B8%E4%BF%A1%E8%BF%98%E4%BC%9A%E5%A5%BD%E4%B8%8A%E5%8A%A0%E5%A5%BD%23&t=31&band_rank=50&Refer=top) 34367
-1. [梅西追平巴蒂纪录](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%BF%BD%E5%B9%B3%E5%B7%B4%E8%92%82%E7%BA%AA%E5%BD%95%23&t=31&band_rank=39&Refer=top) 32069
 <!-- END -->
 
 历史归档 [./archives](./archives)
