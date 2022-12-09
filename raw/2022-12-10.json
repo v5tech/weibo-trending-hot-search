@@ -391,6 +391,10 @@
     "url": "https://s.weibo.com/weibo?q=%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%20%E9%A1%BD%E5%BC%BA&t=31&band_rank=45&Refer=top",
     "hot": 101151
   },
+  "央视曝光天价疏通马桶骗局": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%A4%A9%E4%BB%B7%E7%96%8F%E9%80%9A%E9%A9%AC%E6%A1%B6%E9%AA%97%E5%B1%80%23&t=31&band_rank=34&Refer=top",
+    "hot": 96725
+  },
   "内马尔太帅了": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%86%85%E9%A9%AC%E5%B0%94%E5%A4%AA%E5%B8%85%E4%BA%86%23&t=31&band_rank=49&Refer=top",
     "hot": 95757
@@ -398,10 +402,6 @@
   "卿卿日常": {
     "url": "https://s.weibo.com/weibo?q=%E5%8D%BF%E5%8D%BF%E6%97%A5%E5%B8%B8&t=31&band_rank=48&Refer=top",
     "hot": 91202
-  },
-  "央视曝光天价疏通马桶骗局": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%A4%A9%E4%BB%B7%E7%96%8F%E9%80%9A%E9%A9%AC%E6%A1%B6%E9%AA%97%E5%B1%80%23&t=31&band_rank=34&Refer=top",
-    "hot": 89890
   },
   "阿根廷首发": {
     "url": "https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%A6%96%E5%8F%91&t=31&band_rank=40&Refer=top",
@@ -422,5 +422,9 @@
   "中阿友好相信还会好上加好": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E9%98%BF%E5%8F%8B%E5%A5%BD%E7%9B%B8%E4%BF%A1%E8%BF%98%E4%BC%9A%E5%A5%BD%E4%B8%8A%E5%8A%A0%E5%A5%BD%23&t=31&band_rank=50&Refer=top",
     "hot": 34367
+  },
+  "梅西追平巴蒂纪录": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%BF%BD%E5%B9%B3%E5%B7%B4%E8%92%82%E7%BA%AA%E5%BD%95%23&t=31&band_rank=39&Refer=top",
+    "hot": 32069
   }
 }
