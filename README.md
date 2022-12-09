@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-12-10 02:32:13.572166 
+最后更新时间 2022-12-10 02:48:57.494765 
 1. [克罗地亚vs巴西](https://s.weibo.com/weibo?q=%23%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9Avs%E5%B7%B4%E8%A5%BF%23&t=31&band_rank=1&Refer=top) 14501063
 1. [内马尔进球](https://s.weibo.com/weibo?q=%23%E5%86%85%E9%A9%AC%E5%B0%94%E8%BF%9B%E7%90%83%23&t=31&band_rank=1&Refer=top) 10517326
 1. [克罗地亚门将](https://s.weibo.com/weibo?q=%23%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%E9%97%A8%E5%B0%86%23&t=31&band_rank=13&Refer=top) 7591016
@@ -32,7 +32,7 @@
 1. [克罗地亚半场0比0巴西](https://s.weibo.com/weibo?q=%23%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%E5%8D%8A%E5%9C%BA0%E6%AF%940%E5%B7%B4%E8%A5%BF%23&t=31&band_rank=4&Refer=top) 1289293
 1. [克罗地亚晋级4强](https://s.weibo.com/weibo?q=%23%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%E6%99%8B%E7%BA%A74%E5%BC%BA%23&t=31&band_rank=16&Refer=top) 1212945
 1. [张栋梁17年前vs17年后](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%A0%8B%E6%A2%8117%E5%B9%B4%E5%89%8Dvs17%E5%B9%B4%E5%90%8E%23&t=31&band_rank=5&Refer=top) 1129355
-1. [巴西爆冷](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF%E7%88%86%E5%86%B7%23&t=31&band_rank=24&Refer=top) 880107
+1. [巴西爆冷](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF%E7%88%86%E5%86%B7%23&t=31&band_rank=24&Refer=top) 974770
 1. [4人毒杀89只狗](https://s.weibo.com/weibo?q=%234%E4%BA%BA%E6%AF%92%E6%9D%8089%E5%8F%AA%E7%8B%97%23&t=31&band_rank=8&Refer=top) 867162
 1. [孙悦 状态](https://s.weibo.com/weibo?q=%E5%AD%99%E6%82%A6%20%E7%8A%B6%E6%80%81&t=31&band_rank=7&Refer=top) 840834
 1. [厂家称黄桃罐头没有任何药效](https://s.weibo.com/weibo?q=%23%E5%8E%82%E5%AE%B6%E7%A7%B0%E9%BB%84%E6%A1%83%E7%BD%90%E5%A4%B4%E6%B2%A1%E6%9C%89%E4%BB%BB%E4%BD%95%E8%8D%AF%E6%95%88%23&t=31&band_rank=9&Refer=top) 806068
@@ -90,8 +90,11 @@
 1. [克罗地亚vs巴西首发](https://s.weibo.com/weibo?q=%23%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9Avs%E5%B7%B4%E8%A5%BF%E9%A6%96%E5%8F%91%23&t=31&band_rank=49&Refer=top) 132228
 1. [卡恩](https://s.weibo.com/weibo?q=%E5%8D%A1%E6%81%A9&t=31&band_rank=36&Refer=top) 127903
 1. [内马尔进球巴西领先](https://s.weibo.com/weibo?q=%23%E5%86%85%E9%A9%AC%E5%B0%94%E8%BF%9B%E7%90%83%E5%B7%B4%E8%A5%BF%E9%A2%86%E5%85%88%23&t=31&band_rank=40&Refer=top) 117648
+1. [贝利](https://s.weibo.com/weibo?q=%E8%B4%9D%E5%88%A9&t=31&band_rank=29&Refer=top) 117269
 1. [相信卡塔尔世界杯将成载入史册的世界杯](https://s.weibo.com/weibo?q=%23%E7%9B%B8%E4%BF%A1%E5%8D%A1%E5%A1%94%E5%B0%94%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B0%86%E6%88%90%E8%BD%BD%E5%85%A5%E5%8F%B2%E5%86%8C%E7%9A%84%E4%B8%96%E7%95%8C%E6%9D%AF%23&t=31&band_rank=48&Refer=top) 115317
 1. [共享铲权](https://s.weibo.com/weibo?q=%E5%85%B1%E4%BA%AB%E9%93%B2%E6%9D%83&t=31&band_rank=50&Refer=top) 113783
+1. [内马尔个人能力](https://s.weibo.com/weibo?q=%23%E5%86%85%E9%A9%AC%E5%B0%94%E4%B8%AA%E4%BA%BA%E8%83%BD%E5%8A%9B%23&t=31&band_rank=32&Refer=top) 108734
+1. [利瓦科维奇 身价](https://s.weibo.com/weibo?q=%E5%88%A9%E7%93%A6%E7%A7%91%E7%BB%B4%E5%A5%87%20%E8%BA%AB%E4%BB%B7&t=31&band_rank=34&Refer=top) 108217
 1. [命韵峋环恋爱纪念册](https://s.weibo.com/weibo?q=%23%E5%91%BD%E9%9F%B5%E5%B3%8B%E7%8E%AF%E6%81%8B%E7%88%B1%E7%BA%AA%E5%BF%B5%E5%86%8C%23&t=31&band_rank=48&Refer=top) 107149
 1. [克罗地亚狂想曲](https://s.weibo.com/weibo?q=%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%E7%8B%82%E6%83%B3%E6%9B%B2&t=31&band_rank=43&Refer=top) 102554
 1. [格子军团](https://s.weibo.com/weibo?q=%23%E6%A0%BC%E5%AD%90%E5%86%9B%E5%9B%A2%23&t=31&band_rank=44&Refer=top) 102248
@@ -100,6 +103,8 @@
 1. [克罗地亚 顽强](https://s.weibo.com/weibo?q=%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%20%E9%A1%BD%E5%BC%BA&t=31&band_rank=45&Refer=top) 101151
 1. [内马尔太帅了](https://s.weibo.com/weibo?q=%23%E5%86%85%E9%A9%AC%E5%B0%94%E5%A4%AA%E5%B8%85%E4%BA%86%23&t=31&band_rank=49&Refer=top) 95757
 1. [卿卿日常](https://s.weibo.com/weibo?q=%E5%8D%BF%E5%8D%BF%E6%97%A5%E5%B8%B8&t=31&band_rank=48&Refer=top) 91202
+1. [阿根廷首发](https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%A6%96%E5%8F%91&t=31&band_rank=40&Refer=top) 89758
+1. [葡萄牙主帅承认C罗不满替补](https://s.weibo.com/weibo?q=%23%E8%91%A1%E8%90%84%E7%89%99%E4%B8%BB%E5%B8%85%E6%89%BF%E8%AE%A4C%E7%BD%97%E4%B8%8D%E6%BB%A1%E6%9B%BF%E8%A1%A5%23&t=31&band_rank=43&Refer=top) 83937
 1. [如何评价韩剧财阀家的小儿子](https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E9%9F%A9%E5%89%A7%E8%B4%A2%E9%98%80%E5%AE%B6%E7%9A%84%E5%B0%8F%E5%84%BF%E5%AD%90%23&t=31&band_rank=49&Refer=top) 79423
 <!-- END -->
 
