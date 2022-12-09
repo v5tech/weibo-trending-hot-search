@@ -7,18 +7,18 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-12-10 04:48:57.646300 
+最后更新时间 2022-12-10 05:10:10.128147 
 1. [克罗地亚vs巴西](https://s.weibo.com/weibo?q=%23%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9Avs%E5%B7%B4%E8%A5%BF%23&t=31&band_rank=1&Refer=top) 14501063
 1. [内马尔进球](https://s.weibo.com/weibo?q=%23%E5%86%85%E9%A9%AC%E5%B0%94%E8%BF%9B%E7%90%83%23&t=31&band_rank=1&Refer=top) 10517326
 1. [克罗地亚门将](https://s.weibo.com/weibo?q=%23%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%E9%97%A8%E5%B0%86%23&t=31&band_rank=13&Refer=top) 7591016
 1. [巴西淘汰](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF%E6%B7%98%E6%B1%B0%23&t=31&band_rank=4&Refer=top) 5887389
+1. [荷兰vs阿根廷](https://s.weibo.com/weibo?q=%23%E8%8D%B7%E5%85%B0vs%E9%98%BF%E6%A0%B9%E5%BB%B7%23&t=31&band_rank=7&Refer=top) 4906871
 1. [迈向结束疫情生活的道路不等于结束疫情](https://s.weibo.com/weibo?q=%23%E8%BF%88%E5%90%91%E7%BB%93%E6%9D%9F%E7%96%AB%E6%83%85%E7%94%9F%E6%B4%BB%E7%9A%84%E9%81%93%E8%B7%AF%E4%B8%8D%E7%AD%89%E4%BA%8E%E7%BB%93%E6%9D%9F%E7%96%AB%E6%83%85%23&t=31&band_rank=3&Refer=top) 4053181
 1. [内马尔状态](https://s.weibo.com/weibo?q=%23%E5%86%85%E9%A9%AC%E5%B0%94%E7%8A%B6%E6%80%81%23&t=31&band_rank=36&Refer=top) 4049660
 1. [克罗地亚扳平](https://s.weibo.com/weibo?q=%23%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%E6%89%B3%E5%B9%B3%23&t=31&band_rank=31&Refer=top) 3143791
 1. [巴西门将](https://s.weibo.com/weibo?q=%E5%B7%B4%E8%A5%BF%E9%97%A8%E5%B0%86&t=31&band_rank=5&Refer=top) 2999403
 1. [内马尔哭了](https://s.weibo.com/weibo?q=%23%E5%86%85%E9%A9%AC%E5%B0%94%E5%93%AD%E4%BA%86%23&t=31&band_rank=11&Refer=top) 2612228
 1. [克罗地亚 上届亚军](https://s.weibo.com/weibo?q=%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%20%E4%B8%8A%E5%B1%8A%E4%BA%9A%E5%86%9B&t=31&band_rank=13&Refer=top) 2580872
-1. [荷兰vs阿根廷](https://s.weibo.com/weibo?q=%23%E8%8D%B7%E5%85%B0vs%E9%98%BF%E6%A0%B9%E5%BB%B7%23&t=31&band_rank=7&Refer=top) 2178498
 1. [莫德里奇 中场大师](https://s.weibo.com/weibo?q=%E8%8E%AB%E5%BE%B7%E9%87%8C%E5%A5%87%20%E4%B8%AD%E5%9C%BA%E5%A4%A7%E5%B8%88&t=31&band_rank=43&Refer=top) 1954391
 1. [利瓦科维奇 门神](https://s.weibo.com/weibo?q=%E5%88%A9%E7%93%A6%E7%A7%91%E7%BB%B4%E5%A5%87%20%E9%97%A8%E7%A5%9E&t=31&band_rank=7&Refer=top) 1918405
 1. [点球大战](https://s.weibo.com/weibo?q=%23%E7%82%B9%E7%90%83%E5%A4%A7%E6%88%98%23&t=31&band_rank=6&Refer=top) 1859705
