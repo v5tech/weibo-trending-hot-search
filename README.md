@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-12-11 04:11:18.283814 
+最后更新时间 2022-12-11 04:26:29.579401 
 1. [C罗](https://s.weibo.com/weibo?q=C%E7%BD%97&t=31&band_rank=1&Refer=top) 13797203
 1. [摩洛哥半场1比0葡萄牙](https://s.weibo.com/weibo?q=%23%E6%91%A9%E6%B4%9B%E5%93%A5%E5%8D%8A%E5%9C%BA1%E6%AF%940%E8%91%A1%E8%90%84%E7%89%99%23&t=31&band_rank=2&Refer=top) 5279246
 1. [C罗哭了](https://s.weibo.com/weibo?q=%23C%E7%BD%97%E5%93%AD%E4%BA%86%23&t=31&band_rank=5&Refer=top) 4710734
