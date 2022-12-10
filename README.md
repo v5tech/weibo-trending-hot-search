@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-12-11 04:49:02.758669 
+最后更新时间 2022-12-11 05:09:34.982527 
 1. [C罗](https://s.weibo.com/weibo?q=C%E7%BD%97&t=31&band_rank=1&Refer=top) 13797203
 1. [摩洛哥半场1比0葡萄牙](https://s.weibo.com/weibo?q=%23%E6%91%A9%E6%B4%9B%E5%93%A5%E5%8D%8A%E5%9C%BA1%E6%AF%940%E8%91%A1%E8%90%84%E7%89%99%23&t=31&band_rank=2&Refer=top) 5279246
 1. [C罗哭了](https://s.weibo.com/weibo?q=%23C%E7%BD%97%E5%93%AD%E4%BA%86%23&t=31&band_rank=5&Refer=top) 4710734
@@ -28,6 +28,7 @@
 1. [世界杯](https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF&t=31&band_rank=20&Refer=top) 1052941
 1. [范世錡迟到激怒尔冬升](https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%96%E9%8C%A1%E8%BF%9F%E5%88%B0%E6%BF%80%E6%80%92%E5%B0%94%E5%86%AC%E5%8D%87%23&t=31&band_rank=7&Refer=top) 1041887
 1. [C罗背影](https://s.weibo.com/weibo?q=C%E7%BD%97%E8%83%8C%E5%BD%B1&t=31&band_rank=12&Refer=top) 1017394
+1. [姆巴佩](https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9&t=31&band_rank=25&Refer=top) 888538
 1. [佩佩 遗憾](https://s.weibo.com/weibo?q=%E4%BD%A9%E4%BD%A9%20%E9%81%97%E6%86%BE&t=31&band_rank=31&Refer=top) 885218
 1. [王冰冰反向支持葡萄牙](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%86%B0%E5%86%B0%E5%8F%8D%E5%90%91%E6%94%AF%E6%8C%81%E8%91%A1%E8%90%84%E7%89%99%23&t=31&band_rank=24&Refer=top) 771917
 1. [阿根廷vs克罗地亚](https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7vs%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%23&t=31&band_rank=43&Refer=top) 746958
@@ -48,7 +49,6 @@
 1. [阿根廷 预测](https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%20%E9%A2%84%E6%B5%8B&t=31&band_rank=20&Refer=top) 373794
 1. [卡卡预测的冠军就剩英格兰了](https://s.weibo.com/weibo?q=%23%E5%8D%A1%E5%8D%A1%E9%A2%84%E6%B5%8B%E7%9A%84%E5%86%A0%E5%86%9B%E5%B0%B1%E5%89%A9%E8%8B%B1%E6%A0%BC%E5%85%B0%E4%BA%86%23&t=31&band_rank=33&Refer=top) 369696
 1. [Rookie转会原因](https://s.weibo.com/weibo?q=%23Rookie%E8%BD%AC%E4%BC%9A%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=21&Refer=top) 357843
-1. [姆巴佩](https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9&t=31&band_rank=25&Refer=top) 344615
 1. [财阀家的小儿子第十集](https://s.weibo.com/weibo?q=%E8%B4%A2%E9%98%80%E5%AE%B6%E7%9A%84%E5%B0%8F%E5%84%BF%E5%AD%90%E7%AC%AC%E5%8D%81%E9%9B%86&t=31&band_rank=39&Refer=top) 319040
 1. [高辛夷怀孕](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%BE%9B%E5%A4%B7%E6%80%80%E5%AD%95%23&t=31&band_rank=22&Refer=top) 302926
 1. [深圳一公园回应设露天公厕引争议](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E4%B8%80%E5%85%AC%E5%9B%AD%E5%9B%9E%E5%BA%94%E8%AE%BE%E9%9C%B2%E5%A4%A9%E5%85%AC%E5%8E%95%E5%BC%95%E4%BA%89%E8%AE%AE%23&t=31&band_rank=23&Refer=top) 288205
@@ -94,6 +94,7 @@
 1. [姆巴佩领衔英法大战](https://s.weibo.com/weibo?q=%23%E5%A7%86%E5%B7%B4%E4%BD%A9%E9%A2%86%E8%A1%94%E8%8B%B1%E6%B3%95%E5%A4%A7%E6%88%98%23&t=31&band_rank=32&Refer=top) 126819
 1. [C罗告别卡塔尔世界杯](https://s.weibo.com/weibo?q=%23C%E7%BD%97%E5%91%8A%E5%88%AB%E5%8D%A1%E5%A1%94%E5%B0%94%E4%B8%96%E7%95%8C%E6%9D%AF%23&t=31&band_rank=45&Refer=top) 123964
 1. [布努 门神](https://s.weibo.com/weibo?q=%E5%B8%83%E5%8A%AA%20%E9%97%A8%E7%A5%9E&t=31&band_rank=47&Refer=top) 123661
+1. [凯恩点球破门](https://s.weibo.com/weibo?q=%23%E5%87%AF%E6%81%A9%E7%82%B9%E7%90%83%E7%A0%B4%E9%97%A8%23&t=31&band_rank=19&Refer=top) 123365
 1. [英雄永不落幕](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E6%B0%B8%E4%B8%8D%E8%90%BD%E5%B9%95%23&t=31&band_rank=44&Refer=top) 122142
 1. [C罗能否力挽狂澜](https://s.weibo.com/weibo?q=%23C%E7%BD%97%E8%83%BD%E5%90%A6%E5%8A%9B%E6%8C%BD%E7%8B%82%E6%BE%9C%23&t=31&band_rank=45&Refer=top) 120164
 1. [C罗谢幕](https://s.weibo.com/weibo?q=%23C%E7%BD%97%E8%B0%A2%E5%B9%95%23&t=31&band_rank=46&Refer=top) 118740
@@ -105,9 +106,11 @@
 1. [英格兰半场0比1法国](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E6%A0%BC%E5%85%B0%E5%8D%8A%E5%9C%BA0%E6%AF%941%E6%B3%95%E5%9B%BD%23&t=31&band_rank=20&Refer=top) 83790
 1. [我们的当打之年](https://s.weibo.com/weibo?q=%E6%88%91%E4%BB%AC%E7%9A%84%E5%BD%93%E6%89%93%E4%B9%8B%E5%B9%B4&t=31&band_rank=47&Refer=top) 75432
 1. [摩洛哥创造非洲球队世界杯最佳战绩](https://s.weibo.com/weibo?q=%23%E6%91%A9%E6%B4%9B%E5%93%A5%E5%88%9B%E9%80%A0%E9%9D%9E%E6%B4%B2%E7%90%83%E9%98%9F%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%80%E4%BD%B3%E6%88%98%E7%BB%A9%23&t=31&band_rank=49&Refer=top) 75332
+1. [英格兰1比2法国](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E6%A0%BC%E5%85%B01%E6%AF%942%E6%B3%95%E5%9B%BD%23&t=31&band_rank=20&Refer=top) 72431
 1. [英格兰vs法国首发](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E6%A0%BC%E5%85%B0vs%E6%B3%95%E5%9B%BD%E9%A6%96%E5%8F%91%23&t=31&band_rank=28&Refer=top) 67297
-1. [凯恩点球破门](https://s.weibo.com/weibo?q=%23%E5%87%AF%E6%81%A9%E7%82%B9%E7%90%83%E7%A0%B4%E9%97%A8%23&t=31&band_rank=19&Refer=top) 57043
 1. [詹俊说摩洛哥练了金钟罩铁布衫](https://s.weibo.com/weibo?q=%23%E8%A9%B9%E4%BF%8A%E8%AF%B4%E6%91%A9%E6%B4%9B%E5%93%A5%E7%BB%83%E4%BA%86%E9%87%91%E9%92%9F%E7%BD%A9%E9%93%81%E5%B8%83%E8%A1%AB%23&t=31&band_rank=50&Refer=top) 55144
+1. [吉鲁头球破门](https://s.weibo.com/weibo?q=%23%E5%90%89%E9%B2%81%E5%A4%B4%E7%90%83%E7%A0%B4%E9%97%A8%23&t=31&band_rank=31&Refer=top) 42744
+1. [童骁骑野猫的世纪婚礼](https://s.weibo.com/weibo?q=%23%E7%AB%A5%E9%AA%81%E9%AA%91%E9%87%8E%E7%8C%AB%E7%9A%84%E4%B8%96%E7%BA%AA%E5%A9%9A%E7%A4%BC%23&t=31&band_rank=49&Refer=top) 20458
 <!-- END -->
 
 历史归档 [./archives](./archives)
