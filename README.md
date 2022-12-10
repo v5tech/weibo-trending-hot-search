@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-12-11 01:48:52.783452 
+最后更新时间 2022-12-11 02:13:08.230561 
 1. [C罗](https://s.weibo.com/weibo?q=C%E7%BD%97&t=31&band_rank=1&Refer=top) 13797203
 1. [摩洛哥半场1比0葡萄牙](https://s.weibo.com/weibo?q=%23%E6%91%A9%E6%B4%9B%E5%93%A5%E5%8D%8A%E5%9C%BA1%E6%AF%940%E8%91%A1%E8%90%84%E7%89%99%23&t=31&band_rank=2&Refer=top) 5279246
 1. [C罗哭了](https://s.weibo.com/weibo?q=%23C%E7%BD%97%E5%93%AD%E4%BA%86%23&t=31&band_rank=5&Refer=top) 4710734
@@ -18,11 +18,12 @@
 1. [摩洛哥 进球](https://s.weibo.com/weibo?q=%E6%91%A9%E6%B4%9B%E5%93%A5%20%E8%BF%9B%E7%90%83&t=31&band_rank=4&Refer=top) 2408771
 1. [C罗上场](https://s.weibo.com/weibo?q=C%E7%BD%97%E4%B8%8A%E5%9C%BA&t=31&band_rank=31&Refer=top) 2270079
 1. [钟南山回应新冠后遗症](https://s.weibo.com/weibo?q=%23%E9%92%9F%E5%8D%97%E5%B1%B1%E5%9B%9E%E5%BA%94%E6%96%B0%E5%86%A0%E5%90%8E%E9%81%97%E7%97%87%23&t=31&band_rank=3&Refer=top) 1856950
-1. [梅西 诸神黄昏希望](https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BF%20%E8%AF%B8%E7%A5%9E%E9%BB%84%E6%98%8F%E5%B8%8C%E6%9C%9B&t=31&band_rank=11&Refer=top) 1665653
+1. [梅西 诸神黄昏希望](https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BF%20%E8%AF%B8%E7%A5%9E%E9%BB%84%E6%98%8F%E5%B8%8C%E6%9C%9B&t=31&band_rank=11&Refer=top) 1835995
 1. [摩洛哥 预测](https://s.weibo.com/weibo?q=%E6%91%A9%E6%B4%9B%E5%93%A5%20%E9%A2%84%E6%B5%8B&t=31&band_rank=18&Refer=top) 1489607
 1. [阳性第2天身体有多大变化](https://s.weibo.com/weibo?q=%23%E9%98%B3%E6%80%A7%E7%AC%AC2%E5%A4%A9%E8%BA%AB%E4%BD%93%E6%9C%89%E5%A4%9A%E5%A4%A7%E5%8F%98%E5%8C%96%23&t=31&band_rank=5&Refer=top) 1429112
 1. [B费](https://s.weibo.com/weibo?q=B%E8%B4%B9&t=31&band_rank=21&Refer=top) 1400660
 1. [宝妈被追尾1岁娃从车中滚落](https://s.weibo.com/weibo?q=%23%E5%AE%9D%E5%A6%88%E8%A2%AB%E8%BF%BD%E5%B0%BE1%E5%B2%81%E5%A8%83%E4%BB%8E%E8%BD%A6%E4%B8%AD%E6%BB%9A%E8%90%BD%23&t=31&band_rank=30&Refer=top) 1220592
+1. [内马尔说这是最伤心的失利](https://s.weibo.com/weibo?q=%23%E5%86%85%E9%A9%AC%E5%B0%94%E8%AF%B4%E8%BF%99%E6%98%AF%E6%9C%80%E4%BC%A4%E5%BF%83%E7%9A%84%E5%A4%B1%E5%88%A9%23&t=31&band_rank=49&Refer=top) 1197819
 1. [摩洛哥球衣](https://s.weibo.com/weibo?q=%23%E6%91%A9%E6%B4%9B%E5%93%A5%E7%90%83%E8%A1%A3%23&t=31&band_rank=8&Refer=top) 1145804
 1. [世界杯](https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF&t=31&band_rank=20&Refer=top) 1052941
 1. [范世錡迟到激怒尔冬升](https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%96%E9%8C%A1%E8%BF%9F%E5%88%B0%E6%BF%80%E6%80%92%E5%B0%94%E5%86%AC%E5%8D%87%23&t=31&band_rank=7&Refer=top) 1041887
@@ -37,16 +38,16 @@
 1. [C罗替补](https://s.weibo.com/weibo?q=%23C%E7%BD%97%E6%9B%BF%E8%A1%A5%23&t=31&band_rank=12&Refer=top) 636607
 1. [女子买衣服花600元一看标价499](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B9%B0%E8%A1%A3%E6%9C%8D%E8%8A%B1600%E5%85%83%E4%B8%80%E7%9C%8B%E6%A0%87%E4%BB%B7499%23&t=31&band_rank=13&Refer=top) 635047
 1. [卡卡将解说摩洛哥vs葡萄牙](https://s.weibo.com/weibo?q=%23%E5%8D%A1%E5%8D%A1%E5%B0%86%E8%A7%A3%E8%AF%B4%E6%91%A9%E6%B4%9B%E5%93%A5vs%E8%91%A1%E8%90%84%E7%89%99%23&t=31&band_rank=14&Refer=top) 612978
-1. [内马尔说这是最伤心的失利](https://s.weibo.com/weibo?q=%23%E5%86%85%E9%A9%AC%E5%B0%94%E8%AF%B4%E8%BF%99%E6%98%AF%E6%9C%80%E4%BC%A4%E5%BF%83%E7%9A%84%E5%A4%B1%E5%88%A9%23&t=31&band_rank=49&Refer=top) 536012
 1. [葡萄牙 白色球衣](https://s.weibo.com/weibo?q=%E8%91%A1%E8%90%84%E7%89%99%20%E7%99%BD%E8%89%B2%E7%90%83%E8%A1%A3&t=31&band_rank=15&Refer=top) 519416
+1. [摩洛哥晋级4强](https://s.weibo.com/weibo?q=%23%E6%91%A9%E6%B4%9B%E5%93%A5%E6%99%8B%E7%BA%A74%E5%BC%BA%23&t=31&band_rank=12&Refer=top) 506392
 1. [老人求助买苹果店老板专挑小的烂的](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E6%B1%82%E5%8A%A9%E4%B9%B0%E8%8B%B9%E6%9E%9C%E5%BA%97%E8%80%81%E6%9D%BF%E4%B8%93%E6%8C%91%E5%B0%8F%E7%9A%84%E7%83%82%E7%9A%84%23&t=31&band_rank=16&Refer=top) 467211
 1. [你好星期六 嗑cp](https://s.weibo.com/weibo?q=%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%20%E5%97%91cp&t=31&band_rank=17&Refer=top) 450428
 1. [摩洛哥 反击](https://s.weibo.com/weibo?q=%E6%91%A9%E6%B4%9B%E5%93%A5%20%E5%8F%8D%E5%87%BB&t=31&band_rank=49&Refer=top) 449667
 1. [财阀家的小儿子](https://s.weibo.com/weibo?q=%23%E8%B4%A2%E9%98%80%E5%AE%B6%E7%9A%84%E5%B0%8F%E5%84%BF%E5%AD%90%23&t=31&band_rank=19&Refer=top) 444375
+1. [从小小罗到C罗](https://s.weibo.com/weibo?q=%23%E4%BB%8E%E5%B0%8F%E5%B0%8F%E7%BD%97%E5%88%B0C%E7%BD%97%23&t=31&band_rank=36&Refer=top) 419393
 1. [阿根廷 预测](https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%20%E9%A2%84%E6%B5%8B&t=31&band_rank=20&Refer=top) 373794
 1. [卡卡预测的冠军就剩英格兰了](https://s.weibo.com/weibo?q=%23%E5%8D%A1%E5%8D%A1%E9%A2%84%E6%B5%8B%E7%9A%84%E5%86%A0%E5%86%9B%E5%B0%B1%E5%89%A9%E8%8B%B1%E6%A0%BC%E5%85%B0%E4%BA%86%23&t=31&band_rank=33&Refer=top) 369696
 1. [Rookie转会原因](https://s.weibo.com/weibo?q=%23Rookie%E8%BD%AC%E4%BC%9A%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=21&Refer=top) 357843
-1. [从小小罗到C罗](https://s.weibo.com/weibo?q=%23%E4%BB%8E%E5%B0%8F%E5%B0%8F%E7%BD%97%E5%88%B0C%E7%BD%97%23&t=31&band_rank=36&Refer=top) 329249
 1. [财阀家的小儿子第十集](https://s.weibo.com/weibo?q=%E8%B4%A2%E9%98%80%E5%AE%B6%E7%9A%84%E5%B0%8F%E5%84%BF%E5%AD%90%E7%AC%AC%E5%8D%81%E9%9B%86&t=31&band_rank=39&Refer=top) 319040
 1. [高辛夷怀孕](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%BE%9B%E5%A4%B7%E6%80%80%E5%AD%95%23&t=31&band_rank=22&Refer=top) 302926
 1. [深圳一公园回应设露天公厕引争议](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E4%B8%80%E5%85%AC%E5%9B%AD%E5%9B%9E%E5%BA%94%E8%AE%BE%E9%9C%B2%E5%A4%A9%E5%85%AC%E5%8E%95%E5%BC%95%E4%BA%89%E8%AE%AE%23&t=31&band_rank=23&Refer=top) 288205
@@ -87,15 +88,20 @@
 1. [莱奥 表现](https://s.weibo.com/weibo?q=%E8%8E%B1%E5%A5%A5%20%E8%A1%A8%E7%8E%B0&t=31&band_rank=40&Refer=top) 147839
 1. [这就是足球](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E8%B6%B3%E7%90%83%23&t=31&band_rank=44&Refer=top) 135873
 1. [女子提醒楼上太吵萌娃奶声奶气道歉](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%8F%90%E9%86%92%E6%A5%BC%E4%B8%8A%E5%A4%AA%E5%90%B5%E8%90%8C%E5%A8%83%E5%A5%B6%E5%A3%B0%E5%A5%B6%E6%B0%94%E9%81%93%E6%AD%89%23&t=31&band_rank=44&Refer=top) 128993
+1. [姆巴佩领衔英法大战](https://s.weibo.com/weibo?q=%23%E5%A7%86%E5%B7%B4%E4%BD%A9%E9%A2%86%E8%A1%94%E8%8B%B1%E6%B3%95%E5%A4%A7%E6%88%98%23&t=31&band_rank=32&Refer=top) 126819
 1. [C罗告别卡塔尔世界杯](https://s.weibo.com/weibo?q=%23C%E7%BD%97%E5%91%8A%E5%88%AB%E5%8D%A1%E5%A1%94%E5%B0%94%E4%B8%96%E7%95%8C%E6%9D%AF%23&t=31&band_rank=45&Refer=top) 123964
 1. [布努 门神](https://s.weibo.com/weibo?q=%E5%B8%83%E5%8A%AA%20%E9%97%A8%E7%A5%9E&t=31&band_rank=47&Refer=top) 123661
 1. [英雄永不落幕](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E6%B0%B8%E4%B8%8D%E8%90%BD%E5%B9%95%23&t=31&band_rank=44&Refer=top) 122142
 1. [C罗能否力挽狂澜](https://s.weibo.com/weibo?q=%23C%E7%BD%97%E8%83%BD%E5%90%A6%E5%8A%9B%E6%8C%BD%E7%8B%82%E6%BE%9C%23&t=31&band_rank=45&Refer=top) 120164
 1. [C罗谢幕](https://s.weibo.com/weibo?q=%23C%E7%BD%97%E8%B0%A2%E5%B9%95%23&t=31&band_rank=46&Refer=top) 118740
 1. [一个时代结束了](https://s.weibo.com/weibo?q=%E4%B8%80%E4%B8%AA%E6%97%B6%E4%BB%A3%E7%BB%93%E6%9D%9F%E4%BA%86&t=31&band_rank=50&Refer=top) 116422
+1. [摩洛哥 牙医](https://s.weibo.com/weibo?q=%E6%91%A9%E6%B4%9B%E5%93%A5%20%E7%89%99%E5%8C%BB&t=31&band_rank=35&Refer=top) 116150
+1. [舍不得C罗](https://s.weibo.com/weibo?q=%23%E8%88%8D%E4%B8%8D%E5%BE%97C%E7%BD%97%23&t=31&band_rank=36&Refer=top) 115633
 1. [主人离家1个月猫咪独居长胖3斤](https://s.weibo.com/weibo?q=%23%E4%B8%BB%E4%BA%BA%E7%A6%BB%E5%AE%B61%E4%B8%AA%E6%9C%88%E7%8C%AB%E5%92%AA%E7%8B%AC%E5%B1%85%E9%95%BF%E8%83%963%E6%96%A4%23&t=31&band_rank=50&Refer=top) 114836
 1. [摄影师挤爆替补席拍C罗](https://s.weibo.com/weibo?q=%23%E6%91%84%E5%BD%B1%E5%B8%88%E6%8C%A4%E7%88%86%E6%9B%BF%E8%A1%A5%E5%B8%AD%E6%8B%8DC%E7%BD%97%23&t=31&band_rank=50&Refer=top) 101930
 1. [葡萄牙门将 失误](https://s.weibo.com/weibo?q=%E8%91%A1%E8%90%84%E7%89%99%E9%97%A8%E5%B0%86%20%E5%A4%B1%E8%AF%AF&t=31&band_rank=50&Refer=top) 100712
+1. [我们的当打之年](https://s.weibo.com/weibo?q=%E6%88%91%E4%BB%AC%E7%9A%84%E5%BD%93%E6%89%93%E4%B9%8B%E5%B9%B4&t=31&band_rank=47&Refer=top) 75432
+1. [摩洛哥创造非洲球队世界杯最佳战绩](https://s.weibo.com/weibo?q=%23%E6%91%A9%E6%B4%9B%E5%93%A5%E5%88%9B%E9%80%A0%E9%9D%9E%E6%B4%B2%E7%90%83%E9%98%9F%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%80%E4%BD%B3%E6%88%98%E7%BB%A9%23&t=31&band_rank=49&Refer=top) 75332
 <!-- END -->
 
 历史归档 [./archives](./archives)
