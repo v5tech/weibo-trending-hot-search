@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-12-11 02:48:57.760530 
+最后更新时间 2022-12-11 03:08:38.188454 
 1. [C罗](https://s.weibo.com/weibo?q=C%E7%BD%97&t=31&band_rank=1&Refer=top) 13797203
 1. [摩洛哥半场1比0葡萄牙](https://s.weibo.com/weibo?q=%23%E6%91%A9%E6%B4%9B%E5%93%A5%E5%8D%8A%E5%9C%BA1%E6%AF%940%E8%91%A1%E8%90%84%E7%89%99%23&t=31&band_rank=2&Refer=top) 5279246
 1. [C罗哭了](https://s.weibo.com/weibo?q=%23C%E7%BD%97%E5%93%AD%E4%BA%86%23&t=31&band_rank=5&Refer=top) 4710734
@@ -100,8 +100,10 @@
 1. [主人离家1个月猫咪独居长胖3斤](https://s.weibo.com/weibo?q=%23%E4%B8%BB%E4%BA%BA%E7%A6%BB%E5%AE%B61%E4%B8%AA%E6%9C%88%E7%8C%AB%E5%92%AA%E7%8B%AC%E5%B1%85%E9%95%BF%E8%83%963%E6%96%A4%23&t=31&band_rank=50&Refer=top) 114836
 1. [摄影师挤爆替补席拍C罗](https://s.weibo.com/weibo?q=%23%E6%91%84%E5%BD%B1%E5%B8%88%E6%8C%A4%E7%88%86%E6%9B%BF%E8%A1%A5%E5%B8%AD%E6%8B%8DC%E7%BD%97%23&t=31&band_rank=50&Refer=top) 101930
 1. [葡萄牙门将 失误](https://s.weibo.com/weibo?q=%E8%91%A1%E8%90%84%E7%89%99%E9%97%A8%E5%B0%86%20%E5%A4%B1%E8%AF%AF&t=31&band_rank=50&Refer=top) 100712
+1. [李现说他的青春结束了](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%B0%E8%AF%B4%E4%BB%96%E7%9A%84%E9%9D%92%E6%98%A5%E7%BB%93%E6%9D%9F%E4%BA%86%23&t=31&band_rank=31&Refer=top) 77462
 1. [我们的当打之年](https://s.weibo.com/weibo?q=%E6%88%91%E4%BB%AC%E7%9A%84%E5%BD%93%E6%89%93%E4%B9%8B%E5%B9%B4&t=31&band_rank=47&Refer=top) 75432
 1. [摩洛哥创造非洲球队世界杯最佳战绩](https://s.weibo.com/weibo?q=%23%E6%91%A9%E6%B4%9B%E5%93%A5%E5%88%9B%E9%80%A0%E9%9D%9E%E6%B4%B2%E7%90%83%E9%98%9F%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%80%E4%BD%B3%E6%88%98%E7%BB%A9%23&t=31&band_rank=49&Refer=top) 75332
+1. [詹俊说摩洛哥练了金钟罩铁布衫](https://s.weibo.com/weibo?q=%23%E8%A9%B9%E4%BF%8A%E8%AF%B4%E6%91%A9%E6%B4%9B%E5%93%A5%E7%BB%83%E4%BA%86%E9%87%91%E9%92%9F%E7%BD%A9%E9%93%81%E5%B8%83%E8%A1%AB%23&t=31&band_rank=50&Refer=top) 33955
 <!-- END -->
 
 历史归档 [./archives](./archives)
