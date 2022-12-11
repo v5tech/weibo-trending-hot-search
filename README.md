@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-12-12 06:10:16.612825 
+最后更新时间 2022-12-12 06:26:25.436711 
 1. [行程卡](https://s.weibo.com/weibo?q=%E8%A1%8C%E7%A8%8B%E5%8D%A1&t=31&band_rank=1&Refer=top) 4092918
 1. [拉伊卜小王子首次回应身世](https://s.weibo.com/weibo?q=%23%E6%8B%89%E4%BC%8A%E5%8D%9C%E5%B0%8F%E7%8E%8B%E5%AD%90%E9%A6%96%E6%AC%A1%E5%9B%9E%E5%BA%94%E8%BA%AB%E4%B8%96%23&t=31&band_rank=1&Refer=top) 2122559
 1. [二次感染新冠会更严重吗](https://s.weibo.com/weibo?q=%23%E4%BA%8C%E6%AC%A1%E6%84%9F%E6%9F%93%E6%96%B0%E5%86%A0%E4%BC%9A%E6%9B%B4%E4%B8%A5%E9%87%8D%E5%90%97%23&t=31&band_rank=2&Refer=top) 1454681
@@ -55,6 +55,7 @@
 1. [小米](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3&t=31&band_rank=39&Refer=top) 124334
 1. [巴黎街头球迷狂欢变骚乱](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E%E8%A1%97%E5%A4%B4%E7%90%83%E8%BF%B7%E7%8B%82%E6%AC%A2%E5%8F%98%E9%AA%9A%E4%B9%B1%23&t=31&band_rank=47&Refer=top) 112725
 1. [许半夏赵垒在钢厂结婚](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%8D%8A%E5%A4%8F%E8%B5%B5%E5%9E%92%E5%9C%A8%E9%92%A2%E5%8E%82%E7%BB%93%E5%A9%9A%23&t=31&band_rank=41&Refer=top) 107672
+1. [开窗通风是否会有被传染的风险](https://s.weibo.com/weibo?q=%23%E5%BC%80%E7%AA%97%E9%80%9A%E9%A3%8E%E6%98%AF%E5%90%A6%E4%BC%9A%E6%9C%89%E8%A2%AB%E4%BC%A0%E6%9F%93%E7%9A%84%E9%A3%8E%E9%99%A9%23&t=31&band_rank=49&Refer=top) 102891
 1. [当小狗被主人说变丑后](https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%B0%8F%E7%8B%97%E8%A2%AB%E4%B8%BB%E4%BA%BA%E8%AF%B4%E5%8F%98%E4%B8%91%E5%90%8E%23&t=31&band_rank=40&Refer=top) 98541
 1. [小伙发明新技术让一只葫芦卖到300块](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E5%8F%91%E6%98%8E%E6%96%B0%E6%8A%80%E6%9C%AF%E8%AE%A9%E4%B8%80%E5%8F%AA%E8%91%AB%E8%8A%A6%E5%8D%96%E5%88%B0300%E5%9D%97%23&t=31&band_rank=48&Refer=top) 92996
 1. [阳华用和秦施结婚纪念日买股票](https://s.weibo.com/weibo?q=%23%E9%98%B3%E5%8D%8E%E7%94%A8%E5%92%8C%E7%A7%A6%E6%96%BD%E7%BB%93%E5%A9%9A%E7%BA%AA%E5%BF%B5%E6%97%A5%E4%B9%B0%E8%82%A1%E7%A5%A8%23&t=31&band_rank=44&Refer=top) 92902
@@ -62,7 +63,6 @@
 1. [野猫不想因为孩子放弃出国](https://s.weibo.com/weibo?q=%23%E9%87%8E%E7%8C%AB%E4%B8%8D%E6%83%B3%E5%9B%A0%E4%B8%BA%E5%AD%A9%E5%AD%90%E6%94%BE%E5%BC%83%E5%87%BA%E5%9B%BD%23&t=31&band_rank=43&Refer=top) 83862
 1. [王以太当客服说了65次亲](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BB%A5%E5%A4%AA%E5%BD%93%E5%AE%A2%E6%9C%8D%E8%AF%B4%E4%BA%8665%E6%AC%A1%E4%BA%B2%23&t=31&band_rank=46&Refer=top) 83543
 1. [C罗 双眼皮贴](https://s.weibo.com/weibo?q=C%E7%BD%97%20%E5%8F%8C%E7%9C%BC%E7%9A%AE%E8%B4%B4&t=31&band_rank=44&Refer=top) 78620
-1. [开窗通风是否会有被传染的风险](https://s.weibo.com/weibo?q=%23%E5%BC%80%E7%AA%97%E9%80%9A%E9%A3%8E%E6%98%AF%E5%90%A6%E4%BC%9A%E6%9C%89%E8%A2%AB%E4%BC%A0%E6%9F%93%E7%9A%84%E9%A3%8E%E9%99%A9%23&t=31&band_rank=49&Refer=top) 78489
 1. [怪不得世界杯出图快](https://s.weibo.com/weibo?q=%23%E6%80%AA%E4%B8%8D%E5%BE%97%E4%B8%96%E7%95%8C%E6%9D%AF%E5%87%BA%E5%9B%BE%E5%BF%AB%23&t=31&band_rank=46&Refer=top) 75754
 1. [武汉发热门诊患者大排长龙](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89%E5%8F%91%E7%83%AD%E9%97%A8%E8%AF%8A%E6%82%A3%E8%80%85%E5%A4%A7%E6%8E%92%E9%95%BF%E9%BE%99%23&t=31&band_rank=47&Refer=top) 75638
 1. [袁励岑 表现](https://s.weibo.com/weibo?q=%E8%A2%81%E5%8A%B1%E5%B2%91%20%E8%A1%A8%E7%8E%B0&t=31&band_rank=48&Refer=top) 73559
