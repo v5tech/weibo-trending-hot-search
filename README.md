@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-12-12 05:48:59.329735 
+最后更新时间 2022-12-12 06:10:16.612825 
 1. [行程卡](https://s.weibo.com/weibo?q=%E8%A1%8C%E7%A8%8B%E5%8D%A1&t=31&band_rank=1&Refer=top) 4092918
 1. [拉伊卜小王子首次回应身世](https://s.weibo.com/weibo?q=%23%E6%8B%89%E4%BC%8A%E5%8D%9C%E5%B0%8F%E7%8E%8B%E5%AD%90%E9%A6%96%E6%AC%A1%E5%9B%9E%E5%BA%94%E8%BA%AB%E4%B8%96%23&t=31&band_rank=1&Refer=top) 2122559
 1. [二次感染新冠会更严重吗](https://s.weibo.com/weibo?q=%23%E4%BA%8C%E6%AC%A1%E6%84%9F%E6%9F%93%E6%96%B0%E5%86%A0%E4%BC%9A%E6%9B%B4%E4%B8%A5%E9%87%8D%E5%90%97%23&t=31&band_rank=2&Refer=top) 1454681
@@ -62,12 +62,12 @@
 1. [野猫不想因为孩子放弃出国](https://s.weibo.com/weibo?q=%23%E9%87%8E%E7%8C%AB%E4%B8%8D%E6%83%B3%E5%9B%A0%E4%B8%BA%E5%AD%A9%E5%AD%90%E6%94%BE%E5%BC%83%E5%87%BA%E5%9B%BD%23&t=31&band_rank=43&Refer=top) 83862
 1. [王以太当客服说了65次亲](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BB%A5%E5%A4%AA%E5%BD%93%E5%AE%A2%E6%9C%8D%E8%AF%B4%E4%BA%8665%E6%AC%A1%E4%BA%B2%23&t=31&band_rank=46&Refer=top) 83543
 1. [C罗 双眼皮贴](https://s.weibo.com/weibo?q=C%E7%BD%97%20%E5%8F%8C%E7%9C%BC%E7%9A%AE%E8%B4%B4&t=31&band_rank=44&Refer=top) 78620
+1. [开窗通风是否会有被传染的风险](https://s.weibo.com/weibo?q=%23%E5%BC%80%E7%AA%97%E9%80%9A%E9%A3%8E%E6%98%AF%E5%90%A6%E4%BC%9A%E6%9C%89%E8%A2%AB%E4%BC%A0%E6%9F%93%E7%9A%84%E9%A3%8E%E9%99%A9%23&t=31&band_rank=49&Refer=top) 78489
 1. [怪不得世界杯出图快](https://s.weibo.com/weibo?q=%23%E6%80%AA%E4%B8%8D%E5%BE%97%E4%B8%96%E7%95%8C%E6%9D%AF%E5%87%BA%E5%9B%BE%E5%BF%AB%23&t=31&band_rank=46&Refer=top) 75754
 1. [武汉发热门诊患者大排长龙](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89%E5%8F%91%E7%83%AD%E9%97%A8%E8%AF%8A%E6%82%A3%E8%80%85%E5%A4%A7%E6%8E%92%E9%95%BF%E9%BE%99%23&t=31&band_rank=47&Refer=top) 75638
 1. [袁励岑 表现](https://s.weibo.com/weibo?q=%E8%A2%81%E5%8A%B1%E5%B2%91%20%E8%A1%A8%E7%8E%B0&t=31&band_rank=48&Refer=top) 73559
 1. [女子用毛线打造上千件微景观作品](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%94%A8%E6%AF%9B%E7%BA%BF%E6%89%93%E9%80%A0%E4%B8%8A%E5%8D%83%E4%BB%B6%E5%BE%AE%E6%99%AF%E8%A7%82%E4%BD%9C%E5%93%81%23&t=31&band_rank=49&Refer=top) 73541
 1. [樊振东乒超单打全胜](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E4%B9%92%E8%B6%85%E5%8D%95%E6%89%93%E5%85%A8%E8%83%9C%23&t=31&band_rank=50&Refer=top) 73415
-1. [开窗通风是否会有被传染的风险](https://s.weibo.com/weibo?q=%23%E5%BC%80%E7%AA%97%E9%80%9A%E9%A3%8E%E6%98%AF%E5%90%A6%E4%BC%9A%E6%9C%89%E8%A2%AB%E4%BC%A0%E6%9F%93%E7%9A%84%E9%A3%8E%E9%99%A9%23&t=31&band_rank=49&Refer=top) 66140
 1. [手术全麻是怎样一种体验](https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%AF%E5%85%A8%E9%BA%BB%E6%98%AF%E6%80%8E%E6%A0%B7%E4%B8%80%E7%A7%8D%E4%BD%93%E9%AA%8C%23&t=31&band_rank=48&Refer=top) 30707
 <!-- END -->
 
