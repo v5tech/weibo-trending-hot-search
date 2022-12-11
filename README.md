@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-12-12 06:35:32.293754 
+最后更新时间 2022-12-12 06:48:55.077603 
 1. [行程卡](https://s.weibo.com/weibo?q=%E8%A1%8C%E7%A8%8B%E5%8D%A1&t=31&band_rank=1&Refer=top) 4092918
 1. [拉伊卜小王子首次回应身世](https://s.weibo.com/weibo?q=%23%E6%8B%89%E4%BC%8A%E5%8D%9C%E5%B0%8F%E7%8E%8B%E5%AD%90%E9%A6%96%E6%AC%A1%E5%9B%9E%E5%BA%94%E8%BA%AB%E4%B8%96%23&t=31&band_rank=1&Refer=top) 2122559
 1. [二次感染新冠会更严重吗](https://s.weibo.com/weibo?q=%23%E4%BA%8C%E6%AC%A1%E6%84%9F%E6%9F%93%E6%96%B0%E5%86%A0%E4%BC%9A%E6%9B%B4%E4%B8%A5%E9%87%8D%E5%90%97%23&t=31&band_rank=2&Refer=top) 1454681
@@ -51,9 +51,9 @@
 1. [家政阿姨偷吃饭菜雇主每天吃口水菜](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E6%94%BF%E9%98%BF%E5%A7%A8%E5%81%B7%E5%90%83%E9%A5%AD%E8%8F%9C%E9%9B%87%E4%B8%BB%E6%AF%8F%E5%A4%A9%E5%90%83%E5%8F%A3%E6%B0%B4%E8%8F%9C%23&t=31&band_rank=36&Refer=top) 135650
 1. [许半夏遭前夫报复](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%8D%8A%E5%A4%8F%E9%81%AD%E5%89%8D%E5%A4%AB%E6%8A%A5%E5%A4%8D%23&t=31&band_rank=37&Refer=top) 134400
 1. [白鲨首夺CFS总冠军](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B2%A8%E9%A6%96%E5%A4%BACFS%E6%80%BB%E5%86%A0%E5%86%9B%23&t=31&band_rank=38&Refer=top) 133783
+1. [开窗通风是否会有被传染的风险](https://s.weibo.com/weibo?q=%23%E5%BC%80%E7%AA%97%E9%80%9A%E9%A3%8E%E6%98%AF%E5%90%A6%E4%BC%9A%E6%9C%89%E8%A2%AB%E4%BC%A0%E6%9F%93%E7%9A%84%E9%A3%8E%E9%99%A9%23&t=31&band_rank=49&Refer=top) 133177
 1. [韩雯雯有多依赖朱孝天](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E9%9B%AF%E9%9B%AF%E6%9C%89%E5%A4%9A%E4%BE%9D%E8%B5%96%E6%9C%B1%E5%AD%9D%E5%A4%A9%23&t=31&band_rank=32&Refer=top) 128216
 1. [小米](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3&t=31&band_rank=39&Refer=top) 124334
-1. [开窗通风是否会有被传染的风险](https://s.weibo.com/weibo?q=%23%E5%BC%80%E7%AA%97%E9%80%9A%E9%A3%8E%E6%98%AF%E5%90%A6%E4%BC%9A%E6%9C%89%E8%A2%AB%E4%BC%A0%E6%9F%93%E7%9A%84%E9%A3%8E%E9%99%A9%23&t=31&band_rank=49&Refer=top) 118174
 1. [巴黎街头球迷狂欢变骚乱](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E%E8%A1%97%E5%A4%B4%E7%90%83%E8%BF%B7%E7%8B%82%E6%AC%A2%E5%8F%98%E9%AA%9A%E4%B9%B1%23&t=31&band_rank=47&Refer=top) 112725
 1. [许半夏赵垒在钢厂结婚](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%8D%8A%E5%A4%8F%E8%B5%B5%E5%9E%92%E5%9C%A8%E9%92%A2%E5%8E%82%E7%BB%93%E5%A9%9A%23&t=31&band_rank=41&Refer=top) 107672
 1. [当小狗被主人说变丑后](https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%B0%8F%E7%8B%97%E8%A2%AB%E4%B8%BB%E4%BA%BA%E8%AF%B4%E5%8F%98%E4%B8%91%E5%90%8E%23&t=31&band_rank=40&Refer=top) 98541
@@ -69,6 +69,7 @@
 1. [女子用毛线打造上千件微景观作品](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%94%A8%E6%AF%9B%E7%BA%BF%E6%89%93%E9%80%A0%E4%B8%8A%E5%8D%83%E4%BB%B6%E5%BE%AE%E6%99%AF%E8%A7%82%E4%BD%9C%E5%93%81%23&t=31&band_rank=49&Refer=top) 73541
 1. [樊振东乒超单打全胜](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E4%B9%92%E8%B6%85%E5%8D%95%E6%89%93%E5%85%A8%E8%83%9C%23&t=31&band_rank=50&Refer=top) 73415
 1. [手术全麻是怎样一种体验](https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%AF%E5%85%A8%E9%BA%BB%E6%98%AF%E6%80%8E%E6%A0%B7%E4%B8%80%E7%A7%8D%E4%BD%93%E9%AA%8C%23&t=31&band_rank=48&Refer=top) 30707
+1. [江苏省中医院公布防治新冠中药方](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E7%9C%81%E4%B8%AD%E5%8C%BB%E9%99%A2%E5%85%AC%E5%B8%83%E9%98%B2%E6%B2%BB%E6%96%B0%E5%86%A0%E4%B8%AD%E8%8D%AF%E6%96%B9%23&t=31&band_rank=38&Refer=top) 30183
 <!-- END -->
 
 历史归档 [./archives](./archives)
