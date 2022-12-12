@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-12-13 06:38:05.071636 
+最后更新时间 2022-12-13 06:49:23.024955 
 1. [男子称妻子孕肚像被蜈蚣爬满太恐怖](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%A7%B0%E5%A6%BB%E5%AD%90%E5%AD%95%E8%82%9A%E5%83%8F%E8%A2%AB%E8%9C%88%E8%9A%A3%E7%88%AC%E6%BB%A1%E5%A4%AA%E6%81%90%E6%80%96%23&t=31&band_rank=11&Refer=top) 1671218
 1. [阳性者尽量少叫快递外卖](https://s.weibo.com/weibo?q=%23%E9%98%B3%E6%80%A7%E8%80%85%E5%B0%BD%E9%87%8F%E5%B0%91%E5%8F%AB%E5%BF%AB%E9%80%92%E5%A4%96%E5%8D%96%23&t=31&band_rank=1&Refer=top) 1513206
 1. [用户行程卡数据将被删除](https://s.weibo.com/weibo?q=%23%E7%94%A8%E6%88%B7%E8%A1%8C%E7%A8%8B%E5%8D%A1%E6%95%B0%E6%8D%AE%E5%B0%86%E8%A2%AB%E5%88%A0%E9%99%A4%23&t=31&band_rank=2&Refer=top) 1306939
@@ -20,10 +20,10 @@
 1. [行程卡带来了什么](https://s.weibo.com/weibo?q=%23%E8%A1%8C%E7%A8%8B%E5%8D%A1%E5%B8%A6%E6%9D%A5%E4%BA%86%E4%BB%80%E4%B9%88%23&t=31&band_rank=9&Refer=top) 637564
 1. [郭帆评价阿凡达2](https://s.weibo.com/weibo?q=%23%E9%83%AD%E5%B8%86%E8%AF%84%E4%BB%B7%E9%98%BF%E5%87%A1%E8%BE%BE2%23&t=31&band_rank=10&Refer=top) 585241
 1. [刘加勇医生](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%8A%A0%E5%8B%87%E5%8C%BB%E7%94%9F%23&t=31&band_rank=12&Refer=top) 552323
+1. [你身边有多少人中招了](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%BA%AB%E8%BE%B9%E6%9C%89%E5%A4%9A%E5%B0%91%E4%BA%BA%E4%B8%AD%E6%8B%9B%E4%BA%86%23&t=31&band_rank=19&Refer=top) 486285
 1. [健康码](https://s.weibo.com/weibo?q=%E5%81%A5%E5%BA%B7%E7%A0%81&t=31&band_rank=13&Refer=top) 463431
 1. [黄桃罐头](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%A1%83%E7%BD%90%E5%A4%B4%23&t=31&band_rank=14&Refer=top) 446951
 1. [宝鹃扮演者回应网友喊宝鹃](https://s.weibo.com/weibo?q=%E5%AE%9D%E9%B9%83%E6%89%AE%E6%BC%94%E8%80%85%E5%9B%9E%E5%BA%94%E7%BD%91%E5%8F%8B%E5%96%8A%E5%AE%9D%E9%B9%83&t=31&band_rank=24&Refer=top) 431655
-1. [你身边有多少人中招了](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%BA%AB%E8%BE%B9%E6%9C%89%E5%A4%9A%E5%B0%91%E4%BA%BA%E4%B8%AD%E6%8B%9B%E4%BA%86%23&t=31&band_rank=19&Refer=top) 417413
 1. [田亮森碟与赌王四太合照](https://s.weibo.com/weibo?q=%23%E7%94%B0%E4%BA%AE%E6%A3%AE%E7%A2%9F%E4%B8%8E%E8%B5%8C%E7%8E%8B%E5%9B%9B%E5%A4%AA%E5%90%88%E7%85%A7%23&t=31&band_rank=15&Refer=top) 402389
 1. [多喝水多睡觉对新冠管用吗](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%96%9D%E6%B0%B4%E5%A4%9A%E7%9D%A1%E8%A7%89%E5%AF%B9%E6%96%B0%E5%86%A0%E7%AE%A1%E7%94%A8%E5%90%97%23&t=31&band_rank=16&Refer=top) 399552
 1. [伴娘穿露肩礼服肌肉健硕](https://s.weibo.com/weibo?q=%23%E4%BC%B4%E5%A8%98%E7%A9%BF%E9%9C%B2%E8%82%A9%E7%A4%BC%E6%9C%8D%E8%82%8C%E8%82%89%E5%81%A5%E7%A1%95%23&t=31&band_rank=32&Refer=top) 371879
@@ -55,21 +55,21 @@
 1. [鲁豫有约官宣陈晓](https://s.weibo.com/weibo?q=%23%E9%B2%81%E8%B1%AB%E6%9C%89%E7%BA%A6%E5%AE%98%E5%AE%A3%E9%99%88%E6%99%93%23&t=31&band_rank=42&Refer=top) 121911
 1. [许半夏嫁对人了](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%8D%8A%E5%A4%8F%E5%AB%81%E5%AF%B9%E4%BA%BA%E4%BA%86%23&t=31&band_rank=43&Refer=top) 119973
 1. [UP](https://s.weibo.com/weibo?q=UP&t=31&band_rank=44&Refer=top) 116724
+1. [上海现60岁以上老人打疫苗1针奖500](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E7%8E%B060%E5%B2%81%E4%BB%A5%E4%B8%8A%E8%80%81%E4%BA%BA%E6%89%93%E7%96%AB%E8%8B%971%E9%92%88%E5%A5%96500%23&t=31&band_rank=50&Refer=top) 114286
 1. [胡歌新剧梅晓歌小名叫傻哥](https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E6%96%B0%E5%89%A7%E6%A2%85%E6%99%93%E6%AD%8C%E5%B0%8F%E5%90%8D%E5%8F%AB%E5%82%BB%E5%93%A5%23&t=31&band_rank=45&Refer=top) 114014
 1. [除连花清瘟布洛芬外还有哪些药可用](https://s.weibo.com/weibo?q=%23%E9%99%A4%E8%BF%9E%E8%8A%B1%E6%B8%85%E7%98%9F%E5%B8%83%E6%B4%9B%E8%8A%AC%E5%A4%96%E8%BF%98%E6%9C%89%E5%93%AA%E4%BA%9B%E8%8D%AF%E5%8F%AF%E7%94%A8%23&t=31&band_rank=46&Refer=top) 110140
 1. [艺考时这猫坐我前面](https://s.weibo.com/weibo?q=%23%E8%89%BA%E8%80%83%E6%97%B6%E8%BF%99%E7%8C%AB%E5%9D%90%E6%88%91%E5%89%8D%E9%9D%A2%23&t=31&band_rank=47&Refer=top) 110055
 1. [李子璇足球场版比耶舞](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AD%90%E7%92%87%E8%B6%B3%E7%90%83%E5%9C%BA%E7%89%88%E6%AF%94%E8%80%B6%E8%88%9E%23&t=31&band_rank=48&Refer=top) 109660
 1. [小男孩等妈妈生产一问爸爸去厕所了](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%94%B7%E5%AD%A9%E7%AD%89%E5%A6%88%E5%A6%88%E7%94%9F%E4%BA%A7%E4%B8%80%E9%97%AE%E7%88%B8%E7%88%B8%E5%8E%BB%E5%8E%95%E6%89%80%E4%BA%86%23&t=31&band_rank=49&Refer=top) 107895
 1. [一诺](https://s.weibo.com/weibo?q=%E4%B8%80%E8%AF%BA&t=31&band_rank=50&Refer=top) 103670
-1. [上海现60岁以上老人打疫苗1针奖500](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E7%8E%B060%E5%B2%81%E4%BB%A5%E4%B8%8A%E8%80%81%E4%BA%BA%E6%89%93%E7%96%AB%E8%8B%971%E9%92%88%E5%A5%96500%23&t=31&band_rank=50&Refer=top) 90335
 1. [赵垒婚后秒变陪许半夏应酬的家属](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E5%9E%92%E5%A9%9A%E5%90%8E%E7%A7%92%E5%8F%98%E9%99%AA%E8%AE%B8%E5%8D%8A%E5%A4%8F%E5%BA%94%E9%85%AC%E7%9A%84%E5%AE%B6%E5%B1%9E%23&t=31&band_rank=45&Refer=top) 87818
 1. [我拍下的2022](https://s.weibo.com/weibo?q=%23%E6%88%91%E6%8B%8D%E4%B8%8B%E7%9A%842022%23&t=31&band_rank=49&Refer=top) 80414
+1. [于和伟 病毒开始攻击检测工具了吗](https://s.weibo.com/weibo?q=%E4%BA%8E%E5%92%8C%E4%BC%9F%20%E7%97%85%E6%AF%92%E5%BC%80%E5%A7%8B%E6%94%BB%E5%87%BB%E6%A3%80%E6%B5%8B%E5%B7%A5%E5%85%B7%E4%BA%86%E5%90%97&t=31&band_rank=50&Refer=top) 72539
+1. [地狱犬的病原性与BA.5相同或更低](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E7%8B%B1%E7%8A%AC%E7%9A%84%E7%97%85%E5%8E%9F%E6%80%A7%E4%B8%8EBA.5%E7%9B%B8%E5%90%8C%E6%88%96%E6%9B%B4%E4%BD%8E%23&t=31&band_rank=50&Refer=top) 71110
+1. [顾客吐槽摊主将菜价小数点嵌字里](https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E5%90%90%E6%A7%BD%E6%91%8A%E4%B8%BB%E5%B0%86%E8%8F%9C%E4%BB%B7%E5%B0%8F%E6%95%B0%E7%82%B9%E5%B5%8C%E5%AD%97%E9%87%8C%23&t=31&band_rank=45&Refer=top) 69843
 1. [GQ 机智的回答也能获得大量曝光](https://s.weibo.com/weibo?q=GQ%20%E6%9C%BA%E6%99%BA%E7%9A%84%E5%9B%9E%E7%AD%94%E4%B9%9F%E8%83%BD%E8%8E%B7%E5%BE%97%E5%A4%A7%E9%87%8F%E6%9B%9D%E5%85%89&t=31&band_rank=46&Refer=top) 69481
-1. [于和伟 病毒开始攻击检测工具了吗](https://s.weibo.com/weibo?q=%E4%BA%8E%E5%92%8C%E4%BC%9F%20%E7%97%85%E6%AF%92%E5%BC%80%E5%A7%8B%E6%94%BB%E5%87%BB%E6%A3%80%E6%B5%8B%E5%B7%A5%E5%85%B7%E4%BA%86%E5%90%97&t=31&band_rank=50&Refer=top) 65527
 1. [田曦薇新剧初次爱你演医学少女](https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E6%96%B0%E5%89%A7%E5%88%9D%E6%AC%A1%E7%88%B1%E4%BD%A0%E6%BC%94%E5%8C%BB%E5%AD%A6%E5%B0%91%E5%A5%B3%23&t=31&band_rank=42&Refer=top) 64201
 1. [这就是破碎感美人吧](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E7%A0%B4%E7%A2%8E%E6%84%9F%E7%BE%8E%E4%BA%BA%E5%90%A7%23&t=31&band_rank=50&Refer=top) 59061
-1. [顾客吐槽摊主将菜价小数点嵌字里](https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E5%90%90%E6%A7%BD%E6%91%8A%E4%B8%BB%E5%B0%86%E8%8F%9C%E4%BB%B7%E5%B0%8F%E6%95%B0%E7%82%B9%E5%B5%8C%E5%AD%97%E9%87%8C%23&t=31&band_rank=45&Refer=top) 56887
-1. [地狱犬的病原性与BA.5相同或更低](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E7%8B%B1%E7%8A%AC%E7%9A%84%E7%97%85%E5%8E%9F%E6%80%A7%E4%B8%8EBA.5%E7%9B%B8%E5%90%8C%E6%88%96%E6%9B%B4%E4%BD%8E%23&t=31&band_rank=50&Refer=top) 49189
 1. [腾讯会议崩了](https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E4%BC%9A%E8%AE%AE%E5%B4%A9%E4%BA%86%23&t=31&band_rank=50&Refer=top) 39835
 <!-- END -->
 
