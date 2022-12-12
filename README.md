@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-12-13 04:27:01.567829 
+最后更新时间 2022-12-13 04:36:21.185881 
 1. [男子称妻子孕肚像被蜈蚣爬满太恐怖](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%A7%B0%E5%A6%BB%E5%AD%90%E5%AD%95%E8%82%9A%E5%83%8F%E8%A2%AB%E8%9C%88%E8%9A%A3%E7%88%AC%E6%BB%A1%E5%A4%AA%E6%81%90%E6%80%96%23&t=31&band_rank=11&Refer=top) 1671218
 1. [阳性者尽量少叫快递外卖](https://s.weibo.com/weibo?q=%23%E9%98%B3%E6%80%A7%E8%80%85%E5%B0%BD%E9%87%8F%E5%B0%91%E5%8F%AB%E5%BF%AB%E9%80%92%E5%A4%96%E5%8D%96%23&t=31&band_rank=1&Refer=top) 1513206
 1. [用户行程卡数据将被删除](https://s.weibo.com/weibo?q=%23%E7%94%A8%E6%88%B7%E8%A1%8C%E7%A8%8B%E5%8D%A1%E6%95%B0%E6%8D%AE%E5%B0%86%E8%A2%AB%E5%88%A0%E9%99%A4%23&t=31&band_rank=2&Refer=top) 1306939
