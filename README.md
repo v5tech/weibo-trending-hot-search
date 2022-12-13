@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-12-14 01:25:59.655807 
+最后更新时间 2022-12-14 01:34:40.842480 
 1. [马航MH370起落架舱门残骸被发现](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E8%88%AAMH370%E8%B5%B7%E8%90%BD%E6%9E%B6%E8%88%B1%E9%97%A8%E6%AE%8B%E9%AA%B8%E8%A2%AB%E5%8F%91%E7%8E%B0%23&t=31&band_rank=1&Refer=top) 1448367
 1. [N95口罩与KN95的区别](https://s.weibo.com/weibo?q=%23N95%E5%8F%A3%E7%BD%A9%E4%B8%8EKN95%E7%9A%84%E5%8C%BA%E5%88%AB%23&t=31&band_rank=2&Refer=top) 1446263
 1. [不同年龄段儿童退烧药怎么选](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%90%8C%E5%B9%B4%E9%BE%84%E6%AE%B5%E5%84%BF%E7%AB%A5%E9%80%80%E7%83%A7%E8%8D%AF%E6%80%8E%E4%B9%88%E9%80%89%23&t=31&band_rank=3&Refer=top) 1220923
@@ -48,11 +48,11 @@
 1. [谷歌拒将正确中国国歌置顶](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E6%AD%8C%E6%8B%92%E5%B0%86%E6%AD%A3%E7%A1%AE%E4%B8%AD%E5%9B%BD%E5%9B%BD%E6%AD%8C%E7%BD%AE%E9%A1%B6%23&t=31&band_rank=37&Refer=top) 172079
 1. [老师讲人体结构叫男生脱衣展示](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E8%AE%B2%E4%BA%BA%E4%BD%93%E7%BB%93%E6%9E%84%E5%8F%AB%E7%94%B7%E7%94%9F%E8%84%B1%E8%A1%A3%E5%B1%95%E7%A4%BA%23&t=31&band_rank=38&Refer=top) 171793
 1. [北京1岁宝宝照顾阳性妈妈](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC1%E5%B2%81%E5%AE%9D%E5%AE%9D%E7%85%A7%E9%A1%BE%E9%98%B3%E6%80%A7%E5%A6%88%E5%A6%88%23&t=31&band_rank=39&Refer=top) 170126
+1. [这门票太值了](https://s.weibo.com/weibo?q=%23%E8%BF%99%E9%97%A8%E7%A5%A8%E5%A4%AA%E5%80%BC%E4%BA%86%23&t=31&band_rank=49&Refer=top) 154428
 1. [克罗地亚阿根廷预测](https://s.weibo.com/weibo?q=%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%A2%84%E6%B5%8B&t=31&band_rank=40&Refer=top) 150802
 1. [seventeen获AAA年度歌手](https://s.weibo.com/weibo?q=%23seventeen%E8%8E%B7AAA%E5%B9%B4%E5%BA%A6%E6%AD%8C%E6%89%8B%23&t=31&band_rank=41&Refer=top) 143442
 1. [男子到朋友家围炉煮茶烧化桌子](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%88%B0%E6%9C%8B%E5%8F%8B%E5%AE%B6%E5%9B%B4%E7%82%89%E7%85%AE%E8%8C%B6%E7%83%A7%E5%8C%96%E6%A1%8C%E5%AD%90%23&t=31&band_rank=42&Refer=top) 142823
 1. [梅西说给你俩窝窝](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%AF%B4%E7%BB%99%E4%BD%A0%E4%BF%A9%E7%AA%9D%E7%AA%9D%23&t=31&band_rank=43&Refer=top) 142150
-1. [这门票太值了](https://s.weibo.com/weibo?q=%23%E8%BF%99%E9%97%A8%E7%A5%A8%E5%A4%AA%E5%80%BC%E4%BA%86%23&t=31&band_rank=49&Refer=top) 141231
 1. [许半夏变卖家产补偿滩涂村民](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%8D%8A%E5%A4%8F%E5%8F%98%E5%8D%96%E5%AE%B6%E4%BA%A7%E8%A1%A5%E5%81%BF%E6%BB%A9%E6%B6%82%E6%9D%91%E6%B0%91%23&t=31&band_rank=45&Refer=top) 137760
 1. [欧文预测克罗地亚淘汰阿根廷](https://s.weibo.com/weibo?q=%23%E6%AC%A7%E6%96%87%E9%A2%84%E6%B5%8B%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%E6%B7%98%E6%B1%B0%E9%98%BF%E6%A0%B9%E5%BB%B7%23&t=31&band_rank=46&Refer=top) 134635
 1. [为什么不建议大家异地恋](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E5%BC%82%E5%9C%B0%E6%81%8B%23&t=31&band_rank=47&Refer=top) 133819
