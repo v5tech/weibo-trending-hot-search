@@ -1,7 +1,11 @@
 {
   "阿根廷vs克罗地亚": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7vs%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%23&t=31&band_rank=10&Refer=top",
-    "hot": 1654021
+    "hot": 2424775
+  },
+  "梅西": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%23&t=31&band_rank=32&Refer=top",
+    "hot": 1825368
   },
   "马航MH370起落架舱门残骸被发现": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E8%88%AAMH370%E8%B5%B7%E8%90%BD%E6%9E%B6%E8%88%B1%E9%97%A8%E6%AE%8B%E9%AA%B8%E8%A2%AB%E5%8F%91%E7%8E%B0%23&t=31&band_rank=1&Refer=top",
@@ -13,7 +17,11 @@
   },
   "不同年龄段儿童退烧药怎么选": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%90%8C%E5%B9%B4%E9%BE%84%E6%AE%B5%E5%84%BF%E7%AB%A5%E9%80%80%E7%83%A7%E8%8D%AF%E6%80%8E%E4%B9%88%E9%80%89%23&t=31&band_rank=3&Refer=top",
-    "hot": 1220923
+    "hot": 1423412
+  },
+  "裁判": {
+    "url": "https://s.weibo.com/weibo?q=%E8%A3%81%E5%88%A4&t=31&band_rank=20&Refer=top",
+    "hot": 1388712
   },
   "男子给孕妻买退烧药货架摆满却不卖": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%BB%99%E5%AD%95%E5%A6%BB%E4%B9%B0%E9%80%80%E7%83%A7%E8%8D%AF%E8%B4%A7%E6%9E%B6%E6%91%86%E6%BB%A1%E5%8D%B4%E4%B8%8D%E5%8D%96%23&t=31&band_rank=4&Refer=top",
@@ -23,9 +31,13 @@
     "url": "https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E7%82%B9%E7%90%83%E7%A0%B4%E9%97%A8%23&t=31&band_rank=5&Refer=top",
     "hot": 1111698
   },
-  "梅西": {
-    "url": "https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%23&t=31&band_rank=32&Refer=top",
-    "hot": 954684
+  "梅西莫德里奇拥抱": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%8E%AB%E5%BE%B7%E9%87%8C%E5%A5%87%E6%8B%A5%E6%8A%B1%23&t=31&band_rank=48&Refer=top",
+    "hot": 980303
+  },
+  "阿根廷3比0克罗地亚": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B73%E6%AF%940%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%23&t=31&band_rank=6&Refer=top",
+    "hot": 920030
   },
   "女子混吃7种感冒止咳药全身长满脓疱": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%B7%B7%E5%90%837%E7%A7%8D%E6%84%9F%E5%86%92%E6%AD%A2%E5%92%B3%E8%8D%AF%E5%85%A8%E8%BA%AB%E9%95%BF%E6%BB%A1%E8%84%93%E7%96%B1%23&t=31&band_rank=5&Refer=top",
@@ -39,13 +51,21 @@
     "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E7%BE%8A%E7%BE%8A&t=31&band_rank=7&Refer=top",
     "hot": 786031
   },
+  "梅西过人": {
+    "url": "https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BF%E8%BF%87%E4%BA%BA&t=31&band_rank=20&Refer=top",
+    "hot": 780171
+  },
+  "迪巴拉上场": {
+    "url": "https://s.weibo.com/weibo?q=%E8%BF%AA%E5%B7%B4%E6%8B%89%E4%B8%8A%E5%9C%BA&t=31&band_rank=7&Refer=top",
+    "hot": 761415
+  },
   "37岁前中甲球员染新冠后去世": {
     "url": "https://s.weibo.com/weibo?q=%2337%E5%B2%81%E5%89%8D%E4%B8%AD%E7%94%B2%E7%90%83%E5%91%98%E6%9F%93%E6%96%B0%E5%86%A0%E5%90%8E%E5%8E%BB%E4%B8%96%23&t=31&band_rank=8&Refer=top",
     "hot": 756597
   },
-  "裁判": {
-    "url": "https://s.weibo.com/weibo?q=%E8%A3%81%E5%88%A4&t=31&band_rank=20&Refer=top",
-    "hot": 737506
+  "阿根廷队杀疯了": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%98%9F%E6%9D%80%E7%96%AF%E4%BA%86%23&t=31&band_rank=9&Refer=top",
+    "hot": 728640
   },
   "伊甸园": {
     "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E7%94%B8%E5%9B%AD&t=31&band_rank=16&Refer=top",
@@ -67,6 +87,10 @@
     "url": "https://s.weibo.com/weibo?q=%E8%A1%8C%E7%A8%8B%E5%8D%A1%E7%BA%AA%E5%BF%B5%E7%89%88&t=31&band_rank=12&Refer=top",
     "hot": 573848
   },
+  "莫德里奇": {
+    "url": "https://s.weibo.com/weibo?q=%23%E8%8E%AB%E5%BE%B7%E9%87%8C%E5%A5%87%23&t=31&band_rank=18&Refer=top",
+    "hot": 566029
+  },
   "阿根廷从未输过世界杯半决赛": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7%E4%BB%8E%E6%9C%AA%E8%BE%93%E8%BF%87%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8D%8A%E5%86%B3%E8%B5%9B%23&t=31&band_rank=50&Refer=top",
     "hot": 541386
@@ -79,21 +103,25 @@
     "url": "https://s.weibo.com/weibo?q=%E9%A3%8E%E5%90%B9%E5%8D%8A%E5%A4%8F%E7%BB%93%E5%B1%80&t=31&band_rank=14&Refer=top",
     "hot": 496009
   },
+  "梅西成为阿根廷队世界杯射手王": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E6%88%90%E4%B8%BA%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%98%9F%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B0%84%E6%89%8B%E7%8E%8B%23&t=31&band_rank=12&Refer=top",
+    "hot": 483502
+  },
   "一家4人阳性男子自驾600公里回家": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%AE%B64%E4%BA%BA%E9%98%B3%E6%80%A7%E7%94%B7%E5%AD%90%E8%87%AA%E9%A9%BE600%E5%85%AC%E9%87%8C%E5%9B%9E%E5%AE%B6%23&t=31&band_rank=15&Refer=top",
     "hot": 430854
-  },
-  "迪巴拉上场": {
-    "url": "https://s.weibo.com/weibo?q=%E8%BF%AA%E5%B7%B4%E6%8B%89%E4%B8%8A%E5%9C%BA&t=31&band_rank=7&Refer=top",
-    "hot": 426138
   },
   "孩子确诊量体温温度涨幅肉眼可见": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E7%A1%AE%E8%AF%8A%E9%87%8F%E4%BD%93%E6%B8%A9%E6%B8%A9%E5%BA%A6%E6%B6%A8%E5%B9%85%E8%82%89%E7%9C%BC%E5%8F%AF%E8%A7%81%23&t=31&band_rank=17&Refer=top",
     "hot": 424477
   },
-  "莫德里奇": {
-    "url": "https://s.weibo.com/weibo?q=%23%E8%8E%AB%E5%BE%B7%E9%87%8C%E5%A5%87%23&t=31&band_rank=18&Refer=top",
-    "hot": 418851
+  "阿尔瓦雷斯 牛": {
+    "url": "https://s.weibo.com/weibo?q=%E9%98%BF%E5%B0%94%E7%93%A6%E9%9B%B7%E6%96%AF%20%E7%89%9B&t=31&band_rank=18&Refer=top",
+    "hot": 343770
+  },
+  "小罗": {
+    "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%BD%97&t=31&band_rank=10&Refer=top",
+    "hot": 343716
   },
   "男子发烧近40度床上印出人形汗印": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%8F%91%E7%83%A7%E8%BF%9140%E5%BA%A6%E5%BA%8A%E4%B8%8A%E5%8D%B0%E5%87%BA%E4%BA%BA%E5%BD%A2%E6%B1%97%E5%8D%B0%23&t=31&band_rank=19&Refer=top",
@@ -110,10 +138,6 @@
   "范志毅向前国足后卫赵鹏道歉": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%8C%83%E5%BF%97%E6%AF%85%E5%90%91%E5%89%8D%E5%9B%BD%E8%B6%B3%E5%90%8E%E5%8D%AB%E8%B5%B5%E9%B9%8F%E9%81%93%E6%AD%89%23&t=31&band_rank=22&Refer=top",
     "hot": 322511
-  },
-  "小罗": {
-    "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%BD%97&t=31&band_rank=10&Refer=top",
-    "hot": 319284
   },
   "克罗地亚球衣": {
     "url": "https://s.weibo.com/weibo?q=%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%E7%90%83%E8%A1%A3&t=31&band_rank=15&Refer=top",
@@ -147,17 +171,13 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E5%9C%B0%E6%96%B9%E9%95%87%E9%BB%84%E6%A1%83%E7%BD%90%E5%A4%B4%E8%AE%A2%E5%8D%95%E6%9A%B4%E6%B6%A8%23&t=31&band_rank=26&Refer=top",
     "hot": 251364
   },
-  "阿尔瓦雷斯 牛": {
-    "url": "https://s.weibo.com/weibo?q=%E9%98%BF%E5%B0%94%E7%93%A6%E9%9B%B7%E6%96%AF%20%E7%89%9B&t=31&band_rank=18&Refer=top",
-    "hot": 250864
+  "利瓦科维奇": {
+    "url": "https://s.weibo.com/weibo?q=%E5%88%A9%E7%93%A6%E7%A7%91%E7%BB%B4%E5%A5%87&t=31&band_rank=15&Refer=top",
+    "hot": 241890
   },
-  "梅西莫德里奇拥抱": {
-    "url": "https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%8E%AB%E5%BE%B7%E9%87%8C%E5%A5%87%E6%8B%A5%E6%8A%B1%23&t=31&band_rank=48&Refer=top",
-    "hot": 242447
-  },
-  "梅西成为阿根廷队世界杯射手王": {
-    "url": "https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E6%88%90%E4%B8%BA%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%98%9F%E4%B8%96%E7%95%8C%E6%9D%AF%E5%B0%84%E6%89%8B%E7%8E%8B%23&t=31&band_rank=12&Refer=top",
-    "hot": 232261
+  "魔笛被换下": {
+    "url": "https://s.weibo.com/weibo?q=%E9%AD%94%E7%AC%9B%E8%A2%AB%E6%8D%A2%E4%B8%8B&t=31&band_rank=30&Refer=top",
+    "hot": 240224
   },
   "龚俊确定不出席GQ": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%BE%9A%E4%BF%8A%E7%A1%AE%E5%AE%9A%E4%B8%8D%E5%87%BA%E5%B8%ADGQ%23&t=31&band_rank=27&Refer=top",
@@ -227,10 +247,6 @@
     "url": "https://s.weibo.com/weibo?q=%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%A2%84%E6%B5%8B&t=31&band_rank=40&Refer=top",
     "hot": 150802
   },
-  "利瓦科维奇": {
-    "url": "https://s.weibo.com/weibo?q=%E5%88%A9%E7%93%A6%E7%A7%91%E7%BB%B4%E5%A5%87&t=31&band_rank=15&Refer=top",
-    "hot": 146781
-  },
   "seventeen获AAA年度歌手": {
     "url": "https://s.weibo.com/weibo?q=%23seventeen%E8%8E%B7AAA%E5%B9%B4%E5%BA%A6%E6%AD%8C%E6%89%8B%23&t=31&band_rank=41&Refer=top",
     "hot": 143442
@@ -271,17 +287,21 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%AE%9D%E5%AE%9D%E6%8B%89%E5%9C%A8%E5%BA%8A%E4%B8%8A%E7%88%B8%E7%88%B8%E7%9B%B4%E6%8E%A5%E5%B0%86%E5%BA%8A%E5%8D%95%E5%89%AA%E6%B4%9E%23&t=31&band_rank=50&Refer=top",
     "hot": 117034
   },
-  "梅西过人": {
-    "url": "https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BF%E8%BF%87%E4%BA%BA&t=31&band_rank=20&Refer=top",
-    "hot": 108479
-  },
   "米卢认为克罗地亚状态极佳": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%B1%B3%E5%8D%A2%E8%AE%A4%E4%B8%BA%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%E7%8A%B6%E6%80%81%E6%9E%81%E4%BD%B3%23&t=31&band_rank=50&Refer=top",
     "hot": 106202
   },
+  "阿根廷主帅看球迷雨中庆祝落泪": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7%E4%B8%BB%E5%B8%85%E7%9C%8B%E7%90%83%E8%BF%B7%E9%9B%A8%E4%B8%AD%E5%BA%86%E7%A5%9D%E8%90%BD%E6%B3%AA%23&t=31&band_rank=48&Refer=top",
+    "hot": 81120
+  },
   "专家称医护或需轻伤不下火线": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E5%8C%BB%E6%8A%A4%E6%88%96%E9%9C%80%E8%BD%BB%E4%BC%A4%E4%B8%8D%E4%B8%8B%E7%81%AB%E7%BA%BF%23&t=31&band_rank=45&Refer=top",
     "hot": 80785
+  },
+  "阿根廷晋级决赛": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7%E6%99%8B%E7%BA%A7%E5%86%B3%E8%B5%9B%23&t=31&band_rank=23&Refer=top",
+    "hot": 80729
   },
   "克罗地亚究竟强在哪儿": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%E7%A9%B6%E7%AB%9F%E5%BC%BA%E5%9C%A8%E5%93%AA%E5%84%BF%23&t=31&band_rank=45&Refer=top",
@@ -303,9 +323,13 @@
     "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7%E8%B5%9B%E5%89%8D%E7%9A%84%E5%B9%95%E5%90%8E%E6%9C%89%E5%A4%9A%E5%A5%BD%E7%AC%91%23&t=31&band_rank=32&Refer=top",
     "hot": 60611
   },
-  "阿根廷主帅看球迷雨中庆祝落泪": {
-    "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7%E4%B8%BB%E5%B8%85%E7%9C%8B%E7%90%83%E8%BF%B7%E9%9B%A8%E4%B8%AD%E5%BA%86%E7%A5%9D%E8%90%BD%E6%B3%AA%23&t=31&band_rank=48&Refer=top",
-    "hot": 57664
+  "你感染后的身体感受": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BD%A0%E6%84%9F%E6%9F%93%E5%90%8E%E7%9A%84%E8%BA%AB%E4%BD%93%E6%84%9F%E5%8F%97%23&t=31&band_rank=44&Refer=top",
+    "hot": 53977
+  },
+  "梅西个人能力": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E4%B8%AA%E4%BA%BA%E8%83%BD%E5%8A%9B%23&t=31&band_rank=31&Refer=top",
+    "hot": 48501
   },
   "阿凡达2好看吗": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%87%A1%E8%BE%BE2%E5%A5%BD%E7%9C%8B%E5%90%97%23&t=31&band_rank=27&Refer=top",
@@ -314,14 +338,6 @@
   "一人一句给阿根廷加油": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%BA%BA%E4%B8%80%E5%8F%A5%E7%BB%99%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%8A%A0%E6%B2%B9%23&t=31&band_rank=38&Refer=top",
     "hot": 42255
-  },
-  "魔笛被换下": {
-    "url": "https://s.weibo.com/weibo?q=%E9%AD%94%E7%AC%9B%E8%A2%AB%E6%8D%A2%E4%B8%8B&t=31&band_rank=30&Refer=top",
-    "hot": 35544
-  },
-  "你感染后的身体感受": {
-    "url": "https://s.weibo.com/weibo?q=%23%E4%BD%A0%E6%84%9F%E6%9F%93%E5%90%8E%E7%9A%84%E8%BA%AB%E4%BD%93%E6%84%9F%E5%8F%97%23&t=31&band_rank=44&Refer=top",
-    "hot": 28282
   },
   "当你假装剃掉狗狗的毛后": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BD%A0%E5%81%87%E8%A3%85%E5%89%83%E6%8E%89%E7%8B%97%E7%8B%97%E7%9A%84%E6%AF%9B%E5%90%8E%23&t=31&band_rank=50&Refer=top",
@@ -334,5 +350,9 @@
   "梅西的腿": {
     "url": "https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BF%E7%9A%84%E8%85%BF&t=31&band_rank=41&Refer=top",
     "hot": 24081
+  },
+  "利瓦科维奇原来还是学霸": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%88%A9%E7%93%A6%E7%A7%91%E7%BB%B4%E5%A5%87%E5%8E%9F%E6%9D%A5%E8%BF%98%E6%98%AF%E5%AD%A6%E9%9C%B8%23&t=31&band_rank=47&Refer=top",
+    "hot": 23762
   }
 }
