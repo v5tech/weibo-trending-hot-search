@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-12-15 04:12:16.469414 
+最后更新时间 2022-12-15 04:28:00.362758 
 1. [沪上阿姨致歉](https://s.weibo.com/weibo?q=%23%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%E8%87%B4%E6%AD%89%23&t=31&band_rank=1&Refer=top) 929769
 1. [男生帮女友改论文把女友改哭了](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E5%B8%AE%E5%A5%B3%E5%8F%8B%E6%94%B9%E8%AE%BA%E6%96%87%E6%8A%8A%E5%A5%B3%E5%8F%8B%E6%94%B9%E5%93%AD%E4%BA%86%23&t=31&band_rank=9&Refer=top) 924101
 1. [教育局回应班主任核酸把关不严被调查](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E7%8F%AD%E4%B8%BB%E4%BB%BB%E6%A0%B8%E9%85%B8%E6%8A%8A%E5%85%B3%E4%B8%8D%E4%B8%A5%E8%A2%AB%E8%B0%83%E6%9F%A5%23&t=31&band_rank=2&Refer=top) 795112
