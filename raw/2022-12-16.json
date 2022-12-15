@@ -107,6 +107,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A6%BB%E5%A9%9A%E5%87%80%E8%BA%AB%E5%87%BA%E6%88%B7%E5%B8%A6%E5%AD%A9%E5%AD%90%E4%BD%8F%E6%AF%9B%E5%9D%AF%E6%88%BF%23&t=31&band_rank=27&Refer=top",
     "hot": 232306
   },
+  "熬夜真的无解吗": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%86%AC%E5%A4%9C%E7%9C%9F%E7%9A%84%E6%97%A0%E8%A7%A3%E5%90%97%23&t=31&band_rank=49&Refer=top",
+    "hot": 231948
+  },
   "女子确诊新冠后又碰上药物过敏": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A1%AE%E8%AF%8A%E6%96%B0%E5%86%A0%E5%90%8E%E5%8F%88%E7%A2%B0%E4%B8%8A%E8%8D%AF%E7%89%A9%E8%BF%87%E6%95%8F%23&t=31&band_rank=28&Refer=top",
     "hot": 229896
@@ -191,10 +195,6 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%90%8C%E4%BA%8B%E5%85%A8%E9%98%B3%E4%BA%86%E4%BB%85%E5%A5%B9%E4%B8%80%E4%BA%BA%E6%9D%A5%E4%B8%8A%E7%8F%AD%23&t=31&band_rank=45&Refer=top",
     "hot": 139988
   },
-  "熬夜真的无解吗": {
-    "url": "https://s.weibo.com/weibo?q=%23%E7%86%AC%E5%A4%9C%E7%9C%9F%E7%9A%84%E6%97%A0%E8%A7%A3%E5%90%97%23&t=31&band_rank=49&Refer=top",
-    "hot": 122655
-  },
   "拥有两千多个杯子是什么体验": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%8B%A5%E6%9C%89%E4%B8%A4%E5%8D%83%E5%A4%9A%E4%B8%AA%E6%9D%AF%E5%AD%90%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23&t=31&band_rank=47&Refer=top",
     "hot": 122024
@@ -222,5 +222,9 @@
   "被张若昀GQ红毯拽到": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%BC%A0%E8%8B%A5%E6%98%80GQ%E7%BA%A2%E6%AF%AF%E6%8B%BD%E5%88%B0%23&t=31&band_rank=42&Refer=top",
     "hot": 88569
+  },
+  "陈乔恩说艾伦就是自己的理想型": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E4%B9%94%E6%81%A9%E8%AF%B4%E8%89%BE%E4%BC%A6%E5%B0%B1%E6%98%AF%E8%87%AA%E5%B7%B1%E7%9A%84%E7%90%86%E6%83%B3%E5%9E%8B%23&t=31&band_rank=31&Refer=top",
+    "hot": 69695
   }
 }
