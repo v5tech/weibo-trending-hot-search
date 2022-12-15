@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-12-16 01:26:48.240107 
+最后更新时间 2022-12-16 01:35:53.351671 
 1. [男子阳性后摆烂妻子被传染秒重视](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%98%B3%E6%80%A7%E5%90%8E%E6%91%86%E7%83%82%E5%A6%BB%E5%AD%90%E8%A2%AB%E4%BC%A0%E6%9F%93%E7%A7%92%E9%87%8D%E8%A7%86%23&t=31&band_rank=1&Refer=top) 1188528
 1. [一新冠患者因过量饮水导致水中毒](https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%96%B0%E5%86%A0%E6%82%A3%E8%80%85%E5%9B%A0%E8%BF%87%E9%87%8F%E9%A5%AE%E6%B0%B4%E5%AF%BC%E8%87%B4%E6%B0%B4%E4%B8%AD%E6%AF%92%23&t=31&band_rank=2&Refer=top) 1154973
 1. [疫情防控期9个倡议](https://s.weibo.com/weibo?q=%23%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%E6%9C%9F9%E4%B8%AA%E5%80%A1%E8%AE%AE%23&t=31&band_rank=3&Refer=top) 1046366
@@ -36,18 +36,18 @@
 1. [独居的人阳了后有多难](https://s.weibo.com/weibo?q=%23%E7%8B%AC%E5%B1%85%E7%9A%84%E4%BA%BA%E9%98%B3%E4%BA%86%E5%90%8E%E6%9C%89%E5%A4%9A%E9%9A%BE%23&t=31&band_rank=24&Refer=top) 255692
 1. [女子离婚净身出户带孩子住毛坯房](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A6%BB%E5%A9%9A%E5%87%80%E8%BA%AB%E5%87%BA%E6%88%B7%E5%B8%A6%E5%AD%A9%E5%AD%90%E4%BD%8F%E6%AF%9B%E5%9D%AF%E6%88%BF%23&t=31&band_rank=27&Refer=top) 232306
 1. [女子确诊新冠后又碰上药物过敏](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A1%AE%E8%AF%8A%E6%96%B0%E5%86%A0%E5%90%8E%E5%8F%88%E7%A2%B0%E4%B8%8A%E8%8D%AF%E7%89%A9%E8%BF%87%E6%95%8F%23&t=31&band_rank=28&Refer=top) 229896
-1. [卫龙破发](https://s.weibo.com/weibo?q=%23%E5%8D%AB%E9%BE%99%E7%A0%B4%E5%8F%91%23&t=31&band_rank=43&Refer=top) 219731
+1. [卫龙破发](https://s.weibo.com/weibo?q=%23%E5%8D%AB%E9%BE%99%E7%A0%B4%E5%8F%91%23&t=31&band_rank=43&Refer=top) 222784
 1. [浦江 陨石](https://s.weibo.com/weibo?q=%E6%B5%A6%E6%B1%9F%20%E9%99%A8%E7%9F%B3&t=31&band_rank=29&Refer=top) 191645
 1. [肖秀荣](https://s.weibo.com/weibo?q=%E8%82%96%E7%A7%80%E8%8D%A3&t=31&band_rank=30&Refer=top) 189898
 1. [白鹿王鹤棣同台领奖](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%90%8C%E5%8F%B0%E9%A2%86%E5%A5%96%23&t=31&band_rank=31&Refer=top) 189376
 1. [陆虎一口东北饭包都不给张远](https://s.weibo.com/weibo?q=%23%E9%99%86%E8%99%8E%E4%B8%80%E5%8F%A3%E4%B8%9C%E5%8C%97%E9%A5%AD%E5%8C%85%E9%83%BD%E4%B8%8D%E7%BB%99%E5%BC%A0%E8%BF%9C%23&t=31&band_rank=32&Refer=top) 188481
 1. [易梦玲好美](https://s.weibo.com/weibo?q=%E6%98%93%E6%A2%A6%E7%8E%B2%E5%A5%BD%E7%BE%8E&t=31&band_rank=33&Refer=top) 187487
+1. [美国驻华使馆暂停所有常规签证服务](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E9%A9%BB%E5%8D%8E%E4%BD%BF%E9%A6%86%E6%9A%82%E5%81%9C%E6%89%80%E6%9C%89%E5%B8%B8%E8%A7%84%E7%AD%BE%E8%AF%81%E6%9C%8D%E5%8A%A1%23&t=31&band_rank=50&Refer=top) 187038
 1. [马思纯杀回来了](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%80%9D%E7%BA%AF%E6%9D%80%E5%9B%9E%E6%9D%A5%E4%BA%86%23&t=31&band_rank=34&Refer=top) 186428
 1. [美国白宫将重启免费新冠居家检测](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%99%BD%E5%AE%AB%E5%B0%86%E9%87%8D%E5%90%AF%E5%85%8D%E8%B4%B9%E6%96%B0%E5%86%A0%E5%B1%85%E5%AE%B6%E6%A3%80%E6%B5%8B%23&t=31&band_rank=35&Refer=top) 185893
 1. [公交司机贴退烧贴吓坏乘客](https://s.weibo.com/weibo?q=%23%E5%85%AC%E4%BA%A4%E5%8F%B8%E6%9C%BA%E8%B4%B4%E9%80%80%E7%83%A7%E8%B4%B4%E5%90%93%E5%9D%8F%E4%B9%98%E5%AE%A2%23&t=31&band_rank=36&Refer=top) 181205
 1. [商家推出小羊人套餐被质疑抖机灵](https://s.weibo.com/weibo?q=%23%E5%95%86%E5%AE%B6%E6%8E%A8%E5%87%BA%E5%B0%8F%E7%BE%8A%E4%BA%BA%E5%A5%97%E9%A4%90%E8%A2%AB%E8%B4%A8%E7%96%91%E6%8A%96%E6%9C%BA%E7%81%B5%23&t=31&band_rank=49&Refer=top) 179526
 1. [爸妈房间隔离3岁女儿独自吃饭睡觉](https://s.weibo.com/weibo?q=%23%E7%88%B8%E5%A6%88%E6%88%BF%E9%97%B4%E9%9A%94%E7%A6%BB3%E5%B2%81%E5%A5%B3%E5%84%BF%E7%8B%AC%E8%87%AA%E5%90%83%E9%A5%AD%E7%9D%A1%E8%A7%89%23&t=31&band_rank=37&Refer=top) 177022
-1. [美国驻华使馆暂停所有常规签证服务](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E9%A9%BB%E5%8D%8E%E4%BD%BF%E9%A6%86%E6%9A%82%E5%81%9C%E6%89%80%E6%9C%89%E5%B8%B8%E8%A7%84%E7%AD%BE%E8%AF%81%E6%9C%8D%E5%8A%A1%23&t=31&band_rank=50&Refer=top) 171903
 1. [沈阳市民捡到1岁男童2天没人领](https://s.weibo.com/weibo?q=%23%E6%B2%88%E9%98%B3%E5%B8%82%E6%B0%91%E6%8D%A1%E5%88%B01%E5%B2%81%E7%94%B7%E7%AB%A52%E5%A4%A9%E6%B2%A1%E4%BA%BA%E9%A2%86%23&t=31&band_rank=38&Refer=top) 168976
 1. [手机里出现这些APP立刻删除](https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E9%87%8C%E5%87%BA%E7%8E%B0%E8%BF%99%E4%BA%9BAPP%E7%AB%8B%E5%88%BB%E5%88%A0%E9%99%A4%23&t=31&band_rank=39&Refer=top) 168727
 1. [我头疼的原因找到了](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%A4%B4%E7%96%BC%E7%9A%84%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=40&Refer=top) 152507
@@ -61,9 +61,9 @@
 1. [网曝中国人寿新冠保险阳了却不理赔](https://s.weibo.com/weibo?q=%23%E7%BD%91%E6%9B%9D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%AF%BF%E6%96%B0%E5%86%A0%E4%BF%9D%E9%99%A9%E9%98%B3%E4%BA%86%E5%8D%B4%E4%B8%8D%E7%90%86%E8%B5%94%23&t=31&band_rank=48&Refer=top) 107502
 1. [于和伟变成夹子音](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E5%92%8C%E4%BC%9F%E5%8F%98%E6%88%90%E5%A4%B9%E5%AD%90%E9%9F%B3%23&t=31&band_rank=42&Refer=top) 104050
 1. [钟南山称越晚变阳症状可能越轻](https://s.weibo.com/weibo?q=%23%E9%92%9F%E5%8D%97%E5%B1%B1%E7%A7%B0%E8%B6%8A%E6%99%9A%E5%8F%98%E9%98%B3%E7%97%87%E7%8A%B6%E5%8F%AF%E8%83%BD%E8%B6%8A%E8%BD%BB%23&t=31&band_rank=50&Refer=top) 96093
+1. [赵美延跳了antifragile](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E7%BE%8E%E5%BB%B6%E8%B7%B3%E4%BA%86antifragile%23&t=31&band_rank=42&Refer=top) 94356
 1. [被张若昀GQ红毯拽到](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%BC%A0%E8%8B%A5%E6%98%80GQ%E7%BA%A2%E6%AF%AF%E6%8B%BD%E5%88%B0%23&t=31&band_rank=42&Refer=top) 88569
-1. [赵美延跳了antifragile](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E7%BE%8E%E5%BB%B6%E8%B7%B3%E4%BA%86antifragile%23&t=31&band_rank=42&Refer=top) 68175
-1. [熬夜真的无解吗](https://s.weibo.com/weibo?q=%23%E7%86%AC%E5%A4%9C%E7%9C%9F%E7%9A%84%E6%97%A0%E8%A7%A3%E5%90%97%23&t=31&band_rank=49&Refer=top) 57044
+1. [熬夜真的无解吗](https://s.weibo.com/weibo?q=%23%E7%86%AC%E5%A4%9C%E7%9C%9F%E7%9A%84%E6%97%A0%E8%A7%A3%E5%90%97%23&t=31&band_rank=49&Refer=top) 75059
 <!-- END -->
 
 历史归档 [./archives](./archives)

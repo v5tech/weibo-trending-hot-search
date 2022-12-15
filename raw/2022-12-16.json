@@ -113,7 +113,7 @@
   },
   "卫龙破发": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%8D%AB%E9%BE%99%E7%A0%B4%E5%8F%91%23&t=31&band_rank=43&Refer=top",
-    "hot": 219731
+    "hot": 222784
   },
   "浦江 陨石": {
     "url": "https://s.weibo.com/weibo?q=%E6%B5%A6%E6%B1%9F%20%E9%99%A8%E7%9F%B3&t=31&band_rank=29&Refer=top",
@@ -135,6 +135,10 @@
     "url": "https://s.weibo.com/weibo?q=%E6%98%93%E6%A2%A6%E7%8E%B2%E5%A5%BD%E7%BE%8E&t=31&band_rank=33&Refer=top",
     "hot": 187487
   },
+  "美国驻华使馆暂停所有常规签证服务": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E9%A9%BB%E5%8D%8E%E4%BD%BF%E9%A6%86%E6%9A%82%E5%81%9C%E6%89%80%E6%9C%89%E5%B8%B8%E8%A7%84%E7%AD%BE%E8%AF%81%E6%9C%8D%E5%8A%A1%23&t=31&band_rank=50&Refer=top",
+    "hot": 187038
+  },
   "马思纯杀回来了": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%80%9D%E7%BA%AF%E6%9D%80%E5%9B%9E%E6%9D%A5%E4%BA%86%23&t=31&band_rank=34&Refer=top",
     "hot": 186428
@@ -154,10 +158,6 @@
   "爸妈房间隔离3岁女儿独自吃饭睡觉": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%88%B8%E5%A6%88%E6%88%BF%E9%97%B4%E9%9A%94%E7%A6%BB3%E5%B2%81%E5%A5%B3%E5%84%BF%E7%8B%AC%E8%87%AA%E5%90%83%E9%A5%AD%E7%9D%A1%E8%A7%89%23&t=31&band_rank=37&Refer=top",
     "hot": 177022
-  },
-  "美国驻华使馆暂停所有常规签证服务": {
-    "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E9%A9%BB%E5%8D%8E%E4%BD%BF%E9%A6%86%E6%9A%82%E5%81%9C%E6%89%80%E6%9C%89%E5%B8%B8%E8%A7%84%E7%AD%BE%E8%AF%81%E6%9C%8D%E5%8A%A1%23&t=31&band_rank=50&Refer=top",
-    "hot": 171903
   },
   "沈阳市民捡到1岁男童2天没人领": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%B2%88%E9%98%B3%E5%B8%82%E6%B0%91%E6%8D%A1%E5%88%B01%E5%B2%81%E7%94%B7%E7%AB%A52%E5%A4%A9%E6%B2%A1%E4%BA%BA%E9%A2%86%23&t=31&band_rank=38&Refer=top",
@@ -211,16 +211,16 @@
     "url": "https://s.weibo.com/weibo?q=%23%E9%92%9F%E5%8D%97%E5%B1%B1%E7%A7%B0%E8%B6%8A%E6%99%9A%E5%8F%98%E9%98%B3%E7%97%87%E7%8A%B6%E5%8F%AF%E8%83%BD%E8%B6%8A%E8%BD%BB%23&t=31&band_rank=50&Refer=top",
     "hot": 96093
   },
+  "赵美延跳了antifragile": {
+    "url": "https://s.weibo.com/weibo?q=%23%E8%B5%B5%E7%BE%8E%E5%BB%B6%E8%B7%B3%E4%BA%86antifragile%23&t=31&band_rank=42&Refer=top",
+    "hot": 94356
+  },
   "被张若昀GQ红毯拽到": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%BC%A0%E8%8B%A5%E6%98%80GQ%E7%BA%A2%E6%AF%AF%E6%8B%BD%E5%88%B0%23&t=31&band_rank=42&Refer=top",
     "hot": 88569
   },
-  "赵美延跳了antifragile": {
-    "url": "https://s.weibo.com/weibo?q=%23%E8%B5%B5%E7%BE%8E%E5%BB%B6%E8%B7%B3%E4%BA%86antifragile%23&t=31&band_rank=42&Refer=top",
-    "hot": 68175
-  },
   "熬夜真的无解吗": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%86%AC%E5%A4%9C%E7%9C%9F%E7%9A%84%E6%97%A0%E8%A7%A3%E5%90%97%23&t=31&band_rank=49&Refer=top",
-    "hot": 57044
+    "hot": 75059
   }
 }
