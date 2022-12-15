@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-12-16 02:28:43.865230 
+最后更新时间 2022-12-16 02:38:48.815225 
 1. [男子阳性后摆烂妻子被传染秒重视](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%98%B3%E6%80%A7%E5%90%8E%E6%91%86%E7%83%82%E5%A6%BB%E5%AD%90%E8%A2%AB%E4%BC%A0%E6%9F%93%E7%A7%92%E9%87%8D%E8%A7%86%23&t=31&band_rank=1&Refer=top) 1188528
 1. [一新冠患者因过量饮水导致水中毒](https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%96%B0%E5%86%A0%E6%82%A3%E8%80%85%E5%9B%A0%E8%BF%87%E9%87%8F%E9%A5%AE%E6%B0%B4%E5%AF%BC%E8%87%B4%E6%B0%B4%E4%B8%AD%E6%AF%92%23&t=31&band_rank=2&Refer=top) 1154973
 1. [疫情防控期9个倡议](https://s.weibo.com/weibo?q=%23%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%E6%9C%9F9%E4%B8%AA%E5%80%A1%E8%AE%AE%23&t=31&band_rank=3&Refer=top) 1046366
