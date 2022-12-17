@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-12-18 01:23:16.863662 
+最后更新时间 2022-12-18 01:34:20.387499 
 1. [赵樱子 尬](https://s.weibo.com/weibo?q=%E8%B5%B5%E6%A8%B1%E5%AD%90%20%E5%B0%AC&t=31&band_rank=1&Refer=top) 2361623
 1. [迪幂孟扎](https://s.weibo.com/weibo?q=%E8%BF%AA%E5%B9%82%E5%AD%9F%E6%89%8E&t=31&band_rank=2&Refer=top) 1942092
 1. [克罗地亚世界杯季军](https://s.weibo.com/weibo?q=%23%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%E4%B8%96%E7%95%8C%E6%9D%AF%E5%AD%A3%E5%86%9B%23&t=31&band_rank=6&Refer=top) 1476196
@@ -16,7 +16,7 @@
 1. [阳性居家治疗时怎样保护家人](https://s.weibo.com/weibo?q=%23%E9%98%B3%E6%80%A7%E5%B1%85%E5%AE%B6%E6%B2%BB%E7%96%97%E6%97%B6%E6%80%8E%E6%A0%B7%E4%BF%9D%E6%8A%A4%E5%AE%B6%E4%BA%BA%23&t=31&band_rank=3&Refer=top) 1364194
 1. [这姐真的太疯了](https://s.weibo.com/weibo?q=%E8%BF%99%E5%A7%90%E7%9C%9F%E7%9A%84%E5%A4%AA%E7%96%AF%E4%BA%86&t=31&band_rank=4&Refer=top) 1346447
 1. [克罗地亚vs摩洛哥](https://s.weibo.com/weibo?q=%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9Avs%E6%91%A9%E6%B4%9B%E5%93%A5&t=31&band_rank=5&Refer=top) 1269442
-1. [摩洛哥围攻裁判](https://s.weibo.com/weibo?q=%E6%91%A9%E6%B4%9B%E5%93%A5%E5%9B%B4%E6%94%BB%E8%A3%81%E5%88%A4&t=31&band_rank=14&Refer=top) 1249244
+1. [摩洛哥围攻裁判](https://s.weibo.com/weibo?q=%E6%91%A9%E6%B4%9B%E5%93%A5%E5%9B%B4%E6%94%BB%E8%A3%81%E5%88%A4&t=31&band_rank=14&Refer=top) 1258339
 1. [男子无意刷到老婆和别人婚礼视频](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%97%A0%E6%84%8F%E5%88%B7%E5%88%B0%E8%80%81%E5%A9%86%E5%92%8C%E5%88%AB%E4%BA%BA%E5%A9%9A%E7%A4%BC%E8%A7%86%E9%A2%91%23&t=31&band_rank=6&Refer=top) 1105551
 1. [魔笛 帅](https://s.weibo.com/weibo?q=%E9%AD%94%E7%AC%9B%20%E5%B8%85&t=31&band_rank=7&Refer=top) 1085590
 1. [宋仲基 抿嘴](https://s.weibo.com/weibo?q=%E5%AE%8B%E4%BB%B2%E5%9F%BA%20%E6%8A%BF%E5%98%B4&t=31&band_rank=13&Refer=top) 999302
@@ -75,6 +75,7 @@
 1. [毒蛇吐信子没有脚印子](https://s.weibo.com/weibo?q=%23%E6%AF%92%E8%9B%87%E5%90%90%E4%BF%A1%E5%AD%90%E6%B2%A1%E6%9C%89%E8%84%9A%E5%8D%B0%E5%AD%90%23&t=31&band_rank=42&Refer=top) 117262
 1. [格子军团](https://s.weibo.com/weibo?q=%23%E6%A0%BC%E5%AD%90%E5%86%9B%E5%9B%A2%23&t=31&band_rank=40&Refer=top) 88654
 1. [摩洛哥失误](https://s.weibo.com/weibo?q=%E6%91%A9%E6%B4%9B%E5%93%A5%E5%A4%B1%E8%AF%AF&t=31&band_rank=48&Refer=top) 80895
+1. [克罗地亚踢得放松](https://s.weibo.com/weibo?q=%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%E8%B8%A2%E5%BE%97%E6%94%BE%E6%9D%BE&t=31&band_rank=50&Refer=top) 72690
 <!-- END -->
 
 历史归档 [./archives](./archives)
