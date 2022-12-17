@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-12-18 04:49:00.630233 
+最后更新时间 2022-12-18 05:08:43.130461 
 1. [赵樱子 尬](https://s.weibo.com/weibo?q=%E8%B5%B5%E6%A8%B1%E5%AD%90%20%E5%B0%AC&t=31&band_rank=1&Refer=top) 2361623
 1. [迪幂孟扎](https://s.weibo.com/weibo?q=%E8%BF%AA%E5%B9%82%E5%AD%9F%E6%89%8E&t=31&band_rank=2&Refer=top) 1942092
 1. [克罗地亚世界杯季军](https://s.weibo.com/weibo?q=%23%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%E4%B8%96%E7%95%8C%E6%9D%AF%E5%AD%A3%E5%86%9B%23&t=31&band_rank=6&Refer=top) 1476196
@@ -80,7 +80,8 @@
 1. [克罗地亚踢得放松](https://s.weibo.com/weibo?q=%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%E8%B8%A2%E5%BE%97%E6%94%BE%E6%9D%BE&t=31&band_rank=50&Refer=top) 72690
 1. [周柯宇说可以开启下一个梦想了](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9F%AF%E5%AE%87%E8%AF%B4%E5%8F%AF%E4%BB%A5%E5%BC%80%E5%90%AF%E4%B8%8B%E4%B8%80%E4%B8%AA%E6%A2%A6%E6%83%B3%E4%BA%86%23&t=31&band_rank=14&Refer=top) 63573
 1. [洗澡时浴霸起火女子教科书式扑救](https://s.weibo.com/weibo?q=%23%E6%B4%97%E6%BE%A1%E6%97%B6%E6%B5%B4%E9%9C%B8%E8%B5%B7%E7%81%AB%E5%A5%B3%E5%AD%90%E6%95%99%E7%A7%91%E4%B9%A6%E5%BC%8F%E6%89%91%E6%95%91%23&t=31&band_rank=46&Refer=top) 43270
-1. [吃货型新冠让患者胃口大开](https://s.weibo.com/weibo?q=%23%E5%90%83%E8%B4%A7%E5%9E%8B%E6%96%B0%E5%86%A0%E8%AE%A9%E6%82%A3%E8%80%85%E8%83%83%E5%8F%A3%E5%A4%A7%E5%BC%80%23&t=31&band_rank=50&Refer=top) 25536
+1. [吃货型新冠让患者胃口大开](https://s.weibo.com/weibo?q=%23%E5%90%83%E8%B4%A7%E5%9E%8B%E6%96%B0%E5%86%A0%E8%AE%A9%E6%82%A3%E8%80%85%E8%83%83%E5%8F%A3%E5%A4%A7%E5%BC%80%23&t=31&band_rank=50&Refer=top) 37101
+1. [山西多名保安与民工发生肢体冲突](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E5%A4%9A%E5%90%8D%E4%BF%9D%E5%AE%89%E4%B8%8E%E6%B0%91%E5%B7%A5%E5%8F%91%E7%94%9F%E8%82%A2%E4%BD%93%E5%86%B2%E7%AA%81%23&t=31&band_rank=49&Refer=top) 16767
 <!-- END -->
 
 历史归档 [./archives](./archives)
