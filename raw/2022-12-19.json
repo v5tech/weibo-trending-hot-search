@@ -99,6 +99,10 @@
     "url": "https://s.weibo.com/weibo?q=%E8%A3%81%E5%88%A4&t=31&band_rank=16&Refer=top",
     "hot": 1800335
   },
+  "阿根廷7比5法国": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B77%E6%AF%945%E6%B3%95%E5%9B%BD%23&t=31&band_rank=35&Refer=top",
+    "hot": 1750571
+  },
   "梅西捧起大力神杯": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E6%8D%A7%E8%B5%B7%E5%A4%A7%E5%8A%9B%E7%A5%9E%E6%9D%AF%23&t=31&band_rank=8&Refer=top",
     "hot": 1737497
@@ -159,10 +163,6 @@
     "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%85%8B%E9%BE%99%23&t=31&band_rank=47&Refer=top",
     "hot": 992851
   },
-  "阿根廷7比5法国": {
-    "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B77%E6%AF%945%E6%B3%95%E5%9B%BD%23&t=31&band_rank=35&Refer=top",
-    "hot": 982260
-  },
   "备考考研阳了怎么办": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%A4%87%E8%80%83%E8%80%83%E7%A0%94%E9%98%B3%E4%BA%86%E6%80%8E%E4%B9%88%E5%8A%9E%23&t=31&band_rank=10&Refer=top",
     "hot": 978640
@@ -219,6 +219,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E8%A9%B9%E9%9B%AF%E5%A9%B7%E5%BC%A0%E8%BF%9C%E7%8E%B0%E8%B1%A1%E7%BA%A7%E5%90%88%E5%94%B1%E9%9D%92%E9%B8%9F%23&t=31&band_rank=17&Refer=top",
     "hot": 585025
   },
+  "沙特是本届世界杯唯一战胜冠军的球队": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B2%99%E7%89%B9%E6%98%AF%E6%9C%AC%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E5%94%AF%E4%B8%80%E6%88%98%E8%83%9C%E5%86%A0%E5%86%9B%E7%9A%84%E7%90%83%E9%98%9F%23&t=31&band_rank=45&Refer=top",
+    "hot": 576274
+  },
   "恩佐 最佳年轻球员": {
     "url": "https://s.weibo.com/weibo?q=%E6%81%A9%E4%BD%90%20%E6%9C%80%E4%BD%B3%E5%B9%B4%E8%BD%BB%E7%90%83%E5%91%98&t=31&band_rank=23&Refer=top",
     "hot": 528385
@@ -266,10 +270,6 @@
   "行程卡纪念版涉嫌违规暂停服务": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%A1%8C%E7%A8%8B%E5%8D%A1%E7%BA%AA%E5%BF%B5%E7%89%88%E6%B6%89%E5%AB%8C%E8%BF%9D%E8%A7%84%E6%9A%82%E5%81%9C%E6%9C%8D%E5%8A%A1%23&t=31&band_rank=26&Refer=top",
     "hot": 379454
-  },
-  "沙特是本届世界杯唯一战胜冠军的球队": {
-    "url": "https://s.weibo.com/weibo?q=%23%E6%B2%99%E7%89%B9%E6%98%AF%E6%9C%AC%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E5%94%AF%E4%B8%80%E6%88%98%E8%83%9C%E5%86%A0%E5%86%9B%E7%9A%84%E7%90%83%E9%98%9F%23&t=31&band_rank=45&Refer=top",
-    "hot": 347572
   },
   "久哲": {
     "url": "https://s.weibo.com/weibo?q=%E4%B9%85%E5%93%B2&t=31&band_rank=27&Refer=top",
@@ -519,6 +519,10 @@
     "url": "https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%93%AD%E4%BA%86&t=31&band_rank=50&Refer=top",
     "hot": 117767
   },
+  "梅西封王": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E5%B0%81%E7%8E%8B%23&t=31&band_rank=31&Refer=top",
+    "hot": 107867
+  },
   "姆巴佩 状态": {
     "url": "https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%20%E7%8A%B6%E6%80%81&t=31&band_rank=47&Refer=top",
     "hot": 98589
@@ -551,12 +555,16 @@
     "url": "https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%86%92%E8%AF%B4%E6%B4%BB%E5%84%BF%E5%A4%AA%E5%A4%9A%E6%B2%A1%E5%8A%9E%E6%B3%95%E5%8E%BB%E4%B8%96%E7%95%8C%E6%9D%AF%E7%8E%B0%E5%9C%BA%23&t=31&band_rank=50&Refer=top",
     "hot": 68381
   },
+  "老爷爷带瘫痪老伴街头卖橙子": {
+    "url": "https://s.weibo.com/weibo?q=%23%E8%80%81%E7%88%B7%E7%88%B7%E5%B8%A6%E7%98%AB%E7%97%AA%E8%80%81%E4%BC%B4%E8%A1%97%E5%A4%B4%E5%8D%96%E6%A9%99%E5%AD%90%23&t=31&band_rank=49&Refer=top",
+    "hot": 41537
+  },
+  "世界杯32强光球": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF32%E5%BC%BA%E5%85%89%E7%90%83%23&t=31&band_rank=50&Refer=top",
+    "hot": 39958
+  },
   "闭幕式 好看": {
     "url": "https://s.weibo.com/weibo?q=%E9%97%AD%E5%B9%95%E5%BC%8F%20%E5%A5%BD%E7%9C%8B&t=31&band_rank=48&Refer=top",
     "hot": 35910
-  },
-  "老爷爷带瘫痪老伴街头卖橙子": {
-    "url": "https://s.weibo.com/weibo?q=%23%E8%80%81%E7%88%B7%E7%88%B7%E5%B8%A6%E7%98%AB%E7%97%AA%E8%80%81%E4%BC%B4%E8%A1%97%E5%A4%B4%E5%8D%96%E6%A9%99%E5%AD%90%23&t=31&band_rank=49&Refer=top",
-    "hot": 35898
   }
 }
