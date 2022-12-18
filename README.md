@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-12-19 04:10:36.280933 
+最后更新时间 2022-12-19 04:24:39.429016 
 1. [阿根廷冠军](https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%86%A0%E5%86%9B%23&t=31&band_rank=1&Refer=top) 34196477
 1. [阿根廷vs法国](https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7vs%E6%B3%95%E5%9B%BD&t=31&band_rank=1&Refer=top) 14198696
 1. [恭喜梅西](https://s.weibo.com/weibo?q=%23%E6%81%AD%E5%96%9C%E6%A2%85%E8%A5%BF%23&t=31&band_rank=3&Refer=top) 12161351
@@ -140,6 +140,7 @@
 1. [姆巴佩 状态](https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%20%E7%8A%B6%E6%80%81&t=31&band_rank=47&Refer=top) 98589
 1. [卡塔尔世界杯终局之战](https://s.weibo.com/weibo?q=%23%E5%8D%A1%E5%A1%94%E5%B0%94%E4%B8%96%E7%95%8C%E6%9D%AF%E7%BB%88%E5%B1%80%E4%B9%8B%E6%88%98%23&t=31&band_rank=50&Refer=top) 98400
 1. [男子用一块豆腐刻出3个梅西](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%94%A8%E4%B8%80%E5%9D%97%E8%B1%86%E8%85%90%E5%88%BB%E5%87%BA3%E4%B8%AA%E6%A2%85%E8%A5%BF%23&t=31&band_rank=50&Refer=top) 91233
+1. [管泽元约徐志胜呼兰立冠军flag](https://s.weibo.com/weibo?q=%23%E7%AE%A1%E6%B3%BD%E5%85%83%E7%BA%A6%E5%BE%90%E5%BF%97%E8%83%9C%E5%91%BC%E5%85%B0%E7%AB%8B%E5%86%A0%E5%86%9Bflag%23&t=31&band_rank=50&Refer=top) 78564
 1. [梅西进球刘畊宏欲喊又止](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%BF%9B%E7%90%83%E5%88%98%E7%95%8A%E5%AE%8F%E6%AC%B2%E5%96%8A%E5%8F%88%E6%AD%A2%23&t=31&band_rank=48&Refer=top) 76330
 1. [分手真的必须要说清楚吗](https://s.weibo.com/weibo?q=%23%E5%88%86%E6%89%8B%E7%9C%9F%E7%9A%84%E5%BF%85%E9%A1%BB%E8%A6%81%E8%AF%B4%E6%B8%85%E6%A5%9A%E5%90%97%23&t=31&band_rank=49&Refer=top) 75574
 1. [黄健翔](https://s.weibo.com/weibo?q=%E9%BB%84%E5%81%A5%E7%BF%94&t=31&band_rank=49&Refer=top) 68640
