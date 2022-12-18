@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-12-19 05:49:01.666378 
+最后更新时间 2022-12-19 06:09:41.829179 
 1. [阿根廷冠军](https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%86%A0%E5%86%9B%23&t=31&band_rank=1&Refer=top) 34196477
 1. [阿根廷vs法国](https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7vs%E6%B3%95%E5%9B%BD&t=31&band_rank=1&Refer=top) 14198696
 1. [恭喜梅西](https://s.weibo.com/weibo?q=%23%E6%81%AD%E5%96%9C%E6%A2%85%E8%A5%BF%23&t=31&band_rank=3&Refer=top) 12161351
@@ -112,6 +112,7 @@
 1. [奥塔门迪](https://s.weibo.com/weibo?q=%E5%A5%A5%E5%A1%94%E9%97%A8%E8%BF%AA&t=31&band_rank=36&Refer=top) 191190
 1. [伊布](https://s.weibo.com/weibo?q=%E4%BC%8A%E5%B8%83&t=31&band_rank=32&Refer=top) 184109
 1. [阿根廷球迷](https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E7%90%83%E8%BF%B7&t=31&band_rank=33&Refer=top) 183617
+1. [梅西实至名归](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E5%AE%9E%E8%87%B3%E5%90%8D%E5%BD%92%23&t=31&band_rank=10&Refer=top) 183409
 1. [布宜诺斯艾利斯](https://s.weibo.com/weibo?q=%E5%B8%83%E5%AE%9C%E8%AF%BA%E6%96%AF%E8%89%BE%E5%88%A9%E6%96%AF&t=31&band_rank=39&Refer=top) 178250
 1. [世界杯决赛太刺激了](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B%E5%A4%AA%E5%88%BA%E6%BF%80%E4%BA%86%23&t=31&band_rank=36&Refer=top) 177629
 1. [爸爸拿体温计放儿子脖上度数飙升](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E6%8B%BF%E4%BD%93%E6%B8%A9%E8%AE%A1%E6%94%BE%E5%84%BF%E5%AD%90%E8%84%96%E4%B8%8A%E5%BA%A6%E6%95%B0%E9%A3%99%E5%8D%87%23&t=31&band_rank=41&Refer=top) 174324
