@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-12-19 03:33:59.676526 
+最后更新时间 2022-12-19 03:48:55.072624 
 1. [阿根廷冠军](https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%86%A0%E5%86%9B%23&t=31&band_rank=1&Refer=top) 34196477
 1. [阿根廷vs法国](https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7vs%E6%B3%95%E5%9B%BD&t=31&band_rank=1&Refer=top) 14198696
 1. [恭喜梅西](https://s.weibo.com/weibo?q=%23%E6%81%AD%E5%96%9C%E6%A2%85%E8%A5%BF%23&t=31&band_rank=3&Refer=top) 12161351
@@ -59,12 +59,12 @@
 1. [世界杯决赛](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%B3%E8%B5%9B%23&t=31&band_rank=16&Refer=top) 766553
 1. [迪马利亚被换下](https://s.weibo.com/weibo?q=%E8%BF%AA%E9%A9%AC%E5%88%A9%E4%BA%9A%E8%A2%AB%E6%8D%A2%E4%B8%8B&t=31&band_rank=27&Refer=top) 752476
 1. [男孩确诊高烧39.5℃依然活力十足](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E7%A1%AE%E8%AF%8A%E9%AB%98%E7%83%A739.5%E2%84%83%E4%BE%9D%E7%84%B6%E6%B4%BB%E5%8A%9B%E5%8D%81%E8%B6%B3%23&t=31&band_rank=15&Refer=top) 705659
+1. [贝克汉姆](https://s.weibo.com/weibo?q=%E8%B4%9D%E5%85%8B%E6%B1%89%E5%A7%86&t=31&band_rank=27&Refer=top) 657491
 1. [迪马利亚为决赛而生](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E9%A9%AC%E5%88%A9%E4%BA%9A%E4%B8%BA%E5%86%B3%E8%B5%9B%E8%80%8C%E7%94%9F%23&t=31&band_rank=33&Refer=top) 591381
 1. [詹雯婷张远现象级合唱青鸟](https://s.weibo.com/weibo?q=%23%E8%A9%B9%E9%9B%AF%E5%A9%B7%E5%BC%A0%E8%BF%9C%E7%8E%B0%E8%B1%A1%E7%BA%A7%E5%90%88%E5%94%B1%E9%9D%92%E9%B8%9F%23&t=31&band_rank=17&Refer=top) 585025
 1. [阿根廷7比5法国](https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B77%E6%AF%945%E6%B3%95%E5%9B%BD%23&t=31&band_rank=35&Refer=top) 554682
 1. [恩佐 最佳年轻球员](https://s.weibo.com/weibo?q=%E6%81%A9%E4%BD%90%20%E6%9C%80%E4%BD%B3%E5%B9%B4%E8%BD%BB%E7%90%83%E5%91%98&t=31&band_rank=23&Refer=top) 528385
 1. [迪马利亚破门](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E9%A9%AC%E5%88%A9%E4%BA%9A%E7%A0%B4%E9%97%A8%23&t=31&band_rank=18&Refer=top) 516421
-1. [贝克汉姆](https://s.weibo.com/weibo?q=%E8%B4%9D%E5%85%8B%E6%B1%89%E5%A7%86&t=31&band_rank=27&Refer=top) 490377
 1. [尹正说老嫂子这种梗对女性很不尊重](https://s.weibo.com/weibo?q=%23%E5%B0%B9%E6%AD%A3%E8%AF%B4%E8%80%81%E5%AB%82%E5%AD%90%E8%BF%99%E7%A7%8D%E6%A2%97%E5%AF%B9%E5%A5%B3%E6%80%A7%E5%BE%88%E4%B8%8D%E5%B0%8A%E9%87%8D%23&t=31&band_rank=19&Refer=top) 475587
 1. [梅西 奇迹](https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BF%20%E5%A5%87%E8%BF%B9&t=31&band_rank=24&Refer=top) 469794
 1. [登贝莱](https://s.weibo.com/weibo?q=%E7%99%BB%E8%B4%9D%E8%8E%B1&t=31&band_rank=21&Refer=top) 453567
@@ -76,6 +76,7 @@
 1. [财阀家的小儿子14](https://s.weibo.com/weibo?q=%E8%B4%A2%E9%98%80%E5%AE%B6%E7%9A%84%E5%B0%8F%E5%84%BF%E5%AD%9014&t=31&band_rank=25&Refer=top) 394371
 1. [行程卡纪念版涉嫌违规暂停服务](https://s.weibo.com/weibo?q=%23%E8%A1%8C%E7%A8%8B%E5%8D%A1%E7%BA%AA%E5%BF%B5%E7%89%88%E6%B6%89%E5%AB%8C%E8%BF%9D%E8%A7%84%E6%9A%82%E5%81%9C%E6%9C%8D%E5%8A%A1%23&t=31&band_rank=26&Refer=top) 379454
 1. [久哲](https://s.weibo.com/weibo?q=%E4%B9%85%E5%93%B2&t=31&band_rank=27&Refer=top) 347077
+1. [斯卡洛尼](https://s.weibo.com/weibo?q=%E6%96%AF%E5%8D%A1%E6%B4%9B%E5%B0%BC&t=31&band_rank=35&Refer=top) 312225
 1. [男孩发烧以为阳性偷偷自我隔离](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E5%8F%91%E7%83%A7%E4%BB%A5%E4%B8%BA%E9%98%B3%E6%80%A7%E5%81%B7%E5%81%B7%E8%87%AA%E6%88%91%E9%9A%94%E7%A6%BB%23&t=31&band_rank=28&Refer=top) 307705
 1. [林俊杰演唱会](https://s.weibo.com/weibo?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=29&Refer=top) 298690
 1. [阿根廷队](https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%98%9F&t=31&band_rank=28&Refer=top) 297923
@@ -88,7 +89,6 @@
 1. [宋茜看男粉跳hotsummer的反应](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%8C%9C%E7%9C%8B%E7%94%B7%E7%B2%89%E8%B7%B3hotsummer%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=28&Refer=top) 290878
 1. [黄金矿工](https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91%E7%9F%BF%E5%B7%A5&t=31&band_rank=47&Refer=top) 290715
 1. [法国控球率](https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD%E6%8E%A7%E7%90%83%E7%8E%87&t=31&band_rank=48&Refer=top) 290396
-1. [斯卡洛尼](https://s.weibo.com/weibo?q=%E6%96%AF%E5%8D%A1%E6%B4%9B%E5%B0%BC&t=31&band_rank=35&Refer=top) 290358
 1. [湖南2023年考研将分核酸阴性与阳性考场](https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%972023%E5%B9%B4%E8%80%83%E7%A0%94%E5%B0%86%E5%88%86%E6%A0%B8%E9%85%B8%E9%98%B4%E6%80%A7%E4%B8%8E%E9%98%B3%E6%80%A7%E8%80%83%E5%9C%BA%23&t=31&band_rank=46&Refer=top) 289388
 1. [法国卫冕or阿根廷圆梦](https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E5%8D%AB%E5%86%95or%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%9C%86%E6%A2%A6%23&t=31&band_rank=30&Refer=top) 284610
 1. [阿根廷进球](https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7%E8%BF%9B%E7%90%83%23&t=31&band_rank=25&Refer=top) 283434
@@ -136,6 +136,7 @@
 1. [97秒](https://s.weibo.com/weibo?q=97%E7%A7%92&t=31&band_rank=45&Refer=top) 127617
 1. [网友偶遇王鹤棣白鹿以爱为营剧组](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E5%81%B6%E9%81%87%E7%8E%8B%E9%B9%A4%E6%A3%A3%E7%99%BD%E9%B9%BF%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E5%89%A7%E7%BB%84%23&t=31&band_rank=44&Refer=top) 127080
 1. [法国队 黑人球员](https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD%E9%98%9F%20%E9%BB%91%E4%BA%BA%E7%90%83%E5%91%98&t=31&band_rank=40&Refer=top) 119353
+1. [姆巴佩哭了](https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%93%AD%E4%BA%86&t=31&band_rank=50&Refer=top) 117767
 1. [姆巴佩 状态](https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%20%E7%8A%B6%E6%80%81&t=31&band_rank=47&Refer=top) 98589
 1. [卡塔尔世界杯终局之战](https://s.weibo.com/weibo?q=%23%E5%8D%A1%E5%A1%94%E5%B0%94%E4%B8%96%E7%95%8C%E6%9D%AF%E7%BB%88%E5%B1%80%E4%B9%8B%E6%88%98%23&t=31&band_rank=50&Refer=top) 98400
 1. [男子用一块豆腐刻出3个梅西](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%94%A8%E4%B8%80%E5%9D%97%E8%B1%86%E8%85%90%E5%88%BB%E5%87%BA3%E4%B8%AA%E6%A2%85%E8%A5%BF%23&t=31&band_rank=50&Refer=top) 91233
