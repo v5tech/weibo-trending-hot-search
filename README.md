@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-12-22 01:25:27.052403 
+最后更新时间 2022-12-22 01:34:33.548613 
 1. [王劲松 妈妈被疫情带走了](https://s.weibo.com/weibo?q=%E7%8E%8B%E5%8A%B2%E6%9D%BE%20%E5%A6%88%E5%A6%88%E8%A2%AB%E7%96%AB%E6%83%85%E5%B8%A6%E8%B5%B0%E4%BA%86&t=31&band_rank=1&Refer=top) 2274905
 1. [女子阳后瘦8斤医生称别高兴太早](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%98%B3%E5%90%8E%E7%98%A68%E6%96%A4%E5%8C%BB%E7%94%9F%E7%A7%B0%E5%88%AB%E9%AB%98%E5%85%B4%E5%A4%AA%E6%97%A9%23&t=31&band_rank=11&Refer=top) 1134056
 1. [曝药店免费发药被人抢夺无人阻拦](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E8%8D%AF%E5%BA%97%E5%85%8D%E8%B4%B9%E5%8F%91%E8%8D%AF%E8%A2%AB%E4%BA%BA%E6%8A%A2%E5%A4%BA%E6%97%A0%E4%BA%BA%E9%98%BB%E6%8B%A6%23&t=31&band_rank=2&Refer=top) 842531
