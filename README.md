@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-12-22 00:44:47.184512 
+最后更新时间 2022-12-22 00:53:43.786854 
 1. [王劲松 妈妈被疫情带走了](https://s.weibo.com/weibo?q=%E7%8E%8B%E5%8A%B2%E6%9D%BE%20%E5%A6%88%E5%A6%88%E8%A2%AB%E7%96%AB%E6%83%85%E5%B8%A6%E8%B5%B0%E4%BA%86&t=31&band_rank=1&Refer=top) 2274905
 1. [女子阳后瘦8斤医生称别高兴太早](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%98%B3%E5%90%8E%E7%98%A68%E6%96%A4%E5%8C%BB%E7%94%9F%E7%A7%B0%E5%88%AB%E9%AB%98%E5%85%B4%E5%A4%AA%E6%97%A9%23&t=31&band_rank=11&Refer=top) 1134056
 1. [曝药店免费发药被人抢夺无人阻拦](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E8%8D%AF%E5%BA%97%E5%85%8D%E8%B4%B9%E5%8F%91%E8%8D%AF%E8%A2%AB%E4%BA%BA%E6%8A%A2%E5%A4%BA%E6%97%A0%E4%BA%BA%E9%98%BB%E6%8B%A6%23&t=31&band_rank=2&Refer=top) 842531
@@ -43,13 +43,13 @@
 1. [北京下雪](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E4%B8%8B%E9%9B%AA%23&t=31&band_rank=33&Refer=top) 146854
 1. [胡歌梅晓歌的前任县长是黄觉](https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E6%A2%85%E6%99%93%E6%AD%8C%E7%9A%84%E5%89%8D%E4%BB%BB%E5%8E%BF%E9%95%BF%E6%98%AF%E9%BB%84%E8%A7%89%23&t=31&band_rank=34&Refer=top) 142214
 1. [GAI 合照](https://s.weibo.com/weibo?q=GAI%20%E5%90%88%E7%85%A7&t=31&band_rank=35&Refer=top) 140237
+1. [这歌突然就会唱了](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%AD%8C%E7%AA%81%E7%84%B6%E5%B0%B1%E4%BC%9A%E5%94%B1%E4%BA%86%23&t=31&band_rank=42&Refer=top) 133723
 1. [原来女明星配音也这么优秀](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%A5%B3%E6%98%8E%E6%98%9F%E9%85%8D%E9%9F%B3%E4%B9%9F%E8%BF%99%E4%B9%88%E4%BC%98%E7%A7%80%23&t=31&band_rank=36&Refer=top) 132750
 1. [东北小伙趁症状轻炫1天麻辣烫过瘾](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E5%B0%8F%E4%BC%99%E8%B6%81%E7%97%87%E7%8A%B6%E8%BD%BB%E7%82%AB1%E5%A4%A9%E9%BA%BB%E8%BE%A3%E7%83%AB%E8%BF%87%E7%98%BE%23&t=31&band_rank=37&Refer=top) 127853
-1. [这歌突然就会唱了](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%AD%8C%E7%AA%81%E7%84%B6%E5%B0%B1%E4%BC%9A%E5%94%B1%E4%BA%86%23&t=31&band_rank=42&Refer=top) 122394
 1. [及时回应妥善解决考生急难愁盼问题](https://s.weibo.com/weibo?q=%23%E5%8F%8A%E6%97%B6%E5%9B%9E%E5%BA%94%E5%A6%A5%E5%96%84%E8%A7%A3%E5%86%B3%E8%80%83%E7%94%9F%E6%80%A5%E9%9A%BE%E6%84%81%E7%9B%BC%E9%97%AE%E9%A2%98%23&t=31&band_rank=38&Refer=top) 120406
+1. [卖烤土豆的老板把自己吃的满脸灰](https://s.weibo.com/weibo?q=%23%E5%8D%96%E7%83%A4%E5%9C%9F%E8%B1%86%E7%9A%84%E8%80%81%E6%9D%BF%E6%8A%8A%E8%87%AA%E5%B7%B1%E5%90%83%E7%9A%84%E6%BB%A1%E8%84%B8%E7%81%B0%23&t=31&band_rank=49&Refer=top) 120051
 1. [杭州无症状轻症可申请集中隔离](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E6%97%A0%E7%97%87%E7%8A%B6%E8%BD%BB%E7%97%87%E5%8F%AF%E7%94%B3%E8%AF%B7%E9%9B%86%E4%B8%AD%E9%9A%94%E7%A6%BB%23&t=31&band_rank=39&Refer=top) 118138
 1. [回来的女儿](https://s.weibo.com/weibo?q=%E5%9B%9E%E6%9D%A5%E7%9A%84%E5%A5%B3%E5%84%BF&t=31&band_rank=40&Refer=top) 117472
-1. [卖烤土豆的老板把自己吃的满脸灰](https://s.weibo.com/weibo?q=%23%E5%8D%96%E7%83%A4%E5%9C%9F%E8%B1%86%E7%9A%84%E8%80%81%E6%9D%BF%E6%8A%8A%E8%87%AA%E5%B7%B1%E5%90%83%E7%9A%84%E6%BB%A1%E8%84%B8%E7%81%B0%23&t=31&band_rank=49&Refer=top) 117467
 1. [齐思钧说大家听我解释一下](https://s.weibo.com/weibo?q=%23%E9%BD%90%E6%80%9D%E9%92%A7%E8%AF%B4%E5%A4%A7%E5%AE%B6%E5%90%AC%E6%88%91%E8%A7%A3%E9%87%8A%E4%B8%80%E4%B8%8B%23&t=31&band_rank=41&Refer=top) 116303
 1. [狗狗也有自己的社交圈](https://s.weibo.com/weibo?q=%23%E7%8B%97%E7%8B%97%E4%B9%9F%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84%E7%A4%BE%E4%BA%A4%E5%9C%88%23&t=31&band_rank=43&Refer=top) 107863
 1. [浙大博士被妻子评为不及格丈夫](https://s.weibo.com/weibo?q=%23%E6%B5%99%E5%A4%A7%E5%8D%9A%E5%A3%AB%E8%A2%AB%E5%A6%BB%E5%AD%90%E8%AF%84%E4%B8%BA%E4%B8%8D%E5%8F%8A%E6%A0%BC%E4%B8%88%E5%A4%AB%23&t=31&band_rank=44&Refer=top) 106004
@@ -58,7 +58,8 @@
 1. [女子发烧致脸上脱层皮体重掉8斤](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%8F%91%E7%83%A7%E8%87%B4%E8%84%B8%E4%B8%8A%E8%84%B1%E5%B1%82%E7%9A%AE%E4%BD%93%E9%87%8D%E6%8E%898%E6%96%A4%23&t=31&band_rank=47&Refer=top) 92652
 1. [阳了在家自制电解质水靠谱吗](https://s.weibo.com/weibo?q=%23%E9%98%B3%E4%BA%86%E5%9C%A8%E5%AE%B6%E8%87%AA%E5%88%B6%E7%94%B5%E8%A7%A3%E8%B4%A8%E6%B0%B4%E9%9D%A0%E8%B0%B1%E5%90%97%23&t=31&band_rank=48&Refer=top) 88178
 1. [咳嗽咳痰如何应对](https://s.weibo.com/weibo?q=%23%E5%92%B3%E5%97%BD%E5%92%B3%E7%97%B0%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9%23&t=31&band_rank=50&Refer=top) 77299
-1. [阳性康复居家如何全面消杀](https://s.weibo.com/weibo?q=%23%E9%98%B3%E6%80%A7%E5%BA%B7%E5%A4%8D%E5%B1%85%E5%AE%B6%E5%A6%82%E4%BD%95%E5%85%A8%E9%9D%A2%E6%B6%88%E6%9D%80%23&t=31&band_rank=48&Refer=top) 65556
+1. [阳性康复居家如何全面消杀](https://s.weibo.com/weibo?q=%23%E9%98%B3%E6%80%A7%E5%BA%B7%E5%A4%8D%E5%B1%85%E5%AE%B6%E5%A6%82%E4%BD%95%E5%85%A8%E9%9D%A2%E6%B6%88%E6%9D%80%23&t=31&band_rank=48&Refer=top) 65824
+1. [下夜班医生路遇晕倒老人停车救援](https://s.weibo.com/weibo?q=%23%E4%B8%8B%E5%A4%9C%E7%8F%AD%E5%8C%BB%E7%94%9F%E8%B7%AF%E9%81%87%E6%99%95%E5%80%92%E8%80%81%E4%BA%BA%E5%81%9C%E8%BD%A6%E6%95%91%E6%8F%B4%23&t=31&band_rank=50&Refer=top) 65815
 <!-- END -->
 
 历史归档 [./archives](./archives)
