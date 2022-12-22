@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-12-23 05:23:04.847184 
+最后更新时间 2022-12-23 05:34:41.923024 
 1. [决赛圈](https://s.weibo.com/weibo?q=%23%E5%86%B3%E8%B5%9B%E5%9C%88%23&t=31&band_rank=1&Refer=top) 2159509
 1. [编剧倪震去世](https://s.weibo.com/weibo?q=%23%E7%BC%96%E5%89%A7%E5%80%AA%E9%9C%87%E5%8E%BB%E4%B8%96%23&t=31&band_rank=2&Refer=top) 1175389
 1. [关于孩子发烧17个热点问答](https://s.weibo.com/weibo?q=%23%E5%85%B3%E4%BA%8E%E5%AD%A9%E5%AD%90%E5%8F%91%E7%83%A717%E4%B8%AA%E7%83%AD%E7%82%B9%E9%97%AE%E7%AD%94%23&t=31&band_rank=3&Refer=top) 847941
@@ -61,8 +61,8 @@
 1. [二刷想见你](https://s.weibo.com/weibo?q=%E4%BA%8C%E5%88%B7%E6%83%B3%E8%A7%81%E4%BD%A0&t=31&band_rank=31&Refer=top) 80868
 1. [外卖小哥高烧39℃送完餐瘫倒在地](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E9%AB%98%E7%83%A739%E2%84%83%E9%80%81%E5%AE%8C%E9%A4%90%E7%98%AB%E5%80%92%E5%9C%A8%E5%9C%B0%23&t=31&band_rank=44&Refer=top) 76300
 1. [新冠缺药有哪些求助方式](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%86%A0%E7%BC%BA%E8%8D%AF%E6%9C%89%E5%93%AA%E4%BA%9B%E6%B1%82%E5%8A%A9%E6%96%B9%E5%BC%8F%23&t=31&band_rank=45&Refer=top) 71918
+1. [过敏体质不易感染是真的吗](https://s.weibo.com/weibo?q=%23%E8%BF%87%E6%95%8F%E4%BD%93%E8%B4%A8%E4%B8%8D%E6%98%93%E6%84%9F%E6%9F%93%E6%98%AF%E7%9C%9F%E7%9A%84%E5%90%97%23&t=31&band_rank=24&Refer=top) 70352
 1. [女子验孕试纸和抗原同时呈阳性](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%AA%8C%E5%AD%95%E8%AF%95%E7%BA%B8%E5%92%8C%E6%8A%97%E5%8E%9F%E5%90%8C%E6%97%B6%E5%91%88%E9%98%B3%E6%80%A7%23&t=31&band_rank=46&Refer=top) 68724
-1. [过敏体质不易感染是真的吗](https://s.weibo.com/weibo?q=%23%E8%BF%87%E6%95%8F%E4%BD%93%E8%B4%A8%E4%B8%8D%E6%98%93%E6%84%9F%E6%9F%93%E6%98%AF%E7%9C%9F%E7%9A%84%E5%90%97%23&t=31&band_rank=24&Refer=top) 68238
 1. [3狗崽零下34度雪地玩耍被狗妈叼回](https://s.weibo.com/weibo?q=%233%E7%8B%97%E5%B4%BD%E9%9B%B6%E4%B8%8B34%E5%BA%A6%E9%9B%AA%E5%9C%B0%E7%8E%A9%E8%80%8D%E8%A2%AB%E7%8B%97%E5%A6%88%E5%8F%BC%E5%9B%9E%23&t=31&band_rank=47&Refer=top) 67609
 1. [赵睿手臂出血](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E7%9D%BF%E6%89%8B%E8%87%82%E5%87%BA%E8%A1%80%23&t=31&band_rank=49&Refer=top) 66027
 1. [当去你去买奢侈品](https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%8E%BB%E4%BD%A0%E5%8E%BB%E4%B9%B0%E5%A5%A2%E4%BE%88%E5%93%81%23&t=31&band_rank=49&Refer=top) 65814
