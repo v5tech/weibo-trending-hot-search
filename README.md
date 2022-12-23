@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-12-24 04:49:04.170085 
+最后更新时间 2022-12-24 05:09:24.623475 
 1. [发烧时要少吃高蛋白食物](https://s.weibo.com/weibo?q=%23%E5%8F%91%E7%83%A7%E6%97%B6%E8%A6%81%E5%B0%91%E5%90%83%E9%AB%98%E8%9B%8B%E7%99%BD%E9%A3%9F%E7%89%A9%23&t=31&band_rank=1&Refer=top) 1124247
 1. [青岛目前每日新增感染50万人左右](https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B%E7%9B%AE%E5%89%8D%E6%AF%8F%E6%97%A5%E6%96%B0%E5%A2%9E%E6%84%9F%E6%9F%9350%E4%B8%87%E4%BA%BA%E5%B7%A6%E5%8F%B3%23&t=31&band_rank=2&Refer=top) 1011857
 1. [老人出现这六种情况应及时就诊](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%87%BA%E7%8E%B0%E8%BF%99%E5%85%AD%E7%A7%8D%E6%83%85%E5%86%B5%E5%BA%94%E5%8F%8A%E6%97%B6%E5%B0%B1%E8%AF%8A%23&t=31&band_rank=3&Refer=top) 705721
@@ -66,6 +66,7 @@
 1. [2023北京卫视跨年之夜官宣](https://s.weibo.com/weibo?q=%232023%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86%E8%B7%A8%E5%B9%B4%E4%B9%8B%E5%A4%9C%E5%AE%98%E5%AE%A3%23&t=31&band_rank=43&Refer=top) 55115
 1. [盘点生活中那些快乐瞬间](https://s.weibo.com/weibo?q=%23%E7%9B%98%E7%82%B9%E7%94%9F%E6%B4%BB%E4%B8%AD%E9%82%A3%E4%BA%9B%E5%BF%AB%E4%B9%90%E7%9E%AC%E9%97%B4%23&t=31&band_rank=49&Refer=top) 49427
 1. [沈月画的车保罗](https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%9C%88%E7%94%BB%E7%9A%84%E8%BD%A6%E4%BF%9D%E7%BD%97%23&t=31&band_rank=48&Refer=top) 21937
+1. [鹤岗原市长梁成军被判死缓](https://s.weibo.com/weibo?q=%23%E9%B9%A4%E5%B2%97%E5%8E%9F%E5%B8%82%E9%95%BF%E6%A2%81%E6%88%90%E5%86%9B%E8%A2%AB%E5%88%A4%E6%AD%BB%E7%BC%93%23&t=31&band_rank=31&Refer=top) 19934
 1. [仙侠剧特效能有多精致](https://s.weibo.com/weibo?q=%23%E4%BB%99%E4%BE%A0%E5%89%A7%E7%89%B9%E6%95%88%E8%83%BD%E6%9C%89%E5%A4%9A%E7%B2%BE%E8%87%B4%23&t=31&band_rank=49&Refer=top) 19641
 <!-- END -->
 
