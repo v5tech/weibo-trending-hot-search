@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-12-25 03:18:58.489807 
+最后更新时间 2022-12-25 03:34:20.698259 
 1. [肺炎](https://s.weibo.com/weibo?q=%E8%82%BA%E7%82%8E&t=31&band_rank=1&Refer=top) 3070511
 1. [不懂内娱到底在高贵什么](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E6%87%82%E5%86%85%E5%A8%B1%E5%88%B0%E5%BA%95%E5%9C%A8%E9%AB%98%E8%B4%B5%E4%BB%80%E4%B9%88%23&t=31&band_rank=2&Refer=top) 1089510
 1. [全球首架C919自12月26日起验证飞行](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E9%A6%96%E6%9E%B6C919%E8%87%AA12%E6%9C%8826%E6%97%A5%E8%B5%B7%E9%AA%8C%E8%AF%81%E9%A3%9E%E8%A1%8C%23&t=31&band_rank=3&Refer=top) 946795
@@ -71,6 +71,7 @@
 1. [护士接待患者嗓音沙哑令人心疼](https://s.weibo.com/weibo?q=%23%E6%8A%A4%E5%A3%AB%E6%8E%A5%E5%BE%85%E6%82%A3%E8%80%85%E5%97%93%E9%9F%B3%E6%B2%99%E5%93%91%E4%BB%A4%E4%BA%BA%E5%BF%83%E7%96%BC%23&t=31&band_rank=48&Refer=top) 59847
 1. [这个视频好多个重点](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%AA%E8%A7%86%E9%A2%91%E5%A5%BD%E5%A4%9A%E4%B8%AA%E9%87%8D%E7%82%B9%23&t=31&band_rank=50&Refer=top) 53091
 1. [Lia扶李彩领退场](https://s.weibo.com/weibo?q=%23Lia%E6%89%B6%E6%9D%8E%E5%BD%A9%E9%A2%86%E9%80%80%E5%9C%BA%23&t=31&band_rank=27&Refer=top) 40206
+1. [没有警察叔叔找不到的丢书学生](https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%9C%89%E8%AD%A6%E5%AF%9F%E5%8F%94%E5%8F%94%E6%89%BE%E4%B8%8D%E5%88%B0%E7%9A%84%E4%B8%A2%E4%B9%A6%E5%AD%A6%E7%94%9F%23&t=31&band_rank=50&Refer=top) 17489
 <!-- END -->
 
 历史归档 [./archives](./archives)
