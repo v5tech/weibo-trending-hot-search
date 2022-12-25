@@ -15,13 +15,13 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E6%8C%82%E5%96%9C%E6%8A%A5%E7%A5%9D%E8%B4%BA%E6%80%A5%E8%AF%8A%E4%BA%BA%E6%AC%A1%E7%A0%B4200%E4%B8%87%23&t=31&band_rank=4&Refer=top",
     "hot": 834435
   },
+  "法国20万人请愿重踢决赛你怎么看": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD20%E4%B8%87%E4%BA%BA%E8%AF%B7%E6%84%BF%E9%87%8D%E8%B8%A2%E5%86%B3%E8%B5%9B%E4%BD%A0%E6%80%8E%E4%B9%88%E7%9C%8B%23&t=31&band_rank=39&Refer=top",
+    "hot": 825155
+  },
   "就当是一场梦 醒来还是很感动": {
     "url": "https://s.weibo.com/weibo?q=%E5%B0%B1%E5%BD%93%E6%98%AF%E4%B8%80%E5%9C%BA%E6%A2%A6%20%E9%86%92%E6%9D%A5%E8%BF%98%E6%98%AF%E5%BE%88%E6%84%9F%E5%8A%A8&t=31&band_rank=5&Refer=top",
     "hot": 733271
-  },
-  "法国20万人请愿重踢决赛你怎么看": {
-    "url": "https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD20%E4%B8%87%E4%BA%BA%E8%AF%B7%E6%84%BF%E9%87%8D%E8%B8%A2%E5%86%B3%E8%B5%9B%E4%BD%A0%E6%80%8E%E4%B9%88%E7%9C%8B%23&t=31&band_rank=39&Refer=top",
-    "hot": 587795
   },
   "男子为节省抗原将试纸剪开分两次用": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%BA%E8%8A%82%E7%9C%81%E6%8A%97%E5%8E%9F%E5%B0%86%E8%AF%95%E7%BA%B8%E5%89%AA%E5%BC%80%E5%88%86%E4%B8%A4%E6%AC%A1%E7%94%A8%23&t=31&band_rank=6&Refer=top",
@@ -218,5 +218,9 @@
   "DOTA2互联网杯": {
     "url": "https://s.weibo.com/weibo?q=%23DOTA2%E4%BA%92%E8%81%94%E7%BD%91%E6%9D%AF%23&t=31&band_rank=46&Refer=top",
     "hot": 63746
+  },
+  "药店回应市民排队免费领药被举报": {
+    "url": "https://s.weibo.com/weibo?q=%23%E8%8D%AF%E5%BA%97%E5%9B%9E%E5%BA%94%E5%B8%82%E6%B0%91%E6%8E%92%E9%98%9F%E5%85%8D%E8%B4%B9%E9%A2%86%E8%8D%AF%E8%A2%AB%E4%B8%BE%E6%8A%A5%23&t=31&band_rank=50&Refer=top",
+    "hot": 34009
   }
 }
