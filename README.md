@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-12-27 04:25:23.964401 
+最后更新时间 2022-12-27 04:34:39.620864 
 1. [新冠肺炎更名为新冠感染](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E6%9B%B4%E5%90%8D%E4%B8%BA%E6%96%B0%E5%86%A0%E6%84%9F%E6%9F%93%23&t=31&band_rank=1&Refer=top) 8254393
 1. [xbb](https://s.weibo.com/weibo?q=%23xbb%23&t=31&band_rank=2&Refer=top) 2506961
 1. [章泽天发朋友圈介绍如何购买辉瑞新冠药](https://s.weibo.com/weibo?q=%23%E7%AB%A0%E6%B3%BD%E5%A4%A9%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%88%E4%BB%8B%E7%BB%8D%E5%A6%82%E4%BD%95%E8%B4%AD%E4%B9%B0%E8%BE%89%E7%91%9E%E6%96%B0%E5%86%A0%E8%8D%AF%23&t=31&band_rank=5&Refer=top) 2351569
@@ -70,7 +70,7 @@
 1. [山东多地迎今冬初雪](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E5%A4%9A%E5%9C%B0%E8%BF%8E%E4%BB%8A%E5%86%AC%E5%88%9D%E9%9B%AA%23&t=31&band_rank=47&Refer=top) 47780
 1. [你看过最难释怀的烂剧](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%9C%8B%E8%BF%87%E6%9C%80%E9%9A%BE%E9%87%8A%E6%80%80%E7%9A%84%E7%83%82%E5%89%A7%23&t=31&band_rank=44&Refer=top) 44439
 1. [中国海军驱离海盗真实影像](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B5%B7%E5%86%9B%E9%A9%B1%E7%A6%BB%E6%B5%B7%E7%9B%97%E7%9C%9F%E5%AE%9E%E5%BD%B1%E5%83%8F%23&t=31&band_rank=50&Refer=top) 40303
-1. [栓Q哥成名后有老板为签约喂他吃饭](https://s.weibo.com/weibo?q=%23%E6%A0%93Q%E5%93%A5%E6%88%90%E5%90%8D%E5%90%8E%E6%9C%89%E8%80%81%E6%9D%BF%E4%B8%BA%E7%AD%BE%E7%BA%A6%E5%96%82%E4%BB%96%E5%90%83%E9%A5%AD%23&t=31&band_rank=50&Refer=top) 28409
+1. [栓Q哥成名后有老板为签约喂他吃饭](https://s.weibo.com/weibo?q=%23%E6%A0%93Q%E5%93%A5%E6%88%90%E5%90%8D%E5%90%8E%E6%9C%89%E8%80%81%E6%9D%BF%E4%B8%BA%E7%AD%BE%E7%BA%A6%E5%96%82%E4%BB%96%E5%90%83%E9%A5%AD%23&t=31&band_rank=50&Refer=top) 28420
 1. [王凯谭松韵新剧首播收视率第一](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%87%AF%E8%B0%AD%E6%9D%BE%E9%9F%B5%E6%96%B0%E5%89%A7%E9%A6%96%E6%92%AD%E6%94%B6%E8%A7%86%E7%8E%87%E7%AC%AC%E4%B8%80%23&t=31&band_rank=38&Refer=top) 25564
 <!-- END -->
 
