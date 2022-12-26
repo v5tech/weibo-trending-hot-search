@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-12-27 02:48:55.443884 
+最后更新时间 2022-12-27 03:08:15.371597 
 1. [新冠肺炎更名为新冠感染](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%86%A0%E8%82%BA%E7%82%8E%E6%9B%B4%E5%90%8D%E4%B8%BA%E6%96%B0%E5%86%A0%E6%84%9F%E6%9F%93%23&t=31&band_rank=1&Refer=top) 8254393
 1. [xbb](https://s.weibo.com/weibo?q=%23xbb%23&t=31&band_rank=2&Refer=top) 2506961
 1. [章泽天发朋友圈介绍如何购买辉瑞新冠药](https://s.weibo.com/weibo?q=%23%E7%AB%A0%E6%B3%BD%E5%A4%A9%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%88%E4%BB%8B%E7%BB%8D%E5%A6%82%E4%BD%95%E8%B4%AD%E4%B9%B0%E8%BE%89%E7%91%9E%E6%96%B0%E5%86%A0%E8%8D%AF%23&t=31&band_rank=5&Refer=top) 2351569
