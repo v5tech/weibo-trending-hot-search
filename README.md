@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-12-28 03:34:21.622563 
+最后更新时间 2022-12-28 03:49:01.879633 
 1. [失眠可能是肺出现了问题](https://s.weibo.com/weibo?q=%23%E5%A4%B1%E7%9C%A0%E5%8F%AF%E8%83%BD%E6%98%AF%E8%82%BA%E5%87%BA%E7%8E%B0%E4%BA%86%E9%97%AE%E9%A2%98%23&t=31&band_rank=5&Refer=top) 1955335
 1. [孩子发烧41℃第二天家门口出现一瓶美林](https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E5%8F%91%E7%83%A741%E2%84%83%E7%AC%AC%E4%BA%8C%E5%A4%A9%E5%AE%B6%E9%97%A8%E5%8F%A3%E5%87%BA%E7%8E%B0%E4%B8%80%E7%93%B6%E7%BE%8E%E6%9E%97%23&t=31&band_rank=1&Refer=top) 1062463
 1. [专家称奥密克戎突变已基本饱和](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E5%A5%A5%E5%AF%86%E5%85%8B%E6%88%8E%E7%AA%81%E5%8F%98%E5%B7%B2%E5%9F%BA%E6%9C%AC%E9%A5%B1%E5%92%8C%23&t=31&band_rank=2&Refer=top) 991128
@@ -65,9 +65,9 @@
 1. [医生连轴转抢救病人前还在打吊瓶](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E8%BF%9E%E8%BD%B4%E8%BD%AC%E6%8A%A2%E6%95%91%E7%97%85%E4%BA%BA%E5%89%8D%E8%BF%98%E5%9C%A8%E6%89%93%E5%90%8A%E7%93%B6%23&t=31&band_rank=50&Refer=top) 85743
 1. [原神3.3](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E7%A5%9E3.3%23&t=31&band_rank=43&Refer=top) 52205
 1. [Xun获德杯FMVP](https://s.weibo.com/weibo?q=%23Xun%E8%8E%B7%E5%BE%B7%E6%9D%AFFMVP%23&t=31&band_rank=50&Refer=top) 51851
+1. [教育局回应高中男生摔猫踢猫](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E9%AB%98%E4%B8%AD%E7%94%B7%E7%94%9F%E6%91%94%E7%8C%AB%E8%B8%A2%E7%8C%AB%23&t=31&band_rank=50&Refer=top) 45888
 1. [切尔西vs伯恩茅斯](https://s.weibo.com/weibo?q=%23%E5%88%87%E5%B0%94%E8%A5%BFvs%E4%BC%AF%E6%81%A9%E8%8C%85%E6%96%AF%23&t=31&band_rank=39&Refer=top) 38285
 1. [撒贝宁和鱼多少是有点缘分的](https://s.weibo.com/weibo?q=%23%E6%92%92%E8%B4%9D%E5%AE%81%E5%92%8C%E9%B1%BC%E5%A4%9A%E5%B0%91%E6%98%AF%E6%9C%89%E7%82%B9%E7%BC%98%E5%88%86%E7%9A%84%23&t=31&band_rank=42&Refer=top) 37145
-1. [教育局回应高中男生摔猫踢猫](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E9%AB%98%E4%B8%AD%E7%94%B7%E7%94%9F%E6%91%94%E7%8C%AB%E8%B8%A2%E7%8C%AB%23&t=31&band_rank=50&Refer=top) 32177
 1. [曼联vs诺丁汉森林](https://s.weibo.com/weibo?q=%23%E6%9B%BC%E8%81%94vs%E8%AF%BA%E4%B8%81%E6%B1%89%E6%A3%AE%E6%9E%97%23&t=31&band_rank=50&Refer=top) 17040
 <!-- END -->
 
