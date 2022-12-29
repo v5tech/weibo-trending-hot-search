@@ -27,6 +27,10 @@
     "url": "https://s.weibo.com/weibo?q=%E5%BF%AB%E4%B9%90%E5%86%8D%E5%87%BA%E5%8F%91&t=31&band_rank=7&Refer=top",
     "hot": 694995
   },
+  "球王贝利去世": {
+    "url": "https://s.weibo.com/weibo?q=%E7%90%83%E7%8E%8B%E8%B4%9D%E5%88%A9%E5%8E%BB%E4%B8%96&t=31&band_rank=1&Refer=top",
+    "hot": 620648
+  },
   "福建一股民赚1.4亿被罚没5.7亿": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E4%B8%80%E8%82%A1%E6%B0%91%E8%B5%9A1.4%E4%BA%BF%E8%A2%AB%E7%BD%9A%E6%B2%A15.7%E4%BA%BF%23&t=31&band_rank=31&Refer=top",
     "hot": 617964
@@ -38,10 +42,6 @@
   "女子阳后9天洗头掉发如毛线团": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%98%B3%E5%90%8E9%E5%A4%A9%E6%B4%97%E5%A4%B4%E6%8E%89%E5%8F%91%E5%A6%82%E6%AF%9B%E7%BA%BF%E5%9B%A2%23&t=31&band_rank=8&Refer=top",
     "hot": 593753
-  },
-  "球王贝利去世": {
-    "url": "https://s.weibo.com/weibo?q=%E7%90%83%E7%8E%8B%E8%B4%9D%E5%88%A9%E5%8E%BB%E4%B8%96&t=31&band_rank=1&Refer=top",
-    "hot": 560435
   },
   "专家称今后不排除还需要做核酸": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E4%BB%8A%E5%90%8E%E4%B8%8D%E6%8E%92%E9%99%A4%E8%BF%98%E9%9C%80%E8%A6%81%E5%81%9A%E6%A0%B8%E9%85%B8%23&t=31&band_rank=9&Refer=top",
@@ -265,6 +265,6 @@
   },
   "小秀是被李文卓所杀": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%A7%80%E6%98%AF%E8%A2%AB%E6%9D%8E%E6%96%87%E5%8D%93%E6%89%80%E6%9D%80%23&t=31&band_rank=41&Refer=top",
-    "hot": 19281
+    "hot": 20636
   }
 }
