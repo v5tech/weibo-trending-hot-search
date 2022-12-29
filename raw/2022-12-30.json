@@ -79,6 +79,10 @@
     "url": "https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82&t=31&band_rank=35&Refer=top",
     "hot": 272131
   },
+  "今年最爱的电子榨菜": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E6%9C%80%E7%88%B1%E7%9A%84%E7%94%B5%E5%AD%90%E6%A6%A8%E8%8F%9C%23&t=31&band_rank=12&Refer=top",
+    "hot": 229402
+  },
   "竟然被弟弟油腻到了": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%AB%9F%E7%84%B6%E8%A2%AB%E5%BC%9F%E5%BC%9F%E6%B2%B9%E8%85%BB%E5%88%B0%E4%BA%86%23&t=31&band_rank=18&Refer=top",
     "hot": 215996
@@ -214,5 +218,9 @@
   "白肺是什么": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E8%82%BA%E6%98%AF%E4%BB%80%E4%B9%88%23&t=31&band_rank=49&Refer=top",
     "hot": 72732
+  },
+  "日本媒体报道2022年中国网络流行语": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%AA%92%E4%BD%93%E6%8A%A5%E9%81%932022%E5%B9%B4%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E6%B5%81%E8%A1%8C%E8%AF%AD%23&t=31&band_rank=43&Refer=top",
+    "hot": 62945
   }
 }
