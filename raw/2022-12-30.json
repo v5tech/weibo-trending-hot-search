@@ -81,7 +81,7 @@
   },
   "今年最爱的电子榨菜": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E6%9C%80%E7%88%B1%E7%9A%84%E7%94%B5%E5%AD%90%E6%A6%A8%E8%8F%9C%23&t=31&band_rank=12&Refer=top",
-    "hot": 229402
+    "hot": 265648
   },
   "竟然被弟弟油腻到了": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%AB%9F%E7%84%B6%E8%A2%AB%E5%BC%9F%E5%BC%9F%E6%B2%B9%E8%85%BB%E5%88%B0%E4%BA%86%23&t=31&band_rank=18&Refer=top",
@@ -122,6 +122,10 @@
   "iPhone频繁降价开启卷王模式": {
     "url": "https://s.weibo.com/weibo?q=%23iPhone%E9%A2%91%E7%B9%81%E9%99%8D%E4%BB%B7%E5%BC%80%E5%90%AF%E5%8D%B7%E7%8E%8B%E6%A8%A1%E5%BC%8F%23&t=31&band_rank=27&Refer=top",
     "hot": 188700
+  },
+  "敖瑞鹏少年歌行还原度": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%95%96%E7%91%9E%E9%B9%8F%E5%B0%91%E5%B9%B4%E6%AD%8C%E8%A1%8C%E8%BF%98%E5%8E%9F%E5%BA%A6%23&t=31&band_rank=16&Refer=top",
+    "hot": 176317
   },
   "车厘子": {
     "url": "https://s.weibo.com/weibo?q=%E8%BD%A6%E5%8E%98%E5%AD%90&t=31&band_rank=28&Refer=top",
@@ -219,8 +223,20 @@
     "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E8%82%BA%E6%98%AF%E4%BB%80%E4%B9%88%23&t=31&band_rank=49&Refer=top",
     "hot": 72732
   },
+  "胡彦斌问王霏霏女艺人过年怕吃胖吗": {
+    "url": "https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%BD%A6%E6%96%8C%E9%97%AE%E7%8E%8B%E9%9C%8F%E9%9C%8F%E5%A5%B3%E8%89%BA%E4%BA%BA%E8%BF%87%E5%B9%B4%E6%80%95%E5%90%83%E8%83%96%E5%90%97%23&t=31&band_rank=31&Refer=top",
+    "hot": 68573
+  },
   "日本媒体报道2022年中国网络流行语": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%AA%92%E4%BD%93%E6%8A%A5%E9%81%932022%E5%B9%B4%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E6%B5%81%E8%A1%8C%E8%AF%AD%23&t=31&band_rank=43&Refer=top",
-    "hot": 62945
+    "hot": 68014
+  },
+  "令人迷惑的广州地名": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A4%E4%BA%BA%E8%BF%B7%E6%83%91%E7%9A%84%E5%B9%BF%E5%B7%9E%E5%9C%B0%E5%90%8D%23&t=31&band_rank=49&Refer=top",
+    "hot": 46372
+  },
+  "猫咪为了揽客有多卑微": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%8C%AB%E5%92%AA%E4%B8%BA%E4%BA%86%E6%8F%BD%E5%AE%A2%E6%9C%89%E5%A4%9A%E5%8D%91%E5%BE%AE%23&t=31&band_rank=50&Refer=top",
+    "hot": 46177
   }
 }
