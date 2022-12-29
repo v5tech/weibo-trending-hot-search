@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-12-30 02:41:21.449653 
+最后更新时间 2022-12-30 02:49:57.435202 
 1. [成都百岁网红奶奶去世](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E7%99%BE%E5%B2%81%E7%BD%91%E7%BA%A2%E5%A5%B6%E5%A5%B6%E5%8E%BB%E4%B8%96%23&t=31&band_rank=1&Refer=top) 1930770
 1. [专家称第二波疫情风暴会很低](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E7%AC%AC%E4%BA%8C%E6%B3%A2%E7%96%AB%E6%83%85%E9%A3%8E%E6%9A%B4%E4%BC%9A%E5%BE%88%E4%BD%8E%23&t=31&band_rank=2&Refer=top) 1387835
 1. [恢复期9类健康问题如何应对](https://s.weibo.com/weibo?q=%23%E6%81%A2%E5%A4%8D%E6%9C%9F9%E7%B1%BB%E5%81%A5%E5%BA%B7%E9%97%AE%E9%A2%98%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9%23&t=31&band_rank=3&Refer=top) 1053545
@@ -70,7 +70,7 @@
 1. [猫咪为了揽客有多卑微](https://s.weibo.com/weibo?q=%23%E7%8C%AB%E5%92%AA%E4%B8%BA%E4%BA%86%E6%8F%BD%E5%AE%A2%E6%9C%89%E5%A4%9A%E5%8D%91%E5%BE%AE%23&t=31&band_rank=50&Refer=top) 59022
 1. [令人迷惑的广州地名](https://s.weibo.com/weibo?q=%23%E4%BB%A4%E4%BA%BA%E8%BF%B7%E6%83%91%E7%9A%84%E5%B9%BF%E5%B7%9E%E5%9C%B0%E5%90%8D%23&t=31&band_rank=49&Refer=top) 46372
 1. [9位新冠二次感染者自述](https://s.weibo.com/weibo?q=%239%E4%BD%8D%E6%96%B0%E5%86%A0%E4%BA%8C%E6%AC%A1%E6%84%9F%E6%9F%93%E8%80%85%E8%87%AA%E8%BF%B0%23&t=31&band_rank=36&Refer=top) 43206
-1. [觉醒东方只招全能型爱豆吧](https://s.weibo.com/weibo?q=%23%E8%A7%89%E9%86%92%E4%B8%9C%E6%96%B9%E5%8F%AA%E6%8B%9B%E5%85%A8%E8%83%BD%E5%9E%8B%E7%88%B1%E8%B1%86%E5%90%A7%23&t=31&band_rank=42&Refer=top) 28303
+1. [觉醒东方只招全能型爱豆吧](https://s.weibo.com/weibo?q=%23%E8%A7%89%E9%86%92%E4%B8%9C%E6%96%B9%E5%8F%AA%E6%8B%9B%E5%85%A8%E8%83%BD%E5%9E%8B%E7%88%B1%E8%B1%86%E5%90%A7%23&t=31&band_rank=42&Refer=top) 28931
 1. [如何正确认识白肺现象](https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E6%AD%A3%E7%A1%AE%E8%AE%A4%E8%AF%86%E7%99%BD%E8%82%BA%E7%8E%B0%E8%B1%A1%23&t=31&band_rank=50&Refer=top) 24474
 <!-- END -->
 
