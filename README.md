@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-12-31 02:49:14.811249 
+最后更新时间 2022-12-31 03:08:30.523830 
 1. [别了水银温度计](https://s.weibo.com/weibo?q=%23%E5%88%AB%E4%BA%86%E6%B0%B4%E9%93%B6%E6%B8%A9%E5%BA%A6%E8%AE%A1%23&t=31&band_rank=1&Refer=top) 1868831
 1. [女生阳后发现戴帽子的人变多了](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E9%98%B3%E5%90%8E%E5%8F%91%E7%8E%B0%E6%88%B4%E5%B8%BD%E5%AD%90%E7%9A%84%E4%BA%BA%E5%8F%98%E5%A4%9A%E4%BA%86%23&t=31&band_rank=2&Refer=top) 1503432
 1. [恢复期要注意什么](https://s.weibo.com/weibo?q=%23%E6%81%A2%E5%A4%8D%E6%9C%9F%E8%A6%81%E6%B3%A8%E6%84%8F%E4%BB%80%E4%B9%88%23&t=31&band_rank=3&Refer=top) 814303
