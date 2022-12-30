@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2022-12-31 04:49:04.362459 
+最后更新时间 2022-12-31 05:09:14.865975 
 1. [别了水银温度计](https://s.weibo.com/weibo?q=%23%E5%88%AB%E4%BA%86%E6%B0%B4%E9%93%B6%E6%B8%A9%E5%BA%A6%E8%AE%A1%23&t=31&band_rank=1&Refer=top) 1868831
 1. [女生阳后发现戴帽子的人变多了](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E9%98%B3%E5%90%8E%E5%8F%91%E7%8E%B0%E6%88%B4%E5%B8%BD%E5%AD%90%E7%9A%84%E4%BA%BA%E5%8F%98%E5%A4%9A%E4%BA%86%23&t=31&band_rank=2&Refer=top) 1503432
 1. [恢复期要注意什么](https://s.weibo.com/weibo?q=%23%E6%81%A2%E5%A4%8D%E6%9C%9F%E8%A6%81%E6%B3%A8%E6%84%8F%E4%BB%80%E4%B9%88%23&t=31&band_rank=3&Refer=top) 814303
@@ -50,6 +50,7 @@
 1. [王源现在有一套自己的审美体系](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E7%8E%B0%E5%9C%A8%E6%9C%89%E4%B8%80%E5%A5%97%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AE%A1%E7%BE%8E%E4%BD%93%E7%B3%BB%23&t=31&band_rank=32&Refer=top) 162308
 1. [刘宪华一人乐队唱明明就](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%AA%E5%8D%8E%E4%B8%80%E4%BA%BA%E4%B9%90%E9%98%9F%E5%94%B1%E6%98%8E%E6%98%8E%E5%B0%B1%23&t=31&band_rank=33&Refer=top) 161840
 1. [清融](https://s.weibo.com/weibo?q=%E6%B8%85%E8%9E%8D&t=31&band_rank=34&Refer=top) 160258
+1. [一条plog告别2022](https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%9D%A1plog%E5%91%8A%E5%88%AB2022%23&t=31&band_rank=1&Refer=top) 160138
 1. [GK鹏鹏](https://s.weibo.com/weibo?q=GK%E9%B9%8F%E9%B9%8F&t=31&band_rank=35&Refer=top) 159463
 1. [2022爆款影视回忆杀](https://s.weibo.com/weibo?q=%232022%E7%88%86%E6%AC%BE%E5%BD%B1%E8%A7%86%E5%9B%9E%E5%BF%86%E6%9D%80%23&t=31&band_rank=13&Refer=top) 155543
 1. [男子医院抽血医生边看说明边操作](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%8C%BB%E9%99%A2%E6%8A%BD%E8%A1%80%E5%8C%BB%E7%94%9F%E8%BE%B9%E7%9C%8B%E8%AF%B4%E6%98%8E%E8%BE%B9%E6%93%8D%E4%BD%9C%23&t=31&band_rank=36&Refer=top) 153336
@@ -75,7 +76,7 @@
 1. [多个平台鱼跃血氧仪涨价数倍](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E4%B8%AA%E5%B9%B3%E5%8F%B0%E9%B1%BC%E8%B7%83%E8%A1%80%E6%B0%A7%E4%BB%AA%E6%B6%A8%E4%BB%B7%E6%95%B0%E5%80%8D%23&t=31&band_rank=26&Refer=top) 42819
 1. [白鹿说张彬彬头真的挺大](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E8%AF%B4%E5%BC%A0%E5%BD%AC%E5%BD%AC%E5%A4%B4%E7%9C%9F%E7%9A%84%E6%8C%BA%E5%A4%A7%23&t=31&band_rank=42&Refer=top) 31987
 1. [一条回顾告别2022](https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%9D%A1%E5%9B%9E%E9%A1%BE%E5%91%8A%E5%88%AB2022%23&t=31&band_rank=43&Refer=top) 21299
-1. [为什么打了疫苗还感染](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%89%93%E4%BA%86%E7%96%AB%E8%8B%97%E8%BF%98%E6%84%9F%E6%9F%93%23&t=31&band_rank=50&Refer=top) 16226
+1. [为什么打了疫苗还感染](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%89%93%E4%BA%86%E7%96%AB%E8%8B%97%E8%BF%98%E6%84%9F%E6%9F%93%23&t=31&band_rank=50&Refer=top) 19379
 <!-- END -->
 
 历史归档 [./archives](./archives)
