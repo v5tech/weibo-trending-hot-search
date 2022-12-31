@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-01-01 02:12:12.262369 
+最后更新时间 2023-01-01 02:28:23.522921 
 1. [新年快乐](https://s.weibo.com/weibo?q=%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90&t=31&band_rank=1&Refer=top) 14322046
 1. [赵露思腮红谁打的](https://s.weibo.com/weibo?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%E8%85%AE%E7%BA%A2%E8%B0%81%E6%89%93%E7%9A%84&t=31&band_rank=2&Refer=top) 6058008
 1. [鞠婧祎胎毛刘海](https://s.weibo.com/weibo?q=%E9%9E%A0%E5%A9%A7%E7%A5%8E%E8%83%8E%E6%AF%9B%E5%88%98%E6%B5%B7&t=31&band_rank=4&Refer=top) 5288806
@@ -40,7 +40,7 @@
 1. [女子面试失败遇HR帮做职业规划](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%9D%A2%E8%AF%95%E5%A4%B1%E8%B4%A5%E9%81%87HR%E5%B8%AE%E5%81%9A%E8%81%8C%E4%B8%9A%E8%A7%84%E5%88%92%23&t=31&band_rank=30&Refer=top) 1995555
 1. [周深跨年好忙](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E8%B7%A8%E5%B9%B4%E5%A5%BD%E5%BF%99%23&t=31&band_rank=31&Refer=top) 1991913
 1. [YG新女团](https://s.weibo.com/weibo?q=YG%E6%96%B0%E5%A5%B3%E5%9B%A2&t=31&band_rank=32&Refer=top) 1839059
-1. [收视率](https://s.weibo.com/weibo?q=%E6%94%B6%E8%A7%86%E7%8E%87&t=31&band_rank=31&Refer=top) 1648229
+1. [收视率](https://s.weibo.com/weibo?q=%E6%94%B6%E8%A7%86%E7%8E%87&t=31&band_rank=31&Refer=top) 1675637
 1. [祝愿大家新年快乐皆得所愿](https://s.weibo.com/weibo?q=%23%E7%A5%9D%E6%84%BF%E5%A4%A7%E5%AE%B6%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90%E7%9A%86%E5%BE%97%E6%89%80%E6%84%BF%23&t=31&band_rank=37&Refer=top) 1511818
 1. [虞书欣 妆](https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%20%E5%A6%86&t=31&band_rank=33&Refer=top) 1277798
 1. [何炅哭了](https://s.weibo.com/weibo?q=%E4%BD%95%E7%82%85%E5%93%AD%E4%BA%86&t=31&band_rank=34&Refer=top) 1232193
@@ -82,6 +82,7 @@
 1. [程潇 假唱](https://s.weibo.com/weibo?q=%E7%A8%8B%E6%BD%87%20%E5%81%87%E5%94%B1&t=31&band_rank=33&Refer=top) 674637
 1. [用家乡方言打开2023](https://s.weibo.com/weibo?q=%23%E7%94%A8%E5%AE%B6%E4%B9%A1%E6%96%B9%E8%A8%80%E6%89%93%E5%BC%802023%23&t=31&band_rank=50&Refer=top) 669821
 1. [华晨宇好温柔](https://s.weibo.com/weibo?q=%E5%8D%8E%E6%99%A8%E5%AE%87%E5%A5%BD%E6%B8%A9%E6%9F%94&t=31&band_rank=42&Refer=top) 448239
+1. [外滩保安喇叭提醒路边导游不可信](https://s.weibo.com/weibo?q=%23%E5%A4%96%E6%BB%A9%E4%BF%9D%E5%AE%89%E5%96%87%E5%8F%AD%E6%8F%90%E9%86%92%E8%B7%AF%E8%BE%B9%E5%AF%BC%E6%B8%B8%E4%B8%8D%E5%8F%AF%E4%BF%A1%23&t=31&band_rank=46&Refer=top) 308022
 <!-- END -->
 
 历史归档 [./archives](./archives)
