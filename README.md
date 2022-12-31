@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-01-01 01:49:07.289254 
+最后更新时间 2023-01-01 02:12:12.262369 
 1. [新年快乐](https://s.weibo.com/weibo?q=%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90&t=31&band_rank=1&Refer=top) 14322046
 1. [赵露思腮红谁打的](https://s.weibo.com/weibo?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%E8%85%AE%E7%BA%A2%E8%B0%81%E6%89%93%E7%9A%84&t=31&band_rank=2&Refer=top) 6058008
 1. [鞠婧祎胎毛刘海](https://s.weibo.com/weibo?q=%E9%9E%A0%E5%A9%A7%E7%A5%8E%E8%83%8E%E6%AF%9B%E5%88%98%E6%B5%B7&t=31&band_rank=4&Refer=top) 5288806
@@ -40,11 +40,12 @@
 1. [女子面试失败遇HR帮做职业规划](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%9D%A2%E8%AF%95%E5%A4%B1%E8%B4%A5%E9%81%87HR%E5%B8%AE%E5%81%9A%E8%81%8C%E4%B8%9A%E8%A7%84%E5%88%92%23&t=31&band_rank=30&Refer=top) 1995555
 1. [周深跨年好忙](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E8%B7%A8%E5%B9%B4%E5%A5%BD%E5%BF%99%23&t=31&band_rank=31&Refer=top) 1991913
 1. [YG新女团](https://s.weibo.com/weibo?q=YG%E6%96%B0%E5%A5%B3%E5%9B%A2&t=31&band_rank=32&Refer=top) 1839059
+1. [收视率](https://s.weibo.com/weibo?q=%E6%94%B6%E8%A7%86%E7%8E%87&t=31&band_rank=31&Refer=top) 1648229
+1. [祝愿大家新年快乐皆得所愿](https://s.weibo.com/weibo?q=%23%E7%A5%9D%E6%84%BF%E5%A4%A7%E5%AE%B6%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90%E7%9A%86%E5%BE%97%E6%89%80%E6%84%BF%23&t=31&band_rank=37&Refer=top) 1511818
 1. [虞书欣 妆](https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%20%E5%A6%86&t=31&band_rank=33&Refer=top) 1277798
 1. [何炅哭了](https://s.weibo.com/weibo?q=%E4%BD%95%E7%82%85%E5%93%AD%E4%BA%86&t=31&band_rank=34&Refer=top) 1232193
 1. [范丞丞 杀疯了](https://s.weibo.com/weibo?q=%E8%8C%83%E4%B8%9E%E4%B8%9E%20%E6%9D%80%E7%96%AF%E4%BA%86&t=31&band_rank=35&Refer=top) 1230385
 1. [女子带男友回家父母准备几十道菜](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%B8%A6%E7%94%B7%E5%8F%8B%E5%9B%9E%E5%AE%B6%E7%88%B6%E6%AF%8D%E5%87%86%E5%A4%87%E5%87%A0%E5%8D%81%E9%81%93%E8%8F%9C%23&t=31&band_rank=36&Refer=top) 1226432
-1. [祝愿大家新年快乐皆得所愿](https://s.weibo.com/weibo?q=%23%E7%A5%9D%E6%84%BF%E5%A4%A7%E5%AE%B6%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90%E7%9A%86%E5%BE%97%E6%89%80%E6%84%BF%23&t=31&band_rank=37&Refer=top) 1202577
 1. [女子晒6娃日常引争议](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%99%926%E5%A8%83%E6%97%A5%E5%B8%B8%E5%BC%95%E4%BA%89%E8%AE%AE%23&t=31&band_rank=38&Refer=top) 1162662
 1. [蛋仔派对](https://s.weibo.com/weibo?q=%23%E8%9B%8B%E4%BB%94%E6%B4%BE%E5%AF%B9%23&t=31&band_rank=39&Refer=top) 1149589
 1. [迎接2023](https://s.weibo.com/weibo?q=%23%E8%BF%8E%E6%8E%A52023%23&t=31&band_rank=40&Refer=top) 1117471
@@ -58,7 +59,6 @@
 1. [浙江男篮vs辽宁男篮](https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E7%94%B7%E7%AF%AEvs%E8%BE%BD%E5%AE%81%E7%94%B7%E7%AF%AE%23&t=31&band_rank=48&Refer=top) 1084326
 1. [你对2023年的期许是什么](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%AF%B92023%E5%B9%B4%E7%9A%84%E6%9C%9F%E8%AE%B8%E6%98%AF%E4%BB%80%E4%B9%88%23&t=31&band_rank=49&Refer=top) 1080693
 1. [2022](https://s.weibo.com/weibo?q=%232022%23&t=31&band_rank=50&Refer=top) 1074669
-1. [收视率](https://s.weibo.com/weibo?q=%E6%94%B6%E8%A7%86%E7%8E%87&t=31&band_rank=31&Refer=top) 1068465
 1. [哈兰德](https://s.weibo.com/weibo?q=%E5%93%88%E5%85%B0%E5%BE%B7&t=31&band_rank=17&Refer=top) 1007040
 1. [2022再见](https://s.weibo.com/weibo?q=%232022%E5%86%8D%E8%A7%81%23&t=31&band_rank=24&Refer=top) 993183
 1. [aespa开麦](https://s.weibo.com/weibo?q=aespa%E5%BC%80%E9%BA%A6&t=31&band_rank=33&Refer=top) 974051
@@ -81,6 +81,7 @@
 1. [尼格买提说00后比80后更爱穿秋裤](https://s.weibo.com/weibo?q=%23%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E8%AF%B400%E5%90%8E%E6%AF%9480%E5%90%8E%E6%9B%B4%E7%88%B1%E7%A9%BF%E7%A7%8B%E8%A3%A4%23&t=31&band_rank=44&Refer=top) 681911
 1. [程潇 假唱](https://s.weibo.com/weibo?q=%E7%A8%8B%E6%BD%87%20%E5%81%87%E5%94%B1&t=31&band_rank=33&Refer=top) 674637
 1. [用家乡方言打开2023](https://s.weibo.com/weibo?q=%23%E7%94%A8%E5%AE%B6%E4%B9%A1%E6%96%B9%E8%A8%80%E6%89%93%E5%BC%802023%23&t=31&band_rank=50&Refer=top) 669821
+1. [华晨宇好温柔](https://s.weibo.com/weibo?q=%E5%8D%8E%E6%99%A8%E5%AE%87%E5%A5%BD%E6%B8%A9%E6%9F%94&t=31&band_rank=42&Refer=top) 448239
 <!-- END -->
 
 历史归档 [./archives](./archives)
