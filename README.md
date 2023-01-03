@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-01-04 02:49:07.572540 
+最后更新时间 2023-01-04 03:09:08.440720 
 1. [网传王一博李沁长风破浪1月初开机](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%9D%8E%E6%B2%81%E9%95%BF%E9%A3%8E%E7%A0%B4%E6%B5%AA1%E6%9C%88%E5%88%9D%E5%BC%80%E6%9C%BA%23&t=31&band_rank=1&Refer=top) 1127231
 1. [XBB会在我国引起新一轮流行吗](https://s.weibo.com/weibo?q=%23XBB%E4%BC%9A%E5%9C%A8%E6%88%91%E5%9B%BD%E5%BC%95%E8%B5%B7%E6%96%B0%E4%B8%80%E8%BD%AE%E6%B5%81%E8%A1%8C%E5%90%97%23&t=31&band_rank=2&Refer=top) 625892
 1. [2022中国正能量](https://s.weibo.com/weibo?q=%232022%E4%B8%AD%E5%9B%BD%E6%AD%A3%E8%83%BD%E9%87%8F%23&t=31&band_rank=3&Refer=top) 602606
@@ -56,6 +56,7 @@
 1. [肖铎对步音楼说你居然家暴我](https://s.weibo.com/weibo?q=%23%E8%82%96%E9%93%8E%E5%AF%B9%E6%AD%A5%E9%9F%B3%E6%A5%BC%E8%AF%B4%E4%BD%A0%E5%B1%85%E7%84%B6%E5%AE%B6%E6%9A%B4%E6%88%91%23&t=31&band_rank=42&Refer=top) 141670
 1. [商家回应出售不开心猪和淘汰猪](https://s.weibo.com/weibo?q=%23%E5%95%86%E5%AE%B6%E5%9B%9E%E5%BA%94%E5%87%BA%E5%94%AE%E4%B8%8D%E5%BC%80%E5%BF%83%E7%8C%AA%E5%92%8C%E6%B7%98%E6%B1%B0%E7%8C%AA%23&t=31&band_rank=43&Refer=top) 138140
 1. [epl](https://s.weibo.com/weibo?q=epl&t=31&band_rank=46&Refer=top) 128432
+1. [刘亦菲李现去有风的地方首播收视率](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E6%9D%8E%E7%8E%B0%E5%8E%BB%E6%9C%89%E9%A3%8E%E7%9A%84%E5%9C%B0%E6%96%B9%E9%A6%96%E6%92%AD%E6%94%B6%E8%A7%86%E7%8E%87%23&t=31&band_rank=24&Refer=top) 118398
 1. [再见爱人 窒息](https://s.weibo.com/weibo?q=%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA%20%E7%AA%92%E6%81%AF&t=31&band_rank=42&Refer=top) 110435
 1. [长风破浪](https://s.weibo.com/weibo?q=%E9%95%BF%E9%A3%8E%E7%A0%B4%E6%B5%AA&t=31&band_rank=26&Refer=top) 107242
 1. [阳康后怎么避免二次感染](https://s.weibo.com/weibo?q=%23%E9%98%B3%E5%BA%B7%E5%90%8E%E6%80%8E%E4%B9%88%E9%81%BF%E5%85%8D%E4%BA%8C%E6%AC%A1%E6%84%9F%E6%9F%93%23&t=31&band_rank=44&Refer=top) 103407
@@ -65,7 +66,6 @@
 1. [一条朋友圈引发蒙脱石散脱销](https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%9D%A1%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%BC%95%E5%8F%91%E8%92%99%E8%84%B1%E7%9F%B3%E6%95%A3%E8%84%B1%E9%94%80%23&t=31&band_rank=48&Refer=top) 97576
 1. [清融](https://s.weibo.com/weibo?q=%E6%B8%85%E8%9E%8D&t=31&band_rank=49&Refer=top) 97427
 1. [狗狗的自理能力有多强](https://s.weibo.com/weibo?q=%23%E7%8B%97%E7%8B%97%E7%9A%84%E8%87%AA%E7%90%86%E8%83%BD%E5%8A%9B%E6%9C%89%E5%A4%9A%E5%BC%BA%23&t=31&band_rank=50&Refer=top) 95822
-1. [刘亦菲李现去有风的地方首播收视率](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E6%9D%8E%E7%8E%B0%E5%8E%BB%E6%9C%89%E9%A3%8E%E7%9A%84%E5%9C%B0%E6%96%B9%E9%A6%96%E6%92%AD%E6%94%B6%E8%A7%86%E7%8E%87%23&t=31&band_rank=24&Refer=top) 89313
 1. [解放军战机元旦史无前例迫近台岛](https://s.weibo.com/weibo?q=%23%E8%A7%A3%E6%94%BE%E5%86%9B%E6%88%98%E6%9C%BA%E5%85%83%E6%97%A6%E5%8F%B2%E6%97%A0%E5%89%8D%E4%BE%8B%E8%BF%AB%E8%BF%91%E5%8F%B0%E5%B2%9B%23&t=31&band_rank=46&Refer=top) 81621
 1. [许红豆谢之遥互相分享过去](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E7%BA%A2%E8%B1%86%E8%B0%A2%E4%B9%8B%E9%81%A5%E4%BA%92%E7%9B%B8%E5%88%86%E4%BA%AB%E8%BF%87%E5%8E%BB%23&t=31&band_rank=41&Refer=top) 55086
 1. [找主人邀功的猫咪](https://s.weibo.com/weibo?q=%23%E6%89%BE%E4%B8%BB%E4%BA%BA%E9%82%80%E5%8A%9F%E7%9A%84%E7%8C%AB%E5%92%AA%23&t=31&band_rank=50&Refer=top) 50203
