@@ -185,7 +185,11 @@
   },
   "epl": {
     "url": "https://s.weibo.com/weibo?q=epl&t=31&band_rank=46&Refer=top",
-    "hot": 124103
+    "hot": 128432
+  },
+  "丈夫开车辗轧妻子致死案将开庭": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%88%E5%A4%AB%E5%BC%80%E8%BD%A6%E8%BE%97%E8%BD%A7%E5%A6%BB%E5%AD%90%E8%87%B4%E6%AD%BB%E6%A1%88%E5%B0%86%E5%BC%80%E5%BA%AD%23&t=31&band_rank=14&Refer=top",
+    "hot": 123363
   },
   "再见爱人 窒息": {
     "url": "https://s.weibo.com/weibo?q=%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA%20%E7%AA%92%E6%81%AF&t=31&band_rank=42&Refer=top",
@@ -234,5 +238,9 @@
   "找主人邀功的猫咪": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%89%BE%E4%B8%BB%E4%BA%BA%E9%82%80%E5%8A%9F%E7%9A%84%E7%8C%AB%E5%92%AA%23&t=31&band_rank=50&Refer=top",
     "hot": 50203
+  },
+  "西蓝花cp终于官宣": {
+    "url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%93%9D%E8%8A%B1cp%E7%BB%88%E4%BA%8E%E5%AE%98%E5%AE%A3%23&t=31&band_rank=41&Refer=top",
+    "hot": 46496
   }
 }
