@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-01-10 05:34:47.615692 
+最后更新时间 2023-01-10 05:48:56.413212 
 1. [贝尔宣布退役](https://s.weibo.com/weibo?q=%23%E8%B4%9D%E5%B0%94%E5%AE%A3%E5%B8%83%E9%80%80%E5%BD%B9%23&t=31&band_rank=1&Refer=top) 1458718
 1. [女孩博士毕业不社交遭妈妈吐槽](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%8D%9A%E5%A3%AB%E6%AF%95%E4%B8%9A%E4%B8%8D%E7%A4%BE%E4%BA%A4%E9%81%AD%E5%A6%88%E5%A6%88%E5%90%90%E6%A7%BD%23&t=31&band_rank=2&Refer=top) 811850
 1. [当前疫情最新热点十问十答](https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%89%8D%E7%96%AB%E6%83%85%E6%9C%80%E6%96%B0%E7%83%AD%E7%82%B9%E5%8D%81%E9%97%AE%E5%8D%81%E7%AD%94%23&t=31&band_rank=3&Refer=top) 770613
