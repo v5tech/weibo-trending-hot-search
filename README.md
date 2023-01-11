@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-01-12 04:36:42.319416 
+最后更新时间 2023-01-12 04:49:14.903835 
 1. [广州一宝马冲撞人群已致5死13伤](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E4%B8%80%E5%AE%9D%E9%A9%AC%E5%86%B2%E6%92%9E%E4%BA%BA%E7%BE%A4%E5%B7%B2%E8%87%B45%E6%AD%BB13%E4%BC%A4%23&t=31&band_rank=1&Refer=top) 6757232
 1. [爱奇艺APP限制投屏](https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BAAPP%E9%99%90%E5%88%B6%E6%8A%95%E5%B1%8F%23&t=31&band_rank=2&Refer=top) 1198054
 1. [如何科学稳妥地恢复运动](https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E7%A7%91%E5%AD%A6%E7%A8%B3%E5%A6%A5%E5%9C%B0%E6%81%A2%E5%A4%8D%E8%BF%90%E5%8A%A8%23&t=31&band_rank=3&Refer=top) 1046327
