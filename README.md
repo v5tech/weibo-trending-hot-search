@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-01-14 03:08:42.106652 
+最后更新时间 2023-01-14 03:20:45.500219 
 1. [向佐郭碧婷 逛街](https://s.weibo.com/weibo?q=%E5%90%91%E4%BD%90%E9%83%AD%E7%A2%A7%E5%A9%B7%20%E9%80%9B%E8%A1%97&t=31&band_rank=1&Refer=top) 1165107
 1. [榜一大哥奔现遭拒起诉主播欺诈](https://s.weibo.com/weibo?q=%23%E6%A6%9C%E4%B8%80%E5%A4%A7%E5%93%A5%E5%A5%94%E7%8E%B0%E9%81%AD%E6%8B%92%E8%B5%B7%E8%AF%89%E4%B8%BB%E6%92%AD%E6%AC%BA%E8%AF%88%23&t=31&band_rank=23&Refer=top) 1062413
 1. [省教育厅回应女生宿舍上铺坠亡](https://s.weibo.com/weibo?q=%23%E7%9C%81%E6%95%99%E8%82%B2%E5%8E%85%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%94%9F%E5%AE%BF%E8%88%8D%E4%B8%8A%E9%93%BA%E5%9D%A0%E4%BA%A1%23&t=31&band_rank=2&Refer=top) 932749
