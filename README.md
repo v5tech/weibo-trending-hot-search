@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-01-14 02:30:52.054504 
+最后更新时间 2023-01-14 02:48:55.476448 
 1. [向佐郭碧婷 逛街](https://s.weibo.com/weibo?q=%E5%90%91%E4%BD%90%E9%83%AD%E7%A2%A7%E5%A9%B7%20%E9%80%9B%E8%A1%97&t=31&band_rank=1&Refer=top) 1165107
 1. [榜一大哥奔现遭拒起诉主播欺诈](https://s.weibo.com/weibo?q=%23%E6%A6%9C%E4%B8%80%E5%A4%A7%E5%93%A5%E5%A5%94%E7%8E%B0%E9%81%AD%E6%8B%92%E8%B5%B7%E8%AF%89%E4%B8%BB%E6%92%AD%E6%AC%BA%E8%AF%88%23&t=31&band_rank=23&Refer=top) 1062413
 1. [省教育厅回应女生宿舍上铺坠亡](https://s.weibo.com/weibo?q=%23%E7%9C%81%E6%95%99%E8%82%B2%E5%8E%85%E5%9B%9E%E5%BA%94%E5%A5%B3%E7%94%9F%E5%AE%BF%E8%88%8D%E4%B8%8A%E9%93%BA%E5%9D%A0%E4%BA%A1%23&t=31&band_rank=2&Refer=top) 932749
@@ -23,9 +23,9 @@
 1. [马思唯易梦玲 分手](https://s.weibo.com/weibo?q=%E9%A9%AC%E6%80%9D%E5%94%AF%E6%98%93%E6%A2%A6%E7%8E%B2%20%E5%88%86%E6%89%8B&t=31&band_rank=11&Refer=top) 409661
 1. [淮安市副市长韦峰被免职](https://s.weibo.com/weibo?q=%23%E6%B7%AE%E5%AE%89%E5%B8%82%E5%89%AF%E5%B8%82%E9%95%BF%E9%9F%A6%E5%B3%B0%E8%A2%AB%E5%85%8D%E8%81%8C%23&t=31&band_rank=13&Refer=top) 405802
 1. [刘心悠承认已婚](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%BF%83%E6%82%A0%E6%89%BF%E8%AE%A4%E5%B7%B2%E5%A9%9A%23&t=31&band_rank=14&Refer=top) 381940
+1. [日本近1个月新冠死亡人数飙升](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%BF%911%E4%B8%AA%E6%9C%88%E6%96%B0%E5%86%A0%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%E9%A3%99%E5%8D%87%23&t=31&band_rank=9&Refer=top) 348274
 1. [最近广东回南天的现状](https://s.weibo.com/weibo?q=%23%E6%9C%80%E8%BF%91%E5%B9%BF%E4%B8%9C%E5%9B%9E%E5%8D%97%E5%A4%A9%E7%9A%84%E7%8E%B0%E7%8A%B6%23&t=31&band_rank=15&Refer=top) 342021
 1. [顾客吃串为少付钱藏桌底200根签子](https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E5%90%83%E4%B8%B2%E4%B8%BA%E5%B0%91%E4%BB%98%E9%92%B1%E8%97%8F%E6%A1%8C%E5%BA%95200%E6%A0%B9%E7%AD%BE%E5%AD%90%23&t=31&band_rank=16&Refer=top) 319447
-1. [日本近1个月新冠死亡人数飙升](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%BF%911%E4%B8%AA%E6%9C%88%E6%96%B0%E5%86%A0%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%E9%A3%99%E5%8D%87%23&t=31&band_rank=9&Refer=top) 294491
 1. [男孩1天喝6瓶饮料父亲一次灌饱](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A91%E5%A4%A9%E5%96%9D6%E7%93%B6%E9%A5%AE%E6%96%99%E7%88%B6%E4%BA%B2%E4%B8%80%E6%AC%A1%E7%81%8C%E9%A5%B1%23&t=31&band_rank=17&Refer=top) 269438
 1. [南方人哪见过这场面](https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%96%B9%E4%BA%BA%E5%93%AA%E8%A7%81%E8%BF%87%E8%BF%99%E5%9C%BA%E9%9D%A2%23&t=31&band_rank=18&Refer=top) 269142
 1. [女子误把二哈当狼哭着报警](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%AF%AF%E6%8A%8A%E4%BA%8C%E5%93%88%E5%BD%93%E7%8B%BC%E5%93%AD%E7%9D%80%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=19&Refer=top) 236373
@@ -71,10 +71,12 @@
 1. [女子展示神操作橘子复原术](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%B1%95%E7%A4%BA%E7%A5%9E%E6%93%8D%E4%BD%9C%E6%A9%98%E5%AD%90%E5%A4%8D%E5%8E%9F%E6%9C%AF%23&t=31&band_rank=50&Refer=top) 96407
 1. [FIRSTFRAME第一帧](https://s.weibo.com/weibo?q=%23FIRSTFRAME%E7%AC%AC%E4%B8%80%E5%B8%A7%23&t=31&band_rank=22&Refer=top) 84595
 1. [孙悦爱得起唱出了放得下](https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%82%A6%E7%88%B1%E5%BE%97%E8%B5%B7%E5%94%B1%E5%87%BA%E4%BA%86%E6%94%BE%E5%BE%97%E4%B8%8B%23&t=31&band_rank=23&Refer=top) 82915
+1. [XBB等变异株会再引发感染高峰吗](https://s.weibo.com/weibo?q=%23XBB%E7%AD%89%E5%8F%98%E5%BC%82%E6%A0%AA%E4%BC%9A%E5%86%8D%E5%BC%95%E5%8F%91%E6%84%9F%E6%9F%93%E9%AB%98%E5%B3%B0%E5%90%97%23&t=31&band_rank=50&Refer=top) 82779
 1. [朴宰范HoshiDino舞蹈挑战](https://s.weibo.com/weibo?q=%23%E6%9C%B4%E5%AE%B0%E8%8C%83HoshiDino%E8%88%9E%E8%B9%88%E6%8C%91%E6%88%98%23&t=31&band_rank=41&Refer=top) 71327
+1. [九义人杀青](https://s.weibo.com/weibo?q=%23%E4%B9%9D%E4%B9%89%E4%BA%BA%E6%9D%80%E9%9D%92%23&t=31&band_rank=21&Refer=top) 66609
 1. [郑钧哄小孩式哄刘芸](https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A7%E5%93%84%E5%B0%8F%E5%AD%A9%E5%BC%8F%E5%93%84%E5%88%98%E8%8A%B8%23&t=31&band_rank=42&Refer=top) 64140
 1. [何炅最漫长的二十秒](https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%E6%9C%80%E6%BC%AB%E9%95%BF%E7%9A%84%E4%BA%8C%E5%8D%81%E7%A7%92%23&t=31&band_rank=43&Refer=top) 64137
-1. [XBB等变异株会再引发感染高峰吗](https://s.weibo.com/weibo?q=%23XBB%E7%AD%89%E5%8F%98%E5%BC%82%E6%A0%AA%E4%BC%9A%E5%86%8D%E5%BC%95%E5%8F%91%E6%84%9F%E6%9F%93%E9%AB%98%E5%B3%B0%E5%90%97%23&t=31&band_rank=50&Refer=top) 54012
+1. [龚俊cos哈利波特](https://s.weibo.com/weibo?q=%23%E9%BE%9A%E4%BF%8Acos%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%23&t=31&band_rank=41&Refer=top) 27599
 <!-- END -->
 
 历史归档 [./archives](./archives)
