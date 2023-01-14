@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-01-15 02:38:30.943775 
+最后更新时间 2023-01-15 02:48:58.066117 
 1. [张新成 受伤](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%96%B0%E6%88%90%20%E5%8F%97%E4%BC%A4&t=31&band_rank=1&Refer=top) 1858754
 1. [广州撞人致5死司机被批捕](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E6%92%9E%E4%BA%BA%E8%87%B45%E6%AD%BB%E5%8F%B8%E6%9C%BA%E8%A2%AB%E6%89%B9%E6%8D%95%23&t=31&band_rank=2&Refer=top) 1062066
 1. [铁水打花的春节氛围感有多绝](https://s.weibo.com/weibo?q=%23%E9%93%81%E6%B0%B4%E6%89%93%E8%8A%B1%E7%9A%84%E6%98%A5%E8%8A%82%E6%B0%9B%E5%9B%B4%E6%84%9F%E6%9C%89%E5%A4%9A%E7%BB%9D%23&t=31&band_rank=3&Refer=top) 921814
@@ -76,7 +76,7 @@
 1. [平遥国际电影展](https://s.weibo.com/weibo?q=%E5%B9%B3%E9%81%A5%E5%9B%BD%E9%99%85%E7%94%B5%E5%BD%B1%E5%B1%95&t=31&band_rank=33&Refer=top) 107370
 1. [化妆师背5个月宝宝给新娘化妆](https://s.weibo.com/weibo?q=%23%E5%8C%96%E5%A6%86%E5%B8%88%E8%83%8C5%E4%B8%AA%E6%9C%88%E5%AE%9D%E5%AE%9D%E7%BB%99%E6%96%B0%E5%A8%98%E5%8C%96%E5%A6%86%23&t=31&band_rank=47&Refer=top) 59718
 1. [天娱男团1equalfive到底有多卷](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E5%A8%B1%E7%94%B7%E5%9B%A21equalfive%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%8D%B7%23&t=31&band_rank=41&Refer=top) 49581
-1. [被舞蹈生的脚整破防了](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E8%88%9E%E8%B9%88%E7%94%9F%E7%9A%84%E8%84%9A%E6%95%B4%E7%A0%B4%E9%98%B2%E4%BA%86%23&t=31&band_rank=50&Refer=top) 42636
+1. [被舞蹈生的脚整破防了](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E8%88%9E%E8%B9%88%E7%94%9F%E7%9A%84%E8%84%9A%E6%95%B4%E7%A0%B4%E9%98%B2%E4%BA%86%23&t=31&band_rank=50&Refer=top) 42997
 <!-- END -->
 
 历史归档 [./archives](./archives)
