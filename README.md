@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-01-16 01:49:12.077733 
+最后更新时间 2023-01-16 02:12:24.121589 
 1. [假唱](https://s.weibo.com/weibo?q=%E5%81%87%E5%94%B1&t=31&band_rank=1&Refer=top) 2884770
 1. [三体赢麻了](https://s.weibo.com/weibo?q=%23%E4%B8%89%E4%BD%93%E8%B5%A2%E9%BA%BB%E4%BA%86%23&t=31&band_rank=2&Refer=top) 2037050
 1. [这一幕幕就是回家的意义](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%80%E5%B9%95%E5%B9%95%E5%B0%B1%E6%98%AF%E5%9B%9E%E5%AE%B6%E7%9A%84%E6%84%8F%E4%B9%89%23&t=31&band_rank=3&Refer=top) 1725064
@@ -73,6 +73,8 @@
 1. [你如何看待假唱](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%81%87%E5%94%B1%23&t=31&band_rank=36&Refer=top) 82880
 1. [千里江山图就是照着它画的吧](https://s.weibo.com/weibo?q=%23%E5%8D%83%E9%87%8C%E6%B1%9F%E5%B1%B1%E5%9B%BE%E5%B0%B1%E6%98%AF%E7%85%A7%E7%9D%80%E5%AE%83%E7%94%BB%E7%9A%84%E5%90%A7%23&t=31&band_rank=50&Refer=top) 81290
 1. [张真源小张盲盒15烟花记录](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%9C%9F%E6%BA%90%E5%B0%8F%E5%BC%A0%E7%9B%B2%E7%9B%9215%E7%83%9F%E8%8A%B1%E8%AE%B0%E5%BD%95%23&t=31&band_rank=42&Refer=top) 73367
+1. [单依纯一进厨房语言系统错乱](https://s.weibo.com/weibo?q=%23%E5%8D%95%E4%BE%9D%E7%BA%AF%E4%B8%80%E8%BF%9B%E5%8E%A8%E6%88%BF%E8%AF%AD%E8%A8%80%E7%B3%BB%E7%BB%9F%E9%94%99%E4%B9%B1%23&t=31&band_rank=21&Refer=top) 67744
+1. [尼泊尔涉事客机机型曾多次发生空难](https://s.weibo.com/weibo?q=%23%E5%B0%BC%E6%B3%8A%E5%B0%94%E6%B6%89%E4%BA%8B%E5%AE%A2%E6%9C%BA%E6%9C%BA%E5%9E%8B%E6%9B%BE%E5%A4%9A%E6%AC%A1%E5%8F%91%E7%94%9F%E7%A9%BA%E9%9A%BE%23&t=31&band_rank=37&Refer=top) 61689
 <!-- END -->
 
 历史归档 [./archives](./archives)
