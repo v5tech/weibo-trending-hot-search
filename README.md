@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-01-16 02:28:55.859934 
+最后更新时间 2023-01-16 02:38:50.626054 
 1. [假唱](https://s.weibo.com/weibo?q=%E5%81%87%E5%94%B1&t=31&band_rank=1&Refer=top) 2884770
 1. [三体赢麻了](https://s.weibo.com/weibo?q=%23%E4%B8%89%E4%BD%93%E8%B5%A2%E9%BA%BB%E4%BA%86%23&t=31&band_rank=2&Refer=top) 2037050
 1. [这一幕幕就是回家的意义](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%80%E5%B9%95%E5%B9%95%E5%B0%B1%E6%98%AF%E5%9B%9E%E5%AE%B6%E7%9A%84%E6%84%8F%E4%B9%89%23&t=31&band_rank=3&Refer=top) 1725064
