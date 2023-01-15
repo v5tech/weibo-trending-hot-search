@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-01-16 06:34:30.027512 
+最后更新时间 2023-01-16 06:48:55.794358 
 1. [假唱](https://s.weibo.com/weibo?q=%E5%81%87%E5%94%B1&t=31&band_rank=1&Refer=top) 2884770
 1. [三体赢麻了](https://s.weibo.com/weibo?q=%23%E4%B8%89%E4%BD%93%E8%B5%A2%E9%BA%BB%E4%BA%86%23&t=31&band_rank=2&Refer=top) 2037050
 1. [这一幕幕就是回家的意义](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%80%E5%B9%95%E5%B9%95%E5%B0%B1%E6%98%AF%E5%9B%9E%E5%AE%B6%E7%9A%84%E6%84%8F%E4%B9%89%23&t=31&band_rank=3&Refer=top) 1725064
@@ -24,8 +24,8 @@
 1. [王传君演丁仪](https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BC%A0%E5%90%9B%E6%BC%94%E4%B8%81%E4%BB%AA&t=31&band_rank=13&Refer=top) 320626
 1. [王者荣耀](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80&t=31&band_rank=14&Refer=top) 317667
 1. [银行回应三个窗口只开一个惹市民不满](https://s.weibo.com/weibo?q=%23%E9%93%B6%E8%A1%8C%E5%9B%9E%E5%BA%94%E4%B8%89%E4%B8%AA%E7%AA%97%E5%8F%A3%E5%8F%AA%E5%BC%80%E4%B8%80%E4%B8%AA%E6%83%B9%E5%B8%82%E6%B0%91%E4%B8%8D%E6%BB%A1%23&t=31&band_rank=16&Refer=top) 312755
+1. [不建议没阳过的人长途旅行](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%BB%BA%E8%AE%AE%E6%B2%A1%E9%98%B3%E8%BF%87%E7%9A%84%E4%BA%BA%E9%95%BF%E9%80%94%E6%97%85%E8%A1%8C%23&t=31&band_rank=32&Refer=top) 293210
 1. [尼泊尔载72人坠毁客机失事瞬间](https://s.weibo.com/weibo?q=%23%E5%B0%BC%E6%B3%8A%E5%B0%94%E8%BD%BD72%E4%BA%BA%E5%9D%A0%E6%AF%81%E5%AE%A2%E6%9C%BA%E5%A4%B1%E4%BA%8B%E7%9E%AC%E9%97%B4%23&t=31&band_rank=17&Refer=top) 245233
-1. [不建议没阳过的人长途旅行](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%BB%BA%E8%AE%AE%E6%B2%A1%E9%98%B3%E8%BF%87%E7%9A%84%E4%BA%BA%E9%95%BF%E9%80%94%E6%97%85%E8%A1%8C%23&t=31&band_rank=32&Refer=top) 240503
 1. [学到了一种很新的拒绝方式](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E5%88%B0%E4%BA%86%E4%B8%80%E7%A7%8D%E5%BE%88%E6%96%B0%E7%9A%84%E6%8B%92%E7%BB%9D%E6%96%B9%E5%BC%8F%23&t=31&band_rank=18&Refer=top) 236728
 1. [看起来很贵其实很便宜的东西](https://s.weibo.com/weibo?q=%23%E7%9C%8B%E8%B5%B7%E6%9D%A5%E5%BE%88%E8%B4%B5%E5%85%B6%E5%AE%9E%E5%BE%88%E4%BE%BF%E5%AE%9C%E7%9A%84%E4%B8%9C%E8%A5%BF%23&t=31&band_rank=19&Refer=top) 217693
 1. [尼泊尔失事飞机上无中国公民](https://s.weibo.com/weibo?q=%23%E5%B0%BC%E6%B3%8A%E5%B0%94%E5%A4%B1%E4%BA%8B%E9%A3%9E%E6%9C%BA%E4%B8%8A%E6%97%A0%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%23&t=31&band_rank=20&Refer=top) 204547
@@ -71,19 +71,19 @@
 1. [三体隐藏细节](https://s.weibo.com/weibo?q=%23%E4%B8%89%E4%BD%93%E9%9A%90%E8%97%8F%E7%BB%86%E8%8A%82%23&t=31&band_rank=42&Refer=top) 104032
 1. [Cat LGD](https://s.weibo.com/weibo?q=Cat%20LGD&t=31&band_rank=46&Refer=top) 103869
 1. [时代少年团小年夜直播截图](https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E5%B0%8F%E5%B9%B4%E5%A4%9C%E7%9B%B4%E6%92%AD%E6%88%AA%E5%9B%BE%23&t=31&band_rank=33&Refer=top) 92841
+1. [男子车祸失忆流浪9年后找回家人](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%BD%A6%E7%A5%B8%E5%A4%B1%E5%BF%86%E6%B5%81%E6%B5%AA9%E5%B9%B4%E5%90%8E%E6%89%BE%E5%9B%9E%E5%AE%B6%E4%BA%BA%23&t=31&band_rank=15&Refer=top) 86623
 1. [你如何看待假唱](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%81%87%E5%94%B1%23&t=31&band_rank=36&Refer=top) 82880
 1. [千里江山图就是照着它画的吧](https://s.weibo.com/weibo?q=%23%E5%8D%83%E9%87%8C%E6%B1%9F%E5%B1%B1%E5%9B%BE%E5%B0%B1%E6%98%AF%E7%85%A7%E7%9D%80%E5%AE%83%E7%94%BB%E7%9A%84%E5%90%A7%23&t=31&band_rank=50&Refer=top) 81290
 1. [张真源小张盲盒15烟花记录](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%9C%9F%E6%BA%90%E5%B0%8F%E5%BC%A0%E7%9B%B2%E7%9B%9215%E7%83%9F%E8%8A%B1%E8%AE%B0%E5%BD%95%23&t=31&band_rank=42&Refer=top) 73367
-1. [男子车祸失忆流浪9年后找回家人](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%BD%A6%E7%A5%B8%E5%A4%B1%E5%BF%86%E6%B5%81%E6%B5%AA9%E5%B9%B4%E5%90%8E%E6%89%BE%E5%9B%9E%E5%AE%B6%E4%BA%BA%23&t=31&band_rank=15&Refer=top) 68087
 1. [单依纯一进厨房语言系统错乱](https://s.weibo.com/weibo?q=%23%E5%8D%95%E4%BE%9D%E7%BA%AF%E4%B8%80%E8%BF%9B%E5%8E%A8%E6%88%BF%E8%AF%AD%E8%A8%80%E7%B3%BB%E7%BB%9F%E9%94%99%E4%B9%B1%23&t=31&band_rank=21&Refer=top) 67744
 1. [尼泊尔涉事客机机型曾多次发生空难](https://s.weibo.com/weibo?q=%23%E5%B0%BC%E6%B3%8A%E5%B0%94%E6%B6%89%E4%BA%8B%E5%AE%A2%E6%9C%BA%E6%9C%BA%E5%9E%8B%E6%9B%BE%E5%A4%9A%E6%AC%A1%E5%8F%91%E7%94%9F%E7%A9%BA%E9%9A%BE%23&t=31&band_rank=37&Refer=top) 61689
 1. [岳云鹏说和赵今麦最有cp感](https://s.weibo.com/weibo?q=%23%E5%B2%B3%E4%BA%91%E9%B9%8F%E8%AF%B4%E5%92%8C%E8%B5%B5%E4%BB%8A%E9%BA%A6%E6%9C%80%E6%9C%89cp%E6%84%9F%23&t=31&band_rank=23&Refer=top) 55392
+1. [这席非吃不可吗](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B8%AD%E9%9D%9E%E5%90%83%E4%B8%8D%E5%8F%AF%E5%90%97%23&t=31&band_rank=50&Refer=top) 38364
 1. [残疾小哥剐蹭车辆后为车主送新鲜菜](https://s.weibo.com/weibo?q=%23%E6%AE%8B%E7%96%BE%E5%B0%8F%E5%93%A5%E5%89%90%E8%B9%AD%E8%BD%A6%E8%BE%86%E5%90%8E%E4%B8%BA%E8%BD%A6%E4%B8%BB%E9%80%81%E6%96%B0%E9%B2%9C%E8%8F%9C%23&t=31&band_rank=50&Refer=top) 36645
 1. [原来吴昕是真的在种草](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%90%B4%E6%98%95%E6%98%AF%E7%9C%9F%E7%9A%84%E5%9C%A8%E7%A7%8D%E8%8D%89%23&t=31&band_rank=41&Refer=top) 33815
 1. [朴彩英抱Jennie](https://s.weibo.com/weibo?q=%23%E6%9C%B4%E5%BD%A9%E8%8B%B1%E6%8A%B1Jennie%23&t=31&band_rank=35&Refer=top) 24253
-1. [官方回应EVA终海报涉嫌抄袭](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94EVA%E7%BB%88%E6%B5%B7%E6%8A%A5%E6%B6%89%E5%AB%8C%E6%8A%84%E8%A2%AD%23&t=31&band_rank=47&Refer=top) 19816
+1. [官方回应EVA终海报涉嫌抄袭](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94EVA%E7%BB%88%E6%B5%B7%E6%8A%A5%E6%B6%89%E5%AB%8C%E6%8A%84%E8%A2%AD%23&t=31&band_rank=47&Refer=top) 20441
 1. [王俊凯下车的氛围感](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E4%B8%8B%E8%BD%A6%E7%9A%84%E6%B0%9B%E5%9B%B4%E6%84%9F%23&t=31&band_rank=46&Refer=top) 17900
-1. [这席非吃不可吗](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B8%AD%E9%9D%9E%E5%90%83%E4%B8%8D%E5%8F%AF%E5%90%97%23&t=31&band_rank=50&Refer=top) 17606
 1. [许红豆告别前想和谢之遥一起多吃几顿饭](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E7%BA%A2%E8%B1%86%E5%91%8A%E5%88%AB%E5%89%8D%E6%83%B3%E5%92%8C%E8%B0%A2%E4%B9%8B%E9%81%A5%E4%B8%80%E8%B5%B7%E5%A4%9A%E5%90%83%E5%87%A0%E9%A1%BF%E9%A5%AD%23&t=31&band_rank=42&Refer=top) 15549
 <!-- END -->
 
