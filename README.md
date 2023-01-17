@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-01-18 01:48:58.511071 
+最后更新时间 2023-01-18 02:13:24.904509 
 1. [老人卧床吸烟着火扑救后复燃身亡](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%8D%A7%E5%BA%8A%E5%90%B8%E7%83%9F%E7%9D%80%E7%81%AB%E6%89%91%E6%95%91%E5%90%8E%E5%A4%8D%E7%87%83%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=12&Refer=top) 1374772
 1. [深圳一网友称在山姆买到蓝环章鱼](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E4%B8%80%E7%BD%91%E5%8F%8B%E7%A7%B0%E5%9C%A8%E5%B1%B1%E5%A7%86%E4%B9%B0%E5%88%B0%E8%93%9D%E7%8E%AF%E7%AB%A0%E9%B1%BC%23&t=31&band_rank=1&Refer=top) 1344090
 1. [西安啊那没事了](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E5%95%8A%E9%82%A3%E6%B2%A1%E4%BA%8B%E4%BA%86%23&t=31&band_rank=27&Refer=top) 1233197
@@ -31,6 +31,7 @@
 1. [不要偷吃香菜](https://s.weibo.com/weibo?q=%E4%B8%8D%E8%A6%81%E5%81%B7%E5%90%83%E9%A6%99%E8%8F%9C&t=31&band_rank=19&Refer=top) 320270
 1. [想见你首曝王诠胜刘宇恒海报](https://s.weibo.com/weibo?q=%23%E6%83%B3%E8%A7%81%E4%BD%A0%E9%A6%96%E6%9B%9D%E7%8E%8B%E8%AF%A0%E8%83%9C%E5%88%98%E5%AE%87%E6%81%92%E6%B5%B7%E6%8A%A5%23&t=31&band_rank=26&Refer=top) 319455
 1. [安徽一劳斯莱斯婚车撞上石墩受损严重](https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%BE%BD%E4%B8%80%E5%8A%B3%E6%96%AF%E8%8E%B1%E6%96%AF%E5%A9%9A%E8%BD%A6%E6%92%9E%E4%B8%8A%E7%9F%B3%E5%A2%A9%E5%8F%97%E6%8D%9F%E4%B8%A5%E9%87%8D%23&t=31&band_rank=20&Refer=top) 315530
+1. [全世界苹果都流淌着中国苹果血](https://s.weibo.com/weibo?q=%23%E5%85%A8%E4%B8%96%E7%95%8C%E8%8B%B9%E6%9E%9C%E9%83%BD%E6%B5%81%E6%B7%8C%E7%9D%80%E4%B8%AD%E5%9B%BD%E8%8B%B9%E6%9E%9C%E8%A1%80%23&t=31&band_rank=27&Refer=top) 312994
 1. [男子套中3米玩具熊4人抬回家](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%A5%97%E4%B8%AD3%E7%B1%B3%E7%8E%A9%E5%85%B7%E7%86%8A4%E4%BA%BA%E6%8A%AC%E5%9B%9E%E5%AE%B6%23&t=31&band_rank=23&Refer=top) 279059
 1. [貂蝉幻阙歌皮肤](https://s.weibo.com/weibo?q=%23%E8%B2%82%E8%9D%89%E5%B9%BB%E9%98%99%E6%AD%8C%E7%9A%AE%E8%82%A4%23&t=31&band_rank=21&Refer=top) 278395
 1. [于冬反对百亿票房演员说法](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E5%86%AC%E5%8F%8D%E5%AF%B9%E7%99%BE%E4%BA%BF%E7%A5%A8%E6%88%BF%E6%BC%94%E5%91%98%E8%AF%B4%E6%B3%95%23&t=31&band_rank=33&Refer=top) 275821
@@ -49,7 +50,6 @@
 1. [最近可以看什么剧](https://s.weibo.com/weibo?q=%23%E6%9C%80%E8%BF%91%E5%8F%AF%E4%BB%A5%E7%9C%8B%E4%BB%80%E4%B9%88%E5%89%A7%23&t=31&band_rank=36&Refer=top) 194984
 1. [邓紫棋](https://s.weibo.com/weibo?q=%E9%82%93%E7%B4%AB%E6%A3%8B&t=31&band_rank=37&Refer=top) 193482
 1. [陈泗旭说我不在意你和敖子逸有什么关系](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%B3%97%E6%97%AD%E8%AF%B4%E6%88%91%E4%B8%8D%E5%9C%A8%E6%84%8F%E4%BD%A0%E5%92%8C%E6%95%96%E5%AD%90%E9%80%B8%E6%9C%89%E4%BB%80%E4%B9%88%E5%85%B3%E7%B3%BB%23&t=31&band_rank=14&Refer=top) 184746
-1. [全世界苹果都流淌着中国苹果血](https://s.weibo.com/weibo?q=%23%E5%85%A8%E4%B8%96%E7%95%8C%E8%8B%B9%E6%9E%9C%E9%83%BD%E6%B5%81%E6%B7%8C%E7%9D%80%E4%B8%AD%E5%9B%BD%E8%8B%B9%E6%9E%9C%E8%A1%80%23&t=31&band_rank=27&Refer=top) 184260
 1. [许红豆给陈南星父母染了头发](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E7%BA%A2%E8%B1%86%E7%BB%99%E9%99%88%E5%8D%97%E6%98%9F%E7%88%B6%E6%AF%8D%E6%9F%93%E4%BA%86%E5%A4%B4%E5%8F%91%23&t=31&band_rank=39&Refer=top) 172705
 1. [蔡徐坤捐款10万给老人儿童送温暖](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E6%8D%90%E6%AC%BE10%E4%B8%87%E7%BB%99%E8%80%81%E4%BA%BA%E5%84%BF%E7%AB%A5%E9%80%81%E6%B8%A9%E6%9A%96%23&t=31&band_rank=40&Refer=top) 161409
 1. [许红豆还会回云苗村吗](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E7%BA%A2%E8%B1%86%E8%BF%98%E4%BC%9A%E5%9B%9E%E4%BA%91%E8%8B%97%E6%9D%91%E5%90%97%23&t=31&band_rank=41&Refer=top) 159614
@@ -68,6 +68,7 @@
 1. [三体叔圈CP](https://s.weibo.com/weibo?q=%E4%B8%89%E4%BD%93%E5%8F%94%E5%9C%88CP&t=31&band_rank=50&Refer=top) 107642
 1. [本命年怎么穿红才不土](https://s.weibo.com/weibo?q=%23%E6%9C%AC%E5%91%BD%E5%B9%B4%E6%80%8E%E4%B9%88%E7%A9%BF%E7%BA%A2%E6%89%8D%E4%B8%8D%E5%9C%9F%23&t=31&band_rank=50&Refer=top) 87122
 1. [浮图缘](https://s.weibo.com/weibo?q=%E6%B5%AE%E5%9B%BE%E7%BC%98&t=31&band_rank=50&Refer=top) 46037
+1. [英雄联盟](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%23&t=31&band_rank=49&Refer=top) 44366
 <!-- END -->
 
 历史归档 [./archives](./archives)
