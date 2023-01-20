@@ -7,12 +7,12 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-01-21 01:10:44.737543 
+最后更新时间 2023-01-21 01:26:43.587381 
 1. [春晚节目单](https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%99%9A%E8%8A%82%E7%9B%AE%E5%8D%95%23&t=31&band_rank=1&Refer=top) 1240657
 1. [王鹤棣说浴桶吻小孩别看](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E8%AF%B4%E6%B5%B4%E6%A1%B6%E5%90%BB%E5%B0%8F%E5%AD%A9%E5%88%AB%E7%9C%8B%23&t=31&band_rank=2&Refer=top) 981326
+1. [不建议自己在家剪头发](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%BB%BA%E8%AE%AE%E8%87%AA%E5%B7%B1%E5%9C%A8%E5%AE%B6%E5%89%AA%E5%A4%B4%E5%8F%91%23&t=31&band_rank=29&Refer=top) 885475
 1. [春节前疫情热点十问十答](https://s.weibo.com/weibo?q=%23%E6%98%A5%E8%8A%82%E5%89%8D%E7%96%AB%E6%83%85%E7%83%AD%E7%82%B9%E5%8D%81%E9%97%AE%E5%8D%81%E7%AD%94%23&t=31&band_rank=3&Refer=top) 730074
 1. [朱琳晋级](https://s.weibo.com/weibo?q=%E6%9C%B1%E7%90%B3%E6%99%8B%E7%BA%A7&t=31&band_rank=4&Refer=top) 618211
-1. [不建议自己在家剪头发](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%BB%BA%E8%AE%AE%E8%87%AA%E5%B7%B1%E5%9C%A8%E5%AE%B6%E5%89%AA%E5%A4%B4%E5%8F%91%23&t=31&band_rank=29&Refer=top) 588204
 1. [王宝强春晚三个节目](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%9D%E5%BC%BA%E6%98%A5%E6%99%9A%E4%B8%89%E4%B8%AA%E8%8A%82%E7%9B%AE%23&t=31&band_rank=5&Refer=top) 583512
 1. [杨幂公主头蓝色抹胸长裙造型](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%85%AC%E4%B8%BB%E5%A4%B4%E8%93%9D%E8%89%B2%E6%8A%B9%E8%83%B8%E9%95%BF%E8%A3%99%E9%80%A0%E5%9E%8B%23&t=31&band_rank=31&Refer=top) 477906
 1. [赵晓卉出息了](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E6%99%93%E5%8D%89%E5%87%BA%E6%81%AF%E4%BA%86%23&t=31&band_rank=6&Refer=top) 451929
@@ -46,6 +46,7 @@
 1. [兔年头像](https://s.weibo.com/weibo?q=%23%E5%85%94%E5%B9%B4%E5%A4%B4%E5%83%8F%23&t=31&band_rank=28&Refer=top) 178642
 1. [大学生开始对年夜饭下手了](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%BC%80%E5%A7%8B%E5%AF%B9%E5%B9%B4%E5%A4%9C%E9%A5%AD%E4%B8%8B%E6%89%8B%E4%BA%86%23&t=31&band_rank=29&Refer=top) 176561
 1. [回家的快乐](https://s.weibo.com/weibo?q=%23%E5%9B%9E%E5%AE%B6%E7%9A%84%E5%BF%AB%E4%B9%90%23&t=31&band_rank=20&Refer=top) 171739
+1. [严浩翔孤独怪物录音室版rap](https://s.weibo.com/weibo?q=%23%E4%B8%A5%E6%B5%A9%E7%BF%94%E5%AD%A4%E7%8B%AC%E6%80%AA%E7%89%A9%E5%BD%95%E9%9F%B3%E5%AE%A4%E7%89%88rap%23&t=31&band_rank=16&Refer=top) 170998
 1. [郭俊辰首登春晚](https://s.weibo.com/weibo?q=%23%E9%83%AD%E4%BF%8A%E8%BE%B0%E9%A6%96%E7%99%BB%E6%98%A5%E6%99%9A%23&t=31&band_rank=25&Refer=top) 169185
 1. [父母凌晨1点做7个菜迎接远嫁女儿回家](https://s.weibo.com/weibo?q=%23%E7%88%B6%E6%AF%8D%E5%87%8C%E6%99%A81%E7%82%B9%E5%81%9A7%E4%B8%AA%E8%8F%9C%E8%BF%8E%E6%8E%A5%E8%BF%9C%E5%AB%81%E5%A5%B3%E5%84%BF%E5%9B%9E%E5%AE%B6%23&t=31&band_rank=34&Refer=top) 142977
 1. [川渝人过年有多热闹](https://s.weibo.com/weibo?q=%23%E5%B7%9D%E6%B8%9D%E4%BA%BA%E8%BF%87%E5%B9%B4%E6%9C%89%E5%A4%9A%E7%83%AD%E9%97%B9%23&t=31&band_rank=30&Refer=top) 142633
@@ -70,8 +71,9 @@
 1. [新年文案](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%B9%B4%E6%96%87%E6%A1%88%23&t=31&band_rank=48&Refer=top) 97996
 1. [70岁普京按照传统进行冰浴洗礼](https://s.weibo.com/weibo?q=%2370%E5%B2%81%E6%99%AE%E4%BA%AC%E6%8C%89%E7%85%A7%E4%BC%A0%E7%BB%9F%E8%BF%9B%E8%A1%8C%E5%86%B0%E6%B5%B4%E6%B4%97%E7%A4%BC%23&t=31&band_rank=49&Refer=top) 97979
 1. [远嫁女子回婆家有客不能上桌吃饭](https://s.weibo.com/weibo?q=%23%E8%BF%9C%E5%AB%81%E5%A5%B3%E5%AD%90%E5%9B%9E%E5%A9%86%E5%AE%B6%E6%9C%89%E5%AE%A2%E4%B8%8D%E8%83%BD%E4%B8%8A%E6%A1%8C%E5%90%83%E9%A5%AD%23&t=31&band_rank=50&Refer=top) 97960
+1. [许嵩春晚solo舞台](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%B5%A9%E6%98%A5%E6%99%9Asolo%E8%88%9E%E5%8F%B0%23&t=31&band_rank=35&Refer=top) 78439
+1. [赵丽颖春晚有两个节目](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%98%A5%E6%99%9A%E6%9C%89%E4%B8%A4%E4%B8%AA%E8%8A%82%E7%9B%AE%23&t=31&band_rank=46&Refer=top) 78142
 1. [刘耀文说想写首歌叫happynewyear](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%80%80%E6%96%87%E8%AF%B4%E6%83%B3%E5%86%99%E9%A6%96%E6%AD%8C%E5%8F%ABhappynewyear%23&t=31&band_rank=47&Refer=top) 77939
-1. [赵丽颖春晚有两个节目](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%98%A5%E6%99%9A%E6%9C%89%E4%B8%A4%E4%B8%AA%E8%8A%82%E7%9B%AE%23&t=31&band_rank=46&Refer=top) 68363
 1. [马尔康加盟沙特球队](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%B0%94%E5%BA%B7%E5%8A%A0%E7%9B%9F%E6%B2%99%E7%89%B9%E7%90%83%E9%98%9F%23&t=31&band_rank=49&Refer=top) 50083
 <!-- END -->
 
