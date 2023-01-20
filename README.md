@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-01-21 06:34:46.817391 
+最后更新时间 2023-01-21 06:49:00.113667 
 1. [春晚节目单](https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%99%9A%E8%8A%82%E7%9B%AE%E5%8D%95%23&t=31&band_rank=1&Refer=top) 1240657
 1. [王鹤棣说浴桶吻小孩别看](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E8%AF%B4%E6%B5%B4%E6%A1%B6%E5%90%BB%E5%B0%8F%E5%AD%A9%E5%88%AB%E7%9C%8B%23&t=31&band_rank=2&Refer=top) 981326
 1. [不建议自己在家剪头发](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%BB%BA%E8%AE%AE%E8%87%AA%E5%B7%B1%E5%9C%A8%E5%AE%B6%E5%89%AA%E5%A4%B4%E5%8F%91%23&t=31&band_rank=29&Refer=top) 885475
@@ -79,15 +79,15 @@
 1. [春节期间的电子榨菜有了](https://s.weibo.com/weibo?q=%23%E6%98%A5%E8%8A%82%E6%9C%9F%E9%97%B4%E7%9A%84%E7%94%B5%E5%AD%90%E6%A6%A8%E8%8F%9C%E6%9C%89%E4%BA%86%23&t=31&band_rank=18&Refer=top) 78317
 1. [赵丽颖春晚有两个节目](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%98%A5%E6%99%9A%E6%9C%89%E4%B8%A4%E4%B8%AA%E8%8A%82%E7%9B%AE%23&t=31&band_rank=46&Refer=top) 78142
 1. [刘耀文说想写首歌叫happynewyear](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%80%80%E6%96%87%E8%AF%B4%E6%83%B3%E5%86%99%E9%A6%96%E6%AD%8C%E5%8F%ABhappynewyear%23&t=31&band_rank=47&Refer=top) 77939
-1. [专家称化湿败毒颗粒与辉瑞药疗效相当](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E5%8C%96%E6%B9%BF%E8%B4%A5%E6%AF%92%E9%A2%97%E7%B2%92%E4%B8%8E%E8%BE%89%E7%91%9E%E8%8D%AF%E7%96%97%E6%95%88%E7%9B%B8%E5%BD%93%23&t=31&band_rank=33&Refer=top) 54919
-1. [男子点3小杯果汁饭店上3大桶饮料](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%82%B93%E5%B0%8F%E6%9D%AF%E6%9E%9C%E6%B1%81%E9%A5%AD%E5%BA%97%E4%B8%8A3%E5%A4%A7%E6%A1%B6%E9%A5%AE%E6%96%99%23&t=31&band_rank=48&Refer=top) 54715
-1. [女子化妆品被熊孩子弄坏上门理论](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%8C%96%E5%A6%86%E5%93%81%E8%A2%AB%E7%86%8A%E5%AD%A9%E5%AD%90%E5%BC%84%E5%9D%8F%E4%B8%8A%E9%97%A8%E7%90%86%E8%AE%BA%23&t=31&band_rank=47&Refer=top) 54630
+1. [专家称化湿败毒颗粒与辉瑞药疗效相当](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E5%8C%96%E6%B9%BF%E8%B4%A5%E6%AF%92%E9%A2%97%E7%B2%92%E4%B8%8E%E8%BE%89%E7%91%9E%E8%8D%AF%E7%96%97%E6%95%88%E7%9B%B8%E5%BD%93%23&t=31&band_rank=33&Refer=top) 62310
+1. [男子点3小杯果汁饭店上3大桶饮料](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%82%B93%E5%B0%8F%E6%9D%AF%E6%9E%9C%E6%B1%81%E9%A5%AD%E5%BA%97%E4%B8%8A3%E5%A4%A7%E6%A1%B6%E9%A5%AE%E6%96%99%23&t=31&band_rank=48&Refer=top) 62061
+1. [女子化妆品被熊孩子弄坏上门理论](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%8C%96%E5%A6%86%E5%93%81%E8%A2%AB%E7%86%8A%E5%AD%A9%E5%AD%90%E5%BC%84%E5%9D%8F%E4%B8%8A%E9%97%A8%E7%90%86%E8%AE%BA%23&t=31&band_rank=47&Refer=top) 61721
 1. [马尔康加盟沙特球队](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%B0%94%E5%BA%B7%E5%8A%A0%E7%9B%9F%E6%B2%99%E7%89%B9%E7%90%83%E9%98%9F%23&t=31&band_rank=49&Refer=top) 50083
 1. [刘亦菲李现窗台吻戏花絮](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E6%9D%8E%E7%8E%B0%E7%AA%97%E5%8F%B0%E5%90%BB%E6%88%8F%E8%8A%B1%E7%B5%AE%23&t=31&band_rank=24&Refer=top) 40212
 1. [王鹤棣片场走螃蟹步](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E7%89%87%E5%9C%BA%E8%B5%B0%E8%9E%83%E8%9F%B9%E6%AD%A5%23&t=31&band_rank=31&Refer=top) 39417
 1. [徐志胜担心在春晚嘴瓢每天练绕口令](https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%BF%97%E8%83%9C%E6%8B%85%E5%BF%83%E5%9C%A8%E6%98%A5%E6%99%9A%E5%98%B4%E7%93%A2%E6%AF%8F%E5%A4%A9%E7%BB%83%E7%BB%95%E5%8F%A3%E4%BB%A4%23&t=31&band_rank=41&Refer=top) 36306
+1. [去有风的地方](https://s.weibo.com/weibo?q=%E5%8E%BB%E6%9C%89%E9%A3%8E%E7%9A%84%E5%9C%B0%E6%96%B9&t=31&band_rank=48&Refer=top) 30782
 1. [王鹤棣说肖铎是让他有所成长的角色](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E8%AF%B4%E8%82%96%E9%93%8E%E6%98%AF%E8%AE%A9%E4%BB%96%E6%9C%89%E6%89%80%E6%88%90%E9%95%BF%E7%9A%84%E8%A7%92%E8%89%B2%23&t=31&band_rank=42&Refer=top) 29076
-1. [去有风的地方](https://s.weibo.com/weibo?q=%E5%8E%BB%E6%9C%89%E9%A3%8E%E7%9A%84%E5%9C%B0%E6%96%B9&t=31&band_rank=48&Refer=top) 28438
 1. [王鹤棣陈钰琪片场幼稚拌嘴](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E9%99%88%E9%92%B0%E7%90%AA%E7%89%87%E5%9C%BA%E5%B9%BC%E7%A8%9A%E6%8B%8C%E5%98%B4%23&t=31&band_rank=46&Refer=top) 22755
 1. [黎明献唱中国乒乓](https://s.weibo.com/weibo?q=%23%E9%BB%8E%E6%98%8E%E7%8C%AE%E5%94%B1%E4%B8%AD%E5%9B%BD%E4%B9%92%E4%B9%93%23&t=31&band_rank=46&Refer=top) 21996
 <!-- END -->
