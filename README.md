@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-01-21 04:12:02.107995 
+最后更新时间 2023-01-21 04:27:13.811247 
 1. [春晚节目单](https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%99%9A%E8%8A%82%E7%9B%AE%E5%8D%95%23&t=31&band_rank=1&Refer=top) 1240657
 1. [王鹤棣说浴桶吻小孩别看](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E8%AF%B4%E6%B5%B4%E6%A1%B6%E5%90%BB%E5%B0%8F%E5%AD%A9%E5%88%AB%E7%9C%8B%23&t=31&band_rank=2&Refer=top) 981326
 1. [不建议自己在家剪头发](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%BB%BA%E8%AE%AE%E8%87%AA%E5%B7%B1%E5%9C%A8%E5%AE%B6%E5%89%AA%E5%A4%B4%E5%8F%91%23&t=31&band_rank=29&Refer=top) 885475
