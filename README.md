@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-01-22 03:48:49.969386 
+最后更新时间 2023-01-22 04:10:32.959186 
 1. [过年好](https://s.weibo.com/weibo?q=%23%E8%BF%87%E5%B9%B4%E5%A5%BD%23&t=31&band_rank=1&Refer=top) 11496694
 1. [终于等到许嵩](https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E7%AD%89%E5%88%B0%E8%AE%B8%E5%B5%A9%23&t=31&band_rank=2&Refer=top) 8294145
 1. [沈腾吃药](https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E5%90%83%E8%8D%AF%23&t=31&band_rank=2&Refer=top) 6797431
@@ -117,7 +117,10 @@
 1. [赵文卓转身腾空回马枪](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E6%96%87%E5%8D%93%E8%BD%AC%E8%BA%AB%E8%85%BE%E7%A9%BA%E5%9B%9E%E9%A9%AC%E6%9E%AA%23&t=31&band_rank=44&Refer=top) 90634
 1. [艾伦是个白眼狼](https://s.weibo.com/weibo?q=%23%E8%89%BE%E4%BC%A6%E6%98%AF%E4%B8%AA%E7%99%BD%E7%9C%BC%E7%8B%BC%23&t=31&band_rank=42&Refer=top) 86506
 1. [周深改词版花开忘忧更温暖](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E6%94%B9%E8%AF%8D%E7%89%88%E8%8A%B1%E5%BC%80%E5%BF%98%E5%BF%A7%E6%9B%B4%E6%B8%A9%E6%9A%96%23&t=31&band_rank=42&Refer=top) 76123
+1. [观众大喊张小斐太美了](https://s.weibo.com/weibo?q=%23%E8%A7%82%E4%BC%97%E5%A4%A7%E5%96%8A%E5%BC%A0%E5%B0%8F%E6%96%90%E5%A4%AA%E7%BE%8E%E4%BA%86%23&t=31&band_rank=27&Refer=top) 68415
 1. [苏有朋一镜到底](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E6%9C%89%E6%9C%8B%E4%B8%80%E9%95%9C%E5%88%B0%E5%BA%95%23&t=31&band_rank=48&Refer=top) 59363
+1. [王宝强台词](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%9D%E5%BC%BA%E5%8F%B0%E8%AF%8D%23&t=31&band_rank=48&Refer=top) 55292
+1. [看似人畜无害实则危害极大](https://s.weibo.com/weibo?q=%23%E7%9C%8B%E4%BC%BC%E4%BA%BA%E7%95%9C%E6%97%A0%E5%AE%B3%E5%AE%9E%E5%88%99%E5%8D%B1%E5%AE%B3%E6%9E%81%E5%A4%A7%23&t=31&band_rank=49&Refer=top) 55243
 <!-- END -->
 
 历史归档 [./archives](./archives)
