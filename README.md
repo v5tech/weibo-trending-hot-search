@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-01-22 06:09:50.138316 
+最后更新时间 2023-01-22 06:25:09.335642 
 1. [过年好](https://s.weibo.com/weibo?q=%23%E8%BF%87%E5%B9%B4%E5%A5%BD%23&t=31&band_rank=1&Refer=top) 11496694
 1. [终于等到许嵩](https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E7%AD%89%E5%88%B0%E8%AE%B8%E5%B5%A9%23&t=31&band_rank=2&Refer=top) 8294145
 1. [沈腾吃药](https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E5%90%83%E8%8D%AF%23&t=31&band_rank=2&Refer=top) 6797431
@@ -125,8 +125,9 @@
 1. [王宝强台词](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%9D%E5%BC%BA%E5%8F%B0%E8%AF%8D%23&t=31&band_rank=48&Refer=top) 55292
 1. [看似人畜无害实则危害极大](https://s.weibo.com/weibo?q=%23%E7%9C%8B%E4%BC%BC%E4%BA%BA%E7%95%9C%E6%97%A0%E5%AE%B3%E5%AE%9E%E5%88%99%E5%8D%B1%E5%AE%B3%E6%9E%81%E5%A4%A7%23&t=31&band_rank=49&Refer=top) 55243
 1. [新年兔个好运](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%B9%B4%E5%85%94%E4%B8%AA%E5%A5%BD%E8%BF%90%23&t=31&band_rank=32&Refer=top) 53026
+1. [岳云鹏问撒贝宁你是疯了吗](https://s.weibo.com/weibo?q=%23%E5%B2%B3%E4%BA%91%E9%B9%8F%E9%97%AE%E6%92%92%E8%B4%9D%E5%AE%81%E4%BD%A0%E6%98%AF%E7%96%AF%E4%BA%86%E5%90%97%23&t=31&band_rank=48&Refer=top) 37024
+1. [秦岚绿色毛衣](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E7%BB%BF%E8%89%B2%E6%AF%9B%E8%A1%A3%23&t=31&band_rank=46&Refer=top) 36925
 1. [孙茜春晚小品说兰州话像唱歌](https://s.weibo.com/weibo?q=%23%E5%AD%99%E8%8C%9C%E6%98%A5%E6%99%9A%E5%B0%8F%E5%93%81%E8%AF%B4%E5%85%B0%E5%B7%9E%E8%AF%9D%E5%83%8F%E5%94%B1%E6%AD%8C%23&t=31&band_rank=42&Refer=top) 31156
-1. [岳云鹏问撒贝宁你是疯了吗](https://s.weibo.com/weibo?q=%23%E5%B2%B3%E4%BA%91%E9%B9%8F%E9%97%AE%E6%92%92%E8%B4%9D%E5%AE%81%E4%BD%A0%E6%98%AF%E7%96%AF%E4%BA%86%E5%90%97%23&t=31&band_rank=48&Refer=top) 29031
 1. [杨紫好看](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%A5%BD%E7%9C%8B%23&t=31&band_rank=42&Refer=top) 24822
 1. [别看你那一脸小泥儿 往那一坐还挺拿人儿](https://s.weibo.com/weibo?q=%E5%88%AB%E7%9C%8B%E4%BD%A0%E9%82%A3%E4%B8%80%E8%84%B8%E5%B0%8F%E6%B3%A5%E5%84%BF%20%E5%BE%80%E9%82%A3%E4%B8%80%E5%9D%90%E8%BF%98%E6%8C%BA%E6%8B%BF%E4%BA%BA%E5%84%BF&t=31&band_rank=49&Refer=top) 21363
 1. [宁娜贝儿](https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%A8%9C%E8%B4%9D%E5%84%BF%23&t=31&band_rank=49&Refer=top) 20187
