@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-01-22 02:38:44.829826 
+最后更新时间 2023-01-22 02:48:52.175225 
 1. [过年好](https://s.weibo.com/weibo?q=%23%E8%BF%87%E5%B9%B4%E5%A5%BD%23&t=31&band_rank=1&Refer=top) 11496694
 1. [终于等到许嵩](https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E7%AD%89%E5%88%B0%E8%AE%B8%E5%B5%A9%23&t=31&band_rank=2&Refer=top) 8294145
 1. [沈腾吃药](https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E5%90%83%E8%8D%AF%23&t=31&band_rank=2&Refer=top) 6797431
@@ -85,16 +85,16 @@
 1. [谢谢毛不易](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E8%B0%A2%E6%AF%9B%E4%B8%8D%E6%98%93%23&t=31&band_rank=48&Refer=top) 562453
 1. [马凡舒眼睛](https://s.weibo.com/weibo?q=%E9%A9%AC%E5%87%A1%E8%88%92%E7%9C%BC%E7%9D%9B&t=31&band_rank=36&Refer=top) 548809
 1. [不是我要等的王凯](https://s.weibo.com/weibo?q=%E4%B8%8D%E6%98%AF%E6%88%91%E8%A6%81%E7%AD%89%E7%9A%84%E7%8E%8B%E5%87%AF&t=31&band_rank=34&Refer=top) 419552
+1. [赵丽颖唱了42个颜色名](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%94%B1%E4%BA%8642%E4%B8%AA%E9%A2%9C%E8%89%B2%E5%90%8D%23&t=31&band_rank=22&Refer=top) 415814
 1. [满江红](https://s.weibo.com/weibo?q=%E6%BB%A1%E6%B1%9F%E7%BA%A2&t=31&band_rank=41&Refer=top) 413648
 1. [岳云鹏变烧鸡](https://s.weibo.com/weibo?q=%23%E5%B2%B3%E4%BA%91%E9%B9%8F%E5%8F%98%E7%83%A7%E9%B8%A1%23&t=31&band_rank=42&Refer=top) 412784
 1. [周深一开口时光美满](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E4%B8%80%E5%BC%80%E5%8F%A3%E6%97%B6%E5%85%89%E7%BE%8E%E6%BB%A1%23&t=31&band_rank=43&Refer=top) 411950
 1. [让红包飞](https://s.weibo.com/weibo?q=%E8%AE%A9%E7%BA%A2%E5%8C%85%E9%A3%9E&t=31&band_rank=50&Refer=top) 409414
 1. [脱口秀](https://s.weibo.com/weibo?q=%E8%84%B1%E5%8F%A3%E7%A7%80&t=31&band_rank=41&Refer=top) 408941
 1. [只此青绿](https://s.weibo.com/weibo?q=%E5%8F%AA%E6%AD%A4%E9%9D%92%E7%BB%BF&t=31&band_rank=43&Refer=top) 407137
-1. [赵丽颖唱了42个颜色名](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%94%B1%E4%BA%8642%E4%B8%AA%E9%A2%9C%E8%89%B2%E5%90%8D%23&t=31&band_rank=22&Refer=top) 407081
 1. [我和我的春晚 全场最佳](https://s.weibo.com/weibo?q=%E6%88%91%E5%92%8C%E6%88%91%E7%9A%84%E6%98%A5%E6%99%9A%20%E5%85%A8%E5%9C%BA%E6%9C%80%E4%BD%B3&t=31&band_rank=41&Refer=top) 396391
 1. [王勉reaction](https://s.weibo.com/weibo?q=%E7%8E%8B%E5%8B%89reaction&t=31&band_rank=42&Refer=top) 380183
-1. [许嵩谈恋爱以后更甜了](https://s.weibo.com/weibo?q=%E8%AE%B8%E5%B5%A9%E8%B0%88%E6%81%8B%E7%88%B1%E4%BB%A5%E5%90%8E%E6%9B%B4%E7%94%9C%E4%BA%86&t=31&band_rank=33&Refer=top) 316615
+1. [许嵩谈恋爱以后更甜了](https://s.weibo.com/weibo?q=%E8%AE%B8%E5%B5%A9%E8%B0%88%E6%81%8B%E7%88%B1%E4%BB%A5%E5%90%8E%E6%9B%B4%E7%94%9C%E4%BA%86&t=31&band_rank=33&Refer=top) 327942
 1. [今年终于通知吴磊穿黑裤子了](https://s.weibo.com/weibo?q=%E4%BB%8A%E5%B9%B4%E7%BB%88%E4%BA%8E%E9%80%9A%E7%9F%A5%E5%90%B4%E7%A3%8A%E7%A9%BF%E9%BB%91%E8%A3%A4%E5%AD%90%E4%BA%86&t=31&band_rank=45&Refer=top) 313468
 1. [赵丽颖端庄大气](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%AB%AF%E5%BA%84%E5%A4%A7%E6%B0%94&t=31&band_rank=46&Refer=top) 312929
 1. [重庆除夕光影无人机焰火表演](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E9%99%A4%E5%A4%95%E5%85%89%E5%BD%B1%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%84%B0%E7%81%AB%E8%A1%A8%E6%BC%94%23&t=31&band_rank=50&Refer=top) 305076
@@ -105,6 +105,9 @@
 1. [这首歌是写给冯禧的吗](https://s.weibo.com/weibo?q=%E8%BF%99%E9%A6%96%E6%AD%8C%E6%98%AF%E5%86%99%E7%BB%99%E5%86%AF%E7%A6%A7%E7%9A%84%E5%90%97&t=31&band_rank=41&Refer=top) 242318
 1. [陈立农腿好长](https://s.weibo.com/weibo?q=%E9%99%88%E7%AB%8B%E5%86%9C%E8%85%BF%E5%A5%BD%E9%95%BF&t=31&band_rank=49&Refer=top) 240414
 1. [妈妈的心里话你听懂了吗](https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E7%9A%84%E5%BF%83%E9%87%8C%E8%AF%9D%E4%BD%A0%E5%90%AC%E6%87%82%E4%BA%86%E5%90%97%23&t=31&band_rank=48&Refer=top) 236547
+1. [沈马组合yyds](https://s.weibo.com/weibo?q=%23%E6%B2%88%E9%A9%AC%E7%BB%84%E5%90%88yyds%23&t=31&band_rank=39&Refer=top) 206355
+1. [黄绮珊 歌唱最佳](https://s.weibo.com/weibo?q=%E9%BB%84%E7%BB%AE%E7%8F%8A%20%E6%AD%8C%E5%94%B1%E6%9C%80%E4%BD%B3&t=31&band_rank=42&Refer=top) 205898
+1. [脱口秀一整年的素材](https://s.weibo.com/weibo?q=%E8%84%B1%E5%8F%A3%E7%A7%80%E4%B8%80%E6%95%B4%E5%B9%B4%E7%9A%84%E7%B4%A0%E6%9D%90&t=31&band_rank=49&Refer=top) 204658
 1. [青春向太阳](https://s.weibo.com/weibo?q=%23%E9%9D%92%E6%98%A5%E5%90%91%E5%A4%AA%E9%98%B3%23&t=31&band_rank=43&Refer=top) 194991
 1. [春晚兔子可爱](https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%99%9A%E5%85%94%E5%AD%90%E5%8F%AF%E7%88%B1%23&t=31&band_rank=43&Refer=top) 188068
 1. [兔年神曲好运全都来](https://s.weibo.com/weibo?q=%23%E5%85%94%E5%B9%B4%E7%A5%9E%E6%9B%B2%E5%A5%BD%E8%BF%90%E5%85%A8%E9%83%BD%E6%9D%A5%23&t=31&band_rank=45&Refer=top) 184277
