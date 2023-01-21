@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-01-22 00:48:59.873079 
+最后更新时间 2023-01-22 01:09:06.466009 
 1. [过年好](https://s.weibo.com/weibo?q=%23%E8%BF%87%E5%B9%B4%E5%A5%BD%23&t=31&band_rank=1&Refer=top) 11496694
 1. [终于等到许嵩](https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E7%AD%89%E5%88%B0%E8%AE%B8%E5%B5%A9%23&t=31&band_rank=2&Refer=top) 8294145
 1. [沈腾吃药](https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E5%90%83%E8%8D%AF%23&t=31&band_rank=2&Refer=top) 6797431
@@ -24,20 +24,22 @@
 1. [秦岚亲孙涛](https://s.weibo.com/weibo?q=%E7%A7%A6%E5%B2%9A%E4%BA%B2%E5%AD%99%E6%B6%9B&t=31&band_rank=10&Refer=top) 2078975
 1. [沈腾马丽 一出来就笑](https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E9%A9%AC%E4%B8%BD%20%E4%B8%80%E5%87%BA%E6%9D%A5%E5%B0%B1%E7%AC%91%23&t=31&band_rank=11&Refer=top) 1951815
 1. [谢谢沈腾马丽](https://s.weibo.com/weibo?q=%E8%B0%A2%E8%B0%A2%E6%B2%88%E8%85%BE%E9%A9%AC%E4%B8%BD&t=31&band_rank=15&Refer=top) 1863150
-1. [邓超笑死我了](https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E7%AC%91%E6%AD%BB%E6%88%91%E4%BA%86%23&t=31&band_rank=12&Refer=top) 1678326
+1. [邓超笑死我了](https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E7%AC%91%E6%AD%BB%E6%88%91%E4%BA%86%23&t=31&band_rank=12&Refer=top) 1806561
 1. [朱洁静不愧是首席](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E6%B4%81%E9%9D%99%E4%B8%8D%E6%84%A7%E6%98%AF%E9%A6%96%E5%B8%AD%23&t=31&band_rank=13&Refer=top) 1617761
 1. [撒贝宁和苏有朋谁的鞋跟高](https://s.weibo.com/weibo?q=%23%E6%92%92%E8%B4%9D%E5%AE%81%E5%92%8C%E8%8B%8F%E6%9C%89%E6%9C%8B%E8%B0%81%E7%9A%84%E9%9E%8B%E8%B7%9F%E9%AB%98%23&t=31&band_rank=14&Refer=top) 1497687
+1. [成龙头发不duang了](https://s.weibo.com/weibo?q=%E6%88%90%E9%BE%99%E5%A4%B4%E5%8F%91%E4%B8%8Dduang%E4%BA%86&t=31&band_rank=41&Refer=top) 1482133
+1. [金靖毛衣](https://s.weibo.com/weibo?q=%E9%87%91%E9%9D%96%E6%AF%9B%E8%A1%A3&t=31&band_rank=22&Refer=top) 1472377
 1. [上热搜了](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E7%83%AD%E6%90%9C%E4%BA%86%23&t=31&band_rank=16&Refer=top) 1465989
 1. [坑](https://s.weibo.com/weibo?q=%E5%9D%91&t=31&band_rank=21&Refer=top) 1461853
+1. [难忘今宵](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%BF%98%E4%BB%8A%E5%AE%B5&t=31&band_rank=32&Refer=top) 1458365
 1. [春晚倒计时](https://s.weibo.com/weibo?q=%E6%98%A5%E6%99%9A%E5%80%92%E8%AE%A1%E6%97%B6&t=31&band_rank=17&Refer=top) 1447239
 1. [是谁在唱歌 for you](https://s.weibo.com/weibo?q=%E6%98%AF%E8%B0%81%E5%9C%A8%E5%94%B1%E6%AD%8C%20for%20you&t=31&band_rank=17&Refer=top) 1440712
 1. [艾热rap](https://s.weibo.com/weibo?q=%E8%89%BE%E7%83%ADrap&t=31&band_rank=18&Refer=top) 1431849
+1. [马丽鞋跟掉了](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%B8%BD%E9%9E%8B%E8%B7%9F%E6%8E%89%E4%BA%86%23&t=31&band_rank=16&Refer=top) 1409876
 1. [微博红包](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E7%BA%A2%E5%8C%85%23&t=31&band_rank=19&Refer=top) 1383230
 1. [烟花](https://s.weibo.com/weibo?q=%23%E7%83%9F%E8%8A%B1%23&t=31&band_rank=20&Refer=top) 1378532
-1. [成龙头发不duang了](https://s.weibo.com/weibo?q=%E6%88%90%E9%BE%99%E5%A4%B4%E5%8F%91%E4%B8%8Dduang%E4%BA%86&t=31&band_rank=41&Refer=top) 1248562
 1. [赵丽颖真可爱](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%9C%9F%E5%8F%AF%E7%88%B1%23&t=31&band_rank=23&Refer=top) 1205155
 1. [唐诗逸好美](https://s.weibo.com/weibo?q=%23%E5%94%90%E8%AF%97%E9%80%B8%E5%A5%BD%E7%BE%8E%23&t=31&band_rank=22&Refer=top) 1202021
-1. [金靖毛衣](https://s.weibo.com/weibo?q=%E9%87%91%E9%9D%96%E6%AF%9B%E8%A1%A3&t=31&band_rank=22&Refer=top) 1112963
 1. [春晚节目单](https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%99%9A%E8%8A%82%E7%9B%AE%E5%8D%95%23&t=31&band_rank=24&Refer=top) 1088229
 1. [邓超王二妮更新超市神曲](https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E7%8E%8B%E4%BA%8C%E5%A6%AE%E6%9B%B4%E6%96%B0%E8%B6%85%E5%B8%82%E7%A5%9E%E6%9B%B2%23&t=31&band_rank=33&Refer=top) 1058359
 1. [镜头扫到秦岚好美](https://s.weibo.com/weibo?q=%E9%95%9C%E5%A4%B4%E6%89%AB%E5%88%B0%E7%A7%A6%E5%B2%9A%E5%A5%BD%E7%BE%8E&t=31&band_rank=26&Refer=top) 971245
@@ -66,7 +68,6 @@
 1. [利物浦vs切尔西](https://s.weibo.com/weibo?q=%23%E5%88%A9%E7%89%A9%E6%B5%A6vs%E5%88%87%E5%B0%94%E8%A5%BF%23&t=31&band_rank=49&Refer=top) 729329
 1. [居然有一步之遥](https://s.weibo.com/weibo?q=%E5%B1%85%E7%84%B6%E6%9C%89%E4%B8%80%E6%AD%A5%E4%B9%8B%E9%81%A5&t=31&band_rank=50&Refer=top) 727970
 1. [兔年](https://s.weibo.com/weibo?q=%23%E5%85%94%E5%B9%B4%23&t=31&band_rank=30&Refer=top) 669233
-1. [难忘今宵](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%BF%98%E4%BB%8A%E5%AE%B5&t=31&band_rank=32&Refer=top) 642425
 1. [闫佩伦出息了](https://s.weibo.com/weibo?q=%E9%97%AB%E4%BD%A9%E4%BC%A6%E5%87%BA%E6%81%AF%E4%BA%86&t=31&band_rank=33&Refer=top) 640958
 1. [重庆新年氛围感拉满](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E6%96%B0%E5%B9%B4%E6%B0%9B%E5%9B%B4%E6%84%9F%E6%8B%89%E6%BB%A1%23&t=31&band_rank=36&Refer=top) 640464
 1. [兔子](https://s.weibo.com/weibo?q=%23%E5%85%94%E5%AD%90%23&t=31&band_rank=37&Refer=top) 640293
@@ -80,6 +81,12 @@
 1. [烧饼张九龄为岳云鹏节目打call](https://s.weibo.com/weibo?q=%23%E7%83%A7%E9%A5%BC%E5%BC%A0%E4%B9%9D%E9%BE%84%E4%B8%BA%E5%B2%B3%E4%BA%91%E9%B9%8F%E8%8A%82%E7%9B%AE%E6%89%93call%23&t=31&band_rank=46&Refer=top) 564833
 1. [宋祖儿宋轶好美](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E7%A5%96%E5%84%BF%E5%AE%8B%E8%BD%B6%E5%A5%BD%E7%BE%8E%23&t=31&band_rank=47&Refer=top) 563538
 1. [谢谢毛不易](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E8%B0%A2%E6%AF%9B%E4%B8%8D%E6%98%93%23&t=31&band_rank=48&Refer=top) 562453
+1. [马凡舒眼睛](https://s.weibo.com/weibo?q=%E9%A9%AC%E5%87%A1%E8%88%92%E7%9C%BC%E7%9D%9B&t=31&band_rank=36&Refer=top) 415548
+1. [我和我的春晚 全场最佳](https://s.weibo.com/weibo?q=%E6%88%91%E5%92%8C%E6%88%91%E7%9A%84%E6%98%A5%E6%99%9A%20%E5%85%A8%E5%9C%BA%E6%9C%80%E4%BD%B3&t=31&band_rank=41&Refer=top) 396391
+1. [只此青绿](https://s.weibo.com/weibo?q=%E5%8F%AA%E6%AD%A4%E9%9D%92%E7%BB%BF&t=31&band_rank=43&Refer=top) 322933
+1. [今年终于通知吴磊穿黑裤子了](https://s.weibo.com/weibo?q=%E4%BB%8A%E5%B9%B4%E7%BB%88%E4%BA%8E%E9%80%9A%E7%9F%A5%E5%90%B4%E7%A3%8A%E7%A9%BF%E9%BB%91%E8%A3%A4%E5%AD%90%E4%BA%86&t=31&band_rank=45&Refer=top) 313468
+1. [赵丽颖端庄大气](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%AB%AF%E5%BA%84%E5%A4%A7%E6%B0%94&t=31&band_rank=46&Refer=top) 312929
+1. [重庆除夕光影无人机焰火表演](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E9%99%A4%E5%A4%95%E5%85%89%E5%BD%B1%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%84%B0%E7%81%AB%E8%A1%A8%E6%BC%94%23&t=31&band_rank=50&Refer=top) 305076
 <!-- END -->
 
 历史归档 [./archives](./archives)
