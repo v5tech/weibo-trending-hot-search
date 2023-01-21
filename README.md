@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-01-22 01:23:56.287208 
+最后更新时间 2023-01-22 01:34:16.816081 
 1. [过年好](https://s.weibo.com/weibo?q=%23%E8%BF%87%E5%B9%B4%E5%A5%BD%23&t=31&band_rank=1&Refer=top) 11496694
 1. [终于等到许嵩](https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E7%AD%89%E5%88%B0%E8%AE%B8%E5%B5%A9%23&t=31&band_rank=2&Refer=top) 8294145
 1. [沈腾吃药](https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E5%90%83%E8%8D%AF%23&t=31&band_rank=2&Refer=top) 6797431
@@ -67,6 +67,7 @@
 1. [女生起床收到20条除夕群发祝福](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E8%B5%B7%E5%BA%8A%E6%94%B6%E5%88%B020%E6%9D%A1%E9%99%A4%E5%A4%95%E7%BE%A4%E5%8F%91%E7%A5%9D%E7%A6%8F%23&t=31&band_rank=48&Refer=top) 731440
 1. [利物浦vs切尔西](https://s.weibo.com/weibo?q=%23%E5%88%A9%E7%89%A9%E6%B5%A6vs%E5%88%87%E5%B0%94%E8%A5%BF%23&t=31&band_rank=49&Refer=top) 729329
 1. [居然有一步之遥](https://s.weibo.com/weibo?q=%E5%B1%85%E7%84%B6%E6%9C%89%E4%B8%80%E6%AD%A5%E4%B9%8B%E9%81%A5&t=31&band_rank=50&Refer=top) 727970
+1. [岳云鹏严重超时导致春晚演到大年初二](https://s.weibo.com/weibo?q=%23%E5%B2%B3%E4%BA%91%E9%B9%8F%E4%B8%A5%E9%87%8D%E8%B6%85%E6%97%B6%E5%AF%BC%E8%87%B4%E6%98%A5%E6%99%9A%E6%BC%94%E5%88%B0%E5%A4%A7%E5%B9%B4%E5%88%9D%E4%BA%8C%23&t=31&band_rank=22&Refer=top) 690892
 1. [兔年](https://s.weibo.com/weibo?q=%23%E5%85%94%E5%B9%B4%23&t=31&band_rank=30&Refer=top) 669233
 1. [闫佩伦出息了](https://s.weibo.com/weibo?q=%E9%97%AB%E4%BD%A9%E4%BC%A6%E5%87%BA%E6%81%AF%E4%BA%86&t=31&band_rank=33&Refer=top) 640958
 1. [重庆新年氛围感拉满](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E6%96%B0%E5%B9%B4%E6%B0%9B%E5%9B%B4%E6%84%9F%E6%8B%89%E6%BB%A1%23&t=31&band_rank=36&Refer=top) 640464
@@ -91,6 +92,8 @@
 1. [马凡舒漂亮](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%87%A1%E8%88%92%E6%BC%82%E4%BA%AE%23&t=31&band_rank=42&Refer=top) 290501
 1. [马旭东出息了](https://s.weibo.com/weibo?q=%E9%A9%AC%E6%97%AD%E4%B8%9C%E5%87%BA%E6%81%AF%E4%BA%86&t=31&band_rank=43&Refer=top) 285131
 1. [让红包飞](https://s.weibo.com/weibo?q=%E8%AE%A9%E7%BA%A2%E5%8C%85%E9%A3%9E&t=31&band_rank=50&Refer=top) 272528
+1. [脱口秀](https://s.weibo.com/weibo?q=%E8%84%B1%E5%8F%A3%E7%A7%80&t=31&band_rank=41&Refer=top) 212269
+1. [青春向太阳](https://s.weibo.com/weibo?q=%23%E9%9D%92%E6%98%A5%E5%90%91%E5%A4%AA%E9%98%B3%23&t=31&band_rank=43&Refer=top) 194991
 <!-- END -->
 
 历史归档 [./archives](./archives)
