@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-01-22 03:08:19.005853 
+最后更新时间 2023-01-22 03:19:17.280335 
 1. [过年好](https://s.weibo.com/weibo?q=%23%E8%BF%87%E5%B9%B4%E5%A5%BD%23&t=31&band_rank=1&Refer=top) 11496694
 1. [终于等到许嵩](https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E7%AD%89%E5%88%B0%E8%AE%B8%E5%B5%A9%23&t=31&band_rank=2&Refer=top) 8294145
 1. [沈腾吃药](https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E5%90%83%E8%8D%AF%23&t=31&band_rank=2&Refer=top) 6797431
@@ -100,9 +100,9 @@
 1. [重庆除夕光影无人机焰火表演](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E9%99%A4%E5%A4%95%E5%85%89%E5%BD%B1%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%84%B0%E7%81%AB%E8%A1%A8%E6%BC%94%23&t=31&band_rank=50&Refer=top) 305076
 1. [马凡舒漂亮](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%87%A1%E8%88%92%E6%BC%82%E4%BA%AE%23&t=31&band_rank=42&Refer=top) 290501
 1. [马旭东出息了](https://s.weibo.com/weibo?q=%E9%A9%AC%E6%97%AD%E4%B8%9C%E5%87%BA%E6%81%AF%E4%BA%86&t=31&band_rank=43&Refer=top) 285131
+1. [这首歌是写给冯禧的吗](https://s.weibo.com/weibo?q=%E8%BF%99%E9%A6%96%E6%AD%8C%E6%98%AF%E5%86%99%E7%BB%99%E5%86%AF%E7%A6%A7%E7%9A%84%E5%90%97&t=31&band_rank=41&Refer=top) 283948
 1. [无名](https://s.weibo.com/weibo?q=%E6%97%A0%E5%90%8D&t=31&band_rank=42&Refer=top) 271636
 1. [毛不易大衣](https://s.weibo.com/weibo?q=%23%E6%AF%9B%E4%B8%8D%E6%98%93%E5%A4%A7%E8%A1%A3%23&t=31&band_rank=44&Refer=top) 270723
-1. [这首歌是写给冯禧的吗](https://s.weibo.com/weibo?q=%E8%BF%99%E9%A6%96%E6%AD%8C%E6%98%AF%E5%86%99%E7%BB%99%E5%86%AF%E7%A6%A7%E7%9A%84%E5%90%97&t=31&band_rank=41&Refer=top) 242318
 1. [陈立农腿好长](https://s.weibo.com/weibo?q=%E9%99%88%E7%AB%8B%E5%86%9C%E8%85%BF%E5%A5%BD%E9%95%BF&t=31&band_rank=49&Refer=top) 240414
 1. [妈妈的心里话你听懂了吗](https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E7%9A%84%E5%BF%83%E9%87%8C%E8%AF%9D%E4%BD%A0%E5%90%AC%E6%87%82%E4%BA%86%E5%90%97%23&t=31&band_rank=48&Refer=top) 236547
 1. [沈马组合yyds](https://s.weibo.com/weibo?q=%23%E6%B2%88%E9%A9%AC%E7%BB%84%E5%90%88yyds%23&t=31&band_rank=39&Refer=top) 206355
@@ -112,6 +112,7 @@
 1. [春晚兔子可爱](https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%99%9A%E5%85%94%E5%AD%90%E5%8F%AF%E7%88%B1%23&t=31&band_rank=43&Refer=top) 188068
 1. [兔年神曲好运全都来](https://s.weibo.com/weibo?q=%23%E5%85%94%E5%B9%B4%E7%A5%9E%E6%9B%B2%E5%A5%BD%E8%BF%90%E5%85%A8%E9%83%BD%E6%9D%A5%23&t=31&band_rank=45&Refer=top) 184277
 1. [艾伦是个白眼狼](https://s.weibo.com/weibo?q=%23%E8%89%BE%E4%BC%A6%E6%98%AF%E4%B8%AA%E7%99%BD%E7%9C%BC%E7%8B%BC%23&t=31&band_rank=42&Refer=top) 86506
+1. [苏有朋一镜到底](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E6%9C%89%E6%9C%8B%E4%B8%80%E9%95%9C%E5%88%B0%E5%BA%95%23&t=31&band_rank=48&Refer=top) 59363
 <!-- END -->
 
 历史归档 [./archives](./archives)
