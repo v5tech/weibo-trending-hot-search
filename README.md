@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-01-23 03:34:02.394919 
+最后更新时间 2023-01-23 03:49:14.146323 
 1. [虞书欣美呆](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%BE%8E%E5%91%86%23&t=31&band_rank=1&Refer=top) 2873477
 1. [流浪地球2一部顶两部](https://s.weibo.com/weibo?q=%23%E6%B5%81%E6%B5%AA%E5%9C%B0%E7%90%832%E4%B8%80%E9%83%A8%E9%A1%B6%E4%B8%A4%E9%83%A8%23&t=31&band_rank=2&Refer=top) 1583411
 1. [新时代 我在中国](https://s.weibo.com/weibo?q=%23%E6%96%B0%E6%97%B6%E4%BB%A3%20%E6%88%91%E5%9C%A8%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top) 996958
@@ -71,6 +71,7 @@
 1. [王一博语言天赋](https://s.weibo.com/weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%AF%AD%E8%A8%80%E5%A4%A9%E8%B5%8B&t=31&band_rank=46&Refer=top) 75747
 1. [流浪地球 人工智能](https://s.weibo.com/weibo?q=%E6%B5%81%E6%B5%AA%E5%9C%B0%E7%90%83%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&t=31&band_rank=43&Refer=top) 34524
 1. [英超春节大戏](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E8%B6%85%E6%98%A5%E8%8A%82%E5%A4%A7%E6%88%8F%23&t=31&band_rank=20&Refer=top) 33719
+1. [杨迪演见钱眼开好像我本人](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%BF%AA%E6%BC%94%E8%A7%81%E9%92%B1%E7%9C%BC%E5%BC%80%E5%A5%BD%E5%83%8F%E6%88%91%E6%9C%AC%E4%BA%BA%23&t=31&band_rank=47&Refer=top) 20376
 <!-- END -->
 
 历史归档 [./archives](./archives)
