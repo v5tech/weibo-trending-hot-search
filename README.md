@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-01-23 02:39:05.466205 
+最后更新时间 2023-01-23 02:48:58.068882 
 1. [虞书欣美呆](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%BE%8E%E5%91%86%23&t=31&band_rank=1&Refer=top) 2873477
 1. [流浪地球2一部顶两部](https://s.weibo.com/weibo?q=%23%E6%B5%81%E6%B5%AA%E5%9C%B0%E7%90%832%E4%B8%80%E9%83%A8%E9%A1%B6%E4%B8%A4%E9%83%A8%23&t=31&band_rank=2&Refer=top) 1583411
 1. [新时代 我在中国](https://s.weibo.com/weibo?q=%23%E6%96%B0%E6%97%B6%E4%BB%A3%20%E6%88%91%E5%9C%A8%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top) 996958
@@ -69,6 +69,7 @@
 1. [春晚是懂电脑的](https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%99%9A%E6%98%AF%E6%87%82%E7%94%B5%E8%84%91%E7%9A%84%23&t=31&band_rank=41&Refer=top) 117935
 1. [流浪地球 MOSS](https://s.weibo.com/weibo?q=%E6%B5%81%E6%B5%AA%E5%9C%B0%E7%90%83%20MOSS&t=31&band_rank=42&Refer=top) 102417
 1. [王一博语言天赋](https://s.weibo.com/weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%AF%AD%E8%A8%80%E5%A4%A9%E8%B5%8B&t=31&band_rank=46&Refer=top) 75747
+1. [流浪地球 人工智能](https://s.weibo.com/weibo?q=%E6%B5%81%E6%B5%AA%E5%9C%B0%E7%90%83%20%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&t=31&band_rank=43&Refer=top) 34524
 <!-- END -->
 
 历史归档 [./archives](./archives)
