@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-01-24 04:48:53.924625 
+最后更新时间 2023-01-24 05:10:08.826657 
 1. [炉石传说](https://s.weibo.com/weibo?q=%23%E7%82%89%E7%9F%B3%E4%BC%A0%E8%AF%B4%23&t=31&band_rank=1&Refer=top) 1225066
 1. [导演付宁去世](https://s.weibo.com/weibo?q=%23%E5%AF%BC%E6%BC%94%E4%BB%98%E5%AE%81%E5%8E%BB%E4%B8%96%23&t=31&band_rank=6&Refer=top) 957799
 1. [狂飙](https://s.weibo.com/weibo?q=%E7%8B%82%E9%A3%99&t=31&band_rank=2&Refer=top) 879650
@@ -70,6 +70,7 @@
 1. [广智一年的素材都有了](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E6%99%BA%E4%B8%80%E5%B9%B4%E7%9A%84%E7%B4%A0%E6%9D%90%E9%83%BD%E6%9C%89%E4%BA%86%23&t=31&band_rank=45&Refer=top) 29332
 1. [今年的压岁钱分配也太合理了](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E7%9A%84%E5%8E%8B%E5%B2%81%E9%92%B1%E5%88%86%E9%85%8D%E4%B9%9F%E5%A4%AA%E5%90%88%E7%90%86%E4%BA%86%23&t=31&band_rank=48&Refer=top) 25616
 1. [无名路演](https://s.weibo.com/weibo?q=%E6%97%A0%E5%90%8D%E8%B7%AF%E6%BC%94&t=31&band_rank=37&Refer=top) 19688
+1. [周深改词版花开忘忧更温暖](https://s.weibo.com/weibo?q=%E5%91%A8%E6%B7%B1%E6%94%B9%E8%AF%8D%E7%89%88%E8%8A%B1%E5%BC%80%E5%BF%98%E5%BF%A7%E6%9B%B4%E6%B8%A9%E6%9A%96&t=31&band_rank=27&Refer=top) 19303
 <!-- END -->
 
 历史归档 [./archives](./archives)
