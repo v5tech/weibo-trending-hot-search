@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-01-24 03:34:11.285499 
+最后更新时间 2023-01-24 03:49:00.925110 
 1. [炉石传说](https://s.weibo.com/weibo?q=%23%E7%82%89%E7%9F%B3%E4%BC%A0%E8%AF%B4%23&t=31&band_rank=1&Refer=top) 1225066
 1. [导演付宁去世](https://s.weibo.com/weibo?q=%23%E5%AF%BC%E6%BC%94%E4%BB%98%E5%AE%81%E5%8E%BB%E4%B8%96%23&t=31&band_rank=6&Refer=top) 957799
 1. [狂飙](https://s.weibo.com/weibo?q=%E7%8B%82%E9%A3%99&t=31&band_rank=2&Refer=top) 879650
