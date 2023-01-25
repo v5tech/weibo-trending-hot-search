@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-01-26 02:29:55.206990 
+最后更新时间 2023-01-26 02:41:01.295334 
 1. [中国乒乓撤档](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E4%B9%92%E4%B9%93%E6%92%A4%E6%A1%A3&t=31&band_rank=1&Refer=top) 3461465
 1. [吴京赞过](https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%AC%E8%B5%9E%E8%BF%87%23&t=31&band_rank=2&Refer=top) 1904360
 1. [4个春节期间防疫热点问答](https://s.weibo.com/weibo?q=%234%E4%B8%AA%E6%98%A5%E8%8A%82%E6%9C%9F%E9%97%B4%E9%98%B2%E7%96%AB%E7%83%AD%E7%82%B9%E9%97%AE%E7%AD%94%23&t=31&band_rank=3&Refer=top) 1506480
@@ -29,10 +29,10 @@
 1. [深海票房逆跌](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E6%B5%B7%E7%A5%A8%E6%88%BF%E9%80%86%E8%B7%8C%23&t=31&band_rank=15&Refer=top) 299698
 1. [一只中华田园犬最后的故事](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%8F%AA%E4%B8%AD%E5%8D%8E%E7%94%B0%E5%9B%AD%E7%8A%AC%E6%9C%80%E5%90%8E%E7%9A%84%E6%95%85%E4%BA%8B%23&t=31&band_rank=17&Refer=top) 257874
 1. [高叶太美了](https://s.weibo.com/weibo?q=%E9%AB%98%E5%8F%B6%E5%A4%AA%E7%BE%8E%E4%BA%86&t=31&band_rank=14&Refer=top) 229683
+1. [为什么只有中国医生擅长拔鱼刺](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%AA%E6%9C%89%E4%B8%AD%E5%9B%BD%E5%8C%BB%E7%94%9F%E6%93%85%E9%95%BF%E6%8B%94%E9%B1%BC%E5%88%BA%23&t=31&band_rank=47&Refer=top) 225457
 1. [刘德华图恒宇亦正亦邪](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%BE%B7%E5%8D%8E%E5%9B%BE%E6%81%92%E5%AE%87%E4%BA%A6%E6%AD%A3%E4%BA%A6%E9%82%AA%23&t=31&band_rank=49&Refer=top) 224212
 1. [李铁执教国足还拿武汉长江3000万工资](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%93%81%E6%89%A7%E6%95%99%E5%9B%BD%E8%B6%B3%E8%BF%98%E6%8B%BF%E6%AD%A6%E6%B1%89%E9%95%BF%E6%B1%9F3000%E4%B8%87%E5%B7%A5%E8%B5%84%23&t=31&band_rank=18&Refer=top) 212428
 1. [主人返程小狗不舍跳进后备箱](https://s.weibo.com/weibo?q=%23%E4%B8%BB%E4%BA%BA%E8%BF%94%E7%A8%8B%E5%B0%8F%E7%8B%97%E4%B8%8D%E8%88%8D%E8%B7%B3%E8%BF%9B%E5%90%8E%E5%A4%87%E7%AE%B1%23&t=31&band_rank=19&Refer=top) 209715
-1. [为什么只有中国医生擅长拔鱼刺](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%AA%E6%9C%89%E4%B8%AD%E5%9B%BD%E5%8C%BB%E7%94%9F%E6%93%85%E9%95%BF%E6%8B%94%E9%B1%BC%E5%88%BA%23&t=31&band_rank=47&Refer=top) 187973
 1. [冯兵说老默背后中枪死的](https://s.weibo.com/weibo?q=%23%E5%86%AF%E5%85%B5%E8%AF%B4%E8%80%81%E9%BB%98%E8%83%8C%E5%90%8E%E4%B8%AD%E6%9E%AA%E6%AD%BB%E7%9A%84%23&t=31&band_rank=21&Refer=top) 177656
 1. [黄晓明说自己某种程度上是烂好人](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E8%AF%B4%E8%87%AA%E5%B7%B1%E6%9F%90%E7%A7%8D%E7%A8%8B%E5%BA%A6%E4%B8%8A%E6%98%AF%E7%83%82%E5%A5%BD%E4%BA%BA%23&t=31&band_rank=32&Refer=top) 177003
 1. [给身体去油的4个食方](https://s.weibo.com/weibo?q=%23%E7%BB%99%E8%BA%AB%E4%BD%93%E5%8E%BB%E6%B2%B9%E7%9A%844%E4%B8%AA%E9%A3%9F%E6%96%B9%23&t=31&band_rank=20&Refer=top) 175672
@@ -63,8 +63,9 @@
 1. [XBB和BQ.1毒株上半年流行可能性比较小](https://s.weibo.com/weibo?q=%23XBB%E5%92%8CBQ.1%E6%AF%92%E6%A0%AA%E4%B8%8A%E5%8D%8A%E5%B9%B4%E6%B5%81%E8%A1%8C%E5%8F%AF%E8%83%BD%E6%80%A7%E6%AF%94%E8%BE%83%E5%B0%8F%23&t=31&band_rank=47&Refer=top) 120623
 1. [by2三年没回家与妈妈相拥泪目](https://s.weibo.com/weibo?q=%23by2%E4%B8%89%E5%B9%B4%E6%B2%A1%E5%9B%9E%E5%AE%B6%E4%B8%8E%E5%A6%88%E5%A6%88%E7%9B%B8%E6%8B%A5%E6%B3%AA%E7%9B%AE%23&t=31&band_rank=48&Refer=top) 113718
 1. [狗狗找到了自己的靠山](https://s.weibo.com/weibo?q=%23%E7%8B%97%E7%8B%97%E6%89%BE%E5%88%B0%E4%BA%86%E8%87%AA%E5%B7%B1%E7%9A%84%E9%9D%A0%E5%B1%B1%23&t=31&band_rank=50&Refer=top) 90846
-1. [武林外传是懂爱情的](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%9E%97%E5%A4%96%E4%BC%A0%E6%98%AF%E6%87%82%E7%88%B1%E6%83%85%E7%9A%84%23&t=31&band_rank=26&Refer=top) 59674
-1. [气球大叔一开口城管哭了](https://s.weibo.com/weibo?q=%23%E6%B0%94%E7%90%83%E5%A4%A7%E5%8F%94%E4%B8%80%E5%BC%80%E5%8F%A3%E5%9F%8E%E7%AE%A1%E5%93%AD%E4%BA%86%23&t=31&band_rank=50&Refer=top) 45174
+1. [气球大叔一开口城管哭了](https://s.weibo.com/weibo?q=%23%E6%B0%94%E7%90%83%E5%A4%A7%E5%8F%94%E4%B8%80%E5%BC%80%E5%8F%A3%E5%9F%8E%E7%AE%A1%E5%93%AD%E4%BA%86%23&t=31&band_rank=50&Refer=top) 61437
+1. [武林外传是懂爱情的](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%9E%97%E5%A4%96%E4%BC%A0%E6%98%AF%E6%87%82%E7%88%B1%E6%83%85%E7%9A%84%23&t=31&band_rank=26&Refer=top) 61425
+1. [福建和两广跌破冰点](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E5%92%8C%E4%B8%A4%E5%B9%BF%E8%B7%8C%E7%A0%B4%E5%86%B0%E7%82%B9%23&t=31&band_rank=48&Refer=top) 26930
 <!-- END -->
 
 历史归档 [./archives](./archives)
