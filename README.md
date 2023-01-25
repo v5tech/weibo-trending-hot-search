@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-01-26 05:49:03.324491 
+最后更新时间 2023-01-26 06:11:11.606677 
 1. [中国乒乓撤档](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E4%B9%92%E4%B9%93%E6%92%A4%E6%A1%A3&t=31&band_rank=1&Refer=top) 3461465
 1. [吴京赞过](https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%AC%E8%B5%9E%E8%BF%87%23&t=31&band_rank=2&Refer=top) 1904360
 1. [4个春节期间防疫热点问答](https://s.weibo.com/weibo?q=%234%E4%B8%AA%E6%98%A5%E8%8A%82%E6%9C%9F%E9%97%B4%E9%98%B2%E7%96%AB%E7%83%AD%E7%82%B9%E9%97%AE%E7%AD%94%23&t=31&band_rank=3&Refer=top) 1506480
@@ -71,6 +71,7 @@
 1. [北京台春晚 好看](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%8F%B0%E6%98%A5%E6%99%9A%20%E5%A5%BD%E7%9C%8B%23&t=31&band_rank=36&Refer=top) 19795
 1. [流浪地球](https://s.weibo.com/weibo?q=%23%E6%B5%81%E6%B5%AA%E5%9C%B0%E7%90%83%23&t=31&band_rank=47&Refer=top) 19407
 1. [狂飙预告好虐](https://s.weibo.com/weibo?q=%E7%8B%82%E9%A3%99%E9%A2%84%E5%91%8A%E5%A5%BD%E8%99%90&t=31&band_rank=49&Refer=top) 15777
+1. [美国一男子被狗踩扳机射杀](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%80%E7%94%B7%E5%AD%90%E8%A2%AB%E7%8B%97%E8%B8%A9%E6%89%B3%E6%9C%BA%E5%B0%84%E6%9D%80%23&t=31&band_rank=48&Refer=top) 15617
 1. [舞龙不要站第二个位置](https://s.weibo.com/weibo?q=%23%E8%88%9E%E9%BE%99%E4%B8%8D%E8%A6%81%E7%AB%99%E7%AC%AC%E4%BA%8C%E4%B8%AA%E4%BD%8D%E7%BD%AE%23&t=31&band_rank=50&Refer=top) 15602
 <!-- END -->
 
