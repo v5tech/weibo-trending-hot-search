@@ -135,6 +135,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E9%93%9A%E7%A0%94%E6%9E%97%E9%B9%8F%E7%BF%94%E5%AE%98%E5%AE%A3%23&t=31&band_rank=31&Refer=top",
     "hot": 194918
   },
+  "谢谢狂飙": {
+    "url": "https://s.weibo.com/weibo?q=%23%E8%B0%A2%E8%B0%A2%E7%8B%82%E9%A3%99%23&t=31&band_rank=6&Refer=top",
+    "hot": 192516
+  },
   "流浪地球2票房破29亿": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%B5%81%E6%B5%AA%E5%9C%B0%E7%90%832%E7%A5%A8%E6%88%BF%E7%A0%B429%E4%BA%BF%23&t=31&band_rank=32&Refer=top",
     "hot": 188493
@@ -226,5 +230,9 @@
   "郭帆回应图恒宇的车祸是否由MOSS造成": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%83%AD%E5%B8%86%E5%9B%9E%E5%BA%94%E5%9B%BE%E6%81%92%E5%AE%87%E7%9A%84%E8%BD%A6%E7%A5%B8%E6%98%AF%E5%90%A6%E7%94%B1MOSS%E9%80%A0%E6%88%90%23&t=31&band_rank=50&Refer=top",
     "hot": 59463
+  },
+  "这个挑食是情有可原的": {
+    "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%AA%E6%8C%91%E9%A3%9F%E6%98%AF%E6%83%85%E6%9C%89%E5%8F%AF%E5%8E%9F%E7%9A%84%23&t=31&band_rank=40&Refer=top",
+    "hot": 29901
   }
 }
