@@ -7,10 +7,10 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-02-06 01:09:19.049448 
+最后更新时间 2023-02-06 01:24:05.850368 
 1. [林孝埈中国队首金](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%AD%9D%E5%9F%88%E4%B8%AD%E5%9B%BD%E9%98%9F%E9%A6%96%E9%87%91%23&t=31&band_rank=1&Refer=top) 1973021
 1. [段奥娟瘦了好多](https://s.weibo.com/weibo?q=%23%E6%AE%B5%E5%A5%A5%E5%A8%9F%E7%98%A6%E4%BA%86%E5%A5%BD%E5%A4%9A%23&t=31&band_rank=1&Refer=top) 1491266
-1. [星云大师圆寂](https://s.weibo.com/weibo?q=%23%E6%98%9F%E4%BA%91%E5%A4%A7%E5%B8%88%E5%9C%86%E5%AF%82%23&t=31&band_rank=31&Refer=top) 1242401
+1. [星云大师圆寂](https://s.weibo.com/weibo?q=%23%E6%98%9F%E4%BA%91%E5%A4%A7%E5%B8%88%E5%9C%86%E5%AF%82%23&t=31&band_rank=31&Refer=top) 1286554
 1. [周深被人踩了](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E8%A2%AB%E4%BA%BA%E8%B8%A9%E4%BA%86%23&t=31&band_rank=2&Refer=top) 1190686
 1. [元宵喜乐](https://s.weibo.com/weibo?q=%23%E5%85%83%E5%AE%B5%E5%96%9C%E4%B9%90%23&t=31&band_rank=3&Refer=top) 1108129
 1. [张远压轴出息了](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%BF%9C%E5%8E%8B%E8%BD%B4%E5%87%BA%E6%81%AF%E4%BA%86%23&t=31&band_rank=4&Refer=top) 957782
@@ -60,8 +60,8 @@
 1. [夫子庙](https://s.weibo.com/weibo?q=%E5%A4%AB%E5%AD%90%E5%BA%99&t=31&band_rank=46&Refer=top) 126289
 1. [EDG战胜RNG](https://s.weibo.com/weibo?q=%23EDG%E6%88%98%E8%83%9CRNG%23&t=31&band_rank=47&Refer=top) 124514
 1. [旧手机被妈妈换菜刀女子开车狂追](https://s.weibo.com/weibo?q=%23%E6%97%A7%E6%89%8B%E6%9C%BA%E8%A2%AB%E5%A6%88%E5%A6%88%E6%8D%A2%E8%8F%9C%E5%88%80%E5%A5%B3%E5%AD%90%E5%BC%80%E8%BD%A6%E7%8B%82%E8%BF%BD%23&t=31&band_rank=48&Refer=top) 124273
+1. [三体流浪计划启动](https://s.weibo.com/weibo?q=%23%E4%B8%89%E4%BD%93%E6%B5%81%E6%B5%AA%E8%AE%A1%E5%88%92%E5%90%AF%E5%8A%A8%23&t=31&band_rank=35&Refer=top) 111737
 1. [当事人回应放炮炸伤男孩致截肢](https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%9B%9E%E5%BA%94%E6%94%BE%E7%82%AE%E7%82%B8%E4%BC%A4%E7%94%B7%E5%AD%A9%E8%87%B4%E6%88%AA%E8%82%A2%23&t=31&band_rank=50&Refer=top) 109384
-1. [三体流浪计划启动](https://s.weibo.com/weibo?q=%23%E4%B8%89%E4%BD%93%E6%B5%81%E6%B5%AA%E8%AE%A1%E5%88%92%E5%90%AF%E5%8A%A8%23&t=31&band_rank=35&Refer=top) 107818
 1. [关晓彤晒元宵怼脸自拍](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E6%99%92%E5%85%83%E5%AE%B5%E6%80%BC%E8%84%B8%E8%87%AA%E6%8B%8D%23&t=31&band_rank=38&Refer=top) 90962
 <!-- END -->
 
