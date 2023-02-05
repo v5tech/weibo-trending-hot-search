@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-02-06 05:48:59.428926 
+最后更新时间 2023-02-06 06:10:24.817948 
 1. [林孝埈中国队首金](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%AD%9D%E5%9F%88%E4%B8%AD%E5%9B%BD%E9%98%9F%E9%A6%96%E9%87%91%23&t=31&band_rank=1&Refer=top) 1973021
 1. [段奥娟瘦了好多](https://s.weibo.com/weibo?q=%23%E6%AE%B5%E5%A5%A5%E5%A8%9F%E7%98%A6%E4%BA%86%E5%A5%BD%E5%A4%9A%23&t=31&band_rank=1&Refer=top) 1491266
 1. [星云大师圆寂](https://s.weibo.com/weibo?q=%23%E6%98%9F%E4%BA%91%E5%A4%A7%E5%B8%88%E5%9C%86%E5%AF%82%23&t=31&band_rank=31&Refer=top) 1286554
@@ -53,6 +53,7 @@
 1. [这个选秀是一定要选吗](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%AA%E9%80%89%E7%A7%80%E6%98%AF%E4%B8%80%E5%AE%9A%E8%A6%81%E9%80%89%E5%90%97%23&t=31&band_rank=38&Refer=top) 152721
 1. [韩国称自华入韩旅客阳性率为零](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%A7%B0%E8%87%AA%E5%8D%8E%E5%85%A5%E9%9F%A9%E6%97%85%E5%AE%A2%E9%98%B3%E6%80%A7%E7%8E%87%E4%B8%BA%E9%9B%B6%23&t=31&band_rank=50&Refer=top) 145842
 1. [大张伟 万有引力](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%BC%A0%E4%BC%9F%20%E4%B8%87%E6%9C%89%E5%BC%95%E5%8A%9B&t=31&band_rank=39&Refer=top) 142014
+1. [林孝埈连夺两金](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%AD%9D%E5%9F%88%E8%BF%9E%E5%A4%BA%E4%B8%A4%E9%87%91%23&t=31&band_rank=15&Refer=top) 141323
 1. [周深毛不易 双厨狂喜](https://s.weibo.com/weibo?q=%E5%91%A8%E6%B7%B1%E6%AF%9B%E4%B8%8D%E6%98%93%20%E5%8F%8C%E5%8E%A8%E7%8B%82%E5%96%9C&t=31&band_rank=40&Refer=top) 139199
 1. [陈兰青产后抑郁爬上天台](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%85%B0%E9%9D%92%E4%BA%A7%E5%90%8E%E6%8A%91%E9%83%81%E7%88%AC%E4%B8%8A%E5%A4%A9%E5%8F%B0%23&t=31&band_rank=41&Refer=top) 137742
 1. [电影无名被写成论文](https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E6%97%A0%E5%90%8D%E8%A2%AB%E5%86%99%E6%88%90%E8%AE%BA%E6%96%87%23&t=31&band_rank=42&Refer=top) 135333
@@ -65,12 +66,11 @@
 1. [三体流浪计划启动](https://s.weibo.com/weibo?q=%23%E4%B8%89%E4%BD%93%E6%B5%81%E6%B5%AA%E8%AE%A1%E5%88%92%E5%90%AF%E5%8A%A8%23&t=31&band_rank=35&Refer=top) 111737
 1. [湖南高速追尾事故亲历者发声](https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E9%AB%98%E9%80%9F%E8%BF%BD%E5%B0%BE%E4%BA%8B%E6%95%85%E4%BA%B2%E5%8E%86%E8%80%85%E5%8F%91%E5%A3%B0%23&t=31&band_rank=25&Refer=top) 110852
 1. [当事人回应放炮炸伤男孩致截肢](https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%9B%9E%E5%BA%94%E6%94%BE%E7%82%AE%E7%82%B8%E4%BC%A4%E7%94%B7%E5%AD%A9%E8%87%B4%E6%88%AA%E8%82%A2%23&t=31&band_rank=50&Refer=top) 109384
-1. [林孝埈连夺两金](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%AD%9D%E5%9F%88%E8%BF%9E%E5%A4%BA%E4%B8%A4%E9%87%91%23&t=31&band_rank=15&Refer=top) 91159
 1. [关晓彤晒元宵怼脸自拍](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E6%99%92%E5%85%83%E5%AE%B5%E6%80%BC%E8%84%B8%E8%87%AA%E6%8B%8D%23&t=31&band_rank=38&Refer=top) 90962
-1. [女生庙里求姻缘对过路帅哥一见钟情](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E5%BA%99%E9%87%8C%E6%B1%82%E5%A7%BB%E7%BC%98%E5%AF%B9%E8%BF%87%E8%B7%AF%E5%B8%85%E5%93%A5%E4%B8%80%E8%A7%81%E9%92%9F%E6%83%85%23&t=31&band_rank=31&Refer=top) 73626
+1. [女生庙里求姻缘对过路帅哥一见钟情](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E5%BA%99%E9%87%8C%E6%B1%82%E5%A7%BB%E7%BC%98%E5%AF%B9%E8%BF%87%E8%B7%AF%E5%B8%85%E5%93%A5%E4%B8%80%E8%A7%81%E9%92%9F%E6%83%85%23&t=31&band_rank=31&Refer=top) 89522
+1. [南京夫子庙人海里的定海神针](https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E5%A4%AB%E5%AD%90%E5%BA%99%E4%BA%BA%E6%B5%B7%E9%87%8C%E7%9A%84%E5%AE%9A%E6%B5%B7%E7%A5%9E%E9%92%88%23&t=31&band_rank=49&Refer=top) 50348
 1. [住户楼道腌酸菜满地酸水散发恶臭](https://s.weibo.com/weibo?q=%23%E4%BD%8F%E6%88%B7%E6%A5%BC%E9%81%93%E8%85%8C%E9%85%B8%E8%8F%9C%E6%BB%A1%E5%9C%B0%E9%85%B8%E6%B0%B4%E6%95%A3%E5%8F%91%E6%81%B6%E8%87%AD%23&t=31&band_rank=46&Refer=top) 39290
 1. [陈伟霆元宵节祝大家暴风开心](https://s.weibo.com/weibo?q=%23%E9%99%88%E4%BC%9F%E9%9C%86%E5%85%83%E5%AE%B5%E8%8A%82%E7%A5%9D%E5%A4%A7%E5%AE%B6%E6%9A%B4%E9%A3%8E%E5%BC%80%E5%BF%83%23&t=31&band_rank=48&Refer=top) 34654
-1. [南京夫子庙人海里的定海神针](https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E5%A4%AB%E5%AD%90%E5%BA%99%E4%BA%BA%E6%B5%B7%E9%87%8C%E7%9A%84%E5%AE%9A%E6%B5%B7%E7%A5%9E%E9%92%88%23&t=31&band_rank=49&Refer=top) 30746
 1. [今天元宵节](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E5%85%83%E5%AE%B5%E8%8A%82%23&t=31&band_rank=30&Refer=top) 21790
 <!-- END -->
 
