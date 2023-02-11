@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-02-12 02:12:54.994777 
+最后更新时间 2023-02-12 02:29:59.014689 
 1. [狂飙修改删除涉毒演员戏份](https://s.weibo.com/weibo?q=%23%E7%8B%82%E9%A3%99%E4%BF%AE%E6%94%B9%E5%88%A0%E9%99%A4%E6%B6%89%E6%AF%92%E6%BC%94%E5%91%98%E6%88%8F%E4%BB%BD%23&t=31&band_rank=1&Refer=top) 7132592
 1. [人鱼](https://s.weibo.com/weibo?q=%E4%BA%BA%E9%B1%BC&t=31&band_rank=4&Refer=top) 1629121
 1. [杭州一套凶宅起拍单价2万你敢买吗](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%B8%80%E5%A5%97%E5%87%B6%E5%AE%85%E8%B5%B7%E6%8B%8D%E5%8D%95%E4%BB%B72%E4%B8%87%E4%BD%A0%E6%95%A2%E4%B9%B0%E5%90%97%23&t=31&band_rank=2&Refer=top) 1396060
@@ -68,6 +68,7 @@
 1. [赵丽颖早期穆念慈定妆照](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%97%A9%E6%9C%9F%E7%A9%86%E5%BF%B5%E6%85%88%E5%AE%9A%E5%A6%86%E7%85%A7%23&t=31&band_rank=50&Refer=top) 111083
 1. [这题岳云鹏不会](https://s.weibo.com/weibo?q=%23%E8%BF%99%E9%A2%98%E5%B2%B3%E4%BA%91%E9%B9%8F%E4%B8%8D%E4%BC%9A%23&t=31&band_rank=43&Refer=top) 82198
 1. [猫咪出门土拨鼠上演难舍难别](https://s.weibo.com/weibo?q=%23%E7%8C%AB%E5%92%AA%E5%87%BA%E9%97%A8%E5%9C%9F%E6%8B%A8%E9%BC%A0%E4%B8%8A%E6%BC%94%E9%9A%BE%E8%88%8D%E9%9A%BE%E5%88%AB%23&t=31&band_rank=48&Refer=top) 75376
+1. [关注土耳其7.8级地震](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%B3%A8%E5%9C%9F%E8%80%B3%E5%85%B67.8%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=42&Refer=top) 44883
 <!-- END -->
 
 历史归档 [./archives](./archives)
