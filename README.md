@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-02-13 01:48:59.899095 
+最后更新时间 2023-02-13 02:12:59.599999 
 1. [官方准备击落山东海域不明飞行物](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%87%86%E5%A4%87%E5%87%BB%E8%90%BD%E5%B1%B1%E4%B8%9C%E6%B5%B7%E5%9F%9F%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9%23&t=31&band_rank=1&Refer=top) 2251634
 1. [林孝埈庆祝动作](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%AD%9D%E5%9F%88%E5%BA%86%E7%A5%9D%E5%8A%A8%E4%BD%9C%23&t=31&band_rank=2&Refer=top) 1193114
 1. [中国救援人员加油保重](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%95%91%E6%8F%B4%E4%BA%BA%E5%91%98%E5%8A%A0%E6%B2%B9%E4%BF%9D%E9%87%8D%23&t=31&band_rank=3&Refer=top) 1157153
@@ -43,10 +43,12 @@
 1. [夫胜宽朴志效MOMO舞蹈挑战](https://s.weibo.com/weibo?q=%23%E5%A4%AB%E8%83%9C%E5%AE%BD%E6%9C%B4%E5%BF%97%E6%95%88MOMO%E8%88%9E%E8%B9%88%E6%8C%91%E6%88%98%23&t=31&band_rank=30&Refer=top) 197991
 1. [金在中尹净汉李灿舞蹈挑战](https://s.weibo.com/weibo?q=%23%E9%87%91%E5%9C%A8%E4%B8%AD%E5%B0%B9%E5%87%80%E6%B1%89%E6%9D%8E%E7%81%BF%E8%88%9E%E8%B9%88%E6%8C%91%E6%88%98%23&t=31&band_rank=19&Refer=top) 197792
 1. [流浪地球2成中国影史票房榜第10名](https://s.weibo.com/weibo?q=%23%E6%B5%81%E6%B5%AA%E5%9C%B0%E7%90%832%E6%88%90%E4%B8%AD%E5%9B%BD%E5%BD%B1%E5%8F%B2%E7%A5%A8%E6%88%BF%E6%A6%9C%E7%AC%AC10%E5%90%8D%23&t=31&band_rank=31&Refer=top) 197453
+1. [刘宇宁特效视频](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E7%89%B9%E6%95%88%E8%A7%86%E9%A2%91%23&t=31&band_rank=6&Refer=top) 191233
 1. [微信回应头像褪色](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E5%9B%9E%E5%BA%94%E5%A4%B4%E5%83%8F%E8%A4%AA%E8%89%B2%23&t=31&band_rank=32&Refer=top) 190442
 1. [露思 笑中带泪](https://s.weibo.com/weibo?q=%E9%9C%B2%E6%80%9D%20%E7%AC%91%E4%B8%AD%E5%B8%A6%E6%B3%AA&t=31&band_rank=34&Refer=top) 187476
 1. [吴磊赵今麦芬兰雪地随拍](https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A3%8A%E8%B5%B5%E4%BB%8A%E9%BA%A6%E8%8A%AC%E5%85%B0%E9%9B%AA%E5%9C%B0%E9%9A%8F%E6%8B%8D%23&t=31&band_rank=35&Refer=top) 185006
 1. [渤海](https://s.weibo.com/weibo?q=%23%E6%B8%A4%E6%B5%B7%23&t=31&band_rank=36&Refer=top) 179597
+1. [老人沉迷玩手机怎么办](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E6%B2%89%E8%BF%B7%E7%8E%A9%E6%89%8B%E6%9C%BA%E6%80%8E%E4%B9%88%E5%8A%9E%23&t=31&band_rank=11&Refer=top) 168021
 1. [关晓彤澳门随拍](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E6%BE%B3%E9%97%A8%E9%9A%8F%E6%8B%8D%23&t=31&band_rank=38&Refer=top) 160353
 1. [售楼部回应小区池子形似卫生巾](https://s.weibo.com/weibo?q=%23%E5%94%AE%E6%A5%BC%E9%83%A8%E5%9B%9E%E5%BA%94%E5%B0%8F%E5%8C%BA%E6%B1%A0%E5%AD%90%E5%BD%A2%E4%BC%BC%E5%8D%AB%E7%94%9F%E5%B7%BE%23&t=31&band_rank=39&Refer=top) 155618
 1. [2023亚洲杯将于2024年进行](https://s.weibo.com/weibo?q=%232023%E4%BA%9A%E6%B4%B2%E6%9D%AF%E5%B0%86%E4%BA%8E2024%E5%B9%B4%E8%BF%9B%E8%A1%8C%23&t=31&band_rank=40&Refer=top) 155477
