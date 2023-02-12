@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-02-13 02:49:06.613620 
+最后更新时间 2023-02-13 03:08:36.243117 
 1. [官方准备击落山东海域不明飞行物](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%87%86%E5%A4%87%E5%87%BB%E8%90%BD%E5%B1%B1%E4%B8%9C%E6%B5%B7%E5%9F%9F%E4%B8%8D%E6%98%8E%E9%A3%9E%E8%A1%8C%E7%89%A9%23&t=31&band_rank=1&Refer=top) 2251634
 1. [林孝埈庆祝动作](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%AD%9D%E5%9F%88%E5%BA%86%E7%A5%9D%E5%8A%A8%E4%BD%9C%23&t=31&band_rank=2&Refer=top) 1193114
 1. [中国救援人员加油保重](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%95%91%E6%8F%B4%E4%BA%BA%E5%91%98%E5%8A%A0%E6%B2%B9%E4%BF%9D%E9%87%8D%23&t=31&band_rank=3&Refer=top) 1157153
@@ -68,7 +68,8 @@
 1. [聋哑夫妇的我爱你](https://s.weibo.com/weibo?q=%23%E8%81%8B%E5%93%91%E5%A4%AB%E5%A6%87%E7%9A%84%E6%88%91%E7%88%B1%E4%BD%A0%23&t=31&band_rank=50&Refer=top) 92925
 1. [关晓彤马甲线](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E9%A9%AC%E7%94%B2%E7%BA%BF%23&t=31&band_rank=49&Refer=top) 80107
 1. [满江红秦桧房间是如何设计的](https://s.weibo.com/weibo?q=%23%E6%BB%A1%E6%B1%9F%E7%BA%A2%E7%A7%A6%E6%A1%A7%E6%88%BF%E9%97%B4%E6%98%AF%E5%A6%82%E4%BD%95%E8%AE%BE%E8%AE%A1%E7%9A%84%23&t=31&band_rank=48&Refer=top) 75494
-1. [总要去大理换次头吧](https://s.weibo.com/weibo?q=%23%E6%80%BB%E8%A6%81%E5%8E%BB%E5%A4%A7%E7%90%86%E6%8D%A2%E6%AC%A1%E5%A4%B4%E5%90%A7%23&t=31&band_rank=49&Refer=top) 36026
+1. [总要去大理换次头吧](https://s.weibo.com/weibo?q=%23%E6%80%BB%E8%A6%81%E5%8E%BB%E5%A4%A7%E7%90%86%E6%8D%A2%E6%AC%A1%E5%A4%B4%E5%90%A7%23&t=31&band_rank=49&Refer=top) 61299
+1. [教授呼吁医保互助共济算长远帐](https://s.weibo.com/weibo?q=%23%E6%95%99%E6%8E%88%E5%91%BC%E5%90%81%E5%8C%BB%E4%BF%9D%E4%BA%92%E5%8A%A9%E5%85%B1%E6%B5%8E%E7%AE%97%E9%95%BF%E8%BF%9C%E5%B8%90%23&t=31&band_rank=49&Refer=top) 22958
 <!-- END -->
 
 历史归档 [./archives](./archives)
