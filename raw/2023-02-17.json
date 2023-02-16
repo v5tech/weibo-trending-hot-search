@@ -230,5 +230,9 @@
   "时装周": {
     "url": "https://s.weibo.com/weibo?q=%E6%97%B6%E8%A3%85%E5%91%A8&t=31&band_rank=48&Refer=top",
     "hot": 72591
+  },
+  "2023LCK春季赛": {
+    "url": "https://s.weibo.com/weibo?q=%232023LCK%E6%98%A5%E5%AD%A3%E8%B5%9B%23&t=31&band_rank=28&Refer=top",
+    "hot": 38347
   }
 }
