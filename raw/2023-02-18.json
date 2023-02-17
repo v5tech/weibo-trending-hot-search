@@ -207,6 +207,10 @@
     "url": "https://s.weibo.com/weibo?q=%E5%A4%8F%E8%8A%B1&t=31&band_rank=47&Refer=top",
     "hot": 161442
   },
+  "大学生谈恋爱要不要AA制": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%B0%88%E6%81%8B%E7%88%B1%E8%A6%81%E4%B8%8D%E8%A6%81AA%E5%88%B6%23&t=31&band_rank=40&Refer=top",
+    "hot": 155730
+  },
   "叔圈": {
     "url": "https://s.weibo.com/weibo?q=%E5%8F%94%E5%9C%88&t=31&band_rank=48&Refer=top",
     "hot": 150234
@@ -214,10 +218,6 @@
   "爸爸给女儿做40米冰滑梯4天就化了": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E7%BB%99%E5%A5%B3%E5%84%BF%E5%81%9A40%E7%B1%B3%E5%86%B0%E6%BB%91%E6%A2%AF4%E5%A4%A9%E5%B0%B1%E5%8C%96%E4%BA%86%23&t=31&band_rank=46&Refer=top",
     "hot": 141005
-  },
-  "大学生谈恋爱要不要AA制": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%B0%88%E6%81%8B%E7%88%B1%E8%A6%81%E4%B8%8D%E8%A6%81AA%E5%88%B6%23&t=31&band_rank=40&Refer=top",
-    "hot": 137746
   },
   "杨超越说重紫一直嘴硬一直跪": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%B6%85%E8%B6%8A%E8%AF%B4%E9%87%8D%E7%B4%AB%E4%B8%80%E7%9B%B4%E5%98%B4%E7%A1%AC%E4%B8%80%E7%9B%B4%E8%B7%AA%23&t=31&band_rank=49&Refer=top",
@@ -238,5 +238,9 @@
   "周深 水姻缘": {
     "url": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%B7%B1%20%E6%B0%B4%E5%A7%BB%E7%BC%98&t=31&band_rank=49&Refer=top",
     "hot": 58271
+  },
+  "张大大问助理自己和王嘉尔谁帅": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%A4%A7%E5%A4%A7%E9%97%AE%E5%8A%A9%E7%90%86%E8%87%AA%E5%B7%B1%E5%92%8C%E7%8E%8B%E5%98%89%E5%B0%94%E8%B0%81%E5%B8%85%23&t=31&band_rank=12&Refer=top",
+    "hot": 56107
   }
 }
