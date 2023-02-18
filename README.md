@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-02-19 02:49:56.460322 
+最后更新时间 2023-02-19 03:08:28.718611 
 1. [柯哀](https://s.weibo.com/weibo?q=%E6%9F%AF%E5%93%80&t=31&band_rank=1&Refer=top) 2137939
 1. [香港大学宣布禁用ChatGPT](https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%AD%A6%E5%AE%A3%E5%B8%83%E7%A6%81%E7%94%A8ChatGPT%23&t=31&band_rank=50&Refer=top) 1942628
 1. [哺乳期女子点外卖骑手提醒不卫生](https://s.weibo.com/weibo?q=%23%E5%93%BA%E4%B9%B3%E6%9C%9F%E5%A5%B3%E5%AD%90%E7%82%B9%E5%A4%96%E5%8D%96%E9%AA%91%E6%89%8B%E6%8F%90%E9%86%92%E4%B8%8D%E5%8D%AB%E7%94%9F%23&t=31&band_rank=2&Refer=top) 1575966
