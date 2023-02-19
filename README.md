@@ -7,9 +7,9 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-02-19 13:10:24.952180 
+最后更新时间 2023-02-19 13:25:38.565495 
 1. [杭师大](https://s.weibo.com/weibo?q=%E6%9D%AD%E5%B8%88%E5%A4%A7&t=31&band_rank=5&Refer=top) 3299013
-1. [浙江彩民中2.4亿元巨奖](https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E5%BD%A9%E6%B0%91%E4%B8%AD2.4%E4%BA%BF%E5%85%83%E5%B7%A8%E5%A5%96%23&t=31&band_rank=6&Refer=top) 2374769
+1. [浙江彩民中2.4亿元巨奖](https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E5%BD%A9%E6%B0%91%E4%B8%AD2.4%E4%BA%BF%E5%85%83%E5%B7%A8%E5%A5%96%23&t=31&band_rank=6&Refer=top) 2696739
 1. [柯哀](https://s.weibo.com/weibo?q=%E6%9F%AF%E5%93%80&t=31&band_rank=1&Refer=top) 2137939
 1. [浙师大](https://s.weibo.com/weibo?q=%E6%B5%99%E5%B8%88%E5%A4%A7&t=31&band_rank=5&Refer=top) 1947718
 1. [香港大学宣布禁用ChatGPT](https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%AD%A6%E5%AE%A3%E5%B8%83%E7%A6%81%E7%94%A8ChatGPT%23&t=31&band_rank=50&Refer=top) 1942628
@@ -36,8 +36,10 @@
 1. [四川凉山制止528起10万以上彩礼](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%87%89%E5%B1%B1%E5%88%B6%E6%AD%A2528%E8%B5%B710%E4%B8%87%E4%BB%A5%E4%B8%8A%E5%BD%A9%E7%A4%BC%23&t=31&band_rank=49&Refer=top) 917682
 1. [20元人民币老爷爷去世](https://s.weibo.com/weibo?q=%2320%E5%85%83%E4%BA%BA%E6%B0%91%E5%B8%81%E8%80%81%E7%88%B7%E7%88%B7%E5%8E%BB%E4%B8%96%23&t=31&band_rank=6&Refer=top) 891728
 1. [董明珠 张兰](https://s.weibo.com/weibo?q=%E8%91%A3%E6%98%8E%E7%8F%A0%20%E5%BC%A0%E5%85%B0&t=31&band_rank=7&Refer=top) 867704
+1. [上海中环一车失控翻下高架并起火](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%B8%AD%E7%8E%AF%E4%B8%80%E8%BD%A6%E5%A4%B1%E6%8E%A7%E7%BF%BB%E4%B8%8B%E9%AB%98%E6%9E%B6%E5%B9%B6%E8%B5%B7%E7%81%AB%23&t=31&band_rank=49&Refer=top) 839850
 1. [美国前总统卡特将开始接受临终关怀](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%89%8D%E6%80%BB%E7%BB%9F%E5%8D%A1%E7%89%B9%E5%B0%86%E5%BC%80%E5%A7%8B%E6%8E%A5%E5%8F%97%E4%B8%B4%E7%BB%88%E5%85%B3%E6%80%80%23&t=31&band_rank=22&Refer=top) 824349
 1. [教师是否应该统一着装](https://s.weibo.com/weibo?q=%23%E6%95%99%E5%B8%88%E6%98%AF%E5%90%A6%E5%BA%94%E8%AF%A5%E7%BB%9F%E4%B8%80%E7%9D%80%E8%A3%85%23&t=31&band_rank=8&Refer=top) 793574
+1. [肖战雨水营业照](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E9%9B%A8%E6%B0%B4%E8%90%A5%E4%B8%9A%E7%85%A7%23&t=31&band_rank=17&Refer=top) 754143
 1. [粉笔模考](https://s.weibo.com/weibo?q=%23%E7%B2%89%E7%AC%94%E6%A8%A1%E8%80%83%23&t=31&band_rank=14&Refer=top) 750548
 1. [美甲最好隔20天左右就卸除](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E7%94%B2%E6%9C%80%E5%A5%BD%E9%9A%9420%E5%A4%A9%E5%B7%A6%E5%8F%B3%E5%B0%B1%E5%8D%B8%E9%99%A4%23&t=31&band_rank=27&Refer=top) 749476
 1. [美国一工厂雇100余童工通宵工作](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%80%E5%B7%A5%E5%8E%82%E9%9B%87100%E4%BD%99%E7%AB%A5%E5%B7%A5%E9%80%9A%E5%AE%B5%E5%B7%A5%E4%BD%9C%23&t=31&band_rank=5&Refer=top) 745831
@@ -45,13 +47,12 @@
 1. [张大大让粉丝给文俊辉发语音表白](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%A4%A7%E5%A4%A7%E8%AE%A9%E7%B2%89%E4%B8%9D%E7%BB%99%E6%96%87%E4%BF%8A%E8%BE%89%E5%8F%91%E8%AF%AD%E9%9F%B3%E8%A1%A8%E7%99%BD%23&t=31&band_rank=6&Refer=top) 743272
 1. [婚检应该自愿还是强制](https://s.weibo.com/weibo?q=%23%E5%A9%9A%E6%A3%80%E5%BA%94%E8%AF%A5%E8%87%AA%E6%84%BF%E8%BF%98%E6%98%AF%E5%BC%BA%E5%88%B6%23&t=31&band_rank=10&Refer=top) 739432
 1. [近期又开始发烧是否等于复阳](https://s.weibo.com/weibo?q=%23%E8%BF%91%E6%9C%9F%E5%8F%88%E5%BC%80%E5%A7%8B%E5%8F%91%E7%83%A7%E6%98%AF%E5%90%A6%E7%AD%89%E4%BA%8E%E5%A4%8D%E9%98%B3%23&t=31&band_rank=10&Refer=top) 705960
-1. [肖战雨水营业照](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E9%9B%A8%E6%B0%B4%E8%90%A5%E4%B8%9A%E7%85%A7%23&t=31&band_rank=17&Refer=top) 687929
+1. [丈夫否认网传产妇月子没过就跳河](https://s.weibo.com/weibo?q=%23%E4%B8%88%E5%A4%AB%E5%90%A6%E8%AE%A4%E7%BD%91%E4%BC%A0%E4%BA%A7%E5%A6%87%E6%9C%88%E5%AD%90%E6%B2%A1%E8%BF%87%E5%B0%B1%E8%B7%B3%E6%B2%B3%23&t=31&band_rank=41&Refer=top) 697237
 1. [无毛猫被前主人纹身打耳环](https://s.weibo.com/weibo?q=%23%E6%97%A0%E6%AF%9B%E7%8C%AB%E8%A2%AB%E5%89%8D%E4%B8%BB%E4%BA%BA%E7%BA%B9%E8%BA%AB%E6%89%93%E8%80%B3%E7%8E%AF%23&t=31&band_rank=11&Refer=top) 680688
 1. [军队文职](https://s.weibo.com/weibo?q=%23%E5%86%9B%E9%98%9F%E6%96%87%E8%81%8C%23&t=31&band_rank=8&Refer=top) 663873
 1. [麦克朗扣篮大赛满分](https://s.weibo.com/weibo?q=%23%E9%BA%A6%E5%85%8B%E6%9C%97%E6%89%A3%E7%AF%AE%E5%A4%A7%E8%B5%9B%E6%BB%A1%E5%88%86%23&t=31&band_rank=21&Refer=top) 645810
 1. [张婧仪蓝色短上衣随拍](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%A9%A7%E4%BB%AA%E8%93%9D%E8%89%B2%E7%9F%AD%E4%B8%8A%E8%A1%A3%E9%9A%8F%E6%8B%8D%23&t=31&band_rank=14&Refer=top) 643279
 1. [叙利亚首都一居民楼被导弹击中](https://s.weibo.com/weibo?q=%23%E5%8F%99%E5%88%A9%E4%BA%9A%E9%A6%96%E9%83%BD%E4%B8%80%E5%B1%85%E6%B0%91%E6%A5%BC%E8%A2%AB%E5%AF%BC%E5%BC%B9%E5%87%BB%E4%B8%AD%23&t=31&band_rank=11&Refer=top) 635234
-1. [丈夫否认网传产妇月子没过就跳河](https://s.weibo.com/weibo?q=%23%E4%B8%88%E5%A4%AB%E5%90%A6%E8%AE%A4%E7%BD%91%E4%BC%A0%E4%BA%A7%E5%A6%87%E6%9C%88%E5%AD%90%E6%B2%A1%E8%BF%87%E5%B0%B1%E8%B7%B3%E6%B2%B3%23&t=31&band_rank=41&Refer=top) 632844
 1. [众星给黄明昊录制生日祝福VCR](https://s.weibo.com/weibo?q=%23%E4%BC%97%E6%98%9F%E7%BB%99%E9%BB%84%E6%98%8E%E6%98%8A%E5%BD%95%E5%88%B6%E7%94%9F%E6%97%A5%E7%A5%9D%E7%A6%8FVCR%23&t=31&band_rank=12&Refer=top) 607428
 1. [乌克兰延长战时状态至5月](https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%85%8B%E5%85%B0%E5%BB%B6%E9%95%BF%E6%88%98%E6%97%B6%E7%8A%B6%E6%80%81%E8%87%B35%E6%9C%88%23&t=31&band_rank=50&Refer=top) 599989
 1. [NBA全明星三分大赛](https://s.weibo.com/weibo?q=%23NBA%E5%85%A8%E6%98%8E%E6%98%9F%E4%B8%89%E5%88%86%E5%A4%A7%E8%B5%9B%23&t=31&band_rank=15&Refer=top) 545984
@@ -59,15 +60,15 @@
 1. [独居后才知道生活常识](https://s.weibo.com/weibo?q=%23%E7%8B%AC%E5%B1%85%E5%90%8E%E6%89%8D%E7%9F%A5%E9%81%93%E7%94%9F%E6%B4%BB%E5%B8%B8%E8%AF%86%23&t=31&band_rank=43&Refer=top) 530900
 1. [杜华晒照为黄明昊庆生](https://s.weibo.com/weibo?q=%23%E6%9D%9C%E5%8D%8E%E6%99%92%E7%85%A7%E4%B8%BA%E9%BB%84%E6%98%8E%E6%98%8A%E5%BA%86%E7%94%9F%23&t=31&band_rank=18&Refer=top) 528634
 1. [夏花删减](https://s.weibo.com/weibo?q=%E5%A4%8F%E8%8A%B1%E5%88%A0%E5%87%8F&t=31&band_rank=15&Refer=top) 522624
-1. [上海中环一车失控翻下高架并起火](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%B8%AD%E7%8E%AF%E4%B8%80%E8%BD%A6%E5%A4%B1%E6%8E%A7%E7%BF%BB%E4%B8%8B%E9%AB%98%E6%9E%B6%E5%B9%B6%E8%B5%B7%E7%81%AB%23&t=31&band_rank=49&Refer=top) 519042
+1. [无限超越班 恋综](https://s.weibo.com/weibo?q=%E6%97%A0%E9%99%90%E8%B6%85%E8%B6%8A%E7%8F%AD%20%E6%81%8B%E7%BB%BC&t=31&band_rank=33&Refer=top) 513416
 1. [姜涩琪不能跳HypeBoy的理由](https://s.weibo.com/weibo?q=%23%E5%A7%9C%E6%B6%A9%E7%90%AA%E4%B8%8D%E8%83%BD%E8%B7%B3HypeBoy%E7%9A%84%E7%90%86%E7%94%B1%23&t=31&band_rank=13&Refer=top) 511447
 1. [肖指导让王楚钦打球少生气](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%8C%87%E5%AF%BC%E8%AE%A9%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%89%93%E7%90%83%E5%B0%91%E7%94%9F%E6%B0%94%23&t=31&band_rank=32&Refer=top) 504397
-1. [无限超越班 恋综](https://s.weibo.com/weibo?q=%E6%97%A0%E9%99%90%E8%B6%85%E8%B6%8A%E7%8F%AD%20%E6%81%8B%E7%BB%BC&t=31&band_rank=33&Refer=top) 492987
 1. [狂飙警戒线漫画版](https://s.weibo.com/weibo?q=%23%E7%8B%82%E9%A3%99%E8%AD%A6%E6%88%92%E7%BA%BF%E6%BC%AB%E7%94%BB%E7%89%88%23&t=31&band_rank=28&Refer=top) 487993
 1. [你好星期六下期有韩庚于文文](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%E4%B8%8B%E6%9C%9F%E6%9C%89%E9%9F%A9%E5%BA%9A%E4%BA%8E%E6%96%87%E6%96%87%23&t=31&band_rank=19&Refer=top) 485484
 1. [多地21日起可查考研初试成绩](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B021%E6%97%A5%E8%B5%B7%E5%8F%AF%E6%9F%A5%E8%80%83%E7%A0%94%E5%88%9D%E8%AF%95%E6%88%90%E7%BB%A9%23&t=31&band_rank=17&Refer=top) 469393
 1. [林家川回应狂飙拍摄地收费](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%AE%B6%E5%B7%9D%E5%9B%9E%E5%BA%94%E7%8B%82%E9%A3%99%E6%8B%8D%E6%91%84%E5%9C%B0%E6%94%B6%E8%B4%B9%23&t=31&band_rank=14&Refer=top) 453317
 1. [梁朝伟王一博无名走廊打戏花絮](https://s.weibo.com/weibo?q=%23%E6%A2%81%E6%9C%9D%E4%BC%9F%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%97%A0%E5%90%8D%E8%B5%B0%E5%BB%8A%E6%89%93%E6%88%8F%E8%8A%B1%E7%B5%AE%23&t=31&band_rank=21&Refer=top) 449869
+1. [检出XBB.1.5意味着新一轮发烧开始吗](https://s.weibo.com/weibo?q=%23%E6%A3%80%E5%87%BAXBB.1.5%E6%84%8F%E5%91%B3%E7%9D%80%E6%96%B0%E4%B8%80%E8%BD%AE%E5%8F%91%E7%83%A7%E5%BC%80%E5%A7%8B%E5%90%97%23&t=31&band_rank=18&Refer=top) 448130
 1. [云南德宏地震](https://s.weibo.com/weibo?q=%E4%BA%91%E5%8D%97%E5%BE%B7%E5%AE%8F%E5%9C%B0%E9%9C%87&t=31&band_rank=18&Refer=top) 443800
 1. [骑士买断乐福](https://s.weibo.com/weibo?q=%23%E9%AA%91%E5%A3%AB%E4%B9%B0%E6%96%AD%E4%B9%90%E7%A6%8F%23&t=31&band_rank=16&Refer=top) 422640
 1. [显微镜下的大明今日收官](https://s.weibo.com/weibo?q=%23%E6%98%BE%E5%BE%AE%E9%95%9C%E4%B8%8B%E7%9A%84%E5%A4%A7%E6%98%8E%E4%BB%8A%E6%97%A5%E6%94%B6%E5%AE%98%23&t=31&band_rank=18&Refer=top) 419109
@@ -129,6 +130,7 @@
 1. [名侦探柯南最新ED封面](https://s.weibo.com/weibo?q=%23%E5%90%8D%E4%BE%A6%E6%8E%A2%E6%9F%AF%E5%8D%97%E6%9C%80%E6%96%B0ED%E5%B0%81%E9%9D%A2%23&t=31&band_rank=32&Refer=top) 191761
 1. [侯明昊说我的心在她那](https://s.weibo.com/weibo?q=%23%E4%BE%AF%E6%98%8E%E6%98%8A%E8%AF%B4%E6%88%91%E7%9A%84%E5%BF%83%E5%9C%A8%E5%A5%B9%E9%82%A3%23&t=31&band_rank=36&Refer=top) 187250
 1. [雨水节气意味着什么](https://s.weibo.com/weibo?q=%23%E9%9B%A8%E6%B0%B4%E8%8A%82%E6%B0%94%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88%23&t=31&band_rank=32&Refer=top) 187241
+1. [兔年正月最后一天](https://s.weibo.com/weibo?q=%23%E5%85%94%E5%B9%B4%E6%AD%A3%E6%9C%88%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9%23&t=31&band_rank=43&Refer=top) 186124
 1. [ChatGPT相关领域招聘年薪超33万](https://s.weibo.com/weibo?q=%23ChatGPT%E7%9B%B8%E5%85%B3%E9%A2%86%E5%9F%9F%E6%8B%9B%E8%81%98%E5%B9%B4%E8%96%AA%E8%B6%8533%E4%B8%87%23&t=31&band_rank=37&Refer=top) 184389
 1. [麦克朗 降维打击](https://s.weibo.com/weibo?q=%E9%BA%A6%E5%85%8B%E6%9C%97%20%E9%99%8D%E7%BB%B4%E6%89%93%E5%87%BB&t=31&band_rank=46&Refer=top) 184370
 1. [骑士将退役乐福球衣](https://s.weibo.com/weibo?q=%23%E9%AA%91%E5%A3%AB%E5%B0%86%E9%80%80%E5%BD%B9%E4%B9%90%E7%A6%8F%E7%90%83%E8%A1%A3%23&t=31&band_rank=33&Refer=top) 183496
@@ -143,6 +145,7 @@
 1. [拜仁主教练](https://s.weibo.com/weibo?q=%E6%8B%9C%E4%BB%81%E4%B8%BB%E6%95%99%E7%BB%83&t=31&band_rank=36&Refer=top) 165056
 1. [KPL](https://s.weibo.com/weibo?q=KPL&t=31&band_rank=36&Refer=top) 164065
 1. [华晨宇你好星期六新歌直拍](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%E6%96%B0%E6%AD%8C%E7%9B%B4%E6%8B%8D%23&t=31&band_rank=25&Refer=top) 163540
+1. [重紫被诬陷](https://s.weibo.com/weibo?q=%23%E9%87%8D%E7%B4%AB%E8%A2%AB%E8%AF%AC%E9%99%B7%23&t=31&band_rank=45&Refer=top) 162019
 1. [今日雨水](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E6%97%A5%E9%9B%A8%E6%B0%B4%23&t=31&band_rank=23&Refer=top) 161808
 1. [破译一个甲骨文奖励10万](https://s.weibo.com/weibo?q=%23%E7%A0%B4%E8%AF%91%E4%B8%80%E4%B8%AA%E7%94%B2%E9%AA%A8%E6%96%87%E5%A5%96%E5%8A%B110%E4%B8%87%23&t=31&band_rank=37&Refer=top) 160627
 1. [烽火流金 烽火令](https://s.weibo.com/weibo?q=%E7%83%BD%E7%81%AB%E6%B5%81%E9%87%91%20%E7%83%BD%E7%81%AB%E4%BB%A4&t=31&band_rank=38&Refer=top) 157421
