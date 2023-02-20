@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-02-21 01:34:55.165875 
+最后更新时间 2023-02-21 01:48:53.600973 
 1. [官方回应四川大学内挖出人的遗体](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E5%86%85%E6%8C%96%E5%87%BA%E4%BA%BA%E7%9A%84%E9%81%97%E4%BD%93%23&t=31&band_rank=1&Refer=top) 1352324
 1. [茶颜悦色取消小程序线上点单自取](https://s.weibo.com/weibo?q=%23%E8%8C%B6%E9%A2%9C%E6%82%A6%E8%89%B2%E5%8F%96%E6%B6%88%E5%B0%8F%E7%A8%8B%E5%BA%8F%E7%BA%BF%E4%B8%8A%E7%82%B9%E5%8D%95%E8%87%AA%E5%8F%96%23&t=31&band_rank=2&Refer=top) 1207410
 1. [姜广涛](https://s.weibo.com/weibo?q=%E5%A7%9C%E5%B9%BF%E6%B6%9B&t=31&band_rank=2&Refer=top) 952100
