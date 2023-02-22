@@ -45,7 +45,7 @@
   },
   "南方都是这样的教学楼吗": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%96%B9%E9%83%BD%E6%98%AF%E8%BF%99%E6%A0%B7%E7%9A%84%E6%95%99%E5%AD%A6%E6%A5%BC%E5%90%97%23&t=31&band_rank=18&Refer=top",
-    "hot": 507691
+    "hot": 514648
   },
   "乌梅子酱": {
     "url": "https://s.weibo.com/weibo?q=%E4%B9%8C%E6%A2%85%E5%AD%90%E9%85%B1&t=31&band_rank=11&Refer=top",
@@ -141,7 +141,7 @@
   },
   "找人类帮忙的小猫": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%89%BE%E4%BA%BA%E7%B1%BB%E5%B8%AE%E5%BF%99%E7%9A%84%E5%B0%8F%E7%8C%AB%23&t=31&band_rank=28&Refer=top",
-    "hot": 177017
+    "hot": 183250
   },
   "博主奶油日记为博眼球谎称下海被查": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%8D%9A%E4%B8%BB%E5%A5%B6%E6%B2%B9%E6%97%A5%E8%AE%B0%E4%B8%BA%E5%8D%9A%E7%9C%BC%E7%90%83%E8%B0%8E%E7%A7%B0%E4%B8%8B%E6%B5%B7%E8%A2%AB%E6%9F%A5%23&t=31&band_rank=32&Refer=top",
@@ -214,5 +214,9 @@
   "张大磊说和周迅王一博合作很惊喜": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%A4%A7%E7%A3%8A%E8%AF%B4%E5%92%8C%E5%91%A8%E8%BF%85%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%90%88%E4%BD%9C%E5%BE%88%E6%83%8A%E5%96%9C%23&t=31&band_rank=50&Refer=top",
     "hot": 88570
+  },
+  "美主播曝拜登曾说毁灭台湾计划": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%B8%BB%E6%92%AD%E6%9B%9D%E6%8B%9C%E7%99%BB%E6%9B%BE%E8%AF%B4%E6%AF%81%E7%81%AD%E5%8F%B0%E6%B9%BE%E8%AE%A1%E5%88%92%23&t=31&band_rank=45&Refer=top",
+    "hot": 49416
   }
 }
