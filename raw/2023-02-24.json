@@ -87,6 +87,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%A8%87%E5%87%BA%E5%8F%91%E7%B1%B3%E5%85%B0%E6%97%B6%E8%A3%85%E5%91%A8%23&t=31&band_rank=17&Refer=top",
     "hot": 264461
   },
+  "央视网谈厌蠢症": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E7%BD%91%E8%B0%88%E5%8E%8C%E8%A0%A2%E7%97%87%23&t=31&band_rank=31&Refer=top",
+    "hot": 264384
+  },
   "张远带的可能是二货": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%BF%9C%E5%B8%A6%E7%9A%84%E5%8F%AF%E8%83%BD%E6%98%AF%E4%BA%8C%E8%B4%A7%23&t=31&band_rank=18&Refer=top",
     "hot": 234841
@@ -146,10 +150,6 @@
   "蔡徐坤秀场氛围感": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E7%A7%80%E5%9C%BA%E6%B0%9B%E5%9B%B4%E6%84%9F%23&t=31&band_rank=13&Refer=top",
     "hot": 168780
-  },
-  "央视网谈厌蠢症": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E7%BD%91%E8%B0%88%E5%8E%8C%E8%A0%A2%E7%97%87%23&t=31&band_rank=31&Refer=top",
-    "hot": 166134
   },
   "沈月李嘉琦合照": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%9C%88%E6%9D%8E%E5%98%89%E7%90%A6%E5%90%88%E7%85%A7%23&t=31&band_rank=32&Refer=top",
@@ -237,6 +237,6 @@
   },
   "周杰伦演唱会": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=49&Refer=top",
-    "hot": 35930
+    "hot": 42009
   }
 }
