@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-02-24 01:27:58.550870 
+最后更新时间 2023-02-24 01:38:00.147611 
 1. [Prada](https://s.weibo.com/weibo?q=%23Prada%23&t=31&band_rank=1&Refer=top) 2563587
 1. [刘雯闭场](https://s.weibo.com/weibo?q=%23%E5%88%98%E9%9B%AF%E9%97%AD%E5%9C%BA%23&t=31&band_rank=2&Refer=top) 1092202
 1. [端牢中国饭碗的底气](https://s.weibo.com/weibo?q=%23%E7%AB%AF%E7%89%A2%E4%B8%AD%E5%9B%BD%E9%A5%AD%E7%A2%97%E7%9A%84%E5%BA%95%E6%B0%94%23&t=31&band_rank=3&Refer=top) 1023344
@@ -16,10 +16,10 @@
 1. [央视曝光个人电影投资骗局](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E4%B8%AA%E4%BA%BA%E7%94%B5%E5%BD%B1%E6%8A%95%E8%B5%84%E9%AA%97%E5%B1%80%23&t=31&band_rank=5&Refer=top) 908162
 1. [甲流](https://s.weibo.com/weibo?q=%E7%94%B2%E6%B5%81&t=31&band_rank=6&Refer=top) 905258
 1. [丫丫或于4月7日合同到期时回国](https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E6%88%96%E4%BA%8E4%E6%9C%887%E6%97%A5%E5%90%88%E5%90%8C%E5%88%B0%E6%9C%9F%E6%97%B6%E5%9B%9E%E5%9B%BD%23&t=31&band_rank=36&Refer=top) 724036
+1. [12岁孩子进店撸猫被拒家长怒怼店员](https://s.weibo.com/weibo?q=%2312%E5%B2%81%E5%AD%A9%E5%AD%90%E8%BF%9B%E5%BA%97%E6%92%B8%E7%8C%AB%E8%A2%AB%E6%8B%92%E5%AE%B6%E9%95%BF%E6%80%92%E6%80%BC%E5%BA%97%E5%91%98%23&t=31&band_rank=48&Refer=top) 456081
 1. [大爷银行取钱排队一小时频遭插队](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%88%B7%E9%93%B6%E8%A1%8C%E5%8F%96%E9%92%B1%E6%8E%92%E9%98%9F%E4%B8%80%E5%B0%8F%E6%97%B6%E9%A2%91%E9%81%AD%E6%8F%92%E9%98%9F%23&t=31&band_rank=8&Refer=top) 441875
 1. [日本家庭花6.8年收入才能买房](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%AE%B6%E5%BA%AD%E8%8A%B16.8%E5%B9%B4%E6%94%B6%E5%85%A5%E6%89%8D%E8%83%BD%E4%B9%B0%E6%88%BF%23&t=31&band_rank=9&Refer=top) 434845
 1. [仙剑奇侠传3主演无滤镜定妆照](https://s.weibo.com/weibo?q=%23%E4%BB%99%E5%89%91%E5%A5%87%E4%BE%A0%E4%BC%A03%E4%B8%BB%E6%BC%94%E6%97%A0%E6%BB%A4%E9%95%9C%E5%AE%9A%E5%A6%86%E7%85%A7%23&t=31&band_rank=10&Refer=top) 433620
-1. [12岁孩子进店撸猫被拒家长怒怼店员](https://s.weibo.com/weibo?q=%2312%E5%B2%81%E5%AD%A9%E5%AD%90%E8%BF%9B%E5%BA%97%E6%92%B8%E7%8C%AB%E8%A2%AB%E6%8B%92%E5%AE%B6%E9%95%BF%E6%80%92%E6%80%BC%E5%BA%97%E5%91%98%23&t=31&band_rank=48&Refer=top) 423465
 1. [会和丑却对你好的人恋爱吗](https://s.weibo.com/weibo?q=%23%E4%BC%9A%E5%92%8C%E4%B8%91%E5%8D%B4%E5%AF%B9%E4%BD%A0%E5%A5%BD%E7%9A%84%E4%BA%BA%E6%81%8B%E7%88%B1%E5%90%97%23&t=31&band_rank=13&Refer=top) 421690
 1. [网传有银行每天交易限额5000元](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E6%9C%89%E9%93%B6%E8%A1%8C%E6%AF%8F%E5%A4%A9%E4%BA%A4%E6%98%93%E9%99%90%E9%A2%9D5000%E5%85%83%23&t=31&band_rank=27&Refer=top) 407646
 1. [Somi生图](https://s.weibo.com/weibo?q=Somi%E7%94%9F%E5%9B%BE&t=31&band_rank=11&Refer=top) 367284
@@ -45,8 +45,10 @@
 1. [大熊猫丫丫回国全面准备工作已进行](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E4%B8%AB%E4%B8%AB%E5%9B%9E%E5%9B%BD%E5%85%A8%E9%9D%A2%E5%87%86%E5%A4%87%E5%B7%A5%E4%BD%9C%E5%B7%B2%E8%BF%9B%E8%A1%8C%23&t=31&band_rank=29&Refer=top) 176961
 1. [马龙直通世乒赛](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99%E7%9B%B4%E9%80%9A%E4%B8%96%E4%B9%92%E8%B5%9B%23&t=31&band_rank=30&Refer=top) 176317
 1. [蔡徐坤秀场氛围感](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E7%A7%80%E5%9C%BA%E6%B0%9B%E5%9B%B4%E6%84%9F%23&t=31&band_rank=13&Refer=top) 168780
+1. [央视网谈厌蠢症](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E7%BD%91%E8%B0%88%E5%8E%8C%E8%A0%A2%E7%97%87%23&t=31&band_rank=31&Refer=top) 166134
 1. [沈月李嘉琦合照](https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%9C%88%E6%9D%8E%E5%98%89%E7%90%A6%E5%90%88%E7%85%A7%23&t=31&band_rank=32&Refer=top) 165612
 1. [苏醒陈楚生空手套生活费](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%86%92%E9%99%88%E6%A5%9A%E7%94%9F%E7%A9%BA%E6%89%8B%E5%A5%97%E7%94%9F%E6%B4%BB%E8%B4%B9%23&t=31&band_rank=22&Refer=top) 156998
+1. [女生考研查分后激动到晕倒送医](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E8%80%83%E7%A0%94%E6%9F%A5%E5%88%86%E5%90%8E%E6%BF%80%E5%8A%A8%E5%88%B0%E6%99%95%E5%80%92%E9%80%81%E5%8C%BB%23&t=31&band_rank=27&Refer=top) 150044
 1. [六公主赞夏花](https://s.weibo.com/weibo?q=%23%E5%85%AD%E5%85%AC%E4%B8%BB%E8%B5%9E%E5%A4%8F%E8%8A%B1%23&t=31&band_rank=33&Refer=top) 147674
 1. [企业月薪4万招人去非洲养鸡](https://s.weibo.com/weibo?q=%23%E4%BC%81%E4%B8%9A%E6%9C%88%E8%96%AA4%E4%B8%87%E6%8B%9B%E4%BA%BA%E5%8E%BB%E9%9D%9E%E6%B4%B2%E5%85%BB%E9%B8%A1%23&t=31&band_rank=34&Refer=top) 146911
 1. [近5成韩国新婚夫妻不生子](https://s.weibo.com/weibo?q=%23%E8%BF%915%E6%88%90%E9%9F%A9%E5%9B%BD%E6%96%B0%E5%A9%9A%E5%A4%AB%E5%A6%BB%E4%B8%8D%E7%94%9F%E5%AD%90%23&t=31&band_rank=35&Refer=top) 136855
@@ -64,9 +66,8 @@
 1. [宝妈请闺蜜当育儿嫂做5休2月薪5500](https://s.weibo.com/weibo?q=%23%E5%AE%9D%E5%A6%88%E8%AF%B7%E9%97%BA%E8%9C%9C%E5%BD%93%E8%82%B2%E5%84%BF%E5%AB%82%E5%81%9A5%E4%BC%912%E6%9C%88%E8%96%AA5500%23&t=31&band_rank=48&Refer=top) 91704
 1. [张元英跳HowYouLikeThat](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%85%83%E8%8B%B1%E8%B7%B3HowYouLikeThat%23&t=31&band_rank=49&Refer=top) 91084
 1. [我们的日子](https://s.weibo.com/weibo?q=%E6%88%91%E4%BB%AC%E7%9A%84%E6%97%A5%E5%AD%90&t=31&band_rank=50&Refer=top) 84855
-1. [女生考研查分后激动到晕倒送医](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E8%80%83%E7%A0%94%E6%9F%A5%E5%88%86%E5%90%8E%E6%BF%80%E5%8A%A8%E5%88%B0%E6%99%95%E5%80%92%E9%80%81%E5%8C%BB%23&t=31&band_rank=27&Refer=top) 81063
-1. [央视网谈厌蠢症](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E7%BD%91%E8%B0%88%E5%8E%8C%E8%A0%A2%E7%97%87%23&t=31&band_rank=31&Refer=top) 75695
 1. [综艺效果一下子就有了](https://s.weibo.com/weibo?q=%E7%BB%BC%E8%89%BA%E6%95%88%E6%9E%9C%E4%B8%80%E4%B8%8B%E5%AD%90%E5%B0%B1%E6%9C%89%E4%BA%86&t=31&band_rank=38&Refer=top) 71493
+1. [周杰伦演唱会](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=49&Refer=top) 35930
 <!-- END -->
 
 历史归档 [./archives](./archives)
