@@ -55,6 +55,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E6%9C%89%E9%93%B6%E8%A1%8C%E6%AF%8F%E5%A4%A9%E4%BA%A4%E6%98%93%E9%99%90%E9%A2%9D5000%E5%85%83%23&t=31&band_rank=27&Refer=top",
     "hot": 407646
   },
+  "央视网谈厌蠢症": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E7%BD%91%E8%B0%88%E5%8E%8C%E8%A0%A2%E7%97%87%23&t=31&band_rank=31&Refer=top",
+    "hot": 379046
+  },
   "Somi生图": {
     "url": "https://s.weibo.com/weibo?q=Somi%E7%94%9F%E5%9B%BE&t=31&band_rank=11&Refer=top",
     "hot": 367284
@@ -87,9 +91,9 @@
     "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%A8%87%E5%87%BA%E5%8F%91%E7%B1%B3%E5%85%B0%E6%97%B6%E8%A3%85%E5%91%A8%23&t=31&band_rank=17&Refer=top",
     "hot": 264461
   },
-  "央视网谈厌蠢症": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E7%BD%91%E8%B0%88%E5%8E%8C%E8%A0%A2%E7%97%87%23&t=31&band_rank=31&Refer=top",
-    "hot": 264384
+  "女生考研查分后激动到晕倒送医": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E8%80%83%E7%A0%94%E6%9F%A5%E5%88%86%E5%90%8E%E6%BF%80%E5%8A%A8%E5%88%B0%E6%99%95%E5%80%92%E9%80%81%E5%8C%BB%23&t=31&band_rank=27&Refer=top",
+    "hot": 236276
   },
   "张远带的可能是二货": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%BF%9C%E5%B8%A6%E7%9A%84%E5%8F%AF%E8%83%BD%E6%98%AF%E4%BA%8C%E8%B4%A7%23&t=31&band_rank=18&Refer=top",
@@ -159,10 +163,6 @@
     "url": "https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%86%92%E9%99%88%E6%A5%9A%E7%94%9F%E7%A9%BA%E6%89%8B%E5%A5%97%E7%94%9F%E6%B4%BB%E8%B4%B9%23&t=31&band_rank=22&Refer=top",
     "hot": 156998
   },
-  "女生考研查分后激动到晕倒送医": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E8%80%83%E7%A0%94%E6%9F%A5%E5%88%86%E5%90%8E%E6%BF%80%E5%8A%A8%E5%88%B0%E6%99%95%E5%80%92%E9%80%81%E5%8C%BB%23&t=31&band_rank=27&Refer=top",
-    "hot": 150044
-  },
   "六公主赞夏花": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%85%AD%E5%85%AC%E4%B8%BB%E8%B5%9E%E5%A4%8F%E8%8A%B1%23&t=31&band_rank=33&Refer=top",
     "hot": 147674
@@ -231,9 +231,17 @@
     "url": "https://s.weibo.com/weibo?q=%E6%88%91%E4%BB%AC%E7%9A%84%E6%97%A5%E5%AD%90&t=31&band_rank=50&Refer=top",
     "hot": 84855
   },
+  "MOSS量子体积为什么是8192": {
+    "url": "https://s.weibo.com/weibo?q=%23MOSS%E9%87%8F%E5%AD%90%E4%BD%93%E7%A7%AF%E4%B8%BA%E4%BB%80%E4%B9%88%E6%98%AF8192%23&t=31&band_rank=13&Refer=top",
+    "hot": 79615
+  },
   "综艺效果一下子就有了": {
     "url": "https://s.weibo.com/weibo?q=%E7%BB%BC%E8%89%BA%E6%95%88%E6%9E%9C%E4%B8%80%E4%B8%8B%E5%AD%90%E5%B0%B1%E6%9C%89%E4%BA%86&t=31&band_rank=38&Refer=top",
     "hot": 71493
+  },
+  "蔡徐坤黑色皮衣墨镜造型": {
+    "url": "https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E9%BB%91%E8%89%B2%E7%9A%AE%E8%A1%A3%E5%A2%A8%E9%95%9C%E9%80%A0%E5%9E%8B%23&t=31&band_rank=25&Refer=top",
+    "hot": 51372
   },
   "周杰伦演唱会": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=49&Refer=top",
