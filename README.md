@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-02-24 02:14:59.186370 
+最后更新时间 2023-02-24 02:34:16.034597 
 1. [Prada](https://s.weibo.com/weibo?q=%23Prada%23&t=31&band_rank=1&Refer=top) 2563587
 1. [刘雯闭场](https://s.weibo.com/weibo?q=%23%E5%88%98%E9%9B%AF%E9%97%AD%E5%9C%BA%23&t=31&band_rank=2&Refer=top) 1092202
 1. [端牢中国饭碗的底气](https://s.weibo.com/weibo?q=%23%E7%AB%AF%E7%89%A2%E4%B8%AD%E5%9B%BD%E9%A5%AD%E7%A2%97%E7%9A%84%E5%BA%95%E6%B0%94%23&t=31&band_rank=3&Refer=top) 1023344
@@ -22,7 +22,7 @@
 1. [仙剑奇侠传3主演无滤镜定妆照](https://s.weibo.com/weibo?q=%23%E4%BB%99%E5%89%91%E5%A5%87%E4%BE%A0%E4%BC%A03%E4%B8%BB%E6%BC%94%E6%97%A0%E6%BB%A4%E9%95%9C%E5%AE%9A%E5%A6%86%E7%85%A7%23&t=31&band_rank=10&Refer=top) 433620
 1. [会和丑却对你好的人恋爱吗](https://s.weibo.com/weibo?q=%23%E4%BC%9A%E5%92%8C%E4%B8%91%E5%8D%B4%E5%AF%B9%E4%BD%A0%E5%A5%BD%E7%9A%84%E4%BA%BA%E6%81%8B%E7%88%B1%E5%90%97%23&t=31&band_rank=13&Refer=top) 421690
 1. [网传有银行每天交易限额5000元](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E6%9C%89%E9%93%B6%E8%A1%8C%E6%AF%8F%E5%A4%A9%E4%BA%A4%E6%98%93%E9%99%90%E9%A2%9D5000%E5%85%83%23&t=31&band_rank=27&Refer=top) 407646
-1. [央视网谈厌蠢症](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E7%BD%91%E8%B0%88%E5%8E%8C%E8%A0%A2%E7%97%87%23&t=31&band_rank=31&Refer=top) 379046
+1. [央视网谈厌蠢症](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E7%BD%91%E8%B0%88%E5%8E%8C%E8%A0%A2%E7%97%87%23&t=31&band_rank=31&Refer=top) 398731
 1. [Somi生图](https://s.weibo.com/weibo?q=Somi%E7%94%9F%E5%9B%BE&t=31&band_rank=11&Refer=top) 367284
 1. [巴奴火锅创始人发声](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%A5%B4%E7%81%AB%E9%94%85%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%8F%91%E5%A3%B0%23&t=31&band_rank=13&Refer=top) 336671
 1. [新疆小伙1天拿到驾驶证](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E5%B0%8F%E4%BC%991%E5%A4%A9%E6%8B%BF%E5%88%B0%E9%A9%BE%E9%A9%B6%E8%AF%81%23&t=31&band_rank=12&Refer=top) 335742
