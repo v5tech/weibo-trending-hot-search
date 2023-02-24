@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-02-25 05:23:01.744730 
+最后更新时间 2023-02-25 05:35:05.585357 
 1. [GUCCI](https://s.weibo.com/weibo?q=GUCCI&t=31&band_rank=1&Refer=top) 5902342
 1. [丫丫](https://s.weibo.com/weibo?q=%E4%B8%AB%E4%B8%AB&t=31&band_rank=2&Refer=top) 3261109
 1. [新一代载人登月飞船模型首次展出](https://s.weibo.com/weibo?q=%23%E6%96%B0%E4%B8%80%E4%BB%A3%E8%BD%BD%E4%BA%BA%E7%99%BB%E6%9C%88%E9%A3%9E%E8%88%B9%E6%A8%A1%E5%9E%8B%E9%A6%96%E6%AC%A1%E5%B1%95%E5%87%BA%23&t=31&band_rank=3&Refer=top) 1846229
@@ -74,6 +74,7 @@
 1. [EXO将发行正规专辑](https://s.weibo.com/weibo?q=%23EXO%E5%B0%86%E5%8F%91%E8%A1%8C%E6%AD%A3%E8%A7%84%E4%B8%93%E8%BE%91%23&t=31&band_rank=45&Refer=top) 35354
 1. [周深时光音乐会收官花絮vlog](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E6%97%B6%E5%85%89%E9%9F%B3%E4%B9%90%E4%BC%9A%E6%94%B6%E5%AE%98%E8%8A%B1%E7%B5%AEvlog%23&t=31&band_rank=31&Refer=top) 33293
 1. [猫急得都快说人话了](https://s.weibo.com/weibo?q=%23%E7%8C%AB%E6%80%A5%E5%BE%97%E9%83%BD%E5%BF%AB%E8%AF%B4%E4%BA%BA%E8%AF%9D%E4%BA%86%23&t=31&band_rank=49&Refer=top) 31598
+1. [写实到可怕的电影](https://s.weibo.com/weibo?q=%23%E5%86%99%E5%AE%9E%E5%88%B0%E5%8F%AF%E6%80%95%E7%9A%84%E7%94%B5%E5%BD%B1%23&t=31&band_rank=48&Refer=top) 12762
 <!-- END -->
 
 历史归档 [./archives](./archives)
