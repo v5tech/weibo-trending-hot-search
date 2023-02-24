@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-02-25 02:14:20.473858 
+最后更新时间 2023-02-25 02:33:21.195588 
 1. [GUCCI](https://s.weibo.com/weibo?q=GUCCI&t=31&band_rank=1&Refer=top) 5902342
 1. [丫丫](https://s.weibo.com/weibo?q=%E4%B8%AB%E4%B8%AB&t=31&band_rank=2&Refer=top) 3261109
 1. [新一代载人登月飞船模型首次展出](https://s.weibo.com/weibo?q=%23%E6%96%B0%E4%B8%80%E4%BB%A3%E8%BD%BD%E4%BA%BA%E7%99%BB%E6%9C%88%E9%A3%9E%E8%88%B9%E6%A8%A1%E5%9E%8B%E9%A6%96%E6%AC%A1%E5%B1%95%E5%87%BA%23&t=31&band_rank=3&Refer=top) 1846229
@@ -27,13 +27,13 @@
 1. [蔡天凤](https://s.weibo.com/weibo?q=%E8%94%A1%E5%A4%A9%E5%87%A4&t=31&band_rank=15&Refer=top) 337084
 1. [王源毕业季演唱会](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E6%AF%95%E4%B8%9A%E5%AD%A3%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=16&Refer=top) 335298
 1. [鹿晗牵小猫手](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E7%89%B5%E5%B0%8F%E7%8C%AB%E6%89%8B%23&t=31&band_rank=17&Refer=top) 323666
+1. [姐弟恋比例持续攀升](https://s.weibo.com/weibo?q=%23%E5%A7%90%E5%BC%9F%E6%81%8B%E6%AF%94%E4%BE%8B%E6%8C%81%E7%BB%AD%E6%94%80%E5%8D%87%23&t=31&band_rank=50&Refer=top) 276418
 1. [为什么新生儿一定要哭](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%96%B0%E7%94%9F%E5%84%BF%E4%B8%80%E5%AE%9A%E8%A6%81%E5%93%AD%23&t=31&band_rank=18&Refer=top) 262712
 1. [魏无羡的喷子](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E6%97%A0%E7%BE%A1%E7%9A%84%E5%96%B7%E5%AD%90%23&t=31&band_rank=19&Refer=top) 254691
 1. [什么都AI换脸只会害了你](https://s.weibo.com/weibo?q=%23%E4%BB%80%E4%B9%88%E9%83%BDAI%E6%8D%A2%E8%84%B8%E5%8F%AA%E4%BC%9A%E5%AE%B3%E4%BA%86%E4%BD%A0%23&t=31&band_rank=20&Refer=top) 249428
 1. [江苏一男子因赡养问题弑父杀母](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E4%B8%80%E7%94%B7%E5%AD%90%E5%9B%A0%E8%B5%A1%E5%85%BB%E9%97%AE%E9%A2%98%E5%BC%91%E7%88%B6%E6%9D%80%E6%AF%8D%23&t=31&band_rank=21&Refer=top) 248542
 1. [张杰谢娜是晴天夫妇](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E8%B0%A2%E5%A8%9C%E6%98%AF%E6%99%B4%E5%A4%A9%E5%A4%AB%E5%A6%87%23&t=31&band_rank=22&Refer=top) 247478
 1. [冰冰重做了吧](https://s.weibo.com/weibo?q=%23%E5%86%B0%E5%86%B0%E9%87%8D%E5%81%9A%E4%BA%86%E5%90%A7%23&t=31&band_rank=23&Refer=top) 246076
-1. [姐弟恋比例持续攀升](https://s.weibo.com/weibo?q=%23%E5%A7%90%E5%BC%9F%E6%81%8B%E6%AF%94%E4%BE%8B%E6%8C%81%E7%BB%AD%E6%94%80%E5%8D%87%23&t=31&band_rank=50&Refer=top) 229403
 1. [夏花](https://s.weibo.com/weibo?q=%E5%A4%8F%E8%8A%B1&t=31&band_rank=42&Refer=top) 224361
 1. [宋亚轩在角落里打哈欠](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E5%9C%A8%E8%A7%92%E8%90%BD%E9%87%8C%E6%89%93%E5%93%88%E6%AC%A0%23&t=31&band_rank=24&Refer=top) 214605
 1. [你会选择单休的工作吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%BC%9A%E9%80%89%E6%8B%A9%E5%8D%95%E4%BC%91%E7%9A%84%E5%B7%A5%E4%BD%9C%E5%90%97%23&t=31&band_rank=45&Refer=top) 208271
