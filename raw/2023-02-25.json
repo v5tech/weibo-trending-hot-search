@@ -195,6 +195,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%8B%97%E7%9C%9F%E7%9A%84%E5%BE%88%E6%BB%91%E7%A8%BD%23&t=31&band_rank=39&Refer=top",
     "hot": 112258
   },
+  "张杰小时候因为没钱没上音乐专业课": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E5%B0%8F%E6%97%B6%E5%80%99%E5%9B%A0%E4%B8%BA%E6%B2%A1%E9%92%B1%E6%B2%A1%E4%B8%8A%E9%9F%B3%E4%B9%90%E4%B8%93%E4%B8%9A%E8%AF%BE%23&t=31&band_rank=31&Refer=top",
+    "hot": 107432
+  },
   "女童玩瑜伽球致跑步机男子摔倒": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%AB%A5%E7%8E%A9%E7%91%9C%E4%BC%BD%E7%90%83%E8%87%B4%E8%B7%91%E6%AD%A5%E6%9C%BA%E7%94%B7%E5%AD%90%E6%91%94%E5%80%92%23&t=31&band_rank=40&Refer=top",
     "hot": 99004
@@ -227,10 +231,6 @@
     "url": "https://s.weibo.com/weibo?q=%2385%E5%B2%81%E8%80%81%E4%BA%BA%E6%83%B3%E5%A8%B660%E5%B2%81%E5%A5%B3%E5%8F%8B%E9%81%AD%E5%AD%90%E5%A5%B3%E5%8F%8D%E5%AF%B9%23&t=31&band_rank=47&Refer=top",
     "hot": 78932
   },
-  "张杰小时候因为没钱没上音乐专业课": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E5%B0%8F%E6%97%B6%E5%80%99%E5%9B%A0%E4%B8%BA%E6%B2%A1%E9%92%B1%E6%B2%A1%E4%B8%8A%E9%9F%B3%E4%B9%90%E4%B8%93%E4%B8%9A%E8%AF%BE%23&t=31&band_rank=31&Refer=top",
-    "hot": 77774
-  },
   "DK战胜KDF": {
     "url": "https://s.weibo.com/weibo?q=%23DK%E6%88%98%E8%83%9CKDF%23&t=31&band_rank=48&Refer=top",
     "hot": 76398
@@ -254,5 +254,9 @@
   "EXO将发行正规专辑": {
     "url": "https://s.weibo.com/weibo?q=%23EXO%E5%B0%86%E5%8F%91%E8%A1%8C%E6%AD%A3%E8%A7%84%E4%B8%93%E8%BE%91%23&t=31&band_rank=45&Refer=top",
     "hot": 35354
+  },
+  "猫急得都快说人话了": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%8C%AB%E6%80%A5%E5%BE%97%E9%83%BD%E5%BF%AB%E8%AF%B4%E4%BA%BA%E8%AF%9D%E4%BA%86%23&t=31&band_rank=49&Refer=top",
+    "hot": 30243
   }
 }
