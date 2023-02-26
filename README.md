@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-02-27 04:11:51.139699 
+最后更新时间 2023-02-27 04:26:43.965542 
 1. [普京说世界必须改变](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E8%AF%B4%E4%B8%96%E7%95%8C%E5%BF%85%E9%A1%BB%E6%94%B9%E5%8F%98%23&t=31&band_rank=11&Refer=top) 715445
 1. [甲流](https://s.weibo.com/weibo?q=%23%E7%94%B2%E6%B5%81%23&t=31&band_rank=1&Refer=top) 691960
 1. [切尔西](https://s.weibo.com/weibo?q=%E5%88%87%E5%B0%94%E8%A5%BF&t=31&band_rank=2&Refer=top) 650778
@@ -62,9 +62,9 @@
 1. [钝评我是小妖怪](https://s.weibo.com/weibo?q=%23%E9%92%9D%E8%AF%84%E6%88%91%E6%98%AF%E5%B0%8F%E5%A6%96%E6%80%AA%23&t=31&band_rank=19&Refer=top) 95576
 1. [网球王子作者坐上轮椅](https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%90%83%E7%8E%8B%E5%AD%90%E4%BD%9C%E8%80%85%E5%9D%90%E4%B8%8A%E8%BD%AE%E6%A4%85%23&t=31&band_rank=44&Refer=top) 94299
 1. [朱一龙晒印尼随拍](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E6%99%92%E5%8D%B0%E5%B0%BC%E9%9A%8F%E6%8B%8D%23&t=31&band_rank=45&Refer=top) 91489
+1. [丫丫除毛发脱落外多项指标正常](https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E9%99%A4%E6%AF%9B%E5%8F%91%E8%84%B1%E8%90%BD%E5%A4%96%E5%A4%9A%E9%A1%B9%E6%8C%87%E6%A0%87%E6%AD%A3%E5%B8%B8%23&t=31&band_rank=36&Refer=top) 86212
 1. [泰山站候车乘客集体呼呼大睡](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%B1%B1%E7%AB%99%E5%80%99%E8%BD%A6%E4%B9%98%E5%AE%A2%E9%9B%86%E4%BD%93%E5%91%BC%E5%91%BC%E5%A4%A7%E7%9D%A1%23&t=31&band_rank=46&Refer=top) 84106
 1. [ITZY中文版TrustMe](https://s.weibo.com/weibo?q=%23ITZY%E4%B8%AD%E6%96%87%E7%89%88TrustMe%23&t=31&band_rank=47&Refer=top) 81880
-1. [丫丫除毛发脱落外多项指标正常](https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E9%99%A4%E6%AF%9B%E5%8F%91%E8%84%B1%E8%90%BD%E5%A4%96%E5%A4%9A%E9%A1%B9%E6%8C%87%E6%A0%87%E6%AD%A3%E5%B8%B8%23&t=31&band_rank=36&Refer=top) 79584
 1. [蔡徐坤爵士乐队版情人](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E7%88%B5%E5%A3%AB%E4%B9%90%E9%98%9F%E7%89%88%E6%83%85%E4%BA%BA%23&t=31&band_rank=32&Refer=top) 72929
 1. [福宝和爷爷](https://s.weibo.com/weibo?q=%E7%A6%8F%E5%AE%9D%E5%92%8C%E7%88%B7%E7%88%B7&t=31&band_rank=48&Refer=top) 71865
 1. [宁至谦阮流筝接吻被撞到](https://s.weibo.com/weibo?q=%23%E5%AE%81%E8%87%B3%E8%B0%A6%E9%98%AE%E6%B5%81%E7%AD%9D%E6%8E%A5%E5%90%BB%E8%A2%AB%E6%92%9E%E5%88%B0%23&t=31&band_rank=43&Refer=top) 71122
@@ -74,7 +74,8 @@
 1. [碎尸案风波中的谭仔国际](https://s.weibo.com/weibo?q=%E7%A2%8E%E5%B0%B8%E6%A1%88%E9%A3%8E%E6%B3%A2%E4%B8%AD%E7%9A%84%E8%B0%AD%E4%BB%94%E5%9B%BD%E9%99%85&t=31&band_rank=49&Refer=top) 45523
 1. [没有情为夜昙掏空钱包](https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%9C%89%E6%83%85%E4%B8%BA%E5%A4%9C%E6%98%99%E6%8E%8F%E7%A9%BA%E9%92%B1%E5%8C%85%23&t=31&band_rank=50&Refer=top) 22521
 1. [特朗普称破坏北溪的不是俄罗斯](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%A0%B4%E5%9D%8F%E5%8C%97%E6%BA%AA%E7%9A%84%E4%B8%8D%E6%98%AF%E4%BF%84%E7%BD%97%E6%96%AF%23&t=31&band_rank=31&Refer=top) 20263
-1. [男子吃完饭发现车被新装护栏挡住](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%90%83%E5%AE%8C%E9%A5%AD%E5%8F%91%E7%8E%B0%E8%BD%A6%E8%A2%AB%E6%96%B0%E8%A3%85%E6%8A%A4%E6%A0%8F%E6%8C%A1%E4%BD%8F%23&t=31&band_rank=48&Refer=top) 11921
+1. [男子吃完饭发现车被新装护栏挡住](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%90%83%E5%AE%8C%E9%A5%AD%E5%8F%91%E7%8E%B0%E8%BD%A6%E8%A2%AB%E6%96%B0%E8%A3%85%E6%8A%A4%E6%A0%8F%E6%8C%A1%E4%BD%8F%23&t=31&band_rank=48&Refer=top) 17032
+1. [被一只小狗碰瓷了](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E4%B8%80%E5%8F%AA%E5%B0%8F%E7%8B%97%E7%A2%B0%E7%93%B7%E4%BA%86%23&t=31&band_rank=48&Refer=top) 12469
 <!-- END -->
 
 历史归档 [./archives](./archives)
