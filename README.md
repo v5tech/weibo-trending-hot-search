@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-02-28 02:49:17.308154 
+最后更新时间 2023-02-28 03:09:40.293518 
 1. [厉以宁逝世](https://s.weibo.com/weibo?q=%23%E5%8E%89%E4%BB%A5%E5%AE%81%E9%80%9D%E4%B8%96%23&t=31&band_rank=1&Refer=top) 1059936
 1. [建议常见病不要去三级医院](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%B8%B8%E8%A7%81%E7%97%85%E4%B8%8D%E8%A6%81%E5%8E%BB%E4%B8%89%E7%BA%A7%E5%8C%BB%E9%99%A2%23&t=31&band_rank=2&Refer=top) 762353
 1. [苏小玎已经不会高启盛舞步了](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E5%B0%8F%E7%8E%8E%E5%B7%B2%E7%BB%8F%E4%B8%8D%E4%BC%9A%E9%AB%98%E5%90%AF%E7%9B%9B%E8%88%9E%E6%AD%A5%E4%BA%86%23&t=31&band_rank=14&Refer=top) 759551
