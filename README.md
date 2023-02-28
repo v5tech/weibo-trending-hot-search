@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-03-01 01:37:51.110524 
+最后更新时间 2023-03-01 01:49:08.083428 
 1. [成都震感](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E9%9C%87%E6%84%9F%23&t=31&band_rank=1&Refer=top) 2345573
 1. [泸定地震](https://s.weibo.com/weibo?q=%23%E6%B3%B8%E5%AE%9A%E5%9C%B0%E9%9C%87%23&t=31&band_rank=2&Refer=top) 2072892
 1. [乡村振兴美好图景](https://s.weibo.com/weibo?q=%23%E4%B9%A1%E6%9D%91%E6%8C%AF%E5%85%B4%E7%BE%8E%E5%A5%BD%E5%9B%BE%E6%99%AF%23&t=31&band_rank=3&Refer=top) 1946998
@@ -39,9 +39,9 @@
 1. [一条plog告别二月](https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%9D%A1plog%E5%91%8A%E5%88%AB%E4%BA%8C%E6%9C%88%23&t=31&band_rank=22&Refer=top) 197005
 1. [夏花大结局](https://s.weibo.com/weibo?q=%23%E5%A4%8F%E8%8A%B1%E5%A4%A7%E7%BB%93%E5%B1%80%23&t=31&band_rank=29&Refer=top) 195778
 1. [刘雨昕巴黎vlog](https://s.weibo.com/weibo?q=%23%E5%88%98%E9%9B%A8%E6%98%95%E5%B7%B4%E9%BB%8Evlog%23&t=31&band_rank=23&Refer=top) 191122
+1. [售价近40元的绘本](https://s.weibo.com/weibo?q=%23%E5%94%AE%E4%BB%B7%E8%BF%9140%E5%85%83%E7%9A%84%E7%BB%98%E6%9C%AC%23&t=31&band_rank=30&Refer=top) 186644
 1. [流浪地球2成2月票房冠军](https://s.weibo.com/weibo?q=%23%E6%B5%81%E6%B5%AA%E5%9C%B0%E7%90%832%E6%88%902%E6%9C%88%E7%A5%A8%E6%88%BF%E5%86%A0%E5%86%9B%23&t=31&band_rank=30&Refer=top) 184182
 1. [女子因烤苕皮太难吃送回给老板](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9B%A0%E7%83%A4%E8%8B%95%E7%9A%AE%E5%A4%AA%E9%9A%BE%E5%90%83%E9%80%81%E5%9B%9E%E7%BB%99%E8%80%81%E6%9D%BF%23&t=31&band_rank=31&Refer=top) 182816
-1. [售价近40元的绘本](https://s.weibo.com/weibo?q=%23%E5%94%AE%E4%BB%B7%E8%BF%9140%E5%85%83%E7%9A%84%E7%BB%98%E6%9C%AC%23&t=31&band_rank=30&Refer=top) 179724
 1. [山姆回应顾客买到1天后上市的鸡爪](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E5%A7%86%E5%9B%9E%E5%BA%94%E9%A1%BE%E5%AE%A2%E4%B9%B0%E5%88%B01%E5%A4%A9%E5%90%8E%E4%B8%8A%E5%B8%82%E7%9A%84%E9%B8%A1%E7%88%AA%23&t=31&band_rank=32&Refer=top) 175356
 1. [王源胡子](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E8%83%A1%E5%AD%90%23&t=31&band_rank=33&Refer=top) 172202
 1. [余生请多指教](https://s.weibo.com/weibo?q=%E4%BD%99%E7%94%9F%E8%AF%B7%E5%A4%9A%E6%8C%87%E6%95%99&t=31&band_rank=34&Refer=top) 167796
