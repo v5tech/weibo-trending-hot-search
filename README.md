@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-03-01 02:14:46.858827 
+最后更新时间 2023-03-01 02:34:03.394726 
 1. [成都震感](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E9%9C%87%E6%84%9F%23&t=31&band_rank=1&Refer=top) 2345573
 1. [泸定地震](https://s.weibo.com/weibo?q=%23%E6%B3%B8%E5%AE%9A%E5%9C%B0%E9%9C%87%23&t=31&band_rank=2&Refer=top) 2072892
 1. [乡村振兴美好图景](https://s.weibo.com/weibo?q=%23%E4%B9%A1%E6%9D%91%E6%8C%AF%E5%85%B4%E7%BE%8E%E5%A5%BD%E5%9B%BE%E6%99%AF%23&t=31&band_rank=3&Refer=top) 1946998
@@ -64,11 +64,12 @@
 1. [教育局回应学校要求学生必须缴医保](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E5%AD%A6%E6%A0%A1%E8%A6%81%E6%B1%82%E5%AD%A6%E7%94%9F%E5%BF%85%E9%A1%BB%E7%BC%B4%E5%8C%BB%E4%BF%9D%23&t=31&band_rank=49&Refer=top) 95731
 1. [女子路边买2碗麻辣烫花费175元](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%B7%AF%E8%BE%B9%E4%B9%B02%E7%A2%97%E9%BA%BB%E8%BE%A3%E7%83%AB%E8%8A%B1%E8%B4%B9175%E5%85%83%23&t=31&band_rank=50&Refer=top) 94349
 1. [周刊君带你看两会](https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%88%8A%E5%90%9B%E5%B8%A6%E4%BD%A0%E7%9C%8B%E4%B8%A4%E4%BC%9A%23&t=31&band_rank=45&Refer=top) 89847
+1. [炒面涨到2元老板娘觉得不好意思](https://s.weibo.com/weibo?q=%23%E7%82%92%E9%9D%A2%E6%B6%A8%E5%88%B02%E5%85%83%E8%80%81%E6%9D%BF%E5%A8%98%E8%A7%89%E5%BE%97%E4%B8%8D%E5%A5%BD%E6%84%8F%E6%80%9D%23&t=31&band_rank=49&Refer=top) 70052
 1. [张峻豪说提前透露一些创意](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B3%BB%E8%B1%AA%E8%AF%B4%E6%8F%90%E5%89%8D%E9%80%8F%E9%9C%B2%E4%B8%80%E4%BA%9B%E5%88%9B%E6%84%8F%23&t=31&band_rank=34&Refer=top) 63465
 1. [这楼梯怎么还会捉迷藏呢](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%A5%BC%E6%A2%AF%E6%80%8E%E4%B9%88%E8%BF%98%E4%BC%9A%E6%8D%89%E8%BF%B7%E8%97%8F%E5%91%A2%23&t=31&band_rank=48&Refer=top) 38156
 1. [章子怡晒巴黎时装周随拍](https://s.weibo.com/weibo?q=%23%E7%AB%A0%E5%AD%90%E6%80%A1%E6%99%92%E5%B7%B4%E9%BB%8E%E6%97%B6%E8%A3%85%E5%91%A8%E9%9A%8F%E6%8B%8D%23&t=31&band_rank=50&Refer=top) 33839
-1. [炒面涨到2元老板娘觉得不好意思](https://s.weibo.com/weibo?q=%23%E7%82%92%E9%9D%A2%E6%B6%A8%E5%88%B02%E5%85%83%E8%80%81%E6%9D%BF%E5%A8%98%E8%A7%89%E5%BE%97%E4%B8%8D%E5%A5%BD%E6%84%8F%E6%80%9D%23&t=31&band_rank=49&Refer=top) 25505
 1. [四川泸定发生4.8级地震](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E6%B3%B8%E5%AE%9A%E5%8F%91%E7%94%9F4.8%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=50&Refer=top) 25397
+1. [毛宁称美国未免太不自信](https://s.weibo.com/weibo?q=%23%E6%AF%9B%E5%AE%81%E7%A7%B0%E7%BE%8E%E5%9B%BD%E6%9C%AA%E5%85%8D%E5%A4%AA%E4%B8%8D%E8%87%AA%E4%BF%A1%23&t=31&band_rank=48&Refer=top) 24992
 <!-- END -->
 
 历史归档 [./archives](./archives)
