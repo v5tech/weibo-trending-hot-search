@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-03-03 03:48:58.214254 
+最后更新时间 2023-03-03 04:13:10.589970 
 1. [在双亲的遗物中发现自己的领养证](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E5%8F%8C%E4%BA%B2%E7%9A%84%E9%81%97%E7%89%A9%E4%B8%AD%E5%8F%91%E7%8E%B0%E8%87%AA%E5%B7%B1%E7%9A%84%E9%A2%86%E5%85%BB%E8%AF%81%23&t=31&band_rank=12&Refer=top) 933341
 1. [胡金秋](https://s.weibo.com/weibo?q=%E8%83%A1%E9%87%91%E7%A7%8B&t=31&band_rank=1&Refer=top) 657191
 1. [太阳的后裔KBS50周年最佳电视剧](https://s.weibo.com/weibo?q=%23%E5%A4%AA%E9%98%B3%E7%9A%84%E5%90%8E%E8%A3%94KBS50%E5%91%A8%E5%B9%B4%E6%9C%80%E4%BD%B3%E7%94%B5%E8%A7%86%E5%89%A7%23&t=31&band_rank=2&Refer=top) 624789
@@ -66,6 +66,8 @@
 1. [朱一龙印尼碎片随拍](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E5%8D%B0%E5%B0%BC%E7%A2%8E%E7%89%87%E9%9A%8F%E6%8B%8D%23&t=31&band_rank=47&Refer=top) 33166
 1. [2023的她们](https://s.weibo.com/weibo?q=2023%E7%9A%84%E5%A5%B9%E4%BB%AC&t=31&band_rank=50&Refer=top) 26862
 1. [光渊](https://s.weibo.com/weibo?q=%23%E5%85%89%E6%B8%8A%23&t=31&band_rank=46&Refer=top) 20878
+1. [建议学前教育纳入义务教育](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%AD%A6%E5%89%8D%E6%95%99%E8%82%B2%E7%BA%B3%E5%85%A5%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%23&t=31&band_rank=36&Refer=top) 15654
+1. [大学每月生活费多少才够用](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E6%AF%8F%E6%9C%88%E7%94%9F%E6%B4%BB%E8%B4%B9%E5%A4%9A%E5%B0%91%E6%89%8D%E5%A4%9F%E7%94%A8%23&t=31&band_rank=49&Refer=top) 11527
 <!-- END -->
 
 历史归档 [./archives](./archives)
