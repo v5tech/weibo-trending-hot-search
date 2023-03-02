@@ -41,7 +41,7 @@
   },
   "进击的巨人": {
     "url": "https://s.weibo.com/weibo?q=%E8%BF%9B%E5%87%BB%E7%9A%84%E5%B7%A8%E4%BA%BA&t=31&band_rank=6&Refer=top",
-    "hot": 315982
+    "hot": 338889
   },
   "见过最离谱的夜市价格": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%A7%81%E8%BF%87%E6%9C%80%E7%A6%BB%E8%B0%B1%E7%9A%84%E5%A4%9C%E5%B8%82%E4%BB%B7%E6%A0%BC%23&t=31&band_rank=9&Refer=top",
@@ -127,6 +127,10 @@
     "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E5%AD%90%E6%B5%A929%E5%90%8D&t=31&band_rank=31&Refer=top",
     "hot": 155111
   },
+  "王嘉尔和好友见面视频": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E5%92%8C%E5%A5%BD%E5%8F%8B%E8%A7%81%E9%9D%A2%E8%A7%86%E9%A2%91%23&t=31&band_rank=31&Refer=top",
+    "hot": 153965
+  },
   "学霸寝室不泡图书馆全员保研名校": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%AD%A6%E9%9C%B8%E5%AF%9D%E5%AE%A4%E4%B8%8D%E6%B3%A1%E5%9B%BE%E4%B9%A6%E9%A6%86%E5%85%A8%E5%91%98%E4%BF%9D%E7%A0%94%E5%90%8D%E6%A0%A1%23&t=31&band_rank=32&Refer=top",
     "hot": 152517
@@ -134,6 +138,10 @@
   "刘涛直播唱乌梅子酱": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E6%B6%9B%E7%9B%B4%E6%92%AD%E5%94%B1%E4%B9%8C%E6%A2%85%E5%AD%90%E9%85%B1%23&t=31&band_rank=33&Refer=top",
     "hot": 148082
+  },
+  "B站称三体动画引中国式科幻热潮": {
+    "url": "https://s.weibo.com/weibo?q=%23B%E7%AB%99%E7%A7%B0%E4%B8%89%E4%BD%93%E5%8A%A8%E7%94%BB%E5%BC%95%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%A7%91%E5%B9%BB%E7%83%AD%E6%BD%AE%23&t=31&band_rank=50&Refer=top",
+    "hot": 147175
   },
   "警惕求稳躺平心态蔓延": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%83%95%E6%B1%82%E7%A8%B3%E8%BA%BA%E5%B9%B3%E5%BF%83%E6%80%81%E8%94%93%E5%BB%B6%23&t=31&band_rank=34&Refer=top",
@@ -179,10 +187,6 @@
     "url": "https://s.weibo.com/weibo?q=%E7%83%BD%E7%81%AB%E6%B5%81%E9%87%91%20%E7%A9%BA%E9%99%8D&t=31&band_rank=44&Refer=top",
     "hot": 98223
   },
-  "王嘉尔和好友见面视频": {
-    "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E5%92%8C%E5%A5%BD%E5%8F%8B%E8%A7%81%E9%9D%A2%E8%A7%86%E9%A2%91%23&t=31&band_rank=31&Refer=top",
-    "hot": 97619
-  },
   "建议将1000万元作为遗产税起征点": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%B0%861000%E4%B8%87%E5%85%83%E4%BD%9C%E4%B8%BA%E9%81%97%E4%BA%A7%E7%A8%8E%E8%B5%B7%E5%BE%81%E7%82%B9%23&t=31&band_rank=45&Refer=top",
     "hot": 97618
@@ -206,9 +210,5 @@
   "金星合木星": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E6%98%9F%E5%90%88%E6%9C%A8%E6%98%9F%23&t=31&band_rank=50&Refer=top",
     "hot": 86763
-  },
-  "B站称三体动画引中国式科幻热潮": {
-    "url": "https://s.weibo.com/weibo?q=%23B%E7%AB%99%E7%A7%B0%E4%B8%89%E4%BD%93%E5%8A%A8%E7%94%BB%E5%BC%95%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%A7%91%E5%B9%BB%E7%83%AD%E6%BD%AE%23&t=31&band_rank=50&Refer=top",
-    "hot": 47387
   }
 }
