@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-03-06 01:25:28.485202 
+最后更新时间 2023-03-06 01:34:17.561073 
 1. [东北饭包](https://s.weibo.com/weibo?q=%E4%B8%9C%E5%8C%97%E9%A5%AD%E5%8C%85&t=31&band_rank=2&Refer=top) 829999
 1. [专家呼吁每天省杯咖啡提前规划养老](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E5%91%BC%E5%90%81%E6%AF%8F%E5%A4%A9%E7%9C%81%E6%9D%AF%E5%92%96%E5%95%A1%E6%8F%90%E5%89%8D%E8%A7%84%E5%88%92%E5%85%BB%E8%80%81%23&t=31&band_rank=1&Refer=top) 709364
 1. [政府工作报告里的民生红包](https://s.weibo.com/weibo?q=%23%E6%94%BF%E5%BA%9C%E5%B7%A5%E4%BD%9C%E6%8A%A5%E5%91%8A%E9%87%8C%E7%9A%84%E6%B0%91%E7%94%9F%E7%BA%A2%E5%8C%85%23&t=31&band_rank=3&Refer=top) 449508
