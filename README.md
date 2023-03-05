@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-03-06 02:30:34.325392 
+最后更新时间 2023-03-06 02:48:59.328048 
 1. [东北饭包](https://s.weibo.com/weibo?q=%E4%B8%9C%E5%8C%97%E9%A5%AD%E5%8C%85&t=31&band_rank=2&Refer=top) 829999
 1. [专家呼吁每天省杯咖啡提前规划养老](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E5%91%BC%E5%90%81%E6%AF%8F%E5%A4%A9%E7%9C%81%E6%9D%AF%E5%92%96%E5%95%A1%E6%8F%90%E5%89%8D%E8%A7%84%E5%88%92%E5%85%BB%E8%80%81%23&t=31&band_rank=1&Refer=top) 709364
 1. [政府工作报告里的民生红包](https://s.weibo.com/weibo?q=%23%E6%94%BF%E5%BA%9C%E5%B7%A5%E4%BD%9C%E6%8A%A5%E5%91%8A%E9%87%8C%E7%9A%84%E6%B0%91%E7%94%9F%E7%BA%A2%E5%8C%85%23&t=31&band_rank=3&Refer=top) 449508
@@ -26,14 +26,14 @@
 1. [宁艺卓转身名场面](https://s.weibo.com/weibo?q=%23%E5%AE%81%E8%89%BA%E5%8D%93%E8%BD%AC%E8%BA%AB%E5%90%8D%E5%9C%BA%E9%9D%A2%23&t=31&band_rank=15&Refer=top) 189472
 1. [王一博读雷锋日记](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%AF%BB%E9%9B%B7%E9%94%8B%E6%97%A5%E8%AE%B0%23&t=31&band_rank=16&Refer=top) 189174
 1. [女子称摸UGG靴子被要求买下](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%B0%E6%91%B8UGG%E9%9D%B4%E5%AD%90%E8%A2%AB%E8%A6%81%E6%B1%82%E4%B9%B0%E4%B8%8B%23&t=31&band_rank=17&Refer=top) 188852
+1. [英超双红会](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E8%B6%85%E5%8F%8C%E7%BA%A2%E4%BC%9A%23&t=31&band_rank=43&Refer=top) 182371
 1. [宋茜舞台](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%8C%9C%E8%88%9E%E5%8F%B0%23&t=31&band_rank=18&Refer=top) 156451
-1. [英超双红会](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E8%B6%85%E5%8F%8C%E7%BA%A2%E4%BC%9A%23&t=31&band_rank=43&Refer=top) 150705
+1. [震后松毛虫大规模入侵土耳其](https://s.weibo.com/weibo?q=%23%E9%9C%87%E5%90%8E%E6%9D%BE%E6%AF%9B%E8%99%AB%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%85%A5%E4%BE%B5%E5%9C%9F%E8%80%B3%E5%85%B6%23&t=31&band_rank=32&Refer=top) 154232
 1. [75岁老人中风好友发现步数为0报警](https://s.weibo.com/weibo?q=%2375%E5%B2%81%E8%80%81%E4%BA%BA%E4%B8%AD%E9%A3%8E%E5%A5%BD%E5%8F%8B%E5%8F%91%E7%8E%B0%E6%AD%A5%E6%95%B0%E4%B8%BA0%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=19&Refer=top) 149580
 1. [男子高烧近41度体温计贴脸狂飙](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%AB%98%E7%83%A7%E8%BF%9141%E5%BA%A6%E4%BD%93%E6%B8%A9%E8%AE%A1%E8%B4%B4%E8%84%B8%E7%8B%82%E9%A3%99%23&t=31&band_rank=20&Refer=top) 148945
 1. [B站](https://s.weibo.com/weibo?q=B%E7%AB%99&t=31&band_rank=21&Refer=top) 148285
 1. [梦回爸爸去哪儿](https://s.weibo.com/weibo?q=%E6%A2%A6%E5%9B%9E%E7%88%B8%E7%88%B8%E5%8E%BB%E5%93%AA%E5%84%BF&t=31&band_rank=22&Refer=top) 147791
 1. [周一没有不疯的打工人](https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%B8%80%E6%B2%A1%E6%9C%89%E4%B8%8D%E7%96%AF%E7%9A%84%E6%89%93%E5%B7%A5%E4%BA%BA%23&t=31&band_rank=23&Refer=top) 147335
-1. [震后松毛虫大规模入侵土耳其](https://s.weibo.com/weibo?q=%23%E9%9C%87%E5%90%8E%E6%9D%BE%E6%AF%9B%E8%99%AB%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%85%A5%E4%BE%B5%E5%9C%9F%E8%80%B3%E5%85%B6%23&t=31&band_rank=32&Refer=top) 146454
 1. [甲流](https://s.weibo.com/weibo?q=%E7%94%B2%E6%B5%81&t=31&band_rank=24&Refer=top) 146279
 1. [男子用自来水洗脸感染食脑虫死亡](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%94%A8%E8%87%AA%E6%9D%A5%E6%B0%B4%E6%B4%97%E8%84%B8%E6%84%9F%E6%9F%93%E9%A3%9F%E8%84%91%E8%99%AB%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=25&Refer=top) 145816
 1. [罕见无毛兔询价5万主人不卖](https://s.weibo.com/weibo?q=%23%E7%BD%95%E8%A7%81%E6%97%A0%E6%AF%9B%E5%85%94%E8%AF%A2%E4%BB%B75%E4%B8%87%E4%B8%BB%E4%BA%BA%E4%B8%8D%E5%8D%96%23&t=31&band_rank=26&Refer=top) 145441
