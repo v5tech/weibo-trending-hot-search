@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-03-06 01:34:17.561073 
+最后更新时间 2023-03-06 01:49:04.215594 
 1. [东北饭包](https://s.weibo.com/weibo?q=%E4%B8%9C%E5%8C%97%E9%A5%AD%E5%8C%85&t=31&band_rank=2&Refer=top) 829999
 1. [专家呼吁每天省杯咖啡提前规划养老](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E5%91%BC%E5%90%81%E6%AF%8F%E5%A4%A9%E7%9C%81%E6%9D%AF%E5%92%96%E5%95%A1%E6%8F%90%E5%89%8D%E8%A7%84%E5%88%92%E5%85%BB%E8%80%81%23&t=31&band_rank=1&Refer=top) 709364
 1. [政府工作报告里的民生红包](https://s.weibo.com/weibo?q=%23%E6%94%BF%E5%BA%9C%E5%B7%A5%E4%BD%9C%E6%8A%A5%E5%91%8A%E9%87%8C%E7%9A%84%E6%B0%91%E7%94%9F%E7%BA%A2%E5%8C%85%23&t=31&band_rank=3&Refer=top) 449508
@@ -59,6 +59,7 @@
 1. [梁靖崑夺冠](https://s.weibo.com/weibo?q=%23%E6%A2%81%E9%9D%96%E5%B4%91%E5%A4%BA%E5%86%A0%23&t=31&band_rank=48&Refer=top) 75265
 1. [杨天真说事业心是女性的强心剂](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%A4%A9%E7%9C%9F%E8%AF%B4%E4%BA%8B%E4%B8%9A%E5%BF%83%E6%98%AF%E5%A5%B3%E6%80%A7%E7%9A%84%E5%BC%BA%E5%BF%83%E5%89%82%23&t=31&band_rank=49&Refer=top) 73178
 1. [陈卓璇唱支山歌给党听](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%8D%93%E7%92%87%E5%94%B1%E6%94%AF%E5%B1%B1%E6%AD%8C%E7%BB%99%E5%85%9A%E5%90%AC%23&t=31&band_rank=44&Refer=top) 71140
+1. [震后松毛虫大规模入侵土耳其](https://s.weibo.com/weibo?q=%23%E9%9C%87%E5%90%8E%E6%9D%BE%E6%AF%9B%E8%99%AB%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%85%A5%E4%BE%B5%E5%9C%9F%E8%80%B3%E5%85%B6%23&t=31&band_rank=32&Refer=top) 41311
 1. [两会](https://s.weibo.com/weibo?q=%23%E4%B8%A4%E4%BC%9A%23&t=31&band_rank=49&Refer=top) 34771
 <!-- END -->
 
