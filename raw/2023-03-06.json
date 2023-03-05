@@ -173,7 +173,7 @@
   },
   "英超双红会": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E8%B6%85%E5%8F%8C%E7%BA%A2%E4%BC%9A%23&t=31&band_rank=43&Refer=top",
-    "hot": 86715
+    "hot": 87085
   },
   "一等绯闻大结局": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%AD%89%E7%BB%AF%E9%97%BB%E5%A4%A7%E7%BB%93%E5%B1%80%23&t=31&band_rank=44&Refer=top",
@@ -202,5 +202,9 @@
   "陈卓璇唱支山歌给党听": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E5%8D%93%E7%92%87%E5%94%B1%E6%94%AF%E5%B1%B1%E6%AD%8C%E7%BB%99%E5%85%9A%E5%90%AC%23&t=31&band_rank=44&Refer=top",
     "hot": 71140
+  },
+  "两会": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%A4%E4%BC%9A%23&t=31&band_rank=49&Refer=top",
+    "hot": 34771
   }
 }
