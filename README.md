@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-03-10 01:28:15.455675 
+最后更新时间 2023-03-10 01:38:24.100735 
 1. [成都打雷](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E6%89%93%E9%9B%B7%23&t=31&band_rank=1&Refer=top) 2389984
 1. [国家线](https://s.weibo.com/weibo?q=%E5%9B%BD%E5%AE%B6%E7%BA%BF&t=31&band_rank=2&Refer=top) 556296
 1. [两会热议高质量发展](https://s.weibo.com/weibo?q=%23%E4%B8%A4%E4%BC%9A%E7%83%AD%E8%AE%AE%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%23&t=31&band_rank=3&Refer=top) 553374
@@ -49,7 +49,7 @@
 1. [EDG ban黑叔叔吧](https://s.weibo.com/weibo?q=EDG%20ban%E9%BB%91%E5%8F%94%E5%8F%94%E5%90%A7&t=31&band_rank=38&Refer=top) 101014
 1. [章昊搞事业](https://s.weibo.com/weibo?q=%23%E7%AB%A0%E6%98%8A%E6%90%9E%E4%BA%8B%E4%B8%9A%23&t=31&band_rank=39&Refer=top) 100862
 1. [关晓彤喝咸豆浆](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E5%96%9D%E5%92%B8%E8%B1%86%E6%B5%86%23&t=31&band_rank=40&Refer=top) 100209
-1. [粥式奶茶](https://s.weibo.com/weibo?q=%E7%B2%A5%E5%BC%8F%E5%A5%B6%E8%8C%B6&t=31&band_rank=44&Refer=top) 92098
+1. [粥式奶茶](https://s.weibo.com/weibo?q=%E7%B2%A5%E5%BC%8F%E5%A5%B6%E8%8C%B6&t=31&band_rank=44&Refer=top) 93786
 1. [创可贴妆](https://s.weibo.com/weibo?q=%E5%88%9B%E5%8F%AF%E8%B4%B4%E5%A6%86&t=31&band_rank=41&Refer=top) 91617
 1. [陈楚生再见07比赛吉他](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A5%9A%E7%94%9F%E5%86%8D%E8%A7%8107%E6%AF%94%E8%B5%9B%E5%90%89%E4%BB%96%23&t=31&band_rank=42&Refer=top) 90115
 1. [刘亦菲与路人合影](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E4%B8%8E%E8%B7%AF%E4%BA%BA%E5%90%88%E5%BD%B1%23&t=31&band_rank=43&Refer=top) 87736
