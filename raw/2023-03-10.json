@@ -95,6 +95,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E7%94%98%E6%9C%9B%E6%98%9F%E5%8F%A4%E8%A3%85%23&t=31&band_rank=24&Refer=top",
     "hot": 142355
   },
+  "TCL客服回应电视夜间突然大声预警": {
+    "url": "https://s.weibo.com/weibo?q=%23TCL%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E7%94%B5%E8%A7%86%E5%A4%9C%E9%97%B4%E7%AA%81%E7%84%B6%E5%A4%A7%E5%A3%B0%E9%A2%84%E8%AD%A6%23&t=31&band_rank=48&Refer=top",
+    "hot": 141337
+  },
   "兄弟俩辞职回家种地年营收1亿": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%85%84%E5%BC%9F%E4%BF%A9%E8%BE%9E%E8%81%8C%E5%9B%9E%E5%AE%B6%E7%A7%8D%E5%9C%B0%E5%B9%B4%E8%90%A5%E6%94%B61%E4%BA%BF%23&t=31&band_rank=25&Refer=top",
     "hot": 139256
@@ -187,10 +191,6 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E5%90%8D%E5%93%81%E8%90%BD%E6%B3%AA%23&t=31&band_rank=47&Refer=top",
     "hot": 71651
   },
-  "TCL客服回应电视夜间突然大声预警": {
-    "url": "https://s.weibo.com/weibo?q=%23TCL%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E7%94%B5%E8%A7%86%E5%A4%9C%E9%97%B4%E7%AA%81%E7%84%B6%E5%A4%A7%E5%A3%B0%E9%A2%84%E8%AD%A6%23&t=31&band_rank=48&Refer=top",
-    "hot": 62909
-  },
   "同曦男篮vs广厦男篮": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%90%8C%E6%9B%A6%E7%94%B7%E7%AF%AEvs%E5%B9%BF%E5%8E%A6%E7%94%B7%E7%AF%AE%23&t=31&band_rank=49&Refer=top",
     "hot": 62383
@@ -198,5 +198,9 @@
   "迪丽热巴说公诉精英台词挑战大": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%AF%B4%E5%85%AC%E8%AF%89%E7%B2%BE%E8%8B%B1%E5%8F%B0%E8%AF%8D%E6%8C%91%E6%88%98%E5%A4%A7%23&t=31&band_rank=50&Refer=top",
     "hot": 61025
+  },
+  "青葵替夜昙圆梦": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%9D%92%E8%91%B5%E6%9B%BF%E5%A4%9C%E6%98%99%E5%9C%86%E6%A2%A6%23&t=31&band_rank=50&Refer=top",
+    "hot": 57866
   }
 }
