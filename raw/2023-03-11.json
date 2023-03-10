@@ -211,6 +211,10 @@
     "url": "https://s.weibo.com/weibo?q=%E6%98%9F%E8%90%BD%E5%87%9D%E6%88%90%E7%B3%96%20HE&t=31&band_rank=49&Refer=top",
     "hot": 106546
   },
+  "心想事成": {
+    "url": "https://s.weibo.com/weibo?q=%E5%BF%83%E6%83%B3%E4%BA%8B%E6%88%90&t=31&band_rank=10&Refer=top",
+    "hot": 75581
+  },
   "保你平安": {
     "url": "https://s.weibo.com/weibo?q=%E4%BF%9D%E4%BD%A0%E5%B9%B3%E5%AE%89&t=31&band_rank=50&Refer=top",
     "hot": 45629
@@ -221,6 +225,6 @@
   },
   "淄博烧烤节": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%B7%84%E5%8D%9A%E7%83%A7%E7%83%A4%E8%8A%82%23&t=31&band_rank=41&Refer=top",
-    "hot": 18961
+    "hot": 19563
   }
 }
