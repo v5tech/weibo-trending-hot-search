@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-03-12 02:12:48.646240 
+最后更新时间 2023-03-12 02:29:08.023685 
 1. [美团称没有存款在硅谷银行](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%A2%E7%A7%B0%E6%B2%A1%E6%9C%89%E5%AD%98%E6%AC%BE%E5%9C%A8%E7%A1%85%E8%B0%B7%E9%93%B6%E8%A1%8C%23&t=31&band_rank=6&Refer=top) 733382
 1. [真的好想有个广西的朋友啊](https://s.weibo.com/weibo?q=%23%E7%9C%9F%E7%9A%84%E5%A5%BD%E6%83%B3%E6%9C%89%E4%B8%AA%E5%B9%BF%E8%A5%BF%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%95%8A%23&t=31&band_rank=1&Refer=top) 642024
 1. [二十六七岁多么美好的年纪](https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%85%AD%E4%B8%83%E5%B2%81%E5%A4%9A%E4%B9%88%E7%BE%8E%E5%A5%BD%E7%9A%84%E5%B9%B4%E7%BA%AA%23&t=31&band_rank=2&Refer=top) 532513
