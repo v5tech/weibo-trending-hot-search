@@ -211,6 +211,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%AD%8C%E7%BB%88%E4%BA%8E%E6%9C%89%E4%B8%AA%E5%90%88%E7%90%86%E7%9A%84%E5%87%BA%E5%A4%84%E4%BA%86%23&t=31&band_rank=48&Refer=top",
     "hot": 59515
   },
+  "硅谷银行倒闭": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%A1%85%E8%B0%B7%E9%93%B6%E8%A1%8C%E5%80%92%E9%97%AD%23&t=31&band_rank=38&Refer=top",
+    "hot": 35236
+  },
   "全圆佑跳Attention": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9C%86%E4%BD%91%E8%B7%B3Attention%23&t=31&band_rank=49&Refer=top",
     "hot": 32646
@@ -218,5 +222,9 @@
   "浦发硅谷银行公告": {
     "url": "https://s.weibo.com/weibo?q=%E6%B5%A6%E5%8F%91%E7%A1%85%E8%B0%B7%E9%93%B6%E8%A1%8C%E5%85%AC%E5%91%8A&t=31&band_rank=50&Refer=top",
     "hot": 32641
+  },
+  "TTG战胜LGD": {
+    "url": "https://s.weibo.com/weibo?q=%23TTG%E6%88%98%E8%83%9CLGD%23&t=31&band_rank=46&Refer=top",
+    "hot": 30898
   }
 }
