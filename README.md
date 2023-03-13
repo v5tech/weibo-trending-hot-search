@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-03-14 02:48:55.757570 
+最后更新时间 2023-03-14 03:09:19.699253 
 1. [不吃主食或造成大脑功能衰退](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%90%83%E4%B8%BB%E9%A3%9F%E6%88%96%E9%80%A0%E6%88%90%E5%A4%A7%E8%84%91%E5%8A%9F%E8%83%BD%E8%A1%B0%E9%80%80%23&t=31&band_rank=6&Refer=top) 208248
 1. [文俊辉翻唱CROOKED](https://s.weibo.com/weibo?q=%23%E6%96%87%E4%BF%8A%E8%BE%89%E7%BF%BB%E5%94%B1CROOKED%23&t=31&band_rank=8&Refer=top) 207867
 1. [我们从春天出发](https://s.weibo.com/weibo?q=%23%E6%88%91%E4%BB%AC%E4%BB%8E%E6%98%A5%E5%A4%A9%E5%87%BA%E5%8F%91%23&t=31&band_rank=3&Refer=top) 200223
