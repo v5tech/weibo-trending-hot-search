@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-03-15 02:16:36.058134 
+最后更新时间 2023-03-15 02:47:05.187301 
 1. [315](https://s.weibo.com/weibo?q=315&t=31&band_rank=1&Refer=top) 2529291
 1. [瑞幸咖啡被吐槽去冰后剩半杯](https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B8%E5%92%96%E5%95%A1%E8%A2%AB%E5%90%90%E6%A7%BD%E5%8E%BB%E5%86%B0%E5%90%8E%E5%89%A9%E5%8D%8A%E6%9D%AF%23&t=31&band_rank=2&Refer=top) 977690
 1. [这就是春天里的中国](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E6%98%A5%E5%A4%A9%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top) 776671
@@ -56,6 +56,7 @@
 1. [杨紫高马尾条纹衫路透](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E9%AB%98%E9%A9%AC%E5%B0%BE%E6%9D%A1%E7%BA%B9%E8%A1%AB%E8%B7%AF%E9%80%8F%23&t=31&band_rank=31&Refer=top) 106706
 1. [黑暗荣耀](https://s.weibo.com/weibo?q=%23%E9%BB%91%E6%9A%97%E8%8D%A3%E8%80%80%23&t=31&band_rank=43&Refer=top) 106245
 1. [张本智和](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C&t=31&band_rank=45&Refer=top) 97951
+1. [陈伟霆一天官宣两部电影](https://s.weibo.com/weibo?q=%23%E9%99%88%E4%BC%9F%E9%9C%86%E4%B8%80%E5%A4%A9%E5%AE%98%E5%AE%A3%E4%B8%A4%E9%83%A8%E7%94%B5%E5%BD%B1%23&t=31&band_rank=8&Refer=top) 95210
 1. [晨晓cp开虐](https://s.weibo.com/weibo?q=%23%E6%99%A8%E6%99%93cp%E5%BC%80%E8%99%90%23&t=31&band_rank=46&Refer=top) 94593
 1. [光渊](https://s.weibo.com/weibo?q=%23%E5%85%89%E6%B8%8A%23&t=31&band_rank=47&Refer=top) 94457
 1. [申论](https://s.weibo.com/weibo?q=%E7%94%B3%E8%AE%BA&t=31&band_rank=48&Refer=top) 94295
