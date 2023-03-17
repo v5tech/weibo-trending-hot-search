@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-03-18 04:35:41.674427 
+最后更新时间 2023-03-18 04:48:58.541587 
 1. [丫丫胖了一点白了一点](https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E8%83%96%E4%BA%86%E4%B8%80%E7%82%B9%E7%99%BD%E4%BA%86%E4%B8%80%E7%82%B9%23&t=31&band_rank=1&Refer=top) 1240308
 1. [他是谁 看yue了](https://s.weibo.com/weibo?q=%E4%BB%96%E6%98%AF%E8%B0%81%20%E7%9C%8Byue%E4%BA%86&t=31&band_rank=2&Refer=top) 1155002
 1. [2022中国科学十大进展](https://s.weibo.com/weibo?q=%232022%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%8D%81%E5%A4%A7%E8%BF%9B%E5%B1%95%23&t=31&band_rank=3&Refer=top) 1082449
@@ -71,7 +71,7 @@
 1. [我国首次发现奥密克戎新亚型](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E9%A6%96%E6%AC%A1%E5%8F%91%E7%8E%B0%E5%A5%A5%E5%AF%86%E5%85%8B%E6%88%8E%E6%96%B0%E4%BA%9A%E5%9E%8B%23&t=31&band_rank=49&Refer=top) 29658
 1. [超市6500元招聘引学生排队投简历](https://s.weibo.com/weibo?q=%E8%B6%85%E5%B8%826500%E5%85%83%E6%8B%9B%E8%81%98%E5%BC%95%E5%AD%A6%E7%94%9F%E6%8E%92%E9%98%9F%E6%8A%95%E7%AE%80%E5%8E%86&t=31&band_rank=31&Refer=top) 28082
 1. [2023F1沙特大奖赛](https://s.weibo.com/weibo?q=%232023F1%E6%B2%99%E7%89%B9%E5%A4%A7%E5%A5%96%E8%B5%9B%23&t=31&band_rank=50&Refer=top) 27471
-1. [谁教你们这么谈恋爱的](https://s.weibo.com/weibo?q=%23%E8%B0%81%E6%95%99%E4%BD%A0%E4%BB%AC%E8%BF%99%E4%B9%88%E8%B0%88%E6%81%8B%E7%88%B1%E7%9A%84%23&t=31&band_rank=25&Refer=top) 22356
+1. [谁教你们这么谈恋爱的](https://s.weibo.com/weibo?q=%23%E8%B0%81%E6%95%99%E4%BD%A0%E4%BB%AC%E8%BF%99%E4%B9%88%E8%B0%88%E6%81%8B%E7%88%B1%E7%9A%84%23&t=31&band_rank=25&Refer=top) 25148
 1. [俄罗斯养的大熊猫](https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E5%85%BB%E7%9A%84%E5%A4%A7%E7%86%8A%E7%8C%AB%23&t=31&band_rank=50&Refer=top) 19475
 1. [这是一只需要浇水的猫](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF%E4%B8%80%E5%8F%AA%E9%9C%80%E8%A6%81%E6%B5%87%E6%B0%B4%E7%9A%84%E7%8C%AB%23&t=31&band_rank=49&Refer=top) 14087
 <!-- END -->
