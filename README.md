@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-03-18 02:30:39.201086 
+最后更新时间 2023-03-18 02:49:00.537449 
 1. [丫丫胖了一点白了一点](https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E8%83%96%E4%BA%86%E4%B8%80%E7%82%B9%E7%99%BD%E4%BA%86%E4%B8%80%E7%82%B9%23&t=31&band_rank=1&Refer=top) 1240308
 1. [他是谁 看yue了](https://s.weibo.com/weibo?q=%E4%BB%96%E6%98%AF%E8%B0%81%20%E7%9C%8Byue%E4%BA%86&t=31&band_rank=2&Refer=top) 1155002
 1. [2022中国科学十大进展](https://s.weibo.com/weibo?q=%232022%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%8D%81%E5%A4%A7%E8%BF%9B%E5%B1%95%23&t=31&band_rank=3&Refer=top) 1082449
@@ -65,7 +65,9 @@
 1. [如何一句话让网友应激](https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E4%B8%80%E5%8F%A5%E8%AF%9D%E8%AE%A9%E7%BD%91%E5%8F%8B%E5%BA%94%E6%BF%80%23&t=31&band_rank=50&Refer=top) 68867
 1. [女友被拍18下才反应被求婚](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%8F%8B%E8%A2%AB%E6%8B%8D18%E4%B8%8B%E6%89%8D%E5%8F%8D%E5%BA%94%E8%A2%AB%E6%B1%82%E5%A9%9A%23&t=31&band_rank=31&Refer=top) 59667
 1. [28岁徐志胜和38岁陈伟霆同框](https://s.weibo.com/weibo?q=%2328%E5%B2%81%E5%BE%90%E5%BF%97%E8%83%9C%E5%92%8C38%E5%B2%81%E9%99%88%E4%BC%9F%E9%9C%86%E5%90%8C%E6%A1%86%23&t=31&band_rank=50&Refer=top) 51659
+1. [研究表明养猫养狗或影响睡眠](https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E8%A1%A8%E6%98%8E%E5%85%BB%E7%8C%AB%E5%85%BB%E7%8B%97%E6%88%96%E5%BD%B1%E5%93%8D%E7%9D%A1%E7%9C%A0%23&t=31&band_rank=28&Refer=top) 34284
 1. [2023F1沙特大奖赛](https://s.weibo.com/weibo?q=%232023F1%E6%B2%99%E7%89%B9%E5%A4%A7%E5%A5%96%E8%B5%9B%23&t=31&band_rank=50&Refer=top) 27471
+1. [警方回应游客98元买走60根虫草](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E6%B8%B8%E5%AE%A298%E5%85%83%E4%B9%B0%E8%B5%B060%E6%A0%B9%E8%99%AB%E8%8D%89%23&t=31&band_rank=50&Refer=top) 22472
 <!-- END -->
 
 历史归档 [./archives](./archives)
