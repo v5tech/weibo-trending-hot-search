@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-03-19 02:29:29.013316 
+最后更新时间 2023-03-19 02:39:31.650167 
 1. [椰树直播间](https://s.weibo.com/weibo?q=%E6%A4%B0%E6%A0%91%E7%9B%B4%E6%92%AD%E9%97%B4&t=31&band_rank=1&Refer=top) 921245
 1. [薛之谦演唱会戴老奶奶假发](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E6%88%B4%E8%80%81%E5%A5%B6%E5%A5%B6%E5%81%87%E5%8F%91%23&t=31&band_rank=2&Refer=top) 635467
 1. [这段跨越千年的对话令人骄傲又感动](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%AE%B5%E8%B7%A8%E8%B6%8A%E5%8D%83%E5%B9%B4%E7%9A%84%E5%AF%B9%E8%AF%9D%E4%BB%A4%E4%BA%BA%E9%AA%84%E5%82%B2%E5%8F%88%E6%84%9F%E5%8A%A8%23&t=31&band_rank=3&Refer=top) 592051
