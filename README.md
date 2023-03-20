@@ -7,12 +7,12 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-03-21 01:26:41.798750 
+最后更新时间 2023-03-21 01:35:49.837511 
 1. [泰国旅游](https://s.weibo.com/weibo?q=%E6%B3%B0%E5%9B%BD%E6%97%85%E6%B8%B8&t=31&band_rank=2&Refer=top) 1083636
 1. [海底捞回应女大学生在包间留宿](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9C%A8%E5%8C%85%E9%97%B4%E7%95%99%E5%AE%BF%23&t=31&band_rank=1&Refer=top) 1056859
 1. [中俄两国是山水相连的友好邻邦](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BF%84%E4%B8%A4%E5%9B%BD%E6%98%AF%E5%B1%B1%E6%B0%B4%E7%9B%B8%E8%BF%9E%E7%9A%84%E5%8F%8B%E5%A5%BD%E9%82%BB%E9%82%A6%23&t=31&band_rank=3&Refer=top) 891936
 1. [为什么不建议婚后和父母住](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E5%BB%BA%E8%AE%AE%E5%A9%9A%E5%90%8E%E5%92%8C%E7%88%B6%E6%AF%8D%E4%BD%8F%23&t=31&band_rank=4&Refer=top) 891235
-1. [广东人上床睡觉时间全国最晚](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E4%BA%BA%E4%B8%8A%E5%BA%8A%E7%9D%A1%E8%A7%89%E6%97%B6%E9%97%B4%E5%85%A8%E5%9B%BD%E6%9C%80%E6%99%9A%23&t=31&band_rank=13&Refer=top) 827754
+1. [广东人上床睡觉时间全国最晚](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E4%BA%BA%E4%B8%8A%E5%BA%8A%E7%9D%A1%E8%A7%89%E6%97%B6%E9%97%B4%E5%85%A8%E5%9B%BD%E6%9C%80%E6%99%9A%23&t=31&band_rank=13&Refer=top) 853990
 1. [MU5735事故调查最新情况](https://s.weibo.com/weibo?q=%23MU5735%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E6%9C%80%E6%96%B0%E6%83%85%E5%86%B5%23&t=31&band_rank=5&Refer=top) 704575
 1. [杀夫藏尸女子已被刑拘](https://s.weibo.com/weibo?q=%23%E6%9D%80%E5%A4%AB%E8%97%8F%E5%B0%B8%E5%A5%B3%E5%AD%90%E5%B7%B2%E8%A2%AB%E5%88%91%E6%8B%98%23&t=31&band_rank=6&Refer=top) 697685
 1. [云胡不喜选角 胡歌陈星旭](https://s.weibo.com/weibo?q=%E4%BA%91%E8%83%A1%E4%B8%8D%E5%96%9C%E9%80%89%E8%A7%92%20%E8%83%A1%E6%AD%8C%E9%99%88%E6%98%9F%E6%97%AD&t=31&band_rank=7&Refer=top) 654888
