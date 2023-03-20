@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-03-21 03:20:42.364226 
+最后更新时间 2023-03-21 03:34:24.637071 
 1. [泰国旅游](https://s.weibo.com/weibo?q=%E6%B3%B0%E5%9B%BD%E6%97%85%E6%B8%B8&t=31&band_rank=2&Refer=top) 1083636
 1. [海底捞回应女大学生在包间留宿](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9C%A8%E5%8C%85%E9%97%B4%E7%95%99%E5%AE%BF%23&t=31&band_rank=1&Refer=top) 1056859
 1. [中俄两国是山水相连的友好邻邦](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BF%84%E4%B8%A4%E5%9B%BD%E6%98%AF%E5%B1%B1%E6%B0%B4%E7%9B%B8%E8%BF%9E%E7%9A%84%E5%8F%8B%E5%A5%BD%E9%82%BB%E9%82%A6%23&t=31&band_rank=3&Refer=top) 891936
