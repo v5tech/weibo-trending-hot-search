@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-03-24 00:37:12.438201 
+最后更新时间 2023-03-24 00:48:54.339262 
 1. [兰亭序](https://s.weibo.com/weibo?q=%E5%85%B0%E4%BA%AD%E5%BA%8F&t=31&band_rank=1&Refer=top) 2173019
 1. [全在俊水泥坠楼戏没用替身](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9C%A8%E4%BF%8A%E6%B0%B4%E6%B3%A5%E5%9D%A0%E6%A5%BC%E6%88%8F%E6%B2%A1%E7%94%A8%E6%9B%BF%E8%BA%AB%23&t=31&band_rank=2&Refer=top) 1370927
 1. [开往春天的列车带你穿越花海](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%BE%80%E6%98%A5%E5%A4%A9%E7%9A%84%E5%88%97%E8%BD%A6%E5%B8%A6%E4%BD%A0%E7%A9%BF%E8%B6%8A%E8%8A%B1%E6%B5%B7%23&t=31&band_rank=3&Refer=top) 1031705
@@ -31,15 +31,18 @@
 1. [单身久了会丧失恋爱能力吗](https://s.weibo.com/weibo?q=%23%E5%8D%95%E8%BA%AB%E4%B9%85%E4%BA%86%E4%BC%9A%E4%B8%A7%E5%A4%B1%E6%81%8B%E7%88%B1%E8%83%BD%E5%8A%9B%E5%90%97%23&t=31&band_rank=21&Refer=top) 241192
 1. [张颂文 哈哈我疯了](https://s.weibo.com/weibo?q=%E5%BC%A0%E9%A2%82%E6%96%87%20%E5%93%88%E5%93%88%E6%88%91%E7%96%AF%E4%BA%86&t=31&band_rank=22&Refer=top) 241141
 1. [许嵩 演唱会](https://s.weibo.com/weibo?q=%E8%AE%B8%E5%B5%A9%20%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=23&Refer=top) 239355
+1. [中学要求向班主任交6500元培养费](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%AD%A6%E8%A6%81%E6%B1%82%E5%90%91%E7%8F%AD%E4%B8%BB%E4%BB%BB%E4%BA%A46500%E5%85%83%E5%9F%B9%E5%85%BB%E8%B4%B9%23&t=31&band_rank=33&Refer=top) 218690
 1. [河南省考](https://s.weibo.com/weibo?q=%E6%B2%B3%E5%8D%97%E7%9C%81%E8%80%83&t=31&band_rank=24&Refer=top) 214995
 1. [那英马嘉祺组合名](https://s.weibo.com/weibo?q=%E9%82%A3%E8%8B%B1%E9%A9%AC%E5%98%89%E7%A5%BA%E7%BB%84%E5%90%88%E5%90%8D&t=31&band_rank=23&Refer=top) 205321
 1. [小狗头像](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8B%97%E5%A4%B4%E5%83%8F%23&t=31&band_rank=25&Refer=top) 201281
 1. [杨幂 微博之夜](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%20%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C&t=31&band_rank=26&Refer=top) 201062
+1. [章昊二顺排名](https://s.weibo.com/weibo?q=%E7%AB%A0%E6%98%8A%E4%BA%8C%E9%A1%BA%E6%8E%92%E5%90%8D&t=31&band_rank=26&Refer=top) 198951
 1. [丫丫最新画面](https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E6%9C%80%E6%96%B0%E7%94%BB%E9%9D%A2%23&t=31&band_rank=29&Refer=top) 195859
-1. [章昊二顺排名](https://s.weibo.com/weibo?q=%E7%AB%A0%E6%98%8A%E4%BA%8C%E9%A1%BA%E6%8E%92%E5%90%8D&t=31&band_rank=26&Refer=top) 194465
 1. [青燥音乐节](https://s.weibo.com/weibo?q=%23%E9%9D%92%E7%87%A5%E9%9F%B3%E4%B9%90%E8%8A%82%23&t=31&band_rank=27&Refer=top) 190664
 1. [陈卓璇狂飙高音](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%8D%93%E7%92%87%E7%8B%82%E9%A3%99%E9%AB%98%E9%9F%B3%23&t=31&band_rank=28&Refer=top) 190236
+1. [马嘉祺兰亭序全开麦](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%98%89%E7%A5%BA%E5%85%B0%E4%BA%AD%E5%BA%8F%E5%85%A8%E5%BC%80%E9%BA%A6%23&t=31&band_rank=23&Refer=top) 187901
 1. [吴克群巡演歌单](https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%85%8B%E7%BE%A4%E5%B7%A1%E6%BC%94%E6%AD%8C%E5%8D%95%23&t=31&band_rank=28&Refer=top) 187063
+1. [徐明浩cos肌肉袋鼠](https://s.weibo.com/weibo?q=%23%E5%BE%90%E6%98%8E%E6%B5%A9cos%E8%82%8C%E8%82%89%E8%A2%8B%E9%BC%A0%23&t=31&band_rank=24&Refer=top) 186285
 1. [BoysPlanet](https://s.weibo.com/weibo?q=BoysPlanet&t=31&band_rank=29&Refer=top) 185574
 1. [这猫真的不是大爷变的吗](https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%8C%AB%E7%9C%9F%E7%9A%84%E4%B8%8D%E6%98%AF%E5%A4%A7%E7%88%B7%E5%8F%98%E7%9A%84%E5%90%97%23&t=31&band_rank=30&Refer=top) 184513
 1. [张信哲陈立农合唱忘了你忘了我](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BF%A1%E5%93%B2%E9%99%88%E7%AB%8B%E5%86%9C%E5%90%88%E5%94%B1%E5%BF%98%E4%BA%86%E4%BD%A0%E5%BF%98%E4%BA%86%E6%88%91%23&t=31&band_rank=31&Refer=top) 183872
@@ -47,7 +50,6 @@
 1. [张嘉倪露腰牛仔裙](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%98%89%E5%80%AA%E9%9C%B2%E8%85%B0%E7%89%9B%E4%BB%94%E8%A3%99%23&t=31&band_rank=32&Refer=top) 177396
 1. [情侣恋爱一年后的合照变化](https://s.weibo.com/weibo?q=%23%E6%83%85%E4%BE%A3%E6%81%8B%E7%88%B1%E4%B8%80%E5%B9%B4%E5%90%8E%E7%9A%84%E5%90%88%E7%85%A7%E5%8F%98%E5%8C%96%23&t=31&band_rank=33&Refer=top) 171398
 1. [宝格丽活动](https://s.weibo.com/weibo?q=%23%E5%AE%9D%E6%A0%BC%E4%B8%BD%E6%B4%BB%E5%8A%A8%23&t=31&band_rank=34&Refer=top) 171120
-1. [中学要求向班主任交6500元培养费](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%AD%A6%E8%A6%81%E6%B1%82%E5%90%91%E7%8F%AD%E4%B8%BB%E4%BB%BB%E4%BA%A46500%E5%85%83%E5%9F%B9%E5%85%BB%E8%B4%B9%23&t=31&band_rank=33&Refer=top) 168115
 1. [李彦宏回应文心一言15个尖锐问题](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%BD%A6%E5%AE%8F%E5%9B%9E%E5%BA%94%E6%96%87%E5%BF%83%E4%B8%80%E8%A8%8015%E4%B8%AA%E5%B0%96%E9%94%90%E9%97%AE%E9%A2%98%23&t=31&band_rank=35&Refer=top) 161178
 1. [聂小雨人设](https://s.weibo.com/weibo?q=%E8%81%82%E5%B0%8F%E9%9B%A8%E4%BA%BA%E8%AE%BE&t=31&band_rank=36&Refer=top) 158255
 1. [章子怡线下活动状态](https://s.weibo.com/weibo?q=%23%E7%AB%A0%E5%AD%90%E6%80%A1%E7%BA%BF%E4%B8%8B%E6%B4%BB%E5%8A%A8%E7%8A%B6%E6%80%81%23&t=31&band_rank=37&Refer=top) 145611
@@ -66,6 +68,7 @@
 1. [海关查获玳瑁拼接的装饰画](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%85%B3%E6%9F%A5%E8%8E%B7%E7%8E%B3%E7%91%81%E6%8B%BC%E6%8E%A5%E7%9A%84%E8%A3%85%E9%A5%B0%E7%94%BB%23&t=31&band_rank=49&Refer=top) 105345
 1. [白鹿赵露思同款镂空背心](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%90%8C%E6%AC%BE%E9%95%82%E7%A9%BA%E8%83%8C%E5%BF%83%23&t=31&band_rank=45&Refer=top) 92797
 1. [哭砂](https://s.weibo.com/weibo?q=%E5%93%AD%E7%A0%82&t=31&band_rank=46&Refer=top) 90523
+1. [聂小雨是聂宝华唯一的软肋](https://s.weibo.com/weibo?q=%23%E8%81%82%E5%B0%8F%E9%9B%A8%E6%98%AF%E8%81%82%E5%AE%9D%E5%8D%8E%E5%94%AF%E4%B8%80%E7%9A%84%E8%BD%AF%E8%82%8B%23&t=31&band_rank=46&Refer=top) 77652
 <!-- END -->
 
 历史归档 [./archives](./archives)
