@@ -31,6 +31,10 @@
     "url": "https://s.weibo.com/weibo?q=%E6%9C%88%E4%BA%AE%E6%98%9F%E6%98%9F%E5%9C%A8%E4%B8%80%E8%B5%B7%E5%95%A6&t=31&band_rank=7&Refer=top",
     "hot": 542998
   },
+  "网上炫富女子账号已被封": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%B8%8A%E7%82%AB%E5%AF%8C%E5%A5%B3%E5%AD%90%E8%B4%A6%E5%8F%B7%E5%B7%B2%E8%A2%AB%E5%B0%81%23&t=31&band_rank=33&Refer=top",
+    "hot": 540967
+  },
   "深圳6折人才房卖不动": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B36%E6%8A%98%E4%BA%BA%E6%89%8D%E6%88%BF%E5%8D%96%E4%B8%8D%E5%8A%A8%23&t=31&band_rank=8&Refer=top",
     "hot": 511568
@@ -70,10 +74,6 @@
   "鹿晗直播": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E7%9B%B4%E6%92%AD%23&t=31&band_rank=16&Refer=top",
     "hot": 326223
-  },
-  "网上炫富女子账号已被封": {
-    "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%B8%8A%E7%82%AB%E5%AF%8C%E5%A5%B3%E5%AD%90%E8%B4%A6%E5%8F%B7%E5%B7%B2%E8%A2%AB%E5%B0%81%23&t=31&band_rank=33&Refer=top",
-    "hot": 313869
   },
   "大侦探木偶2故事线": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E4%BE%A6%E6%8E%A2%E6%9C%A8%E5%81%B62%E6%95%85%E4%BA%8B%E7%BA%BF%23&t=31&band_rank=21&Refer=top",
@@ -229,6 +229,10 @@
   },
   "想要长高的人有福了": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%83%B3%E8%A6%81%E9%95%BF%E9%AB%98%E7%9A%84%E4%BA%BA%E6%9C%89%E7%A6%8F%E4%BA%86%23&t=31&band_rank=50&Refer=top",
-    "hot": 33161
+    "hot": 38180
+  },
+  "第五人格": {
+    "url": "https://s.weibo.com/weibo?q=%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC&t=31&band_rank=50&Refer=top",
+    "hot": 29950
   }
 }
