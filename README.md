@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-03-25 05:34:26.860670 
+最后更新时间 2023-03-25 05:49:03.128524 
 1. [心疼一诺](https://s.weibo.com/weibo?q=%23%E5%BF%83%E7%96%BC%E4%B8%80%E8%AF%BA%23&t=31&band_rank=1&Refer=top) 1335540
 1. [陈赫脸盆砸在杜海涛头上](https://s.weibo.com/weibo?q=%23%E9%99%88%E8%B5%AB%E8%84%B8%E7%9B%86%E7%A0%B8%E5%9C%A8%E6%9D%9C%E6%B5%B7%E6%B6%9B%E5%A4%B4%E4%B8%8A%23&t=31&band_rank=2&Refer=top) 855353
 1. [中国杂交水稻推广到数十国家和地区](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%9D%82%E4%BA%A4%E6%B0%B4%E7%A8%BB%E6%8E%A8%E5%B9%BF%E5%88%B0%E6%95%B0%E5%8D%81%E5%9B%BD%E5%AE%B6%E5%92%8C%E5%9C%B0%E5%8C%BA%23&t=31&band_rank=3&Refer=top) 776550
@@ -68,6 +68,7 @@
 1. [年轻人摆摊主打自己想吃](https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%91%86%E6%91%8A%E4%B8%BB%E6%89%93%E8%87%AA%E5%B7%B1%E6%83%B3%E5%90%83%23&t=31&band_rank=49&Refer=top) 46840
 1. [想要长高的人有福了](https://s.weibo.com/weibo?q=%23%E6%83%B3%E8%A6%81%E9%95%BF%E9%AB%98%E7%9A%84%E4%BA%BA%E6%9C%89%E7%A6%8F%E4%BA%86%23&t=31&band_rank=50&Refer=top) 40649
 1. [第五人格](https://s.weibo.com/weibo?q=%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC&t=31&band_rank=50&Refer=top) 30016
+1. [成都一幼师疑似虐打幼童](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E4%B8%80%E5%B9%BC%E5%B8%88%E7%96%91%E4%BC%BC%E8%99%90%E6%89%93%E5%B9%BC%E7%AB%A5%23&t=31&band_rank=41&Refer=top) 15085
 <!-- END -->
 
 历史归档 [./archives](./archives)
