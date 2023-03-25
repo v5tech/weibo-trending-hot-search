@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-03-26 02:27:33.636578 
+最后更新时间 2023-03-26 02:36:06.772619 
 1. [刘亦菲微博Queen](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E5%BE%AE%E5%8D%9AQueen%23&t=31&band_rank=1&Refer=top) 6411605
 1. [赵灵儿李逍遥的十年之约](https://s.weibo.com/weibo?q=%E8%B5%B5%E7%81%B5%E5%84%BF%E6%9D%8E%E9%80%8D%E9%81%A5%E7%9A%84%E5%8D%81%E5%B9%B4%E4%B9%8B%E7%BA%A6&t=31&band_rank=2&Refer=top) 6198740
 1. [读懂中国式现代化](https://s.weibo.com/weibo?q=%23%E8%AF%BB%E6%87%82%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%23&t=31&band_rank=3&Refer=top) 4076158
@@ -71,7 +71,7 @@
 1. [龚俊刘宇宁合唱霓虹甜心](https://s.weibo.com/weibo?q=%23%E9%BE%9A%E4%BF%8A%E5%88%98%E5%AE%87%E5%AE%81%E5%90%88%E5%94%B1%E9%9C%93%E8%99%B9%E7%94%9C%E5%BF%83%23&t=31&band_rank=43&Refer=top) 192450
 1. [李宇春微博影响力音乐人](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AE%87%E6%98%A5%E5%BE%AE%E5%8D%9A%E5%BD%B1%E5%93%8D%E5%8A%9B%E9%9F%B3%E4%B9%90%E4%BA%BA%23&t=31&band_rank=36&Refer=top) 191470
 1. [T1战胜KT](https://s.weibo.com/weibo?q=%23T1%E6%88%98%E8%83%9CKT%23&t=31&band_rank=48&Refer=top) 133220
-1. [肖战ES高定](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98ES%E9%AB%98%E5%AE%9A%23&t=31&band_rank=27&Refer=top) 125131
+1. [肖战ES高定](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98ES%E9%AB%98%E5%AE%9A%23&t=31&band_rank=27&Refer=top) 128536
 1. [崔杋圭舞台点燃玫瑰](https://s.weibo.com/weibo?q=%23%E5%B4%94%E6%9D%8B%E5%9C%AD%E8%88%9E%E5%8F%B0%E7%82%B9%E7%87%83%E7%8E%AB%E7%91%B0%23&t=31&band_rank=37&Refer=top) 99747
 1. [WE战胜XYG](https://s.weibo.com/weibo?q=%23WE%E6%88%98%E8%83%9CXYG%23&t=31&band_rank=47&Refer=top) 98948
 1. [85花都是高定](https://s.weibo.com/weibo?q=%2385%E8%8A%B1%E9%83%BD%E6%98%AF%E9%AB%98%E5%AE%9A%23&t=31&band_rank=46&Refer=top) 79959
