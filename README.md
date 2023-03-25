@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-03-26 07:22:44.962200 
+最后更新时间 2023-03-26 07:49:07.614032 
 1. [刘亦菲微博Queen](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E5%BE%AE%E5%8D%9AQueen%23&t=31&band_rank=1&Refer=top) 6411605
 1. [赵灵儿李逍遥的十年之约](https://s.weibo.com/weibo?q=%E8%B5%B5%E7%81%B5%E5%84%BF%E6%9D%8E%E9%80%8D%E9%81%A5%E7%9A%84%E5%8D%81%E5%B9%B4%E4%B9%8B%E7%BA%A6&t=31&band_rank=2&Refer=top) 6198740
 1. [读懂中国式现代化](https://s.weibo.com/weibo?q=%23%E8%AF%BB%E6%87%82%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%23&t=31&band_rank=3&Refer=top) 4076158
@@ -70,8 +70,9 @@
 1. [周深台柱子歌手](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E5%8F%B0%E6%9F%B1%E5%AD%90%E6%AD%8C%E6%89%8B%23&t=31&band_rank=45&Refer=top) 220311
 1. [龚俊刘宇宁合唱霓虹甜心](https://s.weibo.com/weibo?q=%23%E9%BE%9A%E4%BF%8A%E5%88%98%E5%AE%87%E5%AE%81%E5%90%88%E5%94%B1%E9%9C%93%E8%99%B9%E7%94%9C%E5%BF%83%23&t=31&band_rank=43&Refer=top) 192450
 1. [李宇春微博影响力音乐人](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AE%87%E6%98%A5%E5%BE%AE%E5%8D%9A%E5%BD%B1%E5%93%8D%E5%8A%9B%E9%9F%B3%E4%B9%90%E4%BA%BA%23&t=31&band_rank=36&Refer=top) 191470
-1. [苏州医生在湖南培训顺手救人](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E5%B7%9E%E5%8C%BB%E7%94%9F%E5%9C%A8%E6%B9%96%E5%8D%97%E5%9F%B9%E8%AE%AD%E9%A1%BA%E6%89%8B%E6%95%91%E4%BA%BA%23&t=31&band_rank=40&Refer=top) 159911
-1. [公司女更衣室装监控近十年](https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%8F%B8%E5%A5%B3%E6%9B%B4%E8%A1%A3%E5%AE%A4%E8%A3%85%E7%9B%91%E6%8E%A7%E8%BF%91%E5%8D%81%E5%B9%B4%23&t=31&band_rank=30&Refer=top) 133967
+1. [青岛AR灯光秀之夜](https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9BAR%E7%81%AF%E5%85%89%E7%A7%80%E4%B9%8B%E5%A4%9C%23&t=31&band_rank=13&Refer=top) 184749
+1. [公司女更衣室装监控近十年](https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%8F%B8%E5%A5%B3%E6%9B%B4%E8%A1%A3%E5%AE%A4%E8%A3%85%E7%9B%91%E6%8E%A7%E8%BF%91%E5%8D%81%E5%B9%B4%23&t=31&band_rank=30&Refer=top) 181208
+1. [苏州医生在湖南培训顺手救人](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E5%B7%9E%E5%8C%BB%E7%94%9F%E5%9C%A8%E6%B9%96%E5%8D%97%E5%9F%B9%E8%AE%AD%E9%A1%BA%E6%89%8B%E6%95%91%E4%BA%BA%23&t=31&band_rank=40&Refer=top) 162517
 1. [T1战胜KT](https://s.weibo.com/weibo?q=%23T1%E6%88%98%E8%83%9CKT%23&t=31&band_rank=48&Refer=top) 133220
 1. [肖战ES高定](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98ES%E9%AB%98%E5%AE%9A%23&t=31&band_rank=27&Refer=top) 131938
 1. [仙剑一仙剑三剧粉都圆满了](https://s.weibo.com/weibo?q=%E4%BB%99%E5%89%91%E4%B8%80%E4%BB%99%E5%89%91%E4%B8%89%E5%89%A7%E7%B2%89%E9%83%BD%E5%9C%86%E6%BB%A1%E4%BA%86&t=31&band_rank=49&Refer=top) 128838
@@ -80,7 +81,9 @@
 1. [黄蜂战胜独行侠](https://s.weibo.com/weibo?q=%23%E9%BB%84%E8%9C%82%E6%88%98%E8%83%9C%E7%8B%AC%E8%A1%8C%E4%BE%A0%23&t=31&band_rank=49&Refer=top) 127144
 1. [崔杋圭舞台点燃玫瑰](https://s.weibo.com/weibo?q=%23%E5%B4%94%E6%9D%8B%E5%9C%AD%E8%88%9E%E5%8F%B0%E7%82%B9%E7%87%83%E7%8E%AB%E7%91%B0%23&t=31&band_rank=37&Refer=top) 99747
 1. [WE战胜XYG](https://s.weibo.com/weibo?q=%23WE%E6%88%98%E8%83%9CXYG%23&t=31&band_rank=47&Refer=top) 98948
+1. [郑钦文晋级](https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E6%99%8B%E7%BA%A7&t=31&band_rank=29&Refer=top) 82596
 1. [85花都是高定](https://s.weibo.com/weibo?q=%2385%E8%8A%B1%E9%83%BD%E6%98%AF%E9%AB%98%E5%AE%9A%23&t=31&band_rank=46&Refer=top) 79959
+1. [中华小当家原型去世](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%8D%8E%E5%B0%8F%E5%BD%93%E5%AE%B6%E5%8E%9F%E5%9E%8B%E5%8E%BB%E4%B8%96%23&t=31&band_rank=40&Refer=top) 60011
 1. [螃蟹有钳还这么努力工作](https://s.weibo.com/weibo?q=%23%E8%9E%83%E8%9F%B9%E6%9C%89%E9%92%B3%E8%BF%98%E8%BF%99%E4%B9%88%E5%8A%AA%E5%8A%9B%E5%B7%A5%E4%BD%9C%23&t=31&band_rank=48&Refer=top) 33064
 1. [当玉米饼遇上灵魂伴侣豆腐乳](https://s.weibo.com/weibo?q=%23%E5%BD%93%E7%8E%89%E7%B1%B3%E9%A5%BC%E9%81%87%E4%B8%8A%E7%81%B5%E9%AD%82%E4%BC%B4%E4%BE%A3%E8%B1%86%E8%85%90%E4%B9%B3%23&t=31&band_rank=49&Refer=top) 33064
 <!-- END -->
