@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-03-26 01:08:48.642340 
+最后更新时间 2023-03-26 01:23:17.193712 
 1. [刘亦菲微博Queen](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E5%BE%AE%E5%8D%9AQueen%23&t=31&band_rank=1&Refer=top) 6411605
 1. [赵灵儿李逍遥的十年之约](https://s.weibo.com/weibo?q=%E8%B5%B5%E7%81%B5%E5%84%BF%E6%9D%8E%E9%80%8D%E9%81%A5%E7%9A%84%E5%8D%81%E5%B9%B4%E4%B9%8B%E7%BA%A6&t=31&band_rank=2&Refer=top) 6198740
 1. [读懂中国式现代化](https://s.weibo.com/weibo?q=%23%E8%AF%BB%E6%87%82%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%23&t=31&band_rank=3&Refer=top) 4076158
@@ -66,6 +66,7 @@
 1. [马拉松的羊毛算是薅明白了](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%8B%89%E6%9D%BE%E7%9A%84%E7%BE%8A%E6%AF%9B%E7%AE%97%E6%98%AF%E8%96%85%E6%98%8E%E7%99%BD%E4%BA%86%23&t=31&band_rank=49&Refer=top) 265470
 1. [杨颖黑天鹅](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E9%A2%96%E9%BB%91%E5%A4%A9%E9%B9%85%23&t=31&band_rank=44&Refer=top) 240128
 1. [周深台柱子歌手](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E5%8F%B0%E6%9F%B1%E5%AD%90%E6%AD%8C%E6%89%8B%23&t=31&band_rank=45&Refer=top) 220311
+1. [龚俊刘宇宁合唱霓虹甜心](https://s.weibo.com/weibo?q=%23%E9%BE%9A%E4%BF%8A%E5%88%98%E5%AE%87%E5%AE%81%E5%90%88%E5%94%B1%E9%9C%93%E8%99%B9%E7%94%9C%E5%BF%83%23&t=31&band_rank=43&Refer=top) 192450
 <!-- END -->
 
 历史归档 [./archives](./archives)
