@@ -147,6 +147,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%AF%B9%E7%99%BD%E9%B9%BF%E6%8C%91%E7%9C%89%23&t=31&band_rank=36&Refer=top",
     "hot": 129525
   },
+  "首个国产新冠药停产": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%A6%96%E4%B8%AA%E5%9B%BD%E4%BA%A7%E6%96%B0%E5%86%A0%E8%8D%AF%E5%81%9C%E4%BA%A7%23&t=31&band_rank=23&Refer=top",
+    "hot": 125699
+  },
   "狗狗太热情也不太好": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%8B%97%E7%8B%97%E5%A4%AA%E7%83%AD%E6%83%85%E4%B9%9F%E4%B8%8D%E5%A4%AA%E5%A5%BD%23&t=31&band_rank=37&Refer=top",
     "hot": 124784
@@ -195,6 +199,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%BA%91%E5%B7%B2%E5%9B%9E%E5%9B%BD%23&t=31&band_rank=46&Refer=top",
     "hot": 89720
   },
+  "张嘉倪悼念导演麦大杰": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%98%89%E5%80%AA%E6%82%BC%E5%BF%B5%E5%AF%BC%E6%BC%94%E9%BA%A6%E5%A4%A7%E6%9D%B0%23&t=31&band_rank=15&Refer=top",
+    "hot": 89232
+  },
   "陈梦0比3输给蒯曼": {
     "url": "https://s.weibo.com/weibo?q=%E9%99%88%E6%A2%A60%E6%AF%943%E8%BE%93%E7%BB%99%E8%92%AF%E6%9B%BC&t=31&band_rank=47&Refer=top",
     "hot": 83324
@@ -206,9 +214,5 @@
   "阿里概念股大涨": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E9%87%8C%E6%A6%82%E5%BF%B5%E8%82%A1%E5%A4%A7%E6%B6%A8%23&t=31&band_rank=49&Refer=top",
     "hot": 73342
-  },
-  "首个国产新冠药停产": {
-    "url": "https://s.weibo.com/weibo?q=%23%E9%A6%96%E4%B8%AA%E5%9B%BD%E4%BA%A7%E6%96%B0%E5%86%A0%E8%8D%AF%E5%81%9C%E4%BA%A7%23&t=31&band_rank=23&Refer=top",
-    "hot": 61755
   }
 }
