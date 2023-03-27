@@ -159,6 +159,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%90%83%E8%87%AA%E5%8A%A9%E9%A4%90%E5%B0%86%E5%BA%97%E5%86%85%E7%94%B2%E9%B1%BC%E7%85%AE%E9%A3%9F%23&t=31&band_rank=38&Refer=top",
     "hot": 119495
   },
+  "这个论文真的非写不可吗": {
+    "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%AA%E8%AE%BA%E6%96%87%E7%9C%9F%E7%9A%84%E9%9D%9E%E5%86%99%E4%B8%8D%E5%8F%AF%E5%90%97%23&t=31&band_rank=34&Refer=top",
+    "hot": 117679
+  },
   "哪一刻放弃了喜欢很久的人": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%93%AA%E4%B8%80%E5%88%BB%E6%94%BE%E5%BC%83%E4%BA%86%E5%96%9C%E6%AC%A2%E5%BE%88%E4%B9%85%E7%9A%84%E4%BA%BA%23&t=31&band_rank=39&Refer=top",
     "hot": 115607
@@ -183,10 +187,6 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%85%83%E8%8B%B1%E9%AB%98%E9%A9%AC%E5%B0%BE%23&t=31&band_rank=44&Refer=top",
     "hot": 102067
   },
-  "这个论文真的非写不可吗": {
-    "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%AA%E8%AE%BA%E6%96%87%E7%9C%9F%E7%9A%84%E9%9D%9E%E5%86%99%E4%B8%8D%E5%8F%AF%E5%90%97%23&t=31&band_rank=34&Refer=top",
-    "hot": 97964
-  },
   "梁友安体检查出巧克力囊肿": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%A2%81%E5%8F%8B%E5%AE%89%E4%BD%93%E6%A3%80%E6%9F%A5%E5%87%BA%E5%B7%A7%E5%85%8B%E5%8A%9B%E5%9B%8A%E8%82%BF%23&t=31&band_rank=45&Refer=top",
     "hot": 97154
@@ -206,5 +206,9 @@
   "阿里概念股大涨": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E9%87%8C%E6%A6%82%E5%BF%B5%E8%82%A1%E5%A4%A7%E6%B6%A8%23&t=31&band_rank=49&Refer=top",
     "hot": 73342
+  },
+  "首个国产新冠药停产": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%A6%96%E4%B8%AA%E5%9B%BD%E4%BA%A7%E6%96%B0%E5%86%A0%E8%8D%AF%E5%81%9C%E4%BA%A7%23&t=31&band_rank=23&Refer=top",
+    "hot": 61755
   }
 }
