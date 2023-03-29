@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-03-30 02:34:20.876752 
+最后更新时间 2023-03-30 02:49:00.219768 
 1. [千万不要侧躺玩手机](https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E4%BE%A7%E8%BA%BA%E7%8E%A9%E6%89%8B%E6%9C%BA%23&t=31&band_rank=1&Refer=top) 687019
 1. [成都火灾](https://s.weibo.com/weibo?q=%E6%88%90%E9%83%BD%E7%81%AB%E7%81%BE&t=31&band_rank=2&Refer=top) 622547
 1. [天宫放心飞天地保障永相随](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E5%AE%AB%E6%94%BE%E5%BF%83%E9%A3%9E%E5%A4%A9%E5%9C%B0%E4%BF%9D%E9%9A%9C%E6%B0%B8%E7%9B%B8%E9%9A%8F%23&t=31&band_rank=3&Refer=top) 463215
@@ -62,6 +62,7 @@
 1. [孙国友女儿晒供水协议](https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%9B%BD%E5%8F%8B%E5%A5%B3%E5%84%BF%E6%99%92%E4%BE%9B%E6%B0%B4%E5%8D%8F%E8%AE%AE%23&t=31&band_rank=48&Refer=top) 30258
 1. [小S模仿二女儿讲英语](https://s.weibo.com/weibo?q=%23%E5%B0%8FS%E6%A8%A1%E4%BB%BF%E4%BA%8C%E5%A5%B3%E5%84%BF%E8%AE%B2%E8%8B%B1%E8%AF%AD%23&t=31&band_rank=50&Refer=top) 27330
 1. [跪求供水事件协商暂无进展](https://s.weibo.com/weibo?q=%23%E8%B7%AA%E6%B1%82%E4%BE%9B%E6%B0%B4%E4%BA%8B%E4%BB%B6%E5%8D%8F%E5%95%86%E6%9A%82%E6%97%A0%E8%BF%9B%E5%B1%95%23&t=31&band_rank=44&Refer=top) 24031
+1. [跪地求水林场主称三成树木因缺水死亡](https://s.weibo.com/weibo?q=%23%E8%B7%AA%E5%9C%B0%E6%B1%82%E6%B0%B4%E6%9E%97%E5%9C%BA%E4%B8%BB%E7%A7%B0%E4%B8%89%E6%88%90%E6%A0%91%E6%9C%A8%E5%9B%A0%E7%BC%BA%E6%B0%B4%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=50&Refer=top) 19903
 <!-- END -->
 
 历史归档 [./archives](./archives)
