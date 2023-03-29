@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-03-30 03:34:25.909144 
+最后更新时间 2023-03-30 03:49:10.788650 
 1. [千万不要侧躺玩手机](https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E4%BE%A7%E8%BA%BA%E7%8E%A9%E6%89%8B%E6%9C%BA%23&t=31&band_rank=1&Refer=top) 687019
 1. [成都火灾](https://s.weibo.com/weibo?q=%E6%88%90%E9%83%BD%E7%81%AB%E7%81%BE&t=31&band_rank=2&Refer=top) 622547
 1. [天宫放心飞天地保障永相随](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E5%AE%AB%E6%94%BE%E5%BF%83%E9%A3%9E%E5%A4%A9%E5%9C%B0%E4%BF%9D%E9%9A%9C%E6%B0%B8%E7%9B%B8%E9%9A%8F%23&t=31&band_rank=3&Refer=top) 463215
