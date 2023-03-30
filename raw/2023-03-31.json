@@ -91,6 +91,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%B7%A7%E7%8F%8D%E5%93%AD%E7%9D%80%E8%B7%9F%E9%AB%98%E5%8A%A0%E6%9E%97%E5%88%86%E6%89%8B%23&t=31&band_rank=22&Refer=top",
     "hot": 207266
   },
+  "华晨宇演唱会舞台": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E6%BC%94%E5%94%B1%E4%BC%9A%E8%88%9E%E5%8F%B0%23&t=31&band_rank=8&Refer=top",
+    "hot": 201375
+  },
   "aespa新歌HoldOnTight": {
     "url": "https://s.weibo.com/weibo?q=%23aespa%E6%96%B0%E6%AD%8CHoldOnTight%23&t=31&band_rank=23&Refer=top",
     "hot": 189632
@@ -210,5 +214,9 @@
   "大黑皮鞋睁眼了": {
     "url": "https://s.weibo.com/weibo?q=%E5%A4%A7%E9%BB%91%E7%9A%AE%E9%9E%8B%E7%9D%81%E7%9C%BC%E4%BA%86&t=31&band_rank=50&Refer=top",
     "hot": 54819
+  },
+  "广州震感": {
+    "url": "https://s.weibo.com/weibo?q=%E5%B9%BF%E5%B7%9E%E9%9C%87%E6%84%9F&t=31&band_rank=50&Refer=top",
+    "hot": 44783
   }
 }
