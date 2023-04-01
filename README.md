@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-04-02 00:40:44.657152 
+最后更新时间 2023-04-02 00:49:05.451061 
 1. [今晚好多演唱会](https://s.weibo.com/weibo?q=%E4%BB%8A%E6%99%9A%E5%A5%BD%E5%A4%9A%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=1&Refer=top) 1538498
 1. [麻六记因未给孕妇优待被打差评](https://s.weibo.com/weibo?q=%23%E9%BA%BB%E5%85%AD%E8%AE%B0%E5%9B%A0%E6%9C%AA%E7%BB%99%E5%AD%95%E5%A6%87%E4%BC%98%E5%BE%85%E8%A2%AB%E6%89%93%E5%B7%AE%E8%AF%84%23&t=31&band_rank=2&Refer=top) 1238361
 1. [桃花映日出迎接四月](https://s.weibo.com/weibo?q=%23%E6%A1%83%E8%8A%B1%E6%98%A0%E6%97%A5%E5%87%BA%E8%BF%8E%E6%8E%A5%E5%9B%9B%E6%9C%88%23&t=31&band_rank=3&Refer=top) 953064
@@ -41,8 +41,8 @@
 1. [RNG提前进入夏季赛](https://s.weibo.com/weibo?q=%23RNG%E6%8F%90%E5%89%8D%E8%BF%9B%E5%85%A5%E5%A4%8F%E5%AD%A3%E8%B5%9B%23&t=31&band_rank=31&Refer=top) 179161
 1. [父母抹酒精退烧致4岁女儿住进ICU](https://s.weibo.com/weibo?q=%23%E7%88%B6%E6%AF%8D%E6%8A%B9%E9%85%92%E7%B2%BE%E9%80%80%E7%83%A7%E8%87%B44%E5%B2%81%E5%A5%B3%E5%84%BF%E4%BD%8F%E8%BF%9BICU%23&t=31&band_rank=32&Refer=top) 176488
 1. [生理性抑郁症](https://s.weibo.com/weibo?q=%23%E7%94%9F%E7%90%86%E6%80%A7%E6%8A%91%E9%83%81%E7%97%87%23&t=31&band_rank=33&Refer=top) 168596
+1. [周柏豪演唱会](https://s.weibo.com/weibo?q=%E5%91%A8%E6%9F%8F%E8%B1%AA%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=35&Refer=top) 163634
 1. [魔卡少女樱续作](https://s.weibo.com/weibo?q=%23%E9%AD%94%E5%8D%A1%E5%B0%91%E5%A5%B3%E6%A8%B1%E7%BB%AD%E4%BD%9C%23&t=31&band_rank=34&Refer=top) 158663
-1. [周柏豪演唱会](https://s.weibo.com/weibo?q=%E5%91%A8%E6%9F%8F%E8%B1%AA%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=35&Refer=top) 149431
 1. [深海](https://s.weibo.com/weibo?q=%E6%B7%B1%E6%B5%B7&t=31&band_rank=36&Refer=top) 131967
 1. [张国荣此间永远是少年](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%9B%BD%E8%8D%A3%E6%AD%A4%E9%97%B4%E6%B0%B8%E8%BF%9C%E6%98%AF%E5%B0%91%E5%B9%B4%23&t=31&band_rank=37&Refer=top) 130508
 1. [张继科](https://s.weibo.com/weibo?q=%E5%BC%A0%E7%BB%A7%E7%A7%91&t=31&band_rank=38&Refer=top) 128627
@@ -54,10 +54,11 @@
 1. [杨幂说一不小心回到小时候](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E8%AF%B4%E4%B8%80%E4%B8%8D%E5%B0%8F%E5%BF%83%E5%9B%9E%E5%88%B0%E5%B0%8F%E6%97%B6%E5%80%99%23&t=31&band_rank=44&Refer=top) 109641
 1. [乘风破浪4](https://s.weibo.com/weibo?q=%E4%B9%98%E9%A3%8E%E7%A0%B4%E6%B5%AA4&t=31&band_rank=45&Refer=top) 107860
 1. [招惹](https://s.weibo.com/weibo?q=%E6%8B%9B%E6%83%B9&t=31&band_rank=46&Refer=top) 107389
+1. [情绪控制力](https://s.weibo.com/weibo?q=%E6%83%85%E7%BB%AA%E6%8E%A7%E5%88%B6%E5%8A%9B&t=31&band_rank=50&Refer=top) 102086
 1. [林彦俊回应受伤](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BD%A6%E4%BF%8A%E5%9B%9E%E5%BA%94%E5%8F%97%E4%BC%A4%23&t=31&band_rank=47&Refer=top) 98695
 1. [RNG Angel](https://s.weibo.com/weibo?q=RNG%20Angel&t=31&band_rank=48&Refer=top) 95920
 1. [上课最害怕的事还是发生了](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E8%AF%BE%E6%9C%80%E5%AE%B3%E6%80%95%E7%9A%84%E4%BA%8B%E8%BF%98%E6%98%AF%E5%8F%91%E7%94%9F%E4%BA%86%23&t=31&band_rank=49&Refer=top) 94799
-1. [情绪控制力](https://s.weibo.com/weibo?q=%E6%83%85%E7%BB%AA%E6%8E%A7%E5%88%B6%E5%8A%9B&t=31&band_rank=50&Refer=top) 92761
+1. [还没答辩的有福了](https://s.weibo.com/weibo?q=%23%E8%BF%98%E6%B2%A1%E7%AD%94%E8%BE%A9%E7%9A%84%E6%9C%89%E7%A6%8F%E4%BA%86%23&t=31&band_rank=50&Refer=top) 84644
 <!-- END -->
 
 历史归档 [./archives](./archives)
