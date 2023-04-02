@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-04-03 00:30:05.563209 
+最后更新时间 2023-04-03 00:40:09.838044 
 1. [张继科借条](https://s.weibo.com/weibo?q=%E5%BC%A0%E7%BB%A7%E7%A7%91%E5%80%9F%E6%9D%A1&t=31&band_rank=1&Refer=top) 9147341
 1. [坂本龙一去世](https://s.weibo.com/weibo?q=%23%E5%9D%82%E6%9C%AC%E9%BE%99%E4%B8%80%E5%8E%BB%E4%B8%96%23&t=31&band_rank=2&Refer=top) 1564953
 1. [英雄之光](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E4%B9%8B%E5%85%89%23&t=31&band_rank=3&Refer=top) 1070758
@@ -17,7 +17,7 @@
 1. [真实地活下去 不要忘记每天看月亮](https://s.weibo.com/weibo?q=%E7%9C%9F%E5%AE%9E%E5%9C%B0%E6%B4%BB%E4%B8%8B%E5%8E%BB%20%E4%B8%8D%E8%A6%81%E5%BF%98%E8%AE%B0%E6%AF%8F%E5%A4%A9%E7%9C%8B%E6%9C%88%E4%BA%AE&t=31&band_rank=6&Refer=top) 535251
 1. [坂本龙一微博告别](https://s.weibo.com/weibo?q=%23%E5%9D%82%E6%9C%AC%E9%BE%99%E4%B8%80%E5%BE%AE%E5%8D%9A%E5%91%8A%E5%88%AB%23&t=31&band_rank=7&Refer=top) 446772
 1. [SEVENTEEN歌单](https://s.weibo.com/weibo?q=SEVENTEEN%E6%AD%8C%E5%8D%95&t=31&band_rank=8&Refer=top) 427691
-1. [秋瓷炫跳的gee](https://s.weibo.com/weibo?q=%23%E7%A7%8B%E7%93%B7%E7%82%AB%E8%B7%B3%E7%9A%84gee%23&t=31&band_rank=9&Refer=top) 371220
+1. [秋瓷炫跳的gee](https://s.weibo.com/weibo?q=%23%E7%A7%8B%E7%93%B7%E7%82%AB%E8%B7%B3%E7%9A%84gee%23&t=31&band_rank=9&Refer=top) 375242
 1. [白桃星座](https://s.weibo.com/weibo?q=%E7%99%BD%E6%A1%83%E6%98%9F%E5%BA%A7&t=31&band_rank=10&Refer=top) 327883
 1. [张继科联合创立的茶饮品牌已成老赖](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BB%A7%E7%A7%91%E8%81%94%E5%90%88%E5%88%9B%E7%AB%8B%E7%9A%84%E8%8C%B6%E9%A5%AE%E5%93%81%E7%89%8C%E5%B7%B2%E6%88%90%E8%80%81%E8%B5%96%23&t=31&band_rank=11&Refer=top) 324701
 1. [马嘉祺只有51公斤](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%98%89%E7%A5%BA%E5%8F%AA%E6%9C%8951%E5%85%AC%E6%96%A4%23&t=31&band_rank=13&Refer=top) 317784
@@ -47,16 +47,16 @@
 1. [王一博白色小香风造型花絮](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E7%99%BD%E8%89%B2%E5%B0%8F%E9%A6%99%E9%A3%8E%E9%80%A0%E5%9E%8B%E8%8A%B1%E7%B5%AE%23&t=31&band_rank=37&Refer=top) 170129
 1. [4AM夺冠](https://s.weibo.com/weibo?q=%234AM%E5%A4%BA%E5%86%A0%23&t=31&band_rank=38&Refer=top) 150863
 1. [为什么越来越多的人涌向猪厂](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E7%9A%84%E4%BA%BA%E6%B6%8C%E5%90%91%E7%8C%AA%E5%8E%82%23&t=31&band_rank=39&Refer=top) 149839
+1. [把垃圾桶拍成买不起的感觉](https://s.weibo.com/weibo?q=%23%E6%8A%8A%E5%9E%83%E5%9C%BE%E6%A1%B6%E6%8B%8D%E6%88%90%E4%B9%B0%E4%B8%8D%E8%B5%B7%E7%9A%84%E6%84%9F%E8%A7%89%23&t=31&band_rank=42&Refer=top) 149206
 1. [第一次见有发型的鸭子](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E6%9C%89%E5%8F%91%E5%9E%8B%E7%9A%84%E9%B8%AD%E5%AD%90%23&t=31&band_rank=40&Refer=top) 140167
-1. [把垃圾桶拍成买不起的感觉](https://s.weibo.com/weibo?q=%23%E6%8A%8A%E5%9E%83%E5%9C%BE%E6%A1%B6%E6%8B%8D%E6%88%90%E4%B9%B0%E4%B8%8D%E8%B5%B7%E7%9A%84%E6%84%9F%E8%A7%89%23&t=31&band_rank=42&Refer=top) 138497
 1. [李健音乐节](https://s.weibo.com/weibo?q=%E6%9D%8E%E5%81%A5%E9%9F%B3%E4%B9%90%E8%8A%82&t=31&band_rank=41&Refer=top) 137252
 1. [铃芽之旅连续10天票房日冠](https://s.weibo.com/weibo?q=%23%E9%93%83%E8%8A%BD%E4%B9%8B%E6%97%85%E8%BF%9E%E7%BB%AD10%E5%A4%A9%E7%A5%A8%E6%88%BF%E6%97%A5%E5%86%A0%23&t=31&band_rank=43&Refer=top) 132158
 1. [纽卡斯尔联vs曼联](https://s.weibo.com/weibo?q=%E7%BA%BD%E5%8D%A1%E6%96%AF%E5%B0%94%E8%81%94vs%E6%9B%BC%E8%81%94&t=31&band_rank=47&Refer=top) 128396
+1. [大学生你别太离谱](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%BD%A0%E5%88%AB%E5%A4%AA%E7%A6%BB%E8%B0%B1%23&t=31&band_rank=50&Refer=top) 127962
 1. [五月天energy放手](https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9energy%E6%94%BE%E6%89%8B%23&t=31&band_rank=44&Refer=top) 126554
 1. [秦岚张峻宁吻戏](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E5%BC%A0%E5%B3%BB%E5%AE%81%E5%90%BB%E6%88%8F%23&t=31&band_rank=43&Refer=top) 119289
 1. [白鹿说长月烬明是绝世大甜剧](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E8%AF%B4%E9%95%BF%E6%9C%88%E7%83%AC%E6%98%8E%E6%98%AF%E7%BB%9D%E4%B8%96%E5%A4%A7%E7%94%9C%E5%89%A7%23&t=31&band_rank=45&Refer=top) 119251
 1. [狼队战胜WB](https://s.weibo.com/weibo?q=%23%E7%8B%BC%E9%98%9F%E6%88%98%E8%83%9CWB%23&t=31&band_rank=46&Refer=top) 109761
-1. [大学生你别太离谱](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%BD%A0%E5%88%AB%E5%A4%AA%E7%A6%BB%E8%B0%B1%23&t=31&band_rank=50&Refer=top) 104943
 1. [Jennie一人分饰两角](https://s.weibo.com/weibo?q=%23Jennie%E4%B8%80%E4%BA%BA%E5%88%86%E9%A5%B0%E4%B8%A4%E8%A7%92%23&t=31&band_rank=48&Refer=top) 99844
 1. [黄明昊跳了姐姐真漂亮](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%98%8E%E6%98%8A%E8%B7%B3%E4%BA%86%E5%A7%90%E5%A7%90%E7%9C%9F%E6%BC%82%E4%BA%AE%23&t=31&band_rank=49&Refer=top) 96451
 <!-- END -->
