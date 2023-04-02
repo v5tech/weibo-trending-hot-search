@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-04-03 01:49:10.421244 
+最后更新时间 2023-04-03 02:11:30.084589 
 1. [张继科借条](https://s.weibo.com/weibo?q=%E5%BC%A0%E7%BB%A7%E7%A7%91%E5%80%9F%E6%9D%A1&t=31&band_rank=1&Refer=top) 9147341
 1. [坂本龙一去世](https://s.weibo.com/weibo?q=%23%E5%9D%82%E6%9C%AC%E9%BE%99%E4%B8%80%E5%8E%BB%E4%B8%96%23&t=31&band_rank=2&Refer=top) 1564953
 1. [英雄之光](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E4%B9%8B%E5%85%89%23&t=31&band_rank=3&Refer=top) 1070758
@@ -62,6 +62,7 @@
 1. [本泽马7分钟帽子戏法](https://s.weibo.com/weibo?q=%23%E6%9C%AC%E6%B3%BD%E9%A9%AC7%E5%88%86%E9%92%9F%E5%B8%BD%E5%AD%90%E6%88%8F%E6%B3%95%23&t=31&band_rank=48&Refer=top) 54799
 1. [岳云鹏第一次相亲没相上](https://s.weibo.com/weibo?q=%23%E5%B2%B3%E4%BA%91%E9%B9%8F%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%9B%B8%E4%BA%B2%E6%B2%A1%E7%9B%B8%E4%B8%8A%23&t=31&band_rank=40&Refer=top) 46507
 1. [INTO1告别演唱会泰国场](https://s.weibo.com/weibo?q=%23INTO1%E5%91%8A%E5%88%AB%E6%BC%94%E5%94%B1%E4%BC%9A%E6%B3%B0%E5%9B%BD%E5%9C%BA%23&t=31&band_rank=50&Refer=top) 32157
+1. [这家伙是真的会飞吧](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%AE%B6%E4%BC%99%E6%98%AF%E7%9C%9F%E7%9A%84%E4%BC%9A%E9%A3%9E%E5%90%A7%23&t=31&band_rank=50&Refer=top) 29372
 <!-- END -->
 
 历史归档 [./archives](./archives)
