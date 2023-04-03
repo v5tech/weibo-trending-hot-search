@@ -7,12 +7,12 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-04-04 00:33:00.686376 
+最后更新时间 2023-04-04 00:49:03.252529 
 1. [中央政法委长安剑评张继科事件](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B3%95%E5%A7%94%E9%95%BF%E5%AE%89%E5%89%91%E8%AF%84%E5%BC%A0%E7%BB%A7%E7%A7%91%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=1&Refer=top) 1616568
 1. [杭州悬赏100万出点子摆脱美食荒漠](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E6%82%AC%E8%B5%8F100%E4%B8%87%E5%87%BA%E7%82%B9%E5%AD%90%E6%91%86%E8%84%B1%E7%BE%8E%E9%A3%9F%E8%8D%92%E6%BC%A0%23&t=31&band_rank=2&Refer=top) 548636
-1. [一图看懂海南全岛封关意味着什么](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%9B%BE%E7%9C%8B%E6%87%82%E6%B5%B7%E5%8D%97%E5%85%A8%E5%B2%9B%E5%B0%81%E5%85%B3%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88%23&t=31&band_rank=3&Refer=top) 381669
-1. [张继科没有正式宣布退役](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BB%A7%E7%A7%91%E6%B2%A1%E6%9C%89%E6%AD%A3%E5%BC%8F%E5%AE%A3%E5%B8%83%E9%80%80%E5%BD%B9%23&t=31&band_rank=4&Refer=top) 367745
-1. [吃菠萝扎嘴的原因](https://s.weibo.com/weibo?q=%E5%90%83%E8%8F%A0%E8%90%9D%E6%89%8E%E5%98%B4%E7%9A%84%E5%8E%9F%E5%9B%A0&t=31&band_rank=18&Refer=top) 348519
+1. [一图看懂海南全岛封关意味着什么](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%9B%BE%E7%9C%8B%E6%87%82%E6%B5%B7%E5%8D%97%E5%85%A8%E5%B2%9B%E5%B0%81%E5%85%B3%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88%23&t=31&band_rank=3&Refer=top) 388042
+1. [张继科没有正式宣布退役](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BB%A7%E7%A7%91%E6%B2%A1%E6%9C%89%E6%AD%A3%E5%BC%8F%E5%AE%A3%E5%B8%83%E9%80%80%E5%BD%B9%23&t=31&band_rank=4&Refer=top) 386924
+1. [吃菠萝扎嘴的原因](https://s.weibo.com/weibo?q=%E5%90%83%E8%8F%A0%E8%90%9D%E6%89%8E%E5%98%B4%E7%9A%84%E5%8E%9F%E5%9B%A0&t=31&band_rank=18&Refer=top) 385052
 1. [鹭卓 抄袭](https://s.weibo.com/weibo?q=%E9%B9%AD%E5%8D%93%20%E6%8A%84%E8%A2%AD&t=31&band_rank=5&Refer=top) 307223
 1. [张继科不愿意处在风口浪尖上](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BB%A7%E7%A7%91%E4%B8%8D%E6%84%BF%E6%84%8F%E5%A4%84%E5%9C%A8%E9%A3%8E%E5%8F%A3%E6%B5%AA%E5%B0%96%E4%B8%8A%23&t=31&band_rank=7&Refer=top) 285580
 1. [小李子凯特无关爱情的永恒cp](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%8E%E5%AD%90%E5%87%AF%E7%89%B9%E6%97%A0%E5%85%B3%E7%88%B1%E6%83%85%E7%9A%84%E6%B0%B8%E6%81%92cp%23&t=31&band_rank=6&Refer=top) 275440
@@ -47,8 +47,8 @@
 1. [为什么父母辈不理解双休](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E7%88%B6%E6%AF%8D%E8%BE%88%E4%B8%8D%E7%90%86%E8%A7%A3%E5%8F%8C%E4%BC%91%23&t=31&band_rank=37&Refer=top) 147473
 1. [刘耀文预告新歌](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%80%80%E6%96%87%E9%A2%84%E5%91%8A%E6%96%B0%E6%AD%8C%23&t=31&band_rank=38&Refer=top) 146945
 1. [原来鲨鱼卵长这样](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E9%B2%A8%E9%B1%BC%E5%8D%B5%E9%95%BF%E8%BF%99%E6%A0%B7%23&t=31&band_rank=39&Refer=top) 141554
+1. [HYBE新男团BOYNEXTDOOR主页公开](https://s.weibo.com/weibo?q=%23HYBE%E6%96%B0%E7%94%B7%E5%9B%A2BOYNEXTDOOR%E4%B8%BB%E9%A1%B5%E5%85%AC%E5%BC%80%23&t=31&band_rank=50&Refer=top) 139136
 1. [蔡徐坤粉丝篮球场公益项目](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E7%B2%89%E4%B8%9D%E7%AF%AE%E7%90%83%E5%9C%BA%E5%85%AC%E7%9B%8A%E9%A1%B9%E7%9B%AE%23&t=31&band_rank=40&Refer=top) 136364
-1. [HYBE新男团BOYNEXTDOOR主页公开](https://s.weibo.com/weibo?q=%23HYBE%E6%96%B0%E7%94%B7%E5%9B%A2BOYNEXTDOOR%E4%B8%BB%E9%A1%B5%E5%85%AC%E5%BC%80%23&t=31&band_rank=50&Refer=top) 130815
 1. [张继科借条](https://s.weibo.com/weibo?q=%E5%BC%A0%E7%BB%A7%E7%A7%91%E5%80%9F%E6%9D%A1&t=31&band_rank=41&Refer=top) 127735
 1. [招惹](https://s.weibo.com/weibo?q=%E6%8B%9B%E6%83%B9&t=31&band_rank=42&Refer=top) 125342
 1. [黄绮珊歌迷精神状态](https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%BB%AE%E7%8F%8A%E6%AD%8C%E8%BF%B7%E7%B2%BE%E7%A5%9E%E7%8A%B6%E6%80%81%23&t=31&band_rank=43&Refer=top) 124922
@@ -58,6 +58,7 @@
 1. [赵露思王安宇直播状态](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E7%8E%8B%E5%AE%89%E5%AE%87%E7%9B%B4%E6%92%AD%E7%8A%B6%E6%80%81%23&t=31&band_rank=47&Refer=top) 117809
 1. [IVE新歌预告照](https://s.weibo.com/weibo?q=%23IVE%E6%96%B0%E6%AD%8C%E9%A2%84%E5%91%8A%E7%85%A7%23&t=31&band_rank=48&Refer=top) 103612
 1. [他是谁](https://s.weibo.com/weibo?q=%E4%BB%96%E6%98%AF%E8%B0%81&t=31&band_rank=49&Refer=top) 99058
+1. [突然就想换个专业读了](https://s.weibo.com/weibo?q=%23%E7%AA%81%E7%84%B6%E5%B0%B1%E6%83%B3%E6%8D%A2%E4%B8%AA%E4%B8%93%E4%B8%9A%E8%AF%BB%E4%BA%86%23&t=31&band_rank=50&Refer=top) 63614
 <!-- END -->
 
 历史归档 [./archives](./archives)
