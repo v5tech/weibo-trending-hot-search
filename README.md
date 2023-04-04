@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-04-05 06:48:55.321216 
+最后更新时间 2023-04-05 07:10:17.182186 
 1. [柯哀亲了](https://s.weibo.com/weibo?q=%E6%9F%AF%E5%93%80%E4%BA%B2%E4%BA%86&t=31&band_rank=1&Refer=top) 3718327
 1. [果然娱乐回应小鬼被抄袭](https://s.weibo.com/weibo?q=%23%E6%9E%9C%E7%84%B6%E5%A8%B1%E4%B9%90%E5%9B%9E%E5%BA%94%E5%B0%8F%E9%AC%BC%E8%A2%AB%E6%8A%84%E8%A2%AD%23&t=31&band_rank=2&Refer=top) 685842
 1. [清明给英烈写句话](https://s.weibo.com/weibo?q=%23%E6%B8%85%E6%98%8E%E7%BB%99%E8%8B%B1%E7%83%88%E5%86%99%E5%8F%A5%E8%AF%9D%23&t=31&band_rank=3&Refer=top) 566493
@@ -61,10 +61,15 @@
 1. [林依晨看了都得愣一下](https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BE%9D%E6%99%A8%E7%9C%8B%E4%BA%86%E9%83%BD%E5%BE%97%E6%84%A3%E4%B8%80%E4%B8%8B%23&t=31&band_rank=48&Refer=top) 103398
 1. [IVE正规专预告照](https://s.weibo.com/weibo?q=%23IVE%E6%AD%A3%E8%A7%84%E4%B8%93%E9%A2%84%E5%91%8A%E7%85%A7%23&t=31&band_rank=49&Refer=top) 99423
 1. [LPL春季赛四强确定](https://s.weibo.com/weibo?q=%23LPL%E6%98%A5%E5%AD%A3%E8%B5%9B%E5%9B%9B%E5%BC%BA%E7%A1%AE%E5%AE%9A%23&t=31&band_rank=50&Refer=top) 98738
+1. [Amber小跑和黄晓明握手](https://s.weibo.com/weibo?q=%23Amber%E5%B0%8F%E8%B7%91%E5%92%8C%E9%BB%84%E6%99%93%E6%98%8E%E6%8F%A1%E6%89%8B%23&t=31&band_rank=20&Refer=top) 73774
 1. [张元英专辑预告照](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%85%83%E8%8B%B1%E4%B8%93%E8%BE%91%E9%A2%84%E5%91%8A%E7%85%A7%23&t=31&band_rank=49&Refer=top) 70168
+1. [特朗普自曝被控33项罪名](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%87%AA%E6%9B%9D%E8%A2%AB%E6%8E%A733%E9%A1%B9%E7%BD%AA%E5%90%8D%23&t=31&band_rank=33&Refer=top) 50894
 1. [马英九向张自忠敬献花圈](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E8%8B%B1%E4%B9%9D%E5%90%91%E5%BC%A0%E8%87%AA%E5%BF%A0%E6%95%AC%E7%8C%AE%E8%8A%B1%E5%9C%88%23&t=31&band_rank=50&Refer=top) 50793
+1. [大学生在打一种很新的卡](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9C%A8%E6%89%93%E4%B8%80%E7%A7%8D%E5%BE%88%E6%96%B0%E7%9A%84%E5%8D%A1%23&t=31&band_rank=50&Refer=top) 36793
+1. [最食人间烟火色](https://s.weibo.com/weibo?q=%E6%9C%80%E9%A3%9F%E4%BA%BA%E9%97%B4%E7%83%9F%E7%81%AB%E8%89%B2&t=31&band_rank=45&Refer=top) 36728
 1. [世界的尽头](https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E7%9A%84%E5%B0%BD%E5%A4%B4&t=31&band_rank=50&Refer=top) 36004
-1. [大学生在打一种很新的卡](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9C%A8%E6%89%93%E4%B8%80%E7%A7%8D%E5%BE%88%E6%96%B0%E7%9A%84%E5%8D%A1%23&t=31&band_rank=50&Refer=top) 35075
+1. [特朗普在法庭上做无罪辩护](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E6%B3%95%E5%BA%AD%E4%B8%8A%E5%81%9A%E6%97%A0%E7%BD%AA%E8%BE%A9%E6%8A%A4%23&t=31&band_rank=48&Refer=top) 31277
+1. [AG对战EDGM](https://s.weibo.com/weibo?q=%23AG%E5%AF%B9%E6%88%98EDGM%23&t=31&band_rank=49&Refer=top) 28835
 1. [很难拒绝看热闹](https://s.weibo.com/weibo?q=%23%E5%BE%88%E9%9A%BE%E6%8B%92%E7%BB%9D%E7%9C%8B%E7%83%AD%E9%97%B9%23&t=31&band_rank=50&Refer=top) 21115
 1. [年龄无差怎么撞出火花](https://s.weibo.com/weibo?q=%23%E5%B9%B4%E9%BE%84%E6%97%A0%E5%B7%AE%E6%80%8E%E4%B9%88%E6%92%9E%E5%87%BA%E7%81%AB%E8%8A%B1%23&t=31&band_rank=50&Refer=top) 14030
 <!-- END -->
