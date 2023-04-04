@@ -1,7 +1,7 @@
 {
   "苹果天气": {
     "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E5%A4%A9%E6%B0%94&t=31&band_rank=16&Refer=top",
-    "hot": 4185636
+    "hot": 4408728
   },
   "王刚清空账号解散粉丝群": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%88%9A%E6%B8%85%E7%A9%BA%E8%B4%A6%E5%8F%B7%E8%A7%A3%E6%95%A3%E7%B2%89%E4%B8%9D%E7%BE%A4%23&t=31&band_rank=11&Refer=top",
@@ -35,6 +35,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B3%95%E5%A7%94%E9%95%BF%E5%AE%89%E5%89%91%E8%AF%84%E5%BC%A0%E7%BB%A7%E7%A7%91%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=1&Refer=top",
     "hot": 1616568
   },
+  "超级小桀": {
+    "url": "https://s.weibo.com/weibo?q=%E8%B6%85%E7%BA%A7%E5%B0%8F%E6%A1%80&t=31&band_rank=16&Refer=top",
+    "hot": 1533010
+  },
   "特斯拉一夜暴跌2700亿": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%80%E5%A4%9C%E6%9A%B4%E8%B7%8C2700%E4%BA%BF%23&t=31&band_rank=29&Refer=top",
     "hot": 1530932
@@ -54,10 +58,6 @@
   "长月烬明 让妆": {
     "url": "https://s.weibo.com/weibo?q=%E9%95%BF%E6%9C%88%E7%83%AC%E6%98%8E%20%E8%AE%A9%E5%A6%86&t=31&band_rank=27&Refer=top",
     "hot": 1276180
-  },
-  "超级小桀": {
-    "url": "https://s.weibo.com/weibo?q=%E8%B6%85%E7%BA%A7%E5%B0%8F%E6%A1%80&t=31&band_rank=16&Refer=top",
-    "hot": 1248521
   },
   "唐伯虎 乘风4": {
     "url": "https://s.weibo.com/weibo?q=%E5%94%90%E4%BC%AF%E8%99%8E%20%E4%B9%98%E9%A3%8E4&t=31&band_rank=19&Refer=top",
@@ -87,6 +87,10 @@
     "url": "https://s.weibo.com/weibo?q=%E6%9B%BE%E5%8F%AF%E5%A6%AE%20%E6%8E%92%E5%90%8D&t=31&band_rank=22&Refer=top",
     "hot": 918254
   },
+  "女子乐山大佛头顶盘膝打坐": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B9%90%E5%B1%B1%E5%A4%A7%E4%BD%9B%E5%A4%B4%E9%A1%B6%E7%9B%98%E8%86%9D%E6%89%93%E5%9D%90%23&t=31&band_rank=50&Refer=top",
+    "hot": 837414
+  },
   "张继科没有正式宣布退役": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BB%A7%E7%A7%91%E6%B2%A1%E6%9C%89%E6%AD%A3%E5%BC%8F%E5%AE%A3%E5%B8%83%E9%80%80%E5%BD%B9%23&t=31&band_rank=4&Refer=top",
     "hot": 800079
@@ -98,10 +102,6 @@
   "BLACKPINK或将全员续约YG": {
     "url": "https://s.weibo.com/weibo?q=%23BLACKPINK%E6%88%96%E5%B0%86%E5%85%A8%E5%91%98%E7%BB%AD%E7%BA%A6YG%23&t=31&band_rank=4&Refer=top",
     "hot": 728724
-  },
-  "女子乐山大佛头顶盘膝打坐": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B9%90%E5%B1%B1%E5%A4%A7%E4%BD%9B%E5%A4%B4%E9%A1%B6%E7%9B%98%E8%86%9D%E6%89%93%E5%9D%90%23&t=31&band_rank=50&Refer=top",
-    "hot": 721277
   },
   "90后女入殓师穿上寿衣大方展示": {
     "url": "https://s.weibo.com/weibo?q=%2390%E5%90%8E%E5%A5%B3%E5%85%A5%E6%AE%93%E5%B8%88%E7%A9%BF%E4%B8%8A%E5%AF%BF%E8%A1%A3%E5%A4%A7%E6%96%B9%E5%B1%95%E7%A4%BA%23&t=31&band_rank=21&Refer=top",
@@ -131,6 +131,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E9%9D%92%E6%98%A5%E7%8E%AF%E6%B8%B8%E8%AE%B04%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=37&Refer=top",
     "hot": 633778
   },
+  "Amber 排名": {
+    "url": "https://s.weibo.com/weibo?q=Amber%20%E6%8E%92%E5%90%8D&t=31&band_rank=33&Refer=top",
+    "hot": 622202
+  },
   "为什么从来不和爸妈分享日常": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BB%8E%E6%9D%A5%E4%B8%8D%E5%92%8C%E7%88%B8%E5%A6%88%E5%88%86%E4%BA%AB%E6%97%A5%E5%B8%B8%23&t=31&band_rank=37&Refer=top",
     "hot": 619620
@@ -150,10 +154,6 @@
   "崔始源肿么了": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%B4%94%E5%A7%8B%E6%BA%90%E8%82%BF%E4%B9%88%E4%BA%86%23&t=31&band_rank=24&Refer=top",
     "hot": 593851
-  },
-  "Amber 排名": {
-    "url": "https://s.weibo.com/weibo?q=Amber%20%E6%8E%92%E5%90%8D&t=31&band_rank=33&Refer=top",
-    "hot": 589337
   },
   "特朗普一旦定罪或被判4年": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%80%E6%97%A6%E5%AE%9A%E7%BD%AA%E6%88%96%E8%A2%AB%E5%88%A44%E5%B9%B4%23&t=31&band_rank=34&Refer=top",
@@ -243,6 +243,10 @@
     "url": "https://s.weibo.com/weibo?q=%E5%A4%A7%E4%BE%A6%E6%8E%A2&t=31&band_rank=18&Refer=top",
     "hot": 406855
   },
+  "张继科事件能否掀起乒坛整风": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BB%A7%E7%A7%91%E4%BA%8B%E4%BB%B6%E8%83%BD%E5%90%A6%E6%8E%80%E8%B5%B7%E4%B9%92%E5%9D%9B%E6%95%B4%E9%A3%8E%23&t=31&band_rank=40&Refer=top",
+    "hot": 402499
+  },
   "刘国梁": {
     "url": "https://s.weibo.com/weibo?q=%E5%88%98%E5%9B%BD%E6%A2%81&t=31&band_rank=12&Refer=top",
     "hot": 398490
@@ -287,13 +291,13 @@
     "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BB%B6%E5%B9%B4%E9%99%88%E4%B9%94%E5%B9%B4%E5%A2%93%E6%97%81%E7%9A%84%E6%A1%83%E8%8A%B1%E5%BC%80%E4%BA%86%23&t=31&band_rank=48&Refer=top",
     "hot": 348048
   },
+  "如梦之梦": {
+    "url": "https://s.weibo.com/weibo?q=%E5%A6%82%E6%A2%A6%E4%B9%8B%E6%A2%A6&t=31&band_rank=18&Refer=top",
+    "hot": 347833
+  },
   "K宝入驻微博": {
     "url": "https://s.weibo.com/weibo?q=%23K%E5%AE%9D%E5%85%A5%E9%A9%BB%E5%BE%AE%E5%8D%9A%23&t=31&band_rank=20&Refer=top",
     "hot": 340091
-  },
-  "如梦之梦": {
-    "url": "https://s.weibo.com/weibo?q=%E5%A6%82%E6%A2%A6%E4%B9%8B%E6%A2%A6&t=31&band_rank=18&Refer=top",
-    "hot": 337821
   },
   "毛晓彤簪花女造型": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%AF%9B%E6%99%93%E5%BD%A4%E7%B0%AA%E8%8A%B1%E5%A5%B3%E9%80%A0%E5%9E%8B%23&t=31&band_rank=20&Refer=top",
@@ -303,13 +307,17 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%BE%8E%E4%BA%BA%E9%B1%BC%E5%86%85%E5%9C%B0%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=30&Refer=top",
     "hot": 329584
   },
-  "张继科事件能否掀起乒坛整风": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BB%A7%E7%A7%91%E4%BA%8B%E4%BB%B6%E8%83%BD%E5%90%A6%E6%8E%80%E8%B5%B7%E4%B9%92%E5%9D%9B%E6%95%B4%E9%A3%8E%23&t=31&band_rank=40&Refer=top",
-    "hot": 329484
-  },
   "原来摸鱼也是有技巧的": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%91%B8%E9%B1%BC%E4%B9%9F%E6%98%AF%E6%9C%89%E6%8A%80%E5%B7%A7%E7%9A%84%23&t=31&band_rank=27&Refer=top",
     "hot": 320997
+  },
+  "摩羯座真的还蛮会照顾人的": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%91%A9%E7%BE%AF%E5%BA%A7%E7%9C%9F%E7%9A%84%E8%BF%98%E8%9B%AE%E4%BC%9A%E7%85%A7%E9%A1%BE%E4%BA%BA%E7%9A%84%23&t=31&band_rank=28&Refer=top",
+    "hot": 320663
+  },
+  "求张继科事件视频当心触法": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B1%82%E5%BC%A0%E7%BB%A7%E7%A7%91%E4%BA%8B%E4%BB%B6%E8%A7%86%E9%A2%91%E5%BD%93%E5%BF%83%E8%A7%A6%E6%B3%95%23&t=31&band_rank=19&Refer=top",
+    "hot": 320328
   },
   "吴世勋新剧预告公开": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%B8%96%E5%8B%8B%E6%96%B0%E5%89%A7%E9%A2%84%E5%91%8A%E5%85%AC%E5%BC%80%23&t=31&band_rank=17&Refer=top",
@@ -317,7 +325,7 @@
   },
   "离职半个月长出头发了": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%A6%BB%E8%81%8C%E5%8D%8A%E4%B8%AA%E6%9C%88%E9%95%BF%E5%87%BA%E5%A4%B4%E5%8F%91%E4%BA%86%23&t=31&band_rank=48&Refer=top",
-    "hot": 308480
+    "hot": 308604
   },
   "鹭卓 抄袭": {
     "url": "https://s.weibo.com/weibo?q=%E9%B9%AD%E5%8D%93%20%E6%8A%84%E8%A2%AD&t=31&band_rank=5&Refer=top",
@@ -503,10 +511,6 @@
     "url": "https://s.weibo.com/weibo?q=%23%E7%BA%B8%E9%A3%9E%E6%9C%BA%E7%AA%81%E7%84%B6%E4%B8%8D%E5%94%AF%E7%BE%8E%E4%BA%86%23&t=31&band_rank=43&Refer=top",
     "hot": 205327
   },
-  "摩羯座真的还蛮会照顾人的": {
-    "url": "https://s.weibo.com/weibo?q=%23%E6%91%A9%E7%BE%AF%E5%BA%A7%E7%9C%9F%E7%9A%84%E8%BF%98%E8%9B%AE%E4%BC%9A%E7%85%A7%E9%A1%BE%E4%BA%BA%E7%9A%84%23&t=31&band_rank=28&Refer=top",
-    "hot": 205226
-  },
   "易烊千玺沙漠花絮": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%B2%99%E6%BC%A0%E8%8A%B1%E7%B5%AE%23&t=31&band_rank=32&Refer=top",
     "hot": 204330
@@ -562,6 +566,10 @@
   "NCAA总决赛": {
     "url": "https://s.weibo.com/weibo?q=NCAA%E6%80%BB%E5%86%B3%E8%B5%9B&t=31&band_rank=48&Refer=top",
     "hot": 198431
+  },
+  "金晨的飞行日记vlog": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E7%9A%84%E9%A3%9E%E8%A1%8C%E6%97%A5%E8%AE%B0vlog%23&t=31&band_rank=28&Refer=top",
+    "hot": 198423
   },
   "KPL春季赛第八周最佳阵容": {
     "url": "https://s.weibo.com/weibo?q=%23KPL%E6%98%A5%E5%AD%A3%E8%B5%9B%E7%AC%AC%E5%85%AB%E5%91%A8%E6%9C%80%E4%BD%B3%E9%98%B5%E5%AE%B9%23&t=31&band_rank=41&Refer=top",
@@ -639,6 +647,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%AF%8F%E5%A4%A9%E6%9C%80%E5%B0%91%E8%B5%B07000%E6%AD%A5%23&t=31&band_rank=30&Refer=top",
     "hot": 186940
   },
+  "小兰救柯南最后一跳": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%85%B0%E6%95%91%E6%9F%AF%E5%8D%97%E6%9C%80%E5%90%8E%E4%B8%80%E8%B7%B3%23&t=31&band_rank=50&Refer=top",
+    "hot": 186201
+  },
   "千金贵气妆": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%8D%83%E9%87%91%E8%B4%B5%E6%B0%94%E5%A6%86%23&t=31&band_rank=34&Refer=top",
     "hot": 186102
@@ -663,6 +675,10 @@
     "url": "https://s.weibo.com/weibo?q=%23IU%E6%9C%B4%E5%AE%9D%E5%89%91%E6%96%B0%E5%89%A7%E5%B0%86%E5%9C%A8%E7%BD%91%E9%A3%9E%E6%92%AD%E5%87%BA%23&t=31&band_rank=36&Refer=top",
     "hot": 181414
   },
+  "周也碎花绿裙": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%B9%9F%E7%A2%8E%E8%8A%B1%E7%BB%BF%E8%A3%99%23&t=31&band_rank=35&Refer=top",
+    "hot": 180322
+  },
   "时尚先生编辑说肖战有人情味": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%97%B6%E5%B0%9A%E5%85%88%E7%94%9F%E7%BC%96%E8%BE%91%E8%AF%B4%E8%82%96%E6%88%98%E6%9C%89%E4%BA%BA%E6%83%85%E5%91%B3%23&t=31&band_rank=33&Refer=top",
     "hot": 178531
@@ -686,10 +702,6 @@
   "忠犬八公狗狗主演是流浪狗": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%BF%A0%E7%8A%AC%E5%85%AB%E5%85%AC%E7%8B%97%E7%8B%97%E4%B8%BB%E6%BC%94%E6%98%AF%E6%B5%81%E6%B5%AA%E7%8B%97%23&t=31&band_rank=43&Refer=top",
     "hot": 169459
-  },
-  "周也碎花绿裙": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%B9%9F%E7%A2%8E%E8%8A%B1%E7%BB%BF%E8%A3%99%23&t=31&band_rank=35&Refer=top",
-    "hot": 167655
   },
   "李泰民正式退伍": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B3%B0%E6%B0%91%E6%AD%A3%E5%BC%8F%E9%80%80%E4%BC%8D%23&t=31&band_rank=46&Refer=top",
@@ -723,13 +735,17 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%85%89%E9%81%87%E5%A4%8D%E5%88%BB%E7%88%AC%E5%B1%B1%23&t=31&band_rank=50&Refer=top",
     "hot": 151977
   },
+  "特朗普被起诉激化美国两党对立情绪": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AB%E8%B5%B7%E8%AF%89%E6%BF%80%E5%8C%96%E7%BE%8E%E5%9B%BD%E4%B8%A4%E5%85%9A%E5%AF%B9%E7%AB%8B%E6%83%85%E7%BB%AA%23&t=31&band_rank=49&Refer=top",
+    "hot": 151691
+  },
   "明日清明": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%98%8E%E6%97%A5%E6%B8%85%E6%98%8E%23&t=31&band_rank=36&Refer=top",
     "hot": 150158
   },
   "一张照片能有多怀念": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%BC%A0%E7%85%A7%E7%89%87%E8%83%BD%E6%9C%89%E5%A4%9A%E6%80%80%E5%BF%B5%23&t=31&band_rank=43&Refer=top",
-    "hot": 148498
+    "hot": 149209
   },
   "李微敖 张继科": {
     "url": "https://s.weibo.com/weibo?q=%E6%9D%8E%E5%BE%AE%E6%95%96%20%E5%BC%A0%E7%BB%A7%E7%A7%91&t=31&band_rank=35&Refer=top",
@@ -763,13 +779,13 @@
     "url": "https://s.weibo.com/weibo?q=%23%E4%B9%83%E4%B8%87%E5%BF%83%E6%B8%B8MV%23&t=31&band_rank=45&Refer=top",
     "hot": 142808
   },
-  "特朗普被起诉激化美国两党对立情绪": {
-    "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AB%E8%B5%B7%E8%AF%89%E6%BF%80%E5%8C%96%E7%BE%8E%E5%9B%BD%E4%B8%A4%E5%85%9A%E5%AF%B9%E7%AB%8B%E6%83%85%E7%BB%AA%23&t=31&band_rank=49&Refer=top",
-    "hot": 141846
-  },
   "原来鲨鱼卵长这样": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E9%B2%A8%E9%B1%BC%E5%8D%B5%E9%95%BF%E8%BF%99%E6%A0%B7%23&t=31&band_rank=39&Refer=top",
     "hot": 141554
+  },
+  "一眼万年的下车神图": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%9C%BC%E4%B8%87%E5%B9%B4%E7%9A%84%E4%B8%8B%E8%BD%A6%E7%A5%9E%E5%9B%BE%23&t=31&band_rank=46&Refer=top",
+    "hot": 140944
   },
   "为什么很多人向往一个人旅行": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BE%88%E5%A4%9A%E4%BA%BA%E5%90%91%E5%BE%80%E4%B8%80%E4%B8%AA%E4%BA%BA%E6%97%85%E8%A1%8C%23&t=31&band_rank=45&Refer=top",
@@ -798,10 +814,6 @@
   "保你平安得偿所愿片段": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%BF%9D%E4%BD%A0%E5%B9%B3%E5%AE%89%E5%BE%97%E5%81%BF%E6%89%80%E6%84%BF%E7%89%87%E6%AE%B5%23&t=31&band_rank=44&Refer=top",
     "hot": 135290
-  },
-  "小兰救柯南最后一跳": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%85%B0%E6%95%91%E6%9F%AF%E5%8D%97%E6%9C%80%E5%90%8E%E4%B8%80%E8%B7%B3%23&t=31&band_rank=50&Refer=top",
-    "hot": 133929
   },
   "长月烬明德塔文待播剧景气指数第一": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%88%E7%83%AC%E6%98%8E%E5%BE%B7%E5%A1%94%E6%96%87%E5%BE%85%E6%92%AD%E5%89%A7%E6%99%AF%E6%B0%94%E6%8C%87%E6%95%B0%E7%AC%AC%E4%B8%80%23&t=31&band_rank=41&Refer=top",
