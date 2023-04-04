@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-04-05 06:24:21.757388 
+最后更新时间 2023-04-05 06:34:22.231996 
 1. [柯哀亲了](https://s.weibo.com/weibo?q=%E6%9F%AF%E5%93%80%E4%BA%B2%E4%BA%86&t=31&band_rank=1&Refer=top) 3718327
 1. [果然娱乐回应小鬼被抄袭](https://s.weibo.com/weibo?q=%23%E6%9E%9C%E7%84%B6%E5%A8%B1%E4%B9%90%E5%9B%9E%E5%BA%94%E5%B0%8F%E9%AC%BC%E8%A2%AB%E6%8A%84%E8%A2%AD%23&t=31&band_rank=2&Refer=top) 685842
 1. [清明给英烈写句话](https://s.weibo.com/weibo?q=%23%E6%B8%85%E6%98%8E%E7%BB%99%E8%8B%B1%E7%83%88%E5%86%99%E5%8F%A5%E8%AF%9D%23&t=31&band_rank=3&Refer=top) 566493
