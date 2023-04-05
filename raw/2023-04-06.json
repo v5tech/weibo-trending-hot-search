@@ -203,13 +203,13 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%81%87%E5%A6%82%E7%8E%B0%E5%9C%A8%E6%8A%AC%E4%BA%86%E7%9A%93%E8%A1%A3%E8%A1%8C%23&t=31&band_rank=49&Refer=top",
     "hot": 104776
   },
+  "AI翻唱": {
+    "url": "https://s.weibo.com/weibo?q=AI%E7%BF%BB%E5%94%B1&t=31&band_rank=48&Refer=top",
+    "hot": 102057
+  },
   "一秒让人破防的瞬间": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%A7%92%E8%AE%A9%E4%BA%BA%E7%A0%B4%E9%98%B2%E7%9A%84%E7%9E%AC%E9%97%B4%23&t=31&band_rank=50&Refer=top",
     "hot": 99327
-  },
-  "AI翻唱": {
-    "url": "https://s.weibo.com/weibo?q=AI%E7%BF%BB%E5%94%B1&t=31&band_rank=48&Refer=top",
-    "hot": 96918
   },
   "广东人清明特色小吃": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E4%BA%BA%E6%B8%85%E6%98%8E%E7%89%B9%E8%89%B2%E5%B0%8F%E5%90%83%23&t=31&band_rank=45&Refer=top",
@@ -218,5 +218,9 @@
   "陈小纭发长文迎接薄冰": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E5%B0%8F%E7%BA%AD%E5%8F%91%E9%95%BF%E6%96%87%E8%BF%8E%E6%8E%A5%E8%96%84%E5%86%B0%23&t=31&band_rank=50&Refer=top",
     "hot": 65461
+  },
+  "特朗普若定罪也不用被监禁": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%8B%A5%E5%AE%9A%E7%BD%AA%E4%B9%9F%E4%B8%8D%E7%94%A8%E8%A2%AB%E7%9B%91%E7%A6%81%23&t=31&band_rank=50&Refer=top",
+    "hot": 31560
   }
 }
