@@ -119,6 +119,10 @@
     "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E7%93%A3&t=31&band_rank=30&Refer=top",
     "hot": 201319
   },
+  "京城大师赛": {
+    "url": "https://s.weibo.com/weibo?q=%E4%BA%AC%E5%9F%8E%E5%A4%A7%E5%B8%88%E8%B5%9B&t=31&band_rank=32&Refer=top",
+    "hot": 189090
+  },
   "广州TTG 今天也想过节吗": {
     "url": "https://s.weibo.com/weibo?q=%E5%B9%BF%E5%B7%9ETTG%20%E4%BB%8A%E5%A4%A9%E4%B9%9F%E6%83%B3%E8%BF%87%E8%8A%82%E5%90%97&t=31&band_rank=31&Refer=top",
     "hot": 184675
@@ -163,10 +167,6 @@
     "url": "https://s.weibo.com/weibo?q=%23%E6%8B%9B%E6%83%B9%23&t=31&band_rank=41&Refer=top",
     "hot": 137500
   },
-  "京城大师赛": {
-    "url": "https://s.weibo.com/weibo?q=%E4%BA%AC%E5%9F%8E%E5%A4%A7%E5%B8%88%E8%B5%9B&t=31&band_rank=32&Refer=top",
-    "hot": 136495
-  },
   "RW驯龙高手不然": {
     "url": "https://s.weibo.com/weibo?q=%23RW%E9%A9%AF%E9%BE%99%E9%AB%98%E6%89%8B%E4%B8%8D%E7%84%B6%23&t=31&band_rank=42&Refer=top",
     "hot": 128865
@@ -206,5 +206,9 @@
   "广东人清明特色小吃": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E4%BA%BA%E6%B8%85%E6%98%8E%E7%89%B9%E8%89%B2%E5%B0%8F%E5%90%83%23&t=31&band_rank=45&Refer=top",
     "hot": 87257
+  },
+  "陈小纭发长文迎接薄冰": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E5%B0%8F%E7%BA%AD%E5%8F%91%E9%95%BF%E6%96%87%E8%BF%8E%E6%8E%A5%E8%96%84%E5%86%B0%23&t=31&band_rank=50&Refer=top",
+    "hot": 65461
   }
 }
