@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-04-07 05:49:10.362909 
+最后更新时间 2023-04-07 06:09:21.085929 
 1. [润玉时期多好看](https://s.weibo.com/weibo?q=%E6%B6%A6%E7%8E%89%E6%97%B6%E6%9C%9F%E5%A4%9A%E5%A5%BD%E7%9C%8B&t=31&band_rank=1&Refer=top) 1430959
 1. [代号鸢](https://s.weibo.com/weibo?q=%E4%BB%A3%E5%8F%B7%E9%B8%A2&t=31&band_rank=7&Refer=top) 1279449
 1. [工作4年就诊了50次](https://s.weibo.com/weibo?q=%23%E5%B7%A5%E4%BD%9C4%E5%B9%B4%E5%B0%B1%E8%AF%8A%E4%BA%8650%E6%AC%A1%23&t=31&band_rank=4&Refer=top) 658317
@@ -60,8 +60,9 @@
 1. [主打的就是一个弹性聊天](https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%89%93%E7%9A%84%E5%B0%B1%E6%98%AF%E4%B8%80%E4%B8%AA%E5%BC%B9%E6%80%A7%E8%81%8A%E5%A4%A9%23&t=31&band_rank=48&Refer=top) 96155
 1. [EDG晋级胜者组决赛](https://s.weibo.com/weibo?q=%23EDG%E6%99%8B%E7%BA%A7%E8%83%9C%E8%80%85%E7%BB%84%E5%86%B3%E8%B5%9B%23&t=31&band_rank=49&Refer=top) 88796
 1. [陈小纭说和彭冠英第一次见面是在厕所](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%B0%8F%E7%BA%AD%E8%AF%B4%E5%92%8C%E5%BD%AD%E5%86%A0%E8%8B%B1%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E9%9D%A2%E6%98%AF%E5%9C%A8%E5%8E%95%E6%89%80%23&t=31&band_rank=50&Refer=top) 84872
+1. [翟欣欣](https://s.weibo.com/weibo?q=%E7%BF%9F%E6%AC%A3%E6%AC%A3&t=31&band_rank=8&Refer=top) 72233
 1. [电影龙马精神](https://s.weibo.com/weibo?q=%E7%94%B5%E5%BD%B1%E9%BE%99%E9%A9%AC%E7%B2%BE%E7%A5%9E&t=31&band_rank=50&Refer=top) 67932
-1. [原来中国古代也有十二星座](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E4%B8%AD%E5%9B%BD%E5%8F%A4%E4%BB%A3%E4%B9%9F%E6%9C%89%E5%8D%81%E4%BA%8C%E6%98%9F%E5%BA%A7%23&t=31&band_rank=37&Refer=top) 38125
+1. [原来中国古代也有十二星座](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E4%B8%AD%E5%9B%BD%E5%8F%A4%E4%BB%A3%E4%B9%9F%E6%9C%89%E5%8D%81%E4%BA%8C%E6%98%9F%E5%BA%A7%23&t=31&band_rank=37&Refer=top) 55311
 1. [好友好有爱](https://s.weibo.com/weibo?q=%E5%A5%BD%E5%8F%8B%E5%A5%BD%E6%9C%89%E7%88%B1&t=31&band_rank=48&Refer=top) 36299
 1. [穗禾成了润玉的手下](https://s.weibo.com/weibo?q=%23%E7%A9%97%E7%A6%BE%E6%88%90%E4%BA%86%E6%B6%A6%E7%8E%89%E7%9A%84%E6%89%8B%E4%B8%8B%23&t=31&band_rank=48&Refer=top) 15360
 <!-- END -->
