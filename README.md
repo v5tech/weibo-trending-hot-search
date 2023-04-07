@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-04-08 01:23:14.867432 
+最后更新时间 2023-04-08 01:34:08.964964 
 1. [做四休三](https://s.weibo.com/weibo?q=%E5%81%9A%E5%9B%9B%E4%BC%91%E4%B8%89&t=31&band_rank=1&Refer=top) 1916184
 1. [范志毅女儿](https://s.weibo.com/weibo?q=%E8%8C%83%E5%BF%97%E6%AF%85%E5%A5%B3%E5%84%BF&t=31&band_rank=2&Refer=top) 1308576
 1. [开局之年共奋进](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%B1%80%E4%B9%8B%E5%B9%B4%E5%85%B1%E5%A5%8B%E8%BF%9B%23&t=31&band_rank=3&Refer=top) 1195747
@@ -61,6 +61,7 @@
 1. [马克龙用普通话和粤语说大家好](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%85%8B%E9%BE%99%E7%94%A8%E6%99%AE%E9%80%9A%E8%AF%9D%E5%92%8C%E7%B2%A4%E8%AF%AD%E8%AF%B4%E5%A4%A7%E5%AE%B6%E5%A5%BD%23&t=31&band_rank=48&Refer=top) 96512
 1. [蓝基因崩了](https://s.weibo.com/weibo?q=%E8%93%9D%E5%9F%BA%E5%9B%A0%E5%B4%A9%E4%BA%86&t=31&band_rank=49&Refer=top) 95556
 1. [密子君道歉](https://s.weibo.com/weibo?q=%23%E5%AF%86%E5%AD%90%E5%90%9B%E9%81%93%E6%AD%89%23&t=31&band_rank=50&Refer=top) 67535
+1. [这兔子真是吃素长大的吗](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%85%94%E5%AD%90%E7%9C%9F%E6%98%AF%E5%90%83%E7%B4%A0%E9%95%BF%E5%A4%A7%E7%9A%84%E5%90%97%23&t=31&band_rank=49&Refer=top) 36967
 <!-- END -->
 
 历史归档 [./archives](./archives)
