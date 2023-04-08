@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-04-09 02:11:42.122680 
+最后更新时间 2023-04-09 02:26:24.387872 
 1. [何炅说自己从来没让旅伴花过钱](https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%E8%AF%B4%E8%87%AA%E5%B7%B1%E4%BB%8E%E6%9D%A5%E6%B2%A1%E8%AE%A9%E6%97%85%E4%BC%B4%E8%8A%B1%E8%BF%87%E9%92%B1%23&t=31&band_rank=1&Refer=top) 1227824
 1. [因为镯子贴膜被同事嘲笑了](https://s.weibo.com/weibo?q=%23%E5%9B%A0%E4%B8%BA%E9%95%AF%E5%AD%90%E8%B4%B4%E8%86%9C%E8%A2%AB%E5%90%8C%E4%BA%8B%E5%98%B2%E7%AC%91%E4%BA%86%23&t=31&band_rank=2&Refer=top) 1100608
 1. [这是现实版人在画中游](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF%E7%8E%B0%E5%AE%9E%E7%89%88%E4%BA%BA%E5%9C%A8%E7%94%BB%E4%B8%AD%E6%B8%B8%23&t=31&band_rank=3&Refer=top) 811878
@@ -67,6 +67,7 @@
 1. [月薪两千的生活是怎样的](https://s.weibo.com/weibo?q=%23%E6%9C%88%E8%96%AA%E4%B8%A4%E5%8D%83%E7%9A%84%E7%94%9F%E6%B4%BB%E6%98%AF%E6%80%8E%E6%A0%B7%E7%9A%84%23&t=31&band_rank=50&Refer=top) 95983
 1. [月亮](https://s.weibo.com/weibo?q=%E6%9C%88%E4%BA%AE&t=31&band_rank=49&Refer=top) 92825
 1. [人生之路](https://s.weibo.com/weibo?q=%E4%BA%BA%E7%94%9F%E4%B9%8B%E8%B7%AF&t=31&band_rank=44&Refer=top) 86814
+1. [华晨宇演唱会](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=49&Refer=top) 30090
 <!-- END -->
 
 历史归档 [./archives](./archives)
