@@ -235,6 +235,10 @@
     "url": "https://s.weibo.com/weibo?q=%E4%BA%BA%E7%94%9F%E4%B9%8B%E8%B7%AF&t=31&band_rank=44&Refer=top",
     "hot": 86814
   },
+  "陈鑫海卢洋洋互相介绍对方": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E9%91%AB%E6%B5%B7%E5%8D%A2%E6%B4%8B%E6%B4%8B%E4%BA%92%E7%9B%B8%E4%BB%8B%E7%BB%8D%E5%AF%B9%E6%96%B9%23&t=31&band_rank=31&Refer=top",
+    "hot": 42487
+  },
   "华晨宇演唱会": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=49&Refer=top",
     "hot": 30090
@@ -243,10 +247,6 @@
     "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E6%99%A8%E5%AE%87%E6%9D%AD%E5%B7%9E%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=36&Refer=top",
     "hot": 26407
   },
-  "陈鑫海卢洋洋互相介绍对方": {
-    "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E9%91%AB%E6%B5%B7%E5%8D%A2%E6%B4%8B%E6%B4%8B%E4%BA%92%E7%9B%B8%E4%BB%8B%E7%BB%8D%E5%AF%B9%E6%96%B9%23&t=31&band_rank=31&Refer=top",
-    "hot": 26122
-  },
   "你是哪种旅行咖": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%BD%A0%E6%98%AF%E5%93%AA%E7%A7%8D%E6%97%85%E8%A1%8C%E5%92%96%23&t=31&band_rank=34&Refer=top",
     "hot": 20918
@@ -254,5 +254,9 @@
   "洗碗时我的精神状态": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%B4%97%E7%A2%97%E6%97%B6%E6%88%91%E7%9A%84%E7%B2%BE%E7%A5%9E%E7%8A%B6%E6%80%81%23&t=31&band_rank=48&Refer=top",
     "hot": 17791
+  },
+  "周末可以做的N件事": {
+    "url": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%9C%AB%E5%8F%AF%E4%BB%A5%E5%81%9A%E7%9A%84N%E4%BB%B6%E4%BA%8B&t=31&band_rank=48&Refer=top",
+    "hot": 14922
   }
 }
