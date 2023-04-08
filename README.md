@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-04-09 02:26:24.387872 
+最后更新时间 2023-04-09 02:35:00.066456 
 1. [何炅说自己从来没让旅伴花过钱](https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%E8%AF%B4%E8%87%AA%E5%B7%B1%E4%BB%8E%E6%9D%A5%E6%B2%A1%E8%AE%A9%E6%97%85%E4%BC%B4%E8%8A%B1%E8%BF%87%E9%92%B1%23&t=31&band_rank=1&Refer=top) 1227824
 1. [因为镯子贴膜被同事嘲笑了](https://s.weibo.com/weibo?q=%23%E5%9B%A0%E4%B8%BA%E9%95%AF%E5%AD%90%E8%B4%B4%E8%86%9C%E8%A2%AB%E5%90%8C%E4%BA%8B%E5%98%B2%E7%AC%91%E4%BA%86%23&t=31&band_rank=2&Refer=top) 1100608
 1. [这是现实版人在画中游](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF%E7%8E%B0%E5%AE%9E%E7%89%88%E4%BA%BA%E5%9C%A8%E7%94%BB%E4%B8%AD%E6%B8%B8%23&t=31&band_rank=3&Refer=top) 811878
