@@ -101,7 +101,7 @@
   },
   "EXO再唱咆哮": {
     "url": "https://s.weibo.com/weibo?q=%23EXO%E5%86%8D%E5%94%B1%E5%92%86%E5%93%AE%23&t=31&band_rank=16&Refer=top",
-    "hot": 197579
+    "hot": 202885
   },
   "广州海潮宇宙音乐节": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E6%B5%B7%E6%BD%AE%E5%AE%87%E5%AE%99%E9%9F%B3%E4%B9%90%E8%8A%82%23&t=31&band_rank=44&Refer=top",
@@ -171,6 +171,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%88%E7%83%AC%E6%98%8E%E7%AC%AC%E5%8D%81%E4%B8%80%E9%9B%86%E9%A2%84%E5%91%8A%23&t=31&band_rank=43&Refer=top",
     "hot": 121529
   },
+  "李佳航李晟看毛不易演唱会": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E8%88%AA%E6%9D%8E%E6%99%9F%E7%9C%8B%E6%AF%9B%E4%B8%8D%E6%98%93%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=22&Refer=top",
+    "hot": 112217
+  },
   "狼队战胜eStar": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%8B%BC%E9%98%9F%E6%88%98%E8%83%9CeStar%23&t=31&band_rank=40&Refer=top",
     "hot": 107441
@@ -218,5 +222,9 @@
   "人生之路": {
     "url": "https://s.weibo.com/weibo?q=%E4%BA%BA%E7%94%9F%E4%B9%8B%E8%B7%AF&t=31&band_rank=44&Refer=top",
     "hot": 86814
+  },
+  "胡歌问虚拟人没电了怎么办": {
+    "url": "https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E9%97%AE%E8%99%9A%E6%8B%9F%E4%BA%BA%E6%B2%A1%E7%94%B5%E4%BA%86%E6%80%8E%E4%B9%88%E5%8A%9E%23&t=31&band_rank=31&Refer=top",
+    "hot": 82938
   }
 }
