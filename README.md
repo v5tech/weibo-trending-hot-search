@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-04-09 06:34:13.233284 
+最后更新时间 2023-04-09 06:49:06.971188 
 1. [何炅说自己从来没让旅伴花过钱](https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%E8%AF%B4%E8%87%AA%E5%B7%B1%E4%BB%8E%E6%9D%A5%E6%B2%A1%E8%AE%A9%E6%97%85%E4%BC%B4%E8%8A%B1%E8%BF%87%E9%92%B1%23&t=31&band_rank=1&Refer=top) 1227824
 1. [因为镯子贴膜被同事嘲笑了](https://s.weibo.com/weibo?q=%23%E5%9B%A0%E4%B8%BA%E9%95%AF%E5%AD%90%E8%B4%B4%E8%86%9C%E8%A2%AB%E5%90%8C%E4%BA%8B%E5%98%B2%E7%AC%91%E4%BA%86%23&t=31&band_rank=2&Refer=top) 1100608
 1. [这是现实版人在画中游](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF%E7%8E%B0%E5%AE%9E%E7%89%88%E4%BA%BA%E5%9C%A8%E7%94%BB%E4%B8%AD%E6%B8%B8%23&t=31&band_rank=3&Refer=top) 811878
@@ -54,6 +54,7 @@
 1. [带患癌妈妈理发还价5元遭店主咒骂](https://s.weibo.com/weibo?q=%23%E5%B8%A6%E6%82%A3%E7%99%8C%E5%A6%88%E5%A6%88%E7%90%86%E5%8F%91%E8%BF%98%E4%BB%B75%E5%85%83%E9%81%AD%E5%BA%97%E4%B8%BB%E5%92%92%E9%AA%82%23&t=31&band_rank=39&Refer=top) 129562
 1. [胡歌问虚拟人没电了怎么办](https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E9%97%AE%E8%99%9A%E6%8B%9F%E4%BA%BA%E6%B2%A1%E7%94%B5%E4%BA%86%E6%80%8E%E4%B9%88%E5%8A%9E%23&t=31&band_rank=31&Refer=top) 126208
 1. [长月烬明第十一集预告](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%88%E7%83%AC%E6%98%8E%E7%AC%AC%E5%8D%81%E4%B8%80%E9%9B%86%E9%A2%84%E5%91%8A%23&t=31&band_rank=43&Refer=top) 121529
+1. [陈鑫海卢洋洋互相介绍对方](https://s.weibo.com/weibo?q=%23%E9%99%88%E9%91%AB%E6%B5%B7%E5%8D%A2%E6%B4%8B%E6%B4%8B%E4%BA%92%E7%9B%B8%E4%BB%8B%E7%BB%8D%E5%AF%B9%E6%96%B9%23&t=31&band_rank=31&Refer=top) 113017
 1. [当代女生对丑甲的执念](https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BB%A3%E5%A5%B3%E7%94%9F%E5%AF%B9%E4%B8%91%E7%94%B2%E7%9A%84%E6%89%A7%E5%BF%B5%23&t=31&band_rank=49&Refer=top) 110508
 1. [狼队战胜eStar](https://s.weibo.com/weibo?q=%23%E7%8B%BC%E9%98%9F%E6%88%98%E8%83%9CeStar%23&t=31&band_rank=40&Refer=top) 107441
 1. [华晨宇时隔五年再唱山海](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E6%97%B6%E9%9A%94%E4%BA%94%E5%B9%B4%E5%86%8D%E5%94%B1%E5%B1%B1%E6%B5%B7%23&t=31&band_rank=41&Refer=top) 107275
@@ -67,12 +68,11 @@
 1. [月薪两千的生活是怎样的](https://s.weibo.com/weibo?q=%23%E6%9C%88%E8%96%AA%E4%B8%A4%E5%8D%83%E7%9A%84%E7%94%9F%E6%B4%BB%E6%98%AF%E6%80%8E%E6%A0%B7%E7%9A%84%23&t=31&band_rank=50&Refer=top) 95983
 1. [月亮](https://s.weibo.com/weibo?q=%E6%9C%88%E4%BA%AE&t=31&band_rank=49&Refer=top) 92825
 1. [人生之路](https://s.weibo.com/weibo?q=%E4%BA%BA%E7%94%9F%E4%B9%8B%E8%B7%AF&t=31&band_rank=44&Refer=top) 86814
-1. [陈鑫海卢洋洋互相介绍对方](https://s.weibo.com/weibo?q=%23%E9%99%88%E9%91%AB%E6%B5%B7%E5%8D%A2%E6%B4%8B%E6%B4%8B%E4%BA%92%E7%9B%B8%E4%BB%8B%E7%BB%8D%E5%AF%B9%E6%96%B9%23&t=31&band_rank=31&Refer=top) 85528
+1. [杨洋不敢立flag](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B4%8B%E4%B8%8D%E6%95%A2%E7%AB%8Bflag%23&t=31&band_rank=47&Refer=top) 34686
 1. [华晨宇演唱会](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=49&Refer=top) 30090
 1. [华晨宇杭州演唱会](https://s.weibo.com/weibo?q=%E5%8D%8E%E6%99%A8%E5%AE%87%E6%9D%AD%E5%B7%9E%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=36&Refer=top) 26407
-1. [杨洋不敢立flag](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B4%8B%E4%B8%8D%E6%95%A2%E7%AB%8Bflag%23&t=31&band_rank=47&Refer=top) 24265
-1. [你是哪种旅行咖](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E6%98%AF%E5%93%AA%E7%A7%8D%E6%97%85%E8%A1%8C%E5%92%96%23&t=31&band_rank=34&Refer=top) 20918
-1. [周末可以做的N件事](https://s.weibo.com/weibo?q=%E5%91%A8%E6%9C%AB%E5%8F%AF%E4%BB%A5%E5%81%9A%E7%9A%84N%E4%BB%B6%E4%BA%8B&t=31&band_rank=48&Refer=top) 19897
+1. [周末可以做的N件事](https://s.weibo.com/weibo?q=%E5%91%A8%E6%9C%AB%E5%8F%AF%E4%BB%A5%E5%81%9A%E7%9A%84N%E4%BB%B6%E4%BA%8B&t=31&band_rank=48&Refer=top) 25117
+1. [你是哪种旅行咖](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E6%98%AF%E5%93%AA%E7%A7%8D%E6%97%85%E8%A1%8C%E5%92%96%23&t=31&band_rank=34&Refer=top) 21237
 1. [洗碗时我的精神状态](https://s.weibo.com/weibo?q=%23%E6%B4%97%E7%A2%97%E6%97%B6%E6%88%91%E7%9A%84%E7%B2%BE%E7%A5%9E%E7%8A%B6%E6%80%81%23&t=31&band_rank=48&Refer=top) 17791
 <!-- END -->
 
