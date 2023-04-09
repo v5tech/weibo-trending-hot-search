@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-04-10 05:34:23.160886 
+最后更新时间 2023-04-10 05:49:01.924523 
 1. [李坤城去世](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9D%A4%E5%9F%8E%E5%8E%BB%E4%B8%96%23&t=31&band_rank=1&Refer=top) 2295816
 1. [马龙](https://s.weibo.com/weibo?q=%E9%A9%AC%E9%BE%99&t=31&band_rank=2&Refer=top) 782965
 1. [这些旅游专列已发车](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BA%9B%E6%97%85%E6%B8%B8%E4%B8%93%E5%88%97%E5%B7%B2%E5%8F%91%E8%BD%A6%23&t=31&band_rank=3&Refer=top) 734841
