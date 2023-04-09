@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-04-10 06:34:17.241278 
+最后更新时间 2023-04-10 06:48:57.402763 
 1. [李坤城去世](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9D%A4%E5%9F%8E%E5%8E%BB%E4%B8%96%23&t=31&band_rank=1&Refer=top) 2295816
 1. [马龙](https://s.weibo.com/weibo?q=%E9%A9%AC%E9%BE%99&t=31&band_rank=2&Refer=top) 782965
 1. [这些旅游专列已发车](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BA%9B%E6%97%85%E6%B8%B8%E4%B8%93%E5%88%97%E5%B7%B2%E5%8F%91%E8%BD%A6%23&t=31&band_rank=3&Refer=top) 734841
@@ -39,6 +39,7 @@
 1. [Lisa日巡新发色](https://s.weibo.com/weibo?q=%23Lisa%E6%97%A5%E5%B7%A1%E6%96%B0%E5%8F%91%E8%89%B2%23&t=31&band_rank=28&Refer=top) 214444
 1. [金晨翻跳金智秀Flower](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E7%BF%BB%E8%B7%B3%E9%87%91%E6%99%BA%E7%A7%80Flower%23&t=31&band_rank=29&Refer=top) 213864
 1. [刘宇宁也不知道安乐传什么时候播出](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E4%B9%9F%E4%B8%8D%E7%9F%A5%E9%81%93%E5%AE%89%E4%B9%90%E4%BC%A0%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E6%92%AD%E5%87%BA%23&t=31&band_rank=30&Refer=top) 211618
+1. [顾客称吃85度C三明治发现番茄长毛](https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E7%A7%B0%E5%90%8385%E5%BA%A6C%E4%B8%89%E6%98%8E%E6%B2%BB%E5%8F%91%E7%8E%B0%E7%95%AA%E8%8C%84%E9%95%BF%E6%AF%9B%23&t=31&band_rank=16&Refer=top) 202364
 1. [白鹿桑酒妆造](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E6%A1%91%E9%85%92%E5%A6%86%E9%80%A0%23&t=31&band_rank=31&Refer=top) 197866
 1. [好险差点就脱单了](https://s.weibo.com/weibo?q=%23%E5%A5%BD%E9%99%A9%E5%B7%AE%E7%82%B9%E5%B0%B1%E8%84%B1%E5%8D%95%E4%BA%86%23&t=31&band_rank=32&Refer=top) 187401
 1. [EXO或将以LoveMeRight概念回归](https://s.weibo.com/weibo?q=%23EXO%E6%88%96%E5%B0%86%E4%BB%A5LoveMeRight%E6%A6%82%E5%BF%B5%E5%9B%9E%E5%BD%92%23&t=31&band_rank=33&Refer=top) 176579
@@ -49,7 +50,7 @@
 1. [吴磊后仰苏感](https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A3%8A%E5%90%8E%E4%BB%B0%E8%8B%8F%E6%84%9F%23&t=31&band_rank=37&Refer=top) 157332
 1. [第一次觉得增重好难](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%89%E5%BE%97%E5%A2%9E%E9%87%8D%E5%A5%BD%E9%9A%BE%23&t=31&band_rank=38&Refer=top) 153608
 1. [阿姨用筷子蘸肉包馄饨几乎只有皮](https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%A7%A8%E7%94%A8%E7%AD%B7%E5%AD%90%E8%98%B8%E8%82%89%E5%8C%85%E9%A6%84%E9%A5%A8%E5%87%A0%E4%B9%8E%E5%8F%AA%E6%9C%89%E7%9A%AE%23&t=31&band_rank=39&Refer=top) 150790
-1. [顾客称吃85度C三明治发现番茄长毛](https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E7%A7%B0%E5%90%8385%E5%BA%A6C%E4%B8%89%E6%98%8E%E6%B2%BB%E5%8F%91%E7%8E%B0%E7%95%AA%E8%8C%84%E9%95%BF%E6%AF%9B%23&t=31&band_rank=16&Refer=top) 147201
+1. [留学生们在外面真的要好好保护自己](https://s.weibo.com/weibo?q=%E7%95%99%E5%AD%A6%E7%94%9F%E4%BB%AC%E5%9C%A8%E5%A4%96%E9%9D%A2%E7%9C%9F%E7%9A%84%E8%A6%81%E5%A5%BD%E5%A5%BD%E4%BF%9D%E6%8A%A4%E8%87%AA%E5%B7%B1&t=31&band_rank=46&Refer=top) 131298
 1. [利物浦vs阿森纳](https://s.weibo.com/weibo?q=%23%E5%88%A9%E7%89%A9%E6%B5%A6vs%E9%98%BF%E6%A3%AE%E7%BA%B3%23&t=31&band_rank=40&Refer=top) 117083
 1. [冥夜桑酒的宿命早已注定](https://s.weibo.com/weibo?q=%23%E5%86%A5%E5%A4%9C%E6%A1%91%E9%85%92%E7%9A%84%E5%AE%BF%E5%91%BD%E6%97%A9%E5%B7%B2%E6%B3%A8%E5%AE%9A%23&t=31&band_rank=41&Refer=top) 112719
 1. [肖战把水瓶摆正](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%8A%8A%E6%B0%B4%E7%93%B6%E6%91%86%E6%AD%A3%23&t=31&band_rank=42&Refer=top) 112683
@@ -57,15 +58,14 @@
 1. [汪苏泷音乐节](https://s.weibo.com/weibo?q=%E6%B1%AA%E8%8B%8F%E6%B3%B7%E9%9F%B3%E4%B9%90%E8%8A%82&t=31&band_rank=44&Refer=top) 111875
 1. [陈梦](https://s.weibo.com/weibo?q=%E9%99%88%E6%A2%A6&t=31&band_rank=45&Refer=top) 107071
 1. [燃烧的巴黎圣母院](https://s.weibo.com/weibo?q=%E7%87%83%E7%83%A7%E7%9A%84%E5%B7%B4%E9%BB%8E%E5%9C%A3%E6%AF%8D%E9%99%A2&t=31&band_rank=46&Refer=top) 104487
-1. [留学生们在外面真的要好好保护自己](https://s.weibo.com/weibo?q=%E7%95%99%E5%AD%A6%E7%94%9F%E4%BB%AC%E5%9C%A8%E5%A4%96%E9%9D%A2%E7%9C%9F%E7%9A%84%E8%A6%81%E5%A5%BD%E5%A5%BD%E4%BF%9D%E6%8A%A4%E8%87%AA%E5%B7%B1&t=31&band_rank=46&Refer=top) 101191
 1. [易烊千玺M榜年度影响力演员](https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BAM%E6%A6%9C%E5%B9%B4%E5%BA%A6%E5%BD%B1%E5%93%8D%E5%8A%9B%E6%BC%94%E5%91%98%23&t=31&band_rank=47&Refer=top) 91178
 1. [光明正大薅熊猫毛的乌鸦](https://s.weibo.com/weibo?q=%23%E5%85%89%E6%98%8E%E6%AD%A3%E5%A4%A7%E8%96%85%E7%86%8A%E7%8C%AB%E6%AF%9B%E7%9A%84%E4%B9%8C%E9%B8%A6%23&t=31&band_rank=48&Refer=top) 89674
 1. [上海地铁回应2女子在车厢内薅头发](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E5%9B%9E%E5%BA%942%E5%A5%B3%E5%AD%90%E5%9C%A8%E8%BD%A6%E5%8E%A2%E5%86%85%E8%96%85%E5%A4%B4%E5%8F%91%23&t=31&band_rank=50&Refer=top) 89206
 1. [杨采钰方芷衡俯卧撑挑战](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E9%87%87%E9%92%B0%E6%96%B9%E8%8A%B7%E8%A1%A1%E4%BF%AF%E5%8D%A7%E6%92%91%E6%8C%91%E6%88%98%23&t=31&band_rank=47&Refer=top) 82499
 1. [极限挑战](https://s.weibo.com/weibo?q=%E6%9E%81%E9%99%90%E6%8C%91%E6%88%98&t=31&band_rank=41&Refer=top) 54495
 1. [IVE正规专试听](https://s.weibo.com/weibo?q=%23IVE%E6%AD%A3%E8%A7%84%E4%B8%93%E8%AF%95%E5%90%AC%23&t=31&band_rank=48&Refer=top) 47949
-1. [看得出来她是真的喜欢讲话](https://s.weibo.com/weibo?q=%23%E7%9C%8B%E5%BE%97%E5%87%BA%E6%9D%A5%E5%A5%B9%E6%98%AF%E7%9C%9F%E7%9A%84%E5%96%9C%E6%AC%A2%E8%AE%B2%E8%AF%9D%23&t=31&band_rank=50&Refer=top) 24259
-1. [原神](https://s.weibo.com/weibo?q=%E5%8E%9F%E7%A5%9E&t=31&band_rank=30&Refer=top) 24172
+1. [原神](https://s.weibo.com/weibo?q=%E5%8E%9F%E7%A5%9E&t=31&band_rank=30&Refer=top) 33019
+1. [看得出来她是真的喜欢讲话](https://s.weibo.com/weibo?q=%23%E7%9C%8B%E5%BE%97%E5%87%BA%E6%9D%A5%E5%A5%B9%E6%98%AF%E7%9C%9F%E7%9A%84%E5%96%9C%E6%AC%A2%E8%AE%B2%E8%AF%9D%23&t=31&band_rank=50&Refer=top) 32631
 <!-- END -->
 
 历史归档 [./archives](./archives)
