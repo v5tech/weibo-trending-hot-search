@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-04-11 02:37:06.640479 
+最后更新时间 2023-04-11 02:49:04.997090 
 1. [跟老爸说买了墓地旁边的房子](https://s.weibo.com/weibo?q=%23%E8%B7%9F%E8%80%81%E7%88%B8%E8%AF%B4%E4%B9%B0%E4%BA%86%E5%A2%93%E5%9C%B0%E6%97%81%E8%BE%B9%E7%9A%84%E6%88%BF%E5%AD%90%23&t=31&band_rank=1&Refer=top) 1005370
 1. [被当街踹倒女子好友发声](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%BD%93%E8%A1%97%E8%B8%B9%E5%80%92%E5%A5%B3%E5%AD%90%E5%A5%BD%E5%8F%8B%E5%8F%91%E5%A3%B0%23&t=31&band_rank=2&Refer=top) 725007
 1. [抢抓战略机遇增强发展信心](https://s.weibo.com/weibo?q=%23%E6%8A%A2%E6%8A%93%E6%88%98%E7%95%A5%E6%9C%BA%E9%81%87%E5%A2%9E%E5%BC%BA%E5%8F%91%E5%B1%95%E4%BF%A1%E5%BF%83%23&t=31&band_rank=3&Refer=top) 533971
@@ -66,7 +66,7 @@
 1. [叶舒华 喜欢赚钱](https://s.weibo.com/weibo?q=%E5%8F%B6%E8%88%92%E5%8D%8E%20%E5%96%9C%E6%AC%A2%E8%B5%9A%E9%92%B1&t=31&band_rank=47&Refer=top) 41769
 1. [长空之王雷宇和父母对话好心酸](https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%A9%BA%E4%B9%8B%E7%8E%8B%E9%9B%B7%E5%AE%87%E5%92%8C%E7%88%B6%E6%AF%8D%E5%AF%B9%E8%AF%9D%E5%A5%BD%E5%BF%83%E9%85%B8%23&t=31&band_rank=45&Refer=top) 37441
 1. [城市巡游记](https://s.weibo.com/weibo?q=%E5%9F%8E%E5%B8%82%E5%B7%A1%E6%B8%B8%E8%AE%B0&t=31&band_rank=50&Refer=top) 24914
-1. [薄冰全员替身文学](https://s.weibo.com/weibo?q=%23%E8%96%84%E5%86%B0%E5%85%A8%E5%91%98%E6%9B%BF%E8%BA%AB%E6%96%87%E5%AD%A6%23&t=31&band_rank=47&Refer=top) 23477
+1. [薄冰全员替身文学](https://s.weibo.com/weibo?q=%23%E8%96%84%E5%86%B0%E5%85%A8%E5%91%98%E6%9B%BF%E8%BA%AB%E6%96%87%E5%AD%A6%23&t=31&band_rank=47&Refer=top) 24437
 <!-- END -->
 
 历史归档 [./archives](./archives)
