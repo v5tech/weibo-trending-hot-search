@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-04-14 02:12:48.341541 
+最后更新时间 2023-04-14 02:28:44.847304 
 1. [体重48公斤被学校谈话](https://s.weibo.com/weibo?q=%23%E4%BD%93%E9%87%8D48%E5%85%AC%E6%96%A4%E8%A2%AB%E5%AD%A6%E6%A0%A1%E8%B0%88%E8%AF%9D%23&t=31&band_rank=1&Refer=top) 1250006
 1. [陈妍希问陈晓凶手到底是谁](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A6%8D%E5%B8%8C%E9%97%AE%E9%99%88%E6%99%93%E5%87%B6%E6%89%8B%E5%88%B0%E5%BA%95%E6%98%AF%E8%B0%81%23&t=31&band_rank=2&Refer=top) 691641
 1. [钢铁丝路好风光](https://s.weibo.com/weibo?q=%23%E9%92%A2%E9%93%81%E4%B8%9D%E8%B7%AF%E5%A5%BD%E9%A3%8E%E5%85%89%23&t=31&band_rank=3&Refer=top) 568807
@@ -65,6 +65,7 @@
 1. [AG战胜KSG](https://s.weibo.com/weibo?q=%23AG%E6%88%98%E8%83%9CKSG%23&t=31&band_rank=48&Refer=top) 37028
 1. [林俊杰Ella演过兄妹](https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0Ella%E6%BC%94%E8%BF%87%E5%85%84%E5%A6%B9%23&t=31&band_rank=45&Refer=top) 30345
 1. [儿时的友情注定渐行渐远吗](https://s.weibo.com/weibo?q=%23%E5%84%BF%E6%97%B6%E7%9A%84%E5%8F%8B%E6%83%85%E6%B3%A8%E5%AE%9A%E6%B8%90%E8%A1%8C%E6%B8%90%E8%BF%9C%E5%90%97%23&t=31&band_rank=47&Refer=top) 30342
+1. [江疏影李浩菲直播用假手握手](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E7%96%8F%E5%BD%B1%E6%9D%8E%E6%B5%A9%E8%8F%B2%E7%9B%B4%E6%92%AD%E7%94%A8%E5%81%87%E6%89%8B%E6%8F%A1%E6%89%8B%23&t=31&band_rank=44&Refer=top) 26544
 <!-- END -->
 
 历史归档 [./archives](./archives)
