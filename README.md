@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-04-14 03:34:03.107489 
+最后更新时间 2023-04-14 03:48:52.271662 
 1. [体重48公斤被学校谈话](https://s.weibo.com/weibo?q=%23%E4%BD%93%E9%87%8D48%E5%85%AC%E6%96%A4%E8%A2%AB%E5%AD%A6%E6%A0%A1%E8%B0%88%E8%AF%9D%23&t=31&band_rank=1&Refer=top) 1250006
 1. [陈妍希问陈晓凶手到底是谁](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A6%8D%E5%B8%8C%E9%97%AE%E9%99%88%E6%99%93%E5%87%B6%E6%89%8B%E5%88%B0%E5%BA%95%E6%98%AF%E8%B0%81%23&t=31&band_rank=2&Refer=top) 691641
 1. [钢铁丝路好风光](https://s.weibo.com/weibo?q=%23%E9%92%A2%E9%93%81%E4%B8%9D%E8%B7%AF%E5%A5%BD%E9%A3%8E%E5%85%89%23&t=31&band_rank=3&Refer=top) 568807
