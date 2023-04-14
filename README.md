@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-04-15 06:09:27.904380 
+最后更新时间 2023-04-15 06:24:45.171965 
 1. [假球](https://s.weibo.com/weibo?q=%E5%81%87%E7%90%83&t=31&band_rank=1&Refer=top) 1871624
 1. [建议微信出个头像屏蔽功能](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%BE%AE%E4%BF%A1%E5%87%BA%E4%B8%AA%E5%A4%B4%E5%83%8F%E5%B1%8F%E8%94%BD%E5%8A%9F%E8%83%BD%23&t=31&band_rank=2&Refer=top) 1441815
 1. [姚明](https://s.weibo.com/weibo?q=%E5%A7%9A%E6%98%8E&t=31&band_rank=9&Refer=top) 1367168
@@ -31,6 +31,7 @@
 1. [女孩离家出走被男子收留后被性侵](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E7%A6%BB%E5%AE%B6%E5%87%BA%E8%B5%B0%E8%A2%AB%E7%94%B7%E5%AD%90%E6%94%B6%E7%95%99%E5%90%8E%E8%A2%AB%E6%80%A7%E4%BE%B5%23&t=31&band_rank=21&Refer=top) 274769
 1. [擅长溺爱的粉丝](https://s.weibo.com/weibo?q=%23%E6%93%85%E9%95%BF%E6%BA%BA%E7%88%B1%E7%9A%84%E7%B2%89%E4%B8%9D%23&t=31&band_rank=20&Refer=top) 273883
 1. [刘昊然周冬雨 燃冬](https://s.weibo.com/weibo?q=%E5%88%98%E6%98%8A%E7%84%B6%E5%91%A8%E5%86%AC%E9%9B%A8%20%E7%87%83%E5%86%AC&t=31&band_rank=22&Refer=top) 233410
+1. [生源都不足了还要高价抢学区房吗](https://s.weibo.com/weibo?q=%23%E7%94%9F%E6%BA%90%E9%83%BD%E4%B8%8D%E8%B6%B3%E4%BA%86%E8%BF%98%E8%A6%81%E9%AB%98%E4%BB%B7%E6%8A%A2%E5%AD%A6%E5%8C%BA%E6%88%BF%E5%90%97%23&t=31&band_rank=39&Refer=top) 233349
 1. [李楠](https://s.weibo.com/weibo?q=%E6%9D%8E%E6%A5%A0&t=31&band_rank=23&Refer=top) 229872
 1. [孙颖莎4比0陈梦](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E4%E6%AF%940%E9%99%88%E6%A2%A6%23&t=31&band_rank=24&Refer=top) 228660
 1. [CBA](https://s.weibo.com/weibo?q=CBA&t=31&band_rank=32&Refer=top) 224037
@@ -44,13 +45,12 @@
 1. [老道](https://s.weibo.com/weibo?q=%E8%80%81%E9%81%93&t=31&band_rank=31&Refer=top) 198465
 1. [代号鸢](https://s.weibo.com/weibo?q=%E4%BB%A3%E5%8F%B7%E9%B8%A2&t=31&band_rank=33&Refer=top) 186232
 1. [好友赚了2000万我却失眠了](https://s.weibo.com/weibo?q=%23%E5%A5%BD%E5%8F%8B%E8%B5%9A%E4%BA%862000%E4%B8%87%E6%88%91%E5%8D%B4%E5%A4%B1%E7%9C%A0%E4%BA%86%23&t=31&band_rank=35&Refer=top) 167430
-1. [生源都不足了还要高价抢学区房吗](https://s.weibo.com/weibo?q=%23%E7%94%9F%E6%BA%90%E9%83%BD%E4%B8%8D%E8%B6%B3%E4%BA%86%E8%BF%98%E8%A6%81%E9%AB%98%E4%BB%B7%E6%8A%A2%E5%AD%A6%E5%8C%BA%E6%88%BF%E5%90%97%23&t=31&band_rank=39&Refer=top) 155670
+1. [女子被质疑有房炫富还能申请到公租房](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A2%AB%E8%B4%A8%E7%96%91%E6%9C%89%E6%88%BF%E7%82%AB%E5%AF%8C%E8%BF%98%E8%83%BD%E7%94%B3%E8%AF%B7%E5%88%B0%E5%85%AC%E7%A7%9F%E6%88%BF%23&t=31&band_rank=36&Refer=top) 167336
 1. [樊振东比赛](https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%AF%94%E8%B5%9B&t=31&band_rank=36&Refer=top) 141679
 1. [孙珍妮追星成功白鹿](https://s.weibo.com/weibo?q=%23%E5%AD%99%E7%8F%8D%E5%A6%AE%E8%BF%BD%E6%98%9F%E6%88%90%E5%8A%9F%E7%99%BD%E9%B9%BF%23&t=31&band_rank=37&Refer=top) 138393
 1. [江苏男篮最后时刻连续失误](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E7%94%B7%E7%AF%AE%E6%9C%80%E5%90%8E%E6%97%B6%E5%88%BB%E8%BF%9E%E7%BB%AD%E5%A4%B1%E8%AF%AF%23&t=31&band_rank=38&Refer=top) 136379
 1. [希望五年后的今天](https://s.weibo.com/weibo?q=%E5%B8%8C%E6%9C%9B%E4%BA%94%E5%B9%B4%E5%90%8E%E7%9A%84%E4%BB%8A%E5%A4%A9&t=31&band_rank=39&Refer=top) 134764
 1. [曲婉婷名下两套房产被法拍](https://s.weibo.com/weibo?q=%23%E6%9B%B2%E5%A9%89%E5%A9%B7%E5%90%8D%E4%B8%8B%E4%B8%A4%E5%A5%97%E6%88%BF%E4%BA%A7%E8%A2%AB%E6%B3%95%E6%8B%8D%23&t=31&band_rank=40&Refer=top) 128074
-1. [女子被质疑有房炫富还能申请到公租房](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A2%AB%E8%B4%A8%E7%96%91%E6%9C%89%E6%88%BF%E7%82%AB%E5%AF%8C%E8%BF%98%E8%83%BD%E7%94%B3%E8%AF%B7%E5%88%B0%E5%85%AC%E7%A7%9F%E6%88%BF%23&t=31&band_rank=36&Refer=top) 126565
 1. [音悦台向EXO和粉丝道歉](https://s.weibo.com/weibo?q=%23%E9%9F%B3%E6%82%A6%E5%8F%B0%E5%90%91EXO%E5%92%8C%E7%B2%89%E4%B8%9D%E9%81%93%E6%AD%89%23&t=31&band_rank=41&Refer=top) 125356
 1. [鹿晗给宝石老舅的歌即兴编舞](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E7%BB%99%E5%AE%9D%E7%9F%B3%E8%80%81%E8%88%85%E7%9A%84%E6%AD%8C%E5%8D%B3%E5%85%B4%E7%BC%96%E8%88%9E%23&t=31&band_rank=42&Refer=top) 125347
 1. [WB战胜eStar](https://s.weibo.com/weibo?q=%23WB%E6%88%98%E8%83%9CeStar%23&t=31&band_rank=43&Refer=top) 125340
@@ -66,10 +66,10 @@
 1. [喜欢一个人你会主动追吗](https://s.weibo.com/weibo?q=%23%E5%96%9C%E6%AC%A2%E4%B8%80%E4%B8%AA%E4%BA%BA%E4%BD%A0%E4%BC%9A%E4%B8%BB%E5%8A%A8%E8%BF%BD%E5%90%97%23&t=31&band_rank=47&Refer=top) 88025
 1. [美食沙漠 平民美食](https://s.weibo.com/weibo?q=%E7%BE%8E%E9%A3%9F%E6%B2%99%E6%BC%A0%20%E5%B9%B3%E6%B0%91%E7%BE%8E%E9%A3%9F&t=31&band_rank=50&Refer=top) 80760
 1. [INTO1最后一次换头像](https://s.weibo.com/weibo?q=%23INTO1%E6%9C%80%E5%90%8E%E4%B8%80%E6%AC%A1%E6%8D%A2%E5%A4%B4%E5%83%8F%23&t=31&band_rank=50&Refer=top) 65657
+1. [雨后春笋2天长30厘米顶翻木桌](https://s.weibo.com/weibo?q=%23%E9%9B%A8%E5%90%8E%E6%98%A5%E7%AC%8B2%E5%A4%A9%E9%95%BF30%E5%8E%98%E7%B1%B3%E9%A1%B6%E7%BF%BB%E6%9C%A8%E6%A1%8C%23&t=31&band_rank=37&Refer=top) 58350
 1. [LPL](https://s.weibo.com/weibo?q=LPL&t=31&band_rank=47&Refer=top) 54762
-1. [雨后春笋2天长30厘米顶翻木桌](https://s.weibo.com/weibo?q=%23%E9%9B%A8%E5%90%8E%E6%98%A5%E7%AC%8B2%E5%A4%A9%E9%95%BF30%E5%8E%98%E7%B1%B3%E9%A1%B6%E7%BF%BB%E6%9C%A8%E6%A1%8C%23&t=31&band_rank=37&Refer=top) 48816
-1. [冥夜是蛟龙不是恐龙](https://s.weibo.com/weibo?q=%23%E5%86%A5%E5%A4%9C%E6%98%AF%E8%9B%9F%E9%BE%99%E4%B8%8D%E6%98%AF%E6%81%90%E9%BE%99%23&t=31&band_rank=49&Refer=top) 31057
-1. [你好星期六新预告好费脸](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%E6%96%B0%E9%A2%84%E5%91%8A%E5%A5%BD%E8%B4%B9%E8%84%B8%23&t=31&band_rank=47&Refer=top) 20916
+1. [冥夜是蛟龙不是恐龙](https://s.weibo.com/weibo?q=%23%E5%86%A5%E5%A4%9C%E6%98%AF%E8%9B%9F%E9%BE%99%E4%B8%8D%E6%98%AF%E6%81%90%E9%BE%99%23&t=31&band_rank=49&Refer=top) 35723
+1. [你好星期六新预告好费脸](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%E6%96%B0%E9%A2%84%E5%91%8A%E5%A5%BD%E8%B4%B9%E8%84%B8%23&t=31&band_rank=47&Refer=top) 27222
 <!-- END -->
 
 历史归档 [./archives](./archives)
