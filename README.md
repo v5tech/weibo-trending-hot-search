@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-04-15 04:10:48.874698 
+最后更新时间 2023-04-15 04:24:07.283801 
 1. [假球](https://s.weibo.com/weibo?q=%E5%81%87%E7%90%83&t=31&band_rank=1&Refer=top) 1871624
 1. [建议微信出个头像屏蔽功能](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%BE%AE%E4%BF%A1%E5%87%BA%E4%B8%AA%E5%A4%B4%E5%83%8F%E5%B1%8F%E8%94%BD%E5%8A%9F%E8%83%BD%23&t=31&band_rank=2&Refer=top) 1441815
 1. [姚明](https://s.weibo.com/weibo?q=%E5%A7%9A%E6%98%8E&t=31&band_rank=9&Refer=top) 1367168
@@ -65,7 +65,8 @@
 1. [美食沙漠 平民美食](https://s.weibo.com/weibo?q=%E7%BE%8E%E9%A3%9F%E6%B2%99%E6%BC%A0%20%E5%B9%B3%E6%B0%91%E7%BE%8E%E9%A3%9F&t=31&band_rank=50&Refer=top) 80760
 1. [INTO1最后一次换头像](https://s.weibo.com/weibo?q=%23INTO1%E6%9C%80%E5%90%8E%E4%B8%80%E6%AC%A1%E6%8D%A2%E5%A4%B4%E5%83%8F%23&t=31&band_rank=50&Refer=top) 65657
 1. [LPL](https://s.weibo.com/weibo?q=LPL&t=31&band_rank=47&Refer=top) 54762
-1. [雨后春笋2天长30厘米顶翻木桌](https://s.weibo.com/weibo?q=%23%E9%9B%A8%E5%90%8E%E6%98%A5%E7%AC%8B2%E5%A4%A9%E9%95%BF30%E5%8E%98%E7%B1%B3%E9%A1%B6%E7%BF%BB%E6%9C%A8%E6%A1%8C%23&t=31&band_rank=37&Refer=top) 19217
+1. [雨后春笋2天长30厘米顶翻木桌](https://s.weibo.com/weibo?q=%23%E9%9B%A8%E5%90%8E%E6%98%A5%E7%AC%8B2%E5%A4%A9%E9%95%BF30%E5%8E%98%E7%B1%B3%E9%A1%B6%E7%BF%BB%E6%9C%A8%E6%A1%8C%23&t=31&band_rank=37&Refer=top) 24596
+1. [生源都不足了还要高价抢学区房吗](https://s.weibo.com/weibo?q=%23%E7%94%9F%E6%BA%90%E9%83%BD%E4%B8%8D%E8%B6%B3%E4%BA%86%E8%BF%98%E8%A6%81%E9%AB%98%E4%BB%B7%E6%8A%A2%E5%AD%A6%E5%8C%BA%E6%88%BF%E5%90%97%23&t=31&band_rank=39&Refer=top) 17612
 <!-- END -->
 
 历史归档 [./archives](./archives)
