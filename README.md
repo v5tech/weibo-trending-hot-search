@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-04-15 19:08:16.833040 
+最后更新时间 2023-04-15 19:19:27.573412 
 1. [宋雨琦确诊感染新冠](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E9%9B%A8%E7%90%A6%E7%A1%AE%E8%AF%8A%E6%84%9F%E6%9F%93%E6%96%B0%E5%86%A0%23&t=31&band_rank=25&Refer=top) 3038060
 1. [成龙被观众当场要求退票](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%BE%99%E8%A2%AB%E8%A7%82%E4%BC%97%E5%BD%93%E5%9C%BA%E8%A6%81%E6%B1%82%E9%80%80%E7%A5%A8%23&t=31&band_rank=1&Refer=top) 2850673
 1. [安倍晋三](https://s.weibo.com/weibo?q=%E5%AE%89%E5%80%8D%E6%99%8B%E4%B8%89&t=31&band_rank=33&Refer=top) 2485913
@@ -173,16 +173,20 @@
 1. [INTO1演唱会](https://s.weibo.com/weibo?q=INTO1%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=32&Refer=top) 206391
 1. [张艺谋 找灵感](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%89%BA%E8%B0%8B%20%E6%89%BE%E7%81%B5%E6%84%9F&t=31&band_rank=45&Refer=top) 205861
 1. [TTG对战MTG](https://s.weibo.com/weibo?q=%23TTG%E5%AF%B9%E6%88%98MTG%23&t=31&band_rank=28&Refer=top) 205790
+1. [龙城](https://s.weibo.com/weibo?q=%E9%BE%99%E5%9F%8E&t=31&band_rank=25&Refer=top) 205779
 1. [龙城今日开播](https://s.weibo.com/weibo?q=%23%E9%BE%99%E5%9F%8E%E4%BB%8A%E6%97%A5%E5%BC%80%E6%92%AD%23&t=31&band_rank=23&Refer=top) 204997
 1. [爱很美味治愈](https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%BE%88%E7%BE%8E%E5%91%B3%E6%B2%BB%E6%84%88%23&t=31&band_rank=26&Refer=top) 204931
 1. [刘宇宁转光剑](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E8%BD%AC%E5%85%89%E5%89%91%23&t=31&band_rank=24&Refer=top) 204300
 1. [隋唐洛阳城绝美华服秀](https://s.weibo.com/weibo?q=%E9%9A%8B%E5%94%90%E6%B4%9B%E9%98%B3%E5%9F%8E%E7%BB%9D%E7%BE%8E%E5%8D%8E%E6%9C%8D%E7%A7%80&t=31&band_rank=24&Refer=top) 202454
 1. [KSG对战TES](https://s.weibo.com/weibo?q=%23KSG%E5%AF%B9%E6%88%98TES%23&t=31&band_rank=31&Refer=top) 201710
 1. [老道](https://s.weibo.com/weibo?q=%E8%80%81%E9%81%93&t=31&band_rank=31&Refer=top) 198465
+1. [东玄](https://s.weibo.com/weibo?q=%E4%B8%9C%E7%8E%84&t=31&band_rank=27&Refer=top) 198378
 1. [斗罗大陆](https://s.weibo.com/weibo?q=%E6%96%97%E7%BD%97%E5%A4%A7%E9%99%86&t=31&band_rank=40&Refer=top) 197400
 1. [女儿用手语帮聋哑父亲同声传译](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E7%94%A8%E6%89%8B%E8%AF%AD%E5%B8%AE%E8%81%8B%E5%93%91%E7%88%B6%E4%BA%B2%E5%90%8C%E5%A3%B0%E4%BC%A0%E8%AF%91%23&t=31&band_rank=40&Refer=top) 197144
 1. [JDG拿到赛点](https://s.weibo.com/weibo?q=%23JDG%E6%8B%BF%E5%88%B0%E8%B5%9B%E7%82%B9%23&t=31&band_rank=48&Refer=top) 197107
+1. [你好星期六](https://s.weibo.com/weibo?q=%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD&t=31&band_rank=34&Refer=top) 194062
 1. [朱志鑫舞台饭拍](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E5%BF%97%E9%91%AB%E8%88%9E%E5%8F%B0%E9%A5%AD%E6%8B%8D%23&t=31&band_rank=22&Refer=top) 194003
+1. [五一酒店](https://s.weibo.com/weibo?q=%E4%BA%94%E4%B8%80%E9%85%92%E5%BA%97&t=31&band_rank=41&Refer=top) 193698
 1. [宋妍霏驾照到手](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E5%A6%8D%E9%9C%8F%E9%A9%BE%E7%85%A7%E5%88%B0%E6%89%8B%23&t=31&band_rank=36&Refer=top) 191481
 1. [SK快回来](https://s.weibo.com/weibo?q=SK%E5%BF%AB%E5%9B%9E%E6%9D%A5&t=31&band_rank=42&Refer=top) 191003
 1. [我的记忆力be like](https://s.weibo.com/weibo?q=%E6%88%91%E7%9A%84%E8%AE%B0%E5%BF%86%E5%8A%9Bbe%20like&t=31&band_rank=46&Refer=top) 190876
