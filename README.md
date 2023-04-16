@@ -7,15 +7,15 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-04-17 00:30:29.902271 
+最后更新时间 2023-04-17 00:40:53.398796 
 1. [老娘已经80多天没有放假了](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%A8%98%E5%B7%B2%E7%BB%8F80%E5%A4%9A%E5%A4%A9%E6%B2%A1%E6%9C%89%E6%94%BE%E5%81%87%E4%BA%86%23&t=31&band_rank=1&Refer=top) 1657540
 1. [金像奖影后郑秀文](https://s.weibo.com/weibo?q=%23%E9%87%91%E5%83%8F%E5%A5%96%E5%BD%B1%E5%90%8E%E9%83%91%E7%A7%80%E6%96%87%23&t=31&band_rank=2&Refer=top) 1034619
-1. [坠亡女演员和搭档是夫妻](https://s.weibo.com/weibo?q=%23%E5%9D%A0%E4%BA%A1%E5%A5%B3%E6%BC%94%E5%91%98%E5%92%8C%E6%90%AD%E6%A1%A3%E6%98%AF%E5%A4%AB%E5%A6%BB%23&t=31&band_rank=14&Refer=top) 893917
+1. [坠亡女演员和搭档是夫妻](https://s.weibo.com/weibo?q=%23%E5%9D%A0%E4%BA%A1%E5%A5%B3%E6%BC%94%E5%91%98%E5%92%8C%E6%90%AD%E6%A1%A3%E6%98%AF%E5%A4%AB%E5%A6%BB%23&t=31&band_rank=14&Refer=top) 917085
 1. [风云三号07星成功发射](https://s.weibo.com/weibo?q=%23%E9%A3%8E%E4%BA%91%E4%B8%89%E5%8F%B707%E6%98%9F%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%23&t=31&band_rank=3&Refer=top) 782539
 1. [aespa正规1变迷你3](https://s.weibo.com/weibo?q=aespa%E6%AD%A3%E8%A7%841%E5%8F%98%E8%BF%B7%E4%BD%A03&t=31&band_rank=4&Refer=top) 689805
 1. [金子涵 身体目前已无大碍](https://s.weibo.com/weibo?q=%E9%87%91%E5%AD%90%E6%B6%B5%20%E8%BA%AB%E4%BD%93%E7%9B%AE%E5%89%8D%E5%B7%B2%E6%97%A0%E5%A4%A7%E7%A2%8D&t=31&band_rank=5&Refer=top) 525510
 1. [坠亡女演员丈夫否认吵架不系安全扣](https://s.weibo.com/weibo?q=%23%E5%9D%A0%E4%BA%A1%E5%A5%B3%E6%BC%94%E5%91%98%E4%B8%88%E5%A4%AB%E5%90%A6%E8%AE%A4%E5%90%B5%E6%9E%B6%E4%B8%8D%E7%B3%BB%E5%AE%89%E5%85%A8%E6%89%A3%23&t=31&band_rank=6&Refer=top) 525099
-1. [鬼灭之刃](https://s.weibo.com/weibo?q=%E9%AC%BC%E7%81%AD%E4%B9%8B%E5%88%83&t=31&band_rank=10&Refer=top) 397972
+1. [鬼灭之刃](https://s.weibo.com/weibo?q=%E9%AC%BC%E7%81%AD%E4%B9%8B%E5%88%83&t=31&band_rank=10&Refer=top) 408192
 1. [特斯拉中国工厂普通工人月薪1万块](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%AD%E5%9B%BD%E5%B7%A5%E5%8E%82%E6%99%AE%E9%80%9A%E5%B7%A5%E4%BA%BA%E6%9C%88%E8%96%AA1%E4%B8%87%E5%9D%97%23&t=31&band_rank=7&Refer=top) 382155
 1. [刘青云第三次获金像奖影帝](https://s.weibo.com/weibo?q=%23%E5%88%98%E9%9D%92%E4%BA%91%E7%AC%AC%E4%B8%89%E6%AC%A1%E8%8E%B7%E9%87%91%E5%83%8F%E5%A5%96%E5%BD%B1%E5%B8%9D%23&t=31&band_rank=8&Refer=top) 363849
 1. [白桃星座](https://s.weibo.com/weibo?q=%E7%99%BD%E6%A1%83%E6%98%9F%E5%BA%A7&t=31&band_rank=9&Refer=top) 356583
@@ -30,10 +30,10 @@
 1. [特斯拉上海新工厂正式开启招聘](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%8A%E6%B5%B7%E6%96%B0%E5%B7%A5%E5%8E%82%E6%AD%A3%E5%BC%8F%E5%BC%80%E5%90%AF%E6%8B%9B%E8%81%98%23&t=31&band_rank=20&Refer=top) 208407
 1. [为什么肝癌通常一发现就是晚期](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E8%82%9D%E7%99%8C%E9%80%9A%E5%B8%B8%E4%B8%80%E5%8F%91%E7%8E%B0%E5%B0%B1%E6%98%AF%E6%99%9A%E6%9C%9F%23&t=31&band_rank=21&Refer=top) 207425
 1. [南京交警隧道查酒驾被滴滴司机撞飞](https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E4%BA%A4%E8%AD%A6%E9%9A%A7%E9%81%93%E6%9F%A5%E9%85%92%E9%A9%BE%E8%A2%AB%E6%BB%B4%E6%BB%B4%E5%8F%B8%E6%9C%BA%E6%92%9E%E9%A3%9E%23&t=31&band_rank=22&Refer=top) 207316
+1. [BLACKPINK科切拉人气](https://s.weibo.com/weibo?q=%23BLACKPINK%E7%A7%91%E5%88%87%E6%8B%89%E4%BA%BA%E6%B0%94%23&t=31&band_rank=30&Refer=top) 206861
 1. [听了龚俊凡尔赛黄景瑜贾乃亮想走](https://s.weibo.com/weibo?q=%23%E5%90%AC%E4%BA%86%E9%BE%9A%E4%BF%8A%E5%87%A1%E5%B0%94%E8%B5%9B%E9%BB%84%E6%99%AF%E7%91%9C%E8%B4%BE%E4%B9%83%E4%BA%AE%E6%83%B3%E8%B5%B0%23&t=31&band_rank=23&Refer=top) 205139
 1. [苹果设备不断要求输入AppleID密码](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E8%AE%BE%E5%A4%87%E4%B8%8D%E6%96%AD%E8%A6%81%E6%B1%82%E8%BE%93%E5%85%A5AppleID%E5%AF%86%E7%A0%81%23&t=31&band_rank=24&Refer=top) 195243
-1. [BLACKPINK科切拉人气](https://s.weibo.com/weibo?q=%23BLACKPINK%E7%A7%91%E5%88%87%E6%8B%89%E4%BA%BA%E6%B0%94%23&t=31&band_rank=30&Refer=top) 187917
-1. [你能接受的音乐节门票是多少](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%83%BD%E6%8E%A5%E5%8F%97%E7%9A%84%E9%9F%B3%E4%B9%90%E8%8A%82%E9%97%A8%E7%A5%A8%E6%98%AF%E5%A4%9A%E5%B0%91%23&t=31&band_rank=43&Refer=top) 154204
+1. [你能接受的音乐节门票是多少](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%83%BD%E6%8E%A5%E5%8F%97%E7%9A%84%E9%9F%B3%E4%B9%90%E8%8A%82%E9%97%A8%E7%A5%A8%E6%98%AF%E5%A4%9A%E5%B0%91%23&t=31&band_rank=43&Refer=top) 176454
 1. [流水落花](https://s.weibo.com/weibo?q=%E6%B5%81%E6%B0%B4%E8%90%BD%E8%8A%B1&t=31&band_rank=25&Refer=top) 149387
 1. [员工称在家养病却飞往海南遭解雇](https://s.weibo.com/weibo?q=%23%E5%91%98%E5%B7%A5%E7%A7%B0%E5%9C%A8%E5%AE%B6%E5%85%BB%E7%97%85%E5%8D%B4%E9%A3%9E%E5%BE%80%E6%B5%B7%E5%8D%97%E9%81%AD%E8%A7%A3%E9%9B%87%23&t=31&band_rank=26&Refer=top) 145817
 1. [DRG对战eStar](https://s.weibo.com/weibo?q=%23DRG%E5%AF%B9%E6%88%98eStar%23&t=31&band_rank=27&Refer=top) 145477
@@ -58,8 +58,9 @@
 1. [周杰伦战队夺冠](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%88%98%E9%98%9F%E5%A4%BA%E5%86%A0%23&t=31&band_rank=48&Refer=top) 93463
 1. [EXO新歌live舞台](https://s.weibo.com/weibo?q=%23EXO%E6%96%B0%E6%AD%8Clive%E8%88%9E%E5%8F%B0%23&t=31&band_rank=49&Refer=top) 93073
 1. [金像奖获奖名单](https://s.weibo.com/weibo?q=%E9%87%91%E5%83%8F%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95&t=31&band_rank=50&Refer=top) 92808
-1. [曝上瘾原定主演是宋威龙](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E4%B8%8A%E7%98%BE%E5%8E%9F%E5%AE%9A%E4%B8%BB%E6%BC%94%E6%98%AF%E5%AE%8B%E5%A8%81%E9%BE%99%23&t=31&band_rank=47&Refer=top) 70939
-1. [金像奖](https://s.weibo.com/weibo?q=%E9%87%91%E5%83%8F%E5%A5%96&t=31&band_rank=48&Refer=top) 70285
+1. [言承旭说呼叫杉菜就会出现](https://s.weibo.com/weibo?q=%23%E8%A8%80%E6%89%BF%E6%97%AD%E8%AF%B4%E5%91%BC%E5%8F%AB%E6%9D%89%E8%8F%9C%E5%B0%B1%E4%BC%9A%E5%87%BA%E7%8E%B0%23&t=31&band_rank=39&Refer=top) 84019
+1. [曝上瘾原定主演是宋威龙](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E4%B8%8A%E7%98%BE%E5%8E%9F%E5%AE%9A%E4%B8%BB%E6%BC%94%E6%98%AF%E5%AE%8B%E5%A8%81%E9%BE%99%23&t=31&band_rank=47&Refer=top) 83949
+1. [金像奖](https://s.weibo.com/weibo?q=%E9%87%91%E5%83%8F%E5%A5%96&t=31&band_rank=48&Refer=top) 83915
 <!-- END -->
 
 历史归档 [./archives](./archives)
