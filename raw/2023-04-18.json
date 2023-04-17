@@ -91,6 +91,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E7%BD%97%E4%BA%91%E7%86%99%E5%97%91%E6%96%B0%E5%85%B0%23&t=31&band_rank=21&Refer=top",
     "hot": 229417
   },
+  "长期戴耳机": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E6%88%B4%E8%80%B3%E6%9C%BA%23&t=31&band_rank=48&Refer=top",
+    "hot": 215645
+  },
   "李春江的最后一堂训练课": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%98%A5%E6%B1%9F%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E5%A0%82%E8%AE%AD%E7%BB%83%E8%AF%BE%23&t=31&band_rank=22&Refer=top",
     "hot": 188978
@@ -159,10 +163,6 @@
     "url": "https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98GUCCI%E5%A4%96%E7%BD%91%E5%AE%98%E7%BD%91%E5%88%B7%E5%B1%8F%23&t=31&band_rank=36&Refer=top",
     "hot": 122015
   },
-  "长期戴耳机": {
-    "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E6%88%B4%E8%80%B3%E6%9C%BA%23&t=31&band_rank=48&Refer=top",
-    "hot": 118370
-  },
   "陈都灵方否认恶意炒作": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E9%83%BD%E7%81%B5%E6%96%B9%E5%90%A6%E8%AE%A4%E6%81%B6%E6%84%8F%E7%82%92%E4%BD%9C%23&t=31&band_rank=37&Refer=top",
     "hot": 117977
@@ -218,5 +218,9 @@
   "转发这个蚊香阵": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%BD%AC%E5%8F%91%E8%BF%99%E4%B8%AA%E8%9A%8A%E9%A6%99%E9%98%B5%23&t=31&band_rank=48&Refer=top",
     "hot": 55851
+  },
+  "小S长发": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8FS%E9%95%BF%E5%8F%91%23&t=31&band_rank=48&Refer=top",
+    "hot": 28674
   }
 }
