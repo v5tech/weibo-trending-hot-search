@@ -81,7 +81,11 @@
   },
   "大学教育现状": {
     "url": "https://s.weibo.com/weibo?q=%E5%A4%A7%E5%AD%A6%E6%95%99%E8%82%B2%E7%8E%B0%E7%8A%B6&t=31&band_rank=45&Refer=top",
-    "hot": 264460
+    "hot": 283433
+  },
+  "间歇性讨厌朋友": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%97%B4%E6%AD%87%E6%80%A7%E8%AE%A8%E5%8E%8C%E6%9C%8B%E5%8F%8B%23&t=31&band_rank=47&Refer=top",
+    "hot": 261965
   },
   "罗云熙嗑新兰": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%BD%97%E4%BA%91%E7%86%99%E5%97%91%E6%96%B0%E5%85%B0%23&t=31&band_rank=21&Refer=top",
@@ -115,10 +119,6 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%AE%B3%E6%80%95%E7%94%9F%E5%AD%A9%E5%AD%90%E6%98%AF%E5%BF%83%E7%90%86%E9%9A%9C%E7%A2%8D%E5%90%97%23&t=31&band_rank=27&Refer=top",
     "hot": 149385
   },
-  "间歇性讨厌朋友": {
-    "url": "https://s.weibo.com/weibo?q=%23%E9%97%B4%E6%AD%87%E6%80%A7%E8%AE%A8%E5%8E%8C%E6%9C%8B%E5%8F%8B%23&t=31&band_rank=47&Refer=top",
-    "hot": 148028
-  },
   "孙俪 这个爸爸真的可以": {
     "url": "https://s.weibo.com/weibo?q=%E5%AD%99%E4%BF%AA%20%E8%BF%99%E4%B8%AA%E7%88%B8%E7%88%B8%E7%9C%9F%E7%9A%84%E5%8F%AF%E4%BB%A5&t=31&band_rank=28&Refer=top",
     "hot": 141443
@@ -147,6 +147,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%97%B6%E5%80%99%E7%9A%84%E6%96%87%E5%85%B7%E7%9B%92%E5%A5%BD%E9%AB%98%E7%BA%A7%E5%95%8A%23&t=31&band_rank=35&Refer=top",
     "hot": 130870
   },
+  "一和父母对话就情绪不稳定": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%92%8C%E7%88%B6%E6%AF%8D%E5%AF%B9%E8%AF%9D%E5%B0%B1%E6%83%85%E7%BB%AA%E4%B8%8D%E7%A8%B3%E5%AE%9A%23&t=31&band_rank=36&Refer=top",
+    "hot": 125933
+  },
   "周扬青刮痧": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%89%AC%E9%9D%92%E5%88%AE%E7%97%A7%23&t=31&band_rank=34&Refer=top",
     "hot": 124068
@@ -162,10 +166,6 @@
   "月曜": {
     "url": "https://s.weibo.com/weibo?q=%E6%9C%88%E6%9B%9C&t=31&band_rank=38&Refer=top",
     "hot": 117907
-  },
-  "一和父母对话就情绪不稳定": {
-    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%92%8C%E7%88%B6%E6%AF%8D%E5%AF%B9%E8%AF%9D%E5%B0%B1%E6%83%85%E7%BB%AA%E4%B8%8D%E7%A8%B3%E5%AE%9A%23&t=31&band_rank=36&Refer=top",
-    "hot": 115411
   },
   "PDD歌友会": {
     "url": "https://s.weibo.com/weibo?q=%23PDD%E6%AD%8C%E5%8F%8B%E4%BC%9A%23&t=31&band_rank=39&Refer=top",
@@ -214,5 +214,9 @@
   "长期戴耳机": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E6%88%B4%E8%80%B3%E6%9C%BA%23&t=31&band_rank=48&Refer=top",
     "hot": 65494
+  },
+  "转发这个蚊香阵": {
+    "url": "https://s.weibo.com/weibo?q=%23%E8%BD%AC%E5%8F%91%E8%BF%99%E4%B8%AA%E8%9A%8A%E9%A6%99%E9%98%B5%23&t=31&band_rank=48&Refer=top",
+    "hot": 55851
   }
 }
