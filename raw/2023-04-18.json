@@ -83,6 +83,10 @@
     "url": "https://s.weibo.com/weibo?q=%E5%A4%A7%E5%AD%A6%E6%95%99%E8%82%B2%E7%8E%B0%E7%8A%B6&t=31&band_rank=45&Refer=top",
     "hot": 283433
   },
+  "长期戴耳机": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E6%88%B4%E8%80%B3%E6%9C%BA%23&t=31&band_rank=48&Refer=top",
+    "hot": 279408
+  },
   "间歇性讨厌朋友": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%97%B4%E6%AD%87%E6%80%A7%E8%AE%A8%E5%8E%8C%E6%9C%8B%E5%8F%8B%23&t=31&band_rank=47&Refer=top",
     "hot": 261965
@@ -90,10 +94,6 @@
   "罗云熙嗑新兰": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%BD%97%E4%BA%91%E7%86%99%E5%97%91%E6%96%B0%E5%85%B0%23&t=31&band_rank=21&Refer=top",
     "hot": 229417
-  },
-  "长期戴耳机": {
-    "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E6%88%B4%E8%80%B3%E6%9C%BA%23&t=31&band_rank=48&Refer=top",
-    "hot": 215645
   },
   "李春江的最后一堂训练课": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%98%A5%E6%B1%9F%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E5%A0%82%E8%AE%AD%E7%BB%83%E8%AF%BE%23&t=31&band_rank=22&Refer=top",
@@ -221,6 +221,6 @@
   },
   "小S长发": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8FS%E9%95%BF%E5%8F%91%23&t=31&band_rank=48&Refer=top",
-    "hot": 28674
+    "hot": 33197
   }
 }
