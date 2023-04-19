@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-04-20 04:34:37.381866 
+最后更新时间 2023-04-20 04:48:57.489993 
 1. [文彬](https://s.weibo.com/weibo?q=%E6%96%87%E5%BD%AC&t=31&band_rank=1&Refer=top) 10359711
 1. [astro](https://s.weibo.com/weibo?q=astro&t=31&band_rank=2&Refer=top) 3254492
 1. [千万不要有舔奶盖的习惯](https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E6%9C%89%E8%88%94%E5%A5%B6%E7%9B%96%E7%9A%84%E4%B9%A0%E6%83%AF%23&t=31&band_rank=1&Refer=top) 1699924
