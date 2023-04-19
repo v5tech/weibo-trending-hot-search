@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-04-20 01:49:10.946153 
+最后更新时间 2023-04-20 02:13:12.855344 
 1. [文彬](https://s.weibo.com/weibo?q=%E6%96%87%E5%BD%AC&t=31&band_rank=1&Refer=top) 10359711
 1. [astro](https://s.weibo.com/weibo?q=astro&t=31&band_rank=2&Refer=top) 3254492
 1. [千万不要有舔奶盖的习惯](https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E6%9C%89%E8%88%94%E5%A5%B6%E7%9B%96%E7%9A%84%E4%B9%A0%E6%83%AF%23&t=31&band_rank=1&Refer=top) 1699924
@@ -55,6 +55,7 @@
 1. [江疏影回应在桃花坞摔屁股蹲](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E7%96%8F%E5%BD%B1%E5%9B%9E%E5%BA%94%E5%9C%A8%E6%A1%83%E8%8A%B1%E5%9D%9E%E6%91%94%E5%B1%81%E8%82%A1%E8%B9%B2%23&t=31&band_rank=38&Refer=top) 136547
 1. [原来以前的五一是七天假](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E4%BB%A5%E5%89%8D%E7%9A%84%E4%BA%94%E4%B8%80%E6%98%AF%E4%B8%83%E5%A4%A9%E5%81%87%23&t=31&band_rank=39&Refer=top) 134558
 1. [马龙高球扣杀帅到我了](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99%E9%AB%98%E7%90%83%E6%89%A3%E6%9D%80%E5%B8%85%E5%88%B0%E6%88%91%E4%BA%86%23&t=31&band_rank=40&Refer=top) 127785
+1. [警方通报山科大伤人案](https://s.weibo.com/weibo?q=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%B1%B1%E7%A7%91%E5%A4%A7%E4%BC%A4%E4%BA%BA%E6%A1%88&t=31&band_rank=49&Refer=top) 126255
 1. [自带微笑唇的猫咪](https://s.weibo.com/weibo?q=%23%E8%87%AA%E5%B8%A6%E5%BE%AE%E7%AC%91%E5%94%87%E7%9A%84%E7%8C%AB%E5%92%AA%23&t=31&band_rank=46&Refer=top) 123853
 1. [张杰未live巡回演唱会](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9D%B0%E6%9C%AAlive%E5%B7%A1%E5%9B%9E%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=41&Refer=top) 121022
 1. [剧好听的歌居然请来了罗大佑](https://s.weibo.com/weibo?q=%23%E5%89%A7%E5%A5%BD%E5%90%AC%E7%9A%84%E6%AD%8C%E5%B1%85%E7%84%B6%E8%AF%B7%E6%9D%A5%E4%BA%86%E7%BD%97%E5%A4%A7%E4%BD%91%23&t=31&band_rank=42&Refer=top) 120552
@@ -66,8 +67,8 @@
 1. [一张图明白钱的概念](https://s.weibo.com/weibo?q=%E4%B8%80%E5%BC%A0%E5%9B%BE%E6%98%8E%E7%99%BD%E9%92%B1%E7%9A%84%E6%A6%82%E5%BF%B5&t=31&band_rank=48&Refer=top) 99443
 1. [柯洁大司马连麦直播](https://s.weibo.com/weibo?q=%23%E6%9F%AF%E6%B4%81%E5%A4%A7%E5%8F%B8%E9%A9%AC%E8%BF%9E%E9%BA%A6%E7%9B%B4%E6%92%AD%23&t=31&band_rank=50&Refer=top) 94692
 1. [内娱00后颜值有多高](https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B100%E5%90%8E%E9%A2%9C%E5%80%BC%E6%9C%89%E5%A4%9A%E9%AB%98%23&t=31&band_rank=48&Refer=top) 93764
-1. [警方通报山科大伤人案](https://s.weibo.com/weibo?q=%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%B1%B1%E7%A7%91%E5%A4%A7%E4%BC%A4%E4%BA%BA%E6%A1%88&t=31&band_rank=49&Refer=top) 66029
-1. [她还享受着金色的生命](https://s.weibo.com/weibo?q=%E5%A5%B9%E8%BF%98%E4%BA%AB%E5%8F%97%E7%9D%80%E9%87%91%E8%89%B2%E7%9A%84%E7%94%9F%E5%91%BD&t=31&band_rank=49&Refer=top) 43794
+1. [她还享受着金色的生命](https://s.weibo.com/weibo?q=%E5%A5%B9%E8%BF%98%E4%BA%AB%E5%8F%97%E7%9D%80%E9%87%91%E8%89%B2%E7%9A%84%E7%94%9F%E5%91%BD&t=31&band_rank=49&Refer=top) 79562
+1. [杨洋起诉百草味侵权案将开庭](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B4%8B%E8%B5%B7%E8%AF%89%E7%99%BE%E8%8D%89%E5%91%B3%E4%BE%B5%E6%9D%83%E6%A1%88%E5%B0%86%E5%BC%80%E5%BA%AD%23&t=31&band_rank=38&Refer=top) 40157
 <!-- END -->
 
 历史归档 [./archives](./archives)
