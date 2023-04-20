@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-04-21 02:48:59.016215 
+最后更新时间 2023-04-21 03:08:55.498030 
 1. [章昊C位出道](https://s.weibo.com/weibo?q=%23%E7%AB%A0%E6%98%8AC%E4%BD%8D%E5%87%BA%E9%81%93%23&t=31&band_rank=1&Refer=top) 4920196
 1. [乐华赢麻了](https://s.weibo.com/weibo?q=%E4%B9%90%E5%8D%8E%E8%B5%A2%E9%BA%BB%E4%BA%86&t=31&band_rank=4&Refer=top) 1678626
 1. [喜欢和不喜欢的区别很明显](https://s.weibo.com/weibo?q=%23%E5%96%9C%E6%AC%A2%E5%92%8C%E4%B8%8D%E5%96%9C%E6%AC%A2%E7%9A%84%E5%8C%BA%E5%88%AB%E5%BE%88%E6%98%8E%E6%98%BE%23&t=31&band_rank=2&Refer=top) 819348
@@ -68,6 +68,7 @@
 1. [放天欢回来杀叶冰裳吧](https://s.weibo.com/weibo?q=%23%E6%94%BE%E5%A4%A9%E6%AC%A2%E5%9B%9E%E6%9D%A5%E6%9D%80%E5%8F%B6%E5%86%B0%E8%A3%B3%E5%90%A7%23&t=31&band_rank=38&Refer=top) 42538
 1. [BoysPlanet出道团名ZB1](https://s.weibo.com/weibo?q=%23BoysPlanet%E5%87%BA%E9%81%93%E5%9B%A2%E5%90%8DZB1%23&t=31&band_rank=46&Refer=top) 38920
 1. [光遇](https://s.weibo.com/weibo?q=%E5%85%89%E9%81%87&t=31&band_rank=49&Refer=top) 33042
+1. [男子因嫌盛米饭少殴打食堂阿姨](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9B%A0%E5%AB%8C%E7%9B%9B%E7%B1%B3%E9%A5%AD%E5%B0%91%E6%AE%B4%E6%89%93%E9%A3%9F%E5%A0%82%E9%98%BF%E5%A7%A8%23&t=31&band_rank=28&Refer=top) 32671
 1. [金泰来第六出道](https://s.weibo.com/weibo?q=%E9%87%91%E6%B3%B0%E6%9D%A5%E7%AC%AC%E5%85%AD%E5%87%BA%E9%81%93&t=31&band_rank=45&Refer=top) 27015
 <!-- END -->
 
