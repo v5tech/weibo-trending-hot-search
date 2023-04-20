@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-04-21 02:28:07.866728 
+最后更新时间 2023-04-21 02:36:57.193189 
 1. [章昊C位出道](https://s.weibo.com/weibo?q=%23%E7%AB%A0%E6%98%8AC%E4%BD%8D%E5%87%BA%E9%81%93%23&t=31&band_rank=1&Refer=top) 4920196
 1. [乐华赢麻了](https://s.weibo.com/weibo?q=%E4%B9%90%E5%8D%8E%E8%B5%A2%E9%BA%BB%E4%BA%86&t=31&band_rank=4&Refer=top) 1678626
 1. [喜欢和不喜欢的区别很明显](https://s.weibo.com/weibo?q=%23%E5%96%9C%E6%AC%A2%E5%92%8C%E4%B8%8D%E5%96%9C%E6%AC%A2%E7%9A%84%E5%8C%BA%E5%88%AB%E5%BE%88%E6%98%8E%E6%98%BE%23&t=31&band_rank=2&Refer=top) 819348
@@ -65,9 +65,10 @@
 1. [灌篮高手 屏摄](https://s.weibo.com/weibo?q=%E7%81%8C%E7%AF%AE%E9%AB%98%E6%89%8B%20%E5%B1%8F%E6%91%84&t=31&band_rank=50&Refer=top) 74597
 1. [泰裤辣](https://s.weibo.com/weibo?q=%E6%B3%B0%E8%A3%A4%E8%BE%A3&t=31&band_rank=48&Refer=top) 70879
 1. [灌篮高手官旗回应被抢空](https://s.weibo.com/weibo?q=%23%E7%81%8C%E7%AF%AE%E9%AB%98%E6%89%8B%E5%AE%98%E6%97%97%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%8A%A2%E7%A9%BA%23&t=31&band_rank=49&Refer=top) 69211
+1. [放天欢回来杀叶冰裳吧](https://s.weibo.com/weibo?q=%23%E6%94%BE%E5%A4%A9%E6%AC%A2%E5%9B%9E%E6%9D%A5%E6%9D%80%E5%8F%B6%E5%86%B0%E8%A3%B3%E5%90%A7%23&t=31&band_rank=38&Refer=top) 42526
 1. [BoysPlanet出道团名ZB1](https://s.weibo.com/weibo?q=%23BoysPlanet%E5%87%BA%E9%81%93%E5%9B%A2%E5%90%8DZB1%23&t=31&band_rank=46&Refer=top) 38920
-1. [放天欢回来杀叶冰裳吧](https://s.weibo.com/weibo?q=%23%E6%94%BE%E5%A4%A9%E6%AC%A2%E5%9B%9E%E6%9D%A5%E6%9D%80%E5%8F%B6%E5%86%B0%E8%A3%B3%E5%90%A7%23&t=31&band_rank=38&Refer=top) 35288
 1. [光遇](https://s.weibo.com/weibo?q=%E5%85%89%E9%81%87&t=31&band_rank=49&Refer=top) 33042
+1. [金泰来第六出道](https://s.weibo.com/weibo?q=%E9%87%91%E6%B3%B0%E6%9D%A5%E7%AC%AC%E5%85%AD%E5%87%BA%E9%81%93&t=31&band_rank=45&Refer=top) 27015
 <!-- END -->
 
 历史归档 [./archives](./archives)
