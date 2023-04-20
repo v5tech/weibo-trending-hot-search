@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-04-21 06:25:06.194529 
+最后更新时间 2023-04-21 06:34:18.598492 
 1. [章昊C位出道](https://s.weibo.com/weibo?q=%23%E7%AB%A0%E6%98%8AC%E4%BD%8D%E5%87%BA%E9%81%93%23&t=31&band_rank=1&Refer=top) 4920196
 1. [乐华赢麻了](https://s.weibo.com/weibo?q=%E4%B9%90%E5%8D%8E%E8%B5%A2%E9%BA%BB%E4%BA%86&t=31&band_rank=4&Refer=top) 1678626
 1. [喜欢和不喜欢的区别很明显](https://s.weibo.com/weibo?q=%23%E5%96%9C%E6%AC%A2%E5%92%8C%E4%B8%8D%E5%96%9C%E6%AC%A2%E7%9A%84%E5%8C%BA%E5%88%AB%E5%BE%88%E6%98%8E%E6%98%BE%23&t=31&band_rank=2&Refer=top) 819348
@@ -65,12 +65,12 @@
 1. [灌篮高手 屏摄](https://s.weibo.com/weibo?q=%E7%81%8C%E7%AF%AE%E9%AB%98%E6%89%8B%20%E5%B1%8F%E6%91%84&t=31&band_rank=50&Refer=top) 74597
 1. [泰裤辣](https://s.weibo.com/weibo?q=%E6%B3%B0%E8%A3%A4%E8%BE%A3&t=31&band_rank=48&Refer=top) 70879
 1. [灌篮高手官旗回应被抢空](https://s.weibo.com/weibo?q=%23%E7%81%8C%E7%AF%AE%E9%AB%98%E6%89%8B%E5%AE%98%E6%97%97%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%8A%A2%E7%A9%BA%23&t=31&band_rank=49&Refer=top) 69211
-1. [男子因嫌盛米饭少殴打食堂阿姨](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9B%A0%E5%AB%8C%E7%9B%9B%E7%B1%B3%E9%A5%AD%E5%B0%91%E6%AE%B4%E6%89%93%E9%A3%9F%E5%A0%82%E9%98%BF%E5%A7%A8%23&t=31&band_rank=28&Refer=top) 46662
-1. [鲁豫记忆力](https://s.weibo.com/weibo?q=%23%E9%B2%81%E8%B1%AB%E8%AE%B0%E5%BF%86%E5%8A%9B%23&t=31&band_rank=50&Refer=top) 46232
+1. [男子因嫌盛米饭少殴打食堂阿姨](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9B%A0%E5%AB%8C%E7%9B%9B%E7%B1%B3%E9%A5%AD%E5%B0%91%E6%AE%B4%E6%89%93%E9%A3%9F%E5%A0%82%E9%98%BF%E5%A7%A8%23&t=31&band_rank=28&Refer=top) 53617
+1. [鲁豫记忆力](https://s.weibo.com/weibo?q=%23%E9%B2%81%E8%B1%AB%E8%AE%B0%E5%BF%86%E5%8A%9B%23&t=31&band_rank=50&Refer=top) 52312
 1. [放天欢回来杀叶冰裳吧](https://s.weibo.com/weibo?q=%23%E6%94%BE%E5%A4%A9%E6%AC%A2%E5%9B%9E%E6%9D%A5%E6%9D%80%E5%8F%B6%E5%86%B0%E8%A3%B3%E5%90%A7%23&t=31&band_rank=38&Refer=top) 42538
+1. [骑手你是开花车过来的吗](https://s.weibo.com/weibo?q=%E9%AA%91%E6%89%8B%E4%BD%A0%E6%98%AF%E5%BC%80%E8%8A%B1%E8%BD%A6%E8%BF%87%E6%9D%A5%E7%9A%84%E5%90%97&t=31&band_rank=48&Refer=top) 39953
 1. [BoysPlanet出道团名ZB1](https://s.weibo.com/weibo?q=%23BoysPlanet%E5%87%BA%E9%81%93%E5%9B%A2%E5%90%8DZB1%23&t=31&band_rank=46&Refer=top) 38920
 1. [光遇](https://s.weibo.com/weibo?q=%E5%85%89%E9%81%87&t=31&band_rank=49&Refer=top) 33042
-1. [骑手你是开花车过来的吗](https://s.weibo.com/weibo?q=%E9%AA%91%E6%89%8B%E4%BD%A0%E6%98%AF%E5%BC%80%E8%8A%B1%E8%BD%A6%E8%BF%87%E6%9D%A5%E7%9A%84%E5%90%97&t=31&band_rank=48&Refer=top) 32586
 1. [金泰来第六出道](https://s.weibo.com/weibo?q=%E9%87%91%E6%B3%B0%E6%9D%A5%E7%AC%AC%E5%85%AD%E5%87%BA%E9%81%93&t=31&band_rank=45&Refer=top) 32585
 1. [陆虎王栎鑫张远模仿灌篮高手](https://s.weibo.com/weibo?q=%23%E9%99%86%E8%99%8E%E7%8E%8B%E6%A0%8E%E9%91%AB%E5%BC%A0%E8%BF%9C%E6%A8%A1%E4%BB%BF%E7%81%8C%E7%AF%AE%E9%AB%98%E6%89%8B%23&t=31&band_rank=33&Refer=top) 23383
 1. [灌篮高手 爷青回](https://s.weibo.com/weibo?q=%E7%81%8C%E7%AF%AE%E9%AB%98%E6%89%8B%20%E7%88%B7%E9%9D%92%E5%9B%9E&t=31&band_rank=44&Refer=top) 17385
