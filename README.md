@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-04-21 03:34:05.609926 
+最后更新时间 2023-04-21 03:48:58.874811 
 1. [章昊C位出道](https://s.weibo.com/weibo?q=%23%E7%AB%A0%E6%98%8AC%E4%BD%8D%E5%87%BA%E9%81%93%23&t=31&band_rank=1&Refer=top) 4920196
 1. [乐华赢麻了](https://s.weibo.com/weibo?q=%E4%B9%90%E5%8D%8E%E8%B5%A2%E9%BA%BB%E4%BA%86&t=31&band_rank=4&Refer=top) 1678626
 1. [喜欢和不喜欢的区别很明显](https://s.weibo.com/weibo?q=%23%E5%96%9C%E6%AC%A2%E5%92%8C%E4%B8%8D%E5%96%9C%E6%AC%A2%E7%9A%84%E5%8C%BA%E5%88%AB%E5%BE%88%E6%98%8E%E6%98%BE%23&t=31&band_rank=2&Refer=top) 819348
