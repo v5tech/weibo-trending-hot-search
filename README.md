@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-04-22 05:09:10.354121 
+最后更新时间 2023-04-22 05:20:48.433231 
 1. [李晨 女生是累赘](https://s.weibo.com/weibo?q=%E6%9D%8E%E6%99%A8%20%E5%A5%B3%E7%94%9F%E6%98%AF%E7%B4%AF%E8%B5%98&t=31&band_rank=11&Refer=top) 2894070
 1. [胡先煦回应发腮](https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%85%88%E7%85%A6%E5%9B%9E%E5%BA%94%E5%8F%91%E8%85%AE%23&t=31&band_rank=1&Refer=top) 1345286
 1. [宝马mini称两名女生离职消息不实](https://s.weibo.com/weibo?q=%23%E5%AE%9D%E9%A9%ACmini%E7%A7%B0%E4%B8%A4%E5%90%8D%E5%A5%B3%E7%94%9F%E7%A6%BB%E8%81%8C%E6%B6%88%E6%81%AF%E4%B8%8D%E5%AE%9E%23&t=31&band_rank=2&Refer=top) 1054389
@@ -69,8 +69,8 @@
 1. [范志毅把脸都不要了唱进五哈主题曲](https://s.weibo.com/weibo?q=%23%E8%8C%83%E5%BF%97%E6%AF%85%E6%8A%8A%E8%84%B8%E9%83%BD%E4%B8%8D%E8%A6%81%E4%BA%86%E5%94%B1%E8%BF%9B%E4%BA%94%E5%93%88%E4%B8%BB%E9%A2%98%E6%9B%B2%23&t=31&band_rank=39&Refer=top) 37024
 1. [蔡徐坤隔空点亮水立方](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E9%9A%94%E7%A9%BA%E7%82%B9%E4%BA%AE%E6%B0%B4%E7%AB%8B%E6%96%B9%23&t=31&band_rank=42&Refer=top) 35829
 1. [娜扎走了三次红毯](https://s.weibo.com/weibo?q=%23%E5%A8%9C%E6%89%8E%E8%B5%B0%E4%BA%86%E4%B8%89%E6%AC%A1%E7%BA%A2%E6%AF%AF%23&t=31&band_rank=49&Refer=top) 28285
+1. [孝庄秘史 命运映照](https://s.weibo.com/weibo?q=%E5%AD%9D%E5%BA%84%E7%A7%98%E5%8F%B2%20%E5%91%BD%E8%BF%90%E6%98%A0%E7%85%A7&t=31&band_rank=49&Refer=top) 21870
 1. [子女记恨父母就是不孝吗](https://s.weibo.com/weibo?q=%23%E5%AD%90%E5%A5%B3%E8%AE%B0%E6%81%A8%E7%88%B6%E6%AF%8D%E5%B0%B1%E6%98%AF%E4%B8%8D%E5%AD%9D%E5%90%97%23&t=31&band_rank=50&Refer=top) 19271
-1. [孝庄秘史 命运映照](https://s.weibo.com/weibo?q=%E5%AD%9D%E5%BA%84%E7%A7%98%E5%8F%B2%20%E5%91%BD%E8%BF%90%E6%98%A0%E7%85%A7&t=31&band_rank=49&Refer=top) 17640
 1. [AI怪盗积德](https://s.weibo.com/weibo?q=AI%E6%80%AA%E7%9B%97%E7%A7%AF%E5%BE%B7&t=31&band_rank=49&Refer=top) 17538
 <!-- END -->
 
