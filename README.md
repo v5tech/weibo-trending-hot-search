@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-04-22 03:34:05.770922 
+最后更新时间 2023-04-22 03:49:10.878911 
 1. [李晨 女生是累赘](https://s.weibo.com/weibo?q=%E6%9D%8E%E6%99%A8%20%E5%A5%B3%E7%94%9F%E6%98%AF%E7%B4%AF%E8%B5%98&t=31&band_rank=11&Refer=top) 2894070
 1. [胡先煦回应发腮](https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%85%88%E7%85%A6%E5%9B%9E%E5%BA%94%E5%8F%91%E8%85%AE%23&t=31&band_rank=1&Refer=top) 1345286
 1. [宝马mini称两名女生离职消息不实](https://s.weibo.com/weibo?q=%23%E5%AE%9D%E9%A9%ACmini%E7%A7%B0%E4%B8%A4%E5%90%8D%E5%A5%B3%E7%94%9F%E7%A6%BB%E8%81%8C%E6%B6%88%E6%81%AF%E4%B8%8D%E5%AE%9E%23&t=31&band_rank=2&Refer=top) 1054389
@@ -67,6 +67,8 @@
 1. [repo](https://s.weibo.com/weibo?q=repo&t=31&band_rank=48&Refer=top) 49946
 1. [蔡徐坤隔空点亮水立方](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E9%9A%94%E7%A9%BA%E7%82%B9%E4%BA%AE%E6%B0%B4%E7%AB%8B%E6%96%B9%23&t=31&band_rank=42&Refer=top) 35829
 1. [娜扎走了三次红毯](https://s.weibo.com/weibo?q=%23%E5%A8%9C%E6%89%8E%E8%B5%B0%E4%BA%86%E4%B8%89%E6%AC%A1%E7%BA%A2%E6%AF%AF%23&t=31&band_rank=49&Refer=top) 28285
+1. [5岁弟弟忍痛抽骨髓救8岁哥哥](https://s.weibo.com/weibo?q=%235%E5%B2%81%E5%BC%9F%E5%BC%9F%E5%BF%8D%E7%97%9B%E6%8A%BD%E9%AA%A8%E9%AB%93%E6%95%918%E5%B2%81%E5%93%A5%E5%93%A5%23&t=31&band_rank=48&Refer=top) 19284
+1. [子女记恨父母就是不孝吗](https://s.weibo.com/weibo?q=%23%E5%AD%90%E5%A5%B3%E8%AE%B0%E6%81%A8%E7%88%B6%E6%AF%8D%E5%B0%B1%E6%98%AF%E4%B8%8D%E5%AD%9D%E5%90%97%23&t=31&band_rank=50&Refer=top) 19271
 <!-- END -->
 
 历史归档 [./archives](./archives)
