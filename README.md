@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-04-22 01:34:21.063152 
+最后更新时间 2023-04-22 01:49:04.295342 
 1. [李晨 女生是累赘](https://s.weibo.com/weibo?q=%E6%9D%8E%E6%99%A8%20%E5%A5%B3%E7%94%9F%E6%98%AF%E7%B4%AF%E8%B5%98&t=31&band_rank=11&Refer=top) 2894070
 1. [胡先煦回应发腮](https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%85%88%E7%85%A6%E5%9B%9E%E5%BA%94%E5%8F%91%E8%85%AE%23&t=31&band_rank=1&Refer=top) 1345286
 1. [宝马mini称两名女生离职消息不实](https://s.weibo.com/weibo?q=%23%E5%AE%9D%E9%A9%ACmini%E7%A7%B0%E4%B8%A4%E5%90%8D%E5%A5%B3%E7%94%9F%E7%A6%BB%E8%81%8C%E6%B6%88%E6%81%AF%E4%B8%8D%E5%AE%9E%23&t=31&band_rank=2&Refer=top) 1054389
@@ -61,9 +61,9 @@
 1. [五哈主题曲](https://s.weibo.com/weibo?q=%23%E4%BA%94%E5%93%88%E4%B8%BB%E9%A2%98%E6%9B%B2%23&t=31&band_rank=48&Refer=top) 110301
 1. [电影传说全阵容官宣](https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E4%BC%A0%E8%AF%B4%E5%85%A8%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3%23&t=31&band_rank=46&Refer=top) 109415
 1. [今屿 露娜的神](https://s.weibo.com/weibo?q=%E4%BB%8A%E5%B1%BF%20%E9%9C%B2%E5%A8%9C%E7%9A%84%E7%A5%9E&t=31&band_rank=50&Refer=top) 109401
+1. [内娱小说男主代餐脸](https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E5%B0%8F%E8%AF%B4%E7%94%B7%E4%B8%BB%E4%BB%A3%E9%A4%90%E8%84%B8%23&t=31&band_rank=41&Refer=top) 79427
 1. [熊猫宝宝卡屁股被游客嘲笑](https://s.weibo.com/weibo?q=%23%E7%86%8A%E7%8C%AB%E5%AE%9D%E5%AE%9D%E5%8D%A1%E5%B1%81%E8%82%A1%E8%A2%AB%E6%B8%B8%E5%AE%A2%E5%98%B2%E7%AC%91%23&t=31&band_rank=41&Refer=top) 71228
 1. [吸引力法则](https://s.weibo.com/weibo?q=%E5%90%B8%E5%BC%95%E5%8A%9B%E6%B3%95%E5%88%99&t=31&band_rank=50&Refer=top) 64994
-1. [内娱小说男主代餐脸](https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E5%B0%8F%E8%AF%B4%E7%94%B7%E4%B8%BB%E4%BB%A3%E9%A4%90%E8%84%B8%23&t=31&band_rank=41&Refer=top) 52790
 1. [repo](https://s.weibo.com/weibo?q=repo&t=31&band_rank=48&Refer=top) 49946
 <!-- END -->
 
