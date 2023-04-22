@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-04-23 01:09:01.570999 
+最后更新时间 2023-04-23 01:23:34.588128 
 1. [嫖客被抓反告民警并胜诉](https://s.weibo.com/weibo?q=%23%E5%AB%96%E5%AE%A2%E8%A2%AB%E6%8A%93%E5%8F%8D%E5%91%8A%E6%B0%91%E8%AD%A6%E5%B9%B6%E8%83%9C%E8%AF%89%23&t=31&band_rank=1&Refer=top) 1462317
 1. [宋茜长发](https://s.weibo.com/weibo?q=%E5%AE%8B%E8%8C%9C%E9%95%BF%E5%8F%91&t=31&band_rank=2&Refer=top) 1307243
 1. [珍爱地球中国在行动](https://s.weibo.com/weibo?q=%23%E7%8F%8D%E7%88%B1%E5%9C%B0%E7%90%83%E4%B8%AD%E5%9B%BD%E5%9C%A8%E8%A1%8C%E5%8A%A8%23&t=31&band_rank=3&Refer=top) 1097551
@@ -21,9 +21,9 @@
 1. [何悯鸿怀孕还要给戚牧做保姆](https://s.weibo.com/weibo?q=%23%E4%BD%95%E6%82%AF%E9%B8%BF%E6%80%80%E5%AD%95%E8%BF%98%E8%A6%81%E7%BB%99%E6%88%9A%E7%89%A7%E5%81%9A%E4%BF%9D%E5%A7%86%23&t=31&band_rank=11&Refer=top) 443341
 1. [薛之谦 玫瑰没有雨怎么盛开](https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%20%E7%8E%AB%E7%91%B0%E6%B2%A1%E6%9C%89%E9%9B%A8%E6%80%8E%E4%B9%88%E7%9B%9B%E5%BC%80&t=31&band_rank=12&Refer=top) 437731
 1. [长月烬明怎么了](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%88%E7%83%AC%E6%98%8E%E6%80%8E%E4%B9%88%E4%BA%86%23&t=31&band_rank=13&Refer=top) 435946
+1. [朋友得了忧郁症告诉父母](https://s.weibo.com/weibo?q=%E6%9C%8B%E5%8F%8B%E5%BE%97%E4%BA%86%E5%BF%A7%E9%83%81%E7%97%87%E5%91%8A%E8%AF%89%E7%88%B6%E6%AF%8D&t=31&band_rank=38&Refer=top) 435528
 1. [减肥减的根本不是肉](https://s.weibo.com/weibo?q=%23%E5%87%8F%E8%82%A5%E5%87%8F%E7%9A%84%E6%A0%B9%E6%9C%AC%E4%B8%8D%E6%98%AF%E8%82%89%23&t=31&band_rank=14&Refer=top) 394283
 1. [嗯哼长大了](https://s.weibo.com/weibo?q=%E5%97%AF%E5%93%BC%E9%95%BF%E5%A4%A7%E4%BA%86&t=31&band_rank=12&Refer=top) 378570
-1. [朋友得了忧郁症告诉父母](https://s.weibo.com/weibo?q=%E6%9C%8B%E5%8F%8B%E5%BE%97%E4%BA%86%E5%BF%A7%E9%83%81%E7%97%87%E5%91%8A%E8%AF%89%E7%88%B6%E6%AF%8D&t=31&band_rank=38&Refer=top) 362042
 1. [龚俊去了李荣浩的演唱会](https://s.weibo.com/weibo?q=%23%E9%BE%9A%E4%BF%8A%E5%8E%BB%E4%BA%86%E6%9D%8E%E8%8D%A3%E6%B5%A9%E7%9A%84%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=15&Refer=top) 353160
 1. [杜江路演站姿](https://s.weibo.com/weibo?q=%23%E6%9D%9C%E6%B1%9F%E8%B7%AF%E6%BC%94%E7%AB%99%E5%A7%BF%23&t=31&band_rank=39&Refer=top) 330337
 1. [INTO1 女团舞](https://s.weibo.com/weibo?q=INTO1%20%E5%A5%B3%E5%9B%A2%E8%88%9E&t=31&band_rank=28&Refer=top) 320072
@@ -63,6 +63,7 @@
 1. [四川烧烤申请出战](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E7%83%A7%E7%83%A4%E7%94%B3%E8%AF%B7%E5%87%BA%E6%88%98%23&t=31&band_rank=49&Refer=top) 116934
 1. [伊能静来了也不认识秦昊](https://s.weibo.com/weibo?q=%23%E4%BC%8A%E8%83%BD%E9%9D%99%E6%9D%A5%E4%BA%86%E4%B9%9F%E4%B8%8D%E8%AE%A4%E8%AF%86%E7%A7%A6%E6%98%8A%23&t=31&band_rank=50&Refer=top) 115395
 1. [千劫眉主演 罗云熙](https://s.weibo.com/weibo?q=%E5%8D%83%E5%8A%AB%E7%9C%89%E4%B8%BB%E6%BC%94%20%E7%BD%97%E4%BA%91%E7%86%99&t=31&band_rank=49&Refer=top) 90646
+1. [周柏豪现场](https://s.weibo.com/weibo?q=%E5%91%A8%E6%9F%8F%E8%B1%AA%E7%8E%B0%E5%9C%BA&t=31&band_rank=46&Refer=top) 62824
 1. [感谢垃圾食品](https://s.weibo.com/weibo?q=%E6%84%9F%E8%B0%A2%E5%9E%83%E5%9C%BE%E9%A3%9F%E5%93%81&t=31&band_rank=49&Refer=top) 61777
 <!-- END -->
 
