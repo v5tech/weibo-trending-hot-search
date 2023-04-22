@@ -37,7 +37,7 @@
   },
   "公司五一放三天同事离职了": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%8F%B8%E4%BA%94%E4%B8%80%E6%94%BE%E4%B8%89%E5%A4%A9%E5%90%8C%E4%BA%8B%E7%A6%BB%E8%81%8C%E4%BA%86%23&t=31&band_rank=33&Refer=top",
-    "hot": 1204748
+    "hot": 1210468
   },
   "祖孙3人遭杀害事发前凶手曾买寿衣": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%A5%96%E5%AD%993%E4%BA%BA%E9%81%AD%E6%9D%80%E5%AE%B3%E4%BA%8B%E5%8F%91%E5%89%8D%E5%87%B6%E6%89%8B%E6%9B%BE%E4%B9%B0%E5%AF%BF%E8%A1%A3%23&t=31&band_rank=2&Refer=top",
@@ -175,6 +175,14 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%B8%B8%E7%86%9F%E5%AE%9E%E8%A1%8C%E5%B7%A5%E8%B5%84%E5%85%A8%E9%A2%9D%E6%95%B0%E5%AD%97%E4%BA%BA%E6%B0%91%E5%B8%81%E5%8F%91%E6%94%BE%23&t=31&band_rank=46&Refer=top",
     "hot": 427058
   },
+  "苏州一公司通知员工卖宝马否则开除": {
+    "url": "https://s.weibo.com/weibo?q=%23%E8%8B%8F%E5%B7%9E%E4%B8%80%E5%85%AC%E5%8F%B8%E9%80%9A%E7%9F%A5%E5%91%98%E5%B7%A5%E5%8D%96%E5%AE%9D%E9%A9%AC%E5%90%A6%E5%88%99%E5%BC%80%E9%99%A4%23&t=31&band_rank=31&Refer=top",
+    "hot": 421741
+  },
+  "台湾地震": {
+    "url": "https://s.weibo.com/weibo?q=%E5%8F%B0%E6%B9%BE%E5%9C%B0%E9%9C%87&t=31&band_rank=11&Refer=top",
+    "hot": 421433
+  },
   "专家建议去旅游度假城市买房": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E5%BB%BA%E8%AE%AE%E5%8E%BB%E6%97%85%E6%B8%B8%E5%BA%A6%E5%81%87%E5%9F%8E%E5%B8%82%E4%B9%B0%E6%88%BF%23&t=31&band_rank=30&Refer=top",
     "hot": 413385
@@ -299,6 +307,10 @@
     "url": "https://s.weibo.com/weibo?q=%2395%E5%90%8E%E5%A5%B3%E7%94%9F%E6%89%934%E4%BB%BD%E5%B7%A5%E5%85%A8%E5%B9%B4%E6%97%A0%E4%BC%91%23&t=31&band_rank=33&Refer=top",
     "hot": 268536
   },
+  "麻辣烫为何越来越贵": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%BA%BB%E8%BE%A3%E7%83%AB%E4%B8%BA%E4%BD%95%E8%B6%8A%E6%9D%A5%E8%B6%8A%E8%B4%B5%23&t=31&band_rank=35&Refer=top",
+    "hot": 265291
+  },
   "宝马称接待人员不是内部员工": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%AE%9D%E9%A9%AC%E7%A7%B0%E6%8E%A5%E5%BE%85%E4%BA%BA%E5%91%98%E4%B8%8D%E6%98%AF%E5%86%85%E9%83%A8%E5%91%98%E5%B7%A5%23&t=31&band_rank=23&Refer=top",
     "hot": 263840
@@ -351,13 +363,17 @@
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%BE%8E%E9%99%A2%E5%9B%9E%E5%BA%94%E8%80%81%E5%B8%88%E8%A2%AB%E6%8C%87%E6%8A%84%E8%A2%AD%23&t=31&band_rank=39&Refer=top",
     "hot": 212483
   },
+  "鹿晗演唱会官宣海报解读视频": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%BC%94%E5%94%B1%E4%BC%9A%E5%AE%98%E5%AE%A3%E6%B5%B7%E6%8A%A5%E8%A7%A3%E8%AF%BB%E8%A7%86%E9%A2%91%23&t=31&band_rank=31&Refer=top",
+    "hot": 208038
+  },
+  "指责型家庭": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%8C%87%E8%B4%A3%E5%9E%8B%E5%AE%B6%E5%BA%AD%23&t=31&band_rank=45&Refer=top",
+    "hot": 207850
+  },
   "为地球留住美好": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%BA%E5%9C%B0%E7%90%83%E7%95%99%E4%BD%8F%E7%BE%8E%E5%A5%BD%23&t=31&band_rank=41&Refer=top",
     "hot": 207706
-  },
-  "苏州一公司通知员工卖宝马否则开除": {
-    "url": "https://s.weibo.com/weibo?q=%23%E8%8B%8F%E5%B7%9E%E4%B8%80%E5%85%AC%E5%8F%B8%E9%80%9A%E7%9F%A5%E5%91%98%E5%B7%A5%E5%8D%96%E5%AE%9D%E9%A9%AC%E5%90%A6%E5%88%99%E5%BC%80%E9%99%A4%23&t=31&band_rank=31&Refer=top",
-    "hot": 207521
   },
   "男方择偶条件要求女方没弟弟": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E6%96%B9%E6%8B%A9%E5%81%B6%E6%9D%A1%E4%BB%B6%E8%A6%81%E6%B1%82%E5%A5%B3%E6%96%B9%E6%B2%A1%E5%BC%9F%E5%BC%9F%23&t=31&band_rank=20&Refer=top",
@@ -443,10 +459,6 @@
     "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E8%A6%81%E9%80%86%E9%A3%8E%E5%8E%BB%E7%89%87%E5%B0%BE%E6%9B%B2%23&t=31&band_rank=39&Refer=top",
     "hot": 179472
   },
-  "麻辣烫为何越来越贵": {
-    "url": "https://s.weibo.com/weibo?q=%23%E9%BA%BB%E8%BE%A3%E7%83%AB%E4%B8%BA%E4%BD%95%E8%B6%8A%E6%9D%A5%E8%B6%8A%E8%B4%B5%23&t=31&band_rank=35&Refer=top",
-    "hot": 178399
-  },
   "Tangoz去了INTO1演唱会": {
     "url": "https://s.weibo.com/weibo?q=%23Tangoz%E5%8E%BB%E4%BA%86INTO1%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=33&Refer=top",
     "hot": 176159
@@ -490,6 +502,10 @@
   "边牧和金毛同天偷跑聚网吧玩通宵": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%BE%B9%E7%89%A7%E5%92%8C%E9%87%91%E6%AF%9B%E5%90%8C%E5%A4%A9%E5%81%B7%E8%B7%91%E8%81%9A%E7%BD%91%E5%90%A7%E7%8E%A9%E9%80%9A%E5%AE%B5%23&t=31&band_rank=34&Refer=top",
     "hot": 166556
+  },
+  "种地吧": {
+    "url": "https://s.weibo.com/weibo?q=%E7%A7%8D%E5%9C%B0%E5%90%A7&t=31&band_rank=47&Refer=top",
+    "hot": 165184
   },
   "邓超陈赫rap": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E9%99%88%E8%B5%ABrap%23&t=31&band_rank=41&Refer=top",
@@ -563,6 +579,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C2%E6%AF%943A%E5%8B%92%E5%B8%83%E4%BC%A6%23&t=31&band_rank=29&Refer=top",
     "hot": 141280
   },
+  "尹正的脸": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B0%B9%E6%AD%A3%E7%9A%84%E8%84%B8%23&t=31&band_rank=44&Refer=top",
+    "hot": 141105
+  },
   "唐诗逸 白玉兰戏剧主角奖": {
     "url": "https://s.weibo.com/weibo?q=%E5%94%90%E8%AF%97%E9%80%B8%20%E7%99%BD%E7%8E%89%E5%85%B0%E6%88%8F%E5%89%A7%E4%B8%BB%E8%A7%92%E5%A5%96&t=31&band_rank=32&Refer=top",
     "hot": 139844
@@ -575,10 +595,6 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%AE%9D%E9%A9%ACmini%E4%B8%A4%E5%90%8D%E5%8F%91%E5%86%B0%E6%B7%87%E6%B7%8B%E5%A5%B3%E7%94%9F%E5%B7%B2%E7%A6%BB%E8%81%8C%23&t=31&band_rank=31&Refer=top",
     "hot": 139559
   },
-  "指责型家庭": {
-    "url": "https://s.weibo.com/weibo?q=%23%E6%8C%87%E8%B4%A3%E5%9E%8B%E5%AE%B6%E5%BA%AD%23&t=31&band_rank=45&Refer=top",
-    "hot": 138830
-  },
   "SEVENTEEN 克拉盘": {
     "url": "https://s.weibo.com/weibo?q=SEVENTEEN%20%E5%85%8B%E6%8B%89%E7%9B%98&t=31&band_rank=35&Refer=top",
     "hot": 137607
@@ -587,9 +603,9 @@
     "url": "https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E5%B7%A1%E6%BC%94%E5%9B%9B%E7%AB%99%E5%AE%98%E5%AE%A3%23&t=31&band_rank=33&Refer=top",
     "hot": 137518
   },
-  "种地吧": {
-    "url": "https://s.weibo.com/weibo?q=%E7%A7%8D%E5%9C%B0%E5%90%A7&t=31&band_rank=47&Refer=top",
-    "hot": 137071
+  "抢票次次陪跑": {
+    "url": "https://s.weibo.com/weibo?q=%E6%8A%A2%E7%A5%A8%E6%AC%A1%E6%AC%A1%E9%99%AA%E8%B7%91&t=31&band_rank=45&Refer=top",
+    "hot": 137363
   },
   "逆水寒鸿音登上纽约时代广场大屏": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%80%86%E6%B0%B4%E5%AF%92%E9%B8%BF%E9%9F%B3%E7%99%BB%E4%B8%8A%E7%BA%BD%E7%BA%A6%E6%97%B6%E4%BB%A3%E5%B9%BF%E5%9C%BA%E5%A4%A7%E5%B1%8F%23&t=31&band_rank=47&Refer=top",
