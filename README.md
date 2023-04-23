@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-04-24 01:08:53.138709 
+最后更新时间 2023-04-24 01:23:14.812713 
 1. [白鹿 以后会更加严格约束自己言行](https://s.weibo.com/weibo?q=%E7%99%BD%E9%B9%BF%20%E4%BB%A5%E5%90%8E%E4%BC%9A%E6%9B%B4%E5%8A%A0%E4%B8%A5%E6%A0%BC%E7%BA%A6%E6%9D%9F%E8%87%AA%E5%B7%B1%E8%A8%80%E8%A1%8C&t=31&band_rank=1&Refer=top) 4480815
 1. [严禁劣迹艺人随意变相复出捞金](https://s.weibo.com/weibo?q=%23%E4%B8%A5%E7%A6%81%E5%8A%A3%E8%BF%B9%E8%89%BA%E4%BA%BA%E9%9A%8F%E6%84%8F%E5%8F%98%E7%9B%B8%E5%A4%8D%E5%87%BA%E6%8D%9E%E9%87%91%23&t=31&band_rank=2&Refer=top) 1491196
 1. [相约八点见](https://s.weibo.com/weibo?q=%23%E7%9B%B8%E7%BA%A6%E5%85%AB%E7%82%B9%E8%A7%81%23&t=31&band_rank=3&Refer=top) 1027818
@@ -38,10 +38,10 @@
 1. [白桃星座](https://s.weibo.com/weibo?q=%E7%99%BD%E6%A1%83%E6%98%9F%E5%BA%A7&t=31&band_rank=27&Refer=top) 212616
 1. [广东东莞大益](https://s.weibo.com/weibo?q=%E5%B9%BF%E4%B8%9C%E4%B8%9C%E8%8E%9E%E5%A4%A7%E7%9B%8A&t=31&band_rank=39&Refer=top) 199798
 1. [龙湖天街](https://s.weibo.com/weibo?q=%23%E9%BE%99%E6%B9%96%E5%A4%A9%E8%A1%97%23&t=31&band_rank=28&Refer=top) 197302
+1. [琉球](https://s.weibo.com/weibo?q=%E7%90%89%E7%90%83&t=31&band_rank=49&Refer=top) 188124
 1. [当你和法国人解释五一调休](https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BD%A0%E5%92%8C%E6%B3%95%E5%9B%BD%E4%BA%BA%E8%A7%A3%E9%87%8A%E4%BA%94%E4%B8%80%E8%B0%83%E4%BC%91%23&t=31&band_rank=29&Refer=top) 187357
 1. [伍佰 这我写的歌词](https://s.weibo.com/weibo?q=%E4%BC%8D%E4%BD%B0%20%E8%BF%99%E6%88%91%E5%86%99%E7%9A%84%E6%AD%8C%E8%AF%8D&t=31&band_rank=30&Refer=top) 183694
 1. [为什么好朋友不爱点赞我朋友圈](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A5%BD%E6%9C%8B%E5%8F%8B%E4%B8%8D%E7%88%B1%E7%82%B9%E8%B5%9E%E6%88%91%E6%9C%8B%E5%8F%8B%E5%9C%88%23&t=31&band_rank=31&Refer=top) 180589
-1. [琉球](https://s.weibo.com/weibo?q=%E7%90%89%E7%90%83&t=31&band_rank=49&Refer=top) 176533
 1. [赵睿](https://s.weibo.com/weibo?q=%E8%B5%B5%E7%9D%BF&t=31&band_rank=32&Refer=top) 170121
 1. [龚俊问大张伟这是便秘的广告吗](https://s.weibo.com/weibo?q=%23%E9%BE%9A%E4%BF%8A%E9%97%AE%E5%A4%A7%E5%BC%A0%E4%BC%9F%E8%BF%99%E6%98%AF%E4%BE%BF%E7%A7%98%E7%9A%84%E5%B9%BF%E5%91%8A%E5%90%97%23&t=31&band_rank=33&Refer=top) 168171
 1. [外卖轻食 肠胃炎](https://s.weibo.com/weibo?q=%E5%A4%96%E5%8D%96%E8%BD%BB%E9%A3%9F%20%E8%82%A0%E8%83%83%E7%82%8E&t=31&band_rank=34&Refer=top) 154287
