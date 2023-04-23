@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-04-24 01:34:05.614284 
+最后更新时间 2023-04-24 01:49:04.249005 
 1. [白鹿 以后会更加严格约束自己言行](https://s.weibo.com/weibo?q=%E7%99%BD%E9%B9%BF%20%E4%BB%A5%E5%90%8E%E4%BC%9A%E6%9B%B4%E5%8A%A0%E4%B8%A5%E6%A0%BC%E7%BA%A6%E6%9D%9F%E8%87%AA%E5%B7%B1%E8%A8%80%E8%A1%8C&t=31&band_rank=1&Refer=top) 4480815
 1. [严禁劣迹艺人随意变相复出捞金](https://s.weibo.com/weibo?q=%23%E4%B8%A5%E7%A6%81%E5%8A%A3%E8%BF%B9%E8%89%BA%E4%BA%BA%E9%9A%8F%E6%84%8F%E5%8F%98%E7%9B%B8%E5%A4%8D%E5%87%BA%E6%8D%9E%E9%87%91%23&t=31&band_rank=2&Refer=top) 1491196
 1. [相约八点见](https://s.weibo.com/weibo?q=%23%E7%9B%B8%E7%BA%A6%E5%85%AB%E7%82%B9%E8%A7%81%23&t=31&band_rank=3&Refer=top) 1027818
@@ -64,6 +64,7 @@
 1. [曼联首发](https://s.weibo.com/weibo?q=%E6%9B%BC%E8%81%94%E9%A6%96%E5%8F%91&t=31&band_rank=31&Refer=top) 67280
 1. [被欺负的猫终成了天下至尊](https://s.weibo.com/weibo?q=%E8%A2%AB%E6%AC%BA%E8%B4%9F%E7%9A%84%E7%8C%AB%E7%BB%88%E6%88%90%E4%BA%86%E5%A4%A9%E4%B8%8B%E8%87%B3%E5%B0%8A&t=31&band_rank=50&Refer=top) 64279
 1. [二十几岁是个混乱的年龄段](https://s.weibo.com/weibo?q=%E4%BA%8C%E5%8D%81%E5%87%A0%E5%B2%81%E6%98%AF%E4%B8%AA%E6%B7%B7%E4%B9%B1%E7%9A%84%E5%B9%B4%E9%BE%84%E6%AE%B5&t=31&band_rank=49&Refer=top) 64212
+1. [水逆](https://s.weibo.com/weibo?q=%E6%B0%B4%E9%80%86&t=31&band_rank=50&Refer=top) 37460
 <!-- END -->
 
 历史归档 [./archives](./archives)
