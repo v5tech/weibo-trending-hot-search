@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-04-24 05:20:30.380322 
+最后更新时间 2023-04-24 05:34:09.906559 
 1. [白鹿 以后会更加严格约束自己言行](https://s.weibo.com/weibo?q=%E7%99%BD%E9%B9%BF%20%E4%BB%A5%E5%90%8E%E4%BC%9A%E6%9B%B4%E5%8A%A0%E4%B8%A5%E6%A0%BC%E7%BA%A6%E6%9D%9F%E8%87%AA%E5%B7%B1%E8%A8%80%E8%A1%8C&t=31&band_rank=1&Refer=top) 4480815
 1. [严禁劣迹艺人随意变相复出捞金](https://s.weibo.com/weibo?q=%23%E4%B8%A5%E7%A6%81%E5%8A%A3%E8%BF%B9%E8%89%BA%E4%BA%BA%E9%9A%8F%E6%84%8F%E5%8F%98%E7%9B%B8%E5%A4%8D%E5%87%BA%E6%8D%9E%E9%87%91%23&t=31&band_rank=2&Refer=top) 1491196
 1. [相约八点见](https://s.weibo.com/weibo?q=%23%E7%9B%B8%E7%BA%A6%E5%85%AB%E7%82%B9%E8%A7%81%23&t=31&band_rank=3&Refer=top) 1027818
@@ -59,15 +59,15 @@
 1. [小县城的生活能有多安逸](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%8E%BF%E5%9F%8E%E7%9A%84%E7%94%9F%E6%B4%BB%E8%83%BD%E6%9C%89%E5%A4%9A%E5%AE%89%E9%80%B8%23&t=31&band_rank=47&Refer=top) 103609
 1. [双向情感障碍能做什么工作](https://s.weibo.com/weibo?q=%23%E5%8F%8C%E5%90%91%E6%83%85%E6%84%9F%E9%9A%9C%E7%A2%8D%E8%83%BD%E5%81%9A%E4%BB%80%E4%B9%88%E5%B7%A5%E4%BD%9C%23&t=31&band_rank=48&Refer=top) 99892
 1. [ENHYPEN预告](https://s.weibo.com/weibo?q=ENHYPEN%E9%A2%84%E5%91%8A&t=31&band_rank=49&Refer=top) 97698
+1. [女子忘关车门4岁娃跑下车遭碾压](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%BF%98%E5%85%B3%E8%BD%A6%E9%97%A84%E5%B2%81%E5%A8%83%E8%B7%91%E4%B8%8B%E8%BD%A6%E9%81%AD%E7%A2%BE%E5%8E%8B%23&t=31&band_rank=13&Refer=top) 93926
 1. [这个世界没有改变 是你在慢慢变好](https://s.weibo.com/weibo?q=%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E6%B2%A1%E6%9C%89%E6%94%B9%E5%8F%98%20%E6%98%AF%E4%BD%A0%E5%9C%A8%E6%85%A2%E6%85%A2%E5%8F%98%E5%A5%BD&t=31&band_rank=50&Refer=top) 93908
-1. [女子忘关车门4岁娃跑下车遭碾压](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%BF%98%E5%85%B3%E8%BD%A6%E9%97%A84%E5%B2%81%E5%A8%83%E8%B7%91%E4%B8%8B%E8%BD%A6%E9%81%AD%E7%A2%BE%E5%8E%8B%23&t=31&band_rank=13&Refer=top) 86969
 1. [半熟男女官宣没有周雨彤](https://s.weibo.com/weibo?q=%23%E5%8D%8A%E7%86%9F%E7%94%B7%E5%A5%B3%E5%AE%98%E5%AE%A3%E6%B2%A1%E6%9C%89%E5%91%A8%E9%9B%A8%E5%BD%A4%23&t=31&band_rank=50&Refer=top) 74495
 1. [湖南博物馆](https://s.weibo.com/weibo?q=%E6%B9%96%E5%8D%97%E5%8D%9A%E7%89%A9%E9%A6%86&t=31&band_rank=21&Refer=top) 73606
 1. [曼联首发](https://s.weibo.com/weibo?q=%E6%9B%BC%E8%81%94%E9%A6%96%E5%8F%91&t=31&band_rank=31&Refer=top) 67280
 1. [被欺负的猫终成了天下至尊](https://s.weibo.com/weibo?q=%E8%A2%AB%E6%AC%BA%E8%B4%9F%E7%9A%84%E7%8C%AB%E7%BB%88%E6%88%90%E4%BA%86%E5%A4%A9%E4%B8%8B%E8%87%B3%E5%B0%8A&t=31&band_rank=50&Refer=top) 64279
 1. [二十几岁是个混乱的年龄段](https://s.weibo.com/weibo?q=%E4%BA%8C%E5%8D%81%E5%87%A0%E5%B2%81%E6%98%AF%E4%B8%AA%E6%B7%B7%E4%B9%B1%E7%9A%84%E5%B9%B4%E9%BE%84%E6%AE%B5&t=31&band_rank=49&Refer=top) 64212
+1. [老师上课被学生从背后扇并挑衅](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E4%B8%8A%E8%AF%BE%E8%A2%AB%E5%AD%A6%E7%94%9F%E4%BB%8E%E8%83%8C%E5%90%8E%E6%89%87%E5%B9%B6%E6%8C%91%E8%A1%85%23&t=31&band_rank=48&Refer=top) 44085
 1. [水逆](https://s.weibo.com/weibo?q=%E6%B0%B4%E9%80%86&t=31&band_rank=50&Refer=top) 37460
-1. [老师上课被学生从背后扇并挑衅](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E4%B8%8A%E8%AF%BE%E8%A2%AB%E5%AD%A6%E7%94%9F%E4%BB%8E%E8%83%8C%E5%90%8E%E6%89%87%E5%B9%B6%E6%8C%91%E8%A1%85%23&t=31&band_rank=48&Refer=top) 33969
 1. [警方回应男子在商场跳楼砸伤女顾客](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E7%94%B7%E5%AD%90%E5%9C%A8%E5%95%86%E5%9C%BA%E8%B7%B3%E6%A5%BC%E7%A0%B8%E4%BC%A4%E5%A5%B3%E9%A1%BE%E5%AE%A2%23&t=31&band_rank=50&Refer=top) 31174
 1. [在外遭遇种族歧视一定要及时录像](https://s.weibo.com/weibo?q=%E5%9C%A8%E5%A4%96%E9%81%AD%E9%81%87%E7%A7%8D%E6%97%8F%E6%AD%A7%E8%A7%86%E4%B8%80%E5%AE%9A%E8%A6%81%E5%8F%8A%E6%97%B6%E5%BD%95%E5%83%8F&t=31&band_rank=49&Refer=top) 26372
 <!-- END -->
