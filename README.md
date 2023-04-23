@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-04-24 03:34:13.007681 
+最后更新时间 2023-04-24 03:49:21.628666 
 1. [白鹿 以后会更加严格约束自己言行](https://s.weibo.com/weibo?q=%E7%99%BD%E9%B9%BF%20%E4%BB%A5%E5%90%8E%E4%BC%9A%E6%9B%B4%E5%8A%A0%E4%B8%A5%E6%A0%BC%E7%BA%A6%E6%9D%9F%E8%87%AA%E5%B7%B1%E8%A8%80%E8%A1%8C&t=31&band_rank=1&Refer=top) 4480815
 1. [严禁劣迹艺人随意变相复出捞金](https://s.weibo.com/weibo?q=%23%E4%B8%A5%E7%A6%81%E5%8A%A3%E8%BF%B9%E8%89%BA%E4%BA%BA%E9%9A%8F%E6%84%8F%E5%8F%98%E7%9B%B8%E5%A4%8D%E5%87%BA%E6%8D%9E%E9%87%91%23&t=31&band_rank=2&Refer=top) 1491196
 1. [相约八点见](https://s.weibo.com/weibo?q=%23%E7%9B%B8%E7%BA%A6%E5%85%AB%E7%82%B9%E8%A7%81%23&t=31&band_rank=3&Refer=top) 1027818
