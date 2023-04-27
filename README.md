@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-04-28 02:12:48.943494 
+最后更新时间 2023-04-28 02:28:29.067932 
 1. [丫丫回家后吃饭吃得好香](https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E5%9B%9E%E5%AE%B6%E5%90%8E%E5%90%83%E9%A5%AD%E5%90%83%E5%BE%97%E5%A5%BD%E9%A6%99%23&t=31&band_rank=1&Refer=top) 3102739
 1. [丫丫到家后近照](https://s.weibo.com/weibo?q=%23%E4%B8%AB%E4%B8%AB%E5%88%B0%E5%AE%B6%E5%90%8E%E8%BF%91%E7%85%A7%23&t=31&band_rank=2&Refer=top) 1690531
 1. [崔永元](https://s.weibo.com/weibo?q=%E5%B4%94%E6%B0%B8%E5%85%83&t=31&band_rank=5&Refer=top) 1555650
@@ -70,6 +70,7 @@
 1. [王雷对男一号的执念](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%9B%B7%E5%AF%B9%E7%94%B7%E4%B8%80%E5%8F%B7%E7%9A%84%E6%89%A7%E5%BF%B5%23&t=31&band_rank=49&Refer=top) 53712
 1. [蔡依林演唱会](https://s.weibo.com/weibo?q=%E8%94%A1%E4%BE%9D%E6%9E%97%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=48&Refer=top) 39255
 1. [接丫丫回家](https://s.weibo.com/weibo?q=%23%E6%8E%A5%E4%B8%AB%E4%B8%AB%E5%9B%9E%E5%AE%B6%23&t=31&band_rank=49&Refer=top) 30842
+1. [小伙淄博吃烧烤没排上号老板下跪求谅解](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E6%B7%84%E5%8D%9A%E5%90%83%E7%83%A7%E7%83%A4%E6%B2%A1%E6%8E%92%E4%B8%8A%E5%8F%B7%E8%80%81%E6%9D%BF%E4%B8%8B%E8%B7%AA%E6%B1%82%E8%B0%85%E8%A7%A3%23&t=31&band_rank=49&Refer=top) 30410
 <!-- END -->
 
 历史归档 [./archives](./archives)
