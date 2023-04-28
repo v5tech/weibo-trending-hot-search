@@ -243,6 +243,10 @@
     "url": "https://s.weibo.com/weibo?q=%E4%BD%A0%E5%A5%BD%E7%89%B9%E5%88%AB&t=31&band_rank=50&Refer=top",
     "hot": 110385
   },
+  "颜人中演唱会": {
+    "url": "https://s.weibo.com/weibo?q=%E9%A2%9C%E4%BA%BA%E4%B8%AD%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=29&Refer=top",
+    "hot": 88690
+  },
   "马嘉祺说你看到的我就是我的样子": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%98%89%E7%A5%BA%E8%AF%B4%E4%BD%A0%E7%9C%8B%E5%88%B0%E7%9A%84%E6%88%91%E5%B0%B1%E6%98%AF%E6%88%91%E7%9A%84%E6%A0%B7%E5%AD%90%23&t=31&band_rank=38&Refer=top",
     "hot": 86694
@@ -250,5 +254,13 @@
   "陆虎巡演": {
     "url": "https://s.weibo.com/weibo?q=%E9%99%86%E8%99%8E%E5%B7%A1%E6%BC%94&t=31&band_rank=48&Refer=top",
     "hot": 75764
+  },
+  "谢广坤对乔欣说哈尔滨姑娘都漂亮": {
+    "url": "https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%B9%BF%E5%9D%A4%E5%AF%B9%E4%B9%94%E6%AC%A3%E8%AF%B4%E5%93%88%E5%B0%94%E6%BB%A8%E5%A7%91%E5%A8%98%E9%83%BD%E6%BC%82%E4%BA%AE%23&t=31&band_rank=43&Refer=top",
+    "hot": 50682
+  },
+  "WB巅峰对决DRG": {
+    "url": "https://s.weibo.com/weibo?q=%23WB%E5%B7%85%E5%B3%B0%E5%AF%B9%E5%86%B3DRG%23&t=31&band_rank=49&Refer=top",
+    "hot": 47475
   }
 }
