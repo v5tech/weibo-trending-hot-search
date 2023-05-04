@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-05-05 04:49:06.887313 
+最后更新时间 2023-05-05 05:09:41.602364 
 1. [向佐 直播](https://s.weibo.com/weibo?q=%E5%90%91%E4%BD%90%20%E7%9B%B4%E6%92%AD&t=31&band_rank=1&Refer=top) 1143038
 1. [gemini](https://s.weibo.com/weibo?q=gemini&t=31&band_rank=2&Refer=top) 925298
 1. [藏在这场人从众里的世间温柔](https://s.weibo.com/weibo?q=%23%E8%97%8F%E5%9C%A8%E8%BF%99%E5%9C%BA%E4%BA%BA%E4%BB%8E%E4%BC%97%E9%87%8C%E7%9A%84%E4%B8%96%E9%97%B4%E6%B8%A9%E6%9F%94%23&t=31&band_rank=3&Refer=top) 699920
@@ -70,8 +70,8 @@
 1. [这是什么特种兵](https://s.weibo.com/weibo?q=%E8%BF%99%E6%98%AF%E4%BB%80%E4%B9%88%E7%89%B9%E7%A7%8D%E5%85%B5&t=31&band_rank=45&Refer=top) 31174
 1. [过半网友认为插队婆孙被当车贴合适](https://s.weibo.com/weibo?q=%23%E8%BF%87%E5%8D%8A%E7%BD%91%E5%8F%8B%E8%AE%A4%E4%B8%BA%E6%8F%92%E9%98%9F%E5%A9%86%E5%AD%99%E8%A2%AB%E5%BD%93%E8%BD%A6%E8%B4%B4%E5%90%88%E9%80%82%23&t=31&band_rank=25&Refer=top) 31064
 1. [全员加速中](https://s.weibo.com/weibo?q=%E5%85%A8%E5%91%98%E5%8A%A0%E9%80%9F%E4%B8%AD&t=31&band_rank=48&Refer=top) 29927
-1. [人和香蕉的基因有50%相似](https://s.weibo.com/weibo?q=%E4%BA%BA%E5%92%8C%E9%A6%99%E8%95%89%E7%9A%84%E5%9F%BA%E5%9B%A0%E6%9C%8950%25%E7%9B%B8%E4%BC%BC&t=31&band_rank=48&Refer=top) 21320
-1. [韩总统称要懂得对美国感恩](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E6%80%BB%E7%BB%9F%E7%A7%B0%E8%A6%81%E6%87%82%E5%BE%97%E5%AF%B9%E7%BE%8E%E5%9B%BD%E6%84%9F%E6%81%A9%23&t=31&band_rank=47&Refer=top) 15421
+1. [人和香蕉的基因有50%相似](https://s.weibo.com/weibo?q=%E4%BA%BA%E5%92%8C%E9%A6%99%E8%95%89%E7%9A%84%E5%9F%BA%E5%9B%A0%E6%9C%8950%25%E7%9B%B8%E4%BC%BC&t=31&band_rank=48&Refer=top) 21784
+1. [韩总统称要懂得对美国感恩](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E6%80%BB%E7%BB%9F%E7%A7%B0%E8%A6%81%E6%87%82%E5%BE%97%E5%AF%B9%E7%BE%8E%E5%9B%BD%E6%84%9F%E6%81%A9%23&t=31&band_rank=47&Refer=top) 19888
 <!-- END -->
 
 历史归档 [./archives](./archives)
