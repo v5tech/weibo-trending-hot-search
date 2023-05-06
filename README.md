@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-05-07 03:18:58.635133 
+最后更新时间 2023-05-07 03:34:14.269063 
 1. [知情人称挖呀挖黄老师无教师证](https://s.weibo.com/weibo?q=%23%E7%9F%A5%E6%83%85%E4%BA%BA%E7%A7%B0%E6%8C%96%E5%91%80%E6%8C%96%E9%BB%84%E8%80%81%E5%B8%88%E6%97%A0%E6%95%99%E5%B8%88%E8%AF%81%23&t=31&band_rank=31&Refer=top) 1512199
 1. [吴倩状态 刚回国的赵默笙](https://s.weibo.com/weibo?q=%E5%90%B4%E5%80%A9%E7%8A%B6%E6%80%81%20%E5%88%9A%E5%9B%9E%E5%9B%BD%E7%9A%84%E8%B5%B5%E9%BB%98%E7%AC%99&t=31&band_rank=1&Refer=top) 1305632
 1. [黄老师唱的挖呀挖或涉嫌侵权](https://s.weibo.com/weibo?q=%23%E9%BB%84%E8%80%81%E5%B8%88%E5%94%B1%E7%9A%84%E6%8C%96%E5%91%80%E6%8C%96%E6%88%96%E6%B6%89%E5%AB%8C%E4%BE%B5%E6%9D%83%23&t=31&band_rank=2&Refer=top) 1008782
@@ -72,6 +72,7 @@
 1. [魏大勋在最不该做好人的时候做好人](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E5%9C%A8%E6%9C%80%E4%B8%8D%E8%AF%A5%E5%81%9A%E5%A5%BD%E4%BA%BA%E7%9A%84%E6%97%B6%E5%80%99%E5%81%9A%E5%A5%BD%E4%BA%BA%23&t=31&band_rank=41&Refer=top) 50104
 1. [你好星期六](https://s.weibo.com/weibo?q=%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD&t=31&band_rank=44&Refer=top) 29618
 1. [挖呀挖呀挖](https://s.weibo.com/weibo?q=%E6%8C%96%E5%91%80%E6%8C%96%E5%91%80%E6%8C%96&t=31&band_rank=47&Refer=top) 29606
+1. [吴倩张嘉倪](https://s.weibo.com/weibo?q=%E5%90%B4%E5%80%A9%E5%BC%A0%E5%98%89%E5%80%AA&t=31&band_rank=49&Refer=top) 24466
 <!-- END -->
 
 历史归档 [./archives](./archives)
