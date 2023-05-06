@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-05-07 02:49:06.890613 
+最后更新时间 2023-05-07 03:07:37.952737 
 1. [知情人称挖呀挖黄老师无教师证](https://s.weibo.com/weibo?q=%23%E7%9F%A5%E6%83%85%E4%BA%BA%E7%A7%B0%E6%8C%96%E5%91%80%E6%8C%96%E9%BB%84%E8%80%81%E5%B8%88%E6%97%A0%E6%95%99%E5%B8%88%E8%AF%81%23&t=31&band_rank=31&Refer=top) 1512199
 1. [吴倩状态 刚回国的赵默笙](https://s.weibo.com/weibo?q=%E5%90%B4%E5%80%A9%E7%8A%B6%E6%80%81%20%E5%88%9A%E5%9B%9E%E5%9B%BD%E7%9A%84%E8%B5%B5%E9%BB%98%E7%AC%99&t=31&band_rank=1&Refer=top) 1305632
 1. [黄老师唱的挖呀挖或涉嫌侵权](https://s.weibo.com/weibo?q=%23%E9%BB%84%E8%80%81%E5%B8%88%E5%94%B1%E7%9A%84%E6%8C%96%E5%91%80%E6%8C%96%E6%88%96%E6%B6%89%E5%AB%8C%E4%BE%B5%E6%9D%83%23&t=31&band_rank=2&Refer=top) 1008782
@@ -69,7 +69,9 @@
 1. [江阴枪击案嫌犯疑似逃进山](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E9%98%B4%E6%9E%AA%E5%87%BB%E6%A1%88%E5%AB%8C%E7%8A%AF%E7%96%91%E4%BC%BC%E9%80%83%E8%BF%9B%E5%B1%B1%23&t=31&band_rank=40&Refer=top) 88773
 1. [餐厅回应养观赏鲨鱼产下3条崽](https://s.weibo.com/weibo?q=%23%E9%A4%90%E5%8E%85%E5%9B%9E%E5%BA%94%E5%85%BB%E8%A7%82%E8%B5%8F%E9%B2%A8%E9%B1%BC%E4%BA%A7%E4%B8%8B3%E6%9D%A1%E5%B4%BD%23&t=31&band_rank=47&Refer=top) 80189
 1. [早安没吃饱](https://s.weibo.com/weibo?q=%E6%97%A9%E5%AE%89%E6%B2%A1%E5%90%83%E9%A5%B1&t=31&band_rank=43&Refer=top) 58873
-1. [魏大勋在最不该做好人的时候做好人](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E5%9C%A8%E6%9C%80%E4%B8%8D%E8%AF%A5%E5%81%9A%E5%A5%BD%E4%BA%BA%E7%9A%84%E6%97%B6%E5%80%99%E5%81%9A%E5%A5%BD%E4%BA%BA%23&t=31&band_rank=41&Refer=top) 35951
+1. [魏大勋在最不该做好人的时候做好人](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E5%9C%A8%E6%9C%80%E4%B8%8D%E8%AF%A5%E5%81%9A%E5%A5%BD%E4%BA%BA%E7%9A%84%E6%97%B6%E5%80%99%E5%81%9A%E5%A5%BD%E4%BA%BA%23&t=31&band_rank=41&Refer=top) 49300
+1. [你好星期六](https://s.weibo.com/weibo?q=%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD&t=31&band_rank=44&Refer=top) 29618
+1. [挖呀挖呀挖](https://s.weibo.com/weibo?q=%E6%8C%96%E5%91%80%E6%8C%96%E5%91%80%E6%8C%96&t=31&band_rank=47&Refer=top) 27292
 <!-- END -->
 
 历史归档 [./archives](./archives)
