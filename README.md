@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-05-08 04:22:51.731241 
+最后更新时间 2023-05-08 04:34:19.423742 
 1. [巴厘岛情侣 柬埔寨车牌](https://s.weibo.com/weibo?q=%E5%B7%B4%E5%8E%98%E5%B2%9B%E6%83%85%E4%BE%A3%20%E6%9F%AC%E5%9F%94%E5%AF%A8%E8%BD%A6%E7%89%8C&t=31&band_rank=1&Refer=top) 2219072
 1. [美依礼芽人气断层第一](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%BE%9D%E7%A4%BC%E8%8A%BD%E4%BA%BA%E6%B0%94%E6%96%AD%E5%B1%82%E7%AC%AC%E4%B8%80%23&t=31&band_rank=2&Refer=top) 1508987
 1. [航天员又要在太空拆快递了](https://s.weibo.com/weibo?q=%23%E8%88%AA%E5%A4%A9%E5%91%98%E5%8F%88%E8%A6%81%E5%9C%A8%E5%A4%AA%E7%A9%BA%E6%8B%86%E5%BF%AB%E9%80%92%E4%BA%86%23&t=31&band_rank=3&Refer=top) 1314887
