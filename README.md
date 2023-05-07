@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-05-08 05:49:15.741053 
+最后更新时间 2023-05-08 06:09:31.783967 
 1. [巴厘岛情侣 柬埔寨车牌](https://s.weibo.com/weibo?q=%E5%B7%B4%E5%8E%98%E5%B2%9B%E6%83%85%E4%BE%A3%20%E6%9F%AC%E5%9F%94%E5%AF%A8%E8%BD%A6%E7%89%8C&t=31&band_rank=1&Refer=top) 2219072
 1. [美依礼芽人气断层第一](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%BE%9D%E7%A4%BC%E8%8A%BD%E4%BA%BA%E6%B0%94%E6%96%AD%E5%B1%82%E7%AC%AC%E4%B8%80%23&t=31&band_rank=2&Refer=top) 1508987
 1. [航天员又要在太空拆快递了](https://s.weibo.com/weibo?q=%23%E8%88%AA%E5%A4%A9%E5%91%98%E5%8F%88%E8%A6%81%E5%9C%A8%E5%A4%AA%E7%A9%BA%E6%8B%86%E5%BF%AB%E9%80%92%E4%BA%86%23&t=31&band_rank=3&Refer=top) 1314887
@@ -58,6 +58,7 @@
 1. [美依礼芽说谢谢大家的应援](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%BE%9D%E7%A4%BC%E8%8A%BD%E8%AF%B4%E8%B0%A2%E8%B0%A2%E5%A4%A7%E5%AE%B6%E7%9A%84%E5%BA%94%E6%8F%B4%23&t=31&band_rank=43&Refer=top) 120390
 1. [长月烬明预告](https://s.weibo.com/weibo?q=%E9%95%BF%E6%9C%88%E7%83%AC%E6%98%8E%E9%A2%84%E5%91%8A&t=31&band_rank=44&Refer=top) 119856
 1. [纽卡斯尔vs阿森纳首发](https://s.weibo.com/weibo?q=%23%E7%BA%BD%E5%8D%A1%E6%96%AF%E5%B0%94vs%E9%98%BF%E6%A3%AE%E7%BA%B3%E9%A6%96%E5%8F%91%23&t=31&band_rank=45&Refer=top) 118655
+1. [校方回应男生被老师丈夫刺伤](https://s.weibo.com/weibo?q=%23%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94%E7%94%B7%E7%94%9F%E8%A2%AB%E8%80%81%E5%B8%88%E4%B8%88%E5%A4%AB%E5%88%BA%E4%BC%A4%23&t=31&band_rank=37&Refer=top) 114575
 1. [音胖 跑路](https://s.weibo.com/weibo?q=%E9%9F%B3%E8%83%96%20%E8%B7%91%E8%B7%AF&t=31&band_rank=46&Refer=top) 114087
 1. [Lisa再破吉尼斯世界纪录](https://s.weibo.com/weibo?q=%23Lisa%E5%86%8D%E7%A0%B4%E5%90%89%E5%B0%BC%E6%96%AF%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95%23&t=31&band_rank=47&Refer=top) 113836
 1. [陆虎杭州巡演](https://s.weibo.com/weibo?q=%E9%99%86%E8%99%8E%E6%9D%AD%E5%B7%9E%E5%B7%A1%E6%BC%94&t=31&band_rank=48&Refer=top) 112257
@@ -65,13 +66,12 @@
 1. [再也不用下床关灯了](https://s.weibo.com/weibo?q=%23%E5%86%8D%E4%B9%9F%E4%B8%8D%E7%94%A8%E4%B8%8B%E5%BA%8A%E5%85%B3%E7%81%AF%E4%BA%86%23&t=31&band_rank=48&Refer=top) 109199
 1. [刘昊然回应抠完脚闻手](https://s.weibo.com/weibo?q=%23%E5%88%98%E6%98%8A%E7%84%B6%E5%9B%9E%E5%BA%94%E6%8A%A0%E5%AE%8C%E8%84%9A%E9%97%BB%E6%89%8B%23&t=31&band_rank=50&Refer=top) 98662
 1. [赵丽颖孙千学手势舞](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%AD%99%E5%8D%83%E5%AD%A6%E6%89%8B%E5%8A%BF%E8%88%9E%23&t=31&band_rank=45&Refer=top) 98585
-1. [校方回应男生被老师丈夫刺伤](https://s.weibo.com/weibo?q=%23%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94%E7%94%B7%E7%94%9F%E8%A2%AB%E8%80%81%E5%B8%88%E4%B8%88%E5%A4%AB%E5%88%BA%E4%BC%A4%23&t=31&band_rank=37&Refer=top) 80765
+1. [因挖呀挖爆火老师身陷6大传闻](https://s.weibo.com/weibo?q=%23%E5%9B%A0%E6%8C%96%E5%91%80%E6%8C%96%E7%88%86%E7%81%AB%E8%80%81%E5%B8%88%E8%BA%AB%E9%99%B76%E5%A4%A7%E4%BC%A0%E9%97%BB%23&t=31&band_rank=49&Refer=top) 68439
 1. [纽卡斯尔联vs阿森纳](https://s.weibo.com/weibo?q=%23%E7%BA%BD%E5%8D%A1%E6%96%AF%E5%B0%94%E8%81%94vs%E9%98%BF%E6%A3%AE%E7%BA%B3%23&t=31&band_rank=50&Refer=top) 64946
-1. [因挖呀挖爆火老师身陷6大传闻](https://s.weibo.com/weibo?q=%23%E5%9B%A0%E6%8C%96%E5%91%80%E6%8C%96%E7%88%86%E7%81%AB%E8%80%81%E5%B8%88%E8%BA%AB%E9%99%B76%E5%A4%A7%E4%BC%A0%E9%97%BB%23&t=31&band_rank=49&Refer=top) 52258
+1. [全红婵再现断崖式领先](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%86%8D%E7%8E%B0%E6%96%AD%E5%B4%96%E5%BC%8F%E9%A2%86%E5%85%88%23&t=31&band_rank=50&Refer=top) 43896
 1. [女子生活照被陌生人盗用欲P成裸照](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%94%9F%E6%B4%BB%E7%85%A7%E8%A2%AB%E9%99%8C%E7%94%9F%E4%BA%BA%E7%9B%97%E7%94%A8%E6%AC%B2P%E6%88%90%E8%A3%B8%E7%85%A7%23&t=31&band_rank=49&Refer=top) 40061
 1. [WB对战DRG](https://s.weibo.com/weibo?q=%23WB%E5%AF%B9%E6%88%98DRG%23&t=31&band_rank=48&Refer=top) 32955
 1. [F1](https://s.weibo.com/weibo?q=F1&t=31&band_rank=34&Refer=top) 32069
-1. [全红婵再现断崖式领先](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%86%8D%E7%8E%B0%E6%96%AD%E5%B4%96%E5%BC%8F%E9%A2%86%E5%85%88%23&t=31&band_rank=50&Refer=top) 18817
 1. [大学生应该多出去买买菜](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%BA%94%E8%AF%A5%E5%A4%9A%E5%87%BA%E5%8E%BB%E4%B9%B0%E4%B9%B0%E8%8F%9C&t=31&band_rank=50&Refer=top) 14443
 <!-- END -->
 
