@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-05-12 02:12:25.514451 
+最后更新时间 2023-05-12 02:27:22.453917 
 1. [霍华德台独](https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%8D%8E%E5%BE%B7%E5%8F%B0%E7%8B%AC%23&t=31&band_rank=1&Refer=top) 3557754
 1. [B站播放时长最长内容是高等数学](https://s.weibo.com/weibo?q=%23B%E7%AB%99%E6%92%AD%E6%94%BE%E6%97%B6%E9%95%BF%E6%9C%80%E9%95%BF%E5%86%85%E5%AE%B9%E6%98%AF%E9%AB%98%E7%AD%89%E6%95%B0%E5%AD%A6%23&t=31&band_rank=2&Refer=top) 1695848
 1. [天舟六号有何特别之处](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E8%88%9F%E5%85%AD%E5%8F%B7%E6%9C%89%E4%BD%95%E7%89%B9%E5%88%AB%E4%B9%8B%E5%A4%84%23&t=31&band_rank=3&Refer=top) 1080419
@@ -68,6 +68,7 @@
 1. [民警为聋哑夫妇反诈写满五页纸](https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E4%B8%BA%E8%81%8B%E5%93%91%E5%A4%AB%E5%A6%87%E5%8F%8D%E8%AF%88%E5%86%99%E6%BB%A1%E4%BA%94%E9%A1%B5%E7%BA%B8%23&t=31&band_rank=48&Refer=top) 79237
 1. [每个女孩童年都有的一件衣服](https://s.weibo.com/weibo?q=%23%E6%AF%8F%E4%B8%AA%E5%A5%B3%E5%AD%A9%E7%AB%A5%E5%B9%B4%E9%83%BD%E6%9C%89%E7%9A%84%E4%B8%80%E4%BB%B6%E8%A1%A3%E6%9C%8D%23&t=31&band_rank=49&Refer=top) 66444
 1. [交警冲刺跳河抢回一命](https://s.weibo.com/weibo?q=%23%E4%BA%A4%E8%AD%A6%E5%86%B2%E5%88%BA%E8%B7%B3%E6%B2%B3%E6%8A%A2%E5%9B%9E%E4%B8%80%E5%91%BD%23&t=31&band_rank=50&Refer=top) 47289
+1. [男生误把甲酸滴油锅意外合成强力胶](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E8%AF%AF%E6%8A%8A%E7%94%B2%E9%85%B8%E6%BB%B4%E6%B2%B9%E9%94%85%E6%84%8F%E5%A4%96%E5%90%88%E6%88%90%E5%BC%BA%E5%8A%9B%E8%83%B6%23&t=31&band_rank=47&Refer=top) 32114
 <!-- END -->
 
 历史归档 [./archives](./archives)
