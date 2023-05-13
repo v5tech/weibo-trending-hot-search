@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-05-14 02:49:11.658605 
+最后更新时间 2023-05-14 03:07:34.230000 
 1. [浪姐4回应](https://s.weibo.com/weibo?q=%23%E6%B5%AA%E5%A7%904%E5%9B%9E%E5%BA%94%23&t=31&band_rank=1&Refer=top) 1662435
 1. [王俊凯去香港看周杰伦](https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%8E%BB%E9%A6%99%E6%B8%AF%E7%9C%8B%E5%91%A8%E6%9D%B0%E4%BC%A6&t=31&band_rank=2&Refer=top) 1348685
 1. [关注2023中国中亚五国峰会](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%B3%A82023%E4%B8%AD%E5%9B%BD%E4%B8%AD%E4%BA%9A%E4%BA%94%E5%9B%BD%E5%B3%B0%E4%BC%9A%23&t=31&band_rank=3&Refer=top) 1134031
@@ -65,17 +65,17 @@
 1. [狼队八冠王](https://s.weibo.com/weibo?q=%23%E7%8B%BC%E9%98%9F%E5%85%AB%E5%86%A0%E7%8E%8B%23&t=31&band_rank=50&Refer=top) 120923
 1. [GEN对战T1](https://s.weibo.com/weibo?q=%23GEN%E5%AF%B9%E6%88%98T1%23&t=31&band_rank=48&Refer=top) 119418
 1. [CBA总决赛辽宁vs浙江](https://s.weibo.com/weibo?q=%23CBA%E6%80%BB%E5%86%B3%E8%B5%9B%E8%BE%BD%E5%AE%81vs%E6%B5%99%E6%B1%9F%23&t=31&band_rank=39&Refer=top) 115309
+1. [美依礼芽投票依旧断层](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%BE%9D%E7%A4%BC%E8%8A%BD%E6%8A%95%E7%A5%A8%E4%BE%9D%E6%97%A7%E6%96%AD%E5%B1%82%23&t=31&band_rank=41&Refer=top) 111759
 1. [vava奔跑女孩](https://s.weibo.com/weibo?q=%23vava%E5%A5%94%E8%B7%91%E5%A5%B3%E5%AD%A9%23&t=31&band_rank=44&Refer=top) 111504
 1. [张杰北京](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E5%8C%97%E4%BA%AC%23&t=31&band_rank=47&Refer=top) 108298
 1. [薛之谦演唱会](https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=42&Refer=top) 96718
 1. [花为爱凤](https://s.weibo.com/weibo?q=%E8%8A%B1%E4%B8%BA%E7%88%B1%E5%87%A4&t=31&band_rank=44&Refer=top) 94946
 1. [男友变心姑娘把他送的黄金卖了14万](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%8F%8B%E5%8F%98%E5%BF%83%E5%A7%91%E5%A8%98%E6%8A%8A%E4%BB%96%E9%80%81%E7%9A%84%E9%BB%84%E9%87%91%E5%8D%96%E4%BA%8614%E4%B8%87%23&t=31&band_rank=48&Refer=top) 87656
 1. [那吾克热巅峰舞台浴火重生](https://s.weibo.com/weibo?q=%23%E9%82%A3%E5%90%BE%E5%85%8B%E7%83%AD%E5%B7%85%E5%B3%B0%E8%88%9E%E5%8F%B0%E6%B5%B4%E7%81%AB%E9%87%8D%E7%94%9F%23&t=31&band_rank=44&Refer=top) 81149
-1. [美依礼芽投票依旧断层](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%BE%9D%E7%A4%BC%E8%8A%BD%E6%8A%95%E7%A5%A8%E4%BE%9D%E6%97%A7%E6%96%AD%E5%B1%82%23&t=31&band_rank=41&Refer=top) 50743
+1. [浪姐运镜稀碎](https://s.weibo.com/weibo?q=%23%E6%B5%AA%E5%A7%90%E8%BF%90%E9%95%9C%E7%A8%80%E7%A2%8E%23&t=31&band_rank=38&Refer=top) 50075
 1. [浪姐一公舞台哪组赢了](https://s.weibo.com/weibo?q=%23%E6%B5%AA%E5%A7%90%E4%B8%80%E5%85%AC%E8%88%9E%E5%8F%B0%E5%93%AA%E7%BB%84%E8%B5%A2%E4%BA%86%23&t=31&band_rank=44&Refer=top) 49934
+1. [朱珠看花海的表情](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E7%8F%A0%E7%9C%8B%E8%8A%B1%E6%B5%B7%E7%9A%84%E8%A1%A8%E6%83%85%23&t=31&band_rank=47&Refer=top) 49496
 1. [薛之谦济南演唱会](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%B5%8E%E5%8D%97%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=46&Refer=top) 47627
-1. [浪姐运镜稀碎](https://s.weibo.com/weibo?q=%23%E6%B5%AA%E5%A7%90%E8%BF%90%E9%95%9C%E7%A8%80%E7%A2%8E%23&t=31&band_rank=38&Refer=top) 39007
-1. [朱珠看花海的表情](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E7%8F%A0%E7%9C%8B%E8%8A%B1%E6%B5%B7%E7%9A%84%E8%A1%A8%E6%83%85%23&t=31&band_rank=47&Refer=top) 36347
 <!-- END -->
 
 历史归档 [./archives](./archives)
