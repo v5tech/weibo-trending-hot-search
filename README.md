@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-05-14 01:34:10.511340 
+最后更新时间 2023-05-14 01:49:05.220786 
 1. [浪姐4回应](https://s.weibo.com/weibo?q=%23%E6%B5%AA%E5%A7%904%E5%9B%9E%E5%BA%94%23&t=31&band_rank=1&Refer=top) 1662435
 1. [王俊凯去香港看周杰伦](https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%8E%BB%E9%A6%99%E6%B8%AF%E7%9C%8B%E5%91%A8%E6%9D%B0%E4%BC%A6&t=31&band_rank=2&Refer=top) 1348685
 1. [关注2023中国中亚五国峰会](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%B3%A82023%E4%B8%AD%E5%9B%BD%E4%B8%AD%E4%BA%9A%E4%BA%94%E5%9B%BD%E5%B3%B0%E4%BC%9A%23&t=31&band_rank=3&Refer=top) 1134031
@@ -70,6 +70,7 @@
 1. [花为爱凤](https://s.weibo.com/weibo?q=%E8%8A%B1%E4%B8%BA%E7%88%B1%E5%87%A4&t=31&band_rank=44&Refer=top) 94946
 1. [男友变心姑娘把他送的黄金卖了14万](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%8F%8B%E5%8F%98%E5%BF%83%E5%A7%91%E5%A8%98%E6%8A%8A%E4%BB%96%E9%80%81%E7%9A%84%E9%BB%84%E9%87%91%E5%8D%96%E4%BA%8614%E4%B8%87%23&t=31&band_rank=48&Refer=top) 87656
 1. [那吾克热巅峰舞台浴火重生](https://s.weibo.com/weibo?q=%23%E9%82%A3%E5%90%BE%E5%85%8B%E7%83%AD%E5%B7%85%E5%B3%B0%E8%88%9E%E5%8F%B0%E6%B5%B4%E7%81%AB%E9%87%8D%E7%94%9F%23&t=31&band_rank=44&Refer=top) 81149
+1. [9旬老头因家庭矛盾砍死8旬老太](https://s.weibo.com/weibo?q=%239%E6%97%AC%E8%80%81%E5%A4%B4%E5%9B%A0%E5%AE%B6%E5%BA%AD%E7%9F%9B%E7%9B%BE%E7%A0%8D%E6%AD%BB8%E6%97%AC%E8%80%81%E5%A4%AA%23&t=31&band_rank=39&Refer=top) 64070
 <!-- END -->
 
 历史归档 [./archives](./archives)
