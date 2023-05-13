@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-05-14 02:26:27.379629 
+最后更新时间 2023-05-14 02:35:07.654247 
 1. [浪姐4回应](https://s.weibo.com/weibo?q=%23%E6%B5%AA%E5%A7%904%E5%9B%9E%E5%BA%94%23&t=31&band_rank=1&Refer=top) 1662435
 1. [王俊凯去香港看周杰伦](https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%8E%BB%E9%A6%99%E6%B8%AF%E7%9C%8B%E5%91%A8%E6%9D%B0%E4%BC%A6&t=31&band_rank=2&Refer=top) 1348685
 1. [关注2023中国中亚五国峰会](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%B3%A82023%E4%B8%AD%E5%9B%BD%E4%B8%AD%E4%BA%9A%E4%BA%94%E5%9B%BD%E5%B3%B0%E4%BC%9A%23&t=31&band_rank=3&Refer=top) 1134031
@@ -49,12 +49,12 @@
 1. [王源预告过了一个城市一个发色](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E9%A2%84%E5%91%8A%E8%BF%87%E4%BA%86%E4%B8%80%E4%B8%AA%E5%9F%8E%E5%B8%82%E4%B8%80%E4%B8%AA%E5%8F%91%E8%89%B2%23&t=31&band_rank=33&Refer=top) 188053
 1. [战至巅峰](https://s.weibo.com/weibo?q=%E6%88%98%E8%87%B3%E5%B7%85%E5%B3%B0&t=31&band_rank=41&Refer=top) 187425
 1. [娜扎生图](https://s.weibo.com/weibo?q=%E5%A8%9C%E6%89%8E%E7%94%9F%E5%9B%BE&t=31&band_rank=36&Refer=top) 182817
+1. [9旬老头因家庭矛盾砍死8旬老太](https://s.weibo.com/weibo?q=%239%E6%97%AC%E8%80%81%E5%A4%B4%E5%9B%A0%E5%AE%B6%E5%BA%AD%E7%9F%9B%E7%9B%BE%E7%A0%8D%E6%AD%BB8%E6%97%AC%E8%80%81%E5%A4%AA%23&t=31&band_rank=39&Refer=top) 164581
 1. [女顾客称因不想续卡遭三名店员围殴](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E9%A1%BE%E5%AE%A2%E7%A7%B0%E5%9B%A0%E4%B8%8D%E6%83%B3%E7%BB%AD%E5%8D%A1%E9%81%AD%E4%B8%89%E5%90%8D%E5%BA%97%E5%91%98%E5%9B%B4%E6%AE%B4%23&t=31&band_rank=34&Refer=top) 162845
 1. [杨鸣](https://s.weibo.com/weibo?q=%E6%9D%A8%E9%B8%A3&t=31&band_rank=35&Refer=top) 147234
 1. [徐明浩照顾高叶的方式](https://s.weibo.com/weibo?q=%23%E5%BE%90%E6%98%8E%E6%B5%A9%E7%85%A7%E9%A1%BE%E9%AB%98%E5%8F%B6%E7%9A%84%E6%96%B9%E5%BC%8F%23&t=31&band_rank=37&Refer=top) 145537
 1. [Fly FMVP](https://s.weibo.com/weibo?q=Fly%20FMVP&t=31&band_rank=38&Refer=top) 144373
 1. [淄博八大局知名麻辣串疑被房东赶走](https://s.weibo.com/weibo?q=%23%E6%B7%84%E5%8D%9A%E5%85%AB%E5%A4%A7%E5%B1%80%E7%9F%A5%E5%90%8D%E9%BA%BB%E8%BE%A3%E4%B8%B2%E7%96%91%E8%A2%AB%E6%88%BF%E4%B8%9C%E8%B5%B6%E8%B5%B0%23&t=31&band_rank=39&Refer=top) 140983
-1. [9旬老头因家庭矛盾砍死8旬老太](https://s.weibo.com/weibo?q=%239%E6%97%AC%E8%80%81%E5%A4%B4%E5%9B%A0%E5%AE%B6%E5%BA%AD%E7%9F%9B%E7%9B%BE%E7%A0%8D%E6%AD%BB8%E6%97%AC%E8%80%81%E5%A4%AA%23&t=31&band_rank=39&Refer=top) 139464
 1. [科颜氏 原神](https://s.weibo.com/weibo?q=%E7%A7%91%E9%A2%9C%E6%B0%8F%20%E5%8E%9F%E7%A5%9E&t=31&band_rank=40&Refer=top) 132289
 1. [谢娜 用力过猛](https://s.weibo.com/weibo?q=%E8%B0%A2%E5%A8%9C%20%E7%94%A8%E5%8A%9B%E8%BF%87%E7%8C%9B&t=31&band_rank=42&Refer=top) 129309
 1. [原来在北京还能这么过母亲节](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%9C%A8%E5%8C%97%E4%BA%AC%E8%BF%98%E8%83%BD%E8%BF%99%E4%B9%88%E8%BF%87%E6%AF%8D%E4%BA%B2%E8%8A%82%23&t=31&band_rank=47&Refer=top) 128049
@@ -71,8 +71,9 @@
 1. [花为爱凤](https://s.weibo.com/weibo?q=%E8%8A%B1%E4%B8%BA%E7%88%B1%E5%87%A4&t=31&band_rank=44&Refer=top) 94946
 1. [男友变心姑娘把他送的黄金卖了14万](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%8F%8B%E5%8F%98%E5%BF%83%E5%A7%91%E5%A8%98%E6%8A%8A%E4%BB%96%E9%80%81%E7%9A%84%E9%BB%84%E9%87%91%E5%8D%96%E4%BA%8614%E4%B8%87%23&t=31&band_rank=48&Refer=top) 87656
 1. [那吾克热巅峰舞台浴火重生](https://s.weibo.com/weibo?q=%23%E9%82%A3%E5%90%BE%E5%85%8B%E7%83%AD%E5%B7%85%E5%B3%B0%E8%88%9E%E5%8F%B0%E6%B5%B4%E7%81%AB%E9%87%8D%E7%94%9F%23&t=31&band_rank=44&Refer=top) 81149
-1. [美依礼芽投票依旧断层](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%BE%9D%E7%A4%BC%E8%8A%BD%E6%8A%95%E7%A5%A8%E4%BE%9D%E6%97%A7%E6%96%AD%E5%B1%82%23&t=31&band_rank=41&Refer=top) 47688
-1. [薛之谦济南演唱会](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%B5%8E%E5%8D%97%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=46&Refer=top) 47618
+1. [美依礼芽投票依旧断层](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%BE%9D%E7%A4%BC%E8%8A%BD%E6%8A%95%E7%A5%A8%E4%BE%9D%E6%97%A7%E6%96%AD%E5%B1%82%23&t=31&band_rank=41&Refer=top) 50743
+1. [浪姐一公舞台哪组赢了](https://s.weibo.com/weibo?q=%23%E6%B5%AA%E5%A7%90%E4%B8%80%E5%85%AC%E8%88%9E%E5%8F%B0%E5%93%AA%E7%BB%84%E8%B5%A2%E4%BA%86%23&t=31&band_rank=44&Refer=top) 49934
+1. [薛之谦济南演唱会](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%B5%8E%E5%8D%97%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=46&Refer=top) 47627
 <!-- END -->
 
 历史归档 [./archives](./archives)
