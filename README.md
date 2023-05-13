@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-05-14 01:25:23.219256 
+最后更新时间 2023-05-14 01:34:10.511340 
 1. [浪姐4回应](https://s.weibo.com/weibo?q=%23%E6%B5%AA%E5%A7%904%E5%9B%9E%E5%BA%94%23&t=31&band_rank=1&Refer=top) 1662435
 1. [王俊凯去香港看周杰伦](https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%8E%BB%E9%A6%99%E6%B8%AF%E7%9C%8B%E5%91%A8%E6%9D%B0%E4%BC%A6&t=31&band_rank=2&Refer=top) 1348685
 1. [关注2023中国中亚五国峰会](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%B3%A82023%E4%B8%AD%E5%9B%BD%E4%B8%AD%E4%BA%9A%E4%BA%94%E5%9B%BD%E5%B3%B0%E4%BC%9A%23&t=31&band_rank=3&Refer=top) 1134031
@@ -36,9 +36,10 @@
 1. [墨香铜臭](https://s.weibo.com/weibo?q=%23%E5%A2%A8%E9%A6%99%E9%93%9C%E8%87%AD%23&t=31&band_rank=23&Refer=top) 248968
 1. [为什么本科生的就业处境最尴尬](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%AC%E7%A7%91%E7%94%9F%E7%9A%84%E5%B0%B1%E4%B8%9A%E5%A4%84%E5%A2%83%E6%9C%80%E5%B0%B4%E5%B0%AC%23&t=31&band_rank=24&Refer=top) 247414
 1. [花海居然输了](https://s.weibo.com/weibo?q=%E8%8A%B1%E6%B5%B7%E5%B1%85%E7%84%B6%E8%BE%93%E4%BA%86&t=31&band_rank=26&Refer=top) 247332
+1. [墨西哥平民窟天才少女](https://s.weibo.com/weibo?q=%E5%A2%A8%E8%A5%BF%E5%93%A5%E5%B9%B3%E6%B0%91%E7%AA%9F%E5%A4%A9%E6%89%8D%E5%B0%91%E5%A5%B3&t=31&band_rank=49&Refer=top) 233283
 1. [王源让大家正经一点](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E8%AE%A9%E5%A4%A7%E5%AE%B6%E6%AD%A3%E7%BB%8F%E4%B8%80%E7%82%B9%23&t=31&band_rank=28&Refer=top) 217149
-1. [墨西哥平民窟天才少女](https://s.weibo.com/weibo?q=%E5%A2%A8%E8%A5%BF%E5%93%A5%E5%B9%B3%E6%B0%91%E7%AA%9F%E5%A4%A9%E6%89%8D%E5%B0%91%E5%A5%B3&t=31&band_rank=49&Refer=top) 215377
 1. [法国救援人员拆墙救391公斤老太太](https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E6%95%91%E6%8F%B4%E4%BA%BA%E5%91%98%E6%8B%86%E5%A2%99%E6%95%91391%E5%85%AC%E6%96%A4%E8%80%81%E5%A4%AA%E5%A4%AA%23&t=31&band_rank=30&Refer=top) 206135
+1. [小白赢了谢可寅烧了项链](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%99%BD%E8%B5%A2%E4%BA%86%E8%B0%A2%E5%8F%AF%E5%AF%85%E7%83%A7%E4%BA%86%E9%A1%B9%E9%93%BE%23&t=31&band_rank=32&Refer=top) 205907
 1. [陈意涵问修杰楷你在哪儿](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%84%8F%E6%B6%B5%E9%97%AE%E4%BF%AE%E6%9D%B0%E6%A5%B7%E4%BD%A0%E5%9C%A8%E5%93%AA%E5%84%BF%23&t=31&band_rank=32&Refer=top) 205722
 1. [梦中的那片海](https://s.weibo.com/weibo?q=%E6%A2%A6%E4%B8%AD%E7%9A%84%E9%82%A3%E7%89%87%E6%B5%B7&t=31&band_rank=27&Refer=top) 205198
 1. [今天沈阳沸腾了](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E6%B2%88%E9%98%B3%E6%B2%B8%E8%85%BE%E4%BA%86%23&t=31&band_rank=29&Refer=top) 200360
@@ -49,7 +50,6 @@
 1. [战至巅峰](https://s.weibo.com/weibo?q=%E6%88%98%E8%87%B3%E5%B7%85%E5%B3%B0&t=31&band_rank=41&Refer=top) 187425
 1. [娜扎生图](https://s.weibo.com/weibo?q=%E5%A8%9C%E6%89%8E%E7%94%9F%E5%9B%BE&t=31&band_rank=36&Refer=top) 182817
 1. [女顾客称因不想续卡遭三名店员围殴](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E9%A1%BE%E5%AE%A2%E7%A7%B0%E5%9B%A0%E4%B8%8D%E6%83%B3%E7%BB%AD%E5%8D%A1%E9%81%AD%E4%B8%89%E5%90%8D%E5%BA%97%E5%91%98%E5%9B%B4%E6%AE%B4%23&t=31&band_rank=34&Refer=top) 162845
-1. [小白赢了谢可寅烧了项链](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%99%BD%E8%B5%A2%E4%BA%86%E8%B0%A2%E5%8F%AF%E5%AF%85%E7%83%A7%E4%BA%86%E9%A1%B9%E9%93%BE%23&t=31&band_rank=32&Refer=top) 159336
 1. [杨鸣](https://s.weibo.com/weibo?q=%E6%9D%A8%E9%B8%A3&t=31&band_rank=35&Refer=top) 147234
 1. [徐明浩照顾高叶的方式](https://s.weibo.com/weibo?q=%23%E5%BE%90%E6%98%8E%E6%B5%A9%E7%85%A7%E9%A1%BE%E9%AB%98%E5%8F%B6%E7%9A%84%E6%96%B9%E5%BC%8F%23&t=31&band_rank=37&Refer=top) 145537
 1. [Fly FMVP](https://s.weibo.com/weibo?q=Fly%20FMVP&t=31&band_rank=38&Refer=top) 144373
@@ -63,7 +63,7 @@
 1. [Amber滑跪](https://s.weibo.com/weibo?q=%23Amber%E6%BB%91%E8%B7%AA%23&t=31&band_rank=45&Refer=top) 123366
 1. [狼队八冠王](https://s.weibo.com/weibo?q=%23%E7%8B%BC%E9%98%9F%E5%85%AB%E5%86%A0%E7%8E%8B%23&t=31&band_rank=50&Refer=top) 120923
 1. [GEN对战T1](https://s.weibo.com/weibo?q=%23GEN%E5%AF%B9%E6%88%98T1%23&t=31&band_rank=48&Refer=top) 119418
-1. [CBA总决赛辽宁vs浙江](https://s.weibo.com/weibo?q=%23CBA%E6%80%BB%E5%86%B3%E8%B5%9B%E8%BE%BD%E5%AE%81vs%E6%B5%99%E6%B1%9F%23&t=31&band_rank=39&Refer=top) 115202
+1. [CBA总决赛辽宁vs浙江](https://s.weibo.com/weibo?q=%23CBA%E6%80%BB%E5%86%B3%E8%B5%9B%E8%BE%BD%E5%AE%81vs%E6%B5%99%E6%B1%9F%23&t=31&band_rank=39&Refer=top) 115309
 1. [vava奔跑女孩](https://s.weibo.com/weibo?q=%23vava%E5%A5%94%E8%B7%91%E5%A5%B3%E5%AD%A9%23&t=31&band_rank=44&Refer=top) 111504
 1. [张杰北京](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E5%8C%97%E4%BA%AC%23&t=31&band_rank=47&Refer=top) 108298
 1. [薛之谦演唱会](https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=42&Refer=top) 96718
