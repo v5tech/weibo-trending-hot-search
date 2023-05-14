@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-05-14 16:34:35.456408 
+最后更新时间 2023-05-14 16:48:59.148326 
 1. [山西发生重大刑案已致7死11伤](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E5%8F%91%E7%94%9F%E9%87%8D%E5%A4%A7%E5%88%91%E6%A1%88%E5%B7%B2%E8%87%B47%E6%AD%BB11%E4%BC%A4%23&t=31&band_rank=12&Refer=top) 2852102
 1. [网红卖崽青蛙上海落网](https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E5%8D%96%E5%B4%BD%E9%9D%92%E8%9B%99%E4%B8%8A%E6%B5%B7%E8%90%BD%E7%BD%91%23&t=31&band_rank=2&Refer=top) 2492049
 1. [原来花海输给了吻别](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E8%8A%B1%E6%B5%B7%E8%BE%93%E7%BB%99%E4%BA%86%E5%90%BB%E5%88%AB&t=31&band_rank=35&Refer=top) 2185628
@@ -83,6 +83,7 @@
 1. [Amber当曾可妮的面说烦死她了](https://s.weibo.com/weibo?q=%23Amber%E5%BD%93%E6%9B%BE%E5%8F%AF%E5%A6%AE%E7%9A%84%E9%9D%A2%E8%AF%B4%E7%83%A6%E6%AD%BB%E5%A5%B9%E4%BA%86%23&t=31&band_rank=22&Refer=top) 303258
 1. [Lisa无刘海中分造型](https://s.weibo.com/weibo?q=%23Lisa%E6%97%A0%E5%88%98%E6%B5%B7%E4%B8%AD%E5%88%86%E9%80%A0%E5%9E%8B%23&t=31&band_rank=32&Refer=top) 301822
 1. [伊戈达拉退役](https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%88%88%E8%BE%BE%E6%8B%89%E9%80%80%E5%BD%B9%23&t=31&band_rank=19&Refer=top) 299632
+1. [男子开车60公里瞒着母亲突然回家](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%BC%80%E8%BD%A660%E5%85%AC%E9%87%8C%E7%9E%92%E7%9D%80%E6%AF%8D%E4%BA%B2%E7%AA%81%E7%84%B6%E5%9B%9E%E5%AE%B6%23&t=31&band_rank=39&Refer=top) 294510
 1. [原来在北京还能这么过母亲节](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%9C%A8%E5%8C%97%E4%BA%AC%E8%BF%98%E8%83%BD%E8%BF%99%E4%B9%88%E8%BF%87%E6%AF%8D%E4%BA%B2%E8%8A%82%23&t=31&band_rank=47&Refer=top) 293363
 1. [花海舞台](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E6%B5%B7%E8%88%9E%E5%8F%B0%23&t=31&band_rank=29&Refer=top) 292830
 1. [她有种不在国内的自信](https://s.weibo.com/weibo?q=%23%E5%A5%B9%E6%9C%89%E7%A7%8D%E4%B8%8D%E5%9C%A8%E5%9B%BD%E5%86%85%E7%9A%84%E8%87%AA%E4%BF%A1%23&t=31&band_rank=25&Refer=top) 290987
@@ -98,7 +99,6 @@
 1. [今天沈阳沸腾了](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E6%B2%88%E9%98%B3%E6%B2%B8%E8%85%BE%E4%BA%86%23&t=31&band_rank=29&Refer=top) 276829
 1. [韩庚晒照祝妈妈老婆母亲节快乐](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%BA%9A%E6%99%92%E7%85%A7%E7%A5%9D%E5%A6%88%E5%A6%88%E8%80%81%E5%A9%86%E6%AF%8D%E4%BA%B2%E8%8A%82%E5%BF%AB%E4%B9%90%23&t=31&band_rank=29&Refer=top) 276657
 1. [赵本山宋小宝观战辽篮总决赛](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E6%9C%AC%E5%B1%B1%E5%AE%8B%E5%B0%8F%E5%AE%9D%E8%A7%82%E6%88%98%E8%BE%BD%E7%AF%AE%E6%80%BB%E5%86%B3%E8%B5%9B%23&t=31&band_rank=32&Refer=top) 275060
-1. [男子开车60公里瞒着母亲突然回家](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%BC%80%E8%BD%A660%E5%85%AC%E9%87%8C%E7%9E%92%E7%9D%80%E6%AF%8D%E4%BA%B2%E7%AA%81%E7%84%B6%E5%9B%9E%E5%AE%B6%23&t=31&band_rank=39&Refer=top) 272954
 1. [拿到拆迁款前几天人去世了](https://s.weibo.com/weibo?q=%23%E6%8B%BF%E5%88%B0%E6%8B%86%E8%BF%81%E6%AC%BE%E5%89%8D%E5%87%A0%E5%A4%A9%E4%BA%BA%E5%8E%BB%E4%B8%96%E4%BA%86%23&t=31&band_rank=18&Refer=top) 271928
 1. [母亲节快乐](https://s.weibo.com/weibo?q=%E6%AF%8D%E4%BA%B2%E8%8A%82%E5%BF%AB%E4%B9%90&t=31&band_rank=9&Refer=top) 267702
 1. [吐槽浪姐4的UP主回应](https://s.weibo.com/weibo?q=%23%E5%90%90%E6%A7%BD%E6%B5%AA%E5%A7%904%E7%9A%84UP%E4%B8%BB%E5%9B%9E%E5%BA%94%23&t=31&band_rank=15&Refer=top) 259726
@@ -155,6 +155,7 @@
 1. [母亲节礼物](https://s.weibo.com/weibo?q=%E6%AF%8D%E4%BA%B2%E8%8A%82%E7%A4%BC%E7%89%A9&t=31&band_rank=33&Refer=top) 186176
 1. [乘风声明微博评论区](https://s.weibo.com/weibo?q=%23%E4%B9%98%E9%A3%8E%E5%A3%B0%E6%98%8E%E5%BE%AE%E5%8D%9A%E8%AF%84%E8%AE%BA%E5%8C%BA%23&t=31&band_rank=27&Refer=top) 184844
 1. [外婆遇到疯驴子遭老罪了](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%A9%86%E9%81%87%E5%88%B0%E7%96%AF%E9%A9%B4%E5%AD%90%E9%81%AD%E8%80%81%E7%BD%AA%E4%BA%86%23&t=31&band_rank=45&Refer=top) 184249
+1. [窦靖童声音好像王菲](https://s.weibo.com/weibo?q=%E7%AA%A6%E9%9D%96%E7%AB%A5%E5%A3%B0%E9%9F%B3%E5%A5%BD%E5%83%8F%E7%8E%8B%E8%8F%B2&t=31&band_rank=47&Refer=top) 183432
 1. [杨幂早期洋装旧照](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E6%97%A9%E6%9C%9F%E6%B4%8B%E8%A3%85%E6%97%A7%E7%85%A7%23&t=31&band_rank=34&Refer=top) 183233
 1. [娜扎生图](https://s.weibo.com/weibo?q=%E5%A8%9C%E6%89%8E%E7%94%9F%E5%9B%BE&t=31&band_rank=36&Refer=top) 182817
 1. [漫长的季节 重配](https://s.weibo.com/weibo?q=%E6%BC%AB%E9%95%BF%E7%9A%84%E5%AD%A3%E8%8A%82%20%E9%87%8D%E9%85%8D&t=31&band_rank=39&Refer=top) 182815
@@ -216,18 +217,20 @@
 1. [GEN对战T1](https://s.weibo.com/weibo?q=%23GEN%E5%AF%B9%E6%88%98T1%23&t=31&band_rank=48&Refer=top) 119418
 1. [海拉鲁军备竞赛](https://s.weibo.com/weibo?q=%E6%B5%B7%E6%8B%89%E9%B2%81%E5%86%9B%E5%A4%87%E7%AB%9E%E8%B5%9B&t=31&band_rank=48&Refer=top) 118801
 1. [白夜极光定档](https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%A4%9C%E6%9E%81%E5%85%89%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=49&Refer=top) 118673
+1. [不良执念清除师](https://s.weibo.com/weibo?q=%E4%B8%8D%E8%89%AF%E6%89%A7%E5%BF%B5%E6%B8%85%E9%99%A4%E5%B8%88&t=31&band_rank=36&Refer=top) 117781
 1. [感恩母亲节](https://s.weibo.com/weibo?q=%23%E6%84%9F%E6%81%A9%E6%AF%8D%E4%BA%B2%E8%8A%82%23&t=31&band_rank=44&Refer=top) 117156
 1. [CBA总决赛辽宁vs浙江](https://s.weibo.com/weibo?q=%23CBA%E6%80%BB%E5%86%B3%E8%B5%9B%E8%BE%BD%E5%AE%81vs%E6%B5%99%E6%B1%9F%23&t=31&band_rank=39&Refer=top) 115309
 1. [被马天宇的这个回答暖到了](https://s.weibo.com/weibo?q=%E8%A2%AB%E9%A9%AC%E5%A4%A9%E5%AE%87%E7%9A%84%E8%BF%99%E4%B8%AA%E5%9B%9E%E7%AD%94%E6%9A%96%E5%88%B0%E4%BA%86&t=31&band_rank=43&Refer=top) 113439
 1. [萌娃认出消防员爸爸后满眼骄傲](https://s.weibo.com/weibo?q=%23%E8%90%8C%E5%A8%83%E8%AE%A4%E5%87%BA%E6%B6%88%E9%98%B2%E5%91%98%E7%88%B8%E7%88%B8%E5%90%8E%E6%BB%A1%E7%9C%BC%E9%AA%84%E5%82%B2%23&t=31&band_rank=30&Refer=top) 113141
 1. [以爱为囚](https://s.weibo.com/weibo?q=%E4%BB%A5%E7%88%B1%E4%B8%BA%E5%9B%9A&t=31&band_rank=47&Refer=top) 111785
 1. [vava奔跑女孩](https://s.weibo.com/weibo?q=%23vava%E5%A5%94%E8%B7%91%E5%A5%B3%E5%AD%A9%23&t=31&band_rank=44&Refer=top) 111504
+1. [学士服搭配汉服参加毕业典礼](https://s.weibo.com/weibo?q=%E5%AD%A6%E5%A3%AB%E6%9C%8D%E6%90%AD%E9%85%8D%E6%B1%89%E6%9C%8D%E5%8F%82%E5%8A%A0%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC&t=31&band_rank=39&Refer=top) 108801
 1. [张杰北京](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E5%8C%97%E4%BA%AC%23&t=31&band_rank=47&Refer=top) 108298
 1. [台芒冰淇淋](https://s.weibo.com/weibo?q=%E5%8F%B0%E8%8A%92%E5%86%B0%E6%B7%87%E6%B7%8B&t=31&band_rank=48&Refer=top) 106755
 1. [萌娃亲手种花给妈妈袜子染色](https://s.weibo.com/weibo?q=%23%E8%90%8C%E5%A8%83%E4%BA%B2%E6%89%8B%E7%A7%8D%E8%8A%B1%E7%BB%99%E5%A6%88%E5%A6%88%E8%A2%9C%E5%AD%90%E6%9F%93%E8%89%B2%23&t=31&band_rank=49&Refer=top) 102947
 1. [薛之谦演唱会](https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=42&Refer=top) 96718
+1. [生孩子的意义到底是什么](https://s.weibo.com/weibo?q=%E7%94%9F%E5%AD%A9%E5%AD%90%E7%9A%84%E6%84%8F%E4%B9%89%E5%88%B0%E5%BA%95%E6%98%AF%E4%BB%80%E4%B9%88&t=31&band_rank=47&Refer=top) 94961
 1. [花为爱凤](https://s.weibo.com/weibo?q=%E8%8A%B1%E4%B8%BA%E7%88%B1%E5%87%A4&t=31&band_rank=44&Refer=top) 94946
-1. [窦靖童声音好像王菲](https://s.weibo.com/weibo?q=%E7%AA%A6%E9%9D%96%E7%AB%A5%E5%A3%B0%E9%9F%B3%E5%A5%BD%E5%83%8F%E7%8E%8B%E8%8F%B2&t=31&band_rank=47&Refer=top) 93840
 1. [原神](https://s.weibo.com/weibo?q=%E5%8E%9F%E7%A5%9E&t=31&band_rank=49&Refer=top) 93285
 1. [男子倒提的婴儿为模型](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%80%92%E6%8F%90%E7%9A%84%E5%A9%B4%E5%84%BF%E4%B8%BA%E6%A8%A1%E5%9E%8B%23&t=31&band_rank=49&Refer=top) 91540
 1. [那吾克热巅峰舞台浴火重生](https://s.weibo.com/weibo?q=%23%E9%82%A3%E5%90%BE%E5%85%8B%E7%83%AD%E5%B7%85%E5%B3%B0%E8%88%9E%E5%8F%B0%E6%B5%B4%E7%81%AB%E9%87%8D%E7%94%9F%23&t=31&band_rank=44&Refer=top) 81149
