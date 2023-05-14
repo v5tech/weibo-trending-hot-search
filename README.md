@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-05-15 01:22:27.538361 
+最后更新时间 2023-05-15 01:33:59.931780 
 1. [挖呀挖黄老师关闭直播间打赏](https://s.weibo.com/weibo?q=%23%E6%8C%96%E5%91%80%E6%8C%96%E9%BB%84%E8%80%81%E5%B8%88%E5%85%B3%E9%97%AD%E7%9B%B4%E6%92%AD%E9%97%B4%E6%89%93%E8%B5%8F%23&t=31&band_rank=1&Refer=top) 1503119
 1. [男子花10万块买了8套房](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%8A%B110%E4%B8%87%E5%9D%97%E4%B9%B0%E4%BA%868%E5%A5%97%E6%88%BF%23&t=31&band_rank=2&Refer=top) 1037295
 1. [农忙时节的田野铺开了生机勃勃的画卷](https://s.weibo.com/weibo?q=%23%E5%86%9C%E5%BF%99%E6%97%B6%E8%8A%82%E7%9A%84%E7%94%B0%E9%87%8E%E9%93%BA%E5%BC%80%E4%BA%86%E7%94%9F%E6%9C%BA%E5%8B%83%E5%8B%83%E7%9A%84%E7%94%BB%E5%8D%B7%23&t=31&band_rank=3&Refer=top) 887040
@@ -64,8 +64,10 @@
 1. [女儿偷偷买票帮60岁妈妈追星](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E5%81%B7%E5%81%B7%E4%B9%B0%E7%A5%A8%E5%B8%AE60%E5%B2%81%E5%A6%88%E5%A6%88%E8%BF%BD%E6%98%9F%23&t=31&band_rank=50&Refer=top) 97219
 1. [工作带来的疲倦感如何缓解](https://s.weibo.com/weibo?q=%E5%B7%A5%E4%BD%9C%E5%B8%A6%E6%9D%A5%E7%9A%84%E7%96%B2%E5%80%A6%E6%84%9F%E5%A6%82%E4%BD%95%E7%BC%93%E8%A7%A3&t=31&band_rank=50&Refer=top) 93281
 1. [黄景瑜一个眼神黄明昊就收敛](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%AF%E7%91%9C%E4%B8%80%E4%B8%AA%E7%9C%BC%E7%A5%9E%E9%BB%84%E6%98%8E%E6%98%8A%E5%B0%B1%E6%94%B6%E6%95%9B%23&t=31&band_rank=41&Refer=top) 87868
+1. [汶川敬礼娃娃郎铮今年高考](https://s.weibo.com/weibo?q=%23%E6%B1%B6%E5%B7%9D%E6%95%AC%E7%A4%BC%E5%A8%83%E5%A8%83%E9%83%8E%E9%93%AE%E4%BB%8A%E5%B9%B4%E9%AB%98%E8%80%83%23&t=31&band_rank=30&Refer=top) 85799
 1. [红莲冠军](https://s.weibo.com/weibo?q=%E7%BA%A2%E8%8E%B2%E5%86%A0%E5%86%9B&t=31&band_rank=49&Refer=top) 83740
 1. [7岁内蒙古女孩一牵缰绳眼神都变了](https://s.weibo.com/weibo?q=%237%E5%B2%81%E5%86%85%E8%92%99%E5%8F%A4%E5%A5%B3%E5%AD%A9%E4%B8%80%E7%89%B5%E7%BC%B0%E7%BB%B3%E7%9C%BC%E7%A5%9E%E9%83%BD%E5%8F%98%E4%BA%86%23&t=31&band_rank=50&Refer=top) 74348
+1. [浪姐精神](https://s.weibo.com/weibo?q=%E6%B5%AA%E5%A7%90%E7%B2%BE%E7%A5%9E&t=31&band_rank=47&Refer=top) 61937
 <!-- END -->
 
 历史归档 [./archives](./archives)
