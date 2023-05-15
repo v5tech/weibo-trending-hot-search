@@ -225,6 +225,18 @@
   },
   "seventeen出发日本": {
     "url": "https://s.weibo.com/weibo?q=%23seventeen%E5%87%BA%E5%8F%91%E6%97%A5%E6%9C%AC%23&t=31&band_rank=37&Refer=top",
-    "hot": 59320
+    "hot": 61424
+  },
+  "当室友们以为你不在": {
+    "url": "https://s.weibo.com/weibo?q=%E5%BD%93%E5%AE%A4%E5%8F%8B%E4%BB%AC%E4%BB%A5%E4%B8%BA%E4%BD%A0%E4%B8%8D%E5%9C%A8&t=31&band_rank=42&Refer=top",
+    "hot": 46120
+  },
+  "阴阳师官方设定集": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%98%B4%E9%98%B3%E5%B8%88%E5%AE%98%E6%96%B9%E8%AE%BE%E5%AE%9A%E9%9B%86%23&t=31&band_rank=44&Refer=top",
+    "hot": 44780
+  },
+  "喝牛奶的角色": {
+    "url": "https://s.weibo.com/weibo?q=%E5%96%9D%E7%89%9B%E5%A5%B6%E7%9A%84%E8%A7%92%E8%89%B2&t=31&band_rank=46&Refer=top",
+    "hot": 44028
   }
 }
