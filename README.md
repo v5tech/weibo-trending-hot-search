@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-05-16 01:09:12.240642 
+最后更新时间 2023-05-16 01:23:54.419491 
 1. [月薪5000真的很低吗](https://s.weibo.com/weibo?q=%23%E6%9C%88%E8%96%AA5000%E7%9C%9F%E7%9A%84%E5%BE%88%E4%BD%8E%E5%90%97%23&t=31&band_rank=1&Refer=top) 1896568
 1. [姚明的脸](https://s.weibo.com/weibo?q=%E5%A7%9A%E6%98%8E%E7%9A%84%E8%84%B8&t=31&band_rank=2&Refer=top) 786631
 1. [出入境政策再优化](https://s.weibo.com/weibo?q=%23%E5%87%BA%E5%85%A5%E5%A2%83%E6%94%BF%E7%AD%96%E5%86%8D%E4%BC%98%E5%8C%96%23&t=31&band_rank=3&Refer=top) 740775
@@ -42,7 +42,7 @@
 1. [你支持全面禁止老头乐吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E6%94%AF%E6%8C%81%E5%85%A8%E9%9D%A2%E7%A6%81%E6%AD%A2%E8%80%81%E5%A4%B4%E4%B9%90%E5%90%97%23&t=31&band_rank=29&Refer=top) 209226
 1. [武大为2020届毕业生补办毕业典礼](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A4%A7%E4%B8%BA2020%E5%B1%8A%E6%AF%95%E4%B8%9A%E7%94%9F%E8%A1%A5%E5%8A%9E%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%23&t=31&band_rank=30&Refer=top) 204031
 1. [郭艾伦](https://s.weibo.com/weibo?q=%E9%83%AD%E8%89%BE%E4%BC%A6&t=31&band_rank=32&Refer=top) 202666
-1. [现在年轻人流行断亲](https://s.weibo.com/weibo?q=%E7%8E%B0%E5%9C%A8%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%B5%81%E8%A1%8C%E6%96%AD%E4%BA%B2&t=31&band_rank=43&Refer=top) 168686
+1. [现在年轻人流行断亲](https://s.weibo.com/weibo?q=%E7%8E%B0%E5%9C%A8%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%B5%81%E8%A1%8C%E6%96%AD%E4%BA%B2&t=31&band_rank=43&Refer=top) 184888
 1. [笑果旗下艺人多次违法被处罚](https://s.weibo.com/weibo?q=%23%E7%AC%91%E6%9E%9C%E6%97%97%E4%B8%8B%E8%89%BA%E4%BA%BA%E5%A4%9A%E6%AC%A1%E8%BF%9D%E6%B3%95%E8%A2%AB%E5%A4%84%E7%BD%9A%23&t=31&band_rank=33&Refer=top) 167342
 1. [赵继伟亲郭艾伦](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E7%BB%A7%E4%BC%9F%E4%BA%B2%E9%83%AD%E8%89%BE%E4%BC%A6%23&t=31&band_rank=34&Refer=top) 165058
 1. [怎么没有徐怀钰直拍](https://s.weibo.com/weibo?q=%E6%80%8E%E4%B9%88%E6%B2%A1%E6%9C%89%E5%BE%90%E6%80%80%E9%92%B0%E7%9B%B4%E6%8B%8D&t=31&band_rank=35&Refer=top) 152193
