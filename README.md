@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-05-17 03:48:59.651469 
+最后更新时间 2023-05-17 04:10:28.747245 
 1. [温精灵道歉](https://s.weibo.com/weibo?q=%E6%B8%A9%E7%B2%BE%E7%81%B5%E9%81%93%E6%AD%89&t=31&band_rank=1&Refer=top) 2254508
 1. [唐艺昕脚腕纹身](https://s.weibo.com/weibo?q=%23%E5%94%90%E8%89%BA%E6%98%95%E8%84%9A%E8%85%95%E7%BA%B9%E8%BA%AB%23&t=31&band_rank=2&Refer=top) 1119085
 1. [经济运行延续恢复向好态势](https://s.weibo.com/weibo?q=%23%E7%BB%8F%E6%B5%8E%E8%BF%90%E8%A1%8C%E5%BB%B6%E7%BB%AD%E6%81%A2%E5%A4%8D%E5%90%91%E5%A5%BD%E6%80%81%E5%8A%BF%23&t=31&band_rank=3&Refer=top) 986825
@@ -74,6 +74,7 @@
 1. [临盆孕妇遇早高峰铁骑怒吼开道](https://s.weibo.com/weibo?q=%23%E4%B8%B4%E7%9B%86%E5%AD%95%E5%A6%87%E9%81%87%E6%97%A9%E9%AB%98%E5%B3%B0%E9%93%81%E9%AA%91%E6%80%92%E5%90%BC%E5%BC%80%E9%81%93%23&t=31&band_rank=38&Refer=top) 62701
 1. [第一甲第一名状元卷有多强大](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E7%94%B2%E7%AC%AC%E4%B8%80%E5%90%8D%E7%8A%B6%E5%85%83%E5%8D%B7%E6%9C%89%E5%A4%9A%E5%BC%BA%E5%A4%A7%23&t=31&band_rank=31&Refer=top) 53251
 1. [国际米兰vsAC米兰](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%99%85%E7%B1%B3%E5%85%B0vsAC%E7%B1%B3%E5%85%B0%23&t=31&band_rank=48&Refer=top) 30249
+1. [朱一龙 戛纳](https://s.weibo.com/weibo?q=%E6%9C%B1%E4%B8%80%E9%BE%99%20%E6%88%9B%E7%BA%B3&t=31&band_rank=36&Refer=top) 21569
 <!-- END -->
 
 历史归档 [./archives](./archives)
