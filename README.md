@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-05-17 01:09:04.166505 
+最后更新时间 2023-05-17 01:23:46.216636 
 1. [温精灵道歉](https://s.weibo.com/weibo?q=%E6%B8%A9%E7%B2%BE%E7%81%B5%E9%81%93%E6%AD%89&t=31&band_rank=1&Refer=top) 2254508
 1. [唐艺昕脚腕纹身](https://s.weibo.com/weibo?q=%23%E5%94%90%E8%89%BA%E6%98%95%E8%84%9A%E8%85%95%E7%BA%B9%E8%BA%AB%23&t=31&band_rank=2&Refer=top) 1119085
 1. [经济运行延续恢复向好态势](https://s.weibo.com/weibo?q=%23%E7%BB%8F%E6%B5%8E%E8%BF%90%E8%A1%8C%E5%BB%B6%E7%BB%AD%E6%81%A2%E5%A4%8D%E5%90%91%E5%A5%BD%E6%80%81%E5%8A%BF%23&t=31&band_rank=3&Refer=top) 986825
@@ -19,6 +19,7 @@
 1. [病人被医生遗忘在磁共振舱近三小时](https://s.weibo.com/weibo?q=%23%E7%97%85%E4%BA%BA%E8%A2%AB%E5%8C%BB%E7%94%9F%E9%81%97%E5%BF%98%E5%9C%A8%E7%A3%81%E5%85%B1%E6%8C%AF%E8%88%B1%E8%BF%91%E4%B8%89%E5%B0%8F%E6%97%B6%23&t=31&band_rank=8&Refer=top) 499290
 1. [戛纳](https://s.weibo.com/weibo?q=%E6%88%9B%E7%BA%B3&t=31&band_rank=6&Refer=top) 427887
 1. [程十安澄清](https://s.weibo.com/weibo?q=%23%E7%A8%8B%E5%8D%81%E5%AE%89%E6%BE%84%E6%B8%85%23&t=31&band_rank=9&Refer=top) 423447
+1. [戛纳红毯](https://s.weibo.com/weibo?q=%E6%88%9B%E7%BA%B3%E7%BA%A2%E6%AF%AF&t=31&band_rank=23&Refer=top) 409191
 1. [董明珠曾称孟羽童拒绝两年内加薪](https://s.weibo.com/weibo?q=%23%E8%91%A3%E6%98%8E%E7%8F%A0%E6%9B%BE%E7%A7%B0%E5%AD%9F%E7%BE%BD%E7%AB%A5%E6%8B%92%E7%BB%9D%E4%B8%A4%E5%B9%B4%E5%86%85%E5%8A%A0%E8%96%AA%23&t=31&band_rank=10&Refer=top) 358983
 1. [徐娇](https://s.weibo.com/weibo?q=%E5%BE%90%E5%A8%87&t=31&band_rank=12&Refer=top) 350503
 1. [上海一研究生清晨从宿舍6楼坠亡](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%B8%80%E7%A0%94%E7%A9%B6%E7%94%9F%E6%B8%85%E6%99%A8%E4%BB%8E%E5%AE%BF%E8%88%8D6%E6%A5%BC%E5%9D%A0%E4%BA%A1%23&t=31&band_rank=13&Refer=top) 348821
@@ -47,9 +48,10 @@
 1. [王一博赛车图](https://s.weibo.com/weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%B5%9B%E8%BD%A6%E5%9B%BE&t=31&band_rank=35&Refer=top) 174555
 1. [何超莲婚后首亮相](https://s.weibo.com/weibo?q=%23%E4%BD%95%E8%B6%85%E8%8E%B2%E5%A9%9A%E5%90%8E%E9%A6%96%E4%BA%AE%E7%9B%B8%23&t=31&band_rank=38&Refer=top) 168519
 1. [沈月给闺蜜的证婚词](https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%9C%88%E7%BB%99%E9%97%BA%E8%9C%9C%E7%9A%84%E8%AF%81%E5%A9%9A%E8%AF%8D%23&t=31&band_rank=36&Refer=top) 166573
+1. [关晓彤戛纳](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E6%88%9B%E7%BA%B3%23&t=31&band_rank=21&Refer=top) 159464
 1. [hanni新闻图](https://s.weibo.com/weibo?q=hanni%E6%96%B0%E9%97%BB%E5%9B%BE&t=31&band_rank=37&Refer=top) 158802
+1. [巩俐戛纳生图](https://s.weibo.com/weibo?q=%E5%B7%A9%E4%BF%90%E6%88%9B%E7%BA%B3%E7%94%9F%E5%9B%BE&t=31&band_rank=17&Refer=top) 149106
 1. [速度与激情10](https://s.weibo.com/weibo?q=%E9%80%9F%E5%BA%A6%E4%B8%8E%E6%BF%80%E6%83%8510&t=31&band_rank=45&Refer=top) 135633
-1. [关晓彤戛纳](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E6%88%9B%E7%BA%B3%23&t=31&band_rank=21&Refer=top) 131376
 1. [交警小哥对医院门口违停车辆暖心执法](https://s.weibo.com/weibo?q=%23%E4%BA%A4%E8%AD%A6%E5%B0%8F%E5%93%A5%E5%AF%B9%E5%8C%BB%E9%99%A2%E9%97%A8%E5%8F%A3%E8%BF%9D%E5%81%9C%E8%BD%A6%E8%BE%86%E6%9A%96%E5%BF%83%E6%89%A7%E6%B3%95%23&t=31&band_rank=29&Refer=top) 130156
 1. [护心](https://s.weibo.com/weibo?q=%E6%8A%A4%E5%BF%83&t=31&band_rank=43&Refer=top) 128617
 1. [也没有男生考得比我好呀](https://s.weibo.com/weibo?q=%E4%B9%9F%E6%B2%A1%E6%9C%89%E7%94%B7%E7%94%9F%E8%80%83%E5%BE%97%E6%AF%94%E6%88%91%E5%A5%BD%E5%91%80&t=31&band_rank=38&Refer=top) 126647
@@ -60,7 +62,6 @@
 1. [唐嫣说今年一定要学会化妆](https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%E8%AF%B4%E4%BB%8A%E5%B9%B4%E4%B8%80%E5%AE%9A%E8%A6%81%E5%AD%A6%E4%BC%9A%E5%8C%96%E5%A6%86%23&t=31&band_rank=44&Refer=top) 124158
 1. [宋祖儿拽姐look](https://s.weibo.com/weibo?q=%E5%AE%8B%E7%A5%96%E5%84%BF%E6%8B%BD%E5%A7%90look&t=31&band_rank=45&Refer=top) 124139
 1. [G2对战BLG](https://s.weibo.com/weibo?q=%23G2%E5%AF%B9%E6%88%98BLG%23&t=31&band_rank=46&Refer=top) 124139
-1. [戛纳红毯](https://s.weibo.com/weibo?q=%E6%88%9B%E7%BA%B3%E7%BA%A2%E6%AF%AF&t=31&band_rank=23&Refer=top) 122646
 1. [终于把公司熬成双休了](https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E6%8A%8A%E5%85%AC%E5%8F%B8%E7%86%AC%E6%88%90%E5%8F%8C%E4%BC%91%E4%BA%86%23&t=31&band_rank=47&Refer=top) 120280
 1. [再热血的动漫也不及现实里的青春](https://s.weibo.com/weibo?q=%23%E5%86%8D%E7%83%AD%E8%A1%80%E7%9A%84%E5%8A%A8%E6%BC%AB%E4%B9%9F%E4%B8%8D%E5%8F%8A%E7%8E%B0%E5%AE%9E%E9%87%8C%E7%9A%84%E9%9D%92%E6%98%A5%23&t=31&band_rank=25&Refer=top) 106696
 1. [以前抗拒后来真香的食物](https://s.weibo.com/weibo?q=%E4%BB%A5%E5%89%8D%E6%8A%97%E6%8B%92%E5%90%8E%E6%9D%A5%E7%9C%9F%E9%A6%99%E7%9A%84%E9%A3%9F%E7%89%A9&t=31&band_rank=48&Refer=top) 105649
