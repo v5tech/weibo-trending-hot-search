@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-05-18 06:09:33.349046 
+最后更新时间 2023-05-18 06:24:57.130029 
 1. [house被警方立案调查](https://s.weibo.com/weibo?q=%23house%E8%A2%AB%E8%AD%A6%E6%96%B9%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5%23&t=31&band_rank=1&Refer=top) 2658931
 1. [韩流真的来了吗](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E6%B5%81%E7%9C%9F%E7%9A%84%E6%9D%A5%E4%BA%86%E5%90%97%23&t=31&band_rank=2&Refer=top) 2469519
 1. [北斗为梦想导航](https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%96%97%E4%B8%BA%E6%A2%A6%E6%83%B3%E5%AF%BC%E8%88%AA%23&t=31&band_rank=3&Refer=top) 2162582
@@ -63,17 +63,18 @@
 1. [西安](https://s.weibo.com/weibo?q=%E8%A5%BF%E5%AE%89&t=31&band_rank=10&Refer=top) 76473
 1. [浪姐矿工大赛](https://s.weibo.com/weibo?q=%23%E6%B5%AA%E5%A7%90%E7%9F%BF%E5%B7%A5%E5%A4%A7%E8%B5%9B%23&t=31&band_rank=34&Refer=top) 72884
 1. [江豚宝宝为了跃出江面有多努力](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%B1%9A%E5%AE%9D%E5%AE%9D%E4%B8%BA%E4%BA%86%E8%B7%83%E5%87%BA%E6%B1%9F%E9%9D%A2%E6%9C%89%E5%A4%9A%E5%8A%AA%E5%8A%9B%23&t=31&band_rank=25&Refer=top) 72033
+1. [孩子被迫成为家里的精神支柱](https://s.weibo.com/weibo?q=%E5%AD%A9%E5%AD%90%E8%A2%AB%E8%BF%AB%E6%88%90%E4%B8%BA%E5%AE%B6%E9%87%8C%E7%9A%84%E7%B2%BE%E7%A5%9E%E6%94%AF%E6%9F%B1&t=31&band_rank=50&Refer=top) 68122
 1. [文俊辉直播](https://s.weibo.com/weibo?q=%23%E6%96%87%E4%BF%8A%E8%BE%89%E7%9B%B4%E6%92%AD%23&t=31&band_rank=50&Refer=top) 67951
 1. [3岁女孩走失民警全城动员找父母](https://s.weibo.com/weibo?q=%233%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%B5%B0%E5%A4%B1%E6%B0%91%E8%AD%A6%E5%85%A8%E5%9F%8E%E5%8A%A8%E5%91%98%E6%89%BE%E7%88%B6%E6%AF%8D%23&t=31&band_rank=44&Refer=top) 61656
-1. [孩子被迫成为家里的精神支柱](https://s.weibo.com/weibo?q=%E5%AD%A9%E5%AD%90%E8%A2%AB%E8%BF%AB%E6%88%90%E4%B8%BA%E5%AE%B6%E9%87%8C%E7%9A%84%E7%B2%BE%E7%A5%9E%E6%94%AF%E6%9F%B1&t=31&band_rank=50&Refer=top) 60437
 1. [永远要保密的三件事](https://s.weibo.com/weibo?q=%E6%B0%B8%E8%BF%9C%E8%A6%81%E4%BF%9D%E5%AF%86%E7%9A%84%E4%B8%89%E4%BB%B6%E4%BA%8B&t=31&band_rank=49&Refer=top) 59712
 1. [house是谁](https://s.weibo.com/weibo?q=house%E6%98%AF%E8%B0%81&t=31&band_rank=50&Refer=top) 58316
 1. [劳塔罗破门](https://s.weibo.com/weibo?q=%23%E5%8A%B3%E5%A1%94%E7%BD%97%E7%A0%B4%E9%97%A8%23&t=31&band_rank=10&Refer=top) 48692
 1. [金晨新剧里有王勉](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E6%96%B0%E5%89%A7%E9%87%8C%E6%9C%89%E7%8E%8B%E5%8B%89%23&t=31&band_rank=42&Refer=top) 40437
 1. [警察叔叔的看图能力果然一流](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E5%AF%9F%E5%8F%94%E5%8F%94%E7%9A%84%E7%9C%8B%E5%9B%BE%E8%83%BD%E5%8A%9B%E6%9E%9C%E7%84%B6%E4%B8%80%E6%B5%81%23&t=31&band_rank=41&Refer=top) 36970
+1. [吉娜说数数看Amber抡了多少圈](https://s.weibo.com/weibo?q=%23%E5%90%89%E5%A8%9C%E8%AF%B4%E6%95%B0%E6%95%B0%E7%9C%8BAmber%E6%8A%A1%E4%BA%86%E5%A4%9A%E5%B0%91%E5%9C%88%23&t=31&band_rank=50&Refer=top) 33519
 1. [上海责令笑果深刻反省整改](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E8%B4%A3%E4%BB%A4%E7%AC%91%E6%9E%9C%E6%B7%B1%E5%88%BB%E5%8F%8D%E7%9C%81%E6%95%B4%E6%94%B9%23&t=31&band_rank=49&Refer=top) 32259
-1. [吉娜说数数看Amber抡了多少圈](https://s.weibo.com/weibo?q=%23%E5%90%89%E5%A8%9C%E8%AF%B4%E6%95%B0%E6%95%B0%E7%9C%8BAmber%E6%8A%A1%E4%BA%86%E5%A4%9A%E5%B0%91%E5%9C%88%23&t=31&band_rank=50&Refer=top) 30607
 1. [绞肉机打出来的牛肉丸子](https://s.weibo.com/weibo?q=%E7%BB%9E%E8%82%89%E6%9C%BA%E6%89%93%E5%87%BA%E6%9D%A5%E7%9A%84%E7%89%9B%E8%82%89%E4%B8%B8%E5%AD%90&t=31&band_rank=49&Refer=top) 30568
+1. [95生一番男主剧豆瓣评分](https://s.weibo.com/weibo?q=%2395%E7%94%9F%E4%B8%80%E7%95%AA%E7%94%B7%E4%B8%BB%E5%89%A7%E8%B1%86%E7%93%A3%E8%AF%84%E5%88%86%23&t=31&band_rank=44&Refer=top) 29374
 <!-- END -->
 
 历史归档 [./archives](./archives)
