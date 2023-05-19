@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-05-20 02:12:06.407813 
+最后更新时间 2023-05-20 02:27:07.294385 
 1. [明日最幸运的星座](https://s.weibo.com/weibo?q=%E6%98%8E%E6%97%A5%E6%9C%80%E5%B9%B8%E8%BF%90%E7%9A%84%E6%98%9F%E5%BA%A7&t=31&band_rank=7&Refer=top) 1424966
 1. [警方通报男子在高速服务区被撞身亡](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E5%AD%90%E5%9C%A8%E9%AB%98%E9%80%9F%E6%9C%8D%E5%8A%A1%E5%8C%BA%E8%A2%AB%E6%92%9E%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=1&Refer=top) 1393883
 1. [米勒 中国人有自己的相公](https://s.weibo.com/weibo?q=%E7%B1%B3%E5%8B%92%20%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84%E7%9B%B8%E5%85%AC&t=31&band_rank=2&Refer=top) 911662
@@ -24,10 +24,10 @@
 1. [张雨绮看到凯特布兰切特的反应](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%A8%E7%BB%AE%E7%9C%8B%E5%88%B0%E5%87%AF%E7%89%B9%E5%B8%83%E5%85%B0%E5%88%87%E7%89%B9%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=9&Refer=top) 377430
 1. [飞行员在女厕所偷拍乘务](https://s.weibo.com/weibo?q=%E9%A3%9E%E8%A1%8C%E5%91%98%E5%9C%A8%E5%A5%B3%E5%8E%95%E6%89%80%E5%81%B7%E6%8B%8D%E4%B9%98%E5%8A%A1&t=31&band_rank=11&Refer=top) 374529
 1. [婚礼可以推迟但人命一刻都不能耽误](https://s.weibo.com/weibo?q=%23%E5%A9%9A%E7%A4%BC%E5%8F%AF%E4%BB%A5%E6%8E%A8%E8%BF%9F%E4%BD%86%E4%BA%BA%E5%91%BD%E4%B8%80%E5%88%BB%E9%83%BD%E4%B8%8D%E8%83%BD%E8%80%BD%E8%AF%AF%23&t=31&band_rank=10&Refer=top) 320080
+1. [他在海上就这么飘了14天](https://s.weibo.com/weibo?q=%E4%BB%96%E5%9C%A8%E6%B5%B7%E4%B8%8A%E5%B0%B1%E8%BF%99%E4%B9%88%E9%A3%98%E4%BA%8614%E5%A4%A9&t=31&band_rank=34&Refer=top) 319109
 1. [Tabe跑错选手席庆祝](https://s.weibo.com/weibo?q=%23Tabe%E8%B7%91%E9%94%99%E9%80%89%E6%89%8B%E5%B8%AD%E5%BA%86%E7%A5%9D%23&t=31&band_rank=13&Refer=top) 317965
 1. [BLG战胜GEN](https://s.weibo.com/weibo?q=%23BLG%E6%88%98%E8%83%9CGEN%23&t=31&band_rank=14&Refer=top) 269390
 1. [郑容和回韩国了](https://s.weibo.com/weibo?q=%23%E9%83%91%E5%AE%B9%E5%92%8C%E5%9B%9E%E9%9F%A9%E5%9B%BD%E4%BA%86%23&t=31&band_rank=15&Refer=top) 265900
-1. [他在海上就这么飘了14天](https://s.weibo.com/weibo?q=%E4%BB%96%E5%9C%A8%E6%B5%B7%E4%B8%8A%E5%B0%B1%E8%BF%99%E4%B9%88%E9%A3%98%E4%BA%8614%E5%A4%A9&t=31&band_rank=34&Refer=top) 261107
 1. [张雨绮戛纳晚宴](https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%A8%E7%BB%AE%E6%88%9B%E7%BA%B3%E6%99%9A%E5%AE%B4&t=31&band_rank=16&Refer=top) 246043
 1. [澳洲钉子户拒绝2.3亿拆迁款](https://s.weibo.com/weibo?q=%E6%BE%B3%E6%B4%B2%E9%92%89%E5%AD%90%E6%88%B7%E6%8B%92%E7%BB%9D2.3%E4%BA%BF%E6%8B%86%E8%BF%81%E6%AC%BE&t=31&band_rank=17&Refer=top) 239217
 1. [徐怀钰一个人坐在角落里](https://s.weibo.com/weibo?q=%23%E5%BE%90%E6%80%80%E9%92%B0%E4%B8%80%E4%B8%AA%E4%BA%BA%E5%9D%90%E5%9C%A8%E8%A7%92%E8%90%BD%E9%87%8C%23&t=31&band_rank=18&Refer=top) 198084
@@ -66,7 +66,7 @@
 1. [庾澄庆方否认心脏病恶化](https://s.weibo.com/weibo?q=%23%E5%BA%BE%E6%BE%84%E5%BA%86%E6%96%B9%E5%90%A6%E8%AE%A4%E5%BF%83%E8%84%8F%E7%97%85%E6%81%B6%E5%8C%96%23&t=31&band_rank=47&Refer=top) 116251
 1. [周深惨叫还有转音](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E6%83%A8%E5%8F%AB%E8%BF%98%E6%9C%89%E8%BD%AC%E9%9F%B3%23&t=31&band_rank=49&Refer=top) 109626
 1. [朱一龙靠上班解压](https://s.weibo.com/weibo?q=%E6%9C%B1%E4%B8%80%E9%BE%99%E9%9D%A0%E4%B8%8A%E7%8F%AD%E8%A7%A3%E5%8E%8B&t=31&band_rank=50&Refer=top) 106746
-1. [LPL二号种子 LCK一号种子](https://s.weibo.com/weibo?q=LPL%E4%BA%8C%E5%8F%B7%E7%A7%8D%E5%AD%90%20LCK%E4%B8%80%E5%8F%B7%E7%A7%8D%E5%AD%90&t=31&band_rank=50&Refer=top) 82410
+1. [LPL二号种子 LCK一号种子](https://s.weibo.com/weibo?q=LPL%E4%BA%8C%E5%8F%B7%E7%A7%8D%E5%AD%90%20LCK%E4%B8%80%E5%8F%B7%E7%A7%8D%E5%AD%90&t=31&band_rank=50&Refer=top) 99902
 1. [笑果](https://s.weibo.com/weibo?q=%E7%AC%91%E6%9E%9C&t=31&band_rank=45&Refer=top) 75379
 1. [华晨宇直播打游戏](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E7%9B%B4%E6%92%AD%E6%89%93%E6%B8%B8%E6%88%8F%23&t=31&band_rank=46&Refer=top) 65897
 1. [薛之谦演唱会遵义](https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E9%81%B5%E4%B9%89&t=31&band_rank=50&Refer=top) 59281
