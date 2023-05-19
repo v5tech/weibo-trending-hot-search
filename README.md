@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-05-20 04:49:00.881311 
+最后更新时间 2023-05-20 05:08:50.282998 
 1. [明日最幸运的星座](https://s.weibo.com/weibo?q=%E6%98%8E%E6%97%A5%E6%9C%80%E5%B9%B8%E8%BF%90%E7%9A%84%E6%98%9F%E5%BA%A7&t=31&band_rank=7&Refer=top) 1424966
 1. [警方通报男子在高速服务区被撞身亡](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E5%AD%90%E5%9C%A8%E9%AB%98%E9%80%9F%E6%9C%8D%E5%8A%A1%E5%8C%BA%E8%A2%AB%E6%92%9E%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=1&Refer=top) 1393883
 1. [米勒 中国人有自己的相公](https://s.weibo.com/weibo?q=%E7%B1%B3%E5%8B%92%20%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84%E7%9B%B8%E5%85%AC&t=31&band_rank=2&Refer=top) 911662
@@ -71,6 +71,7 @@
 1. [华晨宇直播打游戏](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E7%9B%B4%E6%92%AD%E6%89%93%E6%B8%B8%E6%88%8F%23&t=31&band_rank=46&Refer=top) 65897
 1. [薛之谦演唱会遵义](https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E9%81%B5%E4%B9%89&t=31&band_rank=50&Refer=top) 59281
 1. [便利店女店员遭男子多次殴打](https://s.weibo.com/weibo?q=%23%E4%BE%BF%E5%88%A9%E5%BA%97%E5%A5%B3%E5%BA%97%E5%91%98%E9%81%AD%E7%94%B7%E5%AD%90%E5%A4%9A%E6%AC%A1%E6%AE%B4%E6%89%93%23&t=31&band_rank=37&Refer=top) 27618
+1. [老人保护孙子砍伤闹事者判正当防卫](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E4%BF%9D%E6%8A%A4%E5%AD%99%E5%AD%90%E7%A0%8D%E4%BC%A4%E9%97%B9%E4%BA%8B%E8%80%85%E5%88%A4%E6%AD%A3%E5%BD%93%E9%98%B2%E5%8D%AB%23&t=31&band_rank=45&Refer=top) 18882
 <!-- END -->
 
 历史归档 [./archives](./archives)
