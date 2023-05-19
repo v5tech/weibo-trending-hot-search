@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-05-20 01:34:11.540095 
+最后更新时间 2023-05-20 01:49:07.456270 
 1. [明日最幸运的星座](https://s.weibo.com/weibo?q=%E6%98%8E%E6%97%A5%E6%9C%80%E5%B9%B8%E8%BF%90%E7%9A%84%E6%98%9F%E5%BA%A7&t=31&band_rank=7&Refer=top) 1424966
 1. [警方通报男子在高速服务区被撞身亡](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E5%AD%90%E5%9C%A8%E9%AB%98%E9%80%9F%E6%9C%8D%E5%8A%A1%E5%8C%BA%E8%A2%AB%E6%92%9E%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=1&Refer=top) 1393883
 1. [米勒 中国人有自己的相公](https://s.weibo.com/weibo?q=%E7%B1%B3%E5%8B%92%20%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84%E7%9B%B8%E5%85%AC&t=31&band_rank=2&Refer=top) 911662
@@ -50,7 +50,7 @@
 1. [郑元畅说和林依晨拍吻戏要开两个口](https://s.weibo.com/weibo?q=%23%E9%83%91%E5%85%83%E7%95%85%E8%AF%B4%E5%92%8C%E6%9E%97%E4%BE%9D%E6%99%A8%E6%8B%8D%E5%90%BB%E6%88%8F%E8%A6%81%E5%BC%80%E4%B8%A4%E4%B8%AA%E5%8F%A3%23&t=31&band_rank=32&Refer=top) 161867
 1. [罗翔谈自律](https://s.weibo.com/weibo?q=%23%E7%BD%97%E7%BF%94%E8%B0%88%E8%87%AA%E5%BE%8B%23&t=31&band_rank=34&Refer=top) 158398
 1. [你比G2还好打](https://s.weibo.com/weibo?q=%E4%BD%A0%E6%AF%94G2%E8%BF%98%E5%A5%BD%E6%89%93&t=31&band_rank=50&Refer=top) 156319
-1. [塞尔达 使用木板和长矛就能原地起飞](https://s.weibo.com/weibo?q=%E5%A1%9E%E5%B0%94%E8%BE%BE%20%E4%BD%BF%E7%94%A8%E6%9C%A8%E6%9D%BF%E5%92%8C%E9%95%BF%E7%9F%9B%E5%B0%B1%E8%83%BD%E5%8E%9F%E5%9C%B0%E8%B5%B7%E9%A3%9E&t=31&band_rank=45&Refer=top) 152693
+1. [塞尔达 使用木板和长矛就能原地起飞](https://s.weibo.com/weibo?q=%E5%A1%9E%E5%B0%94%E8%BE%BE%20%E4%BD%BF%E7%94%A8%E6%9C%A8%E6%9D%BF%E5%92%8C%E9%95%BF%E7%9F%9B%E5%B0%B1%E8%83%BD%E5%8E%9F%E5%9C%B0%E8%B5%B7%E9%A3%9E&t=31&band_rank=45&Refer=top) 154371
 1. [白敬亭直播](https://s.weibo.com/weibo?q=%E7%99%BD%E6%95%AC%E4%BA%AD%E7%9B%B4%E6%92%AD&t=31&band_rank=36&Refer=top) 142444
 1. [Bin哥厉害](https://s.weibo.com/weibo?q=Bin%E5%93%A5%E5%8E%89%E5%AE%B3&t=31&band_rank=37&Refer=top) 141923
 1. [李秀满来北京了](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%A7%80%E6%BB%A1%E6%9D%A5%E5%8C%97%E4%BA%AC%E4%BA%86%23&t=31&band_rank=38&Refer=top) 141864
@@ -69,7 +69,7 @@
 1. [笑果](https://s.weibo.com/weibo?q=%E7%AC%91%E6%9E%9C&t=31&band_rank=45&Refer=top) 75379
 1. [华晨宇直播打游戏](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E7%9B%B4%E6%92%AD%E6%89%93%E6%B8%B8%E6%88%8F%23&t=31&band_rank=46&Refer=top) 65897
 1. [薛之谦演唱会遵义](https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E9%81%B5%E4%B9%89&t=31&band_rank=50&Refer=top) 59281
-1. [LPL二号种子 LCK一号种子](https://s.weibo.com/weibo?q=LPL%E4%BA%8C%E5%8F%B7%E7%A7%8D%E5%AD%90%20LCK%E4%B8%80%E5%8F%B7%E7%A7%8D%E5%AD%90&t=31&band_rank=50&Refer=top) 55662
+1. [LPL二号种子 LCK一号种子](https://s.weibo.com/weibo?q=LPL%E4%BA%8C%E5%8F%B7%E7%A7%8D%E5%AD%90%20LCK%E4%B8%80%E5%8F%B7%E7%A7%8D%E5%AD%90&t=31&band_rank=50&Refer=top) 57615
 <!-- END -->
 
 历史归档 [./archives](./archives)
