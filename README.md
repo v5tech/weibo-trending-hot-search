@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-05-20 01:09:21.990343 
+最后更新时间 2023-05-20 01:23:57.804243 
 1. [明日最幸运的星座](https://s.weibo.com/weibo?q=%E6%98%8E%E6%97%A5%E6%9C%80%E5%B9%B8%E8%BF%90%E7%9A%84%E6%98%9F%E5%BA%A7&t=31&band_rank=7&Refer=top) 1424966
 1. [警方通报男子在高速服务区被撞身亡](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E5%AD%90%E5%9C%A8%E9%AB%98%E9%80%9F%E6%9C%8D%E5%8A%A1%E5%8C%BA%E8%A2%AB%E6%92%9E%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=1&Refer=top) 1393883
 1. [米勒 中国人有自己的相公](https://s.weibo.com/weibo?q=%E7%B1%B3%E5%8B%92%20%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84%E7%9B%B8%E5%85%AC&t=31&band_rank=2&Refer=top) 911662
@@ -17,11 +17,11 @@
 1. [浪姐4二公结果](https://s.weibo.com/weibo?q=%23%E6%B5%AA%E5%A7%904%E4%BA%8C%E5%85%AC%E7%BB%93%E6%9E%9C%23&t=31&band_rank=6&Refer=top) 643468
 1. [520](https://s.weibo.com/weibo?q=520&t=31&band_rank=6&Refer=top) 613029
 1. [警方通报外卖员当街猥亵外国女子](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A4%96%E5%8D%96%E5%91%98%E5%BD%93%E8%A1%97%E7%8C%A5%E4%BA%B5%E5%A4%96%E5%9B%BD%E5%A5%B3%E5%AD%90%23&t=31&band_rank=12&Refer=top) 459174
+1. [你才不是没人要的小猫咪](https://s.weibo.com/weibo?q=%E4%BD%A0%E6%89%8D%E4%B8%8D%E6%98%AF%E6%B2%A1%E4%BA%BA%E8%A6%81%E7%9A%84%E5%B0%8F%E7%8C%AB%E5%92%AA&t=31&band_rank=37&Refer=top) 422335
 1. [LPL时隔3147天再次零封LCK队伍](https://s.weibo.com/weibo?q=%23LPL%E6%97%B6%E9%9A%943147%E5%A4%A9%E5%86%8D%E6%AC%A1%E9%9B%B6%E5%B0%81LCK%E9%98%9F%E4%BC%8D%23&t=31&band_rank=8&Refer=top) 411573
 1. [Amber没有选芝芙](https://s.weibo.com/weibo?q=%23Amber%E6%B2%A1%E6%9C%89%E9%80%89%E8%8A%9D%E8%8A%99%23&t=31&band_rank=35&Refer=top) 400766
 1. [张雨绮看到凯特布兰切特的反应](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%A8%E7%BB%AE%E7%9C%8B%E5%88%B0%E5%87%AF%E7%89%B9%E5%B8%83%E5%85%B0%E5%88%87%E7%89%B9%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=9&Refer=top) 377430
 1. [飞行员在女厕所偷拍乘务](https://s.weibo.com/weibo?q=%E9%A3%9E%E8%A1%8C%E5%91%98%E5%9C%A8%E5%A5%B3%E5%8E%95%E6%89%80%E5%81%B7%E6%8B%8D%E4%B9%98%E5%8A%A1&t=31&band_rank=11&Refer=top) 374529
-1. [你才不是没人要的小猫咪](https://s.weibo.com/weibo?q=%E4%BD%A0%E6%89%8D%E4%B8%8D%E6%98%AF%E6%B2%A1%E4%BA%BA%E8%A6%81%E7%9A%84%E5%B0%8F%E7%8C%AB%E5%92%AA&t=31&band_rank=37&Refer=top) 365229
 1. [婚礼可以推迟但人命一刻都不能耽误](https://s.weibo.com/weibo?q=%23%E5%A9%9A%E7%A4%BC%E5%8F%AF%E4%BB%A5%E6%8E%A8%E8%BF%9F%E4%BD%86%E4%BA%BA%E5%91%BD%E4%B8%80%E5%88%BB%E9%83%BD%E4%B8%8D%E8%83%BD%E8%80%BD%E8%AF%AF%23&t=31&band_rank=10&Refer=top) 320080
 1. [Tabe跑错选手席庆祝](https://s.weibo.com/weibo?q=%23Tabe%E8%B7%91%E9%94%99%E9%80%89%E6%89%8B%E5%B8%AD%E5%BA%86%E7%A5%9D%23&t=31&band_rank=13&Refer=top) 317965
 1. [BLG战胜GEN](https://s.weibo.com/weibo?q=%23BLG%E6%88%98%E8%83%9CGEN%23&t=31&band_rank=14&Refer=top) 269390
@@ -67,6 +67,8 @@
 1. [周深惨叫还有转音](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E6%83%A8%E5%8F%AB%E8%BF%98%E6%9C%89%E8%BD%AC%E9%9F%B3%23&t=31&band_rank=49&Refer=top) 109626
 1. [朱一龙靠上班解压](https://s.weibo.com/weibo?q=%E6%9C%B1%E4%B8%80%E9%BE%99%E9%9D%A0%E4%B8%8A%E7%8F%AD%E8%A7%A3%E5%8E%8B&t=31&band_rank=50&Refer=top) 106746
 1. [笑果](https://s.weibo.com/weibo?q=%E7%AC%91%E6%9E%9C&t=31&band_rank=45&Refer=top) 75379
+1. [华晨宇直播打游戏](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E7%9B%B4%E6%92%AD%E6%89%93%E6%B8%B8%E6%88%8F%23&t=31&band_rank=46&Refer=top) 65897
+1. [薛之谦演唱会遵义](https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E9%81%B5%E4%B9%89&t=31&band_rank=50&Refer=top) 59281
 <!-- END -->
 
 历史归档 [./archives](./archives)
