@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-05-22 02:34:43.959735 
+最后更新时间 2023-05-22 02:49:07.878759 
 1. [全红婵水花 物理学不存在了](https://s.weibo.com/weibo?q=%E5%85%A8%E7%BA%A2%E5%A9%B5%E6%B0%B4%E8%8A%B1%20%E7%89%A9%E7%90%86%E5%AD%A6%E4%B8%8D%E5%AD%98%E5%9C%A8%E4%BA%86&t=31&band_rank=1&Refer=top) 1457942
 1. [陈晓连麦到赵丽颖头像的人](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%99%93%E8%BF%9E%E9%BA%A6%E5%88%B0%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%A4%B4%E5%83%8F%E7%9A%84%E4%BA%BA%23&t=31&band_rank=2&Refer=top) 1138868
 1. [用立体书打开国际茶日](https://s.weibo.com/weibo?q=%23%E7%94%A8%E7%AB%8B%E4%BD%93%E4%B9%A6%E6%89%93%E5%BC%80%E5%9B%BD%E9%99%85%E8%8C%B6%E6%97%A5%23&t=31&band_rank=3&Refer=top) 842234
@@ -67,9 +67,11 @@
 1. [外交部副部长召见日本驻华大使](https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%89%AF%E9%83%A8%E9%95%BF%E5%8F%AC%E8%A7%81%E6%97%A5%E6%9C%AC%E9%A9%BB%E5%8D%8E%E5%A4%A7%E4%BD%BF%23&t=31&band_rank=39&Refer=top) 91149
 1. [BLACKPINK演唱会](https://s.weibo.com/weibo?q=BLACKPINK%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=48&Refer=top) 82063
 1. [MTG对战HI](https://s.weibo.com/weibo?q=%23MTG%E5%AF%B9%E6%88%98HI%23&t=31&band_rank=29&Refer=top) 65581
+1. [女孩带农药到丛林退役军人果断报警](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%B8%A6%E5%86%9C%E8%8D%AF%E5%88%B0%E4%B8%9B%E6%9E%97%E9%80%80%E5%BD%B9%E5%86%9B%E4%BA%BA%E6%9E%9C%E6%96%AD%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=47&Refer=top) 65560
 1. [周扬青一天换3种发型拍100张照片](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%89%AC%E9%9D%92%E4%B8%80%E5%A4%A9%E6%8D%A23%E7%A7%8D%E5%8F%91%E5%9E%8B%E6%8B%8D100%E5%BC%A0%E7%85%A7%E7%89%87%23&t=31&band_rank=35&Refer=top) 64611
-1. [女孩带农药到丛林退役军人果断报警](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%B8%A6%E5%86%9C%E8%8D%AF%E5%88%B0%E4%B8%9B%E6%9E%97%E9%80%80%E5%BD%B9%E5%86%9B%E4%BA%BA%E6%9E%9C%E6%96%AD%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=47&Refer=top) 49174
 1. [恭喜曼城](https://s.weibo.com/weibo?q=%23%E6%81%AD%E5%96%9C%E6%9B%BC%E5%9F%8E%23&t=31&band_rank=50&Refer=top) 46818
+1. [看电影送的杯子太酷了](https://s.weibo.com/weibo?q=%23%E7%9C%8B%E7%94%B5%E5%BD%B1%E9%80%81%E7%9A%84%E6%9D%AF%E5%AD%90%E5%A4%AA%E9%85%B7%E4%BA%86%23&t=31&band_rank=48&Refer=top) 28274
+1. [最食人间烟火色](https://s.weibo.com/weibo?q=%E6%9C%80%E9%A3%9F%E4%BA%BA%E9%97%B4%E7%83%9F%E7%81%AB%E8%89%B2&t=31&band_rank=50&Refer=top) 28258
 <!-- END -->
 
 历史归档 [./archives](./archives)
