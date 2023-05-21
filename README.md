@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-05-22 05:08:49.379805 
+最后更新时间 2023-05-22 05:20:00.176813 
 1. [全红婵水花 物理学不存在了](https://s.weibo.com/weibo?q=%E5%85%A8%E7%BA%A2%E5%A9%B5%E6%B0%B4%E8%8A%B1%20%E7%89%A9%E7%90%86%E5%AD%A6%E4%B8%8D%E5%AD%98%E5%9C%A8%E4%BA%86&t=31&band_rank=1&Refer=top) 1457942
 1. [陈晓连麦到赵丽颖头像的人](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%99%93%E8%BF%9E%E9%BA%A6%E5%88%B0%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%A4%B4%E5%83%8F%E7%9A%84%E4%BA%BA%23&t=31&band_rank=2&Refer=top) 1138868
 1. [用立体书打开国际茶日](https://s.weibo.com/weibo?q=%23%E7%94%A8%E7%AB%8B%E4%BD%93%E4%B9%A6%E6%89%93%E5%BC%80%E5%9B%BD%E9%99%85%E8%8C%B6%E6%97%A5%23&t=31&band_rank=3&Refer=top) 842234
@@ -74,6 +74,7 @@
 1. [最食人间烟火色](https://s.weibo.com/weibo?q=%E6%9C%80%E9%A3%9F%E4%BA%BA%E9%97%B4%E7%83%9F%E7%81%AB%E8%89%B2&t=31&band_rank=50&Refer=top) 28258
 1. [谢娜想语音输入结果发了语音](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E6%83%B3%E8%AF%AD%E9%9F%B3%E8%BE%93%E5%85%A5%E7%BB%93%E6%9E%9C%E5%8F%91%E4%BA%86%E8%AF%AD%E9%9F%B3%23&t=31&band_rank=50&Refer=top) 24563
 1. [梦到凤凰传奇了](https://s.weibo.com/weibo?q=%23%E6%A2%A6%E5%88%B0%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E4%BA%86%23&t=31&band_rank=50&Refer=top) 24367
+1. [拜登宣称美中关系会在短时间内缓和](https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E5%AE%A3%E7%A7%B0%E7%BE%8E%E4%B8%AD%E5%85%B3%E7%B3%BB%E4%BC%9A%E5%9C%A8%E7%9F%AD%E6%97%B6%E9%97%B4%E5%86%85%E7%BC%93%E5%92%8C%23&t=31&band_rank=32&Refer=top) 24322
 <!-- END -->
 
 历史归档 [./archives](./archives)
