@@ -230,5 +230,13 @@
   "BLACKPINK演唱会": {
     "url": "https://s.weibo.com/weibo?q=BLACKPINK%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=48&Refer=top",
     "hot": 82063
+  },
+  "MTG对战HI": {
+    "url": "https://s.weibo.com/weibo?q=%23MTG%E5%AF%B9%E6%88%98HI%23&t=31&band_rank=29&Refer=top",
+    "hot": 65581
+  },
+  "周扬青一天换3种发型拍100张照片": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%89%AC%E9%9D%92%E4%B8%80%E5%A4%A9%E6%8D%A23%E7%A7%8D%E5%8F%91%E5%9E%8B%E6%8B%8D100%E5%BC%A0%E7%85%A7%E7%89%87%23&t=31&band_rank=35&Refer=top",
+    "hot": 61275
   }
 }
