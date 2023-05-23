@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-05-24 02:27:28.216792 
+最后更新时间 2023-05-24 02:35:46.488630 
 1. [谁来救救江疏影](https://s.weibo.com/weibo?q=%E8%B0%81%E6%9D%A5%E6%95%91%E6%95%91%E6%B1%9F%E7%96%8F%E5%BD%B1&t=31&band_rank=1&Refer=top) 1411339
 1. [刘浩存仪态](https://s.weibo.com/weibo?q=%E5%88%98%E6%B5%A9%E5%AD%98%E4%BB%AA%E6%80%81&t=31&band_rank=2&Refer=top) 1397913
 1. [五星红旗又一次在珠峰之巅飘扬](https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%98%9F%E7%BA%A2%E6%97%97%E5%8F%88%E4%B8%80%E6%AC%A1%E5%9C%A8%E7%8F%A0%E5%B3%B0%E4%B9%8B%E5%B7%85%E9%A3%98%E6%89%AC%23&t=31&band_rank=3&Refer=top) 1001372
@@ -70,6 +70,9 @@
 1. [龚俊回复洪晃](https://s.weibo.com/weibo?q=%23%E9%BE%9A%E4%BF%8A%E5%9B%9E%E5%A4%8D%E6%B4%AA%E6%99%83%23&t=31&band_rank=45&Refer=top) 54048
 1. [导演回应向往的生活最后一季](https://s.weibo.com/weibo?q=%23%E5%AF%BC%E6%BC%94%E5%9B%9E%E5%BA%94%E5%90%91%E5%BE%80%E7%9A%84%E7%94%9F%E6%B4%BB%E6%9C%80%E5%90%8E%E4%B8%80%E5%AD%A3%23&t=31&band_rank=33&Refer=top) 49220
 1. [国泰航空致歉](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E6%B3%B0%E8%88%AA%E7%A9%BA%E8%87%B4%E6%AD%89%23&t=31&band_rank=47&Refer=top) 39613
+1. [樊振东](https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C&t=31&band_rank=44&Refer=top) 34345
+1. [刚结婚的粉丝对木子洋说的话](https://s.weibo.com/weibo?q=%23%E5%88%9A%E7%BB%93%E5%A9%9A%E7%9A%84%E7%B2%89%E4%B8%9D%E5%AF%B9%E6%9C%A8%E5%AD%90%E6%B4%8B%E8%AF%B4%E7%9A%84%E8%AF%9D%23&t=31&band_rank=45&Refer=top) 33830
+1. [华表奖](https://s.weibo.com/weibo?q=%E5%8D%8E%E8%A1%A8%E5%A5%96&t=31&band_rank=46&Refer=top) 32600
 <!-- END -->
 
 历史归档 [./archives](./archives)
