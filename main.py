@@ -1,4 +1,5 @@
 import json
+import os
 import os.path
 import re
 from datetime import datetime, timedelta
@@ -10,9 +11,10 @@ from requests.exceptions import RequestException
 utctime = datetime.utcnow()
 bjtime = utctime + timedelta(hours=8)
 baseurl = 'https://s.weibo.com'
-today_str = bjtime.strftime("%Y-%m-%d")
-archive_filepath = f"./archives/{today_str}"
-raw_filepath = f"./raw/{today_str}"
+ym = bjtime.strftime("%Y%m")
+ymd = bjtime.strftime("%Y-%m-%d")
+archive_filepath = f"./archives/{ym}/{ymd}"
+raw_filepath = f"./raw/{ym}/{ymd}"
 
 
 # 加载文件
@@ -24,6 +26,12 @@ def load(filename):
 
 # 保存文件
 def save(filename, content):
+    # 获取文件目录
+    file_path = os.path.dirname(filename)
+    # 判断目录是否存在
+    if not os.path.exists(file_path):
+        # 创建目录
+        os.makedirs(file_path)
     with open(filename, 'w', encoding="utf-8") as f:
         if filename.endswith('.json') and isinstance(content, dict):
             json.dump(content, f, ensure_ascii=False, indent=2)
@@ -92,7 +100,7 @@ def update_hot_news(hot_news):
 
 
 def save_csv(sorted_news):
-    str = f'{today_str},' + ",".join([k for k, v in sorted_news.items()])
+    str = f'{ymd},' + ",".join([k for k, v in sorted_news.items()])
     save(f'{archive_filepath}.csv', str)
 
 
@@ -129,8 +137,8 @@ def save_archive(news):
     line = '1. [{title}]({url}) {hot}'
     lines = [line.format(title=k, hot=v['hot'], url=v['url']) for k, v in news.items()]
     lines = '\n'.join(lines)
-    # lines = f'## {today_str}热门搜索 \r\n最后更新时间 {datetime.now()} \r\n![{today_str}]({today_str}.png) \r\n' + lines + '\r\n'
-    lines = f'## {today_str}热门搜索 \r\n最后更新时间 {datetime.now()} \r\n' + lines + '\r\n'
+    # lines = f'## {ymd}热门搜索 \r\n最后更新时间 {datetime.now()} \r\n![{ymd}]({ymd}.png) \r\n' + lines + '\r\n'
+    lines = f'## {ymd}热门搜索 \r\n最后更新时间 {datetime.now()} \r\n' + lines + '\r\n'
     save(f'{archive_filepath}.md', lines)
 
 
