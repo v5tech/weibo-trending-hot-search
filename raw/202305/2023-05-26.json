@@ -234,5 +234,9 @@
   "当你在零下50度漠河点外卖时": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BD%A0%E5%9C%A8%E9%9B%B6%E4%B8%8B50%E5%BA%A6%E6%BC%A0%E6%B2%B3%E7%82%B9%E5%A4%96%E5%8D%96%E6%97%B6%23&t=31&band_rank=50&Refer=top",
     "hot": 40915
+  },
+  "世乒赛": {
+    "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E4%B9%92%E8%B5%9B&t=31&band_rank=50&Refer=top",
+    "hot": 33019
   }
 }
