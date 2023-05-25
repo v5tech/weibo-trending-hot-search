@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-05-26 05:20:11.169738 
+最后更新时间 2023-05-26 05:34:10.717473 
 1. [吴倩三公 退赛](https://s.weibo.com/weibo?q=%E5%90%B4%E5%80%A9%E4%B8%89%E5%85%AC%20%E9%80%80%E8%B5%9B&t=31&band_rank=1&Refer=top) 1533980
 1. [枪决通知短信](https://s.weibo.com/weibo?q=%E6%9E%AA%E5%86%B3%E9%80%9A%E7%9F%A5%E7%9F%AD%E4%BF%A1&t=31&band_rank=2&Refer=top) 1512541
 1. [平安北京 无语死了](https://s.weibo.com/weibo?q=%E5%B9%B3%E5%AE%89%E5%8C%97%E4%BA%AC%20%E6%97%A0%E8%AF%AD%E6%AD%BB%E4%BA%86&t=31&band_rank=4&Refer=top) 1252967
@@ -70,6 +70,7 @@
 1. [当你在零下50度漠河点外卖时](https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BD%A0%E5%9C%A8%E9%9B%B6%E4%B8%8B50%E5%BA%A6%E6%BC%A0%E6%B2%B3%E7%82%B9%E5%A4%96%E5%8D%96%E6%97%B6%23&t=31&band_rank=50&Refer=top) 40915
 1. [世乒赛](https://s.weibo.com/weibo?q=%E4%B8%96%E4%B9%92%E8%B5%9B&t=31&band_rank=50&Refer=top) 38264
 1. [小学生校内被撞身亡涉事教师被刑拘](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%A0%A1%E5%86%85%E8%A2%AB%E6%92%9E%E8%BA%AB%E4%BA%A1%E6%B6%89%E4%BA%8B%E6%95%99%E5%B8%88%E8%A2%AB%E5%88%91%E6%8B%98%23&t=31&band_rank=48&Refer=top) 25833
+1. [小学生校内被撞身亡校长被免职](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%A0%A1%E5%86%85%E8%A2%AB%E6%92%9E%E8%BA%AB%E4%BA%A1%E6%A0%A1%E9%95%BF%E8%A2%AB%E5%85%8D%E8%81%8C%23&t=31&band_rank=45&Refer=top) 18598
 <!-- END -->
 
 历史归档 [./archives](./archives)
