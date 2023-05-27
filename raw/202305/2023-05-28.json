@@ -282,5 +282,9 @@
   "BLACKPINK曼谷演唱会饭拍": {
     "url": "https://s.weibo.com/weibo?q=%23BLACKPINK%E6%9B%BC%E8%B0%B7%E6%BC%94%E5%94%B1%E4%BC%9A%E9%A5%AD%E6%8B%8D%23&t=31&band_rank=47&Refer=top",
     "hot": 27386
+  },
+  "锦鲤": {
+    "url": "https://s.weibo.com/weibo?q=%E9%94%A6%E9%B2%A4&t=31&band_rank=45&Refer=top",
+    "hot": 20194
   }
 }
