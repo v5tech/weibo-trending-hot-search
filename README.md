@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-05-28 03:34:07.124120 
+最后更新时间 2023-05-28 03:48:58.517218 
 1. [假球](https://s.weibo.com/weibo?q=%E5%81%87%E7%90%83&t=31&band_rank=4&Refer=top) 2978699
 1. [BLACKPINK演唱会被扔上台的玩偶有摄像头](https://s.weibo.com/weibo?q=%23BLACKPINK%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E6%89%94%E4%B8%8A%E5%8F%B0%E7%9A%84%E7%8E%A9%E5%81%B6%E6%9C%89%E6%91%84%E5%83%8F%E5%A4%B4%23&t=31&band_rank=1&Refer=top) 1636186
 1. [算命 更适合中国宝宝的心理咨询](https://s.weibo.com/weibo?q=%E7%AE%97%E5%91%BD%20%E6%9B%B4%E9%80%82%E5%90%88%E4%B8%AD%E5%9B%BD%E5%AE%9D%E5%AE%9D%E7%9A%84%E5%BF%83%E7%90%86%E5%92%A8%E8%AF%A2&t=31&band_rank=18&Refer=top) 1397284
