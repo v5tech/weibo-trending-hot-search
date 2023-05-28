@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-05-29 00:49:00.651839 
+最后更新时间 2023-05-29 01:08:06.849217 
 1. [微信文字讨好症](https://s.weibo.com/weibo?q=%E5%BE%AE%E4%BF%A1%E6%96%87%E5%AD%97%E8%AE%A8%E5%A5%BD%E7%97%87&t=31&band_rank=1&Refer=top) 1669479
 1. [老公每月给你两万但不回家](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%85%AC%E6%AF%8F%E6%9C%88%E7%BB%99%E4%BD%A0%E4%B8%A4%E4%B8%87%E4%BD%86%E4%B8%8D%E5%9B%9E%E5%AE%B6%23&t=31&band_rank=7&Refer=top) 1343949
 1. [五月天欠下九十万斤水饺的债](https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E6%AC%A0%E4%B8%8B%E4%B9%9D%E5%8D%81%E4%B8%87%E6%96%A4%E6%B0%B4%E9%A5%BA%E7%9A%84%E5%80%BA%23&t=31&band_rank=2&Refer=top) 1159573
@@ -44,9 +44,9 @@
 1. [用SPSS分析是否该分手](https://s.weibo.com/weibo?q=%E7%94%A8SPSS%E5%88%86%E6%9E%90%E6%98%AF%E5%90%A6%E8%AF%A5%E5%88%86%E6%89%8B&t=31&band_rank=32&Refer=top) 198174
 1. [公诉](https://s.weibo.com/weibo?q=%E5%85%AC%E8%AF%89&t=31&band_rank=34&Refer=top) 191418
 1. [樊振东vs王楚钦](https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9Cvs%E7%8E%8B%E6%A5%9A%E9%92%A6&t=31&band_rank=35&Refer=top) 173178
+1. [和人接触不要陷入对立情绪](https://s.weibo.com/weibo?q=%E5%92%8C%E4%BA%BA%E6%8E%A5%E8%A7%A6%E4%B8%8D%E8%A6%81%E9%99%B7%E5%85%A5%E5%AF%B9%E7%AB%8B%E6%83%85%E7%BB%AA&t=31&band_rank=47&Refer=top) 173085
 1. [王子文白裙好温柔](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AD%90%E6%96%87%E7%99%BD%E8%A3%99%E5%A5%BD%E6%B8%A9%E6%9F%94%23&t=31&band_rank=36&Refer=top) 171620
 1. [五月天演唱会](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=37&Refer=top) 164413
-1. [和人接触不要陷入对立情绪](https://s.weibo.com/weibo?q=%E5%92%8C%E4%BA%BA%E6%8E%A5%E8%A7%A6%E4%B8%8D%E8%A6%81%E9%99%B7%E5%85%A5%E5%AF%B9%E7%AB%8B%E6%83%85%E7%BB%AA&t=31&band_rank=47&Refer=top) 158336
 1. [沈腾真睡啊](https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E7%9C%9F%E7%9D%A1%E5%95%8A%23&t=31&band_rank=38&Refer=top) 148954
 1. [墨尔本地震](https://s.weibo.com/weibo?q=%E5%A2%A8%E5%B0%94%E6%9C%AC%E5%9C%B0%E9%9C%87&t=31&band_rank=39&Refer=top) 147476
 1. [陈楚生淄博音乐节](https://s.weibo.com/weibo?q=%E9%99%88%E6%A5%9A%E7%94%9F%E6%B7%84%E5%8D%9A%E9%9F%B3%E4%B9%90%E8%8A%82&t=31&band_rank=40&Refer=top) 145881
@@ -60,9 +60,11 @@
 1. [樊振东4比2王楚钦](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C4%E6%AF%942%E7%8E%8B%E6%A5%9A%E9%92%A6%23&t=31&band_rank=48&Refer=top) 123155
 1. [孙颖莎世乒赛女单夺冠](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E4%B8%96%E4%B9%92%E8%B5%9B%E5%A5%B3%E5%8D%95%E5%A4%BA%E5%86%A0%23&t=31&band_rank=49&Refer=top) 122478
 1. [刘惜君好像i人去海底捞过生日](https://s.weibo.com/weibo?q=%23%E5%88%98%E6%83%9C%E5%90%9B%E5%A5%BD%E5%83%8Fi%E4%BA%BA%E5%8E%BB%E6%B5%B7%E5%BA%95%E6%8D%9E%E8%BF%87%E7%94%9F%E6%97%A5%23&t=31&band_rank=50&Refer=top) 121446
+1. [王源吆不到台](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E5%90%86%E4%B8%8D%E5%88%B0%E5%8F%B0%23&t=31&band_rank=41&Refer=top) 120280
 1. [黄奕道歉](https://s.weibo.com/weibo?q=%E9%BB%84%E5%A5%95%E9%81%93%E6%AD%89&t=31&band_rank=48&Refer=top) 113933
-1. [王源吆不到台](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E5%90%86%E4%B8%8D%E5%88%B0%E5%8F%B0%23&t=31&band_rank=41&Refer=top) 100662
 1. [虞书欣电影](https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%94%B5%E5%BD%B1&t=31&band_rank=49&Refer=top) 100051
+1. [老人轮椅失控辅警狂奔刹停](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E8%BD%AE%E6%A4%85%E5%A4%B1%E6%8E%A7%E8%BE%85%E8%AD%A6%E7%8B%82%E5%A5%94%E5%88%B9%E5%81%9C%23&t=31&band_rank=41&Refer=top) 96568
+1. [tablo](https://s.weibo.com/weibo?q=tablo&t=31&band_rank=48&Refer=top) 75170
 <!-- END -->
 
 历史归档 [./archives](./archives)
