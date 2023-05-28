@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-05-29 05:08:45.521730 
+最后更新时间 2023-05-29 05:34:15.662815 
 1. [微信文字讨好症](https://s.weibo.com/weibo?q=%E5%BE%AE%E4%BF%A1%E6%96%87%E5%AD%97%E8%AE%A8%E5%A5%BD%E7%97%87&t=31&band_rank=1&Refer=top) 1669479
 1. [老公每月给你两万但不回家](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%85%AC%E6%AF%8F%E6%9C%88%E7%BB%99%E4%BD%A0%E4%B8%A4%E4%B8%87%E4%BD%86%E4%B8%8D%E5%9B%9E%E5%AE%B6%23&t=31&band_rank=7&Refer=top) 1343949
 1. [五月天欠下九十万斤水饺的债](https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E6%AC%A0%E4%B8%8B%E4%B9%9D%E5%8D%81%E4%B8%87%E6%96%A4%E6%B0%B4%E9%A5%BA%E7%9A%84%E5%80%BA%23&t=31&band_rank=2&Refer=top) 1159573
@@ -67,11 +67,11 @@
 1. [老人轮椅失控辅警狂奔刹停](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E8%BD%AE%E6%A4%85%E5%A4%B1%E6%8E%A7%E8%BE%85%E8%AD%A6%E7%8B%82%E5%A5%94%E5%88%B9%E5%81%9C%23&t=31&band_rank=41&Refer=top) 96568
 1. [青岛艾可什机场音乐节](https://s.weibo.com/weibo?q=%E9%9D%92%E5%B2%9B%E8%89%BE%E5%8F%AF%E4%BB%80%E6%9C%BA%E5%9C%BA%E9%9F%B3%E4%B9%90%E8%8A%82&t=31&band_rank=32&Refer=top) 77915
 1. [tablo](https://s.weibo.com/weibo?q=tablo&t=31&band_rank=48&Refer=top) 75170
+1. [C919机票](https://s.weibo.com/weibo?q=C919%E6%9C%BA%E7%A5%A8&t=31&band_rank=41&Refer=top) 43660
 1. [56岁保安写出40余万字长篇小说](https://s.weibo.com/weibo?q=%2356%E5%B2%81%E4%BF%9D%E5%AE%89%E5%86%99%E5%87%BA40%E4%BD%99%E4%B8%87%E5%AD%97%E9%95%BF%E7%AF%87%E5%B0%8F%E8%AF%B4%23&t=31&band_rank=43&Refer=top) 36914
-1. [C919机票](https://s.weibo.com/weibo?q=C919%E6%9C%BA%E7%A5%A8&t=31&band_rank=41&Refer=top) 29365
+1. [不怕压力不生癌](https://s.weibo.com/weibo?q=%E4%B8%8D%E6%80%95%E5%8E%8B%E5%8A%9B%E4%B8%8D%E7%94%9F%E7%99%8C&t=31&band_rank=43&Refer=top) 31850
 1. [新疆草莓音乐节](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E8%8D%89%E8%8E%93%E9%9F%B3%E4%B9%90%E8%8A%82%23&t=31&band_rank=35&Refer=top) 28903
 1. [薛之谦演唱会](https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=46&Refer=top) 21805
-1. [不怕压力不生癌](https://s.weibo.com/weibo?q=%E4%B8%8D%E6%80%95%E5%8E%8B%E5%8A%9B%E4%B8%8D%E7%94%9F%E7%99%8C&t=31&band_rank=43&Refer=top) 21763
 1. [范丞丞祝愿每个人都能大胆向前](https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E7%A5%9D%E6%84%BF%E6%AF%8F%E4%B8%AA%E4%BA%BA%E9%83%BD%E8%83%BD%E5%A4%A7%E8%83%86%E5%90%91%E5%89%8D%23&t=31&band_rank=49&Refer=top) 19358
 <!-- END -->
 
