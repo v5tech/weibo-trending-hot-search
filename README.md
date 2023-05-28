@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-05-29 03:34:03.880415 
+最后更新时间 2023-05-29 03:48:50.851029 
 1. [微信文字讨好症](https://s.weibo.com/weibo?q=%E5%BE%AE%E4%BF%A1%E6%96%87%E5%AD%97%E8%AE%A8%E5%A5%BD%E7%97%87&t=31&band_rank=1&Refer=top) 1669479
 1. [老公每月给你两万但不回家](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%85%AC%E6%AF%8F%E6%9C%88%E7%BB%99%E4%BD%A0%E4%B8%A4%E4%B8%87%E4%BD%86%E4%B8%8D%E5%9B%9E%E5%AE%B6%23&t=31&band_rank=7&Refer=top) 1343949
 1. [五月天欠下九十万斤水饺的债](https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E6%AC%A0%E4%B8%8B%E4%B9%9D%E5%8D%81%E4%B8%87%E6%96%A4%E6%B0%B4%E9%A5%BA%E7%9A%84%E5%80%BA%23&t=31&band_rank=2&Refer=top) 1159573
@@ -69,7 +69,7 @@
 1. [tablo](https://s.weibo.com/weibo?q=tablo&t=31&band_rank=48&Refer=top) 75170
 1. [56岁保安写出40余万字长篇小说](https://s.weibo.com/weibo?q=%2356%E5%B2%81%E4%BF%9D%E5%AE%89%E5%86%99%E5%87%BA40%E4%BD%99%E4%B8%87%E5%AD%97%E9%95%BF%E7%AF%87%E5%B0%8F%E8%AF%B4%23&t=31&band_rank=43&Refer=top) 36914
 1. [新疆草莓音乐节](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E8%8D%89%E8%8E%93%E9%9F%B3%E4%B9%90%E8%8A%82%23&t=31&band_rank=35&Refer=top) 28903
-1. [薛之谦演唱会](https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=46&Refer=top) 19322
+1. [薛之谦演唱会](https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=46&Refer=top) 21805
 <!-- END -->
 
 历史归档 [./archives](./archives)
