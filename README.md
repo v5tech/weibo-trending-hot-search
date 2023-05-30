@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-05-31 00:48:51.085864 
+最后更新时间 2023-05-31 01:07:21.420493 
 1. [你每个月洗澡多少次](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E6%AF%8F%E4%B8%AA%E6%9C%88%E6%B4%97%E6%BE%A1%E5%A4%9A%E5%B0%91%E6%AC%A1%23&t=31&band_rank=8&Refer=top) 1590637
 1. [TFBOYS](https://s.weibo.com/weibo?q=TFBOYS&t=31&band_rank=1&Refer=top) 1354183
 1. [掘地三万尺中国又一壮举](https://s.weibo.com/weibo?q=%23%E6%8E%98%E5%9C%B0%E4%B8%89%E4%B8%87%E5%B0%BA%E4%B8%AD%E5%9B%BD%E5%8F%88%E4%B8%80%E5%A3%AE%E4%B8%BE%23&t=31&band_rank=3&Refer=top) 1051523
@@ -44,7 +44,7 @@
 1. [G社拍的赵露思](https://s.weibo.com/weibo?q=%23G%E7%A4%BE%E6%8B%8D%E7%9A%84%E8%B5%B5%E9%9C%B2%E6%80%9D%23&t=31&band_rank=33&Refer=top) 246073
 1. [萌萌离世前经历了什么](https://s.weibo.com/weibo?q=%23%E8%90%8C%E8%90%8C%E7%A6%BB%E4%B8%96%E5%89%8D%E7%BB%8F%E5%8E%86%E4%BA%86%E4%BB%80%E4%B9%88%23&t=31&band_rank=34&Refer=top) 226419
 1. [民警通宵审毒贩熬死了一地蚊子](https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E9%80%9A%E5%AE%B5%E5%AE%A1%E6%AF%92%E8%B4%A9%E7%86%AC%E6%AD%BB%E4%BA%86%E4%B8%80%E5%9C%B0%E8%9A%8A%E5%AD%90%23&t=31&band_rank=48&Refer=top) 220653
-1. [吴磊到新疆了](https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A3%8A%E5%88%B0%E6%96%B0%E7%96%86%E4%BA%86%23&t=31&band_rank=45&Refer=top) 201457
+1. [吴磊到新疆了](https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A3%8A%E5%88%B0%E6%96%B0%E7%96%86%E4%BA%86%23&t=31&band_rank=45&Refer=top) 216961
 1. [一条plog告别五月](https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%9D%A1plog%E5%91%8A%E5%88%AB%E4%BA%94%E6%9C%88%23&t=31&band_rank=40&Refer=top) 166249
 1. [杨紫范丞丞在聊什么](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E8%8C%83%E4%B8%9E%E4%B8%9E%E5%9C%A8%E8%81%8A%E4%BB%80%E4%B9%88%23&t=31&band_rank=36&Refer=top) 165314
 1. [赵丽颖内场](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%86%85%E5%9C%BA&t=31&band_rank=41&Refer=top) 151575
@@ -65,6 +65,8 @@
 1. [吴易昺大满贯男双首胜](https://s.weibo.com/weibo?q=%23%E5%90%B4%E6%98%93%E6%98%BA%E5%A4%A7%E6%BB%A1%E8%B4%AF%E7%94%B7%E5%8F%8C%E9%A6%96%E8%83%9C%23&t=31&band_rank=49&Refer=top) 107634
 1. [明星餐饮靠什么长久走下去](https://s.weibo.com/weibo?q=%23%E6%98%8E%E6%98%9F%E9%A4%90%E9%A5%AE%E9%9D%A0%E4%BB%80%E4%B9%88%E9%95%BF%E4%B9%85%E8%B5%B0%E4%B8%8B%E5%8E%BB%23&t=31&band_rank=49&Refer=top) 100422
 1. [为什么工作后逐渐不想回家了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B7%A5%E4%BD%9C%E5%90%8E%E9%80%90%E6%B8%90%E4%B8%8D%E6%83%B3%E5%9B%9E%E5%AE%B6%E4%BA%86%23&t=31&band_rank=50&Refer=top) 85524
+1. [朋友圈发这些东西账号会被罚](https://s.weibo.com/weibo?q=%23%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%8F%91%E8%BF%99%E4%BA%9B%E4%B8%9C%E8%A5%BF%E8%B4%A6%E5%8F%B7%E4%BC%9A%E8%A2%AB%E7%BD%9A%23&t=31&band_rank=36&Refer=top) 83532
+1. [神十六出征](https://s.weibo.com/weibo?q=%23%E7%A5%9E%E5%8D%81%E5%85%AD%E5%87%BA%E5%BE%81%23&t=31&band_rank=49&Refer=top) 63896
 <!-- END -->
 
 历史归档 [./archives](./archives)
