@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-05-31 03:34:09.703436 
+最后更新时间 2023-05-31 03:48:54.398973 
 1. [你每个月洗澡多少次](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E6%AF%8F%E4%B8%AA%E6%9C%88%E6%B4%97%E6%BE%A1%E5%A4%9A%E5%B0%91%E6%AC%A1%23&t=31&band_rank=8&Refer=top) 1590637
 1. [TFBOYS](https://s.weibo.com/weibo?q=TFBOYS&t=31&band_rank=1&Refer=top) 1354183
 1. [掘地三万尺中国又一壮举](https://s.weibo.com/weibo?q=%23%E6%8E%98%E5%9C%B0%E4%B8%89%E4%B8%87%E5%B0%BA%E4%B8%AD%E5%9B%BD%E5%8F%88%E4%B8%80%E5%A3%AE%E4%B8%BE%23&t=31&band_rank=3&Refer=top) 1051523
@@ -70,11 +70,11 @@
 1. [神十六出征](https://s.weibo.com/weibo?q=%23%E7%A5%9E%E5%8D%81%E5%85%AD%E5%87%BA%E5%BE%81%23&t=31&band_rank=49&Refer=top) 63896
 1. [杨幂回复谢依霖说爱你啊hold么么](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%9B%9E%E5%A4%8D%E8%B0%A2%E4%BE%9D%E9%9C%96%E8%AF%B4%E7%88%B1%E4%BD%A0%E5%95%8Ahold%E4%B9%88%E4%B9%88%23&t=31&band_rank=47&Refer=top) 54454
 1. [失眠](https://s.weibo.com/weibo?q=%E5%A4%B1%E7%9C%A0&t=31&band_rank=46&Refer=top) 36371
+1. [明星餐饮为何逃不出短命魔咒](https://s.weibo.com/weibo?q=%23%E6%98%8E%E6%98%9F%E9%A4%90%E9%A5%AE%E4%B8%BA%E4%BD%95%E9%80%83%E4%B8%8D%E5%87%BA%E7%9F%AD%E5%91%BD%E9%AD%94%E5%92%92%23&t=31&band_rank=49&Refer=top) 35704
 1. [密室大逃脱](https://s.weibo.com/weibo?q=%E5%AF%86%E5%AE%A4%E5%A4%A7%E9%80%83%E8%84%B1&t=31&band_rank=44&Refer=top) 33940
 1. [苏打绿成团20周年快乐](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E6%89%93%E7%BB%BF%E6%88%90%E5%9B%A220%E5%91%A8%E5%B9%B4%E5%BF%AB%E4%B9%90%23&t=31&band_rank=49&Refer=top) 33908
 1. [杨紫新妆容](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E6%96%B0%E5%A6%86%E5%AE%B9%23&t=31&band_rank=33&Refer=top) 32713
 1. [重返未来1999公测](https://s.weibo.com/weibo?q=%E9%87%8D%E8%BF%94%E6%9C%AA%E6%9D%A51999%E5%85%AC%E6%B5%8B&t=31&band_rank=50&Refer=top) 32648
-1. [明星餐饮为何逃不出短命魔咒](https://s.weibo.com/weibo?q=%23%E6%98%8E%E6%98%9F%E9%A4%90%E9%A5%AE%E4%B8%BA%E4%BD%95%E9%80%83%E4%B8%8D%E5%87%BA%E7%9F%AD%E5%91%BD%E9%AD%94%E5%92%92%23&t=31&band_rank=49&Refer=top) 32640
 1. [深夜举吊瓶赶地铁的女生发声](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%A4%9C%E4%B8%BE%E5%90%8A%E7%93%B6%E8%B5%B6%E5%9C%B0%E9%93%81%E7%9A%84%E5%A5%B3%E7%94%9F%E5%8F%91%E5%A3%B0%23&t=31&band_rank=50&Refer=top) 28132
 <!-- END -->
 
