@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-06-01 04:22:46.293013 
+最后更新时间 2023-06-01 04:34:00.973243 
 1. [男子多次性侵女友孙女致其染上妇科病](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%A4%9A%E6%AC%A1%E6%80%A7%E4%BE%B5%E5%A5%B3%E5%8F%8B%E5%AD%99%E5%A5%B3%E8%87%B4%E5%85%B6%E6%9F%93%E4%B8%8A%E5%A6%87%E7%A7%91%E7%97%85%23&t=31&band_rank=1&Refer=top) 3978389
 1. [网传柳州一干部与情人聊天记录被群发](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E6%9F%B3%E5%B7%9E%E4%B8%80%E5%B9%B2%E9%83%A8%E4%B8%8E%E6%83%85%E4%BA%BA%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%E8%A2%AB%E7%BE%A4%E5%8F%91%23&t=31&band_rank=2&Refer=top) 2064222
 1. [中国好书六一专榜](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%BD%E4%B9%A6%E5%85%AD%E4%B8%80%E4%B8%93%E6%A6%9C%23&t=31&band_rank=3&Refer=top) 1579858
