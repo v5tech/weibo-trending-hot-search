@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-06-02 02:48:50.555823 
+最后更新时间 2023-06-02 03:08:04.543656 
 1. [学术妲己](https://s.weibo.com/weibo?q=%E5%AD%A6%E6%9C%AF%E5%A6%B2%E5%B7%B1&t=31&band_rank=7&Refer=top) 2516558
 1. [专家称不排除二阳后还会有三阳](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E4%B8%8D%E6%8E%92%E9%99%A4%E4%BA%8C%E9%98%B3%E5%90%8E%E8%BF%98%E4%BC%9A%E6%9C%89%E4%B8%89%E9%98%B3%23&t=31&band_rank=1&Refer=top) 766901
 1. [肖战台词](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%8F%B0%E8%AF%8D&t=31&band_rank=2&Refer=top) 675074
