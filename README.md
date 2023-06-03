@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-06-04 03:19:03.428762 
+最后更新时间 2023-06-04 03:34:27.130654 
 1. [梅西自宣离队](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%87%AA%E5%AE%A3%E7%A6%BB%E9%98%9F%23&t=31&band_rank=19&Refer=top) 1201382
 1. [黄渤回应贫困女孩争议](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%B8%A4%E5%9B%9E%E5%BA%94%E8%B4%AB%E5%9B%B0%E5%A5%B3%E5%AD%A9%E4%BA%89%E8%AE%AE%23&t=31&band_rank=1&Refer=top) 1004818
 1. [魏如萱马嘉祺 台北文学](https://s.weibo.com/weibo?q=%E9%AD%8F%E5%A6%82%E8%90%B1%E9%A9%AC%E5%98%89%E7%A5%BA%20%E5%8F%B0%E5%8C%97%E6%96%87%E5%AD%A6&t=31&band_rank=2&Refer=top) 904774
