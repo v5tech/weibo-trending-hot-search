@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-06-04 06:34:11.489212 
+最后更新时间 2023-06-04 06:48:51.782469 
 1. [梅西自宣离队](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%87%AA%E5%AE%A3%E7%A6%BB%E9%98%9F%23&t=31&band_rank=19&Refer=top) 1201382
 1. [黄渤回应贫困女孩争议](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%B8%A4%E5%9B%9E%E5%BA%94%E8%B4%AB%E5%9B%B0%E5%A5%B3%E5%AD%A9%E4%BA%89%E8%AE%AE%23&t=31&band_rank=1&Refer=top) 1004818
 1. [魏如萱马嘉祺 台北文学](https://s.weibo.com/weibo?q=%E9%AD%8F%E5%A6%82%E8%90%B1%E9%A9%AC%E5%98%89%E7%A5%BA%20%E5%8F%B0%E5%8C%97%E6%96%87%E5%AD%A6&t=31&band_rank=2&Refer=top) 904774
@@ -75,7 +75,7 @@
 1. [闯祸之后把自己伪装成受害者](https://s.weibo.com/weibo?q=%E9%97%AF%E7%A5%B8%E4%B9%8B%E5%90%8E%E6%8A%8A%E8%87%AA%E5%B7%B1%E4%BC%AA%E8%A3%85%E6%88%90%E5%8F%97%E5%AE%B3%E8%80%85&t=31&band_rank=50&Refer=top) 57402
 1. [黄渤看到岳云鹏新发型的反应](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%B8%A4%E7%9C%8B%E5%88%B0%E5%B2%B3%E4%BA%91%E9%B9%8F%E6%96%B0%E5%8F%91%E5%9E%8B%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=36&Refer=top) 56061
 1. [宋祖儿特别出演热烈](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E7%A5%96%E5%84%BF%E7%89%B9%E5%88%AB%E5%87%BA%E6%BC%94%E7%83%AD%E7%83%88%23&t=31&band_rank=46&Refer=top) 48176
-1. [高叶 常州](https://s.weibo.com/weibo?q=%E9%AB%98%E5%8F%B6%20%E5%B8%B8%E5%B7%9E&t=31&band_rank=47&Refer=top) 28235
+1. [高叶 常州](https://s.weibo.com/weibo?q=%E9%AB%98%E5%8F%B6%20%E5%B8%B8%E5%B7%9E&t=31&band_rank=47&Refer=top) 31784
 <!-- END -->
 
 历史归档 [./archives](./archives)
