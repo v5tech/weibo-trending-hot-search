@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-06-06 02:35:36.250099 
+最后更新时间 2023-06-06 02:48:55.534705 
 1. [吴倩 退赛](https://s.weibo.com/weibo?q=%E5%90%B4%E5%80%A9%20%E9%80%80%E8%B5%9B&t=31&band_rank=1&Refer=top) 2375104
 1. [苹果发布会](https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=2&Refer=top) 1606791
 1. [首艘国产大型邮轮有2500万个零部件](https://s.weibo.com/weibo?q=%23%E9%A6%96%E8%89%98%E5%9B%BD%E4%BA%A7%E5%A4%A7%E5%9E%8B%E9%82%AE%E8%BD%AE%E6%9C%892500%E4%B8%87%E4%B8%AA%E9%9B%B6%E9%83%A8%E4%BB%B6%23&t=31&band_rank=3&Refer=top) 1141104
@@ -17,6 +17,7 @@
 1. [任豪求求了你们好好谈恋爱吧](https://s.weibo.com/weibo?q=%23%E4%BB%BB%E8%B1%AA%E6%B1%82%E6%B1%82%E4%BA%86%E4%BD%A0%E4%BB%AC%E5%A5%BD%E5%A5%BD%E8%B0%88%E6%81%8B%E7%88%B1%E5%90%A7%23&t=31&band_rank=7&Refer=top) 858223
 1. [美依礼芽四公 青鸟](https://s.weibo.com/weibo?q=%E7%BE%8E%E4%BE%9D%E7%A4%BC%E8%8A%BD%E5%9B%9B%E5%85%AC%20%E9%9D%92%E9%B8%9F&t=31&band_rank=8&Refer=top) 789360
 1. [库克 今年将是最精彩WWDC](https://s.weibo.com/weibo?q=%E5%BA%93%E5%85%8B%20%E4%BB%8A%E5%B9%B4%E5%B0%86%E6%98%AF%E6%9C%80%E7%B2%BE%E5%BD%A9WWDC&t=31&band_rank=10&Refer=top) 681193
+1. [Apple Vision Pro 苹果首款头显](https://s.weibo.com/weibo?q=Apple%20Vision%20Pro%20%E8%8B%B9%E6%9E%9C%E9%A6%96%E6%AC%BE%E5%A4%B4%E6%98%BE&t=31&band_rank=6&Refer=top) 558900
 1. [天津碧桂园](https://s.weibo.com/weibo?q=%E5%A4%A9%E6%B4%A5%E7%A2%A7%E6%A1%82%E5%9B%AD&t=31&band_rank=50&Refer=top) 558010
 1. [母亲病危家人让高考孩子见最后一面](https://s.weibo.com/weibo?q=%23%E6%AF%8D%E4%BA%B2%E7%97%85%E5%8D%B1%E5%AE%B6%E4%BA%BA%E8%AE%A9%E9%AB%98%E8%80%83%E5%AD%A9%E5%AD%90%E8%A7%81%E6%9C%80%E5%90%8E%E4%B8%80%E9%9D%A2%23&t=31&band_rank=9&Refer=top) 531692
 1. [她只是长得好看并且很健谈罢了](https://s.weibo.com/weibo?q=%E5%A5%B9%E5%8F%AA%E6%98%AF%E9%95%BF%E5%BE%97%E5%A5%BD%E7%9C%8B%E5%B9%B6%E4%B8%94%E5%BE%88%E5%81%A5%E8%B0%88%E7%BD%A2%E4%BA%86&t=31&band_rank=11&Refer=top) 491168
@@ -41,7 +42,6 @@
 1. [蒋欣是懂回复的](https://s.weibo.com/weibo?q=%23%E8%92%8B%E6%AC%A3%E6%98%AF%E6%87%82%E5%9B%9E%E5%A4%8D%E7%9A%84%23&t=31&band_rank=26&Refer=top) 225306
 1. [Xiaohao哭了](https://s.weibo.com/weibo?q=%23Xiaohao%E5%93%AD%E4%BA%86%23&t=31&band_rank=25&Refer=top) 216904
 1. [死亡搁浅将登陆Mac](https://s.weibo.com/weibo?q=%E6%AD%BB%E4%BA%A1%E6%90%81%E6%B5%85%E5%B0%86%E7%99%BB%E9%99%86Mac&t=31&band_rank=13&Refer=top) 205984
-1. [Apple Vision Pro 苹果首款头显](https://s.weibo.com/weibo?q=Apple%20Vision%20Pro%20%E8%8B%B9%E6%9E%9C%E9%A6%96%E6%AC%BE%E5%A4%B4%E6%98%BE&t=31&band_rank=6&Refer=top) 205871
 1. [难怪白鹿许凯不帮于正新剧宣传](https://s.weibo.com/weibo?q=%23%E9%9A%BE%E6%80%AA%E7%99%BD%E9%B9%BF%E8%AE%B8%E5%87%AF%E4%B8%8D%E5%B8%AE%E4%BA%8E%E6%AD%A3%E6%96%B0%E5%89%A7%E5%AE%A3%E4%BC%A0%23&t=31&band_rank=27&Refer=top) 204174
 1. [上班更苦还是上学更苦](https://s.weibo.com/weibo?q=%E4%B8%8A%E7%8F%AD%E6%9B%B4%E8%8B%A6%E8%BF%98%E6%98%AF%E4%B8%8A%E5%AD%A6%E6%9B%B4%E8%8B%A6&t=31&band_rank=42&Refer=top) 200075
 1. [亢奋](https://s.weibo.com/weibo?q=%E4%BA%A2%E5%A5%8B&t=31&band_rank=28&Refer=top) 198994
@@ -82,7 +82,8 @@
 1. [肖春生的词典里生词挺多](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%98%A5%E7%94%9F%E7%9A%84%E8%AF%8D%E5%85%B8%E9%87%8C%E7%94%9F%E8%AF%8D%E6%8C%BA%E5%A4%9A%23&t=31&band_rank=40&Refer=top) 68783
 1. [2023高考季](https://s.weibo.com/weibo?q=%232023%E9%AB%98%E8%80%83%E5%AD%A3%23&t=31&band_rank=42&Refer=top) 61643
 1. [新MacOS Sonoma](https://s.weibo.com/weibo?q=%E6%96%B0MacOS%20Sonoma&t=31&band_rank=47&Refer=top) 48776
-1. [13英寸MacBook降价](https://s.weibo.com/weibo?q=%2313%E8%8B%B1%E5%AF%B8MacBook%E9%99%8D%E4%BB%B7%23&t=31&band_rank=47&Refer=top) 44423
+1. [Vision Pro 眼睛手势操作](https://s.weibo.com/weibo?q=Vision%20Pro%20%E7%9C%BC%E7%9D%9B%E6%89%8B%E5%8A%BF%E6%93%8D%E4%BD%9C&t=31&band_rank=33&Refer=top) 47597
+1. [13英寸MacBook降价](https://s.weibo.com/weibo?q=%2313%E8%8B%B1%E5%AF%B8MacBook%E9%99%8D%E4%BB%B7%23&t=31&band_rank=47&Refer=top) 47560
 <!-- END -->
 
 历史归档 [./archives](./archives)
