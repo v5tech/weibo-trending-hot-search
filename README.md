@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-06-06 02:12:15.128278 
+最后更新时间 2023-06-06 02:27:04.215436 
 1. [吴倩 退赛](https://s.weibo.com/weibo?q=%E5%90%B4%E5%80%A9%20%E9%80%80%E8%B5%9B&t=31&band_rank=1&Refer=top) 2375104
 1. [苹果发布会](https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=2&Refer=top) 1606791
 1. [首艘国产大型邮轮有2500万个零部件](https://s.weibo.com/weibo?q=%23%E9%A6%96%E8%89%98%E5%9B%BD%E4%BA%A7%E5%A4%A7%E5%9E%8B%E9%82%AE%E8%BD%AE%E6%9C%892500%E4%B8%87%E4%B8%AA%E9%9B%B6%E9%83%A8%E4%BB%B6%23&t=31&band_rank=3&Refer=top) 1141104
@@ -40,6 +40,7 @@
 1. [陈紫函公诉泳装出场](https://s.weibo.com/weibo?q=%23%E9%99%88%E7%B4%AB%E5%87%BD%E5%85%AC%E8%AF%89%E6%B3%B3%E8%A3%85%E5%87%BA%E5%9C%BA%23&t=31&band_rank=24&Refer=top) 232402
 1. [蒋欣是懂回复的](https://s.weibo.com/weibo?q=%23%E8%92%8B%E6%AC%A3%E6%98%AF%E6%87%82%E5%9B%9E%E5%A4%8D%E7%9A%84%23&t=31&band_rank=26&Refer=top) 225306
 1. [Xiaohao哭了](https://s.weibo.com/weibo?q=%23Xiaohao%E5%93%AD%E4%BA%86%23&t=31&band_rank=25&Refer=top) 216904
+1. [死亡搁浅将登陆Mac](https://s.weibo.com/weibo?q=%E6%AD%BB%E4%BA%A1%E6%90%81%E6%B5%85%E5%B0%86%E7%99%BB%E9%99%86Mac&t=31&band_rank=13&Refer=top) 205984
 1. [难怪白鹿许凯不帮于正新剧宣传](https://s.weibo.com/weibo?q=%23%E9%9A%BE%E6%80%AA%E7%99%BD%E9%B9%BF%E8%AE%B8%E5%87%AF%E4%B8%8D%E5%B8%AE%E4%BA%8E%E6%AD%A3%E6%96%B0%E5%89%A7%E5%AE%A3%E4%BC%A0%23&t=31&band_rank=27&Refer=top) 204174
 1. [上班更苦还是上学更苦](https://s.weibo.com/weibo?q=%E4%B8%8A%E7%8F%AD%E6%9B%B4%E8%8B%A6%E8%BF%98%E6%98%AF%E4%B8%8A%E5%AD%A6%E6%9B%B4%E8%8B%A6&t=31&band_rank=42&Refer=top) 200075
 1. [亢奋](https://s.weibo.com/weibo?q=%E4%BA%A2%E5%A5%8B&t=31&band_rank=28&Refer=top) 198994
@@ -57,7 +58,6 @@
 1. [SMTOWN曾用EXO威胁边伯贤](https://s.weibo.com/weibo?q=%23SMTOWN%E6%9B%BE%E7%94%A8EXO%E5%A8%81%E8%83%81%E8%BE%B9%E4%BC%AF%E8%B4%A4%23&t=31&band_rank=37&Refer=top) 177066
 1. [你觉得高考哪科最难](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%A7%89%E5%BE%97%E9%AB%98%E8%80%83%E5%93%AA%E7%A7%91%E6%9C%80%E9%9A%BE%23&t=31&band_rank=38&Refer=top) 173840
 1. [张小狮说愿意归还所有资助](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E7%8B%AE%E8%AF%B4%E6%84%BF%E6%84%8F%E5%BD%92%E8%BF%98%E6%89%80%E6%9C%89%E8%B5%84%E5%8A%A9%23&t=31&band_rank=39&Refer=top) 173273
-1. [死亡搁浅将登陆Mac](https://s.weibo.com/weibo?q=%E6%AD%BB%E4%BA%A1%E6%90%81%E6%B5%85%E5%B0%86%E7%99%BB%E9%99%86Mac&t=31&band_rank=13&Refer=top) 167953
 1. [鞠婧祎花戎同居](https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E8%8A%B1%E6%88%8E%E5%90%8C%E5%B1%85%23&t=31&band_rank=40&Refer=top) 157274
 1. [两岁萌娃独自光脚上街遇5位年轻人](https://s.weibo.com/weibo?q=%23%E4%B8%A4%E5%B2%81%E8%90%8C%E5%A8%83%E7%8B%AC%E8%87%AA%E5%85%89%E8%84%9A%E4%B8%8A%E8%A1%97%E9%81%875%E4%BD%8D%E5%B9%B4%E8%BD%BB%E4%BA%BA%23&t=31&band_rank=40&Refer=top) 153101
 1. [花戎](https://s.weibo.com/weibo?q=%E8%8A%B1%E6%88%8E&t=31&band_rank=42&Refer=top) 143108
@@ -78,8 +78,10 @@
 1. [WWDC2023](https://s.weibo.com/weibo?q=%23WWDC2023%23&t=31&band_rank=33&Refer=top) 94648
 1. [油滑 底层互害中的自保](https://s.weibo.com/weibo?q=%E6%B2%B9%E6%BB%91%20%E5%BA%95%E5%B1%82%E4%BA%92%E5%AE%B3%E4%B8%AD%E7%9A%84%E8%87%AA%E4%BF%9D&t=31&band_rank=50&Refer=top) 74118
 1. [肖春生的词典里生词挺多](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%98%A5%E7%94%9F%E7%9A%84%E8%AF%8D%E5%85%B8%E9%87%8C%E7%94%9F%E8%AF%8D%E6%8C%BA%E5%A4%9A%23&t=31&band_rank=40&Refer=top) 68783
+1. [watchOS 10 史努比表盘](https://s.weibo.com/weibo?q=watchOS%2010%20%E5%8F%B2%E5%8A%AA%E6%AF%94%E8%A1%A8%E7%9B%98&t=31&band_rank=27&Refer=top) 68698
 1. [2023高考季](https://s.weibo.com/weibo?q=%232023%E9%AB%98%E8%80%83%E5%AD%A3%23&t=31&band_rank=42&Refer=top) 61643
 1. [新MacOS Sonoma](https://s.weibo.com/weibo?q=%E6%96%B0MacOS%20Sonoma&t=31&band_rank=47&Refer=top) 48776
+1. [13英寸MacBook降价](https://s.weibo.com/weibo?q=%2313%E8%8B%B1%E5%AF%B8MacBook%E9%99%8D%E4%BB%B7%23&t=31&band_rank=47&Refer=top) 40553
 <!-- END -->
 
 历史归档 [./archives](./archives)

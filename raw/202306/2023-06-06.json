@@ -127,6 +127,10 @@
     "url": "https://s.weibo.com/weibo?q=%23Xiaohao%E5%93%AD%E4%BA%86%23&t=31&band_rank=25&Refer=top",
     "hot": 216904
   },
+  "死亡搁浅将登陆Mac": {
+    "url": "https://s.weibo.com/weibo?q=%E6%AD%BB%E4%BA%A1%E6%90%81%E6%B5%85%E5%B0%86%E7%99%BB%E9%99%86Mac&t=31&band_rank=13&Refer=top",
+    "hot": 205984
+  },
   "难怪白鹿许凯不帮于正新剧宣传": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%9A%BE%E6%80%AA%E7%99%BD%E9%B9%BF%E8%AE%B8%E5%87%AF%E4%B8%8D%E5%B8%AE%E4%BA%8E%E6%AD%A3%E6%96%B0%E5%89%A7%E5%AE%A3%E4%BC%A0%23&t=31&band_rank=27&Refer=top",
     "hot": 204174
@@ -194,10 +198,6 @@
   "张小狮说愿意归还所有资助": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E7%8B%AE%E8%AF%B4%E6%84%BF%E6%84%8F%E5%BD%92%E8%BF%98%E6%89%80%E6%9C%89%E8%B5%84%E5%8A%A9%23&t=31&band_rank=39&Refer=top",
     "hot": 173273
-  },
-  "死亡搁浅将登陆Mac": {
-    "url": "https://s.weibo.com/weibo?q=%E6%AD%BB%E4%BA%A1%E6%90%81%E6%B5%85%E5%B0%86%E7%99%BB%E9%99%86Mac&t=31&band_rank=13&Refer=top",
-    "hot": 167953
   },
   "鞠婧祎花戎同居": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E8%8A%B1%E6%88%8E%E5%90%8C%E5%B1%85%23&t=31&band_rank=40&Refer=top",
@@ -279,6 +279,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E8%82%96%E6%98%A5%E7%94%9F%E7%9A%84%E8%AF%8D%E5%85%B8%E9%87%8C%E7%94%9F%E8%AF%8D%E6%8C%BA%E5%A4%9A%23&t=31&band_rank=40&Refer=top",
     "hot": 68783
   },
+  "watchOS 10 史努比表盘": {
+    "url": "https://s.weibo.com/weibo?q=watchOS%2010%20%E5%8F%B2%E5%8A%AA%E6%AF%94%E8%A1%A8%E7%9B%98&t=31&band_rank=27&Refer=top",
+    "hot": 68698
+  },
   "2023高考季": {
     "url": "https://s.weibo.com/weibo?q=%232023%E9%AB%98%E8%80%83%E5%AD%A3%23&t=31&band_rank=42&Refer=top",
     "hot": 61643
@@ -286,5 +290,9 @@
   "新MacOS Sonoma": {
     "url": "https://s.weibo.com/weibo?q=%E6%96%B0MacOS%20Sonoma&t=31&band_rank=47&Refer=top",
     "hot": 48776
+  },
+  "13英寸MacBook降价": {
+    "url": "https://s.weibo.com/weibo?q=%2313%E8%8B%B1%E5%AF%B8MacBook%E9%99%8D%E4%BB%B7%23&t=31&band_rank=47&Refer=top",
+    "hot": 40553
   }
 }
