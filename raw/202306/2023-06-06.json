@@ -29,7 +29,7 @@
   },
   "Apple Vision Pro 苹果首款头显": {
     "url": "https://s.weibo.com/weibo?q=Apple%20Vision%20Pro%20%E8%8B%B9%E6%9E%9C%E9%A6%96%E6%AC%BE%E5%A4%B4%E6%98%BE&t=31&band_rank=6&Refer=top",
-    "hot": 793420
+    "hot": 843605
   },
   "美依礼芽四公 青鸟": {
     "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E4%BE%9D%E7%A4%BC%E8%8A%BD%E5%9B%9B%E5%85%AC%20%E9%9D%92%E9%B8%9F&t=31&band_rank=8&Refer=top",
@@ -205,7 +205,7 @@
   },
   "Vision Pro 眼睛手势操作": {
     "url": "https://s.weibo.com/weibo?q=Vision%20Pro%20%E7%9C%BC%E7%9D%9B%E6%89%8B%E5%8A%BF%E6%93%8D%E4%BD%9C&t=31&band_rank=33&Refer=top",
-    "hot": 159735
+    "hot": 162478
   },
   "鞠婧祎花戎同居": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E8%8A%B1%E6%88%8E%E5%90%8C%E5%B1%85%23&t=31&band_rank=40&Refer=top",
@@ -283,6 +283,10 @@
     "url": "https://s.weibo.com/weibo?q=watchOS%2010%20%E5%8F%B2%E5%8A%AA%E6%AF%94%E8%A1%A8%E7%9B%98&t=31&band_rank=27&Refer=top",
     "hot": 82821
   },
+  "Vision Pro 迪士尼": {
+    "url": "https://s.weibo.com/weibo?q=Vision%20Pro%20%E8%BF%AA%E5%A3%AB%E5%B0%BC&t=31&band_rank=19&Refer=top",
+    "hot": 79510
+  },
   "油滑 底层互害中的自保": {
     "url": "https://s.weibo.com/weibo?q=%E6%B2%B9%E6%BB%91%20%E5%BA%95%E5%B1%82%E4%BA%92%E5%AE%B3%E4%B8%AD%E7%9A%84%E8%87%AA%E4%BF%9D&t=31&band_rank=50&Refer=top",
     "hot": 74118
@@ -290,10 +294,6 @@
   "肖春生的词典里生词挺多": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%82%96%E6%98%A5%E7%94%9F%E7%9A%84%E8%AF%8D%E5%85%B8%E9%87%8C%E7%94%9F%E8%AF%8D%E6%8C%BA%E5%A4%9A%23&t=31&band_rank=40&Refer=top",
     "hot": 68783
-  },
-  "Vision Pro 迪士尼": {
-    "url": "https://s.weibo.com/weibo?q=Vision%20Pro%20%E8%BF%AA%E5%A3%AB%E5%B0%BC&t=31&band_rank=19&Refer=top",
-    "hot": 63582
   },
   "2023高考季": {
     "url": "https://s.weibo.com/weibo?q=%232023%E9%AB%98%E8%80%83%E5%AD%A3%23&t=31&band_rank=42&Refer=top",
@@ -306,5 +306,9 @@
   "13英寸MacBook降价": {
     "url": "https://s.weibo.com/weibo?q=%2313%E8%8B%B1%E5%AF%B8MacBook%E9%99%8D%E4%BB%B7%23&t=31&band_rank=47&Refer=top",
     "hot": 47560
+  },
+  "AppleVisionPro售价": {
+    "url": "https://s.weibo.com/weibo?q=AppleVisionPro%E5%94%AE%E4%BB%B7&t=31&band_rank=35&Refer=top",
+    "hot": 35925
   }
 }
