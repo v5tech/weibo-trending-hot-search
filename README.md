@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-06-07 03:08:08.529776 
+最后更新时间 2023-06-07 03:18:54.697883 
 1. [叶国华已被移出群聊](https://s.weibo.com/weibo?q=%23%E5%8F%B6%E5%9B%BD%E5%8D%8E%E5%B7%B2%E8%A2%AB%E7%A7%BB%E5%87%BA%E7%BE%A4%E8%81%8A%23&t=31&band_rank=1&Refer=top) 1739817
 1. [梦回王俊凯用易烊千玺读秒](https://s.weibo.com/weibo?q=%23%E6%A2%A6%E5%9B%9E%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%94%A8%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E8%AF%BB%E7%A7%92%23&t=31&band_rank=2&Refer=top) 820962
 1. [一起为2023高考生加油](https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%B5%B7%E4%B8%BA2023%E9%AB%98%E8%80%83%E7%94%9F%E5%8A%A0%E6%B2%B9%23&t=31&band_rank=3&Refer=top) 726193
@@ -70,10 +70,10 @@
 1. [鞠婧祎郭俊辰好会亲](https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E9%83%AD%E4%BF%8A%E8%BE%B0%E5%A5%BD%E4%BC%9A%E4%BA%B2%23&t=31&band_rank=44&Refer=top) 72965
 1. [高考期间最忌减主食](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4%E6%9C%80%E5%BF%8C%E5%87%8F%E4%B8%BB%E9%A3%9F%23&t=31&band_rank=39&Refer=top) 60833
 1. [一句话祝福2023高考生](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%8F%A5%E8%AF%9D%E7%A5%9D%E7%A6%8F2023%E9%AB%98%E8%80%83%E7%94%9F%23&t=31&band_rank=26&Refer=top) 55699
+1. [鼠头受害股](https://s.weibo.com/weibo?q=%E9%BC%A0%E5%A4%B4%E5%8F%97%E5%AE%B3%E8%82%A1&t=31&band_rank=50&Refer=top) 42311
 1. [祝考生们大胜归来](https://s.weibo.com/weibo?q=%23%E7%A5%9D%E8%80%83%E7%94%9F%E4%BB%AC%E5%A4%A7%E8%83%9C%E5%BD%92%E6%9D%A5%23&t=31&band_rank=35&Refer=top) 36067
 1. [龚俊发七彩祥云祝福高考生](https://s.weibo.com/weibo?q=%23%E9%BE%9A%E4%BF%8A%E5%8F%91%E4%B8%83%E5%BD%A9%E7%A5%A5%E4%BA%91%E7%A5%9D%E7%A6%8F%E9%AB%98%E8%80%83%E7%94%9F%23&t=31&band_rank=49&Refer=top) 33391
-1. [鼠头受害股](https://s.weibo.com/weibo?q=%E9%BC%A0%E5%A4%B4%E5%8F%97%E5%AE%B3%E8%82%A1&t=31&band_rank=50&Refer=top) 33263
-1. [男明星的牙](https://s.weibo.com/weibo?q=%23%E7%94%B7%E6%98%8E%E6%98%9F%E7%9A%84%E7%89%99%23&t=31&band_rank=50&Refer=top) 24756
+1. [男明星的牙](https://s.weibo.com/weibo?q=%23%E7%94%B7%E6%98%8E%E6%98%9F%E7%9A%84%E7%89%99%23&t=31&band_rank=50&Refer=top) 25439
 <!-- END -->
 
 历史归档 [./archives](./archives)

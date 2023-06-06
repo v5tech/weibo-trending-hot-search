@@ -247,6 +247,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%8F%A5%E8%AF%9D%E7%A5%9D%E7%A6%8F2023%E9%AB%98%E8%80%83%E7%94%9F%23&t=31&band_rank=26&Refer=top",
     "hot": 55699
   },
+  "鼠头受害股": {
+    "url": "https://s.weibo.com/weibo?q=%E9%BC%A0%E5%A4%B4%E5%8F%97%E5%AE%B3%E8%82%A1&t=31&band_rank=50&Refer=top",
+    "hot": 42311
+  },
   "祝考生们大胜归来": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%A5%9D%E8%80%83%E7%94%9F%E4%BB%AC%E5%A4%A7%E8%83%9C%E5%BD%92%E6%9D%A5%23&t=31&band_rank=35&Refer=top",
     "hot": 36067
@@ -255,12 +259,8 @@
     "url": "https://s.weibo.com/weibo?q=%23%E9%BE%9A%E4%BF%8A%E5%8F%91%E4%B8%83%E5%BD%A9%E7%A5%A5%E4%BA%91%E7%A5%9D%E7%A6%8F%E9%AB%98%E8%80%83%E7%94%9F%23&t=31&band_rank=49&Refer=top",
     "hot": 33391
   },
-  "鼠头受害股": {
-    "url": "https://s.weibo.com/weibo?q=%E9%BC%A0%E5%A4%B4%E5%8F%97%E5%AE%B3%E8%82%A1&t=31&band_rank=50&Refer=top",
-    "hot": 33263
-  },
   "男明星的牙": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E6%98%8E%E6%98%9F%E7%9A%84%E7%89%99%23&t=31&band_rank=50&Refer=top",
-    "hot": 24756
+    "hot": 25439
   }
 }
