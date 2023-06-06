@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-06-07 05:34:01.775098 
+最后更新时间 2023-06-07 05:49:04.737148 
 1. [叶国华已被移出群聊](https://s.weibo.com/weibo?q=%23%E5%8F%B6%E5%9B%BD%E5%8D%8E%E5%B7%B2%E8%A2%AB%E7%A7%BB%E5%87%BA%E7%BE%A4%E8%81%8A%23&t=31&band_rank=1&Refer=top) 1739817
 1. [梦回王俊凯用易烊千玺读秒](https://s.weibo.com/weibo?q=%23%E6%A2%A6%E5%9B%9E%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%94%A8%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E8%AF%BB%E7%A7%92%23&t=31&band_rank=2&Refer=top) 820962
 1. [一起为2023高考生加油](https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%B5%B7%E4%B8%BA2023%E9%AB%98%E8%80%83%E7%94%9F%E5%8A%A0%E6%B2%B9%23&t=31&band_rank=3&Refer=top) 726193
@@ -60,12 +60,12 @@
 1. [种地吧感恩音乐会](https://s.weibo.com/weibo?q=%23%E7%A7%8D%E5%9C%B0%E5%90%A7%E6%84%9F%E6%81%A9%E9%9F%B3%E4%B9%90%E4%BC%9A%23&t=31&band_rank=44&Refer=top) 121695
 1. [戴上Vision Pro的我](https://s.weibo.com/weibo?q=%E6%88%B4%E4%B8%8AVision%20Pro%E7%9A%84%E6%88%91&t=31&band_rank=45&Refer=top) 118421
 1. [王菲那英好甜](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%8F%B2%E9%82%A3%E8%8B%B1%E5%A5%BD%E7%94%9C%23&t=31&band_rank=46&Refer=top) 113370
+1. [小伙被吸入涵洞口30人紧紧拉回](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E8%A2%AB%E5%90%B8%E5%85%A5%E6%B6%B5%E6%B4%9E%E5%8F%A330%E4%BA%BA%E7%B4%A7%E7%B4%A7%E6%8B%89%E5%9B%9E%23&t=31&band_rank=43&Refer=top) 113154
 1. [杨紫初夏工作花絮视频](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%88%9D%E5%A4%8F%E5%B7%A5%E4%BD%9C%E8%8A%B1%E7%B5%AE%E8%A7%86%E9%A2%91%23&t=31&band_rank=47&Refer=top) 109582
 1. [地铁站里妈妈含泪掌掴小孩称太委屈](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%93%81%E7%AB%99%E9%87%8C%E5%A6%88%E5%A6%88%E5%90%AB%E6%B3%AA%E6%8E%8C%E6%8E%B4%E5%B0%8F%E5%AD%A9%E7%A7%B0%E5%A4%AA%E5%A7%94%E5%B1%88%23&t=31&band_rank=48&Refer=top) 107116
 1. [脑瘫女孩用鼻尖10年敲出73万字小说](https://s.weibo.com/weibo?q=%23%E8%84%91%E7%98%AB%E5%A5%B3%E5%AD%A9%E7%94%A8%E9%BC%BB%E5%B0%9610%E5%B9%B4%E6%95%B2%E5%87%BA73%E4%B8%87%E5%AD%97%E5%B0%8F%E8%AF%B4%23&t=31&band_rank=49&Refer=top) 101555
 1. [高考作文预测](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%E9%A2%84%E6%B5%8B&t=31&band_rank=48&Refer=top) 99676
 1. [离巢小鸟麦田边被妈妈追着投喂](https://s.weibo.com/weibo?q=%23%E7%A6%BB%E5%B7%A2%E5%B0%8F%E9%B8%9F%E9%BA%A6%E7%94%B0%E8%BE%B9%E8%A2%AB%E5%A6%88%E5%A6%88%E8%BF%BD%E7%9D%80%E6%8A%95%E5%96%82%23&t=31&band_rank=50&Refer=top) 97295
-1. [小伙被吸入涵洞口30人紧紧拉回](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E8%A2%AB%E5%90%B8%E5%85%A5%E6%B6%B5%E6%B4%9E%E5%8F%A330%E4%BA%BA%E7%B4%A7%E7%B4%A7%E6%8B%89%E5%9B%9E%23&t=31&band_rank=43&Refer=top) 91865
 1. [活力天赋很重要](https://s.weibo.com/weibo?q=%E6%B4%BB%E5%8A%9B%E5%A4%A9%E8%B5%8B%E5%BE%88%E9%87%8D%E8%A6%81&t=31&band_rank=50&Refer=top) 87319
 1. [男子承包三餐只为督促妻子多吃点](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%89%BF%E5%8C%85%E4%B8%89%E9%A4%90%E5%8F%AA%E4%B8%BA%E7%9D%A3%E4%BF%83%E5%A6%BB%E5%AD%90%E5%A4%9A%E5%90%83%E7%82%B9%23&t=31&band_rank=50&Refer=top) 83874
 1. [鞠婧祎郭俊辰好会亲](https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E9%83%AD%E4%BF%8A%E8%BE%B0%E5%A5%BD%E4%BC%9A%E4%BA%B2%23&t=31&band_rank=44&Refer=top) 72965
@@ -75,10 +75,11 @@
 1. [祝考生们大胜归来](https://s.weibo.com/weibo?q=%23%E7%A5%9D%E8%80%83%E7%94%9F%E4%BB%AC%E5%A4%A7%E8%83%9C%E5%BD%92%E6%9D%A5%23&t=31&band_rank=35&Refer=top) 36067
 1. [龚俊发七彩祥云祝福高考生](https://s.weibo.com/weibo?q=%23%E9%BE%9A%E4%BF%8A%E5%8F%91%E4%B8%83%E5%BD%A9%E7%A5%A5%E4%BA%91%E7%A5%9D%E7%A6%8F%E9%AB%98%E8%80%83%E7%94%9F%23&t=31&band_rank=49&Refer=top) 33391
 1. [男明星的牙](https://s.weibo.com/weibo?q=%23%E7%94%B7%E6%98%8E%E6%98%9F%E7%9A%84%E7%89%99%23&t=31&band_rank=50&Refer=top) 29257
-1. [张韶涵堵住鼻子化妆](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9F%B6%E6%B6%B5%E5%A0%B5%E4%BD%8F%E9%BC%BB%E5%AD%90%E5%8C%96%E5%A6%86%23&t=31&band_rank=48&Refer=top) 22311
-1. [朱一龙消失的她特辑](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%89%B9%E8%BE%91%23&t=31&band_rank=36&Refer=top) 20673
-1. [光与夜之恋周年庆](https://s.weibo.com/weibo?q=%E5%85%89%E4%B8%8E%E5%A4%9C%E4%B9%8B%E6%81%8B%E5%91%A8%E5%B9%B4%E5%BA%86&t=31&band_rank=49&Refer=top) 19958
-1. [朱一龙说何非可怜可悲可恨](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E8%AF%B4%E4%BD%95%E9%9D%9E%E5%8F%AF%E6%80%9C%E5%8F%AF%E6%82%B2%E5%8F%AF%E6%81%A8%23&t=31&band_rank=42&Refer=top) 18999
+1. [张韶涵堵住鼻子化妆](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9F%B6%E6%B6%B5%E5%A0%B5%E4%BD%8F%E9%BC%BB%E5%AD%90%E5%8C%96%E5%A6%86%23&t=31&band_rank=48&Refer=top) 26360
+1. [朱一龙说何非可怜可悲可恨](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E8%AF%B4%E4%BD%95%E9%9D%9E%E5%8F%AF%E6%80%9C%E5%8F%AF%E6%82%B2%E5%8F%AF%E6%81%A8%23&t=31&band_rank=42&Refer=top) 23194
+1. [加油高考生](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%B9%E9%AB%98%E8%80%83%E7%94%9F%23&t=31&band_rank=44&Refer=top) 23177
+1. [朱一龙消失的她特辑](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%89%B9%E8%BE%91%23&t=31&band_rank=36&Refer=top) 23165
+1. [光与夜之恋周年庆](https://s.weibo.com/weibo?q=%E5%85%89%E4%B8%8E%E5%A4%9C%E4%B9%8B%E6%81%8B%E5%91%A8%E5%B9%B4%E5%BA%86&t=31&band_rank=49&Refer=top) 23139
 <!-- END -->
 
 历史归档 [./archives](./archives)
