@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-06-08 04:34:28.999660 
+最后更新时间 2023-06-08 04:49:03.817130 
 1. [姜广涛](https://s.weibo.com/weibo?q=%E5%A7%9C%E5%B9%BF%E6%B6%9B&t=31&band_rank=1&Refer=top) 1409857
 1. [中石油胡继勇被免职](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%9F%B3%E6%B2%B9%E8%83%A1%E7%BB%A7%E5%8B%87%E8%A2%AB%E5%85%8D%E8%81%8C%23&t=31&band_rank=2&Refer=top) 1388060
 1. [这份高考祝福穿越百年](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BB%BD%E9%AB%98%E8%80%83%E7%A5%9D%E7%A6%8F%E7%A9%BF%E8%B6%8A%E7%99%BE%E5%B9%B4%23&t=31&band_rank=3&Refer=top) 1321756
@@ -72,6 +72,7 @@
 1. [数学到底难不难](https://s.weibo.com/weibo?q=%23%E6%95%B0%E5%AD%A6%E5%88%B0%E5%BA%95%E9%9A%BE%E4%B8%8D%E9%9A%BE%23&t=31&band_rank=49&Refer=top) 33665
 1. [明天的你请继续加油](https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%A4%A9%E7%9A%84%E4%BD%A0%E8%AF%B7%E7%BB%A7%E7%BB%AD%E5%8A%A0%E6%B2%B9%23&t=31&band_rank=50&Refer=top) 26969
 1. [导师说我这份报告是亲子鉴定](https://s.weibo.com/weibo?q=%23%E5%AF%BC%E5%B8%88%E8%AF%B4%E6%88%91%E8%BF%99%E4%BB%BD%E6%8A%A5%E5%91%8A%E6%98%AF%E4%BA%B2%E5%AD%90%E9%89%B4%E5%AE%9A%23&t=31&band_rank=49&Refer=top) 24553
+1. [班主任给全班请了十年的假](https://s.weibo.com/weibo?q=%E7%8F%AD%E4%B8%BB%E4%BB%BB%E7%BB%99%E5%85%A8%E7%8F%AD%E8%AF%B7%E4%BA%86%E5%8D%81%E5%B9%B4%E7%9A%84%E5%81%87&t=31&band_rank=48&Refer=top) 20167
 <!-- END -->
 
 历史归档 [./archives](./archives)
