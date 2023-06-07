@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-06-08 03:33:58.753275 
+最后更新时间 2023-06-08 03:48:56.768565 
 1. [姜广涛](https://s.weibo.com/weibo?q=%E5%A7%9C%E5%B9%BF%E6%B6%9B&t=31&band_rank=1&Refer=top) 1409857
 1. [中石油胡继勇被免职](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%9F%B3%E6%B2%B9%E8%83%A1%E7%BB%A7%E5%8B%87%E8%A2%AB%E5%85%8D%E8%81%8C%23&t=31&band_rank=2&Refer=top) 1388060
 1. [这份高考祝福穿越百年](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BB%BD%E9%AB%98%E8%80%83%E7%A5%9D%E7%A6%8F%E7%A9%BF%E8%B6%8A%E7%99%BE%E5%B9%B4%23&t=31&band_rank=3&Refer=top) 1321756
@@ -70,6 +70,7 @@
 1. [上野千鹤子的回信](https://s.weibo.com/weibo?q=%E4%B8%8A%E9%87%8E%E5%8D%83%E9%B9%A4%E5%AD%90%E7%9A%84%E5%9B%9E%E4%BF%A1&t=31&band_rank=50&Refer=top) 49817
 1. [刘雨昕2023LVMHPrize决赛颁奖嘉宾](https://s.weibo.com/weibo?q=%23%E5%88%98%E9%9B%A8%E6%98%952023LVMHPrize%E5%86%B3%E8%B5%9B%E9%A2%81%E5%A5%96%E5%98%89%E5%AE%BE%23&t=31&band_rank=45&Refer=top) 49720
 1. [数学到底难不难](https://s.weibo.com/weibo?q=%23%E6%95%B0%E5%AD%A6%E5%88%B0%E5%BA%95%E9%9A%BE%E4%B8%8D%E9%9A%BE%23&t=31&band_rank=49&Refer=top) 33665
+1. [明天的你请继续加油](https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%A4%A9%E7%9A%84%E4%BD%A0%E8%AF%B7%E7%BB%A7%E7%BB%AD%E5%8A%A0%E6%B2%B9%23&t=31&band_rank=50&Refer=top) 26969
 <!-- END -->
 
 历史归档 [./archives](./archives)
