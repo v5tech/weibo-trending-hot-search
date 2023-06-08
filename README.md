@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-06-09 03:49:14.140406 
+最后更新时间 2023-06-09 04:10:20.507336 
 1. [Uzi](https://s.weibo.com/weibo?q=Uzi&t=31&band_rank=32&Refer=top) 1040026
 1. [Amber单杀Uzi](https://s.weibo.com/weibo?q=%23Amber%E5%8D%95%E6%9D%80Uzi%23&t=31&band_rank=1&Refer=top) 951103
 1. [她是怎么忍住不用剪刀的](https://s.weibo.com/weibo?q=%E5%A5%B9%E6%98%AF%E6%80%8E%E4%B9%88%E5%BF%8D%E4%BD%8F%E4%B8%8D%E7%94%A8%E5%89%AA%E5%88%80%E7%9A%84&t=31&band_rank=2&Refer=top) 681784
