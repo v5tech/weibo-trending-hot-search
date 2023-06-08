@@ -1,11 +1,11 @@
 {
+  "Uzi": {
+    "url": "https://s.weibo.com/weibo?q=Uzi&t=31&band_rank=32&Refer=top",
+    "hot": 1040026
+  },
   "Amber单杀Uzi": {
     "url": "https://s.weibo.com/weibo?q=%23Amber%E5%8D%95%E6%9D%80Uzi%23&t=31&band_rank=1&Refer=top",
     "hot": 951103
-  },
-  "Uzi": {
-    "url": "https://s.weibo.com/weibo?q=Uzi&t=31&band_rank=32&Refer=top",
-    "hot": 923912
   },
   "她是怎么忍住不用剪刀的": {
     "url": "https://s.weibo.com/weibo?q=%E5%A5%B9%E6%98%AF%E6%80%8E%E4%B9%88%E5%BF%8D%E4%BD%8F%E4%B8%8D%E7%94%A8%E5%89%AA%E5%88%80%E7%9A%84&t=31&band_rank=2&Refer=top",
@@ -222,5 +222,9 @@
   "薛之谦巡演官宣两城空降": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%B7%A1%E6%BC%94%E5%AE%98%E5%AE%A3%E4%B8%A4%E5%9F%8E%E7%A9%BA%E9%99%8D%23&t=31&band_rank=50&Refer=top",
     "hot": 56373
+  },
+  "女生在宿舍发现学姐2年前留信": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E5%9C%A8%E5%AE%BF%E8%88%8D%E5%8F%91%E7%8E%B0%E5%AD%A6%E5%A7%902%E5%B9%B4%E5%89%8D%E7%95%99%E4%BF%A1%23&t=31&band_rank=28&Refer=top",
+    "hot": 54360
   }
 }
