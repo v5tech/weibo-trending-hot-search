@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-06-10 01:24:34.920606 
+最后更新时间 2023-06-10 01:34:13.130504 
 1. [陈露 王萌](https://s.weibo.com/weibo?q=%E9%99%88%E9%9C%B2%20%E7%8E%8B%E8%90%8C&t=31&band_rank=1&Refer=top) 2427834
 1. [易烊千玺 评委](https://s.weibo.com/weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%20%E8%AF%84%E5%A7%94&t=31&band_rank=2&Refer=top) 1543944
 1. [3分钟告诉你万物皆可链](https://s.weibo.com/weibo?q=%233%E5%88%86%E9%92%9F%E5%91%8A%E8%AF%89%E4%BD%A0%E4%B8%87%E7%89%A9%E7%9A%86%E5%8F%AF%E9%93%BE%23&t=31&band_rank=3&Refer=top) 1304385
@@ -64,11 +64,11 @@
 1. [温流不参与SHINee新专辑活动](https://s.weibo.com/weibo?q=%23%E6%B8%A9%E6%B5%81%E4%B8%8D%E5%8F%82%E4%B8%8ESHINee%E6%96%B0%E4%B8%93%E8%BE%91%E6%B4%BB%E5%8A%A8%23&t=31&band_rank=41&Refer=top) 114537
 1. [女子9小时制作精美花饽饽祝福考生](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%909%E5%B0%8F%E6%97%B6%E5%88%B6%E4%BD%9C%E7%B2%BE%E7%BE%8E%E8%8A%B1%E9%A5%BD%E9%A5%BD%E7%A5%9D%E7%A6%8F%E8%80%83%E7%94%9F%23&t=31&band_rank=49&Refer=top) 110339
 1. [四川大学](https://s.weibo.com/weibo?q=%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6&t=31&band_rank=45&Refer=top) 104109
+1. [速度与激情11定档](https://s.weibo.com/weibo?q=%23%E9%80%9F%E5%BA%A6%E4%B8%8E%E6%BF%80%E6%83%8511%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=49&Refer=top) 99615
 1. [法网](https://s.weibo.com/weibo?q=%E6%B3%95%E7%BD%91&t=31&band_rank=49&Refer=top) 99285
-1. [速度与激情11定档](https://s.weibo.com/weibo?q=%23%E9%80%9F%E5%BA%A6%E4%B8%8E%E6%BF%80%E6%83%8511%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=49&Refer=top) 97610
 1. [蒋依依西施造型](https://s.weibo.com/weibo?q=%23%E8%92%8B%E4%BE%9D%E4%BE%9D%E8%A5%BF%E6%96%BD%E9%80%A0%E5%9E%8B%23&t=31&band_rank=45&Refer=top) 85996
 1. [王源易烊千玺工作室出图](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%87%BA%E5%9B%BE%23&t=31&band_rank=44&Refer=top) 84191
-1. [注册不了张z](https://s.weibo.com/weibo?q=%23%E6%B3%A8%E5%86%8C%E4%B8%8D%E4%BA%86%E5%BC%A0z%23&t=31&band_rank=49&Refer=top) 56185
+1. [注册不了张z](https://s.weibo.com/weibo?q=%23%E6%B3%A8%E5%86%8C%E4%B8%8D%E4%BA%86%E5%BC%A0z%23&t=31&band_rank=49&Refer=top) 59239
 1. [高考结束](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F&t=31&band_rank=50&Refer=top) 56181
 <!-- END -->
 
