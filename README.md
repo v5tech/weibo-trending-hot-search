@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-06-11 04:34:21.207788 
+最后更新时间 2023-06-11 04:48:58.419886 
 1. [Angelababy冷脸](https://s.weibo.com/weibo?q=Angelababy%E5%86%B7%E8%84%B8&t=31&band_rank=1&Refer=top) 2237494
 1. [哥伦比亚飞机失事 40天野外求生奇迹](https://s.weibo.com/weibo?q=%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E9%A3%9E%E6%9C%BA%E5%A4%B1%E4%BA%8B%2040%E5%A4%A9%E9%87%8E%E5%A4%96%E6%B1%82%E7%94%9F%E5%A5%87%E8%BF%B9&t=31&band_rank=2&Refer=top) 1862140
 1. [文化和自然遗产冷知识](https://s.weibo.com/weibo?q=%23%E6%96%87%E5%8C%96%E5%92%8C%E8%87%AA%E7%84%B6%E9%81%97%E4%BA%A7%E5%86%B7%E7%9F%A5%E8%AF%86%23&t=31&band_rank=3&Refer=top) 1472605
