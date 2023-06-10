@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-06-11 06:24:34.580346 
+最后更新时间 2023-06-11 06:34:07.425993 
 1. [Angelababy冷脸](https://s.weibo.com/weibo?q=Angelababy%E5%86%B7%E8%84%B8&t=31&band_rank=1&Refer=top) 2237494
 1. [哥伦比亚飞机失事 40天野外求生奇迹](https://s.weibo.com/weibo?q=%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E9%A3%9E%E6%9C%BA%E5%A4%B1%E4%BA%8B%2040%E5%A4%A9%E9%87%8E%E5%A4%96%E6%B1%82%E7%94%9F%E5%A5%87%E8%BF%B9&t=31&band_rank=2&Refer=top) 1862140
 1. [文化和自然遗产冷知识](https://s.weibo.com/weibo?q=%23%E6%96%87%E5%8C%96%E5%92%8C%E8%87%AA%E7%84%B6%E9%81%97%E4%BA%A7%E5%86%B7%E7%9F%A5%E8%AF%86%23&t=31&band_rank=3&Refer=top) 1472605
@@ -42,9 +42,9 @@
 1. [邪剑仙根本吸不完](https://s.weibo.com/weibo?q=%E9%82%AA%E5%89%91%E4%BB%99%E6%A0%B9%E6%9C%AC%E5%90%B8%E4%B8%8D%E5%AE%8C&t=31&band_rank=25&Refer=top) 225581
 1. [团伙盗墓挖出龙袍网上售卖](https://s.weibo.com/weibo?q=%23%E5%9B%A2%E4%BC%99%E7%9B%97%E5%A2%93%E6%8C%96%E5%87%BA%E9%BE%99%E8%A2%8D%E7%BD%91%E4%B8%8A%E5%94%AE%E5%8D%96%23&t=31&band_rank=50&Refer=top) 211647
 1. [梁博现场](https://s.weibo.com/weibo?q=%E6%A2%81%E5%8D%9A%E7%8E%B0%E5%9C%BA&t=31&band_rank=31&Refer=top) 208660
+1. [柯以敏直播奔溃大哭](https://s.weibo.com/weibo?q=%23%E6%9F%AF%E4%BB%A5%E6%95%8F%E7%9B%B4%E6%92%AD%E5%A5%94%E6%BA%83%E5%A4%A7%E5%93%AD%23&t=31&band_rank=14&Refer=top) 204572
 1. [朴宰范都知道TangoZ了](https://s.weibo.com/weibo?q=%23%E6%9C%B4%E5%AE%B0%E8%8C%83%E9%83%BD%E7%9F%A5%E9%81%93TangoZ%E4%BA%86%23&t=31&band_rank=28&Refer=top) 202490
 1. [曼城1比0国际米兰](https://s.weibo.com/weibo?q=%E6%9B%BC%E5%9F%8E1%E6%AF%940%E5%9B%BD%E9%99%85%E7%B1%B3%E5%85%B0&t=31&band_rank=33&Refer=top) 196741
-1. [柯以敏直播奔溃大哭](https://s.weibo.com/weibo?q=%23%E6%9F%AF%E4%BB%A5%E6%95%8F%E7%9B%B4%E6%92%AD%E5%A5%94%E6%BA%83%E5%A4%A7%E5%93%AD%23&t=31&band_rank=14&Refer=top) 195092
 1. [梅西也得熬夜看欧冠](https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BF%E4%B9%9F%E5%BE%97%E7%86%AC%E5%A4%9C%E7%9C%8B%E6%AC%A7%E5%86%A0&t=31&band_rank=29&Refer=top) 181892
 1. [江西就鸭脖事件成立联合调查组](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E5%B0%B1%E9%B8%AD%E8%84%96%E4%BA%8B%E4%BB%B6%E6%88%90%E7%AB%8B%E8%81%94%E5%90%88%E8%B0%83%E6%9F%A5%E7%BB%84%23&t=31&band_rank=30&Refer=top) 177179
 1. [鼠头鸭脖](https://s.weibo.com/weibo?q=%E9%BC%A0%E5%A4%B4%E9%B8%AD%E8%84%96&t=31&band_rank=49&Refer=top) 172181
@@ -70,8 +70,8 @@
 1. [内马尔回复小朋友私信](https://s.weibo.com/weibo?q=%E5%86%85%E9%A9%AC%E5%B0%94%E5%9B%9E%E5%A4%8D%E5%B0%8F%E6%9C%8B%E5%8F%8B%E7%A7%81%E4%BF%A1&t=31&band_rank=30&Refer=top) 121934
 1. [我那么大一个马丽呢](https://s.weibo.com/weibo?q=%E6%88%91%E9%82%A3%E4%B9%88%E5%A4%A7%E4%B8%80%E4%B8%AA%E9%A9%AC%E4%B8%BD%E5%91%A2&t=31&band_rank=41&Refer=top) 111303
 1. [焦迈奇游泳回家巡回演唱会](https://s.weibo.com/weibo?q=%23%E7%84%A6%E8%BF%88%E5%A5%87%E6%B8%B8%E6%B3%B3%E5%9B%9E%E5%AE%B6%E5%B7%A1%E5%9B%9E%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=41&Refer=top) 94913
+1. [高考后爸爸搬行李的统一姿势](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%90%8E%E7%88%B8%E7%88%B8%E6%90%AC%E8%A1%8C%E6%9D%8E%E7%9A%84%E7%BB%9F%E4%B8%80%E5%A7%BF%E5%8A%BF%23&t=31&band_rank=48&Refer=top) 89997
 1. [文旅局长考场门口送考生状元卷](https://s.weibo.com/weibo?q=%23%E6%96%87%E6%97%85%E5%B1%80%E9%95%BF%E8%80%83%E5%9C%BA%E9%97%A8%E5%8F%A3%E9%80%81%E8%80%83%E7%94%9F%E7%8A%B6%E5%85%83%E5%8D%B7%23&t=31&band_rank=50&Refer=top) 86719
-1. [高考后爸爸搬行李的统一姿势](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%90%8E%E7%88%B8%E7%88%B8%E6%90%AC%E8%A1%8C%E6%9D%8E%E7%9A%84%E7%BB%9F%E4%B8%80%E5%A7%BF%E5%8A%BF%23&t=31&band_rank=48&Refer=top) 78888
 1. [张碧晨红毯状态](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%A2%A7%E6%99%A8%E7%BA%A2%E6%AF%AF%E7%8A%B6%E6%80%81%23&t=31&band_rank=37&Refer=top) 74808
 1. [邓超和王一博说了什么](https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E5%92%8C%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%AF%B4%E4%BA%86%E4%BB%80%E4%B9%88%23&t=31&band_rank=43&Refer=top) 74796
 1. [厂长回来二级抓下啊](https://s.weibo.com/weibo?q=%E5%8E%82%E9%95%BF%E5%9B%9E%E6%9D%A5%E4%BA%8C%E7%BA%A7%E6%8A%93%E4%B8%8B%E5%95%8A&t=31&band_rank=50&Refer=top) 69395
@@ -79,9 +79,10 @@
 1. [梅西只在北京出战](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E5%8F%AA%E5%9C%A8%E5%8C%97%E4%BA%AC%E5%87%BA%E6%88%98%23&t=31&band_rank=36&Refer=top) 52325
 1. [尤长靖广州演唱会](https://s.weibo.com/weibo?q=%23%E5%B0%A4%E9%95%BF%E9%9D%96%E5%B9%BF%E5%B7%9E%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=47&Refer=top) 50595
 1. [C位烫脚](https://s.weibo.com/weibo?q=C%E4%BD%8D%E7%83%AB%E8%84%9A&t=31&band_rank=37&Refer=top) 46881
+1. [肖春生没见到父亲最后一面](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%98%A5%E7%94%9F%E6%B2%A1%E8%A7%81%E5%88%B0%E7%88%B6%E4%BA%B2%E6%9C%80%E5%90%8E%E4%B8%80%E9%9D%A2%23&t=31&band_rank=39&Refer=top) 40767
 1. [蜘蛛侠](https://s.weibo.com/weibo?q=%E8%9C%98%E8%9B%9B%E4%BE%A0&t=31&band_rank=49&Refer=top) 36572
-1. [肖春生没见到父亲最后一面](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%98%A5%E7%94%9F%E6%B2%A1%E8%A7%81%E5%88%B0%E7%88%B6%E4%BA%B2%E6%9C%80%E5%90%8E%E4%B8%80%E9%9D%A2%23&t=31&band_rank=39&Refer=top) 34028
 1. [奔跑吧](https://s.weibo.com/weibo?q=%E5%A5%94%E8%B7%91%E5%90%A7&t=31&band_rank=48&Refer=top) 33981
+1. [舒淇谢霆锋错位图](https://s.weibo.com/weibo?q=%23%E8%88%92%E6%B7%87%E8%B0%A2%E9%9C%86%E9%94%8B%E9%94%99%E4%BD%8D%E5%9B%BE%23&t=31&band_rank=43&Refer=top) 33289
 1. [无人机降落瞬间 满天繁星](https://s.weibo.com/weibo?q=%E6%97%A0%E4%BA%BA%E6%9C%BA%E9%99%8D%E8%90%BD%E7%9E%AC%E9%97%B4%20%E6%BB%A1%E5%A4%A9%E7%B9%81%E6%98%9F&t=31&band_rank=46&Refer=top) 19291
 <!-- END -->
 
