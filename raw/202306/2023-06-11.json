@@ -85,7 +85,7 @@
   },
   "曼城vs国际米兰": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%9B%BC%E5%9F%8Evs%E5%9B%BD%E9%99%85%E7%B1%B3%E5%85%B0%23&t=31&band_rank=20&Refer=top",
-    "hot": 316537
+    "hot": 331405
   },
   "王一博张子枫i人领奖": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%BC%A0%E5%AD%90%E6%9E%ABi%E4%BA%BA%E9%A2%86%E5%A5%96%23&t=31&band_rank=21&Refer=top",
@@ -254,5 +254,9 @@
   "C位烫脚": {
     "url": "https://s.weibo.com/weibo?q=C%E4%BD%8D%E7%83%AB%E8%84%9A&t=31&band_rank=37&Refer=top",
     "hot": 46881
+  },
+  "奔跑吧": {
+    "url": "https://s.weibo.com/weibo?q=%E5%A5%94%E8%B7%91%E5%90%A7&t=31&band_rank=48&Refer=top",
+    "hot": 25182
   }
 }
