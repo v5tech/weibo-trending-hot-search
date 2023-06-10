@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-06-11 06:09:04.172399 
+最后更新时间 2023-06-11 06:24:34.580346 
 1. [Angelababy冷脸](https://s.weibo.com/weibo?q=Angelababy%E5%86%B7%E8%84%B8&t=31&band_rank=1&Refer=top) 2237494
 1. [哥伦比亚飞机失事 40天野外求生奇迹](https://s.weibo.com/weibo?q=%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E9%A3%9E%E6%9C%BA%E5%A4%B1%E4%BA%8B%2040%E5%A4%A9%E9%87%8E%E5%A4%96%E6%B1%82%E7%94%9F%E5%A5%87%E8%BF%B9&t=31&band_rank=2&Refer=top) 1862140
 1. [文化和自然遗产冷知识](https://s.weibo.com/weibo?q=%23%E6%96%87%E5%8C%96%E5%92%8C%E8%87%AA%E7%84%B6%E9%81%97%E4%BA%A7%E5%86%B7%E7%9F%A5%E8%AF%86%23&t=31&band_rank=3&Refer=top) 1472605
@@ -44,11 +44,11 @@
 1. [梁博现场](https://s.weibo.com/weibo?q=%E6%A2%81%E5%8D%9A%E7%8E%B0%E5%9C%BA&t=31&band_rank=31&Refer=top) 208660
 1. [朴宰范都知道TangoZ了](https://s.weibo.com/weibo?q=%23%E6%9C%B4%E5%AE%B0%E8%8C%83%E9%83%BD%E7%9F%A5%E9%81%93TangoZ%E4%BA%86%23&t=31&band_rank=28&Refer=top) 202490
 1. [曼城1比0国际米兰](https://s.weibo.com/weibo?q=%E6%9B%BC%E5%9F%8E1%E6%AF%940%E5%9B%BD%E9%99%85%E7%B1%B3%E5%85%B0&t=31&band_rank=33&Refer=top) 196741
+1. [柯以敏直播奔溃大哭](https://s.weibo.com/weibo?q=%23%E6%9F%AF%E4%BB%A5%E6%95%8F%E7%9B%B4%E6%92%AD%E5%A5%94%E6%BA%83%E5%A4%A7%E5%93%AD%23&t=31&band_rank=14&Refer=top) 195092
 1. [梅西也得熬夜看欧冠](https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BF%E4%B9%9F%E5%BE%97%E7%86%AC%E5%A4%9C%E7%9C%8B%E6%AC%A7%E5%86%A0&t=31&band_rank=29&Refer=top) 181892
 1. [江西就鸭脖事件成立联合调查组](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E5%B0%B1%E9%B8%AD%E8%84%96%E4%BA%8B%E4%BB%B6%E6%88%90%E7%AB%8B%E8%81%94%E5%90%88%E8%B0%83%E6%9F%A5%E7%BB%84%23&t=31&band_rank=30&Refer=top) 177179
 1. [鼠头鸭脖](https://s.weibo.com/weibo?q=%E9%BC%A0%E5%A4%B4%E9%B8%AD%E8%84%96&t=31&band_rank=49&Refer=top) 172181
 1. [赵琦君杨凯雯订婚](https://s.weibo.com/weibo?q=%E8%B5%B5%E7%90%A6%E5%90%9B%E6%9D%A8%E5%87%AF%E9%9B%AF%E8%AE%A2%E5%A9%9A&t=31&band_rank=32&Refer=top) 170246
-1. [柯以敏直播奔溃大哭](https://s.weibo.com/weibo?q=%23%E6%9F%AF%E4%BB%A5%E6%95%8F%E7%9B%B4%E6%92%AD%E5%A5%94%E6%BA%83%E5%A4%A7%E5%93%AD%23&t=31&band_rank=14&Refer=top) 170217
 1. [蔡徐坤范丞丞同框梦回偶像练习生](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E8%8C%83%E4%B8%9E%E4%B8%9E%E5%90%8C%E6%A1%86%E6%A2%A6%E5%9B%9E%E5%81%B6%E5%83%8F%E7%BB%83%E4%B9%A0%E7%94%9F%23&t=31&band_rank=33&Refer=top) 169919
 1. [熊孩子真的不分物种](https://s.weibo.com/weibo?q=%23%E7%86%8A%E5%AD%A9%E5%AD%90%E7%9C%9F%E7%9A%84%E4%B8%8D%E5%88%86%E7%89%A9%E7%A7%8D%23&t=31&band_rank=34&Refer=top) 158748
 1. [王子奇说和王玉雯真没商量](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AD%90%E5%A5%87%E8%AF%B4%E5%92%8C%E7%8E%8B%E7%8E%89%E9%9B%AF%E7%9C%9F%E6%B2%A1%E5%95%86%E9%87%8F%23&t=31&band_rank=42&Refer=top) 152145
@@ -80,7 +80,8 @@
 1. [尤长靖广州演唱会](https://s.weibo.com/weibo?q=%23%E5%B0%A4%E9%95%BF%E9%9D%96%E5%B9%BF%E5%B7%9E%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=47&Refer=top) 50595
 1. [C位烫脚](https://s.weibo.com/weibo?q=C%E4%BD%8D%E7%83%AB%E8%84%9A&t=31&band_rank=37&Refer=top) 46881
 1. [蜘蛛侠](https://s.weibo.com/weibo?q=%E8%9C%98%E8%9B%9B%E4%BE%A0&t=31&band_rank=49&Refer=top) 36572
-1. [奔跑吧](https://s.weibo.com/weibo?q=%E5%A5%94%E8%B7%91%E5%90%A7&t=31&band_rank=48&Refer=top) 33187
+1. [肖春生没见到父亲最后一面](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%98%A5%E7%94%9F%E6%B2%A1%E8%A7%81%E5%88%B0%E7%88%B6%E4%BA%B2%E6%9C%80%E5%90%8E%E4%B8%80%E9%9D%A2%23&t=31&band_rank=39&Refer=top) 34028
+1. [奔跑吧](https://s.weibo.com/weibo?q=%E5%A5%94%E8%B7%91%E5%90%A7&t=31&band_rank=48&Refer=top) 33981
 1. [无人机降落瞬间 满天繁星](https://s.weibo.com/weibo?q=%E6%97%A0%E4%BA%BA%E6%9C%BA%E9%99%8D%E8%90%BD%E7%9E%AC%E9%97%B4%20%E6%BB%A1%E5%A4%A9%E7%B9%81%E6%98%9F&t=31&band_rank=46&Refer=top) 19291
 <!-- END -->
 
