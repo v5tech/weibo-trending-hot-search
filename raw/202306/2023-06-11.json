@@ -63,6 +63,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%AD%90%E6%9E%AB%E5%90%8A%E5%B8%A6%E9%98%94%E8%85%BF%E8%A3%A4%23&t=31&band_rank=9&Refer=top",
     "hot": 513218
   },
+  "卢卡库": {
+    "url": "https://s.weibo.com/weibo?q=%E5%8D%A2%E5%8D%A1%E5%BA%93&t=31&band_rank=2&Refer=top",
+    "hot": 510805
+  },
   "珠峰被救女子不付救援费背后": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%8F%A0%E5%B3%B0%E8%A2%AB%E6%95%91%E5%A5%B3%E5%AD%90%E4%B8%8D%E4%BB%98%E6%95%91%E6%8F%B4%E8%B4%B9%E8%83%8C%E5%90%8E%23&t=31&band_rank=29&Refer=top",
     "hot": 414866
@@ -106,6 +110,10 @@
   "欧阳春晓的沙漏腰到底有用吗": {
     "url": "https://s.weibo.com/weibo?q=%E6%AC%A7%E9%98%B3%E6%98%A5%E6%99%93%E7%9A%84%E6%B2%99%E6%BC%8F%E8%85%B0%E5%88%B0%E5%BA%95%E6%9C%89%E7%94%A8%E5%90%97&t=31&band_rank=24&Refer=top",
     "hot": 280213
+  },
+  "曼城": {
+    "url": "https://s.weibo.com/weibo?q=%E6%9B%BC%E5%9F%8E&t=31&band_rank=4&Refer=top",
+    "hot": 275902
   },
   "易烊千玺哪儿去了": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%93%AA%E5%84%BF%E5%8E%BB%E4%BA%86%23&t=31&band_rank=26&Refer=top",
@@ -262,6 +270,18 @@
   "奔跑吧": {
     "url": "https://s.weibo.com/weibo?q=%E5%A5%94%E8%B7%91%E5%90%A7&t=31&band_rank=48&Refer=top",
     "hot": 26085
+  },
+  "曼城夺得欧冠冠军": {
+    "url": "https://s.weibo.com/weibo?q=%E6%9B%BC%E5%9F%8E%E5%A4%BA%E5%BE%97%E6%AC%A7%E5%86%A0%E5%86%A0%E5%86%9B&t=31&band_rank=31&Refer=top",
+    "hot": 26050
+  },
+  "曼城1比0国际米兰": {
+    "url": "https://s.weibo.com/weibo?q=%E6%9B%BC%E5%9F%8E1%E6%AF%940%E5%9B%BD%E9%99%85%E7%B1%B3%E5%85%B0&t=31&band_rank=33&Refer=top",
+    "hot": 25728
+  },
+  "梅西只在北京出战": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E5%8F%AA%E5%9C%A8%E5%8C%97%E4%BA%AC%E5%87%BA%E6%88%98%23&t=31&band_rank=36&Refer=top",
+    "hot": 24584
   },
   "无人机降落瞬间 满天繁星": {
     "url": "https://s.weibo.com/weibo?q=%E6%97%A0%E4%BA%BA%E6%9C%BA%E9%99%8D%E8%90%BD%E7%9E%AC%E9%97%B4%20%E6%BB%A1%E5%A4%A9%E7%B9%81%E6%98%9F&t=31&band_rank=46&Refer=top",
