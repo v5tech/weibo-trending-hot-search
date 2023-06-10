@@ -211,13 +211,13 @@
     "url": "https://s.weibo.com/weibo?q=%23Uzi%E7%88%86%E6%96%99%E8%87%AA%E5%B7%B114%E5%8F%B7%E4%B8%8A%E5%9C%BA%23&t=31&band_rank=48&Refer=top",
     "hot": 132237
   },
+  "内马尔回复小朋友私信": {
+    "url": "https://s.weibo.com/weibo?q=%E5%86%85%E9%A9%AC%E5%B0%94%E5%9B%9E%E5%A4%8D%E5%B0%8F%E6%9C%8B%E5%8F%8B%E7%A7%81%E4%BF%A1&t=31&band_rank=30&Refer=top",
+    "hot": 116680
+  },
   "我那么大一个马丽呢": {
     "url": "https://s.weibo.com/weibo?q=%E6%88%91%E9%82%A3%E4%B9%88%E5%A4%A7%E4%B8%80%E4%B8%AA%E9%A9%AC%E4%B8%BD%E5%91%A2&t=31&band_rank=41&Refer=top",
     "hot": 111303
-  },
-  "内马尔回复小朋友私信": {
-    "url": "https://s.weibo.com/weibo?q=%E5%86%85%E9%A9%AC%E5%B0%94%E5%9B%9E%E5%A4%8D%E5%B0%8F%E6%9C%8B%E5%8F%8B%E7%A7%81%E4%BF%A1&t=31&band_rank=30&Refer=top",
-    "hot": 103194
   },
   "焦迈奇游泳回家巡回演唱会": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%84%A6%E8%BF%88%E5%A5%87%E6%B8%B8%E6%B3%B3%E5%9B%9E%E5%AE%B6%E5%B7%A1%E5%9B%9E%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=41&Refer=top",
@@ -250,5 +250,9 @@
   "尤长靖广州演唱会": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%B0%A4%E9%95%BF%E9%9D%96%E5%B9%BF%E5%B7%9E%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=47&Refer=top",
     "hot": 50595
+  },
+  "C位烫脚": {
+    "url": "https://s.weibo.com/weibo?q=C%E4%BD%8D%E7%83%AB%E8%84%9A&t=31&band_rank=37&Refer=top",
+    "hot": 46881
   }
 }
