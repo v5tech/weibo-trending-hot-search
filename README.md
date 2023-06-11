@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-06-12 01:34:04.467791 
+最后更新时间 2023-06-12 01:48:52.030483 
 1. [曝光大叔女子哭诉学校准备开除她](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%85%89%E5%A4%A7%E5%8F%94%E5%A5%B3%E5%AD%90%E5%93%AD%E8%AF%89%E5%AD%A6%E6%A0%A1%E5%87%86%E5%A4%87%E5%BC%80%E9%99%A4%E5%A5%B9%23&t=31&band_rank=5&Refer=top) 2489675
 1. [张雨绮致歉](https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%A8%E7%BB%AE%E8%87%B4%E6%AD%89&t=31&band_rank=1&Refer=top) 1410008
 1. [梅西被迫宅在酒店](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%A2%AB%E8%BF%AB%E5%AE%85%E5%9C%A8%E9%85%92%E5%BA%97%23&t=31&band_rank=2&Refer=top) 942664
@@ -68,12 +68,12 @@
 1. [员工不接电话浙江老板果断报警](https://s.weibo.com/weibo?q=%23%E5%91%98%E5%B7%A5%E4%B8%8D%E6%8E%A5%E7%94%B5%E8%AF%9D%E6%B5%99%E6%B1%9F%E8%80%81%E6%9D%BF%E6%9E%9C%E6%96%AD%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=46&Refer=top) 112274
 1. [迷笛音乐节官宣](https://s.weibo.com/weibo?q=%E8%BF%B7%E7%AC%9B%E9%9F%B3%E4%B9%90%E8%8A%82%E5%AE%98%E5%AE%A3&t=31&band_rank=49&Refer=top) 109152
 1. [孙千cos紫萱](https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%8D%83cos%E7%B4%AB%E8%90%B1%23&t=31&band_rank=49&Refer=top) 102682
-1. [孟佳王霏霏10年前vs现在合照](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E4%BD%B3%E7%8E%8B%E9%9C%8F%E9%9C%8F10%E5%B9%B4%E5%89%8Dvs%E7%8E%B0%E5%9C%A8%E5%90%88%E7%85%A7%23&t=31&band_rank=44&Refer=top) 88894
+1. [孟佳王霏霏10年前vs现在合照](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E4%BD%B3%E7%8E%8B%E9%9C%8F%E9%9C%8F10%E5%B9%B4%E5%89%8Dvs%E7%8E%B0%E5%9C%A8%E5%90%88%E7%85%A7%23&t=31&band_rank=44&Refer=top) 99725
 1. [消防员火场废墟中寻回老人存款](https://s.weibo.com/weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%98%E7%81%AB%E5%9C%BA%E5%BA%9F%E5%A2%9F%E4%B8%AD%E5%AF%BB%E5%9B%9E%E8%80%81%E4%BA%BA%E5%AD%98%E6%AC%BE%23&t=31&band_rank=30&Refer=top) 76345
+1. [文咏珊4天走5次红毯](https://s.weibo.com/weibo?q=%23%E6%96%87%E5%92%8F%E7%8F%8A4%E5%A4%A9%E8%B5%B05%E6%AC%A1%E7%BA%A2%E6%AF%AF%23&t=31&band_rank=45&Refer=top) 59607
 1. [贺红玲说肖春生甩了她](https://s.weibo.com/weibo?q=%23%E8%B4%BA%E7%BA%A2%E7%8E%B2%E8%AF%B4%E8%82%96%E6%98%A5%E7%94%9F%E7%94%A9%E4%BA%86%E5%A5%B9%23&t=31&band_rank=47&Refer=top) 58980
 1. [吴京杰森斯坦森外滩吃饺子](https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%AC%E6%9D%B0%E6%A3%AE%E6%96%AF%E5%9D%A6%E6%A3%AE%E5%A4%96%E6%BB%A9%E5%90%83%E9%A5%BA%E5%AD%90%23&t=31&band_rank=43&Refer=top) 58013
 1. [全世界的追星人都一样](https://s.weibo.com/weibo?q=%23%E5%85%A8%E4%B8%96%E7%95%8C%E7%9A%84%E8%BF%BD%E6%98%9F%E4%BA%BA%E9%83%BD%E4%B8%80%E6%A0%B7%23&t=31&band_rank=48&Refer=top) 57339
-1. [文咏珊4天走5次红毯](https://s.weibo.com/weibo?q=%23%E6%96%87%E5%92%8F%E7%8F%8A4%E5%A4%A9%E8%B5%B05%E6%AC%A1%E7%BA%A2%E6%AF%AF%23&t=31&band_rank=45&Refer=top) 53877
 <!-- END -->
 
 历史归档 [./archives](./archives)
