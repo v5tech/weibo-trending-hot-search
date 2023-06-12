@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-06-13 05:09:28.617675 
+最后更新时间 2023-06-13 05:20:32.540412 
 1. [三子深夜大战不孕不育榴莲](https://s.weibo.com/weibo?q=%E4%B8%89%E5%AD%90%E6%B7%B1%E5%A4%9C%E5%A4%A7%E6%88%98%E4%B8%8D%E5%AD%95%E4%B8%8D%E8%82%B2%E6%A6%B4%E8%8E%B2&t=31&band_rank=1&Refer=top) 2931980
 1. [夸克](https://s.weibo.com/weibo?q=%E5%A4%B8%E5%85%8B&t=31&band_rank=12&Refer=top) 2289683
 1. [短途游3小时高铁圈](https://s.weibo.com/weibo?q=%23%E7%9F%AD%E9%80%94%E6%B8%B83%E5%B0%8F%E6%97%B6%E9%AB%98%E9%93%81%E5%9C%88%23&t=31&band_rank=3&Refer=top) 1392957
