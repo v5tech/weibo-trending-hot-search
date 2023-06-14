@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-06-15 04:34:26.256245 
+最后更新时间 2023-06-15 04:48:55.322062 
 1. [上海地震](https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%9C%87&t=31&band_rank=1&Refer=top) 4658768
 1. [Uzi哭了](https://s.weibo.com/weibo?q=Uzi%E5%93%AD%E4%BA%86&t=31&band_rank=1&Refer=top) 1027070
 1. [梅西苏醒合影](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%8B%8F%E9%86%92%E5%90%88%E5%BD%B1%23&t=31&band_rank=2&Refer=top) 812207
