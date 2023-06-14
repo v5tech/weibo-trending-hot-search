@@ -1,4 +1,8 @@
 {
+  "上海地震": {
+    "url": "https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%9C%87&t=31&band_rank=1&Refer=top",
+    "hot": 4658768
+  },
   "Uzi哭了": {
     "url": "https://s.weibo.com/weibo?q=Uzi%E5%93%AD%E4%BA%86&t=31&band_rank=1&Refer=top",
     "hot": 1027070
@@ -30,6 +34,10 @@
   "宋仲基儿子出生": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BB%B2%E5%9F%BA%E5%84%BF%E5%AD%90%E5%87%BA%E7%94%9F%23&t=31&band_rank=6&Refer=top",
     "hot": 477854
+  },
+  "上海": {
+    "url": "https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7&t=31&band_rank=2&Refer=top",
+    "hot": 459263
   },
   "黄永玉逝世": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%B0%B8%E7%8E%89%E9%80%9D%E4%B8%96%23&t=31&band_rank=9&Refer=top",
@@ -225,7 +233,7 @@
   },
   "内娱镜头下的宁艺卓": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E9%95%9C%E5%A4%B4%E4%B8%8B%E7%9A%84%E5%AE%81%E8%89%BA%E5%8D%93%23&t=31&band_rank=40&Refer=top",
-    "hot": 59557
+    "hot": 61722
   },
   "RNG": {
     "url": "https://s.weibo.com/weibo?q=RNG&t=31&band_rank=49&Refer=top",
