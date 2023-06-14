@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-06-15 03:49:04.221000 
+最后更新时间 2023-06-15 04:10:35.517805 
 1. [上海地震](https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%9C%87&t=31&band_rank=1&Refer=top) 4658768
 1. [Uzi哭了](https://s.weibo.com/weibo?q=Uzi%E5%93%AD%E4%BA%86&t=31&band_rank=1&Refer=top) 1027070
 1. [梅西苏醒合影](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%8B%8F%E9%86%92%E5%90%88%E5%BD%B1%23&t=31&band_rank=2&Refer=top) 812207
@@ -70,6 +70,7 @@
 1. [RNG](https://s.weibo.com/weibo?q=RNG&t=31&band_rank=49&Refer=top) 50762
 1. [双蔡双杰](https://s.weibo.com/weibo?q=%23%E5%8F%8C%E8%94%A1%E5%8F%8C%E6%9D%B0%23&t=31&band_rank=47&Refer=top) 36322
 1. [23岁只想着生活要努力](https://s.weibo.com/weibo?q=23%E5%B2%81%E5%8F%AA%E6%83%B3%E7%9D%80%E7%94%9F%E6%B4%BB%E8%A6%81%E5%8A%AA%E5%8A%9B&t=31&band_rank=50&Refer=top) 20153
+1. [2023CFPL](https://s.weibo.com/weibo?q=%232023CFPL%23&t=31&band_rank=47&Refer=top) 19645
 <!-- END -->
 
 历史归档 [./archives](./archives)
