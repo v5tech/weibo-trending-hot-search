@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-06-15 06:25:25.132003 
+最后更新时间 2023-06-15 06:34:03.923096 
 1. [上海地震](https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%9C%87&t=31&band_rank=1&Refer=top) 4658768
 1. [Uzi哭了](https://s.weibo.com/weibo?q=Uzi%E5%93%AD%E4%BA%86&t=31&band_rank=1&Refer=top) 1027070
 1. [梅西苏醒合影](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%8B%8F%E9%86%92%E5%90%88%E5%BD%B1%23&t=31&band_rank=2&Refer=top) 812207
@@ -67,6 +67,7 @@
 1. [河南警察夫妻度蜜月顺便抓3人](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E8%AD%A6%E5%AF%9F%E5%A4%AB%E5%A6%BB%E5%BA%A6%E8%9C%9C%E6%9C%88%E9%A1%BA%E4%BE%BF%E6%8A%933%E4%BA%BA%23&t=31&band_rank=41&Refer=top) 87035
 1. [狼队战胜TTG](https://s.weibo.com/weibo?q=%23%E7%8B%BC%E9%98%9F%E6%88%98%E8%83%9CTTG%23&t=31&band_rank=37&Refer=top) 70036
 1. [内娱镜头下的宁艺卓](https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E9%95%9C%E5%A4%B4%E4%B8%8B%E7%9A%84%E5%AE%81%E8%89%BA%E5%8D%93%23&t=31&band_rank=40&Refer=top) 61722
+1. [檀健次你好星期六](https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%23&t=31&band_rank=45&Refer=top) 51953
 1. [RNG](https://s.weibo.com/weibo?q=RNG&t=31&band_rank=49&Refer=top) 50762
 1. [双蔡双杰](https://s.weibo.com/weibo?q=%23%E5%8F%8C%E8%94%A1%E5%8F%8C%E6%9D%B0%23&t=31&band_rank=47&Refer=top) 36322
 1. [23岁只想着生活要努力](https://s.weibo.com/weibo?q=23%E5%B2%81%E5%8F%AA%E6%83%B3%E7%9D%80%E7%94%9F%E6%B4%BB%E8%A6%81%E5%8A%AA%E5%8A%9B&t=31&band_rank=50&Refer=top) 20153
