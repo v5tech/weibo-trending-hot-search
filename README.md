@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-06-16 04:34:32.076764 
+最后更新时间 2023-06-16 04:48:58.632954 
 1. [薛之谦 再见啦梅西](https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%20%E5%86%8D%E8%A7%81%E5%95%A6%E6%A2%85%E8%A5%BF&t=31&band_rank=31&Refer=top) 2122172
 1. [海底捞回应8块钱生菜仅2片](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%9B%9E%E5%BA%948%E5%9D%97%E9%92%B1%E7%94%9F%E8%8F%9C%E4%BB%852%E7%89%87%23&t=31&band_rank=1&Refer=top) 1175010
 1. [苏醒见完梅西偶遇来迟的薛之谦](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%86%92%E8%A7%81%E5%AE%8C%E6%A2%85%E8%A5%BF%E5%81%B6%E9%81%87%E6%9D%A5%E8%BF%9F%E7%9A%84%E8%96%9B%E4%B9%8B%E8%B0%A6%23&t=31&band_rank=2&Refer=top) 1095487
