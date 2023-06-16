@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-06-17 06:49:01.215777 
+最后更新时间 2023-06-17 07:09:53.371508 
 1. [谢娜李维嘉吴昕录制新综艺](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E6%9D%8E%E7%BB%B4%E5%98%89%E5%90%B4%E6%98%95%E5%BD%95%E5%88%B6%E6%96%B0%E7%BB%BC%E8%89%BA%23&t=31&band_rank=1&Refer=top) 2303613
 1. [杜江问梅西嗯哼的签名照是真迹吗](https://s.weibo.com/weibo?q=%23%E6%9D%9C%E6%B1%9F%E9%97%AE%E6%A2%85%E8%A5%BF%E5%97%AF%E5%93%BC%E7%9A%84%E7%AD%BE%E5%90%8D%E7%85%A7%E6%98%AF%E7%9C%9F%E8%BF%B9%E5%90%97%23&t=31&band_rank=2&Refer=top) 2103523
 1. [硬核科技铺就万桥飞架新坦途](https://s.weibo.com/weibo?q=%23%E7%A1%AC%E6%A0%B8%E7%A7%91%E6%8A%80%E9%93%BA%E5%B0%B1%E4%B8%87%E6%A1%A5%E9%A3%9E%E6%9E%B6%E6%96%B0%E5%9D%A6%E9%80%94%23&t=31&band_rank=3&Refer=top) 1972757
@@ -21,6 +21,7 @@
 1. [山西煤矿3死1伤事故监控曝光](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E7%85%A4%E7%9F%BF3%E6%AD%BB1%E4%BC%A4%E4%BA%8B%E6%95%85%E7%9B%91%E6%8E%A7%E6%9B%9D%E5%85%89%23&t=31&band_rank=9&Refer=top) 262201
 1. [当我出门忘关16度的空调](https://s.weibo.com/weibo?q=%E5%BD%93%E6%88%91%E5%87%BA%E9%97%A8%E5%BF%98%E5%85%B316%E5%BA%A6%E7%9A%84%E7%A9%BA%E8%B0%83&t=31&band_rank=10&Refer=top) 237192
 1. [宋仲基 成为父亲和丈夫会失去很多工作](https://s.weibo.com/weibo?q=%E5%AE%8B%E4%BB%B2%E5%9F%BA%20%E6%88%90%E4%B8%BA%E7%88%B6%E4%BA%B2%E5%92%8C%E4%B8%88%E5%A4%AB%E4%BC%9A%E5%A4%B1%E5%8E%BB%E5%BE%88%E5%A4%9A%E5%B7%A5%E4%BD%9C&t=31&band_rank=11&Refer=top) 231317
+1. [国外一女士住酒店遭遇撬门](https://s.weibo.com/weibo?q=%E5%9B%BD%E5%A4%96%E4%B8%80%E5%A5%B3%E5%A3%AB%E4%BD%8F%E9%85%92%E5%BA%97%E9%81%AD%E9%81%87%E6%92%AC%E9%97%A8&t=31&band_rank=31&Refer=top) 227240
 1. [柳智敏 艺人没时间是骗人的](https://s.weibo.com/weibo?q=%E6%9F%B3%E6%99%BA%E6%95%8F%20%E8%89%BA%E4%BA%BA%E6%B2%A1%E6%97%B6%E9%97%B4%E6%98%AF%E9%AA%97%E4%BA%BA%E7%9A%84&t=31&band_rank=12&Refer=top) 224836
 1. [黄宗泽再认下去就不礼貌了](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AE%97%E6%B3%BD%E5%86%8D%E8%AE%A4%E4%B8%8B%E5%8E%BB%E5%B0%B1%E4%B8%8D%E7%A4%BC%E8%B2%8C%E4%BA%86%23&t=31&band_rank=13&Refer=top) 213670
 1. [当丈夫说妻子在家啥也不干](https://s.weibo.com/weibo?q=%E5%BD%93%E4%B8%88%E5%A4%AB%E8%AF%B4%E5%A6%BB%E5%AD%90%E5%9C%A8%E5%AE%B6%E5%95%A5%E4%B9%9F%E4%B8%8D%E5%B9%B2&t=31&band_rank=15&Refer=top) 205293
@@ -38,7 +39,6 @@
 1. [电影八角笼中](https://s.weibo.com/weibo?q=%E7%94%B5%E5%BD%B1%E5%85%AB%E8%A7%92%E7%AC%BC%E4%B8%AD&t=31&band_rank=28&Refer=top) 200827
 1. [符合这几点你该离职了](https://s.weibo.com/weibo?q=%E7%AC%A6%E5%90%88%E8%BF%99%E5%87%A0%E7%82%B9%E4%BD%A0%E8%AF%A5%E7%A6%BB%E8%81%8C%E4%BA%86&t=31&band_rank=29&Refer=top) 200676
 1. [一定要睡个好觉的原因](https://s.weibo.com/weibo?q=%E4%B8%80%E5%AE%9A%E8%A6%81%E7%9D%A1%E4%B8%AA%E5%A5%BD%E8%A7%89%E7%9A%84%E5%8E%9F%E5%9B%A0&t=31&band_rank=30&Refer=top) 200091
-1. [国外一女士住酒店遭遇撬门](https://s.weibo.com/weibo?q=%E5%9B%BD%E5%A4%96%E4%B8%80%E5%A5%B3%E5%A3%AB%E4%BD%8F%E9%85%92%E5%BA%97%E9%81%AD%E9%81%87%E6%92%AC%E9%97%A8&t=31&band_rank=31&Refer=top) 199765
 1. [林俊杰现场绝了](https://s.weibo.com/weibo?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%E7%8E%B0%E5%9C%BA%E7%BB%9D%E4%BA%86&t=31&band_rank=32&Refer=top) 199655
 1. [王一博抓金雨](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%8A%93%E9%87%91%E9%9B%A8%23&t=31&band_rank=33&Refer=top) 199310
 1. [TFBOYS演唱会投票](https://s.weibo.com/weibo?q=%23TFBOYS%E6%BC%94%E5%94%B1%E4%BC%9A%E6%8A%95%E7%A5%A8%23&t=31&band_rank=34&Refer=top) 198939
@@ -62,11 +62,16 @@
 1. [马伯骞并非难哄桑延选角](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%BC%AF%E9%AA%9E%E5%B9%B6%E9%9D%9E%E9%9A%BE%E5%93%84%E6%A1%91%E5%BB%B6%E9%80%89%E8%A7%92%23&t=31&band_rank=43&Refer=top) 112057
 1. [黄绮珊声音](https://s.weibo.com/weibo?q=%E9%BB%84%E7%BB%AE%E7%8F%8A%E5%A3%B0%E9%9F%B3&t=31&band_rank=44&Refer=top) 98560
 1. [两千三的工资面了三轮](https://s.weibo.com/weibo?q=%23%E4%B8%A4%E5%8D%83%E4%B8%89%E7%9A%84%E5%B7%A5%E8%B5%84%E9%9D%A2%E4%BA%86%E4%B8%89%E8%BD%AE%23&t=31&band_rank=50&Refer=top) 97814
+1. [村民鸡窝中发现鸟皇后](https://s.weibo.com/weibo?q=%23%E6%9D%91%E6%B0%91%E9%B8%A1%E7%AA%9D%E4%B8%AD%E5%8F%91%E7%8E%B0%E9%B8%9F%E7%9A%87%E5%90%8E%23&t=31&band_rank=31&Refer=top) 96725
 1. [程潇 再热就不礼貌了](https://s.weibo.com/weibo?q=%E7%A8%8B%E6%BD%87%20%E5%86%8D%E7%83%AD%E5%B0%B1%E4%B8%8D%E7%A4%BC%E8%B2%8C%E4%BA%86&t=31&band_rank=42&Refer=top) 86945
-1. [村民鸡窝中发现鸟皇后](https://s.weibo.com/weibo?q=%23%E6%9D%91%E6%B0%91%E9%B8%A1%E7%AA%9D%E4%B8%AD%E5%8F%91%E7%8E%B0%E9%B8%9F%E7%9A%87%E5%90%8E%23&t=31&band_rank=31&Refer=top) 72687
 1. [马思唯和法老见面没](https://s.weibo.com/weibo?q=%E9%A9%AC%E6%80%9D%E5%94%AF%E5%92%8C%E6%B3%95%E8%80%81%E8%A7%81%E9%9D%A2%E6%B2%A1&t=31&band_rank=43&Refer=top) 71571
 1. [中国女排vs保加利亚女排](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92vs%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A%E5%A5%B3%E6%8E%92%23&t=31&band_rank=50&Refer=top) 53285
+1. [肖春生好懂佟晓梅](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%98%A5%E7%94%9F%E5%A5%BD%E6%87%82%E4%BD%9F%E6%99%93%E6%A2%85%23&t=31&band_rank=37&Refer=top) 50290
 1. [张靓颖的马甲线](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9D%93%E9%A2%96%E7%9A%84%E9%A9%AC%E7%94%B2%E7%BA%BF%23&t=31&band_rank=44&Refer=top) 49913
+1. [过上了小说里的生活](https://s.weibo.com/weibo?q=%E8%BF%87%E4%B8%8A%E4%BA%86%E5%B0%8F%E8%AF%B4%E9%87%8C%E7%9A%84%E7%94%9F%E6%B4%BB&t=31&band_rank=40&Refer=top) 48400
+1. [绝交视频是肖战拉着刘芮麟崔航拍的](https://s.weibo.com/weibo?q=%23%E7%BB%9D%E4%BA%A4%E8%A7%86%E9%A2%91%E6%98%AF%E8%82%96%E6%88%98%E6%8B%89%E7%9D%80%E5%88%98%E8%8A%AE%E9%BA%9F%E5%B4%94%E8%88%AA%E6%8B%8D%E7%9A%84%23&t=31&band_rank=41&Refer=top) 48397
+1. [肖春生问叶国华孩子几岁了](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%98%A5%E7%94%9F%E9%97%AE%E5%8F%B6%E5%9B%BD%E5%8D%8E%E5%AD%A9%E5%AD%90%E5%87%A0%E5%B2%81%E4%BA%86%23&t=31&band_rank=43&Refer=top) 48370
+1. [男子带68岁父亲第一次走出农村](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%B8%A668%E5%B2%81%E7%88%B6%E4%BA%B2%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%B5%B0%E5%87%BA%E5%86%9C%E6%9D%91%23&t=31&band_rank=45&Refer=top) 48355
 1. [蔡徐坤专辑](https://s.weibo.com/weibo?q=%E8%94%A1%E5%BE%90%E5%9D%A4%E4%B8%93%E8%BE%91&t=31&band_rank=44&Refer=top) 47961
 1. [千万不要强行睁眼打喷嚏](https://s.weibo.com/weibo?q=%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E5%BC%BA%E8%A1%8C%E7%9D%81%E7%9C%BC%E6%89%93%E5%96%B7%E5%9A%8F&t=31&band_rank=39&Refer=top) 47933
 1. [无畏契约东京大师赛](https://s.weibo.com/weibo?q=%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6%E4%B8%9C%E4%BA%AC%E5%A4%A7%E5%B8%88%E8%B5%9B&t=31&band_rank=50&Refer=top) 27169
