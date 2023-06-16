@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-06-17 05:34:06.629801 
+最后更新时间 2023-06-17 05:48:53.675581 
 1. [谢娜李维嘉吴昕录制新综艺](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E6%9D%8E%E7%BB%B4%E5%98%89%E5%90%B4%E6%98%95%E5%BD%95%E5%88%B6%E6%96%B0%E7%BB%BC%E8%89%BA%23&t=31&band_rank=1&Refer=top) 2303613
 1. [杜江问梅西嗯哼的签名照是真迹吗](https://s.weibo.com/weibo?q=%23%E6%9D%9C%E6%B1%9F%E9%97%AE%E6%A2%85%E8%A5%BF%E5%97%AF%E5%93%BC%E7%9A%84%E7%AD%BE%E5%90%8D%E7%85%A7%E6%98%AF%E7%9C%9F%E8%BF%B9%E5%90%97%23&t=31&band_rank=2&Refer=top) 2103523
 1. [硬核科技铺就万桥飞架新坦途](https://s.weibo.com/weibo?q=%23%E7%A1%AC%E6%A0%B8%E7%A7%91%E6%8A%80%E9%93%BA%E5%B0%B1%E4%B8%87%E6%A1%A5%E9%A3%9E%E6%9E%B6%E6%96%B0%E5%9D%A6%E9%80%94%23&t=31&band_rank=3&Refer=top) 1972757
@@ -68,7 +68,7 @@
 1. [张靓颖的马甲线](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9D%93%E9%A2%96%E7%9A%84%E9%A9%AC%E7%94%B2%E7%BA%BF%23&t=31&band_rank=44&Refer=top) 49913
 1. [千万不要强行睁眼打喷嚏](https://s.weibo.com/weibo?q=%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E5%BC%BA%E8%A1%8C%E7%9D%81%E7%9C%BC%E6%89%93%E5%96%B7%E5%9A%8F&t=31&band_rank=39&Refer=top) 45889
 1. [蔡徐坤专辑](https://s.weibo.com/weibo?q=%E8%94%A1%E5%BE%90%E5%9D%A4%E4%B8%93%E8%BE%91&t=31&band_rank=44&Refer=top) 37010
-1. [村民鸡窝中发现鸟皇后](https://s.weibo.com/weibo?q=%23%E6%9D%91%E6%B0%91%E9%B8%A1%E7%AA%9D%E4%B8%AD%E5%8F%91%E7%8E%B0%E9%B8%9F%E7%9A%87%E5%90%8E%23&t=31&band_rank=31&Refer=top) 28670
+1. [村民鸡窝中发现鸟皇后](https://s.weibo.com/weibo?q=%23%E6%9D%91%E6%B0%91%E9%B8%A1%E7%AA%9D%E4%B8%AD%E5%8F%91%E7%8E%B0%E9%B8%9F%E7%9A%87%E5%90%8E%23&t=31&band_rank=31&Refer=top) 36115
 1. [无畏契约东京大师赛](https://s.weibo.com/weibo?q=%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6%E4%B8%9C%E4%BA%AC%E5%A4%A7%E5%B8%88%E8%B5%9B&t=31&band_rank=50&Refer=top) 27169
 <!-- END -->
 
