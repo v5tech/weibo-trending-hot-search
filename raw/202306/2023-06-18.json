@@ -237,7 +237,7 @@
   },
   "zb1": {
     "url": "https://s.weibo.com/weibo?q=zb1&t=31&band_rank=34&Refer=top",
-    "hot": 59497
+    "hot": 69435
   },
   "周柏豪佛山演唱会": {
     "url": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%9F%8F%E8%B1%AA%E4%BD%9B%E5%B1%B1%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=48&Refer=top",
@@ -246,5 +246,9 @@
   "创造宇宙音乐节": {
     "url": "https://s.weibo.com/weibo?q=%E5%88%9B%E9%80%A0%E5%AE%87%E5%AE%99%E9%9F%B3%E4%B9%90%E8%8A%82&t=31&band_rank=49&Refer=top",
     "hot": 56129
+  },
+  "成源": {
+    "url": "https://s.weibo.com/weibo?q=%E6%88%90%E6%BA%90&t=31&band_rank=50&Refer=top",
+    "hot": 40524
   }
 }
