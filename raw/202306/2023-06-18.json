@@ -251,6 +251,10 @@
     "url": "https://s.weibo.com/weibo?q=%E8%B0%A2%E5%A8%9C%20%E5%A5%B9%E5%A5%B9%E5%A5%B9&t=31&band_rank=6&Refer=top",
     "hot": 765166
   },
+  "厦大新闻学教授谈张雪峰言论": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8E%A6%E5%A4%A7%E6%96%B0%E9%97%BB%E5%AD%A6%E6%95%99%E6%8E%88%E8%B0%88%E5%BC%A0%E9%9B%AA%E5%B3%B0%E8%A8%80%E8%AE%BA%23&t=31&band_rank=21&Refer=top",
+    "hot": 730571
+  },
   "女生称洗澡后发现酒店房间有摄像头": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E7%A7%B0%E6%B4%97%E6%BE%A1%E5%90%8E%E5%8F%91%E7%8E%B0%E9%85%92%E5%BA%97%E6%88%BF%E9%97%B4%E6%9C%89%E6%91%84%E5%83%8F%E5%A4%B4%23&t=31&band_rank=17&Refer=top",
     "hot": 724009
@@ -274,10 +278,6 @@
   "布林肯访华": {
     "url": "https://s.weibo.com/weibo?q=%E5%B8%83%E6%9E%97%E8%82%AF%E8%AE%BF%E5%8D%8E&t=31&band_rank=36&Refer=top",
     "hot": 718457
-  },
-  "厦大新闻学教授谈张雪峰言论": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%8E%A6%E5%A4%A7%E6%96%B0%E9%97%BB%E5%AD%A6%E6%95%99%E6%8E%88%E8%B0%88%E5%BC%A0%E9%9B%AA%E5%B3%B0%E8%A8%80%E8%AE%BA%23&t=31&band_rank=21&Refer=top",
-    "hot": 700160
   },
   "男子开85公里回家给71岁父亲过节": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%BC%8085%E5%85%AC%E9%87%8C%E5%9B%9E%E5%AE%B6%E7%BB%9971%E5%B2%81%E7%88%B6%E4%BA%B2%E8%BF%87%E8%8A%82%23&t=31&band_rank=15&Refer=top",
@@ -519,6 +519,10 @@
     "url": "https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E7%9B%98%E5%8F%91%E6%A2%A6%E5%9B%9E%E6%99%B4%E5%B7%9D&t=31&band_rank=18&Refer=top",
     "hot": 361487
   },
+  "建议魏大勋别看": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E9%AD%8F%E5%A4%A7%E5%8B%8B%E5%88%AB%E7%9C%8B%23&t=31&band_rank=32&Refer=top",
+    "hot": 360826
+  },
   "杨幂露背了": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E9%9C%B2%E8%83%8C%E4%BA%86%23&t=31&band_rank=23&Refer=top",
     "hot": 355661
@@ -529,7 +533,7 @@
   },
   "肖战为电影增重": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E4%B8%BA%E7%94%B5%E5%BD%B1%E5%A2%9E%E9%87%8D%23&t=31&band_rank=43&Refer=top",
-    "hot": 344241
+    "hot": 346383
   },
   "三体": {
     "url": "https://s.weibo.com/weibo?q=%E4%B8%89%E4%BD%93&t=31&band_rank=28&Refer=top",
@@ -654,10 +658,6 @@
   "曾黎赵丽颖新剧演师徒": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%9B%BE%E9%BB%8E%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%96%B0%E5%89%A7%E6%BC%94%E5%B8%88%E5%BE%92%23&t=31&band_rank=45&Refer=top",
     "hot": 284104
-  },
-  "建议魏大勋别看": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E9%AD%8F%E5%A4%A7%E5%8B%8B%E5%88%AB%E7%9C%8B%23&t=31&band_rank=32&Refer=top",
-    "hot": 282243
   },
   "孟美岐后援会称北京演唱会一切照常": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%AD%9F%E7%BE%8E%E5%B2%90%E5%90%8E%E6%8F%B4%E4%BC%9A%E7%A7%B0%E5%8C%97%E4%BA%AC%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%80%E5%88%87%E7%85%A7%E5%B8%B8%23&t=31&band_rank=35&Refer=top",
@@ -1335,6 +1335,14 @@
     "url": "https://s.weibo.com/weibo?q=%E5%96%9C%E6%AC%A2%E7%9C%8B%E9%89%B4%E5%AE%9D%E7%B1%BB%E8%8A%82%E7%9B%AE%E7%9A%84%E4%B8%80%E4%B8%AA%E5%8E%9F%E5%9B%A0&t=31&band_rank=43&Refer=top",
     "hot": 168030
   },
+  "田曦薇大奉打更人": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E5%A4%A7%E5%A5%89%E6%89%93%E6%9B%B4%E4%BA%BA%23&t=31&band_rank=42&Refer=top",
+    "hot": 167989
+  },
+  "陈奕迅演唱会": {
+    "url": "https://s.weibo.com/weibo?q=%E9%99%88%E5%A5%95%E8%BF%85%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=44&Refer=top",
+    "hot": 167066
+  },
   "梦海再现知否金句": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%A2%A6%E6%B5%B7%E5%86%8D%E7%8E%B0%E7%9F%A5%E5%90%A6%E9%87%91%E5%8F%A5%23&t=31&band_rank=37&Refer=top",
     "hot": 167049
@@ -1646,6 +1654,14 @@
   "梦海陈宏军有私生子": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%A2%A6%E6%B5%B7%E9%99%88%E5%AE%8F%E5%86%9B%E6%9C%89%E7%A7%81%E7%94%9F%E5%AD%90%23&t=31&band_rank=42&Refer=top",
     "hot": 132725
+  },
+  "等会这是猫最后一条命了": {
+    "url": "https://s.weibo.com/weibo?q=%E7%AD%89%E4%BC%9A%E8%BF%99%E6%98%AF%E7%8C%AB%E6%9C%80%E5%90%8E%E4%B8%80%E6%9D%A1%E5%91%BD%E4%BA%86&t=31&band_rank=48&Refer=top",
+    "hot": 131877
+  },
+  "动物奶爸带娃到底有多炸裂": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8A%A8%E7%89%A9%E5%A5%B6%E7%88%B8%E5%B8%A6%E5%A8%83%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E7%82%B8%E8%A3%82%23&t=31&band_rank=50&Refer=top",
+    "hot": 131265
   },
   "狗头萝莉 长发发型合集": {
     "url": "https://s.weibo.com/weibo?q=%E7%8B%97%E5%A4%B4%E8%90%9D%E8%8E%89%20%E9%95%BF%E5%8F%91%E5%8F%91%E5%9E%8B%E5%90%88%E9%9B%86&t=31&band_rank=47&Refer=top",
