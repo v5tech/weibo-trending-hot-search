@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-06-20 00:31:00.133477 
+最后更新时间 2023-06-20 00:48:56.238362 
 1. [你现在网购还常用淘宝吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%8E%B0%E5%9C%A8%E7%BD%91%E8%B4%AD%E8%BF%98%E5%B8%B8%E7%94%A8%E6%B7%98%E5%AE%9D%E5%90%97%23&t=31&band_rank=1&Refer=top) 1415692
 1. [朱一龙爸爸](https://s.weibo.com/weibo?q=%E6%9C%B1%E4%B8%80%E9%BE%99%E7%88%B8%E7%88%B8&t=31&band_rank=2&Refer=top) 1011306
 1. [杭州亚运奖牌上的湖山长什么样](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E5%A5%96%E7%89%8C%E4%B8%8A%E7%9A%84%E6%B9%96%E5%B1%B1%E9%95%BF%E4%BB%80%E4%B9%88%E6%A0%B7%23&t=31&band_rank=3&Refer=top) 802609
@@ -48,6 +48,8 @@
 1. [一听啤酒惹怒半个美国](https://s.weibo.com/weibo?q=%E4%B8%80%E5%90%AC%E5%95%A4%E9%85%92%E6%83%B9%E6%80%92%E5%8D%8A%E4%B8%AA%E7%BE%8E%E5%9B%BD&t=31&band_rank=38&Refer=top) 274218
 1. [庆余年2官宣毛晓彤](https://s.weibo.com/weibo?q=%23%E5%BA%86%E4%BD%99%E5%B9%B42%E5%AE%98%E5%AE%A3%E6%AF%9B%E6%99%93%E5%BD%A4%23&t=31&band_rank=45&Refer=top) 274209
 1. [长风渡](https://s.weibo.com/weibo?q=%E9%95%BF%E9%A3%8E%E6%B8%A1&t=31&band_rank=39&Refer=top) 273685
+1. [陶晶莹称希望黄子佼好好度过](https://s.weibo.com/weibo?q=%23%E9%99%B6%E6%99%B6%E8%8E%B9%E7%A7%B0%E5%B8%8C%E6%9C%9B%E9%BB%84%E5%AD%90%E4%BD%BC%E5%A5%BD%E5%A5%BD%E5%BA%A6%E8%BF%87%23&t=31&band_rank=17&Refer=top) 269363
+1. [Jennie新剧预告又跳舞了](https://s.weibo.com/weibo?q=%23Jennie%E6%96%B0%E5%89%A7%E9%A2%84%E5%91%8A%E5%8F%88%E8%B7%B3%E8%88%9E%E4%BA%86%23&t=31&band_rank=22&Refer=top) 263075
 1. [国足](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%B6%B3&t=31&band_rank=40&Refer=top) 246813
 1. [倪妮的珍珠首饰](https://s.weibo.com/weibo?q=%E5%80%AA%E5%A6%AE%E7%9A%84%E7%8F%8D%E7%8F%A0%E9%A6%96%E9%A5%B0&t=31&band_rank=36&Refer=top) 244473
 1. [虞书欣王鹤棣 二搭](https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%8E%8B%E9%B9%A4%E6%A3%A3%20%E4%BA%8C%E6%90%AD&t=31&band_rank=41&Refer=top) 235612
@@ -59,6 +61,8 @@
 1. [张踩铃 父与子完全不在一个世界](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%B8%A9%E9%93%83%20%E7%88%B6%E4%B8%8E%E5%AD%90%E5%AE%8C%E5%85%A8%E4%B8%8D%E5%9C%A8%E4%B8%80%E4%B8%AA%E4%B8%96%E7%95%8C&t=31&band_rank=48&Refer=top) 215890
 1. [周雨结婚](https://s.weibo.com/weibo?q=%E5%91%A8%E9%9B%A8%E7%BB%93%E5%A9%9A&t=31&band_rank=49&Refer=top) 214869
 1. [鼠头鸭脖涉事母公司经营700多个高校食堂](https://s.weibo.com/weibo?q=%23%E9%BC%A0%E5%A4%B4%E9%B8%AD%E8%84%96%E6%B6%89%E4%BA%8B%E6%AF%8D%E5%85%AC%E5%8F%B8%E7%BB%8F%E8%90%A5700%E5%A4%9A%E4%B8%AA%E9%AB%98%E6%A0%A1%E9%A3%9F%E5%A0%82%23&t=31&band_rank=50&Refer=top) 213549
+1. [上帝要开空调了](https://s.weibo.com/weibo?q=%E4%B8%8A%E5%B8%9D%E8%A6%81%E5%BC%80%E7%A9%BA%E8%B0%83%E4%BA%86&t=31&band_rank=35&Refer=top) 190915
+1. [你太用力了所以走不远](https://s.weibo.com/weibo?q=%E4%BD%A0%E5%A4%AA%E7%94%A8%E5%8A%9B%E4%BA%86%E6%89%80%E4%BB%A5%E8%B5%B0%E4%B8%8D%E8%BF%9C&t=31&band_rank=49&Refer=top) 175044
 1. [女子酒后落水消防民警深夜合力救人](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%85%92%E5%90%8E%E8%90%BD%E6%B0%B4%E6%B6%88%E9%98%B2%E6%B0%91%E8%AD%A6%E6%B7%B1%E5%A4%9C%E5%90%88%E5%8A%9B%E6%95%91%E4%BA%BA%23&t=31&band_rank=50&Refer=top) 170713
 <!-- END -->
 
