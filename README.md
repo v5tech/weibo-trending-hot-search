@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-06-20 01:08:59.502633 
+最后更新时间 2023-06-20 01:24:19.271887 
 1. [你现在网购还常用淘宝吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%8E%B0%E5%9C%A8%E7%BD%91%E8%B4%AD%E8%BF%98%E5%B8%B8%E7%94%A8%E6%B7%98%E5%AE%9D%E5%90%97%23&t=31&band_rank=1&Refer=top) 1415692
 1. [朱一龙爸爸](https://s.weibo.com/weibo?q=%E6%9C%B1%E4%B8%80%E9%BE%99%E7%88%B8%E7%88%B8&t=31&band_rank=2&Refer=top) 1011306
 1. [杭州亚运奖牌上的湖山长什么样](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E5%A5%96%E7%89%8C%E4%B8%8A%E7%9A%84%E6%B9%96%E5%B1%B1%E9%95%BF%E4%BB%80%E4%B9%88%E6%A0%B7%23&t=31&band_rank=3&Refer=top) 802609
@@ -64,6 +64,7 @@
 1. [上帝要开空调了](https://s.weibo.com/weibo?q=%E4%B8%8A%E5%B8%9D%E8%A6%81%E5%BC%80%E7%A9%BA%E8%B0%83%E4%BA%86&t=31&band_rank=35&Refer=top) 190915
 1. [你太用力了所以走不远](https://s.weibo.com/weibo?q=%E4%BD%A0%E5%A4%AA%E7%94%A8%E5%8A%9B%E4%BA%86%E6%89%80%E4%BB%A5%E8%B5%B0%E4%B8%8D%E8%BF%9C&t=31&band_rank=49&Refer=top) 175044
 1. [女子酒后落水消防民警深夜合力救人](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%85%92%E5%90%8E%E8%90%BD%E6%B0%B4%E6%B6%88%E9%98%B2%E6%B0%91%E8%AD%A6%E6%B7%B1%E5%A4%9C%E5%90%88%E5%8A%9B%E6%95%91%E4%BA%BA%23&t=31&band_rank=50&Refer=top) 170713
+1. [邓科被吐槽偏心](https://s.weibo.com/weibo?q=%23%E9%82%93%E7%A7%91%E8%A2%AB%E5%90%90%E6%A7%BD%E5%81%8F%E5%BF%83%23&t=31&band_rank=44&Refer=top) 93183
 <!-- END -->
 
 历史归档 [./archives](./archives)
