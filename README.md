@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-06-21 01:09:15.121624 
+最后更新时间 2023-06-21 01:24:33.467449 
 1. [马伯骞问爱马仕是什么](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%BC%AF%E9%AA%9E%E9%97%AE%E7%88%B1%E9%A9%AC%E4%BB%95%E6%98%AF%E4%BB%80%E4%B9%88%23&t=31&band_rank=2&Refer=top) 1163209
 1. [长风渡第9集封神](https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%A3%8E%E6%B8%A1%E7%AC%AC9%E9%9B%86%E5%B0%81%E7%A5%9E%23&t=31&band_rank=1&Refer=top) 1070126
 1. [我国自研视景系统首次试飞成功](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E8%87%AA%E7%A0%94%E8%A7%86%E6%99%AF%E7%B3%BB%E7%BB%9F%E9%A6%96%E6%AC%A1%E8%AF%95%E9%A3%9E%E6%88%90%E5%8A%9F%23&t=31&band_rank=3&Refer=top) 897872
@@ -29,6 +29,7 @@
 1. [炎亚纶评论了崔秀彬ins](https://s.weibo.com/weibo?q=%23%E7%82%8E%E4%BA%9A%E7%BA%B6%E8%AF%84%E8%AE%BA%E4%BA%86%E5%B4%94%E7%A7%80%E5%BD%ACins%23&t=31&band_rank=17&Refer=top) 409118
 1. [已经be但又很火的cp](https://s.weibo.com/weibo?q=%23%E5%B7%B2%E7%BB%8Fbe%E4%BD%86%E5%8F%88%E5%BE%88%E7%81%AB%E7%9A%84cp%23&t=31&band_rank=18&Refer=top) 403767
 1. [突然摆烂的小熊猫](https://s.weibo.com/weibo?q=%E7%AA%81%E7%84%B6%E6%91%86%E7%83%82%E7%9A%84%E5%B0%8F%E7%86%8A%E7%8C%AB&t=31&band_rank=25&Refer=top) 401176
+1. [马伯骞才是全剧最不尴尬的人](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%BC%AF%E9%AA%9E%E6%89%8D%E6%98%AF%E5%85%A8%E5%89%A7%E6%9C%80%E4%B8%8D%E5%B0%B4%E5%B0%AC%E7%9A%84%E4%BA%BA%23&t=31&band_rank=24&Refer=top) 309785
 1. [什么专业缺女生](https://s.weibo.com/weibo?q=%23%E4%BB%80%E4%B9%88%E4%B8%93%E4%B8%9A%E7%BC%BA%E5%A5%B3%E7%94%9F%23&t=31&band_rank=20&Refer=top) 265557
 1. [今起恢复台湾地区番荔枝输入大陆](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E8%B5%B7%E6%81%A2%E5%A4%8D%E5%8F%B0%E6%B9%BE%E5%9C%B0%E5%8C%BA%E7%95%AA%E8%8D%94%E6%9E%9D%E8%BE%93%E5%85%A5%E5%A4%A7%E9%99%86%23&t=31&band_rank=21&Refer=top) 265185
 1. [朋友圈发什么最让你反感](https://s.weibo.com/weibo?q=%23%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%8F%91%E4%BB%80%E4%B9%88%E6%9C%80%E8%AE%A9%E4%BD%A0%E5%8F%8D%E6%84%9F%23&t=31&band_rank=22&Refer=top) 263137
@@ -45,7 +46,6 @@
 1. [秦岚腰臀比](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E8%85%B0%E8%87%80%E6%AF%94%23&t=31&band_rank=34&Refer=top) 247829
 1. [下班4小时都能做些什么](https://s.weibo.com/weibo?q=%23%E4%B8%8B%E7%8F%AD4%E5%B0%8F%E6%97%B6%E9%83%BD%E8%83%BD%E5%81%9A%E4%BA%9B%E4%BB%80%E4%B9%88%23&t=31&band_rank=35&Refer=top) 242839
 1. [时代少年团T恤造型](https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2T%E6%81%A4%E9%80%A0%E5%9E%8B%23&t=31&band_rank=36&Refer=top) 236725
-1. [马伯骞才是全剧最不尴尬的人](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%BC%AF%E9%AA%9E%E6%89%8D%E6%98%AF%E5%85%A8%E5%89%A7%E6%9C%80%E4%B8%8D%E5%B0%B4%E5%B0%AC%E7%9A%84%E4%BA%BA%23&t=31&band_rank=24&Refer=top) 202971
 1. [在医院ICU住了四年得多少钱](https://s.weibo.com/weibo?q=%E5%9C%A8%E5%8C%BB%E9%99%A2ICU%E4%BD%8F%E4%BA%86%E5%9B%9B%E5%B9%B4%E5%BE%97%E5%A4%9A%E5%B0%91%E9%92%B1&t=31&band_rank=37&Refer=top) 202061
 1. [应届大学生就业重心继续下沉](https://s.weibo.com/weibo?q=%23%E5%BA%94%E5%B1%8A%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%B0%B1%E4%B8%9A%E9%87%8D%E5%BF%83%E7%BB%A7%E7%BB%AD%E4%B8%8B%E6%B2%89%23&t=31&band_rank=38&Refer=top) 197298
 1. [鞠婧祎演我背课文](https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E6%BC%94%E6%88%91%E8%83%8C%E8%AF%BE%E6%96%87%23&t=31&band_rank=42&Refer=top) 191517
