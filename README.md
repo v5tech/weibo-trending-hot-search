@@ -7,11 +7,11 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-06-21 19:24:52.233320 
+最后更新时间 2023-06-21 19:34:18.713138 
 1. [炎亚纶现身邱耀乐记者会](https://s.weibo.com/weibo?q=%23%E7%82%8E%E4%BA%9A%E7%BA%B6%E7%8E%B0%E8%BA%AB%E9%82%B1%E8%80%80%E4%B9%90%E8%AE%B0%E8%80%85%E4%BC%9A%23&t=31&band_rank=1&Refer=top) 14105549
 1. [邱耀乐不接受炎亚纶道歉](https://s.weibo.com/weibo?q=%23%E9%82%B1%E8%80%80%E4%B9%90%E4%B8%8D%E6%8E%A5%E5%8F%97%E7%82%8E%E4%BA%9A%E7%BA%B6%E9%81%93%E6%AD%89%23&t=31&band_rank=4&Refer=top) 12718864
 1. [川大地铁事件涉事学生被留校留党察看](https://s.weibo.com/weibo?q=%23%E5%B7%9D%E5%A4%A7%E5%9C%B0%E9%93%81%E4%BA%8B%E4%BB%B6%E6%B6%89%E4%BA%8B%E5%AD%A6%E7%94%9F%E8%A2%AB%E7%95%99%E6%A0%A1%E7%95%99%E5%85%9A%E5%AF%9F%E7%9C%8B%23&t=31&band_rank=1&Refer=top) 9835285
-1. [警方将侦办炎亚纶事件](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%B0%86%E4%BE%A6%E5%8A%9E%E7%82%8E%E4%BA%9A%E7%BA%B6%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=1&Refer=top) 8303951
+1. [警方将侦办炎亚纶事件](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%B0%86%E4%BE%A6%E5%8A%9E%E7%82%8E%E4%BA%9A%E7%BA%B6%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=1&Refer=top) 9672533
 1. [青岛1米88大长腿交警回应走红](https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B1%E7%B1%B388%E5%A4%A7%E9%95%BF%E8%85%BF%E4%BA%A4%E8%AD%A6%E5%9B%9E%E5%BA%94%E8%B5%B0%E7%BA%A2%23&t=31&band_rank=5&Refer=top) 3958420
 1. [偷偷藏不住作者才20岁](https://s.weibo.com/weibo?q=%23%E5%81%B7%E5%81%B7%E8%97%8F%E4%B8%8D%E4%BD%8F%E4%BD%9C%E8%80%85%E6%89%8D20%E5%B2%81%23&t=31&band_rank=2&Refer=top) 2740252
 1. [90岁老战士与90后飞行员同框](https://s.weibo.com/weibo?q=%2390%E5%B2%81%E8%80%81%E6%88%98%E5%A3%AB%E4%B8%8E90%E5%90%8E%E9%A3%9E%E8%A1%8C%E5%91%98%E5%90%8C%E6%A1%86%23&t=31&band_rank=3&Refer=top) 2418883
@@ -65,24 +65,24 @@
 1. [临死前身体会发生的100种奇怪反应](https://s.weibo.com/weibo?q=%E4%B8%B4%E6%AD%BB%E5%89%8D%E8%BA%AB%E4%BD%93%E4%BC%9A%E5%8F%91%E7%94%9F%E7%9A%84100%E7%A7%8D%E5%A5%87%E6%80%AA%E5%8F%8D%E5%BA%94&t=31&band_rank=32&Refer=top) 690107
 1. [夏至](https://s.weibo.com/weibo?q=%E5%A4%8F%E8%87%B3&t=31&band_rank=1&Refer=top) 676645
 1. [南京已经没有大厂了](https://s.weibo.com/weibo?q=%E5%8D%97%E4%BA%AC%E5%B7%B2%E7%BB%8F%E6%B2%A1%E6%9C%89%E5%A4%A7%E5%8E%82%E4%BA%86&t=31&band_rank=10&Refer=top) 671949
+1. [iG与Beishang解约](https://s.weibo.com/weibo?q=%23iG%E4%B8%8EBeishang%E8%A7%A3%E7%BA%A6%23&t=31&band_rank=35&Refer=top) 667446
 1. [陈情令](https://s.weibo.com/weibo?q=%E9%99%88%E6%83%85%E4%BB%A4&t=31&band_rank=6&Refer=top) 666271
 1. [邱耀乐将开记者会对决炎亚纶](https://s.weibo.com/weibo?q=%23%E9%82%B1%E8%80%80%E4%B9%90%E5%B0%86%E5%BC%80%E8%AE%B0%E8%80%85%E4%BC%9A%E5%AF%B9%E5%86%B3%E7%82%8E%E4%BA%9A%E7%BA%B6%23&t=31&band_rank=11&Refer=top) 644623
 1. [男子捡余额3.7万手机主动还失主](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8D%A1%E4%BD%99%E9%A2%9D3.7%E4%B8%87%E6%89%8B%E6%9C%BA%E4%B8%BB%E5%8A%A8%E8%BF%98%E5%A4%B1%E4%B8%BB%23&t=31&band_rank=9&Refer=top) 636871
 1. [杨颖金靖是一个学校的](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E9%A2%96%E9%87%91%E9%9D%96%E6%98%AF%E4%B8%80%E4%B8%AA%E5%AD%A6%E6%A0%A1%E7%9A%84%23&t=31&band_rank=37&Refer=top) 629826
 1. [韩安冉首次回应四婚](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%AE%89%E5%86%89%E9%A6%96%E6%AC%A1%E5%9B%9E%E5%BA%94%E5%9B%9B%E5%A9%9A%23&t=31&band_rank=16&Refer=top) 627653
 1. [金晨的嘴怎么了](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E7%9A%84%E5%98%B4%E6%80%8E%E4%B9%88%E4%BA%86%23&t=31&band_rank=7&Refer=top) 624176
-1. [iG与Beishang解约](https://s.weibo.com/weibo?q=%23iG%E4%B8%8EBeishang%E8%A7%A3%E7%BA%A6%23&t=31&band_rank=35&Refer=top) 623070
 1. [河南大学](https://s.weibo.com/weibo?q=%E6%B2%B3%E5%8D%97%E5%A4%A7%E5%AD%A6&t=31&band_rank=19&Refer=top) 621905
 1. [河北科技大学](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8C%97%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%23&t=31&band_rank=47&Refer=top) 615638
 1. [女生自费30万拍作品拒绝领三等奖](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E8%87%AA%E8%B4%B930%E4%B8%87%E6%8B%8D%E4%BD%9C%E5%93%81%E6%8B%92%E7%BB%9D%E9%A2%86%E4%B8%89%E7%AD%89%E5%A5%96%23&t=31&band_rank=19&Refer=top) 610182
 1. [鞠婧祎炎亚纶的剧还能播吗](https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E7%82%8E%E4%BA%9A%E7%BA%B6%E7%9A%84%E5%89%A7%E8%BF%98%E8%83%BD%E6%92%AD%E5%90%97%23&t=31&band_rank=13&Refer=top) 606625
 1. [杨和苏 三冠王](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%92%8C%E8%8B%8F%20%E4%B8%89%E5%86%A0%E7%8E%8B&t=31&band_rank=29&Refer=top) 600755
+1. [庆余年导演说演员应该杜绝文盲](https://s.weibo.com/weibo?q=%23%E5%BA%86%E4%BD%99%E5%B9%B4%E5%AF%BC%E6%BC%94%E8%AF%B4%E6%BC%94%E5%91%98%E5%BA%94%E8%AF%A5%E6%9D%9C%E7%BB%9D%E6%96%87%E7%9B%B2%23&t=31&band_rank=11&Refer=top) 587562
 1. [偷偷藏不住受众群体](https://s.weibo.com/weibo?q=%23%E5%81%B7%E5%81%B7%E8%97%8F%E4%B8%8D%E4%BD%8F%E5%8F%97%E4%BC%97%E7%BE%A4%E4%BD%93%23&t=31&band_rank=8&Refer=top) 581191
 1. [架在水上的高铁好似闯入天空之镜](https://s.weibo.com/weibo?q=%23%E6%9E%B6%E5%9C%A8%E6%B0%B4%E4%B8%8A%E7%9A%84%E9%AB%98%E9%93%81%E5%A5%BD%E4%BC%BC%E9%97%AF%E5%85%A5%E5%A4%A9%E7%A9%BA%E4%B9%8B%E9%95%9C%23&t=31&band_rank=15&Refer=top) 580934
 1. [优酷2023现偶天花板](https://s.weibo.com/weibo?q=%23%E4%BC%98%E9%85%B72023%E7%8E%B0%E5%81%B6%E5%A4%A9%E8%8A%B1%E6%9D%BF%23&t=31&band_rank=43&Refer=top) 577993
 1. [炎亚纶邱耀乐曾经的聊天记录](https://s.weibo.com/weibo?q=%23%E7%82%8E%E4%BA%9A%E7%BA%B6%E9%82%B1%E8%80%80%E4%B9%90%E6%9B%BE%E7%BB%8F%E7%9A%84%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%23&t=31&band_rank=27&Refer=top) 577846
 1. [6岁男孩成世界最年轻魔方大师](https://s.weibo.com/weibo?q=%236%E5%B2%81%E7%94%B7%E5%AD%A9%E6%88%90%E4%B8%96%E7%95%8C%E6%9C%80%E5%B9%B4%E8%BD%BB%E9%AD%94%E6%96%B9%E5%A4%A7%E5%B8%88%23&t=31&band_rank=15&Refer=top) 576336
-1. [庆余年导演说演员应该杜绝文盲](https://s.weibo.com/weibo?q=%23%E5%BA%86%E4%BD%99%E5%B9%B4%E5%AF%BC%E6%BC%94%E8%AF%B4%E6%BC%94%E5%91%98%E5%BA%94%E8%AF%A5%E6%9D%9C%E7%BB%9D%E6%96%87%E7%9B%B2%23&t=31&band_rank=11&Refer=top) 561588
 1. [林俊杰白敬亭王嘉尔苏翊鸣同框](https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E7%99%BD%E6%95%AC%E4%BA%AD%E7%8E%8B%E5%98%89%E5%B0%94%E8%8B%8F%E7%BF%8A%E9%B8%A3%E5%90%8C%E6%A1%86%23&t=31&band_rank=10&Refer=top) 554169
 1. [一席之地 冠军](https://s.weibo.com/weibo?q=%E4%B8%80%E5%B8%AD%E4%B9%8B%E5%9C%B0%20%E5%86%A0%E5%86%9B&t=31&band_rank=9&Refer=top) 543440
 1. [竹已](https://s.weibo.com/weibo?q=%E7%AB%B9%E5%B7%B2&t=31&band_rank=39&Refer=top) 533659
@@ -257,6 +257,7 @@
 1. [女子地铁站怒喊大叔猥亵阿姨](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9C%B0%E9%93%81%E7%AB%99%E6%80%92%E5%96%8A%E5%A4%A7%E5%8F%94%E7%8C%A5%E4%BA%B5%E9%98%BF%E5%A7%A8%23&t=31&band_rank=48&Refer=top) 189655
 1. [乘客地铁内晕倒众人联手施救](https://s.weibo.com/weibo?q=%23%E4%B9%98%E5%AE%A2%E5%9C%B0%E9%93%81%E5%86%85%E6%99%95%E5%80%92%E4%BC%97%E4%BA%BA%E8%81%94%E6%89%8B%E6%96%BD%E6%95%91%23&t=31&band_rank=48&Refer=top) 189374
 1. [你的负面情绪是在反应你的需求](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%9A%84%E8%B4%9F%E9%9D%A2%E6%83%85%E7%BB%AA%E6%98%AF%E5%9C%A8%E5%8F%8D%E5%BA%94%E4%BD%A0%E7%9A%84%E9%9C%80%E6%B1%82%23&t=31&band_rank=48&Refer=top) 188491
+1. [有多久没和爸妈出去旅游了](https://s.weibo.com/weibo?q=%23%E6%9C%89%E5%A4%9A%E4%B9%85%E6%B2%A1%E5%92%8C%E7%88%B8%E5%A6%88%E5%87%BA%E5%8E%BB%E6%97%85%E6%B8%B8%E4%BA%86%23&t=31&band_rank=43&Refer=top) 186946
 1. [张杰演唱会深圳长沙站官宣](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%E6%B7%B1%E5%9C%B3%E9%95%BF%E6%B2%99%E7%AB%99%E5%AE%98%E5%AE%A3%23&t=31&band_rank=45&Refer=top) 186925
 1. [短短几天被救三次的麋鹿](https://s.weibo.com/weibo?q=%E7%9F%AD%E7%9F%AD%E5%87%A0%E5%A4%A9%E8%A2%AB%E6%95%91%E4%B8%89%E6%AC%A1%E7%9A%84%E9%BA%8B%E9%B9%BF&t=31&band_rank=48&Refer=top) 186589
 1. [孙怡地铁拍照](https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%80%A1%E5%9C%B0%E9%93%81%E6%8B%8D%E7%85%A7%23&t=31&band_rank=28&Refer=top) 185572
@@ -304,6 +305,7 @@
 1. [染头发染出凶案现场](https://s.weibo.com/weibo?q=%23%E6%9F%93%E5%A4%B4%E5%8F%91%E6%9F%93%E5%87%BA%E5%87%B6%E6%A1%88%E7%8E%B0%E5%9C%BA%23&t=31&band_rank=49&Refer=top) 152175
 1. [现在的无人机表演真的太帅了](https://s.weibo.com/weibo?q=%E7%8E%B0%E5%9C%A8%E7%9A%84%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%A1%A8%E6%BC%94%E7%9C%9F%E7%9A%84%E5%A4%AA%E5%B8%85%E4%BA%86&t=31&band_rank=50&Refer=top) 151821
 1. [迪士尼回应暴雨天能否退票](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%9B%9E%E5%BA%94%E6%9A%B4%E9%9B%A8%E5%A4%A9%E8%83%BD%E5%90%A6%E9%80%80%E7%A5%A8%23&t=31&band_rank=50&Refer=top) 151718
+1. [WBG对战TT](https://s.weibo.com/weibo?q=%23WBG%E5%AF%B9%E6%88%98TT%23&t=31&band_rank=49&Refer=top) 151081
 1. [日向翔阳](https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%90%91%E7%BF%94%E9%98%B3%23&t=31&band_rank=50&Refer=top) 143584
 1. [你会选择回县城考公考编吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%BC%9A%E9%80%89%E6%8B%A9%E5%9B%9E%E5%8E%BF%E5%9F%8E%E8%80%83%E5%85%AC%E8%80%83%E7%BC%96%E5%90%97%23&t=31&band_rank=31&Refer=top) 140737
 1. [如何看待明星博同情式道歉](https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E6%98%8E%E6%98%9F%E5%8D%9A%E5%90%8C%E6%83%85%E5%BC%8F%E9%81%93%E6%AD%89%23&t=31&band_rank=37&Refer=top) 133102
