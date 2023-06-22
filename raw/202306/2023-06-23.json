@@ -175,6 +175,10 @@
     "url": "https://s.weibo.com/weibo?q=%E8%9B%8B%E7%B3%95%E5%B8%88%E6%8E%A5%E4%BA%86%E4%B8%80%E4%B8%AA%E7%A1%AC%E6%B4%BB&t=31&band_rank=43&Refer=top",
     "hot": 193602
   },
+  "当你的儿子正处于叛逆期时": {
+    "url": "https://s.weibo.com/weibo?q=%E5%BD%93%E4%BD%A0%E7%9A%84%E5%84%BF%E5%AD%90%E6%AD%A3%E5%A4%84%E4%BA%8E%E5%8F%9B%E9%80%86%E6%9C%9F%E6%97%B6&t=31&band_rank=50&Refer=top",
+    "hot": 190844
+  },
   "Uzi4杀 RNG拿下比赛": {
     "url": "https://s.weibo.com/weibo?q=Uzi4%E6%9D%80%20RNG%E6%8B%BF%E4%B8%8B%E6%AF%94%E8%B5%9B&t=31&band_rank=44&Refer=top",
     "hot": 184974
@@ -195,10 +199,6 @@
     "url": "https://s.weibo.com/weibo?q=%E7%99%BD%E7%8E%89%E5%85%B0%E6%8F%90%E5%90%8D%E9%85%92%E4%BC%9A&t=31&band_rank=48&Refer=top",
     "hot": 171633
   },
-  "当你的儿子正处于叛逆期时": {
-    "url": "https://s.weibo.com/weibo?q=%E5%BD%93%E4%BD%A0%E7%9A%84%E5%84%BF%E5%AD%90%E6%AD%A3%E5%A4%84%E4%BA%8E%E5%8F%9B%E9%80%86%E6%9C%9F%E6%97%B6&t=31&band_rank=50&Refer=top",
-    "hot": 167951
-  },
   "EDG教练在干嘛": {
     "url": "https://s.weibo.com/weibo?q=EDG%E6%95%99%E7%BB%83%E5%9C%A8%E5%B9%B2%E5%98%9B&t=31&band_rank=49&Refer=top",
     "hot": 167483
@@ -215,8 +215,12 @@
     "url": "https://s.weibo.com/weibo?q=%E6%84%8F%E5%A4%96%E7%9A%84%E6%94%B6%E8%8E%B7&t=31&band_rank=50&Refer=top",
     "hot": 93429
   },
+  "这熊有点虎 这虎有点熊": {
+    "url": "https://s.weibo.com/weibo?q=%E8%BF%99%E7%86%8A%E6%9C%89%E7%82%B9%E8%99%8E%20%E8%BF%99%E8%99%8E%E6%9C%89%E7%82%B9%E7%86%8A&t=31&band_rank=48&Refer=top",
+    "hot": 77536
+  },
   "张陆让 你小子真的很会": {
     "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E9%99%86%E8%AE%A9%20%E4%BD%A0%E5%B0%8F%E5%AD%90%E7%9C%9F%E7%9A%84%E5%BE%88%E4%BC%9A&t=31&band_rank=50&Refer=top",
-    "hot": 76914
+    "hot": 77335
   }
 }
