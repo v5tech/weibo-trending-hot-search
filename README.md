@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-06-23 07:12:26.600777 
+最后更新时间 2023-06-23 07:27:13.331336 
 1. [成都UFO](https://s.weibo.com/weibo?q=%E6%88%90%E9%83%BDUFO&t=31&band_rank=1&Refer=top) 3955810
 1. [高考查分](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86&t=31&band_rank=2&Refer=top) 2909144
 1. [氧气耗尽泰坦号内5人还有生还可能吗](https://s.weibo.com/weibo?q=%23%E6%B0%A7%E6%B0%94%E8%80%97%E5%B0%BD%E6%B3%B0%E5%9D%A6%E5%8F%B7%E5%86%855%E4%BA%BA%E8%BF%98%E6%9C%89%E7%94%9F%E8%BF%98%E5%8F%AF%E8%83%BD%E5%90%97%23&t=31&band_rank=21&Refer=top) 1563443
@@ -50,6 +50,8 @@
 1. [江苏今年已有102个百万富翁](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E4%BB%8A%E5%B9%B4%E5%B7%B2%E6%9C%89102%E4%B8%AA%E7%99%BE%E4%B8%87%E5%AF%8C%E7%BF%81%23&t=31&band_rank=38&Refer=top) 220554
 1. [虞书欣立体花朵黑裙造型](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%AB%8B%E4%BD%93%E8%8A%B1%E6%9C%B5%E9%BB%91%E8%A3%99%E9%80%A0%E5%9E%8B%23&t=31&band_rank=39&Refer=top) 218909
 1. [换个人吻就算工伤](https://s.weibo.com/weibo?q=%23%E6%8D%A2%E4%B8%AA%E4%BA%BA%E5%90%BB%E5%B0%B1%E7%AE%97%E5%B7%A5%E4%BC%A4%23&t=31&band_rank=40&Refer=top) 209272
+1. [保罗被交易至勇士](https://s.weibo.com/weibo?q=%23%E4%BF%9D%E7%BD%97%E8%A2%AB%E4%BA%A4%E6%98%93%E8%87%B3%E5%8B%87%E5%A3%AB%23&t=31&band_rank=12&Refer=top) 202972
+1. [泰坦号](https://s.weibo.com/weibo?q=%E6%B3%B0%E5%9D%A6%E5%8F%B7&t=31&band_rank=13&Refer=top) 202178
 1. [华晨宇演唱会](https://s.weibo.com/weibo?q=%E5%8D%8E%E6%99%A8%E5%AE%87%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=41&Refer=top) 199517
 1. [消失的她结局](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%BB%93%E5%B1%80&t=31&band_rank=42&Refer=top) 195408
 1. [蛋糕师接了一个硬活](https://s.weibo.com/weibo?q=%E8%9B%8B%E7%B3%95%E5%B8%88%E6%8E%A5%E4%BA%86%E4%B8%80%E4%B8%AA%E7%A1%AC%E6%B4%BB&t=31&band_rank=43&Refer=top) 193602
@@ -60,17 +62,18 @@
 1. [白玉兰提名酒会](https://s.weibo.com/weibo?q=%E7%99%BD%E7%8E%89%E5%85%B0%E6%8F%90%E5%90%8D%E9%85%92%E4%BC%9A&t=31&band_rank=48&Refer=top) 171633
 1. [EDG教练在干嘛](https://s.weibo.com/weibo?q=EDG%E6%95%99%E7%BB%83%E5%9C%A8%E5%B9%B2%E5%98%9B&t=31&band_rank=49&Refer=top) 167483
 1. [赵露思马伯骞直播也能吵起来](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E9%A9%AC%E4%BC%AF%E9%AA%9E%E7%9B%B4%E6%92%AD%E4%B9%9F%E8%83%BD%E5%90%B5%E8%B5%B7%E6%9D%A5%23&t=31&band_rank=48&Refer=top) 147385
+1. [江苏明确电力紧张时酒店超市等空调不应低于27度](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E6%98%8E%E7%A1%AE%E7%94%B5%E5%8A%9B%E7%B4%A7%E5%BC%A0%E6%97%B6%E9%85%92%E5%BA%97%E8%B6%85%E5%B8%82%E7%AD%89%E7%A9%BA%E8%B0%83%E4%B8%8D%E5%BA%94%E4%BD%8E%E4%BA%8E27%E5%BA%A6%23&t=31&band_rank=28&Refer=top) 140741
+1. [MOMO](https://s.weibo.com/weibo?q=MOMO&t=31&band_rank=29&Refer=top) 133473
 1. [林志炫演唱会](https://s.weibo.com/weibo?q=%E6%9E%97%E5%BF%97%E7%82%AB%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=47&Refer=top) 102411
 1. [意外的收获](https://s.weibo.com/weibo?q=%E6%84%8F%E5%A4%96%E7%9A%84%E6%94%B6%E8%8E%B7&t=31&band_rank=50&Refer=top) 93429
-1. [江苏明确电力紧张时酒店超市等空调不应低于27度](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E6%98%8E%E7%A1%AE%E7%94%B5%E5%8A%9B%E7%B4%A7%E5%BC%A0%E6%97%B6%E9%85%92%E5%BA%97%E8%B6%85%E5%B8%82%E7%AD%89%E7%A9%BA%E8%B0%83%E4%B8%8D%E5%BA%94%E4%BD%8E%E4%BA%8E27%E5%BA%A6%23&t=31&band_rank=28&Refer=top) 88580
+1. [粉色书包里装着一个父亲沉甸甸的生活](https://s.weibo.com/weibo?q=%E7%B2%89%E8%89%B2%E4%B9%A6%E5%8C%85%E9%87%8C%E8%A3%85%E7%9D%80%E4%B8%80%E4%B8%AA%E7%88%B6%E4%BA%B2%E6%B2%89%E7%94%B8%E7%94%B8%E7%9A%84%E7%94%9F%E6%B4%BB&t=31&band_rank=46&Refer=top) 82760
+1. [许凯娜扎直播好像在打视频](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%87%AF%E5%A8%9C%E6%89%8E%E7%9B%B4%E6%92%AD%E5%A5%BD%E5%83%8F%E5%9C%A8%E6%89%93%E8%A7%86%E9%A2%91%23&t=31&band_rank=47&Refer=top) 79854
 1. [消失的她路演](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E8%B7%AF%E6%BC%94&t=31&band_rank=39&Refer=top) 79753
 1. [这熊有点虎 这虎有点熊](https://s.weibo.com/weibo?q=%E8%BF%99%E7%86%8A%E6%9C%89%E7%82%B9%E8%99%8E%20%E8%BF%99%E8%99%8E%E6%9C%89%E7%82%B9%E7%86%8A&t=31&band_rank=48&Refer=top) 77536
 1. [张陆让 你小子真的很会](https://s.weibo.com/weibo?q=%E5%BC%A0%E9%99%86%E8%AE%A9%20%E4%BD%A0%E5%B0%8F%E5%AD%90%E7%9C%9F%E7%9A%84%E5%BE%88%E4%BC%9A&t=31&band_rank=50&Refer=top) 77335
-1. [MOMO](https://s.weibo.com/weibo?q=MOMO&t=31&band_rank=29&Refer=top) 77130
-1. [粉色书包里装着一个父亲沉甸甸的生活](https://s.weibo.com/weibo?q=%E7%B2%89%E8%89%B2%E4%B9%A6%E5%8C%85%E9%87%8C%E8%A3%85%E7%9D%80%E4%B8%80%E4%B8%AA%E7%88%B6%E4%BA%B2%E6%B2%89%E7%94%B8%E7%94%B8%E7%9A%84%E7%94%9F%E6%B4%BB&t=31&band_rank=46&Refer=top) 75477
 1. [烧烤店爆炸致31人死亡银川市长鞠躬道歉](https://s.weibo.com/weibo?q=%23%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E8%87%B431%E4%BA%BA%E6%AD%BB%E4%BA%A1%E9%93%B6%E5%B7%9D%E5%B8%82%E9%95%BF%E9%9E%A0%E8%BA%AC%E9%81%93%E6%AD%89%23&t=31&band_rank=50&Refer=top) 74853
-1. [华晨宇长沙演唱会再现红衣少年](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E9%95%BF%E6%B2%99%E6%BC%94%E5%94%B1%E4%BC%9A%E5%86%8D%E7%8E%B0%E7%BA%A2%E8%A1%A3%E5%B0%91%E5%B9%B4%23&t=31&band_rank=38&Refer=top) 70751
-1. [许凯娜扎直播好像在打视频](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%87%AF%E5%A8%9C%E6%89%8E%E7%9B%B4%E6%92%AD%E5%A5%BD%E5%83%8F%E5%9C%A8%E6%89%93%E8%A7%86%E9%A2%91%23&t=31&band_rank=47&Refer=top) 62109
+1. [华晨宇长沙演唱会再现红衣少年](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E9%95%BF%E6%B2%99%E6%BC%94%E5%94%B1%E4%BC%9A%E5%86%8D%E7%8E%B0%E7%BA%A2%E8%A1%A3%E5%B0%91%E5%B9%B4%23&t=31&band_rank=38&Refer=top) 71511
+1. [五月天武汉](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%E6%AD%A6%E6%B1%89&t=31&band_rank=47&Refer=top) 53677
 1. [秦岚真的有马甲线](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E7%9C%9F%E7%9A%84%E6%9C%89%E9%A9%AC%E7%94%B2%E7%BA%BF%23&t=31&band_rank=50&Refer=top) 51887
 1. [银川多家餐饮店使用液化气罐](https://s.weibo.com/weibo?q=%23%E9%93%B6%E5%B7%9D%E5%A4%9A%E5%AE%B6%E9%A4%90%E9%A5%AE%E5%BA%97%E4%BD%BF%E7%94%A8%E6%B6%B2%E5%8C%96%E6%B0%94%E7%BD%90%23&t=31&band_rank=50&Refer=top) 39913
 1. [宋佳风雨云剧照](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BD%B3%E9%A3%8E%E9%9B%A8%E4%BA%91%E5%89%A7%E7%85%A7%23&t=31&band_rank=49&Refer=top) 29313
