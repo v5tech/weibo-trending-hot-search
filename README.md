@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-06-23 05:48:59.275118 
+最后更新时间 2023-06-23 06:11:05.712978 
 1. [成都UFO](https://s.weibo.com/weibo?q=%E6%88%90%E9%83%BDUFO&t=31&band_rank=1&Refer=top) 3955810
 1. [高考查分](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86&t=31&band_rank=2&Refer=top) 2909144
 1. [氧气耗尽泰坦号内5人还有生还可能吗](https://s.weibo.com/weibo?q=%23%E6%B0%A7%E6%B0%94%E8%80%97%E5%B0%BD%E6%B3%B0%E5%9D%A6%E5%8F%B7%E5%86%855%E4%BA%BA%E8%BF%98%E6%9C%89%E7%94%9F%E8%BF%98%E5%8F%AF%E8%83%BD%E5%90%97%23&t=31&band_rank=21&Refer=top) 1563443
@@ -66,9 +66,9 @@
 1. [这熊有点虎 这虎有点熊](https://s.weibo.com/weibo?q=%E8%BF%99%E7%86%8A%E6%9C%89%E7%82%B9%E8%99%8E%20%E8%BF%99%E8%99%8E%E6%9C%89%E7%82%B9%E7%86%8A&t=31&band_rank=48&Refer=top) 77536
 1. [张陆让 你小子真的很会](https://s.weibo.com/weibo?q=%E5%BC%A0%E9%99%86%E8%AE%A9%20%E4%BD%A0%E5%B0%8F%E5%AD%90%E7%9C%9F%E7%9A%84%E5%BE%88%E4%BC%9A&t=31&band_rank=50&Refer=top) 77335
 1. [烧烤店爆炸致31人死亡银川市长鞠躬道歉](https://s.weibo.com/weibo?q=%23%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E8%87%B431%E4%BA%BA%E6%AD%BB%E4%BA%A1%E9%93%B6%E5%B7%9D%E5%B8%82%E9%95%BF%E9%9E%A0%E8%BA%AC%E9%81%93%E6%AD%89%23&t=31&band_rank=50&Refer=top) 44643
+1. [华晨宇长沙演唱会再现红衣少年](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E9%95%BF%E6%B2%99%E6%BC%94%E5%94%B1%E4%BC%9A%E5%86%8D%E7%8E%B0%E7%BA%A2%E8%A1%A3%E5%B0%91%E5%B9%B4%23&t=31&band_rank=38&Refer=top) 43871
 1. [银川多家餐饮店使用液化气罐](https://s.weibo.com/weibo?q=%23%E9%93%B6%E5%B7%9D%E5%A4%9A%E5%AE%B6%E9%A4%90%E9%A5%AE%E5%BA%97%E4%BD%BF%E7%94%A8%E6%B6%B2%E5%8C%96%E6%B0%94%E7%BD%90%23&t=31&band_rank=50&Refer=top) 39913
-1. [华晨宇长沙演唱会再现红衣少年](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E9%95%BF%E6%B2%99%E6%BC%94%E5%94%B1%E4%BC%9A%E5%86%8D%E7%8E%B0%E7%BA%A2%E8%A1%A3%E5%B0%91%E5%B9%B4%23&t=31&band_rank=38&Refer=top) 35348
-1. [许凯娜扎直播好像在打视频](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%87%AF%E5%A8%9C%E6%89%8E%E7%9B%B4%E6%92%AD%E5%A5%BD%E5%83%8F%E5%9C%A8%E6%89%93%E8%A7%86%E9%A2%91%23&t=31&band_rank=47&Refer=top) 29494
+1. [许凯娜扎直播好像在打视频](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%87%AF%E5%A8%9C%E6%89%8E%E7%9B%B4%E6%92%AD%E5%A5%BD%E5%83%8F%E5%9C%A8%E6%89%93%E8%A7%86%E9%A2%91%23&t=31&band_rank=47&Refer=top) 32605
 1. [宋佳风雨云剧照](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BD%B3%E9%A3%8E%E9%9B%A8%E4%BA%91%E5%89%A7%E7%85%A7%23&t=31&band_rank=49&Refer=top) 29313
 1. [秦岚真的有马甲线](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E7%9C%9F%E7%9A%84%E6%9C%89%E9%A9%AC%E7%94%B2%E7%BA%BF%23&t=31&band_rank=50&Refer=top) 29303
 <!-- END -->
