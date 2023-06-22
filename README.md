@@ -7,19 +7,20 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-06-23 00:29:10.582349 
+最后更新时间 2023-06-23 01:08:54.347281 
 1. [成都UFO](https://s.weibo.com/weibo?q=%E6%88%90%E9%83%BDUFO&t=31&band_rank=1&Refer=top) 3955810
 1. [高考查分](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86&t=31&band_rank=2&Refer=top) 2909144
+1. [氧气耗尽泰坦号内5人还有生还可能吗](https://s.weibo.com/weibo?q=%23%E6%B0%A7%E6%B0%94%E8%80%97%E5%B0%BD%E6%B3%B0%E5%9D%A6%E5%8F%B7%E5%86%855%E4%BA%BA%E8%BF%98%E6%9C%89%E7%94%9F%E8%BF%98%E5%8F%AF%E8%83%BD%E5%90%97%23&t=31&band_rank=21&Refer=top) 1563443
 1. [端午节习俗图鉴](https://s.weibo.com/weibo?q=%23%E7%AB%AF%E5%8D%88%E8%8A%82%E4%B9%A0%E4%BF%97%E5%9B%BE%E9%89%B4%23&t=31&band_rank=3&Refer=top) 1554176
 1. [2023好声音导师官宣](https://s.weibo.com/weibo?q=%232023%E5%A5%BD%E5%A3%B0%E9%9F%B3%E5%AF%BC%E5%B8%88%E5%AE%98%E5%AE%A3%23&t=31&band_rank=4&Refer=top) 1289736
+1. [龙舟漂移有多酷炫](https://s.weibo.com/weibo?q=%23%E9%BE%99%E8%88%9F%E6%BC%82%E7%A7%BB%E6%9C%89%E5%A4%9A%E9%85%B7%E7%82%AB%23&t=31&band_rank=3&Refer=top) 1254620
 1. [消失的她票房](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E7%A5%A8%E6%88%BF&t=31&band_rank=6&Refer=top) 1088779
 1. [马伯庸 别人发端午安康我回复端午快乐](https://s.weibo.com/weibo?q=%E9%A9%AC%E4%BC%AF%E5%BA%B8%20%E5%88%AB%E4%BA%BA%E5%8F%91%E7%AB%AF%E5%8D%88%E5%AE%89%E5%BA%B7%E6%88%91%E5%9B%9E%E5%A4%8D%E7%AB%AF%E5%8D%88%E5%BF%AB%E4%B9%90&t=31&band_rank=5&Refer=top) 1070001
-1. [氧气耗尽泰坦号内5人还有生还可能吗](https://s.weibo.com/weibo?q=%23%E6%B0%A7%E6%B0%94%E8%80%97%E5%B0%BD%E6%B3%B0%E5%9D%A6%E5%8F%B7%E5%86%855%E4%BA%BA%E8%BF%98%E6%9C%89%E7%94%9F%E8%BF%98%E5%8F%AF%E8%83%BD%E5%90%97%23&t=31&band_rank=21&Refer=top) 967910
 1. [银川烧烤店爆炸事故伤者家属发声](https://s.weibo.com/weibo?q=%23%E9%93%B6%E5%B7%9D%E7%83%A7%E7%83%A4%E5%BA%97%E7%88%86%E7%82%B8%E4%BA%8B%E6%95%85%E4%BC%A4%E8%80%85%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0%23&t=31&band_rank=11&Refer=top) 945346
 1. [怀孕33周孕妇被2岁儿子开枪打死](https://s.weibo.com/weibo?q=%23%E6%80%80%E5%AD%9533%E5%91%A8%E5%AD%95%E5%A6%87%E8%A2%AB2%E5%B2%81%E5%84%BF%E5%AD%90%E5%BC%80%E6%9E%AA%E6%89%93%E6%AD%BB%23&t=31&band_rank=13&Refer=top) 856146
 1. [辅导员弄丢毕业生学位证书](https://s.weibo.com/weibo?q=%23%E8%BE%85%E5%AF%BC%E5%91%98%E5%BC%84%E4%B8%A2%E6%AF%95%E4%B8%9A%E7%94%9F%E5%AD%A6%E4%BD%8D%E8%AF%81%E4%B9%A6%23&t=31&band_rank=8&Refer=top) 707334
 1. [沙溢长风渡下线](https://s.weibo.com/weibo?q=%23%E6%B2%99%E6%BA%A2%E9%95%BF%E9%A3%8E%E6%B8%A1%E4%B8%8B%E7%BA%BF%23&t=31&band_rank=7&Refer=top) 650164
-1. [专家称泰坦号或已断电进水](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E6%B3%B0%E5%9D%A6%E5%8F%B7%E6%88%96%E5%B7%B2%E6%96%AD%E7%94%B5%E8%BF%9B%E6%B0%B4%23&t=31&band_rank=23&Refer=top) 621523
+1. [专家称泰坦号或已断电进水](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E6%B3%B0%E5%9D%A6%E5%8F%B7%E6%88%96%E5%B7%B2%E6%96%AD%E7%94%B5%E8%BF%9B%E6%B0%B4%23&t=31&band_rank=23&Refer=top) 625185
 1. [顾然是知否里的小顾廷烨](https://s.weibo.com/weibo?q=%23%E9%A1%BE%E7%84%B6%E6%98%AF%E7%9F%A5%E5%90%A6%E9%87%8C%E7%9A%84%E5%B0%8F%E9%A1%BE%E5%BB%B7%E7%83%A8%23&t=31&band_rank=9&Refer=top) 549221
 1. [我爱你 泪流满面](https://s.weibo.com/weibo?q=%E6%88%91%E7%88%B1%E4%BD%A0%20%E6%B3%AA%E6%B5%81%E6%BB%A1%E9%9D%A2&t=31&band_rank=10&Refer=top) 515160
 1. [彭昱畅看完我爱你哭惨了](https://s.weibo.com/weibo?q=%23%E5%BD%AD%E6%98%B1%E7%95%85%E7%9C%8B%E5%AE%8C%E6%88%91%E7%88%B1%E4%BD%A0%E5%93%AD%E6%83%A8%E4%BA%86%23&t=31&band_rank=12&Refer=top) 477031
@@ -59,6 +60,8 @@
 1. [当你的儿子正处于叛逆期时](https://s.weibo.com/weibo?q=%E5%BD%93%E4%BD%A0%E7%9A%84%E5%84%BF%E5%AD%90%E6%AD%A3%E5%A4%84%E4%BA%8E%E5%8F%9B%E9%80%86%E6%9C%9F%E6%97%B6&t=31&band_rank=50&Refer=top) 167951
 1. [EDG教练在干嘛](https://s.weibo.com/weibo?q=EDG%E6%95%99%E7%BB%83%E5%9C%A8%E5%B9%B2%E5%98%9B&t=31&band_rank=49&Refer=top) 167483
 1. [赵露思马伯骞直播也能吵起来](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E9%A9%AC%E4%BC%AF%E9%AA%9E%E7%9B%B4%E6%92%AD%E4%B9%9F%E8%83%BD%E5%90%B5%E8%B5%B7%E6%9D%A5%23&t=31&band_rank=48&Refer=top) 147385
+1. [林志炫演唱会](https://s.weibo.com/weibo?q=%E6%9E%97%E5%BF%97%E7%82%AB%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=47&Refer=top) 102411
+1. [意外的收获](https://s.weibo.com/weibo?q=%E6%84%8F%E5%A4%96%E7%9A%84%E6%94%B6%E8%8E%B7&t=31&band_rank=50&Refer=top) 93429
 <!-- END -->
 
 历史归档 [./archives](./archives)
