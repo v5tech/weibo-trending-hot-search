@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-06-24 04:49:07.639736 
+最后更新时间 2023-06-24 05:10:01.864851 
 1. [大小S宣布起诉葛斯齐](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%B0%8FS%E5%AE%A3%E5%B8%83%E8%B5%B7%E8%AF%89%E8%91%9B%E6%96%AF%E9%BD%90&t=31&band_rank=1&Refer=top) 3038985
 1. [吴越 白玉兰视后](https://s.weibo.com/weibo?q=%E5%90%B4%E8%B6%8A%20%E7%99%BD%E7%8E%89%E5%85%B0%E8%A7%86%E5%90%8E&t=31&band_rank=2&Refer=top) 2459852
 1. [遇到燃气泄漏应该如何处理](https://s.weibo.com/weibo?q=%23%E9%81%87%E5%88%B0%E7%87%83%E6%B0%94%E6%B3%84%E6%BC%8F%E5%BA%94%E8%AF%A5%E5%A6%82%E4%BD%95%E5%A4%84%E7%90%86%23&t=31&band_rank=3&Refer=top) 2066704
@@ -69,7 +69,7 @@
 1. [法老广州ayo音乐节](https://s.weibo.com/weibo?q=%E6%B3%95%E8%80%81%E5%B9%BF%E5%B7%9Eayo%E9%9F%B3%E4%B9%90%E8%8A%82&t=31&band_rank=44&Refer=top) 100504
 1. [消失的她 大变活妻](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%20%E5%A4%A7%E5%8F%98%E6%B4%BB%E5%A6%BB&t=31&band_rank=47&Refer=top) 80826
 1. [高考分数达到预期没](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E8%BE%BE%E5%88%B0%E9%A2%84%E6%9C%9F%E6%B2%A1%23&t=31&band_rank=48&Refer=top) 50013
-1. [2023高考分数线汇总](https://s.weibo.com/weibo?q=%232023%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E6%B1%87%E6%80%BB%23&t=31&band_rank=30&Refer=top) 37007
+1. [2023高考分数线汇总](https://s.weibo.com/weibo?q=%232023%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E6%B1%87%E6%80%BB%23&t=31&band_rank=30&Refer=top) 48243
 <!-- END -->
 
 历史归档 [./archives](./archives)
