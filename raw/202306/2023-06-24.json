@@ -59,6 +59,10 @@
     "url": "https://s.weibo.com/weibo?q=%E5%80%AA%E5%A6%AE%E5%A5%BD%E5%B8%85%E6%88%91%E5%A5%BD%E7%88%B1&t=31&band_rank=18&Refer=top",
     "hot": 660480
   },
+  "全国各地高考分数线汇总": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E5%90%84%E5%9C%B0%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E6%B1%87%E6%80%BB%23&t=31&band_rank=3&Refer=top",
+    "hot": 659914
+  },
   "敬礼娃娃郎铮高考文科637分": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%95%AC%E7%A4%BC%E5%A8%83%E5%A8%83%E9%83%8E%E9%93%AE%E9%AB%98%E8%80%83%E6%96%87%E7%A7%91637%E5%88%86%23&t=31&band_rank=14&Refer=top",
     "hot": 444049
@@ -221,10 +225,14 @@
   },
   "原神散兵": {
     "url": "https://s.weibo.com/weibo?q=%E5%8E%9F%E7%A5%9E%E6%95%A3%E5%85%B5&t=31&band_rank=48&Refer=top",
-    "hot": 106266
+    "hot": 132661
   },
   "法老广州ayo音乐节": {
     "url": "https://s.weibo.com/weibo?q=%E6%B3%95%E8%80%81%E5%B9%BF%E5%B7%9Eayo%E9%9F%B3%E4%B9%90%E8%8A%82&t=31&band_rank=44&Refer=top",
     "hot": 100504
+  },
+  "消失的她 大变活妻": {
+    "url": "https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%20%E5%A4%A7%E5%8F%98%E6%B4%BB%E5%A6%BB&t=31&band_rank=47&Refer=top",
+    "hot": 80826
   }
 }
