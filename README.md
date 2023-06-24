@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-06-25 02:49:06.946889 
+最后更新时间 2023-06-25 03:09:01.646448 
 1. [普京指责瓦格纳负责人叛国](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E6%8C%87%E8%B4%A3%E7%93%A6%E6%A0%BC%E7%BA%B3%E8%B4%9F%E8%B4%A3%E4%BA%BA%E5%8F%9B%E5%9B%BD%23&t=31&band_rank=1&Refer=top) 3990639
 1. [关晓彤去了鹿晗的演唱会](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E5%8E%BB%E4%BA%86%E9%B9%BF%E6%99%97%E7%9A%84%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=2&Refer=top) 1901472
 1. [世界互联网大会数字文明尼山对话](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A%E6%95%B0%E5%AD%97%E6%96%87%E6%98%8E%E5%B0%BC%E5%B1%B1%E5%AF%B9%E8%AF%9D%23&t=31&band_rank=3&Refer=top) 1881162
@@ -53,6 +53,7 @@
 1. [黄新淳追星鹿晗](https://s.weibo.com/weibo?q=%E9%BB%84%E6%96%B0%E6%B7%B3%E8%BF%BD%E6%98%9F%E9%B9%BF%E6%99%97&t=31&band_rank=37&Refer=top) 222404
 1. [弟弟考了640分却开心不起来](https://s.weibo.com/weibo?q=%23%E5%BC%9F%E5%BC%9F%E8%80%83%E4%BA%86640%E5%88%86%E5%8D%B4%E5%BC%80%E5%BF%83%E4%B8%8D%E8%B5%B7%E6%9D%A5%23&t=31&band_rank=38&Refer=top) 220618
 1. [梁家辉说自己保持活力全靠吃虫](https://s.weibo.com/weibo?q=%23%E6%A2%81%E5%AE%B6%E8%BE%89%E8%AF%B4%E8%87%AA%E5%B7%B1%E4%BF%9D%E6%8C%81%E6%B4%BB%E5%8A%9B%E5%85%A8%E9%9D%A0%E5%90%83%E8%99%AB%23&t=31&band_rank=39&Refer=top) 214108
+1. [绍伊古](https://s.weibo.com/weibo?q=%E7%BB%8D%E4%BC%8A%E5%8F%A4&t=31&band_rank=27&Refer=top) 209165
 1. [张杰助阵杨和苏首次演唱会](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E5%8A%A9%E9%98%B5%E6%9D%A8%E5%92%8C%E8%8B%8F%E9%A6%96%E6%AC%A1%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=41&Refer=top) 204901
 1. [河北高考分数](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8C%97%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%23&t=31&band_rank=42&Refer=top) 204177
 1. [普京发表讲话](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E5%8F%91%E8%A1%A8%E8%AE%B2%E8%AF%9D%23&t=31&band_rank=43&Refer=top) 201605
@@ -61,7 +62,6 @@
 1. [朱一龙关姻菩萨](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E5%85%B3%E5%A7%BB%E8%8F%A9%E8%90%A8%23&t=31&band_rank=46&Refer=top) 192580
 1. [陈楚生披荆斩棘](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A5%9A%E7%94%9F%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%23&t=31&band_rank=47&Refer=top) 186958
 1. [BLG战胜WBG](https://s.weibo.com/weibo?q=BLG%E6%88%98%E8%83%9CWBG&t=31&band_rank=48&Refer=top) 178446
-1. [绍伊古](https://s.weibo.com/weibo?q=%E7%BB%8D%E4%BC%8A%E5%8F%A4&t=31&band_rank=27&Refer=top) 173311
 1. [密室爆笑名场面](https://s.weibo.com/weibo?q=%E5%AF%86%E5%AE%A4%E7%88%86%E7%AC%91%E5%90%8D%E5%9C%BA%E9%9D%A2&t=31&band_rank=49&Refer=top) 173044
 1. [第一天上班有特别要注意的事项吗](https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E5%A4%A9%E4%B8%8A%E7%8F%AD%E6%9C%89%E7%89%B9%E5%88%AB%E8%A6%81%E6%B3%A8%E6%84%8F%E7%9A%84%E4%BA%8B%E9%A1%B9%E5%90%97&t=31&band_rank=50&Refer=top) 171154
 1. [普里戈津](https://s.weibo.com/weibo?q=%E6%99%AE%E9%87%8C%E6%88%88%E6%B4%A5&t=31&band_rank=25&Refer=top) 167634
@@ -73,6 +73,7 @@
 1. [鹿晗14年vs23年](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%9714%E5%B9%B4vs23%E5%B9%B4%23&t=31&band_rank=43&Refer=top) 89279
 1. [有演技的流量明星](https://s.weibo.com/weibo?q=%23%E6%9C%89%E6%BC%94%E6%8A%80%E7%9A%84%E6%B5%81%E9%87%8F%E6%98%8E%E6%98%9F%23&t=31&band_rank=47&Refer=top) 71736
 1. [交警大叔父亲式劝慰轻生女子](https://s.weibo.com/weibo?q=%23%E4%BA%A4%E8%AD%A6%E5%A4%A7%E5%8F%94%E7%88%B6%E4%BA%B2%E5%BC%8F%E5%8A%9D%E6%85%B0%E8%BD%BB%E7%94%9F%E5%A5%B3%E5%AD%90%23&t=31&band_rank=48&Refer=top) 67928
+1. [健将plus](https://s.weibo.com/weibo?q=%E5%81%A5%E5%B0%86plus&t=31&band_rank=48&Refer=top) 34475
 <!-- END -->
 
 历史归档 [./archives](./archives)
