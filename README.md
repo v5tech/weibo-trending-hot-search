@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-06-25 02:13:39.138319 
+最后更新时间 2023-06-25 02:31:07.173321 
 1. [普京指责瓦格纳负责人叛国](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E6%8C%87%E8%B4%A3%E7%93%A6%E6%A0%BC%E7%BA%B3%E8%B4%9F%E8%B4%A3%E4%BA%BA%E5%8F%9B%E5%9B%BD%23&t=31&band_rank=1&Refer=top) 3990639
 1. [关晓彤去了鹿晗的演唱会](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E5%8E%BB%E4%BA%86%E9%B9%BF%E6%99%97%E7%9A%84%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=2&Refer=top) 1901472
 1. [世界互联网大会数字文明尼山对话](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A%E6%95%B0%E5%AD%97%E6%96%87%E6%98%8E%E5%B0%BC%E5%B1%B1%E5%AF%B9%E8%AF%9D%23&t=31&band_rank=3&Refer=top) 1881162
@@ -63,12 +63,13 @@
 1. [BLG战胜WBG](https://s.weibo.com/weibo?q=BLG%E6%88%98%E8%83%9CWBG&t=31&band_rank=48&Refer=top) 178446
 1. [密室爆笑名场面](https://s.weibo.com/weibo?q=%E5%AF%86%E5%AE%A4%E7%88%86%E7%AC%91%E5%90%8D%E5%9C%BA%E9%9D%A2&t=31&band_rank=49&Refer=top) 173044
 1. [第一天上班有特别要注意的事项吗](https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E5%A4%A9%E4%B8%8A%E7%8F%AD%E6%9C%89%E7%89%B9%E5%88%AB%E8%A6%81%E6%B3%A8%E6%84%8F%E7%9A%84%E4%BA%8B%E9%A1%B9%E5%90%97&t=31&band_rank=50&Refer=top) 171154
+1. [普里戈津](https://s.weibo.com/weibo?q=%E6%99%AE%E9%87%8C%E6%88%88%E6%B4%A5&t=31&band_rank=25&Refer=top) 167634
 1. [禁毒警拍家庭合照时下意识背过身](https://s.weibo.com/weibo?q=%23%E7%A6%81%E6%AF%92%E8%AD%A6%E6%8B%8D%E5%AE%B6%E5%BA%AD%E5%90%88%E7%85%A7%E6%97%B6%E4%B8%8B%E6%84%8F%E8%AF%86%E8%83%8C%E8%BF%87%E8%BA%AB%23&t=31&band_rank=47&Refer=top) 159065
 1. [90后姑娘传承老爸花式包粽法](https://s.weibo.com/weibo?q=%2390%E5%90%8E%E5%A7%91%E5%A8%98%E4%BC%A0%E6%89%BF%E8%80%81%E7%88%B8%E8%8A%B1%E5%BC%8F%E5%8C%85%E7%B2%BD%E6%B3%95%23&t=31&band_rank=35&Refer=top) 144949
 1. [台媒曝黄子佼下个月复工](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E5%AA%92%E6%9B%9D%E9%BB%84%E5%AD%90%E4%BD%BC%E4%B8%8B%E4%B8%AA%E6%9C%88%E5%A4%8D%E5%B7%A5%23&t=31&band_rank=48&Refer=top) 140603
-1. [普里戈津](https://s.weibo.com/weibo?q=%E6%99%AE%E9%87%8C%E6%88%88%E6%B4%A5&t=31&band_rank=25&Refer=top) 111293
 1. [华晨宇演唱会帮人找孩子](https://s.weibo.com/weibo?q=%E5%8D%8E%E6%99%A8%E5%AE%87%E6%BC%94%E5%94%B1%E4%BC%9A%E5%B8%AE%E4%BA%BA%E6%89%BE%E5%AD%A9%E5%AD%90&t=31&band_rank=45&Refer=top) 107382
 1. [偷偷藏不住](https://s.weibo.com/weibo?q=%E5%81%B7%E5%81%B7%E8%97%8F%E4%B8%8D%E4%BD%8F&t=31&band_rank=49&Refer=top) 93817
+1. [绍伊古](https://s.weibo.com/weibo?q=%E7%BB%8D%E4%BC%8A%E5%8F%A4&t=31&band_rank=27&Refer=top) 92312
 1. [鹿晗14年vs23年](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%9714%E5%B9%B4vs23%E5%B9%B4%23&t=31&band_rank=43&Refer=top) 89279
 1. [有演技的流量明星](https://s.weibo.com/weibo?q=%23%E6%9C%89%E6%BC%94%E6%8A%80%E7%9A%84%E6%B5%81%E9%87%8F%E6%98%8E%E6%98%9F%23&t=31&band_rank=47&Refer=top) 71736
 1. [交警大叔父亲式劝慰轻生女子](https://s.weibo.com/weibo?q=%23%E4%BA%A4%E8%AD%A6%E5%A4%A7%E5%8F%94%E7%88%B6%E4%BA%B2%E5%BC%8F%E5%8A%9D%E6%85%B0%E8%BD%BB%E7%94%9F%E5%A5%B3%E5%AD%90%23&t=31&band_rank=48&Refer=top) 67928
