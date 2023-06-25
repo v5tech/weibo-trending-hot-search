@@ -7,20 +7,20 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-06-26 00:13:57.554250 
+最后更新时间 2023-06-26 00:34:51.935350 
 1. [这些都是野鸡大学](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BA%9B%E9%83%BD%E6%98%AF%E9%87%8E%E9%B8%A1%E5%A4%A7%E5%AD%A6%23&t=31&band_rank=1&Refer=top) 2486459
 1. [四川26岁女孩下网约车后失联](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D26%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%B8%8B%E7%BD%91%E7%BA%A6%E8%BD%A6%E5%90%8E%E5%A4%B1%E8%81%94%23&t=31&band_rank=2&Refer=top) 904287
 1. [世界互联网大会数字文明尼山对话](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A%E6%95%B0%E5%AD%97%E6%96%87%E6%98%8E%E5%B0%BC%E5%B1%B1%E5%AF%B9%E8%AF%9D%23&t=31&band_rank=3&Refer=top) 869642
 1. [消失的她](https://s.weibo.com/weibo?q=%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9&t=31&band_rank=4&Refer=top) 862492
 1. [女孩高考成绩被屏蔽4天小字显示全省前50](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E8%A2%AB%E5%B1%8F%E8%94%BD4%E5%A4%A9%E5%B0%8F%E5%AD%97%E6%98%BE%E7%A4%BA%E5%85%A8%E7%9C%81%E5%89%8D50%23&t=31&band_rank=5&Refer=top) 792441
 1. [中方表示瓦格纳集团事件是俄罗斯内政](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E8%A1%A8%E7%A4%BA%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%9B%86%E5%9B%A2%E4%BA%8B%E4%BB%B6%E6%98%AF%E4%BF%84%E7%BD%97%E6%96%AF%E5%86%85%E6%94%BF%23&t=31&band_rank=6&Refer=top) 687772
+1. [现在的吃播真的令我手足无措](https://s.weibo.com/weibo?q=%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%90%83%E6%92%AD%E7%9C%9F%E7%9A%84%E4%BB%A4%E6%88%91%E6%89%8B%E8%B6%B3%E6%97%A0%E6%8E%AA&t=31&band_rank=13&Refer=top) 564300
 1. [普京称全天候控制特别军事行动进程](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E7%A7%B0%E5%85%A8%E5%A4%A9%E5%80%99%E6%8E%A7%E5%88%B6%E7%89%B9%E5%88%AB%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8%E8%BF%9B%E7%A8%8B%23&t=31&band_rank=7&Refer=top) 534283
 1. [肖战谈自己如何面对各种评论](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%B0%88%E8%87%AA%E5%B7%B1%E5%A6%82%E4%BD%95%E9%9D%A2%E5%AF%B9%E5%90%84%E7%A7%8D%E8%AF%84%E8%AE%BA%23&t=31&band_rank=8&Refer=top) 530969
 1. [EXO回归预告](https://s.weibo.com/weibo?q=EXO%E5%9B%9E%E5%BD%92%E9%A2%84%E5%91%8A&t=31&band_rank=9&Refer=top) 496095
 1. [孟子义27岁素颜状态](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%8927%E5%B2%81%E7%B4%A0%E9%A2%9C%E7%8A%B6%E6%80%81%23&t=31&band_rank=10&Refer=top) 494200
 1. [黄多多17岁穿搭](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%A4%9A%E5%A4%9A17%E5%B2%81%E7%A9%BF%E6%90%AD%23&t=31&band_rank=11&Refer=top) 479389
 1. [黄圣依疑怀3胎](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%9C%A3%E4%BE%9D%E7%96%91%E6%80%803%E8%83%8E%23&t=31&band_rank=12&Refer=top) 479011
-1. [现在的吃播真的令我手足无措](https://s.weibo.com/weibo?q=%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%90%83%E6%92%AD%E7%9C%9F%E7%9A%84%E4%BB%A4%E6%88%91%E6%89%8B%E8%B6%B3%E6%97%A0%E6%8E%AA&t=31&band_rank=13&Refer=top) 478183
 1. [鹿晗的泪钻](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E7%9A%84%E6%B3%AA%E9%92%BB%23&t=31&band_rank=14&Refer=top) 461628
 1. [朱一龙的头为什么是歪的](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E7%9A%84%E5%A4%B4%E4%B8%BA%E4%BB%80%E4%B9%88%E6%98%AF%E6%AD%AA%E7%9A%84%23&t=31&band_rank=15&Refer=top) 446732
 1. [我爱你](https://s.weibo.com/weibo?q=%E6%88%91%E7%88%B1%E4%BD%A0&t=31&band_rank=16&Refer=top) 411481
@@ -48,16 +48,20 @@
 1. [车澈给王传君介绍严浩翔](https://s.weibo.com/weibo?q=%23%E8%BD%A6%E6%BE%88%E7%BB%99%E7%8E%8B%E4%BC%A0%E5%90%9B%E4%BB%8B%E7%BB%8D%E4%B8%A5%E6%B5%A9%E7%BF%94%23&t=31&band_rank=38&Refer=top) 220613
 1. [非洲男友不让我看他身份证](https://s.weibo.com/weibo?q=%23%E9%9D%9E%E6%B4%B2%E7%94%B7%E5%8F%8B%E4%B8%8D%E8%AE%A9%E6%88%91%E7%9C%8B%E4%BB%96%E8%BA%AB%E4%BB%BD%E8%AF%81%23&t=31&band_rank=39&Refer=top) 200881
 1. [博士生毕业后赴新疆任教被校长点名表扬](https://s.weibo.com/weibo?q=%23%E5%8D%9A%E5%A3%AB%E7%94%9F%E6%AF%95%E4%B8%9A%E5%90%8E%E8%B5%B4%E6%96%B0%E7%96%86%E4%BB%BB%E6%95%99%E8%A2%AB%E6%A0%A1%E9%95%BF%E7%82%B9%E5%90%8D%E8%A1%A8%E6%89%AC%23&t=31&band_rank=40&Refer=top) 199915
+1. [亚运会](https://s.weibo.com/weibo?q=%E4%BA%9A%E8%BF%90%E4%BC%9A&t=31&band_rank=31&Refer=top) 182102
+1. [张杰郑州演唱会高光视频](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E9%83%91%E5%B7%9E%E6%BC%94%E5%94%B1%E4%BC%9A%E9%AB%98%E5%85%89%E8%A7%86%E9%A2%91%23&t=31&band_rank=33&Refer=top) 181906
 1. [陈哲远不谈恋爱的原因](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%93%B2%E8%BF%9C%E4%B8%8D%E8%B0%88%E6%81%8B%E7%88%B1%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=41&Refer=top) 174378
+1. [什么东西是全国统一零售价](https://s.weibo.com/weibo?q=%23%E4%BB%80%E4%B9%88%E4%B8%9C%E8%A5%BF%E6%98%AF%E5%85%A8%E5%9B%BD%E7%BB%9F%E4%B8%80%E9%9B%B6%E5%94%AE%E4%BB%B7%23&t=31&band_rank=44&Refer=top) 168220
 1. [外交部回应瓦格纳集团事件](https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%9B%86%E5%9B%A2%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=42&Refer=top) 160387
 1. [现在的假发已经这么真了吗](https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%81%87%E5%8F%91%E5%B7%B2%E7%BB%8F%E8%BF%99%E4%B9%88%E7%9C%9F%E4%BA%86%E5%90%97%23&t=31&band_rank=43&Refer=top) 160146
-1. [什么东西是全国统一零售价](https://s.weibo.com/weibo?q=%23%E4%BB%80%E4%B9%88%E4%B8%9C%E8%A5%BF%E6%98%AF%E5%85%A8%E5%9B%BD%E7%BB%9F%E4%B8%80%E9%9B%B6%E5%94%AE%E4%BB%B7%23&t=31&band_rank=44&Refer=top) 155893
 1. [大宋少年志2播出时间](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AE%8B%E5%B0%91%E5%B9%B4%E5%BF%972%E6%92%AD%E5%87%BA%E6%97%B6%E9%97%B4%23&t=31&band_rank=45&Refer=top) 151362
 1. [分手需要好好告别吗](https://s.weibo.com/weibo?q=%E5%88%86%E6%89%8B%E9%9C%80%E8%A6%81%E5%A5%BD%E5%A5%BD%E5%91%8A%E5%88%AB%E5%90%97&t=31&band_rank=46&Refer=top) 148355
 1. [穆祉丞中考627分](https://s.weibo.com/weibo?q=%23%E7%A9%86%E7%A5%89%E4%B8%9E%E4%B8%AD%E8%80%83627%E5%88%86%23&t=31&band_rank=47&Refer=top) 148038
 1. [长风渡 萨摩耶安慰布偶猫](https://s.weibo.com/weibo?q=%E9%95%BF%E9%A3%8E%E6%B8%A1%20%E8%90%A8%E6%91%A9%E8%80%B6%E5%AE%89%E6%85%B0%E5%B8%83%E5%81%B6%E7%8C%AB&t=31&band_rank=48&Refer=top) 147693
 1. [U19](https://s.weibo.com/weibo?q=U19&t=31&band_rank=49&Refer=top) 144827
 1. [羽生结弦中岛美嘉合影](https://s.weibo.com/weibo?q=%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E4%B8%AD%E5%B2%9B%E7%BE%8E%E5%98%89%E5%90%88%E5%BD%B1&t=31&band_rank=50&Refer=top) 143703
+1. [蔡徐坤泰国演唱会](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E6%B3%B0%E5%9B%BD%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=44&Refer=top) 141228
+1. [孟子义特别好的男生朋友没王鹤棣](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E7%89%B9%E5%88%AB%E5%A5%BD%E7%9A%84%E7%94%B7%E7%94%9F%E6%9C%8B%E5%8F%8B%E6%B2%A1%E7%8E%8B%E9%B9%A4%E6%A3%A3%23&t=31&band_rank=50&Refer=top) 105044
 <!-- END -->
 
 历史归档 [./archives](./archives)
