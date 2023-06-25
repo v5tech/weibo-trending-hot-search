@@ -39,6 +39,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E8%A2%AB%E5%B1%8F%E8%94%BD4%E5%A4%A9%E5%B0%8F%E5%AD%97%E6%98%BE%E7%A4%BA%E5%85%A8%E7%9C%81%E5%89%8D50%23&t=31&band_rank=20&Refer=top",
     "hot": 2506958
   },
+  "这些都是野鸡大学": {
+    "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BA%9B%E9%83%BD%E6%98%AF%E9%87%8E%E9%B8%A1%E5%A4%A7%E5%AD%A6%23&t=31&band_rank=13&Refer=top",
+    "hot": 2396978
+  },
   "学生高考成绩被屏蔽老师激动欢呼": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E8%A2%AB%E5%B1%8F%E8%94%BD%E8%80%81%E5%B8%88%E6%BF%80%E5%8A%A8%E6%AC%A2%E5%91%BC%23&t=31&band_rank=2&Refer=top",
     "hot": 2324793
@@ -94,10 +98,6 @@
   "白敬亭工作室big胆": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%B7%A5%E4%BD%9C%E5%AE%A4big%E8%83%86%23&t=31&band_rank=16&Refer=top",
     "hot": 1719197
-  },
-  "这些都是野鸡大学": {
-    "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BA%9B%E9%83%BD%E6%98%AF%E9%87%8E%E9%B8%A1%E5%A4%A7%E5%AD%A6%23&t=31&band_rank=13&Refer=top",
-    "hot": 1714501
   },
   "711分考生妈妈建议家长不要把全部精力投入孩子": {
     "url": "https://s.weibo.com/weibo?q=%23711%E5%88%86%E8%80%83%E7%94%9F%E5%A6%88%E5%A6%88%E5%BB%BA%E8%AE%AE%E5%AE%B6%E9%95%BF%E4%B8%8D%E8%A6%81%E6%8A%8A%E5%85%A8%E9%83%A8%E7%B2%BE%E5%8A%9B%E6%8A%95%E5%85%A5%E5%AD%A9%E5%AD%90%23&t=31&band_rank=12&Refer=top",
@@ -247,13 +247,13 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%90%E8%87%AA%E7%A7%B0%E4%BF%9D%E5%A7%86%E5%8F%AB%E9%83%AD%E7%A2%A7%E5%A9%B7%E5%A4%A7%E5%B0%8F%E5%A7%90%23&t=31&band_rank=24&Refer=top",
     "hot": 864292
   },
+  "中方表示瓦格纳集团事件是俄罗斯内政": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E8%A1%A8%E7%A4%BA%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%9B%86%E5%9B%A2%E4%BA%8B%E4%BB%B6%E6%98%AF%E4%BF%84%E7%BD%97%E6%96%AF%E5%86%85%E6%94%BF%23&t=31&band_rank=31&Refer=top",
+    "hot": 863910
+  },
   "俄罗斯对瓦格纳组织创始人刑事立案": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E5%AF%B9%E7%93%A6%E6%A0%BC%E7%BA%B3%E7%BB%84%E7%BB%87%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%88%91%E4%BA%8B%E7%AB%8B%E6%A1%88%23&t=31&band_rank=7&Refer=top",
     "hot": 855839
-  },
-  "中方表示瓦格纳集团事件是俄罗斯内政": {
-    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E8%A1%A8%E7%A4%BA%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%9B%86%E5%9B%A2%E4%BA%8B%E4%BB%B6%E6%98%AF%E4%BF%84%E7%BD%97%E6%96%AF%E5%86%85%E6%94%BF%23&t=31&band_rank=31&Refer=top",
-    "hot": 826904
   },
   "父亲去世男孩忍痛高考如愿上岸": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E5%8E%BB%E4%B8%96%E7%94%B7%E5%AD%A9%E5%BF%8D%E7%97%9B%E9%AB%98%E8%80%83%E5%A6%82%E6%84%BF%E4%B8%8A%E5%B2%B8%23&t=31&band_rank=5&Refer=top",
@@ -391,6 +391,10 @@
     "url": "https://s.weibo.com/weibo?q=%E7%BB%8D%E4%BC%8A%E5%8F%A4&t=31&band_rank=27&Refer=top",
     "hot": 604969
   },
+  "EXO回归预告": {
+    "url": "https://s.weibo.com/weibo?q=EXO%E5%9B%9E%E5%BD%92%E9%A2%84%E5%91%8A&t=31&band_rank=26&Refer=top",
+    "hot": 597657
+  },
   "白敬亭宋轶脸颊比心": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6%E8%84%B8%E9%A2%8A%E6%AF%94%E5%BF%83%23&t=31&band_rank=11&Refer=top",
     "hot": 588866
@@ -454,10 +458,6 @@
   "生孩子当天老公发的朋友圈": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%94%9F%E5%AD%A9%E5%AD%90%E5%BD%93%E5%A4%A9%E8%80%81%E5%85%AC%E5%8F%91%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88%23&t=31&band_rank=21&Refer=top",
     "hot": 521606
-  },
-  "EXO回归预告": {
-    "url": "https://s.weibo.com/weibo?q=EXO%E5%9B%9E%E5%BD%92%E9%A2%84%E5%91%8A&t=31&band_rank=26&Refer=top",
-    "hot": 516902
   },
   "香港迪士尼偶遇吴尊一家": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%81%B6%E9%81%87%E5%90%B4%E5%B0%8A%E4%B8%80%E5%AE%B6%23&t=31&band_rank=20&Refer=top",
@@ -915,6 +915,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%BC%94%E5%94%B1%E4%BC%9A%E6%95%A3%E5%9C%BA%E5%90%8E%E6%B2%A1%E6%9C%89%E5%9E%83%E5%9C%BE%23&t=31&band_rank=33&Refer=top",
     "hot": 300969
   },
+  "LNG野辅在干嘛": {
+    "url": "https://s.weibo.com/weibo?q=LNG%E9%87%8E%E8%BE%85%E5%9C%A8%E5%B9%B2%E5%98%9B&t=31&band_rank=39&Refer=top",
+    "hot": 299015
+  },
   "李冬菊 骑行治好了我的抑郁症": {
     "url": "https://s.weibo.com/weibo?q=%E6%9D%8E%E5%86%AC%E8%8F%8A%20%E9%AA%91%E8%A1%8C%E6%B2%BB%E5%A5%BD%E4%BA%86%E6%88%91%E7%9A%84%E6%8A%91%E9%83%81%E7%97%87&t=31&band_rank=32&Refer=top",
     "hot": 298674
@@ -1019,13 +1023,13 @@
     "url": "https://s.weibo.com/weibo?q=%E7%BB%99%E7%8C%AA%E5%96%82%E4%BA%86%E6%B2%A1%E7%94%A8%E5%AE%8C%E7%9A%84%E5%92%B8%E9%B8%AD%E8%9B%8B%E8%9B%8B%E6%B8%85&t=31&band_rank=35&Refer=top",
     "hot": 272259
   },
-  "LNG野辅在干嘛": {
-    "url": "https://s.weibo.com/weibo?q=LNG%E9%87%8E%E8%BE%85%E5%9C%A8%E5%B9%B2%E5%98%9B&t=31&band_rank=39&Refer=top",
-    "hot": 271570
-  },
   "隔周双休凑长假可行吗": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%9A%94%E5%91%A8%E5%8F%8C%E4%BC%91%E5%87%91%E9%95%BF%E5%81%87%E5%8F%AF%E8%A1%8C%E5%90%97%23&t=31&band_rank=42&Refer=top",
     "hot": 271297
+  },
+  "四川26岁女孩下网约车后失联": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D26%E5%B2%81%E5%A5%B3%E5%AD%A9%E4%B8%8B%E7%BD%91%E7%BA%A6%E8%BD%A6%E5%90%8E%E5%A4%B1%E8%81%94%23&t=31&band_rank=29&Refer=top",
+    "hot": 271108
   },
   "北京高考查分": {
     "url": "https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86&t=31&band_rank=38&Refer=top",
@@ -1414,6 +1418,10 @@
   "密室爆笑名场面": {
     "url": "https://s.weibo.com/weibo?q=%E5%AF%86%E5%AE%A4%E7%88%86%E7%AC%91%E5%90%8D%E5%9C%BA%E9%9D%A2&t=31&band_rank=49&Refer=top",
     "hot": 173044
+  },
+  "U19": {
+    "url": "https://s.weibo.com/weibo?q=U19&t=31&band_rank=45&Refer=top",
+    "hot": 172270
   },
   "第一天上班有特别要注意的事项吗": {
     "url": "https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E5%A4%A9%E4%B8%8A%E7%8F%AD%E6%9C%89%E7%89%B9%E5%88%AB%E8%A6%81%E6%B3%A8%E6%84%8F%E7%9A%84%E4%BA%8B%E9%A1%B9%E5%90%97&t=31&band_rank=50&Refer=top",
