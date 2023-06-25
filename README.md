@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-06-26 01:27:02.505512 
+最后更新时间 2023-06-26 01:36:13.697764 
 1. [这些都是野鸡大学](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BA%9B%E9%83%BD%E6%98%AF%E9%87%8E%E9%B8%A1%E5%A4%A7%E5%AD%A6%23&t=31&band_rank=1&Refer=top) 2486459
 1. [亚运会](https://s.weibo.com/weibo?q=%E4%BA%9A%E8%BF%90%E4%BC%9A&t=31&band_rank=31&Refer=top) 1600610
 1. [世界互联网大会数字文明尼山对话](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A%E6%95%B0%E5%AD%97%E6%96%87%E6%98%8E%E5%B0%BC%E5%B1%B1%E5%AF%B9%E8%AF%9D%23&t=31&band_rank=3&Refer=top) 1010556
@@ -56,6 +56,7 @@
 1. [外交部回应瓦格纳集团事件](https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%93%A6%E6%A0%BC%E7%BA%B3%E9%9B%86%E5%9B%A2%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=42&Refer=top) 160387
 1. [现在的假发已经这么真了吗](https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%81%87%E5%8F%91%E5%B7%B2%E7%BB%8F%E8%BF%99%E4%B9%88%E7%9C%9F%E4%BA%86%E5%90%97%23&t=31&band_rank=43&Refer=top) 160146
 1. [大宋少年志2播出时间](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AE%8B%E5%B0%91%E5%B9%B4%E5%BF%972%E6%92%AD%E5%87%BA%E6%97%B6%E9%97%B4%23&t=31&band_rank=45&Refer=top) 151362
+1. [剧说很好看](https://s.weibo.com/weibo?q=%E5%89%A7%E8%AF%B4%E5%BE%88%E5%A5%BD%E7%9C%8B&t=31&band_rank=19&Refer=top) 149492
 1. [分手需要好好告别吗](https://s.weibo.com/weibo?q=%E5%88%86%E6%89%8B%E9%9C%80%E8%A6%81%E5%A5%BD%E5%A5%BD%E5%91%8A%E5%88%AB%E5%90%97&t=31&band_rank=46&Refer=top) 148355
 1. [穆祉丞中考627分](https://s.weibo.com/weibo?q=%23%E7%A9%86%E7%A5%89%E4%B8%9E%E4%B8%AD%E8%80%83627%E5%88%86%23&t=31&band_rank=47&Refer=top) 148038
 1. [长风渡 萨摩耶安慰布偶猫](https://s.weibo.com/weibo?q=%E9%95%BF%E9%A3%8E%E6%B8%A1%20%E8%90%A8%E6%91%A9%E8%80%B6%E5%AE%89%E6%85%B0%E5%B8%83%E5%81%B6%E7%8C%AB&t=31&band_rank=48&Refer=top) 147693
@@ -66,6 +67,7 @@
 1. [孟子义特别好的男生朋友没王鹤棣](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E7%89%B9%E5%88%AB%E5%A5%BD%E7%9A%84%E7%94%B7%E7%94%9F%E6%9C%8B%E5%8F%8B%E6%B2%A1%E7%8E%8B%E9%B9%A4%E6%A3%A3%23&t=31&band_rank=50&Refer=top) 105044
 1. [浪姐4五公淘汰](https://s.weibo.com/weibo?q=%23%E6%B5%AA%E5%A7%904%E4%BA%94%E5%85%AC%E6%B7%98%E6%B1%B0%23&t=31&band_rank=47&Refer=top) 81650
 1. [小伙河边遛狗顺手救起2名落水男孩](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E6%B2%B3%E8%BE%B9%E9%81%9B%E7%8B%97%E9%A1%BA%E6%89%8B%E6%95%91%E8%B5%B72%E5%90%8D%E8%90%BD%E6%B0%B4%E7%94%B7%E5%AD%A9%23&t=31&band_rank=49&Refer=top) 61748
+1. [iG战胜LNG](https://s.weibo.com/weibo?q=%23iG%E6%88%98%E8%83%9CLNG%23&t=31&band_rank=50&Refer=top) 57268
 <!-- END -->
 
 历史归档 [./archives](./archives)
