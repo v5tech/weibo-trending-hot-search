@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-06-28 01:36:01.310999 
+最后更新时间 2023-06-28 01:48:52.777987 
 1. [萧敬腾求婚林有慧](https://s.weibo.com/weibo?q=%23%E8%90%A7%E6%95%AC%E8%85%BE%E6%B1%82%E5%A9%9A%E6%9E%97%E6%9C%89%E6%85%A7%23&t=31&band_rank=1&Refer=top) 3244297
 1. [消失的她又双叒票房逆跌了](https://s.weibo.com/weibo?q=%23%E6%B6%88%E5%A4%B1%E7%9A%84%E5%A5%B9%E5%8F%88%E5%8F%8C%E5%8F%92%E7%A5%A8%E6%88%BF%E9%80%86%E8%B7%8C%E4%BA%86%23&t=31&band_rank=2&Refer=top) 1587432
 1. [达沃斯在天津](https://s.weibo.com/weibo?q=%23%E8%BE%BE%E6%B2%83%E6%96%AF%E5%9C%A8%E5%A4%A9%E6%B4%A5%23&t=31&band_rank=3&Refer=top) 1534328
@@ -33,11 +33,11 @@
 1. [一让在让](https://s.weibo.com/weibo?q=%E4%B8%80%E8%AE%A9%E5%9C%A8%E8%AE%A9&t=31&band_rank=29&Refer=top) 411998
 1. [女孩考上清华家人放烟花前向邻居报备](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E8%80%83%E4%B8%8A%E6%B8%85%E5%8D%8E%E5%AE%B6%E4%BA%BA%E6%94%BE%E7%83%9F%E8%8A%B1%E5%89%8D%E5%90%91%E9%82%BB%E5%B1%85%E6%8A%A5%E5%A4%87%23&t=31&band_rank=18&Refer=top) 395253
 1. [陈建州大牙行程对上了](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BB%BA%E5%B7%9E%E5%A4%A7%E7%89%99%E8%A1%8C%E7%A8%8B%E5%AF%B9%E4%B8%8A%E4%BA%86%23&t=31&band_rank=20&Refer=top) 377548
+1. [医院回应女子被司机反复碾轧遇害](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%8F%B8%E6%9C%BA%E5%8F%8D%E5%A4%8D%E7%A2%BE%E8%BD%A7%E9%81%87%E5%AE%B3%23&t=31&band_rank=39&Refer=top) 376503
 1. [被男子反复碾压女子已身亡](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%94%B7%E5%AD%90%E5%8F%8D%E5%A4%8D%E7%A2%BE%E5%8E%8B%E5%A5%B3%E5%AD%90%E5%B7%B2%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=21&Refer=top) 373649
 1. [猴痘](https://s.weibo.com/weibo?q=%E7%8C%B4%E7%97%98&t=31&band_rank=22&Refer=top) 370065
 1. [女生毕业删除90%同学被骂有病](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E6%AF%95%E4%B8%9A%E5%88%A0%E9%99%A490%25%E5%90%8C%E5%AD%A6%E8%A2%AB%E9%AA%82%E6%9C%89%E7%97%85%23&t=31&band_rank=23&Refer=top) 365065
 1. [妈妈回应私拆女儿的档案](https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E5%9B%9E%E5%BA%94%E7%A7%81%E6%8B%86%E5%A5%B3%E5%84%BF%E7%9A%84%E6%A1%A3%E6%A1%88%23&t=31&band_rank=24&Refer=top) 363731
-1. [医院回应女子被司机反复碾轧遇害](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%8F%B8%E6%9C%BA%E5%8F%8D%E5%A4%8D%E7%A2%BE%E8%BD%A7%E9%81%87%E5%AE%B3%23&t=31&band_rank=39&Refer=top) 362376
 1. [周翊然张淼怡新剧吻戏](https://s.weibo.com/weibo?q=%23%E5%91%A8%E7%BF%8A%E7%84%B6%E5%BC%A0%E6%B7%BC%E6%80%A1%E6%96%B0%E5%89%A7%E5%90%BB%E6%88%8F%23&t=31&band_rank=25&Refer=top) 358019
 1. [大牙回应陈建州声明](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%89%99%E5%9B%9E%E5%BA%94%E9%99%88%E5%BB%BA%E5%B7%9E%E5%A3%B0%E6%98%8E%23&t=31&band_rank=26&Refer=top) 356792
 1. [最长的接吻居然长达58小时](https://s.weibo.com/weibo?q=%23%E6%9C%80%E9%95%BF%E7%9A%84%E6%8E%A5%E5%90%BB%E5%B1%85%E7%84%B6%E9%95%BF%E8%BE%BE58%E5%B0%8F%E6%97%B6%23&t=31&band_rank=27&Refer=top) 335660
