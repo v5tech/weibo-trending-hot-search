@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-06-29 06:38:42.997205 
+最后更新时间 2023-06-29 06:49:00.917267 
 1. [蔡徐坤巡演将如期举行](https://s.weibo.com/weibo?q=%E8%94%A1%E5%BE%90%E5%9D%A4%E5%B7%A1%E6%BC%94%E5%B0%86%E5%A6%82%E6%9C%9F%E4%B8%BE%E8%A1%8C&t=31&band_rank=1&Refer=top) 1123603
 1. [我只穿便宜衣服但我觉得我很会买](https://s.weibo.com/weibo?q=%E6%88%91%E5%8F%AA%E7%A9%BF%E4%BE%BF%E5%AE%9C%E8%A1%A3%E6%9C%8D%E4%BD%86%E6%88%91%E8%A7%89%E5%BE%97%E6%88%91%E5%BE%88%E4%BC%9A%E4%B9%B0&t=31&band_rank=2&Refer=top) 996113
 1. [LV老板带着儿女北京巡店](https://s.weibo.com/weibo?q=%23LV%E8%80%81%E6%9D%BF%E5%B8%A6%E7%9D%80%E5%84%BF%E5%A5%B3%E5%8C%97%E4%BA%AC%E5%B7%A1%E5%BA%97%23&t=31&band_rank=13&Refer=top) 930390
@@ -62,15 +62,15 @@
 1. [杨幂暗夜精灵](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E6%9A%97%E5%A4%9C%E7%B2%BE%E7%81%B5%23&t=31&band_rank=47&Refer=top) 184866
 1. [妻子苦等丈夫回家熬到凌晨哭着报警](https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E8%8B%A6%E7%AD%89%E4%B8%88%E5%A4%AB%E5%9B%9E%E5%AE%B6%E7%86%AC%E5%88%B0%E5%87%8C%E6%99%A8%E5%93%AD%E7%9D%80%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=25&Refer=top) 171464
 1. [被爱真是一件值得炫耀的事](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%88%B1%E7%9C%9F%E6%98%AF%E4%B8%80%E4%BB%B6%E5%80%BC%E5%BE%97%E7%82%AB%E8%80%80%E7%9A%84%E4%BA%8B%23&t=31&band_rank=49&Refer=top) 161726
+1. [山东人种菜已经进化到这种程度了吗](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E4%BA%BA%E7%A7%8D%E8%8F%9C%E5%B7%B2%E7%BB%8F%E8%BF%9B%E5%8C%96%E5%88%B0%E8%BF%99%E7%A7%8D%E7%A8%8B%E5%BA%A6%E4%BA%86%E5%90%97%23&t=31&band_rank=50&Refer=top) 122889
 1. [闪耀的她](https://s.weibo.com/weibo?q=%E9%97%AA%E8%80%80%E7%9A%84%E5%A5%B9&t=31&band_rank=47&Refer=top) 113658
 1. [店主赠老人空瓶被回赠香蕉](https://s.weibo.com/weibo?q=%23%E5%BA%97%E4%B8%BB%E8%B5%A0%E8%80%81%E4%BA%BA%E7%A9%BA%E7%93%B6%E8%A2%AB%E5%9B%9E%E8%B5%A0%E9%A6%99%E8%95%89%23&t=31&band_rank=50&Refer=top) 112915
-1. [山东人种菜已经进化到这种程度了吗](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E4%BA%BA%E7%A7%8D%E8%8F%9C%E5%B7%B2%E7%BB%8F%E8%BF%9B%E5%8C%96%E5%88%B0%E8%BF%99%E7%A7%8D%E7%A8%8B%E5%BA%A6%E4%BA%86%E5%90%97%23&t=31&band_rank=50&Refer=top) 93681
+1. [表妹考了620分被舅妈骂一下午](https://s.weibo.com/weibo?q=%23%E8%A1%A8%E5%A6%B9%E8%80%83%E4%BA%86620%E5%88%86%E8%A2%AB%E8%88%85%E5%A6%88%E9%AA%82%E4%B8%80%E4%B8%8B%E5%8D%88%23&t=31&band_rank=50&Refer=top) 88080
 1. [民警街头围捕毒贩把路人看呆了](https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E8%A1%97%E5%A4%B4%E5%9B%B4%E6%8D%95%E6%AF%92%E8%B4%A9%E6%8A%8A%E8%B7%AF%E4%BA%BA%E7%9C%8B%E5%91%86%E4%BA%86%23&t=31&band_rank=47&Refer=top) 84506
 1. [陈建州起诉大牙](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BB%BA%E5%B7%9E%E8%B5%B7%E8%AF%89%E5%A4%A7%E7%89%99%23&t=31&band_rank=47&Refer=top) 75833
 1. [教育的意义](https://s.weibo.com/weibo?q=%E6%95%99%E8%82%B2%E7%9A%84%E6%84%8F%E4%B9%89&t=31&band_rank=50&Refer=top) 73773
-1. [表妹考了620分被舅妈骂一下午](https://s.weibo.com/weibo?q=%23%E8%A1%A8%E5%A6%B9%E8%80%83%E4%BA%86620%E5%88%86%E8%A2%AB%E8%88%85%E5%A6%88%E9%AA%82%E4%B8%80%E4%B8%8B%E5%8D%88%23&t=31&band_rank=50&Refer=top) 67288
-1. [78级物理专业高考生的报考建议](https://s.weibo.com/weibo?q=78%E7%BA%A7%E7%89%A9%E7%90%86%E4%B8%93%E4%B8%9A%E9%AB%98%E8%80%83%E7%94%9F%E7%9A%84%E6%8A%A5%E8%80%83%E5%BB%BA%E8%AE%AE&t=31&band_rank=50&Refer=top) 61500
-1. [名侦探Kyoong南](https://s.weibo.com/weibo?q=%23%E5%90%8D%E4%BE%A6%E6%8E%A2Kyoong%E5%8D%97%23&t=31&band_rank=50&Refer=top) 40648
+1. [78级物理专业高考生的报考建议](https://s.weibo.com/weibo?q=78%E7%BA%A7%E7%89%A9%E7%90%86%E4%B8%93%E4%B8%9A%E9%AB%98%E8%80%83%E7%94%9F%E7%9A%84%E6%8A%A5%E8%80%83%E5%BB%BA%E8%AE%AE&t=31&band_rank=50&Refer=top) 62215
+1. [名侦探Kyoong南](https://s.weibo.com/weibo?q=%23%E5%90%8D%E4%BE%A6%E6%8E%A2Kyoong%E5%8D%97%23&t=31&band_rank=50&Refer=top) 46332
 1. [每年都说是有史以来最热的一年](https://s.weibo.com/weibo?q=%23%E6%AF%8F%E5%B9%B4%E9%83%BD%E8%AF%B4%E6%98%AF%E6%9C%89%E5%8F%B2%E4%BB%A5%E6%9D%A5%E6%9C%80%E7%83%AD%E7%9A%84%E4%B8%80%E5%B9%B4%23&t=31&band_rank=50&Refer=top) 36685
 <!-- END -->
 
