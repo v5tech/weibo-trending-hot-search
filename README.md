@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-06-30 03:20:17.784171 
+最后更新时间 2023-06-30 03:34:10.463404 
 1. [肖战真唱](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E7%9C%9F%E5%94%B1&t=31&band_rank=1&Refer=top) 7623409
 1. [港星赢得很彻底](https://s.weibo.com/weibo?q=%23%E6%B8%AF%E6%98%9F%E8%B5%A2%E5%BE%97%E5%BE%88%E5%BD%BB%E5%BA%95%23&t=31&band_rank=2&Refer=top) 1986341
 1. [2023年中国网络文明大会新闻发布会](https://s.weibo.com/weibo?q=%232023%E5%B9%B4%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E5%A4%A7%E4%BC%9A%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=3&Refer=top) 1581233
