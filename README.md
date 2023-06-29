@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-06-30 01:35:18.876220 
+最后更新时间 2023-06-30 02:15:45.976958 
 1. [肖战真唱](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E7%9C%9F%E5%94%B1&t=31&band_rank=1&Refer=top) 7623409
 1. [港星赢得很彻底](https://s.weibo.com/weibo?q=%23%E6%B8%AF%E6%98%9F%E8%B5%A2%E5%BE%97%E5%BE%88%E5%BD%BB%E5%BA%95%23&t=31&band_rank=2&Refer=top) 1986341
 1. [2023年中国网络文明大会新闻发布会](https://s.weibo.com/weibo?q=%232023%E5%B9%B4%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E5%A4%A7%E4%BC%9A%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=3&Refer=top) 1581233
@@ -60,12 +60,15 @@
 1. [一根辣条毁了我的事业](https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%A0%B9%E8%BE%A3%E6%9D%A1%E6%AF%81%E4%BA%86%E6%88%91%E7%9A%84%E4%BA%8B%E4%B8%9A%23&t=31&band_rank=47&Refer=top) 383094
 1. [支付软件开始收费你还会用吗](https://s.weibo.com/weibo?q=%23%E6%94%AF%E4%BB%98%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%A7%8B%E6%94%B6%E8%B4%B9%E4%BD%A0%E8%BF%98%E4%BC%9A%E7%94%A8%E5%90%97%23&t=31&band_rank=48&Refer=top) 381449
 1. [阿斯巴甜](https://s.weibo.com/weibo?q=%E9%98%BF%E6%96%AF%E5%B7%B4%E7%94%9C&t=31&band_rank=49&Refer=top) 379697
+1. [韩国网友对长月烬明的评价](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%BD%91%E5%8F%8B%E5%AF%B9%E9%95%BF%E6%9C%88%E7%83%AC%E6%98%8E%E7%9A%84%E8%AF%84%E4%BB%B7%23&t=31&band_rank=5&Refer=top) 313263
 1. [常石磊](https://s.weibo.com/weibo?q=%E5%B8%B8%E7%9F%B3%E7%A3%8A&t=31&band_rank=47&Refer=top) 301955
 1. [关晓彤帽子P掉了鹿晗品牌](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E5%B8%BD%E5%AD%90P%E6%8E%89%E4%BA%86%E9%B9%BF%E6%99%97%E5%93%81%E7%89%8C%23&t=31&band_rank=44&Refer=top) 284062
 1. [将杀](https://s.weibo.com/weibo?q=%E5%B0%86%E6%9D%80&t=31&band_rank=49&Refer=top) 259903
 1. [鉴证实录](https://s.weibo.com/weibo?q=%E9%89%B4%E8%AF%81%E5%AE%9E%E5%BD%95&t=31&band_rank=36&Refer=top) 228494
 1. [十个勤天](https://s.weibo.com/weibo?q=%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9&t=31&band_rank=41&Refer=top) 210899
 1. [预防人贩子骗你开门](https://s.weibo.com/weibo?q=%E9%A2%84%E9%98%B2%E4%BA%BA%E8%B4%A9%E5%AD%90%E9%AA%97%E4%BD%A0%E5%BC%80%E9%97%A8&t=31&band_rank=50&Refer=top) 166029
+1. [誓约直播号没了](https://s.weibo.com/weibo?q=%E8%AA%93%E7%BA%A6%E7%9B%B4%E6%92%AD%E5%8F%B7%E6%B2%A1%E4%BA%86&t=31&band_rank=40&Refer=top) 103541
+1. [姜个顾事](https://s.weibo.com/weibo?q=%E5%A7%9C%E4%B8%AA%E9%A1%BE%E4%BA%8B&t=31&band_rank=46&Refer=top) 75985
 <!-- END -->
 
 历史归档 [./archives](./archives)
