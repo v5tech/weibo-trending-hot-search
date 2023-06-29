@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-06-30 00:34:36.792269 
+最后更新时间 2023-06-30 00:49:15.822512 
 1. [肖战真唱](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E7%9C%9F%E5%94%B1&t=31&band_rank=1&Refer=top) 7623409
 1. [港星赢得很彻底](https://s.weibo.com/weibo?q=%23%E6%B8%AF%E6%98%9F%E8%B5%A2%E5%BE%97%E5%BE%88%E5%BD%BB%E5%BA%95%23&t=31&band_rank=2&Refer=top) 1986341
 1. [2023年中国网络文明大会新闻发布会](https://s.weibo.com/weibo?q=%232023%E5%B9%B4%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E6%96%87%E6%98%8E%E5%A4%A7%E4%BC%9A%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=3&Refer=top) 1581233
@@ -61,6 +61,8 @@
 1. [支付软件开始收费你还会用吗](https://s.weibo.com/weibo?q=%23%E6%94%AF%E4%BB%98%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%A7%8B%E6%94%B6%E8%B4%B9%E4%BD%A0%E8%BF%98%E4%BC%9A%E7%94%A8%E5%90%97%23&t=31&band_rank=48&Refer=top) 381449
 1. [阿斯巴甜](https://s.weibo.com/weibo?q=%E9%98%BF%E6%96%AF%E5%B7%B4%E7%94%9C&t=31&band_rank=49&Refer=top) 379697
 1. [常石磊](https://s.weibo.com/weibo?q=%E5%B8%B8%E7%9F%B3%E7%A3%8A&t=31&band_rank=47&Refer=top) 301955
+1. [关晓彤帽子P掉了鹿晗品牌](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E5%B8%BD%E5%AD%90P%E6%8E%89%E4%BA%86%E9%B9%BF%E6%99%97%E5%93%81%E7%89%8C%23&t=31&band_rank=44&Refer=top) 269203
+1. [将杀](https://s.weibo.com/weibo?q=%E5%B0%86%E6%9D%80&t=31&band_rank=49&Refer=top) 259903
 <!-- END -->
 
 历史归档 [./archives](./archives)
