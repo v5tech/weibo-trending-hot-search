@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-07-04 03:34:46.611834 
+最后更新时间 2023-07-04 03:49:03.149106 
 1. [369](https://s.weibo.com/weibo?q=369&t=31&band_rank=1&Refer=top) 5659695
 1. [JackeyLove退出亚运会名单](https://s.weibo.com/weibo?q=%23JackeyLove%E9%80%80%E5%87%BA%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%90%8D%E5%8D%95%23&t=31&band_rank=4&Refer=top) 2283960
 1. [沪上阿姨回应一杯开水卖10元](https://s.weibo.com/weibo?q=%23%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%E5%9B%9E%E5%BA%94%E4%B8%80%E6%9D%AF%E5%BC%80%E6%B0%B4%E5%8D%9610%E5%85%83%23&t=31&band_rank=2&Refer=top) 1316936
@@ -72,6 +72,8 @@
 1. [偷偷藏不住今晚全糖轰炸](https://s.weibo.com/weibo?q=%23%E5%81%B7%E5%81%B7%E8%97%8F%E4%B8%8D%E4%BD%8F%E4%BB%8A%E6%99%9A%E5%85%A8%E7%B3%96%E8%BD%B0%E7%82%B8%23&t=31&band_rank=49&Refer=top) 52726
 1. [方兰生是谁](https://s.weibo.com/weibo?q=%23%E6%96%B9%E5%85%B0%E7%94%9F%E6%98%AF%E8%B0%81%23&t=31&band_rank=46&Refer=top) 52647
 1. [温网2023](https://s.weibo.com/weibo?q=%23%E6%B8%A9%E7%BD%912023%23&t=31&band_rank=44&Refer=top) 52463
+1. [如何评价蔡徐坤道歉](https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E8%94%A1%E5%BE%90%E5%9D%A4%E9%81%93%E6%AD%89%23&t=31&band_rank=21&Refer=top) 42384
+1. [给校长撑伞挡雨的书记是山东人](https://s.weibo.com/weibo?q=%23%E7%BB%99%E6%A0%A1%E9%95%BF%E6%92%91%E4%BC%9E%E6%8C%A1%E9%9B%A8%E7%9A%84%E4%B9%A6%E8%AE%B0%E6%98%AF%E5%B1%B1%E4%B8%9C%E4%BA%BA%23&t=31&band_rank=48&Refer=top) 32457
 <!-- END -->
 
 历史归档 [./archives](./archives)
