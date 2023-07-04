@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-07-05 01:38:31.406786 
+最后更新时间 2023-07-05 01:48:53.288398 
 1. [白敬亭说网络消息大家想一下再信](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E8%AF%B4%E7%BD%91%E7%BB%9C%E6%B6%88%E6%81%AF%E5%A4%A7%E5%AE%B6%E6%83%B3%E4%B8%80%E4%B8%8B%E5%86%8D%E4%BF%A1%23&t=31&band_rank=1&Refer=top) 1710320
 1. [女子称入职时被要求上交毕业证原件](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%B0%E5%85%A5%E8%81%8C%E6%97%B6%E8%A2%AB%E8%A6%81%E6%B1%82%E4%B8%8A%E4%BA%A4%E6%AF%95%E4%B8%9A%E8%AF%81%E5%8E%9F%E4%BB%B6%23&t=31&band_rank=2&Refer=top) 1030930
 1. [闪闪发光的中国00后](https://s.weibo.com/weibo?q=%23%E9%97%AA%E9%97%AA%E5%8F%91%E5%85%89%E7%9A%84%E4%B8%AD%E5%9B%BD00%E5%90%8E%23&t=31&band_rank=3&Refer=top) 906295
@@ -65,6 +65,7 @@
 1. [离职最后一天让公司损失几十万](https://s.weibo.com/weibo?q=%23%E7%A6%BB%E8%81%8C%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9%E8%AE%A9%E5%85%AC%E5%8F%B8%E6%8D%9F%E5%A4%B1%E5%87%A0%E5%8D%81%E4%B8%87%23&t=31&band_rank=43&Refer=top) 117659
 1. [肖战片场公主抱任敏](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%89%87%E5%9C%BA%E5%85%AC%E4%B8%BB%E6%8A%B1%E4%BB%BB%E6%95%8F%23&t=31&band_rank=48&Refer=top) 87660
 1. [要有足够的悲伤才能忍住不哭](https://s.weibo.com/weibo?q=%E8%A6%81%E6%9C%89%E8%B6%B3%E5%A4%9F%E7%9A%84%E6%82%B2%E4%BC%A4%E6%89%8D%E8%83%BD%E5%BF%8D%E4%BD%8F%E4%B8%8D%E5%93%AD&t=31&band_rank=40&Refer=top) 77860
+1. [freenbecky](https://s.weibo.com/weibo?q=%23freenbecky%23&t=31&band_rank=45&Refer=top) 53411
 <!-- END -->
 
 历史归档 [./archives](./archives)
