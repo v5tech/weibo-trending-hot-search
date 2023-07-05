@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-07-06 04:49:06.520202 
+最后更新时间 2023-07-06 05:11:06.413496 
 1. [李玟去世](https://s.weibo.com/weibo?q=%E6%9D%8E%E7%8E%9F%E5%8E%BB%E4%B8%96&t=31&band_rank=1&Refer=top) 12494142
 1. [李玟80岁母亲首先发现女儿在寓所轻生](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F80%E5%B2%81%E6%AF%8D%E4%BA%B2%E9%A6%96%E5%85%88%E5%8F%91%E7%8E%B0%E5%A5%B3%E5%84%BF%E5%9C%A8%E5%AF%93%E6%89%80%E8%BD%BB%E7%94%9F%23&t=31&band_rank=2&Refer=top) 11233827
 1. [众星悼念李玟](https://s.weibo.com/weibo?q=%23%E4%BC%97%E6%98%9F%E6%82%BC%E5%BF%B5%E6%9D%8E%E7%8E%9F%23&t=31&band_rank=4&Refer=top) 8816633
@@ -81,6 +81,7 @@
 1. [李玟最后一条微博是新歌](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E6%9C%80%E5%90%8E%E4%B8%80%E6%9D%A1%E5%BE%AE%E5%8D%9A%E6%98%AF%E6%96%B0%E6%AD%8C%23&t=31&band_rank=43&Refer=top) 52389
 1. [周翊然6月全平台涨粉第一](https://s.weibo.com/weibo?q=%23%E5%91%A8%E7%BF%8A%E7%84%B66%E6%9C%88%E5%85%A8%E5%B9%B3%E5%8F%B0%E6%B6%A8%E7%B2%89%E7%AC%AC%E4%B8%80%23&t=31&band_rank=42&Refer=top) 37058
 1. [温网2023](https://s.weibo.com/weibo?q=%23%E6%B8%A9%E7%BD%912023%23&t=31&band_rank=48&Refer=top) 36935
+1. [警方回应男生大腿被同学用圆规扎出血](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E7%94%B7%E7%94%9F%E5%A4%A7%E8%85%BF%E8%A2%AB%E5%90%8C%E5%AD%A6%E7%94%A8%E5%9C%86%E8%A7%84%E6%89%8E%E5%87%BA%E8%A1%80%23&t=31&band_rank=39&Refer=top) 25953
 <!-- END -->
 
 历史归档 [./archives](./archives)
