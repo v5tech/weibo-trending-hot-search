@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-07-06 03:10:06.157873 
+最后更新时间 2023-07-06 03:21:30.195036 
 1. [李玟去世](https://s.weibo.com/weibo?q=%E6%9D%8E%E7%8E%9F%E5%8E%BB%E4%B8%96&t=31&band_rank=1&Refer=top) 12494142
 1. [李玟80岁母亲首先发现女儿在寓所轻生](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F80%E5%B2%81%E6%AF%8D%E4%BA%B2%E9%A6%96%E5%85%88%E5%8F%91%E7%8E%B0%E5%A5%B3%E5%84%BF%E5%9C%A8%E5%AF%93%E6%89%80%E8%BD%BB%E7%94%9F%23&t=31&band_rank=2&Refer=top) 11233827
 1. [众星悼念李玟](https://s.weibo.com/weibo?q=%23%E4%BC%97%E6%98%9F%E6%82%BC%E5%BF%B5%E6%9D%8E%E7%8E%9F%23&t=31&band_rank=4&Refer=top) 8816633
@@ -32,7 +32,7 @@
 1. [你心情很不好但是却不难受](https://s.weibo.com/weibo?q=%E4%BD%A0%E5%BF%83%E6%83%85%E5%BE%88%E4%B8%8D%E5%A5%BD%E4%BD%86%E6%98%AF%E5%8D%B4%E4%B8%8D%E9%9A%BE%E5%8F%97&t=31&band_rank=19&Refer=top) 580387
 1. [抑郁症不是情绪问题](https://s.weibo.com/weibo?q=%23%E6%8A%91%E9%83%81%E7%97%87%E4%B8%8D%E6%98%AF%E6%83%85%E7%BB%AA%E9%97%AE%E9%A2%98%23&t=31&band_rank=49&Refer=top) 552489
 1. [身边有抑郁症的朋友该怎么办](https://s.weibo.com/weibo?q=%23%E8%BA%AB%E8%BE%B9%E6%9C%89%E6%8A%91%E9%83%81%E7%97%87%E7%9A%84%E6%9C%8B%E5%8F%8B%E8%AF%A5%E6%80%8E%E4%B9%88%E5%8A%9E%23&t=31&band_rank=25&Refer=top) 522186
-1. [李玟生前曾完全失声](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E7%94%9F%E5%89%8D%E6%9B%BE%E5%AE%8C%E5%85%A8%E5%A4%B1%E5%A3%B0%23&t=31&band_rank=16&Refer=top) 490907
+1. [李玟生前曾完全失声](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E7%94%9F%E5%89%8D%E6%9B%BE%E5%AE%8C%E5%85%A8%E5%A4%B1%E5%A3%B0%23&t=31&band_rank=16&Refer=top) 513045
 1. [00后男生地铁中勇敢阻拦男子持刀行凶](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E7%94%B7%E7%94%9F%E5%9C%B0%E9%93%81%E4%B8%AD%E5%8B%87%E6%95%A2%E9%98%BB%E6%8B%A6%E7%94%B7%E5%AD%90%E6%8C%81%E5%88%80%E8%A1%8C%E5%87%B6%23&t=31&band_rank=20&Refer=top) 468740
 1. [张艺兴悼念李玟](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E6%82%BC%E5%BF%B5%E6%9D%8E%E7%8E%9F%23&t=31&band_rank=21&Refer=top) 442132
 1. [姑娘每天放屁数十次确诊肠癌晚期](https://s.weibo.com/weibo?q=%23%E5%A7%91%E5%A8%98%E6%AF%8F%E5%A4%A9%E6%94%BE%E5%B1%81%E6%95%B0%E5%8D%81%E6%AC%A1%E7%A1%AE%E8%AF%8A%E8%82%A0%E7%99%8C%E6%99%9A%E6%9C%9F%23&t=31&band_rank=22&Refer=top) 418291
