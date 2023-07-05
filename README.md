@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-07-06 05:48:59.341568 
+最后更新时间 2023-07-06 06:11:20.410500 
 1. [李玟去世](https://s.weibo.com/weibo?q=%E6%9D%8E%E7%8E%9F%E5%8E%BB%E4%B8%96&t=31&band_rank=1&Refer=top) 12494142
 1. [李玟80岁母亲首先发现女儿在寓所轻生](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F80%E5%B2%81%E6%AF%8D%E4%BA%B2%E9%A6%96%E5%85%88%E5%8F%91%E7%8E%B0%E5%A5%B3%E5%84%BF%E5%9C%A8%E5%AF%93%E6%89%80%E8%BD%BB%E7%94%9F%23&t=31&band_rank=2&Refer=top) 11233827
 1. [众星悼念李玟](https://s.weibo.com/weibo?q=%23%E4%BC%97%E6%98%9F%E6%82%BC%E5%BF%B5%E6%9D%8E%E7%8E%9F%23&t=31&band_rank=4&Refer=top) 8816633
@@ -20,6 +20,7 @@
 1. [经纪公司回应李玟去世](https://s.weibo.com/weibo?q=%23%E7%BB%8F%E7%BA%AA%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94%E6%9D%8E%E7%8E%9F%E5%8E%BB%E4%B8%96%23&t=31&band_rank=45&Refer=top) 1230837
 1. [2年被家暴16次女子希望判丈夫死刑](https://s.weibo.com/weibo?q=%232%E5%B9%B4%E8%A2%AB%E5%AE%B6%E6%9A%B416%E6%AC%A1%E5%A5%B3%E5%AD%90%E5%B8%8C%E6%9C%9B%E5%88%A4%E4%B8%88%E5%A4%AB%E6%AD%BB%E5%88%91%23&t=31&band_rank=8&Refer=top) 1046587
 1. [断崖式分手](https://s.weibo.com/weibo?q=%E6%96%AD%E5%B4%96%E5%BC%8F%E5%88%86%E6%89%8B&t=31&band_rank=9&Refer=top) 799902
+1. [李玟生前曾完全失声](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E7%94%9F%E5%89%8D%E6%9B%BE%E5%AE%8C%E5%85%A8%E5%A4%B1%E5%A3%B0%23&t=31&band_rank=16&Refer=top) 755205
 1. [圆肩驼背探颈是种病](https://s.weibo.com/weibo?q=%E5%9C%86%E8%82%A9%E9%A9%BC%E8%83%8C%E6%8E%A2%E9%A2%88%E6%98%AF%E7%A7%8D%E7%97%85&t=31&band_rank=10&Refer=top) 622973
 1. [张杰 多关心身边的朋友们](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9D%B0%20%E5%A4%9A%E5%85%B3%E5%BF%83%E8%BA%AB%E8%BE%B9%E7%9A%84%E6%9C%8B%E5%8F%8B%E4%BB%AC&t=31&band_rank=11&Refer=top) 622341
 1. [坐高铁最好不要趴小桌板上](https://s.weibo.com/weibo?q=%23%E5%9D%90%E9%AB%98%E9%93%81%E6%9C%80%E5%A5%BD%E4%B8%8D%E8%A6%81%E8%B6%B4%E5%B0%8F%E6%A1%8C%E6%9D%BF%E4%B8%8A%23&t=31&band_rank=12&Refer=top) 620549
@@ -32,7 +33,6 @@
 1. [你心情很不好但是却不难受](https://s.weibo.com/weibo?q=%E4%BD%A0%E5%BF%83%E6%83%85%E5%BE%88%E4%B8%8D%E5%A5%BD%E4%BD%86%E6%98%AF%E5%8D%B4%E4%B8%8D%E9%9A%BE%E5%8F%97&t=31&band_rank=19&Refer=top) 580387
 1. [抑郁症不是情绪问题](https://s.weibo.com/weibo?q=%23%E6%8A%91%E9%83%81%E7%97%87%E4%B8%8D%E6%98%AF%E6%83%85%E7%BB%AA%E9%97%AE%E9%A2%98%23&t=31&band_rank=49&Refer=top) 552489
 1. [身边有抑郁症的朋友该怎么办](https://s.weibo.com/weibo?q=%23%E8%BA%AB%E8%BE%B9%E6%9C%89%E6%8A%91%E9%83%81%E7%97%87%E7%9A%84%E6%9C%8B%E5%8F%8B%E8%AF%A5%E6%80%8E%E4%B9%88%E5%8A%9E%23&t=31&band_rank=25&Refer=top) 522186
-1. [李玟生前曾完全失声](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E7%94%9F%E5%89%8D%E6%9B%BE%E5%AE%8C%E5%85%A8%E5%A4%B1%E5%A3%B0%23&t=31&band_rank=16&Refer=top) 513045
 1. [00后男生地铁中勇敢阻拦男子持刀行凶](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E7%94%B7%E7%94%9F%E5%9C%B0%E9%93%81%E4%B8%AD%E5%8B%87%E6%95%A2%E9%98%BB%E6%8B%A6%E7%94%B7%E5%AD%90%E6%8C%81%E5%88%80%E8%A1%8C%E5%87%B6%23&t=31&band_rank=20&Refer=top) 468740
 1. [张艺兴悼念李玟](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E6%82%BC%E5%BF%B5%E6%9D%8E%E7%8E%9F%23&t=31&band_rank=21&Refer=top) 442132
 1. [姑娘每天放屁数十次确诊肠癌晚期](https://s.weibo.com/weibo?q=%23%E5%A7%91%E5%A8%98%E6%AF%8F%E5%A4%A9%E6%94%BE%E5%B1%81%E6%95%B0%E5%8D%81%E6%AC%A1%E7%A1%AE%E8%AF%8A%E8%82%A0%E7%99%8C%E6%99%9A%E6%9C%9F%23&t=31&band_rank=22&Refer=top) 418291
@@ -76,13 +76,14 @@
 1. [原来蚝油是要放在冰箱的](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%9A%9D%E6%B2%B9%E6%98%AF%E8%A6%81%E6%94%BE%E5%9C%A8%E5%86%B0%E7%AE%B1%E7%9A%84%23&t=31&band_rank=40&Refer=top) 178359
 1. [再强大的人也有能量用完的一天](https://s.weibo.com/weibo?q=%E5%86%8D%E5%BC%BA%E5%A4%A7%E7%9A%84%E4%BA%BA%E4%B9%9F%E6%9C%89%E8%83%BD%E9%87%8F%E7%94%A8%E5%AE%8C%E7%9A%84%E4%B8%80%E5%A4%A9&t=31&band_rank=37&Refer=top) 170891
 1. [听见奇怪声音一个警醒救下聋哑人](https://s.weibo.com/weibo?q=%23%E5%90%AC%E8%A7%81%E5%A5%87%E6%80%AA%E5%A3%B0%E9%9F%B3%E4%B8%80%E4%B8%AA%E8%AD%A6%E9%86%92%E6%95%91%E4%B8%8B%E8%81%8B%E5%93%91%E4%BA%BA%23&t=31&band_rank=46&Refer=top) 119882
+1. [警方回应男生大腿被同学用圆规扎出血](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E7%94%B7%E7%94%9F%E5%A4%A7%E8%85%BF%E8%A2%AB%E5%90%8C%E5%AD%A6%E7%94%A8%E5%9C%86%E8%A7%84%E6%89%8E%E5%87%BA%E8%A1%80%23&t=31&band_rank=39&Refer=top) 118027
 1. [无法拥有的人记得好好道别](https://s.weibo.com/weibo?q=%E6%97%A0%E6%B3%95%E6%8B%A5%E6%9C%89%E7%9A%84%E4%BA%BA%E8%AE%B0%E5%BE%97%E5%A5%BD%E5%A5%BD%E9%81%93%E5%88%AB&t=31&band_rank=46&Refer=top) 86618
-1. [警方回应男生大腿被同学用圆规扎出血](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E7%94%B7%E7%94%9F%E5%A4%A7%E8%85%BF%E8%A2%AB%E5%90%8C%E5%AD%A6%E7%94%A8%E5%9C%86%E8%A7%84%E6%89%8E%E5%87%BA%E8%A1%80%23&t=31&band_rank=39&Refer=top) 67997
+1. [内娱建模脸明星](https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E5%BB%BA%E6%A8%A1%E8%84%B8%E6%98%8E%E6%98%9F%23&t=31&band_rank=41&Refer=top) 71224
 1. [李玟好友说她生前想要一个小孩](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E5%A5%BD%E5%8F%8B%E8%AF%B4%E5%A5%B9%E7%94%9F%E5%89%8D%E6%83%B3%E8%A6%81%E4%B8%80%E4%B8%AA%E5%B0%8F%E5%AD%A9%23&t=31&band_rank=42&Refer=top) 67957
 1. [李玟最后一条微博是新歌](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E6%9C%80%E5%90%8E%E4%B8%80%E6%9D%A1%E5%BE%AE%E5%8D%9A%E6%98%AF%E6%96%B0%E6%AD%8C%23&t=31&band_rank=43&Refer=top) 52389
-1. [内娱建模脸明星](https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E5%BB%BA%E6%A8%A1%E8%84%B8%E6%98%8E%E6%98%9F%23&t=31&band_rank=41&Refer=top) 45792
+1. [河北一家长称儿子长期遭同学欺负](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8C%97%E4%B8%80%E5%AE%B6%E9%95%BF%E7%A7%B0%E5%84%BF%E5%AD%90%E9%95%BF%E6%9C%9F%E9%81%AD%E5%90%8C%E5%AD%A6%E6%AC%BA%E8%B4%9F%23&t=31&band_rank=46&Refer=top) 46821
+1. [温网2023](https://s.weibo.com/weibo?q=%23%E6%B8%A9%E7%BD%912023%23&t=31&band_rank=48&Refer=top) 46818
 1. [周翊然6月全平台涨粉第一](https://s.weibo.com/weibo?q=%23%E5%91%A8%E7%BF%8A%E7%84%B66%E6%9C%88%E5%85%A8%E5%B9%B3%E5%8F%B0%E6%B6%A8%E7%B2%89%E7%AC%AC%E4%B8%80%23&t=31&band_rank=42&Refer=top) 37058
-1. [温网2023](https://s.weibo.com/weibo?q=%23%E6%B8%A9%E7%BD%912023%23&t=31&band_rank=48&Refer=top) 36935
 <!-- END -->
 
 历史归档 [./archives](./archives)
