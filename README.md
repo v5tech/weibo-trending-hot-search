@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-07-07 06:28:40.495126 
+最后更新时间 2023-07-07 06:38:27.618847 
 1. [你们每个月的公积金有多少](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%BB%AC%E6%AF%8F%E4%B8%AA%E6%9C%88%E7%9A%84%E5%85%AC%E7%A7%AF%E9%87%91%E6%9C%89%E5%A4%9A%E5%B0%91%23&t=31&band_rank=1&Refer=top) 2097313
 1. [学校要求教师不要晒暑假旅游照片](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E6%A0%A1%E8%A6%81%E6%B1%82%E6%95%99%E5%B8%88%E4%B8%8D%E8%A6%81%E6%99%92%E6%9A%91%E5%81%87%E6%97%85%E6%B8%B8%E7%85%A7%E7%89%87%23&t=31&band_rank=2&Refer=top) 1660350
 1. [首只在台出生的大熊猫十岁啦](https://s.weibo.com/weibo?q=%23%E9%A6%96%E5%8F%AA%E5%9C%A8%E5%8F%B0%E5%87%BA%E7%94%9F%E7%9A%84%E5%A4%A7%E7%86%8A%E7%8C%AB%E5%8D%81%E5%B2%81%E5%95%A6%23&t=31&band_rank=3&Refer=top) 1434729
@@ -64,8 +64,8 @@
 1. [蒜蓉罗氏虾](https://s.weibo.com/weibo?q=%E8%92%9C%E8%93%89%E7%BD%97%E6%B0%8F%E8%99%BE&t=31&band_rank=50&Refer=top) 183529
 1. [张静初到底有多少碎花裙](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9D%99%E5%88%9D%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%B0%91%E7%A2%8E%E8%8A%B1%E8%A3%99%23&t=31&band_rank=44&Refer=top) 174058
 1. [当大学生找学习搭子遇见小学生](https://s.weibo.com/weibo?q=%E5%BD%93%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%89%BE%E5%AD%A6%E4%B9%A0%E6%90%AD%E5%AD%90%E9%81%87%E8%A7%81%E5%B0%8F%E5%AD%A6%E7%94%9F&t=31&band_rank=38&Refer=top) 168291
+1. [科学家为什么执着于计算圆周率](https://s.weibo.com/weibo?q=%E7%A7%91%E5%AD%A6%E5%AE%B6%E4%B8%BA%E4%BB%80%E4%B9%88%E6%89%A7%E7%9D%80%E4%BA%8E%E8%AE%A1%E7%AE%97%E5%9C%86%E5%91%A8%E7%8E%87&t=31&band_rank=45&Refer=top) 166725
 1. [姜云升解约](https://s.weibo.com/weibo?q=%23%E5%A7%9C%E4%BA%91%E5%8D%87%E8%A7%A3%E7%BA%A6%23&t=31&band_rank=43&Refer=top) 148266
-1. [科学家为什么执着于计算圆周率](https://s.weibo.com/weibo?q=%E7%A7%91%E5%AD%A6%E5%AE%B6%E4%B8%BA%E4%BB%80%E4%B9%88%E6%89%A7%E7%9D%80%E4%BA%8E%E8%AE%A1%E7%AE%97%E5%9C%86%E5%91%A8%E7%8E%87&t=31&band_rank=45&Refer=top) 147014
 1. [周杰伦开演唱会为海口增近10亿旅游收入](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%BC%80%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%BA%E6%B5%B7%E5%8F%A3%E5%A2%9E%E8%BF%9110%E4%BA%BF%E6%97%85%E6%B8%B8%E6%94%B6%E5%85%A5%23&t=31&band_rank=46&Refer=top) 134133
 1. [25岁女网红服大量安眠药自杀](https://s.weibo.com/weibo?q=%2325%E5%B2%81%E5%A5%B3%E7%BD%91%E7%BA%A2%E6%9C%8D%E5%A4%A7%E9%87%8F%E5%AE%89%E7%9C%A0%E8%8D%AF%E8%87%AA%E6%9D%80%23&t=31&band_rank=48&Refer=top) 125130
 1. [日本地铁站启用实时翻译屏幕](https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%93%81%E7%AB%99%E5%90%AF%E7%94%A8%E5%AE%9E%E6%97%B6%E7%BF%BB%E8%AF%91%E5%B1%8F%E5%B9%95&t=31&band_rank=49&Refer=top) 97368
@@ -74,8 +74,8 @@
 1. [杨洋看王楚然的眼神](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B4%8B%E7%9C%8B%E7%8E%8B%E6%A5%9A%E7%84%B6%E7%9A%84%E7%9C%BC%E7%A5%9E%23&t=31&band_rank=48&Refer=top) 75876
 1. [全靠Angelababy的脸在撑](https://s.weibo.com/weibo?q=%23%E5%85%A8%E9%9D%A0Angelababy%E7%9A%84%E8%84%B8%E5%9C%A8%E6%92%91%23&t=31&band_rank=48&Refer=top) 63452
 1. [李洙赫新闻图](https://s.weibo.com/weibo?q=%E6%9D%8E%E6%B4%99%E8%B5%AB%E6%96%B0%E9%97%BB%E5%9B%BE&t=31&band_rank=48&Refer=top) 57220
-1. [陈妍希柳岩走在吃瓜第一线](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A6%8D%E5%B8%8C%E6%9F%B3%E5%B2%A9%E8%B5%B0%E5%9C%A8%E5%90%83%E7%93%9C%E7%AC%AC%E4%B8%80%E7%BA%BF%23&t=31&band_rank=48&Refer=top) 49224
-1. [肖战剧中最虐的台词](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%89%A7%E4%B8%AD%E6%9C%80%E8%99%90%E7%9A%84%E5%8F%B0%E8%AF%8D%23&t=31&band_rank=46&Refer=top) 49119
+1. [肖战剧中最虐的台词](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%89%A7%E4%B8%AD%E6%9C%80%E8%99%90%E7%9A%84%E5%8F%B0%E8%AF%8D%23&t=31&band_rank=46&Refer=top) 54847
+1. [陈妍希柳岩走在吃瓜第一线](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A6%8D%E5%B8%8C%E6%9F%B3%E5%B2%A9%E8%B5%B0%E5%9C%A8%E5%90%83%E7%93%9C%E7%AC%AC%E4%B8%80%E7%BA%BF%23&t=31&band_rank=48&Refer=top) 54505
 1. [有了新玩具的显眼包小金毛](https://s.weibo.com/weibo?q=%E6%9C%89%E4%BA%86%E6%96%B0%E7%8E%A9%E5%85%B7%E7%9A%84%E6%98%BE%E7%9C%BC%E5%8C%85%E5%B0%8F%E9%87%91%E6%AF%9B&t=31&band_rank=50&Refer=top) 49047
 1. [原神3.8版本](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E7%A5%9E3.8%E7%89%88%E6%9C%AC%23&t=31&band_rank=48&Refer=top) 37840
 1. [帽子怎么做旧](https://s.weibo.com/weibo?q=%E5%B8%BD%E5%AD%90%E6%80%8E%E4%B9%88%E5%81%9A%E6%97%A7&t=31&band_rank=50&Refer=top) 27585
