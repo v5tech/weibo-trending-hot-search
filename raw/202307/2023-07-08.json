@@ -51,6 +51,10 @@
     "url": "https://s.weibo.com/weibo?q=xxs&t=31&band_rank=13&Refer=top",
     "hot": 616716
   },
+  "长风渡改编": {
+    "url": "https://s.weibo.com/weibo?q=%E9%95%BF%E9%A3%8E%E6%B8%A1%E6%94%B9%E7%BC%96&t=31&band_rank=17&Refer=top",
+    "hot": 591974
+  },
   "网友辣评Angelababy新剧哭戏": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E8%BE%A3%E8%AF%84Angelababy%E6%96%B0%E5%89%A7%E5%93%AD%E6%88%8F%23&t=31&band_rank=14&Refer=top",
     "hot": 572269
@@ -62,10 +66,6 @@
   "EDG被多次盗窃": {
     "url": "https://s.weibo.com/weibo?q=%23EDG%E8%A2%AB%E5%A4%9A%E6%AC%A1%E7%9B%97%E7%AA%83%23&t=31&band_rank=16&Refer=top",
     "hot": 558381
-  },
-  "长风渡改编": {
-    "url": "https://s.weibo.com/weibo?q=%E9%95%BF%E9%A3%8E%E6%B8%A1%E6%94%B9%E7%BC%96&t=31&band_rank=17&Refer=top",
-    "hot": 533964
   },
   "在霉霉唱Love Story时求婚": {
     "url": "https://s.weibo.com/weibo?q=%E5%9C%A8%E9%9C%89%E9%9C%89%E5%94%B1Love%20Story%E6%97%B6%E6%B1%82%E5%A9%9A&t=31&band_rank=18&Refer=top",
@@ -195,8 +195,16 @@
     "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E4%B8%BA%E5%8D%81%E5%91%A8%E5%B9%B4%E5%9C%A8%E5%89%A7%E7%BB%84%E7%A7%9F%E8%88%9E%E5%AE%A4%23&t=31&band_rank=49&Refer=top",
     "hot": 192594
   },
+  "假如女儿出生就拥有妈妈的记忆": {
+    "url": "https://s.weibo.com/weibo?q=%E5%81%87%E5%A6%82%E5%A5%B3%E5%84%BF%E5%87%BA%E7%94%9F%E5%B0%B1%E6%8B%A5%E6%9C%89%E5%A6%88%E5%A6%88%E7%9A%84%E8%AE%B0%E5%BF%86&t=31&band_rank=45&Refer=top",
+    "hot": 180857
+  },
   "紫幻的命": {
     "url": "https://s.weibo.com/weibo?q=%E7%B4%AB%E5%B9%BB%E7%9A%84%E5%91%BD&t=31&band_rank=50&Refer=top",
     "hot": 179064
+  },
+  "黄子韬抱着孙红雷痛哭": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E6%8A%B1%E7%9D%80%E5%AD%99%E7%BA%A2%E9%9B%B7%E7%97%9B%E5%93%AD%23&t=31&band_rank=49&Refer=top",
+    "hot": 155461
   }
 }
