@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-07-08 00:48:59.040019 
+最后更新时间 2023-07-08 01:10:33.424517 
 1. [邓伦被强制执行](https://s.weibo.com/weibo?q=%23%E9%82%93%E4%BC%A6%E8%A2%AB%E5%BC%BA%E5%88%B6%E6%89%A7%E8%A1%8C%23&t=31&band_rank=1&Refer=top) 2026856
 1. [奔跑吧没播](https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A7%E6%B2%A1%E6%92%AD%23&t=31&band_rank=2&Refer=top) 1279814
 1. [夏日超实用防暑降温指南](https://s.weibo.com/weibo?q=%23%E5%A4%8F%E6%97%A5%E8%B6%85%E5%AE%9E%E7%94%A8%E9%98%B2%E6%9A%91%E9%99%8D%E6%B8%A9%E6%8C%87%E5%8D%97%23&t=31&band_rank=3&Refer=top) 1104506
@@ -55,13 +55,15 @@
 1. [白敬亭究竟有多少好妹妹](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E7%A9%B6%E7%AB%9F%E6%9C%89%E5%A4%9A%E5%B0%91%E5%A5%BD%E5%A6%B9%E5%A6%B9%23&t=31&band_rank=44&Refer=top) 244070
 1. [肖战的cp名怎么都这样](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%9A%84cp%E5%90%8D%E6%80%8E%E4%B9%88%E9%83%BD%E8%BF%99%E6%A0%B7%23&t=31&band_rank=45&Refer=top) 234552
 1. [Melody离婚](https://s.weibo.com/weibo?q=%23Melody%E7%A6%BB%E5%A9%9A%23&t=31&band_rank=47&Refer=top) 228133
+1. [假如女儿出生就拥有妈妈的记忆](https://s.weibo.com/weibo?q=%E5%81%87%E5%A6%82%E5%A5%B3%E5%84%BF%E5%87%BA%E7%94%9F%E5%B0%B1%E6%8B%A5%E6%9C%89%E5%A6%88%E5%A6%88%E7%9A%84%E8%AE%B0%E5%BF%86&t=31&band_rank=45&Refer=top) 214312
 1. [蚂蚁集团回应被罚](https://s.weibo.com/weibo?q=%23%E8%9A%82%E8%9A%81%E9%9B%86%E5%9B%A2%E5%9B%9E%E5%BA%94%E8%A2%AB%E7%BD%9A%23&t=31&band_rank=48&Refer=top) 213321
-1. [假如女儿出生就拥有妈妈的记忆](https://s.weibo.com/weibo?q=%E5%81%87%E5%A6%82%E5%A5%B3%E5%84%BF%E5%87%BA%E7%94%9F%E5%B0%B1%E6%8B%A5%E6%9C%89%E5%A6%88%E5%A6%88%E7%9A%84%E8%AE%B0%E5%BF%86&t=31&band_rank=45&Refer=top) 211834
 1. [王俊凯为十周年在剧组租舞室](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E4%B8%BA%E5%8D%81%E5%91%A8%E5%B9%B4%E5%9C%A8%E5%89%A7%E7%BB%84%E7%A7%9F%E8%88%9E%E5%AE%A4%23&t=31&band_rank=49&Refer=top) 192594
 1. [紫幻的命](https://s.weibo.com/weibo?q=%E7%B4%AB%E5%B9%BB%E7%9A%84%E5%91%BD&t=31&band_rank=50&Refer=top) 179064
-1. [放在恋爱脑界也是相当炸裂的](https://s.weibo.com/weibo?q=%E6%94%BE%E5%9C%A8%E6%81%8B%E7%88%B1%E8%84%91%E7%95%8C%E4%B9%9F%E6%98%AF%E7%9B%B8%E5%BD%93%E7%82%B8%E8%A3%82%E7%9A%84&t=31&band_rank=46&Refer=top) 164863
+1. [放在恋爱脑界也是相当炸裂的](https://s.weibo.com/weibo?q=%E6%94%BE%E5%9C%A8%E6%81%8B%E7%88%B1%E8%84%91%E7%95%8C%E4%B9%9F%E6%98%AF%E7%9B%B8%E5%BD%93%E7%82%B8%E8%A3%82%E7%9A%84&t=31&band_rank=46&Refer=top) 169047
 1. [黄子韬抱着孙红雷痛哭](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E6%8A%B1%E7%9D%80%E5%AD%99%E7%BA%A2%E9%9B%B7%E7%97%9B%E5%93%AD%23&t=31&band_rank=49&Refer=top) 155461
 1. [郑秀文 抑郁症我懂](https://s.weibo.com/weibo?q=%E9%83%91%E7%A7%80%E6%96%87%20%E6%8A%91%E9%83%81%E7%97%87%E6%88%91%E6%87%82&t=31&band_rank=50&Refer=top) 145057
+1. [李玟曾说为自己是中国人感到骄傲](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E6%9B%BE%E8%AF%B4%E4%B8%BA%E8%87%AA%E5%B7%B1%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%84%9F%E5%88%B0%E9%AA%84%E5%82%B2%23&t=31&band_rank=49&Refer=top) 106941
+1. [关晓彤也演过花非花雾非雾](https://s.weibo.com/weibo?q=%E5%85%B3%E6%99%93%E5%BD%A4%E4%B9%9F%E6%BC%94%E8%BF%87%E8%8A%B1%E9%9D%9E%E8%8A%B1%E9%9B%BE%E9%9D%9E%E9%9B%BE&t=31&band_rank=50&Refer=top) 104198
 <!-- END -->
 
 历史归档 [./archives](./archives)
