@@ -47,6 +47,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E8%AE%A9%E7%B2%89%E4%B8%9D%E5%9C%A8%E5%BE%AE%E5%8D%9A%E4%B8%8A%E5%BE%81%E5%A9%9A%23&t=31&band_rank=11&Refer=top",
     "hot": 454500
   },
+  "不能笑的待爆帝": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%83%BD%E7%AC%91%E7%9A%84%E5%BE%85%E7%88%86%E5%B8%9D%23&t=31&band_rank=43&Refer=top",
+    "hot": 448736
+  },
   "徐明浩澳门": {
     "url": "https://s.weibo.com/weibo?q=%E5%BE%90%E6%98%8E%E6%B5%A9%E6%BE%B3%E9%97%A8&t=31&band_rank=12&Refer=top",
     "hot": 439659
@@ -106,10 +110,6 @@
   "重庆果然是立体的": {
     "url": "https://s.weibo.com/weibo?q=%E9%87%8D%E5%BA%86%E6%9E%9C%E7%84%B6%E6%98%AF%E7%AB%8B%E4%BD%93%E7%9A%84&t=31&band_rank=30&Refer=top",
     "hot": 317395
-  },
-  "不能笑的待爆帝": {
-    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%83%BD%E7%AC%91%E7%9A%84%E5%BE%85%E7%88%86%E5%B8%9D%23&t=31&band_rank=43&Refer=top",
-    "hot": 300997
   },
   "詹雯婷把麦给我我来唱": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%A9%B9%E9%9B%AF%E5%A9%B7%E6%8A%8A%E9%BA%A6%E7%BB%99%E6%88%91%E6%88%91%E6%9D%A5%E5%94%B1%23&t=31&band_rank=27&Refer=top",
@@ -229,10 +229,18 @@
   },
   "内娱有效播剧的演员": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E6%9C%89%E6%95%88%E6%92%AD%E5%89%A7%E7%9A%84%E6%BC%94%E5%91%98%23&t=31&band_rank=43&Refer=top",
-    "hot": 99870
+    "hot": 132224
   },
   "台北电影节": {
     "url": "https://s.weibo.com/weibo?q=%E5%8F%B0%E5%8C%97%E7%94%B5%E5%BD%B1%E8%8A%82&t=31&band_rank=48&Refer=top",
     "hot": 99684
+  },
+  "郁可唯上海演唱会": {
+    "url": "https://s.weibo.com/weibo?q=%E9%83%81%E5%8F%AF%E5%94%AF%E4%B8%8A%E6%B5%B7%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=33&Refer=top",
+    "hot": 98605
+  },
+  "LGD新首发阵容": {
+    "url": "https://s.weibo.com/weibo?q=%23LGD%E6%96%B0%E9%A6%96%E5%8F%91%E9%98%B5%E5%AE%B9%23&t=31&band_rank=50&Refer=top",
+    "hot": 95943
   }
 }
