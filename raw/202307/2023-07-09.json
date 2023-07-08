@@ -5,7 +5,7 @@
   },
   "暑假目前最惊喜的国产剧": {
     "url": "https://s.weibo.com/weibo?q=%E6%9A%91%E5%81%87%E7%9B%AE%E5%89%8D%E6%9C%80%E6%83%8A%E5%96%9C%E7%9A%84%E5%9B%BD%E4%BA%A7%E5%89%A7&t=31&band_rank=18&Refer=top",
-    "hot": 947858
+    "hot": 1116377
   },
   "守护高温下的户外劳动者": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%AE%88%E6%8A%A4%E9%AB%98%E6%B8%A9%E4%B8%8B%E7%9A%84%E6%88%B7%E5%A4%96%E5%8A%B3%E5%8A%A8%E8%80%85%23&t=31&band_rank=3&Refer=top",
@@ -107,6 +107,10 @@
     "url": "https://s.weibo.com/weibo?q=%E9%87%8D%E5%BA%86%E6%9E%9C%E7%84%B6%E6%98%AF%E7%AB%8B%E4%BD%93%E7%9A%84&t=31&band_rank=30&Refer=top",
     "hot": 317395
   },
+  "不能笑的待爆帝": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%83%BD%E7%AC%91%E7%9A%84%E5%BE%85%E7%88%86%E5%B8%9D%23&t=31&band_rank=43&Refer=top",
+    "hot": 300997
+  },
   "詹雯婷把麦给我我来唱": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%A9%B9%E9%9B%AF%E5%A9%B7%E6%8A%8A%E9%BA%A6%E7%BB%99%E6%88%91%E6%88%91%E6%9D%A5%E5%94%B1%23&t=31&band_rank=27&Refer=top",
     "hot": 295812
@@ -130,10 +134,6 @@
   "长安三万里": {
     "url": "https://s.weibo.com/weibo?q=%E9%95%BF%E5%AE%89%E4%B8%89%E4%B8%87%E9%87%8C&t=31&band_rank=33&Refer=top",
     "hot": 230599
-  },
-  "不能笑的待爆帝": {
-    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%83%BD%E7%AC%91%E7%9A%84%E5%BE%85%E7%88%86%E5%B8%9D%23&t=31&band_rank=43&Refer=top",
-    "hot": 230435
   },
   "白敬亭还是你懂大哥": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E8%BF%98%E6%98%AF%E4%BD%A0%E6%87%82%E5%A4%A7%E5%93%A5%23&t=31&band_rank=41&Refer=top",
@@ -215,12 +215,24 @@
     "url": "https://s.weibo.com/weibo?q=%23OMG%E5%AF%B9%E6%88%98TT%23&t=31&band_rank=47&Refer=top",
     "hot": 195205
   },
+  "看来武艺更喜欢女儿": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%9C%8B%E6%9D%A5%E6%AD%A6%E8%89%BA%E6%9B%B4%E5%96%9C%E6%AC%A2%E5%A5%B3%E5%84%BF%23&t=31&band_rank=21&Refer=top",
+    "hot": 169279
+  },
   "汪苏泷又在寻宝藏了": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E5%8F%88%E5%9C%A8%E5%AF%BB%E5%AE%9D%E8%97%8F%E4%BA%86%23&t=31&band_rank=38&Refer=top",
-    "hot": 157538
+    "hot": 161338
   },
   "是时候见识钓鱼佬的真正实力了": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%98%AF%E6%97%B6%E5%80%99%E8%A7%81%E8%AF%86%E9%92%93%E9%B1%BC%E4%BD%AC%E7%9A%84%E7%9C%9F%E6%AD%A3%E5%AE%9E%E5%8A%9B%E4%BA%86%23&t=31&band_rank=50&Refer=top",
     "hot": 143736
+  },
+  "内娱有效播剧的演员": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E6%9C%89%E6%95%88%E6%92%AD%E5%89%A7%E7%9A%84%E6%BC%94%E5%91%98%23&t=31&band_rank=43&Refer=top",
+    "hot": 99870
+  },
+  "台北电影节": {
+    "url": "https://s.weibo.com/weibo?q=%E5%8F%B0%E5%8C%97%E7%94%B5%E5%BD%B1%E8%8A%82&t=31&band_rank=48&Refer=top",
+    "hot": 99684
   }
 }
