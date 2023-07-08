@@ -39,6 +39,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E4%BA%8C%E5%A7%90%E5%96%8A%E8%AF%9D%E8%AE%A9%E7%9F%A5%E6%83%85%E4%BA%BA%E7%AB%99%E5%87%BA%E6%9D%A5%23&t=31&band_rank=31&Refer=top",
     "hot": 1935125
   },
+  "第一次上交工资就被警察查了": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B8%8A%E4%BA%A4%E5%B7%A5%E8%B5%84%E5%B0%B1%E8%A2%AB%E8%AD%A6%E5%AF%9F%E6%9F%A5%E4%BA%86%23&t=31&band_rank=31&Refer=top",
+    "hot": 1800772
+  },
   "男孩买药欲轻生被店员路人劝下": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E4%B9%B0%E8%8D%AF%E6%AC%B2%E8%BD%BB%E7%94%9F%E8%A2%AB%E5%BA%97%E5%91%98%E8%B7%AF%E4%BA%BA%E5%8A%9D%E4%B8%8B%23&t=31&band_rank=44&Refer=top",
     "hot": 1764930
@@ -66,10 +70,6 @@
   "12岁女孩搬啤酒炸裂一地后": {
     "url": "https://s.weibo.com/weibo?q=%2312%E5%B2%81%E5%A5%B3%E5%AD%A9%E6%90%AC%E5%95%A4%E9%85%92%E7%82%B8%E8%A3%82%E4%B8%80%E5%9C%B0%E5%90%8E%23&t=31&band_rank=42&Refer=top",
     "hot": 1302075
-  },
-  "第一次上交工资就被警察查了": {
-    "url": "https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B8%8A%E4%BA%A4%E5%B7%A5%E8%B5%84%E5%B0%B1%E8%A2%AB%E8%AD%A6%E5%AF%9F%E6%9F%A5%E4%BA%86%23&t=31&band_rank=31&Refer=top",
-    "hot": 1290731
   },
   "奔跑吧没播": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A7%E6%B2%A1%E6%92%AD%23&t=31&band_rank=2&Refer=top",
@@ -527,6 +527,10 @@
     "url": "https://s.weibo.com/weibo?q=PEL&t=31&band_rank=40&Refer=top",
     "hot": 358716
   },
+  "TMEA红毯": {
+    "url": "https://s.weibo.com/weibo?q=TMEA%E7%BA%A2%E6%AF%AF&t=31&band_rank=18&Refer=top",
+    "hot": 358258
+  },
   "入职3天因公司氛围不好离职了": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%85%A5%E8%81%8C3%E5%A4%A9%E5%9B%A0%E5%85%AC%E5%8F%B8%E6%B0%9B%E5%9B%B4%E4%B8%8D%E5%A5%BD%E7%A6%BB%E8%81%8C%E4%BA%86%23&t=31&band_rank=38&Refer=top",
     "hot": 356584
@@ -647,9 +651,17 @@
     "url": "https://s.weibo.com/weibo?q=INFP%20%E5%91%BD%E8%BF%90%E4%BC%9A%E8%AE%A9%E6%88%91%E4%BB%AC%E7%9B%B8%E9%81%87&t=31&band_rank=48&Refer=top",
     "hot": 306786
   },
+  "男子称在酒店床上发现排泄物": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%A7%B0%E5%9C%A8%E9%85%92%E5%BA%97%E5%BA%8A%E4%B8%8A%E5%8F%91%E7%8E%B0%E6%8E%92%E6%B3%84%E7%89%A9%23&t=31&band_rank=31&Refer=top",
+    "hot": 306696
+  },
   "河南人被正式确诊为红孩儿": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E4%BA%BA%E8%A2%AB%E6%AD%A3%E5%BC%8F%E7%A1%AE%E8%AF%8A%E4%B8%BA%E7%BA%A2%E5%AD%A9%E5%84%BF%23&t=31&band_rank=25&Refer=top",
     "hot": 306234
+  },
+  "山东人被正式确诊为铁扇公主": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E4%BA%BA%E8%A2%AB%E6%AD%A3%E5%BC%8F%E7%A1%AE%E8%AF%8A%E4%B8%BA%E9%93%81%E6%89%87%E5%85%AC%E4%B8%BB%23&t=31&band_rank=25&Refer=top",
+    "hot": 303780
   },
   "李玟重病时仍在关心郑欣宜": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E9%87%8D%E7%97%85%E6%97%B6%E4%BB%8D%E5%9C%A8%E5%85%B3%E5%BF%83%E9%83%91%E6%AC%A3%E5%AE%9C%23&t=31&band_rank=46&Refer=top",
@@ -779,10 +791,6 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%98%98%E5%98%98%E4%B8%8D%E7%A8%80%E5%BE%97%E7%9C%8B%E9%99%86%E8%99%8E%E6%89%8B%E6%9C%BA%23&t=31&band_rank=38&Refer=top",
     "hot": 259053
   },
-  "山东人被正式确诊为铁扇公主": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E4%BA%BA%E8%A2%AB%E6%AD%A3%E5%BC%8F%E7%A1%AE%E8%AF%8A%E4%B8%BA%E9%93%81%E6%89%87%E5%85%AC%E4%B8%BB%23&t=31&band_rank=25&Refer=top",
-    "hot": 258206
-  },
   "为了生活 先生": {
     "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BA%86%E7%94%9F%E6%B4%BB%20%E5%85%88%E7%94%9F&t=31&band_rank=45&Refer=top",
     "hot": 256075
@@ -871,10 +879,6 @@
     "url": "https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B%E6%B2%99%E6%BB%A9%E5%8F%88%E7%8E%B0%E8%84%B8%E5%9F%BA%E5%B0%BC%23&t=31&band_rank=48&Refer=top",
     "hot": 233330
   },
-  "男子称在酒店床上发现排泄物": {
-    "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%A7%B0%E5%9C%A8%E9%85%92%E5%BA%97%E5%BA%8A%E4%B8%8A%E5%8F%91%E7%8E%B0%E6%8E%92%E6%B3%84%E7%89%A9%23&t=31&band_rank=31&Refer=top",
-    "hot": 230567
-  },
   "奔跑吧": {
     "url": "https://s.weibo.com/weibo?q=%E5%A5%94%E8%B7%91%E5%90%A7&t=31&band_rank=35&Refer=top",
     "hot": 229959
@@ -898,6 +902,10 @@
   "TMEA音乐盛典节目单": {
     "url": "https://s.weibo.com/weibo?q=%23TMEA%E9%9F%B3%E4%B9%90%E7%9B%9B%E5%85%B8%E8%8A%82%E7%9B%AE%E5%8D%95%23&t=31&band_rank=43&Refer=top",
     "hot": 222837
+  },
+  "TMEA音乐盛典": {
+    "url": "https://s.weibo.com/weibo?q=TMEA%E9%9F%B3%E4%B9%90%E7%9B%9B%E5%85%B8&t=31&band_rank=29&Refer=top",
+    "hot": 221968
   },
   "因为不吃鱼籽和男朋友吵架了": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%9B%A0%E4%B8%BA%E4%B8%8D%E5%90%83%E9%B1%BC%E7%B1%BD%E5%92%8C%E7%94%B7%E6%9C%8B%E5%8F%8B%E5%90%B5%E6%9E%B6%E4%BA%86%23&t=31&band_rank=29&Refer=top",
@@ -1086,6 +1094,10 @@
   "书店老板回应被曝售卖情趣骰子": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%B9%A6%E5%BA%97%E8%80%81%E6%9D%BF%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%9B%9D%E5%94%AE%E5%8D%96%E6%83%85%E8%B6%A3%E9%AA%B0%E5%AD%90%23&t=31&band_rank=40&Refer=top",
     "hot": 172523
+  },
+  "上海迪士尼回应禁止游客带凳子入园": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%9B%9E%E5%BA%94%E7%A6%81%E6%AD%A2%E6%B8%B8%E5%AE%A2%E5%B8%A6%E5%87%B3%E5%AD%90%E5%85%A5%E5%9B%AD%23&t=31&band_rank=46&Refer=top",
+    "hot": 163350
   },
   "老虎抓鸭子": {
     "url": "https://s.weibo.com/weibo?q=%E8%80%81%E8%99%8E%E6%8A%93%E9%B8%AD%E5%AD%90&t=31&band_rank=50&Refer=top",
