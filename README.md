@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-07-10 06:10:29.503143 
+最后更新时间 2023-07-10 06:27:44.469919 
 1. [26岁一想到明天上班还想哭](https://s.weibo.com/weibo?q=%2326%E5%B2%81%E4%B8%80%E6%83%B3%E5%88%B0%E6%98%8E%E5%A4%A9%E4%B8%8A%E7%8F%AD%E8%BF%98%E6%83%B3%E5%93%AD%23&t=31&band_rank=1&Refer=top) 1540192
 1. [肖战下一部戏藏海戏麟](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E4%B8%8B%E4%B8%80%E9%83%A8%E6%88%8F%E8%97%8F%E6%B5%B7%E6%88%8F%E9%BA%9F%23&t=31&band_rank=2&Refer=top) 1158471
 1. [高考录取通知查询通道](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E6%9F%A5%E8%AF%A2%E9%80%9A%E9%81%93%23&t=31&band_rank=3&Refer=top) 1047342
@@ -81,6 +81,7 @@
 1. [张淼怡粉发](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%B7%BC%E6%80%A1%E7%B2%89%E5%8F%91%23&t=31&band_rank=37&Refer=top) 52686
 1. [玉骨遥](https://s.weibo.com/weibo?q=%E7%8E%89%E9%AA%A8%E9%81%A5&t=31&band_rank=49&Refer=top) 50328
 1. [学学李白找工作](https://s.weibo.com/weibo?q=%E5%AD%A6%E5%AD%A6%E6%9D%8E%E7%99%BD%E6%89%BE%E5%B7%A5%E4%BD%9C&t=31&band_rank=36&Refer=top) 48491
+1. [南大0001号录取通知书获得者](https://s.weibo.com/weibo?q=%23%E5%8D%97%E5%A4%A70001%E5%8F%B7%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E8%8E%B7%E5%BE%97%E8%80%85%23&t=31&band_rank=45&Refer=top) 48000
 <!-- END -->
 
 历史归档 [./archives](./archives)
