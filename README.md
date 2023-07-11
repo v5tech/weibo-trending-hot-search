@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-07-12 04:26:36.024422 
+最后更新时间 2023-07-12 04:35:43.179903 
 1. [缅甸](https://s.weibo.com/weibo?q=%E7%BC%85%E7%94%B8&t=31&band_rank=2&Refer=top) 3281068
 1. [宝格丽道歉别弄成专供中国大陆](https://s.weibo.com/weibo?q=%23%E5%AE%9D%E6%A0%BC%E4%B8%BD%E9%81%93%E6%AD%89%E5%88%AB%E5%BC%84%E6%88%90%E4%B8%93%E4%BE%9B%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%23&t=31&band_rank=1&Refer=top) 2498206
 1. [长江文物宝藏画卷](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B1%9F%E6%96%87%E7%89%A9%E5%AE%9D%E8%97%8F%E7%94%BB%E5%8D%B7%23&t=31&band_rank=3&Refer=top) 1333215
