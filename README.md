@@ -7,13 +7,13 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-07-12 06:28:37.302438 
+最后更新时间 2023-07-12 06:38:24.349128 
 1. [缅甸](https://s.weibo.com/weibo?q=%E7%BC%85%E7%94%B8&t=31&band_rank=2&Refer=top) 3281068
 1. [宝格丽道歉别弄成专供中国大陆](https://s.weibo.com/weibo?q=%23%E5%AE%9D%E6%A0%BC%E4%B8%BD%E9%81%93%E6%AD%89%E5%88%AB%E5%BC%84%E6%88%90%E4%B8%93%E4%BE%9B%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%23&t=31&band_rank=1&Refer=top) 2498206
 1. [长江文物宝藏画卷](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B1%9F%E6%96%87%E7%89%A9%E5%AE%9D%E8%97%8F%E7%94%BB%E5%8D%B7%23&t=31&band_rank=3&Refer=top) 1333215
 1. [李维嘉官宣加盟优酷新综艺](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%BB%B4%E5%98%89%E5%AE%98%E5%AE%A3%E5%8A%A0%E7%9B%9F%E4%BC%98%E9%85%B7%E6%96%B0%E7%BB%BC%E8%89%BA%23&t=31&band_rank=4&Refer=top) 1015156
 1. [郑州暴雨](https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E6%9A%B4%E9%9B%A8%23&t=31&band_rank=25&Refer=top) 941263
-1. [如果微信显示已读的话](https://s.weibo.com/weibo?q=%23%E5%A6%82%E6%9E%9C%E5%BE%AE%E4%BF%A1%E6%98%BE%E7%A4%BA%E5%B7%B2%E8%AF%BB%E7%9A%84%E8%AF%9D%23&t=31&band_rank=21&Refer=top) 753245
+1. [如果微信显示已读的话](https://s.weibo.com/weibo?q=%23%E5%A6%82%E6%9E%9C%E5%BE%AE%E4%BF%A1%E6%98%BE%E7%A4%BA%E5%B7%B2%E8%AF%BB%E7%9A%84%E8%AF%9D%23&t=31&band_rank=21&Refer=top) 797215
 1. [西安交大博士生毕业后希望回到母校工作](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E4%BA%A4%E5%A4%A7%E5%8D%9A%E5%A3%AB%E7%94%9F%E6%AF%95%E4%B8%9A%E5%90%8E%E5%B8%8C%E6%9C%9B%E5%9B%9E%E5%88%B0%E6%AF%8D%E6%A0%A1%E5%B7%A5%E4%BD%9C%23&t=31&band_rank=5&Refer=top) 706368
 1. [姐姐30万赎弟弟没出缅甸又遭转卖](https://s.weibo.com/weibo?q=%23%E5%A7%90%E5%A7%9030%E4%B8%87%E8%B5%8E%E5%BC%9F%E5%BC%9F%E6%B2%A1%E5%87%BA%E7%BC%85%E7%94%B8%E5%8F%88%E9%81%AD%E8%BD%AC%E5%8D%96%23&t=31&band_rank=6&Refer=top) 698462
 1. [孟宴臣原著结局](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AE%B4%E8%87%A3%E5%8E%9F%E8%91%97%E7%BB%93%E5%B1%80%23&t=31&band_rank=7&Refer=top) 673002
@@ -58,17 +58,18 @@
 1. [女子被拐26年后回家父母已身亡](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A2%AB%E6%8B%9026%E5%B9%B4%E5%90%8E%E5%9B%9E%E5%AE%B6%E7%88%B6%E6%AF%8D%E5%B7%B2%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=47&Refer=top) 160929
 1. [张若昀唐艺昕 性张力](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%8B%A5%E6%98%80%E5%94%90%E8%89%BA%E6%98%95%20%E6%80%A7%E5%BC%A0%E5%8A%9B%23&t=31&band_rank=48&Refer=top) 160646
 1. [LPL比赛延期](https://s.weibo.com/weibo?q=LPL%E6%AF%94%E8%B5%9B%E5%BB%B6%E6%9C%9F&t=31&band_rank=49&Refer=top) 157890
+1. [闫桉终于来演偶像剧了](https://s.weibo.com/weibo?q=%23%E9%97%AB%E6%A1%89%E7%BB%88%E4%BA%8E%E6%9D%A5%E6%BC%94%E5%81%B6%E5%83%8F%E5%89%A7%E4%BA%86%23&t=31&band_rank=47&Refer=top) 157254
 1. [哥哥精神残疾由外婆带大女孩高考648分](https://s.weibo.com/weibo?q=%23%E5%93%A5%E5%93%A5%E7%B2%BE%E7%A5%9E%E6%AE%8B%E7%96%BE%E7%94%B1%E5%A4%96%E5%A9%86%E5%B8%A6%E5%A4%A7%E5%A5%B3%E5%AD%A9%E9%AB%98%E8%80%83648%E5%88%86%23&t=31&band_rank=50&Refer=top) 152395
 1. [宝格丽客服回应](https://s.weibo.com/weibo?q=%23%E5%AE%9D%E6%A0%BC%E4%B8%BD%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%23&t=31&band_rank=50&Refer=top) 141693
 1. [宋茜王鹤棣或将演凤来栖](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%8C%9C%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%88%96%E5%B0%86%E6%BC%94%E5%87%A4%E6%9D%A5%E6%A0%96%23&t=31&band_rank=46&Refer=top) 133280
-1. [闫桉终于来演偶像剧了](https://s.weibo.com/weibo?q=%23%E9%97%AB%E6%A1%89%E7%BB%88%E4%BA%8E%E6%9D%A5%E6%BC%94%E5%81%B6%E5%83%8F%E5%89%A7%E4%BA%86%23&t=31&band_rank=47&Refer=top) 127999
 1. [宝格丽](https://s.weibo.com/weibo?q=%23%E5%AE%9D%E6%A0%BC%E4%B8%BD%23&t=31&band_rank=47&Refer=top) 127904
+1. [西安的雨没有100斤寸步难行](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E7%9A%84%E9%9B%A8%E6%B2%A1%E6%9C%89100%E6%96%A4%E5%AF%B8%E6%AD%A5%E9%9A%BE%E8%A1%8C%23&t=31&band_rank=38&Refer=top) 90433
 1. [纪若尘的修仙日纪](https://s.weibo.com/weibo?q=%23%E7%BA%AA%E8%8B%A5%E5%B0%98%E7%9A%84%E4%BF%AE%E4%BB%99%E6%97%A5%E7%BA%AA%23&t=31&band_rank=47&Refer=top) 63698
+1. [王一博晒分层](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%99%92%E5%88%86%E5%B1%82%23&t=31&band_rank=43&Refer=top) 58843
 1. [李雪琴痛失两个名字](https://s.weibo.com/weibo?q=%E6%9D%8E%E9%9B%AA%E7%90%B4%E7%97%9B%E5%A4%B1%E4%B8%A4%E4%B8%AA%E5%90%8D%E5%AD%97&t=31&band_rank=47&Refer=top) 55409
-1. [西安的雨没有100斤寸步难行](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E7%9A%84%E9%9B%A8%E6%B2%A1%E6%9C%89100%E6%96%A4%E5%AF%B8%E6%AD%A5%E9%9A%BE%E8%A1%8C%23&t=31&band_rank=38&Refer=top) 52994
 1. [ITZY概念短片](https://s.weibo.com/weibo?q=ITZY%E6%A6%82%E5%BF%B5%E7%9F%AD%E7%89%87&t=31&band_rank=49&Refer=top) 50751
-1. [王一博晒分层](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%99%92%E5%88%86%E5%B1%82%23&t=31&band_rank=43&Refer=top) 50044
-1. [肖战大漠vlog](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%A4%A7%E6%BC%A0vlog%23&t=31&band_rank=46&Refer=top) 49660
+1. [肖战大漠vlog](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%A4%A7%E6%BC%A0vlog%23&t=31&band_rank=46&Refer=top) 49706
+1. [费翔老师我妈爱你](https://s.weibo.com/weibo?q=%23%E8%B4%B9%E7%BF%94%E8%80%81%E5%B8%88%E6%88%91%E5%A6%88%E7%88%B1%E4%BD%A0%23&t=31&band_rank=47&Refer=top) 49592
 1. [UP对战TES](https://s.weibo.com/weibo?q=%23UP%E5%AF%B9%E6%88%98TES%23&t=31&band_rank=49&Refer=top) 49059
 1. [德约科维奇晋级温网8强](https://s.weibo.com/weibo?q=%23%E5%BE%B7%E7%BA%A6%E7%A7%91%E7%BB%B4%E5%A5%87%E6%99%8B%E7%BA%A7%E6%B8%A9%E7%BD%918%E5%BC%BA%23&t=31&band_rank=50&Refer=top) 39343
 1. [在数模上打破了性别的壁垒](https://s.weibo.com/weibo?q=%E5%9C%A8%E6%95%B0%E6%A8%A1%E4%B8%8A%E6%89%93%E7%A0%B4%E4%BA%86%E6%80%A7%E5%88%AB%E7%9A%84%E5%A3%81%E5%9E%92&t=31&band_rank=50&Refer=top) 29883
