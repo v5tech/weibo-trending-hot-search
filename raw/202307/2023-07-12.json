@@ -31,6 +31,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AE%B4%E8%87%A3%E5%8E%9F%E8%91%97%E7%BB%93%E5%B1%80%23&t=31&band_rank=7&Refer=top",
     "hot": 673002
   },
+  "如果微信显示已读的话": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A6%82%E6%9E%9C%E5%BE%AE%E4%BF%A1%E6%98%BE%E7%A4%BA%E5%B7%B2%E8%AF%BB%E7%9A%84%E8%AF%9D%23&t=31&band_rank=21&Refer=top",
+    "hot": 669227
+  },
   "唐艺昕错位礼服": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%94%90%E8%89%BA%E6%98%95%E9%94%99%E4%BD%8D%E7%A4%BC%E6%9C%8D%23&t=31&band_rank=8&Refer=top",
     "hot": 656401
@@ -42,10 +46,6 @@
   "父亲开家长会睡觉和儿子同一姿势": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E5%BC%80%E5%AE%B6%E9%95%BF%E4%BC%9A%E7%9D%A1%E8%A7%89%E5%92%8C%E5%84%BF%E5%AD%90%E5%90%8C%E4%B8%80%E5%A7%BF%E5%8A%BF%23&t=31&band_rank=34&Refer=top",
     "hot": 624409
-  },
-  "如果微信显示已读的话": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%A6%82%E6%9E%9C%E5%BE%AE%E4%BF%A1%E6%98%BE%E7%A4%BA%E5%B7%B2%E8%AF%BB%E7%9A%84%E8%AF%9D%23&t=31&band_rank=21&Refer=top",
-    "hot": 594520
   },
   "易梦玲要开始演戏了": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%98%93%E6%A2%A6%E7%8E%B2%E8%A6%81%E5%BC%80%E5%A7%8B%E6%BC%94%E6%88%8F%E4%BA%86%23&t=31&band_rank=10&Refer=top",
@@ -214,5 +214,9 @@
   "宝格丽": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%AE%9D%E6%A0%BC%E4%B8%BD%23&t=31&band_rank=47&Refer=top",
     "hot": 127904
+  },
+  "纪若尘的修仙日纪": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BA%AA%E8%8B%A5%E5%B0%98%E7%9A%84%E4%BF%AE%E4%BB%99%E6%97%A5%E7%BA%AA%23&t=31&band_rank=47&Refer=top",
+    "hot": 63698
   }
 }
