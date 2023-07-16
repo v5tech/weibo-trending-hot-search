@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-07-17 02:48:59.956921 
+最后更新时间 2023-07-17 03:19:36.338017 
 1. [原来魏大勋说的都是真的](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E9%AD%8F%E5%A4%A7%E5%8B%8B%E8%AF%B4%E7%9A%84%E9%83%BD%E6%98%AF%E7%9C%9F%E7%9A%84%23&t=31&band_rank=1&Refer=top) 1594821
 1. [虹桥火车站每天捡1袋子遗失的蓝牙耳机](https://s.weibo.com/weibo?q=%23%E8%99%B9%E6%A1%A5%E7%81%AB%E8%BD%A6%E7%AB%99%E6%AF%8F%E5%A4%A9%E6%8D%A11%E8%A2%8B%E5%AD%90%E9%81%97%E5%A4%B1%E7%9A%84%E8%93%9D%E7%89%99%E8%80%B3%E6%9C%BA%23&t=31&band_rank=2&Refer=top) 1100183
 1. [成都大运会开幕式有哪些亮点](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%A4%A7%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E6%9C%89%E5%93%AA%E4%BA%9B%E4%BA%AE%E7%82%B9%23&t=31&band_rank=3&Refer=top) 840370
@@ -69,8 +69,9 @@
 1. [导演周国栋因病去世](https://s.weibo.com/weibo?q=%23%E5%AF%BC%E6%BC%94%E5%91%A8%E5%9B%BD%E6%A0%8B%E5%9B%A0%E7%97%85%E5%8E%BB%E4%B8%96%23&t=31&band_rank=46&Refer=top) 104797
 1. [2男子卖薛之谦演唱会假门票被抓](https://s.weibo.com/weibo?q=%232%E7%94%B7%E5%AD%90%E5%8D%96%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E5%81%87%E9%97%A8%E7%A5%A8%E8%A2%AB%E6%8A%93%23&t=31&band_rank=25&Refer=top) 100106
 1. [刘亦菲开箱vlog](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E5%BC%80%E7%AE%B1vlog%23&t=31&band_rank=33&Refer=top) 100040
-1. [蜘蛛在男子睡梦时钻入耳道结网](https://s.weibo.com/weibo?q=%23%E8%9C%98%E8%9B%9B%E5%9C%A8%E7%94%B7%E5%AD%90%E7%9D%A1%E6%A2%A6%E6%97%B6%E9%92%BB%E5%85%A5%E8%80%B3%E9%81%93%E7%BB%93%E7%BD%91%23&t=31&band_rank=50&Refer=top) 49663
+1. [蜘蛛在男子睡梦时钻入耳道结网](https://s.weibo.com/weibo?q=%23%E8%9C%98%E8%9B%9B%E5%9C%A8%E7%94%B7%E5%AD%90%E7%9D%A1%E6%A2%A6%E6%97%B6%E9%92%BB%E5%85%A5%E8%80%B3%E9%81%93%E7%BB%93%E7%BD%91%23&t=31&band_rank=50&Refer=top) 53449
 1. [张杰演唱会](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=47&Refer=top) 42615
+1. [新版妲己封神首映弹古琴](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%89%88%E5%A6%B2%E5%B7%B1%E5%B0%81%E7%A5%9E%E9%A6%96%E6%98%A0%E5%BC%B9%E5%8F%A4%E7%90%B4%23&t=31&band_rank=33&Refer=top) 38383
 <!-- END -->
 
 历史归档 [./archives](./archives)
