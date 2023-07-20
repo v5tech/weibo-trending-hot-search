@@ -191,6 +191,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E9%97%A8%E5%81%9A%E8%8F%9C%E4%B8%8A%E9%97%A8%E7%BE%8E%E7%94%B2%E7%81%AB%E4%BA%86%23&t=31&band_rank=34&Refer=top",
     "hot": 265275
   },
+  "陆沉": {
+    "url": "https://s.weibo.com/weibo?q=%E9%99%86%E6%B2%89&t=31&band_rank=19&Refer=top",
+    "hot": 253216
+  },
   "PDD美依礼芽直播": {
     "url": "https://s.weibo.com/weibo?q=%23PDD%E7%BE%8E%E4%BE%9D%E7%A4%BC%E8%8A%BD%E7%9B%B4%E6%92%AD%23&t=31&band_rank=34&Refer=top",
     "hot": 252191
@@ -246,9 +250,5 @@
   "京城大师赛 梦幻狼队": {
     "url": "https://s.weibo.com/weibo?q=%E4%BA%AC%E5%9F%8E%E5%A4%A7%E5%B8%88%E8%B5%9B%20%E6%A2%A6%E5%B9%BB%E7%8B%BC%E9%98%9F&t=31&band_rank=39&Refer=top",
     "hot": 219505
-  },
-  "陆沉": {
-    "url": "https://s.weibo.com/weibo?q=%E9%99%86%E6%B2%89&t=31&band_rank=19&Refer=top",
-    "hot": 119222
   }
 }
