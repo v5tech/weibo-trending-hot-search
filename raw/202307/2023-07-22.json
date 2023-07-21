@@ -290,5 +290,9 @@
   "芭比排片": {
     "url": "https://s.weibo.com/weibo?q=%E8%8A%AD%E6%AF%94%E6%8E%92%E7%89%87&t=31&band_rank=47&Refer=top",
     "hot": 31930
+  },
+  "微博公开课": {
+    "url": "https://s.weibo.com/weibo?q=%E5%BE%AE%E5%8D%9A%E5%85%AC%E5%BC%80%E8%AF%BE&t=31&band_rank=50&Refer=top",
+    "hot": 24388
   }
 }
