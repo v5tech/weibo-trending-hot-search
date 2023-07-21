@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-07-22 04:34:40.055068 
+最后更新时间 2023-07-22 04:49:04.951434 
 1. [Angelababy告别奔跑吧](https://s.weibo.com/weibo?q=%23Angelababy%E5%91%8A%E5%88%AB%E5%A5%94%E8%B7%91%E5%90%A7%23&t=31&band_rank=1&Refer=top) 1655472
 1. [Ella把C位让给了谢娜](https://s.weibo.com/weibo?q=%23Ella%E6%8A%8AC%E4%BD%8D%E8%AE%A9%E7%BB%99%E4%BA%86%E8%B0%A2%E5%A8%9C%23&t=31&band_rank=2&Refer=top) 1536035
 1. [航天员出舱所有任务都是一次完成](https://s.weibo.com/weibo?q=%23%E8%88%AA%E5%A4%A9%E5%91%98%E5%87%BA%E8%88%B1%E6%89%80%E6%9C%89%E4%BB%BB%E5%8A%A1%E9%83%BD%E6%98%AF%E4%B8%80%E6%AC%A1%E5%AE%8C%E6%88%90%23&t=31&band_rank=3&Refer=top) 1277213
@@ -79,6 +79,8 @@
 1. [肖战删了一句台词](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%88%A0%E4%BA%86%E4%B8%80%E5%8F%A5%E5%8F%B0%E8%AF%8D%23&t=31&band_rank=36&Refer=top) 52287
 1. [乘客突发心脏病公交抄近路开进医院](https://s.weibo.com/weibo?q=%23%E4%B9%98%E5%AE%A2%E7%AA%81%E5%8F%91%E5%BF%83%E8%84%8F%E7%97%85%E5%85%AC%E4%BA%A4%E6%8A%84%E8%BF%91%E8%B7%AF%E5%BC%80%E8%BF%9B%E5%8C%BB%E9%99%A2%23&t=31&band_rank=49&Refer=top) 38263
 1. [陈佩斯朱时茂神预言我的人间烟火](https://s.weibo.com/weibo?q=%23%E9%99%88%E4%BD%A9%E6%96%AF%E6%9C%B1%E6%97%B6%E8%8C%82%E7%A5%9E%E9%A2%84%E8%A8%80%E6%88%91%E7%9A%84%E4%BA%BA%E9%97%B4%E7%83%9F%E7%81%AB%23&t=31&band_rank=31&Refer=top) 35732
+1. [泡泡岛](https://s.weibo.com/weibo?q=%E6%B3%A1%E6%B3%A1%E5%B2%9B&t=31&band_rank=45&Refer=top) 31964
+1. [芭比排片](https://s.weibo.com/weibo?q=%E8%8A%AD%E6%AF%94%E6%8E%92%E7%89%87&t=31&band_rank=47&Refer=top) 31930
 <!-- END -->
 
 历史归档 [./archives](./archives)
