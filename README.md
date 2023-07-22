@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-07-23 05:19:21.512318 
+最后更新时间 2023-07-23 05:34:12.822290 
 1. [你好星期六收视创新高](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%E6%94%B6%E8%A7%86%E5%88%9B%E6%96%B0%E9%AB%98%23&t=31&band_rank=1&Refer=top) 2515184
 1. [孟宴臣蝴蝶墙没了](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AE%B4%E8%87%A3%E8%9D%B4%E8%9D%B6%E5%A2%99%E6%B2%A1%E4%BA%86%23&t=31&band_rank=2&Refer=top) 1669022
 1. [中国跳水队12金收官](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%B7%B3%E6%B0%B4%E9%98%9F12%E9%87%91%E6%94%B6%E5%AE%98%23&t=31&band_rank=3&Refer=top) 1550497
