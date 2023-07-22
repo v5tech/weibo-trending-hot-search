@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-07-23 03:34:23.723149 
+最后更新时间 2023-07-23 03:49:04.959519 
 1. [你好星期六收视创新高](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%E6%94%B6%E8%A7%86%E5%88%9B%E6%96%B0%E9%AB%98%23&t=31&band_rank=1&Refer=top) 2515184
 1. [孟宴臣蝴蝶墙没了](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AE%B4%E8%87%A3%E8%9D%B4%E8%9D%B6%E5%A2%99%E6%B2%A1%E4%BA%86%23&t=31&band_rank=2&Refer=top) 1669022
 1. [中国跳水队12金收官](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%B7%B3%E6%B0%B4%E9%98%9F12%E9%87%91%E6%94%B6%E5%AE%98%23&t=31&band_rank=3&Refer=top) 1550497
@@ -77,7 +77,7 @@
 1. [乌尔善不想把妲己拍得太风骚](https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%B0%94%E5%96%84%E4%B8%8D%E6%83%B3%E6%8A%8A%E5%A6%B2%E5%B7%B1%E6%8B%8D%E5%BE%97%E5%A4%AA%E9%A3%8E%E9%AA%9A%23&t=31&band_rank=32&Refer=top) 60493
 1. [百变马丁原来是国产动画](https://s.weibo.com/weibo?q=%23%E7%99%BE%E5%8F%98%E9%A9%AC%E4%B8%81%E5%8E%9F%E6%9D%A5%E6%98%AF%E5%9B%BD%E4%BA%A7%E5%8A%A8%E7%94%BB%23&t=31&band_rank=49&Refer=top) 53564
 1. [京城大师赛](https://s.weibo.com/weibo?q=%E4%BA%AC%E5%9F%8E%E5%A4%A7%E5%B8%88%E8%B5%9B&t=31&band_rank=46&Refer=top) 48359
-1. [纣王到底爱不爱妲己](https://s.weibo.com/weibo?q=%23%E7%BA%A3%E7%8E%8B%E5%88%B0%E5%BA%95%E7%88%B1%E4%B8%8D%E7%88%B1%E5%A6%B2%E5%B7%B1%23&t=31&band_rank=33&Refer=top) 44756
+1. [纣王到底爱不爱妲己](https://s.weibo.com/weibo?q=%23%E7%BA%A3%E7%8E%8B%E5%88%B0%E5%BA%95%E7%88%B1%E4%B8%8D%E7%88%B1%E5%A6%B2%E5%B7%B1%23&t=31&band_rank=33&Refer=top) 46721
 <!-- END -->
 
 历史归档 [./archives](./archives)
