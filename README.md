@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-07-23 02:34:49.066311 
+最后更新时间 2023-07-23 02:48:52.276076 
 1. [你好星期六收视创新高](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%E6%94%B6%E8%A7%86%E5%88%9B%E6%96%B0%E9%AB%98%23&t=31&band_rank=1&Refer=top) 2515184
 1. [孟宴臣蝴蝶墙没了](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AE%B4%E8%87%A3%E8%9D%B4%E8%9D%B6%E5%A2%99%E6%B2%A1%E4%BA%86%23&t=31&band_rank=2&Refer=top) 1669022
 1. [中国跳水队12金收官](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%B7%B3%E6%B0%B4%E9%98%9F12%E9%87%91%E6%94%B6%E5%AE%98%23&t=31&band_rank=3&Refer=top) 1550497
@@ -71,8 +71,10 @@
 1. [偶像梦幻祭](https://s.weibo.com/weibo?q=%E5%81%B6%E5%83%8F%E6%A2%A6%E5%B9%BB%E7%A5%AD&t=31&band_rank=46&Refer=top) 155910
 1. [因为长安三万里李白墓前摆满了美酒](https://s.weibo.com/weibo?q=%23%E5%9B%A0%E4%B8%BA%E9%95%BF%E5%AE%89%E4%B8%89%E4%B8%87%E9%87%8C%E6%9D%8E%E7%99%BD%E5%A2%93%E5%89%8D%E6%91%86%E6%BB%A1%E4%BA%86%E7%BE%8E%E9%85%92%23&t=31&band_rank=43&Refer=top) 114691
 1. [Aimer现场](https://s.weibo.com/weibo?q=Aimer%E7%8E%B0%E5%9C%BA&t=31&band_rank=37&Refer=top) 83592
+1. [芭比导演坚持反对剪掉老奶奶场景](https://s.weibo.com/weibo?q=%E8%8A%AD%E6%AF%94%E5%AF%BC%E6%BC%94%E5%9D%9A%E6%8C%81%E5%8F%8D%E5%AF%B9%E5%89%AA%E6%8E%89%E8%80%81%E5%A5%B6%E5%A5%B6%E5%9C%BA%E6%99%AF&t=31&band_rank=33&Refer=top) 73404
 1. [夏日治愈瞬间](https://s.weibo.com/weibo?q=%E5%A4%8F%E6%97%A5%E6%B2%BB%E6%84%88%E7%9E%AC%E9%97%B4&t=31&band_rank=50&Refer=top) 72560
 1. [郑恺从年轻小伙子变成了父亲](https://s.weibo.com/weibo?q=%23%E9%83%91%E6%81%BA%E4%BB%8E%E5%B9%B4%E8%BD%BB%E5%B0%8F%E4%BC%99%E5%AD%90%E5%8F%98%E6%88%90%E4%BA%86%E7%88%B6%E4%BA%B2%23&t=31&band_rank=45&Refer=top) 65597
+1. [百变马丁原来是国产动画](https://s.weibo.com/weibo?q=%23%E7%99%BE%E5%8F%98%E9%A9%AC%E4%B8%81%E5%8E%9F%E6%9D%A5%E6%98%AF%E5%9B%BD%E4%BA%A7%E5%8A%A8%E7%94%BB%23&t=31&band_rank=49&Refer=top) 53557
 <!-- END -->
 
 历史归档 [./archives](./archives)
