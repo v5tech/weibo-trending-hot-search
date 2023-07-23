@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-07-24 03:34:12.782821 
+最后更新时间 2023-07-24 03:49:10.493663 
 1. [齐齐哈尔三十四中坍塌现场救出11人](https://s.weibo.com/weibo?q=%23%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E4%B8%89%E5%8D%81%E5%9B%9B%E4%B8%AD%E5%9D%8D%E5%A1%8C%E7%8E%B0%E5%9C%BA%E6%95%91%E5%87%BA11%E4%BA%BA%23&t=31&band_rank=1&Refer=top) 1504299
 1. [网友在LV花近万元买错码不换被驱逐](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E5%9C%A8LV%E8%8A%B1%E8%BF%91%E4%B8%87%E5%85%83%E4%B9%B0%E9%94%99%E7%A0%81%E4%B8%8D%E6%8D%A2%E8%A2%AB%E9%A9%B1%E9%80%90%23&t=31&band_rank=2&Refer=top) 1072826
 1. [我国成功发射一箭四星](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E4%B8%80%E7%AE%AD%E5%9B%9B%E6%98%9F%23&t=31&band_rank=3&Refer=top) 1068467
