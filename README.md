@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-07-24 01:23:24.893788 
+最后更新时间 2023-07-24 01:34:13.204447 
 1. [齐齐哈尔三十四中坍塌现场救出11人](https://s.weibo.com/weibo?q=%23%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E4%B8%89%E5%8D%81%E5%9B%9B%E4%B8%AD%E5%9D%8D%E5%A1%8C%E7%8E%B0%E5%9C%BA%E6%95%91%E5%87%BA11%E4%BA%BA%23&t=31&band_rank=1&Refer=top) 1504299
 1. [网友在LV花近万元买错码不换被驱逐](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E5%9C%A8LV%E8%8A%B1%E8%BF%91%E4%B8%87%E5%85%83%E4%B9%B0%E9%94%99%E7%A0%81%E4%B8%8D%E6%8D%A2%E8%A2%AB%E9%A9%B1%E9%80%90%23&t=31&band_rank=2&Refer=top) 1072826
 1. [我国成功发射一箭四星](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E4%B8%80%E7%AE%AD%E5%9B%9B%E6%98%9F%23&t=31&band_rank=3&Refer=top) 1068467
@@ -66,7 +66,9 @@
 1. [电视剧里的濒死剖宫产真的存在吗](https://s.weibo.com/weibo?q=%E7%94%B5%E8%A7%86%E5%89%A7%E9%87%8C%E7%9A%84%E6%BF%92%E6%AD%BB%E5%89%96%E5%AE%AB%E4%BA%A7%E7%9C%9F%E7%9A%84%E5%AD%98%E5%9C%A8%E5%90%97&t=31&band_rank=47&Refer=top) 143516
 1. [孙杨祝老婆生日快乐](https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%9D%A8%E7%A5%9D%E8%80%81%E5%A9%86%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90%23&t=31&band_rank=50&Refer=top) 135063
 1. [日本男排](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%94%B7%E6%8E%92%23&t=31&band_rank=49&Refer=top) 130772
+1. [莲花楼首播反响](https://s.weibo.com/weibo?q=%23%E8%8E%B2%E8%8A%B1%E6%A5%BC%E9%A6%96%E6%92%AD%E5%8F%8D%E5%93%8D%23&t=31&band_rank=26&Refer=top) 129223
 1. [王俊凯王源易烊千玺首唱会视频](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%8E%8B%E6%BA%90%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E9%A6%96%E5%94%B1%E4%BC%9A%E8%A7%86%E9%A2%91%23&t=31&band_rank=48&Refer=top) 116501
+1. [宁艺卓芭比造型](https://s.weibo.com/weibo?q=%23%E5%AE%81%E8%89%BA%E5%8D%93%E8%8A%AD%E6%AF%94%E9%80%A0%E5%9E%8B%23&t=31&band_rank=48&Refer=top) 96017
 1. [曾舜晞6集被骗4次](https://s.weibo.com/weibo?q=%23%E6%9B%BE%E8%88%9C%E6%99%9E6%E9%9B%86%E8%A2%AB%E9%AA%974%E6%AC%A1%23&t=31&band_rank=48&Refer=top) 95911
 <!-- END -->
 
