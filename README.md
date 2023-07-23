@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-07-24 04:49:15.190982 
+最后更新时间 2023-07-24 05:08:50.479300 
 1. [齐齐哈尔三十四中坍塌现场救出11人](https://s.weibo.com/weibo?q=%23%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E4%B8%89%E5%8D%81%E5%9B%9B%E4%B8%AD%E5%9D%8D%E5%A1%8C%E7%8E%B0%E5%9C%BA%E6%95%91%E5%87%BA11%E4%BA%BA%23&t=31&band_rank=1&Refer=top) 1504299
 1. [网友在LV花近万元买错码不换被驱逐](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E5%9C%A8LV%E8%8A%B1%E8%BF%91%E4%B8%87%E5%85%83%E4%B9%B0%E9%94%99%E7%A0%81%E4%B8%8D%E6%8D%A2%E8%A2%AB%E9%A9%B1%E9%80%90%23&t=31&band_rank=2&Refer=top) 1072826
 1. [我国成功发射一箭四星](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E4%B8%80%E7%AE%AD%E5%9B%9B%E6%98%9F%23&t=31&band_rank=3&Refer=top) 1068467
@@ -72,9 +72,9 @@
 1. [宁艺卓芭比造型](https://s.weibo.com/weibo?q=%23%E5%AE%81%E8%89%BA%E5%8D%93%E8%8A%AD%E6%AF%94%E9%80%A0%E5%9E%8B%23&t=31&band_rank=48&Refer=top) 96017
 1. [曾舜晞6集被骗4次](https://s.weibo.com/weibo?q=%23%E6%9B%BE%E8%88%9C%E6%99%9E6%E9%9B%86%E8%A2%AB%E9%AA%974%E6%AC%A1%23&t=31&band_rank=48&Refer=top) 95911
 1. [用完的废纸做猫窝](https://s.weibo.com/weibo?q=%E7%94%A8%E5%AE%8C%E7%9A%84%E5%BA%9F%E7%BA%B8%E5%81%9A%E7%8C%AB%E7%AA%9D&t=31&band_rank=50&Refer=top) 45441
+1. [都市接到办热线037165732233](https://s.weibo.com/weibo?q=%23%E9%83%BD%E5%B8%82%E6%8E%A5%E5%88%B0%E5%8A%9E%E7%83%AD%E7%BA%BF037165732233%23&t=31&band_rank=49&Refer=top) 43660
 1. [郎铮说想通过努力为国家发声](https://s.weibo.com/weibo?q=%23%E9%83%8E%E9%93%AE%E8%AF%B4%E6%83%B3%E9%80%9A%E8%BF%87%E5%8A%AA%E5%8A%9B%E4%B8%BA%E5%9B%BD%E5%AE%B6%E5%8F%91%E5%A3%B0%23&t=31&band_rank=50&Refer=top) 41724
 1. [周深夸黄渤老师有社交责任感](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E5%A4%B8%E9%BB%84%E6%B8%A4%E8%80%81%E5%B8%88%E6%9C%89%E7%A4%BE%E4%BA%A4%E8%B4%A3%E4%BB%BB%E6%84%9F%23&t=31&band_rank=42&Refer=top) 29455
-1. [都市接到办热线037165732233](https://s.weibo.com/weibo?q=%23%E9%83%BD%E5%B8%82%E6%8E%A5%E5%88%B0%E5%8A%9E%E7%83%AD%E7%BA%BF037165732233%23&t=31&band_rank=49&Refer=top) 24286
 <!-- END -->
 
 历史归档 [./archives](./archives)
