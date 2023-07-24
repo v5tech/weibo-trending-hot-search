@@ -75,6 +75,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E9%82%93%E4%B8%BA%E6%BC%94%E7%94%B7%E7%8B%90%E7%8B%B8%E7%B2%BE%23&t=31&band_rank=19&Refer=top",
     "hot": 414752
   },
+  "不该对齐齐哈尔事故保持沉默": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%AF%A5%E5%AF%B9%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E4%BA%8B%E6%95%85%E4%BF%9D%E6%8C%81%E6%B2%89%E9%BB%98%23&t=31&band_rank=50&Refer=top",
+    "hot": 387642
+  },
   "北京冰雹": {
     "url": "https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E5%86%B0%E9%9B%B9&t=31&band_rank=20&Refer=top",
     "hot": 323873
@@ -134,10 +138,6 @@
   "体育馆坍塌事故相关责任人被立案侦查": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C%E4%BA%8B%E6%95%85%E7%9B%B8%E5%85%B3%E8%B4%A3%E4%BB%BB%E4%BA%BA%E8%A2%AB%E7%AB%8B%E6%A1%88%E4%BE%A6%E6%9F%A5%23&t=31&band_rank=34&Refer=top",
     "hot": 262544
-  },
-  "不该对齐齐哈尔事故保持沉默": {
-    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%AF%A5%E5%AF%B9%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E4%BA%8B%E6%95%85%E4%BF%9D%E6%8C%81%E6%B2%89%E9%BB%98%23&t=31&band_rank=50&Refer=top",
-    "hot": 253834
   },
   "女子称孕期被丈夫挤压肚子": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%B0%E5%AD%95%E6%9C%9F%E8%A2%AB%E4%B8%88%E5%A4%AB%E6%8C%A4%E5%8E%8B%E8%82%9A%E5%AD%90%23&t=31&band_rank=35&Refer=top",
@@ -227,6 +227,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E6%97%B6%E5%B0%9A%E8%8A%AD%E8%8E%8E%E4%BD%A0%E7%9C%9F%E7%9A%84%E4%B8%8D%E8%80%83%E8%99%91%E4%B8%80%E4%B8%8B%E5%AD%9F%E5%AE%B6%E4%B8%89%E5%8F%A3%E5%90%97%23&t=31&band_rank=50&Refer=top",
     "hot": 80778
   },
+  "体育馆顶部网架结构承重能力非常低": {
+    "url": "https://s.weibo.com/weibo?q=%E4%BD%93%E8%82%B2%E9%A6%86%E9%A1%B6%E9%83%A8%E7%BD%91%E6%9E%B6%E7%BB%93%E6%9E%84%E6%89%BF%E9%87%8D%E8%83%BD%E5%8A%9B%E9%9D%9E%E5%B8%B8%E4%BD%8E&t=31&band_rank=46&Refer=top",
+    "hot": 76008
+  },
   "换乘瓶邪": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%8D%A2%E4%B9%98%E7%93%B6%E9%82%AA%23&t=31&band_rank=42&Refer=top",
     "hot": 70902
@@ -235,21 +239,17 @@
     "url": "https://s.weibo.com/weibo?q=%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C%E4%BA%8B%E6%95%85%E6%B6%89%E5%8F%8A%E5%8F%8C%E9%87%8D%E8%BF%9D%E8%A7%84&t=31&band_rank=48&Refer=top",
     "hot": 69279
   },
-  "体育馆顶部网架结构承重能力非常低": {
-    "url": "https://s.weibo.com/weibo?q=%E4%BD%93%E8%82%B2%E9%A6%86%E9%A1%B6%E9%83%A8%E7%BD%91%E6%9E%B6%E7%BB%93%E6%9E%84%E6%89%BF%E9%87%8D%E8%83%BD%E5%8A%9B%E9%9D%9E%E5%B8%B8%E4%BD%8E&t=31&band_rank=46&Refer=top",
-    "hot": 55461
+  "涂山璟 官配": {
+    "url": "https://s.weibo.com/weibo?q=%E6%B6%82%E5%B1%B1%E7%92%9F%20%E5%AE%98%E9%85%8D&t=31&band_rank=24&Refer=top",
+    "hot": 68704
   },
   "天后演唱会明日开票": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A9%E5%90%8E%E6%BC%94%E5%94%B1%E4%BC%9A%E6%98%8E%E6%97%A5%E5%BC%80%E7%A5%A8%23&t=31&band_rank=50&Refer=top",
-    "hot": 47527
+    "hot": 63546
   },
   "Rookie妖姬超神": {
     "url": "https://s.weibo.com/weibo?q=%23Rookie%E5%A6%96%E5%A7%AC%E8%B6%85%E7%A5%9E%23&t=31&band_rank=33&Refer=top",
     "hot": 43636
-  },
-  "涂山璟 官配": {
-    "url": "https://s.weibo.com/weibo?q=%E6%B6%82%E5%B1%B1%E7%92%9F%20%E5%AE%98%E9%85%8D&t=31&band_rank=24&Refer=top",
-    "hot": 37937
   },
   "宠物医生有多爱动物": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%AE%A0%E7%89%A9%E5%8C%BB%E7%94%9F%E6%9C%89%E5%A4%9A%E7%88%B1%E5%8A%A8%E7%89%A9%23&t=31&band_rank=48&Refer=top",
