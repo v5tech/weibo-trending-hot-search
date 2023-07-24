@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-07-25 06:09:41.592730 
+最后更新时间 2023-07-25 06:25:46.068568 
 1. [齐齐哈尔坍塌事故原因初步查明](https://s.weibo.com/weibo?q=%23%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E5%9D%8D%E5%A1%8C%E4%BA%8B%E6%95%85%E5%8E%9F%E5%9B%A0%E5%88%9D%E6%AD%A5%E6%9F%A5%E6%98%8E%23&t=31&band_rank=1&Refer=top) 2019084
 1. [齐齐哈尔体育馆坍塌事故遇难者身份公布](https://s.weibo.com/weibo?q=%23%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C%E4%BA%8B%E6%95%85%E9%81%87%E9%9A%BE%E8%80%85%E8%BA%AB%E4%BB%BD%E5%85%AC%E5%B8%83%23&t=31&band_rank=2&Refer=top) 1413318
 1. [空军航空开放活动预演现场](https://s.weibo.com/weibo?q=%23%E7%A9%BA%E5%86%9B%E8%88%AA%E7%A9%BA%E5%BC%80%E6%94%BE%E6%B4%BB%E5%8A%A8%E9%A2%84%E6%BC%94%E7%8E%B0%E5%9C%BA%23&t=31&band_rank=3&Refer=top) 1320947
@@ -52,6 +52,7 @@
 1. [魏无羡圆梦了](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E6%97%A0%E7%BE%A1%E5%9C%86%E6%A2%A6%E4%BA%86%23&t=31&band_rank=39&Refer=top) 214675
 1. [齐齐哈尔体育馆坍塌事故施工监管何在](https://s.weibo.com/weibo?q=%23%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C%E4%BA%8B%E6%95%85%E6%96%BD%E5%B7%A5%E7%9B%91%E7%AE%A1%E4%BD%95%E5%9C%A8%23&t=31&band_rank=40&Refer=top) 213352
 1. [男明星的大头综合征](https://s.weibo.com/weibo?q=%E7%94%B7%E6%98%8E%E6%98%9F%E7%9A%84%E5%A4%A7%E5%A4%B4%E7%BB%BC%E5%90%88%E5%BE%81&t=31&band_rank=42&Refer=top) 212649
+1. [不该对齐齐哈尔事故保持沉默](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%AF%A5%E5%AF%B9%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E4%BA%8B%E6%95%85%E4%BF%9D%E6%8C%81%E6%B2%89%E9%BB%98%23&t=31&band_rank=50&Refer=top) 192935
 1. [地库出口3岁男童不幸被撞身亡](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E5%BA%93%E5%87%BA%E5%8F%A33%E5%B2%81%E7%94%B7%E7%AB%A5%E4%B8%8D%E5%B9%B8%E8%A2%AB%E6%92%9E%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=43&Refer=top) 189472
 1. [普通家庭的孩子该去看演唱会吗](https://s.weibo.com/weibo?q=%23%E6%99%AE%E9%80%9A%E5%AE%B6%E5%BA%AD%E7%9A%84%E5%AD%A9%E5%AD%90%E8%AF%A5%E5%8E%BB%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E5%90%97%23&t=31&band_rank=44&Refer=top) 181149
 1. [六问齐齐哈尔坍塌事故](https://s.weibo.com/weibo?q=%23%E5%85%AD%E9%97%AE%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E5%9D%8D%E5%A1%8C%E4%BA%8B%E6%95%85%23&t=31&band_rank=45&Refer=top) 163050
@@ -61,16 +62,15 @@
 1. [莲花楼预告](https://s.weibo.com/weibo?q=%E8%8E%B2%E8%8A%B1%E6%A5%BC%E9%A2%84%E5%91%8A&t=31&band_rank=46&Refer=top) 157972
 1. [TES战胜EDG](https://s.weibo.com/weibo?q=TES%E6%88%98%E8%83%9CEDG&t=31&band_rank=48&Refer=top) 157266
 1. [李玟姐姐将直播李玟追思会](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E5%A7%90%E5%A7%90%E5%B0%86%E7%9B%B4%E6%92%AD%E6%9D%8E%E7%8E%9F%E8%BF%BD%E6%80%9D%E4%BC%9A%23&t=31&band_rank=50&Refer=top) 130760
-1. [不该对齐齐哈尔事故保持沉默](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%AF%A5%E5%AF%B9%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E4%BA%8B%E6%95%85%E4%BF%9D%E6%8C%81%E6%B2%89%E9%BB%98%23&t=31&band_rank=50&Refer=top) 113090
 1. [谢乔杨澄分手6年后再见](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E4%B9%94%E6%9D%A8%E6%BE%84%E5%88%86%E6%89%8B6%E5%B9%B4%E5%90%8E%E5%86%8D%E8%A7%81%23&t=31&band_rank=48&Refer=top) 94483
 1. [Uzi和JKL再交手](https://s.weibo.com/weibo?q=Uzi%E5%92%8CJKL%E5%86%8D%E4%BA%A4%E6%89%8B&t=31&band_rank=49&Refer=top) 90309
 1. [时尚芭莎你真的不考虑一下孟家三口吗](https://s.weibo.com/weibo?q=%23%E6%97%B6%E5%B0%9A%E8%8A%AD%E8%8E%8E%E4%BD%A0%E7%9C%9F%E7%9A%84%E4%B8%8D%E8%80%83%E8%99%91%E4%B8%80%E4%B8%8B%E5%AD%9F%E5%AE%B6%E4%B8%89%E5%8F%A3%E5%90%97%23&t=31&band_rank=50&Refer=top) 75350
 1. [换乘瓶邪](https://s.weibo.com/weibo?q=%23%E6%8D%A2%E4%B9%98%E7%93%B6%E9%82%AA%23&t=31&band_rank=42&Refer=top) 70902
 1. [体育馆坍塌事故涉及双重违规](https://s.weibo.com/weibo?q=%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C%E4%BA%8B%E6%95%85%E6%B6%89%E5%8F%8A%E5%8F%8C%E9%87%8D%E8%BF%9D%E8%A7%84&t=31&band_rank=48&Refer=top) 69279
 1. [Rookie妖姬超神](https://s.weibo.com/weibo?q=%23Rookie%E5%A6%96%E5%A7%AC%E8%B6%85%E7%A5%9E%23&t=31&band_rank=33&Refer=top) 43636
+1. [体育馆顶部网架结构承重能力非常低](https://s.weibo.com/weibo?q=%E4%BD%93%E8%82%B2%E9%A6%86%E9%A1%B6%E9%83%A8%E7%BD%91%E6%9E%B6%E7%BB%93%E6%9E%84%E6%89%BF%E9%87%8D%E8%83%BD%E5%8A%9B%E9%9D%9E%E5%B8%B8%E4%BD%8E&t=31&band_rank=46&Refer=top) 40948
 1. [涂山璟 官配](https://s.weibo.com/weibo?q=%E6%B6%82%E5%B1%B1%E7%92%9F%20%E5%AE%98%E9%85%8D&t=31&band_rank=24&Refer=top) 37937
 1. [宠物医生有多爱动物](https://s.weibo.com/weibo?q=%23%E5%AE%A0%E7%89%A9%E5%8C%BB%E7%94%9F%E6%9C%89%E5%A4%9A%E7%88%B1%E5%8A%A8%E7%89%A9%23&t=31&band_rank=48&Refer=top) 31652
-1. [体育馆顶部网架结构承重能力非常低](https://s.weibo.com/weibo?q=%E4%BD%93%E8%82%B2%E9%A6%86%E9%A1%B6%E9%83%A8%E7%BD%91%E6%9E%B6%E7%BB%93%E6%9E%84%E6%89%BF%E9%87%8D%E8%83%BD%E5%8A%9B%E9%9D%9E%E5%B8%B8%E4%BD%8E&t=31&band_rank=46&Refer=top) 31442
 1. [坍塌中学体育馆墙体疑早有损坏](https://s.weibo.com/weibo?q=%23%E5%9D%8D%E5%A1%8C%E4%B8%AD%E5%AD%A6%E4%BD%93%E8%82%B2%E9%A6%86%E5%A2%99%E4%BD%93%E7%96%91%E6%97%A9%E6%9C%89%E6%8D%9F%E5%9D%8F%23&t=31&band_rank=49&Refer=top) 27780
 1. [相柳是真狠](https://s.weibo.com/weibo?q=%E7%9B%B8%E6%9F%B3%E6%98%AF%E7%9C%9F%E7%8B%A0&t=31&band_rank=37&Refer=top) 26521
 <!-- END -->
