@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-07-25 03:18:58.533293 
+最后更新时间 2023-07-25 03:34:04.657300 
 1. [齐齐哈尔坍塌事故原因初步查明](https://s.weibo.com/weibo?q=%23%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E5%9D%8D%E5%A1%8C%E4%BA%8B%E6%95%85%E5%8E%9F%E5%9B%A0%E5%88%9D%E6%AD%A5%E6%9F%A5%E6%98%8E%23&t=31&band_rank=1&Refer=top) 2019084
 1. [齐齐哈尔体育馆坍塌事故遇难者身份公布](https://s.weibo.com/weibo?q=%23%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C%E4%BA%8B%E6%95%85%E9%81%87%E9%9A%BE%E8%80%85%E8%BA%AB%E4%BB%BD%E5%85%AC%E5%B8%83%23&t=31&band_rank=2&Refer=top) 1413318
 1. [空军航空开放活动预演现场](https://s.weibo.com/weibo?q=%23%E7%A9%BA%E5%86%9B%E8%88%AA%E7%A9%BA%E5%BC%80%E6%94%BE%E6%B4%BB%E5%8A%A8%E9%A2%84%E6%BC%94%E7%8E%B0%E5%9C%BA%23&t=31&band_rank=3&Refer=top) 1320947
@@ -65,9 +65,10 @@
 1. [Uzi和JKL再交手](https://s.weibo.com/weibo?q=Uzi%E5%92%8CJKL%E5%86%8D%E4%BA%A4%E6%89%8B&t=31&band_rank=49&Refer=top) 90309
 1. [换乘瓶邪](https://s.weibo.com/weibo?q=%23%E6%8D%A2%E4%B9%98%E7%93%B6%E9%82%AA%23&t=31&band_rank=42&Refer=top) 70902
 1. [体育馆坍塌事故涉及双重违规](https://s.weibo.com/weibo?q=%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C%E4%BA%8B%E6%95%85%E6%B6%89%E5%8F%8A%E5%8F%8C%E9%87%8D%E8%BF%9D%E8%A7%84&t=31&band_rank=48&Refer=top) 69279
-1. [时尚芭莎你真的不考虑一下孟家三口吗](https://s.weibo.com/weibo?q=%23%E6%97%B6%E5%B0%9A%E8%8A%AD%E8%8E%8E%E4%BD%A0%E7%9C%9F%E7%9A%84%E4%B8%8D%E8%80%83%E8%99%91%E4%B8%80%E4%B8%8B%E5%AD%9F%E5%AE%B6%E4%B8%89%E5%8F%A3%E5%90%97%23&t=31&band_rank=50&Refer=top) 46382
+1. [时尚芭莎你真的不考虑一下孟家三口吗](https://s.weibo.com/weibo?q=%23%E6%97%B6%E5%B0%9A%E8%8A%AD%E8%8E%8E%E4%BD%A0%E7%9C%9F%E7%9A%84%E4%B8%8D%E8%80%83%E8%99%91%E4%B8%80%E4%B8%8B%E5%AD%9F%E5%AE%B6%E4%B8%89%E5%8F%A3%E5%90%97%23&t=31&band_rank=50&Refer=top) 55872
 1. [Rookie妖姬超神](https://s.weibo.com/weibo?q=%23Rookie%E5%A6%96%E5%A7%AC%E8%B6%85%E7%A5%9E%23&t=31&band_rank=33&Refer=top) 43636
 1. [宠物医生有多爱动物](https://s.weibo.com/weibo?q=%23%E5%AE%A0%E7%89%A9%E5%8C%BB%E7%94%9F%E6%9C%89%E5%A4%9A%E7%88%B1%E5%8A%A8%E7%89%A9%23&t=31&band_rank=48&Refer=top) 31652
+1. [不该对齐齐哈尔事故保持沉默](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%AF%A5%E5%AF%B9%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E4%BA%8B%E6%95%85%E4%BF%9D%E6%8C%81%E6%B2%89%E9%BB%98%23&t=31&band_rank=50&Refer=top) 25695
 <!-- END -->
 
 历史归档 [./archives](./archives)
