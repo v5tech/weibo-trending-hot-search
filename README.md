@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-07-25 02:14:22.301108 
+最后更新时间 2023-07-25 02:30:37.245434 
 1. [齐齐哈尔坍塌事故原因初步查明](https://s.weibo.com/weibo?q=%23%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E5%9D%8D%E5%A1%8C%E4%BA%8B%E6%95%85%E5%8E%9F%E5%9B%A0%E5%88%9D%E6%AD%A5%E6%9F%A5%E6%98%8E%23&t=31&band_rank=1&Refer=top) 2019084
 1. [齐齐哈尔体育馆坍塌事故遇难者身份公布](https://s.weibo.com/weibo?q=%23%E9%BD%90%E9%BD%90%E5%93%88%E5%B0%94%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C%E4%BA%8B%E6%95%85%E9%81%87%E9%9A%BE%E8%80%85%E8%BA%AB%E4%BB%BD%E5%85%AC%E5%B8%83%23&t=31&band_rank=2&Refer=top) 1413318
 1. [空军航空开放活动预演现场](https://s.weibo.com/weibo?q=%23%E7%A9%BA%E5%86%9B%E8%88%AA%E7%A9%BA%E5%BC%80%E6%94%BE%E6%B4%BB%E5%8A%A8%E9%A2%84%E6%BC%94%E7%8E%B0%E5%9C%BA%23&t=31&band_rank=3&Refer=top) 1320947
@@ -64,6 +64,7 @@
 1. [谢乔杨澄分手6年后再见](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E4%B9%94%E6%9D%A8%E6%BE%84%E5%88%86%E6%89%8B6%E5%B9%B4%E5%90%8E%E5%86%8D%E8%A7%81%23&t=31&band_rank=48&Refer=top) 94483
 1. [Uzi和JKL再交手](https://s.weibo.com/weibo?q=Uzi%E5%92%8CJKL%E5%86%8D%E4%BA%A4%E6%89%8B&t=31&band_rank=49&Refer=top) 90309
 1. [体育馆坍塌事故涉及双重违规](https://s.weibo.com/weibo?q=%E4%BD%93%E8%82%B2%E9%A6%86%E5%9D%8D%E5%A1%8C%E4%BA%8B%E6%95%85%E6%B6%89%E5%8F%8A%E5%8F%8C%E9%87%8D%E8%BF%9D%E8%A7%84&t=31&band_rank=48&Refer=top) 69279
+1. [换乘瓶邪](https://s.weibo.com/weibo?q=%23%E6%8D%A2%E4%B9%98%E7%93%B6%E9%82%AA%23&t=31&band_rank=42&Refer=top) 57443
 <!-- END -->
 
 历史归档 [./archives](./archives)
