@@ -1,7 +1,7 @@
 {
   "微信白用那么久了": {
     "url": "https://s.weibo.com/weibo?q=%E5%BE%AE%E4%BF%A1%E7%99%BD%E7%94%A8%E9%82%A3%E4%B9%88%E4%B9%85%E4%BA%86&t=31&band_rank=12&Refer=top",
-    "hot": 1989700
+    "hot": 1999105
   },
   "徐嘉余": {
     "url": "https://s.weibo.com/weibo?q=%E5%BE%90%E5%98%89%E4%BD%99&t=31&band_rank=1&Refer=top",
@@ -175,13 +175,13 @@
     "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E9%A3%9E%E5%AE%87%E4%BD%A0%E7%9F%A5%E9%81%93%E9%AD%8F%E5%A4%A7%E5%8B%8B%E4%B8%BA%E5%95%A5%E8%B7%9F%E4%BD%A0%E8%80%81%E5%B8%88%E6%98%AF%E5%90%8C%E5%AD%A6%E4%BA%86%E5%90%A7%23&t=31&band_rank=44&Refer=top",
     "hot": 214408
   },
+  "TFBOYS十周年周边有四种颜色": {
+    "url": "https://s.weibo.com/weibo?q=%23TFBOYS%E5%8D%81%E5%91%A8%E5%B9%B4%E5%91%A8%E8%BE%B9%E6%9C%89%E5%9B%9B%E7%A7%8D%E9%A2%9C%E8%89%B2%23&t=31&band_rank=33&Refer=top",
+    "hot": 214309
+  },
   "普通女孩如何变第一眼美女": {
     "url": "https://s.weibo.com/weibo?q=%E6%99%AE%E9%80%9A%E5%A5%B3%E5%AD%A9%E5%A6%82%E4%BD%95%E5%8F%98%E7%AC%AC%E4%B8%80%E7%9C%BC%E7%BE%8E%E5%A5%B3&t=31&band_rank=45&Refer=top",
     "hot": 206955
-  },
-  "TFBOYS十周年周边有四种颜色": {
-    "url": "https://s.weibo.com/weibo?q=%23TFBOYS%E5%8D%81%E5%91%A8%E5%B9%B4%E5%91%A8%E8%BE%B9%E6%9C%89%E5%9B%9B%E7%A7%8D%E9%A2%9C%E8%89%B2%23&t=31&band_rank=33&Refer=top",
-    "hot": 204068
   },
   "沛沛": {
     "url": "https://s.weibo.com/weibo?q=%E6%B2%9B%E6%B2%9B&t=31&band_rank=49&Refer=top",
@@ -202,5 +202,9 @@
   "Lisa的身材管理": {
     "url": "https://s.weibo.com/weibo?q=%23Lisa%E7%9A%84%E8%BA%AB%E6%9D%90%E7%AE%A1%E7%90%86%23&t=31&band_rank=50&Refer=top",
     "hot": 190394
+  },
+  "sky光遇": {
+    "url": "https://s.weibo.com/weibo?q=%23sky%E5%85%89%E9%81%87%23&t=31&band_rank=50&Refer=top",
+    "hot": 127402
   }
 }
