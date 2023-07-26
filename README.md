@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-07-27 04:34:11.940787 
+最后更新时间 2023-07-27 04:48:58.077401 
 1. [微信白用那么久了](https://s.weibo.com/weibo?q=%E5%BE%AE%E4%BF%A1%E7%99%BD%E7%94%A8%E9%82%A3%E4%B9%88%E4%B9%85%E4%BA%86&t=31&band_rank=12&Refer=top) 1999105
 1. [徐嘉余](https://s.weibo.com/weibo?q=%E5%BE%90%E5%98%89%E4%BD%99&t=31&band_rank=1&Refer=top) 1745989
 1. [各大高校接力为大运会加油](https://s.weibo.com/weibo?q=%23%E5%90%84%E5%A4%A7%E9%AB%98%E6%A0%A1%E6%8E%A5%E5%8A%9B%E4%B8%BA%E5%A4%A7%E8%BF%90%E4%BC%9A%E5%8A%A0%E6%B2%B9%23&t=31&band_rank=3&Refer=top) 1381372
@@ -74,6 +74,7 @@
 1. [逆天吐槽消失的十一层](https://s.weibo.com/weibo?q=%E9%80%86%E5%A4%A9%E5%90%90%E6%A7%BD%E6%B6%88%E5%A4%B1%E7%9A%84%E5%8D%81%E4%B8%80%E5%B1%82&t=31&band_rank=50&Refer=top) 55593
 1. [成都暴雨](https://s.weibo.com/weibo?q=%E6%88%90%E9%83%BD%E6%9A%B4%E9%9B%A8&t=31&band_rank=47&Refer=top) 31008
 1. [当年爆红的刀郎这些年去哪了](https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%B9%B4%E7%88%86%E7%BA%A2%E7%9A%84%E5%88%80%E9%83%8E%E8%BF%99%E4%BA%9B%E5%B9%B4%E5%8E%BB%E5%93%AA%E4%BA%86%23&t=31&band_rank=47&Refer=top) 28701
+1. [Wayward 菜](https://s.weibo.com/weibo?q=Wayward%20%E8%8F%9C&t=31&band_rank=50&Refer=top) 27391
 <!-- END -->
 
 历史归档 [./archives](./archives)
