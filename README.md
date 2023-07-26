@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-07-27 00:49:09.397776 
+最后更新时间 2023-07-27 01:08:44.553732 
 1. [微信白用那么久了](https://s.weibo.com/weibo?q=%E5%BE%AE%E4%BF%A1%E7%99%BD%E7%94%A8%E9%82%A3%E4%B9%88%E4%B9%85%E4%BA%86&t=31&band_rank=12&Refer=top) 1999105
 1. [徐嘉余](https://s.weibo.com/weibo?q=%E5%BE%90%E5%98%89%E4%BD%99&t=31&band_rank=1&Refer=top) 1745989
 1. [各大高校接力为大运会加油](https://s.weibo.com/weibo?q=%23%E5%90%84%E5%A4%A7%E9%AB%98%E6%A0%A1%E6%8E%A5%E5%8A%9B%E4%B8%BA%E5%A4%A7%E8%BF%90%E4%BC%9A%E5%8A%A0%E6%B2%B9%23&t=31&band_rank=3&Refer=top) 1381372
@@ -18,6 +18,7 @@
 1. [研究生称坐5小时高铁跨省面试被鸽](https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E7%94%9F%E7%A7%B0%E5%9D%905%E5%B0%8F%E6%97%B6%E9%AB%98%E9%93%81%E8%B7%A8%E7%9C%81%E9%9D%A2%E8%AF%95%E8%A2%AB%E9%B8%BD%23&t=31&band_rank=7&Refer=top) 816636
 1. [封神成本30亿](https://s.weibo.com/weibo?q=%23%E5%B0%81%E7%A5%9E%E6%88%90%E6%9C%AC30%E4%BA%BF%23&t=31&band_rank=8&Refer=top) 753838
 1. [没想到小鸟的肚子长这样](https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E5%B0%8F%E9%B8%9F%E7%9A%84%E8%82%9A%E5%AD%90%E9%95%BF%E8%BF%99%E6%A0%B7%23&t=31&band_rank=9&Refer=top) 660991
+1. [大运会里的中国风巴蜀韵](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E8%BF%90%E4%BC%9A%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%E9%A3%8E%E5%B7%B4%E8%9C%80%E9%9F%B5%23&t=31&band_rank=3&Refer=top) 613623
 1. [台风](https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E&t=31&band_rank=10&Refer=top) 560265
 1. [殷世航出道失败](https://s.weibo.com/weibo?q=%23%E6%AE%B7%E4%B8%96%E8%88%AA%E5%87%BA%E9%81%93%E5%A4%B1%E8%B4%A5%23&t=31&band_rank=11&Refer=top) 546311
 1. [江宏杰将召开记者会控诉福原爱](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E5%AE%8F%E6%9D%B0%E5%B0%86%E5%8F%AC%E5%BC%80%E8%AE%B0%E8%80%85%E4%BC%9A%E6%8E%A7%E8%AF%89%E7%A6%8F%E5%8E%9F%E7%88%B1%23&t=31&band_rank=13&Refer=top) 537523
@@ -59,7 +60,8 @@
 1. [莲花楼嫁衣案](https://s.weibo.com/weibo?q=%23%E8%8E%B2%E8%8A%B1%E6%A5%BC%E5%AB%81%E8%A1%A3%E6%A1%88%23&t=31&band_rank=47&Refer=top) 193325
 1. [学硕要退场了吗](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%A1%95%E8%A6%81%E9%80%80%E5%9C%BA%E4%BA%86%E5%90%97%23&t=31&band_rank=48&Refer=top) 190648
 1. [Lisa的身材管理](https://s.weibo.com/weibo?q=%23Lisa%E7%9A%84%E8%BA%AB%E6%9D%90%E7%AE%A1%E7%90%86%23&t=31&band_rank=50&Refer=top) 190394
-1. [sky光遇](https://s.weibo.com/weibo?q=%23sky%E5%85%89%E9%81%87%23&t=31&band_rank=50&Refer=top) 127402
+1. [sky光遇](https://s.weibo.com/weibo?q=%23sky%E5%85%89%E9%81%87%23&t=31&band_rank=50&Refer=top) 134518
+1. [买了不会出错的彩妆](https://s.weibo.com/weibo?q=%E4%B9%B0%E4%BA%86%E4%B8%8D%E4%BC%9A%E5%87%BA%E9%94%99%E7%9A%84%E5%BD%A9%E5%A6%86&t=31&band_rank=50&Refer=top) 107414
 <!-- END -->
 
 历史归档 [./archives](./archives)
