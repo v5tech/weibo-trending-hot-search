@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-07-28 01:34:37.381820 
+最后更新时间 2023-07-28 01:48:58.230851 
 1. [杨洋 谢谢大家的包容与陪伴批评和建议](https://s.weibo.com/weibo?q=%E6%9D%A8%E6%B4%8B%20%E8%B0%A2%E8%B0%A2%E5%A4%A7%E5%AE%B6%E7%9A%84%E5%8C%85%E5%AE%B9%E4%B8%8E%E9%99%AA%E4%BC%B4%E6%89%B9%E8%AF%84%E5%92%8C%E5%BB%BA%E8%AE%AE&t=31&band_rank=1&Refer=top) 6233949
 1. [杜苏芮路径](https://s.weibo.com/weibo?q=%E6%9D%9C%E8%8B%8F%E8%8A%AE%E8%B7%AF%E5%BE%84&t=31&band_rank=2&Refer=top) 2229784
 1. [成都大运会开幕式官方主题曲来了](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%A4%A7%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E5%AE%98%E6%96%B9%E4%B8%BB%E9%A2%98%E6%9B%B2%E6%9D%A5%E4%BA%86%23&t=31&band_rank=3&Refer=top) 1792427
@@ -29,7 +29,7 @@
 1. [黄晓明去油成功](https://s.weibo.com/weibo?q=%E9%BB%84%E6%99%93%E6%98%8E%E5%8E%BB%E6%B2%B9%E6%88%90%E5%8A%9F&t=31&band_rank=17&Refer=top) 460300
 1. [杜苏芮将正面袭击福建](https://s.weibo.com/weibo?q=%23%E6%9D%9C%E8%8B%8F%E8%8A%AE%E5%B0%86%E6%AD%A3%E9%9D%A2%E8%A2%AD%E5%87%BB%E7%A6%8F%E5%BB%BA%23&t=31&band_rank=42&Refer=top) 446715
 1. [中国气象局启动台风一级应急响应](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B0%94%E8%B1%A1%E5%B1%80%E5%90%AF%E5%8A%A8%E5%8F%B0%E9%A3%8E%E4%B8%80%E7%BA%A7%E5%BA%94%E6%80%A5%E5%93%8D%E5%BA%94%23&t=31&band_rank=19&Refer=top) 445404
-1. [厦门发布台风红色预警](https://s.weibo.com/weibo?q=%23%E5%8E%A6%E9%97%A8%E5%8F%91%E5%B8%83%E5%8F%B0%E9%A3%8E%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6%23&t=31&band_rank=45&Refer=top) 367935
+1. [厦门发布台风红色预警](https://s.weibo.com/weibo?q=%23%E5%8E%A6%E9%97%A8%E5%8F%91%E5%B8%83%E5%8F%B0%E9%A3%8E%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6%23&t=31&band_rank=45&Refer=top) 403991
 1. [长相思](https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D&t=31&band_rank=24&Refer=top) 351274
 1. [台湾台风](https://s.weibo.com/weibo?q=%E5%8F%B0%E6%B9%BE%E5%8F%B0%E9%A3%8E&t=31&band_rank=20&Refer=top) 345534
 1. [微信一个手机可以两个账号了](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E4%B8%80%E4%B8%AA%E6%89%8B%E6%9C%BA%E5%8F%AF%E4%BB%A5%E4%B8%A4%E4%B8%AA%E8%B4%A6%E5%8F%B7%E4%BA%86%23&t=31&band_rank=21&Refer=top) 345497
@@ -52,6 +52,7 @@
 1. [没抢到票的TFBOYS粉丝开始包场电影院](https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%8A%A2%E5%88%B0%E7%A5%A8%E7%9A%84TFBOYS%E7%B2%89%E4%B8%9D%E5%BC%80%E5%A7%8B%E5%8C%85%E5%9C%BA%E7%94%B5%E5%BD%B1%E9%99%A2%23&t=31&band_rank=38&Refer=top) 225377
 1. [欧阳娜娜的腮红](https://s.weibo.com/weibo?q=%23%E6%AC%A7%E9%98%B3%E5%A8%9C%E5%A8%9C%E7%9A%84%E8%85%AE%E7%BA%A2%23&t=31&band_rank=41&Refer=top) 216613
 1. [台风来袭市民把凉亭拴水泥柱上](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E6%9D%A5%E8%A2%AD%E5%B8%82%E6%B0%91%E6%8A%8A%E5%87%89%E4%BA%AD%E6%8B%B4%E6%B0%B4%E6%B3%A5%E6%9F%B1%E4%B8%8A%23&t=31&band_rank=40&Refer=top) 203177
+1. [紫为星](https://s.weibo.com/weibo?q=%E7%B4%AB%E4%B8%BA%E6%98%9F&t=31&band_rank=37&Refer=top) 202498
 1. [封神](https://s.weibo.com/weibo?q=%E5%B0%81%E7%A5%9E&t=31&band_rank=43&Refer=top) 200984
 1. [EDG](https://s.weibo.com/weibo?q=EDG&t=31&band_rank=50&Refer=top) 200010
 1. [李莲花开大了](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%8E%B2%E8%8A%B1%E5%BC%80%E5%A4%A7%E4%BA%86%23&t=31&band_rank=44&Refer=top) 200003
@@ -61,10 +62,10 @@
 1. [韩国一父亲猛抽校园霸凌者100多个耳光](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%B8%80%E7%88%B6%E4%BA%B2%E7%8C%9B%E6%8A%BD%E6%A0%A1%E5%9B%AD%E9%9C%B8%E5%87%8C%E8%80%85100%E5%A4%9A%E4%B8%AA%E8%80%B3%E5%85%89%23&t=31&band_rank=47&Refer=top) 199960
 1. [王俊凯王源易烊千玺给黄晓明宣传新剧](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%8E%8B%E6%BA%90%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E7%BB%99%E9%BB%84%E6%99%93%E6%98%8E%E5%AE%A3%E4%BC%A0%E6%96%B0%E5%89%A7%23&t=31&band_rank=50&Refer=top) 199952
 1. [长相思今日行程](https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D%E4%BB%8A%E6%97%A5%E8%A1%8C%E7%A8%8B%23&t=31&band_rank=25&Refer=top) 199902
-1. [紫为星](https://s.weibo.com/weibo?q=%E7%B4%AB%E4%B8%BA%E6%98%9F&t=31&band_rank=37&Refer=top) 182801
 1. [内娱私服审美在线的明星](https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E7%A7%81%E6%9C%8D%E5%AE%A1%E7%BE%8E%E5%9C%A8%E7%BA%BF%E7%9A%84%E6%98%8E%E6%98%9F%23&t=31&band_rank=35&Refer=top) 170537
 1. [赵今麦妆造](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%BB%8A%E9%BA%A6%E5%A6%86%E9%80%A0&t=31&band_rank=50&Refer=top) 126251
 1. [亚运主题电影热烈](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E4%B8%BB%E9%A2%98%E7%94%B5%E5%BD%B1%E7%83%AD%E7%83%88%23&t=31&band_rank=50&Refer=top) 125946
+1. [厦门人民的防台风](https://s.weibo.com/weibo?q=%23%E5%8E%A6%E9%97%A8%E4%BA%BA%E6%B0%91%E7%9A%84%E9%98%B2%E5%8F%B0%E9%A3%8E%23&t=31&band_rank=50&Refer=top) 108504
 <!-- END -->
 
 历史归档 [./archives](./archives)
