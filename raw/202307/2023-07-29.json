@@ -245,7 +245,7 @@
   },
   "月光蟑螂": {
     "url": "https://s.weibo.com/weibo?q=%E6%9C%88%E5%85%89%E8%9F%91%E8%9E%82&t=31&band_rank=19&Refer=top",
-    "hot": 130781
+    "hot": 133512
   },
   "适合相爱的时辰": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%80%82%E5%90%88%E7%9B%B8%E7%88%B1%E7%9A%84%E6%97%B6%E8%BE%B0%23&t=31&band_rank=45&Refer=top",
@@ -257,7 +257,11 @@
   },
   "王霏霏说王一博是片场卷王": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%9C%8F%E9%9C%8F%E8%AF%B4%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%98%AF%E7%89%87%E5%9C%BA%E5%8D%B7%E7%8E%8B%23&t=31&band_rank=28&Refer=top",
-    "hot": 115257
+    "hot": 118796
+  },
+  "金牛座有点劳累命在身上": {
+    "url": "https://s.weibo.com/weibo?q=%E9%87%91%E7%89%9B%E5%BA%A7%E6%9C%89%E7%82%B9%E5%8A%B3%E7%B4%AF%E5%91%BD%E5%9C%A8%E8%BA%AB%E4%B8%8A&t=31&band_rank=31&Refer=top",
+    "hot": 114010
   },
   "台风致浙江一动物园积水被困": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E8%87%B4%E6%B5%99%E6%B1%9F%E4%B8%80%E5%8A%A8%E7%89%A9%E5%9B%AD%E7%A7%AF%E6%B0%B4%E8%A2%AB%E5%9B%B0%23&t=31&band_rank=39&Refer=top",
@@ -270,9 +274,5 @@
   "中国好声音": {
     "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3&t=31&band_rank=48&Refer=top",
     "hot": 109973
-  },
-  "金牛座有点劳累命在身上": {
-    "url": "https://s.weibo.com/weibo?q=%E9%87%91%E7%89%9B%E5%BA%A7%E6%9C%89%E7%82%B9%E5%8A%B3%E7%B4%AF%E5%91%BD%E5%9C%A8%E8%BA%AB%E4%B8%8A&t=31&band_rank=31&Refer=top",
-    "hot": 103735
   }
 }
