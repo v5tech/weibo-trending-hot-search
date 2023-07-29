@@ -91,6 +91,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E9%A6%99%E8%82%A0%E6%98%AF%E4%BB%8E%E4%BE%A7%E9%9D%A2%E5%BC%80%E7%9A%84%23&t=31&band_rank=19&Refer=top",
     "hot": 444942
   },
+  "好多明星去了鹿晗演唱会": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A5%BD%E5%A4%9A%E6%98%8E%E6%98%9F%E5%8E%BB%E4%BA%86%E9%B9%BF%E6%99%97%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=4&Refer=top",
+    "hot": 433228
+  },
   "周润发跑步摔伤肋骨": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B6%A6%E5%8F%91%E8%B7%91%E6%AD%A5%E6%91%94%E4%BC%A4%E8%82%8B%E9%AA%A8%23&t=31&band_rank=20&Refer=top",
     "hot": 401984
@@ -111,6 +115,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E4%B9%B0%E7%9A%84%E8%A1%A3%E6%9C%8D%E4%B8%80%E5%AE%9A%E8%A6%81%E6%B4%97%E6%B4%97%E5%86%8D%E7%A9%BF%23&t=31&band_rank=23&Refer=top",
     "hot": 352367
   },
+  "北京大雨": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%A4%A7%E9%9B%A8%23&t=31&band_rank=13&Refer=top",
+    "hot": 311467
+  },
   "摸鱼壁纸真的瞒过了老板和同事": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%91%B8%E9%B1%BC%E5%A3%81%E7%BA%B8%E7%9C%9F%E7%9A%84%E7%9E%92%E8%BF%87%E4%BA%86%E8%80%81%E6%9D%BF%E5%92%8C%E5%90%8C%E4%BA%8B%23&t=31&band_rank=25&Refer=top",
     "hot": 300186
@@ -118,14 +126,6 @@
   "长相思": {
     "url": "https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D&t=31&band_rank=33&Refer=top",
     "hot": 295143
-  },
-  "北京大雨": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%A4%A7%E9%9B%A8%23&t=31&band_rank=13&Refer=top",
-    "hot": 288109
-  },
-  "好多明星去了鹿晗演唱会": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%A5%BD%E5%A4%9A%E6%98%8E%E6%98%9F%E5%8E%BB%E4%BA%86%E9%B9%BF%E6%99%97%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=4&Refer=top",
-    "hot": 282945
   },
   "长相思新副本": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D%E6%96%B0%E5%89%AF%E6%9C%AC%23&t=31&band_rank=26&Refer=top",
@@ -271,9 +271,21 @@
     "url": "https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%96%87%E6%96%87%E9%87%91%E5%8F%91%23&t=31&band_rank=46&Refer=top",
     "hot": 103473
   },
+  "杨洋王楚然魏大勋破好6播放量记录": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B4%8B%E7%8E%8B%E6%A5%9A%E7%84%B6%E9%AD%8F%E5%A4%A7%E5%8B%8B%E7%A0%B4%E5%A5%BD6%E6%92%AD%E6%94%BE%E9%87%8F%E8%AE%B0%E5%BD%95%23&t=31&band_rank=43&Refer=top",
+    "hot": 96591
+  },
   "A股": {
     "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=46&Refer=top",
     "hot": 78356
+  },
+  "泉州暴雨店主称珠宝被积水冲光": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B3%89%E5%B7%9E%E6%9A%B4%E9%9B%A8%E5%BA%97%E4%B8%BB%E7%A7%B0%E7%8F%A0%E5%AE%9D%E8%A2%AB%E7%A7%AF%E6%B0%B4%E5%86%B2%E5%85%89%23&t=31&band_rank=28&Refer=top",
+    "hot": 75893
+  },
+  "非洲媳妇带丽水丈夫回娘家": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%9D%9E%E6%B4%B2%E5%AA%B3%E5%A6%87%E5%B8%A6%E4%B8%BD%E6%B0%B4%E4%B8%88%E5%A4%AB%E5%9B%9E%E5%A8%98%E5%AE%B6%23&t=31&band_rank=32&Refer=top",
+    "hot": 73206
   },
   "钮祜禄陈烁": {
     "url": "https://s.weibo.com/weibo?q=%E9%92%AE%E7%A5%9C%E7%A6%84%E9%99%88%E7%83%81&t=31&band_rank=45&Refer=top",
@@ -283,13 +295,21 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E4%B8%8B%E9%9B%A8%23&t=31&band_rank=50&Refer=top",
     "hot": 72318
   },
-  "杨洋王楚然魏大勋破好6播放量记录": {
-    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B4%8B%E7%8E%8B%E6%A5%9A%E7%84%B6%E9%AD%8F%E5%A4%A7%E5%8B%8B%E7%A0%B4%E5%A5%BD6%E6%92%AD%E6%94%BE%E9%87%8F%E8%AE%B0%E5%BD%95%23&t=31&band_rank=43&Refer=top",
-    "hot": 66836
+  "封神第一部票房破9亿": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B0%81%E7%A5%9E%E7%AC%AC%E4%B8%80%E9%83%A8%E7%A5%A8%E6%88%BF%E7%A0%B49%E4%BA%BF%23&t=31&band_rank=35&Refer=top",
+    "hot": 70846
   },
   "业内人士谈车队进罗布泊3死1失联": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%9A%E5%86%85%E4%BA%BA%E5%A3%AB%E8%B0%88%E8%BD%A6%E9%98%9F%E8%BF%9B%E7%BD%97%E5%B8%83%E6%B3%8A3%E6%AD%BB1%E5%A4%B1%E8%81%94%23&t=31&band_rank=50&Refer=top",
-    "hot": 48379
+    "hot": 65358
+  },
+  "84平米的出租屋住了17人": {
+    "url": "https://s.weibo.com/weibo?q=%2384%E5%B9%B3%E7%B1%B3%E7%9A%84%E5%87%BA%E7%A7%9F%E5%B1%8B%E4%BD%8F%E4%BA%8617%E4%BA%BA%23&t=31&band_rank=41&Refer=top",
+    "hot": 65357
+  },
+  "第一次看见企鹅收脚": {
+    "url": "https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%9C%8B%E8%A7%81%E4%BC%81%E9%B9%85%E6%94%B6%E8%84%9A&t=31&band_rank=50&Refer=top",
+    "hot": 65334
   },
   "南安": {
     "url": "https://s.weibo.com/weibo?q=%E5%8D%97%E5%AE%89&t=31&band_rank=50&Refer=top",
