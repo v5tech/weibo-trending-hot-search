@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-08-02 01:09:00.344861 
+最后更新时间 2023-08-02 01:24:02.992243 
 1. [涿州目前全域停水部分停电](https://s.weibo.com/weibo?q=%23%E6%B6%BF%E5%B7%9E%E7%9B%AE%E5%89%8D%E5%85%A8%E5%9F%9F%E5%81%9C%E6%B0%B4%E9%83%A8%E5%88%86%E5%81%9C%E7%94%B5%23&t=31&band_rank=31&Refer=top) 1241794
 1. [王霜 我们不是特别好的榜样](https://s.weibo.com/weibo?q=%E7%8E%8B%E9%9C%9C%20%E6%88%91%E4%BB%AC%E4%B8%8D%E6%98%AF%E7%89%B9%E5%88%AB%E5%A5%BD%E7%9A%84%E6%A6%9C%E6%A0%B7&t=31&band_rank=1&Refer=top) 1099866
 1. [常温超导](https://s.weibo.com/weibo?q=%E5%B8%B8%E6%B8%A9%E8%B6%85%E5%AF%BC&t=31&band_rank=2&Refer=top) 864392
@@ -28,6 +28,7 @@
 1. [涿州](https://s.weibo.com/weibo?q=%E6%B6%BF%E5%B7%9E&t=31&band_rank=17&Refer=top) 429723
 1. [10岁女童来京探亲被水冲走](https://s.weibo.com/weibo?q=%2310%E5%B2%81%E5%A5%B3%E7%AB%A5%E6%9D%A5%E4%BA%AC%E6%8E%A2%E4%BA%B2%E8%A2%AB%E6%B0%B4%E5%86%B2%E8%B5%B0%23&t=31&band_rank=18&Refer=top) 422973
 1. [和TFBOYS共赴十年约定](https://s.weibo.com/weibo?q=%23%E5%92%8CTFBOYS%E5%85%B1%E8%B5%B4%E5%8D%81%E5%B9%B4%E7%BA%A6%E5%AE%9A%23&t=31&band_rank=19&Refer=top) 422048
+1. [暴雨天气10个安全指南](https://s.weibo.com/weibo?q=%23%E6%9A%B4%E9%9B%A8%E5%A4%A9%E6%B0%9410%E4%B8%AA%E5%AE%89%E5%85%A8%E6%8C%87%E5%8D%97%23&t=31&band_rank=3&Refer=top) 367284
 1. [卡努](https://s.weibo.com/weibo?q=%E5%8D%A1%E5%8A%AA&t=31&band_rank=20&Refer=top) 355928
 1. [女婴心脏扎进一根4厘米绣花针](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%A9%B4%E5%BF%83%E8%84%8F%E6%89%8E%E8%BF%9B%E4%B8%80%E6%A0%B94%E5%8E%98%E7%B1%B3%E7%BB%A3%E8%8A%B1%E9%92%88%23&t=31&band_rank=21&Refer=top) 351227
 1. [前几天才知道楼下那只橘猫死了](https://s.weibo.com/weibo?q=%E5%89%8D%E5%87%A0%E5%A4%A9%E6%89%8D%E7%9F%A5%E9%81%93%E6%A5%BC%E4%B8%8B%E9%82%A3%E5%8F%AA%E6%A9%98%E7%8C%AB%E6%AD%BB%E4%BA%86&t=31&band_rank=22&Refer=top) 350825
@@ -50,9 +51,9 @@
 1. [ON泪洒赛场](https://s.weibo.com/weibo?q=%23ON%E6%B3%AA%E6%B4%92%E8%B5%9B%E5%9C%BA%23&t=31&band_rank=38&Refer=top) 213046
 1. [莲花楼](https://s.weibo.com/weibo?q=%E8%8E%B2%E8%8A%B1%E6%A5%BC&t=31&band_rank=39&Refer=top) 206611
 1. [杨丞琳晒4inlove合照](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E4%B8%9E%E7%90%B3%E6%99%924inlove%E5%90%88%E7%85%A7%23&t=31&band_rank=41&Refer=top) 198482
+1. [青提茉莉大战桃桃乌龙](https://s.weibo.com/weibo?q=%E9%9D%92%E6%8F%90%E8%8C%89%E8%8E%89%E5%A4%A7%E6%88%98%E6%A1%83%E6%A1%83%E4%B9%8C%E9%BE%99&t=31&band_rank=50&Refer=top) 189485
 1. [假如二郎神近视了](https://s.weibo.com/weibo?q=%23%E5%81%87%E5%A6%82%E4%BA%8C%E9%83%8E%E7%A5%9E%E8%BF%91%E8%A7%86%E4%BA%86%23&t=31&band_rank=40&Refer=top) 183751
 1. [檀健次天选相柳](https://s.weibo.com/weibo?q=%E6%AA%80%E5%81%A5%E6%AC%A1%E5%A4%A9%E9%80%89%E7%9B%B8%E6%9F%B3&t=31&band_rank=23&Refer=top) 176173
-1. [青提茉莉大战桃桃乌龙](https://s.weibo.com/weibo?q=%E9%9D%92%E6%8F%90%E8%8C%89%E8%8E%89%E5%A4%A7%E6%88%98%E6%A1%83%E6%A1%83%E4%B9%8C%E9%BE%99&t=31&band_rank=50&Refer=top) 173983
 1. [老兵隐功70年说不让子女搞特殊](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%85%B5%E9%9A%90%E5%8A%9F70%E5%B9%B4%E8%AF%B4%E4%B8%8D%E8%AE%A9%E5%AD%90%E5%A5%B3%E6%90%9E%E7%89%B9%E6%AE%8A%23&t=31&band_rank=42&Refer=top) 171612
 1. [姬发做质子的八年伯邑考在干什么](https://s.weibo.com/weibo?q=%23%E5%A7%AC%E5%8F%91%E5%81%9A%E8%B4%A8%E5%AD%90%E7%9A%84%E5%85%AB%E5%B9%B4%E4%BC%AF%E9%82%91%E8%80%83%E5%9C%A8%E5%B9%B2%E4%BB%80%E4%B9%88%23&t=31&band_rank=43&Refer=top) 170237
 1. [超级月亮](https://s.weibo.com/weibo?q=%E8%B6%85%E7%BA%A7%E6%9C%88%E4%BA%AE&t=31&band_rank=44&Refer=top) 161736
