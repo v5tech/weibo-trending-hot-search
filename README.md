@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-08-02 01:24:02.992243 
+最后更新时间 2023-08-02 01:34:24.401821 
 1. [涿州目前全域停水部分停电](https://s.weibo.com/weibo?q=%23%E6%B6%BF%E5%B7%9E%E7%9B%AE%E5%89%8D%E5%85%A8%E5%9F%9F%E5%81%9C%E6%B0%B4%E9%83%A8%E5%88%86%E5%81%9C%E7%94%B5%23&t=31&band_rank=31&Refer=top) 1241794
 1. [王霜 我们不是特别好的榜样](https://s.weibo.com/weibo?q=%E7%8E%8B%E9%9C%9C%20%E6%88%91%E4%BB%AC%E4%B8%8D%E6%98%AF%E7%89%B9%E5%88%AB%E5%A5%BD%E7%9A%84%E6%A6%9C%E6%A0%B7&t=31&band_rank=1&Refer=top) 1099866
 1. [常温超导](https://s.weibo.com/weibo?q=%E5%B8%B8%E6%B8%A9%E8%B6%85%E5%AF%BC&t=31&band_rank=2&Refer=top) 864392
@@ -17,6 +17,7 @@
 1. [心动6三个男生都投给了女一](https://s.weibo.com/weibo?q=%23%E5%BF%83%E5%8A%A86%E4%B8%89%E4%B8%AA%E7%94%B7%E7%94%9F%E9%83%BD%E6%8A%95%E7%BB%99%E4%BA%86%E5%A5%B3%E4%B8%80%23&t=31&band_rank=6&Refer=top) 785305
 1. [黄灿灿演的防风意映](https://s.weibo.com/weibo?q=%E9%BB%84%E7%81%BF%E7%81%BF%E6%BC%94%E7%9A%84%E9%98%B2%E9%A3%8E%E6%84%8F%E6%98%A0&t=31&band_rank=7&Refer=top) 712375
 1. [中图网库房被淹近百人被困](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BE%E7%BD%91%E5%BA%93%E6%88%BF%E8%A2%AB%E6%B7%B9%E8%BF%91%E7%99%BE%E4%BA%BA%E8%A2%AB%E5%9B%B0&t=31&band_rank=8&Refer=top) 580022
+1. [台风卡努抵近日本冲绳](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E5%8D%A1%E5%8A%AA%E6%8A%B5%E8%BF%91%E6%97%A5%E6%9C%AC%E5%86%B2%E7%BB%B3%23&t=31&band_rank=45&Refer=top) 576901
 1. [涂山璟说抱歉实在没忍住](https://s.weibo.com/weibo?q=%23%E6%B6%82%E5%B1%B1%E7%92%9F%E8%AF%B4%E6%8A%B1%E6%AD%89%E5%AE%9E%E5%9C%A8%E6%B2%A1%E5%BF%8D%E4%BD%8F%23&t=31&band_rank=9&Refer=top) 575734
 1. [刘畊宏给看完封神的老婆发的照片](https://s.weibo.com/weibo?q=%23%E5%88%98%E7%95%8A%E5%AE%8F%E7%BB%99%E7%9C%8B%E5%AE%8C%E5%B0%81%E7%A5%9E%E7%9A%84%E8%80%81%E5%A9%86%E5%8F%91%E7%9A%84%E7%85%A7%E7%89%87%23&t=31&band_rank=10&Refer=top) 559380
 1. [曝宝能集团姚振华被讨薪员工围殴](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%AE%9D%E8%83%BD%E9%9B%86%E5%9B%A2%E5%A7%9A%E6%8C%AF%E5%8D%8E%E8%A2%AB%E8%AE%A8%E8%96%AA%E5%91%98%E5%B7%A5%E5%9B%B4%E6%AE%B4%23&t=31&band_rank=11&Refer=top) 549028
@@ -28,7 +29,7 @@
 1. [涿州](https://s.weibo.com/weibo?q=%E6%B6%BF%E5%B7%9E&t=31&band_rank=17&Refer=top) 429723
 1. [10岁女童来京探亲被水冲走](https://s.weibo.com/weibo?q=%2310%E5%B2%81%E5%A5%B3%E7%AB%A5%E6%9D%A5%E4%BA%AC%E6%8E%A2%E4%BA%B2%E8%A2%AB%E6%B0%B4%E5%86%B2%E8%B5%B0%23&t=31&band_rank=18&Refer=top) 422973
 1. [和TFBOYS共赴十年约定](https://s.weibo.com/weibo?q=%23%E5%92%8CTFBOYS%E5%85%B1%E8%B5%B4%E5%8D%81%E5%B9%B4%E7%BA%A6%E5%AE%9A%23&t=31&band_rank=19&Refer=top) 422048
-1. [暴雨天气10个安全指南](https://s.weibo.com/weibo?q=%23%E6%9A%B4%E9%9B%A8%E5%A4%A9%E6%B0%9410%E4%B8%AA%E5%AE%89%E5%85%A8%E6%8C%87%E5%8D%97%23&t=31&band_rank=3&Refer=top) 367284
+1. [暴雨天气10个安全指南](https://s.weibo.com/weibo?q=%23%E6%9A%B4%E9%9B%A8%E5%A4%A9%E6%B0%9410%E4%B8%AA%E5%AE%89%E5%85%A8%E6%8C%87%E5%8D%97%23&t=31&band_rank=3&Refer=top) 409587
 1. [卡努](https://s.weibo.com/weibo?q=%E5%8D%A1%E5%8A%AA&t=31&band_rank=20&Refer=top) 355928
 1. [女婴心脏扎进一根4厘米绣花针](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%A9%B4%E5%BF%83%E8%84%8F%E6%89%8E%E8%BF%9B%E4%B8%80%E6%A0%B94%E5%8E%98%E7%B1%B3%E7%BB%A3%E8%8A%B1%E9%92%88%23&t=31&band_rank=21&Refer=top) 351227
 1. [前几天才知道楼下那只橘猫死了](https://s.weibo.com/weibo?q=%E5%89%8D%E5%87%A0%E5%A4%A9%E6%89%8D%E7%9F%A5%E9%81%93%E6%A5%BC%E4%B8%8B%E9%82%A3%E5%8F%AA%E6%A9%98%E7%8C%AB%E6%AD%BB%E4%BA%86&t=31&band_rank=22&Refer=top) 350825
@@ -36,7 +37,6 @@
 1. [鼻尖吻是迪丽热巴龚俊现场琢磨的](https://s.weibo.com/weibo?q=%23%E9%BC%BB%E5%B0%96%E5%90%BB%E6%98%AF%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%BE%9A%E4%BF%8A%E7%8E%B0%E5%9C%BA%E7%90%A2%E7%A3%A8%E7%9A%84%23&t=31&band_rank=24&Refer=top) 344417
 1. [魏大勋高中同学的留言](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E9%AB%98%E4%B8%AD%E5%90%8C%E5%AD%A6%E7%9A%84%E7%95%99%E8%A8%80%23&t=31&band_rank=25&Refer=top) 328120
 1. [长相思刚喜欢上的男人变成了我姐](https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D%E5%88%9A%E5%96%9C%E6%AC%A2%E4%B8%8A%E7%9A%84%E7%94%B7%E4%BA%BA%E5%8F%98%E6%88%90%E4%BA%86%E6%88%91%E5%A7%90%23&t=31&band_rank=26&Refer=top) 326800
-1. [台风卡努抵近日本冲绳](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E5%8D%A1%E5%8A%AA%E6%8A%B5%E8%BF%91%E6%97%A5%E6%9C%AC%E5%86%B2%E7%BB%B3%23&t=31&band_rank=45&Refer=top) 303318
 1. [姬发彪子](https://s.weibo.com/weibo?q=%E5%A7%AC%E5%8F%91%E5%BD%AA%E5%AD%90&t=31&band_rank=27&Refer=top) 286651
 1. [长相思10年前就开始筹备了](https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D10%E5%B9%B4%E5%89%8D%E5%B0%B1%E5%BC%80%E5%A7%8B%E7%AD%B9%E5%A4%87%E4%BA%86%23&t=31&band_rank=25&Refer=top) 280661
 1. [俄罗斯素食主义网红去世](https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E7%B4%A0%E9%A3%9F%E4%B8%BB%E4%B9%89%E7%BD%91%E7%BA%A2%E5%8E%BB%E4%B8%96%23&t=31&band_rank=28&Refer=top) 273247
