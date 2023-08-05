@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-08-06 05:19:00.590584 
+最后更新时间 2023-08-06 05:34:20.951573 
 1. [山东地震](https://s.weibo.com/weibo?q=%E5%B1%B1%E4%B8%9C%E5%9C%B0%E9%9C%87&t=31&band_rank=1&Refer=top) 23371334
 1. [北京震感](https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E9%9C%87%E6%84%9F&t=31&band_rank=2&Refer=top) 14731709
 1. [济南震感](https://s.weibo.com/weibo?q=%E6%B5%8E%E5%8D%97%E9%9C%87%E6%84%9F&t=31&band_rank=31&Refer=top) 12873899
@@ -94,7 +94,8 @@
 1. [洪水冲来2条狗女子领回精心饲养](https://s.weibo.com/weibo?q=%23%E6%B4%AA%E6%B0%B4%E5%86%B2%E6%9D%A52%E6%9D%A1%E7%8B%97%E5%A5%B3%E5%AD%90%E9%A2%86%E5%9B%9E%E7%B2%BE%E5%BF%83%E9%A5%B2%E5%85%BB%23&t=31&band_rank=49&Refer=top) 85777
 1. [金龟子王宁设宴庆结婚35周年](https://s.weibo.com/weibo?q=%23%E9%87%91%E9%BE%9F%E5%AD%90%E7%8E%8B%E5%AE%81%E8%AE%BE%E5%AE%B4%E5%BA%86%E7%BB%93%E5%A9%9A35%E5%91%A8%E5%B9%B4%23&t=31&band_rank=45&Refer=top) 69910
 1. [TFBOYS歌迷提前24小时场外守候](https://s.weibo.com/weibo?q=%23TFBOYS%E6%AD%8C%E8%BF%B7%E6%8F%90%E5%89%8D24%E5%B0%8F%E6%97%B6%E5%9C%BA%E5%A4%96%E5%AE%88%E5%80%99%23&t=31&band_rank=49&Refer=top) 45063
-1. [TFBOYS新歌](https://s.weibo.com/weibo?q=%23TFBOYS%E6%96%B0%E6%AD%8C%23&t=31&band_rank=49&Refer=top) 33443
+1. [曾追过最久的明星](https://s.weibo.com/weibo?q=%23%E6%9B%BE%E8%BF%BD%E8%BF%87%E6%9C%80%E4%B9%85%E7%9A%84%E6%98%8E%E6%98%9F%23&t=31&band_rank=43&Refer=top) 42450
+1. [TFBOYS新歌](https://s.weibo.com/weibo?q=%23TFBOYS%E6%96%B0%E6%AD%8C%23&t=31&band_rank=49&Refer=top) 33645
 <!-- END -->
 
 历史归档 [./archives](./archives)
