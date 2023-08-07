@@ -7,16 +7,17 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-08-07 10:00:01.974884 
+最后更新时间 2023-08-07 10:32:49.836204 
 1. [吉林舒兰3名失联公职人员确认牺牲](https://s.weibo.com/weibo?q=%23%E5%90%89%E6%9E%97%E8%88%92%E5%85%B03%E5%90%8D%E5%A4%B1%E8%81%94%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E7%A1%AE%E8%AE%A4%E7%89%BA%E7%89%B2%23&t=31&band_rank=1&Refer=top) 7584461
 1. [高校1.31亿科研经费成果转化率为0](https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A11.31%E4%BA%BF%E7%A7%91%E7%A0%94%E7%BB%8F%E8%B4%B9%E6%88%90%E6%9E%9C%E8%BD%AC%E5%8C%96%E7%8E%87%E4%B8%BA0%23&t=31&band_rank=2&Refer=top) 1331070
+1. [强降雨已致舒兰14人遇难](https://s.weibo.com/weibo?q=%23%E5%BC%BA%E9%99%8D%E9%9B%A8%E5%B7%B2%E8%87%B4%E8%88%92%E5%85%B014%E4%BA%BA%E9%81%87%E9%9A%BE%23&t=31&band_rank=2&Refer=top) 1180773
+1. [电影孤注一掷提档](https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E5%AD%A4%E6%B3%A8%E4%B8%80%E6%8E%B7%E6%8F%90%E6%A1%A3%23&t=31&band_rank=9&Refer=top) 1059292
 1. [北部战区第78集团军某旅紧急驰援舒兰](https://s.weibo.com/weibo?q=%23%E5%8C%97%E9%83%A8%E6%88%98%E5%8C%BA%E7%AC%AC78%E9%9B%86%E5%9B%A2%E5%86%9B%E6%9F%90%E6%97%85%E7%B4%A7%E6%80%A5%E9%A9%B0%E6%8F%B4%E8%88%92%E5%85%B0%23&t=31&band_rank=3&Refer=top) 1057952
 1. [十周年蛋糕塌了](https://s.weibo.com/weibo?q=%23%E5%8D%81%E5%91%A8%E5%B9%B4%E8%9B%8B%E7%B3%95%E5%A1%8C%E4%BA%86%23&t=31&band_rank=4&Refer=top) 1039951
 1. [原来真的有人一运动就过敏](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E7%9C%9F%E7%9A%84%E6%9C%89%E4%BA%BA%E4%B8%80%E8%BF%90%E5%8A%A8%E5%B0%B1%E8%BF%87%E6%95%8F%23&t=31&band_rank=6&Refer=top) 1022090
 1. [鹿晗演唱会](https://s.weibo.com/weibo?q=%E9%B9%BF%E6%99%97%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=5&Refer=top) 1007739
 1. [我突然意识到自己真的很好](https://s.weibo.com/weibo?q=%E6%88%91%E7%AA%81%E7%84%B6%E6%84%8F%E8%AF%86%E5%88%B0%E8%87%AA%E5%B7%B1%E7%9C%9F%E7%9A%84%E5%BE%88%E5%A5%BD&t=31&band_rank=6&Refer=top) 1002319
 1. [TFBOYS十年之约演唱会](https://s.weibo.com/weibo?q=%23TFBOYS%E5%8D%81%E5%B9%B4%E4%B9%8B%E7%BA%A6%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=7&Refer=top) 957659
-1. [强降雨已致舒兰14人遇难](https://s.weibo.com/weibo?q=%23%E5%BC%BA%E9%99%8D%E9%9B%A8%E5%B7%B2%E8%87%B4%E8%88%92%E5%85%B014%E4%BA%BA%E9%81%87%E9%9A%BE%23&t=31&band_rank=2&Refer=top) 945822
 1. [北部战区陆军第78集团军某旅紧急驰援舒兰](https://s.weibo.com/weibo?q=%23%E5%8C%97%E9%83%A8%E6%88%98%E5%8C%BA%E9%99%86%E5%86%9B%E7%AC%AC78%E9%9B%86%E5%9B%A2%E5%86%9B%E6%9F%90%E6%97%85%E7%B4%A7%E6%80%A5%E9%A9%B0%E6%8F%B4%E8%88%92%E5%85%B0%23&t=31&band_rank=3&Refer=top) 886056
 1. [gemini](https://s.weibo.com/weibo?q=gemini&t=31&band_rank=8&Refer=top) 881592
 1. [迪丽热巴戒指](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%88%92%E6%8C%87%23&t=31&band_rank=9&Refer=top) 879902
@@ -42,6 +43,7 @@
 1. [王源回应TFBOYS时隔两年没开演唱会](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E5%9B%9E%E5%BA%94TFBOYS%E6%97%B6%E9%9A%94%E4%B8%A4%E5%B9%B4%E6%B2%A1%E5%BC%80%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=29&Refer=top) 871482
 1. [地震时值班铁路人喊拦停列车](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%9C%87%E6%97%B6%E5%80%BC%E7%8F%AD%E9%93%81%E8%B7%AF%E4%BA%BA%E5%96%8A%E6%8B%A6%E5%81%9C%E5%88%97%E8%BD%A6%23&t=31&band_rank=35&Refer=top) 871314
 1. [刘宪华贵阳](https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%AA%E5%8D%8E%E8%B4%B5%E9%98%B3&t=31&band_rank=21&Refer=top) 870932
+1. [河段水位上升官兵们冒雨垒筑沙袋](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E6%AE%B5%E6%B0%B4%E4%BD%8D%E4%B8%8A%E5%8D%87%E5%AE%98%E5%85%B5%E4%BB%AC%E5%86%92%E9%9B%A8%E5%9E%92%E7%AD%91%E6%B2%99%E8%A2%8B%23&t=31&band_rank=48&Refer=top) 870819
 1. [王俊凯回望](https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%9B%9E%E6%9C%9B&t=31&band_rank=20&Refer=top) 870217
 1. [孤注一掷刷新中国影史点映单日票房纪录](https://s.weibo.com/weibo?q=%23%E5%AD%A4%E6%B3%A8%E4%B8%80%E6%8E%B7%E5%88%B7%E6%96%B0%E4%B8%AD%E5%9B%BD%E5%BD%B1%E5%8F%B2%E7%82%B9%E6%98%A0%E5%8D%95%E6%97%A5%E7%A5%A8%E6%88%BF%E7%BA%AA%E5%BD%95%23&t=31&band_rank=31&Refer=top) 869877
 1. [莲花楼](https://s.weibo.com/weibo?q=%E8%8E%B2%E8%8A%B1%E6%A5%BC&t=31&band_rank=37&Refer=top) 869343
@@ -63,15 +65,15 @@
 1. [EDG](https://s.weibo.com/weibo?q=EDG&t=31&band_rank=50&Refer=top) 862932
 1. [现在就出发](https://s.weibo.com/weibo?q=%E7%8E%B0%E5%9C%A8%E5%B0%B1%E5%87%BA%E5%8F%91&t=31&band_rank=43&Refer=top) 862594
 1. [张艺兴金晨情头](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E9%87%91%E6%99%A8%E6%83%85%E5%A4%B4%23&t=31&band_rank=34&Refer=top) 860899
+1. [TFBOYS暂未确定巡演城市](https://s.weibo.com/weibo?q=TFBOYS%E6%9A%82%E6%9C%AA%E7%A1%AE%E5%AE%9A%E5%B7%A1%E6%BC%94%E5%9F%8E%E5%B8%82&t=31&band_rank=4&Refer=top) 851380
 1. [吕成林](https://s.weibo.com/weibo?q=%E5%90%95%E6%88%90%E6%9E%97&t=31&band_rank=50&Refer=top) 832553
-1. [河段水位上升官兵们冒雨垒筑沙袋](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E6%AE%B5%E6%B0%B4%E4%BD%8D%E4%B8%8A%E5%8D%87%E5%AE%98%E5%85%B5%E4%BB%AC%E5%86%92%E9%9B%A8%E5%9E%92%E7%AD%91%E6%B2%99%E8%A2%8B%23&t=31&band_rank=48&Refer=top) 830952
 1. [央视采访列车被困落坡岭细节太震撼](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E9%87%87%E8%AE%BF%E5%88%97%E8%BD%A6%E8%A2%AB%E5%9B%B0%E8%90%BD%E5%9D%A1%E5%B2%AD%E7%BB%86%E8%8A%82%E5%A4%AA%E9%9C%87%E6%92%BC%23&t=31&band_rank=33&Refer=top) 742125
 1. [易烊千玺读信](https://s.weibo.com/weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E8%AF%BB%E4%BF%A1&t=31&band_rank=29&Refer=top) 711508
 1. [易烊千玺说我们三个](https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E8%AF%B4%E6%88%91%E4%BB%AC%E4%B8%89%E4%B8%AA%23&t=31&band_rank=35&Refer=top) 710987
+1. [滔搏 报点](https://s.weibo.com/weibo?q=%E6%BB%94%E6%90%8F%20%E6%8A%A5%E7%82%B9&t=31&band_rank=15&Refer=top) 637654
 1. [要学会大大方方的表达自己的情绪](https://s.weibo.com/weibo?q=%E8%A6%81%E5%AD%A6%E4%BC%9A%E5%A4%A7%E5%A4%A7%E6%96%B9%E6%96%B9%E7%9A%84%E8%A1%A8%E8%BE%BE%E8%87%AA%E5%B7%B1%E7%9A%84%E6%83%85%E7%BB%AA&t=31&band_rank=38&Refer=top) 637634
+1. [时代少年团演唱会什么时候官宣](https://s.weibo.com/weibo?q=%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E5%AE%98%E5%AE%A3&t=31&band_rank=8&Refer=top) 628153
 1. [命运的齿轮开始生锈](https://s.weibo.com/weibo?q=%23%E5%91%BD%E8%BF%90%E7%9A%84%E9%BD%BF%E8%BD%AE%E5%BC%80%E5%A7%8B%E7%94%9F%E9%94%88%23&t=31&band_rank=41&Refer=top) 622660
-1. [滔搏 报点](https://s.weibo.com/weibo?q=%E6%BB%94%E6%90%8F%20%E6%8A%A5%E7%82%B9&t=31&band_rank=15&Refer=top) 619661
-1. [电影孤注一掷提档](https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E5%AD%A4%E6%B3%A8%E4%B8%80%E6%8E%B7%E6%8F%90%E6%A1%A3%23&t=31&band_rank=9&Refer=top) 588393
 1. [薛之谦团队都去了TFBOYS演唱会](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%9B%A2%E9%98%9F%E9%83%BD%E5%8E%BB%E4%BA%86TFBOYS%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=14&Refer=top) 549310
 1. [于适成为姬发](https://s.weibo.com/weibo?q=%E4%BA%8E%E9%80%82%E6%88%90%E4%B8%BA%E5%A7%AC%E5%8F%91&t=31&band_rank=27&Refer=top) 539118
 1. [XYG 比赛全程在联盟裁判监督下进行](https://s.weibo.com/weibo?q=XYG%20%E6%AF%94%E8%B5%9B%E5%85%A8%E7%A8%8B%E5%9C%A8%E8%81%94%E7%9B%9F%E8%A3%81%E5%88%A4%E7%9B%91%E7%9D%A3%E4%B8%8B%E8%BF%9B%E8%A1%8C&t=31&band_rank=12&Refer=top) 504020
@@ -79,6 +81,8 @@
 1. [本周狗屎运排行榜](https://s.weibo.com/weibo?q=%E6%9C%AC%E5%91%A8%E7%8B%97%E5%B1%8E%E8%BF%90%E6%8E%92%E8%A1%8C%E6%A6%9C&t=31&band_rank=13&Refer=top) 493559
 1. [阎月明逝世](https://s.weibo.com/weibo?q=%23%E9%98%8E%E6%9C%88%E6%98%8E%E9%80%9D%E4%B8%96%23&t=31&band_rank=36&Refer=top) 440280
 1. [地震来了他们没跑反而拿起电话](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%9C%87%E6%9D%A5%E4%BA%86%E4%BB%96%E4%BB%AC%E6%B2%A1%E8%B7%91%E5%8F%8D%E8%80%8C%E6%8B%BF%E8%B5%B7%E7%94%B5%E8%AF%9D%23&t=31&band_rank=33&Refer=top) 437063
+1. [梅西进球](https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BF%E8%BF%9B%E7%90%83&t=31&band_rank=10&Refer=top) 424291
+1. [所有的四叶草是来送他们的](https://s.weibo.com/weibo?q=%E6%89%80%E6%9C%89%E7%9A%84%E5%9B%9B%E5%8F%B6%E8%8D%89%E6%98%AF%E6%9D%A5%E9%80%81%E4%BB%96%E4%BB%AC%E7%9A%84&t=31&band_rank=11&Refer=top) 421917
 1. [钱塘江众多游客近距离观潮被卷入](https://s.weibo.com/weibo?q=%23%E9%92%B1%E5%A1%98%E6%B1%9F%E4%BC%97%E5%A4%9A%E6%B8%B8%E5%AE%A2%E8%BF%91%E8%B7%9D%E7%A6%BB%E8%A7%82%E6%BD%AE%E8%A2%AB%E5%8D%B7%E5%85%A5%23&t=31&band_rank=42&Refer=top) 348491
 1. [流鼻血时别再仰头了](https://s.weibo.com/weibo?q=%E6%B5%81%E9%BC%BB%E8%A1%80%E6%97%B6%E5%88%AB%E5%86%8D%E4%BB%B0%E5%A4%B4%E4%BA%86&t=31&band_rank=47&Refer=top) 327528
 1. [下个火爆的TFBOYS在哪里](https://s.weibo.com/weibo?q=%23%E4%B8%8B%E4%B8%AA%E7%81%AB%E7%88%86%E7%9A%84TFBOYS%E5%9C%A8%E5%93%AA%E9%87%8C%23&t=31&band_rank=23&Refer=top) 319760
@@ -96,7 +100,13 @@
 1. [莲花楼杀我别用莲花刀](https://s.weibo.com/weibo?q=%23%E8%8E%B2%E8%8A%B1%E6%A5%BC%E6%9D%80%E6%88%91%E5%88%AB%E7%94%A8%E8%8E%B2%E8%8A%B1%E5%88%80%23&t=31&band_rank=49&Refer=top) 283711
 1. [婚宴随完礼打包一桌菜](https://s.weibo.com/weibo?q=%E5%A9%9A%E5%AE%B4%E9%9A%8F%E5%AE%8C%E7%A4%BC%E6%89%93%E5%8C%85%E4%B8%80%E6%A1%8C%E8%8F%9C&t=31&band_rank=44&Refer=top) 282381
 1. [RIIZE组合将不再是旷野世界观](https://s.weibo.com/weibo?q=%23RIIZE%E7%BB%84%E5%90%88%E5%B0%86%E4%B8%8D%E5%86%8D%E6%98%AF%E6%97%B7%E9%87%8E%E4%B8%96%E7%95%8C%E8%A7%82%23&t=31&band_rank=47&Refer=top) 264001
+1. [黑龙江吉林抗洪压力较大](https://s.weibo.com/weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E5%90%89%E6%9E%97%E6%8A%97%E6%B4%AA%E5%8E%8B%E5%8A%9B%E8%BE%83%E5%A4%A7%23&t=31&band_rank=19&Refer=top) 250111
+1. [周杰伦演唱会](https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=27&Refer=top) 239348
 1. [多支部队救援力量坚守吉林防汛一线](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%94%AF%E9%83%A8%E9%98%9F%E6%95%91%E6%8F%B4%E5%8A%9B%E9%87%8F%E5%9D%9A%E5%AE%88%E5%90%89%E6%9E%97%E9%98%B2%E6%B1%9B%E4%B8%80%E7%BA%BF%23&t=31&band_rank=47&Refer=top) 221579
+1. [十个勤天](https://s.weibo.com/weibo?q=%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9&t=31&band_rank=34&Refer=top) 213119
+1. [卡努](https://s.weibo.com/weibo?q=%E5%8D%A1%E5%8A%AA&t=31&band_rank=38&Refer=top) 213096
+1. [梅西4场6球](https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF4%E5%9C%BA6%E7%90%83%23&t=31&band_rank=40&Refer=top) 213081
+1. [达拉斯vs迈阿密国际](https://s.weibo.com/weibo?q=%23%E8%BE%BE%E6%8B%89%E6%96%AFvs%E8%BF%88%E9%98%BF%E5%AF%86%E5%9B%BD%E9%99%85%23&t=31&band_rank=45&Refer=top) 213039
 1. [夏鸣星卡面](https://s.weibo.com/weibo?q=%E5%A4%8F%E9%B8%A3%E6%98%9F%E5%8D%A1%E9%9D%A2&t=31&band_rank=50&Refer=top) 210937
 1. [徐峥陶虹带女儿看TFBOYS演唱会](https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%B3%A5%E9%99%B6%E8%99%B9%E5%B8%A6%E5%A5%B3%E5%84%BF%E7%9C%8BTFBOYS%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=26&Refer=top) 205350
 1. [易烊千玺话筒](https://s.weibo.com/weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E8%AF%9D%E7%AD%92&t=31&band_rank=32&Refer=top) 199217
