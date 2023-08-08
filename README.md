@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-08-09 01:34:52.638236 
+最后更新时间 2023-08-09 01:49:10.074584 
 1. [女子2百多网购却被花呗扣款3千多](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%902%E7%99%BE%E5%A4%9A%E7%BD%91%E8%B4%AD%E5%8D%B4%E8%A2%AB%E8%8A%B1%E5%91%97%E6%89%A3%E6%AC%BE3%E5%8D%83%E5%A4%9A%23&t=31&band_rank=1&Refer=top) 1376977
 1. [长相思第二季有檀健次吗](https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D%E7%AC%AC%E4%BA%8C%E5%AD%A3%E6%9C%89%E6%AA%80%E5%81%A5%E6%AC%A1%E5%90%97%23&t=31&band_rank=2&Refer=top) 1151097
 1. [Uzi](https://s.weibo.com/weibo?q=Uzi&t=31&band_rank=6&Refer=top) 1120662
@@ -65,6 +65,7 @@
 1. [哪吒托殷郊这里居然是真人](https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%92%E6%89%98%E6%AE%B7%E9%83%8A%E8%BF%99%E9%87%8C%E5%B1%85%E7%84%B6%E6%98%AF%E7%9C%9F%E4%BA%BA%23&t=31&band_rank=30&Refer=top) 145177
 1. [送养小猫时突然理解了嫁妆的意义](https://s.weibo.com/weibo?q=%E9%80%81%E5%85%BB%E5%B0%8F%E7%8C%AB%E6%97%B6%E7%AA%81%E7%84%B6%E7%90%86%E8%A7%A3%E4%BA%86%E5%AB%81%E5%A6%86%E7%9A%84%E6%84%8F%E4%B9%89&t=31&band_rank=38&Refer=top) 131958
 1. [无用的谎言](https://s.weibo.com/weibo?q=%E6%97%A0%E7%94%A8%E7%9A%84%E8%B0%8E%E8%A8%80&t=31&band_rank=46&Refer=top) 97481
+1. [杨紫直播](https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E7%9B%B4%E6%92%AD&t=31&band_rank=48&Refer=top) 75273
 <!-- END -->
 
 历史归档 [./archives](./archives)
