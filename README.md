@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-08-10 05:09:30.551900 
+最后更新时间 2023-08-10 05:20:33.930150 
 1. [优酷 泼天的富贵](https://s.weibo.com/weibo?q=%E4%BC%98%E9%85%B7%20%E6%B3%BC%E5%A4%A9%E7%9A%84%E5%AF%8C%E8%B4%B5&t=31&band_rank=1&Refer=top) 2055182
 1. [jiejie](https://s.weibo.com/weibo?q=jiejie&t=31&band_rank=29&Refer=top) 1314861
 1. [一名殡葬专业学生的课表](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%90%8D%E6%AE%A1%E8%91%AC%E4%B8%93%E4%B8%9A%E5%AD%A6%E7%94%9F%E7%9A%84%E8%AF%BE%E8%A1%A8%23&t=31&band_rank=2&Refer=top) 1001805
@@ -78,6 +78,7 @@
 1. [43岁女子当榜一大哥骗女主播66万](https://s.weibo.com/weibo?q=%2343%E5%B2%81%E5%A5%B3%E5%AD%90%E5%BD%93%E6%A6%9C%E4%B8%80%E5%A4%A7%E5%93%A5%E9%AA%97%E5%A5%B3%E4%B8%BB%E6%92%AD66%E4%B8%87%23&t=31&band_rank=44&Refer=top) 45995
 1. [G社拍的王鹤棣](https://s.weibo.com/weibo?q=%23G%E7%A4%BE%E6%8B%8D%E7%9A%84%E7%8E%8B%E9%B9%A4%E6%A3%A3%23&t=31&band_rank=31&Refer=top) 39968
 1. [杨迪问快乐向前冲想干嘛](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%BF%AA%E9%97%AE%E5%BF%AB%E4%B9%90%E5%90%91%E5%89%8D%E5%86%B2%E6%83%B3%E5%B9%B2%E5%98%9B%23&t=31&band_rank=48&Refer=top) 37784
+1. [卡芙卡上线](https://s.weibo.com/weibo?q=%23%E5%8D%A1%E8%8A%99%E5%8D%A1%E4%B8%8A%E7%BA%BF%23&t=31&band_rank=50&Refer=top) 21535
 <!-- END -->
 
 历史归档 [./archives](./archives)
