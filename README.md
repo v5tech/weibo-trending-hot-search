@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-08-10 03:08:47.050011 
+最后更新时间 2023-08-10 03:19:09.697458 
 1. [优酷 泼天的富贵](https://s.weibo.com/weibo?q=%E4%BC%98%E9%85%B7%20%E6%B3%BC%E5%A4%A9%E7%9A%84%E5%AF%8C%E8%B4%B5&t=31&band_rank=1&Refer=top) 2055182
 1. [jiejie](https://s.weibo.com/weibo?q=jiejie&t=31&band_rank=29&Refer=top) 1314861
 1. [一名殡葬专业学生的课表](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%90%8D%E6%AE%A1%E8%91%AC%E4%B8%93%E4%B8%9A%E5%AD%A6%E7%94%9F%E7%9A%84%E8%AF%BE%E8%A1%A8%23&t=31&band_rank=2&Refer=top) 1001805
