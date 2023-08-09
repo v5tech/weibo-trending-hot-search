@@ -31,6 +31,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA10%E9%83%A8%E7%83%AD%E5%BA%A6%E5%80%BC%E7%A0%B4%E4%B8%87%E7%9A%84%E5%89%A7%E9%9B%86%23&t=31&band_rank=8&Refer=top",
     "hot": 617420
   },
+  "韩男团中国线下签售cut": {
+    "url": "https://s.weibo.com/weibo?q=%E9%9F%A9%E7%94%B7%E5%9B%A2%E4%B8%AD%E5%9B%BD%E7%BA%BF%E4%B8%8B%E7%AD%BE%E5%94%AEcut&t=31&band_rank=16&Refer=top",
+    "hot": 575486
+  },
   "中央财政紧急预拨10亿元": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%A4%AE%E8%B4%A2%E6%94%BF%E7%B4%A7%E6%80%A5%E9%A2%84%E6%8B%A810%E4%BA%BF%E5%85%83%23&t=31&band_rank=9&Refer=top",
     "hot": 554970
@@ -58,10 +62,6 @@
   "刚出生一个月的小水獭有多萌": {
     "url": "https://s.weibo.com/weibo?q=%E5%88%9A%E5%87%BA%E7%94%9F%E4%B8%80%E4%B8%AA%E6%9C%88%E7%9A%84%E5%B0%8F%E6%B0%B4%E7%8D%AD%E6%9C%89%E5%A4%9A%E8%90%8C&t=31&band_rank=15&Refer=top",
     "hot": 309215
-  },
-  "韩男团中国线下签售cut": {
-    "url": "https://s.weibo.com/weibo?q=%E9%9F%A9%E7%94%B7%E5%9B%A2%E4%B8%AD%E5%9B%BD%E7%BA%BF%E4%B8%8B%E7%AD%BE%E5%94%AEcut&t=31&band_rank=16&Refer=top",
-    "hot": 306926
   },
   "宋威龙穿JK": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%AE%8B%E5%A8%81%E9%BE%99%E7%A9%BFJK%23&t=31&band_rank=17&Refer=top",
@@ -198,5 +198,21 @@
   "男子夜钓被鱼拖下水民警追4公里救出": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%A4%9C%E9%92%93%E8%A2%AB%E9%B1%BC%E6%8B%96%E4%B8%8B%E6%B0%B4%E6%B0%91%E8%AD%A6%E8%BF%BD4%E5%85%AC%E9%87%8C%E6%95%91%E5%87%BA%23&t=31&band_rank=50&Refer=top",
     "hot": 224658
+  },
+  "jiejie": {
+    "url": "https://s.weibo.com/weibo?q=jiejie&t=31&band_rank=29&Refer=top",
+    "hot": 194856
+  },
+  "同事桌上突然贴的标语": {
+    "url": "https://s.weibo.com/weibo?q=%E5%90%8C%E4%BA%8B%E6%A1%8C%E4%B8%8A%E7%AA%81%E7%84%B6%E8%B4%B4%E7%9A%84%E6%A0%87%E8%AF%AD&t=31&band_rank=38&Refer=top",
+    "hot": 188027
+  },
+  "你会给莲花楼打几分": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%BC%9A%E7%BB%99%E8%8E%B2%E8%8A%B1%E6%A5%BC%E6%89%93%E5%87%A0%E5%88%86%23&t=31&band_rank=44&Refer=top",
+    "hot": 184366
+  },
+  "孤注一掷导演说张艺兴是剧组表率": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%AD%A4%E6%B3%A8%E4%B8%80%E6%8E%B7%E5%AF%BC%E6%BC%94%E8%AF%B4%E5%BC%A0%E8%89%BA%E5%85%B4%E6%98%AF%E5%89%A7%E7%BB%84%E8%A1%A8%E7%8E%87%23&t=31&band_rank=46&Refer=top",
+    "hot": 179275
   }
 }
