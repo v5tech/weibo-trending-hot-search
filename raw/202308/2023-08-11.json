@@ -231,6 +231,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E5%A5%BD%E5%83%8F%E4%BB%96%E4%BB%AC%E4%BB%A8play%E7%9A%84%E4%B8%80%E7%8E%AF%23&t=31&band_rank=44&Refer=top",
     "hot": 121248
   },
+  "于适蒋奇明 我的阿勒泰": {
+    "url": "https://s.weibo.com/weibo?q=%E4%BA%8E%E9%80%82%E8%92%8B%E5%A5%87%E6%98%8E%20%E6%88%91%E7%9A%84%E9%98%BF%E5%8B%92%E6%B3%B0&t=31&band_rank=22&Refer=top",
+    "hot": 105502
+  },
   "家庭蒸鱼天花板": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%AE%B6%E5%BA%AD%E8%92%B8%E9%B1%BC%E5%A4%A9%E8%8A%B1%E6%9D%BF%23&t=31&band_rank=48&Refer=top",
     "hot": 97552
@@ -246,5 +250,9 @@
   "长相思": {
     "url": "https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D&t=31&band_rank=45&Refer=top",
     "hot": 78833
+  },
+  "羡慕小狗的生活了": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BE%A1%E6%85%95%E5%B0%8F%E7%8B%97%E7%9A%84%E7%94%9F%E6%B4%BB%E4%BA%86%23&t=31&band_rank=50&Refer=top",
+    "hot": 49427
   }
 }
