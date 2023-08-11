@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-08-12 00:48:56.006788 
+最后更新时间 2023-08-12 01:08:50.411160 
 1. [吴倩选择武大是因为离家近](https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%80%A9%E9%80%89%E6%8B%A9%E6%AD%A6%E5%A4%A7%E6%98%AF%E5%9B%A0%E4%B8%BA%E7%A6%BB%E5%AE%B6%E8%BF%91%23&t=31&band_rank=1&Refer=top) 1235033
 1. [长相思发了小夭梅林分轨文件](https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D%E5%8F%91%E4%BA%86%E5%B0%8F%E5%A4%AD%E6%A2%85%E6%9E%97%E5%88%86%E8%BD%A8%E6%96%87%E4%BB%B6%23&t=31&band_rank=2&Refer=top) 1195689
 1. [洪水来临时哪些地方是危险地带](https://s.weibo.com/weibo?q=%23%E6%B4%AA%E6%B0%B4%E6%9D%A5%E4%B8%B4%E6%97%B6%E5%93%AA%E4%BA%9B%E5%9C%B0%E6%96%B9%E6%98%AF%E5%8D%B1%E9%99%A9%E5%9C%B0%E5%B8%A6%23&t=31&band_rank=3&Refer=top) 814349
@@ -27,8 +27,8 @@
 1. [成毅跳queencard 认真中带着幽默](https://s.weibo.com/weibo?q=%E6%88%90%E6%AF%85%E8%B7%B3queencard%20%E8%AE%A4%E7%9C%9F%E4%B8%AD%E5%B8%A6%E7%9D%80%E5%B9%BD%E9%BB%98&t=31&band_rank=17&Refer=top) 369246
 1. [绿衣小夭是长相思最美妆造吗](https://s.weibo.com/weibo?q=%23%E7%BB%BF%E8%A1%A3%E5%B0%8F%E5%A4%AD%E6%98%AF%E9%95%BF%E7%9B%B8%E6%80%9D%E6%9C%80%E7%BE%8E%E5%A6%86%E9%80%A0%E5%90%97%23&t=31&band_rank=16&Refer=top) 368496
 1. [大爷高铁上戴耳机喝白酒全程安静](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%88%B7%E9%AB%98%E9%93%81%E4%B8%8A%E6%88%B4%E8%80%B3%E6%9C%BA%E5%96%9D%E7%99%BD%E9%85%92%E5%85%A8%E7%A8%8B%E5%AE%89%E9%9D%99%23&t=31&band_rank=18&Refer=top) 361828
+1. [2023下半年待播剧](https://s.weibo.com/weibo?q=%232023%E4%B8%8B%E5%8D%8A%E5%B9%B4%E5%BE%85%E6%92%AD%E5%89%A7%23&t=31&band_rank=29&Refer=top) 353121
 1. [医药代表性贿赂医生](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E8%8D%AF%E4%BB%A3%E8%A1%A8%E6%80%A7%E8%B4%BF%E8%B5%82%E5%8C%BB%E7%94%9F%23&t=31&band_rank=35&Refer=top) 306850
-1. [2023下半年待播剧](https://s.weibo.com/weibo?q=%232023%E4%B8%8B%E5%8D%8A%E5%B9%B4%E5%BE%85%E6%92%AD%E5%89%A7%23&t=31&band_rank=29&Refer=top) 306679
 1. [和天秤座相处要多一点耐心](https://s.weibo.com/weibo?q=%E5%92%8C%E5%A4%A9%E7%A7%A4%E5%BA%A7%E7%9B%B8%E5%A4%84%E8%A6%81%E5%A4%9A%E4%B8%80%E7%82%B9%E8%80%90%E5%BF%83&t=31&band_rank=20&Refer=top) 279198
 1. [00年带98年的实习生](https://s.weibo.com/weibo?q=%2300%E5%B9%B4%E5%B8%A698%E5%B9%B4%E7%9A%84%E5%AE%9E%E4%B9%A0%E7%94%9F%23&t=31&band_rank=21&Refer=top) 279142
 1. [盒马山姆商战杀疯了](https://s.weibo.com/weibo?q=%23%E7%9B%92%E9%A9%AC%E5%B1%B1%E5%A7%86%E5%95%86%E6%88%98%E6%9D%80%E7%96%AF%E4%BA%86%23&t=31&band_rank=22&Refer=top) 279085
@@ -52,19 +52,22 @@
 1. [肖战终于穿背带裤了](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%BB%88%E4%BA%8E%E7%A9%BF%E8%83%8C%E5%B8%A6%E8%A3%A4%E4%BA%86%23&t=31&band_rank=42&Refer=top) 260500
 1. [鹿晗武汉演唱会](https://s.weibo.com/weibo?q=%E9%B9%BF%E6%99%97%E6%AD%A6%E6%B1%89%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=43&Refer=top) 256045
 1. [金秋天长发](https://s.weibo.com/weibo?q=%E9%87%91%E7%A7%8B%E5%A4%A9%E9%95%BF%E5%8F%91&t=31&band_rank=44&Refer=top) 251030
-1. [长相思](https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D&t=31&band_rank=34&Refer=top) 237487
+1. [私服好看的明星](https://s.weibo.com/weibo?q=%23%E7%A7%81%E6%9C%8D%E5%A5%BD%E7%9C%8B%E7%9A%84%E6%98%8E%E6%98%9F%23&t=31&band_rank=17&Refer=top) 243542
+1. [令我不知不觉变穷的习惯](https://s.weibo.com/weibo?q=%E4%BB%A4%E6%88%91%E4%B8%8D%E7%9F%A5%E4%B8%8D%E8%A7%89%E5%8F%98%E7%A9%B7%E7%9A%84%E4%B9%A0%E6%83%AF&t=31&band_rank=46&Refer=top) 240718
+1. [liz再染金发](https://s.weibo.com/weibo?q=%23liz%E5%86%8D%E6%9F%93%E9%87%91%E5%8F%91%23&t=31&band_rank=26&Refer=top) 240544
+1. [长相思](https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D&t=31&band_rank=34&Refer=top) 238633
+1. [高叶狂飙后首部电视剧](https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%8F%B6%E7%8B%82%E9%A3%99%E5%90%8E%E9%A6%96%E9%83%A8%E7%94%B5%E8%A7%86%E5%89%A7%23&t=31&band_rank=41&Refer=top) 238289
+1. [不和人打交道的工作好快乐啊](https://s.weibo.com/weibo?q=%E4%B8%8D%E5%92%8C%E4%BA%BA%E6%89%93%E4%BA%A4%E9%81%93%E7%9A%84%E5%B7%A5%E4%BD%9C%E5%A5%BD%E5%BF%AB%E4%B9%90%E5%95%8A&t=31&band_rank=48&Refer=top) 238250
+1. [我永远喜欢我自己](https://s.weibo.com/weibo?q=%E6%88%91%E6%B0%B8%E8%BF%9C%E5%96%9C%E6%AC%A2%E6%88%91%E8%87%AA%E5%B7%B1&t=31&band_rank=48&Refer=top) 237963
+1. [走路久了为什么脚会变黄](https://s.weibo.com/weibo?q=%23%E8%B5%B0%E8%B7%AF%E4%B9%85%E4%BA%86%E4%B8%BA%E4%BB%80%E4%B9%88%E8%84%9A%E4%BC%9A%E5%8F%98%E9%BB%84%23&t=31&band_rank=47&Refer=top) 237819
+1. [凯恩 抓马](https://s.weibo.com/weibo?q=%E5%87%AF%E6%81%A9%20%E6%8A%93%E9%A9%AC&t=31&band_rank=49&Refer=top) 237787
 1. [橘子海](https://s.weibo.com/weibo?q=%E6%A9%98%E5%AD%90%E6%B5%B7&t=31&band_rank=45&Refer=top) 237128
 1. [别让父母一个人去医院](https://s.weibo.com/weibo?q=%23%E5%88%AB%E8%AE%A9%E7%88%B6%E6%AF%8D%E4%B8%80%E4%B8%AA%E4%BA%BA%E5%8E%BB%E5%8C%BB%E9%99%A2%23&t=31&band_rank=46&Refer=top) 236754
-1. [走路久了为什么脚会变黄](https://s.weibo.com/weibo?q=%23%E8%B5%B0%E8%B7%AF%E4%B9%85%E4%BA%86%E4%B8%BA%E4%BB%80%E4%B9%88%E8%84%9A%E4%BC%9A%E5%8F%98%E9%BB%84%23&t=31&band_rank=47&Refer=top) 234646
 1. [吃个早饭给我看的热血沸腾](https://s.weibo.com/weibo?q=%23%E5%90%83%E4%B8%AA%E6%97%A9%E9%A5%AD%E7%BB%99%E6%88%91%E7%9C%8B%E7%9A%84%E7%83%AD%E8%A1%80%E6%B2%B8%E8%85%BE%23&t=31&band_rank=48&Refer=top) 232144
-1. [凯恩 抓马](https://s.weibo.com/weibo?q=%E5%87%AF%E6%81%A9%20%E6%8A%93%E9%A9%AC&t=31&band_rank=49&Refer=top) 230455
 1. [如果有朋友突然临时约你](https://s.weibo.com/weibo?q=%E5%A6%82%E6%9E%9C%E6%9C%89%E6%9C%8B%E5%8F%8B%E7%AA%81%E7%84%B6%E4%B8%B4%E6%97%B6%E7%BA%A6%E4%BD%A0&t=31&band_rank=50&Refer=top) 228441
 1. [那英听康士坦的歌是华晨宇推荐的](https://s.weibo.com/weibo?q=%23%E9%82%A3%E8%8B%B1%E5%90%AC%E5%BA%B7%E5%A3%AB%E5%9D%A6%E7%9A%84%E6%AD%8C%E6%98%AF%E5%8D%8E%E6%99%A8%E5%AE%87%E6%8E%A8%E8%8D%90%E7%9A%84%23&t=31&band_rank=43&Refer=top) 220012
 1. [冯海宁这姐太酷了](https://s.weibo.com/weibo?q=%E5%86%AF%E6%B5%B7%E5%AE%81%E8%BF%99%E5%A7%90%E5%A4%AA%E9%85%B7%E4%BA%86&t=31&band_rank=44&Refer=top) 219135
-1. [令我不知不觉变穷的习惯](https://s.weibo.com/weibo?q=%E4%BB%A4%E6%88%91%E4%B8%8D%E7%9F%A5%E4%B8%8D%E8%A7%89%E5%8F%98%E7%A9%B7%E7%9A%84%E4%B9%A0%E6%83%AF&t=31&band_rank=46&Refer=top) 218745
-1. [高叶狂飙后首部电视剧](https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%8F%B6%E7%8B%82%E9%A3%99%E5%90%8E%E9%A6%96%E9%83%A8%E7%94%B5%E8%A7%86%E5%89%A7%23&t=31&band_rank=41&Refer=top) 210022
 1. [Nova heart](https://s.weibo.com/weibo?q=Nova%20heart&t=31&band_rank=42&Refer=top) 209048
-1. [不和人打交道的工作好快乐啊](https://s.weibo.com/weibo?q=%E4%B8%8D%E5%92%8C%E4%BA%BA%E6%89%93%E4%BA%A4%E9%81%93%E7%9A%84%E5%B7%A5%E4%BD%9C%E5%A5%BD%E5%BF%AB%E4%B9%90%E5%95%8A&t=31&band_rank=48&Refer=top) 209032
 1. [虎啸春真诚又可爱](https://s.weibo.com/weibo?q=%23%E8%99%8E%E5%95%B8%E6%98%A5%E7%9C%9F%E8%AF%9A%E5%8F%88%E5%8F%AF%E7%88%B1%23&t=31&band_rank=34&Refer=top) 197396
 1. [梅林守护小夭计划](https://s.weibo.com/weibo?q=%23%E6%A2%85%E6%9E%97%E5%AE%88%E6%8A%A4%E5%B0%8F%E5%A4%AD%E8%AE%A1%E5%88%92%23&t=31&band_rank=41&Refer=top) 194730
 <!-- END -->
