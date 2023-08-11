@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-08-12 04:49:00.577985 
+最后更新时间 2023-08-12 05:08:07.541779 
 1. [吴倩选择武大是因为离家近](https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%80%A9%E9%80%89%E6%8B%A9%E6%AD%A6%E5%A4%A7%E6%98%AF%E5%9B%A0%E4%B8%BA%E7%A6%BB%E5%AE%B6%E8%BF%91%23&t=31&band_rank=1&Refer=top) 1235033
 1. [长相思发了小夭梅林分轨文件](https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D%E5%8F%91%E4%BA%86%E5%B0%8F%E5%A4%AD%E6%A2%85%E6%9E%97%E5%88%86%E8%BD%A8%E6%96%87%E4%BB%B6%23&t=31&band_rank=2&Refer=top) 1195689
 1. [洪水来临时哪些地方是危险地带](https://s.weibo.com/weibo?q=%23%E6%B4%AA%E6%B0%B4%E6%9D%A5%E4%B8%B4%E6%97%B6%E5%93%AA%E4%BA%9B%E5%9C%B0%E6%96%B9%E6%98%AF%E5%8D%B1%E9%99%A9%E5%9C%B0%E5%B8%A6%23&t=31&band_rank=3&Refer=top) 814349
