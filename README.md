@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-08-13 06:08:11.297256 
+最后更新时间 2023-08-13 06:22:56.116589 
 1. [各大医院书记院长被抓后痛哭流涕](https://s.weibo.com/weibo?q=%E5%90%84%E5%A4%A7%E5%8C%BB%E9%99%A2%E4%B9%A6%E8%AE%B0%E9%99%A2%E9%95%BF%E8%A2%AB%E6%8A%93%E5%90%8E%E7%97%9B%E5%93%AD%E6%B5%81%E6%B6%95&t=31&band_rank=1&Refer=top) 1355381
 1. [杨紫泼水 孟子义2.0](https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E6%B3%BC%E6%B0%B4%20%E5%AD%9F%E5%AD%90%E4%B9%892.0&t=31&band_rank=2&Refer=top) 958924
 1. [家长吐槽暑假40天孩子开销五六万](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%95%BF%E5%90%90%E6%A7%BD%E6%9A%91%E5%81%8740%E5%A4%A9%E5%AD%A9%E5%AD%90%E5%BC%80%E9%94%80%E4%BA%94%E5%85%AD%E4%B8%87%23&t=31&band_rank=6&Refer=top) 909433
@@ -43,11 +43,11 @@
 1. [檀健次 美瞳](https://s.weibo.com/weibo?q=%E6%AA%80%E5%81%A5%E6%AC%A1%20%E7%BE%8E%E7%9E%B3&t=31&band_rank=37&Refer=top) 272881
 1. [封神榜](https://s.weibo.com/weibo?q=%E5%B0%81%E7%A5%9E%E6%A6%9C&t=31&band_rank=36&Refer=top) 267234
 1. [阮经天出车祸](https://s.weibo.com/weibo?q=%23%E9%98%AE%E7%BB%8F%E5%A4%A9%E5%87%BA%E8%BD%A6%E7%A5%B8%23&t=31&band_rank=44&Refer=top) 213993
+1. [李雪琴在王鹤棣魏大勋之间做选择](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%9B%AA%E7%90%B4%E5%9C%A8%E7%8E%8B%E9%B9%A4%E6%A3%A3%E9%AD%8F%E5%A4%A7%E5%8B%8B%E4%B9%8B%E9%97%B4%E5%81%9A%E9%80%89%E6%8B%A9%23&t=31&band_rank=33&Refer=top) 212318
 1. [栓Q哥自学16年英语追爱外国女子](https://s.weibo.com/weibo?q=%23%E6%A0%93Q%E5%93%A5%E8%87%AA%E5%AD%A616%E5%B9%B4%E8%8B%B1%E8%AF%AD%E8%BF%BD%E7%88%B1%E5%A4%96%E5%9B%BD%E5%A5%B3%E5%AD%90%23&t=31&band_rank=30&Refer=top) 204975
 1. [张艺兴2023大航海巡演](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%89%BA%E5%85%B42023%E5%A4%A7%E8%88%AA%E6%B5%B7%E5%B7%A1%E6%BC%94&t=31&band_rank=17&Refer=top) 204877
 1. [于适这一分钟白说了](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E9%80%82%E8%BF%99%E4%B8%80%E5%88%86%E9%92%9F%E7%99%BD%E8%AF%B4%E4%BA%86%23&t=31&band_rank=31&Refer=top) 203601
 1. [郑秀妍芝芙去了Amber演唱会](https://s.weibo.com/weibo?q=%23%E9%83%91%E7%A7%80%E5%A6%8D%E8%8A%9D%E8%8A%99%E5%8E%BB%E4%BA%86Amber%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=32&Refer=top) 197815
-1. [李雪琴在王鹤棣魏大勋之间做选择](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%9B%AA%E7%90%B4%E5%9C%A8%E7%8E%8B%E9%B9%A4%E6%A3%A3%E9%AD%8F%E5%A4%A7%E5%8B%8B%E4%B9%8B%E9%97%B4%E5%81%9A%E9%80%89%E6%8B%A9%23&t=31&band_rank=33&Refer=top) 196641
 1. [25岁86个好友什么水平](https://s.weibo.com/weibo?q=%2325%E5%B2%8186%E4%B8%AA%E5%A5%BD%E5%8F%8B%E4%BB%80%E4%B9%88%E6%B0%B4%E5%B9%B3%23&t=31&band_rank=38&Refer=top) 181776
 1. [为什么贡品要插三根香](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B4%A1%E5%93%81%E8%A6%81%E6%8F%92%E4%B8%89%E6%A0%B9%E9%A6%99&t=31&band_rank=34&Refer=top) 181383
 1. [男子为亡妻销户时泪流满面亲吻照片](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%BA%E4%BA%A1%E5%A6%BB%E9%94%80%E6%88%B7%E6%97%B6%E6%B3%AA%E6%B5%81%E6%BB%A1%E9%9D%A2%E4%BA%B2%E5%90%BB%E7%85%A7%E7%89%87%23&t=31&band_rank=35&Refer=top) 175136
@@ -72,16 +72,16 @@
 1. [相柳 仙品](https://s.weibo.com/weibo?q=%E7%9B%B8%E6%9F%B3%20%E4%BB%99%E5%93%81&t=31&band_rank=32&Refer=top) 119117
 1. [对女孩子来说重要的三件事](https://s.weibo.com/weibo?q=%E5%AF%B9%E5%A5%B3%E5%AD%A9%E5%AD%90%E6%9D%A5%E8%AF%B4%E9%87%8D%E8%A6%81%E7%9A%84%E4%B8%89%E4%BB%B6%E4%BA%8B&t=31&band_rank=50&Refer=top) 104528
 1. [井川里予晒与卡琳娜合照](https://s.weibo.com/weibo?q=%23%E4%BA%95%E5%B7%9D%E9%87%8C%E4%BA%88%E6%99%92%E4%B8%8E%E5%8D%A1%E7%90%B3%E5%A8%9C%E5%90%88%E7%85%A7%23&t=31&band_rank=38&Refer=top) 103136
-1. [小学生发明能骑的行李箱获金奖](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%8F%91%E6%98%8E%E8%83%BD%E9%AA%91%E7%9A%84%E8%A1%8C%E6%9D%8E%E7%AE%B1%E8%8E%B7%E9%87%91%E5%A5%96%23&t=31&band_rank=49&Refer=top) 87708
+1. [小学生发明能骑的行李箱获金奖](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%8F%91%E6%98%8E%E8%83%BD%E9%AA%91%E7%9A%84%E8%A1%8C%E6%9D%8E%E7%AE%B1%E8%8E%B7%E9%87%91%E5%A5%96%23&t=31&band_rank=49&Refer=top) 97748
+1. [18岁女生回应遭网约车司机性侵](https://s.weibo.com/weibo?q=%2318%E5%B2%81%E5%A5%B3%E7%94%9F%E5%9B%9E%E5%BA%94%E9%81%AD%E7%BD%91%E7%BA%A6%E8%BD%A6%E5%8F%B8%E6%9C%BA%E6%80%A7%E4%BE%B5%23&t=31&band_rank=49&Refer=top) 88440
 1. [白日梦我原著党两眼一黑](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%97%A5%E6%A2%A6%E6%88%91%E5%8E%9F%E8%91%97%E5%85%9A%E4%B8%A4%E7%9C%BC%E4%B8%80%E9%BB%91%23&t=31&band_rank=42&Refer=top) 68735
-1. [18岁女生回应遭网约车司机性侵](https://s.weibo.com/weibo?q=%2318%E5%B2%81%E5%A5%B3%E7%94%9F%E5%9B%9E%E5%BA%94%E9%81%AD%E7%BD%91%E7%BA%A6%E8%BD%A6%E5%8F%B8%E6%9C%BA%E6%80%A7%E4%BE%B5%23&t=31&band_rank=49&Refer=top) 66101
 1. [排球少年 我推呢](https://s.weibo.com/weibo?q=%E6%8E%92%E7%90%83%E5%B0%91%E5%B9%B4%20%E6%88%91%E6%8E%A8%E5%91%A2&t=31&band_rank=50&Refer=top) 59619
 1. [凯塞多](https://s.weibo.com/weibo?q=%E5%87%AF%E5%A1%9E%E5%A4%9A&t=31&band_rank=49&Refer=top) 58444
 1. [刘雨昕演唱会再唱想见你](https://s.weibo.com/weibo?q=%23%E5%88%98%E9%9B%A8%E6%98%95%E6%BC%94%E5%94%B1%E4%BC%9A%E5%86%8D%E5%94%B1%E6%83%B3%E8%A7%81%E4%BD%A0%23&t=31&band_rank=36&Refer=top) 54370
 1. [偶像梦幻祭八周年笑话合集](https://s.weibo.com/weibo?q=%E5%81%B6%E5%83%8F%E6%A2%A6%E5%B9%BB%E7%A5%AD%E5%85%AB%E5%91%A8%E5%B9%B4%E7%AC%91%E8%AF%9D%E5%90%88%E9%9B%86&t=31&band_rank=50&Refer=top) 34168
 1. [这才是现实版孤注一掷](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%89%8D%E6%98%AF%E7%8E%B0%E5%AE%9E%E7%89%88%E5%AD%A4%E6%B3%A8%E4%B8%80%E6%8E%B7%23&t=31&band_rank=48&Refer=top) 30801
+1. [减灾避险实用安全指南](https://s.weibo.com/weibo?q=%23%E5%87%8F%E7%81%BE%E9%81%BF%E9%99%A9%E5%AE%9E%E7%94%A8%E5%AE%89%E5%85%A8%E6%8C%87%E5%8D%97%23&t=31&band_rank=50&Refer=top) 27493
 1. [大象用鼻子捏起木棒掏耳朵](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E8%B1%A1%E7%94%A8%E9%BC%BB%E5%AD%90%E6%8D%8F%E8%B5%B7%E6%9C%A8%E6%A3%92%E6%8E%8F%E8%80%B3%E6%9C%B5%23&t=31&band_rank=50&Refer=top) 25454
-1. [减灾避险实用安全指南](https://s.weibo.com/weibo?q=%23%E5%87%8F%E7%81%BE%E9%81%BF%E9%99%A9%E5%AE%9E%E7%94%A8%E5%AE%89%E5%85%A8%E6%8C%87%E5%8D%97%23&t=31&band_rank=50&Refer=top) 22875
 <!-- END -->
 
 历史归档 [./archives](./archives)
