@@ -175,6 +175,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%9C%9F%E6%BA%90%E6%8A%8A%E4%B8%93%E4%B8%9A%E6%B6%82%E8%84%B8%E4%B8%8A%23&t=31&band_rank=37&Refer=top",
     "hot": 171484
   },
+  "刘雨昕广州": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E9%9B%A8%E6%98%95%E5%B9%BF%E5%B7%9E%23&t=31&band_rank=7&Refer=top",
+    "hot": 167854
+  },
   "现实版盗墓笔记": {
     "url": "https://s.weibo.com/weibo?q=%E7%8E%B0%E5%AE%9E%E7%89%88%E7%9B%97%E5%A2%93%E7%AC%94%E8%AE%B0&t=31&band_rank=39&Refer=top",
     "hot": 165731
@@ -255,8 +259,12 @@
     "url": "https://s.weibo.com/weibo?q=%E5%87%AF%E5%A1%9E%E5%A4%9A&t=31&band_rank=49&Refer=top",
     "hot": 58444
   },
+  "刘雨昕演唱会再唱想见你": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E9%9B%A8%E6%98%95%E6%BC%94%E5%94%B1%E4%BC%9A%E5%86%8D%E5%94%B1%E6%83%B3%E8%A7%81%E4%BD%A0%23&t=31&band_rank=36&Refer=top",
+    "hot": 54370
+  },
   "排球少年 我推呢": {
     "url": "https://s.weibo.com/weibo?q=%E6%8E%92%E7%90%83%E5%B0%91%E5%B9%B4%20%E6%88%91%E6%8E%A8%E5%91%A2&t=31&band_rank=50&Refer=top",
-    "hot": 52246
+    "hot": 53788
   }
 }
