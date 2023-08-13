@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-08-14 03:34:02.306364 
+最后更新时间 2023-08-14 03:48:54.587699 
 1. [孤注一掷票房断层第一](https://s.weibo.com/weibo?q=%23%E5%AD%A4%E6%B3%A8%E4%B8%80%E6%8E%B7%E7%A5%A8%E6%88%BF%E6%96%AD%E5%B1%82%E7%AC%AC%E4%B8%80%23&t=31&band_rank=1&Refer=top) 1662800
 1. [熬夜熬的是甲状腺寿命](https://s.weibo.com/weibo?q=%23%E7%86%AC%E5%A4%9C%E7%86%AC%E7%9A%84%E6%98%AF%E7%94%B2%E7%8A%B6%E8%85%BA%E5%AF%BF%E5%91%BD%23&t=31&band_rank=21&Refer=top) 1203940
 1. [六公主为什么如此关注封神](https://s.weibo.com/weibo?q=%23%E5%85%AD%E5%85%AC%E4%B8%BB%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A6%82%E6%AD%A4%E5%85%B3%E6%B3%A8%E5%B0%81%E7%A5%9E%23&t=31&band_rank=2&Refer=top) 1154971
@@ -73,11 +73,11 @@
 1. [谢娜 大勋沉浸式大合唱他不懂](https://s.weibo.com/weibo?q=%E8%B0%A2%E5%A8%9C%20%E5%A4%A7%E5%8B%8B%E6%B2%89%E6%B5%B8%E5%BC%8F%E5%A4%A7%E5%90%88%E5%94%B1%E4%BB%96%E4%B8%8D%E6%87%82&t=31&band_rank=43&Refer=top) 102395
 1. [韩雪打卡全球第一的冰淇淋店](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E9%9B%AA%E6%89%93%E5%8D%A1%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80%E7%9A%84%E5%86%B0%E6%B7%87%E6%B7%8B%E5%BA%97%23&t=31&band_rank=31&Refer=top) 92833
 1. [经典刑侦剧为什么百看不厌](https://s.weibo.com/weibo?q=%23%E7%BB%8F%E5%85%B8%E5%88%91%E4%BE%A6%E5%89%A7%E4%B8%BA%E4%BB%80%E4%B9%88%E7%99%BE%E7%9C%8B%E4%B8%8D%E5%8E%8C%23&t=31&band_rank=36&Refer=top) 88479
+1. [EDG](https://s.weibo.com/weibo?q=EDG&t=31&band_rank=14&Refer=top) 67051
+1. [F人和T人的区别](https://s.weibo.com/weibo?q=%23F%E4%BA%BA%E5%92%8CT%E4%BA%BA%E7%9A%84%E5%8C%BA%E5%88%AB%23&t=31&band_rank=48&Refer=top) 54220
 1. [周扬青蝴蝶吊带](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%89%AC%E9%9D%92%E8%9D%B4%E8%9D%B6%E5%90%8A%E5%B8%A6%23&t=31&band_rank=34&Refer=top) 50035
-1. [EDG](https://s.weibo.com/weibo?q=EDG&t=31&band_rank=14&Refer=top) 48431
 1. [站立式过山车](https://s.weibo.com/weibo?q=%E7%AB%99%E7%AB%8B%E5%BC%8F%E8%BF%87%E5%B1%B1%E8%BD%A6&t=31&band_rank=50&Refer=top) 46235
 1. [这饼怎么一会有一会没的](https://s.weibo.com/weibo?q=%23%E8%BF%99%E9%A5%BC%E6%80%8E%E4%B9%88%E4%B8%80%E4%BC%9A%E6%9C%89%E4%B8%80%E4%BC%9A%E6%B2%A1%E7%9A%84%23&t=31&band_rank=50&Refer=top) 40341
-1. [F人和T人的区别](https://s.weibo.com/weibo?q=%23F%E4%BA%BA%E5%92%8CT%E4%BA%BA%E7%9A%84%E5%8C%BA%E5%88%AB%23&t=31&band_rank=48&Refer=top) 28331
 <!-- END -->
 
 历史归档 [./archives](./archives)
