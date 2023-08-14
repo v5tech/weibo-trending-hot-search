@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-08-15 01:08:57.679560 
+最后更新时间 2023-08-15 01:24:07.359166 
 1. [涂山璟和小夭分手 真哭了](https://s.weibo.com/weibo?q=%E6%B6%82%E5%B1%B1%E7%92%9F%E5%92%8C%E5%B0%8F%E5%A4%AD%E5%88%86%E6%89%8B%20%E7%9C%9F%E5%93%AD%E4%BA%86&t=31&band_rank=1&Refer=top) 2015518
 1. [3人偷渡到缅甸搞诈骗却因文化低被拒收](https://s.weibo.com/weibo?q=%233%E4%BA%BA%E5%81%B7%E6%B8%A1%E5%88%B0%E7%BC%85%E7%94%B8%E6%90%9E%E8%AF%88%E9%AA%97%E5%8D%B4%E5%9B%A0%E6%96%87%E5%8C%96%E4%BD%8E%E8%A2%AB%E6%8B%92%E6%94%B6%23&t=31&band_rank=2&Refer=top) 1545886
 1. [我国再次成功发射一箭五星](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E5%86%8D%E6%AC%A1%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E4%B8%80%E7%AE%AD%E4%BA%94%E6%98%9F%23&t=31&band_rank=3&Refer=top) 1180143
@@ -23,6 +23,7 @@
 1. [四美颜选](https://s.weibo.com/weibo?q=%E5%9B%9B%E7%BE%8E%E9%A2%9C%E9%80%89&t=31&band_rank=12&Refer=top) 469298
 1. [相柳 将军帐](https://s.weibo.com/weibo?q=%E7%9B%B8%E6%9F%B3%20%E5%B0%86%E5%86%9B%E5%B8%90&t=31&band_rank=13&Refer=top) 436631
 1. [EXO青岛签售会生图](https://s.weibo.com/weibo?q=%23EXO%E9%9D%92%E5%B2%9B%E7%AD%BE%E5%94%AE%E4%BC%9A%E7%94%9F%E5%9B%BE%23&t=31&band_rank=14&Refer=top) 430297
+1. [子弟兵在抗洪一线](https://s.weibo.com/weibo?q=%23%E5%AD%90%E5%BC%9F%E5%85%B5%E5%9C%A8%E6%8A%97%E6%B4%AA%E4%B8%80%E7%BA%BF%23&t=31&band_rank=3&Refer=top) 426945
 1. [盗月社内蒙吃肉 有人却差点饿死](https://s.weibo.com/weibo?q=%E7%9B%97%E6%9C%88%E7%A4%BE%E5%86%85%E8%92%99%E5%90%83%E8%82%89%20%E6%9C%89%E4%BA%BA%E5%8D%B4%E5%B7%AE%E7%82%B9%E9%A5%BF%E6%AD%BB&t=31&band_rank=19&Refer=top) 407226
 1. [警犬找到走失男童获奖小红花](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E7%8A%AC%E6%89%BE%E5%88%B0%E8%B5%B0%E5%A4%B1%E7%94%B7%E7%AB%A5%E8%8E%B7%E5%A5%96%E5%B0%8F%E7%BA%A2%E8%8A%B1%23&t=31&band_rank=15&Refer=top) 402853
 1. [封神 把一切简化为做成一件事](https://s.weibo.com/weibo?q=%E5%B0%81%E7%A5%9E%20%E6%8A%8A%E4%B8%80%E5%88%87%E7%AE%80%E5%8C%96%E4%B8%BA%E5%81%9A%E6%88%90%E4%B8%80%E4%BB%B6%E4%BA%8B&t=31&band_rank=16&Refer=top) 391066
@@ -57,13 +58,15 @@
 1. [内马尔加盟利雅得新月](https://s.weibo.com/weibo?q=%23%E5%86%85%E9%A9%AC%E5%B0%94%E5%8A%A0%E7%9B%9F%E5%88%A9%E9%9B%85%E5%BE%97%E6%96%B0%E6%9C%88%23&t=31&band_rank=42&Refer=top) 139732
 1. [孙红雷评价张艺兴已成一方霸主](https://s.weibo.com/weibo?q=%23%E5%AD%99%E7%BA%A2%E9%9B%B7%E8%AF%84%E4%BB%B7%E5%BC%A0%E8%89%BA%E5%85%B4%E5%B7%B2%E6%88%90%E4%B8%80%E6%96%B9%E9%9C%B8%E4%B8%BB%23&t=31&band_rank=43&Refer=top) 134578
 1. [48岁大姐成功应聘月薪3万麻将主播](https://s.weibo.com/weibo?q=%2348%E5%B2%81%E5%A4%A7%E5%A7%90%E6%88%90%E5%8A%9F%E5%BA%94%E8%81%98%E6%9C%88%E8%96%AA3%E4%B8%87%E9%BA%BB%E5%B0%86%E4%B8%BB%E6%92%AD%23&t=31&band_rank=44&Refer=top) 132248
-1. [檀健次 相柳有点浪漫](https://s.weibo.com/weibo?q=%E6%AA%80%E5%81%A5%E6%AC%A1%20%E7%9B%B8%E6%9F%B3%E6%9C%89%E7%82%B9%E6%B5%AA%E6%BC%AB&t=31&band_rank=47&Refer=top) 128861
+1. [檀健次 相柳有点浪漫](https://s.weibo.com/weibo?q=%E6%AA%80%E5%81%A5%E6%AC%A1%20%E7%9B%B8%E6%9F%B3%E6%9C%89%E7%82%B9%E6%B5%AA%E6%BC%AB&t=31&band_rank=47&Refer=top) 128990
 1. [孤注一掷删减戏份](https://s.weibo.com/weibo?q=%23%E5%AD%A4%E6%B3%A8%E4%B8%80%E6%8E%B7%E5%88%A0%E5%87%8F%E6%88%8F%E4%BB%BD%23&t=31&band_rank=49&Refer=top) 127575
 1. [中国警察让孤注一掷导演不要害怕](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%AD%A6%E5%AF%9F%E8%AE%A9%E5%AD%A4%E6%B3%A8%E4%B8%80%E6%8E%B7%E5%AF%BC%E6%BC%94%E4%B8%8D%E8%A6%81%E5%AE%B3%E6%80%95%23&t=31&band_rank=45&Refer=top) 125651
 1. [刘敏涛被王一博送的炖牛肉打动](https://s.weibo.com/weibo?q=%23%E5%88%98%E6%95%8F%E6%B6%9B%E8%A2%AB%E7%8E%8B%E4%B8%80%E5%8D%9A%E9%80%81%E7%9A%84%E7%82%96%E7%89%9B%E8%82%89%E6%89%93%E5%8A%A8%23&t=31&band_rank=48&Refer=top) 125165
 1. [边伯贤repo](https://s.weibo.com/weibo?q=%E8%BE%B9%E4%BC%AF%E8%B4%A4repo&t=31&band_rank=47&Refer=top) 123843
 1. [刘宪华的点评是节目最大亮点](https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%AA%E5%8D%8E%E7%9A%84%E7%82%B9%E8%AF%84%E6%98%AF%E8%8A%82%E7%9B%AE%E6%9C%80%E5%A4%A7%E4%BA%AE%E7%82%B9&t=31&band_rank=50&Refer=top) 121627
+1. [贾乃亮为贾冰发了6条微博](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E4%B9%83%E4%BA%AE%E4%B8%BA%E8%B4%BE%E5%86%B0%E5%8F%91%E4%BA%866%E6%9D%A1%E5%BE%AE%E5%8D%9A%23&t=31&band_rank=30&Refer=top) 117670
 1. [七夕礼物参考](https://s.weibo.com/weibo?q=%E4%B8%83%E5%A4%95%E7%A4%BC%E7%89%A9%E5%8F%82%E8%80%83&t=31&band_rank=50&Refer=top) 114411
+1. [长相思直播](https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D%E7%9B%B4%E6%92%AD&t=31&band_rank=46&Refer=top) 75923
 <!-- END -->
 
 历史归档 [./archives](./archives)
