@@ -225,7 +225,7 @@
   },
   "王者荣耀": {
     "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80&t=31&band_rank=27&Refer=top",
-    "hot": 99204
+    "hot": 103160
   },
   "陈嘉桦时光音乐会": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E5%98%89%E6%A1%A6%E6%97%B6%E5%85%89%E9%9F%B3%E4%B9%90%E4%BC%9A%23&t=31&band_rank=46&Refer=top",
@@ -254,5 +254,9 @@
   "央视曾评视觉中国把法务做成销售": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%BE%E8%AF%84%E8%A7%86%E8%A7%89%E4%B8%AD%E5%9B%BD%E6%8A%8A%E6%B3%95%E5%8A%A1%E5%81%9A%E6%88%90%E9%94%80%E5%94%AE%23&t=31&band_rank=50&Refer=top",
     "hot": 35783
+  },
+  "8分钟剖析檀健次演相柳": {
+    "url": "https://s.weibo.com/weibo?q=8%E5%88%86%E9%92%9F%E5%89%96%E6%9E%90%E6%AA%80%E5%81%A5%E6%AC%A1%E6%BC%94%E7%9B%B8%E6%9F%B3&t=31&band_rank=47&Refer=top",
+    "hot": 33117
   }
 }
