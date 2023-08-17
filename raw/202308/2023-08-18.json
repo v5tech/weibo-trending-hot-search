@@ -214,5 +214,9 @@
   "猫德学院抓到狮子猫": {
     "url": "https://s.weibo.com/weibo?q=%E7%8C%AB%E5%BE%B7%E5%AD%A6%E9%99%A2%E6%8A%93%E5%88%B0%E7%8B%AE%E5%AD%90%E7%8C%AB&t=31&band_rank=48&Refer=top",
     "hot": 200219
+  },
+  "2023暑期四大TOP": {
+    "url": "https://s.weibo.com/weibo?q=%232023%E6%9A%91%E6%9C%9F%E5%9B%9B%E5%A4%A7TOP%23&t=31&band_rank=33&Refer=top",
+    "hot": 155661
   }
 }
