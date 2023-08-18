@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-08-19 02:11:58.490980 
+最后更新时间 2023-08-19 02:26:01.878395 
 1. [雅典娜](https://s.weibo.com/weibo?q=%E9%9B%85%E5%85%B8%E5%A8%9C&t=31&band_rank=1&Refer=top) 2070881
 1. [周琦赵睿互换东家](https://s.weibo.com/weibo?q=%23%E5%91%A8%E7%90%A6%E8%B5%B5%E7%9D%BF%E4%BA%92%E6%8D%A2%E4%B8%9C%E5%AE%B6%23&t=31&band_rank=2&Refer=top) 1230379
 1. [周深绝了](https://s.weibo.com/weibo?q=%E5%91%A8%E6%B7%B1%E7%BB%9D%E4%BA%86&t=31&band_rank=2&Refer=top) 995542
@@ -69,6 +69,7 @@
 1. [Amber自制美食字典](https://s.weibo.com/weibo?q=%23Amber%E8%87%AA%E5%88%B6%E7%BE%8E%E9%A3%9F%E5%AD%97%E5%85%B8%23&t=31&band_rank=48&Refer=top) 96149
 1. [糊里糊涂又过一天](https://s.weibo.com/weibo?q=%E7%B3%8A%E9%87%8C%E7%B3%8A%E6%B6%82%E5%8F%88%E8%BF%87%E4%B8%80%E5%A4%A9&t=31&band_rank=50&Refer=top) 70570
 1. [德国乐迷看乐夏](https://s.weibo.com/weibo?q=%E5%BE%B7%E5%9B%BD%E4%B9%90%E8%BF%B7%E7%9C%8B%E4%B9%90%E5%A4%8F&t=31&band_rank=46&Refer=top) 63691
+1. [张杰一个人的KTV局](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%9A%84KTV%E5%B1%80%23&t=31&band_rank=44&Refer=top) 53254
 <!-- END -->
 
 历史归档 [./archives](./archives)
