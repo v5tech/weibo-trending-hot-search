@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-08-19 01:34:11.654784 
+最后更新时间 2023-08-19 01:48:55.750312 
 1. [雅典娜](https://s.weibo.com/weibo?q=%E9%9B%85%E5%85%B8%E5%A8%9C&t=31&band_rank=1&Refer=top) 2070881
 1. [周琦赵睿互换东家](https://s.weibo.com/weibo?q=%23%E5%91%A8%E7%90%A6%E8%B5%B5%E7%9D%BF%E4%BA%92%E6%8D%A2%E4%B8%9C%E5%AE%B6%23&t=31&band_rank=2&Refer=top) 1230379
 1. [周深绝了](https://s.weibo.com/weibo?q=%E5%91%A8%E6%B7%B1%E7%BB%9D%E4%BA%86&t=31&band_rank=2&Refer=top) 995542
@@ -18,6 +18,7 @@
 1. [杨颖不忍心拒绝小朋友合照要求的原因](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E9%A2%96%E4%B8%8D%E5%BF%8D%E5%BF%83%E6%8B%92%E7%BB%9D%E5%B0%8F%E6%9C%8B%E5%8F%8B%E5%90%88%E7%85%A7%E8%A6%81%E6%B1%82%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=6&Refer=top) 541412
 1. [中国好声音赞助商遭网友喊话](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%BD%E5%A3%B0%E9%9F%B3%E8%B5%9E%E5%8A%A9%E5%95%86%E9%81%AD%E7%BD%91%E5%8F%8B%E5%96%8A%E8%AF%9D%23&t=31&band_rank=7&Refer=top) 510789
 1. [檀健次怎么净想着爆自己料](https://s.weibo.com/weibo?q=%E6%AA%80%E5%81%A5%E6%AC%A1%E6%80%8E%E4%B9%88%E5%87%80%E6%83%B3%E7%9D%80%E7%88%86%E8%87%AA%E5%B7%B1%E6%96%99&t=31&band_rank=17&Refer=top) 504090
+1. [赵睿](https://s.weibo.com/weibo?q=%E8%B5%B5%E7%9D%BF&t=31&band_rank=38&Refer=top) 443639
 1. [张新成周杰伦合唱你听得到](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%96%B0%E6%88%90%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%90%88%E5%94%B1%E4%BD%A0%E5%90%AC%E5%BE%97%E5%88%B0%23&t=31&band_rank=16&Refer=top) 443023
 1. [睡觉时手机在枕边充电有多危险](https://s.weibo.com/weibo?q=%23%E7%9D%A1%E8%A7%89%E6%97%B6%E6%89%8B%E6%9C%BA%E5%9C%A8%E6%9E%95%E8%BE%B9%E5%85%85%E7%94%B5%E6%9C%89%E5%A4%9A%E5%8D%B1%E9%99%A9%23&t=31&band_rank=8&Refer=top) 402146
 1. [中泰缅老警方合作打击赌诈集团](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%B3%B0%E7%BC%85%E8%80%81%E8%AD%A6%E6%96%B9%E5%90%88%E4%BD%9C%E6%89%93%E5%87%BB%E8%B5%8C%E8%AF%88%E9%9B%86%E5%9B%A2%23&t=31&band_rank=14&Refer=top) 401253
@@ -64,9 +65,9 @@
 1. [没十年相思病剪不出这玩意儿](https://s.weibo.com/weibo?q=%23%E6%B2%A1%E5%8D%81%E5%B9%B4%E7%9B%B8%E6%80%9D%E7%97%85%E5%89%AA%E4%B8%8D%E5%87%BA%E8%BF%99%E7%8E%A9%E6%84%8F%E5%84%BF%23&t=31&band_rank=47&Refer=top) 193535
 1. [以前和现在去理发店的区别](https://s.weibo.com/weibo?q=%E4%BB%A5%E5%89%8D%E5%92%8C%E7%8E%B0%E5%9C%A8%E5%8E%BB%E7%90%86%E5%8F%91%E5%BA%97%E7%9A%84%E5%8C%BA%E5%88%AB&t=31&band_rank=50&Refer=top) 193469
 1. [和你心动七夕](https://s.weibo.com/weibo?q=%23%E5%92%8C%E4%BD%A0%E5%BF%83%E5%8A%A8%E4%B8%83%E5%A4%95%23&t=31&band_rank=27&Refer=top) 154530
-1. [赵睿](https://s.weibo.com/weibo?q=%E8%B5%B5%E7%9D%BF&t=31&band_rank=38&Refer=top) 106566
 1. [权顺荣腹肌](https://s.weibo.com/weibo?q=%E6%9D%83%E9%A1%BA%E8%8D%A3%E8%85%B9%E8%82%8C&t=31&band_rank=46&Refer=top) 99476
 1. [Amber自制美食字典](https://s.weibo.com/weibo?q=%23Amber%E8%87%AA%E5%88%B6%E7%BE%8E%E9%A3%9F%E5%AD%97%E5%85%B8%23&t=31&band_rank=48&Refer=top) 96149
+1. [糊里糊涂又过一天](https://s.weibo.com/weibo?q=%E7%B3%8A%E9%87%8C%E7%B3%8A%E6%B6%82%E5%8F%88%E8%BF%87%E4%B8%80%E5%A4%A9&t=31&band_rank=50&Refer=top) 70570
 <!-- END -->
 
 历史归档 [./archives](./archives)
