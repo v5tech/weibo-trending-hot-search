@@ -305,10 +305,18 @@
   },
   "北京下雨": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E4%B8%8B%E9%9B%A8%23&t=31&band_rank=23&Refer=top",
-    "hot": 24714
+    "hot": 25070
   },
   "三代人接力种树逼退风沙线30公里": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E4%BB%A3%E4%BA%BA%E6%8E%A5%E5%8A%9B%E7%A7%8D%E6%A0%91%E9%80%BC%E9%80%80%E9%A3%8E%E6%B2%99%E7%BA%BF30%E5%85%AC%E9%87%8C%23&t=31&band_rank=50&Refer=top",
     "hot": 23120
+  },
+  "蔡文静又直播了": {
+    "url": "https://s.weibo.com/weibo?q=%23%E8%94%A1%E6%96%87%E9%9D%99%E5%8F%88%E7%9B%B4%E6%92%AD%E4%BA%86%23&t=31&band_rank=46&Refer=top",
+    "hot": 21303
+  },
+  "华晨宇PEL舞台打碟": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87PEL%E8%88%9E%E5%8F%B0%E6%89%93%E7%A2%9F%23&t=31&band_rank=49&Refer=top",
+    "hot": 21299
   }
 }
