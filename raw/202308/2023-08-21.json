@@ -11,6 +11,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E6%8E%A5%E5%88%B096110%E6%9D%A5%E7%94%B5%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E6%8C%82%23&t=31&band_rank=3&Refer=top",
     "hot": 744430
   },
+  "当我姐发现自己曾拒绝过华为": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BD%93%E6%88%91%E5%A7%90%E5%8F%91%E7%8E%B0%E8%87%AA%E5%B7%B1%E6%9B%BE%E6%8B%92%E7%BB%9D%E8%BF%87%E5%8D%8E%E4%B8%BA%23&t=31&band_rank=12&Refer=top",
+    "hot": 720115
+  },
   "皓衣行": {
     "url": "https://s.weibo.com/weibo?q=%E7%9A%93%E8%A1%A3%E8%A1%8C&t=31&band_rank=4&Refer=top",
     "hot": 656315
@@ -25,7 +29,7 @@
   },
   "Angelababy去看林俊杰演唱会了": {
     "url": "https://s.weibo.com/weibo?q=%23Angelababy%E5%8E%BB%E7%9C%8B%E6%9E%97%E4%BF%8A%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BA%86%23&t=31&band_rank=7&Refer=top",
-    "hot": 444521
+    "hot": 451356
   },
   "大一新生如何用录取通知书买火车票": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E4%B8%80%E6%96%B0%E7%94%9F%E5%A6%82%E4%BD%95%E7%94%A8%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E4%B9%B0%E7%81%AB%E8%BD%A6%E7%A5%A8%23&t=31&band_rank=8&Refer=top",
@@ -42,10 +46,6 @@
   "研究表明乳房大小影响运动意愿": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E8%A1%A8%E6%98%8E%E4%B9%B3%E6%88%BF%E5%A4%A7%E5%B0%8F%E5%BD%B1%E5%93%8D%E8%BF%90%E5%8A%A8%E6%84%8F%E6%84%BF%23&t=31&band_rank=11&Refer=top",
     "hot": 424933
-  },
-  "当我姐发现自己曾拒绝过华为": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%BD%93%E6%88%91%E5%A7%90%E5%8F%91%E7%8E%B0%E8%87%AA%E5%B7%B1%E6%9B%BE%E6%8B%92%E7%BB%9D%E8%BF%87%E5%8D%8E%E4%B8%BA%23&t=31&band_rank=12&Refer=top",
-    "hot": 421354
   },
   "娜然": {
     "url": "https://s.weibo.com/weibo?q=%E5%A8%9C%E7%84%B6&t=31&band_rank=13&Refer=top",
@@ -81,7 +81,7 @@
   },
   "林俊杰听到脱掉的反应": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%90%AC%E5%88%B0%E8%84%B1%E6%8E%89%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=24&Refer=top",
-    "hot": 276292
+    "hot": 291369
   },
   "订婚发生关系后第4天女孩控告强奸": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%AE%A2%E5%A9%9A%E5%8F%91%E7%94%9F%E5%85%B3%E7%B3%BB%E5%90%8E%E7%AC%AC4%E5%A4%A9%E5%A5%B3%E5%AD%A9%E6%8E%A7%E5%91%8A%E5%BC%BA%E5%A5%B8%23&t=31&band_rank=21&Refer=top",
@@ -214,5 +214,17 @@
   "没想到客厅也能成为酒吧平替": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E5%AE%A2%E5%8E%85%E4%B9%9F%E8%83%BD%E6%88%90%E4%B8%BA%E9%85%92%E5%90%A7%E5%B9%B3%E6%9B%BF%23&t=31&band_rank=49&Refer=top",
     "hot": 184598
+  },
+  "欧阳娜娜问耍朋友是交朋友吗": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%AC%A7%E9%98%B3%E5%A8%9C%E5%A8%9C%E9%97%AE%E8%80%8D%E6%9C%8B%E5%8F%8B%E6%98%AF%E4%BA%A4%E6%9C%8B%E5%8F%8B%E5%90%97%23&t=31&band_rank=28&Refer=top",
+    "hot": 176582
+  },
+  "眼睛就没这么忙过": {
+    "url": "https://s.weibo.com/weibo?q=%E7%9C%BC%E7%9D%9B%E5%B0%B1%E6%B2%A1%E8%BF%99%E4%B9%88%E5%BF%99%E8%BF%87&t=31&band_rank=49&Refer=top",
+    "hot": 122103
+  },
+  "双眼皮要做成刘亦菲那样的": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8F%8C%E7%9C%BC%E7%9A%AE%E8%A6%81%E5%81%9A%E6%88%90%E5%88%98%E4%BA%A6%E8%8F%B2%E9%82%A3%E6%A0%B7%E7%9A%84%23&t=31&band_rank=50&Refer=top",
+    "hot": 121472
   }
 }
