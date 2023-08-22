@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-08-23 06:34:08.933404 
+最后更新时间 2023-08-23 06:48:54.181154 
 1. [百万网红被闺蜜骗至东南亚生死未卜](https://s.weibo.com/weibo?q=%23%E7%99%BE%E4%B8%87%E7%BD%91%E7%BA%A2%E8%A2%AB%E9%97%BA%E8%9C%9C%E9%AA%97%E8%87%B3%E4%B8%9C%E5%8D%97%E4%BA%9A%E7%94%9F%E6%AD%BB%E6%9C%AA%E5%8D%9C%23&t=31&band_rank=48&Refer=top) 973451
 1. [檀健次直播](https://s.weibo.com/weibo?q=%E6%AA%80%E5%81%A5%E6%AC%A1%E7%9B%B4%E6%92%AD&t=31&band_rank=1&Refer=top) 710226
 1. [孙艺洲 人生没有彩排](https://s.weibo.com/weibo?q=%E5%AD%99%E8%89%BA%E6%B4%B2%20%E4%BA%BA%E7%94%9F%E6%B2%A1%E6%9C%89%E5%BD%A9%E6%8E%92&t=31&band_rank=29&Refer=top) 657976
@@ -69,19 +69,19 @@
 1. [七夕丑花束真的很多](https://s.weibo.com/weibo?q=%23%E4%B8%83%E5%A4%95%E4%B8%91%E8%8A%B1%E6%9D%9F%E7%9C%9F%E7%9A%84%E5%BE%88%E5%A4%9A%23&t=31&band_rank=47&Refer=top) 151371
 1. [中国男篮](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE&t=31&band_rank=48&Refer=top) 151364
 1. [面对上海高级餐厅我仿佛成了文盲](https://s.weibo.com/weibo?q=%E9%9D%A2%E5%AF%B9%E4%B8%8A%E6%B5%B7%E9%AB%98%E7%BA%A7%E9%A4%90%E5%8E%85%E6%88%91%E4%BB%BF%E4%BD%9B%E6%88%90%E4%BA%86%E6%96%87%E7%9B%B2&t=31&band_rank=50&Refer=top) 139028
+1. [挪用诈骗团伙160万不堪威胁自首](https://s.weibo.com/weibo?q=%23%E6%8C%AA%E7%94%A8%E8%AF%88%E9%AA%97%E5%9B%A2%E4%BC%99160%E4%B8%87%E4%B8%8D%E5%A0%AA%E5%A8%81%E8%83%81%E8%87%AA%E9%A6%96%23&t=31&band_rank=49&Refer=top) 127650
 1. [心理师解读相柳](https://s.weibo.com/weibo?q=%23%E5%BF%83%E7%90%86%E5%B8%88%E8%A7%A3%E8%AF%BB%E7%9B%B8%E6%9F%B3%23&t=31&band_rank=41&Refer=top) 126552
+1. [妻子车祸被困丈夫头包纱布围着安抚](https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E8%BD%A6%E7%A5%B8%E8%A2%AB%E5%9B%B0%E4%B8%88%E5%A4%AB%E5%A4%B4%E5%8C%85%E7%BA%B1%E5%B8%83%E5%9B%B4%E7%9D%80%E5%AE%89%E6%8A%9A%23&t=31&band_rank=42&Refer=top) 117654
 1. [赛博织女们更应该过乞巧节](https://s.weibo.com/weibo?q=%E8%B5%9B%E5%8D%9A%E7%BB%87%E5%A5%B3%E4%BB%AC%E6%9B%B4%E5%BA%94%E8%AF%A5%E8%BF%87%E4%B9%9E%E5%B7%A7%E8%8A%82&t=31&band_rank=50&Refer=top) 111164
 1. [王源新歌要来了吗](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E6%96%B0%E6%AD%8C%E8%A6%81%E6%9D%A5%E4%BA%86%E5%90%97%23&t=31&band_rank=42&Refer=top) 110051
 1. [七夕物料里最好嗑的](https://s.weibo.com/weibo?q=%E4%B8%83%E5%A4%95%E7%89%A9%E6%96%99%E9%87%8C%E6%9C%80%E5%A5%BD%E5%97%91%E7%9A%84&t=31&band_rank=42&Refer=top) 103494
-1. [挪用诈骗团伙160万不堪威胁自首](https://s.weibo.com/weibo?q=%23%E6%8C%AA%E7%94%A8%E8%AF%88%E9%AA%97%E5%9B%A2%E4%BC%99160%E4%B8%87%E4%B8%8D%E5%A0%AA%E5%A8%81%E8%83%81%E8%87%AA%E9%A6%96%23&t=31&band_rank=49&Refer=top) 101203
 1. [遇见猫猫爱意画面](https://s.weibo.com/weibo?q=%E9%81%87%E8%A7%81%E7%8C%AB%E7%8C%AB%E7%88%B1%E6%84%8F%E7%94%BB%E9%9D%A2&t=31&band_rank=34&Refer=top) 99280
 1. [金高银VOGUE九月刊](https://s.weibo.com/weibo?q=%23%E9%87%91%E9%AB%98%E9%93%B6VOGUE%E4%B9%9D%E6%9C%88%E5%88%8A%23&t=31&band_rank=47&Refer=top) 98490
 1. [每次去文具店都会被刷新一次认知](https://s.weibo.com/weibo?q=%E6%AF%8F%E6%AC%A1%E5%8E%BB%E6%96%87%E5%85%B7%E5%BA%97%E9%83%BD%E4%BC%9A%E8%A2%AB%E5%88%B7%E6%96%B0%E4%B8%80%E6%AC%A1%E8%AE%A4%E7%9F%A5&t=31&band_rank=49&Refer=top) 98411
 1. [虞书欣七夕穿搭](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E4%B8%83%E5%A4%95%E7%A9%BF%E6%90%AD%23&t=31&band_rank=46&Refer=top) 72574
-1. [官方回应少年目睹爷爷被殴打后投河身亡](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%B0%91%E5%B9%B4%E7%9B%AE%E7%9D%B9%E7%88%B7%E7%88%B7%E8%A2%AB%E6%AE%B4%E6%89%93%E5%90%8E%E6%8A%95%E6%B2%B3%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=50&Refer=top) 56814
+1. [官方回应少年目睹爷爷被殴打后投河身亡](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%B0%91%E5%B9%B4%E7%9B%AE%E7%9D%B9%E7%88%B7%E7%88%B7%E8%A2%AB%E6%AE%B4%E6%89%93%E5%90%8E%E6%8A%95%E6%B2%B3%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=50&Refer=top) 66248
+1. [你最后终于做到了讲普通话的电影](https://s.weibo.com/weibo?q=%E4%BD%A0%E6%9C%80%E5%90%8E%E7%BB%88%E4%BA%8E%E5%81%9A%E5%88%B0%E4%BA%86%E8%AE%B2%E6%99%AE%E9%80%9A%E8%AF%9D%E7%9A%84%E7%94%B5%E5%BD%B1&t=31&band_rank=47&Refer=top) 55014
 1. [金泰亨神图](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%B3%B0%E4%BA%A8%E7%A5%9E%E5%9B%BE%23&t=31&band_rank=48&Refer=top) 45247
-1. [妻子车祸被困丈夫头包纱布围着安抚](https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E8%BD%A6%E7%A5%B8%E8%A2%AB%E5%9B%B0%E4%B8%88%E5%A4%AB%E5%A4%B4%E5%8C%85%E7%BA%B1%E5%B8%83%E5%9B%B4%E7%9D%80%E5%AE%89%E6%8A%9A%23&t=31&band_rank=42&Refer=top) 39215
-1. [你最后终于做到了讲普通话的电影](https://s.weibo.com/weibo?q=%E4%BD%A0%E6%9C%80%E5%90%8E%E7%BB%88%E4%BA%8E%E5%81%9A%E5%88%B0%E4%BA%86%E8%AE%B2%E6%99%AE%E9%80%9A%E8%AF%9D%E7%9A%84%E7%94%B5%E5%BD%B1&t=31&band_rank=47&Refer=top) 38274
 <!-- END -->
 
 历史归档 [./archives](./archives)
