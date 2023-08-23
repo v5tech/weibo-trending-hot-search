@@ -243,6 +243,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%A5%E6%B5%A9%E7%BF%94%E4%B8%83%E5%A4%95%E7%9A%AE%E8%A1%A3%E7%A9%BF%E6%90%AD%23&t=31&band_rank=48&Refer=top",
     "hot": 110205
   },
+  "景甜没人告诉我扫楼要跑啊": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%99%AF%E7%94%9C%E6%B2%A1%E4%BA%BA%E5%91%8A%E8%AF%89%E6%88%91%E6%89%AB%E6%A5%BC%E8%A6%81%E8%B7%91%E5%95%8A%23&t=31&band_rank=18&Refer=top",
+    "hot": 98695
+  },
   "十二星座水逆指南": {
     "url": "https://s.weibo.com/weibo?q=%E5%8D%81%E4%BA%8C%E6%98%9F%E5%BA%A7%E6%B0%B4%E9%80%86%E6%8C%87%E5%8D%97&t=31&band_rank=47&Refer=top",
     "hot": 95903
@@ -250,10 +254,6 @@
   "付辛博看了周杰伦演唱会": {
     "url": "https://s.weibo.com/weibo?q=%E4%BB%98%E8%BE%9B%E5%8D%9A%E7%9C%8B%E4%BA%86%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=46&Refer=top",
     "hot": 88434
-  },
-  "景甜没人告诉我扫楼要跑啊": {
-    "url": "https://s.weibo.com/weibo?q=%23%E6%99%AF%E7%94%9C%E6%B2%A1%E4%BA%BA%E5%91%8A%E8%AF%89%E6%88%91%E6%89%AB%E6%A5%BC%E8%A6%81%E8%B7%91%E5%95%8A%23&t=31&band_rank=18&Refer=top",
-    "hot": 85605
   },
   "七夕限定奶茶合集": {
     "url": "https://s.weibo.com/weibo?q=%E4%B8%83%E5%A4%95%E9%99%90%E5%AE%9A%E5%A5%B6%E8%8C%B6%E5%90%88%E9%9B%86&t=31&band_rank=49&Refer=top",
@@ -305,7 +305,7 @@
   },
   "核废水和核污水不一样": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%A0%B8%E5%BA%9F%E6%B0%B4%E5%92%8C%E6%A0%B8%E6%B1%A1%E6%B0%B4%E4%B8%8D%E4%B8%80%E6%A0%B7%23&t=31&band_rank=40&Refer=top",
-    "hot": 24089
+    "hot": 24816
   },
   "迹部景吾将出席婚礼": {
     "url": "https://s.weibo.com/weibo?q=%E8%BF%B9%E9%83%A8%E6%99%AF%E5%90%BE%E5%B0%86%E5%87%BA%E5%B8%AD%E5%A9%9A%E7%A4%BC&t=31&band_rank=48&Refer=top",
@@ -314,5 +314,13 @@
   "山东一镇5年给900多名准大学生发助学金": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E4%B8%80%E9%95%875%E5%B9%B4%E7%BB%99900%E5%A4%9A%E5%90%8D%E5%87%86%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%8F%91%E5%8A%A9%E5%AD%A6%E9%87%91%23&t=31&band_rank=48&Refer=top",
     "hot": 22846
+  },
+  "犬夜叉动画中的美男子": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%8A%AC%E5%A4%9C%E5%8F%89%E5%8A%A8%E7%94%BB%E4%B8%AD%E7%9A%84%E7%BE%8E%E7%94%B7%E5%AD%90%23&t=31&band_rank=45&Refer=top",
+    "hot": 20657
+  },
+  "胡锡进": {
+    "url": "https://s.weibo.com/weibo?q=%E8%83%A1%E9%94%A1%E8%BF%9B&t=31&band_rank=47&Refer=top",
+    "hot": 20505
   }
 }
