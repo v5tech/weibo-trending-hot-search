@@ -199,6 +199,10 @@
     "url": "https://s.weibo.com/weibo?q=%E8%8E%B2%E8%8A%B1%E6%A5%BC&t=31&band_rank=47&Refer=top",
     "hot": 142505
   },
+  "俄媒称普里戈任的私人飞机坠毁": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BF%84%E5%AA%92%E7%A7%B0%E6%99%AE%E9%87%8C%E6%88%88%E4%BB%BB%E7%9A%84%E7%A7%81%E4%BA%BA%E9%A3%9E%E6%9C%BA%E5%9D%A0%E6%AF%81%23&t=31&band_rank=12&Refer=top",
+    "hot": 140797
+  },
   "爱而不得是一种常态": {
     "url": "https://s.weibo.com/weibo?q=%E7%88%B1%E8%80%8C%E4%B8%8D%E5%BE%97%E6%98%AF%E4%B8%80%E7%A7%8D%E5%B8%B8%E6%80%81&t=31&band_rank=49&Refer=top",
     "hot": 128113
@@ -227,6 +231,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%A5%E6%B5%A9%E7%BF%94%E4%B8%83%E5%A4%95%E7%9A%AE%E8%A1%A3%E7%A9%BF%E6%90%AD%23&t=31&band_rank=48&Refer=top",
     "hot": 110205
   },
+  "十二星座水逆指南": {
+    "url": "https://s.weibo.com/weibo?q=%E5%8D%81%E4%BA%8C%E6%98%9F%E5%BA%A7%E6%B0%B4%E9%80%86%E6%8C%87%E5%8D%97&t=31&band_rank=47&Refer=top",
+    "hot": 95903
+  },
   "付辛博看了周杰伦演唱会": {
     "url": "https://s.weibo.com/weibo?q=%E4%BB%98%E8%BE%9B%E5%8D%9A%E7%9C%8B%E4%BA%86%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=46&Refer=top",
     "hot": 88434
@@ -239,10 +247,6 @@
     "url": "https://s.weibo.com/weibo?q=%E4%B8%83%E5%A4%95%E9%99%90%E5%AE%9A%E5%A5%B6%E8%8C%B6%E5%90%88%E9%9B%86&t=31&band_rank=49&Refer=top",
     "hot": 81775
   },
-  "十二星座水逆指南": {
-    "url": "https://s.weibo.com/weibo?q=%E5%8D%81%E4%BA%8C%E6%98%9F%E5%BA%A7%E6%B0%B4%E9%80%86%E6%8C%87%E5%8D%97&t=31&band_rank=47&Refer=top",
-    "hot": 80008
-  },
   "岑先生直播": {
     "url": "https://s.weibo.com/weibo?q=%E5%B2%91%E5%85%88%E7%94%9F%E7%9B%B4%E6%92%AD&t=31&band_rank=50&Refer=top",
     "hot": 62466
@@ -250,5 +254,13 @@
   "迪丽热巴画完奶茶喝奶茶": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%94%BB%E5%AE%8C%E5%A5%B6%E8%8C%B6%E5%96%9D%E5%A5%B6%E8%8C%B6%23&t=31&band_rank=50&Refer=top",
     "hot": 56755
+  },
+  "这只萨摩耶是社牛吧": {
+    "url": "https://s.weibo.com/weibo?q=%E8%BF%99%E5%8F%AA%E8%90%A8%E6%91%A9%E8%80%B6%E6%98%AF%E7%A4%BE%E7%89%9B%E5%90%A7&t=31&band_rank=45&Refer=top",
+    "hot": 55239
+  },
+  "e人里面最i的是谁": {
+    "url": "https://s.weibo.com/weibo?q=%23e%E4%BA%BA%E9%87%8C%E9%9D%A2%E6%9C%80i%E7%9A%84%E6%98%AF%E8%B0%81%23&t=31&band_rank=50&Refer=top",
+    "hot": 46540
   }
 }
