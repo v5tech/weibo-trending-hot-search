@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-08-26 01:34:25.893208 
+最后更新时间 2023-08-26 01:48:51.721094 
 1. [日本一天内两次地震](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%80%E5%A4%A9%E5%86%85%E4%B8%A4%E6%AC%A1%E5%9C%B0%E9%9C%87%23&t=31&band_rank=1&Refer=top) 1109058
 1. [张杰一句话高情商介绍朋友](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9D%B0%E4%B8%80%E5%8F%A5%E8%AF%9D%E9%AB%98%E6%83%85%E5%95%86%E4%BB%8B%E7%BB%8D%E6%9C%8B%E5%8F%8B&t=31&band_rank=2&Refer=top) 739262
 1. [要坚持真正的多边主义](https://s.weibo.com/weibo?q=%23%E8%A6%81%E5%9D%9A%E6%8C%81%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%A4%9A%E8%BE%B9%E4%B8%BB%E4%B9%89%23&t=31&band_rank=3&Refer=top) 706436
@@ -67,6 +67,8 @@
 1. [本想带孩子摆地摊感受一下生活不易](https://s.weibo.com/weibo?q=%E6%9C%AC%E6%83%B3%E5%B8%A6%E5%AD%A9%E5%AD%90%E6%91%86%E5%9C%B0%E6%91%8A%E6%84%9F%E5%8F%97%E4%B8%80%E4%B8%8B%E7%94%9F%E6%B4%BB%E4%B8%8D%E6%98%93&t=31&band_rank=49&Refer=top) 133773
 1. [会呼吸的江湖开卷](https://s.weibo.com/weibo?q=%23%E4%BC%9A%E5%91%BC%E5%90%B8%E7%9A%84%E6%B1%9F%E6%B9%96%E5%BC%80%E5%8D%B7%23&t=31&band_rank=49&Refer=top) 105173
 1. [海獭宝宝第一次来到海洋馆](https://s.weibo.com/weibo?q=%E6%B5%B7%E7%8D%AD%E5%AE%9D%E5%AE%9D%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%9D%A5%E5%88%B0%E6%B5%B7%E6%B4%8B%E9%A6%86&t=31&band_rank=49&Refer=top) 86331
+1. [Amber新歌HARDER](https://s.weibo.com/weibo?q=Amber%E6%96%B0%E6%AD%8CHARDER&t=31&band_rank=39&Refer=top) 80441
+1. [笨蛋父子鄂崇禹鄂顺](https://s.weibo.com/weibo?q=%E7%AC%A8%E8%9B%8B%E7%88%B6%E5%AD%90%E9%84%82%E5%B4%87%E7%A6%B9%E9%84%82%E9%A1%BA&t=31&band_rank=42&Refer=top) 77002
 <!-- END -->
 
 历史归档 [./archives](./archives)
