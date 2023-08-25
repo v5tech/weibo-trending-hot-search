@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-08-26 04:49:01.359122 
+最后更新时间 2023-08-26 05:08:33.048828 
 1. [日本一天内两次地震](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%80%E5%A4%A9%E5%86%85%E4%B8%A4%E6%AC%A1%E5%9C%B0%E9%9C%87%23&t=31&band_rank=1&Refer=top) 1109058
 1. [张杰一句话高情商介绍朋友](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9D%B0%E4%B8%80%E5%8F%A5%E8%AF%9D%E9%AB%98%E6%83%85%E5%95%86%E4%BB%8B%E7%BB%8D%E6%9C%8B%E5%8F%8B&t=31&band_rank=2&Refer=top) 739262
 1. [要坚持真正的多边主义](https://s.weibo.com/weibo?q=%23%E8%A6%81%E5%9D%9A%E6%8C%81%E7%9C%9F%E6%AD%A3%E7%9A%84%E5%A4%9A%E8%BE%B9%E4%B8%BB%E4%B9%89%23&t=31&band_rank=3&Refer=top) 706436
@@ -72,10 +72,11 @@
 1. [苏见信你怎么了](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E8%A7%81%E4%BF%A1%E4%BD%A0%E6%80%8E%E4%B9%88%E4%BA%86%23&t=31&band_rank=27&Refer=top) 46450
 1. [瘦子累坏了大家都心疼](https://s.weibo.com/weibo?q=%E7%98%A6%E5%AD%90%E7%B4%AF%E5%9D%8F%E4%BA%86%E5%A4%A7%E5%AE%B6%E9%83%BD%E5%BF%83%E7%96%BC&t=31&band_rank=50&Refer=top) 44907
 1. [龙德殿每个人都在痛苦](https://s.weibo.com/weibo?q=%E9%BE%99%E5%BE%B7%E6%AE%BF%E6%AF%8F%E4%B8%AA%E4%BA%BA%E9%83%BD%E5%9C%A8%E7%97%9B%E8%8B%A6&t=31&band_rank=46&Refer=top) 37548
-1. [偶遇王源生图](https://s.weibo.com/weibo?q=%23%E5%81%B6%E9%81%87%E7%8E%8B%E6%BA%90%E7%94%9F%E5%9B%BE%23&t=31&band_rank=33&Refer=top) 34504
+1. [偶遇王源生图](https://s.weibo.com/weibo?q=%23%E5%81%B6%E9%81%87%E7%8E%8B%E6%BA%90%E7%94%9F%E5%9B%BE%23&t=31&band_rank=33&Refer=top) 36345
 1. [成毅直播笑话合集](https://s.weibo.com/weibo?q=%E6%88%90%E6%AF%85%E7%9B%B4%E6%92%AD%E7%AC%91%E8%AF%9D%E5%90%88%E9%9B%86&t=31&band_rank=46&Refer=top) 34029
 1. [年轻人能哭是好事](https://s.weibo.com/weibo?q=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%83%BD%E5%93%AD%E6%98%AF%E5%A5%BD%E4%BA%8B&t=31&band_rank=32&Refer=top) 30733
-1. [警方回应富翁被送精神病院后身亡](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E5%AF%8C%E7%BF%81%E8%A2%AB%E9%80%81%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2%E5%90%8E%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=50&Refer=top) 21654
+1. [警方回应富翁被送精神病院后身亡](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E5%AF%8C%E7%BF%81%E8%A2%AB%E9%80%81%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2%E5%90%8E%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=50&Refer=top) 27030
+1. [长相思](https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D&t=31&band_rank=49&Refer=top) 19611
 <!-- END -->
 
 历史归档 [./archives](./archives)
