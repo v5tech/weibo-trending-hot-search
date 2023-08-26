@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-08-27 04:10:00.220920 
+最后更新时间 2023-08-27 04:20:54.185972 
 1. [日本国内超市停买水产品让日企心态崩了](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%9B%BD%E5%86%85%E8%B6%85%E5%B8%82%E5%81%9C%E4%B9%B0%E6%B0%B4%E4%BA%A7%E5%93%81%E8%AE%A9%E6%97%A5%E4%BC%81%E5%BF%83%E6%80%81%E5%B4%A9%E4%BA%86%23&t=31&band_rank=1&Refer=top) 1998817
 1. [老人留下一套房产五兄妹和和气气均分](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E7%95%99%E4%B8%8B%E4%B8%80%E5%A5%97%E6%88%BF%E4%BA%A7%E4%BA%94%E5%85%84%E5%A6%B9%E5%92%8C%E5%92%8C%E6%B0%94%E6%B0%94%E5%9D%87%E5%88%86%23&t=31&band_rank=2&Refer=top) 1572334
 1. [我国取得可控核聚变重大突破](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E5%8F%96%E5%BE%97%E5%8F%AF%E6%8E%A7%E6%A0%B8%E8%81%9A%E5%8F%98%E9%87%8D%E5%A4%A7%E7%AA%81%E7%A0%B4%23&t=31&band_rank=3&Refer=top) 1231861
@@ -84,6 +84,7 @@
 1. [宝宝狐獴](https://s.weibo.com/weibo?q=%E5%AE%9D%E5%AE%9D%E7%8B%90%E7%8D%B4&t=31&band_rank=45&Refer=top) 42550
 1. [李宇春成都演唱会](https://s.weibo.com/weibo?q=%E6%9D%8E%E5%AE%87%E6%98%A5%E6%88%90%E9%83%BD%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=44&Refer=top) 37025
 1. [薛之谦遵义](https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%E9%81%B5%E4%B9%89&t=31&band_rank=46&Refer=top) 31567
+1. [食蚁兽喝汤](https://s.weibo.com/weibo?q=%E9%A3%9F%E8%9A%81%E5%85%BD%E5%96%9D%E6%B1%A4&t=31&band_rank=43&Refer=top) 23531
 <!-- END -->
 
 历史归档 [./archives](./archives)
