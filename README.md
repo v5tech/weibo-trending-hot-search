@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-08-29 01:08:49.950981 
+最后更新时间 2023-08-29 01:24:07.738062 
 1. [日本核废水排海已经开始影响邻国](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%A0%B8%E5%BA%9F%E6%B0%B4%E6%8E%92%E6%B5%B7%E5%B7%B2%E7%BB%8F%E5%BC%80%E5%A7%8B%E5%BD%B1%E5%93%8D%E9%82%BB%E5%9B%BD%23&t=31&band_rank=2&Refer=top) 2561759
 1. [留学女儿要300多万美元买房妈妈报警](https://s.weibo.com/weibo?q=%23%E7%95%99%E5%AD%A6%E5%A5%B3%E5%84%BF%E8%A6%81300%E5%A4%9A%E4%B8%87%E7%BE%8E%E5%85%83%E4%B9%B0%E6%88%BF%E5%A6%88%E5%A6%88%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=1&Refer=top) 1640341
 1. [亚运村里的江浙菜品有多馋人](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E6%9D%91%E9%87%8C%E7%9A%84%E6%B1%9F%E6%B5%99%E8%8F%9C%E5%93%81%E6%9C%89%E5%A4%9A%E9%A6%8B%E4%BA%BA%23&t=31&band_rank=3&Refer=top) 1079938
@@ -65,6 +65,7 @@
 1. [黑执事动画中最帅的执事](https://s.weibo.com/weibo?q=%23%E9%BB%91%E6%89%A7%E4%BA%8B%E5%8A%A8%E7%94%BB%E4%B8%AD%E6%9C%80%E5%B8%85%E7%9A%84%E6%89%A7%E4%BA%8B%23&t=31&band_rank=49&Refer=top) 115709
 1. [让强迫症狂喜的工作](https://s.weibo.com/weibo?q=%E8%AE%A9%E5%BC%BA%E8%BF%AB%E7%97%87%E7%8B%82%E5%96%9C%E7%9A%84%E5%B7%A5%E4%BD%9C&t=31&band_rank=46&Refer=top) 84306
 1. [10款椰子水测评](https://s.weibo.com/weibo?q=10%E6%AC%BE%E6%A4%B0%E5%AD%90%E6%B0%B4%E6%B5%8B%E8%AF%84&t=31&band_rank=50&Refer=top) 84300
+1. [有没有人能管管现在的电视啊](https://s.weibo.com/weibo?q=%E6%9C%89%E6%B2%A1%E6%9C%89%E4%BA%BA%E8%83%BD%E7%AE%A1%E7%AE%A1%E7%8E%B0%E5%9C%A8%E7%9A%84%E7%94%B5%E8%A7%86%E5%95%8A&t=31&band_rank=49&Refer=top) 55719
 <!-- END -->
 
 历史归档 [./archives](./archives)
