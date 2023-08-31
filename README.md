@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-09-01 04:48:55.558527 
+最后更新时间 2023-09-01 05:09:01.468647 
 1. [奥本海默](https://s.weibo.com/weibo?q=%E5%A5%A5%E6%9C%AC%E6%B5%B7%E9%BB%98&t=31&band_rank=1&Refer=top) 1129749
 1. [墨菲定律](https://s.weibo.com/weibo?q=%E5%A2%A8%E8%8F%B2%E5%AE%9A%E5%BE%8B&t=31&band_rank=16&Refer=top) 943945
 1. [iPhone15系列爆料](https://s.weibo.com/weibo?q=iPhone15%E7%B3%BB%E5%88%97%E7%88%86%E6%96%99&t=31&band_rank=2&Refer=top) 799348
@@ -85,6 +85,7 @@
 1. [谐音梗为什么要扣钱](https://s.weibo.com/weibo?q=%E8%B0%90%E9%9F%B3%E6%A2%97%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E6%89%A3%E9%92%B1&t=31&band_rank=42&Refer=top) 23066
 1. [姬发随时随地大小唱](https://s.weibo.com/weibo?q=%E5%A7%AC%E5%8F%91%E9%9A%8F%E6%97%B6%E9%9A%8F%E5%9C%B0%E5%A4%A7%E5%B0%8F%E5%94%B1&t=31&band_rank=46&Refer=top) 20965
 1. [测试网络爆火生活小妙招](https://s.weibo.com/weibo?q=%E6%B5%8B%E8%AF%95%E7%BD%91%E7%BB%9C%E7%88%86%E7%81%AB%E7%94%9F%E6%B4%BB%E5%B0%8F%E5%A6%99%E6%8B%9B&t=31&band_rank=50&Refer=top) 18688
+1. [好歹毒的一道菜](https://s.weibo.com/weibo?q=%E5%A5%BD%E6%AD%B9%E6%AF%92%E7%9A%84%E4%B8%80%E9%81%93%E8%8F%9C&t=31&band_rank=46&Refer=top) 16900
 <!-- END -->
 
 历史归档 [./archives](./archives)
