@@ -7,8 +7,9 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-09-01 00:30:47.721260 
+最后更新时间 2023-09-01 00:49:03.087391 
 1. [奥本海默](https://s.weibo.com/weibo?q=%E5%A5%A5%E6%9C%AC%E6%B5%B7%E9%BB%98&t=31&band_rank=1&Refer=top) 1129749
+1. [墨菲定律](https://s.weibo.com/weibo?q=%E5%A2%A8%E8%8F%B2%E5%AE%9A%E5%BE%8B&t=31&band_rank=16&Refer=top) 830797
 1. [iPhone15系列爆料](https://s.weibo.com/weibo?q=iPhone15%E7%B3%BB%E5%88%97%E7%88%86%E6%96%99&t=31&band_rank=2&Refer=top) 799348
 1. [砺志逐梦正当时](https://s.weibo.com/weibo?q=%23%E7%A0%BA%E5%BF%97%E9%80%90%E6%A2%A6%E6%AD%A3%E5%BD%93%E6%97%B6%23&t=31&band_rank=3&Refer=top) 706628
 1. [被医院判死刑的孩子](https://s.weibo.com/weibo?q=%E8%A2%AB%E5%8C%BB%E9%99%A2%E5%88%A4%E6%AD%BB%E5%88%91%E7%9A%84%E5%AD%A9%E5%AD%90&t=31&band_rank=4&Refer=top) 696639
@@ -25,8 +26,8 @@
 1. [王源明天飞美国](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E6%98%8E%E5%A4%A9%E9%A3%9E%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=15&Refer=top) 403300
 1. [DRG夏季赛淘汰](https://s.weibo.com/weibo?q=DRG%E5%A4%8F%E5%AD%A3%E8%B5%9B%E6%B7%98%E6%B1%B0&t=31&band_rank=16&Refer=top) 402510
 1. [YG新女团或将亮相BLACKPINK演唱会](https://s.weibo.com/weibo?q=%23YG%E6%96%B0%E5%A5%B3%E5%9B%A2%E6%88%96%E5%B0%86%E4%BA%AE%E7%9B%B8BLACKPINK%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=17&Refer=top) 342071
-1. [墨菲定律](https://s.weibo.com/weibo?q=%E5%A2%A8%E8%8F%B2%E5%AE%9A%E5%BE%8B&t=31&band_rank=16&Refer=top) 320689
 1. [娇兰 封神质子团](https://s.weibo.com/weibo?q=%E5%A8%87%E5%85%B0%20%E5%B0%81%E7%A5%9E%E8%B4%A8%E5%AD%90%E5%9B%A2&t=31&band_rank=18&Refer=top) 285825
+1. [欧冠32强全部出炉](https://s.weibo.com/weibo?q=%23%E6%AC%A7%E5%86%A032%E5%BC%BA%E5%85%A8%E9%83%A8%E5%87%BA%E7%82%89%23&t=31&band_rank=36&Refer=top) 262856
 1. [虞书欣点了东北黏糊麻辣烫](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%82%B9%E4%BA%86%E4%B8%9C%E5%8C%97%E9%BB%8F%E7%B3%8A%E9%BA%BB%E8%BE%A3%E7%83%AB%23&t=31&band_rank=19&Refer=top) 258833
 1. [美国商务部长乘中国高铁让美媒纠结](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%95%86%E5%8A%A1%E9%83%A8%E9%95%BF%E4%B9%98%E4%B8%AD%E5%9B%BD%E9%AB%98%E9%93%81%E8%AE%A9%E7%BE%8E%E5%AA%92%E7%BA%A0%E7%BB%93%23&t=31&band_rank=20&Refer=top) 256818
 1. [断缴社保的年轻人都是怎么想的](https://s.weibo.com/weibo?q=%23%E6%96%AD%E7%BC%B4%E7%A4%BE%E4%BF%9D%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA%E9%83%BD%E6%98%AF%E6%80%8E%E4%B9%88%E6%83%B3%E7%9A%84%23&t=31&band_rank=21&Refer=top) 256604
@@ -37,7 +38,6 @@
 1. [第一次不想让男女主谈恋爱](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B8%8D%E6%83%B3%E8%AE%A9%E7%94%B7%E5%A5%B3%E4%B8%BB%E8%B0%88%E6%81%8B%E7%88%B1%23&t=31&band_rank=26&Refer=top) 244125
 1. [李湘 我已退休](https://s.weibo.com/weibo?q=%E6%9D%8E%E6%B9%98%20%E6%88%91%E5%B7%B2%E9%80%80%E4%BC%91&t=31&band_rank=27&Refer=top) 240197
 1. [遥遥领先](https://s.weibo.com/weibo?q=%E9%81%A5%E9%81%A5%E9%A2%86%E5%85%88&t=31&band_rank=28&Refer=top) 216064
-1. [欧冠32强全部出炉](https://s.weibo.com/weibo?q=%23%E6%AC%A7%E5%86%A032%E5%BC%BA%E5%85%A8%E9%83%A8%E5%87%BA%E7%82%89%23&t=31&band_rank=36&Refer=top) 212113
 1. [捡了东西的狼](https://s.weibo.com/weibo?q=%E6%8D%A1%E4%BA%86%E4%B8%9C%E8%A5%BF%E7%9A%84%E7%8B%BC&t=31&band_rank=29&Refer=top) 203585
 1. [马宁](https://s.weibo.com/weibo?q=%E9%A9%AC%E5%AE%81&t=31&band_rank=30&Refer=top) 203560
 1. [国防部回应何时解决台湾问题](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%98%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E4%BD%95%E6%97%B6%E8%A7%A3%E5%86%B3%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%23&t=31&band_rank=31&Refer=top) 200665
@@ -62,6 +62,8 @@
 1. [张韶涵 我在扬州没空想你](https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9F%B6%E6%B6%B5%20%E6%88%91%E5%9C%A8%E6%89%AC%E5%B7%9E%E6%B2%A1%E7%A9%BA%E6%83%B3%E4%BD%A0&t=31&band_rank=50&Refer=top) 127988
 1. [逃出大英博物馆第二集开播](https://s.weibo.com/weibo?q=%E9%80%83%E5%87%BA%E5%A4%A7%E8%8B%B1%E5%8D%9A%E7%89%A9%E9%A6%86%E7%AC%AC%E4%BA%8C%E9%9B%86%E5%BC%80%E6%92%AD&t=31&band_rank=44&Refer=top) 127273
 1. [内娱银发漫撕男](https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E9%93%B6%E5%8F%91%E6%BC%AB%E6%92%95%E7%94%B7%23&t=31&band_rank=48&Refer=top) 113895
+1. [毛不易说在台上做i人沉默震耳欲聋](https://s.weibo.com/weibo?q=%23%E6%AF%9B%E4%B8%8D%E6%98%93%E8%AF%B4%E5%9C%A8%E5%8F%B0%E4%B8%8A%E5%81%9Ai%E4%BA%BA%E6%B2%89%E9%BB%98%E9%9C%87%E8%80%B3%E6%AC%B2%E8%81%8B%23&t=31&band_rank=42&Refer=top) 102247
+1. [张拿铁训斥奶奶不吃饭就下桌](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%8B%BF%E9%93%81%E8%AE%AD%E6%96%A5%E5%A5%B6%E5%A5%B6%E4%B8%8D%E5%90%83%E9%A5%AD%E5%B0%B1%E4%B8%8B%E6%A1%8C&t=31&band_rank=50&Refer=top) 97499
 <!-- END -->
 
 历史归档 [./archives](./archives)
