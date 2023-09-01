@@ -39,6 +39,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AE%97%E6%B3%BD%E5%93%AD%E4%BA%86%23&t=31&band_rank=8&Refer=top",
     "hot": 553229
   },
+  "十几分钟却是我的整个青春": {
+    "url": "https://s.weibo.com/weibo?q=%E5%8D%81%E5%87%A0%E5%88%86%E9%92%9F%E5%8D%B4%E6%98%AF%E6%88%91%E7%9A%84%E6%95%B4%E4%B8%AA%E9%9D%92%E6%98%A5&t=31&band_rank=31&Refer=top",
+    "hot": 502663
+  },
   "台风吹倒大树砸中汽车造成一死两伤": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E5%90%B9%E5%80%92%E5%A4%A7%E6%A0%91%E7%A0%B8%E4%B8%AD%E6%B1%BD%E8%BD%A6%E9%80%A0%E6%88%90%E4%B8%80%E6%AD%BB%E4%B8%A4%E4%BC%A4%23&t=31&band_rank=23&Refer=top",
     "hot": 495174
@@ -146,10 +150,6 @@
   "航空公司向李惠利道歉": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%88%AA%E7%A9%BA%E5%85%AC%E5%8F%B8%E5%90%91%E6%9D%8E%E6%83%A0%E5%88%A9%E9%81%93%E6%AD%89%23&t=31&band_rank=37&Refer=top",
     "hot": 227038
-  },
-  "十几分钟却是我的整个青春": {
-    "url": "https://s.weibo.com/weibo?q=%E5%8D%81%E5%87%A0%E5%88%86%E9%92%9F%E5%8D%B4%E6%98%AF%E6%88%91%E7%9A%84%E6%95%B4%E4%B8%AA%E9%9D%92%E6%98%A5&t=31&band_rank=31&Refer=top",
-    "hot": 225879
   },
   "天狼星 天为首": {
     "url": "https://s.weibo.com/weibo?q=%E5%A4%A9%E7%8B%BC%E6%98%9F%20%E5%A4%A9%E4%B8%BA%E9%A6%96&t=31&band_rank=35&Refer=top",
@@ -269,7 +269,7 @@
   },
   "费翔 爱一个人其实是爱上她的缺点": {
     "url": "https://s.weibo.com/weibo?q=%E8%B4%B9%E7%BF%94%20%E7%88%B1%E4%B8%80%E4%B8%AA%E4%BA%BA%E5%85%B6%E5%AE%9E%E6%98%AF%E7%88%B1%E4%B8%8A%E5%A5%B9%E7%9A%84%E7%BC%BA%E7%82%B9&t=31&band_rank=32&Refer=top",
-    "hot": 80312
+    "hot": 91556
   },
   "妹妹给离家的姐姐塞了小纸条": {
     "url": "https://s.weibo.com/weibo?q=%E5%A6%B9%E5%A6%B9%E7%BB%99%E7%A6%BB%E5%AE%B6%E7%9A%84%E5%A7%90%E5%A7%90%E5%A1%9E%E4%BA%86%E5%B0%8F%E7%BA%B8%E6%9D%A1&t=31&band_rank=50&Refer=top",
@@ -278,5 +278,9 @@
   "菠萝猫猫头": {
     "url": "https://s.weibo.com/weibo?q=%E8%8F%A0%E8%90%9D%E7%8C%AB%E7%8C%AB%E5%A4%B4&t=31&band_rank=47&Refer=top",
     "hot": 48978
+  },
+  "北环大道": {
+    "url": "https://s.weibo.com/weibo?q=%E5%8C%97%E7%8E%AF%E5%A4%A7%E9%81%93&t=31&band_rank=49&Refer=top",
+    "hot": 45737
   }
 }
