@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-09-02 04:22:23.170896 
+最后更新时间 2023-09-02 04:34:34.439916 
 1. [南宁震感](https://s.weibo.com/weibo?q=%E5%8D%97%E5%AE%81%E9%9C%87%E6%84%9F&t=31&band_rank=1&Refer=top) 2162195
 1. [深圳台风](https://s.weibo.com/weibo?q=%E6%B7%B1%E5%9C%B3%E5%8F%B0%E9%A3%8E&t=31&band_rank=1&Refer=top) 1746112
 1. [徐良 淘汰](https://s.weibo.com/weibo?q=%E5%BE%90%E8%89%AF%20%E6%B7%98%E6%B1%B0&t=31&band_rank=2&Refer=top) 1109384
