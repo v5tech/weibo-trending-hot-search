@@ -241,7 +241,7 @@
   },
   "如果你喜欢那就大大方方": {
     "url": "https://s.weibo.com/weibo?q=%E5%A6%82%E6%9E%9C%E4%BD%A0%E5%96%9C%E6%AC%A2%E9%82%A3%E5%B0%B1%E5%A4%A7%E5%A4%A7%E6%96%B9%E6%96%B9&t=31&band_rank=42&Refer=top",
-    "hot": 38694
+    "hot": 39208
   },
   "酱香拿铁": {
     "url": "https://s.weibo.com/weibo?q=%E9%85%B1%E9%A6%99%E6%8B%BF%E9%93%81&t=31&band_rank=48&Refer=top",
@@ -250,5 +250,9 @@
   "福州24小时降雨量特大暴雨量级": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%B7%9E24%E5%B0%8F%E6%97%B6%E9%99%8D%E9%9B%A8%E9%87%8F%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%A8%E9%87%8F%E7%BA%A7%23&t=31&band_rank=38&Refer=top",
     "hot": 36785
+  },
+  "瑞幸回应市监局询问酱香拿铁配料": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B8%E5%9B%9E%E5%BA%94%E5%B8%82%E7%9B%91%E5%B1%80%E8%AF%A2%E9%97%AE%E9%85%B1%E9%A6%99%E6%8B%BF%E9%93%81%E9%85%8D%E6%96%99%23&t=31&band_rank=50&Refer=top",
+    "hot": 26962
   }
 }
