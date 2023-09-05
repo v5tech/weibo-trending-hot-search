@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-09-06 01:09:11.321695 
+最后更新时间 2023-09-06 01:24:41.534406 
 1. [蜜雪冰城 五粮液](https://s.weibo.com/weibo?q=%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%20%E4%BA%94%E7%B2%AE%E6%B6%B2&t=31&band_rank=1&Refer=top) 1499980
 1. [地铁判官找到了](https://s.weibo.com/weibo?q=%E5%9C%B0%E9%93%81%E5%88%A4%E5%AE%98%E6%89%BE%E5%88%B0%E4%BA%86&t=31&band_rank=12&Refer=top) 1467692
 1. [男子称怒砸10杯酱香拿铁不是因奶油太丑](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%A7%B0%E6%80%92%E7%A0%B810%E6%9D%AF%E9%85%B1%E9%A6%99%E6%8B%BF%E9%93%81%E4%B8%8D%E6%98%AF%E5%9B%A0%E5%A5%B6%E6%B2%B9%E5%A4%AA%E4%B8%91%23&t=31&band_rank=12&Refer=top) 1328135
@@ -56,14 +56,16 @@
 1. [云之羽小时代5海报](https://s.weibo.com/weibo?q=%23%E4%BA%91%E4%B9%8B%E7%BE%BD%E5%B0%8F%E6%97%B6%E4%BB%A35%E6%B5%B7%E6%8A%A5%23&t=31&band_rank=44&Refer=top) 139818
 1. [逃出大英博物馆](https://s.weibo.com/weibo?q=%E9%80%83%E5%87%BA%E5%A4%A7%E8%8B%B1%E5%8D%9A%E7%89%A9%E9%A6%86&t=31&band_rank=45&Refer=top) 138132
 1. [丞磊卢昱晓这么会营业不要命啦](https://s.weibo.com/weibo?q=%23%E4%B8%9E%E7%A3%8A%E5%8D%A2%E6%98%B1%E6%99%93%E8%BF%99%E4%B9%88%E4%BC%9A%E8%90%A5%E4%B8%9A%E4%B8%8D%E8%A6%81%E5%91%BD%E5%95%A6%23&t=31&band_rank=46&Refer=top) 136787
+1. [云之羽包含了很多中国传统元素](https://s.weibo.com/weibo?q=%E4%BA%91%E4%B9%8B%E7%BE%BD%E5%8C%85%E5%90%AB%E4%BA%86%E5%BE%88%E5%A4%9A%E4%B8%AD%E5%9B%BD%E4%BC%A0%E7%BB%9F%E5%85%83%E7%B4%A0&t=31&band_rank=46&Refer=top) 134293
 1. [瑞幸门店回应咖啡机炸了](https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B8%E9%97%A8%E5%BA%97%E5%9B%9E%E5%BA%94%E5%92%96%E5%95%A1%E6%9C%BA%E7%82%B8%E4%BA%86%23&t=31&band_rank=47&Refer=top) 128882
 1. [黄线剁鸡名场面](https://s.weibo.com/weibo?q=%E9%BB%84%E7%BA%BF%E5%89%81%E9%B8%A1%E5%90%8D%E5%9C%BA%E9%9D%A2&t=31&band_rank=49&Refer=top) 122711
-1. [云之羽包含了很多中国传统元素](https://s.weibo.com/weibo?q=%E4%BA%91%E4%B9%8B%E7%BE%BD%E5%8C%85%E5%90%AB%E4%BA%86%E5%BE%88%E5%A4%9A%E4%B8%AD%E5%9B%BD%E4%BC%A0%E7%BB%9F%E5%85%83%E7%B4%A0&t=31&band_rank=46&Refer=top) 119666
 1. [杭州有咖啡店生意少一半](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E6%9C%89%E5%92%96%E5%95%A1%E5%BA%97%E7%94%9F%E6%84%8F%E5%B0%91%E4%B8%80%E5%8D%8A%23&t=31&band_rank=40&Refer=top) 119628
 1. [虞书欣说有可以相亲的名场面](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E8%AF%B4%E6%9C%89%E5%8F%AF%E4%BB%A5%E7%9B%B8%E4%BA%B2%E7%9A%84%E5%90%8D%E5%9C%BA%E9%9D%A2%23&t=31&band_rank=50&Refer=top) 119007
 1. [瑰葭路 归家路](https://s.weibo.com/weibo?q=%E7%91%B0%E8%91%AD%E8%B7%AF%20%E5%BD%92%E5%AE%B6%E8%B7%AF&t=31&band_rank=46&Refer=top) 114758
 1. [从于适身上看出章子怡的影子](https://s.weibo.com/weibo?q=%E4%BB%8E%E4%BA%8E%E9%80%82%E8%BA%AB%E4%B8%8A%E7%9C%8B%E5%87%BA%E7%AB%A0%E5%AD%90%E6%80%A1%E7%9A%84%E5%BD%B1%E5%AD%90&t=31&band_rank=48&Refer=top) 114634
 1. [盛爹 手势谐音梗鼻祖](https://s.weibo.com/weibo?q=%E7%9B%9B%E7%88%B9%20%E6%89%8B%E5%8A%BF%E8%B0%90%E9%9F%B3%E6%A2%97%E9%BC%BB%E7%A5%96&t=31&band_rank=38&Refer=top) 91663
+1. [我与华晨宇的十年记忆](https://s.weibo.com/weibo?q=%23%E6%88%91%E4%B8%8E%E5%8D%8E%E6%99%A8%E5%AE%87%E7%9A%84%E5%8D%81%E5%B9%B4%E8%AE%B0%E5%BF%86%23&t=31&band_rank=49&Refer=top) 57214
+1. [当老师最轻松的是上课的45分钟](https://s.weibo.com/weibo?q=%E5%BD%93%E8%80%81%E5%B8%88%E6%9C%80%E8%BD%BB%E6%9D%BE%E7%9A%84%E6%98%AF%E4%B8%8A%E8%AF%BE%E7%9A%8445%E5%88%86%E9%92%9F&t=31&band_rank=50&Refer=top) 53062
 <!-- END -->
 
 历史归档 [./archives](./archives)
