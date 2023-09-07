@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-09-08 04:48:55.269968 
+最后更新时间 2023-09-08 05:08:49.163621 
 1. [深圳泄洪](https://s.weibo.com/weibo?q=%E6%B7%B1%E5%9C%B3%E6%B3%84%E6%B4%AA&t=31&band_rank=2&Refer=top) 2201154
 1. [长期不吃晚餐真的会瘦吗](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E4%B8%8D%E5%90%83%E6%99%9A%E9%A4%90%E7%9C%9F%E7%9A%84%E4%BC%9A%E7%98%A6%E5%90%97%23&t=31&band_rank=1&Refer=top) 1805722
 1. [内蒙古发生高压气体喷出事故致9死3伤](https://s.weibo.com/weibo?q=%23%E5%86%85%E8%92%99%E5%8F%A4%E5%8F%91%E7%94%9F%E9%AB%98%E5%8E%8B%E6%B0%94%E4%BD%93%E5%96%B7%E5%87%BA%E4%BA%8B%E6%95%85%E8%87%B49%E6%AD%BB3%E4%BC%A4%23&t=31&band_rank=2&Refer=top) 1408746
@@ -75,6 +75,7 @@
 1. [两个猫宝宝交换袜子穿](https://s.weibo.com/weibo?q=%E4%B8%A4%E4%B8%AA%E7%8C%AB%E5%AE%9D%E5%AE%9D%E4%BA%A4%E6%8D%A2%E8%A2%9C%E5%AD%90%E7%A9%BF&t=31&band_rank=48&Refer=top) 35980
 1. [第一次坐阿联酋航空攻略](https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%9D%90%E9%98%BF%E8%81%94%E9%85%8B%E8%88%AA%E7%A9%BA%E6%94%BB%E7%95%A5&t=31&band_rank=49&Refer=top) 32430
 1. [oc作者的必修课](https://s.weibo.com/weibo?q=oc%E4%BD%9C%E8%80%85%E7%9A%84%E5%BF%85%E4%BF%AE%E8%AF%BE&t=31&band_rank=48&Refer=top) 29617
+1. [上海治安很好 手表还在](https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E6%B2%BB%E5%AE%89%E5%BE%88%E5%A5%BD%20%E6%89%8B%E8%A1%A8%E8%BF%98%E5%9C%A8&t=31&band_rank=34&Refer=top) 23536
 <!-- END -->
 
 历史归档 [./archives](./archives)
