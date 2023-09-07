@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-09-08 04:34:29.149187 
+最后更新时间 2023-09-08 04:48:55.269968 
 1. [深圳泄洪](https://s.weibo.com/weibo?q=%E6%B7%B1%E5%9C%B3%E6%B3%84%E6%B4%AA&t=31&band_rank=2&Refer=top) 2201154
 1. [长期不吃晚餐真的会瘦吗](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E4%B8%8D%E5%90%83%E6%99%9A%E9%A4%90%E7%9C%9F%E7%9A%84%E4%BC%9A%E7%98%A6%E5%90%97%23&t=31&band_rank=1&Refer=top) 1805722
 1. [内蒙古发生高压气体喷出事故致9死3伤](https://s.weibo.com/weibo?q=%23%E5%86%85%E8%92%99%E5%8F%A4%E5%8F%91%E7%94%9F%E9%AB%98%E5%8E%8B%E6%B0%94%E4%BD%93%E5%96%B7%E5%87%BA%E4%BA%8B%E6%95%85%E8%87%B49%E6%AD%BB3%E4%BC%A4%23&t=31&band_rank=2&Refer=top) 1408746
