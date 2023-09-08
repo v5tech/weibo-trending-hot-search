@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-09-09 01:24:11.235651 
+最后更新时间 2023-09-09 01:34:13.053446 
 1. [周杰伦演唱会受伤](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8F%97%E4%BC%A4%23&t=31&band_rank=1&Refer=top) 5651229
 1. [阿信演唱会吸氧](https://s.weibo.com/weibo?q=%23%E9%98%BF%E4%BF%A1%E6%BC%94%E5%94%B1%E4%BC%9A%E5%90%B8%E6%B0%A7%23&t=31&band_rank=2&Refer=top) 1211626
 1. [共建一带一路倡议十周年](https://s.weibo.com/weibo?q=%23%E5%85%B1%E5%BB%BA%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E5%80%A1%E8%AE%AE%E5%8D%81%E5%91%A8%E5%B9%B4%23&t=31&band_rank=3&Refer=top) 828468
@@ -37,6 +37,7 @@
 1. [比熬夜更耗气血的其实是玩手机](https://s.weibo.com/weibo?q=%23%E6%AF%94%E7%86%AC%E5%A4%9C%E6%9B%B4%E8%80%97%E6%B0%94%E8%A1%80%E7%9A%84%E5%85%B6%E5%AE%9E%E6%98%AF%E7%8E%A9%E6%89%8B%E6%9C%BA%23&t=31&band_rank=28&Refer=top) 260545
 1. [男子隐瞒传染病还嫖娼妻子起诉离婚被驳](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%9A%90%E7%9E%92%E4%BC%A0%E6%9F%93%E7%97%85%E8%BF%98%E5%AB%96%E5%A8%BC%E5%A6%BB%E5%AD%90%E8%B5%B7%E8%AF%89%E7%A6%BB%E5%A9%9A%E8%A2%AB%E9%A9%B3%23&t=31&band_rank=23&Refer=top) 259638
 1. [被寄养一个月的猫咪骂了](https://s.weibo.com/weibo?q=%E8%A2%AB%E5%AF%84%E5%85%BB%E4%B8%80%E4%B8%AA%E6%9C%88%E7%9A%84%E7%8C%AB%E5%92%AA%E9%AA%82%E4%BA%86&t=31&band_rank=30&Refer=top) 259526
+1. [来杭州看看梦里江南的模样](https://s.weibo.com/weibo?q=%23%E6%9D%A5%E6%9D%AD%E5%B7%9E%E7%9C%8B%E7%9C%8B%E6%A2%A6%E9%87%8C%E6%B1%9F%E5%8D%97%E7%9A%84%E6%A8%A1%E6%A0%B7%23&t=31&band_rank=3&Refer=top) 247813
 1. [虞书欣张凌赫卢昱晓聚餐](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%8D%A2%E6%98%B1%E6%99%93%E8%81%9A%E9%A4%90%23&t=31&band_rank=20&Refer=top) 245265
 1. [林俊杰广州演唱会](https://s.weibo.com/weibo?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%B9%BF%E5%B7%9E%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=24&Refer=top) 237819
 1. [敖子逸四杀](https://s.weibo.com/weibo?q=%23%E6%95%96%E5%AD%90%E9%80%B8%E5%9B%9B%E6%9D%80%23&t=31&band_rank=31&Refer=top) 212768
@@ -62,6 +63,7 @@
 1. [夜色尚浅是一见钟情](https://s.weibo.com/weibo?q=%23%E5%A4%9C%E8%89%B2%E5%B0%9A%E6%B5%85%E6%98%AF%E4%B8%80%E8%A7%81%E9%92%9F%E6%83%85%23&t=31&band_rank=49&Refer=top) 117632
 1. [李子维是老了不是变野人了](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AD%90%E7%BB%B4%E6%98%AF%E8%80%81%E4%BA%86%E4%B8%8D%E6%98%AF%E5%8F%98%E9%87%8E%E4%BA%BA%E4%BA%86%23&t=31&band_rank=50&Refer=top) 114664
 1. [安吉丽娜朱莉带女儿看演唱会](https://s.weibo.com/weibo?q=%E5%AE%89%E5%90%89%E4%B8%BD%E5%A8%9C%E6%9C%B1%E8%8E%89%E5%B8%A6%E5%A5%B3%E5%84%BF%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=42&Refer=top) 114259
+1. [KTV配的歌手照片越来越离谱](https://s.weibo.com/weibo?q=%23KTV%E9%85%8D%E7%9A%84%E6%AD%8C%E6%89%8B%E7%85%A7%E7%89%87%E8%B6%8A%E6%9D%A5%E8%B6%8A%E7%A6%BB%E8%B0%B1%23&t=31&band_rank=49&Refer=top) 51760
 <!-- END -->
 
 历史归档 [./archives](./archives)
