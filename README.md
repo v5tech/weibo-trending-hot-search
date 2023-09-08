@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-09-09 01:48:54.545489 
+最后更新时间 2023-09-09 02:12:15.255838 
 1. [周杰伦演唱会受伤](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8F%97%E4%BC%A4%23&t=31&band_rank=1&Refer=top) 5651229
 1. [阿信演唱会吸氧](https://s.weibo.com/weibo?q=%23%E9%98%BF%E4%BF%A1%E6%BC%94%E5%94%B1%E4%BC%9A%E5%90%B8%E6%B0%A7%23&t=31&band_rank=2&Refer=top) 1211626
 1. [共建一带一路倡议十周年](https://s.weibo.com/weibo?q=%23%E5%85%B1%E5%BB%BA%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E5%80%A1%E8%AE%AE%E5%8D%81%E5%91%A8%E5%B9%B4%23&t=31&band_rank=3&Refer=top) 828468
@@ -63,7 +63,8 @@
 1. [夜色尚浅是一见钟情](https://s.weibo.com/weibo?q=%23%E5%A4%9C%E8%89%B2%E5%B0%9A%E6%B5%85%E6%98%AF%E4%B8%80%E8%A7%81%E9%92%9F%E6%83%85%23&t=31&band_rank=49&Refer=top) 117632
 1. [李子维是老了不是变野人了](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AD%90%E7%BB%B4%E6%98%AF%E8%80%81%E4%BA%86%E4%B8%8D%E6%98%AF%E5%8F%98%E9%87%8E%E4%BA%BA%E4%BA%86%23&t=31&band_rank=50&Refer=top) 114664
 1. [安吉丽娜朱莉带女儿看演唱会](https://s.weibo.com/weibo?q=%E5%AE%89%E5%90%89%E4%B8%BD%E5%A8%9C%E6%9C%B1%E8%8E%89%E5%B8%A6%E5%A5%B3%E5%84%BF%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=42&Refer=top) 114259
-1. [KTV配的歌手照片越来越离谱](https://s.weibo.com/weibo?q=%23KTV%E9%85%8D%E7%9A%84%E6%AD%8C%E6%89%8B%E7%85%A7%E7%89%87%E8%B6%8A%E6%9D%A5%E8%B6%8A%E7%A6%BB%E8%B0%B1%23&t=31&band_rank=49&Refer=top) 61333
+1. [王源说希望赵英俊能为自己感到骄傲](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E8%AF%B4%E5%B8%8C%E6%9C%9B%E8%B5%B5%E8%8B%B1%E4%BF%8A%E8%83%BD%E4%B8%BA%E8%87%AA%E5%B7%B1%E6%84%9F%E5%88%B0%E9%AA%84%E5%82%B2%23&t=31&band_rank=16&Refer=top) 97760
+1. [KTV配的歌手照片越来越离谱](https://s.weibo.com/weibo?q=%23KTV%E9%85%8D%E7%9A%84%E6%AD%8C%E6%89%8B%E7%85%A7%E7%89%87%E8%B6%8A%E6%9D%A5%E8%B6%8A%E7%A6%BB%E8%B0%B1%23&t=31&band_rank=49&Refer=top) 67050
 1. [刘雅瑟 我不教你做人你也别教我做人](https://s.weibo.com/weibo?q=%E5%88%98%E9%9B%85%E7%91%9F%20%E6%88%91%E4%B8%8D%E6%95%99%E4%BD%A0%E5%81%9A%E4%BA%BA%E4%BD%A0%E4%B9%9F%E5%88%AB%E6%95%99%E6%88%91%E5%81%9A%E4%BA%BA&t=31&band_rank=49&Refer=top) 52131
 <!-- END -->
 
