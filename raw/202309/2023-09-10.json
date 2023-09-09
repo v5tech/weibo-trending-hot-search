@@ -270,5 +270,9 @@
   "天气真好 晒晒浅浅": {
     "url": "https://s.weibo.com/weibo?q=%E5%A4%A9%E6%B0%94%E7%9C%9F%E5%A5%BD%20%E6%99%92%E6%99%92%E6%B5%85%E6%B5%85&t=31&band_rank=49&Refer=top",
     "hot": 23811
+  },
+  "格鲁吉亚1比7西班牙": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%A0%BC%E9%B2%81%E5%90%89%E4%BA%9A1%E6%AF%947%E8%A5%BF%E7%8F%AD%E7%89%99%23&t=31&band_rank=48&Refer=top",
+    "hot": 22211
   }
 }
