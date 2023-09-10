@@ -15,13 +15,13 @@
     "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E8%AF%B4%E9%95%BF%E7%9B%B8%E6%80%9D%E7%AC%AC%E4%BA%8C%E5%AD%A3%E6%AF%94%E7%AC%AC%E4%B8%80%E5%AD%A3%E6%9B%B4%E8%99%90%23&t=31&band_rank=4&Refer=top",
     "hot": 751819
   },
+  "国货难带和尊重消费者是两码事": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B4%A7%E9%9A%BE%E5%B8%A6%E5%92%8C%E5%B0%8A%E9%87%8D%E6%B6%88%E8%B4%B9%E8%80%85%E6%98%AF%E4%B8%A4%E7%A0%81%E4%BA%8B%23&t=31&band_rank=21&Refer=top",
+    "hot": 698961
+  },
   "27岁女子极端减肥瘦20斤致闭经1年半": {
     "url": "https://s.weibo.com/weibo?q=%2327%E5%B2%81%E5%A5%B3%E5%AD%90%E6%9E%81%E7%AB%AF%E5%87%8F%E8%82%A5%E7%98%A620%E6%96%A4%E8%87%B4%E9%97%AD%E7%BB%8F1%E5%B9%B4%E5%8D%8A%23&t=31&band_rank=20&Refer=top",
     "hot": 642824
-  },
-  "国货难带和尊重消费者是两码事": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B4%A7%E9%9A%BE%E5%B8%A6%E5%92%8C%E5%B0%8A%E9%87%8D%E6%B6%88%E8%B4%B9%E8%80%85%E6%98%AF%E4%B8%A4%E7%A0%81%E4%BA%8B%23&t=31&band_rank=21&Refer=top",
-    "hot": 515990
   },
   "周杰伦嘉宾": {
     "url": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%98%89%E5%AE%BE&t=31&band_rank=5&Refer=top",
@@ -34,6 +34,10 @@
   "男子抢劫156元分赃30元躲进山洞14年": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8A%A2%E5%8A%AB156%E5%85%83%E5%88%86%E8%B5%8330%E5%85%83%E8%BA%B2%E8%BF%9B%E5%B1%B1%E6%B4%9E14%E5%B9%B4%23&t=31&band_rank=7&Refer=top",
     "hot": 386393
+  },
+  "Apex": {
+    "url": "https://s.weibo.com/weibo?q=Apex&t=31&band_rank=41&Refer=top",
+    "hot": 375028
   },
   "DF冲": {
     "url": "https://s.weibo.com/weibo?q=DF%E5%86%B2&t=31&band_rank=46&Refer=top",
@@ -90,10 +94,6 @@
   "丞磊卢昱晓大大方方营业": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%9E%E7%A3%8A%E5%8D%A2%E6%98%B1%E6%99%93%E5%A4%A7%E5%A4%A7%E6%96%B9%E6%96%B9%E8%90%A5%E4%B8%9A%23&t=31&band_rank=19&Refer=top",
     "hot": 299046
-  },
-  "Apex": {
-    "url": "https://s.weibo.com/weibo?q=Apex&t=31&band_rank=41&Refer=top",
-    "hot": 294237
   },
   "女子反复咳嗽多年治不好竟是因为吃多了": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%8F%8D%E5%A4%8D%E5%92%B3%E5%97%BD%E5%A4%9A%E5%B9%B4%E6%B2%BB%E4%B8%8D%E5%A5%BD%E7%AB%9F%E6%98%AF%E5%9B%A0%E4%B8%BA%E5%90%83%E5%A4%9A%E4%BA%86%23&t=31&band_rank=22&Refer=top",
@@ -230,5 +230,9 @@
   "真正男子汉时期的杨幂": {
     "url": "https://s.weibo.com/weibo?q=%E7%9C%9F%E6%AD%A3%E7%94%B7%E5%AD%90%E6%B1%89%E6%97%B6%E6%9C%9F%E7%9A%84%E6%9D%A8%E5%B9%82&t=31&band_rank=50&Refer=top",
     "hot": 118239
+  },
+  "这届年轻人为何变得抠门了": {
+    "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B1%8A%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E4%BD%95%E5%8F%98%E5%BE%97%E6%8A%A0%E9%97%A8%E4%BA%86%23&t=31&band_rank=39&Refer=top",
+    "hot": 115807
   }
 }
