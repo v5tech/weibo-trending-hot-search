@@ -51,6 +51,10 @@
     "url": "https://s.weibo.com/weibo?q=%23TTG%E5%A4%BA%E5%86%A0%23&t=31&band_rank=9&Refer=top",
     "hot": 365371
   },
+  "OG": {
+    "url": "https://s.weibo.com/weibo?q=OG&t=31&band_rank=9&Refer=top",
+    "hot": 362207
+  },
   "张碧晨演唱会嘉宾是小鬼": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%A2%A7%E6%99%A8%E6%BC%94%E5%94%B1%E4%BC%9A%E5%98%89%E5%AE%BE%E6%98%AF%E5%B0%8F%E9%AC%BC%23&t=31&band_rank=8&Refer=top",
     "hot": 338737
@@ -126,10 +130,6 @@
   "周杰伦上海": {
     "url": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E4%B8%8A%E6%B5%B7&t=31&band_rank=25&Refer=top",
     "hot": 278572
-  },
-  "OG": {
-    "url": "https://s.weibo.com/weibo?q=OG&t=31&band_rank=9&Refer=top",
-    "hot": 268393
   },
   "Fly说重新来过": {
     "url": "https://s.weibo.com/weibo?q=%23Fly%E8%AF%B4%E9%87%8D%E6%96%B0%E6%9D%A5%E8%BF%87%23&t=31&band_rank=28&Refer=top",
@@ -277,10 +277,18 @@
   },
   "白桃星座": {
     "url": "https://s.weibo.com/weibo?q=%E7%99%BD%E6%A1%83%E6%98%9F%E5%BA%A7&t=31&band_rank=34&Refer=top",
-    "hot": 32147
+    "hot": 34169
   },
   "华晨宇演唱会": {
     "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E6%99%A8%E5%AE%87%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=43&Refer=top",
     "hot": 31793
+  },
+  "国航通报CA403挂紧急代码7700": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%88%AA%E9%80%9A%E6%8A%A5CA403%E6%8C%82%E7%B4%A7%E6%80%A5%E4%BB%A3%E7%A0%817700%23&t=31&band_rank=34&Refer=top",
+    "hot": 25182
+  },
+  "CA403所有人员均安全撤离": {
+    "url": "https://s.weibo.com/weibo?q=%23CA403%E6%89%80%E6%9C%89%E4%BA%BA%E5%91%98%E5%9D%87%E5%AE%89%E5%85%A8%E6%92%A4%E7%A6%BB%23&t=31&band_rank=44&Refer=top",
+    "hot": 20722
   }
 }
