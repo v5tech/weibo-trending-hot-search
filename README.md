@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-09-10 15:19:08.239711 
+最后更新时间 2023-09-10 15:33:57.082707 
 1. [计划有变 准备夺冠](https://s.weibo.com/weibo?q=%E8%AE%A1%E5%88%92%E6%9C%89%E5%8F%98%20%E5%87%86%E5%A4%87%E5%A4%BA%E5%86%A0&t=31&band_rank=5&Refer=top) 2532696
 1. [华莎接受警方调查](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E8%8E%8E%E6%8E%A5%E5%8F%97%E8%AD%A6%E6%96%B9%E8%B0%83%E6%9F%A5%23&t=31&band_rank=20&Refer=top) 2033269
 1. [花花暂停展出](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%8A%B1%E6%9A%82%E5%81%9C%E5%B1%95%E5%87%BA%23&t=31&band_rank=49&Refer=top) 1954907
@@ -19,8 +19,8 @@
 1. [为什么去德国留学的少](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8E%BB%E5%BE%B7%E5%9B%BD%E7%95%99%E5%AD%A6%E7%9A%84%E5%B0%91&t=31&band_rank=31&Refer=top) 1309337
 1. [师生间双向奔赴的爱](https://s.weibo.com/weibo?q=%23%E5%B8%88%E7%94%9F%E9%97%B4%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4%E7%9A%84%E7%88%B1%23&t=31&band_rank=39&Refer=top) 1188828
 1. [华晨宇演唱会大屏背景是恶评](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E6%BC%94%E5%94%B1%E4%BC%9A%E5%A4%A7%E5%B1%8F%E8%83%8C%E6%99%AF%E6%98%AF%E6%81%B6%E8%AF%84%23&t=31&band_rank=25&Refer=top) 1183324
+1. [Rose或将和霉霉合作](https://s.weibo.com/weibo?q=%23Rose%E6%88%96%E5%B0%86%E5%92%8C%E9%9C%89%E9%9C%89%E5%90%88%E4%BD%9C%23&t=31&band_rank=18&Refer=top) 1140695
 1. [女大学生差点被裤子单杀](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%B7%AE%E7%82%B9%E8%A2%AB%E8%A3%A4%E5%AD%90%E5%8D%95%E6%9D%80%23&t=31&band_rank=31&Refer=top) 1140643
-1. [Rose或将和霉霉合作](https://s.weibo.com/weibo?q=%23Rose%E6%88%96%E5%B0%86%E5%92%8C%E9%9C%89%E9%9C%89%E5%90%88%E4%BD%9C%23&t=31&band_rank=18&Refer=top) 1139428
 1. [警方通报大学生出地铁站后失踪](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%87%BA%E5%9C%B0%E9%93%81%E7%AB%99%E5%90%8E%E5%A4%B1%E8%B8%AA%23&t=31&band_rank=32&Refer=top) 1111558
 1. [华晨宇接受法师称号](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E6%8E%A5%E5%8F%97%E6%B3%95%E5%B8%88%E7%A7%B0%E5%8F%B7%23&t=31&band_rank=1&Refer=top) 1009819
 1. [王源像跟着父母应酬的我](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%BA%90%E5%83%8F%E8%B7%9F%E7%9D%80%E7%88%B6%E6%AF%8D%E5%BA%94%E9%85%AC%E7%9A%84%E6%88%91&t=31&band_rank=18&Refer=top) 986990
@@ -29,7 +29,9 @@
 1. [烘焙 我接触过的最大生活骗局](https://s.weibo.com/weibo?q=%E7%83%98%E7%84%99%20%E6%88%91%E6%8E%A5%E8%A7%A6%E8%BF%87%E7%9A%84%E6%9C%80%E5%A4%A7%E7%94%9F%E6%B4%BB%E9%AA%97%E5%B1%80&t=31&band_rank=33&Refer=top) 890739
 1. [教师节](https://s.weibo.com/weibo?q=%E6%95%99%E5%B8%88%E8%8A%82&t=31&band_rank=2&Refer=top) 865639
 1. [夜西湖点燃亚运之夜](https://s.weibo.com/weibo?q=%23%E5%A4%9C%E8%A5%BF%E6%B9%96%E7%82%B9%E7%87%83%E4%BA%9A%E8%BF%90%E4%B9%8B%E5%A4%9C%23&t=31&band_rank=3&Refer=top) 865206
+1. [杭州亚运会开幕日恰逢秋分](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E6%97%A5%E6%81%B0%E9%80%A2%E7%A7%8B%E5%88%86%23&t=31&band_rank=3&Refer=top) 842544
 1. [李荣浩演唱会后台收到100个烧饼夹里脊](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%8D%A3%E6%B5%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E5%90%8E%E5%8F%B0%E6%94%B6%E5%88%B0100%E4%B8%AA%E7%83%A7%E9%A5%BC%E5%A4%B9%E9%87%8C%E8%84%8A%23&t=31&band_rank=4&Refer=top) 835282
+1. [李佳琦 花西子](https://s.weibo.com/weibo?q=%E6%9D%8E%E4%BD%B3%E7%90%A6%20%E8%8A%B1%E8%A5%BF%E5%AD%90&t=31&band_rank=4&Refer=top) 791582
 1. [襄阳](https://s.weibo.com/weibo?q=%E8%A5%84%E9%98%B3&t=31&band_rank=32&Refer=top) 769592
 1. [国足43年首次赢不了马来西亚](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B343%E5%B9%B4%E9%A6%96%E6%AC%A1%E8%B5%A2%E4%B8%8D%E4%BA%86%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%23&t=31&band_rank=36&Refer=top) 767359
 1. [警察也是老师只教出圈的学生](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E5%AF%9F%E4%B9%9F%E6%98%AF%E8%80%81%E5%B8%88%E5%8F%AA%E6%95%99%E5%87%BA%E5%9C%88%E7%9A%84%E5%AD%A6%E7%94%9F%23&t=31&band_rank=28&Refer=top) 748173
@@ -46,13 +48,18 @@
 1. [G20](https://s.weibo.com/weibo?q=%23G20%23&t=31&band_rank=6&Refer=top) 537994
 1. [德国1比4日本](https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%9B%BD1%E6%AF%944%E6%97%A5%E6%9C%AC%23&t=31&band_rank=19&Refer=top) 537963
 1. [摩洛哥地震遇难人数升至2012人](https://s.weibo.com/weibo?q=%23%E6%91%A9%E6%B4%9B%E5%93%A5%E5%9C%B0%E9%9C%87%E9%81%87%E9%9A%BE%E4%BA%BA%E6%95%B0%E5%8D%87%E8%87%B32012%E4%BA%BA%23&t=31&band_rank=7&Refer=top) 531778
+1. [成毅张予曦吻戏剧照](https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E5%BC%A0%E4%BA%88%E6%9B%A6%E5%90%BB%E6%88%8F%E5%89%A7%E7%85%A7%23&t=31&band_rank=10&Refer=top) 504393
+1. [李鸿其官宣与王紫璇恋情](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%B8%BF%E5%85%B6%E5%AE%98%E5%AE%A3%E4%B8%8E%E7%8E%8B%E7%B4%AB%E7%92%87%E6%81%8B%E6%83%85%23&t=31&band_rank=37&Refer=top) 503634
+1. [怕新生吃不饱老师站着陪吃饭](https://s.weibo.com/weibo?q=%23%E6%80%95%E6%96%B0%E7%94%9F%E5%90%83%E4%B8%8D%E9%A5%B1%E8%80%81%E5%B8%88%E7%AB%99%E7%9D%80%E9%99%AA%E5%90%83%E9%A5%AD%23&t=31&band_rank=25&Refer=top) 499965
 1. [教师节祝福](https://s.weibo.com/weibo?q=%E6%95%99%E5%B8%88%E8%8A%82%E7%A5%9D%E7%A6%8F&t=31&band_rank=8&Refer=top) 497872
 1. [10年米粉换用iPhone是什么体验](https://s.weibo.com/weibo?q=10%E5%B9%B4%E7%B1%B3%E7%B2%89%E6%8D%A2%E7%94%A8iPhone%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C&t=31&band_rank=10&Refer=top) 492417
 1. [卡琳娜宣布暂停一切活动](https://s.weibo.com/weibo?q=%23%E5%8D%A1%E7%90%B3%E5%A8%9C%E5%AE%A3%E5%B8%83%E6%9A%82%E5%81%9C%E4%B8%80%E5%88%87%E6%B4%BB%E5%8A%A8%23&t=31&band_rank=11&Refer=top) 486831
 1. [白百何同款抓夹高马尾](https://s.weibo.com/weibo?q=%E7%99%BD%E7%99%BE%E4%BD%95%E5%90%8C%E6%AC%BE%E6%8A%93%E5%A4%B9%E9%AB%98%E9%A9%AC%E5%B0%BE&t=31&band_rank=12&Refer=top) 484339
 1. [华晨宇谈癌创作理念](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E8%B0%88%E7%99%8C%E5%88%9B%E4%BD%9C%E7%90%86%E5%BF%B5%23&t=31&band_rank=30&Refer=top) 479786
+1. [张桂梅祝教师朋友们节日快乐](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%A1%82%E6%A2%85%E7%A5%9D%E6%95%99%E5%B8%88%E6%9C%8B%E5%8F%8B%E4%BB%AC%E8%8A%82%E6%97%A5%E5%BF%AB%E4%B9%90%23&t=31&band_rank=14&Refer=top) 478543
 1. [邓稼先和奥本海默的对比](https://s.weibo.com/weibo?q=%E9%82%93%E7%A8%BC%E5%85%88%E5%92%8C%E5%A5%A5%E6%9C%AC%E6%B5%B7%E9%BB%98%E7%9A%84%E5%AF%B9%E6%AF%94&t=31&band_rank=19&Refer=top) 476068
 1. [妈妈第一次自己坐地铁女儿偷偷跟着](https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%87%AA%E5%B7%B1%E5%9D%90%E5%9C%B0%E9%93%81%E5%A5%B3%E5%84%BF%E5%81%B7%E5%81%B7%E8%B7%9F%E7%9D%80%23&t=31&band_rank=13&Refer=top) 473765
+1. [中国与阿根廷共话丝路情](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%B8%8E%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%85%B1%E8%AF%9D%E4%B8%9D%E8%B7%AF%E6%83%85%23&t=31&band_rank=46&Refer=top) 473330
 1. [白俄罗斯姑娘拯救了中国胃](https://s.weibo.com/weibo?q=%23%E7%99%BD%E4%BF%84%E7%BD%97%E6%96%AF%E5%A7%91%E5%A8%98%E6%8B%AF%E6%95%91%E4%BA%86%E4%B8%AD%E5%9B%BD%E8%83%83%23&t=31&band_rank=14&Refer=top) 473224
 1. [张桂梅不甘女孩们重复没选择的一生](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%A1%82%E6%A2%85%E4%B8%8D%E7%94%98%E5%A5%B3%E5%AD%A9%E4%BB%AC%E9%87%8D%E5%A4%8D%E6%B2%A1%E9%80%89%E6%8B%A9%E7%9A%84%E4%B8%80%E7%94%9F%23&t=31&band_rank=15&Refer=top) 468068
 1. [范丞丞自称比沈腾白敬亭文静一点](https://s.weibo.com/weibo?q=%E8%8C%83%E4%B8%9E%E4%B8%9E%E8%87%AA%E7%A7%B0%E6%AF%94%E6%B2%88%E8%85%BE%E7%99%BD%E6%95%AC%E4%BA%AD%E6%96%87%E9%9D%99%E4%B8%80%E7%82%B9&t=31&band_rank=23&Refer=top) 466861
@@ -60,10 +67,9 @@
 1. [云之羽宫二人设](https://s.weibo.com/weibo?q=%E4%BA%91%E4%B9%8B%E7%BE%BD%E5%AE%AB%E4%BA%8C%E4%BA%BA%E8%AE%BE&t=31&band_rank=10&Refer=top) 460489
 1. [你好星期六下期有三个剧组](https://s.weibo.com/weibo?q=%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%E4%B8%8B%E6%9C%9F%E6%9C%89%E4%B8%89%E4%B8%AA%E5%89%A7%E7%BB%84&t=31&band_rank=16&Refer=top) 454863
 1. [余华 to签](https://s.weibo.com/weibo?q=%E4%BD%99%E5%8D%8E%20to%E7%AD%BE&t=31&band_rank=17&Refer=top) 454777
-1. [张桂梅祝教师朋友们节日快乐](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%A1%82%E6%A2%85%E7%A5%9D%E6%95%99%E5%B8%88%E6%9C%8B%E5%8F%8B%E4%BB%AC%E8%8A%82%E6%97%A5%E5%BF%AB%E4%B9%90%23&t=31&band_rank=14&Refer=top) 428851
+1. [每个老师都有专属的两把刷子](https://s.weibo.com/weibo?q=%23%E6%AF%8F%E4%B8%AA%E8%80%81%E5%B8%88%E9%83%BD%E6%9C%89%E4%B8%93%E5%B1%9E%E7%9A%84%E4%B8%A4%E6%8A%8A%E5%88%B7%E5%AD%90%23&t=31&band_rank=15&Refer=top) 453918
 1. [小学老师扎根乡村为教育坚守30年](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E8%80%81%E5%B8%88%E6%89%8E%E6%A0%B9%E4%B9%A1%E6%9D%91%E4%B8%BA%E6%95%99%E8%82%B2%E5%9D%9A%E5%AE%8830%E5%B9%B4%23&t=31&band_rank=15&Refer=top) 426202
 1. [中级会计](https://s.weibo.com/weibo?q=%E4%B8%AD%E7%BA%A7%E4%BC%9A%E8%AE%A1&t=31&band_rank=8&Refer=top) 425871
-1. [李鸿其官宣与王紫璇恋情](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%B8%BF%E5%85%B6%E5%AE%98%E5%AE%A3%E4%B8%8E%E7%8E%8B%E7%B4%AB%E7%92%87%E6%81%8B%E6%83%85%23&t=31&band_rank=37&Refer=top) 424984
 1. [德国足协花1亿日元请日本比赛](https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%9B%BD%E8%B6%B3%E5%8D%8F%E8%8A%B11%E4%BA%BF%E6%97%A5%E5%85%83%E8%AF%B7%E6%97%A5%E6%9C%AC%E6%AF%94%E8%B5%9B%23&t=31&band_rank=19&Refer=top) 421497
 1. [BLACKPINK路人缘很好的成员](https://s.weibo.com/weibo?q=%23BLACKPINK%E8%B7%AF%E4%BA%BA%E7%BC%98%E5%BE%88%E5%A5%BD%E7%9A%84%E6%88%90%E5%91%98%23&t=31&band_rank=13&Refer=top) 419081
 1. [全嘻嘻 当一个农村女人决定出逃](https://s.weibo.com/weibo?q=%E5%85%A8%E5%98%BB%E5%98%BB%20%E5%BD%93%E4%B8%80%E4%B8%AA%E5%86%9C%E6%9D%91%E5%A5%B3%E4%BA%BA%E5%86%B3%E5%AE%9A%E5%87%BA%E9%80%83&t=31&band_rank=28&Refer=top) 417616
@@ -77,7 +83,6 @@
 1. [吴宣仪再跳101主题曲舞蹈](https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%AE%A3%E4%BB%AA%E5%86%8D%E8%B7%B3101%E4%B8%BB%E9%A2%98%E6%9B%B2%E8%88%9E%E8%B9%88%23&t=31&band_rank=43&Refer=top) 388499
 1. [马丽沈腾吃折耳根演我](https://s.weibo.com/weibo?q=%E9%A9%AC%E4%B8%BD%E6%B2%88%E8%85%BE%E5%90%83%E6%8A%98%E8%80%B3%E6%A0%B9%E6%BC%94%E6%88%91&t=31&band_rank=28&Refer=top) 388456
 1. [马斯克和女高管所生双胞胎曝光](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%92%8C%E5%A5%B3%E9%AB%98%E7%AE%A1%E6%89%80%E7%94%9F%E5%8F%8C%E8%83%9E%E8%83%8E%E6%9B%9D%E5%85%89%23&t=31&band_rank=18&Refer=top) 385242
-1. [中国与阿根廷共话丝路情](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%B8%8E%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%85%B1%E8%AF%9D%E4%B8%9D%E8%B7%AF%E6%83%85%23&t=31&band_rank=46&Refer=top) 384667
 1. [翻译一下乌尔善发过的照片](https://s.weibo.com/weibo?q=%E7%BF%BB%E8%AF%91%E4%B8%80%E4%B8%8B%E4%B9%8C%E5%B0%94%E5%96%84%E5%8F%91%E8%BF%87%E7%9A%84%E7%85%A7%E7%89%87&t=31&band_rank=33&Refer=top) 382711
 1. [抗美援朝老兵山区教书30多年](https://s.weibo.com/weibo?q=%23%E6%8A%97%E7%BE%8E%E6%8F%B4%E6%9C%9D%E8%80%81%E5%85%B5%E5%B1%B1%E5%8C%BA%E6%95%99%E4%B9%A630%E5%A4%9A%E5%B9%B4%23&t=31&band_rank=13&Refer=top) 381832
 1. [姬发真被殷寿吓哭了](https://s.weibo.com/weibo?q=%E5%A7%AC%E5%8F%91%E7%9C%9F%E8%A2%AB%E6%AE%B7%E5%AF%BF%E5%90%93%E5%93%AD%E4%BA%86&t=31&band_rank=33&Refer=top) 379204
@@ -94,6 +99,7 @@
 1. [微信三件套可以看出很多东西](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E4%B8%89%E4%BB%B6%E5%A5%97%E5%8F%AF%E4%BB%A5%E7%9C%8B%E5%87%BA%E5%BE%88%E5%A4%9A%E4%B8%9C%E8%A5%BF%23&t=31&band_rank=23&Refer=top) 345473
 1. [不玩手机的老人都在想什么](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E7%8E%A9%E6%89%8B%E6%9C%BA%E7%9A%84%E8%80%81%E4%BA%BA%E9%83%BD%E5%9C%A8%E6%83%B3%E4%BB%80%E4%B9%88%23&t=31&band_rank=34&Refer=top) 341925
 1. [TFBOYS为王源新综艺宣传](https://s.weibo.com/weibo?q=%23TFBOYS%E4%B8%BA%E7%8E%8B%E6%BA%90%E6%96%B0%E7%BB%BC%E8%89%BA%E5%AE%A3%E4%BC%A0%23&t=31&band_rank=24&Refer=top) 341279
+1. [这8分钟好像过了十几年](https://s.weibo.com/weibo?q=%23%E8%BF%998%E5%88%86%E9%92%9F%E5%A5%BD%E5%83%8F%E8%BF%87%E4%BA%86%E5%8D%81%E5%87%A0%E5%B9%B4%23&t=31&band_rank=30&Refer=top) 340361
 1. [八旬院士被中学老师一句话问住](https://s.weibo.com/weibo?q=%23%E5%85%AB%E6%97%AC%E9%99%A2%E5%A3%AB%E8%A2%AB%E4%B8%AD%E5%AD%A6%E8%80%81%E5%B8%88%E4%B8%80%E5%8F%A5%E8%AF%9D%E9%97%AE%E4%BD%8F%23&t=31&band_rank=16&Refer=top) 339482
 1. [骄阳伴我这个烟灰缸全剧最佳道具](https://s.weibo.com/weibo?q=%E9%AA%84%E9%98%B3%E4%BC%B4%E6%88%91%E8%BF%99%E4%B8%AA%E7%83%9F%E7%81%B0%E7%BC%B8%E5%85%A8%E5%89%A7%E6%9C%80%E4%BD%B3%E9%81%93%E5%85%B7&t=31&band_rank=29&Refer=top) 339086
 1. [三年租房花费了十五万](https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%B9%B4%E7%A7%9F%E6%88%BF%E8%8A%B1%E8%B4%B9%E4%BA%86%E5%8D%81%E4%BA%94%E4%B8%87%23&t=31&band_rank=25&Refer=top) 336956
@@ -105,17 +111,15 @@
 1. [任正非2019年称两三年后可再看华为在不在](https://s.weibo.com/weibo?q=%23%E4%BB%BB%E6%AD%A3%E9%9D%9E2019%E5%B9%B4%E7%A7%B0%E4%B8%A4%E4%B8%89%E5%B9%B4%E5%90%8E%E5%8F%AF%E5%86%8D%E7%9C%8B%E5%8D%8E%E4%B8%BA%E5%9C%A8%E4%B8%8D%E5%9C%A8%23&t=31&band_rank=37&Refer=top) 297640
 1. [张凌赫雨中追星成功](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E9%9B%A8%E4%B8%AD%E8%BF%BD%E6%98%9F%E6%88%90%E5%8A%9F%23&t=31&band_rank=27&Refer=top) 297611
 1. [为什么国庆有那么多人结婚](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%9B%BD%E5%BA%86%E6%9C%89%E9%82%A3%E4%B9%88%E5%A4%9A%E4%BA%BA%E7%BB%93%E5%A9%9A%23&t=31&band_rank=23&Refer=top) 290563
+1. [陈梦王曼昱3比0孙颖莎王艺迪](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A2%A6%E7%8E%8B%E6%9B%BC%E6%98%B13%E6%AF%940%E5%AD%99%E9%A2%96%E8%8E%8E%E7%8E%8B%E8%89%BA%E8%BF%AA%23&t=31&band_rank=31&Refer=top) 285877
 1. [异人之下周深别唱了](https://s.weibo.com/weibo?q=%23%E5%BC%82%E4%BA%BA%E4%B9%8B%E4%B8%8B%E5%91%A8%E6%B7%B1%E5%88%AB%E5%94%B1%E4%BA%86%23&t=31&band_rank=18&Refer=top) 284838
-1. [每个老师都有专属的两把刷子](https://s.weibo.com/weibo?q=%23%E6%AF%8F%E4%B8%AA%E8%80%81%E5%B8%88%E9%83%BD%E6%9C%89%E4%B8%93%E5%B1%9E%E7%9A%84%E4%B8%A4%E6%8A%8A%E5%88%B7%E5%AD%90%23&t=31&band_rank=15&Refer=top) 282948
 1. [学姐给我留了个平板支架](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E5%A7%90%E7%BB%99%E6%88%91%E7%95%99%E4%BA%86%E4%B8%AA%E5%B9%B3%E6%9D%BF%E6%94%AF%E6%9E%B6%23&t=31&band_rank=22&Refer=top) 280224
-1. [怕新生吃不饱老师站着陪吃饭](https://s.weibo.com/weibo?q=%23%E6%80%95%E6%96%B0%E7%94%9F%E5%90%83%E4%B8%8D%E9%A5%B1%E8%80%81%E5%B8%88%E7%AB%99%E7%9D%80%E9%99%AA%E5%90%83%E9%A5%AD%23&t=31&band_rank=25&Refer=top) 279202
-1. [陈梦王曼昱3比0孙颖莎王艺迪](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A2%A6%E7%8E%8B%E6%9B%BC%E6%98%B13%E6%AF%940%E5%AD%99%E9%A2%96%E8%8E%8E%E7%8E%8B%E8%89%BA%E8%BF%AA%23&t=31&band_rank=31&Refer=top) 278299
+1. [襄阳文旅回应游客看表演遭区别对待](https://s.weibo.com/weibo?q=%23%E8%A5%84%E9%98%B3%E6%96%87%E6%97%85%E5%9B%9E%E5%BA%94%E6%B8%B8%E5%AE%A2%E7%9C%8B%E8%A1%A8%E6%BC%94%E9%81%AD%E5%8C%BA%E5%88%AB%E5%AF%B9%E5%BE%85%23&t=31&band_rank=37&Refer=top) 277302
 1. [虞书欣卢昱晓台前幕后花絮](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%8D%A2%E6%98%B1%E6%99%93%E5%8F%B0%E5%89%8D%E5%B9%95%E5%90%8E%E8%8A%B1%E7%B5%AE%23&t=31&band_rank=20&Refer=top) 276801
 1. [两只黄鹂鸣翠柳 一块布上五条狗](https://s.weibo.com/weibo?q=%E4%B8%A4%E5%8F%AA%E9%BB%84%E9%B9%82%E9%B8%A3%E7%BF%A0%E6%9F%B3%20%E4%B8%80%E5%9D%97%E5%B8%83%E4%B8%8A%E4%BA%94%E6%9D%A1%E7%8B%97&t=31&band_rank=44&Refer=top) 275598
 1. [已瘦30斤宅家早餐吃什么](https://s.weibo.com/weibo?q=%E5%B7%B2%E7%98%A630%E6%96%A4%E5%AE%85%E5%AE%B6%E6%97%A9%E9%A4%90%E5%90%83%E4%BB%80%E4%B9%88&t=31&band_rank=31&Refer=top) 275093
 1. [鞠婧祎半肩毛衣](https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E5%8D%8A%E8%82%A9%E6%AF%9B%E8%A1%A3%23&t=31&band_rank=38&Refer=top) 274703
 1. [檀健次抖包袱](https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E6%8A%96%E5%8C%85%E8%A2%B1%23&t=31&band_rank=26&Refer=top) 270558
-1. [这8分钟好像过了十几年](https://s.weibo.com/weibo?q=%23%E8%BF%998%E5%88%86%E9%92%9F%E5%A5%BD%E5%83%8F%E8%BF%87%E4%BA%86%E5%8D%81%E5%87%A0%E5%B9%B4%23&t=31&band_rank=30&Refer=top) 266722
 1. [白鹿北上杀青](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E5%8C%97%E4%B8%8A%E6%9D%80%E9%9D%92%23&t=31&band_rank=25&Refer=top) 264951
 1. [马龙晋级亚锦赛决赛](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99%E6%99%8B%E7%BA%A7%E4%BA%9A%E9%94%A6%E8%B5%9B%E5%86%B3%E8%B5%9B%23&t=31&band_rank=23&Refer=top) 263744
 1. [原来真有猫咪是被气胖的](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E7%9C%9F%E6%9C%89%E7%8C%AB%E5%92%AA%E6%98%AF%E8%A2%AB%E6%B0%94%E8%83%96%E7%9A%84%23&t=31&band_rank=32&Refer=top) 257001
@@ -128,6 +132,7 @@
 1. [女子胸前腰部绑藏15条活体蛇入境](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%83%B8%E5%89%8D%E8%85%B0%E9%83%A8%E7%BB%91%E8%97%8F15%E6%9D%A1%E6%B4%BB%E4%BD%93%E8%9B%87%E5%85%A5%E5%A2%83%23&t=31&band_rank=33&Refer=top) 233040
 1. [1所学校1个老师6名学生](https://s.weibo.com/weibo?q=%231%E6%89%80%E5%AD%A6%E6%A0%A11%E4%B8%AA%E8%80%81%E5%B8%886%E5%90%8D%E5%AD%A6%E7%94%9F%23&t=31&band_rank=46&Refer=top) 232032
 1. [韩国人对考试的吐槽](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E4%BA%BA%E5%AF%B9%E8%80%83%E8%AF%95%E7%9A%84%E5%90%90%E6%A7%BD&t=31&band_rank=37&Refer=top) 229844
+1. [谷江山 终于现场听到了活死人](https://s.weibo.com/weibo?q=%E8%B0%B7%E6%B1%9F%E5%B1%B1%20%E7%BB%88%E4%BA%8E%E7%8E%B0%E5%9C%BA%E5%90%AC%E5%88%B0%E4%BA%86%E6%B4%BB%E6%AD%BB%E4%BA%BA&t=31&band_rank=27&Refer=top) 227343
 1. [原来一天可以做这么多事情](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E4%B8%80%E5%A4%A9%E5%8F%AF%E4%BB%A5%E5%81%9A%E8%BF%99%E4%B9%88%E5%A4%9A%E4%BA%8B%E6%83%85&t=31&band_rank=50&Refer=top) 226672
 1. [梁洁郭俊辰新剧杀青](https://s.weibo.com/weibo?q=%23%E6%A2%81%E6%B4%81%E9%83%AD%E4%BF%8A%E8%BE%B0%E6%96%B0%E5%89%A7%E6%9D%80%E9%9D%92%23&t=31&band_rank=29&Refer=top) 226441
 1. [猛男粉无畏](https://s.weibo.com/weibo?q=%23%E7%8C%9B%E7%94%B7%E7%B2%89%E6%97%A0%E7%95%8F%23&t=31&band_rank=29&Refer=top) 225317
@@ -135,19 +140,22 @@
 1. [网易云 教师节](https://s.weibo.com/weibo?q=%E7%BD%91%E6%98%93%E4%BA%91%20%E6%95%99%E5%B8%88%E8%8A%82&t=31&band_rank=31&Refer=top) 223236
 1. [2023KPL夏季赛总决赛](https://s.weibo.com/weibo?q=%232023KPL%E5%A4%8F%E5%AD%A3%E8%B5%9B%E6%80%BB%E5%86%B3%E8%B5%9B%23&t=31&band_rank=39&Refer=top) 218347
 1. [00后民警送80后师父不锈钢锦旗被围观](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E6%B0%91%E8%AD%A6%E9%80%8180%E5%90%8E%E5%B8%88%E7%88%B6%E4%B8%8D%E9%94%88%E9%92%A2%E9%94%A6%E6%97%97%E8%A2%AB%E5%9B%B4%E8%A7%82%23&t=31&band_rank=38&Refer=top) 216624
+1. [黑执事新作预告](https://s.weibo.com/weibo?q=%23%E9%BB%91%E6%89%A7%E4%BA%8B%E6%96%B0%E4%BD%9C%E9%A2%84%E5%91%8A%23&t=31&band_rank=26&Refer=top) 216109
 1. [于适黄曦彦hi6镜头](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E9%80%82%E9%BB%84%E6%9B%A6%E5%BD%A6hi6%E9%95%9C%E5%A4%B4%23&t=31&band_rank=34&Refer=top) 211677
 1. [KPL夏决首发名单](https://s.weibo.com/weibo?q=%23KPL%E5%A4%8F%E5%86%B3%E9%A6%96%E5%8F%91%E5%90%8D%E5%8D%95%23&t=31&band_rank=33&Refer=top) 211208
 1. [云之羽角浅徵开虐](https://s.weibo.com/weibo?q=%23%E4%BA%91%E4%B9%8B%E7%BE%BD%E8%A7%92%E6%B5%85%E5%BE%B5%E5%BC%80%E8%99%90%23&t=31&band_rank=35&Refer=top) 208762
 1. [时空中的绘旅人](https://s.weibo.com/weibo?q=%23%E6%97%B6%E7%A9%BA%E4%B8%AD%E7%9A%84%E7%BB%98%E6%97%85%E4%BA%BA%23&t=31&band_rank=30&Refer=top) 206731
 1. [周杰伦演唱会](https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=27&Refer=top) 205531
-1. [黑执事新作预告](https://s.weibo.com/weibo?q=%23%E9%BB%91%E6%89%A7%E4%BA%8B%E6%96%B0%E4%BD%9C%E9%A2%84%E5%91%8A%23&t=31&band_rank=26&Refer=top) 205376
 1. [邓紫棋现在可以笑着唱句号了](https://s.weibo.com/weibo?q=%23%E9%82%93%E7%B4%AB%E6%A3%8B%E7%8E%B0%E5%9C%A8%E5%8F%AF%E4%BB%A5%E7%AC%91%E7%9D%80%E5%94%B1%E5%8F%A5%E5%8F%B7%E4%BA%86%23&t=31&band_rank=36&Refer=top) 205062
 1. [本以为是贺卡掏出来的却是鸡爪](https://s.weibo.com/weibo?q=%23%E6%9C%AC%E4%BB%A5%E4%B8%BA%E6%98%AF%E8%B4%BA%E5%8D%A1%E6%8E%8F%E5%87%BA%E6%9D%A5%E7%9A%84%E5%8D%B4%E6%98%AF%E9%B8%A1%E7%88%AA%23&t=31&band_rank=41&Refer=top) 204180
 1. [马思纯现身李荣浩演唱会](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%80%9D%E7%BA%AF%E7%8E%B0%E8%BA%AB%E6%9D%8E%E8%8D%A3%E6%B5%A9%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=30&Refer=top) 204143
 1. [异人之下喝着奶茶打着架](https://s.weibo.com/weibo?q=%23%E5%BC%82%E4%BA%BA%E4%B9%8B%E4%B8%8B%E5%96%9D%E7%9D%80%E5%A5%B6%E8%8C%B6%E6%89%93%E7%9D%80%E6%9E%B6%23&t=31&band_rank=44&Refer=top) 203886
 1. [舒淇威尼斯闭幕红毯造型](https://s.weibo.com/weibo?q=%23%E8%88%92%E6%B7%87%E5%A8%81%E5%B0%BC%E6%96%AF%E9%97%AD%E5%B9%95%E7%BA%A2%E6%AF%AF%E9%80%A0%E5%9E%8B%23&t=31&band_rank=29&Refer=top) 202741
 1. [大型犬撒起娇来都是地震级别的](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%9E%8B%E7%8A%AC%E6%92%92%E8%B5%B7%E5%A8%87%E6%9D%A5%E9%83%BD%E6%98%AF%E5%9C%B0%E9%9C%87%E7%BA%A7%E5%88%AB%E7%9A%84&t=31&band_rank=35&Refer=top) 202684
+1. [王曼昱亚锦赛三冠王](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B1%E4%BA%9A%E9%94%A6%E8%B5%9B%E4%B8%89%E5%86%A0%E7%8E%8B%23&t=31&band_rank=30&Refer=top) 202528
 1. [害怕冻掉耳朵的牛牛们](https://s.weibo.com/weibo?q=%23%E5%AE%B3%E6%80%95%E5%86%BB%E6%8E%89%E8%80%B3%E6%9C%B5%E7%9A%84%E7%89%9B%E7%89%9B%E4%BB%AC%23&t=31&band_rank=31&Refer=top) 202482
+1. [塞尔达 你的下一艘船何必只是船](https://s.weibo.com/weibo?q=%E5%A1%9E%E5%B0%94%E8%BE%BE%20%E4%BD%A0%E7%9A%84%E4%B8%8B%E4%B8%80%E8%89%98%E8%88%B9%E4%BD%95%E5%BF%85%E5%8F%AA%E6%98%AF%E8%88%B9&t=31&band_rank=40&Refer=top) 202456
+1. [11岁男孩在叔叔的婚礼上放大招](https://s.weibo.com/weibo?q=11%E5%B2%81%E7%94%B7%E5%AD%A9%E5%9C%A8%E5%8F%94%E5%8F%94%E7%9A%84%E5%A9%9A%E7%A4%BC%E4%B8%8A%E6%94%BE%E5%A4%A7%E6%8B%9B&t=31&band_rank=32&Refer=top) 202363
 1. [不虚此行胡歌是导演的小尹](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%99%9A%E6%AD%A4%E8%A1%8C%E8%83%A1%E6%AD%8C%E6%98%AF%E5%AF%BC%E6%BC%94%E7%9A%84%E5%B0%8F%E5%B0%B9%23&t=31&band_rank=50&Refer=top) 201958
 1. [骄阳伴我重庆拍摄地打卡](https://s.weibo.com/weibo?q=%E9%AA%84%E9%98%B3%E4%BC%B4%E6%88%91%E9%87%8D%E5%BA%86%E6%8B%8D%E6%91%84%E5%9C%B0%E6%89%93%E5%8D%A1&t=31&band_rank=30&Refer=top) 201916
 1. [高龄产妇4次剖宫产生下第4胎](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%BE%84%E4%BA%A7%E5%A6%874%E6%AC%A1%E5%89%96%E5%AE%AB%E4%BA%A7%E7%94%9F%E4%B8%8B%E7%AC%AC4%E8%83%8E%23&t=31&band_rank=28&Refer=top) 200415
@@ -169,6 +177,7 @@
 1. [已婚男嫖娼法院以珍惜亲情为由不准离婚](https://s.weibo.com/weibo?q=%23%E5%B7%B2%E5%A9%9A%E7%94%B7%E5%AB%96%E5%A8%BC%E6%B3%95%E9%99%A2%E4%BB%A5%E7%8F%8D%E6%83%9C%E4%BA%B2%E6%83%85%E4%B8%BA%E7%94%B1%E4%B8%8D%E5%87%86%E7%A6%BB%E5%A9%9A%23&t=31&band_rank=43&Refer=top) 189288
 1. [樊振东晋级亚锦赛决赛](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%99%8B%E7%BA%A7%E4%BA%9A%E9%94%A6%E8%B5%9B%E5%86%B3%E8%B5%9B%23&t=31&band_rank=36&Refer=top) 187875
 1. [马龙3比0林昀儒](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%993%E6%AF%940%E6%9E%97%E6%98%80%E5%84%92%23&t=31&band_rank=36&Refer=top) 187071
+1. [80后泸州女子一年卖4000万斤萝卜](https://s.weibo.com/weibo?q=%2380%E5%90%8E%E6%B3%B8%E5%B7%9E%E5%A5%B3%E5%AD%90%E4%B8%80%E5%B9%B4%E5%8D%964000%E4%B8%87%E6%96%A4%E8%90%9D%E5%8D%9C%23&t=31&band_rank=36&Refer=top) 186597
 1. [肖战田雨20集终于见面了](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%94%B0%E9%9B%A820%E9%9B%86%E7%BB%88%E4%BA%8E%E8%A7%81%E9%9D%A2%E4%BA%86%23&t=31&band_rank=41&Refer=top) 185218
 1. [余华老师写的暴富](https://s.weibo.com/weibo?q=%E4%BD%99%E5%8D%8E%E8%80%81%E5%B8%88%E5%86%99%E7%9A%84%E6%9A%B4%E5%AF%8C&t=31&band_rank=42&Refer=top) 184835
 1. [国乒包揽亚锦赛女双冠亚军](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E5%8C%85%E6%8F%BD%E4%BA%9A%E9%94%A6%E8%B5%9B%E5%A5%B3%E5%8F%8C%E5%86%A0%E4%BA%9A%E5%86%9B%23&t=31&band_rank=34&Refer=top) 183953
@@ -180,20 +189,21 @@
 1. [摩洛哥](https://s.weibo.com/weibo?q=%E6%91%A9%E6%B4%9B%E5%93%A5&t=31&band_rank=40&Refer=top) 173454
 1. [斯特里克兰爆冷击败阿迪萨亚](https://s.weibo.com/weibo?q=%23%E6%96%AF%E7%89%B9%E9%87%8C%E5%85%8B%E5%85%B0%E7%88%86%E5%86%B7%E5%87%BB%E8%B4%A5%E9%98%BF%E8%BF%AA%E8%90%A8%E4%BA%9A%23&t=31&band_rank=49&Refer=top) 171267
 1. [花花好好休息](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%8A%B1%E5%A5%BD%E5%A5%BD%E4%BC%91%E6%81%AF%23&t=31&band_rank=38&Refer=top) 169937
+1. [凡晨组合夺中国赛第3冠](https://s.weibo.com/weibo?q=%23%E5%87%A1%E6%99%A8%E7%BB%84%E5%90%88%E5%A4%BA%E4%B8%AD%E5%9B%BD%E8%B5%9B%E7%AC%AC3%E5%86%A0%23&t=31&band_rank=39&Refer=top) 168332
 1. [世界上最痛苦的两件事 有工作和没工作](https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%80%E7%97%9B%E8%8B%A6%E7%9A%84%E4%B8%A4%E4%BB%B6%E4%BA%8B%20%E6%9C%89%E5%B7%A5%E4%BD%9C%E5%92%8C%E6%B2%A1%E5%B7%A5%E4%BD%9C&t=31&band_rank=35&Refer=top) 168126
 1. [学生不订奶要开县级医院以上诊断证明](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E4%B8%8D%E8%AE%A2%E5%A5%B6%E8%A6%81%E5%BC%80%E5%8E%BF%E7%BA%A7%E5%8C%BB%E9%99%A2%E4%BB%A5%E4%B8%8A%E8%AF%8A%E6%96%AD%E8%AF%81%E6%98%8E%23&t=31&band_rank=45&Refer=top) 167574
 1. [2PM演唱会](https://s.weibo.com/weibo?q=%232PM%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=46&Refer=top) 165445
 1. [你觉得老师这个职业轻松吗](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%A7%89%E5%BE%97%E8%80%81%E5%B8%88%E8%BF%99%E4%B8%AA%E8%81%8C%E4%B8%9A%E8%BD%BB%E6%9D%BE%E5%90%97%23&t=31&band_rank=47&Refer=top) 164843
-1. [襄阳文旅回应游客看表演遭区别对待](https://s.weibo.com/weibo?q=%23%E8%A5%84%E9%98%B3%E6%96%87%E6%97%85%E5%9B%9E%E5%BA%94%E6%B8%B8%E5%AE%A2%E7%9C%8B%E8%A1%A8%E6%BC%94%E9%81%AD%E5%8C%BA%E5%88%AB%E5%AF%B9%E5%BE%85%23&t=31&band_rank=37&Refer=top) 163422
+1. [大学老师害怕打针12年献血4万毫升](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E8%80%81%E5%B8%88%E5%AE%B3%E6%80%95%E6%89%93%E9%92%8812%E5%B9%B4%E7%8C%AE%E8%A1%804%E4%B8%87%E6%AF%AB%E5%8D%87%23&t=31&band_rank=41&Refer=top) 162697
 1. [胡歌给女儿起名茉莉的原因](https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E7%BB%99%E5%A5%B3%E5%84%BF%E8%B5%B7%E5%90%8D%E8%8C%89%E8%8E%89%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=47&Refer=top) 161715
 1. [UFC293](https://s.weibo.com/weibo?q=%23UFC293%23&t=31&band_rank=38&Refer=top) 159533
 1. [其实健康活着比什么都重要](https://s.weibo.com/weibo?q=%E5%85%B6%E5%AE%9E%E5%81%A5%E5%BA%B7%E6%B4%BB%E7%9D%80%E6%AF%94%E4%BB%80%E4%B9%88%E9%83%BD%E9%87%8D%E8%A6%81&t=31&band_rank=44&Refer=top) 156940
 1. [华晨宇演唱会北京鸟巢歌单](https://s.weibo.com/weibo?q=%E5%8D%8E%E6%99%A8%E5%AE%87%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8C%97%E4%BA%AC%E9%B8%9F%E5%B7%A2%E6%AD%8C%E5%8D%95&t=31&band_rank=35&Refer=top) 156128
 1. [吉克隽逸私服审美](https://s.weibo.com/weibo?q=%23%E5%90%89%E5%85%8B%E9%9A%BD%E9%80%B8%E7%A7%81%E6%9C%8D%E5%AE%A1%E7%BE%8E%23&t=31&band_rank=37&Refer=top) 156074
-1. [塞尔达 你的下一艘船何必只是船](https://s.weibo.com/weibo?q=%E5%A1%9E%E5%B0%94%E8%BE%BE%20%E4%BD%A0%E7%9A%84%E4%B8%8B%E4%B8%80%E8%89%98%E8%88%B9%E4%BD%95%E5%BF%85%E5%8F%AA%E6%98%AF%E8%88%B9&t=31&band_rank=40&Refer=top) 151442
 1. [男生军训跳长绸舞引哇声一片](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E5%86%9B%E8%AE%AD%E8%B7%B3%E9%95%BF%E7%BB%B8%E8%88%9E%E5%BC%95%E5%93%87%E5%A3%B0%E4%B8%80%E7%89%87%23&t=31&band_rank=46&Refer=top) 148673
 1. [49岁残疾老师背学生过河上学23年](https://s.weibo.com/weibo?q=%2349%E5%B2%81%E6%AE%8B%E7%96%BE%E8%80%81%E5%B8%88%E8%83%8C%E5%AD%A6%E7%94%9F%E8%BF%87%E6%B2%B3%E4%B8%8A%E5%AD%A623%E5%B9%B4%23&t=31&band_rank=47&Refer=top) 147008
 1. [没票看五月天的方式可以多浪漫](https://s.weibo.com/weibo?q=%23%E6%B2%A1%E7%A5%A8%E7%9C%8B%E4%BA%94%E6%9C%88%E5%A4%A9%E7%9A%84%E6%96%B9%E5%BC%8F%E5%8F%AF%E4%BB%A5%E5%A4%9A%E6%B5%AA%E6%BC%AB%23&t=31&band_rank=48&Refer=top) 146223
+1. [他自己淋过雨所以想为孩子们撑一把伞](https://s.weibo.com/weibo?q=%23%E4%BB%96%E8%87%AA%E5%B7%B1%E6%B7%8B%E8%BF%87%E9%9B%A8%E6%89%80%E4%BB%A5%E6%83%B3%E4%B8%BA%E5%AD%A9%E5%AD%90%E4%BB%AC%E6%92%91%E4%B8%80%E6%8A%8A%E4%BC%9E%23&t=31&band_rank=45&Refer=top) 145415
 1. [安阳震感](https://s.weibo.com/weibo?q=%E5%AE%89%E9%98%B3%E9%9C%87%E6%84%9F&t=31&band_rank=43&Refer=top) 145307
 1. [宁波一学校老师收到学生的定制款奖状](https://s.weibo.com/weibo?q=%23%E5%AE%81%E6%B3%A2%E4%B8%80%E5%AD%A6%E6%A0%A1%E8%80%81%E5%B8%88%E6%94%B6%E5%88%B0%E5%AD%A6%E7%94%9F%E7%9A%84%E5%AE%9A%E5%88%B6%E6%AC%BE%E5%A5%96%E7%8A%B6%23&t=31&band_rank=45&Refer=top) 144617
 1. [电影沙海之门杀青](https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E6%B2%99%E6%B5%B7%E4%B9%8B%E9%97%A8%E6%9D%80%E9%9D%92%23&t=31&band_rank=48&Refer=top) 143529
