@@ -7,9 +7,9 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-09-11 01:34:03.142623 
+最后更新时间 2023-09-11 01:48:48.181513 
 1. [胡歌 我们也需要票房](https://s.weibo.com/weibo?q=%E8%83%A1%E6%AD%8C%20%E6%88%91%E4%BB%AC%E4%B9%9F%E9%9C%80%E8%A6%81%E7%A5%A8%E6%88%BF&t=31&band_rank=1&Refer=top) 2103150
-1. [国货难带和尊重消费者是两码事](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B4%A7%E9%9A%BE%E5%B8%A6%E5%92%8C%E5%B0%8A%E9%87%8D%E6%B6%88%E8%B4%B9%E8%80%85%E6%98%AF%E4%B8%A4%E7%A0%81%E4%BA%8B%23&t=31&band_rank=21&Refer=top) 978753
+1. [国货难带和尊重消费者是两码事](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B4%A7%E9%9A%BE%E5%B8%A6%E5%92%8C%E5%B0%8A%E9%87%8D%E6%B6%88%E8%B4%B9%E8%80%85%E6%98%AF%E4%B8%A4%E7%A0%81%E4%BA%8B%23&t=31&band_rank=21&Refer=top) 1028066
 1. [薛之谦成都39度高烧依旧开唱](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%88%90%E9%83%BD39%E5%BA%A6%E9%AB%98%E7%83%A7%E4%BE%9D%E6%97%A7%E5%BC%80%E5%94%B1%23&t=31&band_rank=2&Refer=top) 869239
 1. [亚运会场馆水幔设计既典雅又实用](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%9C%BA%E9%A6%86%E6%B0%B4%E5%B9%94%E8%AE%BE%E8%AE%A1%E6%97%A2%E5%85%B8%E9%9B%85%E5%8F%88%E5%AE%9E%E7%94%A8%23&t=31&band_rank=3&Refer=top) 808727
 1. [杨紫说长相思第二季比第一季更虐](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E8%AF%B4%E9%95%BF%E7%9B%B8%E6%80%9D%E7%AC%AC%E4%BA%8C%E5%AD%A3%E6%AF%94%E7%AC%AC%E4%B8%80%E5%AD%A3%E6%9B%B4%E8%99%90%23&t=31&band_rank=4&Refer=top) 751819
@@ -69,8 +69,9 @@
 1. [冰尘抓不住的金色雨](https://s.weibo.com/weibo?q=%E5%86%B0%E5%B0%98%E6%8A%93%E4%B8%8D%E4%BD%8F%E7%9A%84%E9%87%91%E8%89%B2%E9%9B%A8&t=31&band_rank=46&Refer=top) 138632
 1. [肖战相信能通过努力证明自己的价值](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%9B%B8%E4%BF%A1%E8%83%BD%E9%80%9A%E8%BF%87%E5%8A%AA%E5%8A%9B%E8%AF%81%E6%98%8E%E8%87%AA%E5%B7%B1%E7%9A%84%E4%BB%B7%E5%80%BC%23&t=31&band_rank=47&Refer=top) 123516
 1. [真正男子汉时期的杨幂](https://s.weibo.com/weibo?q=%E7%9C%9F%E6%AD%A3%E7%94%B7%E5%AD%90%E6%B1%89%E6%97%B6%E6%9C%9F%E7%9A%84%E6%9D%A8%E5%B9%82&t=31&band_rank=50&Refer=top) 118239
-1. [17岁的日记救20岁的我一命](https://s.weibo.com/weibo?q=%2317%E5%B2%81%E7%9A%84%E6%97%A5%E8%AE%B0%E6%95%9120%E5%B2%81%E7%9A%84%E6%88%91%E4%B8%80%E5%91%BD%23&t=31&band_rank=42&Refer=top) 73083
+1. [17岁的日记救20岁的我一命](https://s.weibo.com/weibo?q=%2317%E5%B2%81%E7%9A%84%E6%97%A5%E8%AE%B0%E6%95%9120%E5%B2%81%E7%9A%84%E6%88%91%E4%B8%80%E5%91%BD%23&t=31&band_rank=42&Refer=top) 78047
 1. [警号253689请回答](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E5%8F%B7253689%E8%AF%B7%E5%9B%9E%E7%AD%94%23&t=31&band_rank=50&Refer=top) 65231
+1. [任贤齐五月天合唱我出去一下](https://s.weibo.com/weibo?q=%E4%BB%BB%E8%B4%A4%E9%BD%90%E4%BA%94%E6%9C%88%E5%A4%A9%E5%90%88%E5%94%B1%E6%88%91%E5%87%BA%E5%8E%BB%E4%B8%80%E4%B8%8B&t=31&band_rank=39&Refer=top) 64843
 <!-- END -->
 
 历史归档 [./archives](./archives)
