@@ -127,6 +127,10 @@
     "url": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E4%B8%8A%E6%B5%B7&t=31&band_rank=25&Refer=top",
     "hot": 278572
   },
+  "OG": {
+    "url": "https://s.weibo.com/weibo?q=OG&t=31&band_rank=9&Refer=top",
+    "hot": 268393
+  },
   "Fly说重新来过": {
     "url": "https://s.weibo.com/weibo?q=%23Fly%E8%AF%B4%E9%87%8D%E6%96%B0%E6%9D%A5%E8%BF%87%23&t=31&band_rank=28&Refer=top",
     "hot": 268281
@@ -245,7 +249,7 @@
   },
   "警号253689请回答": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%AD%A6%E5%8F%B7253689%E8%AF%B7%E5%9B%9E%E7%AD%94%23&t=31&band_rank=50&Refer=top",
-    "hot": 91641
+    "hot": 97477
   },
   "17岁的日记救20岁的我一命": {
     "url": "https://s.weibo.com/weibo?q=%2317%E5%B2%81%E7%9A%84%E6%97%A5%E8%AE%B0%E6%95%9120%E5%B2%81%E7%9A%84%E6%88%91%E4%B8%80%E5%91%BD%23&t=31&band_rank=42&Refer=top",
@@ -255,32 +259,28 @@
     "url": "https://s.weibo.com/weibo?q=%E4%BB%BB%E8%B4%A4%E9%BD%90%E4%BA%94%E6%9C%88%E5%A4%A9%E5%90%88%E5%94%B1%E6%88%91%E5%87%BA%E5%8E%BB%E4%B8%80%E4%B8%8B&t=31&band_rank=39&Refer=top",
     "hot": 67040
   },
-  "OG": {
-    "url": "https://s.weibo.com/weibo?q=OG&t=31&band_rank=9&Refer=top",
-    "hot": 65517
-  },
   "真的在体面里听到了体面": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%9C%9F%E7%9A%84%E5%9C%A8%E4%BD%93%E9%9D%A2%E9%87%8C%E5%90%AC%E5%88%B0%E4%BA%86%E4%BD%93%E9%9D%A2%23&t=31&band_rank=19&Refer=top",
     "hot": 46303
   },
+  "杭州亚运火炬传递主题歌燃": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E7%81%AB%E7%82%AC%E4%BC%A0%E9%80%92%E4%B8%BB%E9%A2%98%E6%AD%8C%E7%87%83%23&t=31&band_rank=25&Refer=top",
+    "hot": 45061
+  },
   "性格内向的人看起来会更显小": {
     "url": "https://s.weibo.com/weibo?q=%E6%80%A7%E6%A0%BC%E5%86%85%E5%90%91%E7%9A%84%E4%BA%BA%E7%9C%8B%E8%B5%B7%E6%9D%A5%E4%BC%9A%E6%9B%B4%E6%98%BE%E5%B0%8F&t=31&band_rank=24&Refer=top",
-    "hot": 41143
+    "hot": 44482
   },
   "沙特大臣称我是厦大毕业的不用翻译": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%B2%99%E7%89%B9%E5%A4%A7%E8%87%A3%E7%A7%B0%E6%88%91%E6%98%AF%E5%8E%A6%E5%A4%A7%E6%AF%95%E4%B8%9A%E7%9A%84%E4%B8%8D%E7%94%A8%E7%BF%BB%E8%AF%91%23&t=31&band_rank=31&Refer=top",
     "hot": 40658
   },
-  "杭州亚运火炬传递主题歌燃": {
-    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E7%81%AB%E7%82%AC%E4%BC%A0%E9%80%92%E4%B8%BB%E9%A2%98%E6%AD%8C%E7%87%83%23&t=31&band_rank=25&Refer=top",
-    "hot": 39894
+  "白桃星座": {
+    "url": "https://s.weibo.com/weibo?q=%E7%99%BD%E6%A1%83%E6%98%9F%E5%BA%A7&t=31&band_rank=34&Refer=top",
+    "hot": 32147
   },
   "华晨宇演唱会": {
     "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E6%99%A8%E5%AE%87%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=43&Refer=top",
-    "hot": 31271
-  },
-  "白桃星座": {
-    "url": "https://s.weibo.com/weibo?q=%E7%99%BD%E6%A1%83%E6%98%9F%E5%BA%A7&t=31&band_rank=34&Refer=top",
-    "hot": 30915
+    "hot": 31793
   }
 }
