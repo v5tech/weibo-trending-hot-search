@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-09-11 05:34:00.251621 
+最后更新时间 2023-09-11 05:48:51.631370 
 1. [胡歌 我们也需要票房](https://s.weibo.com/weibo?q=%E8%83%A1%E6%AD%8C%20%E6%88%91%E4%BB%AC%E4%B9%9F%E9%9C%80%E8%A6%81%E7%A5%A8%E6%88%BF&t=31&band_rank=1&Refer=top) 2103150
 1. [国货难带和尊重消费者是两码事](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B4%A7%E9%9A%BE%E5%B8%A6%E5%92%8C%E5%B0%8A%E9%87%8D%E6%B6%88%E8%B4%B9%E8%80%85%E6%98%AF%E4%B8%A4%E7%A0%81%E4%BA%8B%23&t=31&band_rank=21&Refer=top) 1028066
 1. [薛之谦成都39度高烧依旧开唱](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%88%90%E9%83%BD39%E5%BA%A6%E9%AB%98%E7%83%A7%E4%BE%9D%E6%97%A7%E5%BC%80%E5%94%B1%23&t=31&band_rank=2&Refer=top) 869239
