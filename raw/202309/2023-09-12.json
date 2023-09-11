@@ -246,5 +246,9 @@
   "Rose否认与霉霉合作": {
     "url": "https://s.weibo.com/weibo?q=%23Rose%E5%90%A6%E8%AE%A4%E4%B8%8E%E9%9C%89%E9%9C%89%E5%90%88%E4%BD%9C%23&t=31&band_rank=32&Refer=top",
     "hot": 27077
+  },
+  "A股": {
+    "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=37&Refer=top",
+    "hot": 21877
   }
 }
