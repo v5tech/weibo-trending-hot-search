@@ -187,6 +187,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E7%8E%89%E9%AA%A8%E9%81%A5%E9%9F%A9%E5%9B%BD%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=46&Refer=top",
     "hot": 127663
   },
+  "我有事要去jellycat一趟": {
+    "url": "https://s.weibo.com/weibo?q=%E6%88%91%E6%9C%89%E4%BA%8B%E8%A6%81%E5%8E%BBjellycat%E4%B8%80%E8%B6%9F&t=31&band_rank=50&Refer=top",
+    "hot": 121071
+  },
   "Yamy被判赔偿前经纪公司100万": {
     "url": "https://s.weibo.com/weibo?q=%23Yamy%E8%A2%AB%E5%88%A4%E8%B5%94%E5%81%BF%E5%89%8D%E7%BB%8F%E7%BA%AA%E5%85%AC%E5%8F%B8100%E4%B8%87%23&t=31&band_rank=47&Refer=top",
     "hot": 119465
@@ -206,10 +210,6 @@
   "刘亦菲霍建华新剧对戏路透": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E9%9C%8D%E5%BB%BA%E5%8D%8E%E6%96%B0%E5%89%A7%E5%AF%B9%E6%88%8F%E8%B7%AF%E9%80%8F%23&t=31&band_rank=43&Refer=top",
     "hot": 115517
-  },
-  "我有事要去jellycat一趟": {
-    "url": "https://s.weibo.com/weibo?q=%E6%88%91%E6%9C%89%E4%BA%8B%E8%A6%81%E5%8E%BBjellycat%E4%B8%80%E8%B6%9F&t=31&band_rank=50&Refer=top",
-    "hot": 113464
   },
   "宫尚角误伤宫远徵": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%AE%AB%E5%B0%9A%E8%A7%92%E8%AF%AF%E4%BC%A4%E5%AE%AB%E8%BF%9C%E5%BE%B5%23&t=31&band_rank=49&Refer=top",
@@ -241,6 +241,6 @@
   },
   "狗狗安保系统已瘫痪": {
     "url": "https://s.weibo.com/weibo?q=%E7%8B%97%E7%8B%97%E5%AE%89%E4%BF%9D%E7%B3%BB%E7%BB%9F%E5%B7%B2%E7%98%AB%E7%97%AA&t=31&band_rank=47&Refer=top",
-    "hot": 32876
+    "hot": 33428
   }
 }
