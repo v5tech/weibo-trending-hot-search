@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-09-13 05:08:50.073867 
+最后更新时间 2023-09-13 05:19:40.847615 
 1. [这4种面包真的建议少吃](https://s.weibo.com/weibo?q=%E8%BF%994%E7%A7%8D%E9%9D%A2%E5%8C%85%E7%9C%9F%E7%9A%84%E5%BB%BA%E8%AE%AE%E5%B0%91%E5%90%83&t=31&band_rank=1&Refer=top) 2113306
 1. [4000万中央资金建3个项目竟全烂尾](https://s.weibo.com/weibo?q=%234000%E4%B8%87%E4%B8%AD%E5%A4%AE%E8%B5%84%E9%87%91%E5%BB%BA3%E4%B8%AA%E9%A1%B9%E7%9B%AE%E7%AB%9F%E5%85%A8%E7%83%82%E5%B0%BE%23&t=31&band_rank=2&Refer=top) 831544
 1. [杭州亚运村周六正式开村](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E6%9D%91%E5%91%A8%E5%85%AD%E6%AD%A3%E5%BC%8F%E5%BC%80%E6%9D%91%23&t=31&band_rank=3&Refer=top) 722624
