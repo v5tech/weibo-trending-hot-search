@@ -187,6 +187,10 @@
     "url": "https://s.weibo.com/weibo?q=%E5%A4%A7%E9%BA%A6%20%E6%8A%A2%E4%B8%8D%E5%88%B0&t=31&band_rank=45&Refer=top",
     "hot": 148052
   },
+  "苹果新品发布会": {
+    "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%96%B0%E5%93%81%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=21&Refer=top",
+    "hot": 132143
+  },
   "分享欲不是喜欢探索欲才是": {
     "url": "https://s.weibo.com/weibo?q=%E5%88%86%E4%BA%AB%E6%AC%B2%E4%B8%8D%E6%98%AF%E5%96%9C%E6%AC%A2%E6%8E%A2%E7%B4%A2%E6%AC%B2%E6%89%8D%E6%98%AF&t=31&band_rank=46&Refer=top",
     "hot": 130936
@@ -205,7 +209,7 @@
   },
   "早这么劝我我就不熬夜了": {
     "url": "https://s.weibo.com/weibo?q=%E6%97%A9%E8%BF%99%E4%B9%88%E5%8A%9D%E6%88%91%E6%88%91%E5%B0%B1%E4%B8%8D%E7%86%AC%E5%A4%9C%E4%BA%86&t=31&band_rank=34&Refer=top",
-    "hot": 95915
+    "hot": 126207
   },
   "月公子也是无锋吗": {
     "url": "https://s.weibo.com/weibo?q=%E6%9C%88%E5%85%AC%E5%AD%90%E4%B9%9F%E6%98%AF%E6%97%A0%E9%94%8B%E5%90%97&t=31&band_rank=49&Refer=top",
@@ -214,5 +218,9 @@
   "云之羽虞书欣张凌赫看样片花絮": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%BA%91%E4%B9%8B%E7%BE%BD%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%9C%8B%E6%A0%B7%E7%89%87%E8%8A%B1%E7%B5%AE%23&t=31&band_rank=48&Refer=top",
     "hot": 87860
+  },
+  "女生自购千张贴纸遮盖厕所捐卵广告": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E8%87%AA%E8%B4%AD%E5%8D%83%E5%BC%A0%E8%B4%B4%E7%BA%B8%E9%81%AE%E7%9B%96%E5%8E%95%E6%89%80%E6%8D%90%E5%8D%B5%E5%B9%BF%E5%91%8A%23&t=31&band_rank=50&Refer=top",
+    "hot": 50397
   }
 }
