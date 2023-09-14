@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-09-15 03:18:58.140188 
+最后更新时间 2023-09-15 03:34:04.536381 
 1. [花西子事件后老牌国货销量暴涨](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%A5%BF%E5%AD%90%E4%BA%8B%E4%BB%B6%E5%90%8E%E8%80%81%E7%89%8C%E5%9B%BD%E8%B4%A7%E9%94%80%E9%87%8F%E6%9A%B4%E6%B6%A8%23&t=31&band_rank=1&Refer=top) 1806153
 1. [外媒曝Lisa拒绝和YG续约](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%AA%92%E6%9B%9DLisa%E6%8B%92%E7%BB%9D%E5%92%8CYG%E7%BB%AD%E7%BA%A6%23&t=31&band_rank=2&Refer=top) 1151667
 1. [当亚运遇上民乐太惊艳了](https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BA%9A%E8%BF%90%E9%81%87%E4%B8%8A%E6%B0%91%E4%B9%90%E5%A4%AA%E6%83%8A%E8%89%B3%E4%BA%86%23&t=31&band_rank=3&Refer=top) 949460
@@ -72,6 +72,7 @@
 1. [骄阳伴我烟花名场面](https://s.weibo.com/weibo?q=%23%E9%AA%84%E9%98%B3%E4%BC%B4%E6%88%91%E7%83%9F%E8%8A%B1%E5%90%8D%E5%9C%BA%E9%9D%A2%23&t=31&band_rank=49&Refer=top) 46401
 1. [2023北京文化论坛](https://s.weibo.com/weibo?q=%232023%E5%8C%97%E4%BA%AC%E6%96%87%E5%8C%96%E8%AE%BA%E5%9D%9B%23&t=31&band_rank=50&Refer=top) 31578
 1. [原来机械这么迷人](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%9C%BA%E6%A2%B0%E8%BF%99%E4%B9%88%E8%BF%B7%E4%BA%BA%23&t=31&band_rank=48&Refer=top) 28360
+1. [终于懂了父母的那句话](https://s.weibo.com/weibo?q=%E7%BB%88%E4%BA%8E%E6%87%82%E4%BA%86%E7%88%B6%E6%AF%8D%E7%9A%84%E9%82%A3%E5%8F%A5%E8%AF%9D&t=31&band_rank=48&Refer=top) 21554
 <!-- END -->
 
 历史归档 [./archives](./archives)
