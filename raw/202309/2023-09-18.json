@@ -1,7 +1,7 @@
 {
   "夫妻偷渡到缅北后因业绩太差被打": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E5%81%B7%E6%B8%A1%E5%88%B0%E7%BC%85%E5%8C%97%E5%90%8E%E5%9B%A0%E4%B8%9A%E7%BB%A9%E5%A4%AA%E5%B7%AE%E8%A2%AB%E6%89%93%23&t=31&band_rank=19&Refer=top",
-    "hot": 1056653
+    "hot": 1066631
   },
   "花儿与少年5": {
     "url": "https://s.weibo.com/weibo?q=%E8%8A%B1%E5%84%BF%E4%B8%8E%E5%B0%91%E5%B9%B45&t=31&band_rank=1&Refer=top",
@@ -79,6 +79,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%AC%B2%E5%B0%86%E5%A5%B3%E5%8F%8B%E5%8D%96%E7%BC%85%E7%94%B8%E8%BF%B7%E8%B7%AF%E6%B1%82%E5%8A%A9%E8%AD%A6%E5%AF%9F%E6%9A%B4%E9%9C%B2%23&t=31&band_rank=13&Refer=top",
     "hot": 304661
   },
+  "新郎开迈巴赫扮猪八戒接新娘": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%83%8E%E5%BC%80%E8%BF%88%E5%B7%B4%E8%B5%AB%E6%89%AE%E7%8C%AA%E5%85%AB%E6%88%92%E6%8E%A5%E6%96%B0%E5%A8%98%23&t=31&band_rank=50&Refer=top",
+    "hot": 297449
+  },
   "本周狗屎运最旺的星座": {
     "url": "https://s.weibo.com/weibo?q=%E6%9C%AC%E5%91%A8%E7%8B%97%E5%B1%8E%E8%BF%90%E6%9C%80%E6%97%BA%E7%9A%84%E6%98%9F%E5%BA%A7&t=31&band_rank=18&Refer=top",
     "hot": 288540
@@ -114,10 +118,6 @@
   "夭璟 带我走": {
     "url": "https://s.weibo.com/weibo?q=%E5%A4%AD%E7%92%9F%20%E5%B8%A6%E6%88%91%E8%B5%B0&t=31&band_rank=26&Refer=top",
     "hot": 246710
-  },
-  "新郎开迈巴赫扮猪八戒接新娘": {
-    "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%83%8E%E5%BC%80%E8%BF%88%E5%B7%B4%E8%B5%AB%E6%89%AE%E7%8C%AA%E5%85%AB%E6%88%92%E6%8E%A5%E6%96%B0%E5%A8%98%23&t=31&band_rank=50&Refer=top",
-    "hot": 244799
   },
   "情侣看演唱会临检票才发现买成前一天": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%83%85%E4%BE%A3%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%B4%E6%A3%80%E7%A5%A8%E6%89%8D%E5%8F%91%E7%8E%B0%E4%B9%B0%E6%88%90%E5%89%8D%E4%B8%80%E5%A4%A9%23&t=31&band_rank=35&Refer=top",
@@ -226,5 +226,13 @@
   "埃弗顿vs阿森纳": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%9F%83%E5%BC%97%E9%A1%BFvs%E9%98%BF%E6%A3%AE%E7%BA%B3%23&t=31&band_rank=49&Refer=top",
     "hot": 105504
+  },
+  "丞磊卢昱晓双人喵喵舞": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%9E%E7%A3%8A%E5%8D%A2%E6%98%B1%E6%99%93%E5%8F%8C%E4%BA%BA%E5%96%B5%E5%96%B5%E8%88%9E%23&t=31&band_rank=49&Refer=top",
+    "hot": 69113
+  },
+  "BLACKPINK世巡结束了": {
+    "url": "https://s.weibo.com/weibo?q=%23BLACKPINK%E4%B8%96%E5%B7%A1%E7%BB%93%E6%9D%9F%E4%BA%86%23&t=31&band_rank=50&Refer=top",
+    "hot": 65943
   }
 }

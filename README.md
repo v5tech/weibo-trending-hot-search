@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-09-18 00:48:49.142136 
-1. [夫妻偷渡到缅北后因业绩太差被打](https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E5%81%B7%E6%B8%A1%E5%88%B0%E7%BC%85%E5%8C%97%E5%90%8E%E5%9B%A0%E4%B8%9A%E7%BB%A9%E5%A4%AA%E5%B7%AE%E8%A2%AB%E6%89%93%23&t=31&band_rank=19&Refer=top) 1056653
+最后更新时间 2023-09-18 01:08:07.947009 
+1. [夫妻偷渡到缅北后因业绩太差被打](https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E5%81%B7%E6%B8%A1%E5%88%B0%E7%BC%85%E5%8C%97%E5%90%8E%E5%9B%A0%E4%B8%9A%E7%BB%A9%E5%A4%AA%E5%B7%AE%E8%A2%AB%E6%89%93%23&t=31&band_rank=19&Refer=top) 1066631
 1. [花儿与少年5](https://s.weibo.com/weibo?q=%E8%8A%B1%E5%84%BF%E4%B8%8E%E5%B0%91%E5%B9%B45&t=31&band_rank=1&Refer=top) 789705
 1. [Jennie演唱会哭了](https://s.weibo.com/weibo?q=%23Jennie%E6%BC%94%E5%94%B1%E4%BC%9A%E5%93%AD%E4%BA%86%23&t=31&band_rank=2&Refer=top) 652429
 1. [我国科学家研发出新型稀土开采技术](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E7%A0%94%E5%8F%91%E5%87%BA%E6%96%B0%E5%9E%8B%E7%A8%80%E5%9C%9F%E5%BC%80%E9%87%87%E6%8A%80%E6%9C%AF%23&t=31&band_rank=3&Refer=top) 557946
@@ -28,6 +28,7 @@
 1. [96岁教师连续12年为学生发奖学金](https://s.weibo.com/weibo?q=%2396%E5%B2%81%E6%95%99%E5%B8%88%E8%BF%9E%E7%BB%AD12%E5%B9%B4%E4%B8%BA%E5%AD%A6%E7%94%9F%E5%8F%91%E5%A5%96%E5%AD%A6%E9%87%91%23&t=31&band_rank=15&Refer=top) 311019
 1. [白桃星运十二星座一周运势](https://s.weibo.com/weibo?q=%E7%99%BD%E6%A1%83%E6%98%9F%E8%BF%90%E5%8D%81%E4%BA%8C%E6%98%9F%E5%BA%A7%E4%B8%80%E5%91%A8%E8%BF%90%E5%8A%BF&t=31&band_rank=17&Refer=top) 306954
 1. [男子欲将女友卖缅甸迷路求助警察暴露](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%AC%B2%E5%B0%86%E5%A5%B3%E5%8F%8B%E5%8D%96%E7%BC%85%E7%94%B8%E8%BF%B7%E8%B7%AF%E6%B1%82%E5%8A%A9%E8%AD%A6%E5%AF%9F%E6%9A%B4%E9%9C%B2%23&t=31&band_rank=13&Refer=top) 304661
+1. [新郎开迈巴赫扮猪八戒接新娘](https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%83%8E%E5%BC%80%E8%BF%88%E5%B7%B4%E8%B5%AB%E6%89%AE%E7%8C%AA%E5%85%AB%E6%88%92%E6%8E%A5%E6%96%B0%E5%A8%98%23&t=31&band_rank=50&Refer=top) 297449
 1. [本周狗屎运最旺的星座](https://s.weibo.com/weibo?q=%E6%9C%AC%E5%91%A8%E7%8B%97%E5%B1%8E%E8%BF%90%E6%9C%80%E6%97%BA%E7%9A%84%E6%98%9F%E5%BA%A7&t=31&band_rank=18&Refer=top) 288540
 1. [650合体](https://s.weibo.com/weibo?q=650%E5%90%88%E4%BD%93&t=31&band_rank=10&Refer=top) 265533
 1. [原来一万块有这么厚](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E4%B8%80%E4%B8%87%E5%9D%97%E6%9C%89%E8%BF%99%E4%B9%88%E5%8E%9A%23&t=31&band_rank=21&Refer=top) 262137
@@ -37,7 +38,6 @@
 1. [女子咳嗽半月气管发现8cm蚂蟥](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%92%B3%E5%97%BD%E5%8D%8A%E6%9C%88%E6%B0%94%E7%AE%A1%E5%8F%91%E7%8E%B08cm%E8%9A%82%E8%9F%A5%23&t=31&band_rank=25&Refer=top) 257172
 1. [九一八事变在这里爆发](https://s.weibo.com/weibo?q=%23%E4%B9%9D%E4%B8%80%E5%85%AB%E4%BA%8B%E5%8F%98%E5%9C%A8%E8%BF%99%E9%87%8C%E7%88%86%E5%8F%91%23&t=31&band_rank=33&Refer=top) 247204
 1. [夭璟 带我走](https://s.weibo.com/weibo?q=%E5%A4%AD%E7%92%9F%20%E5%B8%A6%E6%88%91%E8%B5%B0&t=31&band_rank=26&Refer=top) 246710
-1. [新郎开迈巴赫扮猪八戒接新娘](https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%83%8E%E5%BC%80%E8%BF%88%E5%B7%B4%E8%B5%AB%E6%89%AE%E7%8C%AA%E5%85%AB%E6%88%92%E6%8E%A5%E6%96%B0%E5%A8%98%23&t=31&band_rank=50&Refer=top) 244799
 1. [情侣看演唱会临检票才发现买成前一天](https://s.weibo.com/weibo?q=%23%E6%83%85%E4%BE%A3%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%B4%E6%A3%80%E7%A5%A8%E6%89%8D%E5%8F%91%E7%8E%B0%E4%B9%B0%E6%88%90%E5%89%8D%E4%B8%80%E5%A4%A9%23&t=31&band_rank=35&Refer=top) 229628
 1. [你丢掉的小狗我们养得很好](https://s.weibo.com/weibo?q=%E4%BD%A0%E4%B8%A2%E6%8E%89%E7%9A%84%E5%B0%8F%E7%8B%97%E6%88%91%E4%BB%AC%E5%85%BB%E5%BE%97%E5%BE%88%E5%A5%BD&t=31&band_rank=27&Refer=top) 218969
 1. [云之羽温峥嵘演技](https://s.weibo.com/weibo?q=%23%E4%BA%91%E4%B9%8B%E7%BE%BD%E6%B8%A9%E5%B3%A5%E5%B5%98%E6%BC%94%E6%8A%80%23&t=31&band_rank=28&Refer=top) 209688
@@ -65,6 +65,8 @@
 1. [赵昭仪 花儿与少年](https://s.weibo.com/weibo?q=%E8%B5%B5%E6%98%AD%E4%BB%AA%20%E8%8A%B1%E5%84%BF%E4%B8%8E%E5%B0%91%E5%B9%B4&t=31&band_rank=49&Refer=top) 128043
 1. [杨鸣告别辽宁男篮](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E9%B8%A3%E5%91%8A%E5%88%AB%E8%BE%BD%E5%AE%81%E7%94%B7%E7%AF%AE%23&t=31&band_rank=41&Refer=top) 117516
 1. [埃弗顿vs阿森纳](https://s.weibo.com/weibo?q=%23%E5%9F%83%E5%BC%97%E9%A1%BFvs%E9%98%BF%E6%A3%AE%E7%BA%B3%23&t=31&band_rank=49&Refer=top) 105504
+1. [丞磊卢昱晓双人喵喵舞](https://s.weibo.com/weibo?q=%23%E4%B8%9E%E7%A3%8A%E5%8D%A2%E6%98%B1%E6%99%93%E5%8F%8C%E4%BA%BA%E5%96%B5%E5%96%B5%E8%88%9E%23&t=31&band_rank=49&Refer=top) 69113
+1. [BLACKPINK世巡结束了](https://s.weibo.com/weibo?q=%23BLACKPINK%E4%B8%96%E5%B7%A1%E7%BB%93%E6%9D%9F%E4%BA%86%23&t=31&band_rank=50&Refer=top) 65943
 <!-- END -->
 
 历史归档 [./archives](./archives)
