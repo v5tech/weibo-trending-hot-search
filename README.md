@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-09-22 06:09:19.511446 
+最后更新时间 2023-09-22 06:25:12.190968 
 1. [顾客吐槽茶颜悦色点餐方式像智商税](https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E5%90%90%E6%A7%BD%E8%8C%B6%E9%A2%9C%E6%82%A6%E8%89%B2%E7%82%B9%E9%A4%90%E6%96%B9%E5%BC%8F%E5%83%8F%E6%99%BA%E5%95%86%E7%A8%8E%23&t=31&band_rank=1&Refer=top) 1221310
 1. [为什么说女生要分开腿坐](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%AF%B4%E5%A5%B3%E7%94%9F%E8%A6%81%E5%88%86%E5%BC%80%E8%85%BF%E5%9D%90&t=31&band_rank=2&Refer=top) 765736
 1. [绕杭州飞33小时拍到的美景有多震撼](https://s.weibo.com/weibo?q=%23%E7%BB%95%E6%9D%AD%E5%B7%9E%E9%A3%9E33%E5%B0%8F%E6%97%B6%E6%8B%8D%E5%88%B0%E7%9A%84%E7%BE%8E%E6%99%AF%E6%9C%89%E5%A4%9A%E9%9C%87%E6%92%BC%23&t=31&band_rank=3&Refer=top) 664731
@@ -66,17 +66,17 @@
 1. [内娱古偶白月光](https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E5%8F%A4%E5%81%B6%E7%99%BD%E6%9C%88%E5%85%89%23&t=31&band_rank=25&Refer=top) 179674
 1. [35岁小伙太爱喝饮料致双目失明](https://s.weibo.com/weibo?q=%2335%E5%B2%81%E5%B0%8F%E4%BC%99%E5%A4%AA%E7%88%B1%E5%96%9D%E9%A5%AE%E6%96%99%E8%87%B4%E5%8F%8C%E7%9B%AE%E5%A4%B1%E6%98%8E%23&t=31&band_rank=50&Refer=top) 139958
 1. [刘诗诗红色亮片秋日穿搭](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E7%BA%A2%E8%89%B2%E4%BA%AE%E7%89%87%E7%A7%8B%E6%97%A5%E7%A9%BF%E6%90%AD%23&t=31&band_rank=32&Refer=top) 121881
+1. [李泽锋 如果大海能够带走我的哀愁](https://s.weibo.com/weibo?q=%E6%9D%8E%E6%B3%BD%E9%94%8B%20%E5%A6%82%E6%9E%9C%E5%A4%A7%E6%B5%B7%E8%83%BD%E5%A4%9F%E5%B8%A6%E8%B5%B0%E6%88%91%E7%9A%84%E5%93%80%E6%84%81&t=31&band_rank=19&Refer=top) 100084
 1. [丞磊粤语撩人](https://s.weibo.com/weibo?q=%23%E4%B8%9E%E7%A3%8A%E7%B2%A4%E8%AF%AD%E6%92%A9%E4%BA%BA%23&t=31&band_rank=49&Refer=top) 87934
 1. [我有一个朋友 欢你](https://s.weibo.com/weibo?q=%E6%88%91%E6%9C%89%E4%B8%80%E4%B8%AA%E6%9C%8B%E5%8F%8B%20%E6%AC%A2%E4%BD%A0&t=31&band_rank=19&Refer=top) 86068
-1. [李泽锋 如果大海能够带走我的哀愁](https://s.weibo.com/weibo?q=%E6%9D%8E%E6%B3%BD%E9%94%8B%20%E5%A6%82%E6%9E%9C%E5%A4%A7%E6%B5%B7%E8%83%BD%E5%A4%9F%E5%B8%A6%E8%B5%B0%E6%88%91%E7%9A%84%E5%93%80%E6%84%81&t=31&band_rank=19&Refer=top) 67699
+1. [外交部回应美商务部长对华为新机感到不悦](https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%95%86%E5%8A%A1%E9%83%A8%E9%95%BF%E5%AF%B9%E5%8D%8E%E4%B8%BA%E6%96%B0%E6%9C%BA%E6%84%9F%E5%88%B0%E4%B8%8D%E6%82%A6%23&t=31&band_rank=50&Refer=top) 70522
+1. [难怪大张伟是才子](https://s.weibo.com/weibo?q=%23%E9%9A%BE%E6%80%AA%E5%A4%A7%E5%BC%A0%E4%BC%9F%E6%98%AF%E6%89%8D%E5%AD%90%23&t=31&band_rank=35&Refer=top) 56880
+1. [外国教练主动和樊振东握手](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%9B%BD%E6%95%99%E7%BB%83%E4%B8%BB%E5%8A%A8%E5%92%8C%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%8F%A1%E6%89%8B%23&t=31&band_rank=46&Refer=top) 56869
+1. [高通否认大规模裁员](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%80%9A%E5%90%A6%E8%AE%A4%E5%A4%A7%E8%A7%84%E6%A8%A1%E8%A3%81%E5%91%98%23&t=31&band_rank=50&Refer=top) 56825
+1. [G社镜头下的安宥真](https://s.weibo.com/weibo?q=%23G%E7%A4%BE%E9%95%9C%E5%A4%B4%E4%B8%8B%E7%9A%84%E5%AE%89%E5%AE%A5%E7%9C%9F%23&t=31&band_rank=46&Refer=top) 56809
 1. [金铲铲停服维护](https://s.weibo.com/weibo?q=%E9%87%91%E9%93%B2%E9%93%B2%E5%81%9C%E6%9C%8D%E7%BB%B4%E6%8A%A4&t=31&band_rank=49&Refer=top) 56032
-1. [G社镜头下的安宥真](https://s.weibo.com/weibo?q=%23G%E7%A4%BE%E9%95%9C%E5%A4%B4%E4%B8%8B%E7%9A%84%E5%AE%89%E5%AE%A5%E7%9C%9F%23&t=31&band_rank=46&Refer=top) 55970
 1. [朴彩英悉尼vlog](https://s.weibo.com/weibo?q=%23%E6%9C%B4%E5%BD%A9%E8%8B%B1%E6%82%89%E5%B0%BCvlog%23&t=31&band_rank=35&Refer=top) 55968
 1. [卢昱晓北京出发路透](https://s.weibo.com/weibo?q=%23%E5%8D%A2%E6%98%B1%E6%99%93%E5%8C%97%E4%BA%AC%E5%87%BA%E5%8F%91%E8%B7%AF%E9%80%8F%23&t=31&band_rank=48&Refer=top) 55954
-1. [外交部回应美商务部长对华为新机感到不悦](https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%95%86%E5%8A%A1%E9%83%A8%E9%95%BF%E5%AF%B9%E5%8D%8E%E4%B8%BA%E6%96%B0%E6%9C%BA%E6%84%9F%E5%88%B0%E4%B8%8D%E6%82%A6%23&t=31&band_rank=50&Refer=top) 53420
-1. [外国教练主动和樊振东握手](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%9B%BD%E6%95%99%E7%BB%83%E4%B8%BB%E5%8A%A8%E5%92%8C%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%8F%A1%E6%89%8B%23&t=31&band_rank=46&Refer=top) 47507
-1. [难怪大张伟是才子](https://s.weibo.com/weibo?q=%23%E9%9A%BE%E6%80%AA%E5%A4%A7%E5%BC%A0%E4%BC%9F%E6%98%AF%E6%89%8D%E5%AD%90%23&t=31&band_rank=35&Refer=top) 47501
-1. [高通否认大规模裁员](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%80%9A%E5%90%A6%E8%AE%A4%E5%A4%A7%E8%A7%84%E6%A8%A1%E8%A3%81%E5%91%98%23&t=31&band_rank=50&Refer=top) 47438
 1. [广州TTG冠军战队签名](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9ETTG%E5%86%A0%E5%86%9B%E6%88%98%E9%98%9F%E7%AD%BE%E5%90%8D%23&t=31&band_rank=48&Refer=top) 31165
 1. [印度球员抽筋倒地男足球员赶来帮忙](https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E7%90%83%E5%91%98%E6%8A%BD%E7%AD%8B%E5%80%92%E5%9C%B0%E7%94%B7%E8%B6%B3%E7%90%83%E5%91%98%E8%B5%B6%E6%9D%A5%E5%B8%AE%E5%BF%99%23&t=31&band_rank=50&Refer=top) 27936
 <!-- END -->
