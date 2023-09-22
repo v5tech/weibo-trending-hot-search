@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-09-23 05:08:34.095523 
+最后更新时间 2023-09-23 05:19:20.076742 
 1. [黄子诚涉及间谍行为提出自首](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E8%AF%9A%E6%B6%89%E5%8F%8A%E9%97%B4%E8%B0%8D%E8%A1%8C%E4%B8%BA%E6%8F%90%E5%87%BA%E8%87%AA%E9%A6%96%23&t=31&band_rank=1&Refer=top) 813957
 1. [李泽锋这段台词怎么敢说出口的](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B3%BD%E9%94%8B%E8%BF%99%E6%AE%B5%E5%8F%B0%E8%AF%8D%E6%80%8E%E4%B9%88%E6%95%A2%E8%AF%B4%E5%87%BA%E5%8F%A3%E7%9A%84%23&t=31&band_rank=2&Refer=top) 497517
 1. [被亚运会的气氛燃到了](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%9A%84%E6%B0%94%E6%B0%9B%E7%87%83%E5%88%B0%E4%BA%86%23&t=31&band_rank=3&Refer=top) 484716
@@ -72,7 +72,7 @@
 1. [英雄联盟国家集训队抵达亚运村](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F%E6%8A%B5%E8%BE%BE%E4%BA%9A%E8%BF%90%E6%9D%91%23&t=31&band_rank=50&Refer=top) 43142
 1. [吴磊 帅有这么大](https://s.weibo.com/weibo?q=%E5%90%B4%E7%A3%8A%20%E5%B8%85%E6%9C%89%E8%BF%99%E4%B9%88%E5%A4%A7&t=31&band_rank=30&Refer=top) 30904
 1. [男子潜入原单位摆放前上司遗像](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%BD%9C%E5%85%A5%E5%8E%9F%E5%8D%95%E4%BD%8D%E6%91%86%E6%94%BE%E5%89%8D%E4%B8%8A%E5%8F%B8%E9%81%97%E5%83%8F%23&t=31&band_rank=41&Refer=top) 29076
-1. [自来水造浪计划](https://s.weibo.com/weibo?q=%E8%87%AA%E6%9D%A5%E6%B0%B4%E9%80%A0%E6%B5%AA%E8%AE%A1%E5%88%92&t=31&band_rank=50&Refer=top) 18718
+1. [自来水造浪计划](https://s.weibo.com/weibo?q=%E8%87%AA%E6%9D%A5%E6%B0%B4%E9%80%A0%E6%B5%AA%E8%AE%A1%E5%88%92&t=31&band_rank=50&Refer=top) 20679
 <!-- END -->
 
 历史归档 [./archives](./archives)
