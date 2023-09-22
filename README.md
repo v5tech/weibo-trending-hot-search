@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-09-23 06:24:57.121552 
+最后更新时间 2023-09-23 06:34:19.231360 
 1. [黄子诚涉及间谍行为提出自首](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E8%AF%9A%E6%B6%89%E5%8F%8A%E9%97%B4%E8%B0%8D%E8%A1%8C%E4%B8%BA%E6%8F%90%E5%87%BA%E8%87%AA%E9%A6%96%23&t=31&band_rank=1&Refer=top) 813957
 1. [李泽锋这段台词怎么敢说出口的](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B3%BD%E9%94%8B%E8%BF%99%E6%AE%B5%E5%8F%B0%E8%AF%8D%E6%80%8E%E4%B9%88%E6%95%A2%E8%AF%B4%E5%87%BA%E5%8F%A3%E7%9A%84%23&t=31&band_rank=2&Refer=top) 497517
 1. [被亚运会的气氛燃到了](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%9A%84%E6%B0%94%E6%B0%9B%E7%87%83%E5%88%B0%E4%BA%86%23&t=31&band_rank=3&Refer=top) 484716
@@ -67,13 +67,13 @@
 1. [龙宽九段合体](https://s.weibo.com/weibo?q=%E9%BE%99%E5%AE%BD%E4%B9%9D%E6%AE%B5%E5%90%88%E4%BD%93&t=31&band_rank=47&Refer=top) 88444
 1. [百个县城用方言为亚运送祝福](https://s.weibo.com/weibo?q=%23%E7%99%BE%E4%B8%AA%E5%8E%BF%E5%9F%8E%E7%94%A8%E6%96%B9%E8%A8%80%E4%B8%BA%E4%BA%9A%E8%BF%90%E9%80%81%E7%A5%9D%E7%A6%8F%23&t=31&band_rank=38&Refer=top) 85761
 1. [婆婆弄丢孩子甩锅儿媳](https://s.weibo.com/weibo?q=%23%E5%A9%86%E5%A9%86%E5%BC%84%E4%B8%A2%E5%AD%A9%E5%AD%90%E7%94%A9%E9%94%85%E5%84%BF%E5%AA%B3%23&t=31&band_rank=47&Refer=top) 64041
+1. [iPhone15ProMax最高加价2800](https://s.weibo.com/weibo?q=%23iPhone15ProMax%E6%9C%80%E9%AB%98%E5%8A%A0%E4%BB%B72800%23&t=31&band_rank=31&Refer=top) 59562
+1. [男子潜入原单位摆放前上司遗像](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%BD%9C%E5%85%A5%E5%8E%9F%E5%8D%95%E4%BD%8D%E6%91%86%E6%94%BE%E5%89%8D%E4%B8%8A%E5%8F%B8%E9%81%97%E5%83%8F%23&t=31&band_rank=41&Refer=top) 59006
 1. [周震南舞台气场](https://s.weibo.com/weibo?q=%23%E5%91%A8%E9%9C%87%E5%8D%97%E8%88%9E%E5%8F%B0%E6%B0%94%E5%9C%BA%23&t=31&band_rank=33&Refer=top) 48720
 1. [张凌赫巴黎出发路透](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%B7%B4%E9%BB%8E%E5%87%BA%E5%8F%91%E8%B7%AF%E9%80%8F%23&t=31&band_rank=50&Refer=top) 48499
-1. [iPhone15ProMax最高加价2800](https://s.weibo.com/weibo?q=%23iPhone15ProMax%E6%9C%80%E9%AB%98%E5%8A%A0%E4%BB%B72800%23&t=31&band_rank=31&Refer=top) 45991
-1. [男子潜入原单位摆放前上司遗像](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%BD%9C%E5%85%A5%E5%8E%9F%E5%8D%95%E4%BD%8D%E6%91%86%E6%94%BE%E5%89%8D%E4%B8%8A%E5%8F%B8%E9%81%97%E5%83%8F%23&t=31&band_rank=41&Refer=top) 44646
 1. [英雄联盟国家集训队抵达亚运村](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F%E6%8A%B5%E8%BE%BE%E4%BA%9A%E8%BF%90%E6%9D%91%23&t=31&band_rank=50&Refer=top) 43142
-1. [吴磊 帅有这么大](https://s.weibo.com/weibo?q=%E5%90%B4%E7%A3%8A%20%E5%B8%85%E6%9C%89%E8%BF%99%E4%B9%88%E5%A4%A7&t=31&band_rank=30&Refer=top) 32625
-1. [自来水造浪计划](https://s.weibo.com/weibo?q=%E8%87%AA%E6%9D%A5%E6%B0%B4%E9%80%A0%E6%B5%AA%E8%AE%A1%E5%88%92&t=31&band_rank=50&Refer=top) 30881
+1. [吴磊 帅有这么大](https://s.weibo.com/weibo?q=%E5%90%B4%E7%A3%8A%20%E5%B8%85%E6%9C%89%E8%BF%99%E4%B9%88%E5%A4%A7&t=31&band_rank=30&Refer=top) 38141
+1. [自来水造浪计划](https://s.weibo.com/weibo?q=%E8%87%AA%E6%9D%A5%E6%B0%B4%E9%80%A0%E6%B5%AA%E8%AE%A1%E5%88%92&t=31&band_rank=50&Refer=top) 31811
 <!-- END -->
 
 历史归档 [./archives](./archives)
