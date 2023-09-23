@@ -127,6 +127,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%AE%87%E8%BE%89%E5%8E%BB%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E5%9C%86%E9%9D%92%E6%98%A5%E7%9A%84%E6%A2%A6%23&t=31&band_rank=29&Refer=top",
     "hot": 253243
   },
+  "核酸大王张核子进军预制菜": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%A0%B8%E9%85%B8%E5%A4%A7%E7%8E%8B%E5%BC%A0%E6%A0%B8%E5%AD%90%E8%BF%9B%E5%86%9B%E9%A2%84%E5%88%B6%E8%8F%9C%23&t=31&band_rank=49&Refer=top",
+    "hot": 224398
+  },
   "今夜钱塘江边人山人海": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%9C%E9%92%B1%E5%A1%98%E6%B1%9F%E8%BE%B9%E4%BA%BA%E5%B1%B1%E4%BA%BA%E6%B5%B7%23&t=31&band_rank=30&Refer=top",
     "hot": 222828
@@ -146,10 +150,6 @@
   "卢昱晓的逗号文学": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%8D%A2%E6%98%B1%E6%99%93%E7%9A%84%E9%80%97%E5%8F%B7%E6%96%87%E5%AD%A6%23&t=31&band_rank=35&Refer=top",
     "hot": 198139
-  },
-  "核酸大王张核子进军预制菜": {
-    "url": "https://s.weibo.com/weibo?q=%23%E6%A0%B8%E9%85%B8%E5%A4%A7%E7%8E%8B%E5%BC%A0%E6%A0%B8%E5%AD%90%E8%BF%9B%E5%86%9B%E9%A2%84%E5%88%B6%E8%8F%9C%23&t=31&band_rank=49&Refer=top",
-    "hot": 196967
   },
   "赵又廷再用高圆圆威胁秦霄贤": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%B5%B5%E5%8F%88%E5%BB%B7%E5%86%8D%E7%94%A8%E9%AB%98%E5%9C%86%E5%9C%86%E5%A8%81%E8%83%81%E7%A7%A6%E9%9C%84%E8%B4%A4%23&t=31&band_rank=49&Refer=top",
@@ -255,6 +255,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E8%94%A1%E4%BE%9D%E6%9E%97%E6%88%90%E9%83%BD%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=45&Refer=top",
     "hot": 76213
   },
+  "异能": {
+    "url": "https://s.weibo.com/weibo?q=%E5%BC%82%E8%83%BD&t=31&band_rank=28&Refer=top",
+    "hot": 70861
+  },
   "亚运开幕式越剧表演": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E5%BC%80%E5%B9%95%E5%BC%8F%E8%B6%8A%E5%89%A7%E8%A1%A8%E6%BC%94%23&t=31&band_rank=47&Refer=top",
     "hot": 65978
@@ -271,12 +275,16 @@
     "url": "https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E7%A9%BF%E8%B6%8A%E4%BA%86%E4%BA%94%E5%8D%83%E5%B9%B4%23&t=31&band_rank=29&Refer=top",
     "hot": 57217
   },
-  "异能": {
-    "url": "https://s.weibo.com/weibo?q=%E5%BC%82%E8%83%BD&t=31&band_rank=28&Refer=top",
-    "hot": 53766
-  },
   "陆川审美": {
     "url": "https://s.weibo.com/weibo?q=%E9%99%86%E5%B7%9D%E5%AE%A1%E7%BE%8E&t=31&band_rank=50&Refer=top",
     "hot": 48714
+  },
+  "给女朋友点了7斤的饭": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BB%99%E5%A5%B3%E6%9C%8B%E5%8F%8B%E7%82%B9%E4%BA%867%E6%96%A4%E7%9A%84%E9%A5%AD%23&t=31&band_rank=37&Refer=top",
+    "hot": 24257
+  },
+  "预制菜需要告别野蛮生长": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%A2%84%E5%88%B6%E8%8F%9C%E9%9C%80%E8%A6%81%E5%91%8A%E5%88%AB%E9%87%8E%E8%9B%AE%E7%94%9F%E9%95%BF%23&t=31&band_rank=50&Refer=top",
+    "hot": 22667
   }
 }
