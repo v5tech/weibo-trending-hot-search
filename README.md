@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-09-24 06:08:55.979443 
+最后更新时间 2023-09-24 06:24:06.388018 
 1. [全场欢呼让巴基斯坦选手震惊了](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9C%BA%E6%AC%A2%E5%91%BC%E8%AE%A9%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E9%80%89%E6%89%8B%E9%9C%87%E6%83%8A%E4%BA%86%23&t=31&band_rank=1&Refer=top) 2489233
 1. [唱歌的四个帅哥是谁](https://s.weibo.com/weibo?q=%23%E5%94%B1%E6%AD%8C%E7%9A%84%E5%9B%9B%E4%B8%AA%E5%B8%85%E5%93%A5%E6%98%AF%E8%B0%81%23&t=31&band_rank=2&Refer=top) 1542698
 1. [中国队入场全场欢呼](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%85%A5%E5%9C%BA%E5%85%A8%E5%9C%BA%E6%AC%A2%E5%91%BC%23&t=31&band_rank=3&Refer=top) 1458197
@@ -31,6 +31,7 @@
 1. [官方通报小学生遭同学极端欺辱](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%B0%8F%E5%AD%A6%E7%94%9F%E9%81%AD%E5%90%8C%E5%AD%A6%E6%9E%81%E7%AB%AF%E6%AC%BA%E8%BE%B1%23&t=31&band_rank=21&Refer=top) 344009
 1. [香港俩5旬兄弟在母亲住院后疑被饿死](https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E4%BF%A95%E6%97%AC%E5%85%84%E5%BC%9F%E5%9C%A8%E6%AF%8D%E4%BA%B2%E4%BD%8F%E9%99%A2%E5%90%8E%E7%96%91%E8%A2%AB%E9%A5%BF%E6%AD%BB%23&t=31&band_rank=23&Refer=top) 342237
 1. [SEVENTEEN删除长城预告](https://s.weibo.com/weibo?q=%23SEVENTEEN%E5%88%A0%E9%99%A4%E9%95%BF%E5%9F%8E%E9%A2%84%E5%91%8A%23&t=31&band_rank=22&Refer=top) 340215
+1. [核酸大王张核子进军预制菜](https://s.weibo.com/weibo?q=%23%E6%A0%B8%E9%85%B8%E5%A4%A7%E7%8E%8B%E5%BC%A0%E6%A0%B8%E5%AD%90%E8%BF%9B%E5%86%9B%E9%A2%84%E5%88%B6%E8%8F%9C%23&t=31&band_rank=49&Refer=top) 314972
 1. [全世界找一诺](https://s.weibo.com/weibo?q=%23%E5%85%A8%E4%B8%96%E7%95%8C%E6%89%BE%E4%B8%80%E8%AF%BA%23&t=31&band_rank=20&Refer=top) 307857
 1. [亚运会宣传片男主是董浩然](https://s.weibo.com/weibo?q=%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%AE%A3%E4%BC%A0%E7%89%87%E7%94%B7%E4%B8%BB%E6%98%AF%E8%91%A3%E6%B5%A9%E7%84%B6&t=31&band_rank=24&Refer=top) 305807
 1. [中国茶上拉花让巴赫直呼舍不得喝](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%8C%B6%E4%B8%8A%E6%8B%89%E8%8A%B1%E8%AE%A9%E5%B7%B4%E8%B5%AB%E7%9B%B4%E5%91%BC%E8%88%8D%E4%B8%8D%E5%BE%97%E5%96%9D%23&t=31&band_rank=36&Refer=top) 304139
@@ -38,7 +39,6 @@
 1. [郭晶晶好美](https://s.weibo.com/weibo?q=%23%E9%83%AD%E6%99%B6%E6%99%B6%E5%A5%BD%E7%BE%8E%23&t=31&band_rank=25&Refer=top) 301438
 1. [特工任务国安人员追击间谍被撞飞](https://s.weibo.com/weibo?q=%23%E7%89%B9%E5%B7%A5%E4%BB%BB%E5%8A%A1%E5%9B%BD%E5%AE%89%E4%BA%BA%E5%91%98%E8%BF%BD%E5%87%BB%E9%97%B4%E8%B0%8D%E8%A2%AB%E6%92%9E%E9%A3%9E%23&t=31&band_rank=26&Refer=top) 280144
 1. [我爱你中国](https://s.weibo.com/weibo?q=%E6%88%91%E7%88%B1%E4%BD%A0%E4%B8%AD%E5%9B%BD&t=31&band_rank=27&Refer=top) 279203
-1. [核酸大王张核子进军预制菜](https://s.weibo.com/weibo?q=%23%E6%A0%B8%E9%85%B8%E5%A4%A7%E7%8E%8B%E5%BC%A0%E6%A0%B8%E5%AD%90%E8%BF%9B%E5%86%9B%E9%A2%84%E5%88%B6%E8%8F%9C%23&t=31&band_rank=49&Refer=top) 275496
 1. [最好的男爱豆Smoke cha出现了](https://s.weibo.com/weibo?q=%E6%9C%80%E5%A5%BD%E7%9A%84%E7%94%B7%E7%88%B1%E8%B1%86Smoke%20cha%E5%87%BA%E7%8E%B0%E4%BA%86&t=31&band_rank=28&Refer=top) 273202
 1. [董宇辉去周杰伦演唱会圆青春的梦](https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%AE%87%E8%BE%89%E5%8E%BB%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E5%9C%86%E9%9D%92%E6%98%A5%E7%9A%84%E6%A2%A6%23&t=31&band_rank=29&Refer=top) 253243
 1. [今夜钱塘江边人山人海](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%9C%E9%92%B1%E5%A1%98%E6%B1%9F%E8%BE%B9%E4%BA%BA%E5%B1%B1%E4%BA%BA%E6%B5%B7%23&t=31&band_rank=30&Refer=top) 222828
@@ -71,17 +71,17 @@
 1. [承欢记也信这个玄学了](https://s.weibo.com/weibo?q=%23%E6%89%BF%E6%AC%A2%E8%AE%B0%E4%B9%9F%E4%BF%A1%E8%BF%99%E4%B8%AA%E7%8E%84%E5%AD%A6%E4%BA%86%23&t=31&band_rank=50&Refer=top) 105112
 1. [好事成双闹别扭的味太对了](https://s.weibo.com/weibo?q=%E5%A5%BD%E4%BA%8B%E6%88%90%E5%8F%8C%E9%97%B9%E5%88%AB%E6%89%AD%E7%9A%84%E5%91%B3%E5%A4%AA%E5%AF%B9%E4%BA%86&t=31&band_rank=43&Refer=top) 90465
 1. [开幕式地屏中式刺绣好美](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%B9%95%E5%BC%8F%E5%9C%B0%E5%B1%8F%E4%B8%AD%E5%BC%8F%E5%88%BA%E7%BB%A3%E5%A5%BD%E7%BE%8E%23&t=31&band_rank=31&Refer=top) 82210
+1. [门店称iPhone15用安卓充电线或会烧机](https://s.weibo.com/weibo?q=%23%E9%97%A8%E5%BA%97%E7%A7%B0iPhone15%E7%94%A8%E5%AE%89%E5%8D%93%E5%85%85%E7%94%B5%E7%BA%BF%E6%88%96%E4%BC%9A%E7%83%A7%E6%9C%BA%23&t=31&band_rank=31&Refer=top) 79334
 1. [蔡依林成都演唱会](https://s.weibo.com/weibo?q=%23%E8%94%A1%E4%BE%9D%E6%9E%97%E6%88%90%E9%83%BD%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=45&Refer=top) 76213
 1. [异能](https://s.weibo.com/weibo?q=%E5%BC%82%E8%83%BD&t=31&band_rank=28&Refer=top) 74405
 1. [亚运开幕式越剧表演](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E5%BC%80%E5%B9%95%E5%BC%8F%E8%B6%8A%E5%89%A7%E8%A1%A8%E6%BC%94%23&t=31&band_rank=47&Refer=top) 65978
-1. [门店称iPhone15用安卓充电线或会烧机](https://s.weibo.com/weibo?q=%23%E9%97%A8%E5%BA%97%E7%A7%B0iPhone15%E7%94%A8%E5%AE%89%E5%8D%93%E5%85%85%E7%94%B5%E7%BA%BF%E6%88%96%E4%BC%9A%E7%83%A7%E6%9C%BA%23&t=31&band_rank=31&Refer=top) 60902
 1. [为中国加油](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%B8%AD%E5%9B%BD%E5%8A%A0%E6%B2%B9%23&t=31&band_rank=44&Refer=top) 58966
 1. [巴黎偶遇张凌赫](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E%E5%81%B6%E9%81%87%E5%BC%A0%E5%87%8C%E8%B5%AB%23&t=31&band_rank=45&Refer=top) 58779
 1. [亚运会开幕式穿越了五千年](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E7%A9%BF%E8%B6%8A%E4%BA%86%E4%BA%94%E5%8D%83%E5%B9%B4%23&t=31&band_rank=29&Refer=top) 57217
 1. [陆川审美](https://s.weibo.com/weibo?q=%E9%99%86%E5%B7%9D%E5%AE%A1%E7%BE%8E&t=31&band_rank=50&Refer=top) 48714
-1. [给女朋友点了7斤的饭](https://s.weibo.com/weibo?q=%23%E7%BB%99%E5%A5%B3%E6%9C%8B%E5%8F%8B%E7%82%B9%E4%BA%867%E6%96%A4%E7%9A%84%E9%A5%AD%23&t=31&band_rank=37&Refer=top) 33174
-1. [看得出来陈牧驰和daddy见面很开心](https://s.weibo.com/weibo?q=%23%E7%9C%8B%E5%BE%97%E5%87%BA%E6%9D%A5%E9%99%88%E7%89%A7%E9%A9%B0%E5%92%8Cdaddy%E8%A7%81%E9%9D%A2%E5%BE%88%E5%BC%80%E5%BF%83%23&t=31&band_rank=40&Refer=top) 27231
-1. [贺铿称现有住房14亿人可能住不完](https://s.weibo.com/weibo?q=%23%E8%B4%BA%E9%93%BF%E7%A7%B0%E7%8E%B0%E6%9C%89%E4%BD%8F%E6%88%BF14%E4%BA%BF%E4%BA%BA%E5%8F%AF%E8%83%BD%E4%BD%8F%E4%B8%8D%E5%AE%8C%23&t=31&band_rank=42&Refer=top) 26644
+1. [贺铿称现有住房14亿人可能住不完](https://s.weibo.com/weibo?q=%23%E8%B4%BA%E9%93%BF%E7%A7%B0%E7%8E%B0%E6%9C%89%E4%BD%8F%E6%88%BF14%E4%BA%BF%E4%BA%BA%E5%8F%AF%E8%83%BD%E4%BD%8F%E4%B8%8D%E5%AE%8C%23&t=31&band_rank=42&Refer=top) 40079
+1. [给女朋友点了7斤的饭](https://s.weibo.com/weibo?q=%23%E7%BB%99%E5%A5%B3%E6%9C%8B%E5%8F%8B%E7%82%B9%E4%BA%867%E6%96%A4%E7%9A%84%E9%A5%AD%23&t=31&band_rank=37&Refer=top) 38731
+1. [看得出来陈牧驰和daddy见面很开心](https://s.weibo.com/weibo?q=%23%E7%9C%8B%E5%BE%97%E5%87%BA%E6%9D%A5%E9%99%88%E7%89%A7%E9%A9%B0%E5%92%8Cdaddy%E8%A7%81%E9%9D%A2%E5%BE%88%E5%BC%80%E5%BF%83%23&t=31&band_rank=40&Refer=top) 31071
 1. [骆文博亚运会开幕式独舞](https://s.weibo.com/weibo?q=%23%E9%AA%86%E6%96%87%E5%8D%9A%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E7%8B%AC%E8%88%9E%23&t=31&band_rank=30&Refer=top) 24945
 1. [预制菜需要告别野蛮生长](https://s.weibo.com/weibo?q=%23%E9%A2%84%E5%88%B6%E8%8F%9C%E9%9C%80%E8%A6%81%E5%91%8A%E5%88%AB%E9%87%8E%E8%9B%AE%E7%94%9F%E9%95%BF%23&t=31&band_rank=50&Refer=top) 22667
 1. [亚运会助威团](https://s.weibo.com/weibo?q=%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%8A%A9%E5%A8%81%E5%9B%A2&t=31&band_rank=42&Refer=top) 22595
