@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-09-24 03:07:16.767939 
+最后更新时间 2023-09-24 03:18:58.300098 
 1. [全场欢呼让巴基斯坦选手震惊了](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9C%BA%E6%AC%A2%E5%91%BC%E8%AE%A9%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E9%80%89%E6%89%8B%E9%9C%87%E6%83%8A%E4%BA%86%23&t=31&band_rank=1&Refer=top) 2489233
 1. [唱歌的四个帅哥是谁](https://s.weibo.com/weibo?q=%23%E5%94%B1%E6%AD%8C%E7%9A%84%E5%9B%9B%E4%B8%AA%E5%B8%85%E5%93%A5%E6%98%AF%E8%B0%81%23&t=31&band_rank=2&Refer=top) 1542698
 1. [中国队入场全场欢呼](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%85%A5%E5%9C%BA%E5%85%A8%E5%9C%BA%E6%AC%A2%E5%91%BC%23&t=31&band_rank=3&Refer=top) 1458197
@@ -65,18 +65,19 @@
 1. [上官浅这就是你离开宫家过的日子吗](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E5%AE%98%E6%B5%85%E8%BF%99%E5%B0%B1%E6%98%AF%E4%BD%A0%E7%A6%BB%E5%BC%80%E5%AE%AB%E5%AE%B6%E8%BF%87%E7%9A%84%E6%97%A5%E5%AD%90%E5%90%97%23&t=31&band_rank=33&Refer=top) 143104
 1. [姬发我该怎么办](https://s.weibo.com/weibo?q=%E5%A7%AC%E5%8F%91%E6%88%91%E8%AF%A5%E6%80%8E%E4%B9%88%E5%8A%9E&t=31&band_rank=43&Refer=top) 142370
 1. [王源米兰时装周探店](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E7%B1%B3%E5%85%B0%E6%97%B6%E8%A3%85%E5%91%A8%E6%8E%A2%E5%BA%97%23&t=31&band_rank=50&Refer=top) 137785
+1. [核酸大王张核子进军预制菜](https://s.weibo.com/weibo?q=%23%E6%A0%B8%E9%85%B8%E5%A4%A7%E7%8E%8B%E5%BC%A0%E6%A0%B8%E5%AD%90%E8%BF%9B%E5%86%9B%E9%A2%84%E5%88%B6%E8%8F%9C%23&t=31&band_rank=49&Refer=top) 129927
 1. [SMTOWN演唱会zoo舞台](https://s.weibo.com/weibo?q=%23SMTOWN%E6%BC%94%E5%94%B1%E4%BC%9Azoo%E8%88%9E%E5%8F%B0%23&t=31&band_rank=50&Refer=top) 119241
 1. [李盈莹称两连败主要是心态问题](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%9B%88%E8%8E%B9%E7%A7%B0%E4%B8%A4%E8%BF%9E%E8%B4%A5%E4%B8%BB%E8%A6%81%E6%98%AF%E5%BF%83%E6%80%81%E9%97%AE%E9%A2%98%23&t=31&band_rank=27&Refer=top) 117384
 1. [承欢记也信这个玄学了](https://s.weibo.com/weibo?q=%23%E6%89%BF%E6%AC%A2%E8%AE%B0%E4%B9%9F%E4%BF%A1%E8%BF%99%E4%B8%AA%E7%8E%84%E5%AD%A6%E4%BA%86%23&t=31&band_rank=50&Refer=top) 105112
 1. [好事成双闹别扭的味太对了](https://s.weibo.com/weibo?q=%E5%A5%BD%E4%BA%8B%E6%88%90%E5%8F%8C%E9%97%B9%E5%88%AB%E6%89%AD%E7%9A%84%E5%91%B3%E5%A4%AA%E5%AF%B9%E4%BA%86&t=31&band_rank=43&Refer=top) 90465
 1. [开幕式地屏中式刺绣好美](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%B9%95%E5%BC%8F%E5%9C%B0%E5%B1%8F%E4%B8%AD%E5%BC%8F%E5%88%BA%E7%BB%A3%E5%A5%BD%E7%BE%8E%23&t=31&band_rank=31&Refer=top) 82210
 1. [蔡依林成都演唱会](https://s.weibo.com/weibo?q=%23%E8%94%A1%E4%BE%9D%E6%9E%97%E6%88%90%E9%83%BD%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=45&Refer=top) 76213
-1. [核酸大王张核子进军预制菜](https://s.weibo.com/weibo?q=%23%E6%A0%B8%E9%85%B8%E5%A4%A7%E7%8E%8B%E5%BC%A0%E6%A0%B8%E5%AD%90%E8%BF%9B%E5%86%9B%E9%A2%84%E5%88%B6%E8%8F%9C%23&t=31&band_rank=49&Refer=top) 67990
 1. [亚运开幕式越剧表演](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E5%BC%80%E5%B9%95%E5%BC%8F%E8%B6%8A%E5%89%A7%E8%A1%A8%E6%BC%94%23&t=31&band_rank=47&Refer=top) 65978
 1. [为中国加油](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%B8%AD%E5%9B%BD%E5%8A%A0%E6%B2%B9%23&t=31&band_rank=44&Refer=top) 58966
 1. [巴黎偶遇张凌赫](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E%E5%81%B6%E9%81%87%E5%BC%A0%E5%87%8C%E8%B5%AB%23&t=31&band_rank=45&Refer=top) 58779
 1. [亚运会开幕式穿越了五千年](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E7%A9%BF%E8%B6%8A%E4%BA%86%E4%BA%94%E5%8D%83%E5%B9%B4%23&t=31&band_rank=29&Refer=top) 57217
 1. [陆川审美](https://s.weibo.com/weibo?q=%E9%99%86%E5%B7%9D%E5%AE%A1%E7%BE%8E&t=31&band_rank=50&Refer=top) 48714
+1. [异能](https://s.weibo.com/weibo?q=%E5%BC%82%E8%83%BD&t=31&band_rank=28&Refer=top) 35060
 <!-- END -->
 
 历史归档 [./archives](./archives)
