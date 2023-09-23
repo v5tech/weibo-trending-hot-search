@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-09-24 02:25:38.350822 
+最后更新时间 2023-09-24 02:34:05.112275 
 1. [全场欢呼让巴基斯坦选手震惊了](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9C%BA%E6%AC%A2%E5%91%BC%E8%AE%A9%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E9%80%89%E6%89%8B%E9%9C%87%E6%83%8A%E4%BA%86%23&t=31&band_rank=1&Refer=top) 2489233
 1. [唱歌的四个帅哥是谁](https://s.weibo.com/weibo?q=%23%E5%94%B1%E6%AD%8C%E7%9A%84%E5%9B%9B%E4%B8%AA%E5%B8%85%E5%93%A5%E6%98%AF%E8%B0%81%23&t=31&band_rank=2&Refer=top) 1542698
 1. [中国队入场全场欢呼](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%85%A5%E5%9C%BA%E5%85%A8%E5%9C%BA%E6%AC%A2%E5%91%BC%23&t=31&band_rank=3&Refer=top) 1458197
@@ -74,7 +74,7 @@
 1. [为中国加油](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%B8%AD%E5%9B%BD%E5%8A%A0%E6%B2%B9%23&t=31&band_rank=44&Refer=top) 58966
 1. [亚运会开幕式穿越了五千年](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E7%A9%BF%E8%B6%8A%E4%BA%86%E4%BA%94%E5%8D%83%E5%B9%B4%23&t=31&band_rank=29&Refer=top) 57217
 1. [陆川审美](https://s.weibo.com/weibo?q=%E9%99%86%E5%B7%9D%E5%AE%A1%E7%BE%8E&t=31&band_rank=50&Refer=top) 48714
-1. [巴黎偶遇张凌赫](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E%E5%81%B6%E9%81%87%E5%BC%A0%E5%87%8C%E8%B5%AB%23&t=31&band_rank=45&Refer=top) 38826
+1. [巴黎偶遇张凌赫](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E%E5%81%B6%E9%81%87%E5%BC%A0%E5%87%8C%E8%B5%AB%23&t=31&band_rank=45&Refer=top) 44150
 <!-- END -->
 
 历史归档 [./archives](./archives)
