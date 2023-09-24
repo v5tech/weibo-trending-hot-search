@@ -7,15 +7,15 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-09-25 00:27:56.684937 
+最后更新时间 2023-09-25 00:36:45.132501 
 1. [女生花7000元看周杰伦演唱会忘带票](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E8%8A%B17000%E5%85%83%E7%9C%8B%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BF%98%E5%B8%A6%E7%A5%A8%23&t=31&band_rank=1&Refer=top) 1189224
 1. [坚持半个月下来一身轻的健身动作](https://s.weibo.com/weibo?q=%E5%9D%9A%E6%8C%81%E5%8D%8A%E4%B8%AA%E6%9C%88%E4%B8%8B%E6%9D%A5%E4%B8%80%E8%BA%AB%E8%BD%BB%E7%9A%84%E5%81%A5%E8%BA%AB%E5%8A%A8%E4%BD%9C&t=31&band_rank=2&Refer=top) 734043
-1. [良渚之光照耀亚运之美](https://s.weibo.com/weibo?q=%23%E8%89%AF%E6%B8%9A%E4%B9%8B%E5%85%89%E7%85%A7%E8%80%80%E4%BA%9A%E8%BF%90%E4%B9%8B%E7%BE%8E%23&t=31&band_rank=3&Refer=top) 583955
+1. [良渚之光照耀亚运之美](https://s.weibo.com/weibo?q=%23%E8%89%AF%E6%B8%9A%E4%B9%8B%E5%85%89%E7%85%A7%E8%80%80%E4%BA%9A%E8%BF%90%E4%B9%8B%E7%BE%8E%23&t=31&band_rank=3&Refer=top) 587144
 1. [日媒批男团耻辱出局](https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%AA%92%E6%89%B9%E7%94%B7%E5%9B%A2%E8%80%BB%E8%BE%B1%E5%87%BA%E5%B1%80%23&t=31&band_rank=4&Refer=top) 582767
 1. [胡兵跑着跟谷爱凌合影](https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%85%B5%E8%B7%91%E7%9D%80%E8%B7%9F%E8%B0%B7%E7%88%B1%E5%87%8C%E5%90%88%E5%BD%B1%23&t=31&band_rank=5&Refer=top) 579128
-1. [幼儿园手工作业主打一个卷死家长](https://s.weibo.com/weibo?q=%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%89%8B%E5%B7%A5%E4%BD%9C%E4%B8%9A%E4%B8%BB%E6%89%93%E4%B8%80%E4%B8%AA%E5%8D%B7%E6%AD%BB%E5%AE%B6%E9%95%BF&t=31&band_rank=19&Refer=top) 452753
-1. [我没票但不妨碍我来听演唱会](https://s.weibo.com/weibo?q=%E6%88%91%E6%B2%A1%E7%A5%A8%E4%BD%86%E4%B8%8D%E5%A6%A8%E7%A2%8D%E6%88%91%E6%9D%A5%E5%90%AC%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=20&Refer=top) 449236
-1. [原神首冠诞生](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E7%A5%9E%E9%A6%96%E5%86%A0%E8%AF%9E%E7%94%9F%23&t=31&band_rank=7&Refer=top) 406722
+1. [我没票但不妨碍我来听演唱会](https://s.weibo.com/weibo?q=%E6%88%91%E6%B2%A1%E7%A5%A8%E4%BD%86%E4%B8%8D%E5%A6%A8%E7%A2%8D%E6%88%91%E6%9D%A5%E5%90%AC%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=20&Refer=top) 493423
+1. [幼儿园手工作业主打一个卷死家长](https://s.weibo.com/weibo?q=%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%89%8B%E5%B7%A5%E4%BD%9C%E4%B8%9A%E4%B8%BB%E6%89%93%E4%B8%80%E4%B8%AA%E5%8D%B7%E6%AD%BB%E5%AE%B6%E9%95%BF&t=31&band_rank=19&Refer=top) 461502
+1. [原神首冠诞生](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E7%A5%9E%E9%A6%96%E5%86%A0%E8%AF%9E%E7%94%9F%23&t=31&band_rank=7&Refer=top) 414722
 1. [白桃星座](https://s.weibo.com/weibo?q=%E7%99%BD%E6%A1%83%E6%98%9F%E5%BA%A7&t=31&band_rank=6&Refer=top) 404654
 1. [张小斐这剧除了原配全员好嗑](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%E8%BF%99%E5%89%A7%E9%99%A4%E4%BA%86%E5%8E%9F%E9%85%8D%E5%85%A8%E5%91%98%E5%A5%BD%E5%97%91%23&t=31&band_rank=22&Refer=top) 388200
 1. [吴奇隆黄子弘凡被牛赶了](https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%A5%87%E9%9A%86%E9%BB%84%E5%AD%90%E5%BC%98%E5%87%A1%E8%A2%AB%E7%89%9B%E8%B5%B6%E4%BA%86%23&t=31&band_rank=8&Refer=top) 375687
@@ -54,12 +54,13 @@
 1. [张杰扬州音乐节](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9D%B0%E6%89%AC%E5%B7%9E%E9%9F%B3%E4%B9%90%E8%8A%82&t=31&band_rank=44&Refer=top) 115957
 1. [最大的收获是吴梦洁](https://s.weibo.com/weibo?q=%E6%9C%80%E5%A4%A7%E7%9A%84%E6%94%B6%E8%8E%B7%E6%98%AF%E5%90%B4%E6%A2%A6%E6%B4%81&t=31&band_rank=45&Refer=top) 115082
 1. [夫妻爬泰山将孩子独留车内4小时](https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E7%88%AC%E6%B3%B0%E5%B1%B1%E5%B0%86%E5%AD%A9%E5%AD%90%E7%8B%AC%E7%95%99%E8%BD%A6%E5%86%854%E5%B0%8F%E6%97%B6%23&t=31&band_rank=46&Refer=top) 113882
-1. [IU演唱会边跳candy边提裤子](https://s.weibo.com/weibo?q=%23IU%E6%BC%94%E5%94%B1%E4%BC%9A%E8%BE%B9%E8%B7%B3candy%E8%BE%B9%E6%8F%90%E8%A3%A4%E5%AD%90%23&t=31&band_rank=47&Refer=top) 110567
+1. [IU演唱会边跳candy边提裤子](https://s.weibo.com/weibo?q=%23IU%E6%BC%94%E5%94%B1%E4%BC%9A%E8%BE%B9%E8%B7%B3candy%E8%BE%B9%E6%8F%90%E8%A3%A4%E5%AD%90%23&t=31&band_rank=47&Refer=top) 112944
 1. [丞磊去了西城男孩演唱会](https://s.weibo.com/weibo?q=%23%E4%B8%9E%E7%A3%8A%E5%8E%BB%E4%BA%86%E8%A5%BF%E5%9F%8E%E7%94%B7%E5%AD%A9%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=48&Refer=top) 104065
 1. [范丞丞临时抱冰脚](https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E4%B8%B4%E6%97%B6%E6%8A%B1%E5%86%B0%E8%84%9A%23&t=31&band_rank=49&Refer=top) 101713
 1. [汪顺破亚洲纪录](https://s.weibo.com/weibo?q=%23%E6%B1%AA%E9%A1%BA%E7%A0%B4%E4%BA%9A%E6%B4%B2%E7%BA%AA%E5%BD%95%23&t=31&band_rank=42&Refer=top) 100933
 1. [王心凌演唱会嘉宾](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%BF%83%E5%87%8C%E6%BC%94%E5%94%B1%E4%BC%9A%E5%98%89%E5%AE%BE%23&t=31&band_rank=50&Refer=top) 100750
 1. [何不与我们同修永享极乐](https://s.weibo.com/weibo?q=%E4%BD%95%E4%B8%8D%E4%B8%8E%E6%88%91%E4%BB%AC%E5%90%8C%E4%BF%AE%E6%B0%B8%E4%BA%AB%E6%9E%81%E4%B9%90&t=31&band_rank=50&Refer=top) 93036
+1. [大梦](https://s.weibo.com/weibo?q=%E5%A4%A7%E6%A2%A6&t=31&band_rank=50&Refer=top) 73598
 <!-- END -->
 
 历史归档 [./archives](./archives)
