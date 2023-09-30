@@ -35,6 +35,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%96%9C%E6%8A%A5%E6%9E%97%E5%8F%8C%E7%A6%BB%E5%A9%9A%E4%BA%86%23&t=31&band_rank=8&Refer=top",
     "hot": 622767
   },
+  "韩国地铁凌晨五点坐满了人": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%9C%B0%E9%93%81%E5%87%8C%E6%99%A8%E4%BA%94%E7%82%B9%E5%9D%90%E6%BB%A1%E4%BA%86%E4%BA%BA%23&t=31&band_rank=28&Refer=top",
+    "hot": 558566
+  },
   "郑恺苗苗相互治愈": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%83%91%E6%81%BA%E8%8B%97%E8%8B%97%E7%9B%B8%E4%BA%92%E6%B2%BB%E6%84%88%23&t=31&band_rank=9&Refer=top",
     "hot": 555584
@@ -46,10 +50,6 @@
   "易烊千玺小网站文案": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%B0%8F%E7%BD%91%E7%AB%99%E6%96%87%E6%A1%88%23&t=31&band_rank=11&Refer=top",
     "hot": 512657
-  },
-  "韩国地铁凌晨五点坐满了人": {
-    "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%9C%B0%E9%93%81%E5%87%8C%E6%99%A8%E4%BA%94%E7%82%B9%E5%9D%90%E6%BB%A1%E4%BA%86%E4%BA%BA%23&t=31&band_rank=28&Refer=top",
-    "hot": 481563
   },
   "莎头卫冕": {
     "url": "https://s.weibo.com/weibo?q=%E8%8E%8E%E5%A4%B4%E5%8D%AB%E5%86%95&t=31&band_rank=12&Refer=top",
@@ -210,5 +210,13 @@
   "姚明霍启刚同框": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%A7%9A%E6%98%8E%E9%9C%8D%E5%90%AF%E5%88%9A%E5%90%8C%E6%A1%86%23&t=31&band_rank=50&Refer=top",
     "hot": 118679
+  },
+  "九月再见": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B9%9D%E6%9C%88%E5%86%8D%E8%A7%81%23&t=31&band_rank=46&Refer=top",
+    "hot": 67078
+  },
+  "重庆银河方舟音乐节举行": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E9%93%B6%E6%B2%B3%E6%96%B9%E8%88%9F%E9%9F%B3%E4%B9%90%E8%8A%82%E4%B8%BE%E8%A1%8C%23&t=31&band_rank=50&Refer=top",
+    "hot": 67074
   }
 }
