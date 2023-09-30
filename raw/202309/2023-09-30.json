@@ -25,7 +25,7 @@
   },
   "原来这才叫休息": {
     "url": "https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E8%BF%99%E6%89%8D%E5%8F%AB%E4%BC%91%E6%81%AF&t=31&band_rank=16&Refer=top",
-    "hot": 1251540
+    "hot": 1507584
   },
   "盛世中华 大美中国": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%9B%9B%E4%B8%96%E4%B8%AD%E5%8D%8E%20%E5%A4%A7%E7%BE%8E%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top",
@@ -67,6 +67,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%B0%B4%E6%9E%9C%E9%87%8C%E8%97%8F49%E5%8F%AA%E6%98%86%E8%99%AB%E5%85%A5%E5%A2%83%E8%A2%AB%E6%9F%A5%23&t=31&band_rank=39&Refer=top",
     "hot": 621990
   },
+  "女子买票被抢票软件提示多买12站": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B9%B0%E7%A5%A8%E8%A2%AB%E6%8A%A2%E7%A5%A8%E8%BD%AF%E4%BB%B6%E6%8F%90%E7%A4%BA%E5%A4%9A%E4%B9%B012%E7%AB%99%23&t=31&band_rank=36&Refer=top",
+    "hot": 620929
+  },
   "通报称女生遭4同学掌掴为肢体冲突引争议": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%80%9A%E6%8A%A5%E7%A7%B0%E5%A5%B3%E7%94%9F%E9%81%AD4%E5%90%8C%E5%AD%A6%E6%8E%8C%E6%8E%B4%E4%B8%BA%E8%82%A2%E4%BD%93%E5%86%B2%E7%AA%81%E5%BC%95%E4%BA%89%E8%AE%AE%23&t=31&band_rank=5&Refer=top",
     "hot": 590217
@@ -82,10 +86,6 @@
   "黄绮珊为跑调道歉": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%BB%AE%E7%8F%8A%E4%B8%BA%E8%B7%91%E8%B0%83%E9%81%93%E6%AD%89%23&t=31&band_rank=7&Refer=top",
     "hot": 542168
-  },
-  "女子买票被抢票软件提示多买12站": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B9%B0%E7%A5%A8%E8%A2%AB%E6%8A%A2%E7%A5%A8%E8%BD%AF%E4%BB%B6%E6%8F%90%E7%A4%BA%E5%A4%9A%E4%B9%B012%E7%AB%99%23&t=31&band_rank=36&Refer=top",
-    "hot": 530582
   },
   "小长假不得连炫八天甄嬛传": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%95%BF%E5%81%87%E4%B8%8D%E5%BE%97%E8%BF%9E%E7%82%AB%E5%85%AB%E5%A4%A9%E7%94%84%E5%AC%9B%E4%BC%A0%23&t=31&band_rank=31&Refer=top",
@@ -163,6 +163,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%AE%B6%E5%8D%B0%E4%B8%BA%E4%BD%95%E8%A2%AB%E9%87%87%E5%8F%96%E5%BC%BA%E5%88%B6%E6%8E%AA%E6%96%BD%23&t=31&band_rank=16&Refer=top",
     "hot": 416961
   },
+  "废文": {
+    "url": "https://s.weibo.com/weibo?q=%E5%BA%9F%E6%96%87&t=31&band_rank=19&Refer=top",
+    "hot": 415618
+  },
   "奥尼尔单手能握住四瓶矿泉水": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%A5%A5%E5%B0%BC%E5%B0%94%E5%8D%95%E6%89%8B%E8%83%BD%E6%8F%A1%E4%BD%8F%E5%9B%9B%E7%93%B6%E7%9F%BF%E6%B3%89%E6%B0%B4%23&t=31&band_rank=9&Refer=top",
     "hot": 399844
@@ -202,10 +206,6 @@
   "iPhone16系列机型尺寸曝光": {
     "url": "https://s.weibo.com/weibo?q=%23iPhone16%E7%B3%BB%E5%88%97%E6%9C%BA%E5%9E%8B%E5%B0%BA%E5%AF%B8%E6%9B%9D%E5%85%89%23&t=31&band_rank=36&Refer=top",
     "hot": 370302
-  },
-  "废文": {
-    "url": "https://s.weibo.com/weibo?q=%E5%BA%9F%E6%96%87&t=31&band_rank=19&Refer=top",
-    "hot": 353783
   },
   "于湉自曝曾患红斑狼疮": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%B9%89%E8%87%AA%E6%9B%9D%E6%9B%BE%E6%82%A3%E7%BA%A2%E6%96%91%E7%8B%BC%E7%96%AE%23&t=31&band_rank=13&Refer=top",
@@ -283,6 +283,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%B7%B4%E9%BB%8E%E8%A1%97%E5%A4%B4%E7%9A%84%E7%BE%8E%E7%A5%9E%23&t=31&band_rank=18&Refer=top",
     "hot": 272338
   },
+  "吴昕 解决情绪比较有效的就是哭": {
+    "url": "https://s.weibo.com/weibo?q=%E5%90%B4%E6%98%95%20%E8%A7%A3%E5%86%B3%E6%83%85%E7%BB%AA%E6%AF%94%E8%BE%83%E6%9C%89%E6%95%88%E7%9A%84%E5%B0%B1%E6%98%AF%E5%93%AD&t=31&band_rank=23&Refer=top",
+    "hot": 272158
+  },
   "网友巴黎偶遇白鹿吃火锅": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E5%B7%B4%E9%BB%8E%E5%81%B6%E9%81%87%E7%99%BD%E9%B9%BF%E5%90%83%E7%81%AB%E9%94%85%23&t=31&band_rank=28&Refer=top",
     "hot": 271462
@@ -305,7 +309,7 @@
   },
   "宋佳在机场遇到龚俊的反应": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BD%B3%E5%9C%A8%E6%9C%BA%E5%9C%BA%E9%81%87%E5%88%B0%E9%BE%9A%E4%BF%8A%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=35&Refer=top",
-    "hot": 232835
+    "hot": 240677
   },
   "披萨里的白色支架是干什么用的": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%8A%AB%E8%90%A8%E9%87%8C%E7%9A%84%E7%99%BD%E8%89%B2%E6%94%AF%E6%9E%B6%E6%98%AF%E5%B9%B2%E4%BB%80%E4%B9%88%E7%94%A8%E7%9A%84%23&t=31&band_rank=31&Refer=top",
@@ -375,6 +379,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E8%B0%A2%E9%9C%87%E4%B8%9A10%E7%A7%9207%23&t=31&band_rank=20&Refer=top",
     "hot": 200295
   },
+  "陈雨菲": {
+    "url": "https://s.weibo.com/weibo?q=%E9%99%88%E9%9B%A8%E8%8F%B2&t=31&band_rank=44&Refer=top",
+    "hot": 199235
+  },
   "檀健次炎明熹复古港风唱跳": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E7%82%8E%E6%98%8E%E7%86%B9%E5%A4%8D%E5%8F%A4%E6%B8%AF%E9%A3%8E%E5%94%B1%E8%B7%B3%23&t=31&band_rank=22&Refer=top",
     "hot": 199051
@@ -394,6 +402,14 @@
   "2000岁文物让我的中秋DNA动了": {
     "url": "https://s.weibo.com/weibo?q=%232000%E5%B2%81%E6%96%87%E7%89%A9%E8%AE%A9%E6%88%91%E7%9A%84%E4%B8%AD%E7%A7%8BDNA%E5%8A%A8%E4%BA%86%23&t=31&band_rank=34&Refer=top",
     "hot": 197277
+  },
+  "这就是年画里娃娃抱的大鱼": {
+    "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E5%B9%B4%E7%94%BB%E9%87%8C%E5%A8%83%E5%A8%83%E6%8A%B1%E7%9A%84%E5%A4%A7%E9%B1%BC%23&t=31&band_rank=30&Refer=top",
+    "hot": 197022
+  },
+  "被黄晓明和实习生的共情触动到了": {
+    "url": "https://s.weibo.com/weibo?q=%E8%A2%AB%E9%BB%84%E6%99%93%E6%98%8E%E5%92%8C%E5%AE%9E%E4%B9%A0%E7%94%9F%E7%9A%84%E5%85%B1%E6%83%85%E8%A7%A6%E5%8A%A8%E5%88%B0%E4%BA%86&t=31&band_rank=31&Refer=top",
+    "hot": 196727
   },
   "许家印": {
     "url": "https://s.weibo.com/weibo?q=%E8%AE%B8%E5%AE%B6%E5%8D%B0&t=31&band_rank=28&Refer=top",
@@ -437,7 +453,7 @@
   },
   "志愿军 超预期": {
     "url": "https://s.weibo.com/weibo?q=%E5%BF%97%E6%84%BF%E5%86%9B%20%E8%B6%85%E9%A2%84%E6%9C%9F&t=31&band_rank=44&Refer=top",
-    "hot": 178609
+    "hot": 185063
   },
   "王一博晒月亮送中秋祝福": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%99%92%E6%9C%88%E4%BA%AE%E9%80%81%E4%B8%AD%E7%A7%8B%E7%A5%9D%E7%A6%8F%23&t=31&band_rank=37&Refer=top",
@@ -454,6 +470,10 @@
   "九尾 背起小书包": {
     "url": "https://s.weibo.com/weibo?q=%E4%B9%9D%E5%B0%BE%20%E8%83%8C%E8%B5%B7%E5%B0%8F%E4%B9%A6%E5%8C%85&t=31&band_rank=40&Refer=top",
     "hot": 173719
+  },
+  "在敦煌月牙泉歌唱我的祖国": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%9C%A8%E6%95%A6%E7%85%8C%E6%9C%88%E7%89%99%E6%B3%89%E6%AD%8C%E5%94%B1%E6%88%91%E7%9A%84%E7%A5%96%E5%9B%BD%23&t=31&band_rank=41&Refer=top",
+    "hot": 170117
   },
   "杨幂送外国友人中国瓷器": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E9%80%81%E5%A4%96%E5%9B%BD%E5%8F%8B%E4%BA%BA%E4%B8%AD%E5%9B%BD%E7%93%B7%E5%99%A8%23&t=31&band_rank=36&Refer=top",
@@ -478,10 +498,6 @@
   "中秋难团圆父子俩隔空互相安慰": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%A7%8B%E9%9A%BE%E5%9B%A2%E5%9C%86%E7%88%B6%E5%AD%90%E4%BF%A9%E9%9A%94%E7%A9%BA%E4%BA%92%E7%9B%B8%E5%AE%89%E6%85%B0%23&t=31&band_rank=43&Refer=top",
     "hot": 158204
-  },
-  "陈雨菲": {
-    "url": "https://s.weibo.com/weibo?q=%E9%99%88%E9%9B%A8%E8%8F%B2&t=31&band_rank=44&Refer=top",
-    "hot": 157688
   },
   "中国队105金领跑奖牌榜": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F105%E9%87%91%E9%A2%86%E8%B7%91%E5%A5%96%E7%89%8C%E6%A6%9C%23&t=31&band_rank=37&Refer=top",
@@ -587,6 +603,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%BC%A0%E5%90%88%E5%BD%B1%E7%9A%84%E5%90%AB%E9%87%91%E9%87%8F%E5%A4%AA%E9%AB%98%E4%BA%86%23&t=31&band_rank=50&Refer=top",
     "hot": 122636
   },
+  "人民不会忘记": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E4%B8%8D%E4%BC%9A%E5%BF%98%E8%AE%B0%23&t=31&band_rank=50&Refer=top",
+    "hot": 122519
+  },
   "周深直播场面一度混乱": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E7%9B%B4%E6%92%AD%E5%9C%BA%E9%9D%A2%E4%B8%80%E5%BA%A6%E6%B7%B7%E4%B9%B1%23&t=31&band_rank=27&Refer=top",
     "hot": 122125
@@ -598,10 +618,6 @@
   "江喜第一次收到红包": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%B1%9F%E5%96%9C%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%94%B6%E5%88%B0%E7%BA%A2%E5%8C%85%23&t=31&band_rank=26&Refer=top",
     "hot": 118432
-  },
-  "人民不会忘记": {
-    "url": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E4%B8%8D%E4%BC%9A%E5%BF%98%E8%AE%B0%23&t=31&band_rank=50&Refer=top",
-    "hot": 117872
   },
   "一条plog告别九月": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%9D%A1plog%E5%91%8A%E5%88%AB%E4%B9%9D%E6%9C%88%23&t=31&band_rank=30&Refer=top",
