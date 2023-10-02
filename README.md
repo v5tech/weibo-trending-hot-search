@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-10-03 02:38:33.814459 
+最后更新时间 2023-10-03 02:48:56.869460 
 1. [DOTA2中国队夺冠](https://s.weibo.com/weibo?q=%23DOTA2%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%A4%BA%E5%86%A0%23&t=31&band_rank=1&Refer=top) 3544368
 1. [英雄联盟](https://s.weibo.com/weibo?q=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F&t=31&band_rank=2&Refer=top) 1421408
 1. [中国天眼新发现76颗暗弱的偶发脉冲星](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A4%A9%E7%9C%BC%E6%96%B0%E5%8F%91%E7%8E%B076%E9%A2%97%E6%9A%97%E5%BC%B1%E7%9A%84%E5%81%B6%E5%8F%91%E8%84%89%E5%86%B2%E6%98%9F%23&t=31&band_rank=3&Refer=top) 1248146
