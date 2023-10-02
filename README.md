@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-10-03 01:25:04.561605 
+最后更新时间 2023-10-03 01:34:11.277973 
 1. [DOTA2中国队夺冠](https://s.weibo.com/weibo?q=%23DOTA2%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%A4%BA%E5%86%A0%23&t=31&band_rank=1&Refer=top) 3544368
 1. [英雄联盟](https://s.weibo.com/weibo?q=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F&t=31&band_rank=2&Refer=top) 1421408
 1. [中国天眼新发现76颗暗弱的偶发脉冲星](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A4%A9%E7%9C%BC%E6%96%B0%E5%8F%91%E7%8E%B076%E9%A2%97%E6%9A%97%E5%BC%B1%E7%9A%84%E5%81%B6%E5%8F%91%E8%84%89%E5%86%B2%E6%98%9F%23&t=31&band_rank=3&Refer=top) 1248146
@@ -29,12 +29,12 @@
 1. [金泰妍Amber坐一起](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%B3%B0%E5%A6%8DAmber%E5%9D%90%E4%B8%80%E8%B5%B7%23&t=31&band_rank=18&Refer=top) 440218
 1. [九图看完前任4](https://s.weibo.com/weibo?q=%E4%B9%9D%E5%9B%BE%E7%9C%8B%E5%AE%8C%E5%89%8D%E4%BB%BB4&t=31&band_rank=19&Refer=top) 419768
 1. [邓亚萍 王楚钦涨球扛住取胜](https://s.weibo.com/weibo?q=%E9%82%93%E4%BA%9A%E8%90%8D%20%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%B6%A8%E7%90%83%E6%89%9B%E4%BD%8F%E5%8F%96%E8%83%9C&t=31&band_rank=27&Refer=top) 414753
+1. [秦始皇想不到两千多年后六国子民花钱来拜](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%A7%8B%E7%9A%87%E6%83%B3%E4%B8%8D%E5%88%B0%E4%B8%A4%E5%8D%83%E5%A4%9A%E5%B9%B4%E5%90%8E%E5%85%AD%E5%9B%BD%E5%AD%90%E6%B0%91%E8%8A%B1%E9%92%B1%E6%9D%A5%E6%8B%9C%23&t=31&band_rank=26&Refer=top) 354795
 1. [莲花楼](https://s.weibo.com/weibo?q=%E8%8E%B2%E8%8A%B1%E6%A5%BC&t=31&band_rank=20&Refer=top) 345812
 1. [亚运电竞中国4金1铜收官](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E7%94%B5%E7%AB%9E%E4%B8%AD%E5%9B%BD4%E9%87%911%E9%93%9C%E6%94%B6%E5%AE%98%23&t=31&band_rank=21&Refer=top) 340260
 1. [林双又捉到出轨男](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%8F%8C%E5%8F%88%E6%8D%89%E5%88%B0%E5%87%BA%E8%BD%A8%E7%94%B7%23&t=31&band_rank=22&Refer=top) 335901
 1. [杭州亚运会刀塔决赛中国队夺冠](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%88%80%E5%A1%94%E5%86%B3%E8%B5%9B%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%A4%BA%E5%86%A0%23&t=31&band_rank=24&Refer=top) 298811
 1. [樊振东3比4王楚钦](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C3%E6%AF%944%E7%8E%8B%E6%A5%9A%E9%92%A6%23&t=31&band_rank=25&Refer=top) 296083
-1. [秦始皇想不到两千多年后六国子民花钱来拜](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%A7%8B%E7%9A%87%E6%83%B3%E4%B8%8D%E5%88%B0%E4%B8%A4%E5%8D%83%E5%A4%9A%E5%B9%B4%E5%90%8E%E5%85%AD%E5%9B%BD%E5%AD%90%E6%B0%91%E8%8A%B1%E9%92%B1%E6%9D%A5%E6%8B%9C%23&t=31&band_rank=26&Refer=top) 295336
 1. [樊振东没有微博](https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%B2%A1%E6%9C%89%E5%BE%AE%E5%8D%9A&t=31&band_rank=28&Refer=top) 281157
 1. [王楚钦说唯一的瑕疵是头发没剪好](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%AF%B4%E5%94%AF%E4%B8%80%E7%9A%84%E7%91%95%E7%96%B5%E6%98%AF%E5%A4%B4%E5%8F%91%E6%B2%A1%E5%89%AA%E5%A5%BD%23&t=31&band_rank=29&Refer=top) 272287
 1. [王一博时装周金发](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%97%B6%E8%A3%85%E5%91%A8%E9%87%91%E5%8F%91%23&t=31&band_rank=30&Refer=top) 245674
