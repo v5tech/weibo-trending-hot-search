@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-10-03 02:29:08.663909 
+最后更新时间 2023-10-03 02:38:33.814459 
 1. [DOTA2中国队夺冠](https://s.weibo.com/weibo?q=%23DOTA2%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%A4%BA%E5%86%A0%23&t=31&band_rank=1&Refer=top) 3544368
 1. [英雄联盟](https://s.weibo.com/weibo?q=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F&t=31&band_rank=2&Refer=top) 1421408
 1. [中国天眼新发现76颗暗弱的偶发脉冲星](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A4%A9%E7%9C%BC%E6%96%B0%E5%8F%91%E7%8E%B076%E9%A2%97%E6%9A%97%E5%BC%B1%E7%9A%84%E5%81%B6%E5%8F%91%E8%84%89%E5%86%B2%E6%98%9F%23&t=31&band_rank=3&Refer=top) 1248146
@@ -63,6 +63,7 @@
 1. [奥尼尔杭州街头骑电动车抱萌娃](https://s.weibo.com/weibo?q=%23%E5%A5%A5%E5%B0%BC%E5%B0%94%E6%9D%AD%E5%B7%9E%E8%A1%97%E5%A4%B4%E9%AA%91%E7%94%B5%E5%8A%A8%E8%BD%A6%E6%8A%B1%E8%90%8C%E5%A8%83%23&t=31&band_rank=50&Refer=top) 117219
 1. [黄轩问为什么都叫我漂亮小狗](https://s.weibo.com/weibo?q=%23%E9%BB%84%E8%BD%A9%E9%97%AE%E4%B8%BA%E4%BB%80%E4%B9%88%E9%83%BD%E5%8F%AB%E6%88%91%E6%BC%82%E4%BA%AE%E5%B0%8F%E7%8B%97%23&t=31&band_rank=40&Refer=top) 110087
 1. [佛山国潮音乐节](https://s.weibo.com/weibo?q=%E4%BD%9B%E5%B1%B1%E5%9B%BD%E6%BD%AE%E9%9F%B3%E4%B9%90%E8%8A%82&t=31&band_rank=44&Refer=top) 55706
+1. [2023国庆档新片总票房破15亿](https://s.weibo.com/weibo?q=%232023%E5%9B%BD%E5%BA%86%E6%A1%A3%E6%96%B0%E7%89%87%E6%80%BB%E7%A5%A8%E6%88%BF%E7%A0%B415%E4%BA%BF%23&t=31&band_rank=47&Refer=top) 34755
 <!-- END -->
 
 历史归档 [./archives](./archives)
