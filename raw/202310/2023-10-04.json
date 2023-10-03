@@ -227,12 +227,12 @@
     "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E8%AF%9A%E8%A2%AB%E5%A5%B3%E5%8F%8B%E5%87%BA%E5%8D%96%E7%BB%91%E6%9E%B6%23&t=31&band_rank=50&Refer=top",
     "hot": 84099
   },
+  "台风": {
+    "url": "https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E&t=31&band_rank=40&Refer=top",
+    "hot": 70958
+  },
   "韩素希演我精神状态": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%B4%A0%E5%B8%8C%E6%BC%94%E6%88%91%E7%B2%BE%E7%A5%9E%E7%8A%B6%E6%80%81%23&t=31&band_rank=46&Refer=top",
     "hot": 56863
-  },
-  "台风": {
-    "url": "https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E&t=31&band_rank=40&Refer=top",
-    "hot": 48516
   }
 }
