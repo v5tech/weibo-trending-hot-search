@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-10-04 04:22:05.430102 
+最后更新时间 2023-10-04 04:34:25.931803 
 1. [我P都不敢P成这样](https://s.weibo.com/weibo?q=%23%E6%88%91P%E9%83%BD%E4%B8%8D%E6%95%A2P%E6%88%90%E8%BF%99%E6%A0%B7%23&t=31&band_rank=1&Refer=top) 1551105
 1. [全红婵10101010101010截图打卡](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B510101010101010%E6%88%AA%E5%9B%BE%E6%89%93%E5%8D%A1%23&t=31&band_rank=4&Refer=top) 920675
 1. [小伙称因长期抠鼻子感染丹毒](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E7%A7%B0%E5%9B%A0%E9%95%BF%E6%9C%9F%E6%8A%A0%E9%BC%BB%E5%AD%90%E6%84%9F%E6%9F%93%E4%B8%B9%E6%AF%92%23&t=31&band_rank=48&Refer=top) 841251
@@ -68,7 +68,8 @@
 1. [黄子诚被女友出卖绑架](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E8%AF%9A%E8%A2%AB%E5%A5%B3%E5%8F%8B%E5%87%BA%E5%8D%96%E7%BB%91%E6%9E%B6%23&t=31&band_rank=50&Refer=top) 84099
 1. [台风](https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E&t=31&band_rank=40&Refer=top) 71908
 1. [韩素希演我精神状态](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%B4%A0%E5%B8%8C%E6%BC%94%E6%88%91%E7%B2%BE%E7%A5%9E%E7%8A%B6%E6%80%81%23&t=31&band_rank=46&Refer=top) 56863
-1. [上海人正在外滩排队登月](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%BA%BA%E6%AD%A3%E5%9C%A8%E5%A4%96%E6%BB%A9%E6%8E%92%E9%98%9F%E7%99%BB%E6%9C%88%23&t=31&band_rank=38&Refer=top) 29218
+1. [上海人正在外滩排队登月](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%BA%BA%E6%AD%A3%E5%9C%A8%E5%A4%96%E6%BB%A9%E6%8E%92%E9%98%9F%E7%99%BB%E6%9C%88%23&t=31&band_rank=38&Refer=top) 32083
+1. [黄晓明谈AI换脸代言](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E8%B0%88AI%E6%8D%A2%E8%84%B8%E4%BB%A3%E8%A8%80%23&t=31&band_rank=44&Refer=top) 17862
 <!-- END -->
 
 历史归档 [./archives](./archives)
