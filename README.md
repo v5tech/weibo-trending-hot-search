@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-10-04 02:39:10.155606 
+最后更新时间 2023-10-04 02:48:56.117356 
 1. [我P都不敢P成这样](https://s.weibo.com/weibo?q=%23%E6%88%91P%E9%83%BD%E4%B8%8D%E6%95%A2P%E6%88%90%E8%BF%99%E6%A0%B7%23&t=31&band_rank=1&Refer=top) 1551105
 1. [全红婵10101010101010截图打卡](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B510101010101010%E6%88%AA%E5%9B%BE%E6%89%93%E5%8D%A1%23&t=31&band_rank=4&Refer=top) 920675
 1. [小伙称因长期抠鼻子感染丹毒](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E7%A7%B0%E5%9B%A0%E9%95%BF%E6%9C%9F%E6%8A%A0%E9%BC%BB%E5%AD%90%E6%84%9F%E6%9F%93%E4%B8%B9%E6%AF%92%23&t=31&band_rank=48&Refer=top) 841251
