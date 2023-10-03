@@ -7,18 +7,18 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-10-04 01:09:24.973769 
+最后更新时间 2023-10-04 01:23:48.695370 
 1. [我P都不敢P成这样](https://s.weibo.com/weibo?q=%23%E6%88%91P%E9%83%BD%E4%B8%8D%E6%95%A2P%E6%88%90%E8%BF%99%E6%A0%B7%23&t=31&band_rank=1&Refer=top) 1551105
 1. [全红婵10101010101010截图打卡](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B510101010101010%E6%88%AA%E5%9B%BE%E6%89%93%E5%8D%A1%23&t=31&band_rank=4&Refer=top) 920675
+1. [小伙称因长期抠鼻子感染丹毒](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E7%A7%B0%E5%9B%A0%E9%95%BF%E6%9C%9F%E6%8A%A0%E9%BC%BB%E5%AD%90%E6%84%9F%E6%9F%93%E4%B8%B9%E6%AF%92%23&t=31&band_rank=48&Refer=top) 841251
 1. [满江红](https://s.weibo.com/weibo?q=%E6%BB%A1%E6%B1%9F%E7%BA%A2&t=31&band_rank=2&Refer=top) 791381
 1. [沉浸式感觉金秋神州绝美风光](https://s.weibo.com/weibo?q=%23%E6%B2%89%E6%B5%B8%E5%BC%8F%E6%84%9F%E8%A7%89%E9%87%91%E7%A7%8B%E7%A5%9E%E5%B7%9E%E7%BB%9D%E7%BE%8E%E9%A3%8E%E5%85%89%23&t=31&band_rank=3&Refer=top) 764174
 1. [日本女足全队向水庆霞鞠躬](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A5%B3%E8%B6%B3%E5%85%A8%E9%98%9F%E5%90%91%E6%B0%B4%E5%BA%86%E9%9C%9E%E9%9E%A0%E8%BA%AC%23&t=31&band_rank=5&Refer=top) 711794
-1. [小伙称因长期抠鼻子感染丹毒](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E7%A7%B0%E5%9B%A0%E9%95%BF%E6%9C%9F%E6%8A%A0%E9%BC%BB%E5%AD%90%E6%84%9F%E6%9F%93%E4%B8%B9%E6%AF%92%23&t=31&band_rank=48&Refer=top) 665761
 1. [王楚钦说自己世界第一下榜太快](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%AF%B4%E8%87%AA%E5%B7%B1%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80%E4%B8%8B%E6%A6%9C%E5%A4%AA%E5%BF%AB%23&t=31&band_rank=6&Refer=top) 575435
 1. [全红婵跳水看呆了外国网友](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E8%B7%B3%E6%B0%B4%E7%9C%8B%E5%91%86%E4%BA%86%E5%A4%96%E5%9B%BD%E7%BD%91%E5%8F%8B%23&t=31&band_rank=7&Refer=top) 457211
 1. [全红婵的采访一般只有三个字](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E7%9A%84%E9%87%87%E8%AE%BF%E4%B8%80%E8%88%AC%E5%8F%AA%E6%9C%89%E4%B8%89%E4%B8%AA%E5%AD%97%23&t=31&band_rank=8&Refer=top) 354943
 1. [日媒说的2000万中国游客在哪](https://s.weibo.com/weibo?q=%E6%97%A5%E5%AA%92%E8%AF%B4%E7%9A%842000%E4%B8%87%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%9C%A8%E5%93%AA&t=31&band_rank=9&Refer=top) 348789
-1. [泰国曼谷暹罗百丽宫疑发生枪击案](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E6%9B%BC%E8%B0%B7%E6%9A%B9%E7%BD%97%E7%99%BE%E4%B8%BD%E5%AE%AB%E7%96%91%E5%8F%91%E7%94%9F%E6%9E%AA%E5%87%BB%E6%A1%88%23&t=31&band_rank=34&Refer=top) 332686
+1. [泰国曼谷暹罗百丽宫疑发生枪击案](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E6%9B%BC%E8%B0%B7%E6%9A%B9%E7%BD%97%E7%99%BE%E4%B8%BD%E5%AE%AB%E7%96%91%E5%8F%91%E7%94%9F%E6%9E%AA%E5%87%BB%E6%A1%88%23&t=31&band_rank=34&Refer=top) 345888
 1. [颈椎不好建议别睡软枕头](https://s.weibo.com/weibo?q=%23%E9%A2%88%E6%A4%8E%E4%B8%8D%E5%A5%BD%E5%BB%BA%E8%AE%AE%E5%88%AB%E7%9D%A1%E8%BD%AF%E6%9E%95%E5%A4%B4%23&t=31&band_rank=10&Refer=top) 298328
 1. [湖南岳阳一婚车发生车祸](https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E5%B2%B3%E9%98%B3%E4%B8%80%E5%A9%9A%E8%BD%A6%E5%8F%91%E7%94%9F%E8%BD%A6%E7%A5%B8%23&t=31&band_rank=11&Refer=top) 289319
 1. [暹罗枪击案一名中国游客死亡](https://s.weibo.com/weibo?q=%23%E6%9A%B9%E7%BD%97%E6%9E%AA%E5%87%BB%E6%A1%88%E4%B8%80%E5%90%8D%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=12&Refer=top) 287429
