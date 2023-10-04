@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-10-05 01:34:14.416526 
+最后更新时间 2023-10-05 01:48:52.779839 
 1. [赵继伟道歉](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E7%BB%A7%E4%BC%9F%E9%81%93%E6%AD%89%23&t=31&band_rank=1&Refer=top) 2413918
 1. [躺在床上看手机时打开闪光灯](https://s.weibo.com/weibo?q=%E8%BA%BA%E5%9C%A8%E5%BA%8A%E4%B8%8A%E7%9C%8B%E6%89%8B%E6%9C%BA%E6%97%B6%E6%89%93%E5%BC%80%E9%97%AA%E5%85%89%E7%81%AF&t=31&band_rank=17&Refer=top) 1888729
 1. [姚明为缺席发布会道歉](https://s.weibo.com/weibo?q=%23%E5%A7%9A%E6%98%8E%E4%B8%BA%E7%BC%BA%E5%B8%AD%E5%8F%91%E5%B8%83%E4%BC%9A%E9%81%93%E6%AD%89%23&t=31&band_rank=2&Refer=top) 1550997
