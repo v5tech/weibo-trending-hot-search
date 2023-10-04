@@ -7,9 +7,9 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-10-05 00:48:54.579996 
+最后更新时间 2023-10-05 01:09:20.427400 
 1. [赵继伟道歉](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E7%BB%A7%E4%BC%9F%E9%81%93%E6%AD%89%23&t=31&band_rank=1&Refer=top) 2413918
-1. [躺在床上看手机时打开闪光灯](https://s.weibo.com/weibo?q=%E8%BA%BA%E5%9C%A8%E5%BA%8A%E4%B8%8A%E7%9C%8B%E6%89%8B%E6%9C%BA%E6%97%B6%E6%89%93%E5%BC%80%E9%97%AA%E5%85%89%E7%81%AF&t=31&band_rank=17&Refer=top) 1774949
+1. [躺在床上看手机时打开闪光灯](https://s.weibo.com/weibo?q=%E8%BA%BA%E5%9C%A8%E5%BA%8A%E4%B8%8A%E7%9C%8B%E6%89%8B%E6%9C%BA%E6%97%B6%E6%89%93%E5%BC%80%E9%97%AA%E5%85%89%E7%81%AF&t=31&band_rank=17&Refer=top) 1888729
 1. [姚明为缺席发布会道歉](https://s.weibo.com/weibo?q=%23%E5%A7%9A%E6%98%8E%E4%B8%BA%E7%BC%BA%E5%B8%AD%E5%8F%91%E5%B8%83%E4%BC%9A%E9%81%93%E6%AD%89%23&t=31&band_rank=2&Refer=top) 1550997
 1. [这次科考为何选择卓奥友峰](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%AC%A1%E7%A7%91%E8%80%83%E4%B8%BA%E4%BD%95%E9%80%89%E6%8B%A9%E5%8D%93%E5%A5%A5%E5%8F%8B%E5%B3%B0%23&t=31&band_rank=3&Refer=top) 1450576
 1. [韩国的歧视真的绝了](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%9A%84%E6%AD%A7%E8%A7%86%E7%9C%9F%E7%9A%84%E7%BB%9D%E4%BA%86%23&t=31&band_rank=4&Refer=top) 1263539
@@ -26,7 +26,7 @@
 1. [男篮发布会](https://s.weibo.com/weibo?q=%E7%94%B7%E7%AF%AE%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=15&Refer=top) 520682
 1. [我真受不了这暧昧氛围了](https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9C%9F%E5%8F%97%E4%B8%8D%E4%BA%86%E8%BF%99%E6%9A%A7%E6%98%A7%E6%B0%9B%E5%9B%B4%E4%BA%86%23&t=31&band_rank=16&Refer=top) 509707
 1. [南阳警方称目前还未抓到嫌疑人](https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%98%B3%E8%AD%A6%E6%96%B9%E7%A7%B0%E7%9B%AE%E5%89%8D%E8%BF%98%E6%9C%AA%E6%8A%93%E5%88%B0%E5%AB%8C%E7%96%91%E4%BA%BA%23&t=31&band_rank=18&Refer=top) 437835
-1. [卫明一家人的报应终于来了](https://s.weibo.com/weibo?q=%23%E5%8D%AB%E6%98%8E%E4%B8%80%E5%AE%B6%E4%BA%BA%E7%9A%84%E6%8A%A5%E5%BA%94%E7%BB%88%E4%BA%8E%E6%9D%A5%E4%BA%86%23&t=31&band_rank=25&Refer=top) 427284
+1. [卫明一家人的报应终于来了](https://s.weibo.com/weibo?q=%23%E5%8D%AB%E6%98%8E%E4%B8%80%E5%AE%B6%E4%BA%BA%E7%9A%84%E6%8A%A5%E5%BA%94%E7%BB%88%E4%BA%8E%E6%9D%A5%E4%BA%86%23&t=31&band_rank=25&Refer=top) 435018
 1. [花儿与少年极光直播](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%84%BF%E4%B8%8E%E5%B0%91%E5%B9%B4%E6%9E%81%E5%85%89%E7%9B%B4%E6%92%AD%23&t=31&band_rank=19&Refer=top) 415149
 1. [刘玉栋说不会再有男篮做旗手](https://s.weibo.com/weibo?q=%23%E5%88%98%E7%8E%89%E6%A0%8B%E8%AF%B4%E4%B8%8D%E4%BC%9A%E5%86%8D%E6%9C%89%E7%94%B7%E7%AF%AE%E5%81%9A%E6%97%97%E6%89%8B%23&t=31&band_rank=22&Refer=top) 400818
 1. [迟到11年的金银铜包揽](https://s.weibo.com/weibo?q=%23%E8%BF%9F%E5%88%B011%E5%B9%B4%E7%9A%84%E9%87%91%E9%93%B6%E9%93%9C%E5%8C%85%E6%8F%BD%23&t=31&band_rank=20&Refer=top) 389259
@@ -62,6 +62,7 @@
 1. [中国男篮无缘亚运决赛](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E6%97%A0%E7%BC%98%E4%BA%9A%E8%BF%90%E5%86%B3%E8%B5%9B%23&t=31&band_rank=49&Refer=top) 152243
 1. [时代少年团楼外楼舞蹈练习室版](https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%A5%BC%E5%A4%96%E6%A5%BC%E8%88%9E%E8%B9%88%E7%BB%83%E4%B9%A0%E5%AE%A4%E7%89%88%23&t=31&band_rank=50&Refer=top) 149973
 1. [男篮一分之差输了](https://s.weibo.com/weibo?q=%E7%94%B7%E7%AF%AE%E4%B8%80%E5%88%86%E4%B9%8B%E5%B7%AE%E8%BE%93%E4%BA%86&t=31&band_rank=47&Refer=top) 121217
+1. [中国男篮](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%23&t=31&band_rank=50&Refer=top) 70041
 <!-- END -->
 
 历史归档 [./archives](./archives)
