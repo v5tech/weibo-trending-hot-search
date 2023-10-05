@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-10-06 05:20:27.146933 
+最后更新时间 2023-10-06 05:34:20.008611 
 1. [请把这个韩综引进内娱](https://s.weibo.com/weibo?q=%23%E8%AF%B7%E6%8A%8A%E8%BF%99%E4%B8%AA%E9%9F%A9%E7%BB%BC%E5%BC%95%E8%BF%9B%E5%86%85%E5%A8%B1%23&t=31&band_rank=17&Refer=top) 2297962
 1. [李泽锋 轻舟已过万重山](https://s.weibo.com/weibo?q=%E6%9D%8E%E6%B3%BD%E9%94%8B%20%E8%BD%BB%E8%88%9F%E5%B7%B2%E8%BF%87%E4%B8%87%E9%87%8D%E5%B1%B1&t=31&band_rank=1&Refer=top) 1241382
 1. [全红婵唯一的炸鱼方式](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%94%AF%E4%B8%80%E7%9A%84%E7%82%B8%E9%B1%BC%E6%96%B9%E5%BC%8F%23&t=31&band_rank=2&Refer=top) 1171198
@@ -74,7 +74,7 @@
 1. [鞠萍姐姐 绝对最佳女主角](https://s.weibo.com/weibo?q=%E9%9E%A0%E8%90%8D%E5%A7%90%E5%A7%90%20%E7%BB%9D%E5%AF%B9%E6%9C%80%E4%BD%B3%E5%A5%B3%E4%B8%BB%E8%A7%92&t=31&band_rank=37&Refer=top) 38255
 1. [62岁儿子陪95岁母亲晒太阳看图识物](https://s.weibo.com/weibo?q=%2362%E5%B2%81%E5%84%BF%E5%AD%90%E9%99%AA95%E5%B2%81%E6%AF%8D%E4%BA%B2%E6%99%92%E5%A4%AA%E9%98%B3%E7%9C%8B%E5%9B%BE%E8%AF%86%E7%89%A9%23&t=31&band_rank=50&Refer=top) 35926
 1. [中国女篮亚运第七冠](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E4%BA%9A%E8%BF%90%E7%AC%AC%E4%B8%83%E5%86%A0%23&t=31&band_rank=21&Refer=top) 27644
-1. [爷爷奶奶的忠告治好了年轻人的焦虑](https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E5%A5%B6%E5%A5%B6%E7%9A%84%E5%BF%A0%E5%91%8A%E6%B2%BB%E5%A5%BD%E4%BA%86%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E7%84%A6%E8%99%91%23&t=31&band_rank=50&Refer=top) 17463
+1. [爷爷奶奶的忠告治好了年轻人的焦虑](https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E5%A5%B6%E5%A5%B6%E7%9A%84%E5%BF%A0%E5%91%8A%E6%B2%BB%E5%A5%BD%E4%BA%86%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E7%84%A6%E8%99%91%23&t=31&band_rank=50&Refer=top) 21694
 <!-- END -->
 
 历史归档 [./archives](./archives)
