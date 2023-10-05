@@ -71,6 +71,10 @@
     "url": "https://s.weibo.com/weibo?q=%E4%B8%80%E4%BA%BA%E7%8B%AC%E4%BA%AB%E6%B8%A3%E7%94%B7%E8%B5%9B%E9%81%93&t=31&band_rank=28&Refer=top",
     "hot": 354606
   },
+  "于文文当预言家睡过头了": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%96%87%E6%96%87%E5%BD%93%E9%A2%84%E8%A8%80%E5%AE%B6%E7%9D%A1%E8%BF%87%E5%A4%B4%E4%BA%86%23&t=31&band_rank=15&Refer=top",
+    "hot": 327143
+  },
   "中国亚运史上首枚男子马拉松金牌": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%9A%E8%BF%90%E5%8F%B2%E4%B8%8A%E9%A6%96%E6%9E%9A%E7%94%B7%E5%AD%90%E9%A9%AC%E6%8B%89%E6%9D%BE%E9%87%91%E7%89%8C%23&t=31&band_rank=29&Refer=top",
     "hot": 324295
@@ -114,10 +118,6 @@
   "钟丽丽赵让一起录综艺": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%92%9F%E4%B8%BD%E4%B8%BD%E8%B5%B5%E8%AE%A9%E4%B8%80%E8%B5%B7%E5%BD%95%E7%BB%BC%E8%89%BA%23&t=31&band_rank=29&Refer=top",
     "hot": 269021
-  },
-  "于文文当预言家睡过头了": {
-    "url": "https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%96%87%E6%96%87%E5%BD%93%E9%A2%84%E8%A8%80%E5%AE%B6%E7%9D%A1%E8%BF%87%E5%A4%B4%E4%BA%86%23&t=31&band_rank=15&Refer=top",
-    "hot": 261661
   },
   "身体还很年轻的表现": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%BA%AB%E4%BD%93%E8%BF%98%E5%BE%88%E5%B9%B4%E8%BD%BB%E7%9A%84%E8%A1%A8%E7%8E%B0%23&t=31&band_rank=27&Refer=top",
@@ -238,5 +238,9 @@
   "淮安洪泽湖畔音乐节": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%B7%AE%E5%AE%89%E6%B4%AA%E6%B3%BD%E6%B9%96%E7%95%94%E9%9F%B3%E4%B9%90%E8%8A%82%23&t=31&band_rank=47&Refer=top",
     "hot": 60635
+  },
+  "卫明绝不内耗": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8D%AB%E6%98%8E%E7%BB%9D%E4%B8%8D%E5%86%85%E8%80%97%23&t=31&band_rank=50&Refer=top",
+    "hot": 47628
   }
 }
