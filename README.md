@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-10-07 00:31:24.375113 
+最后更新时间 2023-10-07 00:48:51.350035 
 1. [女孩买胸贴女店员叠小票保护隐私](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E4%B9%B0%E8%83%B8%E8%B4%B4%E5%A5%B3%E5%BA%97%E5%91%98%E5%8F%A0%E5%B0%8F%E7%A5%A8%E4%BF%9D%E6%8A%A4%E9%9A%90%E7%A7%81%23&t=31&band_rank=1&Refer=top) 1489153
 1. [他从火光中走来 男主死了](https://s.weibo.com/weibo?q=%E4%BB%96%E4%BB%8E%E7%81%AB%E5%85%89%E4%B8%AD%E8%B5%B0%E6%9D%A5%20%E7%94%B7%E4%B8%BB%E6%AD%BB%E4%BA%86&t=31&band_rank=2&Refer=top) 1288961
 1. [秋日里的中国大地有多少种色彩](https://s.weibo.com/weibo?q=%23%E7%A7%8B%E6%97%A5%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%9C%B0%E6%9C%89%E5%A4%9A%E5%B0%91%E7%A7%8D%E8%89%B2%E5%BD%A9%23&t=31&band_rank=3&Refer=top) 1196639
@@ -28,11 +28,11 @@
 1. [黄景瑜和网友决战紫禁之巅](https://s.weibo.com/weibo?q=%E9%BB%84%E6%99%AF%E7%91%9C%E5%92%8C%E7%BD%91%E5%8F%8B%E5%86%B3%E6%88%98%E7%B4%AB%E7%A6%81%E4%B9%8B%E5%B7%85&t=31&band_rank=18&Refer=top) 382990
 1. [女童走失海滩曾有人被潮水卷走](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%AB%A5%E8%B5%B0%E5%A4%B1%E6%B5%B7%E6%BB%A9%E6%9B%BE%E6%9C%89%E4%BA%BA%E8%A2%AB%E6%BD%AE%E6%B0%B4%E5%8D%B7%E8%B5%B0%23&t=31&band_rank=19&Refer=top) 382516
 1. [李沁去刘雨昕演唱会](https://s.weibo.com/weibo?q=%E6%9D%8E%E6%B2%81%E5%8E%BB%E5%88%98%E9%9B%A8%E6%98%95%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=23&Refer=top) 368697
+1. [傲寒](https://s.weibo.com/weibo?q=%E5%82%B2%E5%AF%92&t=31&band_rank=33&Refer=top) 368464
+1. [井胧说了5遍我要哭了但没哭](https://s.weibo.com/weibo?q=%23%E4%BA%95%E8%83%A7%E8%AF%B4%E4%BA%865%E9%81%8D%E6%88%91%E8%A6%81%E5%93%AD%E4%BA%86%E4%BD%86%E6%B2%A1%E5%93%AD%23&t=31&band_rank=20&Refer=top) 367884
 1. [万渣朝凰](https://s.weibo.com/weibo?q=%E4%B8%87%E6%B8%A3%E6%9C%9D%E5%87%B0&t=31&band_rank=20&Refer=top) 355468
 1. [李钟硕颜值回春](https://s.weibo.com/weibo?q=%E6%9D%8E%E9%92%9F%E7%A1%95%E9%A2%9C%E5%80%BC%E5%9B%9E%E6%98%A5&t=31&band_rank=21&Refer=top) 348836
 1. [张艺兴太会了](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%89%BA%E5%85%B4%E5%A4%AA%E4%BC%9A%E4%BA%86&t=31&band_rank=22&Refer=top) 341390
-1. [井胧说了5遍我要哭了但没哭](https://s.weibo.com/weibo?q=%23%E4%BA%95%E8%83%A7%E8%AF%B4%E4%BA%865%E9%81%8D%E6%88%91%E8%A6%81%E5%93%AD%E4%BA%86%E4%BD%86%E6%B2%A1%E5%93%AD%23&t=31&band_rank=20&Refer=top) 336332
-1. [傲寒](https://s.weibo.com/weibo?q=%E5%82%B2%E5%AF%92&t=31&band_rank=33&Refer=top) 319396
 1. [我要是娜然真的会爱上那茜](https://s.weibo.com/weibo?q=%E6%88%91%E8%A6%81%E6%98%AF%E5%A8%9C%E7%84%B6%E7%9C%9F%E7%9A%84%E4%BC%9A%E7%88%B1%E4%B8%8A%E9%82%A3%E8%8C%9C&t=31&band_rank=24&Refer=top) 281821
 1. [日本女足夺得亚运冠军](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A5%B3%E8%B6%B3%E5%A4%BA%E5%BE%97%E4%BA%9A%E8%BF%90%E5%86%A0%E5%86%9B%23&t=31&band_rank=25&Refer=top) 259858
 1. [黄景瑜 男主没有死](https://s.weibo.com/weibo?q=%E9%BB%84%E6%99%AF%E7%91%9C%20%E7%94%B7%E4%B8%BB%E6%B2%A1%E6%9C%89%E6%AD%BB&t=31&band_rank=26&Refer=top) 257190
@@ -60,6 +60,7 @@
 1. [一张照片证明这个假期你在哪里](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%BC%A0%E7%85%A7%E7%89%87%E8%AF%81%E6%98%8E%E8%BF%99%E4%B8%AA%E5%81%87%E6%9C%9F%E4%BD%A0%E5%9C%A8%E5%93%AA%E9%87%8C%23&t=31&band_rank=49&Refer=top) 152293
 1. [巴黎路人镜头下的杨紫](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E%E8%B7%AF%E4%BA%BA%E9%95%9C%E5%A4%B4%E4%B8%8B%E7%9A%84%E6%9D%A8%E7%B4%AB%23&t=31&band_rank=50&Refer=top) 148360
 1. [沈梦辰秒答迪丽热巴](https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%A2%A6%E8%BE%B0%E7%A7%92%E7%AD%94%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%23&t=31&band_rank=47&Refer=top) 123569
+1. [Super Shy](https://s.weibo.com/weibo?q=Super%20Shy&t=31&band_rank=46&Refer=top) 97536
 <!-- END -->
 
 历史归档 [./archives](./archives)
