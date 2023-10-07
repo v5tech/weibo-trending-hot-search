@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-10-08 04:34:33.467290 
+最后更新时间 2023-10-08 04:48:53.269609 
 1. [以巴爆发大规模冲突造成严重伤亡](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E5%B7%B4%E7%88%86%E5%8F%91%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%86%B2%E7%AA%81%E9%80%A0%E6%88%90%E4%B8%A5%E9%87%8D%E4%BC%A4%E4%BA%A1%23&t=31&band_rank=1&Refer=top) 1360888
 1. [巴勒斯坦](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%23&t=31&band_rank=2&Refer=top) 1006942
 1. [推进共建绿色一带一路](https://s.weibo.com/weibo?q=%23%E6%8E%A8%E8%BF%9B%E5%85%B1%E5%BB%BA%E7%BB%BF%E8%89%B2%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%23&t=31&band_rank=3&Refer=top) 809557
