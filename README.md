@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-10-09 04:34:19.573154 
+最后更新时间 2023-10-09 04:49:03.299069 
 1. [王楚钦战胜马龙夺冠](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%88%98%E8%83%9C%E9%A9%AC%E9%BE%99%E5%A4%BA%E5%86%A0%23&t=31&band_rank=1&Refer=top) 1207649
 1. [原来康辉去年就催过了](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%BA%B7%E8%BE%89%E5%8E%BB%E5%B9%B4%E5%B0%B1%E5%82%AC%E8%BF%87%E4%BA%86%23&t=31&band_rank=2&Refer=top) 1066101
 1. [杭州亚运会闭幕式精彩瞬间揭秘](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%97%AD%E5%B9%95%E5%BC%8F%E7%B2%BE%E5%BD%A9%E7%9E%AC%E9%97%B4%E6%8F%AD%E7%A7%98%23&t=31&band_rank=3&Refer=top) 754063
@@ -76,6 +76,7 @@
 1. [换位思考的理解最暖人心](https://s.weibo.com/weibo?q=%E6%8D%A2%E4%BD%8D%E6%80%9D%E8%80%83%E7%9A%84%E7%90%86%E8%A7%A3%E6%9C%80%E6%9A%96%E4%BA%BA%E5%BF%83&t=31&band_rank=50&Refer=top) 26271
 1. [亚洲内容大赏](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E6%B4%B2%E5%86%85%E5%AE%B9%E5%A4%A7%E8%B5%8F%23&t=31&band_rank=48&Refer=top) 23209
 1. [95.2%的主播月收入5000元以下](https://s.weibo.com/weibo?q=%2395.2%25%E7%9A%84%E4%B8%BB%E6%92%AD%E6%9C%88%E6%94%B6%E5%85%A55000%E5%85%83%E4%BB%A5%E4%B8%8B%23&t=31&band_rank=35&Refer=top) 20245
+1. [难怪运动员能配合默契](https://s.weibo.com/weibo?q=%23%E9%9A%BE%E6%80%AA%E8%BF%90%E5%8A%A8%E5%91%98%E8%83%BD%E9%85%8D%E5%90%88%E9%BB%98%E5%A5%91%23&t=31&band_rank=36&Refer=top) 17679
 1. [闪亮的你](https://s.weibo.com/weibo?q=%E9%97%AA%E4%BA%AE%E7%9A%84%E4%BD%A0&t=31&band_rank=48&Refer=top) 17521
 <!-- END -->
 
