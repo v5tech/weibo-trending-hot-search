@@ -79,6 +79,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%90%8C%E6%84%8F%E4%B8%89%E6%98%9F%E5%92%8CSK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E5%90%91%E5%85%B6%E4%B8%AD%E5%9B%BD%E5%B7%A5%E5%8E%82%E6%8F%90%E4%BE%9B%E8%AE%BE%E5%A4%87%23&t=31&band_rank=19&Refer=top",
     "hot": 269684
   },
+  "逆水寒疑似将同人图融AI": {
+    "url": "https://s.weibo.com/weibo?q=%E9%80%86%E6%B0%B4%E5%AF%92%E7%96%91%E4%BC%BC%E5%B0%86%E5%90%8C%E4%BA%BA%E5%9B%BE%E8%9E%8DAI&t=31&band_rank=8&Refer=top",
+    "hot": 268120
+  },
   "江歌妈妈直播间来了9万人": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%B1%9F%E6%AD%8C%E5%A6%88%E5%A6%88%E7%9B%B4%E6%92%AD%E9%97%B4%E6%9D%A5%E4%BA%869%E4%B8%87%E4%BA%BA%23&t=31&band_rank=21&Refer=top",
     "hot": 265047
@@ -110,10 +114,6 @@
   "月薪一万买不起面包": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%9C%88%E8%96%AA%E4%B8%80%E4%B8%87%E4%B9%B0%E4%B8%8D%E8%B5%B7%E9%9D%A2%E5%8C%85%23&t=31&band_rank=27&Refer=top",
     "hot": 217889
-  },
-  "逆水寒疑似将同人图融AI": {
-    "url": "https://s.weibo.com/weibo?q=%E9%80%86%E6%B0%B4%E5%AF%92%E7%96%91%E4%BC%BC%E5%B0%86%E5%90%8C%E4%BA%BA%E5%9B%BE%E8%9E%8DAI&t=31&band_rank=8&Refer=top",
-    "hot": 213151
   },
   "张艺兴与素人的合影": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E4%B8%8E%E7%B4%A0%E4%BA%BA%E7%9A%84%E5%90%88%E5%BD%B1%23&t=31&band_rank=28&Refer=top",
@@ -230,5 +230,9 @@
   "厦门与金鸡奖牵手第五年": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%8E%A6%E9%97%A8%E4%B8%8E%E9%87%91%E9%B8%A1%E5%A5%96%E7%89%B5%E6%89%8B%E7%AC%AC%E4%BA%94%E5%B9%B4%23&t=31&band_rank=47&Refer=top",
     "hot": 48807
+  },
+  "考研人有自己的网吧": {
+    "url": "https://s.weibo.com/weibo?q=%23%E8%80%83%E7%A0%94%E4%BA%BA%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84%E7%BD%91%E5%90%A7%23&t=31&band_rank=48&Refer=top",
+    "hot": 46127
   }
 }
