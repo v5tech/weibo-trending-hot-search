@@ -226,5 +226,9 @@
   "cp30": {
     "url": "https://s.weibo.com/weibo?q=cp30&t=31&band_rank=44&Refer=top",
     "hot": 52305
+  },
+  "问心": {
+    "url": "https://s.weibo.com/weibo?q=%E9%97%AE%E5%BF%83&t=31&band_rank=45&Refer=top",
+    "hot": 45721
   }
 }
