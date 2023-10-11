@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-10-12 04:10:45.890786 
+最后更新时间 2023-10-12 04:23:18.365120 
 1. [周杰伦演唱会前黄牛集体退票](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E5%89%8D%E9%BB%84%E7%89%9B%E9%9B%86%E4%BD%93%E9%80%80%E7%A5%A8%23&t=31&band_rank=31&Refer=top) 1670872
 1. [螃蟹把最好吃的部分进化掉了](https://s.weibo.com/weibo?q=%E8%9E%83%E8%9F%B9%E6%8A%8A%E6%9C%80%E5%A5%BD%E5%90%83%E7%9A%84%E9%83%A8%E5%88%86%E8%BF%9B%E5%8C%96%E6%8E%89%E4%BA%86&t=31&band_rank=1&Refer=top) 1316420
 1. [武大回应学生举报图书馆遭性骚扰](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A4%A7%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E4%B8%BE%E6%8A%A5%E5%9B%BE%E4%B9%A6%E9%A6%86%E9%81%AD%E6%80%A7%E9%AA%9A%E6%89%B0%23&t=31&band_rank=16&Refer=top) 857957
@@ -71,7 +71,7 @@
 1. [颖儿哈萨克公主](https://s.weibo.com/weibo?q=%23%E9%A2%96%E5%84%BF%E5%93%88%E8%90%A8%E5%85%8B%E5%85%AC%E4%B8%BB%23&t=31&band_rank=18&Refer=top) 45231
 1. [谁家男女主第一集就一起被抓啊](https://s.weibo.com/weibo?q=%23%E8%B0%81%E5%AE%B6%E7%94%B7%E5%A5%B3%E4%B8%BB%E7%AC%AC%E4%B8%80%E9%9B%86%E5%B0%B1%E4%B8%80%E8%B5%B7%E8%A2%AB%E6%8A%93%E5%95%8A%23&t=31&band_rank=38&Refer=top) 39577
 1. [游戏使用孙红雷这瓜保熟吗被告](https://s.weibo.com/weibo?q=%23%E6%B8%B8%E6%88%8F%E4%BD%BF%E7%94%A8%E5%AD%99%E7%BA%A2%E9%9B%B7%E8%BF%99%E7%93%9C%E4%BF%9D%E7%86%9F%E5%90%97%E8%A2%AB%E5%91%8A%23&t=31&band_rank=40&Refer=top) 39566
-1. [SNH48 Number One](https://s.weibo.com/weibo?q=SNH48%20Number%20One&t=31&band_rank=47&Refer=top) 32722
+1. [SNH48 Number One](https://s.weibo.com/weibo?q=SNH48%20Number%20One&t=31&band_rank=47&Refer=top) 34439
 <!-- END -->
 
 历史归档 [./archives](./archives)
