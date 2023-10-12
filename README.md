@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-10-13 03:34:21.878805 
+最后更新时间 2023-10-13 03:48:57.256784 
 1. [6男生自助火锅店喝111瓶酸梅汤](https://s.weibo.com/weibo?q=%236%E7%94%B7%E7%94%9F%E8%87%AA%E5%8A%A9%E7%81%AB%E9%94%85%E5%BA%97%E5%96%9D111%E7%93%B6%E9%85%B8%E6%A2%85%E6%B1%A4%23&t=31&band_rank=1&Refer=top) 1167462
 1. [黄牛确认已无法售卖周杰伦上海演唱会门票](https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%89%9B%E7%A1%AE%E8%AE%A4%E5%B7%B2%E6%97%A0%E6%B3%95%E5%94%AE%E5%8D%96%E5%91%A8%E6%9D%B0%E4%BC%A6%E4%B8%8A%E6%B5%B7%E6%BC%94%E5%94%B1%E4%BC%9A%E9%97%A8%E7%A5%A8%23&t=31&band_rank=2&Refer=top) 922687
 1. [荔枝与车厘子的丝路之旅](https://s.weibo.com/weibo?q=%23%E8%8D%94%E6%9E%9D%E4%B8%8E%E8%BD%A6%E5%8E%98%E5%AD%90%E7%9A%84%E4%B8%9D%E8%B7%AF%E4%B9%8B%E6%97%85%23&t=31&band_rank=3&Refer=top) 811279
@@ -66,8 +66,9 @@
 1. [左双桃是刺客吧](https://s.weibo.com/weibo?q=%23%E5%B7%A6%E5%8F%8C%E6%A1%83%E6%98%AF%E5%88%BA%E5%AE%A2%E5%90%A7%23&t=31&band_rank=45&Refer=top) 63364
 1. [安心把闹钟关掉](https://s.weibo.com/weibo?q=%E5%AE%89%E5%BF%83%E6%8A%8A%E9%97%B9%E9%92%9F%E5%85%B3%E6%8E%89&t=31&band_rank=21&Refer=top) 56700
 1. [原来你们委屈想回家的家是这样的](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E4%BD%A0%E4%BB%AC%E5%A7%94%E5%B1%88%E6%83%B3%E5%9B%9E%E5%AE%B6%E7%9A%84%E5%AE%B6%E6%98%AF%E8%BF%99%E6%A0%B7%E7%9A%84%23&t=31&band_rank=50&Refer=top) 50577
-1. [男子拆开相框意外发现前女友求婚留言](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8B%86%E5%BC%80%E7%9B%B8%E6%A1%86%E6%84%8F%E5%A4%96%E5%8F%91%E7%8E%B0%E5%89%8D%E5%A5%B3%E5%8F%8B%E6%B1%82%E5%A9%9A%E7%95%99%E8%A8%80%23&t=31&band_rank=48&Refer=top) 40176
-1. [网购搜索平替词](https://s.weibo.com/weibo?q=%E7%BD%91%E8%B4%AD%E6%90%9C%E7%B4%A2%E5%B9%B3%E6%9B%BF%E8%AF%8D&t=31&band_rank=50&Refer=top) 40124
+1. [男子拆开相框意外发现前女友求婚留言](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8B%86%E5%BC%80%E7%9B%B8%E6%A1%86%E6%84%8F%E5%A4%96%E5%8F%91%E7%8E%B0%E5%89%8D%E5%A5%B3%E5%8F%8B%E6%B1%82%E5%A9%9A%E7%95%99%E8%A8%80%23&t=31&band_rank=48&Refer=top) 41999
+1. [网购搜索平替词](https://s.weibo.com/weibo?q=%E7%BD%91%E8%B4%AD%E6%90%9C%E7%B4%A2%E5%B9%B3%E6%9B%BF%E8%AF%8D&t=31&band_rank=50&Refer=top) 41905
+1. [东北路人都是隐藏的NPC](https://s.weibo.com/weibo?q=%E4%B8%9C%E5%8C%97%E8%B7%AF%E4%BA%BA%E9%83%BD%E6%98%AF%E9%9A%90%E8%97%8F%E7%9A%84NPC&t=31&band_rank=50&Refer=top) 41851
 <!-- END -->
 
 历史归档 [./archives](./archives)
