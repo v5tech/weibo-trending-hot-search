@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-10-14 03:08:28.939136 
+最后更新时间 2023-10-14 03:18:54.623729 
 1. [杨威自曝要终身佩戴呼吸机](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%A8%81%E8%87%AA%E6%9B%9D%E8%A6%81%E7%BB%88%E8%BA%AB%E4%BD%A9%E6%88%B4%E5%91%BC%E5%90%B8%E6%9C%BA%23&t=31&band_rank=1&Refer=top) 1544814
 1. [本片拍摄无人员伤亡](https://s.weibo.com/weibo?q=%23%E6%9C%AC%E7%89%87%E6%8B%8D%E6%91%84%E6%97%A0%E4%BA%BA%E5%91%98%E4%BC%A4%E4%BA%A1%23&t=31&band_rank=2&Refer=top) 1041129
 1. [中国新电商大会](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%96%B0%E7%94%B5%E5%95%86%E5%A4%A7%E4%BC%9A%23&t=31&band_rank=3&Refer=top) 989753
