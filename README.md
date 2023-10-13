@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-10-14 02:29:48.835408 
+最后更新时间 2023-10-14 02:39:27.830768 
 1. [杨威自曝要终身佩戴呼吸机](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%A8%81%E8%87%AA%E6%9B%9D%E8%A6%81%E7%BB%88%E8%BA%AB%E4%BD%A9%E6%88%B4%E5%91%BC%E5%90%B8%E6%9C%BA%23&t=31&band_rank=1&Refer=top) 1544814
 1. [本片拍摄无人员伤亡](https://s.weibo.com/weibo?q=%23%E6%9C%AC%E7%89%87%E6%8B%8D%E6%91%84%E6%97%A0%E4%BA%BA%E5%91%98%E4%BC%A4%E4%BA%A1%23&t=31&band_rank=2&Refer=top) 1041129
 1. [中国新电商大会](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%96%B0%E7%94%B5%E5%95%86%E5%A4%A7%E4%BC%9A%23&t=31&band_rank=3&Refer=top) 989753
@@ -69,7 +69,8 @@
 1. [i人最完美的周末休息法](https://s.weibo.com/weibo?q=i%E4%BA%BA%E6%9C%80%E5%AE%8C%E7%BE%8E%E7%9A%84%E5%91%A8%E6%9C%AB%E4%BC%91%E6%81%AF%E6%B3%95&t=31&band_rank=43&Refer=top) 80891
 1. [水墨李莲花](https://s.weibo.com/weibo?q=%23%E6%B0%B4%E5%A2%A8%E6%9D%8E%E8%8E%B2%E8%8A%B1%23&t=31&band_rank=45&Refer=top) 59643
 1. [为什么厂商不做小屏手机](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8E%82%E5%95%86%E4%B8%8D%E5%81%9A%E5%B0%8F%E5%B1%8F%E6%89%8B%E6%9C%BA&t=31&band_rank=50&Refer=top) 56153
-1. [戳爷新歌MV穿女装](https://s.weibo.com/weibo?q=%23%E6%88%B3%E7%88%B7%E6%96%B0%E6%AD%8CMV%E7%A9%BF%E5%A5%B3%E8%A3%85%23&t=31&band_rank=47&Refer=top) 49041
+1. [戳爷新歌MV穿女装](https://s.weibo.com/weibo?q=%23%E6%88%B3%E7%88%B7%E6%96%B0%E6%AD%8CMV%E7%A9%BF%E5%A5%B3%E8%A3%85%23&t=31&band_rank=47&Refer=top) 50308
+1. [麒麟舞台全员rap](https://s.weibo.com/weibo?q=%23%E9%BA%92%E9%BA%9F%E8%88%9E%E5%8F%B0%E5%85%A8%E5%91%98rap%23&t=31&band_rank=49&Refer=top) 50293
 1. [自来水造浪计划](https://s.weibo.com/weibo?q=%E8%87%AA%E6%9D%A5%E6%B0%B4%E9%80%A0%E6%B5%AA%E8%AE%A1%E5%88%92&t=31&band_rank=50&Refer=top) 49000
 <!-- END -->
 
