@@ -253,10 +253,14 @@
   },
   "熬夜等级表": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%86%AC%E5%A4%9C%E7%AD%89%E7%BA%A7%E8%A1%A8%23&t=31&band_rank=25&Refer=top",
-    "hot": 43542
+    "hot": 47907
   },
   "张凌赫 hi6": {
     "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%20hi6&t=31&band_rank=48&Refer=top",
     "hot": 33490
+  },
+  "梁静茹 宁波": {
+    "url": "https://s.weibo.com/weibo?q=%E6%A2%81%E9%9D%99%E8%8C%B9%20%E5%AE%81%E6%B3%A2&t=31&band_rank=47&Refer=top",
+    "hot": 23717
   }
 }
