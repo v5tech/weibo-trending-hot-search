@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-10-17 01:34:32.104348 
+最后更新时间 2023-10-17 01:48:53.143278 
 1. [为什么粉色要贵这么多](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%B2%89%E8%89%B2%E8%A6%81%E8%B4%B5%E8%BF%99%E4%B9%88%E5%A4%9A&t=31&band_rank=1&Refer=top) 1053508
 1. [为有暗香来 男主是谁](https://s.weibo.com/weibo?q=%E4%B8%BA%E6%9C%89%E6%9A%97%E9%A6%99%E6%9D%A5%20%E7%94%B7%E4%B8%BB%E6%98%AF%E8%B0%81&t=31&band_rank=2&Refer=top) 561609
 1. [旧风力发电叶片变草场栅栏能用30年](https://s.weibo.com/weibo?q=%23%E6%97%A7%E9%A3%8E%E5%8A%9B%E5%8F%91%E7%94%B5%E5%8F%B6%E7%89%87%E5%8F%98%E8%8D%89%E5%9C%BA%E6%A0%85%E6%A0%8F%E8%83%BD%E7%94%A830%E5%B9%B4%23&t=31&band_rank=3&Refer=top) 558688
@@ -34,6 +34,7 @@
 1. [22岁弟弟申请拥有独立卫生间](https://s.weibo.com/weibo?q=22%E5%B2%81%E5%BC%9F%E5%BC%9F%E7%94%B3%E8%AF%B7%E6%8B%A5%E6%9C%89%E7%8B%AC%E7%AB%8B%E5%8D%AB%E7%94%9F%E9%97%B4&t=31&band_rank=23&Refer=top) 224090
 1. [再聊下去该网恋了](https://s.weibo.com/weibo?q=%E5%86%8D%E8%81%8A%E4%B8%8B%E5%8E%BB%E8%AF%A5%E7%BD%91%E6%81%8B%E4%BA%86&t=31&band_rank=24&Refer=top) 216190
 1. [毕业五年了辅导员突然叫我干活](https://s.weibo.com/weibo?q=%23%E6%AF%95%E4%B8%9A%E4%BA%94%E5%B9%B4%E4%BA%86%E8%BE%85%E5%AF%BC%E5%91%98%E7%AA%81%E7%84%B6%E5%8F%AB%E6%88%91%E5%B9%B2%E6%B4%BB%23&t=31&band_rank=25&Refer=top) 212843
+1. [沿着一带一路去旅行](https://s.weibo.com/weibo?q=%23%E6%B2%BF%E7%9D%80%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E5%8E%BB%E6%97%85%E8%A1%8C%23&t=31&band_rank=3&Refer=top) 212069
 1. [张元英手指眼角痣](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%85%83%E8%8B%B1%E6%89%8B%E6%8C%87%E7%9C%BC%E8%A7%92%E7%97%A3%23&t=31&band_rank=26&Refer=top) 211740
 1. [南海归墟预约量破200万](https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%B5%B7%E5%BD%92%E5%A2%9F%E9%A2%84%E7%BA%A6%E9%87%8F%E7%A0%B4200%E4%B8%87%23&t=31&band_rank=27&Refer=top) 208898
 1. [守护甜心 抽赏](https://s.weibo.com/weibo?q=%E5%AE%88%E6%8A%A4%E7%94%9C%E5%BF%83%20%E6%8A%BD%E8%B5%8F&t=31&band_rank=47&Refer=top) 206374
@@ -66,6 +67,7 @@
 1. [孟子义问范丞丞是不是创造营第一](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E9%97%AE%E8%8C%83%E4%B8%9E%E4%B8%9E%E6%98%AF%E4%B8%8D%E6%98%AF%E5%88%9B%E9%80%A0%E8%90%A5%E7%AC%AC%E4%B8%80%23&t=31&band_rank=47&Refer=top) 86445
 1. [刘诗诗谢娜同框看秀](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E8%B0%A2%E5%A8%9C%E5%90%8C%E6%A1%86%E7%9C%8B%E7%A7%80%23&t=31&band_rank=49&Refer=top) 83071
 1. [现在就出发](https://s.weibo.com/weibo?q=%E7%8E%B0%E5%9C%A8%E5%B0%B1%E5%87%BA%E5%8F%91&t=31&band_rank=41&Refer=top) 63618
+1. [4年前周杰伦和孙燕姿的合唱](https://s.weibo.com/weibo?q=4%E5%B9%B4%E5%89%8D%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%92%8C%E5%AD%99%E7%87%95%E5%A7%BF%E7%9A%84%E5%90%88%E5%94%B1&t=31&band_rank=31&Refer=top) 59850
 1. [玛雅遗址里月神也抱着一只兔子](https://s.weibo.com/weibo?q=%23%E7%8E%9B%E9%9B%85%E9%81%97%E5%9D%80%E9%87%8C%E6%9C%88%E7%A5%9E%E4%B9%9F%E6%8A%B1%E7%9D%80%E4%B8%80%E5%8F%AA%E5%85%94%E5%AD%90%23&t=31&band_rank=42&Refer=top) 53136
 1. [王鹤棣蓝色挑染](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E8%93%9D%E8%89%B2%E6%8C%91%E6%9F%93%23&t=31&band_rank=49&Refer=top) 53057
 1. [明日方舟 做法](https://s.weibo.com/weibo?q=%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F%20%E5%81%9A%E6%B3%95&t=31&band_rank=49&Refer=top) 53046
