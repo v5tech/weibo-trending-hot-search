@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-10-18 02:30:22.829593 
+最后更新时间 2023-10-18 02:40:03.131966 
 1. [莲花楼演唱会 诚意满满](https://s.weibo.com/weibo?q=%E8%8E%B2%E8%8A%B1%E6%A5%BC%E6%BC%94%E5%94%B1%E4%BC%9A%20%E8%AF%9A%E6%84%8F%E6%BB%A1%E6%BB%A1&t=31&band_rank=1&Refer=top) 838253
 1. [enhypen QQ音乐压价](https://s.weibo.com/weibo?q=enhypen%20QQ%E9%9F%B3%E4%B9%90%E5%8E%8B%E4%BB%B7&t=31&band_rank=2&Refer=top) 538229
 1. [8组数字看懂一带一路](https://s.weibo.com/weibo?q=%238%E7%BB%84%E6%95%B0%E5%AD%97%E7%9C%8B%E6%87%82%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%23&t=31&band_rank=3&Refer=top) 537420
@@ -72,6 +72,7 @@
 1. [田耕纪 母女线](https://s.weibo.com/weibo?q=%E7%94%B0%E8%80%95%E7%BA%AA%20%E6%AF%8D%E5%A5%B3%E7%BA%BF&t=31&band_rank=49&Refer=top) 59827
 1. [长相思角色号醒了](https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D%E8%A7%92%E8%89%B2%E5%8F%B7%E9%86%92%E4%BA%86%23&t=31&band_rank=48&Refer=top) 52849
 1. [琉璃垂翎](https://s.weibo.com/weibo?q=%23%E7%90%89%E7%92%83%E5%9E%82%E7%BF%8E%23&t=31&band_rank=49&Refer=top) 52838
+1. [汤唯换新经纪人了](https://s.weibo.com/weibo?q=%23%E6%B1%A4%E5%94%AF%E6%8D%A2%E6%96%B0%E7%BB%8F%E7%BA%AA%E4%BA%BA%E4%BA%86%23&t=31&band_rank=35&Refer=top) 29797
 <!-- END -->
 
 历史归档 [./archives](./archives)
