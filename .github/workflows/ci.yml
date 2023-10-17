@@ -11,6 +11,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - uses: Kesin11/actions-timeline@v1
+        with:
+         github-token: ${{ secrets.GITHUB_TOKEN }}
       - name: Set time zone
         run: sudo timedatectl set-timezone 'Asia/Shanghai'
       - uses: actions/checkout@v2
