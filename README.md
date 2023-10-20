@@ -7,9 +7,9 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-10-21 00:40:34.848253 
+最后更新时间 2023-10-21 00:48:48.461628 
 1. [林孝埈](https://s.weibo.com/weibo?q=%E6%9E%97%E5%AD%9D%E5%9F%88&t=31&band_rank=1&Refer=top) 1691181
-1. [小慧君胜诉](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%85%A7%E5%90%9B%E8%83%9C%E8%AF%89%23&t=31&band_rank=6&Refer=top) 1241978
+1. [小慧君胜诉](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%85%A7%E5%90%9B%E8%83%9C%E8%AF%89%23&t=31&band_rank=6&Refer=top) 1627444
 1. [亚残运会火炬满满的中国式浪漫](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E6%AE%8B%E8%BF%90%E4%BC%9A%E7%81%AB%E7%82%AC%E6%BB%A1%E6%BB%A1%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%BC%8F%E6%B5%AA%E6%BC%AB%23&t=31&band_rank=3&Refer=top) 1186035
 1. [成都恶犬偷跑主人曾出门寻找但没找到](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E6%81%B6%E7%8A%AC%E5%81%B7%E8%B7%91%E4%B8%BB%E4%BA%BA%E6%9B%BE%E5%87%BA%E9%97%A8%E5%AF%BB%E6%89%BE%E4%BD%86%E6%B2%A1%E6%89%BE%E5%88%B0%23&t=31&band_rank=4&Refer=top) 1175599
 1. [杨迪 可以不喜爱但请别伤害](https://s.weibo.com/weibo?q=%E6%9D%A8%E8%BF%AA%20%E5%8F%AF%E4%BB%A5%E4%B8%8D%E5%96%9C%E7%88%B1%E4%BD%86%E8%AF%B7%E5%88%AB%E4%BC%A4%E5%AE%B3&t=31&band_rank=5&Refer=top) 1156811
@@ -38,11 +38,11 @@
 1. [杨幂素妆](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E7%B4%A0%E5%A6%86%23&t=31&band_rank=27&Refer=top) 217886
 1. [女子花15年报复下头男](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%8A%B115%E5%B9%B4%E6%8A%A5%E5%A4%8D%E4%B8%8B%E5%A4%B4%E7%94%B7%23&t=31&band_rank=28&Refer=top) 207378
 1. [张婧仪蓝睫毛](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%A9%A7%E4%BB%AA%E8%93%9D%E7%9D%AB%E6%AF%9B%23&t=31&band_rank=29&Refer=top) 194286
+1. [野狗骨头影视化](https://s.weibo.com/weibo?q=%E9%87%8E%E7%8B%97%E9%AA%A8%E5%A4%B4%E5%BD%B1%E8%A7%86%E5%8C%96&t=31&band_rank=26&Refer=top) 191310
 1. [以色列防长称将很快下达进攻加沙命令](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E9%98%B2%E9%95%BF%E7%A7%B0%E5%B0%86%E5%BE%88%E5%BF%AB%E4%B8%8B%E8%BE%BE%E8%BF%9B%E6%94%BB%E5%8A%A0%E6%B2%99%E5%91%BD%E4%BB%A4%23&t=31&band_rank=30&Refer=top) 186602
 1. [宋威龙性张力](https://s.weibo.com/weibo?q=%E5%AE%8B%E5%A8%81%E9%BE%99%E6%80%A7%E5%BC%A0%E5%8A%9B&t=31&band_rank=31&Refer=top) 181150
 1. [青岛啤酒发布情况说明](https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B%E5%95%A4%E9%85%92%E5%8F%91%E5%B8%83%E6%83%85%E5%86%B5%E8%AF%B4%E6%98%8E%23&t=31&band_rank=32&Refer=top) 172655
 1. [奶奶六年前给我买的金项链](https://s.weibo.com/weibo?q=%23%E5%A5%B6%E5%A5%B6%E5%85%AD%E5%B9%B4%E5%89%8D%E7%BB%99%E6%88%91%E4%B9%B0%E7%9A%84%E9%87%91%E9%A1%B9%E9%93%BE%23&t=31&band_rank=33&Refer=top) 170798
-1. [野狗骨头影视化](https://s.weibo.com/weibo?q=%E9%87%8E%E7%8B%97%E9%AA%A8%E5%A4%B4%E5%BD%B1%E8%A7%86%E5%8C%96&t=31&band_rank=26&Refer=top) 164525
 1. [12306回应200克葡萄售价60元](https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94200%E5%85%8B%E8%91%A1%E8%90%84%E5%94%AE%E4%BB%B760%E5%85%83%23&t=31&band_rank=34&Refer=top) 151925
 1. [G2战胜WBG](https://s.weibo.com/weibo?q=%23G2%E6%88%98%E8%83%9CWBG%23&t=31&band_rank=35&Refer=top) 145044
 1. [问心](https://s.weibo.com/weibo?q=%E9%97%AE%E5%BF%83&t=31&band_rank=36&Refer=top) 139237
