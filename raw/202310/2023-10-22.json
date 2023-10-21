@@ -203,6 +203,10 @@
     "url": "https://s.weibo.com/weibo?q=%23XDJ%E6%88%98%E8%83%9CAG%23&t=31&band_rank=49&Refer=top",
     "hot": 198127
   },
+  "UFC": {
+    "url": "https://s.weibo.com/weibo?q=UFC&t=31&band_rank=40&Refer=top",
+    "hot": 132288
+  },
   "快递员知道你们小区多少秘密": {
     "url": "https://s.weibo.com/weibo?q=%E5%BF%AB%E9%80%92%E5%91%98%E7%9F%A5%E9%81%93%E4%BD%A0%E4%BB%AC%E5%B0%8F%E5%8C%BA%E5%A4%9A%E5%B0%91%E7%A7%98%E5%AF%86&t=31&band_rank=49&Refer=top",
     "hot": 101018
@@ -218,10 +222,6 @@
   "张常宁复出女排联赛": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B8%B8%E5%AE%81%E5%A4%8D%E5%87%BA%E5%A5%B3%E6%8E%92%E8%81%94%E8%B5%9B%23&t=31&band_rank=50&Refer=top",
     "hot": 100607
-  },
-  "UFC": {
-    "url": "https://s.weibo.com/weibo?q=UFC&t=31&band_rank=40&Refer=top",
-    "hot": 93737
   },
   "拒绝消费濒危物种制品": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%8B%92%E7%BB%9D%E6%B6%88%E8%B4%B9%E6%BF%92%E5%8D%B1%E7%89%A9%E7%A7%8D%E5%88%B6%E5%93%81%23&t=31&band_rank=29&Refer=top",
@@ -249,6 +249,14 @@
   },
   "高校通报学生宿舍内肢解流浪狗": {
     "url": "https://s.weibo.com/weibo?q=%E9%AB%98%E6%A0%A1%E9%80%9A%E6%8A%A5%E5%AD%A6%E7%94%9F%E5%AE%BF%E8%88%8D%E5%86%85%E8%82%A2%E8%A7%A3%E6%B5%81%E6%B5%AA%E7%8B%97&t=31&band_rank=49&Refer=top",
-    "hot": 48627
+    "hot": 51738
+  },
+  "疯子成了马哲 马哲成了疯子": {
+    "url": "https://s.weibo.com/weibo?q=%E7%96%AF%E5%AD%90%E6%88%90%E4%BA%86%E9%A9%AC%E5%93%B2%20%E9%A9%AC%E5%93%B2%E6%88%90%E4%BA%86%E7%96%AF%E5%AD%90&t=31&band_rank=35&Refer=top",
+    "hot": 40332
+  },
+  "宝妈客厅改练功房3个娃八仙过海": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%AE%9D%E5%A6%88%E5%AE%A2%E5%8E%85%E6%94%B9%E7%BB%83%E5%8A%9F%E6%88%BF3%E4%B8%AA%E5%A8%83%E5%85%AB%E4%BB%99%E8%BF%87%E6%B5%B7%23&t=31&band_rank=40&Refer=top",
+    "hot": 37643
   }
 }

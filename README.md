@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-10-22 02:12:19.207626 
+最后更新时间 2023-10-22 02:26:44.531871 
 1. [何炅说第一次见黄子韬是19岁](https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%E8%AF%B4%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E9%BB%84%E5%AD%90%E9%9F%AC%E6%98%AF19%E5%B2%81%23&t=31&band_rank=1&Refer=top) 904570
 1. [医生劝半个多小时不让走救回一条命](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E5%8A%9D%E5%8D%8A%E4%B8%AA%E5%A4%9A%E5%B0%8F%E6%97%B6%E4%B8%8D%E8%AE%A9%E8%B5%B0%E6%95%91%E5%9B%9E%E4%B8%80%E6%9D%A1%E5%91%BD%23&t=31&band_rank=7&Refer=top) 854753
 1. [张碧晨 撕裂](https://s.weibo.com/weibo?q=%E5%BC%A0%E7%A2%A7%E6%99%A8%20%E6%92%95%E8%A3%82&t=31&band_rank=2&Refer=top) 800176
@@ -59,18 +59,20 @@
 1. [戚薇成都演唱会](https://s.weibo.com/weibo?q=%E6%88%9A%E8%96%87%E6%88%90%E9%83%BD%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=48&Refer=top) 198191
 1. [国务院取消调整33个罚款事项](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%8F%96%E6%B6%88%E8%B0%83%E6%95%B433%E4%B8%AA%E7%BD%9A%E6%AC%BE%E4%BA%8B%E9%A1%B9%23&t=31&band_rank=43&Refer=top) 198181
 1. [XDJ战胜AG](https://s.weibo.com/weibo?q=%23XDJ%E6%88%98%E8%83%9CAG%23&t=31&band_rank=49&Refer=top) 198127
+1. [UFC](https://s.weibo.com/weibo?q=UFC&t=31&band_rank=40&Refer=top) 132288
 1. [快递员知道你们小区多少秘密](https://s.weibo.com/weibo?q=%E5%BF%AB%E9%80%92%E5%91%98%E7%9F%A5%E9%81%93%E4%BD%A0%E4%BB%AC%E5%B0%8F%E5%8C%BA%E5%A4%9A%E5%B0%91%E7%A7%98%E5%AF%86&t=31&band_rank=49&Refer=top) 101018
 1. [2023大湾区音乐汇](https://s.weibo.com/weibo?q=%232023%E5%A4%A7%E6%B9%BE%E5%8C%BA%E9%9F%B3%E4%B9%90%E6%B1%87%23&t=31&band_rank=47&Refer=top) 100617
 1. [幺四婆婆 受虐狂](https://s.weibo.com/weibo?q=%E5%B9%BA%E5%9B%9B%E5%A9%86%E5%A9%86%20%E5%8F%97%E8%99%90%E7%8B%82&t=31&band_rank=48&Refer=top) 100616
 1. [张常宁复出女排联赛](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B8%B8%E5%AE%81%E5%A4%8D%E5%87%BA%E5%A5%B3%E6%8E%92%E8%81%94%E8%B5%9B%23&t=31&band_rank=50&Refer=top) 100607
-1. [UFC](https://s.weibo.com/weibo?q=UFC&t=31&band_rank=40&Refer=top) 93737
 1. [拒绝消费濒危物种制品](https://s.weibo.com/weibo?q=%23%E6%8B%92%E7%BB%9D%E6%B6%88%E8%B4%B9%E6%BF%92%E5%8D%B1%E7%89%A9%E7%A7%8D%E5%88%B6%E5%93%81%23&t=31&band_rank=29&Refer=top) 91366
 1. [唐艺昕成都citywalk](https://s.weibo.com/weibo?q=%23%E5%94%90%E8%89%BA%E6%98%95%E6%88%90%E9%83%BDcitywalk%23&t=31&band_rank=43&Refer=top) 90200
 1. [檀健次四方馆杀青](https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E5%9B%9B%E6%96%B9%E9%A6%86%E6%9D%80%E9%9D%92%23&t=31&band_rank=33&Refer=top) 87383
 1. [傅园慧首谈上恋综的经历](https://s.weibo.com/weibo?q=%23%E5%82%85%E5%9B%AD%E6%85%A7%E9%A6%96%E8%B0%88%E4%B8%8A%E6%81%8B%E7%BB%BC%E7%9A%84%E7%BB%8F%E5%8E%86%23&t=31&band_rank=47&Refer=top) 76928
 1. [欧阳娣娣方否认参加综艺海选被淘汰](https://s.weibo.com/weibo?q=%23%E6%AC%A7%E9%98%B3%E5%A8%A3%E5%A8%A3%E6%96%B9%E5%90%A6%E8%AE%A4%E5%8F%82%E5%8A%A0%E7%BB%BC%E8%89%BA%E6%B5%B7%E9%80%89%E8%A2%AB%E6%B7%98%E6%B1%B0%23&t=31&band_rank=46&Refer=top) 76727
 1. [薛之谦常州](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%B8%B8%E5%B7%9E%23&t=31&band_rank=47&Refer=top) 56426
-1. [高校通报学生宿舍内肢解流浪狗](https://s.weibo.com/weibo?q=%E9%AB%98%E6%A0%A1%E9%80%9A%E6%8A%A5%E5%AD%A6%E7%94%9F%E5%AE%BF%E8%88%8D%E5%86%85%E8%82%A2%E8%A7%A3%E6%B5%81%E6%B5%AA%E7%8B%97&t=31&band_rank=49&Refer=top) 48627
+1. [高校通报学生宿舍内肢解流浪狗](https://s.weibo.com/weibo?q=%E9%AB%98%E6%A0%A1%E9%80%9A%E6%8A%A5%E5%AD%A6%E7%94%9F%E5%AE%BF%E8%88%8D%E5%86%85%E8%82%A2%E8%A7%A3%E6%B5%81%E6%B5%AA%E7%8B%97&t=31&band_rank=49&Refer=top) 51738
+1. [疯子成了马哲 马哲成了疯子](https://s.weibo.com/weibo?q=%E7%96%AF%E5%AD%90%E6%88%90%E4%BA%86%E9%A9%AC%E5%93%B2%20%E9%A9%AC%E5%93%B2%E6%88%90%E4%BA%86%E7%96%AF%E5%AD%90&t=31&band_rank=35&Refer=top) 40332
+1. [宝妈客厅改练功房3个娃八仙过海](https://s.weibo.com/weibo?q=%23%E5%AE%9D%E5%A6%88%E5%AE%A2%E5%8E%85%E6%94%B9%E7%BB%83%E5%8A%9F%E6%88%BF3%E4%B8%AA%E5%A8%83%E5%85%AB%E4%BB%99%E8%BF%87%E6%B5%B7%23&t=31&band_rank=40&Refer=top) 37643
 <!-- END -->
 
 历史归档 [./archives](./archives)
