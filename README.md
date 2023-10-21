@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-10-22 01:34:00.599800 
+最后更新时间 2023-10-22 01:48:57.619953 
 1. [何炅说第一次见黄子韬是19岁](https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%E8%AF%B4%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E9%BB%84%E5%AD%90%E9%9F%AC%E6%98%AF19%E5%B2%81%23&t=31&band_rank=1&Refer=top) 904570
 1. [医生劝半个多小时不让走救回一条命](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E5%8A%9D%E5%8D%8A%E4%B8%AA%E5%A4%9A%E5%B0%8F%E6%97%B6%E4%B8%8D%E8%AE%A9%E8%B5%B0%E6%95%91%E5%9B%9E%E4%B8%80%E6%9D%A1%E5%91%BD%23&t=31&band_rank=7&Refer=top) 854753
 1. [张碧晨 撕裂](https://s.weibo.com/weibo?q=%E5%BC%A0%E7%A2%A7%E6%99%A8%20%E6%92%95%E8%A3%82&t=31&band_rank=2&Refer=top) 800176
@@ -68,7 +68,7 @@
 1. [檀健次四方馆杀青](https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E5%9B%9B%E6%96%B9%E9%A6%86%E6%9D%80%E9%9D%92%23&t=31&band_rank=33&Refer=top) 87383
 1. [傅园慧首谈上恋综的经历](https://s.weibo.com/weibo?q=%23%E5%82%85%E5%9B%AD%E6%85%A7%E9%A6%96%E8%B0%88%E4%B8%8A%E6%81%8B%E7%BB%BC%E7%9A%84%E7%BB%8F%E5%8E%86%23&t=31&band_rank=47&Refer=top) 76928
 1. [欧阳娣娣方否认参加综艺海选被淘汰](https://s.weibo.com/weibo?q=%23%E6%AC%A7%E9%98%B3%E5%A8%A3%E5%A8%A3%E6%96%B9%E5%90%A6%E8%AE%A4%E5%8F%82%E5%8A%A0%E7%BB%BC%E8%89%BA%E6%B5%B7%E9%80%89%E8%A2%AB%E6%B7%98%E6%B1%B0%23&t=31&band_rank=46&Refer=top) 76727
-1. [UFC](https://s.weibo.com/weibo?q=UFC&t=31&band_rank=40&Refer=top) 60804
+1. [UFC](https://s.weibo.com/weibo?q=UFC&t=31&band_rank=40&Refer=top) 71642
 1. [薛之谦常州](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%B8%B8%E5%B7%9E%23&t=31&band_rank=47&Refer=top) 56426
 <!-- END -->
 
