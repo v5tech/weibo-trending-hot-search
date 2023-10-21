@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-10-22 03:48:56.340042 
+最后更新时间 2023-10-22 04:10:07.214511 
 1. [何炅说第一次见黄子韬是19岁](https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%E8%AF%B4%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E9%BB%84%E5%AD%90%E9%9F%AC%E6%98%AF19%E5%B2%81%23&t=31&band_rank=1&Refer=top) 904570
 1. [医生劝半个多小时不让走救回一条命](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E5%8A%9D%E5%8D%8A%E4%B8%AA%E5%A4%9A%E5%B0%8F%E6%97%B6%E4%B8%8D%E8%AE%A9%E8%B5%B0%E6%95%91%E5%9B%9E%E4%B8%80%E6%9D%A1%E5%91%BD%23&t=31&band_rank=7&Refer=top) 854753
 1. [张碧晨 撕裂](https://s.weibo.com/weibo?q=%E5%BC%A0%E7%A2%A7%E6%99%A8%20%E6%92%95%E8%A3%82&t=31&band_rank=2&Refer=top) 800176
