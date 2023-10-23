@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-10-24 04:34:37.483281 
+最后更新时间 2023-10-24 04:49:01.103076 
 1. [超千名网友向被狗咬伤女童申请退款](https://s.weibo.com/weibo?q=%23%E8%B6%85%E5%8D%83%E5%90%8D%E7%BD%91%E5%8F%8B%E5%90%91%E8%A2%AB%E7%8B%97%E5%92%AC%E4%BC%A4%E5%A5%B3%E7%AB%A5%E7%94%B3%E8%AF%B7%E9%80%80%E6%AC%BE%23&t=31&band_rank=12&Refer=top) 1411948
 1. [厂家称5.9元粉底液是活动价](https://s.weibo.com/weibo?q=%23%E5%8E%82%E5%AE%B6%E7%A7%B05.9%E5%85%83%E7%B2%89%E5%BA%95%E6%B6%B2%E6%98%AF%E6%B4%BB%E5%8A%A8%E4%BB%B7%23&t=31&band_rank=1&Refer=top) 922614
 1. [关爱老人在今天更在每一天](https://s.weibo.com/weibo?q=%23%E5%85%B3%E7%88%B1%E8%80%81%E4%BA%BA%E5%9C%A8%E4%BB%8A%E5%A4%A9%E6%9B%B4%E5%9C%A8%E6%AF%8F%E4%B8%80%E5%A4%A9%23&t=31&band_rank=3&Refer=top) 709084
@@ -60,6 +60,7 @@
 1. [搞oc的有福了](https://s.weibo.com/weibo?q=%E6%90%9Eoc%E7%9A%84%E6%9C%89%E7%A6%8F%E4%BA%86&t=31&band_rank=42&Refer=top) 132974
 1. [酱园弄 杀夫案](https://s.weibo.com/weibo?q=%E9%85%B1%E5%9B%AD%E5%BC%84%20%E6%9D%80%E5%A4%AB%E6%A1%88&t=31&band_rank=47&Refer=top) 132712
 1. [肺炎支原体感染早期症状为干咳](https://s.weibo.com/weibo?q=%23%E8%82%BA%E7%82%8E%E6%94%AF%E5%8E%9F%E4%BD%93%E6%84%9F%E6%9F%93%E6%97%A9%E6%9C%9F%E7%97%87%E7%8A%B6%E4%B8%BA%E5%B9%B2%E5%92%B3%23&t=31&band_rank=37&Refer=top) 128110
+1. [朝阳打歌中心](https://s.weibo.com/weibo?q=%E6%9C%9D%E9%98%B3%E6%89%93%E6%AD%8C%E4%B8%AD%E5%BF%83&t=31&band_rank=48&Refer=top) 127974
 1. [小朋友商场连蹲两天追星奶龙](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9C%8B%E5%8F%8B%E5%95%86%E5%9C%BA%E8%BF%9E%E8%B9%B2%E4%B8%A4%E5%A4%A9%E8%BF%BD%E6%98%9F%E5%A5%B6%E9%BE%99%23&t=31&band_rank=38&Refer=top) 127950
 1. [赵丽颖彝族服饰写真](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%BD%9D%E6%97%8F%E6%9C%8D%E9%A5%B0%E5%86%99%E7%9C%9F%23&t=31&band_rank=41&Refer=top) 110693
 1. [岁岁青莲](https://s.weibo.com/weibo?q=%E5%B2%81%E5%B2%81%E9%9D%92%E8%8E%B2&t=31&band_rank=43&Refer=top) 102486
