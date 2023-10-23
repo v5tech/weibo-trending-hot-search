@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-10-24 03:49:03.633678 
+最后更新时间 2023-10-24 04:09:22.041990 
 1. [超千名网友向被狗咬伤女童申请退款](https://s.weibo.com/weibo?q=%23%E8%B6%85%E5%8D%83%E5%90%8D%E7%BD%91%E5%8F%8B%E5%90%91%E8%A2%AB%E7%8B%97%E5%92%AC%E4%BC%A4%E5%A5%B3%E7%AB%A5%E7%94%B3%E8%AF%B7%E9%80%80%E6%AC%BE%23&t=31&band_rank=12&Refer=top) 1411948
 1. [厂家称5.9元粉底液是活动价](https://s.weibo.com/weibo?q=%23%E5%8E%82%E5%AE%B6%E7%A7%B05.9%E5%85%83%E7%B2%89%E5%BA%95%E6%B6%B2%E6%98%AF%E6%B4%BB%E5%8A%A8%E4%BB%B7%23&t=31&band_rank=1&Refer=top) 922614
 1. [关爱老人在今天更在每一天](https://s.weibo.com/weibo?q=%23%E5%85%B3%E7%88%B1%E8%80%81%E4%BA%BA%E5%9C%A8%E4%BB%8A%E5%A4%A9%E6%9B%B4%E5%9C%A8%E6%AF%8F%E4%B8%80%E5%A4%A9%23&t=31&band_rank=3&Refer=top) 709084
@@ -66,8 +66,8 @@
 1. [酱园弄 杀夫案](https://s.weibo.com/weibo?q=%E9%85%B1%E5%9B%AD%E5%BC%84%20%E6%9D%80%E5%A4%AB%E6%A1%88&t=31&band_rank=47&Refer=top) 93456
 1. [檀健次首张实体专辑上线](https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E9%A6%96%E5%BC%A0%E5%AE%9E%E4%BD%93%E4%B8%93%E8%BE%91%E4%B8%8A%E7%BA%BF%23&t=31&band_rank=49&Refer=top) 88025
 1. [宠物界的梦中情房](https://s.weibo.com/weibo?q=%E5%AE%A0%E7%89%A9%E7%95%8C%E7%9A%84%E6%A2%A6%E4%B8%AD%E6%83%85%E6%88%BF&t=31&band_rank=50&Refer=top) 48270
-1. [男子殴打妻子致死被判死缓](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%AE%B4%E6%89%93%E5%A6%BB%E5%AD%90%E8%87%B4%E6%AD%BB%E8%A2%AB%E5%88%A4%E6%AD%BB%E7%BC%93%23&t=31&band_rank=36&Refer=top) 39395
-1. [今年双11什么手机值得买](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E5%8F%8C11%E4%BB%80%E4%B9%88%E6%89%8B%E6%9C%BA%E5%80%BC%E5%BE%97%E4%B9%B0%23&t=31&band_rank=46&Refer=top) 39351
+1. [男子殴打妻子致死被判死缓](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%AE%B4%E6%89%93%E5%A6%BB%E5%AD%90%E8%87%B4%E6%AD%BB%E8%A2%AB%E5%88%A4%E6%AD%BB%E7%BC%93%23&t=31&band_rank=36&Refer=top) 40726
+1. [今年双11什么手机值得买](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E5%8F%8C11%E4%BB%80%E4%B9%88%E6%89%8B%E6%9C%BA%E5%80%BC%E5%BE%97%E4%B9%B0%23&t=31&band_rank=46&Refer=top) 40676
 <!-- END -->
 
 历史归档 [./archives](./archives)
