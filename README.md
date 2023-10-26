@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-10-27 06:09:08.441523 
+最后更新时间 2023-10-27 06:25:39.700687 
 1. [罗翔 你们睡觉的时候手机关不关](https://s.weibo.com/weibo?q=%E7%BD%97%E7%BF%94%20%E4%BD%A0%E4%BB%AC%E7%9D%A1%E8%A7%89%E7%9A%84%E6%97%B6%E5%80%99%E6%89%8B%E6%9C%BA%E5%85%B3%E4%B8%8D%E5%85%B3&t=31&band_rank=1&Refer=top) 1669389
 1. [合工大](https://s.weibo.com/weibo?q=%E5%90%88%E5%B7%A5%E5%A4%A7&t=31&band_rank=4&Refer=top) 1355565
 1. [中国女子轮椅篮球队卫冕亚残运会金牌](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E8%BD%AE%E6%A4%85%E7%AF%AE%E7%90%83%E9%98%9F%E5%8D%AB%E5%86%95%E4%BA%9A%E6%AE%8B%E8%BF%90%E4%BC%9A%E9%87%91%E7%89%8C%23&t=31&band_rank=3&Refer=top) 1223180
@@ -49,9 +49,9 @@
 1. [陈牧驰此沙拳击比赛打到就医](https://s.weibo.com/weibo?q=%E9%99%88%E7%89%A7%E9%A9%B0%E6%AD%A4%E6%B2%99%E6%8B%B3%E5%87%BB%E6%AF%94%E8%B5%9B%E6%89%93%E5%88%B0%E5%B0%B1%E5%8C%BB&t=31&band_rank=37&Refer=top) 132496
 1. [忘不了曾舜晞的光剑变身](https://s.weibo.com/weibo?q=%23%E5%BF%98%E4%B8%8D%E4%BA%86%E6%9B%BE%E8%88%9C%E6%99%9E%E7%9A%84%E5%85%89%E5%89%91%E5%8F%98%E8%BA%AB%23&t=31&band_rank=39&Refer=top) 129461
 1. [女明星的牙贴面](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%98%8E%E6%98%9F%E7%9A%84%E7%89%99%E8%B4%B4%E9%9D%A2%23&t=31&band_rank=41&Refer=top) 125993
+1. [巴黎世家4千元新发带上海门店已售罄](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E%E4%B8%96%E5%AE%B64%E5%8D%83%E5%85%83%E6%96%B0%E5%8F%91%E5%B8%A6%E4%B8%8A%E6%B5%B7%E9%97%A8%E5%BA%97%E5%B7%B2%E5%94%AE%E7%BD%84%23&t=31&band_rank=43&Refer=top) 119250
 1. [金发WINWIN](https://s.weibo.com/weibo?q=%E9%87%91%E5%8F%91WINWIN&t=31&band_rank=42&Refer=top) 118008
 1. [华晨宇 音乐哲学家](https://s.weibo.com/weibo?q=%E5%8D%8E%E6%99%A8%E5%AE%87%20%E9%9F%B3%E4%B9%90%E5%93%B2%E5%AD%A6%E5%AE%B6&t=31&band_rank=27&Refer=top) 115227
-1. [巴黎世家4千元新发带上海门店已售罄](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E%E4%B8%96%E5%AE%B64%E5%8D%83%E5%85%83%E6%96%B0%E5%8F%91%E5%B8%A6%E4%B8%8A%E6%B5%B7%E9%97%A8%E5%BA%97%E5%B7%B2%E5%94%AE%E7%BD%84%23&t=31&band_rank=43&Refer=top) 114532
 1. [秦岚拍的辛芷蕾](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E6%8B%8D%E7%9A%84%E8%BE%9B%E8%8A%B7%E8%95%BE%23&t=31&band_rank=44&Refer=top) 113879
 1. [钟楚曦回复黑评](https://s.weibo.com/weibo?q=%23%E9%92%9F%E6%A5%9A%E6%9B%A6%E5%9B%9E%E5%A4%8D%E9%BB%91%E8%AF%84%23&t=31&band_rank=45&Refer=top) 102375
 1. [金凡 紧张](https://s.weibo.com/weibo?q=%E9%87%91%E5%87%A1%20%E7%B4%A7%E5%BC%A0&t=31&band_rank=46&Refer=top) 101282
@@ -63,13 +63,14 @@
 1. [小杨哥与美腕合资公司系乌龙](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E4%B8%8E%E7%BE%8E%E8%85%95%E5%90%88%E8%B5%84%E5%85%AC%E5%8F%B8%E7%B3%BB%E4%B9%8C%E9%BE%99%23&t=31&band_rank=49&Refer=top) 80173
 1. [法考主观题](https://s.weibo.com/weibo?q=%23%E6%B3%95%E8%80%83%E4%B8%BB%E8%A7%82%E9%A2%98%23&t=31&band_rank=50&Refer=top) 72818
 1. [秦岚带了三十多套衣服](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E5%B8%A6%E4%BA%86%E4%B8%89%E5%8D%81%E5%A4%9A%E5%A5%97%E8%A1%A3%E6%9C%8D%23&t=31&band_rank=36&Refer=top) 66733
+1. [美国加州州长纽森访华](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%8A%A0%E5%B7%9E%E5%B7%9E%E9%95%BF%E7%BA%BD%E6%A3%AE%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=48&Refer=top) 66690
 1. [中国石化累计分红5600亿](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%9F%B3%E5%8C%96%E7%B4%AF%E8%AE%A1%E5%88%86%E7%BA%A25600%E4%BA%BF%23&t=31&band_rank=49&Refer=top) 65126
-1. [美国加州州长纽森访华](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%8A%A0%E5%B7%9E%E5%B7%9E%E9%95%BF%E7%BA%BD%E6%A3%AE%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=48&Refer=top) 47913
-1. [陕西发现元稹第二任妻子裴淑墓](https://s.weibo.com/weibo?q=%23%E9%99%95%E8%A5%BF%E5%8F%91%E7%8E%B0%E5%85%83%E7%A8%B9%E7%AC%AC%E4%BA%8C%E4%BB%BB%E5%A6%BB%E5%AD%90%E8%A3%B4%E6%B7%91%E5%A2%93%23&t=31&band_rank=50&Refer=top) 44622
+1. [陕西发现元稹第二任妻子裴淑墓](https://s.weibo.com/weibo?q=%23%E9%99%95%E8%A5%BF%E5%8F%91%E7%8E%B0%E5%85%83%E7%A8%B9%E7%AC%AC%E4%BA%8C%E4%BB%BB%E5%A6%BB%E5%AD%90%E8%A3%B4%E6%B7%91%E5%A2%93%23&t=31&band_rank=50&Refer=top) 64917
 1. [林心如露腰卫衣](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%83%E5%A6%82%E9%9C%B2%E8%85%B0%E5%8D%AB%E8%A1%A3%23&t=31&band_rank=25&Refer=top) 44041
-1. [充电宝 俗称尿袋](https://s.weibo.com/weibo?q=%E5%85%85%E7%94%B5%E5%AE%9D%20%E4%BF%97%E7%A7%B0%E5%B0%BF%E8%A2%8B&t=31&band_rank=49&Refer=top) 20922
-1. [刘诗诗清丽绿衣路透](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E6%B8%85%E4%B8%BD%E7%BB%BF%E8%A1%A3%E8%B7%AF%E9%80%8F%23&t=31&band_rank=42&Refer=top) 19900
-1. [生气长大的甘蔗都是结节](https://s.weibo.com/weibo?q=%23%E7%94%9F%E6%B0%94%E9%95%BF%E5%A4%A7%E7%9A%84%E7%94%98%E8%94%97%E9%83%BD%E6%98%AF%E7%BB%93%E8%8A%82%23&t=31&band_rank=42&Refer=top) 18751
+1. [生气长大的甘蔗都是结节](https://s.weibo.com/weibo?q=%23%E7%94%9F%E6%B0%94%E9%95%BF%E5%A4%A7%E7%9A%84%E7%94%98%E8%94%97%E9%83%BD%E6%98%AF%E7%BB%93%E8%8A%82%23&t=31&band_rank=42&Refer=top) 39361
+1. [充电宝 俗称尿袋](https://s.weibo.com/weibo?q=%E5%85%85%E7%94%B5%E5%AE%9D%20%E4%BF%97%E7%A7%B0%E5%B0%BF%E8%A2%8B&t=31&band_rank=49&Refer=top) 27180
+1. [刘诗诗清丽绿衣路透](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E6%B8%85%E4%B8%BD%E7%BB%BF%E8%A1%A3%E8%B7%AF%E9%80%8F%23&t=31&band_rank=42&Refer=top) 27175
+1. [幻方量化回应二当家婚外情离婚传闻](https://s.weibo.com/weibo?q=%23%E5%B9%BB%E6%96%B9%E9%87%8F%E5%8C%96%E5%9B%9E%E5%BA%94%E4%BA%8C%E5%BD%93%E5%AE%B6%E5%A9%9A%E5%A4%96%E6%83%85%E7%A6%BB%E5%A9%9A%E4%BC%A0%E9%97%BB%23&t=31&band_rank=47&Refer=top) 27128
 1. [欺骗自己的不是眼睛而是大脑](https://s.weibo.com/weibo?q=%23%E6%AC%BA%E9%AA%97%E8%87%AA%E5%B7%B1%E7%9A%84%E4%B8%8D%E6%98%AF%E7%9C%BC%E7%9D%9B%E8%80%8C%E6%98%AF%E5%A4%A7%E8%84%91%23&t=31&band_rank=45&Refer=top) 17599
 <!-- END -->
 
