@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-10-27 01:09:40.392656 
+最后更新时间 2023-10-27 01:24:40.404366 
 1. [罗翔 你们睡觉的时候手机关不关](https://s.weibo.com/weibo?q=%E7%BD%97%E7%BF%94%20%E4%BD%A0%E4%BB%AC%E7%9D%A1%E8%A7%89%E7%9A%84%E6%97%B6%E5%80%99%E6%89%8B%E6%9C%BA%E5%85%B3%E4%B8%8D%E5%85%B3&t=31&band_rank=1&Refer=top) 1669389
 1. [合工大](https://s.weibo.com/weibo?q=%E5%90%88%E5%B7%A5%E5%A4%A7&t=31&band_rank=4&Refer=top) 1355565
 1. [中国女子轮椅篮球队卫冕亚残运会金牌](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E8%BD%AE%E6%A4%85%E7%AF%AE%E7%90%83%E9%98%9F%E5%8D%AB%E5%86%95%E4%BA%9A%E6%AE%8B%E8%BF%90%E4%BC%9A%E9%87%91%E7%89%8C%23&t=31&band_rank=3&Refer=top) 1223180
@@ -62,6 +62,7 @@
 1. [小米发布会](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=49&Refer=top) 86185
 1. [小杨哥与美腕合资公司系乌龙](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E4%B8%8E%E7%BE%8E%E8%85%95%E5%90%88%E8%B5%84%E5%85%AC%E5%8F%B8%E7%B3%BB%E4%B9%8C%E9%BE%99%23&t=31&band_rank=49&Refer=top) 80173
 1. [法考主观题](https://s.weibo.com/weibo?q=%23%E6%B3%95%E8%80%83%E4%B8%BB%E8%A7%82%E9%A2%98%23&t=31&band_rank=50&Refer=top) 72818
+1. [中国石化累计分红5600亿](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%9F%B3%E5%8C%96%E7%B4%AF%E8%AE%A1%E5%88%86%E7%BA%A25600%E4%BA%BF%23&t=31&band_rank=49&Refer=top) 48682
 <!-- END -->
 
 历史归档 [./archives](./archives)
