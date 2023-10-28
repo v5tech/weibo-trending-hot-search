@@ -9,7 +9,7 @@
   },
   "贝林厄姆世界波": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%B4%9D%E6%9E%97%E5%8E%84%E5%A7%86%E4%B8%96%E7%95%8C%E6%B3%A2%23&t=31&band_rank=10&Refer=top",
-    "hot": 793347
+    "hot": 881514
   },
   "杭州亚残运会闭幕": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E6%AE%8B%E8%BF%90%E4%BC%9A%E9%97%AD%E5%B9%95%23&t=31&band_rank=3&Refer=top",
@@ -218,5 +218,9 @@
   "李克强同志讣告": {
     "url": "https://s.weibo.com/weibo?q=%E6%9D%8E%E5%85%8B%E5%BC%BA%E5%90%8C%E5%BF%97%E8%AE%A3%E5%91%8A&t=31&band_rank=50&Refer=top",
     "hot": 104419
+  },
+  "JustinBieber万圣节潜水造型": {
+    "url": "https://s.weibo.com/weibo?q=%23JustinBieber%E4%B8%87%E5%9C%A3%E8%8A%82%E6%BD%9C%E6%B0%B4%E9%80%A0%E5%9E%8B%23&t=31&band_rank=50&Refer=top",
+    "hot": 89683
   }
 }
