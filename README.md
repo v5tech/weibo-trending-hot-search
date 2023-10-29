@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-10-30 05:19:02.189898 
+最后更新时间 2023-10-30 05:34:08.033907 
 1. [英国29岁冰球运动员遭冰刀割喉去世](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD29%E5%B2%81%E5%86%B0%E7%90%83%E8%BF%90%E5%8A%A8%E5%91%98%E9%81%AD%E5%86%B0%E5%88%80%E5%89%B2%E5%96%89%E5%8E%BB%E4%B8%96%23&t=31&band_rank=1&Refer=top) 935192
 1. [中国驻美大使馆发紧急提醒](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A9%BB%E7%BE%8E%E5%A4%A7%E4%BD%BF%E9%A6%86%E5%8F%91%E7%B4%A7%E6%80%A5%E6%8F%90%E9%86%92%23&t=31&band_rank=2&Refer=top) 658165
 1. [杭州亚残运这些画面好戳泪点](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E6%AE%8B%E8%BF%90%E8%BF%99%E4%BA%9B%E7%94%BB%E9%9D%A2%E5%A5%BD%E6%88%B3%E6%B3%AA%E7%82%B9%23&t=31&band_rank=3&Refer=top) 496316
