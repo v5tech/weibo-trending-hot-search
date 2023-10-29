@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-10-30 06:08:57.357994 
+最后更新时间 2023-10-30 06:24:23.420899 
 1. [英国29岁冰球运动员遭冰刀割喉去世](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD29%E5%B2%81%E5%86%B0%E7%90%83%E8%BF%90%E5%8A%A8%E5%91%98%E9%81%AD%E5%86%B0%E5%88%80%E5%89%B2%E5%96%89%E5%8E%BB%E4%B8%96%23&t=31&band_rank=1&Refer=top) 935192
 1. [中国驻美大使馆发紧急提醒](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A9%BB%E7%BE%8E%E5%A4%A7%E4%BD%BF%E9%A6%86%E5%8F%91%E7%B4%A7%E6%80%A5%E6%8F%90%E9%86%92%23&t=31&band_rank=2&Refer=top) 658165
 1. [杭州亚残运这些画面好戳泪点](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E6%AE%8B%E8%BF%90%E8%BF%99%E4%BA%9B%E7%94%BB%E9%9D%A2%E5%A5%BD%E6%88%B3%E6%B3%AA%E7%82%B9%23&t=31&band_rank=3&Refer=top) 496316
@@ -70,8 +70,8 @@
 1. [如何判断一段感情还要不要继续](https://s.weibo.com/weibo?q=%E5%A6%82%E4%BD%95%E5%88%A4%E6%96%AD%E4%B8%80%E6%AE%B5%E6%84%9F%E6%83%85%E8%BF%98%E8%A6%81%E4%B8%8D%E8%A6%81%E7%BB%A7%E7%BB%AD&t=31&band_rank=43&Refer=top) 54714
 1. [商店店员被曝当街用开水烫杀狗](https://s.weibo.com/weibo?q=%23%E5%95%86%E5%BA%97%E5%BA%97%E5%91%98%E8%A2%AB%E6%9B%9D%E5%BD%93%E8%A1%97%E7%94%A8%E5%BC%80%E6%B0%B4%E7%83%AB%E6%9D%80%E7%8B%97%23&t=31&band_rank=49&Refer=top) 48045
 1. [五条悟coser坐在购物车里](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9D%A1%E6%82%9Fcoser%E5%9D%90%E5%9C%A8%E8%B4%AD%E7%89%A9%E8%BD%A6%E9%87%8C&t=31&band_rank=41&Refer=top) 44791
+1. [现在日本中小学生这么卷了吗](https://s.weibo.com/weibo?q=%E7%8E%B0%E5%9C%A8%E6%97%A5%E6%9C%AC%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%94%9F%E8%BF%99%E4%B9%88%E5%8D%B7%E4%BA%86%E5%90%97&t=31&band_rank=24&Refer=top) 44238
 1. [熬夜吃什么补回来](https://s.weibo.com/weibo?q=%E7%86%AC%E5%A4%9C%E5%90%83%E4%BB%80%E4%B9%88%E8%A1%A5%E5%9B%9E%E6%9D%A5&t=31&band_rank=46&Refer=top) 42619
-1. [现在日本中小学生这么卷了吗](https://s.weibo.com/weibo?q=%E7%8E%B0%E5%9C%A8%E6%97%A5%E6%9C%AC%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%94%9F%E8%BF%99%E4%B9%88%E5%8D%B7%E4%BA%86%E5%90%97&t=31&band_rank=24&Refer=top) 29578
 1. [律师分析权志龙否认吸毒原因](https://s.weibo.com/weibo?q=%23%E5%BE%8B%E5%B8%88%E5%88%86%E6%9E%90%E6%9D%83%E5%BF%97%E9%BE%99%E5%90%A6%E8%AE%A4%E5%90%B8%E6%AF%92%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=31&Refer=top) 24738
 1. [EDGZmjjKK 跟我兄弟从地下站上](https://s.weibo.com/weibo?q=EDGZmjjKK%20%E8%B7%9F%E6%88%91%E5%85%84%E5%BC%9F%E4%BB%8E%E5%9C%B0%E4%B8%8B%E7%AB%99%E4%B8%8A&t=31&band_rank=46&Refer=top) 16581
 <!-- END -->
