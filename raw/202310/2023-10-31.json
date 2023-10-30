@@ -19,6 +19,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%A4%B8%E5%85%8B%E5%9B%9E%E5%BA%94%E8%A2%AB%E7%BD%9A%23&t=31&band_rank=5&Refer=top",
     "hot": 825161
   },
+  "直击第六届进博会": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%9B%B4%E5%87%BB%E7%AC%AC%E5%85%AD%E5%B1%8A%E8%BF%9B%E5%8D%9A%E4%BC%9A%23&t=31&band_rank=3&Refer=top",
+    "hot": 524086
+  },
   "胡锡进谈上海万圣节": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%83%A1%E9%94%A1%E8%BF%9B%E8%B0%88%E4%B8%8A%E6%B5%B7%E4%B8%87%E5%9C%A3%E8%8A%82%23&t=31&band_rank=6&Refer=top",
     "hot": 357014
@@ -211,12 +215,20 @@
     "url": "https://s.weibo.com/weibo?q=%E7%A7%A6%E5%B2%9A%E6%83%B9%E7%9C%BC%E7%9A%84%E5%8F%91%E7%BC%9D&t=31&band_rank=45&Refer=top",
     "hot": 90144
   },
+  "中国学者当面回怼日本学者": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%AD%A6%E8%80%85%E5%BD%93%E9%9D%A2%E5%9B%9E%E6%80%BC%E6%97%A5%E6%9C%AC%E5%AD%A6%E8%80%85%23&t=31&band_rank=50&Refer=top",
+    "hot": 83379
+  },
   "韩国警方称涉案艺人只有李善均权志龙": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E8%AD%A6%E6%96%B9%E7%A7%B0%E6%B6%89%E6%A1%88%E8%89%BA%E4%BA%BA%E5%8F%AA%E6%9C%89%E6%9D%8E%E5%96%84%E5%9D%87%E6%9D%83%E5%BF%97%E9%BE%99%23&t=31&band_rank=48&Refer=top",
     "hot": 67621
   },
-  "中国学者当面回怼日本学者": {
-    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%AD%A6%E8%80%85%E5%BD%93%E9%9D%A2%E5%9B%9E%E6%80%BC%E6%97%A5%E6%9C%AC%E5%AD%A6%E8%80%85%23&t=31&band_rank=50&Refer=top",
-    "hot": 65810
+  "陈哲远忘词还撒娇": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E5%93%B2%E8%BF%9C%E5%BF%98%E8%AF%8D%E8%BF%98%E6%92%92%E5%A8%87%23&t=31&band_rank=40&Refer=top",
+    "hot": 62118
+  },
+  "吴宣仪根字写错": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%AE%A3%E4%BB%AA%E6%A0%B9%E5%AD%97%E5%86%99%E9%94%99%23&t=31&band_rank=49&Refer=top",
+    "hot": 53475
   }
 }
