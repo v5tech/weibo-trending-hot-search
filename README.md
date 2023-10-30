@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-10-31 01:09:26.852645 
+最后更新时间 2023-10-31 01:24:57.195072 
 1. [谢可寅 以后再也不会有THE9了](https://s.weibo.com/weibo?q=%E8%B0%A2%E5%8F%AF%E5%AF%85%20%E4%BB%A5%E5%90%8E%E5%86%8D%E4%B9%9F%E4%B8%8D%E4%BC%9A%E6%9C%89THE9%E4%BA%86&t=31&band_rank=1&Refer=top) 1388768
 1. [朋友30岁癌症去世生前说他反而很开心](https://s.weibo.com/weibo?q=%23%E6%9C%8B%E5%8F%8B30%E5%B2%81%E7%99%8C%E7%97%87%E5%8E%BB%E4%B8%96%E7%94%9F%E5%89%8D%E8%AF%B4%E4%BB%96%E5%8F%8D%E8%80%8C%E5%BE%88%E5%BC%80%E5%BF%83%23&t=31&band_rank=2&Refer=top) 1134689
 1. [中国人到了太空也是收纳高手](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%88%B0%E4%BA%86%E5%A4%AA%E7%A9%BA%E4%B9%9F%E6%98%AF%E6%94%B6%E7%BA%B3%E9%AB%98%E6%89%8B%23&t=31&band_rank=3&Refer=top) 1003333
@@ -66,6 +66,7 @@
 1. [韩国警方称涉案艺人只有李善均权志龙](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E8%AD%A6%E6%96%B9%E7%A7%B0%E6%B6%89%E6%A1%88%E8%89%BA%E4%BA%BA%E5%8F%AA%E6%9C%89%E6%9D%8E%E5%96%84%E5%9D%87%E6%9D%83%E5%BF%97%E9%BE%99%23&t=31&band_rank=48&Refer=top) 67621
 1. [陈哲远忘词还撒娇](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%93%B2%E8%BF%9C%E5%BF%98%E8%AF%8D%E8%BF%98%E6%92%92%E5%A8%87%23&t=31&band_rank=40&Refer=top) 62118
 1. [吴宣仪根字写错](https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%AE%A3%E4%BB%AA%E6%A0%B9%E5%AD%97%E5%86%99%E9%94%99%23&t=31&band_rank=49&Refer=top) 53475
+1. [最遥远的距离嗑男一女二](https://s.weibo.com/weibo?q=%23%E6%9C%80%E9%81%A5%E8%BF%9C%E7%9A%84%E8%B7%9D%E7%A6%BB%E5%97%91%E7%94%B7%E4%B8%80%E5%A5%B3%E4%BA%8C%23&t=31&band_rank=48&Refer=top) 50490
 <!-- END -->
 
 历史归档 [./archives](./archives)
