@@ -9,7 +9,7 @@
   },
   "以色列": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%23&t=31&band_rank=5&Refer=top",
-    "hot": 710849
+    "hot": 847669
   },
   "中国航天员从1人变成了大家庭": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%91%98%E4%BB%8E1%E4%BA%BA%E5%8F%98%E6%88%90%E4%BA%86%E5%A4%A7%E5%AE%B6%E5%BA%AD%23&t=31&band_rank=3&Refer=top",
@@ -67,13 +67,13 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%85%AB%E5%B9%B4%E8%8A%B1%E4%BA%8612%E4%B8%87%E7%BD%91%E8%B4%AD%E7%9A%84%E6%84%9F%E5%8F%97%23&t=31&band_rank=17&Refer=top",
     "hot": 251967
   },
+  "洗发水": {
+    "url": "https://s.weibo.com/weibo?q=%E6%B4%97%E5%8F%91%E6%B0%B4&t=31&band_rank=31&Refer=top",
+    "hot": 245934
+  },
   "C罗点赞龙赛罗嘲讽梅西视频": {
     "url": "https://s.weibo.com/weibo?q=%23C%E7%BD%97%E7%82%B9%E8%B5%9E%E9%BE%99%E8%B5%9B%E7%BD%97%E5%98%B2%E8%AE%BD%E6%A2%85%E8%A5%BF%E8%A7%86%E9%A2%91%23&t=31&band_rank=18&Refer=top",
     "hot": 239234
-  },
-  "洗发水": {
-    "url": "https://s.weibo.com/weibo?q=%E6%B4%97%E5%8F%91%E6%B0%B4&t=31&band_rank=31&Refer=top",
-    "hot": 231239
   },
   "今天好多明星营业": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E5%A5%BD%E5%A4%9A%E6%98%8E%E6%98%9F%E8%90%A5%E4%B8%9A%23&t=31&band_rank=23&Refer=top",
@@ -242,5 +242,13 @@
   "梅西谈他与C罗的竞争": {
     "url": "https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BF%E8%B0%88%E4%BB%96%E4%B8%8EC%E7%BD%97%E7%9A%84%E7%AB%9E%E4%BA%89&t=31&band_rank=48&Refer=top",
     "hot": 72679
+  },
+  "陈丽君美得好英气": {
+    "url": "https://s.weibo.com/weibo?q=%E9%99%88%E4%B8%BD%E5%90%9B%E7%BE%8E%E5%BE%97%E5%A5%BD%E8%8B%B1%E6%B0%94&t=31&band_rank=43&Refer=top",
+    "hot": 66735
+  },
+  "云南边境居民讲述缅甸军事冲突": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BA%91%E5%8D%97%E8%BE%B9%E5%A2%83%E5%B1%85%E6%B0%91%E8%AE%B2%E8%BF%B0%E7%BC%85%E7%94%B8%E5%86%9B%E4%BA%8B%E5%86%B2%E7%AA%81%23&t=31&band_rank=49&Refer=top",
+    "hot": 66584
   }
 }
