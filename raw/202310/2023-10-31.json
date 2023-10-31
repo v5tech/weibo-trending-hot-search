@@ -83,6 +83,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%B1%8D%E8%8B%B9%E6%9E%9C%E5%A5%B3%E7%A8%8B%E5%BA%8F%E5%91%98%E5%9C%A8%E7%BE%8E%E9%A3%99%E8%BD%A6%E8%87%B4%E7%94%B7%E4%BC%B4%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=19&Refer=top",
     "hot": 906407
   },
+  "退款": {
+    "url": "https://s.weibo.com/weibo?q=%E9%80%80%E6%AC%BE&t=31&band_rank=25&Refer=top",
+    "hot": 827039
+  },
   "夸克回应被罚": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%A4%B8%E5%85%8B%E5%9B%9E%E5%BA%94%E8%A2%AB%E7%BD%9A%23&t=31&band_rank=5&Refer=top",
     "hot": 825161
@@ -115,17 +119,17 @@
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BF%9D%E6%8A%A450%E7%B1%B3%E9%BD%90%E9%95%BF%E5%9F%8E%E5%B1%B1%E4%B8%9C%E8%8A%B14%E4%BA%BF%E4%BF%AE%E9%9A%A7%E9%81%93%23&t=31&band_rank=5&Refer=top",
     "hot": 771473
   },
+  "7款APP全网下架": {
+    "url": "https://s.weibo.com/weibo?q=%237%E6%AC%BEAPP%E5%85%A8%E7%BD%91%E4%B8%8B%E6%9E%B6%23&t=31&band_rank=43&Refer=top",
+    "hot": 753068
+  },
   "杨紫问谢娜是不是喜欢邓为": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E9%97%AE%E8%B0%A2%E5%A8%9C%E6%98%AF%E4%B8%8D%E6%98%AF%E5%96%9C%E6%AC%A2%E9%82%93%E4%B8%BA%23&t=31&band_rank=25&Refer=top",
     "hot": 741602
   },
-  "退款": {
-    "url": "https://s.weibo.com/weibo?q=%E9%80%80%E6%AC%BE&t=31&band_rank=25&Refer=top",
-    "hot": 728643
-  },
   "微信新增独立发送按钮": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E6%96%B0%E5%A2%9E%E7%8B%AC%E7%AB%8B%E5%8F%91%E9%80%81%E6%8C%89%E9%92%AE%23&t=31&band_rank=19&Refer=top",
-    "hot": 715844
+    "hot": 734370
   },
   "没有iPad": {
     "url": "https://s.weibo.com/weibo?q=%E6%B2%A1%E6%9C%89iPad&t=31&band_rank=24&Refer=top",
@@ -411,10 +415,6 @@
     "url": "https://s.weibo.com/weibo?q=%E4%BB%98%E5%B0%BE%E6%AC%BE&t=31&band_rank=14&Refer=top",
     "hot": 409411
   },
-  "7款APP全网下架": {
-    "url": "https://s.weibo.com/weibo?q=%237%E6%AC%BEAPP%E5%85%A8%E7%BD%91%E4%B8%8B%E6%9E%B6%23&t=31&band_rank=43&Refer=top",
-    "hot": 409161
-  },
   "费翔唱了故乡的云一万次": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%B4%B9%E7%BF%94%E5%94%B1%E4%BA%86%E6%95%85%E4%B9%A1%E7%9A%84%E4%BA%91%E4%B8%80%E4%B8%87%E6%AC%A1%23&t=31&band_rank=50&Refer=top",
     "hot": 408772
@@ -446,6 +446,10 @@
   "马立奥的英文单词量比张拿铁都多": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E7%AB%8B%E5%A5%A5%E7%9A%84%E8%8B%B1%E6%96%87%E5%8D%95%E8%AF%8D%E9%87%8F%E6%AF%94%E5%BC%A0%E6%8B%BF%E9%93%81%E9%83%BD%E5%A4%9A%23&t=31&band_rank=43&Refer=top",
     "hot": 380253
+  },
+  "小学女教师离世留遗书称课外工作压力大": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E5%A5%B3%E6%95%99%E5%B8%88%E7%A6%BB%E4%B8%96%E7%95%99%E9%81%97%E4%B9%A6%E7%A7%B0%E8%AF%BE%E5%A4%96%E5%B7%A5%E4%BD%9C%E5%8E%8B%E5%8A%9B%E5%A4%A7%23&t=31&band_rank=16&Refer=top",
+    "hot": 379274
   },
   "郭敬明 十条回应": {
     "url": "https://s.weibo.com/weibo?q=%E9%83%AD%E6%95%AC%E6%98%8E%20%E5%8D%81%E6%9D%A1%E5%9B%9E%E5%BA%94&t=31&band_rank=12&Refer=top",
@@ -679,6 +683,10 @@
     "url": "https://s.weibo.com/weibo?q=%E8%B0%A2%E5%A8%9C%E6%9D%A8%E7%B4%AB%E5%BE%AE%E4%BF%A1%20%E5%85%AB%E5%8D%A6%E5%A7%90%E5%A7%90%E5%85%AB%E5%8D%A6%E5%A6%B9%E5%A6%B9&t=31&band_rank=33&Refer=top",
     "hot": 256927
   },
+  "虞书欣回应演唱会动作做早": {
+    "url": "https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%9B%9E%E5%BA%94%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8A%A8%E4%BD%9C%E5%81%9A%E6%97%A9%23&t=31&band_rank=41&Refer=top",
+    "hot": 255733
+  },
   "山西一患者疑被医生输入禁忌药物致死": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E4%B8%80%E6%82%A3%E8%80%85%E7%96%91%E8%A2%AB%E5%8C%BB%E7%94%9F%E8%BE%93%E5%85%A5%E7%A6%81%E5%BF%8C%E8%8D%AF%E7%89%A9%E8%87%B4%E6%AD%BB%23&t=31&band_rank=38&Refer=top",
     "hot": 254633
@@ -694,6 +702,10 @@
   "孕妇坐乐园小火车致先兆流产": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%AD%95%E5%A6%87%E5%9D%90%E4%B9%90%E5%9B%AD%E5%B0%8F%E7%81%AB%E8%BD%A6%E8%87%B4%E5%85%88%E5%85%86%E6%B5%81%E4%BA%A7%23&t=31&band_rank=31&Refer=top",
     "hot": 250582
+  },
+  "为有暗香来结局": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%BA%E6%9C%89%E6%9A%97%E9%A6%99%E6%9D%A5%E7%BB%93%E5%B1%80%23&t=31&band_rank=40&Refer=top",
+    "hot": 248399
   },
   "奶奶第一次喝咖啡以为是豆浆": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B6%E5%A5%B6%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%96%9D%E5%92%96%E5%95%A1%E4%BB%A5%E4%B8%BA%E6%98%AF%E8%B1%86%E6%B5%86%23&t=31&band_rank=30&Refer=top",
@@ -727,9 +739,9 @@
     "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E6%9C%89%E6%9A%97%E9%A6%99%E6%9D%A5%20%E9%95%BF%E5%85%AC%E4%B8%BB&t=31&band_rank=33&Refer=top",
     "hot": 244050
   },
-  "为有暗香来结局": {
-    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%BA%E6%9C%89%E6%9A%97%E9%A6%99%E6%9D%A5%E7%BB%93%E5%B1%80%23&t=31&band_rank=40&Refer=top",
-    "hot": 242370
+  "张婧仪又发朋友圈了": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%A9%A7%E4%BB%AA%E5%8F%88%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%88%E4%BA%86%23&t=31&band_rank=31&Refer=top",
+    "hot": 242068
   },
   "哈登威少第三次同队": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%93%88%E7%99%BB%E5%A8%81%E5%B0%91%E7%AC%AC%E4%B8%89%E6%AC%A1%E5%90%8C%E9%98%9F%23&t=31&band_rank=50&Refer=top",
@@ -754,10 +766,6 @@
   "爱豆男团仿妆": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%88%B1%E8%B1%86%E7%94%B7%E5%9B%A2%E4%BB%BF%E5%A6%86%23&t=31&band_rank=26&Refer=top",
     "hot": 229675
-  },
-  "虞书欣回应演唱会动作做早": {
-    "url": "https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%9B%9E%E5%BA%94%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8A%A8%E4%BD%9C%E5%81%9A%E6%97%A9%23&t=31&band_rank=41&Refer=top",
-    "hot": 228405
   },
   "ONEOKROCK 成都": {
     "url": "https://s.weibo.com/weibo?q=ONEOKROCK%20%E6%88%90%E9%83%BD&t=31&band_rank=24&Refer=top",
@@ -847,6 +855,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%9C%88%E4%B8%87%E5%9C%A3%E8%8A%82%E6%80%BC%E8%84%B8cos%23&t=31&band_rank=32&Refer=top",
     "hot": 205788
   },
+  "上海万圣节": {
+    "url": "https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E4%B8%87%E5%9C%A3%E8%8A%82&t=31&band_rank=32&Refer=top",
+    "hot": 205172
+  },
   "张小斐 女孩子就应该穿得漂亮": {
     "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%B0%8F%E6%96%90%20%E5%A5%B3%E5%AD%A9%E5%AD%90%E5%B0%B1%E5%BA%94%E8%AF%A5%E7%A9%BF%E5%BE%97%E6%BC%82%E4%BA%AE&t=31&band_rank=27&Refer=top",
     "hot": 205084
@@ -854,6 +866,10 @@
   "星穹铁道雪衣": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93%E9%9B%AA%E8%A1%A3%23&t=31&band_rank=28&Refer=top",
     "hot": 204854
+  },
+  "丁程鑫严浩翔贺峻霖复刻经典影视作品": {
+    "url": "https://s.weibo.com/weibo?q=%E4%B8%81%E7%A8%8B%E9%91%AB%E4%B8%A5%E6%B5%A9%E7%BF%94%E8%B4%BA%E5%B3%BB%E9%9C%96%E5%A4%8D%E5%88%BB%E7%BB%8F%E5%85%B8%E5%BD%B1%E8%A7%86%E4%BD%9C%E5%93%81&t=31&band_rank=33&Refer=top",
+    "hot": 204482
   },
   "广州医生用病人肚腩再造乳房": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%8C%BB%E7%94%9F%E7%94%A8%E7%97%85%E4%BA%BA%E8%82%9A%E8%85%A9%E5%86%8D%E9%80%A0%E4%B9%B3%E6%88%BF%23&t=31&band_rank=46&Refer=top",
@@ -915,10 +931,6 @@
     "url": "https://s.weibo.com/weibo?q=%23%E6%B6%89%E8%BF%87%E6%84%A4%E6%80%92%E7%9A%84%E6%B5%B7%E5%85%A8%E5%91%98%E6%88%8F%E7%96%AF%E5%AD%90%23&t=31&band_rank=28&Refer=top",
     "hot": 196321
   },
-  "张婧仪又发朋友圈了": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%A9%A7%E4%BB%AA%E5%8F%88%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%88%E4%BA%86%23&t=31&band_rank=31&Refer=top",
-    "hot": 196048
-  },
   "于和伟 知道自己是主公还是公主": {
     "url": "https://s.weibo.com/weibo?q=%E4%BA%8E%E5%92%8C%E4%BC%9F%20%E7%9F%A5%E9%81%93%E8%87%AA%E5%B7%B1%E6%98%AF%E4%B8%BB%E5%85%AC%E8%BF%98%E6%98%AF%E5%85%AC%E4%B8%BB&t=31&band_rank=46&Refer=top",
     "hot": 195960
@@ -938,10 +950,6 @@
   "魔性充气猫亮相各地洗脑摇晃": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%AD%94%E6%80%A7%E5%85%85%E6%B0%94%E7%8C%AB%E4%BA%AE%E7%9B%B8%E5%90%84%E5%9C%B0%E6%B4%97%E8%84%91%E6%91%87%E6%99%83%23&t=31&band_rank=39&Refer=top",
     "hot": 194351
-  },
-  "丁程鑫严浩翔贺峻霖复刻经典影视作品": {
-    "url": "https://s.weibo.com/weibo?q=%E4%B8%81%E7%A8%8B%E9%91%AB%E4%B8%A5%E6%B5%A9%E7%BF%94%E8%B4%BA%E5%B3%BB%E9%9C%96%E5%A4%8D%E5%88%BB%E7%BB%8F%E5%85%B8%E5%BD%B1%E8%A7%86%E4%BD%9C%E5%93%81&t=31&band_rank=33&Refer=top",
-    "hot": 194174
   },
   "光遇 风行季": {
     "url": "https://s.weibo.com/weibo?q=%E5%85%89%E9%81%87%20%E9%A3%8E%E8%A1%8C%E5%AD%A3&t=31&band_rank=28&Refer=top",
@@ -1034,6 +1042,10 @@
   "迪丽热巴秦岚胡先煦挡脸合影": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%A7%A6%E5%B2%9A%E8%83%A1%E5%85%88%E7%85%A6%E6%8C%A1%E8%84%B8%E5%90%88%E5%BD%B1%23&t=31&band_rank=27&Refer=top",
     "hot": 180525
+  },
+  "请你们少做自己多做爱豆": {
+    "url": "https://s.weibo.com/weibo?q=%E8%AF%B7%E4%BD%A0%E4%BB%AC%E5%B0%91%E5%81%9A%E8%87%AA%E5%B7%B1%E5%A4%9A%E5%81%9A%E7%88%B1%E8%B1%86&t=31&band_rank=35&Refer=top",
+    "hot": 180283
   },
   "看见爸爸网购记录后我羞愧了": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%9C%8B%E8%A7%81%E7%88%B8%E7%88%B8%E7%BD%91%E8%B4%AD%E8%AE%B0%E5%BD%95%E5%90%8E%E6%88%91%E7%BE%9E%E6%84%A7%E4%BA%86%23&t=31&band_rank=21&Refer=top",
@@ -1170,6 +1182,10 @@
   "洗衣液 双十一": {
     "url": "https://s.weibo.com/weibo?q=%E6%B4%97%E8%A1%A3%E6%B6%B2%20%E5%8F%8C%E5%8D%81%E4%B8%80&t=31&band_rank=36&Refer=top",
     "hot": 156726
+  },
+  "彝族奶奶拍照一眼惊艳": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BD%9D%E6%97%8F%E5%A5%B6%E5%A5%B6%E6%8B%8D%E7%85%A7%E4%B8%80%E7%9C%BC%E6%83%8A%E8%89%B3%23&t=31&band_rank=39&Refer=top",
+    "hot": 156049
   },
   "睡在猪圈上是什么样的体验": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%9D%A1%E5%9C%A8%E7%8C%AA%E5%9C%88%E4%B8%8A%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E4%BD%93%E9%AA%8C%23&t=31&band_rank=36&Refer=top",
@@ -1514,6 +1530,10 @@
   "这部剧是懂网红直播剧本的": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E9%83%A8%E5%89%A7%E6%98%AF%E6%87%82%E7%BD%91%E7%BA%A2%E7%9B%B4%E6%92%AD%E5%89%A7%E6%9C%AC%E7%9A%84%23&t=31&band_rank=43&Refer=top",
     "hot": 114145
+  },
+  "张碧晨双马尾造型": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%A2%A7%E6%99%A8%E5%8F%8C%E9%A9%AC%E5%B0%BE%E9%80%A0%E5%9E%8B%23&t=31&band_rank=48&Refer=top",
+    "hot": 113811
   },
   "中国学者当面回怼日本学者": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%AD%A6%E8%80%85%E5%BD%93%E9%9D%A2%E5%9B%9E%E6%80%BC%E6%97%A5%E6%9C%AC%E5%AD%A6%E8%80%85%23&t=31&band_rank=50&Refer=top",
