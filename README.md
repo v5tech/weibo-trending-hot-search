@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-11-02 05:48:54.878679 
+最后更新时间 2023-11-02 06:09:20.866766 
 1. [教体局通报女教师跳楼轻生事件](https://s.weibo.com/weibo?q=%23%E6%95%99%E4%BD%93%E5%B1%80%E9%80%9A%E6%8A%A5%E5%A5%B3%E6%95%99%E5%B8%88%E8%B7%B3%E6%A5%BC%E8%BD%BB%E7%94%9F%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=1&Refer=top) 1850597
 1. [杨紫发个正常的朋友圈被80个好友担心](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%8F%91%E4%B8%AA%E6%AD%A3%E5%B8%B8%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88%E8%A2%AB80%E4%B8%AA%E5%A5%BD%E5%8F%8B%E6%8B%85%E5%BF%83%23&t=31&band_rank=2&Refer=top) 945110
 1. [反向泡脚 越泡越虚](https://s.weibo.com/weibo?q=%E5%8F%8D%E5%90%91%E6%B3%A1%E8%84%9A%20%E8%B6%8A%E6%B3%A1%E8%B6%8A%E8%99%9A&t=31&band_rank=13&Refer=top) 825446
@@ -76,7 +76,8 @@
 1. [外卖小哥又在送餐路上干了件好事](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E5%8F%88%E5%9C%A8%E9%80%81%E9%A4%90%E8%B7%AF%E4%B8%8A%E5%B9%B2%E4%BA%86%E4%BB%B6%E5%A5%BD%E4%BA%8B%23&t=31&band_rank=50&Refer=top) 49076
 1. [世界上最长寿的狗Bobi去世](https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%80%E9%95%BF%E5%AF%BF%E7%9A%84%E7%8B%97Bobi%E5%8E%BB%E4%B8%96&t=31&band_rank=40&Refer=top) 45046
 1. [于正你好歹毒的心](https://s.weibo.com/weibo?q=%E4%BA%8E%E6%AD%A3%E4%BD%A0%E5%A5%BD%E6%AD%B9%E6%AF%92%E7%9A%84%E5%BF%83&t=31&band_rank=46&Refer=top) 45024
-1. [亲历者讲述缅甸战事波及云南边境小镇](https://s.weibo.com/weibo?q=%23%E4%BA%B2%E5%8E%86%E8%80%85%E8%AE%B2%E8%BF%B0%E7%BC%85%E7%94%B8%E6%88%98%E4%BA%8B%E6%B3%A2%E5%8F%8A%E4%BA%91%E5%8D%97%E8%BE%B9%E5%A2%83%E5%B0%8F%E9%95%87%23&t=31&band_rank=36&Refer=top) 26110
+1. [空腹有氧谁跳谁瘦](https://s.weibo.com/weibo?q=%E7%A9%BA%E8%85%B9%E6%9C%89%E6%B0%A7%E8%B0%81%E8%B7%B3%E8%B0%81%E7%98%A6&t=31&band_rank=34&Refer=top) 26341
+1. [亲历者讲述缅甸战事波及云南边境小镇](https://s.weibo.com/weibo?q=%23%E4%BA%B2%E5%8E%86%E8%80%85%E8%AE%B2%E8%BF%B0%E7%BC%85%E7%94%B8%E6%88%98%E4%BA%8B%E6%B3%A2%E5%8F%8A%E4%BA%91%E5%8D%97%E8%BE%B9%E5%A2%83%E5%B0%8F%E9%95%87%23&t=31&band_rank=36&Refer=top) 26136
 <!-- END -->
 
 历史归档 [./archives](./archives)
