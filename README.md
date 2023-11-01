@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-11-02 04:49:00.268016 
+最后更新时间 2023-11-02 05:09:19.252367 
 1. [教体局通报女教师跳楼轻生事件](https://s.weibo.com/weibo?q=%23%E6%95%99%E4%BD%93%E5%B1%80%E9%80%9A%E6%8A%A5%E5%A5%B3%E6%95%99%E5%B8%88%E8%B7%B3%E6%A5%BC%E8%BD%BB%E7%94%9F%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=1&Refer=top) 1850597
 1. [杨紫发个正常的朋友圈被80个好友担心](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%8F%91%E4%B8%AA%E6%AD%A3%E5%B8%B8%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88%E8%A2%AB80%E4%B8%AA%E5%A5%BD%E5%8F%8B%E6%8B%85%E5%BF%83%23&t=31&band_rank=2&Refer=top) 945110
 1. [反向泡脚 越泡越虚](https://s.weibo.com/weibo?q=%E5%8F%8D%E5%90%91%E6%B3%A1%E8%84%9A%20%E8%B6%8A%E6%B3%A1%E8%B6%8A%E8%99%9A&t=31&band_rank=13&Refer=top) 825446
