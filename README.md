@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-11-04 00:48:56.142902 
+最后更新时间 2023-11-04 01:09:29.672737 
 1. [王俊凯问学校门口的大哥还认不认得他](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E9%97%AE%E5%AD%A6%E6%A0%A1%E9%97%A8%E5%8F%A3%E7%9A%84%E5%A4%A7%E5%93%A5%E8%BF%98%E8%AE%A4%E4%B8%8D%E8%AE%A4%E5%BE%97%E4%BB%96%23&t=31&band_rank=1&Refer=top) 1205556
 1. [主持人还没念完李现就走完了](https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%8C%81%E4%BA%BA%E8%BF%98%E6%B2%A1%E5%BF%B5%E5%AE%8C%E6%9D%8E%E7%8E%B0%E5%B0%B1%E8%B5%B0%E5%AE%8C%E4%BA%86%23&t=31&band_rank=2&Refer=top) 1189552
 1. [第六届进博会亮点抢先看](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E5%85%AD%E5%B1%8A%E8%BF%9B%E5%8D%9A%E4%BC%9A%E4%BA%AE%E7%82%B9%E6%8A%A2%E5%85%88%E7%9C%8B%23&t=31&band_rank=3&Refer=top) 1156291
@@ -35,8 +35,8 @@
 1. [刘诗诗 神女逆光而来](https://s.weibo.com/weibo?q=%E5%88%98%E8%AF%97%E8%AF%97%20%E7%A5%9E%E5%A5%B3%E9%80%86%E5%85%89%E8%80%8C%E6%9D%A5&t=31&band_rank=23&Refer=top) 295939
 1. [孙颖莎成功晋级半决赛](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E6%88%90%E5%8A%9F%E6%99%8B%E7%BA%A7%E5%8D%8A%E5%86%B3%E8%B5%9B%23&t=31&band_rank=24&Refer=top) 270605
 1. [天秤座总是错把好感当动心](https://s.weibo.com/weibo?q=%E5%A4%A9%E7%A7%A4%E5%BA%A7%E6%80%BB%E6%98%AF%E9%94%99%E6%8A%8A%E5%A5%BD%E6%84%9F%E5%BD%93%E5%8A%A8%E5%BF%83&t=31&band_rank=25&Refer=top) 265288
+1. [穿越火线 开挂](https://s.weibo.com/weibo?q=%E7%A9%BF%E8%B6%8A%E7%81%AB%E7%BA%BF%20%E5%BC%80%E6%8C%82&t=31&band_rank=44&Refer=top) 264529
 1. [美团宣布除夕放假](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%A2%E5%AE%A3%E5%B8%83%E9%99%A4%E5%A4%95%E6%94%BE%E5%81%87%23&t=31&band_rank=26&Refer=top) 261313
-1. [穿越火线 开挂](https://s.weibo.com/weibo?q=%E7%A9%BF%E8%B6%8A%E7%81%AB%E7%BA%BF%20%E5%BC%80%E6%8C%82&t=31&band_rank=44&Refer=top) 248235
 1. [EDG 出列](https://s.weibo.com/weibo?q=EDG%20%E5%87%BA%E5%88%97&t=31&band_rank=27&Refer=top) 242015
 1. [五月天 八场总得有张我的票吧](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%20%E5%85%AB%E5%9C%BA%E6%80%BB%E5%BE%97%E6%9C%89%E5%BC%A0%E6%88%91%E7%9A%84%E7%A5%A8%E5%90%A7&t=31&band_rank=28&Refer=top) 236372
 1. [当地通报合肥一小学生校内死亡](https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%9C%B0%E9%80%9A%E6%8A%A5%E5%90%88%E8%82%A5%E4%B8%80%E5%B0%8F%E5%AD%A6%E7%94%9F%E6%A0%A1%E5%86%85%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=29&Refer=top) 222958
@@ -62,6 +62,7 @@
 1. [Chovy 遗憾](https://s.weibo.com/weibo?q=Chovy%20%E9%81%97%E6%86%BE&t=31&band_rank=50&Refer=top) 128363
 1. [BLG晋级S13四强](https://s.weibo.com/weibo?q=%23BLG%E6%99%8B%E7%BA%A7S13%E5%9B%9B%E5%BC%BA%23&t=31&band_rank=45&Refer=top) 97119
 1. [以爱为营能不能让我演两集](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E8%83%BD%E4%B8%8D%E8%83%BD%E8%AE%A9%E6%88%91%E6%BC%94%E4%B8%A4%E9%9B%86%23&t=31&band_rank=46&Refer=top) 95684
+1. [原来你妈妈是冠军啊](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E4%BD%A0%E5%A6%88%E5%A6%88%E6%98%AF%E5%86%A0%E5%86%9B%E5%95%8A%23&t=31&band_rank=50&Refer=top) 72464
 <!-- END -->
 
 历史归档 [./archives](./archives)
