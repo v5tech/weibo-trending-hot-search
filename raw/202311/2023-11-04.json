@@ -159,6 +159,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E7%99%BD%E5%9B%B4%E5%B7%BE%E9%AB%98%E9%A9%AC%E5%B0%BE%E9%80%A0%E5%9E%8B%23&t=31&band_rank=38&Refer=top",
     "hot": 166428
   },
+  "原来你妈妈是冠军啊": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E4%BD%A0%E5%A6%88%E5%A6%88%E6%98%AF%E5%86%A0%E5%86%9B%E5%95%8A%23&t=31&band_rank=50&Refer=top",
+    "hot": 165519
+  },
   "迪丽热巴ELLE造型致敬星期三": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4ELLE%E9%80%A0%E5%9E%8B%E8%87%B4%E6%95%AC%E6%98%9F%E6%9C%9F%E4%B8%89%23&t=31&band_rank=22&Refer=top",
     "hot": 163740
@@ -211,10 +215,6 @@
     "url": "https://s.weibo.com/weibo?q=Chovy%20%E9%81%97%E6%86%BE&t=31&band_rank=50&Refer=top",
     "hot": 128363
   },
-  "原来你妈妈是冠军啊": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E4%BD%A0%E5%A6%88%E5%A6%88%E6%98%AF%E5%86%A0%E5%86%9B%E5%95%8A%23&t=31&band_rank=50&Refer=top",
-    "hot": 100119
-  },
   "BLG晋级S13四强": {
     "url": "https://s.weibo.com/weibo?q=%23BLG%E6%99%8B%E7%BA%A7S13%E5%9B%9B%E5%BC%BA%23&t=31&band_rank=45&Refer=top",
     "hot": 97119
@@ -226,5 +226,13 @@
   "关晓彤 es高定": {
     "url": "https://s.weibo.com/weibo?q=%E5%85%B3%E6%99%93%E5%BD%A4%20es%E9%AB%98%E5%AE%9A&t=31&band_rank=42&Refer=top",
     "hot": 82555
+  },
+  "周迅玛丽昂歌迪亚同框": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E8%BF%85%E7%8E%9B%E4%B8%BD%E6%98%82%E6%AD%8C%E8%BF%AA%E4%BA%9A%E5%90%8C%E6%A1%86%23&t=31&band_rank=38&Refer=top",
+    "hot": 63494
+  },
+  "黄景瑜终于不是素颜了": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%AF%E7%91%9C%E7%BB%88%E4%BA%8E%E4%B8%8D%E6%98%AF%E7%B4%A0%E9%A2%9C%E4%BA%86%23&t=31&band_rank=50&Refer=top",
+    "hot": 48310
   }
 }
