@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-11-04 01:09:29.672737 
+最后更新时间 2023-11-04 01:25:31.623288 
 1. [王俊凯问学校门口的大哥还认不认得他](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E9%97%AE%E5%AD%A6%E6%A0%A1%E9%97%A8%E5%8F%A3%E7%9A%84%E5%A4%A7%E5%93%A5%E8%BF%98%E8%AE%A4%E4%B8%8D%E8%AE%A4%E5%BE%97%E4%BB%96%23&t=31&band_rank=1&Refer=top) 1205556
 1. [主持人还没念完李现就走完了](https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%8C%81%E4%BA%BA%E8%BF%98%E6%B2%A1%E5%BF%B5%E5%AE%8C%E6%9D%8E%E7%8E%B0%E5%B0%B1%E8%B5%B0%E5%AE%8C%E4%BA%86%23&t=31&band_rank=2&Refer=top) 1189552
 1. [第六届进博会亮点抢先看](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E5%85%AD%E5%B1%8A%E8%BF%9B%E5%8D%9A%E4%BC%9A%E4%BA%AE%E7%82%B9%E6%8A%A2%E5%85%88%E7%9C%8B%23&t=31&band_rank=3&Refer=top) 1156291
@@ -31,7 +31,7 @@
 1. [刘昊然把你的眼镜借给魏大勋吧](https://s.weibo.com/weibo?q=%23%E5%88%98%E6%98%8A%E7%84%B6%E6%8A%8A%E4%BD%A0%E7%9A%84%E7%9C%BC%E9%95%9C%E5%80%9F%E7%BB%99%E9%AD%8F%E5%A4%A7%E5%8B%8B%E5%90%A7%23&t=31&band_rank=19&Refer=top) 405357
 1. [迪丽热巴花团锦簇复古造型](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%8A%B1%E5%9B%A2%E9%94%A6%E7%B0%87%E5%A4%8D%E5%8F%A4%E9%80%A0%E5%9E%8B%23&t=31&band_rank=21&Refer=top) 354889
 1. [以爱为营开播](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E5%BC%80%E6%92%AD%23&t=31&band_rank=22&Refer=top) 349990
-1. [魏大勋刘昊然李现坐一桌](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E5%88%98%E6%98%8A%E7%84%B6%E6%9D%8E%E7%8E%B0%E5%9D%90%E4%B8%80%E6%A1%8C%23&t=31&band_rank=24&Refer=top) 314381
+1. [魏大勋刘昊然李现坐一桌](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E5%88%98%E6%98%8A%E7%84%B6%E6%9D%8E%E7%8E%B0%E5%9D%90%E4%B8%80%E6%A1%8C%23&t=31&band_rank=24&Refer=top) 319705
 1. [刘诗诗 神女逆光而来](https://s.weibo.com/weibo?q=%E5%88%98%E8%AF%97%E8%AF%97%20%E7%A5%9E%E5%A5%B3%E9%80%86%E5%85%89%E8%80%8C%E6%9D%A5&t=31&band_rank=23&Refer=top) 295939
 1. [孙颖莎成功晋级半决赛](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E6%88%90%E5%8A%9F%E6%99%8B%E7%BA%A7%E5%8D%8A%E5%86%B3%E8%B5%9B%23&t=31&band_rank=24&Refer=top) 270605
 1. [天秤座总是错把好感当动心](https://s.weibo.com/weibo?q=%E5%A4%A9%E7%A7%A4%E5%BA%A7%E6%80%BB%E6%98%AF%E9%94%99%E6%8A%8A%E5%A5%BD%E6%84%9F%E5%BD%93%E5%8A%A8%E5%BF%83&t=31&band_rank=25&Refer=top) 265288
@@ -60,9 +60,11 @@
 1. [张小斐 黑夜里闪耀的钻石](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%B0%8F%E6%96%90%20%E9%BB%91%E5%A4%9C%E9%87%8C%E9%97%AA%E8%80%80%E7%9A%84%E9%92%BB%E7%9F%B3&t=31&band_rank=48&Refer=top) 132826
 1. [Tabe哭了](https://s.weibo.com/weibo?q=%23Tabe%E5%93%AD%E4%BA%86%23&t=31&band_rank=49&Refer=top) 131290
 1. [Chovy 遗憾](https://s.weibo.com/weibo?q=Chovy%20%E9%81%97%E6%86%BE&t=31&band_rank=50&Refer=top) 128363
+1. [迪丽热巴ELLE造型致敬星期三](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4ELLE%E9%80%A0%E5%9E%8B%E8%87%B4%E6%95%AC%E6%98%9F%E6%9C%9F%E4%B8%89%23&t=31&band_rank=22&Refer=top) 120197
 1. [BLG晋级S13四强](https://s.weibo.com/weibo?q=%23BLG%E6%99%8B%E7%BA%A7S13%E5%9B%9B%E5%BC%BA%23&t=31&band_rank=45&Refer=top) 97119
 1. [以爱为营能不能让我演两集](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E8%83%BD%E4%B8%8D%E8%83%BD%E8%AE%A9%E6%88%91%E6%BC%94%E4%B8%A4%E9%9B%86%23&t=31&band_rank=46&Refer=top) 95684
-1. [原来你妈妈是冠军啊](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E4%BD%A0%E5%A6%88%E5%A6%88%E6%98%AF%E5%86%A0%E5%86%9B%E5%95%8A%23&t=31&band_rank=50&Refer=top) 72464
+1. [原来你妈妈是冠军啊](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E4%BD%A0%E5%A6%88%E5%A6%88%E6%98%AF%E5%86%A0%E5%86%9B%E5%95%8A%23&t=31&band_rank=50&Refer=top) 83575
+1. [关晓彤 es高定](https://s.weibo.com/weibo?q=%E5%85%B3%E6%99%93%E5%BD%A4%20es%E9%AB%98%E5%AE%9A&t=31&band_rank=42&Refer=top) 75134
 <!-- END -->
 
 历史归档 [./archives](./archives)
