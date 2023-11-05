@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-11-06 04:34:26.234342 
+最后更新时间 2023-11-06 04:48:47.098739 
 1. [救救gala](https://s.weibo.com/weibo?q=%E6%95%91%E6%95%91gala&t=31&band_rank=1&Refer=top) 1754449
 1. [内娱可以吃一辈子的剧](https://s.weibo.com/weibo?q=%E5%86%85%E5%A8%B1%E5%8F%AF%E4%BB%A5%E5%90%83%E4%B8%80%E8%BE%88%E5%AD%90%E7%9A%84%E5%89%A7&t=31&band_rank=2&Refer=top) 1182954
 1. [揭秘进博会网红巴基斯坦盐灯](https://s.weibo.com/weibo?q=%23%E6%8F%AD%E7%A7%98%E8%BF%9B%E5%8D%9A%E4%BC%9A%E7%BD%91%E7%BA%A2%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E7%9B%90%E7%81%AF%23&t=31&band_rank=3&Refer=top) 994033
@@ -74,6 +74,7 @@
 1. [这下PPT台风稳了](https://s.weibo.com/weibo?q=%E8%BF%99%E4%B8%8BPPT%E5%8F%B0%E9%A3%8E%E7%A8%B3%E4%BA%86&t=31&band_rank=45&Refer=top) 48456
 1. [哪个大聪明在车顶晒虾](https://s.weibo.com/weibo?q=%E5%93%AA%E4%B8%AA%E5%A4%A7%E8%81%AA%E6%98%8E%E5%9C%A8%E8%BD%A6%E9%A1%B6%E6%99%92%E8%99%BE&t=31&band_rank=50&Refer=top) 48333
 1. [一种应激性的当仁不让](https://s.weibo.com/weibo?q=%E4%B8%80%E7%A7%8D%E5%BA%94%E6%BF%80%E6%80%A7%E7%9A%84%E5%BD%93%E4%BB%81%E4%B8%8D%E8%AE%A9&t=31&band_rank=50&Refer=top) 47944
+1. [在儿童医院牙科工作的治疗犬](https://s.weibo.com/weibo?q=%E5%9C%A8%E5%84%BF%E7%AB%A5%E5%8C%BB%E9%99%A2%E7%89%99%E7%A7%91%E5%B7%A5%E4%BD%9C%E7%9A%84%E6%B2%BB%E7%96%97%E7%8A%AC&t=31&band_rank=46&Refer=top) 47208
 <!-- END -->
 
 历史归档 [./archives](./archives)
