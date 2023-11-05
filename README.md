@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-11-06 06:08:54.761169 
+最后更新时间 2023-11-06 06:24:54.437480 
 1. [救救gala](https://s.weibo.com/weibo?q=%E6%95%91%E6%95%91gala&t=31&band_rank=1&Refer=top) 1754449
 1. [内娱可以吃一辈子的剧](https://s.weibo.com/weibo?q=%E5%86%85%E5%A8%B1%E5%8F%AF%E4%BB%A5%E5%90%83%E4%B8%80%E8%BE%88%E5%AD%90%E7%9A%84%E5%89%A7&t=31&band_rank=2&Refer=top) 1182954
 1. [揭秘进博会网红巴基斯坦盐灯](https://s.weibo.com/weibo?q=%23%E6%8F%AD%E7%A7%98%E8%BF%9B%E5%8D%9A%E4%BC%9A%E7%BD%91%E7%BA%A2%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E7%9B%90%E7%81%AF%23&t=31&band_rank=3&Refer=top) 994033
@@ -76,7 +76,8 @@
 1. [这下PPT台风稳了](https://s.weibo.com/weibo?q=%E8%BF%99%E4%B8%8BPPT%E5%8F%B0%E9%A3%8E%E7%A8%B3%E4%BA%86&t=31&band_rank=45&Refer=top) 50392
 1. [棉片真的好用嘛](https://s.weibo.com/weibo?q=%E6%A3%89%E7%89%87%E7%9C%9F%E7%9A%84%E5%A5%BD%E7%94%A8%E5%98%9B&t=31&band_rank=47&Refer=top) 50106
 1. [一种应激性的当仁不让](https://s.weibo.com/weibo?q=%E4%B8%80%E7%A7%8D%E5%BA%94%E6%BF%80%E6%80%A7%E7%9A%84%E5%BD%93%E4%BB%81%E4%B8%8D%E8%AE%A9&t=31&band_rank=50&Refer=top) 47944
-1. [交警向不敢动的铁憨憨们补了句感谢](https://s.weibo.com/weibo?q=%23%E4%BA%A4%E8%AD%A6%E5%90%91%E4%B8%8D%E6%95%A2%E5%8A%A8%E7%9A%84%E9%93%81%E6%86%A8%E6%86%A8%E4%BB%AC%E8%A1%A5%E4%BA%86%E5%8F%A5%E6%84%9F%E8%B0%A2%23&t=31&band_rank=44&Refer=top) 33395
+1. [交警向不敢动的铁憨憨们补了句感谢](https://s.weibo.com/weibo?q=%23%E4%BA%A4%E8%AD%A6%E5%90%91%E4%B8%8D%E6%95%A2%E5%8A%A8%E7%9A%84%E9%93%81%E6%86%A8%E6%86%A8%E4%BB%AC%E8%A1%A5%E4%BA%86%E5%8F%A5%E6%84%9F%E8%B0%A2%23&t=31&band_rank=44&Refer=top) 40508
+1. [器官捐献者妹妹生病众人伸援手](https://s.weibo.com/weibo?q=%23%E5%99%A8%E5%AE%98%E6%8D%90%E7%8C%AE%E8%80%85%E5%A6%B9%E5%A6%B9%E7%94%9F%E7%97%85%E4%BC%97%E4%BA%BA%E4%BC%B8%E6%8F%B4%E6%89%8B%23&t=31&band_rank=50&Refer=top) 34585
 <!-- END -->
 
 历史归档 [./archives](./archives)
