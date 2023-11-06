@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-11-07 05:34:21.099996 
+最后更新时间 2023-11-07 05:48:55.216429 
 1. [佳木斯一体育馆发生坍塌](https://s.weibo.com/weibo?q=%23%E4%BD%B3%E6%9C%A8%E6%96%AF%E4%B8%80%E4%BD%93%E8%82%B2%E9%A6%86%E5%8F%91%E7%94%9F%E5%9D%8D%E5%A1%8C%23&t=31&band_rank=1&Refer=top) 1126255
 1. [不一定斩男 百分百斩女](https://s.weibo.com/weibo?q=%E4%B8%8D%E4%B8%80%E5%AE%9A%E6%96%A9%E7%94%B7%20%E7%99%BE%E5%88%86%E7%99%BE%E6%96%A9%E5%A5%B3&t=31&band_rank=16&Refer=top) 483306
 1. [女生为考研戴电击闹钟电破皮都没醒](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E4%B8%BA%E8%80%83%E7%A0%94%E6%88%B4%E7%94%B5%E5%87%BB%E9%97%B9%E9%92%9F%E7%94%B5%E7%A0%B4%E7%9A%AE%E9%83%BD%E6%B2%A1%E9%86%92%23&t=31&band_rank=2&Refer=top) 480227
@@ -47,9 +47,9 @@
 1. [苹果这台3w块的电脑怎么样](https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E8%BF%99%E5%8F%B03w%E5%9D%97%E7%9A%84%E7%94%B5%E8%84%91%E6%80%8E%E4%B9%88%E6%A0%B7&t=31&band_rank=39&Refer=top) 149527
 1. [空调房里的广东人沉默了](https://s.weibo.com/weibo?q=%23%E7%A9%BA%E8%B0%83%E6%88%BF%E9%87%8C%E7%9A%84%E5%B9%BF%E4%B8%9C%E4%BA%BA%E6%B2%89%E9%BB%98%E4%BA%86%23&t=31&band_rank=36&Refer=top) 148614
 1. [易烊千玺到达慕尼黑](https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%88%B0%E8%BE%BE%E6%85%95%E5%B0%BC%E9%BB%91%23&t=31&band_rank=38&Refer=top) 145343
+1. [医院院长倒卖出生证明每张赚6万](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E9%99%A2%E9%95%BF%E5%80%92%E5%8D%96%E5%87%BA%E7%94%9F%E8%AF%81%E6%98%8E%E6%AF%8F%E5%BC%A0%E8%B5%9A6%E4%B8%87%23&t=31&band_rank=42&Refer=top) 143774
 1. [为什么iPhone只有P大写](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88iPhone%E5%8F%AA%E6%9C%89P%E5%A4%A7%E5%86%99&t=31&band_rank=40&Refer=top) 136855
 1. [他在准备告白她在准备离开](https://s.weibo.com/weibo?q=%E4%BB%96%E5%9C%A8%E5%87%86%E5%A4%87%E5%91%8A%E7%99%BD%E5%A5%B9%E5%9C%A8%E5%87%86%E5%A4%87%E7%A6%BB%E5%BC%80&t=31&band_rank=41&Refer=top) 133932
-1. [医院院长倒卖出生证明每张赚6万](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E9%99%A2%E9%95%BF%E5%80%92%E5%8D%96%E5%87%BA%E7%94%9F%E8%AF%81%E6%98%8E%E6%AF%8F%E5%BC%A0%E8%B5%9A6%E4%B8%87%23&t=31&band_rank=42&Refer=top) 131473
 1. [张杰车内看信](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E8%BD%A6%E5%86%85%E7%9C%8B%E4%BF%A1%23&t=31&band_rank=43&Refer=top) 124465
 1. [杨紫想扩大舒适圈](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E6%83%B3%E6%89%A9%E5%A4%A7%E8%88%92%E9%80%82%E5%9C%88%23&t=31&band_rank=44&Refer=top) 115326
 1. [金莎一个问题暴露了对婚姻的不自信](https://s.weibo.com/weibo?q=%E9%87%91%E8%8E%8E%E4%B8%80%E4%B8%AA%E9%97%AE%E9%A2%98%E6%9A%B4%E9%9C%B2%E4%BA%86%E5%AF%B9%E5%A9%9A%E5%A7%BB%E7%9A%84%E4%B8%8D%E8%87%AA%E4%BF%A1&t=31&band_rank=45&Refer=top) 109126
@@ -69,7 +69,7 @@
 1. [Mark泰容泰民跳了Guilty](https://s.weibo.com/weibo?q=Mark%E6%B3%B0%E5%AE%B9%E6%B3%B0%E6%B0%91%E8%B7%B3%E4%BA%86Guilty&t=31&band_rank=38&Refer=top) 43809
 1. [迪丽热巴张馨予 美女的旁边还是美女](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%BC%A0%E9%A6%A8%E4%BA%88%20%E7%BE%8E%E5%A5%B3%E7%9A%84%E6%97%81%E8%BE%B9%E8%BF%98%E6%98%AF%E7%BE%8E%E5%A5%B3&t=31&band_rank=49&Refer=top) 39193
 1. [中南两国关系已经步入黄金时代](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%8D%97%E4%B8%A4%E5%9B%BD%E5%85%B3%E7%B3%BB%E5%B7%B2%E7%BB%8F%E6%AD%A5%E5%85%A5%E9%BB%84%E9%87%91%E6%97%B6%E4%BB%A3%23&t=31&band_rank=40&Refer=top) 33979
-1. [咱们三个把日子过好比什么都强](https://s.weibo.com/weibo?q=%E5%92%B1%E4%BB%AC%E4%B8%89%E4%B8%AA%E6%8A%8A%E6%97%A5%E5%AD%90%E8%BF%87%E5%A5%BD%E6%AF%94%E4%BB%80%E4%B9%88%E9%83%BD%E5%BC%BA&t=31&band_rank=34&Refer=top) 28909
+1. [咱们三个把日子过好比什么都强](https://s.weibo.com/weibo?q=%E5%92%B1%E4%BB%AC%E4%B8%89%E4%B8%AA%E6%8A%8A%E6%97%A5%E5%AD%90%E8%BF%87%E5%A5%BD%E6%AF%94%E4%BB%80%E4%B9%88%E9%83%BD%E5%BC%BA&t=31&band_rank=34&Refer=top) 32451
 1. [纽约地铁从不养闲人](https://s.weibo.com/weibo?q=%E7%BA%BD%E7%BA%A6%E5%9C%B0%E9%93%81%E4%BB%8E%E4%B8%8D%E5%85%BB%E9%97%B2%E4%BA%BA&t=31&band_rank=34&Refer=top) 21545
 1. [早衰症的Tiffany迎来一顶美丽假发](https://s.weibo.com/weibo?q=%E6%97%A9%E8%A1%B0%E7%97%87%E7%9A%84Tiffany%E8%BF%8E%E6%9D%A5%E4%B8%80%E9%A1%B6%E7%BE%8E%E4%B8%BD%E5%81%87%E5%8F%91&t=31&band_rank=40&Refer=top) 21016
 1. [RENA和崔然竣舞蹈挑战](https://s.weibo.com/weibo?q=RENA%E5%92%8C%E5%B4%94%E7%84%B6%E7%AB%A3%E8%88%9E%E8%B9%88%E6%8C%91%E6%88%98&t=31&band_rank=44&Refer=top) 20888
