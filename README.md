@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-11-07 02:38:03.960305 
+最后更新时间 2023-11-07 02:48:53.796423 
 1. [佳木斯一体育馆发生坍塌](https://s.weibo.com/weibo?q=%23%E4%BD%B3%E6%9C%A8%E6%96%AF%E4%B8%80%E4%BD%93%E8%82%B2%E9%A6%86%E5%8F%91%E7%94%9F%E5%9D%8D%E5%A1%8C%23&t=31&band_rank=1&Refer=top) 1126255
 1. [不一定斩男 百分百斩女](https://s.weibo.com/weibo?q=%E4%B8%8D%E4%B8%80%E5%AE%9A%E6%96%A9%E7%94%B7%20%E7%99%BE%E5%88%86%E7%99%BE%E6%96%A9%E5%A5%B3&t=31&band_rank=16&Refer=top) 483306
 1. [女生为考研戴电击闹钟电破皮都没醒](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E4%B8%BA%E8%80%83%E7%A0%94%E6%88%B4%E7%94%B5%E5%87%BB%E9%97%B9%E9%92%9F%E7%94%B5%E7%A0%B4%E7%9A%AE%E9%83%BD%E6%B2%A1%E9%86%92%23&t=31&band_rank=2&Refer=top) 480227
@@ -69,6 +69,7 @@
 1. [Mark泰容泰民跳了Guilty](https://s.weibo.com/weibo?q=Mark%E6%B3%B0%E5%AE%B9%E6%B3%B0%E6%B0%91%E8%B7%B3%E4%BA%86Guilty&t=31&band_rank=38&Refer=top) 43809
 1. [迪丽热巴张馨予 美女的旁边还是美女](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%BC%A0%E9%A6%A8%E4%BA%88%20%E7%BE%8E%E5%A5%B3%E7%9A%84%E6%97%81%E8%BE%B9%E8%BF%98%E6%98%AF%E7%BE%8E%E5%A5%B3&t=31&band_rank=49&Refer=top) 39193
 1. [中南两国关系已经步入黄金时代](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%8D%97%E4%B8%A4%E5%9B%BD%E5%85%B3%E7%B3%BB%E5%B7%B2%E7%BB%8F%E6%AD%A5%E5%85%A5%E9%BB%84%E9%87%91%E6%97%B6%E4%BB%A3%23&t=31&band_rank=40&Refer=top) 33979
+1. [RENA和崔然竣舞蹈挑战](https://s.weibo.com/weibo?q=RENA%E5%92%8C%E5%B4%94%E7%84%B6%E7%AB%A3%E8%88%9E%E8%B9%88%E6%8C%91%E6%88%98&t=31&band_rank=44&Refer=top) 20888
 <!-- END -->
 
 历史归档 [./archives](./archives)
