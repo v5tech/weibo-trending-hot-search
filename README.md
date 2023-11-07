@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-11-08 01:25:12.961502 
+最后更新时间 2023-11-08 01:34:34.240940 
 1. [当以爱为营女主换成张元英](https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E5%A5%B3%E4%B8%BB%E6%8D%A2%E6%88%90%E5%BC%A0%E5%85%83%E8%8B%B1%23&t=31&band_rank=1&Refer=top) 792896
 1. [第一次见放了6集男主叫不出女主名字的](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E6%94%BE%E4%BA%866%E9%9B%86%E7%94%B7%E4%B8%BB%E5%8F%AB%E4%B8%8D%E5%87%BA%E5%A5%B3%E4%B8%BB%E5%90%8D%E5%AD%97%E7%9A%84%23&t=31&band_rank=2&Refer=top) 720702
 1. [乌镇网事](https://s.weibo.com/weibo?q=%23%E4%B9%8C%E9%95%87%E7%BD%91%E4%BA%8B%23&t=31&band_rank=3&Refer=top) 715633
@@ -63,7 +63,9 @@
 1. [双子座真正的e人其实很少](https://s.weibo.com/weibo?q=%E5%8F%8C%E5%AD%90%E5%BA%A7%E7%9C%9F%E6%AD%A3%E7%9A%84e%E4%BA%BA%E5%85%B6%E5%AE%9E%E5%BE%88%E5%B0%91&t=31&band_rank=50&Refer=top) 84067
 1. [6岁男孩与妈妈一起捐出留3年长发](https://s.weibo.com/weibo?q=%236%E5%B2%81%E7%94%B7%E5%AD%A9%E4%B8%8E%E5%A6%88%E5%A6%88%E4%B8%80%E8%B5%B7%E6%8D%90%E5%87%BA%E7%95%993%E5%B9%B4%E9%95%BF%E5%8F%91%23&t=31&band_rank=50&Refer=top) 65835
 1. [燕临](https://s.weibo.com/weibo?q=%E7%87%95%E4%B8%B4&t=31&band_rank=39&Refer=top) 65720
+1. [刘宇宁直播 至少可以看星星](https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%E7%9B%B4%E6%92%AD%20%E8%87%B3%E5%B0%91%E5%8F%AF%E4%BB%A5%E7%9C%8B%E6%98%9F%E6%98%9F&t=31&band_rank=25&Refer=top) 63479
 1. [晓明哥已经对闹太套脱敏了](https://s.weibo.com/weibo?q=%E6%99%93%E6%98%8E%E5%93%A5%E5%B7%B2%E7%BB%8F%E5%AF%B9%E9%97%B9%E5%A4%AA%E5%A5%97%E8%84%B1%E6%95%8F%E4%BA%86&t=31&band_rank=33&Refer=top) 59285
+1. [TizzyT巡演纪录片预告](https://s.weibo.com/weibo?q=TizzyT%E5%B7%A1%E6%BC%94%E7%BA%AA%E5%BD%95%E7%89%87%E9%A2%84%E5%91%8A&t=31&band_rank=48&Refer=top) 50374
 <!-- END -->
 
 历史归档 [./archives](./archives)
