@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-11-09 03:08:37.195073 
+最后更新时间 2023-11-09 03:18:54.180259 
 1. [仲尼在巴厘岛遇难](https://s.weibo.com/weibo?q=%23%E4%BB%B2%E5%B0%BC%E5%9C%A8%E5%B7%B4%E5%8E%98%E5%B2%9B%E9%81%87%E9%9A%BE%23&t=31&band_rank=1&Refer=top) 8237483
 1. [瑞幸 罗翔](https://s.weibo.com/weibo?q=%E7%91%9E%E5%B9%B8%20%E7%BD%97%E7%BF%94&t=31&band_rank=2&Refer=top) 755331
 1. [仲尼昨天生日](https://s.weibo.com/weibo?q=%E4%BB%B2%E5%B0%BC%E6%98%A8%E5%A4%A9%E7%94%9F%E6%97%A5&t=31&band_rank=13&Refer=top) 723987
