@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-11-09 06:09:34.668278 
+最后更新时间 2023-11-09 06:26:05.191815 
 1. [仲尼在巴厘岛遇难](https://s.weibo.com/weibo?q=%23%E4%BB%B2%E5%B0%BC%E5%9C%A8%E5%B7%B4%E5%8E%98%E5%B2%9B%E9%81%87%E9%9A%BE%23&t=31&band_rank=1&Refer=top) 8237483
 1. [瑞幸 罗翔](https://s.weibo.com/weibo?q=%E7%91%9E%E5%B9%B8%20%E7%BD%97%E7%BF%94&t=31&band_rank=2&Refer=top) 755331
 1. [仲尼昨天生日](https://s.weibo.com/weibo?q=%E4%BB%B2%E5%B0%BC%E6%98%A8%E5%A4%A9%E7%94%9F%E6%97%A5&t=31&band_rank=13&Refer=top) 723987
@@ -46,9 +46,9 @@
 1. [罗云熙官宣水龙吟](https://s.weibo.com/weibo?q=%23%E7%BD%97%E4%BA%91%E7%86%99%E5%AE%98%E5%AE%A3%E6%B0%B4%E9%BE%99%E5%90%9F%23&t=31&band_rank=28&Refer=top) 202412
 1. [傅首尔老刘无声的陪伴](https://s.weibo.com/weibo?q=%E5%82%85%E9%A6%96%E5%B0%94%E8%80%81%E5%88%98%E6%97%A0%E5%A3%B0%E7%9A%84%E9%99%AA%E4%BC%B4&t=31&band_rank=34&Refer=top) 196916
 1. [小狗认为摸头是世界上最幸福的事](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%8B%97%E8%AE%A4%E4%B8%BA%E6%91%B8%E5%A4%B4%E6%98%AF%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%80%E5%B9%B8%E7%A6%8F%E7%9A%84%E4%BA%8B&t=31&band_rank=28&Refer=top) 193004
+1. [航班乘客心脏骤停清华长庚医生紧急救援](https://s.weibo.com/weibo?q=%23%E8%88%AA%E7%8F%AD%E4%B9%98%E5%AE%A2%E5%BF%83%E8%84%8F%E9%AA%A4%E5%81%9C%E6%B8%85%E5%8D%8E%E9%95%BF%E5%BA%9A%E5%8C%BB%E7%94%9F%E7%B4%A7%E6%80%A5%E6%95%91%E6%8F%B4%23&t=31&band_rank=37&Refer=top) 177852
 1. [宋雨琦挂脖紧身裙](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E9%9B%A8%E7%90%A6%E6%8C%82%E8%84%96%E7%B4%A7%E8%BA%AB%E8%A3%99%23&t=31&band_rank=32&Refer=top) 165247
 1. [五月天5525回到那一天](https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A95525%E5%9B%9E%E5%88%B0%E9%82%A3%E4%B8%80%E5%A4%A9%23&t=31&band_rank=36&Refer=top) 165021
-1. [航班乘客心脏骤停清华长庚医生紧急救援](https://s.weibo.com/weibo?q=%23%E8%88%AA%E7%8F%AD%E4%B9%98%E5%AE%A2%E5%BF%83%E8%84%8F%E9%AA%A4%E5%81%9C%E6%B8%85%E5%8D%8E%E9%95%BF%E5%BA%9A%E5%8C%BB%E7%94%9F%E7%B4%A7%E6%80%A5%E6%95%91%E6%8F%B4%23&t=31&band_rank=37&Refer=top) 157480
 1. [中山二院黄某家属称其病情严重](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B1%B1%E4%BA%8C%E9%99%A2%E9%BB%84%E6%9F%90%E5%AE%B6%E5%B1%9E%E7%A7%B0%E5%85%B6%E7%97%85%E6%83%85%E4%B8%A5%E9%87%8D%23&t=31&band_rank=30&Refer=top) 155227
 1. [时代峰峻的戒指是你家的吗](https://s.weibo.com/weibo?q=%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E7%9A%84%E6%88%92%E6%8C%87%E6%98%AF%E4%BD%A0%E5%AE%B6%E7%9A%84%E5%90%97&t=31&band_rank=31&Refer=top) 155096
 1. [和父母的分享欲就是这么消失的](https://s.weibo.com/weibo?q=%E5%92%8C%E7%88%B6%E6%AF%8D%E7%9A%84%E5%88%86%E4%BA%AB%E6%AC%B2%E5%B0%B1%E6%98%AF%E8%BF%99%E4%B9%88%E6%B6%88%E5%A4%B1%E7%9A%84&t=31&band_rank=38&Refer=top) 154789
@@ -67,14 +67,15 @@
 1. [美香 回国](https://s.weibo.com/weibo?q=%E7%BE%8E%E9%A6%99%20%E5%9B%9E%E5%9B%BD&t=31&band_rank=49&Refer=top) 116546
 1. [入冬第一妆](https://s.weibo.com/weibo?q=%23%E5%85%A5%E5%86%AC%E7%AC%AC%E4%B8%80%E5%A6%86%23&t=31&band_rank=50&Refer=top) 115476
 1. [艾伦 谢谢你替我围上围巾](https://s.weibo.com/weibo?q=%E8%89%BE%E4%BC%A6%20%E8%B0%A2%E8%B0%A2%E4%BD%A0%E6%9B%BF%E6%88%91%E5%9B%B4%E4%B8%8A%E5%9B%B4%E5%B7%BE&t=31&band_rank=50&Refer=top) 52883
+1. [家长劝孩子不要学生物的原因](https://s.weibo.com/weibo?q=%E5%AE%B6%E9%95%BF%E5%8A%9D%E5%AD%A9%E5%AD%90%E4%B8%8D%E8%A6%81%E5%AD%A6%E7%94%9F%E7%89%A9%E7%9A%84%E5%8E%9F%E5%9B%A0&t=31&band_rank=34&Refer=top) 51137
+1. [一场大雪温太医成癫公了](https://s.weibo.com/weibo?q=%E4%B8%80%E5%9C%BA%E5%A4%A7%E9%9B%AA%E6%B8%A9%E5%A4%AA%E5%8C%BB%E6%88%90%E7%99%AB%E5%85%AC%E4%BA%86&t=31&band_rank=31&Refer=top) 50157
 1. [王安宇 内耗](https://s.weibo.com/weibo?q=%E7%8E%8B%E5%AE%89%E5%AE%87%20%E5%86%85%E8%80%97&t=31&band_rank=45&Refer=top) 49431
+1. [中国平安已清仓碧桂园](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%B9%B3%E5%AE%89%E5%B7%B2%E6%B8%85%E4%BB%93%E7%A2%A7%E6%A1%82%E5%9B%AD%23&t=31&band_rank=29&Refer=top) 43488
+1. [秦岚一句话治好辛芷蕾的容貌焦虑](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E4%B8%80%E5%8F%A5%E8%AF%9D%E6%B2%BB%E5%A5%BD%E8%BE%9B%E8%8A%B7%E8%95%BE%E7%9A%84%E5%AE%B9%E8%B2%8C%E7%84%A6%E8%99%91%23&t=31&band_rank=40&Refer=top) 38534
+1. [普通人最直接的转运方法](https://s.weibo.com/weibo?q=%E6%99%AE%E9%80%9A%E4%BA%BA%E6%9C%80%E7%9B%B4%E6%8E%A5%E7%9A%84%E8%BD%AC%E8%BF%90%E6%96%B9%E6%B3%95&t=31&band_rank=49&Refer=top) 36799
 1. [建议把这些开发成旅游项目卖给南方人](https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E6%8A%8A%E8%BF%99%E4%BA%9B%E5%BC%80%E5%8F%91%E6%88%90%E6%97%85%E6%B8%B8%E9%A1%B9%E7%9B%AE%E5%8D%96%E7%BB%99%E5%8D%97%E6%96%B9%E4%BA%BA&t=31&band_rank=50&Refer=top) 34282
-1. [一场大雪温太医成癫公了](https://s.weibo.com/weibo?q=%E4%B8%80%E5%9C%BA%E5%A4%A7%E9%9B%AA%E6%B8%A9%E5%A4%AA%E5%8C%BB%E6%88%90%E7%99%AB%E5%85%AC%E4%BA%86&t=31&band_rank=31&Refer=top) 31754
-1. [中国平安已清仓碧桂园](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%B9%B3%E5%AE%89%E5%B7%B2%E6%B8%85%E4%BB%93%E7%A2%A7%E6%A1%82%E5%9B%AD%23&t=31&band_rank=29&Refer=top) 27493
-1. [普通人最直接的转运方法](https://s.weibo.com/weibo?q=%E6%99%AE%E9%80%9A%E4%BA%BA%E6%9C%80%E7%9B%B4%E6%8E%A5%E7%9A%84%E8%BD%AC%E8%BF%90%E6%96%B9%E6%B3%95&t=31&band_rank=49&Refer=top) 27361
-1. [秦岚一句话治好辛芷蕾的容貌焦虑](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E4%B8%80%E5%8F%A5%E8%AF%9D%E6%B2%BB%E5%A5%BD%E8%BE%9B%E8%8A%B7%E8%95%BE%E7%9A%84%E5%AE%B9%E8%B2%8C%E7%84%A6%E8%99%91%23&t=31&band_rank=40&Refer=top) 27220
-1. [家长劝孩子不要学生物的原因](https://s.weibo.com/weibo?q=%E5%AE%B6%E9%95%BF%E5%8A%9D%E5%AD%A9%E5%AD%90%E4%B8%8D%E8%A6%81%E5%AD%A6%E7%94%9F%E7%89%A9%E7%9A%84%E5%8E%9F%E5%9B%A0&t=31&band_rank=34&Refer=top) 22827
-1. [小伙离职后驻岛当起水獭铲屎官](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E7%A6%BB%E8%81%8C%E5%90%8E%E9%A9%BB%E5%B2%9B%E5%BD%93%E8%B5%B7%E6%B0%B4%E7%8D%AD%E9%93%B2%E5%B1%8E%E5%AE%98%23&t=31&band_rank=44&Refer=top) 21312
+1. [小伙离职后驻岛当起水獭铲屎官](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E7%A6%BB%E8%81%8C%E5%90%8E%E9%A9%BB%E5%B2%9B%E5%BD%93%E8%B5%B7%E6%B0%B4%E7%8D%AD%E9%93%B2%E5%B1%8E%E5%AE%98%23&t=31&band_rank=44&Refer=top) 24213
+1. [立冬文案](https://s.weibo.com/weibo?q=%E7%AB%8B%E5%86%AC%E6%96%87%E6%A1%88&t=31&band_rank=48&Refer=top) 21126
 <!-- END -->
 
 历史归档 [./archives](./archives)
