@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-11-09 02:12:55.212779 
+最后更新时间 2023-11-09 02:28:26.943518 
 1. [仲尼在巴厘岛遇难](https://s.weibo.com/weibo?q=%23%E4%BB%B2%E5%B0%BC%E5%9C%A8%E5%B7%B4%E5%8E%98%E5%B2%9B%E9%81%87%E9%9A%BE%23&t=31&band_rank=1&Refer=top) 8237483
 1. [瑞幸 罗翔](https://s.weibo.com/weibo?q=%E7%91%9E%E5%B9%B8%20%E7%BD%97%E7%BF%94&t=31&band_rank=2&Refer=top) 755331
 1. [仲尼昨天生日](https://s.weibo.com/weibo?q=%E4%BB%B2%E5%B0%BC%E6%98%A8%E5%A4%A9%E7%94%9F%E6%97%A5&t=31&band_rank=13&Refer=top) 723987
@@ -67,6 +67,7 @@
 1. [美香 回国](https://s.weibo.com/weibo?q=%E7%BE%8E%E9%A6%99%20%E5%9B%9E%E5%9B%BD&t=31&band_rank=49&Refer=top) 116546
 1. [入冬第一妆](https://s.weibo.com/weibo?q=%23%E5%85%A5%E5%86%AC%E7%AC%AC%E4%B8%80%E5%A6%86%23&t=31&band_rank=50&Refer=top) 115476
 1. [王安宇 内耗](https://s.weibo.com/weibo?q=%E7%8E%8B%E5%AE%89%E5%AE%87%20%E5%86%85%E8%80%97&t=31&band_rank=45&Refer=top) 49431
+1. [建议把这些开发成旅游项目卖给南方人](https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E6%8A%8A%E8%BF%99%E4%BA%9B%E5%BC%80%E5%8F%91%E6%88%90%E6%97%85%E6%B8%B8%E9%A1%B9%E7%9B%AE%E5%8D%96%E7%BB%99%E5%8D%97%E6%96%B9%E4%BA%BA&t=31&band_rank=50&Refer=top) 34282
 <!-- END -->
 
 历史归档 [./archives](./archives)
