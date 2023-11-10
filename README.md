@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-11-11 02:28:37.776075 
+最后更新时间 2023-11-11 02:37:29.224385 
 1. [萧亚轩回来了](https://s.weibo.com/weibo?q=%E8%90%A7%E4%BA%9A%E8%BD%A9%E5%9B%9E%E6%9D%A5%E4%BA%86&t=31&band_rank=1&Refer=top) 2080014
 1. [易烊千玺 限定玫瑰](https://s.weibo.com/weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%20%E9%99%90%E5%AE%9A%E7%8E%AB%E7%91%B0&t=31&band_rank=1&Refer=top) 2064536
 1. [宋茜 梦回Victoria](https://s.weibo.com/weibo?q=%E5%AE%8B%E8%8C%9C%20%E6%A2%A6%E5%9B%9EVictoria&t=31&band_rank=2&Refer=top) 1652321
