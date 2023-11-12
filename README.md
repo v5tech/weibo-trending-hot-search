@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-11-13 00:28:05.944248 
+最后更新时间 2023-11-13 00:37:04.937149 
 1. [1名中国人被越南判处死刑](https://s.weibo.com/weibo?q=%231%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%A2%AB%E8%B6%8A%E5%8D%97%E5%88%A4%E5%A4%84%E6%AD%BB%E5%88%91%23&t=31&band_rank=1&Refer=top) 1689648
 1. [多国爆发床虱危机](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9B%BD%E7%88%86%E5%8F%91%E5%BA%8A%E8%99%B1%E5%8D%B1%E6%9C%BA%23&t=31&band_rank=2&Refer=top) 757405
 1. [高铁列车过站自带特效](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E5%88%97%E8%BD%A6%E8%BF%87%E7%AB%99%E8%87%AA%E5%B8%A6%E7%89%B9%E6%95%88%23&t=31&band_rank=3&Refer=top) 654828
@@ -38,7 +38,7 @@
 1. [2女生捡到3千现金后报警交还](https://s.weibo.com/weibo?q=%232%E5%A5%B3%E7%94%9F%E6%8D%A1%E5%88%B03%E5%8D%83%E7%8E%B0%E9%87%91%E5%90%8E%E6%8A%A5%E8%AD%A6%E4%BA%A4%E8%BF%98%23&t=31&band_rank=28&Refer=top) 186763
 1. [毕业才发现跟大学老师不是一个阶层的](https://s.weibo.com/weibo?q=%E6%AF%95%E4%B8%9A%E6%89%8D%E5%8F%91%E7%8E%B0%E8%B7%9F%E5%A4%A7%E5%AD%A6%E8%80%81%E5%B8%88%E4%B8%8D%E6%98%AF%E4%B8%80%E4%B8%AA%E9%98%B6%E5%B1%82%E7%9A%84&t=31&band_rank=33&Refer=top) 180150
 1. [周柯宇易扬人设](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9F%AF%E5%AE%87%E6%98%93%E6%89%AC%E4%BA%BA%E8%AE%BE%23&t=31&band_rank=29&Refer=top) 177664
-1. [刘畊宏带假肢女孩跳本草纲目](https://s.weibo.com/weibo?q=%23%E5%88%98%E7%95%8A%E5%AE%8F%E5%B8%A6%E5%81%87%E8%82%A2%E5%A5%B3%E5%AD%A9%E8%B7%B3%E6%9C%AC%E8%8D%89%E7%BA%B2%E7%9B%AE%23&t=31&band_rank=46&Refer=top) 170523
+1. [刘畊宏带假肢女孩跳本草纲目](https://s.weibo.com/weibo?q=%23%E5%88%98%E7%95%8A%E5%AE%8F%E5%B8%A6%E5%81%87%E8%82%A2%E5%A5%B3%E5%AD%A9%E8%B7%B3%E6%9C%AC%E8%8D%89%E7%BA%B2%E7%9B%AE%23&t=31&band_rank=46&Refer=top) 171610
 1. [快进到相信TheShy](https://s.weibo.com/weibo?q=%E5%BF%AB%E8%BF%9B%E5%88%B0%E7%9B%B8%E4%BF%A1TheShy&t=31&band_rank=30&Refer=top) 168002
 1. [官方通报企业家被约谈后坠楼身亡](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E4%BC%81%E4%B8%9A%E5%AE%B6%E8%A2%AB%E7%BA%A6%E8%B0%88%E5%90%8E%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=31&Refer=top) 164481
 1. [宁安如梦](https://s.weibo.com/weibo?q=%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6&t=31&band_rank=32&Refer=top) 163629
@@ -52,15 +52,15 @@
 1. [补气血做好这三点](https://s.weibo.com/weibo?q=%E8%A1%A5%E6%B0%94%E8%A1%80%E5%81%9A%E5%A5%BD%E8%BF%99%E4%B8%89%E7%82%B9&t=31&band_rank=40&Refer=top) 121872
 1. [床虱通常藏在床垫或弹簧床中](https://s.weibo.com/weibo?q=%23%E5%BA%8A%E8%99%B1%E9%80%9A%E5%B8%B8%E8%97%8F%E5%9C%A8%E5%BA%8A%E5%9E%AB%E6%88%96%E5%BC%B9%E7%B0%A7%E5%BA%8A%E4%B8%AD%23&t=31&band_rank=42&Refer=top) 119702
 1. [韩国警方否认权志龙销毁证据](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E8%AD%A6%E6%96%B9%E5%90%A6%E8%AE%A4%E6%9D%83%E5%BF%97%E9%BE%99%E9%94%80%E6%AF%81%E8%AF%81%E6%8D%AE%23&t=31&band_rank=43&Refer=top) 117927
+1. [一年一首凤凰传奇](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%B9%B4%E4%B8%80%E9%A6%96%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%23&t=31&band_rank=48&Refer=top) 115624
 1. [白鹿催宁安如梦加更](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E5%82%AC%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%E5%8A%A0%E6%9B%B4%23&t=31&band_rank=37&Refer=top) 115496
-1. [一年一首凤凰传奇](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%B9%B4%E4%B8%80%E9%A6%96%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%23&t=31&band_rank=48&Refer=top) 114753
 1. [Ruler和Faker  一墙之隔胜负之分](https://s.weibo.com/weibo?q=Ruler%E5%92%8CFaker%20%20%E4%B8%80%E5%A2%99%E4%B9%8B%E9%9A%94%E8%83%9C%E8%B4%9F%E4%B9%8B%E5%88%86&t=31&band_rank=44&Refer=top) 113418
 1. [缅北](https://s.weibo.com/weibo?q=%E7%BC%85%E5%8C%97&t=31&band_rank=45&Refer=top) 113142
 1. [谢娜素颜练舞](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E7%B4%A0%E9%A2%9C%E7%BB%83%E8%88%9E%23&t=31&band_rank=47&Refer=top) 97725
 1. [金莎孙丞潇曾救下被家暴女孩](https://s.weibo.com/weibo?q=%23%E9%87%91%E8%8E%8E%E5%AD%99%E4%B8%9E%E6%BD%87%E6%9B%BE%E6%95%91%E4%B8%8B%E8%A2%AB%E5%AE%B6%E6%9A%B4%E5%A5%B3%E5%AD%A9%23&t=31&band_rank=49&Refer=top) 92793
 1. [曾繁日驱逐出场](https://s.weibo.com/weibo?q=%23%E6%9B%BE%E7%B9%81%E6%97%A5%E9%A9%B1%E9%80%90%E5%87%BA%E5%9C%BA%23&t=31&band_rank=50&Refer=top) 92792
-1. [最真实的男主给女主喂药](https://s.weibo.com/weibo?q=%23%E6%9C%80%E7%9C%9F%E5%AE%9E%E7%9A%84%E7%94%B7%E4%B8%BB%E7%BB%99%E5%A5%B3%E4%B8%BB%E5%96%82%E8%8D%AF%23&t=31&band_rank=49&Refer=top) 80672
-1. [切尔西vs曼城](https://s.weibo.com/weibo?q=%23%E5%88%87%E5%B0%94%E8%A5%BFvs%E6%9B%BC%E5%9F%8E%23&t=31&band_rank=50&Refer=top) 80660
+1. [最真实的男主给女主喂药](https://s.weibo.com/weibo?q=%23%E6%9C%80%E7%9C%9F%E5%AE%9E%E7%9A%84%E7%94%B7%E4%B8%BB%E7%BB%99%E5%A5%B3%E4%B8%BB%E5%96%82%E8%8D%AF%23&t=31&band_rank=49&Refer=top) 84021
+1. [切尔西vs曼城](https://s.weibo.com/weibo?q=%23%E5%88%87%E5%B0%94%E8%A5%BFvs%E6%9B%BC%E5%9F%8E%23&t=31&band_rank=50&Refer=top) 81955
 <!-- END -->
 
 历史归档 [./archives](./archives)
