@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-11-13 00:49:02.976835 
+最后更新时间 2023-11-13 01:08:31.797738 
 1. [1名中国人被越南判处死刑](https://s.weibo.com/weibo?q=%231%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%A2%AB%E8%B6%8A%E5%8D%97%E5%88%A4%E5%A4%84%E6%AD%BB%E5%88%91%23&t=31&band_rank=1&Refer=top) 1689648
 1. [多国爆发床虱危机](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9B%BD%E7%88%86%E5%8F%91%E5%BA%8A%E8%99%B1%E5%8D%B1%E6%9C%BA%23&t=31&band_rank=2&Refer=top) 757405
 1. [高铁列车过站自带特效](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E5%88%97%E8%BD%A6%E8%BF%87%E7%AB%99%E8%87%AA%E5%B8%A6%E7%89%B9%E6%95%88%23&t=31&band_rank=3&Refer=top) 654828
@@ -60,7 +60,7 @@
 1. [金莎孙丞潇曾救下被家暴女孩](https://s.weibo.com/weibo?q=%23%E9%87%91%E8%8E%8E%E5%AD%99%E4%B8%9E%E6%BD%87%E6%9B%BE%E6%95%91%E4%B8%8B%E8%A2%AB%E5%AE%B6%E6%9A%B4%E5%A5%B3%E5%AD%A9%23&t=31&band_rank=49&Refer=top) 92793
 1. [曾繁日驱逐出场](https://s.weibo.com/weibo?q=%23%E6%9B%BE%E7%B9%81%E6%97%A5%E9%A9%B1%E9%80%90%E5%87%BA%E5%9C%BA%23&t=31&band_rank=50&Refer=top) 92792
 1. [最真实的男主给女主喂药](https://s.weibo.com/weibo?q=%23%E6%9C%80%E7%9C%9F%E5%AE%9E%E7%9A%84%E7%94%B7%E4%B8%BB%E7%BB%99%E5%A5%B3%E4%B8%BB%E5%96%82%E8%8D%AF%23&t=31&band_rank=49&Refer=top) 84021
-1. [切尔西vs曼城](https://s.weibo.com/weibo?q=%23%E5%88%87%E5%B0%94%E8%A5%BFvs%E6%9B%BC%E5%9F%8E%23&t=31&band_rank=50&Refer=top) 81955
+1. [切尔西vs曼城](https://s.weibo.com/weibo?q=%23%E5%88%87%E5%B0%94%E8%A5%BFvs%E6%9B%BC%E5%9F%8E%23&t=31&band_rank=50&Refer=top) 83331
 <!-- END -->
 
 历史归档 [./archives](./archives)
