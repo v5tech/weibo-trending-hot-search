@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-11-13 05:08:17.096713 
+最后更新时间 2023-11-13 05:19:09.538581 
 1. [1名中国人被越南判处死刑](https://s.weibo.com/weibo?q=%231%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%A2%AB%E8%B6%8A%E5%8D%97%E5%88%A4%E5%A4%84%E6%AD%BB%E5%88%91%23&t=31&band_rank=1&Refer=top) 1689648
 1. [多国爆发床虱危机](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9B%BD%E7%88%86%E5%8F%91%E5%BA%8A%E8%99%B1%E5%8D%B1%E6%9C%BA%23&t=31&band_rank=2&Refer=top) 757405
 1. [高铁列车过站自带特效](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E5%88%97%E8%BD%A6%E8%BF%87%E7%AB%99%E8%87%AA%E5%B8%A6%E7%89%B9%E6%95%88%23&t=31&band_rank=3&Refer=top) 654828
@@ -49,9 +49,9 @@
 1. [切尔西vs曼城](https://s.weibo.com/weibo?q=%23%E5%88%87%E5%B0%94%E8%A5%BFvs%E6%9B%BC%E5%9F%8E%23&t=31&band_rank=50&Refer=top) 134429
 1. [迪丽热巴红秀十一月刊封面](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%BA%A2%E7%A7%80%E5%8D%81%E4%B8%80%E6%9C%88%E5%88%8A%E5%B0%81%E9%9D%A2%23&t=31&band_rank=37&Refer=top) 133239
 1. [为什么奶茶圈都在推三品管](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A5%B6%E8%8C%B6%E5%9C%88%E9%83%BD%E5%9C%A8%E6%8E%A8%E4%B8%89%E5%93%81%E7%AE%A1%23&t=31&band_rank=38&Refer=top) 128057
+1. [冰岛24小时内1400次地震](https://s.weibo.com/weibo?q=%23%E5%86%B0%E5%B2%9B24%E5%B0%8F%E6%97%B6%E5%86%851400%E6%AC%A1%E5%9C%B0%E9%9C%87%23&t=31&band_rank=12&Refer=top) 127709
 1. [歌手2024 踢馆名单](https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B2024%20%E8%B8%A2%E9%A6%86%E5%90%8D%E5%8D%95&t=31&band_rank=39&Refer=top) 125648
 1. [Knight 隐身](https://s.weibo.com/weibo?q=Knight%20%E9%9A%90%E8%BA%AB&t=31&band_rank=41&Refer=top) 123746
-1. [冰岛24小时内1400次地震](https://s.weibo.com/weibo?q=%23%E5%86%B0%E5%B2%9B24%E5%B0%8F%E6%97%B6%E5%86%851400%E6%AC%A1%E5%9C%B0%E9%9C%87%23&t=31&band_rank=12&Refer=top) 122924
 1. [补气血做好这三点](https://s.weibo.com/weibo?q=%E8%A1%A5%E6%B0%94%E8%A1%80%E5%81%9A%E5%A5%BD%E8%BF%99%E4%B8%89%E7%82%B9&t=31&band_rank=40&Refer=top) 121872
 1. [床虱通常藏在床垫或弹簧床中](https://s.weibo.com/weibo?q=%23%E5%BA%8A%E8%99%B1%E9%80%9A%E5%B8%B8%E8%97%8F%E5%9C%A8%E5%BA%8A%E5%9E%AB%E6%88%96%E5%BC%B9%E7%B0%A7%E5%BA%8A%E4%B8%AD%23&t=31&band_rank=42&Refer=top) 119702
 1. [韩国警方否认权志龙销毁证据](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E8%AD%A6%E6%96%B9%E5%90%A6%E8%AE%A4%E6%9D%83%E5%BF%97%E9%BE%99%E9%94%80%E6%AF%81%E8%AF%81%E6%8D%AE%23&t=31&band_rank=43&Refer=top) 117927
