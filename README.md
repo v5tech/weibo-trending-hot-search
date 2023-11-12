@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-11-12 23:34:30.249669 
+最后更新时间 2023-11-12 23:49:00.937229 
 1. [T1晋级S13总决赛](https://s.weibo.com/weibo?q=%23T1%E6%99%8B%E7%BA%A7S13%E6%80%BB%E5%86%B3%E8%B5%9B%23&t=31&band_rank=1&Refer=top) 10480770
 1. [房东将父亲种的30斤菜分享给百名租客](https://s.weibo.com/weibo?q=%23%E6%88%BF%E4%B8%9C%E5%B0%86%E7%88%B6%E4%BA%B2%E7%A7%8D%E7%9A%8430%E6%96%A4%E8%8F%9C%E5%88%86%E4%BA%AB%E7%BB%99%E7%99%BE%E5%90%8D%E7%A7%9F%E5%AE%A2%23&t=31&band_rank=2&Refer=top) 4478472
 1. [JDG对战T1](https://s.weibo.com/weibo?q=%23JDG%E5%AF%B9%E6%88%98T1%23&t=31&band_rank=5&Refer=top) 4419936
@@ -393,6 +393,7 @@
 1. [撒贝宁关晓彤跳广场舞](https://s.weibo.com/weibo?q=%23%E6%92%92%E8%B4%9D%E5%AE%81%E5%85%B3%E6%99%93%E5%BD%A4%E8%B7%B3%E5%B9%BF%E5%9C%BA%E8%88%9E%23&t=31&band_rank=42&Refer=top) 110227
 1. [男子带6只被丢弃奶狗回家找妈妈](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%B8%A66%E5%8F%AA%E8%A2%AB%E4%B8%A2%E5%BC%83%E5%A5%B6%E7%8B%97%E5%9B%9E%E5%AE%B6%E6%89%BE%E5%A6%88%E5%A6%88%23&t=31&band_rank=49&Refer=top) 109216
 1. [9岁摄影师拍的成毅](https://s.weibo.com/weibo?q=%239%E5%B2%81%E6%91%84%E5%BD%B1%E5%B8%88%E6%8B%8D%E7%9A%84%E6%88%90%E6%AF%85%23&t=31&band_rank=45&Refer=top) 108195
+1. [2女生捡到3千现金后报警交还](https://s.weibo.com/weibo?q=%232%E5%A5%B3%E7%94%9F%E6%8D%A1%E5%88%B03%E5%8D%83%E7%8E%B0%E9%87%91%E5%90%8E%E6%8A%A5%E8%AD%A6%E4%BA%A4%E8%BF%98%23&t=31&band_rank=44&Refer=top) 107593
 1. [张艺兴演唱会](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%89%BA%E5%85%B4%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=47&Refer=top) 106391
 1. [黄子弘凡北京演唱会](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E5%BC%98%E5%87%A1%E5%8C%97%E4%BA%AC%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=32&Refer=top) 105054
 1. [加纳国脚比赛中突发心脏病离世](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E7%BA%B3%E5%9B%BD%E8%84%9A%E6%AF%94%E8%B5%9B%E4%B8%AD%E7%AA%81%E5%8F%91%E5%BF%83%E8%84%8F%E7%97%85%E7%A6%BB%E4%B8%96%23&t=31&band_rank=48&Refer=top) 104921
@@ -413,6 +414,7 @@
 1. [韩国女歌手Nahee去世](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%A5%B3%E6%AD%8C%E6%89%8BNahee%E5%8E%BB%E4%B8%96%23&t=31&band_rank=46&Refer=top) 98184
 1. [一家三代守护中蒙边界70余年](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%AE%B6%E4%B8%89%E4%BB%A3%E5%AE%88%E6%8A%A4%E4%B8%AD%E8%92%99%E8%BE%B9%E7%95%8C70%E4%BD%99%E5%B9%B4%23&t=31&band_rank=42&Refer=top) 97750
 1. [大熊猫发现被偷拍慢悠悠走向竹林](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E5%8F%91%E7%8E%B0%E8%A2%AB%E5%81%B7%E6%8B%8D%E6%85%A2%E6%82%A0%E6%82%A0%E8%B5%B0%E5%90%91%E7%AB%B9%E6%9E%97%23&t=31&band_rank=49&Refer=top) 97636
+1. [毕业才发现跟大学老师不是一个阶层的](https://s.weibo.com/weibo?q=%E6%AF%95%E4%B8%9A%E6%89%8D%E5%8F%91%E7%8E%B0%E8%B7%9F%E5%A4%A7%E5%AD%A6%E8%80%81%E5%B8%88%E4%B8%8D%E6%98%AF%E4%B8%80%E4%B8%AA%E9%98%B6%E5%B1%82%E7%9A%84&t=31&band_rank=48&Refer=top) 96241
 1. [燕临冠礼](https://s.weibo.com/weibo?q=%E7%87%95%E4%B8%B4%E5%86%A0%E7%A4%BC&t=31&band_rank=48&Refer=top) 96227
 1. [曼联vs卢顿](https://s.weibo.com/weibo?q=%23%E6%9B%BC%E8%81%94vs%E5%8D%A2%E9%A1%BF%23&t=31&band_rank=49&Refer=top) 95191
 1. [男朋友转了5200给我买咖啡](https://s.weibo.com/weibo?q=%23%E7%94%B7%E6%9C%8B%E5%8F%8B%E8%BD%AC%E4%BA%865200%E7%BB%99%E6%88%91%E4%B9%B0%E5%92%96%E5%95%A1%23&t=31&band_rank=49&Refer=top) 89698
