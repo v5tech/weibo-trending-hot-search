@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-11-14 00:32:12.459467 
+最后更新时间 2023-11-14 00:49:09.476677 
 1. [春晚导演 汗流浃背了](https://s.weibo.com/weibo?q=%E6%98%A5%E6%99%9A%E5%AF%BC%E6%BC%94%20%E6%B1%97%E6%B5%81%E6%B5%83%E8%83%8C%E4%BA%86&t=31&band_rank=1&Refer=top) 1863828
 1. [雪莉生前纪录片完整版公开](https://s.weibo.com/weibo?q=%23%E9%9B%AA%E8%8E%89%E7%94%9F%E5%89%8D%E7%BA%AA%E5%BD%95%E7%89%87%E5%AE%8C%E6%95%B4%E7%89%88%E5%85%AC%E5%BC%80%23&t=31&band_rank=2&Refer=top) 1018315
 1. [手把手教你跨省看病怎么走医保](https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E8%B7%A8%E7%9C%81%E7%9C%8B%E7%97%85%E6%80%8E%E4%B9%88%E8%B5%B0%E5%8C%BB%E4%BF%9D%23&t=31&band_rank=3&Refer=top) 872207
@@ -18,12 +18,12 @@
 1. [山东74名学生腹泻呕吐采样为诺如病毒](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C74%E5%90%8D%E5%AD%A6%E7%94%9F%E8%85%B9%E6%B3%BB%E5%91%95%E5%90%90%E9%87%87%E6%A0%B7%E4%B8%BA%E8%AF%BA%E5%A6%82%E7%97%85%E6%AF%92%23&t=31&band_rank=8&Refer=top) 442547
 1. [绝迹](https://s.weibo.com/weibo?q=%E7%BB%9D%E8%BF%B9&t=31&band_rank=9&Refer=top) 405779
 1. [iPhone15双11最后两小时降价](https://s.weibo.com/weibo?q=%23iPhone15%E5%8F%8C11%E6%9C%80%E5%90%8E%E4%B8%A4%E5%B0%8F%E6%97%B6%E9%99%8D%E4%BB%B7%23&t=31&band_rank=10&Refer=top) 332343
+1. [这是烤冷面那我吃的是什么](https://s.weibo.com/weibo?q=%E8%BF%99%E6%98%AF%E7%83%A4%E5%86%B7%E9%9D%A2%E9%82%A3%E6%88%91%E5%90%83%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88&t=31&band_rank=19&Refer=top) 327729
 1. [小S好炸裂的回复](https://s.weibo.com/weibo?q=%E5%B0%8FS%E5%A5%BD%E7%82%B8%E8%A3%82%E7%9A%84%E5%9B%9E%E5%A4%8D&t=31&band_rank=11&Refer=top) 327668
 1. [朴彩英新发色](https://s.weibo.com/weibo?q=%23%E6%9C%B4%E5%BD%A9%E8%8B%B1%E6%96%B0%E5%8F%91%E8%89%B2%23&t=31&band_rank=12&Refer=top) 325065
 1. [1020事件](https://s.weibo.com/weibo?q=1020%E4%BA%8B%E4%BB%B6&t=31&band_rank=13&Refer=top) 316715
 1. [何猷君 小金土豆](https://s.weibo.com/weibo?q=%E4%BD%95%E7%8C%B7%E5%90%9B%20%E5%B0%8F%E9%87%91%E5%9C%9F%E8%B1%86&t=31&band_rank=14&Refer=top) 313419
 1. [南航白菜价机票尴尬了谁](https://s.weibo.com/weibo?q=%23%E5%8D%97%E8%88%AA%E7%99%BD%E8%8F%9C%E4%BB%B7%E6%9C%BA%E7%A5%A8%E5%B0%B4%E5%B0%AC%E4%BA%86%E8%B0%81%23&t=31&band_rank=15&Refer=top) 311384
-1. [这是烤冷面那我吃的是什么](https://s.weibo.com/weibo?q=%E8%BF%99%E6%98%AF%E7%83%A4%E5%86%B7%E9%9D%A2%E9%82%A3%E6%88%91%E5%90%83%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88&t=31&band_rank=19&Refer=top) 302663
 1. [蔡国庆回复陈楚生](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%9B%BD%E5%BA%86%E5%9B%9E%E5%A4%8D%E9%99%88%E6%A5%9A%E7%94%9F%23&t=31&band_rank=16&Refer=top) 288589
 1. [林俊杰都不知道自己有这份副业](https://s.weibo.com/weibo?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%E9%83%BD%E4%B8%8D%E7%9F%A5%E9%81%93%E8%87%AA%E5%B7%B1%E6%9C%89%E8%BF%99%E4%BB%BD%E5%89%AF%E4%B8%9A&t=31&band_rank=17&Refer=top) 282795
 1. [爱奇艺尖叫之夜完整版名单](https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E5%AE%8C%E6%95%B4%E7%89%88%E5%90%8D%E5%8D%95%23&t=31&band_rank=18&Refer=top) 259483
@@ -59,6 +59,8 @@
 1. [余承东称问界试驾车事故系误踩油门导致](https://s.weibo.com/weibo?q=%23%E4%BD%99%E6%89%BF%E4%B8%9C%E7%A7%B0%E9%97%AE%E7%95%8C%E8%AF%95%E9%A9%BE%E8%BD%A6%E4%BA%8B%E6%95%85%E7%B3%BB%E8%AF%AF%E8%B8%A9%E6%B2%B9%E9%97%A8%E5%AF%BC%E8%87%B4%23&t=31&band_rank=49&Refer=top) 91530
 1. [桑乔 沙特](https://s.weibo.com/weibo?q=%E6%A1%91%E4%B9%94%20%E6%B2%99%E7%89%B9&t=31&band_rank=50&Refer=top) 91527
 1. [提醒在冰岛中国公民防范火山地震灾害](https://s.weibo.com/weibo?q=%23%E6%8F%90%E9%86%92%E5%9C%A8%E5%86%B0%E5%B2%9B%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E9%98%B2%E8%8C%83%E7%81%AB%E5%B1%B1%E5%9C%B0%E9%9C%87%E7%81%BE%E5%AE%B3%23&t=31&band_rank=50&Refer=top) 76439
+1. [难听](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%90%AC&t=31&band_rank=44&Refer=top) 71725
+1. [用古早言情小说来打开宁安如梦](https://s.weibo.com/weibo?q=%23%E7%94%A8%E5%8F%A4%E6%97%A9%E8%A8%80%E6%83%85%E5%B0%8F%E8%AF%B4%E6%9D%A5%E6%89%93%E5%BC%80%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%23&t=31&band_rank=45&Refer=top) 67941
 <!-- END -->
 
 历史归档 [./archives](./archives)
