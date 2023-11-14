@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-11-15 04:34:04.520914 
+最后更新时间 2023-11-15 04:48:53.265501 
 1. [中美元首会晤](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%23&t=31&band_rank=1&Refer=top) 932074
 1. [糖尿病前期无明显症状极易被忽视](https://s.weibo.com/weibo?q=%23%E7%B3%96%E5%B0%BF%E7%97%85%E5%89%8D%E6%9C%9F%E6%97%A0%E6%98%8E%E6%98%BE%E7%97%87%E7%8A%B6%E6%9E%81%E6%98%93%E8%A2%AB%E5%BF%BD%E8%A7%86%23&t=31&band_rank=22&Refer=top) 279161
 1. [中国古人的审美有多绝](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%8F%A4%E4%BA%BA%E7%9A%84%E5%AE%A1%E7%BE%8E%E6%9C%89%E5%A4%9A%E7%BB%9D%23&t=31&band_rank=3&Refer=top) 278572
@@ -67,9 +67,10 @@
 1. [70kg广君 策划](https://s.weibo.com/weibo?q=70kg%E5%B9%BF%E5%90%9B%20%E7%AD%96%E5%88%92&t=31&band_rank=49&Refer=top) 71159
 1. [魏大勋放空](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E6%94%BE%E7%A9%BA%23&t=31&band_rank=37&Refer=top) 28816
 1. [陈伟霆这花衬衫是一百三件吗](https://s.weibo.com/weibo?q=%E9%99%88%E4%BC%9F%E9%9C%86%E8%BF%99%E8%8A%B1%E8%A1%AC%E8%A1%AB%E6%98%AF%E4%B8%80%E7%99%BE%E4%B8%89%E4%BB%B6%E5%90%97&t=31&band_rank=50&Refer=top) 27268
+1. [网购了件大衣穿上变成座山雕](https://s.weibo.com/weibo?q=%E7%BD%91%E8%B4%AD%E4%BA%86%E4%BB%B6%E5%A4%A7%E8%A1%A3%E7%A9%BF%E4%B8%8A%E5%8F%98%E6%88%90%E5%BA%A7%E5%B1%B1%E9%9B%95&t=31&band_rank=37&Refer=top) 21949
 1. [杨玏不愧是西岐长子](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%8E%8F%E4%B8%8D%E6%84%A7%E6%98%AF%E8%A5%BF%E5%B2%90%E9%95%BF%E5%AD%90%23&t=31&band_rank=37&Refer=top) 21740
-1. [网购了件大衣穿上变成座山雕](https://s.weibo.com/weibo?q=%E7%BD%91%E8%B4%AD%E4%BA%86%E4%BB%B6%E5%A4%A7%E8%A1%A3%E7%A9%BF%E4%B8%8A%E5%8F%98%E6%88%90%E5%BA%A7%E5%B1%B1%E9%9B%95&t=31&band_rank=37&Refer=top) 17969
 1. [体育老师27年从未无故少上1节课](https://s.weibo.com/weibo?q=%23%E4%BD%93%E8%82%B2%E8%80%81%E5%B8%8827%E5%B9%B4%E4%BB%8E%E6%9C%AA%E6%97%A0%E6%95%85%E5%B0%91%E4%B8%8A1%E8%8A%82%E8%AF%BE%23&t=31&band_rank=50&Refer=top) 16902
+1. [凭一道菜就出圈的重庆火锅](https://s.weibo.com/weibo?q=%E5%87%AD%E4%B8%80%E9%81%93%E8%8F%9C%E5%B0%B1%E5%87%BA%E5%9C%88%E7%9A%84%E9%87%8D%E5%BA%86%E7%81%AB%E9%94%85&t=31&band_rank=48&Refer=top) 11717
 <!-- END -->
 
 历史归档 [./archives](./archives)
