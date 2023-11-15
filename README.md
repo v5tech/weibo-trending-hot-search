@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-11-16 03:34:38.008579 
+最后更新时间 2023-11-16 03:48:51.645434 
 1. [中美元首会晤即将举行](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E5%8D%B3%E5%B0%86%E4%B8%BE%E8%A1%8C%23&t=31&band_rank=1&Refer=top) 832473
 1. [旧金山会晤将启希望中美相向而行](https://s.weibo.com/weibo?q=%23%E6%97%A7%E9%87%91%E5%B1%B1%E4%BC%9A%E6%99%A4%E5%B0%86%E5%90%AF%E5%B8%8C%E6%9C%9B%E4%B8%AD%E7%BE%8E%E7%9B%B8%E5%90%91%E8%80%8C%E8%A1%8C%23&t=31&band_rank=1&Refer=top) 609416
 1. [顺其自然25年捐款1577万](https://s.weibo.com/weibo?q=%23%E9%A1%BA%E5%85%B6%E8%87%AA%E7%84%B625%E5%B9%B4%E6%8D%90%E6%AC%BE1577%E4%B8%87%23&t=31&band_rank=2&Refer=top) 607748
@@ -24,6 +24,7 @@
 1. [骑车偶遇刘亦菲来回骑了20遍](https://s.weibo.com/weibo?q=%23%E9%AA%91%E8%BD%A6%E5%81%B6%E9%81%87%E5%88%98%E4%BA%A6%E8%8F%B2%E6%9D%A5%E5%9B%9E%E9%AA%91%E4%BA%8620%E9%81%8D%23&t=31&band_rank=11&Refer=top) 291213
 1. [程潇三角巾抹胸](https://s.weibo.com/weibo?q=%23%E7%A8%8B%E6%BD%87%E4%B8%89%E8%A7%92%E5%B7%BE%E6%8A%B9%E8%83%B8%23&t=31&band_rank=12&Refer=top) 290786
 1. [31岁儿子全职陪护智力2岁妈妈](https://s.weibo.com/weibo?q=%2331%E5%B2%81%E5%84%BF%E5%AD%90%E5%85%A8%E8%81%8C%E9%99%AA%E6%8A%A4%E6%99%BA%E5%8A%9B2%E5%B2%81%E5%A6%88%E5%A6%88%23&t=31&band_rank=14&Refer=top) 290103
+1. [中美元首旧金山会晤正式开始](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E6%97%A7%E9%87%91%E5%B1%B1%E4%BC%9A%E6%99%A4%E6%AD%A3%E5%BC%8F%E5%BC%80%E5%A7%8B%23&t=31&band_rank=2&Refer=top) 245263
 1. [白鹿张凌赫交杯吃饭团](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E5%BC%A0%E5%87%8C%E8%B5%AB%E4%BA%A4%E6%9D%AF%E5%90%83%E9%A5%AD%E5%9B%A2%23&t=31&band_rank=10&Refer=top) 244616
 1. [无限回购的好用润唇膏](https://s.weibo.com/weibo?q=%23%E6%97%A0%E9%99%90%E5%9B%9E%E8%B4%AD%E7%9A%84%E5%A5%BD%E7%94%A8%E6%B6%A6%E5%94%87%E8%86%8F%23&t=31&band_rank=15&Refer=top) 235049
 1. [刘亦菲彭冠英亲出声了](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E5%BD%AD%E5%86%A0%E8%8B%B1%E4%BA%B2%E5%87%BA%E5%A3%B0%E4%BA%86%23&t=31&band_rank=16&Refer=top) 234902
@@ -39,6 +40,7 @@
 1. [杨幂选了狐狸蜜蜂贺卡](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E9%80%89%E4%BA%86%E7%8B%90%E7%8B%B8%E8%9C%9C%E8%9C%82%E8%B4%BA%E5%8D%A1%23&t=31&band_rank=26&Refer=top) 186119
 1. [TFBOYS待映新片都是科幻片](https://s.weibo.com/weibo?q=%23TFBOYS%E5%BE%85%E6%98%A0%E6%96%B0%E7%89%87%E9%83%BD%E6%98%AF%E7%A7%91%E5%B9%BB%E7%89%87%23&t=31&band_rank=27&Refer=top) 177414
 1. [野生大熊猫5天4次同一地点喝水](https://s.weibo.com/weibo?q=%23%E9%87%8E%E7%94%9F%E5%A4%A7%E7%86%8A%E7%8C%AB5%E5%A4%A94%E6%AC%A1%E5%90%8C%E4%B8%80%E5%9C%B0%E7%82%B9%E5%96%9D%E6%B0%B4%23&t=31&band_rank=28&Refer=top) 175852
+1. [中美元首时隔1年再次面对面会晤](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E6%97%B6%E9%9A%941%E5%B9%B4%E5%86%8D%E6%AC%A1%E9%9D%A2%E5%AF%B9%E9%9D%A2%E4%BC%9A%E6%99%A4%23&t=31&band_rank=4&Refer=top) 173693
 1. [赵睿比赛](https://s.weibo.com/weibo?q=%E8%B5%B5%E7%9D%BF%E6%AF%94%E8%B5%9B&t=31&band_rank=29&Refer=top) 171759
 1. [张桂梅眼含泪水致敬消防员们](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%A1%82%E6%A2%85%E7%9C%BC%E5%90%AB%E6%B3%AA%E6%B0%B4%E8%87%B4%E6%95%AC%E6%B6%88%E9%98%B2%E5%91%98%E4%BB%AC%23&t=31&band_rank=30&Refer=top) 171397
 1. [兰州拉面都得尊称一声前辈](https://s.weibo.com/weibo?q=%E5%85%B0%E5%B7%9E%E6%8B%89%E9%9D%A2%E9%83%BD%E5%BE%97%E5%B0%8A%E7%A7%B0%E4%B8%80%E5%A3%B0%E5%89%8D%E8%BE%88&t=31&band_rank=31&Refer=top) 168244
@@ -49,7 +51,6 @@
 1. [秦岚这该死的镜头感](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E8%BF%99%E8%AF%A5%E6%AD%BB%E7%9A%84%E9%95%9C%E5%A4%B4%E6%84%9F%23&t=31&band_rank=36&Refer=top) 150662
 1. [张小斐电影票房破4亿自拍](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%E7%94%B5%E5%BD%B1%E7%A5%A8%E6%88%BF%E7%A0%B44%E4%BA%BF%E8%87%AA%E6%8B%8D%23&t=31&band_rank=43&Refer=top) 127840
 1. [田曦薇被烫到的反应](https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E8%A2%AB%E7%83%AB%E5%88%B0%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=37&Refer=top) 127624
-1. [中美元首旧金山会晤正式开始](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E6%97%A7%E9%87%91%E5%B1%B1%E4%BC%9A%E6%99%A4%E6%AD%A3%E5%BC%8F%E5%BC%80%E5%A7%8B%23&t=31&band_rank=2&Refer=top) 126550
 1. [如何从那男的变成帅哥](https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E4%BB%8E%E9%82%A3%E7%94%B7%E7%9A%84%E5%8F%98%E6%88%90%E5%B8%85%E5%93%A5%23&t=31&band_rank=38&Refer=top) 119234
 1. [谢危仿妆](https://s.weibo.com/weibo?q=%E8%B0%A2%E5%8D%B1%E4%BB%BF%E5%A6%86&t=31&band_rank=39&Refer=top) 119014
 1. [大熊猫渝爱毛毛虫式蛄蛹下树](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E6%B8%9D%E7%88%B1%E6%AF%9B%E6%AF%9B%E8%99%AB%E5%BC%8F%E8%9B%84%E8%9B%B9%E4%B8%8B%E6%A0%91%23&t=31&band_rank=40&Refer=top) 118948
@@ -71,7 +72,7 @@
 1. [drama不仅仅是歌名](https://s.weibo.com/weibo?q=drama%E4%B8%8D%E4%BB%85%E4%BB%85%E6%98%AF%E6%AD%8C%E5%90%8D&t=31&band_rank=43&Refer=top) 49764
 1. [SEVENTEEN捐赠以成员命名的山羊](https://s.weibo.com/weibo?q=%23SEVENTEEN%E6%8D%90%E8%B5%A0%E4%BB%A5%E6%88%90%E5%91%98%E5%91%BD%E5%90%8D%E7%9A%84%E5%B1%B1%E7%BE%8A%23&t=31&band_rank=46&Refer=top) 49730
 1. [明明是两人合作爸爸却获得所有崇拜](https://s.weibo.com/weibo?q=%23%E6%98%8E%E6%98%8E%E6%98%AF%E4%B8%A4%E4%BA%BA%E5%90%88%E4%BD%9C%E7%88%B8%E7%88%B8%E5%8D%B4%E8%8E%B7%E5%BE%97%E6%89%80%E6%9C%89%E5%B4%87%E6%8B%9C%23&t=31&band_rank=49&Refer=top) 49700
-1. [你通常几点入睡](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E9%80%9A%E5%B8%B8%E5%87%A0%E7%82%B9%E5%85%A5%E7%9D%A1%23&t=31&band_rank=48&Refer=top) 23320
+1. [你通常几点入睡](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E9%80%9A%E5%B8%B8%E5%87%A0%E7%82%B9%E5%85%A5%E7%9D%A1%23&t=31&band_rank=48&Refer=top) 25586
 <!-- END -->
 
 历史归档 [./archives](./archives)
