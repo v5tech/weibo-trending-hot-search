@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-11-19 04:49:16.146295 
+最后更新时间 2023-11-19 05:08:38.748614 
 1. [原来普通话是河北方言](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%99%AE%E9%80%9A%E8%AF%9D%E6%98%AF%E6%B2%B3%E5%8C%97%E6%96%B9%E8%A8%80%23&t=31&band_rank=1&Refer=top) 523730
 1. [为什么得甲状腺癌的年轻人越来越多了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BE%97%E7%94%B2%E7%8A%B6%E8%85%BA%E7%99%8C%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E4%BA%86%23&t=31&band_rank=2&Refer=top) 522365
 1. [中国一直是亚太合作重要的贡献者](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%B8%80%E7%9B%B4%E6%98%AF%E4%BA%9A%E5%A4%AA%E5%90%88%E4%BD%9C%E9%87%8D%E8%A6%81%E7%9A%84%E8%B4%A1%E7%8C%AE%E8%80%85%23&t=31&band_rank=3&Refer=top) 519225
