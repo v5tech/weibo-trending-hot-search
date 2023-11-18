@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-11-19 00:48:47.328222 
+最后更新时间 2023-11-19 01:08:33.079666 
 1. [原来普通话是河北方言](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%99%AE%E9%80%9A%E8%AF%9D%E6%98%AF%E6%B2%B3%E5%8C%97%E6%96%B9%E8%A8%80%23&t=31&band_rank=1&Refer=top) 523730
 1. [为什么得甲状腺癌的年轻人越来越多了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BE%97%E7%94%B2%E7%8A%B6%E8%85%BA%E7%99%8C%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E4%BA%86%23&t=31&band_rank=2&Refer=top) 522365
 1. [中国一直是亚太合作重要的贡献者](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%B8%80%E7%9B%B4%E6%98%AF%E4%BA%9A%E5%A4%AA%E5%90%88%E4%BD%9C%E9%87%8D%E8%A6%81%E7%9A%84%E8%B4%A1%E7%8C%AE%E8%80%85%23&t=31&band_rank=3&Refer=top) 519225
@@ -62,6 +62,7 @@
 1. [经常涂润唇膏会有副作用吗](https://s.weibo.com/weibo?q=%23%E7%BB%8F%E5%B8%B8%E6%B6%82%E6%B6%A6%E5%94%87%E8%86%8F%E4%BC%9A%E6%9C%89%E5%89%AF%E4%BD%9C%E7%94%A8%E5%90%97%23&t=31&band_rank=49&Refer=top) 138164
 1. [威尼修斯股二头肌撕裂](https://s.weibo.com/weibo?q=%23%E5%A8%81%E5%B0%BC%E4%BF%AE%E6%96%AF%E8%82%A1%E4%BA%8C%E5%A4%B4%E8%82%8C%E6%92%95%E8%A3%82%23&t=31&band_rank=50&Refer=top) 137251
 1. [SpaceX与星舰助推器失去联系](https://s.weibo.com/weibo?q=%23SpaceX%E4%B8%8E%E6%98%9F%E8%88%B0%E5%8A%A9%E6%8E%A8%E5%99%A8%E5%A4%B1%E5%8E%BB%E8%81%94%E7%B3%BB%23&t=31&band_rank=50&Refer=top) 111555
+1. [黄子韬演唱会](https://s.weibo.com/weibo?q=%E9%BB%84%E5%AD%90%E9%9F%AC%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=44&Refer=top) 88162
 <!-- END -->
 
 历史归档 [./archives](./archives)
