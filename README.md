@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-11-20 05:34:29.676962 
+最后更新时间 2023-11-20 05:48:46.584264 
 1. [吴迪飞退圈](https://s.weibo.com/weibo?q=%E5%90%B4%E8%BF%AA%E9%A3%9E%E9%80%80%E5%9C%88&t=31&band_rank=1&Refer=top) 1643551
 1. [27岁研究生离世前一天发文感恩感谢](https://s.weibo.com/weibo?q=%2327%E5%B2%81%E7%A0%94%E7%A9%B6%E7%94%9F%E7%A6%BB%E4%B8%96%E5%89%8D%E4%B8%80%E5%A4%A9%E5%8F%91%E6%96%87%E6%84%9F%E6%81%A9%E6%84%9F%E8%B0%A2%23&t=31&band_rank=2&Refer=top) 1104974
 1. [诗词藏着中国山水间的绝美景致](https://s.weibo.com/weibo?q=%23%E8%AF%97%E8%AF%8D%E8%97%8F%E7%9D%80%E4%B8%AD%E5%9B%BD%E5%B1%B1%E6%B0%B4%E9%97%B4%E7%9A%84%E7%BB%9D%E7%BE%8E%E6%99%AF%E8%87%B4%23&t=31&band_rank=3&Refer=top) 971531
@@ -63,17 +63,17 @@
 1. [好像看见了被迫参加年会的我](https://s.weibo.com/weibo?q=%E5%A5%BD%E5%83%8F%E7%9C%8B%E8%A7%81%E4%BA%86%E8%A2%AB%E8%BF%AB%E5%8F%82%E5%8A%A0%E5%B9%B4%E4%BC%9A%E7%9A%84%E6%88%91&t=31&band_rank=43&Refer=top) 101506
 1. [宁安如梦直播](https://s.weibo.com/weibo?q=%E5%AE%81%E5%AE%89%E5%A6%82%E6%A2%A6%E7%9B%B4%E6%92%AD&t=31&band_rank=48&Refer=top) 99311
 1. [LPL至暗时刻](https://s.weibo.com/weibo?q=LPL%E8%87%B3%E6%9A%97%E6%97%B6%E5%88%BB&t=31&band_rank=46&Refer=top) 90253
+1. [内娱史上最炸裂的6分32秒谈话](https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E5%8F%B2%E4%B8%8A%E6%9C%80%E7%82%B8%E8%A3%82%E7%9A%846%E5%88%8632%E7%A7%92%E8%B0%88%E8%AF%9D%23&t=31&band_rank=31&Refer=top) 74933
 1. [罗英子不离婚的原因](https://s.weibo.com/weibo?q=%23%E7%BD%97%E8%8B%B1%E5%AD%90%E4%B8%8D%E7%A6%BB%E5%A9%9A%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=45&Refer=top) 73754
 1. [这版姜雪宁的嘴能吞下一头牛](https://s.weibo.com/weibo?q=%E8%BF%99%E7%89%88%E5%A7%9C%E9%9B%AA%E5%AE%81%E7%9A%84%E5%98%B4%E8%83%BD%E5%90%9E%E4%B8%8B%E4%B8%80%E5%A4%B4%E7%89%9B&t=31&band_rank=45&Refer=top) 73383
 1. [亚洲超星团](https://s.weibo.com/weibo?q=%E4%BA%9A%E6%B4%B2%E8%B6%85%E6%98%9F%E5%9B%A2&t=31&band_rank=38&Refer=top) 73306
 1. [张遮推了姜雪宁](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%81%AE%E6%8E%A8%E4%BA%86%E5%A7%9C%E9%9B%AA%E5%AE%81%23&t=31&band_rank=43&Refer=top) 73286
 1. [我本是高山](https://s.weibo.com/weibo?q=%E6%88%91%E6%9C%AC%E6%98%AF%E9%AB%98%E5%B1%B1&t=31&band_rank=48&Refer=top) 72494
-1. [内娱史上最炸裂的6分32秒谈话](https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E5%8F%B2%E4%B8%8A%E6%9C%80%E7%82%B8%E8%A3%82%E7%9A%846%E5%88%8632%E7%A7%92%E8%B0%88%E8%AF%9D%23&t=31&band_rank=31&Refer=top) 71032
 1. [朴宰范的精神状态](https://s.weibo.com/weibo?q=%23%E6%9C%B4%E5%AE%B0%E8%8C%83%E7%9A%84%E7%B2%BE%E7%A5%9E%E7%8A%B6%E6%80%81%23&t=31&band_rank=42&Refer=top) 61032
 1. [李嶷崔琳一天不亲亲就浑身难受](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B6%B7%E5%B4%94%E7%90%B3%E4%B8%80%E5%A4%A9%E4%B8%8D%E4%BA%B2%E4%BA%B2%E5%B0%B1%E6%B5%91%E8%BA%AB%E9%9A%BE%E5%8F%97%23&t=31&band_rank=21&Refer=top) 52392
-1. [网友为了省钱学给女朋友做美甲](https://s.weibo.com/weibo?q=%E7%BD%91%E5%8F%8B%E4%B8%BA%E4%BA%86%E7%9C%81%E9%92%B1%E5%AD%A6%E7%BB%99%E5%A5%B3%E6%9C%8B%E5%8F%8B%E5%81%9A%E7%BE%8E%E7%94%B2&t=31&band_rank=49&Refer=top) 24389
-1. [为什么长大后不愿意回家了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E9%95%BF%E5%A4%A7%E5%90%8E%E4%B8%8D%E6%84%BF%E6%84%8F%E5%9B%9E%E5%AE%B6%E4%BA%86%23&t=31&band_rank=47&Refer=top) 19152
-1. [蔚来总裁回应倒闭质疑](https://s.weibo.com/weibo?q=%23%E8%94%9A%E6%9D%A5%E6%80%BB%E8%A3%81%E5%9B%9E%E5%BA%94%E5%80%92%E9%97%AD%E8%B4%A8%E7%96%91%23&t=31&band_rank=48&Refer=top) 19006
+1. [网友为了省钱学给女朋友做美甲](https://s.weibo.com/weibo?q=%E7%BD%91%E5%8F%8B%E4%B8%BA%E4%BA%86%E7%9C%81%E9%92%B1%E5%AD%A6%E7%BB%99%E5%A5%B3%E6%9C%8B%E5%8F%8B%E5%81%9A%E7%BE%8E%E7%94%B2&t=31&band_rank=49&Refer=top) 26672
+1. [为什么长大后不愿意回家了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E9%95%BF%E5%A4%A7%E5%90%8E%E4%B8%8D%E6%84%BF%E6%84%8F%E5%9B%9E%E5%AE%B6%E4%BA%86%23&t=31&band_rank=47&Refer=top) 20661
+1. [蔚来总裁回应倒闭质疑](https://s.weibo.com/weibo?q=%23%E8%94%9A%E6%9D%A5%E6%80%BB%E8%A3%81%E5%9B%9E%E5%BA%94%E5%80%92%E9%97%AD%E8%B4%A8%E7%96%91%23&t=31&band_rank=48&Refer=top) 20613
 1. [电影我本是高山重返华坪女高](https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E6%88%91%E6%9C%AC%E6%98%AF%E9%AB%98%E5%B1%B1%E9%87%8D%E8%BF%94%E5%8D%8E%E5%9D%AA%E5%A5%B3%E9%AB%98%23&t=31&band_rank=39&Refer=top) 18203
 <!-- END -->
 
