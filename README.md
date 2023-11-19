@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-11-20 02:12:16.113838 
+最后更新时间 2023-11-20 02:26:45.220596 
 1. [吴迪飞退圈](https://s.weibo.com/weibo?q=%E5%90%B4%E8%BF%AA%E9%A3%9E%E9%80%80%E5%9C%88&t=31&band_rank=1&Refer=top) 1643551
 1. [27岁研究生离世前一天发文感恩感谢](https://s.weibo.com/weibo?q=%2327%E5%B2%81%E7%A0%94%E7%A9%B6%E7%94%9F%E7%A6%BB%E4%B8%96%E5%89%8D%E4%B8%80%E5%A4%A9%E5%8F%91%E6%96%87%E6%84%9F%E6%81%A9%E6%84%9F%E8%B0%A2%23&t=31&band_rank=2&Refer=top) 1104974
 1. [诗词藏着中国山水间的绝美景致](https://s.weibo.com/weibo?q=%23%E8%AF%97%E8%AF%8D%E8%97%8F%E7%9D%80%E4%B8%AD%E5%9B%BD%E5%B1%B1%E6%B0%B4%E9%97%B4%E7%9A%84%E7%BB%9D%E7%BE%8E%E6%99%AF%E8%87%B4%23&t=31&band_rank=3&Refer=top) 971531
@@ -65,7 +65,7 @@
 1. [张遮推了姜雪宁](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%81%AE%E6%8E%A8%E4%BA%86%E5%A7%9C%E9%9B%AA%E5%AE%81%23&t=31&band_rank=43&Refer=top) 67559
 1. [罗英子不离婚的原因](https://s.weibo.com/weibo?q=%23%E7%BD%97%E8%8B%B1%E5%AD%90%E4%B8%8D%E7%A6%BB%E5%A9%9A%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=45&Refer=top) 67513
 1. [亚洲超星团](https://s.weibo.com/weibo?q=%E4%BA%9A%E6%B4%B2%E8%B6%85%E6%98%9F%E5%9B%A2&t=31&band_rank=38&Refer=top) 51068
-1. [这版姜雪宁的嘴能吞下一头牛](https://s.weibo.com/weibo?q=%E8%BF%99%E7%89%88%E5%A7%9C%E9%9B%AA%E5%AE%81%E7%9A%84%E5%98%B4%E8%83%BD%E5%90%9E%E4%B8%8B%E4%B8%80%E5%A4%B4%E7%89%9B&t=31&band_rank=45&Refer=top) 48851
+1. [这版姜雪宁的嘴能吞下一头牛](https://s.weibo.com/weibo?q=%E8%BF%99%E7%89%88%E5%A7%9C%E9%9B%AA%E5%AE%81%E7%9A%84%E5%98%B4%E8%83%BD%E5%90%9E%E4%B8%8B%E4%B8%80%E5%A4%B4%E7%89%9B&t=31&band_rank=45&Refer=top) 49104
 <!-- END -->
 
 历史归档 [./archives](./archives)
