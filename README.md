@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-11-21 01:08:16.994493 
+最后更新时间 2023-11-21 01:22:06.390478 
 1. [头发别耳后如何显脸小](https://s.weibo.com/weibo?q=%E5%A4%B4%E5%8F%91%E5%88%AB%E8%80%B3%E5%90%8E%E5%A6%82%E4%BD%95%E6%98%BE%E8%84%B8%E5%B0%8F&t=31&band_rank=1&Refer=top) 880227
 1. [教育局回应中学因财政困难向学生收200元](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E4%B8%AD%E5%AD%A6%E5%9B%A0%E8%B4%A2%E6%94%BF%E5%9B%B0%E9%9A%BE%E5%90%91%E5%AD%A6%E7%94%9F%E6%94%B6200%E5%85%83%23&t=31&band_rank=2&Refer=top) 558473
 1. [黑龙江一女童疑注射阿奇霉素后死亡](https://s.weibo.com/weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%80%E5%A5%B3%E7%AB%A5%E7%96%91%E6%B3%A8%E5%B0%84%E9%98%BF%E5%A5%87%E9%9C%89%E7%B4%A0%E5%90%8E%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=50&Refer=top) 508849
@@ -29,7 +29,7 @@
 1. [快乐老友记天台直播](https://s.weibo.com/weibo?q=%23%E5%BF%AB%E4%B9%90%E8%80%81%E5%8F%8B%E8%AE%B0%E5%A4%A9%E5%8F%B0%E7%9B%B4%E6%92%AD%23&t=31&band_rank=26&Refer=top) 193940
 1. [黄子韬原价2368内场票降至262元](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%8E%9F%E4%BB%B72368%E5%86%85%E5%9C%BA%E7%A5%A8%E9%99%8D%E8%87%B3262%E5%85%83%23&t=31&band_rank=18&Refer=top) 191560
 1. [金莎男友 对我来说现在就在上班](https://s.weibo.com/weibo?q=%E9%87%91%E8%8E%8E%E7%94%B7%E5%8F%8B%20%E5%AF%B9%E6%88%91%E6%9D%A5%E8%AF%B4%E7%8E%B0%E5%9C%A8%E5%B0%B1%E5%9C%A8%E4%B8%8A%E7%8F%AD&t=31&band_rank=19&Refer=top) 190910
-1. [20省人口自然增长率为负](https://s.weibo.com/weibo?q=%2320%E7%9C%81%E4%BA%BA%E5%8F%A3%E8%87%AA%E7%84%B6%E5%A2%9E%E9%95%BF%E7%8E%87%E4%B8%BA%E8%B4%9F%23&t=31&band_rank=35&Refer=top) 185952
+1. [20省人口自然增长率为负](https://s.weibo.com/weibo?q=%2320%E7%9C%81%E4%BA%BA%E5%8F%A3%E8%87%AA%E7%84%B6%E5%A2%9E%E9%95%BF%E7%8E%87%E4%B8%BA%E8%B4%9F%23&t=31&band_rank=35&Refer=top) 186284
 1. [Faker拥有一栋大楼](https://s.weibo.com/weibo?q=%23Faker%E6%8B%A5%E6%9C%89%E4%B8%80%E6%A0%8B%E5%A4%A7%E6%A5%BC%23&t=31&band_rank=20&Refer=top) 177459
 1. [奶茶都快做成固体了](https://s.weibo.com/weibo?q=%23%E5%A5%B6%E8%8C%B6%E9%83%BD%E5%BF%AB%E5%81%9A%E6%88%90%E5%9B%BA%E4%BD%93%E4%BA%86%23&t=31&band_rank=21&Refer=top) 176816
 1. [张碧晨演唱会 情绪被拿捏](https://s.weibo.com/weibo?q=%E5%BC%A0%E7%A2%A7%E6%99%A8%E6%BC%94%E5%94%B1%E4%BC%9A%20%E6%83%85%E7%BB%AA%E8%A2%AB%E6%8B%BF%E6%8D%8F&t=31&band_rank=22&Refer=top) 170834
@@ -65,6 +65,7 @@
 1. [罗英子的委屈热依扎一巴掌还了](https://s.weibo.com/weibo?q=%23%E7%BD%97%E8%8B%B1%E5%AD%90%E7%9A%84%E5%A7%94%E5%B1%88%E7%83%AD%E4%BE%9D%E6%89%8E%E4%B8%80%E5%B7%B4%E6%8E%8C%E8%BF%98%E4%BA%86%23&t=31&band_rank=37&Refer=top) 58376
 1. [姜雪宁 爱之深痛之切](https://s.weibo.com/weibo?q=%E5%A7%9C%E9%9B%AA%E5%AE%81%20%E7%88%B1%E4%B9%8B%E6%B7%B1%E7%97%9B%E4%B9%8B%E5%88%87&t=31&band_rank=38&Refer=top) 56883
 1. [秦岚辛芷蕾 我俩真没法收场了](https://s.weibo.com/weibo?q=%E7%A7%A6%E5%B2%9A%E8%BE%9B%E8%8A%B7%E8%95%BE%20%E6%88%91%E4%BF%A9%E7%9C%9F%E6%B2%A1%E6%B3%95%E6%94%B6%E5%9C%BA%E4%BA%86&t=31&band_rank=44&Refer=top) 52985
+1. [摆脱腰腹赘肉的简单方法](https://s.weibo.com/weibo?q=%E6%91%86%E8%84%B1%E8%85%B0%E8%85%B9%E8%B5%98%E8%82%89%E7%9A%84%E7%AE%80%E5%8D%95%E6%96%B9%E6%B3%95&t=31&band_rank=39&Refer=top) 48785
 <!-- END -->
 
 历史归档 [./archives](./archives)
