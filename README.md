@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-11-21 04:34:47.375610 
+最后更新时间 2023-11-21 04:48:56.987301 
 1. [头发别耳后如何显脸小](https://s.weibo.com/weibo?q=%E5%A4%B4%E5%8F%91%E5%88%AB%E8%80%B3%E5%90%8E%E5%A6%82%E4%BD%95%E6%98%BE%E8%84%B8%E5%B0%8F&t=31&band_rank=1&Refer=top) 880227
 1. [教育局回应中学因财政困难向学生收200元](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E4%B8%AD%E5%AD%A6%E5%9B%A0%E8%B4%A2%E6%94%BF%E5%9B%B0%E9%9A%BE%E5%90%91%E5%AD%A6%E7%94%9F%E6%94%B6200%E5%85%83%23&t=31&band_rank=2&Refer=top) 558473
 1. [黑龙江一女童疑注射阿奇霉素后死亡](https://s.weibo.com/weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%80%E5%A5%B3%E7%AB%A5%E7%96%91%E6%B3%A8%E5%B0%84%E9%98%BF%E5%A5%87%E9%9C%89%E7%B4%A0%E5%90%8E%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=50&Refer=top) 508849
@@ -73,6 +73,7 @@
 1. [张靓颖 是谁接我下班呀](https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9D%93%E9%A2%96%20%E6%98%AF%E8%B0%81%E6%8E%A5%E6%88%91%E4%B8%8B%E7%8F%AD%E5%91%80&t=31&band_rank=47&Refer=top) 25696
 1. [年少不知奶狗好 错把渣男当成宝](https://s.weibo.com/weibo?q=%E5%B9%B4%E5%B0%91%E4%B8%8D%E7%9F%A5%E5%A5%B6%E7%8B%97%E5%A5%BD%20%E9%94%99%E6%8A%8A%E6%B8%A3%E7%94%B7%E5%BD%93%E6%88%90%E5%AE%9D&t=31&band_rank=49&Refer=top) 22089
 1. [冬日氛围大赏](https://s.weibo.com/weibo?q=%E5%86%AC%E6%97%A5%E6%B0%9B%E5%9B%B4%E5%A4%A7%E8%B5%8F&t=31&band_rank=50&Refer=top) 22084
+1. [武警战士休假回家妈妈笑着就哭了](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E8%AD%A6%E6%88%98%E5%A3%AB%E4%BC%91%E5%81%87%E5%9B%9E%E5%AE%B6%E5%A6%88%E5%A6%88%E7%AC%91%E7%9D%80%E5%B0%B1%E5%93%AD%E4%BA%86%23&t=31&band_rank=50&Refer=top) 17957
 <!-- END -->
 
 历史归档 [./archives](./archives)
