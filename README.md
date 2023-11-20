@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-11-21 03:19:10.813317 
+最后更新时间 2023-11-21 03:34:36.683456 
 1. [头发别耳后如何显脸小](https://s.weibo.com/weibo?q=%E5%A4%B4%E5%8F%91%E5%88%AB%E8%80%B3%E5%90%8E%E5%A6%82%E4%BD%95%E6%98%BE%E8%84%B8%E5%B0%8F&t=31&band_rank=1&Refer=top) 880227
 1. [教育局回应中学因财政困难向学生收200元](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E4%B8%AD%E5%AD%A6%E5%9B%A0%E8%B4%A2%E6%94%BF%E5%9B%B0%E9%9A%BE%E5%90%91%E5%AD%A6%E7%94%9F%E6%94%B6200%E5%85%83%23&t=31&band_rank=2&Refer=top) 558473
 1. [黑龙江一女童疑注射阿奇霉素后死亡](https://s.weibo.com/weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%80%E5%A5%B3%E7%AB%A5%E7%96%91%E6%B3%A8%E5%B0%84%E9%98%BF%E5%A5%87%E9%9C%89%E7%B4%A0%E5%90%8E%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=50&Refer=top) 508849
@@ -47,6 +47,7 @@
 1. [媒体评张桂梅原型电影引争议](https://s.weibo.com/weibo?q=%23%E5%AA%92%E4%BD%93%E8%AF%84%E5%BC%A0%E6%A1%82%E6%A2%85%E5%8E%9F%E5%9E%8B%E7%94%B5%E5%BD%B1%E5%BC%95%E4%BA%89%E8%AE%AE%23&t=31&band_rank=35&Refer=top) 114852
 1. [胡先煦大型尴尬现场](https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%85%88%E7%85%A6%E5%A4%A7%E5%9E%8B%E5%B0%B4%E5%B0%AC%E7%8E%B0%E5%9C%BA%23&t=31&band_rank=36&Refer=top) 111291
 1. [吴千语和施伯雄在一起的原因](https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%8D%83%E8%AF%AD%E5%92%8C%E6%96%BD%E4%BC%AF%E9%9B%84%E5%9C%A8%E4%B8%80%E8%B5%B7%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=37&Refer=top) 109942
+1. [顾客扫码点餐法院判商家赔5000](https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E6%89%AB%E7%A0%81%E7%82%B9%E9%A4%90%E6%B3%95%E9%99%A2%E5%88%A4%E5%95%86%E5%AE%B6%E8%B5%945000%23&t=31&band_rank=49&Refer=top) 108014
 1. [以爱为营大结局点映礼](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E7%88%B1%E4%B8%BA%E8%90%A5%E5%A4%A7%E7%BB%93%E5%B1%80%E7%82%B9%E6%98%A0%E7%A4%BC%23&t=31&band_rank=38&Refer=top) 103495
 1. [白敬亭晒新鞋](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E6%99%92%E6%96%B0%E9%9E%8B%23&t=31&band_rank=39&Refer=top) 103371
 1. [华为称未来将为三个各自独立的操作系统](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E7%A7%B0%E6%9C%AA%E6%9D%A5%E5%B0%86%E4%B8%BA%E4%B8%89%E4%B8%AA%E5%90%84%E8%87%AA%E7%8B%AC%E7%AB%8B%E7%9A%84%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%23&t=31&band_rank=40&Refer=top) 95320
@@ -60,7 +61,6 @@
 1. [入冬口红推荐](https://s.weibo.com/weibo?q=%E5%85%A5%E5%86%AC%E5%8F%A3%E7%BA%A2%E6%8E%A8%E8%8D%90&t=31&band_rank=48&Refer=top) 88717
 1. [4位高中同学连续四年资助去世同学家庭](https://s.weibo.com/weibo?q=%234%E4%BD%8D%E9%AB%98%E4%B8%AD%E5%90%8C%E5%AD%A6%E8%BF%9E%E7%BB%AD%E5%9B%9B%E5%B9%B4%E8%B5%84%E5%8A%A9%E5%8E%BB%E4%B8%96%E5%90%8C%E5%AD%A6%E5%AE%B6%E5%BA%AD%23&t=31&band_rank=49&Refer=top) 88296
 1. [王阳晒无所畏惧2剧本](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%98%B3%E6%99%92%E6%97%A0%E6%89%80%E7%95%8F%E6%83%A72%E5%89%A7%E6%9C%AC%23&t=31&band_rank=44&Refer=top) 87759
-1. [顾客扫码点餐法院判商家赔5000](https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E6%89%AB%E7%A0%81%E7%82%B9%E9%A4%90%E6%B3%95%E9%99%A2%E5%88%A4%E5%95%86%E5%AE%B6%E8%B5%945000%23&t=31&band_rank=49&Refer=top) 87716
 1. [姜雪宁受鞭刑](https://s.weibo.com/weibo?q=%23%E5%A7%9C%E9%9B%AA%E5%AE%81%E5%8F%97%E9%9E%AD%E5%88%91%23&t=31&band_rank=48&Refer=top) 60146
 1. [100个冬日限定美景](https://s.weibo.com/weibo?q=100%E4%B8%AA%E5%86%AC%E6%97%A5%E9%99%90%E5%AE%9A%E7%BE%8E%E6%99%AF&t=31&band_rank=50&Refer=top) 59597
 1. [罗英子的委屈热依扎一巴掌还了](https://s.weibo.com/weibo?q=%23%E7%BD%97%E8%8B%B1%E5%AD%90%E7%9A%84%E5%A7%94%E5%B1%88%E7%83%AD%E4%BE%9D%E6%89%8E%E4%B8%80%E5%B7%B4%E6%8E%8C%E8%BF%98%E4%BA%86%23&t=31&band_rank=37&Refer=top) 58376
