@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-11-21 03:08:56.547309 
+最后更新时间 2023-11-21 03:19:10.813317 
 1. [头发别耳后如何显脸小](https://s.weibo.com/weibo?q=%E5%A4%B4%E5%8F%91%E5%88%AB%E8%80%B3%E5%90%8E%E5%A6%82%E4%BD%95%E6%98%BE%E8%84%B8%E5%B0%8F&t=31&band_rank=1&Refer=top) 880227
 1. [教育局回应中学因财政困难向学生收200元](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E4%B8%AD%E5%AD%A6%E5%9B%A0%E8%B4%A2%E6%94%BF%E5%9B%B0%E9%9A%BE%E5%90%91%E5%AD%A6%E7%94%9F%E6%94%B6200%E5%85%83%23&t=31&band_rank=2&Refer=top) 558473
 1. [黑龙江一女童疑注射阿奇霉素后死亡](https://s.weibo.com/weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%80%E5%A5%B3%E7%AB%A5%E7%96%91%E6%B3%A8%E5%B0%84%E9%98%BF%E5%A5%87%E9%9C%89%E7%B4%A0%E5%90%8E%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=50&Refer=top) 508849
@@ -60,7 +60,7 @@
 1. [入冬口红推荐](https://s.weibo.com/weibo?q=%E5%85%A5%E5%86%AC%E5%8F%A3%E7%BA%A2%E6%8E%A8%E8%8D%90&t=31&band_rank=48&Refer=top) 88717
 1. [4位高中同学连续四年资助去世同学家庭](https://s.weibo.com/weibo?q=%234%E4%BD%8D%E9%AB%98%E4%B8%AD%E5%90%8C%E5%AD%A6%E8%BF%9E%E7%BB%AD%E5%9B%9B%E5%B9%B4%E8%B5%84%E5%8A%A9%E5%8E%BB%E4%B8%96%E5%90%8C%E5%AD%A6%E5%AE%B6%E5%BA%AD%23&t=31&band_rank=49&Refer=top) 88296
 1. [王阳晒无所畏惧2剧本](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%98%B3%E6%99%92%E6%97%A0%E6%89%80%E7%95%8F%E6%83%A72%E5%89%A7%E6%9C%AC%23&t=31&band_rank=44&Refer=top) 87759
-1. [顾客扫码点餐法院判商家赔5000](https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E6%89%AB%E7%A0%81%E7%82%B9%E9%A4%90%E6%B3%95%E9%99%A2%E5%88%A4%E5%95%86%E5%AE%B6%E8%B5%945000%23&t=31&band_rank=49&Refer=top) 72045
+1. [顾客扫码点餐法院判商家赔5000](https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E6%89%AB%E7%A0%81%E7%82%B9%E9%A4%90%E6%B3%95%E9%99%A2%E5%88%A4%E5%95%86%E5%AE%B6%E8%B5%945000%23&t=31&band_rank=49&Refer=top) 87716
 1. [姜雪宁受鞭刑](https://s.weibo.com/weibo?q=%23%E5%A7%9C%E9%9B%AA%E5%AE%81%E5%8F%97%E9%9E%AD%E5%88%91%23&t=31&band_rank=48&Refer=top) 60146
 1. [100个冬日限定美景](https://s.weibo.com/weibo?q=100%E4%B8%AA%E5%86%AC%E6%97%A5%E9%99%90%E5%AE%9A%E7%BE%8E%E6%99%AF&t=31&band_rank=50&Refer=top) 59597
 1. [罗英子的委屈热依扎一巴掌还了](https://s.weibo.com/weibo?q=%23%E7%BD%97%E8%8B%B1%E5%AD%90%E7%9A%84%E5%A7%94%E5%B1%88%E7%83%AD%E4%BE%9D%E6%89%8E%E4%B8%80%E5%B7%B4%E6%8E%8C%E8%BF%98%E4%BA%86%23&t=31&band_rank=37&Refer=top) 58376
@@ -71,6 +71,7 @@
 1. [无所畏惧大结局](https://s.weibo.com/weibo?q=%23%E6%97%A0%E6%89%80%E7%95%8F%E6%83%A7%E5%A4%A7%E7%BB%93%E5%B1%80%23&t=31&band_rank=42&Refer=top) 33896
 1. [海市幻城音乐节 抢票](https://s.weibo.com/weibo?q=%E6%B5%B7%E5%B8%82%E5%B9%BB%E5%9F%8E%E9%9F%B3%E4%B9%90%E8%8A%82%20%E6%8A%A2%E7%A5%A8&t=31&band_rank=44&Refer=top) 33883
 1. [张靓颖 是谁接我下班呀](https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9D%93%E9%A2%96%20%E6%98%AF%E8%B0%81%E6%8E%A5%E6%88%91%E4%B8%8B%E7%8F%AD%E5%91%80&t=31&band_rank=47&Refer=top) 25696
+1. [年少不知奶狗好 错把渣男当成宝](https://s.weibo.com/weibo?q=%E5%B9%B4%E5%B0%91%E4%B8%8D%E7%9F%A5%E5%A5%B6%E7%8B%97%E5%A5%BD%20%E9%94%99%E6%8A%8A%E6%B8%A3%E7%94%B7%E5%BD%93%E6%88%90%E5%AE%9D&t=31&band_rank=49&Refer=top) 20261
 <!-- END -->
 
 历史归档 [./archives](./archives)
