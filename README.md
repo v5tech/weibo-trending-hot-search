@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-11-22 04:09:42.276550 
+最后更新时间 2023-11-22 04:23:27.442875 
 1. [跑男元老只剩李晨和郑恺了](https://s.weibo.com/weibo?q=%23%E8%B7%91%E7%94%B7%E5%85%83%E8%80%81%E5%8F%AA%E5%89%A9%E6%9D%8E%E6%99%A8%E5%92%8C%E9%83%91%E6%81%BA%E4%BA%86%23&t=31&band_rank=1&Refer=top) 918264
 1. [冲绳](https://s.weibo.com/weibo?q=%E5%86%B2%E7%BB%B3&t=31&band_rank=2&Refer=top) 816615
 1. [巴宝莉赚不到我一分钱](https://s.weibo.com/weibo?q=%E5%B7%B4%E5%AE%9D%E8%8E%89%E8%B5%9A%E4%B8%8D%E5%88%B0%E6%88%91%E4%B8%80%E5%88%86%E9%92%B1&t=31&band_rank=4&Refer=top) 732616
@@ -67,9 +67,10 @@
 1. [金砖国家领导人巴以问题特别视频峰会](https://s.weibo.com/weibo?q=%23%E9%87%91%E7%A0%96%E5%9B%BD%E5%AE%B6%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B7%B4%E4%BB%A5%E9%97%AE%E9%A2%98%E7%89%B9%E5%88%AB%E8%A7%86%E9%A2%91%E5%B3%B0%E4%BC%9A%23&t=31&band_rank=50&Refer=top) 125801
 1. [上海偶遇黄景瑜](https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E5%81%B6%E9%81%87%E9%BB%84%E6%99%AF%E7%91%9C&t=31&band_rank=41&Refer=top) 49004
 1. [清融哭了](https://s.weibo.com/weibo?q=%23%E6%B8%85%E8%9E%8D%E5%93%AD%E4%BA%86%23&t=31&band_rank=50&Refer=top) 40840
-1. [儿子跳水救3人母亲骄傲藏不住](https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E8%B7%B3%E6%B0%B4%E6%95%913%E4%BA%BA%E6%AF%8D%E4%BA%B2%E9%AA%84%E5%82%B2%E8%97%8F%E4%B8%8D%E4%BD%8F%23&t=31&band_rank=50&Refer=top) 18917
+1. [儿子跳水救3人母亲骄傲藏不住](https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E8%B7%B3%E6%B0%B4%E6%95%913%E4%BA%BA%E6%AF%8D%E4%BA%B2%E9%AA%84%E5%82%B2%E8%97%8F%E4%B8%8D%E4%BD%8F%23&t=31&band_rank=50&Refer=top) 21631
 1. [邓超说看完怒海魂飞魄散](https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E8%AF%B4%E7%9C%8B%E5%AE%8C%E6%80%92%E6%B5%B7%E9%AD%82%E9%A3%9E%E9%AD%84%E6%95%A3%23&t=31&band_rank=31&Refer=top) 16648
 1. [天天敷面膜补水效果更好吗](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E5%A4%A9%E6%95%B7%E9%9D%A2%E8%86%9C%E8%A1%A5%E6%B0%B4%E6%95%88%E6%9E%9C%E6%9B%B4%E5%A5%BD%E5%90%97%23&t=31&band_rank=50&Refer=top) 12848
+1. [全盘发和半扎发](https://s.weibo.com/weibo?q=%E5%85%A8%E7%9B%98%E5%8F%91%E5%92%8C%E5%8D%8A%E6%89%8E%E5%8F%91&t=31&band_rank=47&Refer=top) 12838
 <!-- END -->
 
 历史归档 [./archives](./archives)
