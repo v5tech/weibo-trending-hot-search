@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-11-25 00:48:49.216854 
+最后更新时间 2023-11-25 01:09:17.328346 
 1. [郎朗证明孩子是在和钢琴友好交流](https://s.weibo.com/weibo?q=%E9%83%8E%E6%9C%97%E8%AF%81%E6%98%8E%E5%AD%A9%E5%AD%90%E6%98%AF%E5%9C%A8%E5%92%8C%E9%92%A2%E7%90%B4%E5%8F%8B%E5%A5%BD%E4%BA%A4%E6%B5%81&t=31&band_rank=1&Refer=top) 769837
 1. [淘宝取消双12](https://s.weibo.com/weibo?q=%23%E6%B7%98%E5%AE%9D%E5%8F%96%E6%B6%88%E5%8F%8C12%23&t=31&band_rank=2&Refer=top) 562648
 1. [第十批志愿军烈士安葬祭文](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E5%8D%81%E6%89%B9%E5%BF%97%E6%84%BF%E5%86%9B%E7%83%88%E5%A3%AB%E5%AE%89%E8%91%AC%E7%A5%AD%E6%96%87%23&t=31&band_rank=3&Refer=top) 539650
@@ -17,9 +17,9 @@
 1. [谢危亲了一晚上嘴皮子都破了吧](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%8D%B1%E4%BA%B2%E4%BA%86%E4%B8%80%E6%99%9A%E4%B8%8A%E5%98%B4%E7%9A%AE%E5%AD%90%E9%83%BD%E7%A0%B4%E4%BA%86%E5%90%A7%23&t=31&band_rank=7&Refer=top) 433167
 1. [杨迪 内娱真瓜主另有其人](https://s.weibo.com/weibo?q=%E6%9D%A8%E8%BF%AA%20%E5%86%85%E5%A8%B1%E7%9C%9F%E7%93%9C%E4%B8%BB%E5%8F%A6%E6%9C%89%E5%85%B6%E4%BA%BA&t=31&band_rank=8&Refer=top) 375627
 1. [小鹿拍戏亲过白宇十多次](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%B9%BF%E6%8B%8D%E6%88%8F%E4%BA%B2%E8%BF%87%E7%99%BD%E5%AE%87%E5%8D%81%E5%A4%9A%E6%AC%A1%23&t=31&band_rank=17&Refer=top) 324770
+1. [同宿舍3人全部当选院士](https://s.weibo.com/weibo?q=%23%E5%90%8C%E5%AE%BF%E8%88%8D3%E4%BA%BA%E5%85%A8%E9%83%A8%E5%BD%93%E9%80%89%E9%99%A2%E5%A3%AB%23&t=31&band_rank=23&Refer=top) 323034
 1. [4AM被淘汰](https://s.weibo.com/weibo?q=4AM%E8%A2%AB%E6%B7%98%E6%B1%B0&t=31&band_rank=12&Refer=top) 319328
 1. [正确的煮面方法](https://s.weibo.com/weibo?q=%E6%AD%A3%E7%A1%AE%E7%9A%84%E7%85%AE%E9%9D%A2%E6%96%B9%E6%B3%95&t=31&band_rank=9&Refer=top) 277606
-1. [同宿舍3人全部当选院士](https://s.weibo.com/weibo?q=%23%E5%90%8C%E5%AE%BF%E8%88%8D3%E4%BA%BA%E5%85%A8%E9%83%A8%E5%BD%93%E9%80%89%E9%99%A2%E5%A3%AB%23&t=31&band_rank=23&Refer=top) 268280
 1. [吴亦凡被驱逐出境后十年内不准入境](https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E8%A2%AB%E9%A9%B1%E9%80%90%E5%87%BA%E5%A2%83%E5%90%8E%E5%8D%81%E5%B9%B4%E5%86%85%E4%B8%8D%E5%87%86%E5%85%A5%E5%A2%83%23&t=31&band_rank=11&Refer=top) 262474
 1. [吴莫愁退圈三年直言听歌想吐](https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%8E%AB%E6%84%81%E9%80%80%E5%9C%88%E4%B8%89%E5%B9%B4%E7%9B%B4%E8%A8%80%E5%90%AC%E6%AD%8C%E6%83%B3%E5%90%90%23&t=31&band_rank=15&Refer=top) 262021
 1. [吴亦凡亲属旁听二审宣判](https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%A6%E5%87%A1%E4%BA%B2%E5%B1%9E%E6%97%81%E5%90%AC%E4%BA%8C%E5%AE%A1%E5%AE%A3%E5%88%A4%23&t=31&band_rank=14&Refer=top) 231612
@@ -59,11 +59,13 @@
 1. [快乐减肥操](https://s.weibo.com/weibo?q=%E5%BF%AB%E4%B9%90%E5%87%8F%E8%82%A5%E6%93%8D&t=31&band_rank=49&Refer=top) 122229
 1. [原来萝卜花是甩出来的](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%90%9D%E5%8D%9C%E8%8A%B1%E6%98%AF%E7%94%A9%E5%87%BA%E6%9D%A5%E7%9A%84%23&t=31&band_rank=50&Refer=top) 122217
 1. [时代少年团演唱会后台跳舞](https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%BC%94%E5%94%B1%E4%BC%9A%E5%90%8E%E5%8F%B0%E8%B7%B3%E8%88%9E%23&t=31&band_rank=31&Refer=top) 101852
+1. [10种听起来吓人但无需治疗的病](https://s.weibo.com/weibo?q=%2310%E7%A7%8D%E5%90%AC%E8%B5%B7%E6%9D%A5%E5%90%93%E4%BA%BA%E4%BD%86%E6%97%A0%E9%9C%80%E6%B2%BB%E7%96%97%E7%9A%84%E7%97%85%23&t=31&band_rank=50&Refer=top) 92645
 1. [新闻女王 神之预判](https://s.weibo.com/weibo?q=%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B%20%E7%A5%9E%E4%B9%8B%E9%A2%84%E5%88%A4&t=31&band_rank=42&Refer=top) 90817
+1. [动物MBTI](https://s.weibo.com/weibo?q=%E5%8A%A8%E7%89%A9MBTI&t=31&band_rank=40&Refer=top) 90324
+1. [SMTOWN日本家族演唱会](https://s.weibo.com/weibo?q=%23SMTOWN%E6%97%A5%E6%9C%AC%E5%AE%B6%E6%97%8F%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=26&Refer=top) 87503
 1. [第一次滑雪需要准备什么装备](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%BB%91%E9%9B%AA%E9%9C%80%E8%A6%81%E5%87%86%E5%A4%87%E4%BB%80%E4%B9%88%E8%A3%85%E5%A4%87%23&t=31&band_rank=50&Refer=top) 85770
-1. [动物MBTI](https://s.weibo.com/weibo?q=%E5%8A%A8%E7%89%A9MBTI&t=31&band_rank=40&Refer=top) 73959
 1. [小时代的风吹进了黑白密码](https://s.weibo.com/weibo?q=%E5%B0%8F%E6%97%B6%E4%BB%A3%E7%9A%84%E9%A3%8E%E5%90%B9%E8%BF%9B%E4%BA%86%E9%BB%91%E7%99%BD%E5%AF%86%E7%A0%81&t=31&band_rank=41&Refer=top) 73251
-1. [10种听起来吓人但无需治疗的病](https://s.weibo.com/weibo?q=%2310%E7%A7%8D%E5%90%AC%E8%B5%B7%E6%9D%A5%E5%90%93%E4%BA%BA%E4%BD%86%E6%97%A0%E9%9C%80%E6%B2%BB%E7%96%97%E7%9A%84%E7%97%85%23&t=31&band_rank=50&Refer=top) 66741
+1. [系蝴蝶结教程](https://s.weibo.com/weibo?q=%E7%B3%BB%E8%9D%B4%E8%9D%B6%E7%BB%93%E6%95%99%E7%A8%8B&t=31&band_rank=50&Refer=top) 60107
 <!-- END -->
 
 历史归档 [./archives](./archives)
