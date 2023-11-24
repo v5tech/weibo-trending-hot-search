@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-11-25 04:48:51.212078 
+最后更新时间 2023-11-25 05:08:51.559612 
 1. [郎朗证明孩子是在和钢琴友好交流](https://s.weibo.com/weibo?q=%E9%83%8E%E6%9C%97%E8%AF%81%E6%98%8E%E5%AD%A9%E5%AD%90%E6%98%AF%E5%9C%A8%E5%92%8C%E9%92%A2%E7%90%B4%E5%8F%8B%E5%A5%BD%E4%BA%A4%E6%B5%81&t=31&band_rank=1&Refer=top) 769837
 1. [淘宝取消双12](https://s.weibo.com/weibo?q=%23%E6%B7%98%E5%AE%9D%E5%8F%96%E6%B6%88%E5%8F%8C12%23&t=31&band_rank=2&Refer=top) 562648
 1. [第十批志愿军烈士安葬祭文](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E5%8D%81%E6%89%B9%E5%BF%97%E6%84%BF%E5%86%9B%E7%83%88%E5%A3%AB%E5%AE%89%E8%91%AC%E7%A5%AD%E6%96%87%23&t=31&band_rank=3&Refer=top) 539650
@@ -72,10 +72,11 @@
 1. [官方通报消防员被妻子举报出轨](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%B6%88%E9%98%B2%E5%91%98%E8%A2%AB%E5%A6%BB%E5%AD%90%E4%B8%BE%E6%8A%A5%E5%87%BA%E8%BD%A8%23&t=31&band_rank=48&Refer=top) 35466
 1. [新闻女王](https://s.weibo.com/weibo?q=%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B&t=31&band_rank=44&Refer=top) 34135
 1. [i人生活再遭曝光](https://s.weibo.com/weibo?q=i%E4%BA%BA%E7%94%9F%E6%B4%BB%E5%86%8D%E9%81%AD%E6%9B%9D%E5%85%89&t=31&band_rank=50&Refer=top) 33196
+1. [支原体肺炎愈后老咳嗽可以喝这个汤](https://s.weibo.com/weibo?q=%23%E6%94%AF%E5%8E%9F%E4%BD%93%E8%82%BA%E7%82%8E%E6%84%88%E5%90%8E%E8%80%81%E5%92%B3%E5%97%BD%E5%8F%AF%E4%BB%A5%E5%96%9D%E8%BF%99%E4%B8%AA%E6%B1%A4%23&t=31&band_rank=50&Refer=top) 32895
 1. [彪子常在河边走 啥时候是个头](https://s.weibo.com/weibo?q=%E5%BD%AA%E5%AD%90%E5%B8%B8%E5%9C%A8%E6%B2%B3%E8%BE%B9%E8%B5%B0%20%E5%95%A5%E6%97%B6%E5%80%99%E6%98%AF%E4%B8%AA%E5%A4%B4&t=31&band_rank=45&Refer=top) 30054
-1. [支原体肺炎愈后老咳嗽可以喝这个汤](https://s.weibo.com/weibo?q=%23%E6%94%AF%E5%8E%9F%E4%BD%93%E8%82%BA%E7%82%8E%E6%84%88%E5%90%8E%E8%80%81%E5%92%B3%E5%97%BD%E5%8F%AF%E4%BB%A5%E5%96%9D%E8%BF%99%E4%B8%AA%E6%B1%A4%23&t=31&band_rank=50&Refer=top) 22316
+1. [蓝白合](https://s.weibo.com/weibo?q=%E8%93%9D%E7%99%BD%E5%90%88&t=31&band_rank=47&Refer=top) 17690
 1. [势不可挡](https://s.weibo.com/weibo?q=%E5%8A%BF%E4%B8%8D%E5%8F%AF%E6%8C%A1&t=31&band_rank=46&Refer=top) 16492
-1. [蓝白合](https://s.weibo.com/weibo?q=%E8%93%9D%E7%99%BD%E5%90%88&t=31&band_rank=47&Refer=top) 13808
+1. [知识以一种卑鄙的方式进入我的脑子](https://s.weibo.com/weibo?q=%23%E7%9F%A5%E8%AF%86%E4%BB%A5%E4%B8%80%E7%A7%8D%E5%8D%91%E9%84%99%E7%9A%84%E6%96%B9%E5%BC%8F%E8%BF%9B%E5%85%A5%E6%88%91%E7%9A%84%E8%84%91%E5%AD%90%23&t=31&band_rank=33&Refer=top) 16227
 <!-- END -->
 
 历史归档 [./archives](./archives)
