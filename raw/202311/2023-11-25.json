@@ -243,6 +243,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E5%85%B3%E6%99%93%E5%BD%A4%E5%8E%BB%E7%8E%8B%E5%AE%89%E5%AE%87%E5%A4%96%E5%A9%86%E5%AE%B6%E5%90%83%E9%A5%AD%23&t=31&band_rank=44&Refer=top",
     "hot": 40803
   },
+  "官方通报消防员被妻子举报出轨": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%B6%88%E9%98%B2%E5%91%98%E8%A2%AB%E5%A6%BB%E5%AD%90%E4%B8%BE%E6%8A%A5%E5%87%BA%E8%BD%A8%23&t=31&band_rank=48&Refer=top",
+    "hot": 35466
+  },
   "新闻女王": {
     "url": "https://s.weibo.com/weibo?q=%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B&t=31&band_rank=44&Refer=top",
     "hot": 34135
@@ -258,9 +262,5 @@
   "势不可挡": {
     "url": "https://s.weibo.com/weibo?q=%E5%8A%BF%E4%B8%8D%E5%8F%AF%E6%8C%A1&t=31&band_rank=46&Refer=top",
     "hot": 16492
-  },
-  "官方通报消防员被妻子举报出轨": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%B6%88%E9%98%B2%E5%91%98%E8%A2%AB%E5%A6%BB%E5%AD%90%E4%B8%BE%E6%8A%A5%E5%87%BA%E8%BD%A8%23&t=31&band_rank=48&Refer=top",
-    "hot": 16485
   }
 }
