@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-11-26 03:07:44.339731 
+最后更新时间 2023-11-26 03:18:49.591439 
 1. [杨幂 于和伟亲马东了](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%20%E4%BA%8E%E5%92%8C%E4%BC%9F%E4%BA%B2%E9%A9%AC%E4%B8%9C%E4%BA%86&t=31&band_rank=1&Refer=top) 7813132
 1. [白鹿 尖叫女演员](https://s.weibo.com/weibo?q=%E7%99%BD%E9%B9%BF%20%E5%B0%96%E5%8F%AB%E5%A5%B3%E6%BC%94%E5%91%98&t=31&band_rank=2&Refer=top) 2086993
 1. [中国基建狂魔即将打通天山](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%9F%BA%E5%BB%BA%E7%8B%82%E9%AD%94%E5%8D%B3%E5%B0%86%E6%89%93%E9%80%9A%E5%A4%A9%E5%B1%B1%23&t=31&band_rank=3&Refer=top) 1829949
