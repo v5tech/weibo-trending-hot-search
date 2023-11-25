@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-11-26 01:48:48.003777 
+最后更新时间 2023-11-26 02:12:05.230516 
 1. [杨幂 于和伟亲马东了](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%20%E4%BA%8E%E5%92%8C%E4%BC%9F%E4%BA%B2%E9%A9%AC%E4%B8%9C%E4%BA%86&t=31&band_rank=1&Refer=top) 7813132
 1. [白鹿 尖叫女演员](https://s.weibo.com/weibo?q=%E7%99%BD%E9%B9%BF%20%E5%B0%96%E5%8F%AB%E5%A5%B3%E6%BC%94%E5%91%98&t=31&band_rank=2&Refer=top) 2086993
 1. [中国基建狂魔即将打通天山](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%9F%BA%E5%BB%BA%E7%8B%82%E9%AD%94%E5%8D%B3%E5%B0%86%E6%89%93%E9%80%9A%E5%A4%A9%E5%B1%B1%23&t=31&band_rank=3&Refer=top) 1829949
@@ -71,6 +71,8 @@
 1. [日常上班超级简单的发型](https://s.weibo.com/weibo?q=%E6%97%A5%E5%B8%B8%E4%B8%8A%E7%8F%AD%E8%B6%85%E7%BA%A7%E7%AE%80%E5%8D%95%E7%9A%84%E5%8F%91%E5%9E%8B&t=31&band_rank=50&Refer=top) 145226
 1. [没签过这么好笑的签售](https://s.weibo.com/weibo?q=%E6%B2%A1%E7%AD%BE%E8%BF%87%E8%BF%99%E4%B9%88%E5%A5%BD%E7%AC%91%E7%9A%84%E7%AD%BE%E5%94%AE&t=31&band_rank=43&Refer=top) 142194
 1. [李荣浩嘉宾真是陈奕迅](https://s.weibo.com/weibo?q=%E6%9D%8E%E8%8D%A3%E6%B5%A9%E5%98%89%E5%AE%BE%E7%9C%9F%E6%98%AF%E9%99%88%E5%A5%95%E8%BF%85&t=31&band_rank=46&Refer=top) 120519
+1. [美嘉仿妆](https://s.weibo.com/weibo?q=%E7%BE%8E%E5%98%89%E4%BB%BF%E5%A6%86&t=31&band_rank=44&Refer=top) 101847
+1. [北野武 金马奖](https://s.weibo.com/weibo?q=%E5%8C%97%E9%87%8E%E6%AD%A6%20%E9%87%91%E9%A9%AC%E5%A5%96&t=31&band_rank=47&Refer=top) 97851
 <!-- END -->
 
 历史归档 [./archives](./archives)
