@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-11-29 02:29:46.151211 
+最后更新时间 2023-11-29 02:39:45.338744 
 1. [质疑朱丹 理解朱丹](https://s.weibo.com/weibo?q=%E8%B4%A8%E7%96%91%E6%9C%B1%E4%B8%B9%20%E7%90%86%E8%A7%A3%E6%9C%B1%E4%B8%B9&t=31&band_rank=1&Refer=top) 1583995
 1. [刘宇宁 台词](https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%20%E5%8F%B0%E8%AF%8D&t=31&band_rank=2&Refer=top) 1111419
 1. [首届链博会让中外企业共享新机遇](https://s.weibo.com/weibo?q=%23%E9%A6%96%E5%B1%8A%E9%93%BE%E5%8D%9A%E4%BC%9A%E8%AE%A9%E4%B8%AD%E5%A4%96%E4%BC%81%E4%B8%9A%E5%85%B1%E4%BA%AB%E6%96%B0%E6%9C%BA%E9%81%87%23&t=31&band_rank=3&Refer=top) 841007
@@ -32,6 +32,7 @@
 1. [胃病发展成胃癌的五个征兆](https://s.weibo.com/weibo?q=%23%E8%83%83%E7%97%85%E5%8F%91%E5%B1%95%E6%88%90%E8%83%83%E7%99%8C%E7%9A%84%E4%BA%94%E4%B8%AA%E5%BE%81%E5%85%86%23&t=31&band_rank=19&Refer=top) 282217
 1. [失业父亲因20元生日蛋糕泪崩](https://s.weibo.com/weibo?q=%23%E5%A4%B1%E4%B8%9A%E7%88%B6%E4%BA%B2%E5%9B%A020%E5%85%83%E7%94%9F%E6%97%A5%E8%9B%8B%E7%B3%95%E6%B3%AA%E5%B4%A9%23&t=31&band_rank=20&Refer=top) 213251
 1. [何猷君的数学能力](https://s.weibo.com/weibo?q=%E4%BD%95%E7%8C%B7%E5%90%9B%E7%9A%84%E6%95%B0%E5%AD%A6%E8%83%BD%E5%8A%9B&t=31&band_rank=21&Refer=top) 197383
+1. [海底捞服务员跳擦玻璃舞被指低俗](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E6%9C%8D%E5%8A%A1%E5%91%98%E8%B7%B3%E6%93%A6%E7%8E%BB%E7%92%83%E8%88%9E%E8%A2%AB%E6%8C%87%E4%BD%8E%E4%BF%97%23&t=31&band_rank=22&Refer=top) 189942
 1. [海南警方 勿以恶小而为之](https://s.weibo.com/weibo?q=%E6%B5%B7%E5%8D%97%E8%AD%A6%E6%96%B9%20%E5%8B%BF%E4%BB%A5%E6%81%B6%E5%B0%8F%E8%80%8C%E4%B8%BA%E4%B9%8B&t=31&band_rank=23&Refer=top) 178317
 1. [皮肤饥渴症](https://s.weibo.com/weibo?q=%23%E7%9A%AE%E8%82%A4%E9%A5%A5%E6%B8%B4%E7%97%87%23&t=31&band_rank=24&Refer=top) 173437
 1. [网传太原理工一导师辱骂压榨学生](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E5%A4%AA%E5%8E%9F%E7%90%86%E5%B7%A5%E4%B8%80%E5%AF%BC%E5%B8%88%E8%BE%B1%E9%AA%82%E5%8E%8B%E6%A6%A8%E5%AD%A6%E7%94%9F%23&t=31&band_rank=25&Refer=top) 161575
@@ -41,7 +42,6 @@
 1. [浙江14岁短跑天才少女非体育生](https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F14%E5%B2%81%E7%9F%AD%E8%B7%91%E5%A4%A9%E6%89%8D%E5%B0%91%E5%A5%B3%E9%9D%9E%E4%BD%93%E8%82%B2%E7%94%9F%23&t=31&band_rank=29&Refer=top) 146196
 1. [我和papi酱的愿望是一样的](https://s.weibo.com/weibo?q=%E6%88%91%E5%92%8Cpapi%E9%85%B1%E7%9A%84%E6%84%BF%E6%9C%9B%E6%98%AF%E4%B8%80%E6%A0%B7%E7%9A%84&t=31&band_rank=31&Refer=top) 140055
 1. [痞幼方回应3个月广告收入约1620万](https://s.weibo.com/weibo?q=%23%E7%97%9E%E5%B9%BC%E6%96%B9%E5%9B%9E%E5%BA%943%E4%B8%AA%E6%9C%88%E5%B9%BF%E5%91%8A%E6%94%B6%E5%85%A5%E7%BA%A61620%E4%B8%87%23&t=31&band_rank=30&Refer=top) 137546
-1. [海底捞服务员跳擦玻璃舞被指低俗](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E6%9C%8D%E5%8A%A1%E5%91%98%E8%B7%B3%E6%93%A6%E7%8E%BB%E7%92%83%E8%88%9E%E8%A2%AB%E6%8C%87%E4%BD%8E%E4%BF%97%23&t=31&band_rank=22&Refer=top) 133754
 1. [孙丞潇不让金莎看手机](https://s.weibo.com/weibo?q=%E5%AD%99%E4%B8%9E%E6%BD%87%E4%B8%8D%E8%AE%A9%E9%87%91%E8%8E%8E%E7%9C%8B%E6%89%8B%E6%9C%BA&t=31&band_rank=32&Refer=top) 131398
 1. [seventeen你们不是明天吗](https://s.weibo.com/weibo?q=seventeen%E4%BD%A0%E4%BB%AC%E4%B8%8D%E6%98%AF%E6%98%8E%E5%A4%A9%E5%90%97&t=31&band_rank=34&Refer=top) 125074
 1. [化妆公式](https://s.weibo.com/weibo?q=%E5%8C%96%E5%A6%86%E5%85%AC%E5%BC%8F&t=31&band_rank=35&Refer=top) 124408
