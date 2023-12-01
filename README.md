@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-12-02 04:24:33.897992 
+最后更新时间 2023-12-02 04:34:46.538804 
 1. [北京极光](https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E6%9E%81%E5%85%89&t=31&band_rank=1&Refer=top) 2454403
 1. [中国气象局发布大地磁暴预警](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B0%94%E8%B1%A1%E5%B1%80%E5%8F%91%E5%B8%83%E5%A4%A7%E5%9C%B0%E7%A3%81%E6%9A%B4%E9%A2%84%E8%AD%A6%23&t=31&band_rank=5&Refer=top) 1002918
 1. [胖东来员工不想上班请假不允许不批假](https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E5%91%98%E5%B7%A5%E4%B8%8D%E6%83%B3%E4%B8%8A%E7%8F%AD%E8%AF%B7%E5%81%87%E4%B8%8D%E5%85%81%E8%AE%B8%E4%B8%8D%E6%89%B9%E5%81%87%23&t=31&band_rank=2&Refer=top) 966474
@@ -47,13 +47,13 @@
 1. [张力尹发型](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%8A%9B%E5%B0%B9%E5%8F%91%E5%9E%8B&t=31&band_rank=36&Refer=top) 121722
 1. [微信更新后的朋友圈排版](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E6%9B%B4%E6%96%B0%E5%90%8E%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%8E%92%E7%89%88%23&t=31&band_rank=37&Refer=top) 121080
 1. [桑酒乱入南海归墟](https://s.weibo.com/weibo?q=%23%E6%A1%91%E9%85%92%E4%B9%B1%E5%85%A5%E5%8D%97%E6%B5%B7%E5%BD%92%E5%A2%9F%23&t=31&band_rank=38&Refer=top) 121045
+1. [小伙熬夜打游戏关节长千颗白色颗粒](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E7%86%AC%E5%A4%9C%E6%89%93%E6%B8%B8%E6%88%8F%E5%85%B3%E8%8A%82%E9%95%BF%E5%8D%83%E9%A2%97%E7%99%BD%E8%89%B2%E9%A2%97%E7%B2%92%23&t=31&band_rank=50&Refer=top) 120501
 1. [五年后才看到口红上的刻字](https://s.weibo.com/weibo?q=%23%E4%BA%94%E5%B9%B4%E5%90%8E%E6%89%8D%E7%9C%8B%E5%88%B0%E5%8F%A3%E7%BA%A2%E4%B8%8A%E7%9A%84%E5%88%BB%E5%AD%97%23&t=31&band_rank=39&Refer=top) 119592
 1. [黄河要告别地上河了吗](https://s.weibo.com/weibo?q=%E9%BB%84%E6%B2%B3%E8%A6%81%E5%91%8A%E5%88%AB%E5%9C%B0%E4%B8%8A%E6%B2%B3%E4%BA%86%E5%90%97&t=31&band_rank=40&Refer=top) 113003
 1. [女团为了不养猪宁愿睡桥洞](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%9B%A2%E4%B8%BA%E4%BA%86%E4%B8%8D%E5%85%BB%E7%8C%AA%E5%AE%81%E6%84%BF%E7%9D%A1%E6%A1%A5%E6%B4%9E%23&t=31&band_rank=41&Refer=top) 112386
 1. [赵文卓 不努力的演员直接淘汰](https://s.weibo.com/weibo?q=%E8%B5%B5%E6%96%87%E5%8D%93%20%E4%B8%8D%E5%8A%AA%E5%8A%9B%E7%9A%84%E6%BC%94%E5%91%98%E7%9B%B4%E6%8E%A5%E6%B7%98%E6%B1%B0&t=31&band_rank=42&Refer=top) 110097
 1. [CBA](https://s.weibo.com/weibo?q=CBA&t=31&band_rank=43&Refer=top) 108539
 1. [梨泰院纪录片 中国街道](https://s.weibo.com/weibo?q=%E6%A2%A8%E6%B3%B0%E9%99%A2%E7%BA%AA%E5%BD%95%E7%89%87%20%E4%B8%AD%E5%9B%BD%E8%A1%97%E9%81%93&t=31&band_rank=44&Refer=top) 107847
-1. [小伙熬夜打游戏关节长千颗白色颗粒](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E7%86%AC%E5%A4%9C%E6%89%93%E6%B8%B8%E6%88%8F%E5%85%B3%E8%8A%82%E9%95%BF%E5%8D%83%E9%A2%97%E7%99%BD%E8%89%B2%E9%A2%97%E7%B2%92%23&t=31&band_rank=50&Refer=top) 105716
 1. [杨紫虞书欣看刘亦菲的眼神](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%9C%8B%E5%88%98%E4%BA%A6%E8%8F%B2%E7%9A%84%E7%9C%BC%E7%A5%9E%23&t=31&band_rank=45&Refer=top) 102324
 1. [刘诗诗边跳舞边走](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E8%BE%B9%E8%B7%B3%E8%88%9E%E8%BE%B9%E8%B5%B0%23&t=31&band_rank=46&Refer=top) 99705
 1. [田嘉瑞希望和沈腾黄渤合作](https://s.weibo.com/weibo?q=%E7%94%B0%E5%98%89%E7%91%9E%E5%B8%8C%E6%9C%9B%E5%92%8C%E6%B2%88%E8%85%BE%E9%BB%84%E6%B8%A4%E5%90%88%E4%BD%9C&t=31&band_rank=47&Refer=top) 92343
@@ -79,6 +79,8 @@
 1. [蛋仔派对](https://s.weibo.com/weibo?q=%23%E8%9B%8B%E4%BB%94%E6%B4%BE%E5%AF%B9%23&t=31&band_rank=47&Refer=top) 21156
 1. [苹果型身材有福了](https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E5%9E%8B%E8%BA%AB%E6%9D%90%E6%9C%89%E7%A6%8F%E4%BA%86&t=31&band_rank=43&Refer=top) 20654
 1. [流浪狗被投喂后跑5公里外等待恩人](https://s.weibo.com/weibo?q=%23%E6%B5%81%E6%B5%AA%E7%8B%97%E8%A2%AB%E6%8A%95%E5%96%82%E5%90%8E%E8%B7%915%E5%85%AC%E9%87%8C%E5%A4%96%E7%AD%89%E5%BE%85%E6%81%A9%E4%BA%BA%23&t=31&band_rank=50&Refer=top) 14774
+1. [全红婵陈芋汐 武汉](https://s.weibo.com/weibo?q=%E5%85%A8%E7%BA%A2%E5%A9%B5%E9%99%88%E8%8A%8B%E6%B1%90%20%E6%AD%A6%E6%B1%89&t=31&band_rank=46&Refer=top) 14599
+1. [世界艾滋病日](https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E8%89%BE%E6%BB%8B%E7%97%85%E6%97%A5&t=31&band_rank=47&Refer=top) 14595
 <!-- END -->
 
 历史归档 [./archives](./archives)
