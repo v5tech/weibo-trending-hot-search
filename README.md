@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-12-02 02:48:50.728412 
+最后更新时间 2023-12-02 03:08:28.715937 
 1. [北京极光](https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E6%9E%81%E5%85%89&t=31&band_rank=1&Refer=top) 2454403
 1. [中国气象局发布大地磁暴预警](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B0%94%E8%B1%A1%E5%B1%80%E5%8F%91%E5%B8%83%E5%A4%A7%E5%9C%B0%E7%A3%81%E6%9A%B4%E9%A2%84%E8%AD%A6%23&t=31&band_rank=5&Refer=top) 1002918
 1. [胖东来员工不想上班请假不允许不批假](https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E5%91%98%E5%B7%A5%E4%B8%8D%E6%83%B3%E4%B8%8A%E7%8F%AD%E8%AF%B7%E5%81%87%E4%B8%8D%E5%85%81%E8%AE%B8%E4%B8%8D%E6%89%B9%E5%81%87%23&t=31&band_rank=2&Refer=top) 966474
@@ -69,10 +69,12 @@
 1. [王鹤棣看秀待遇](https://s.weibo.com/weibo?q=%E7%8E%8B%E9%B9%A4%E6%A3%A3%E7%9C%8B%E7%A7%80%E5%BE%85%E9%81%87&t=31&band_rank=39&Refer=top) 49564
 1. [原神4.2版本](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E7%A5%9E4.2%E7%89%88%E6%9C%AC%23&t=31&band_rank=35&Refer=top) 36396
 1. [刘宇宁唱OST 替自己发声](https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%E5%94%B1OST%20%E6%9B%BF%E8%87%AA%E5%B7%B1%E5%8F%91%E5%A3%B0&t=31&band_rank=41&Refer=top) 35987
+1. [很想很想你男女主终于相认了](https://s.weibo.com/weibo?q=%23%E5%BE%88%E6%83%B3%E5%BE%88%E6%83%B3%E4%BD%A0%E7%94%B7%E5%A5%B3%E4%B8%BB%E7%BB%88%E4%BA%8E%E7%9B%B8%E8%AE%A4%E4%BA%86%23&t=31&band_rank=45&Refer=top) 30473
 1. [COP28](https://s.weibo.com/weibo?q=%23COP28%23&t=31&band_rank=47&Refer=top) 30407
-1. [很想很想你男女主终于相认了](https://s.weibo.com/weibo?q=%23%E5%BE%88%E6%83%B3%E5%BE%88%E6%83%B3%E4%BD%A0%E7%94%B7%E5%A5%B3%E4%B8%BB%E7%BB%88%E4%BA%8E%E7%9B%B8%E8%AE%A4%E4%BA%86%23&t=31&band_rank=45&Refer=top) 29314
-1. [王者荣耀海诺](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%B5%B7%E8%AF%BA%23&t=31&band_rank=44&Refer=top) 24634
+1. [王者荣耀海诺](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%B5%B7%E8%AF%BA%23&t=31&band_rank=44&Refer=top) 28452
 1. [银枝PV](https://s.weibo.com/weibo?q=%23%E9%93%B6%E6%9E%9DPV%23&t=31&band_rank=50&Refer=top) 22937
+1. [蛋仔派对](https://s.weibo.com/weibo?q=%23%E8%9B%8B%E4%BB%94%E6%B4%BE%E5%AF%B9%23&t=31&band_rank=47&Refer=top) 19453
+1. [南海归墟发现蛇身巨龙](https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%B5%B7%E5%BD%92%E5%A2%9F%E5%8F%91%E7%8E%B0%E8%9B%87%E8%BA%AB%E5%B7%A8%E9%BE%99%23&t=31&band_rank=50&Refer=top) 19074
 <!-- END -->
 
 历史归档 [./archives](./archives)
