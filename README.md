@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-12-03 01:25:15.774173 
+最后更新时间 2023-12-03 01:34:22.263045 
 1. [五月天假唱鉴定](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%E5%81%87%E5%94%B1%E9%89%B4%E5%AE%9A&t=31&band_rank=1&Refer=top) 2625511
 1. [难哄 白敬亭](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%93%84%20%E7%99%BD%E6%95%AC%E4%BA%AD&t=31&band_rank=2&Refer=top) 1744165
 1. [国家卫健委表示未发现新发传染病](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E5%8D%AB%E5%81%A5%E5%A7%94%E8%A1%A8%E7%A4%BA%E6%9C%AA%E5%8F%91%E7%8E%B0%E6%96%B0%E5%8F%91%E4%BC%A0%E6%9F%93%E7%97%85%23&t=31&band_rank=3&Refer=top) 1409084
@@ -38,6 +38,7 @@
 1. [任如意爆改人生导师](https://s.weibo.com/weibo?q=%E4%BB%BB%E5%A6%82%E6%84%8F%E7%88%86%E6%94%B9%E4%BA%BA%E7%94%9F%E5%AF%BC%E5%B8%88&t=31&band_rank=27&Refer=top) 161235
 1. [魏晨 流星雨又来临](https://s.weibo.com/weibo?q=%E9%AD%8F%E6%99%A8%20%E6%B5%81%E6%98%9F%E9%9B%A8%E5%8F%88%E6%9D%A5%E4%B8%B4&t=31&band_rank=28&Refer=top) 161158
 1. [保时捷婚车四个轮子被上几十把锁](https://s.weibo.com/weibo?q=%23%E4%BF%9D%E6%97%B6%E6%8D%B7%E5%A9%9A%E8%BD%A6%E5%9B%9B%E4%B8%AA%E8%BD%AE%E5%AD%90%E8%A2%AB%E4%B8%8A%E5%87%A0%E5%8D%81%E6%8A%8A%E9%94%81%23&t=31&band_rank=29&Refer=top) 160599
+1. [王心凌首唱对赌](https://s.weibo.com/weibo?q=%E7%8E%8B%E5%BF%83%E5%87%8C%E9%A6%96%E5%94%B1%E5%AF%B9%E8%B5%8C&t=31&band_rank=21&Refer=top) 149677
 1. [孟美岐星云珠绣鱼尾裙](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E7%BE%8E%E5%B2%90%E6%98%9F%E4%BA%91%E7%8F%A0%E7%BB%A3%E9%B1%BC%E5%B0%BE%E8%A3%99%23&t=31&band_rank=26&Refer=top) 140703
 1. [夫妻吃自助顺20瓶饮料被店员追到车库](https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E5%90%83%E8%87%AA%E5%8A%A9%E9%A1%BA20%E7%93%B6%E9%A5%AE%E6%96%99%E8%A2%AB%E5%BA%97%E5%91%98%E8%BF%BD%E5%88%B0%E8%BD%A6%E5%BA%93%23&t=31&band_rank=30&Refer=top) 133187
 1. [东北人都不用花钱买冰箱的吗](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E4%BA%BA%E9%83%BD%E4%B8%8D%E7%94%A8%E8%8A%B1%E9%92%B1%E4%B9%B0%E5%86%B0%E7%AE%B1%E7%9A%84%E5%90%97%23&t=31&band_rank=48&Refer=top) 132039
@@ -56,14 +57,15 @@
 1. [蒋勤勤00年后的造型](https://s.weibo.com/weibo?q=%E8%92%8B%E5%8B%A4%E5%8B%A400%E5%B9%B4%E5%90%8E%E7%9A%84%E9%80%A0%E5%9E%8B&t=31&band_rank=44&Refer=top) 113027
 1. [周一围朱丹新人设](https://s.weibo.com/weibo?q=%E5%91%A8%E4%B8%80%E5%9B%B4%E6%9C%B1%E4%B8%B9%E6%96%B0%E4%BA%BA%E8%AE%BE&t=31&band_rank=41&Refer=top) 110723
 1. [男子打球猝死工作人员抢下黄金四分钟](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%89%93%E7%90%83%E7%8C%9D%E6%AD%BB%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E6%8A%A2%E4%B8%8B%E9%BB%84%E9%87%91%E5%9B%9B%E5%88%86%E9%92%9F%23&t=31&band_rank=45&Refer=top) 104949
-1. [王心凌首唱对赌](https://s.weibo.com/weibo?q=%E7%8E%8B%E5%BF%83%E5%87%8C%E9%A6%96%E5%94%B1%E5%AF%B9%E8%B5%8C&t=31&band_rank=21&Refer=top) 103685
 1. [苏翊鸣夺冠后向粉丝比心](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%BF%8A%E9%B8%A3%E5%A4%BA%E5%86%A0%E5%90%8E%E5%90%91%E7%B2%89%E4%B8%9D%E6%AF%94%E5%BF%83%23&t=31&band_rank=46&Refer=top) 101881
 1. [周也 童装汉服](https://s.weibo.com/weibo?q=%E5%91%A8%E4%B9%9F%20%E7%AB%A5%E8%A3%85%E6%B1%89%E6%9C%8D&t=31&band_rank=47&Refer=top) 101880
 1. [真的会被AI扩图笑崩溃](https://s.weibo.com/weibo?q=%E7%9C%9F%E7%9A%84%E4%BC%9A%E8%A2%ABAI%E6%89%A9%E5%9B%BE%E7%AC%91%E5%B4%A9%E6%BA%83&t=31&band_rank=49&Refer=top) 101860
 1. [重庆一军嫂带2岁女儿接退伍丈夫回家](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E4%B8%80%E5%86%9B%E5%AB%82%E5%B8%A62%E5%B2%81%E5%A5%B3%E5%84%BF%E6%8E%A5%E9%80%80%E4%BC%8D%E4%B8%88%E5%A4%AB%E5%9B%9E%E5%AE%B6%23&t=31&band_rank=50&Refer=top) 101850
 1. [嗑到声音颤抖 嗑到原地起跳](https://s.weibo.com/weibo?q=%E5%97%91%E5%88%B0%E5%A3%B0%E9%9F%B3%E9%A2%A4%E6%8A%96%20%E5%97%91%E5%88%B0%E5%8E%9F%E5%9C%B0%E8%B5%B7%E8%B7%B3&t=31&band_rank=45&Refer=top) 100368
 1. [巨蟹座网络vs现实](https://s.weibo.com/weibo?q=%E5%B7%A8%E8%9F%B9%E5%BA%A7%E7%BD%91%E7%BB%9Cvs%E7%8E%B0%E5%AE%9E&t=31&band_rank=47&Refer=top) 99978
+1. [华晨宇新歌卡住了](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E6%96%B0%E6%AD%8C%E5%8D%A1%E4%BD%8F%E4%BA%86%23&t=31&band_rank=31&Refer=top) 80278
 1. [谭维维王心凌 带女朋友回家见父母](https://s.weibo.com/weibo?q=%E8%B0%AD%E7%BB%B4%E7%BB%B4%E7%8E%8B%E5%BF%83%E5%87%8C%20%E5%B8%A6%E5%A5%B3%E6%9C%8B%E5%8F%8B%E5%9B%9E%E5%AE%B6%E8%A7%81%E7%88%B6%E6%AF%8D&t=31&band_rank=42&Refer=top) 79319
+1. [亿万富豪被拐儿子将回归原生家庭](https://s.weibo.com/weibo?q=%23%E4%BA%BF%E4%B8%87%E5%AF%8C%E8%B1%AA%E8%A2%AB%E6%8B%90%E5%84%BF%E5%AD%90%E5%B0%86%E5%9B%9E%E5%BD%92%E5%8E%9F%E7%94%9F%E5%AE%B6%E5%BA%AD%23&t=31&band_rank=48&Refer=top) 66330
 <!-- END -->
 
 历史归档 [./archives](./archives)
