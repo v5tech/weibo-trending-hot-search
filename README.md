@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-12-03 02:35:16.539133 
+最后更新时间 2023-12-03 02:48:48.239936 
 1. [五月天假唱鉴定](https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%E5%81%87%E5%94%B1%E9%89%B4%E5%AE%9A&t=31&band_rank=1&Refer=top) 2625511
 1. [难哄 白敬亭](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%93%84%20%E7%99%BD%E6%95%AC%E4%BA%AD&t=31&band_rank=2&Refer=top) 1744165
 1. [国家卫健委表示未发现新发传染病](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E5%8D%AB%E5%81%A5%E5%A7%94%E8%A1%A8%E7%A4%BA%E6%9C%AA%E5%8F%91%E7%8E%B0%E6%96%B0%E5%8F%91%E4%BC%A0%E6%9F%93%E7%97%85%23&t=31&band_rank=3&Refer=top) 1409084
@@ -69,6 +69,8 @@
 1. [华晨宇 场外](https://s.weibo.com/weibo?q=%E5%8D%8E%E6%99%A8%E5%AE%87%20%E5%9C%BA%E5%A4%96&t=31&band_rank=21&Refer=top) 79404
 1. [谭维维王心凌 带女朋友回家见父母](https://s.weibo.com/weibo?q=%E8%B0%AD%E7%BB%B4%E7%BB%B4%E7%8E%8B%E5%BF%83%E5%87%8C%20%E5%B8%A6%E5%A5%B3%E6%9C%8B%E5%8F%8B%E5%9B%9E%E5%AE%B6%E8%A7%81%E7%88%B6%E6%AF%8D&t=31&band_rank=42&Refer=top) 79319
 1. [军大衣](https://s.weibo.com/weibo?q=%E5%86%9B%E5%A4%A7%E8%A1%A3&t=31&band_rank=50&Refer=top) 35888
+1. [张艺兴GAI 现场](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%89%BA%E5%85%B4GAI%20%E7%8E%B0%E5%9C%BA&t=31&band_rank=46&Refer=top) 29553
+1. [儿科门诊可增开午间夜间周末门诊](https://s.weibo.com/weibo?q=%23%E5%84%BF%E7%A7%91%E9%97%A8%E8%AF%8A%E5%8F%AF%E5%A2%9E%E5%BC%80%E5%8D%88%E9%97%B4%E5%A4%9C%E9%97%B4%E5%91%A8%E6%9C%AB%E9%97%A8%E8%AF%8A%23&t=31&band_rank=49&Refer=top) 28011
 <!-- END -->
 
 历史归档 [./archives](./archives)
