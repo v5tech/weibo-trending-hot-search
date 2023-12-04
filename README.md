@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-12-05 05:48:50.963421 
+最后更新时间 2023-12-05 06:10:19.897677 
 1. [刘若英 我爱五月天](https://s.weibo.com/weibo?q=%E5%88%98%E8%8B%A5%E8%8B%B1%20%E6%88%91%E7%88%B1%E4%BA%94%E6%9C%88%E5%A4%A9&t=31&band_rank=1&Refer=top) 1327791
 1. [快过年了 不要再买了](https://s.weibo.com/weibo?q=%E5%BF%AB%E8%BF%87%E5%B9%B4%E4%BA%86%20%E4%B8%8D%E8%A6%81%E5%86%8D%E4%B9%B0%E4%BA%86&t=31&band_rank=2&Refer=top) 832613
 1. [手机贴膜 智商税](https://s.weibo.com/weibo?q=%E6%89%8B%E6%9C%BA%E8%B4%B4%E8%86%9C%20%E6%99%BA%E5%95%86%E7%A8%8E&t=31&band_rank=5&Refer=top) 829182
@@ -71,10 +71,13 @@
 1. [中国记协的严谨程度](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E8%AE%B0%E5%8D%8F%E7%9A%84%E4%B8%A5%E8%B0%A8%E7%A8%8B%E5%BA%A6&t=31&band_rank=38&Refer=top) 37031
 1. [阶段性朋友](https://s.weibo.com/weibo?q=%23%E9%98%B6%E6%AE%B5%E6%80%A7%E6%9C%8B%E5%8F%8B%23&t=31&band_rank=48&Refer=top) 36359
 1. [重返庭审现场](https://s.weibo.com/weibo?q=%23%E9%87%8D%E8%BF%94%E5%BA%AD%E5%AE%A1%E7%8E%B0%E5%9C%BA%23&t=31&band_rank=50&Refer=top) 35551
+1. [老师收集家长工作视频课堂播放引热议](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E6%94%B6%E9%9B%86%E5%AE%B6%E9%95%BF%E5%B7%A5%E4%BD%9C%E8%A7%86%E9%A2%91%E8%AF%BE%E5%A0%82%E6%92%AD%E6%94%BE%E5%BC%95%E7%83%AD%E8%AE%AE%23&t=31&band_rank=50&Refer=top) 35340
 1. [鹫儿 任如意毒唯](https://s.weibo.com/weibo?q=%E9%B9%AB%E5%84%BF%20%E4%BB%BB%E5%A6%82%E6%84%8F%E6%AF%92%E5%94%AF&t=31&band_rank=45&Refer=top) 35277
-1. [老师收集家长工作视频课堂播放引热议](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E6%94%B6%E9%9B%86%E5%AE%B6%E9%95%BF%E5%B7%A5%E4%BD%9C%E8%A7%86%E9%A2%91%E8%AF%BE%E5%A0%82%E6%92%AD%E6%94%BE%E5%BC%95%E7%83%AD%E8%AE%AE%23&t=31&band_rank=50&Refer=top) 26646
 1. [菲律宾又地震了](https://s.weibo.com/weibo?q=%23%E8%8F%B2%E5%BE%8B%E5%AE%BE%E5%8F%88%E5%9C%B0%E9%9C%87%E4%BA%86%23&t=31&band_rank=47&Refer=top) 21072
-1. [促排穴位](https://s.weibo.com/weibo?q=%E4%BF%83%E6%8E%92%E7%A9%B4%E4%BD%8D&t=31&band_rank=49&Refer=top) 16187
+1. [促排穴位](https://s.weibo.com/weibo?q=%E4%BF%83%E6%8E%92%E7%A9%B4%E4%BD%8D&t=31&band_rank=49&Refer=top) 19474
+1. [吴世勋给的雪花是温暖的](https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%B8%96%E5%8B%8B%E7%BB%99%E7%9A%84%E9%9B%AA%E8%8A%B1%E6%98%AF%E6%B8%A9%E6%9A%96%E7%9A%84%23&t=31&band_rank=45&Refer=top) 19451
+1. [团队来40人团建](https://s.weibo.com/weibo?q=%E5%9B%A2%E9%98%9F%E6%9D%A540%E4%BA%BA%E5%9B%A2%E5%BB%BA&t=31&band_rank=46&Refer=top) 19449
+1. [腰痛拉伸方法](https://s.weibo.com/weibo?q=%E8%85%B0%E7%97%9B%E6%8B%89%E4%BC%B8%E6%96%B9%E6%B3%95&t=31&band_rank=50&Refer=top) 19441
 1. [公交司机多看一眼救下一命](https://s.weibo.com/weibo?q=%23%E5%85%AC%E4%BA%A4%E5%8F%B8%E6%9C%BA%E5%A4%9A%E7%9C%8B%E4%B8%80%E7%9C%BC%E6%95%91%E4%B8%8B%E4%B8%80%E5%91%BD%23&t=31&band_rank=49&Refer=top) 15454
 <!-- END -->
 
