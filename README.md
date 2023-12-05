@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-12-06 02:37:45.084264 
+最后更新时间 2023-12-06 02:49:10.778868 
 1. [阿信忘了话筒在哪只手](https://s.weibo.com/weibo?q=%E9%98%BF%E4%BF%A1%E5%BF%98%E4%BA%86%E8%AF%9D%E7%AD%92%E5%9C%A8%E5%93%AA%E5%8F%AA%E6%89%8B&t=31&band_rank=1&Refer=top) 3695205
 1. [湖南卫视 那英](https://s.weibo.com/weibo?q=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%20%E9%82%A3%E8%8B%B1&t=31&band_rank=2&Refer=top) 1436707
 1. [聚焦COP28](https://s.weibo.com/weibo?q=%23%E8%81%9A%E7%84%A6COP28%23&t=31&band_rank=3&Refer=top) 1328182
@@ -73,6 +73,7 @@
 1. [檀健次作品贴了一排](https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E4%BD%9C%E5%93%81%E8%B4%B4%E4%BA%86%E4%B8%80%E6%8E%92%23&t=31&band_rank=45&Refer=top) 36923
 1. [狗拉雪橇](https://s.weibo.com/weibo?q=%E7%8B%97%E6%8B%89%E9%9B%AA%E6%A9%87&t=31&band_rank=48&Refer=top) 36913
 1. [开麦和半开麦](https://s.weibo.com/weibo?q=%E5%BC%80%E9%BA%A6%E5%92%8C%E5%8D%8A%E5%BC%80%E9%BA%A6&t=31&band_rank=43&Refer=top) 35163
+1. [这个世界真的疯了](https://s.weibo.com/weibo?q=%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E7%9C%9F%E7%9A%84%E7%96%AF%E4%BA%86&t=31&band_rank=50&Refer=top) 32909
 <!-- END -->
 
 历史归档 [./archives](./archives)
