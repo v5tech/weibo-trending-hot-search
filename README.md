@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-12-06 01:26:43.785171 
+最后更新时间 2023-12-06 01:35:20.386494 
 1. [阿信忘了话筒在哪只手](https://s.weibo.com/weibo?q=%E9%98%BF%E4%BF%A1%E5%BF%98%E4%BA%86%E8%AF%9D%E7%AD%92%E5%9C%A8%E5%93%AA%E5%8F%AA%E6%89%8B&t=31&band_rank=1&Refer=top) 3695205
 1. [湖南卫视 那英](https://s.weibo.com/weibo?q=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%20%E9%82%A3%E8%8B%B1&t=31&band_rank=2&Refer=top) 1436707
 1. [聚焦COP28](https://s.weibo.com/weibo?q=%23%E8%81%9A%E7%84%A6COP28%23&t=31&band_rank=3&Refer=top) 1328182
