@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-12-07 00:34:04.450554 
+最后更新时间 2023-12-07 00:48:55.628068 
 1. [E6](https://s.weibo.com/weibo?q=E6&t=31&band_rank=1&Refer=top) 1241714
 1. [阿信回应](https://s.weibo.com/weibo?q=%E9%98%BF%E4%BF%A1%E5%9B%9E%E5%BA%94&t=31&band_rank=2&Refer=top) 1216260
 1. [呼吸道传染病个人健康手册](https://s.weibo.com/weibo?q=%23%E5%91%BC%E5%90%B8%E9%81%93%E4%BC%A0%E6%9F%93%E7%97%85%E4%B8%AA%E4%BA%BA%E5%81%A5%E5%BA%B7%E6%89%8B%E5%86%8C%23&t=31&band_rank=3&Refer=top) 1116222
@@ -33,6 +33,7 @@
 1. [EDG老板支持meiko的想法](https://s.weibo.com/weibo?q=%23EDG%E8%80%81%E6%9D%BF%E6%94%AF%E6%8C%81meiko%E7%9A%84%E6%83%B3%E6%B3%95%23&t=31&band_rank=23&Refer=top) 201414
 1. [圆肩驼背终于有救了](https://s.weibo.com/weibo?q=%E5%9C%86%E8%82%A9%E9%A9%BC%E8%83%8C%E7%BB%88%E4%BA%8E%E6%9C%89%E6%95%91%E4%BA%86&t=31&band_rank=24&Refer=top) 164642
 1. [76岁老人用竹子编二维码能扫出来](https://s.weibo.com/weibo?q=%2376%E5%B2%81%E8%80%81%E4%BA%BA%E7%94%A8%E7%AB%B9%E5%AD%90%E7%BC%96%E4%BA%8C%E7%BB%B4%E7%A0%81%E8%83%BD%E6%89%AB%E5%87%BA%E6%9D%A5%23&t=31&band_rank=49&Refer=top) 163163
+1. [鉴定五月天真假唱的关键](https://s.weibo.com/weibo?q=%23%E9%89%B4%E5%AE%9A%E4%BA%94%E6%9C%88%E5%A4%A9%E7%9C%9F%E5%81%87%E5%94%B1%E7%9A%84%E5%85%B3%E9%94%AE%23&t=31&band_rank=27&Refer=top) 135867
 1. [医生提醒奥司他韦千万别乱吃](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E6%8F%90%E9%86%92%E5%A5%A5%E5%8F%B8%E4%BB%96%E9%9F%A6%E5%8D%83%E4%B8%87%E5%88%AB%E4%B9%B1%E5%90%83%23&t=31&band_rank=25&Refer=top) 133638
 1. [张艺兴 初雪cha](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%89%BA%E5%85%B4%20%E5%88%9D%E9%9B%AAcha&t=31&band_rank=26&Refer=top) 131105
 1. [巴黎怎么那么冷啦](https://s.weibo.com/weibo?q=%E5%B7%B4%E9%BB%8E%E6%80%8E%E4%B9%88%E9%82%A3%E4%B9%88%E5%86%B7%E5%95%A6&t=31&band_rank=27&Refer=top) 124241
@@ -42,7 +43,6 @@
 1. [演员邵逸凡 多次被迫假唱](https://s.weibo.com/weibo?q=%E6%BC%94%E5%91%98%E9%82%B5%E9%80%B8%E5%87%A1%20%E5%A4%9A%E6%AC%A1%E8%A2%AB%E8%BF%AB%E5%81%87%E5%94%B1&t=31&band_rank=31&Refer=top) 112545
 1. [不会系蝴蝶结的有福了](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E4%BC%9A%E7%B3%BB%E8%9D%B4%E8%9D%B6%E7%BB%93%E7%9A%84%E6%9C%89%E7%A6%8F%E4%BA%86%23&t=31&band_rank=32&Refer=top) 112534
 1. [韩国男子性侵亲妹妹被判刑12年不服上诉](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%94%B7%E5%AD%90%E6%80%A7%E4%BE%B5%E4%BA%B2%E5%A6%B9%E5%A6%B9%E8%A2%AB%E5%88%A4%E5%88%9112%E5%B9%B4%E4%B8%8D%E6%9C%8D%E4%B8%8A%E8%AF%89%23&t=31&band_rank=39&Refer=top) 112037
-1. [鉴定五月天真假唱的关键](https://s.weibo.com/weibo?q=%23%E9%89%B4%E5%AE%9A%E4%BA%94%E6%9C%88%E5%A4%A9%E7%9C%9F%E5%81%87%E5%94%B1%E7%9A%84%E5%85%B3%E9%94%AE%23&t=31&band_rank=27&Refer=top) 111476
 1. [天官赐福](https://s.weibo.com/weibo?q=%E5%A4%A9%E5%AE%98%E8%B5%90%E7%A6%8F&t=31&band_rank=33&Refer=top) 108988
 1. [网友解析阿信话筒位置](https://s.weibo.com/weibo?q=%E7%BD%91%E5%8F%8B%E8%A7%A3%E6%9E%90%E9%98%BF%E4%BF%A1%E8%AF%9D%E7%AD%92%E4%BD%8D%E7%BD%AE&t=31&band_rank=34&Refer=top) 108743
 1. [生病的孩子不能吃的东西](https://s.weibo.com/weibo?q=%E7%94%9F%E7%97%85%E7%9A%84%E5%AD%A9%E5%AD%90%E4%B8%8D%E8%83%BD%E5%90%83%E7%9A%84%E4%B8%9C%E8%A5%BF&t=31&band_rank=35&Refer=top) 102129
