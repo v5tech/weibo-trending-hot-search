@@ -19,13 +19,13 @@
     "url": "https://s.weibo.com/weibo?q=%E9%9D%92%E5%B2%9B%E9%9C%87%E6%84%9F&t=31&band_rank=5&Refer=top",
     "hot": 915215
   },
+  "彩票2.2亿": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BD%A9%E7%A5%A82.2%E4%BA%BF%23&t=31&band_rank=7&Refer=top",
+    "hot": 822045
+  },
   "GQ红毯": {
     "url": "https://s.weibo.com/weibo?q=GQ%E7%BA%A2%E6%AF%AF&t=31&band_rank=6&Refer=top",
     "hot": 790615
-  },
-  "彩票2.2亿": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%BD%A9%E7%A5%A82.2%E4%BA%BF%23&t=31&band_rank=7&Refer=top",
-    "hot": 737733
   },
   "迪丽热巴特意带了国旗": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%89%B9%E6%84%8F%E5%B8%A6%E4%BA%86%E5%9B%BD%E6%97%97%23&t=31&band_rank=26&Refer=top",
@@ -50,6 +50,10 @@
   "连云港3.8级地震": {
     "url": "https://s.weibo.com/weibo?q=%E8%BF%9E%E4%BA%91%E6%B8%AF3.8%E7%BA%A7%E5%9C%B0%E9%9C%87&t=31&band_rank=11&Refer=top",
     "hot": 333673
+  },
+  "杨天真把易梦玲全挡住了": {
+    "url": "https://s.weibo.com/weibo?q=%E6%9D%A8%E5%A4%A9%E7%9C%9F%E6%8A%8A%E6%98%93%E6%A2%A6%E7%8E%B2%E5%85%A8%E6%8C%A1%E4%BD%8F%E4%BA%86&t=31&band_rank=37&Refer=top",
+    "hot": 321254
   },
   "南京中医药大学回应老师课堂讲解不雅课件": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E4%B8%AD%E5%8C%BB%E8%8D%AF%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E8%80%81%E5%B8%88%E8%AF%BE%E5%A0%82%E8%AE%B2%E8%A7%A3%E4%B8%8D%E9%9B%85%E8%AF%BE%E4%BB%B6%23&t=31&band_rank=13&Refer=top",
@@ -143,10 +147,6 @@
     "url": "https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%8C%87%E5%AF%BC%E8%8B%B1%E6%96%87%E5%9B%9E%E5%87%BB%E6%B3%95%E5%9B%BD%E7%90%83%E5%91%98%23&t=31&band_rank=36&Refer=top",
     "hot": 174145
   },
-  "杨天真把易梦玲全挡住了": {
-    "url": "https://s.weibo.com/weibo?q=%E6%9D%A8%E5%A4%A9%E7%9C%9F%E6%8A%8A%E6%98%93%E6%A2%A6%E7%8E%B2%E5%85%A8%E6%8C%A1%E4%BD%8F%E4%BA%86&t=31&band_rank=37&Refer=top",
-    "hot": 173989
-  },
   "女生长期吃避孕药治痘致癫痫脑出血": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E9%95%BF%E6%9C%9F%E5%90%83%E9%81%BF%E5%AD%95%E8%8D%AF%E6%B2%BB%E7%97%98%E8%87%B4%E7%99%AB%E7%97%AB%E8%84%91%E5%87%BA%E8%A1%80%23&t=31&band_rank=38&Refer=top",
     "hot": 173778
@@ -206,5 +206,17 @@
   "虞书欣亲杨天真": {
     "url": "https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%E4%BA%B2%E6%9D%A8%E5%A4%A9%E7%9C%9F&t=31&band_rank=50&Refer=top",
     "hot": 133957
+  },
+  "歌手提醒非专业人士请勿轻易挑战E6高音": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E6%8F%90%E9%86%92%E9%9D%9E%E4%B8%93%E4%B8%9A%E4%BA%BA%E5%A3%AB%E8%AF%B7%E5%8B%BF%E8%BD%BB%E6%98%93%E6%8C%91%E6%88%98E6%E9%AB%98%E9%9F%B3%23&t=31&band_rank=26&Refer=top",
+    "hot": 124439
+  },
+  "杨紫GQ红毯生图": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%ABGQ%E7%BA%A2%E6%AF%AF%E7%94%9F%E5%9B%BE%23&t=31&band_rank=49&Refer=top",
+    "hot": 112636
+  },
+  "教资面试话术": {
+    "url": "https://s.weibo.com/weibo?q=%E6%95%99%E8%B5%84%E9%9D%A2%E8%AF%95%E8%AF%9D%E6%9C%AF&t=31&band_rank=50&Refer=top",
+    "hot": 112633
   }
 }
