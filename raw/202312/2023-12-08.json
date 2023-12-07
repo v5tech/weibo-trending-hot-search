@@ -21,7 +21,7 @@
   },
   "彩票2.2亿": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%BD%A9%E7%A5%A82.2%E4%BA%BF%23&t=31&band_rank=7&Refer=top",
-    "hot": 822045
+    "hot": 849087
   },
   "GQ红毯": {
     "url": "https://s.weibo.com/weibo?q=GQ%E7%BA%A2%E6%AF%AF&t=31&band_rank=6&Refer=top",
@@ -218,5 +218,9 @@
   "教资面试话术": {
     "url": "https://s.weibo.com/weibo?q=%E6%95%99%E8%B5%84%E9%9D%A2%E8%AF%95%E8%AF%9D%E6%9C%AF&t=31&band_rank=50&Refer=top",
     "hot": 112633
+  },
+  "Apple结婚": {
+    "url": "https://s.weibo.com/weibo?q=%23Apple%E7%BB%93%E5%A9%9A%23&t=31&band_rank=36&Refer=top",
+    "hot": 95369
   }
 }

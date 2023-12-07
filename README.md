@@ -7,13 +7,13 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-12-08 00:48:58.355970 
+最后更新时间 2023-12-08 01:09:58.979711 
 1. [山东震感](https://s.weibo.com/weibo?q=%E5%B1%B1%E4%B8%9C%E9%9C%87%E6%84%9F&t=31&band_rank=1&Refer=top) 4954395
 1. [GQ的小船 尴尬](https://s.weibo.com/weibo?q=GQ%E7%9A%84%E5%B0%8F%E8%88%B9%20%E5%B0%B4%E5%B0%AC&t=31&band_rank=2&Refer=top) 1756007
 1. [4K视频感受冬日留白美学](https://s.weibo.com/weibo?q=%234K%E8%A7%86%E9%A2%91%E6%84%9F%E5%8F%97%E5%86%AC%E6%97%A5%E7%95%99%E7%99%BD%E7%BE%8E%E5%AD%A6%23&t=31&band_rank=3&Refer=top) 1583013
 1. [连云港地震](https://s.weibo.com/weibo?q=%E8%BF%9E%E4%BA%91%E6%B8%AF%E5%9C%B0%E9%9C%87&t=31&band_rank=4&Refer=top) 1576784
 1. [青岛震感](https://s.weibo.com/weibo?q=%E9%9D%92%E5%B2%9B%E9%9C%87%E6%84%9F&t=31&band_rank=5&Refer=top) 915215
-1. [彩票2.2亿](https://s.weibo.com/weibo?q=%23%E5%BD%A9%E7%A5%A82.2%E4%BA%BF%23&t=31&band_rank=7&Refer=top) 822045
+1. [彩票2.2亿](https://s.weibo.com/weibo?q=%23%E5%BD%A9%E7%A5%A82.2%E4%BA%BF%23&t=31&band_rank=7&Refer=top) 849087
 1. [GQ红毯](https://s.weibo.com/weibo?q=GQ%E7%BA%A2%E6%AF%AF&t=31&band_rank=6&Refer=top) 790615
 1. [迪丽热巴特意带了国旗](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%89%B9%E6%84%8F%E5%B8%A6%E4%BA%86%E5%9B%BD%E6%97%97%23&t=31&band_rank=26&Refer=top) 619207
 1. [睡眠真的超级重要](https://s.weibo.com/weibo?q=%E7%9D%A1%E7%9C%A0%E7%9C%9F%E7%9A%84%E8%B6%85%E7%BA%A7%E9%87%8D%E8%A6%81&t=31&band_rank=8&Refer=top) 499102
@@ -63,6 +63,7 @@
 1. [歌手提醒非专业人士请勿轻易挑战E6高音](https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E6%8F%90%E9%86%92%E9%9D%9E%E4%B8%93%E4%B8%9A%E4%BA%BA%E5%A3%AB%E8%AF%B7%E5%8B%BF%E8%BD%BB%E6%98%93%E6%8C%91%E6%88%98E6%E9%AB%98%E9%9F%B3%23&t=31&band_rank=26&Refer=top) 124439
 1. [杨紫GQ红毯生图](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%ABGQ%E7%BA%A2%E6%AF%AF%E7%94%9F%E5%9B%BE%23&t=31&band_rank=49&Refer=top) 112636
 1. [教资面试话术](https://s.weibo.com/weibo?q=%E6%95%99%E8%B5%84%E9%9D%A2%E8%AF%95%E8%AF%9D%E6%9C%AF&t=31&band_rank=50&Refer=top) 112633
+1. [Apple结婚](https://s.weibo.com/weibo?q=%23Apple%E7%BB%93%E5%A9%9A%23&t=31&band_rank=36&Refer=top) 95369
 <!-- END -->
 
 历史归档 [./archives](./archives)
