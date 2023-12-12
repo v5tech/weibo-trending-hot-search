@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-12-13 02:37:14.425586 
+最后更新时间 2023-12-13 02:48:59.423806 
 1. [骄阳似我 张凌赫魏大勋](https://s.weibo.com/weibo?q=%E9%AA%84%E9%98%B3%E4%BC%BC%E6%88%91%20%E5%BC%A0%E5%87%8C%E8%B5%AB%E9%AD%8F%E5%A4%A7%E5%8B%8B&t=31&band_rank=1&Refer=top) 1594459
 1. [结节 吃芋头](https://s.weibo.com/weibo?q=%E7%BB%93%E8%8A%82%20%E5%90%83%E8%8A%8B%E5%A4%B4&t=31&band_rank=2&Refer=top) 892042
 1. [强信心看数据](https://s.weibo.com/weibo?q=%23%E5%BC%BA%E4%BF%A1%E5%BF%83%E7%9C%8B%E6%95%B0%E6%8D%AE%23&t=31&band_rank=3&Refer=top) 550338
@@ -64,10 +64,10 @@
 1. [鼻炎手术 鼻头变尖](https://s.weibo.com/weibo?q=%E9%BC%BB%E7%82%8E%E6%89%8B%E6%9C%AF%20%E9%BC%BB%E5%A4%B4%E5%8F%98%E5%B0%96&t=31&band_rank=46&Refer=top) 91571
 1. [阿音走了纣王的老路](https://s.weibo.com/weibo?q=%E9%98%BF%E9%9F%B3%E8%B5%B0%E4%BA%86%E7%BA%A3%E7%8E%8B%E7%9A%84%E8%80%81%E8%B7%AF&t=31&band_rank=37&Refer=top) 72661
 1. [朱丹周一围 衣服互穿](https://s.weibo.com/weibo?q=%E6%9C%B1%E4%B8%B9%E5%91%A8%E4%B8%80%E5%9B%B4%20%E8%A1%A3%E6%9C%8D%E4%BA%92%E7%A9%BF&t=31&band_rank=49&Refer=top) 66912
+1. [超级计算机预测的英超冠军](https://s.weibo.com/weibo?q=%E8%B6%85%E7%BA%A7%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%A2%84%E6%B5%8B%E7%9A%84%E8%8B%B1%E8%B6%85%E5%86%A0%E5%86%9B&t=31&band_rank=50&Refer=top) 60854
 1. [一碗30元的网红面馆卖不动了](https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%A2%9730%E5%85%83%E7%9A%84%E7%BD%91%E7%BA%A2%E9%9D%A2%E9%A6%86%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86%23&t=31&band_rank=45&Refer=top) 53604
 1. [甄子丹 送你们爱用的表情包](https://s.weibo.com/weibo?q=%E7%94%84%E5%AD%90%E4%B8%B9%20%E9%80%81%E4%BD%A0%E4%BB%AC%E7%88%B1%E7%94%A8%E7%9A%84%E8%A1%A8%E6%83%85%E5%8C%85&t=31&band_rank=47&Refer=top) 53582
 1. [李遐怡成始璄 抒情曲的神](https://s.weibo.com/weibo?q=%E6%9D%8E%E9%81%90%E6%80%A1%E6%88%90%E5%A7%8B%E7%92%84%20%E6%8A%92%E6%83%85%E6%9B%B2%E7%9A%84%E7%A5%9E&t=31&band_rank=49&Refer=top) 46763
-1. [超级计算机预测的英超冠军](https://s.weibo.com/weibo?q=%E8%B6%85%E7%BA%A7%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%A2%84%E6%B5%8B%E7%9A%84%E8%8B%B1%E8%B6%85%E5%86%A0%E5%86%9B&t=31&band_rank=50&Refer=top) 46760
 1. [第一次有点生狗的气了](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%9C%89%E7%82%B9%E7%94%9F%E7%8B%97%E7%9A%84%E6%B0%94%E4%BA%86%23&t=31&band_rank=49&Refer=top) 39424
 1. [JN.1](https://s.weibo.com/weibo?q=JN.1&t=31&band_rank=50&Refer=top) 31737
 <!-- END -->
