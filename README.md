@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-12-13 05:48:53.622915 
+最后更新时间 2023-12-13 06:10:20.854272 
 1. [骄阳似我 张凌赫魏大勋](https://s.weibo.com/weibo?q=%E9%AA%84%E9%98%B3%E4%BC%BC%E6%88%91%20%E5%BC%A0%E5%87%8C%E8%B5%AB%E9%AD%8F%E5%A4%A7%E5%8B%8B&t=31&band_rank=1&Refer=top) 1594459
 1. [结节 吃芋头](https://s.weibo.com/weibo?q=%E7%BB%93%E8%8A%82%20%E5%90%83%E8%8A%8B%E5%A4%B4&t=31&band_rank=2&Refer=top) 892042
 1. [强信心看数据](https://s.weibo.com/weibo?q=%23%E5%BC%BA%E4%BF%A1%E5%BF%83%E7%9C%8B%E6%95%B0%E6%8D%AE%23&t=31&band_rank=3&Refer=top) 550338
@@ -65,16 +65,17 @@
 1. [阿音走了纣王的老路](https://s.weibo.com/weibo?q=%E9%98%BF%E9%9F%B3%E8%B5%B0%E4%BA%86%E7%BA%A3%E7%8E%8B%E7%9A%84%E8%80%81%E8%B7%AF&t=31&band_rank=37&Refer=top) 72661
 1. [朱丹周一围 衣服互穿](https://s.weibo.com/weibo?q=%E6%9C%B1%E4%B8%B9%E5%91%A8%E4%B8%80%E5%9B%B4%20%E8%A1%A3%E6%9C%8D%E4%BA%92%E7%A9%BF&t=31&band_rank=49&Refer=top) 66912
 1. [超级计算机预测的英超冠军](https://s.weibo.com/weibo?q=%E8%B6%85%E7%BA%A7%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%A2%84%E6%B5%8B%E7%9A%84%E8%8B%B1%E8%B6%85%E5%86%A0%E5%86%9B&t=31&band_rank=50&Refer=top) 60854
-1. [一碗30元的网红面馆卖不动了](https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%A2%9730%E5%85%83%E7%9A%84%E7%BD%91%E7%BA%A2%E9%9D%A2%E9%A6%86%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86%23&t=31&band_rank=45&Refer=top) 53604
+1. [一碗30元的网红面馆卖不动了](https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%A2%9730%E5%85%83%E7%9A%84%E7%BD%91%E7%BA%A2%E9%9D%A2%E9%A6%86%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86%23&t=31&band_rank=45&Refer=top) 57349
 1. [甄子丹 送你们爱用的表情包](https://s.weibo.com/weibo?q=%E7%94%84%E5%AD%90%E4%B8%B9%20%E9%80%81%E4%BD%A0%E4%BB%AC%E7%88%B1%E7%94%A8%E7%9A%84%E8%A1%A8%E6%83%85%E5%8C%85&t=31&band_rank=47&Refer=top) 53582
 1. [李遐怡成始璄 抒情曲的神](https://s.weibo.com/weibo?q=%E6%9D%8E%E9%81%90%E6%80%A1%E6%88%90%E5%A7%8B%E7%92%84%20%E6%8A%92%E6%83%85%E6%9B%B2%E7%9A%84%E7%A5%9E&t=31&band_rank=49&Refer=top) 46763
 1. [第一次有点生狗的气了](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%9C%89%E7%82%B9%E7%94%9F%E7%8B%97%E7%9A%84%E6%B0%94%E4%BA%86%23&t=31&band_rank=49&Refer=top) 39424
+1. [曼联vs拜仁](https://s.weibo.com/weibo?q=%23%E6%9B%BC%E8%81%94vs%E6%8B%9C%E4%BB%81%23&t=31&band_rank=41&Refer=top) 33521
 1. [JN.1](https://s.weibo.com/weibo?q=JN.1&t=31&band_rank=50&Refer=top) 33467
 1. [吉克隽逸 鲛人造型](https://s.weibo.com/weibo?q=%E5%90%89%E5%85%8B%E9%9A%BD%E9%80%B8%20%E9%B2%9B%E4%BA%BA%E9%80%A0%E5%9E%8B&t=31&band_rank=41&Refer=top) 26612
+1. [床头放柠檬 舒缓心情](https://s.weibo.com/weibo?q=%E5%BA%8A%E5%A4%B4%E6%94%BE%E6%9F%A0%E6%AA%AC%20%E8%88%92%E7%BC%93%E5%BF%83%E6%83%85&t=31&band_rank=49&Refer=top) 23499
 1. [代号鸢 广陵大学教师评教](https://s.weibo.com/weibo?q=%E4%BB%A3%E5%8F%B7%E9%B8%A2%20%E5%B9%BF%E9%99%B5%E5%A4%A7%E5%AD%A6%E6%95%99%E5%B8%88%E8%AF%84%E6%95%99&t=31&band_rank=50&Refer=top) 22906
-1. [曼联vs拜仁](https://s.weibo.com/weibo?q=%23%E6%9B%BC%E8%81%94vs%E6%8B%9C%E4%BB%81%23&t=31&band_rank=41&Refer=top) 22233
-1. [床头放柠檬 舒缓心情](https://s.weibo.com/weibo?q=%E5%BA%8A%E5%A4%B4%E6%94%BE%E6%9F%A0%E6%AA%AC%20%E8%88%92%E7%BC%93%E5%BF%83%E6%83%85&t=31&band_rank=49&Refer=top) 19850
 1. [爱爬山跟爱滑雪的人都沉默了](https://s.weibo.com/weibo?q=%23%E7%88%B1%E7%88%AC%E5%B1%B1%E8%B7%9F%E7%88%B1%E6%BB%91%E9%9B%AA%E7%9A%84%E4%BA%BA%E9%83%BD%E6%B2%89%E9%BB%98%E4%BA%86%23&t=31&band_rank=50&Refer=top) 19850
+1. [这确定是精神病院吗](https://s.weibo.com/weibo?q=%E8%BF%99%E7%A1%AE%E5%AE%9A%E6%98%AF%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2%E5%90%97&t=31&band_rank=49&Refer=top) 18993
 <!-- END -->
 
 历史归档 [./archives](./archives)
