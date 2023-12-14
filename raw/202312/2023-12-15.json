@@ -294,5 +294,9 @@
   "微博跨年狂欢节": {
     "url": "https://s.weibo.com/weibo?q=%E5%BE%AE%E5%8D%9A%E8%B7%A8%E5%B9%B4%E7%8B%82%E6%AC%A2%E8%8A%82&t=31&band_rank=46&Refer=top",
     "hot": 25082
+  },
+  "东京动画奖 国产动画入围": {
+    "url": "https://s.weibo.com/weibo?q=%E4%B8%9C%E4%BA%AC%E5%8A%A8%E7%94%BB%E5%A5%96%20%E5%9B%BD%E4%BA%A7%E5%8A%A8%E7%94%BB%E5%85%A5%E5%9B%B4&t=31&band_rank=47&Refer=top",
+    "hot": 23968
   }
 }
