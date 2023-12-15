@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-12-16 03:18:52.982060 
+最后更新时间 2023-12-16 03:34:10.344625 
 1. [汤姆猫惨叫声 人类的声音](https://s.weibo.com/weibo?q=%E6%B1%A4%E5%A7%86%E7%8C%AB%E6%83%A8%E5%8F%AB%E5%A3%B0%20%E4%BA%BA%E7%B1%BB%E7%9A%84%E5%A3%B0%E9%9F%B3&t=31&band_rank=5&Refer=top) 745176
 1. [杨迪 娱乐圈里清华北大的不多](https://s.weibo.com/weibo?q=%E6%9D%A8%E8%BF%AA%20%E5%A8%B1%E4%B9%90%E5%9C%88%E9%87%8C%E6%B8%85%E5%8D%8E%E5%8C%97%E5%A4%A7%E7%9A%84%E4%B8%8D%E5%A4%9A&t=31&band_rank=1&Refer=top) 724841
 1. [郝蕾发飙](https://s.weibo.com/weibo?q=%23%E9%83%9D%E8%95%BE%E5%8F%91%E9%A3%99%23&t=31&band_rank=2&Refer=top) 699191
@@ -70,6 +70,7 @@
 1. [谢娜扣杀许昕](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E6%89%A3%E6%9D%80%E8%AE%B8%E6%98%95%23&t=31&band_rank=41&Refer=top) 63544
 1. [杨幂走红毯 运动鞋加秋裤](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E8%B5%B0%E7%BA%A2%E6%AF%AF%20%E8%BF%90%E5%8A%A8%E9%9E%8B%E5%8A%A0%E7%A7%8B%E8%A3%A4&t=31&band_rank=49&Refer=top) 59090
 1. [瘦肚子也能不费腰了](https://s.weibo.com/weibo?q=%E7%98%A6%E8%82%9A%E5%AD%90%E4%B9%9F%E8%83%BD%E4%B8%8D%E8%B4%B9%E8%85%B0%E4%BA%86&t=31&band_rank=50&Refer=top) 33909
+1. [人体约70%免疫力来自肠道](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E4%BD%93%E7%BA%A670%25%E5%85%8D%E7%96%AB%E5%8A%9B%E6%9D%A5%E8%87%AA%E8%82%A0%E9%81%93%23&t=31&band_rank=49&Refer=top) 21272
 <!-- END -->
 
 历史归档 [./archives](./archives)
