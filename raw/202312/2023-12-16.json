@@ -39,6 +39,10 @@
     "url": "https://s.weibo.com/weibo?q=%E6%80%8E%E4%B9%88%E9%80%80%E5%9B%9B%E5%85%AD%E7%BA%A7%E8%80%83%E8%AF%95%E8%B4%B9&t=31&band_rank=9&Refer=top",
     "hot": 521644
   },
+  "工作是为了早点赎身 不是干成头牌": {
+    "url": "https://s.weibo.com/weibo?q=%E5%B7%A5%E4%BD%9C%E6%98%AF%E4%B8%BA%E4%BA%86%E6%97%A9%E7%82%B9%E8%B5%8E%E8%BA%AB%20%E4%B8%8D%E6%98%AF%E5%B9%B2%E6%88%90%E5%A4%B4%E7%89%8C&t=31&band_rank=31&Refer=top",
+    "hot": 511840
+  },
   "董宇辉账号粉丝数接近东方甄选一半": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%AE%87%E8%BE%89%E8%B4%A6%E5%8F%B7%E7%B2%89%E4%B8%9D%E6%95%B0%E6%8E%A5%E8%BF%91%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E4%B8%80%E5%8D%8A%23&t=31&band_rank=11&Refer=top",
     "hot": 497130
@@ -71,10 +75,6 @@
     "url": "https://s.weibo.com/weibo?q=%E8%91%A3%E5%AE%87%E8%BE%89%E5%AD%9F%E7%BE%BD%E7%AB%A5%20%E6%89%93%E5%B7%A5%E4%BA%BA%E5%9B%B0%E5%A2%83&t=31&band_rank=17&Refer=top",
     "hot": 377012
   },
-  "工作是为了早点赎身 不是干成头牌": {
-    "url": "https://s.weibo.com/weibo?q=%E5%B7%A5%E4%BD%9C%E6%98%AF%E4%B8%BA%E4%BA%86%E6%97%A9%E7%82%B9%E8%B5%8E%E8%BA%AB%20%E4%B8%8D%E6%98%AF%E5%B9%B2%E6%88%90%E5%A4%B4%E7%89%8C&t=31&band_rank=31&Refer=top",
-    "hot": 346493
-  },
   "40岁以上姐姐分享的人生建议": {
     "url": "https://s.weibo.com/weibo?q=40%E5%B2%81%E4%BB%A5%E4%B8%8A%E5%A7%90%E5%A7%90%E5%88%86%E4%BA%AB%E7%9A%84%E4%BA%BA%E7%94%9F%E5%BB%BA%E8%AE%AE&t=31&band_rank=27&Refer=top",
     "hot": 339061
@@ -102,6 +102,10 @@
   "董宇辉否认加盟京东": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%AE%87%E8%BE%89%E5%90%A6%E8%AE%A4%E5%8A%A0%E7%9B%9F%E4%BA%AC%E4%B8%9C%23&t=31&band_rank=23&Refer=top",
     "hot": 297698
+  },
+  "叶舒华确诊A型流感": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B6%E8%88%92%E5%8D%8E%E7%A1%AE%E8%AF%8AA%E5%9E%8B%E6%B5%81%E6%84%9F%23&t=31&band_rank=18&Refer=top",
+    "hot": 297357
   },
   "电视剧脱轨播放量": {
     "url": "https://s.weibo.com/weibo?q=%E7%94%B5%E8%A7%86%E5%89%A7%E8%84%B1%E8%BD%A8%E6%92%AD%E6%94%BE%E9%87%8F&t=31&band_rank=24&Refer=top",
@@ -214,5 +218,9 @@
   "原神 你看看人家": {
     "url": "https://s.weibo.com/weibo?q=%E5%8E%9F%E7%A5%9E%20%E4%BD%A0%E7%9C%8B%E7%9C%8B%E4%BA%BA%E5%AE%B6&t=31&band_rank=47&Refer=top",
     "hot": 105719
+  },
+  "张予曦妈妈的vlog 治愈": {
+    "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E4%BA%88%E6%9B%A6%E5%A6%88%E5%A6%88%E7%9A%84vlog%20%E6%B2%BB%E6%84%88&t=31&band_rank=43&Refer=top",
+    "hot": 102894
   }
 }
