@@ -89,7 +89,7 @@
   },
   "一箱脐橙被高速工作人员挖了个验货洞": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%AE%B1%E8%84%90%E6%A9%99%E8%A2%AB%E9%AB%98%E9%80%9F%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E6%8C%96%E4%BA%86%E4%B8%AA%E9%AA%8C%E8%B4%A7%E6%B4%9E%23&t=31&band_rank=31&Refer=top",
-    "hot": 812767
+    "hot": 837408
   },
   "东方甄选CEO孙东旭或将辞职": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89CEO%E5%AD%99%E4%B8%9C%E6%97%AD%E6%88%96%E5%B0%86%E8%BE%9E%E8%81%8C%23&t=31&band_rank=35&Refer=top",
@@ -335,6 +335,10 @@
     "url": "https://s.weibo.com/weibo?q=40%E5%B2%81%E4%BB%A5%E4%B8%8A%E5%A7%90%E5%A7%90%E5%88%86%E4%BA%AB%E7%9A%84%E4%BA%BA%E7%94%9F%E5%BB%BA%E8%AE%AE&t=31&band_rank=27&Refer=top",
     "hot": 339061
   },
+  "马嘉祺为了不耽误舞台打屁股针": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%98%89%E7%A5%BA%E4%B8%BA%E4%BA%86%E4%B8%8D%E8%80%BD%E8%AF%AF%E8%88%9E%E5%8F%B0%E6%89%93%E5%B1%81%E8%82%A1%E9%92%88%23&t=31&band_rank=49&Refer=top",
+    "hot": 338522
+  },
   "东方甄选25分钟掉粉10万": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%8925%E5%88%86%E9%92%9F%E6%8E%89%E7%B2%8910%E4%B8%87%23&t=31&band_rank=13&Refer=top",
     "hot": 335624
@@ -399,10 +403,6 @@
     "url": "https://s.weibo.com/weibo?q=%E5%9B%9B%E7%BA%A7%E5%90%AC%E5%8A%9B%20%E5%90%AC%E4%B8%8D%E6%87%82&t=31&band_rank=34&Refer=top",
     "hot": 304340
   },
-  "马嘉祺为了不耽误舞台打屁股针": {
-    "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%98%89%E7%A5%BA%E4%B8%BA%E4%BA%86%E4%B8%8D%E8%80%BD%E8%AF%AF%E8%88%9E%E5%8F%B0%E6%89%93%E5%B1%81%E8%82%A1%E9%92%88%23&t=31&band_rank=49&Refer=top",
-    "hot": 304162
-  },
   "桃花诺": {
     "url": "https://s.weibo.com/weibo?q=%E6%A1%83%E8%8A%B1%E8%AF%BA&t=31&band_rank=50&Refer=top",
     "hot": 303083
@@ -438,6 +438,10 @@
   "怼粉主播天权如何处理": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%80%BC%E7%B2%89%E4%B8%BB%E6%92%AD%E5%A4%A9%E6%9D%83%E5%A6%82%E4%BD%95%E5%A4%84%E7%90%86%23&t=31&band_rank=29&Refer=top",
     "hot": 281599
+  },
+  "东方甄选回应主播称网友买不起蛋黄酥": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E5%9B%9E%E5%BA%94%E4%B8%BB%E6%92%AD%E7%A7%B0%E7%BD%91%E5%8F%8B%E4%B9%B0%E4%B8%8D%E8%B5%B7%E8%9B%8B%E9%BB%84%E9%85%A5%23&t=31&band_rank=27&Refer=top",
+    "hot": 280514
   },
   "会计和猪最怕过年": {
     "url": "https://s.weibo.com/weibo?q=%E4%BC%9A%E8%AE%A1%E5%92%8C%E7%8C%AA%E6%9C%80%E6%80%95%E8%BF%87%E5%B9%B4&t=31&band_rank=40&Refer=top",
@@ -527,9 +531,17 @@
     "url": "https://s.weibo.com/weibo?q=%23%E8%A2%AB%E8%A5%BF%E6%B9%96%E8%BE%B9%E8%AF%AF%E5%85%A5%E9%95%9C%E5%A4%B4%E7%9A%84%E5%A5%B3%E5%AD%A9%E5%8F%AF%E7%88%B1%E5%88%B0%E4%BA%86%23&t=31&band_rank=46&Refer=top",
     "hot": 233066
   },
+  "为什么没有鸡绒羽绒服": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%A1%E6%9C%89%E9%B8%A1%E7%BB%92%E7%BE%BD%E7%BB%92%E6%9C%8D%23&t=31&band_rank=33&Refer=top",
+    "hot": 232245
+  },
   "张若昀科目三偷偷练了吧": {
     "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E8%8B%A5%E6%98%80%E7%A7%91%E7%9B%AE%E4%B8%89%E5%81%B7%E5%81%B7%E7%BB%83%E4%BA%86%E5%90%A7&t=31&band_rank=33&Refer=top",
     "hot": 232098
+  },
+  "鹿晗连说6个请不要": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E8%BF%9E%E8%AF%B46%E4%B8%AA%E8%AF%B7%E4%B8%8D%E8%A6%81%23&t=31&band_rank=35&Refer=top",
+    "hot": 230100
   },
   "闪耀暖暖": {
     "url": "https://s.weibo.com/weibo?q=%E9%97%AA%E8%80%80%E6%9A%96%E6%9A%96&t=31&band_rank=43&Refer=top",
@@ -623,6 +635,10 @@
     "url": "https://s.weibo.com/weibo?q=%23JYP%E5%A4%A7%E5%90%88%E7%85%A7%23&t=31&band_rank=47&Refer=top",
     "hot": 191251
   },
+  "东方甄选总部安保森严谢绝访客": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E6%80%BB%E9%83%A8%E5%AE%89%E4%BF%9D%E6%A3%AE%E4%B8%A5%E8%B0%A2%E7%BB%9D%E8%AE%BF%E5%AE%A2%23&t=31&band_rank=44&Refer=top",
+    "hot": 191005
+  },
   "时代少年团看粉丝采访reaction": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E7%9C%8B%E7%B2%89%E4%B8%9D%E9%87%87%E8%AE%BFreaction%23&t=31&band_rank=38&Refer=top",
     "hot": 190250
@@ -650,6 +666,10 @@
   "雪中太平鸟1口1个鸿运当头": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%9B%AA%E4%B8%AD%E5%A4%AA%E5%B9%B3%E9%B8%9F1%E5%8F%A31%E4%B8%AA%E9%B8%BF%E8%BF%90%E5%BD%93%E5%A4%B4%23&t=31&band_rank=37&Refer=top",
     "hot": 183256
+  },
+  "美依礼芽全开麦救场": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%BE%9D%E7%A4%BC%E8%8A%BD%E5%85%A8%E5%BC%80%E9%BA%A6%E6%95%91%E5%9C%BA%23&t=31&band_rank=46&Refer=top",
+    "hot": 179343
   },
   "爹头爹脑": {
     "url": "https://s.weibo.com/weibo?q=%E7%88%B9%E5%A4%B4%E7%88%B9%E8%84%91&t=31&band_rank=18&Refer=top",
@@ -682,6 +702,10 @@
   "汾酒集团原董事长李秋喜去世": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%B1%BE%E9%85%92%E9%9B%86%E5%9B%A2%E5%8E%9F%E8%91%A3%E4%BA%8B%E9%95%BF%E6%9D%8E%E7%A7%8B%E5%96%9C%E5%8E%BB%E4%B8%96%23&t=31&band_rank=35&Refer=top",
     "hot": 169352
+  },
+  "War Cry Challenge": {
+    "url": "https://s.weibo.com/weibo?q=War%20Cry%20Challenge&t=31&band_rank=47&Refer=top",
+    "hot": 168167
   },
   "早上起来口干口苦怎么回事": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%97%A9%E4%B8%8A%E8%B5%B7%E6%9D%A5%E5%8F%A3%E5%B9%B2%E5%8F%A3%E8%8B%A6%E6%80%8E%E4%B9%88%E5%9B%9E%E4%BA%8B%23&t=31&band_rank=40&Refer=top",
