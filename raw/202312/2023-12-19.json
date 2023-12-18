@@ -23,6 +23,10 @@
     "url": "https://s.weibo.com/weibo?q=%E7%A7%AF%E7%9F%B3%E5%B1%B1&t=31&band_rank=5&Refer=top",
     "hot": 2370197
   },
+  "甘肃余震": {
+    "url": "https://s.weibo.com/weibo?q=%E7%94%98%E8%82%83%E4%BD%99%E9%9C%87&t=31&band_rank=9&Refer=top",
+    "hot": 1721522
+  },
   "一念关山 癫剧": {
     "url": "https://s.weibo.com/weibo?q=%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%20%E7%99%AB%E5%89%A7&t=31&band_rank=4&Refer=top",
     "hot": 1376894
@@ -59,9 +63,9 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E8%B0%88%E5%8E%BB%E5%B9%B4%E7%BC%B4%E7%A8%8E2%E4%B8%AA%E4%BA%BF%23&t=31&band_rank=11&Refer=top",
     "hot": 570714
   },
-  "甘肃余震": {
-    "url": "https://s.weibo.com/weibo?q=%E7%94%98%E8%82%83%E4%BD%99%E9%9C%87&t=31&band_rank=9&Refer=top",
-    "hot": 565833
+  "闹钟没响 单位报警": {
+    "url": "https://s.weibo.com/weibo?q=%E9%97%B9%E9%92%9F%E6%B2%A1%E5%93%8D%20%E5%8D%95%E4%BD%8D%E6%8A%A5%E8%AD%A6&t=31&band_rank=34&Refer=top",
+    "hot": 509645
   },
   "瘦大腿相当于在瘦全身": {
     "url": "https://s.weibo.com/weibo?q=%E7%98%A6%E5%A4%A7%E8%85%BF%E7%9B%B8%E5%BD%93%E4%BA%8E%E5%9C%A8%E7%98%A6%E5%85%A8%E8%BA%AB&t=31&band_rank=12&Refer=top",
@@ -98,10 +102,6 @@
   "迪丽热巴她慌了": {
     "url": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%A5%B9%E6%85%8C%E4%BA%86&t=31&band_rank=19&Refer=top",
     "hot": 339784
-  },
-  "闹钟没响 单位报警": {
-    "url": "https://s.weibo.com/weibo?q=%E9%97%B9%E9%92%9F%E6%B2%A1%E5%93%8D%20%E5%8D%95%E4%BD%8D%E6%8A%A5%E8%AD%A6&t=31&band_rank=34&Refer=top",
-    "hot": 323399
   },
   "梅西 最疯狂的一年": {
     "url": "https://s.weibo.com/weibo?q=%E6%A2%85%E8%A5%BF%20%E6%9C%80%E7%96%AF%E7%8B%82%E7%9A%84%E4%B8%80%E5%B9%B4&t=31&band_rank=20&Refer=top",
@@ -226,6 +226,18 @@
   "田笑蜜未还朱丹1600万垫款成老赖": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%94%B0%E7%AC%91%E8%9C%9C%E6%9C%AA%E8%BF%98%E6%9C%B1%E4%B8%B91600%E4%B8%87%E5%9E%AB%E6%AC%BE%E6%88%90%E8%80%81%E8%B5%96%23&t=31&band_rank=50&Refer=top",
     "hot": 133274
+  },
+  "一念关山 BGM一响阎王爷登场": {
+    "url": "https://s.weibo.com/weibo?q=%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1%20BGM%E4%B8%80%E5%93%8D%E9%98%8E%E7%8E%8B%E7%88%B7%E7%99%BB%E5%9C%BA&t=31&band_rank=43&Refer=top",
+    "hot": 98706
+  },
+  "陈丽君失声": {
+    "url": "https://s.weibo.com/weibo?q=%E9%99%88%E4%B8%BD%E5%90%9B%E5%A4%B1%E5%A3%B0&t=31&band_rank=44&Refer=top",
+    "hot": 98694
+  },
+  "李兰迪圣诞照": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%85%B0%E8%BF%AA%E5%9C%A3%E8%AF%9E%E7%85%A7%23&t=31&band_rank=48&Refer=top",
+    "hot": 98645
   },
   "一念关山": {
     "url": "https://s.weibo.com/weibo?q=%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1&t=31&band_rank=50&Refer=top",
