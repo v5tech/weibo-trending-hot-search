@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-12-19 02:40:07.788495 
+最后更新时间 2023-12-19 02:48:49.411041 
 1. [甘肃地震](https://s.weibo.com/weibo?q=%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87&t=31&band_rank=1&Refer=top) 49285756
 1. [西安震感](https://s.weibo.com/weibo?q=%E8%A5%BF%E5%AE%89%E9%9C%87%E6%84%9F&t=31&band_rank=2&Refer=top) 6230214
 1. [我国首艘大洋钻探船正式命名并试航](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E9%A6%96%E8%89%98%E5%A4%A7%E6%B4%8B%E9%92%BB%E6%8E%A2%E8%88%B9%E6%AD%A3%E5%BC%8F%E5%91%BD%E5%90%8D%E5%B9%B6%E8%AF%95%E8%88%AA%23&t=31&band_rank=3&Refer=top) 3846278
@@ -28,8 +28,8 @@
 1. [甘肃积石山连续发生多次地震](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E7%A7%AF%E7%9F%B3%E5%B1%B1%E8%BF%9E%E7%BB%AD%E5%8F%91%E7%94%9F%E5%A4%9A%E6%AC%A1%E5%9C%B0%E9%9C%87%23&t=31&band_rank=33&Refer=top) 580221
 1. [小杨哥谈去年缴税2个亿](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E8%B0%88%E5%8E%BB%E5%B9%B4%E7%BC%B4%E7%A8%8E2%E4%B8%AA%E4%BA%BF%23&t=31&band_rank=11&Refer=top) 570714
 1. [闹钟没响 单位报警](https://s.weibo.com/weibo?q=%E9%97%B9%E9%92%9F%E6%B2%A1%E5%93%8D%20%E5%8D%95%E4%BD%8D%E6%8A%A5%E8%AD%A6&t=31&band_rank=34&Refer=top) 509645
+1. [甘肃地震监控画面](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E7%9B%91%E6%8E%A7%E7%94%BB%E9%9D%A2%23&t=31&band_rank=8&Refer=top) 508436
 1. [瘦大腿相当于在瘦全身](https://s.weibo.com/weibo?q=%E7%98%A6%E5%A4%A7%E8%85%BF%E7%9B%B8%E5%BD%93%E4%BA%8E%E5%9C%A8%E7%98%A6%E5%85%A8%E8%BA%AB&t=31&band_rank=12&Refer=top) 482810
-1. [甘肃地震监控画面](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E7%9B%91%E6%8E%A7%E7%94%BB%E9%9D%A2%23&t=31&band_rank=8&Refer=top) 478805
 1. [老师忙到辞职只能微信告诉领导](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E5%BF%99%E5%88%B0%E8%BE%9E%E8%81%8C%E5%8F%AA%E8%83%BD%E5%BE%AE%E4%BF%A1%E5%91%8A%E8%AF%89%E9%A2%86%E5%AF%BC%23&t=31&band_rank=13&Refer=top) 464960
 1. [任如意殉国](https://s.weibo.com/weibo?q=%23%E4%BB%BB%E5%A6%82%E6%84%8F%E6%AE%89%E5%9B%BD%23&t=31&band_rank=20&Refer=top) 431548
 1. [于十三没坟头](https://s.weibo.com/weibo?q=%E4%BA%8E%E5%8D%81%E4%B8%89%E6%B2%A1%E5%9D%9F%E5%A4%B4&t=31&band_rank=14&Refer=top) 407997
