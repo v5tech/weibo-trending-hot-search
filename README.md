@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-12-19 03:34:15.830472 
+最后更新时间 2023-12-19 03:48:58.712550 
 1. [甘肃地震](https://s.weibo.com/weibo?q=%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87&t=31&band_rank=1&Refer=top) 49285756
 1. [西安震感](https://s.weibo.com/weibo?q=%E8%A5%BF%E5%AE%89%E9%9C%87%E6%84%9F&t=31&band_rank=2&Refer=top) 6230214
 1. [我国首艘大洋钻探船正式命名并试航](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E9%A6%96%E8%89%98%E5%A4%A7%E6%B4%8B%E9%92%BB%E6%8E%A2%E8%88%B9%E6%AD%A3%E5%BC%8F%E5%91%BD%E5%90%8D%E5%B9%B6%E8%AF%95%E8%88%AA%23&t=31&band_rank=3&Refer=top) 3846278
@@ -78,7 +78,7 @@
 1. [李兰迪圣诞照](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%85%B0%E8%BF%AA%E5%9C%A3%E8%AF%9E%E7%85%A7%23&t=31&band_rank=48&Refer=top) 98645
 1. [山西震感](https://s.weibo.com/weibo?q=%E5%B1%B1%E8%A5%BF%E9%9C%87%E6%84%9F&t=31&band_rank=20&Refer=top) 88906
 1. [一念关山](https://s.weibo.com/weibo?q=%E4%B8%80%E5%BF%B5%E5%85%B3%E5%B1%B1&t=31&band_rank=50&Refer=top) 81288
-1. [钝感力](https://s.weibo.com/weibo?q=%E9%92%9D%E6%84%9F%E5%8A%9B&t=31&band_rank=17&Refer=top) 68971
+1. [钝感力](https://s.weibo.com/weibo?q=%E9%92%9D%E6%84%9F%E5%8A%9B&t=31&band_rank=17&Refer=top) 72007
 1. [任敏项链丢了](https://s.weibo.com/weibo?q=%23%E4%BB%BB%E6%95%8F%E9%A1%B9%E9%93%BE%E4%B8%A2%E4%BA%86%23&t=31&band_rank=45&Refer=top) 57559
 1. [2024年度期待电竞选手](https://s.weibo.com/weibo?q=%232024%E5%B9%B4%E5%BA%A6%E6%9C%9F%E5%BE%85%E7%94%B5%E7%AB%9E%E9%80%89%E6%89%8B%23&t=31&band_rank=42&Refer=top) 36657
 <!-- END -->
