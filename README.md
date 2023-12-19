@@ -7,10 +7,10 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-12-20 00:35:29.507025 
-1. [地震已致127人遇难](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B4127%E4%BA%BA%E9%81%87%E9%9A%BE%23&t=31&band_rank=1&Refer=top) 837541
+最后更新时间 2023-12-20 00:49:05.560712 
+1. [地震已致127人遇难](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B4127%E4%BA%BA%E9%81%87%E9%9A%BE%23&t=31&band_rank=1&Refer=top) 1025187
+1. [小柴胡汤](https://s.weibo.com/weibo?q=%E5%B0%8F%E6%9F%B4%E8%83%A1%E6%B1%A4&t=31&band_rank=7&Refer=top) 625998
 1. [青海省委书记抱着安慰痛哭的灾民](https://s.weibo.com/weibo?q=%23%E9%9D%92%E6%B5%B7%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%8A%B1%E7%9D%80%E5%AE%89%E6%85%B0%E7%97%9B%E5%93%AD%E7%9A%84%E7%81%BE%E6%B0%91%23&t=31&band_rank=2&Refer=top) 588804
-1. [小柴胡汤](https://s.weibo.com/weibo?q=%E5%B0%8F%E6%9F%B4%E8%83%A1%E6%B1%A4&t=31&band_rank=7&Refer=top) 522370
 1. [向地震灾区下达2.5亿元中央预算内投资](https://s.weibo.com/weibo?q=%23%E5%90%91%E5%9C%B0%E9%9C%87%E7%81%BE%E5%8C%BA%E4%B8%8B%E8%BE%BE2.5%E4%BA%BF%E5%85%83%E4%B8%AD%E5%A4%AE%E9%A2%84%E7%AE%97%E5%86%85%E6%8A%95%E8%B5%84%23&t=31&band_rank=3&Refer=top) 475159
 1. [泰国瑞幸向中国瑞幸索赔100亿泰铢](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E7%91%9E%E5%B9%B8%E5%90%91%E4%B8%AD%E5%9B%BD%E7%91%9E%E5%B9%B8%E7%B4%A2%E8%B5%94100%E4%BA%BF%E6%B3%B0%E9%93%A2%23&t=31&band_rank=4&Refer=top) 470861
 1. [小白买车](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%99%BD%E4%B9%B0%E8%BD%A6&t=31&band_rank=5&Refer=top) 466730
@@ -51,8 +51,8 @@
 1. [甘肃震区这些瞬间让网友红了眼眶](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E9%9C%87%E5%8C%BA%E8%BF%99%E4%BA%9B%E7%9E%AC%E9%97%B4%E8%AE%A9%E7%BD%91%E5%8F%8B%E7%BA%A2%E4%BA%86%E7%9C%BC%E7%9C%B6%23&t=31&band_rank=40&Refer=top) 168881
 1. [韩红团队已经启程前往灾区](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%BA%A2%E5%9B%A2%E9%98%9F%E5%B7%B2%E7%BB%8F%E5%90%AF%E7%A8%8B%E5%89%8D%E5%BE%80%E7%81%BE%E5%8C%BA%23&t=31&band_rank=41&Refer=top) 168838
 1. [朱丹 容貌焦虑](https://s.weibo.com/weibo?q=%E6%9C%B1%E4%B8%B9%20%E5%AE%B9%E8%B2%8C%E7%84%A6%E8%99%91&t=31&band_rank=42&Refer=top) 168147
+1. [甘肃及青海震区全部恢复供电](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E5%8F%8A%E9%9D%92%E6%B5%B7%E9%9C%87%E5%8C%BA%E5%85%A8%E9%83%A8%E6%81%A2%E5%A4%8D%E4%BE%9B%E7%94%B5%23&t=31&band_rank=44&Refer=top) 149008
 1. [表妹万福 李一桐谢彬彬](https://s.weibo.com/weibo?q=%E8%A1%A8%E5%A6%B9%E4%B8%87%E7%A6%8F%20%E6%9D%8E%E4%B8%80%E6%A1%90%E8%B0%A2%E5%BD%AC%E5%BD%AC&t=31&band_rank=43&Refer=top) 134643
-1. [甘肃及青海震区全部恢复供电](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E5%8F%8A%E9%9D%92%E6%B5%B7%E9%9C%87%E5%8C%BA%E5%85%A8%E9%83%A8%E6%81%A2%E5%A4%8D%E4%BE%9B%E7%94%B5%23&t=31&band_rank=44&Refer=top) 132076
 1. [B站跨晚 阵容](https://s.weibo.com/weibo?q=B%E7%AB%99%E8%B7%A8%E6%99%9A%20%E9%98%B5%E5%AE%B9&t=31&band_rank=45&Refer=top) 131241
 1. [鸿星尔克直播间回应捐款](https://s.weibo.com/weibo?q=%23%E9%B8%BF%E6%98%9F%E5%B0%94%E5%85%8B%E7%9B%B4%E6%92%AD%E9%97%B4%E5%9B%9E%E5%BA%94%E6%8D%90%E6%AC%BE%23&t=31&band_rank=46&Refer=top) 125882
 1. [金莎差点演肖战妈妈](https://s.weibo.com/weibo?q=%23%E9%87%91%E8%8E%8E%E5%B7%AE%E7%82%B9%E6%BC%94%E8%82%96%E6%88%98%E5%A6%88%E5%A6%88%23&t=31&band_rank=47&Refer=top) 125733
@@ -60,6 +60,7 @@
 1. [Man姐 猎杀时刻](https://s.weibo.com/weibo?q=Man%E5%A7%90%20%E7%8C%8E%E6%9D%80%E6%97%B6%E5%88%BB&t=31&band_rank=43&Refer=top) 119252
 1. [处女座要学会释放压力](https://s.weibo.com/weibo?q=%E5%A4%84%E5%A5%B3%E5%BA%A7%E8%A6%81%E5%AD%A6%E4%BC%9A%E9%87%8A%E6%94%BE%E5%8E%8B%E5%8A%9B&t=31&band_rank=49&Refer=top) 111332
 1. [哈尔滨冰雪大世界致歉](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E5%86%B0%E9%9B%AA%E5%A4%A7%E4%B8%96%E7%95%8C%E8%87%B4%E6%AD%89%23&t=31&band_rank=50&Refer=top) 108885
+1. [甘肃震区群众用上了解放军的野战帐篷](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E9%9C%87%E5%8C%BA%E7%BE%A4%E4%BC%97%E7%94%A8%E4%B8%8A%E4%BA%86%E8%A7%A3%E6%94%BE%E5%86%9B%E7%9A%84%E9%87%8E%E6%88%98%E5%B8%90%E7%AF%B7%23&t=31&band_rank=44&Refer=top) 93933
 <!-- END -->
 
 历史归档 [./archives](./archives)
