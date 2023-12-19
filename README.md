@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-12-20 03:48:51.057587 
+最后更新时间 2023-12-20 04:09:38.457856 
 1. [地震已致127人遇难](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B4127%E4%BA%BA%E9%81%87%E9%9A%BE%23&t=31&band_rank=1&Refer=top) 1025187
 1. [小柴胡汤](https://s.weibo.com/weibo?q=%E5%B0%8F%E6%9F%B4%E8%83%A1%E6%B1%A4&t=31&band_rank=7&Refer=top) 625998
 1. [青海省委书记抱着安慰痛哭的灾民](https://s.weibo.com/weibo?q=%23%E9%9D%92%E6%B5%B7%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%8A%B1%E7%9D%80%E5%AE%89%E6%85%B0%E7%97%9B%E5%93%AD%E7%9A%84%E7%81%BE%E6%B0%91%23&t=31&band_rank=2&Refer=top) 588804
