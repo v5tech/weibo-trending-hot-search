@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-12-20 02:48:53.324390 
+最后更新时间 2023-12-20 03:07:12.327795 
 1. [地震已致127人遇难](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B4127%E4%BA%BA%E9%81%87%E9%9A%BE%23&t=31&band_rank=1&Refer=top) 1025187
 1. [小柴胡汤](https://s.weibo.com/weibo?q=%E5%B0%8F%E6%9F%B4%E8%83%A1%E6%B1%A4&t=31&band_rank=7&Refer=top) 625998
 1. [青海省委书记抱着安慰痛哭的灾民](https://s.weibo.com/weibo?q=%23%E9%9D%92%E6%B5%B7%E7%9C%81%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%8A%B1%E7%9D%80%E5%AE%89%E6%85%B0%E7%97%9B%E5%93%AD%E7%9A%84%E7%81%BE%E6%B0%91%23&t=31&band_rank=2&Refer=top) 588804
@@ -65,7 +65,7 @@
 1. [哈尔滨冰雪大世界致歉](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E5%86%B0%E9%9B%AA%E5%A4%A7%E4%B8%96%E7%95%8C%E8%87%B4%E6%AD%89%23&t=31&band_rank=50&Refer=top) 108885
 1. [追星人的爱无解](https://s.weibo.com/weibo?q=%E8%BF%BD%E6%98%9F%E4%BA%BA%E7%9A%84%E7%88%B1%E6%97%A0%E8%A7%A3&t=31&band_rank=50&Refer=top) 69340
 1. [很久没回国的人回国后](https://s.weibo.com/weibo?q=%E5%BE%88%E4%B9%85%E6%B2%A1%E5%9B%9E%E5%9B%BD%E7%9A%84%E4%BA%BA%E5%9B%9E%E5%9B%BD%E5%90%8E&t=31&band_rank=50&Refer=top) 61771
-1. [冰雪大世界游客高喊退票](https://s.weibo.com/weibo?q=%23%E5%86%B0%E9%9B%AA%E5%A4%A7%E4%B8%96%E7%95%8C%E6%B8%B8%E5%AE%A2%E9%AB%98%E5%96%8A%E9%80%80%E7%A5%A8%23&t=31&band_rank=50&Refer=top) 52134
+1. [冰雪大世界游客高喊退票](https://s.weibo.com/weibo?q=%23%E5%86%B0%E9%9B%AA%E5%A4%A7%E4%B8%96%E7%95%8C%E6%B8%B8%E5%AE%A2%E9%AB%98%E5%96%8A%E9%80%80%E7%A5%A8%23&t=31&band_rank=50&Refer=top) 58853
 1. [度小满捐款2000万支援甘肃震区](https://s.weibo.com/weibo?q=%23%E5%BA%A6%E5%B0%8F%E6%BB%A1%E6%8D%90%E6%AC%BE2000%E4%B8%87%E6%94%AF%E6%8F%B4%E7%94%98%E8%82%83%E9%9C%87%E5%8C%BA%23&t=31&band_rank=50&Refer=top) 48574
 <!-- END -->
 
