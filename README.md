@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-12-20 13:08:27.695476 
+最后更新时间 2023-12-20 13:21:48.427246 
 1. [甘肃地震 最糟糕时间最薄弱地方](https://s.weibo.com/weibo?q=%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%20%E6%9C%80%E7%B3%9F%E7%B3%95%E6%97%B6%E9%97%B4%E6%9C%80%E8%96%84%E5%BC%B1%E5%9C%B0%E6%96%B9&t=31&band_rank=31&Refer=top) 2798486
 1. [甘肃震区煮不完的饺子和不灭的车灯](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E9%9C%87%E5%8C%BA%E7%85%AE%E4%B8%8D%E5%AE%8C%E7%9A%84%E9%A5%BA%E5%AD%90%E5%92%8C%E4%B8%8D%E7%81%AD%E7%9A%84%E8%BD%A6%E7%81%AF%23&t=31&band_rank=35&Refer=top) 2140675
 1. [哈尔滨退票事件](https://s.weibo.com/weibo?q=%E5%93%88%E5%B0%94%E6%BB%A8%E9%80%80%E7%A5%A8%E4%BA%8B%E4%BB%B6&t=31&band_rank=32&Refer=top) 1945754
@@ -40,7 +40,9 @@
 1. [谢娜说张杰不承认对她一见钟情](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E8%AF%B4%E5%BC%A0%E6%9D%B0%E4%B8%8D%E6%89%BF%E8%AE%A4%E5%AF%B9%E5%A5%B9%E4%B8%80%E8%A7%81%E9%92%9F%E6%83%85%23&t=31&band_rank=11&Refer=top) 530197
 1. [原神4.3版本更新 娜维娅](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E7%A5%9E4.3%E7%89%88%E6%9C%AC%E6%9B%B4%E6%96%B0%20%E5%A8%9C%E7%BB%B4%E5%A8%85%23&t=31&band_rank=15&Refer=top) 526435
 1. [东芝正式退市](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E8%8A%9D%E6%AD%A3%E5%BC%8F%E9%80%80%E5%B8%82%23&t=31&band_rank=16&Refer=top) 523066
+1. [14亿多同胞是你们的坚强后盾](https://s.weibo.com/weibo?q=%2314%E4%BA%BF%E5%A4%9A%E5%90%8C%E8%83%9E%E6%98%AF%E4%BD%A0%E4%BB%AC%E7%9A%84%E5%9D%9A%E5%BC%BA%E5%90%8E%E7%9B%BE%23&t=31&band_rank=3&Refer=top) 522806
 1. [何猷君第一次牵奚梦瑶手被拒](https://s.weibo.com/weibo?q=%E4%BD%95%E7%8C%B7%E5%90%9B%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%89%B5%E5%A5%9A%E6%A2%A6%E7%91%B6%E6%89%8B%E8%A2%AB%E6%8B%92&t=31&band_rank=34&Refer=top) 515217
+1. [恋爱脑 工作脑](https://s.weibo.com/weibo?q=%E6%81%8B%E7%88%B1%E8%84%91%20%E5%B7%A5%E4%BD%9C%E8%84%91&t=31&band_rank=41&Refer=top) 511556
 1. [穿完假领子后忘穿卫衣了](https://s.weibo.com/weibo?q=%E7%A9%BF%E5%AE%8C%E5%81%87%E9%A2%86%E5%AD%90%E5%90%8E%E5%BF%98%E7%A9%BF%E5%8D%AB%E8%A1%A3%E4%BA%86&t=31&band_rank=31&Refer=top) 476184
 1. [向地震灾区下达2.5亿元中央预算内投资](https://s.weibo.com/weibo?q=%23%E5%90%91%E5%9C%B0%E9%9C%87%E7%81%BE%E5%8C%BA%E4%B8%8B%E8%BE%BE2.5%E4%BA%BF%E5%85%83%E4%B8%AD%E5%A4%AE%E9%A2%84%E7%AE%97%E5%86%85%E6%8A%95%E8%B5%84%23&t=31&band_rank=3&Refer=top) 475159
 1. [小白买车](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%99%BD%E4%B9%B0%E8%BD%A6&t=31&band_rank=5&Refer=top) 466730
@@ -55,7 +57,6 @@
 1. [张兰直播间称酸辣粉卖出多少捐多少](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%85%B0%E7%9B%B4%E6%92%AD%E9%97%B4%E7%A7%B0%E9%85%B8%E8%BE%A3%E7%B2%89%E5%8D%96%E5%87%BA%E5%A4%9A%E5%B0%91%E6%8D%90%E5%A4%9A%E5%B0%91%23&t=31&band_rank=11&Refer=top) 399892
 1. [武艺半年出来一次 一次被笑半年](https://s.weibo.com/weibo?q=%E6%AD%A6%E8%89%BA%E5%8D%8A%E5%B9%B4%E5%87%BA%E6%9D%A5%E4%B8%80%E6%AC%A1%20%E4%B8%80%E6%AC%A1%E8%A2%AB%E7%AC%91%E5%8D%8A%E5%B9%B4&t=31&band_rank=14&Refer=top) 397740
 1. [李佳琦捐赠500万元](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E6%8D%90%E8%B5%A0500%E4%B8%87%E5%85%83%23&t=31&band_rank=12&Refer=top) 396795
-1. [恋爱脑 工作脑](https://s.weibo.com/weibo?q=%E6%81%8B%E7%88%B1%E8%84%91%20%E5%B7%A5%E4%BD%9C%E8%84%91&t=31&band_rank=41&Refer=top) 396635
 1. [澳门回归24周年](https://s.weibo.com/weibo?q=%23%E6%BE%B3%E9%97%A8%E5%9B%9E%E5%BD%9224%E5%91%A8%E5%B9%B4%23&t=31&band_rank=31&Refer=top) 394429
 1. [狐妖小红娘王权篇 月底开机](https://s.weibo.com/weibo?q=%E7%8B%90%E5%A6%96%E5%B0%8F%E7%BA%A2%E5%A8%98%E7%8E%8B%E6%9D%83%E7%AF%87%20%E6%9C%88%E5%BA%95%E5%BC%80%E6%9C%BA&t=31&band_rank=13&Refer=top) 393977
 1. [鸿星尔克又捐了2000万](https://s.weibo.com/weibo?q=%23%E9%B8%BF%E6%98%9F%E5%B0%94%E5%85%8B%E5%8F%88%E6%8D%90%E4%BA%862000%E4%B8%87%23&t=31&band_rank=8&Refer=top) 393461
@@ -94,6 +95,7 @@
 1. [微博之夜 集卡](https://s.weibo.com/weibo?q=%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%20%E9%9B%86%E5%8D%A1&t=31&band_rank=27&Refer=top) 287803
 1. [杨紫 哪吒头](https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%20%E5%93%AA%E5%90%92%E5%A4%B4&t=31&band_rank=21&Refer=top) 283664
 1. [莫兰特解禁复出](https://s.weibo.com/weibo?q=%23%E8%8E%AB%E5%85%B0%E7%89%B9%E8%A7%A3%E7%A6%81%E5%A4%8D%E5%87%BA%23&t=31&band_rank=30&Refer=top) 280473
+1. [吴千语施伯雄官宣结婚](https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%8D%83%E8%AF%AD%E6%96%BD%E4%BC%AF%E9%9B%84%E5%AE%98%E5%AE%A3%E7%BB%93%E5%A9%9A%23&t=31&band_rank=13&Refer=top) 277347
 1. [冰雪大世界游客高喊退票](https://s.weibo.com/weibo?q=%23%E5%86%B0%E9%9B%AA%E5%A4%A7%E4%B8%96%E7%95%8C%E6%B8%B8%E5%AE%A2%E9%AB%98%E5%96%8A%E9%80%80%E7%A5%A8%23&t=31&band_rank=50&Refer=top) 270900
 1. [张元英生图](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%85%83%E8%8B%B1%E7%94%9F%E5%9B%BE&t=31&band_rank=33&Refer=top) 270362
 1. [小杨哥公司向甘肃灾区捐款1200万](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%A8%E5%93%A5%E5%85%AC%E5%8F%B8%E5%90%91%E7%94%98%E8%82%83%E7%81%BE%E5%8C%BA%E6%8D%90%E6%AC%BE1200%E4%B8%87%23&t=31&band_rank=20&Refer=top) 266164
@@ -119,7 +121,9 @@
 1. [海王2今日上映](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E7%8E%8B2%E4%BB%8A%E6%97%A5%E4%B8%8A%E6%98%A0%23&t=31&band_rank=43&Refer=top) 217910
 1. [在寝室对四级答案被室友骂了](https://s.weibo.com/weibo?q=%E5%9C%A8%E5%AF%9D%E5%AE%A4%E5%AF%B9%E5%9B%9B%E7%BA%A7%E7%AD%94%E6%A1%88%E8%A2%AB%E5%AE%A4%E5%8F%8B%E9%AA%82%E4%BA%86&t=31&band_rank=34&Refer=top) 217094
 1. [大哭时突然第三视角看自己](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%93%AD%E6%97%B6%E7%AA%81%E7%84%B6%E7%AC%AC%E4%B8%89%E8%A7%86%E8%A7%92%E7%9C%8B%E8%87%AA%E5%B7%B1&t=31&band_rank=30&Refer=top) 216180
+1. [郭士强说北京假摔太多](https://s.weibo.com/weibo?q=%23%E9%83%AD%E5%A3%AB%E5%BC%BA%E8%AF%B4%E5%8C%97%E4%BA%AC%E5%81%87%E6%91%94%E5%A4%AA%E5%A4%9A%23&t=31&band_rank=50&Refer=top) 213521
 1. [369把Tian叫成Kanavi](https://s.weibo.com/weibo?q=%23369%E6%8A%8ATian%E5%8F%AB%E6%88%90Kanavi%23&t=31&band_rank=36&Refer=top) 213455
+1. [请搜救的社会应急力量有序撤离](https://s.weibo.com/weibo?q=%23%E8%AF%B7%E6%90%9C%E6%95%91%E7%9A%84%E7%A4%BE%E4%BC%9A%E5%BA%94%E6%80%A5%E5%8A%9B%E9%87%8F%E6%9C%89%E5%BA%8F%E6%92%A4%E7%A6%BB%23&t=31&band_rank=28&Refer=top) 208430
 1. [救灾物资多一分女性关爱](https://s.weibo.com/weibo?q=%23%E6%95%91%E7%81%BE%E7%89%A9%E8%B5%84%E5%A4%9A%E4%B8%80%E5%88%86%E5%A5%B3%E6%80%A7%E5%85%B3%E7%88%B1%23&t=31&band_rank=32&Refer=top) 207416
 1. [积石山6.2级地震灾后第一夜](https://s.weibo.com/weibo?q=%23%E7%A7%AF%E7%9F%B3%E5%B1%B16.2%E7%BA%A7%E5%9C%B0%E9%9C%87%E7%81%BE%E5%90%8E%E7%AC%AC%E4%B8%80%E5%A4%9C%23&t=31&band_rank=34&Refer=top) 205226
 1. [永劫无间](https://s.weibo.com/weibo?q=%E6%B0%B8%E5%8A%AB%E6%97%A0%E9%97%B4&t=31&band_rank=36&Refer=top) 204839
@@ -156,17 +160,19 @@
 1. [积石山地震共记录到余震423次](https://s.weibo.com/weibo?q=%23%E7%A7%AF%E7%9F%B3%E5%B1%B1%E5%9C%B0%E9%9C%87%E5%85%B1%E8%AE%B0%E5%BD%95%E5%88%B0%E4%BD%99%E9%9C%87423%E6%AC%A1%23&t=31&band_rank=46&Refer=top) 164341
 1. [90后独臂爸爸炒粉撑起女儿一片天](https://s.weibo.com/weibo?q=%2390%E5%90%8E%E7%8B%AC%E8%87%82%E7%88%B8%E7%88%B8%E7%82%92%E7%B2%89%E6%92%91%E8%B5%B7%E5%A5%B3%E5%84%BF%E4%B8%80%E7%89%87%E5%A4%A9%23&t=31&band_rank=44&Refer=top) 161791
 1. [金莎最向往的夫妻是朱丹周一围](https://s.weibo.com/weibo?q=%E9%87%91%E8%8E%8E%E6%9C%80%E5%90%91%E5%BE%80%E7%9A%84%E5%A4%AB%E5%A6%BB%E6%98%AF%E6%9C%B1%E4%B8%B9%E5%91%A8%E4%B8%80%E5%9B%B4&t=31&band_rank=29&Refer=top) 158729
+1. [雷鸣 揭开成年人世界的现实](https://s.weibo.com/weibo?q=%E9%9B%B7%E9%B8%A3%20%E6%8F%AD%E5%BC%80%E6%88%90%E5%B9%B4%E4%BA%BA%E4%B8%96%E7%95%8C%E7%9A%84%E7%8E%B0%E5%AE%9E&t=31&band_rank=40&Refer=top) 156734
 1. [尹净汉D社杂志大片](https://s.weibo.com/weibo?q=%E5%B0%B9%E5%87%80%E6%B1%89D%E7%A4%BE%E6%9D%82%E5%BF%97%E5%A4%A7%E7%89%87&t=31&band_rank=44&Refer=top) 152926
 1. [甘肃及青海震区全部恢复供电](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E5%8F%8A%E9%9D%92%E6%B5%B7%E9%9C%87%E5%8C%BA%E5%85%A8%E9%83%A8%E6%81%A2%E5%A4%8D%E4%BE%9B%E7%94%B5%23&t=31&band_rank=44&Refer=top) 149008
 1. [这4种表现是在提示骨头病了](https://s.weibo.com/weibo?q=%23%E8%BF%994%E7%A7%8D%E8%A1%A8%E7%8E%B0%E6%98%AF%E5%9C%A8%E6%8F%90%E7%A4%BA%E9%AA%A8%E5%A4%B4%E7%97%85%E4%BA%86%23&t=31&band_rank=43&Refer=top) 147965
 1. [灰熊战胜鹈鹕](https://s.weibo.com/weibo?q=%E7%81%B0%E7%86%8A%E6%88%98%E8%83%9C%E9%B9%88%E9%B9%95&t=31&band_rank=47&Refer=top) 147053
+1. [BABYMONSTER圣诞节cover](https://s.weibo.com/weibo?q=BABYMONSTER%E5%9C%A3%E8%AF%9E%E8%8A%82cover&t=31&band_rank=45&Refer=top) 143749
 1. [把别人的猫当成自己的猫抓了回来](https://s.weibo.com/weibo?q=%E6%8A%8A%E5%88%AB%E4%BA%BA%E7%9A%84%E7%8C%AB%E5%BD%93%E6%88%90%E8%87%AA%E5%B7%B1%E7%9A%84%E7%8C%AB%E6%8A%93%E4%BA%86%E5%9B%9E%E6%9D%A5&t=31&band_rank=49&Refer=top) 141129
 1. [度小满捐款2000万支援甘肃震区](https://s.weibo.com/weibo?q=%23%E5%BA%A6%E5%B0%8F%E6%BB%A1%E6%8D%90%E6%AC%BE2000%E4%B8%87%E6%94%AF%E6%8F%B4%E7%94%98%E8%82%83%E9%9C%87%E5%8C%BA%23&t=31&band_rank=50&Refer=top) 137172
 1. [小猫咪可是提醒你好多次了](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%8C%AB%E5%92%AA%E5%8F%AF%E6%98%AF%E6%8F%90%E9%86%92%E4%BD%A0%E5%A5%BD%E5%A4%9A%E6%AC%A1%E4%BA%86&t=31&band_rank=49&Refer=top) 137031
 1. [表妹万福 李一桐谢彬彬](https://s.weibo.com/weibo?q=%E8%A1%A8%E5%A6%B9%E4%B8%87%E7%A6%8F%20%E6%9D%8E%E4%B8%80%E6%A1%90%E8%B0%A2%E5%BD%AC%E5%BD%AC&t=31&band_rank=43&Refer=top) 134643
+1. [我看漂亮女爱豆](https://s.weibo.com/weibo?q=%E6%88%91%E7%9C%8B%E6%BC%82%E4%BA%AE%E5%A5%B3%E7%88%B1%E8%B1%86&t=31&band_rank=47&Refer=top) 132845
 1. [古文说新年快乐](https://s.weibo.com/weibo?q=%E5%8F%A4%E6%96%87%E8%AF%B4%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90&t=31&band_rank=50&Refer=top) 131434
 1. [B站跨晚 阵容](https://s.weibo.com/weibo?q=B%E7%AB%99%E8%B7%A8%E6%99%9A%20%E9%98%B5%E5%AE%B9&t=31&band_rank=45&Refer=top) 131241
-1. [郭士强说北京假摔太多](https://s.weibo.com/weibo?q=%23%E9%83%AD%E5%A3%AB%E5%BC%BA%E8%AF%B4%E5%8C%97%E4%BA%AC%E5%81%87%E6%91%94%E5%A4%AA%E5%A4%9A%23&t=31&band_rank=50&Refer=top) 130000
 1. [怎样尽早识别脑血管疾病](https://s.weibo.com/weibo?q=%23%E6%80%8E%E6%A0%B7%E5%B0%BD%E6%97%A9%E8%AF%86%E5%88%AB%E8%84%91%E8%A1%80%E7%AE%A1%E7%96%BE%E7%97%85%23&t=31&band_rank=49&Refer=top) 126091
 1. [鸿星尔克直播间回应捐款](https://s.weibo.com/weibo?q=%23%E9%B8%BF%E6%98%9F%E5%B0%94%E5%85%8B%E7%9B%B4%E6%92%AD%E9%97%B4%E5%9B%9E%E5%BA%94%E6%8D%90%E6%AC%BE%23&t=31&band_rank=46&Refer=top) 125882
 1. [金莎差点演肖战妈妈](https://s.weibo.com/weibo?q=%23%E9%87%91%E8%8E%8E%E5%B7%AE%E7%82%B9%E6%BC%94%E8%82%96%E6%88%98%E5%A6%88%E5%A6%88%23&t=31&band_rank=47&Refer=top) 125733
