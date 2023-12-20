@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-12-21 01:08:54.024347 
+最后更新时间 2023-12-21 01:25:01.898900 
 1. [冻到皮肤发红就要警惕了](https://s.weibo.com/weibo?q=%23%E5%86%BB%E5%88%B0%E7%9A%AE%E8%82%A4%E5%8F%91%E7%BA%A2%E5%B0%B1%E8%A6%81%E8%AD%A6%E6%83%95%E4%BA%86%23&t=31&band_rank=1&Refer=top) 906941
 1. [ofo创始人戴威恐面临二次创业失败](https://s.weibo.com/weibo?q=%23ofo%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%88%B4%E5%A8%81%E6%81%90%E9%9D%A2%E4%B8%B4%E4%BA%8C%E6%AC%A1%E5%88%9B%E4%B8%9A%E5%A4%B1%E8%B4%A5%23&t=31&band_rank=7&Refer=top) 615974
 1. [青海为震区考研学生开通求助热线](https://s.weibo.com/weibo?q=%23%E9%9D%92%E6%B5%B7%E4%B8%BA%E9%9C%87%E5%8C%BA%E8%80%83%E7%A0%94%E5%AD%A6%E7%94%9F%E5%BC%80%E9%80%9A%E6%B1%82%E5%8A%A9%E7%83%AD%E7%BA%BF%23&t=31&band_rank=3&Refer=top) 500216
