@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-12-21 09:51:55.408736 
+最后更新时间 2023-12-21 10:22:53.036397 
 1. [医生不建议年轻人没问题就推拿](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E4%B8%8D%E5%BB%BA%E8%AE%AE%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%B2%A1%E9%97%AE%E9%A2%98%E5%B0%B1%E6%8E%A8%E6%8B%BF%23&t=31&band_rank=21&Refer=top) 1725814
 1. [甘肃积石山县4.1级地震](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E7%A7%AF%E7%9F%B3%E5%B1%B1%E5%8E%BF4.1%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=6&Refer=top) 1706018
 1. [甘肃地震已致135人遇难](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B4135%E4%BA%BA%E9%81%87%E9%9A%BE%23&t=31&band_rank=2&Refer=top) 1438034
@@ -18,14 +18,15 @@
 1. [ofo创始人戴威恐面临二次创业失败](https://s.weibo.com/weibo?q=%23ofo%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%88%B4%E5%A8%81%E6%81%90%E9%9D%A2%E4%B8%B4%E4%BA%8C%E6%AC%A1%E5%88%9B%E4%B8%9A%E5%A4%B1%E8%B4%A5%23&t=31&band_rank=7&Refer=top) 615974
 1. [甘肃地震已转移安置87076人](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%BD%AC%E7%A7%BB%E5%AE%89%E7%BD%AE87076%E4%BA%BA%23&t=31&band_rank=37&Refer=top) 610388
 1. [目击者还原男子亮网红身份维权经过](https://s.weibo.com/weibo?q=%23%E7%9B%AE%E5%87%BB%E8%80%85%E8%BF%98%E5%8E%9F%E7%94%B7%E5%AD%90%E4%BA%AE%E7%BD%91%E7%BA%A2%E8%BA%AB%E4%BB%BD%E7%BB%B4%E6%9D%83%E7%BB%8F%E8%BF%87%23&t=31&band_rank=13&Refer=top) 587147
+1. [杀夫藏尸冰柜案开庭](https://s.weibo.com/weibo?q=%23%E6%9D%80%E5%A4%AB%E8%97%8F%E5%B0%B8%E5%86%B0%E6%9F%9C%E6%A1%88%E5%BC%80%E5%BA%AD%23&t=31&band_rank=4&Refer=top) 576483
 1. [青海为震区考研学生开通求助热线](https://s.weibo.com/weibo?q=%23%E9%9D%92%E6%B5%B7%E4%B8%BA%E9%9C%87%E5%8C%BA%E8%80%83%E7%A0%94%E5%AD%A6%E7%94%9F%E5%BC%80%E9%80%9A%E6%B1%82%E5%8A%A9%E7%83%AD%E7%BA%BF%23&t=31&band_rank=3&Refer=top) 500216
 1. [警方通报2男子烧烤店殴打女店员](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A52%E7%94%B7%E5%AD%90%E7%83%A7%E7%83%A4%E5%BA%97%E6%AE%B4%E6%89%93%E5%A5%B3%E5%BA%97%E5%91%98%23&t=31&band_rank=2&Refer=top) 489080
 1. [Bin 恋爱](https://s.weibo.com/weibo?q=Bin%20%E6%81%8B%E7%88%B1&t=31&band_rank=4&Refer=top) 481135
+1. [金毛震后泥浆被困30小时获救](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%AF%9B%E9%9C%87%E5%90%8E%E6%B3%A5%E6%B5%86%E8%A2%AB%E5%9B%B030%E5%B0%8F%E6%97%B6%E8%8E%B7%E6%95%91%23&t=31&band_rank=5&Refer=top) 455904
 1. [考公吧少年 团综](https://s.weibo.com/weibo?q=%E8%80%83%E5%85%AC%E5%90%A7%E5%B0%91%E5%B9%B4%20%E5%9B%A2%E7%BB%BC&t=31&band_rank=5&Refer=top) 444270
 1. [六种越吃越胖的伪粗粮](https://s.weibo.com/weibo?q=%E5%85%AD%E7%A7%8D%E8%B6%8A%E5%90%83%E8%B6%8A%E8%83%96%E7%9A%84%E4%BC%AA%E7%B2%97%E7%B2%AE&t=31&band_rank=46&Refer=top) 437106
 1. [女子起诉父母不肯出钱给自己出国留学](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%B5%B7%E8%AF%89%E7%88%B6%E6%AF%8D%E4%B8%8D%E8%82%AF%E5%87%BA%E9%92%B1%E7%BB%99%E8%87%AA%E5%B7%B1%E5%87%BA%E5%9B%BD%E7%95%99%E5%AD%A6%23&t=31&band_rank=6&Refer=top) 437070
 1. [爱尔眼科](https://s.weibo.com/weibo?q=%E7%88%B1%E5%B0%94%E7%9C%BC%E7%A7%91&t=31&band_rank=24&Refer=top) 423799
-1. [金毛震后泥浆被困30小时获救](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%AF%9B%E9%9C%87%E5%90%8E%E6%B3%A5%E6%B5%86%E8%A2%AB%E5%9B%B030%E5%B0%8F%E6%97%B6%E8%8E%B7%E6%95%91%23&t=31&band_rank=5&Refer=top) 396979
 1. [烟台大学 冷流雪](https://s.weibo.com/weibo?q=%E7%83%9F%E5%8F%B0%E5%A4%A7%E5%AD%A6%20%E5%86%B7%E6%B5%81%E9%9B%AA&t=31&band_rank=19&Refer=top) 373798
 1. [宁波渔民捕获4.2斤海中土豪金能卖二三万](https://s.weibo.com/weibo?q=%23%E5%AE%81%E6%B3%A2%E6%B8%94%E6%B0%91%E6%8D%95%E8%8E%B74.2%E6%96%A4%E6%B5%B7%E4%B8%AD%E5%9C%9F%E8%B1%AA%E9%87%91%E8%83%BD%E5%8D%96%E4%BA%8C%E4%B8%89%E4%B8%87%23&t=31&band_rank=49&Refer=top) 367011
 1. [官方回应网传爱尔眼科医生捶击患者](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E7%88%B1%E5%B0%94%E7%9C%BC%E7%A7%91%E5%8C%BB%E7%94%9F%E6%8D%B6%E5%87%BB%E6%82%A3%E8%80%85%23&t=31&band_rank=8&Refer=top) 356285
@@ -56,7 +57,12 @@
 1. [微博之夜 投票](https://s.weibo.com/weibo?q=%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%20%E6%8A%95%E7%A5%A8&t=31&band_rank=16&Refer=top) 238575
 1. [王安宇胡先煦你俩有点暧昧了](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%89%E5%AE%87%E8%83%A1%E5%85%88%E7%85%A6%E4%BD%A0%E4%BF%A9%E6%9C%89%E7%82%B9%E6%9A%A7%E6%98%A7%E4%BA%86%23&t=31&band_rank=17&Refer=top) 237535
 1. [董卿 撒贝宁同款表情](https://s.weibo.com/weibo?q=%E8%91%A3%E5%8D%BF%20%E6%92%92%E8%B4%9D%E5%AE%81%E5%90%8C%E6%AC%BE%E8%A1%A8%E6%83%85&t=31&band_rank=18&Refer=top) 235759
+1. [高中同学突然说我霸凌她](https://s.weibo.com/weibo?q=%E9%AB%98%E4%B8%AD%E5%90%8C%E5%AD%A6%E7%AA%81%E7%84%B6%E8%AF%B4%E6%88%91%E9%9C%B8%E5%87%8C%E5%A5%B9&t=31&band_rank=31&Refer=top) 235334
+1. [A股](https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=13&Refer=top) 234568
+1. [徐志胜 演男主](https://s.weibo.com/weibo?q=%E5%BE%90%E5%BF%97%E8%83%9C%20%E6%BC%94%E7%94%B7%E4%B8%BB&t=31&band_rank=16&Refer=top) 233156
+1. [柯佳嬿 本人也比冰箱漂亮](https://s.weibo.com/weibo?q=%E6%9F%AF%E4%BD%B3%E5%AC%BF%20%E6%9C%AC%E4%BA%BA%E4%B9%9F%E6%AF%94%E5%86%B0%E7%AE%B1%E6%BC%82%E4%BA%AE&t=31&band_rank=17&Refer=top) 233114
 1. [权志龙YG正式分手](https://s.weibo.com/weibo?q=%E6%9D%83%E5%BF%97%E9%BE%99YG%E6%AD%A3%E5%BC%8F%E5%88%86%E6%89%8B&t=31&band_rank=19&Refer=top) 232735
+1. [草莓价格暴跌但为何没实现草莓自由](https://s.weibo.com/weibo?q=%23%E8%8D%89%E8%8E%93%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C%E4%BD%86%E4%B8%BA%E4%BD%95%E6%B2%A1%E5%AE%9E%E7%8E%B0%E8%8D%89%E8%8E%93%E8%87%AA%E7%94%B1%23&t=31&band_rank=21&Refer=top) 231474
 1. [辛芷蕾 姐没删放心](https://s.weibo.com/weibo?q=%E8%BE%9B%E8%8A%B7%E8%95%BE%20%E5%A7%90%E6%B2%A1%E5%88%A0%E6%94%BE%E5%BF%83&t=31&band_rank=20&Refer=top) 231405
 1. [王楚钦锡纸烫](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E9%94%A1%E7%BA%B8%E7%83%AB&t=31&band_rank=21&Refer=top) 231022
 1. [创造营导师 路透](https://s.weibo.com/weibo?q=%E5%88%9B%E9%80%A0%E8%90%A5%E5%AF%BC%E5%B8%88%20%E8%B7%AF%E9%80%8F&t=31&band_rank=23&Refer=top) 230021
@@ -69,7 +75,6 @@
 1. [1000套女性用品送往震区](https://s.weibo.com/weibo?q=%231000%E5%A5%97%E5%A5%B3%E6%80%A7%E7%94%A8%E5%93%81%E9%80%81%E5%BE%80%E9%9C%87%E5%8C%BA%23&t=31&band_rank=28&Refer=top) 199835
 1. [考研前一周才发现没报上名](https://s.weibo.com/weibo?q=%23%E8%80%83%E7%A0%94%E5%89%8D%E4%B8%80%E5%91%A8%E6%89%8D%E5%8F%91%E7%8E%B0%E6%B2%A1%E6%8A%A5%E4%B8%8A%E5%90%8D%23&t=31&band_rank=27&Refer=top) 196891
 1. [河南救援队被甘肃司机硬核投喂](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E6%95%91%E6%8F%B4%E9%98%9F%E8%A2%AB%E7%94%98%E8%82%83%E5%8F%B8%E6%9C%BA%E7%A1%AC%E6%A0%B8%E6%8A%95%E5%96%82%23&t=31&band_rank=30&Refer=top) 193330
-1. [高中同学突然说我霸凌她](https://s.weibo.com/weibo?q=%E9%AB%98%E4%B8%AD%E5%90%8C%E5%AD%A6%E7%AA%81%E7%84%B6%E8%AF%B4%E6%88%91%E9%9C%B8%E5%87%8C%E5%A5%B9&t=31&band_rank=31&Refer=top) 192376
 1. [微博之夜](https://s.weibo.com/weibo?q=%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C&t=31&band_rank=39&Refer=top) 191584
 1. [暴雪天高铁跑出了飞机的气势](https://s.weibo.com/weibo?q=%23%E6%9A%B4%E9%9B%AA%E5%A4%A9%E9%AB%98%E9%93%81%E8%B7%91%E5%87%BA%E4%BA%86%E9%A3%9E%E6%9C%BA%E7%9A%84%E6%B0%94%E5%8A%BF%23&t=31&band_rank=32&Refer=top) 190672
 1. [心中的古装剧Top1](https://s.weibo.com/weibo?q=%E5%BF%83%E4%B8%AD%E7%9A%84%E5%8F%A4%E8%A3%85%E5%89%A7Top1&t=31&band_rank=28&Refer=top) 188994
@@ -84,20 +89,26 @@
 1. [脱轨 男女主演技](https://s.weibo.com/weibo?q=%E8%84%B1%E8%BD%A8%20%E7%94%B7%E5%A5%B3%E4%B8%BB%E6%BC%94%E6%8A%80&t=31&band_rank=33&Refer=top) 180810
 1. [赵丽颖张若昀 在人间](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%BC%A0%E8%8B%A5%E6%98%80%20%E5%9C%A8%E4%BA%BA%E9%97%B4&t=31&band_rank=34&Refer=top) 170289
 1. [顺产描述](https://s.weibo.com/weibo?q=%E9%A1%BA%E4%BA%A7%E6%8F%8F%E8%BF%B0&t=31&band_rank=35&Refer=top) 169865
+1. [妈妈 上班好累啊](https://s.weibo.com/weibo?q=%E5%A6%88%E5%A6%88%20%E4%B8%8A%E7%8F%AD%E5%A5%BD%E7%B4%AF%E5%95%8A&t=31&band_rank=32&Refer=top) 167372
 1. [北大门禁系统的改变](https://s.weibo.com/weibo?q=%E5%8C%97%E5%A4%A7%E9%97%A8%E7%A6%81%E7%B3%BB%E7%BB%9F%E7%9A%84%E6%94%B9%E5%8F%98&t=31&band_rank=38&Refer=top) 164032
 1. [为什么中年梗越来越火](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%AD%E5%B9%B4%E6%A2%97%E8%B6%8A%E6%9D%A5%E8%B6%8A%E7%81%AB%23&t=31&band_rank=36&Refer=top) 163605
 1. [美团将9.4万盒急需药送达积石山](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%A2%E5%B0%869.4%E4%B8%87%E7%9B%92%E6%80%A5%E9%9C%80%E8%8D%AF%E9%80%81%E8%BE%BE%E7%A7%AF%E7%9F%B3%E5%B1%B1%23&t=31&band_rank=39&Refer=top) 163182
 1. [女孩一年举报几十个猫贩子窝点](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E4%B8%80%E5%B9%B4%E4%B8%BE%E6%8A%A5%E5%87%A0%E5%8D%81%E4%B8%AA%E7%8C%AB%E8%B4%A9%E5%AD%90%E7%AA%9D%E7%82%B9%23&t=31&band_rank=38&Refer=top) 161200
+1. [跳进地理书的旅行第二季官宣](https://s.weibo.com/weibo?q=%E8%B7%B3%E8%BF%9B%E5%9C%B0%E7%90%86%E4%B9%A6%E7%9A%84%E6%97%85%E8%A1%8C%E7%AC%AC%E4%BA%8C%E5%AD%A3%E5%AE%98%E5%AE%A3&t=31&band_rank=34&Refer=top) 158084
 1. [蛋仔派对 皮肤](https://s.weibo.com/weibo?q=%E8%9B%8B%E4%BB%94%E6%B4%BE%E5%AF%B9%20%E7%9A%AE%E8%82%A4&t=31&band_rank=40&Refer=top) 152925
+1. [这些都是当兵的帮我们弄的](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BA%9B%E9%83%BD%E6%98%AF%E5%BD%93%E5%85%B5%E7%9A%84%E5%B8%AE%E6%88%91%E4%BB%AC%E5%BC%84%E7%9A%84%23&t=31&band_rank=36&Refer=top) 149387
 1. [林允儿柳智敏手势舞](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%85%81%E5%84%BF%E6%9F%B3%E6%99%BA%E6%95%8F%E6%89%8B%E5%8A%BF%E8%88%9E%23&t=31&band_rank=41&Refer=top) 145285
 1. [冬天地震怎么保护自己](https://s.weibo.com/weibo?q=%23%E5%86%AC%E5%A4%A9%E5%9C%B0%E9%9C%87%E6%80%8E%E4%B9%88%E4%BF%9D%E6%8A%A4%E8%87%AA%E5%B7%B1%23&t=31&band_rank=44&Refer=top) 140655
 1. [2023最后10天](https://s.weibo.com/weibo?q=%232023%E6%9C%80%E5%90%8E10%E5%A4%A9%23&t=31&band_rank=49&Refer=top) 136301
 1. [猫猫有多害怕打针](https://s.weibo.com/weibo?q=%E7%8C%AB%E7%8C%AB%E6%9C%89%E5%A4%9A%E5%AE%B3%E6%80%95%E6%89%93%E9%92%88&t=31&band_rank=50&Refer=top) 135943
 1. [动视暴雪CEO年前离职](https://s.weibo.com/weibo?q=%23%E5%8A%A8%E8%A7%86%E6%9A%B4%E9%9B%AACEO%E5%B9%B4%E5%89%8D%E7%A6%BB%E8%81%8C%23&t=31&band_rank=46&Refer=top) 133814
 1. [小伙收到一条信息4个月狂减30斤](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E6%94%B6%E5%88%B0%E4%B8%80%E6%9D%A1%E4%BF%A1%E6%81%AF4%E4%B8%AA%E6%9C%88%E7%8B%82%E5%87%8F30%E6%96%A4%23&t=31&band_rank=42&Refer=top) 133455
+1. [萌娃挂在消防员身上挨个帐篷找妈妈](https://s.weibo.com/weibo?q=%23%E8%90%8C%E5%A8%83%E6%8C%82%E5%9C%A8%E6%B6%88%E9%98%B2%E5%91%98%E8%BA%AB%E4%B8%8A%E6%8C%A8%E4%B8%AA%E5%B8%90%E7%AF%B7%E6%89%BE%E5%A6%88%E5%A6%88%23&t=31&band_rank=44&Refer=top) 129429
 1. [原神 绫华](https://s.weibo.com/weibo?q=%E5%8E%9F%E7%A5%9E%20%E7%BB%AB%E5%8D%8E&t=31&band_rank=43&Refer=top) 129358
 1. [当日语生复习碰到考研人](https://s.weibo.com/weibo?q=%E5%BD%93%E6%97%A5%E8%AF%AD%E7%94%9F%E5%A4%8D%E4%B9%A0%E7%A2%B0%E5%88%B0%E8%80%83%E7%A0%94%E4%BA%BA&t=31&band_rank=44&Refer=top) 128090
 1. [甘肃](https://s.weibo.com/weibo?q=%E7%94%98%E8%82%83&t=31&band_rank=45&Refer=top) 127173
+1. [杭州业主众筹升级外立面成功已筹900万](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%B8%9A%E4%B8%BB%E4%BC%97%E7%AD%B9%E5%8D%87%E7%BA%A7%E5%A4%96%E7%AB%8B%E9%9D%A2%E6%88%90%E5%8A%9F%E5%B7%B2%E7%AD%B9900%E4%B8%87%23&t=31&band_rank=45&Refer=top) 126411
+1. [1人1个瞬间留给了2023](https://s.weibo.com/weibo?q=%231%E4%BA%BA1%E4%B8%AA%E7%9E%AC%E9%97%B4%E7%95%99%E7%BB%99%E4%BA%862023%23&t=31&band_rank=47&Refer=top) 124610
 1. [哈尔滨冰雕师傅自述苦衷](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E5%86%B0%E9%9B%95%E5%B8%88%E5%82%85%E8%87%AA%E8%BF%B0%E8%8B%A6%E8%A1%B7%23&t=31&band_rank=46&Refer=top) 119834
 1. [肖战古今角色台词](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%8F%A4%E4%BB%8A%E8%A7%92%E8%89%B2%E5%8F%B0%E8%AF%8D&t=31&band_rank=47&Refer=top) 117833
 1. [阴阳师 700保底](https://s.weibo.com/weibo?q=%E9%98%B4%E9%98%B3%E5%B8%88%20700%E4%BF%9D%E5%BA%95&t=31&band_rank=48&Refer=top) 108332
