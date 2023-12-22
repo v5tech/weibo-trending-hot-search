@@ -233,7 +233,7 @@
   },
   "昏迷男子听周杰伦歌时突然打节拍": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%98%8F%E8%BF%B7%E7%94%B7%E5%AD%90%E5%90%AC%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%AD%8C%E6%97%B6%E7%AA%81%E7%84%B6%E6%89%93%E8%8A%82%E6%8B%8D%23&t=31&band_rank=22&Refer=top",
-    "hot": 95468
+    "hot": 96008
   },
   "运动员 饺子耳": {
     "url": "https://s.weibo.com/weibo?q=%E8%BF%90%E5%8A%A8%E5%91%98%20%E9%A5%BA%E5%AD%90%E8%80%B3&t=31&band_rank=33&Refer=top",
@@ -258,5 +258,9 @@
   "2023国产剧王": {
     "url": "https://s.weibo.com/weibo?q=%232023%E5%9B%BD%E4%BA%A7%E5%89%A7%E7%8E%8B%23&t=31&band_rank=45&Refer=top",
     "hot": 35035
+  },
+  "游戏每日签到": {
+    "url": "https://s.weibo.com/weibo?q=%E6%B8%B8%E6%88%8F%E6%AF%8F%E6%97%A5%E7%AD%BE%E5%88%B0&t=31&band_rank=41&Refer=top",
+    "hot": 22434
   }
 }
