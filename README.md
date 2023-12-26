@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-12-27 05:08:52.823448 
+最后更新时间 2023-12-27 05:20:02.693294 
 1. [人生若如初见 空降](https://s.weibo.com/weibo?q=%E4%BA%BA%E7%94%9F%E8%8B%A5%E5%A6%82%E5%88%9D%E8%A7%81%20%E7%A9%BA%E9%99%8D&t=31&band_rank=1&Refer=top) 816579
 1. [胡歌资助的女孩成了中科院博士](https://s.weibo.com/weibo?q=%E8%83%A1%E6%AD%8C%E8%B5%84%E5%8A%A9%E7%9A%84%E5%A5%B3%E5%AD%A9%E6%88%90%E4%BA%86%E4%B8%AD%E7%A7%91%E9%99%A2%E5%8D%9A%E5%A3%AB&t=31&band_rank=2&Refer=top) 813484
 1. [流量褪去的淄博鸭头小哥](https://s.weibo.com/weibo?q=%23%E6%B5%81%E9%87%8F%E8%A4%AA%E5%8E%BB%E7%9A%84%E6%B7%84%E5%8D%9A%E9%B8%AD%E5%A4%B4%E5%B0%8F%E5%93%A5%23&t=31&band_rank=30&Refer=top) 806008
@@ -70,10 +70,10 @@
 1. [小狗掉冰河被消防心肺复苏救活](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8B%97%E6%8E%89%E5%86%B0%E6%B2%B3%E8%A2%AB%E6%B6%88%E9%98%B2%E5%BF%83%E8%82%BA%E5%A4%8D%E8%8B%8F%E6%95%91%E6%B4%BB%23&t=31&band_rank=50&Refer=top) 40663
 1. [猫咪 别在这里发电](https://s.weibo.com/weibo?q=%E7%8C%AB%E5%92%AA%20%E5%88%AB%E5%9C%A8%E8%BF%99%E9%87%8C%E5%8F%91%E7%94%B5&t=31&band_rank=50&Refer=top) 26194
 1. [你是流动的 别停下来](https://s.weibo.com/weibo?q=%E4%BD%A0%E6%98%AF%E6%B5%81%E5%8A%A8%E7%9A%84%20%E5%88%AB%E5%81%9C%E4%B8%8B%E6%9D%A5&t=31&band_rank=48&Refer=top) 24061
+1. [山科大休学学生行凶案凶手被判死刑](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E7%A7%91%E5%A4%A7%E4%BC%91%E5%AD%A6%E5%AD%A6%E7%94%9F%E8%A1%8C%E5%87%B6%E6%A1%88%E5%87%B6%E6%89%8B%E8%A2%AB%E5%88%A4%E6%AD%BB%E5%88%91%23&t=31&band_rank=30&Refer=top) 21771
 1. [馒头夹香肠山东人的快乐](https://s.weibo.com/weibo?q=%23%E9%A6%92%E5%A4%B4%E5%A4%B9%E9%A6%99%E8%82%A0%E5%B1%B1%E4%B8%9C%E4%BA%BA%E7%9A%84%E5%BF%AB%E4%B9%90%23&t=31&band_rank=50&Refer=top) 19993
 1. [下雪能让人少生病是真的吗](https://s.weibo.com/weibo?q=%23%E4%B8%8B%E9%9B%AA%E8%83%BD%E8%AE%A9%E4%BA%BA%E5%B0%91%E7%94%9F%E7%97%85%E6%98%AF%E7%9C%9F%E7%9A%84%E5%90%97%23&t=31&band_rank=47&Refer=top) 16489
-1. [山科大休学学生行凶案凶手被判死刑](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E7%A7%91%E5%A4%A7%E4%BC%91%E5%AD%A6%E5%AD%A6%E7%94%9F%E8%A1%8C%E5%87%B6%E6%A1%88%E5%87%B6%E6%89%8B%E8%A2%AB%E5%88%A4%E6%AD%BB%E5%88%91%23&t=31&band_rank=30&Refer=top) 15508
-1. [阿音 短暂一生悲剧收尾](https://s.weibo.com/weibo?q=%E9%98%BF%E9%9F%B3%20%E7%9F%AD%E6%9A%82%E4%B8%80%E7%94%9F%E6%82%B2%E5%89%A7%E6%94%B6%E5%B0%BE&t=31&band_rank=39&Refer=top) 12261
+1. [阿音 短暂一生悲剧收尾](https://s.weibo.com/weibo?q=%E9%98%BF%E9%9F%B3%20%E7%9F%AD%E6%9A%82%E4%B8%80%E7%94%9F%E6%82%B2%E5%89%A7%E6%94%B6%E5%B0%BE&t=31&band_rank=39&Refer=top) 14248
 1. [繁花预约破300万](https://s.weibo.com/weibo?q=%23%E7%B9%81%E8%8A%B1%E9%A2%84%E7%BA%A6%E7%A0%B4300%E4%B8%87%23&t=31&band_rank=50&Refer=top) 10113
 <!-- END -->
 
