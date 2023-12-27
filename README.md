@@ -7,13 +7,13 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-12-28 01:08:43.756958 
+最后更新时间 2023-12-28 01:24:23.645633 
 1. [全面禁放烟花爆竹是时候终结了](https://s.weibo.com/weibo?q=%23%E5%85%A8%E9%9D%A2%E7%A6%81%E6%94%BE%E7%83%9F%E8%8A%B1%E7%88%86%E7%AB%B9%E6%98%AF%E6%97%B6%E5%80%99%E7%BB%88%E7%BB%93%E4%BA%86%23&t=31&band_rank=1&Refer=top) 1836390
 1. [何猷君和奚梦瑶结婚后不装了](https://s.weibo.com/weibo?q=%E4%BD%95%E7%8C%B7%E5%90%9B%E5%92%8C%E5%A5%9A%E6%A2%A6%E7%91%B6%E7%BB%93%E5%A9%9A%E5%90%8E%E4%B8%8D%E8%A3%85%E4%BA%86&t=31&band_rank=2&Refer=top) 836216
 1. [这条高铁沿途串起9个5A景区](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%9D%A1%E9%AB%98%E9%93%81%E6%B2%BF%E9%80%94%E4%B8%B2%E8%B5%B79%E4%B8%AA5A%E6%99%AF%E5%8C%BA%23&t=31&band_rank=3&Refer=top) 778963
 1. [发发 作弊](https://s.weibo.com/weibo?q=%E5%8F%91%E5%8F%91%20%E4%BD%9C%E5%BC%8A&t=31&band_rank=4&Refer=top) 775948
 1. [唐嫣繁花 妆造颠覆](https://s.weibo.com/weibo?q=%E5%94%90%E5%AB%A3%E7%B9%81%E8%8A%B1%20%E5%A6%86%E9%80%A0%E9%A2%A0%E8%A6%86&t=31&band_rank=5&Refer=top) 725362
-1. [男生被教授催眠后眼睛无神](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E8%A2%AB%E6%95%99%E6%8E%88%E5%82%AC%E7%9C%A0%E5%90%8E%E7%9C%BC%E7%9D%9B%E6%97%A0%E7%A5%9E%23&t=31&band_rank=49&Refer=top) 595061
+1. [男生被教授催眠后眼睛无神](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E8%A2%AB%E6%95%99%E6%8E%88%E5%82%AC%E7%9C%A0%E5%90%8E%E7%9C%BC%E7%9D%9B%E6%97%A0%E7%A5%9E%23&t=31&band_rank=49&Refer=top) 597216
 1. [大肠发圈丸子头](https://s.weibo.com/weibo?q=%E5%A4%A7%E8%82%A0%E5%8F%91%E5%9C%88%E4%B8%B8%E5%AD%90%E5%A4%B4&t=31&band_rank=12&Refer=top) 556116
 1. [3块钱的饮料正在集体消失](https://s.weibo.com/weibo?q=%233%E5%9D%97%E9%92%B1%E7%9A%84%E9%A5%AE%E6%96%99%E6%AD%A3%E5%9C%A8%E9%9B%86%E4%BD%93%E6%B6%88%E5%A4%B1%23&t=31&band_rank=6&Refer=top) 498728
 1. [李善均遗书内容不公开](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%96%84%E5%9D%87%E9%81%97%E4%B9%A6%E5%86%85%E5%AE%B9%E4%B8%8D%E5%85%AC%E5%BC%80%23&t=31&band_rank=7&Refer=top) 498692
@@ -63,6 +63,7 @@
 1. [阿云嘎音乐剧窈窕淑女](https://s.weibo.com/weibo?q=%E9%98%BF%E4%BA%91%E5%98%8E%E9%9F%B3%E4%B9%90%E5%89%A7%E7%AA%88%E7%AA%95%E6%B7%91%E5%A5%B3&t=31&band_rank=47&Refer=top) 95360
 1. [繁花 盖茨比男主人设](https://s.weibo.com/weibo?q=%E7%B9%81%E8%8A%B1%20%E7%9B%96%E8%8C%A8%E6%AF%94%E7%94%B7%E4%B8%BB%E4%BA%BA%E8%AE%BE&t=31&band_rank=49&Refer=top) 72983
 1. [直球式恋爱](https://s.weibo.com/weibo?q=%E7%9B%B4%E7%90%83%E5%BC%8F%E6%81%8B%E7%88%B1&t=31&band_rank=50&Refer=top) 53233
+1. [两个穴位帮你补气养血](https://s.weibo.com/weibo?q=%23%E4%B8%A4%E4%B8%AA%E7%A9%B4%E4%BD%8D%E5%B8%AE%E4%BD%A0%E8%A1%A5%E6%B0%94%E5%85%BB%E8%A1%80%23&t=31&band_rank=49&Refer=top) 52791
 <!-- END -->
 
 历史归档 [./archives](./archives)
