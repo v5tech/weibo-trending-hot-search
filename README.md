@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2023-12-28 04:34:42.144822 
+最后更新时间 2023-12-28 04:48:58.564003 
 1. [全面禁放烟花爆竹是时候终结了](https://s.weibo.com/weibo?q=%23%E5%85%A8%E9%9D%A2%E7%A6%81%E6%94%BE%E7%83%9F%E8%8A%B1%E7%88%86%E7%AB%B9%E6%98%AF%E6%97%B6%E5%80%99%E7%BB%88%E7%BB%93%E4%BA%86%23&t=31&band_rank=1&Refer=top) 1836390
 1. [何猷君和奚梦瑶结婚后不装了](https://s.weibo.com/weibo?q=%E4%BD%95%E7%8C%B7%E5%90%9B%E5%92%8C%E5%A5%9A%E6%A2%A6%E7%91%B6%E7%BB%93%E5%A9%9A%E5%90%8E%E4%B8%8D%E8%A3%85%E4%BA%86&t=31&band_rank=2&Refer=top) 836216
 1. [这条高铁沿途串起9个5A景区](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%9D%A1%E9%AB%98%E9%93%81%E6%B2%BF%E9%80%94%E4%B8%B2%E8%B5%B79%E4%B8%AA5A%E6%99%AF%E5%8C%BA%23&t=31&band_rank=3&Refer=top) 778963
@@ -75,6 +75,8 @@
 1. [XG后台打歌](https://s.weibo.com/weibo?q=XG%E5%90%8E%E5%8F%B0%E6%89%93%E6%AD%8C&t=31&band_rank=50&Refer=top) 22014
 1. [幼儿园的单子不接了](https://s.weibo.com/weibo?q=%E5%B9%BC%E5%84%BF%E5%9B%AD%E7%9A%84%E5%8D%95%E5%AD%90%E4%B8%8D%E6%8E%A5%E4%BA%86&t=31&band_rank=50&Refer=top) 21970
 1. [胡歌新戏演技](https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E6%96%B0%E6%88%8F%E6%BC%94%E6%8A%80%23&t=31&band_rank=49&Refer=top) 13876
+1. [中小学生美术作品展多幅作品涉嫌抄袭](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%94%9F%E7%BE%8E%E6%9C%AF%E4%BD%9C%E5%93%81%E5%B1%95%E5%A4%9A%E5%B9%85%E4%BD%9C%E5%93%81%E6%B6%89%E5%AB%8C%E6%8A%84%E8%A2%AD%23&t=31&band_rank=49&Refer=top) 13347
+1. [63岁老人成海岛最年轻的人](https://s.weibo.com/weibo?q=63%E5%B2%81%E8%80%81%E4%BA%BA%E6%88%90%E6%B5%B7%E5%B2%9B%E6%9C%80%E5%B9%B4%E8%BD%BB%E7%9A%84%E4%BA%BA&t=31&band_rank=50&Refer=top) 13342
 <!-- END -->
 
 历史归档 [./archives](./archives)
