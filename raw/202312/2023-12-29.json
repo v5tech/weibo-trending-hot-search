@@ -231,8 +231,16 @@
     "url": "https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E9%AC%BC%E8%84%B8%E5%AF%B9%E9%95%9C%E6%8B%8D%23&t=31&band_rank=45&Refer=top",
     "hot": 31483
   },
+  "2023微博星IP年度推荐Top10": {
+    "url": "https://s.weibo.com/weibo?q=2023%E5%BE%AE%E5%8D%9A%E6%98%9FIP%E5%B9%B4%E5%BA%A6%E6%8E%A8%E8%8D%90Top10&t=31&band_rank=33&Refer=top",
+    "hot": 25931
+  },
   "2023王者世冠KIC总决赛": {
     "url": "https://s.weibo.com/weibo?q=2023%E7%8E%8B%E8%80%85%E4%B8%96%E5%86%A0KIC%E6%80%BB%E5%86%B3%E8%B5%9B&t=31&band_rank=49&Refer=top",
     "hot": 24117
+  },
+  "陈都灵 宿命感这不就来了吗": {
+    "url": "https://s.weibo.com/weibo?q=%E9%99%88%E9%83%BD%E7%81%B5%20%E5%AE%BF%E5%91%BD%E6%84%9F%E8%BF%99%E4%B8%8D%E5%B0%B1%E6%9D%A5%E4%BA%86%E5%90%97&t=31&band_rank=44&Refer=top",
+    "hot": 20977
   }
 }
