@@ -225,10 +225,14 @@
   },
   "易胖体质": {
     "url": "https://s.weibo.com/weibo?q=%E6%98%93%E8%83%96%E4%BD%93%E8%B4%A8&t=31&band_rank=35&Refer=top",
-    "hot": 37102
+    "hot": 37615
   },
   "田曦薇鬼脸对镜拍": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E9%AC%BC%E8%84%B8%E5%AF%B9%E9%95%9C%E6%8B%8D%23&t=31&band_rank=45&Refer=top",
     "hot": 31483
+  },
+  "2023王者世冠KIC总决赛": {
+    "url": "https://s.weibo.com/weibo?q=2023%E7%8E%8B%E8%80%85%E4%B8%96%E5%86%A0KIC%E6%80%BB%E5%86%B3%E8%B5%9B&t=31&band_rank=49&Refer=top",
+    "hot": 24117
   }
 }
