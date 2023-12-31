@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-01-01 05:34:24.580784 
+最后更新时间 2024-01-01 05:48:59.648465 
 1. [新年快乐](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90%23&t=31&band_rank=1&Refer=top) 16522702
 1. [甘肃白银4.9级地震](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E7%99%BD%E9%93%B64.9%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=2&Refer=top) 5788389
 1. [央视跨年晚会](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A%23&t=31&band_rank=3&Refer=top) 4780280
@@ -87,6 +87,8 @@
 1. [熬夜一次多久能恢复](https://s.weibo.com/weibo?q=%23%E7%86%AC%E5%A4%9C%E4%B8%80%E6%AC%A1%E5%A4%9A%E4%B9%85%E8%83%BD%E6%81%A2%E5%A4%8D%23&t=31&band_rank=50&Refer=top) 81474
 1. [hot summer热冬](https://s.weibo.com/weibo?q=hot%20summer%E7%83%AD%E5%86%AC&t=31&band_rank=46&Refer=top) 62961
 1. [海底捞客服回应小程序崩了](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%B4%A9%E4%BA%86%23&t=31&band_rank=47&Refer=top) 62864
+1. [谁是2024跨年晚会最忙艺人](https://s.weibo.com/weibo?q=%23%E8%B0%81%E6%98%AF2024%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A%E6%9C%80%E5%BF%99%E8%89%BA%E4%BA%BA%23&t=31&band_rank=44&Refer=top) 30396
+1. [丈夫喝酒电话不通孕妻腹痛求助110](https://s.weibo.com/weibo?q=%23%E4%B8%88%E5%A4%AB%E5%96%9D%E9%85%92%E7%94%B5%E8%AF%9D%E4%B8%8D%E9%80%9A%E5%AD%95%E5%A6%BB%E8%85%B9%E7%97%9B%E6%B1%82%E5%8A%A9110%23&t=31&band_rank=50&Refer=top) 29638
 <!-- END -->
 
 历史归档 [./archives](./archives)
