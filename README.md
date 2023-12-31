@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-01-01 02:35:30.697947 
+最后更新时间 2024-01-01 02:49:05.801870 
 1. [新年快乐](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90%23&t=31&band_rank=1&Refer=top) 16522702
 1. [甘肃白银4.9级地震](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E7%99%BD%E9%93%B64.9%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=2&Refer=top) 5788389
 1. [央视跨年晚会](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A%23&t=31&band_rank=3&Refer=top) 4780280
@@ -80,7 +80,8 @@
 1. [李国庆宣布离婚成功](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9B%BD%E5%BA%86%E5%AE%A3%E5%B8%83%E7%A6%BB%E5%A9%9A%E6%88%90%E5%8A%9F%23&t=31&band_rank=48&Refer=top) 470466
 1. [红海行动2阵容官宣](https://s.weibo.com/weibo?q=%23%E7%BA%A2%E6%B5%B7%E8%A1%8C%E5%8A%A82%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3%23&t=31&band_rank=47&Refer=top) 410238
 1. [苏翊鸣大方示爱朱易](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%BF%8A%E9%B8%A3%E5%A4%A7%E6%96%B9%E7%A4%BA%E7%88%B1%E6%9C%B1%E6%98%93%23&t=31&band_rank=49&Refer=top) 352141
-1. [戚薇李承铉 真夫妻](https://s.weibo.com/weibo?q=%E6%88%9A%E8%96%87%E6%9D%8E%E6%89%BF%E9%93%89%20%E7%9C%9F%E5%A4%AB%E5%A6%BB&t=31&band_rank=44&Refer=top) 191093
+1. [戚薇李承铉 真夫妻](https://s.weibo.com/weibo?q=%E6%88%9A%E8%96%87%E6%9D%8E%E6%89%BF%E9%93%89%20%E7%9C%9F%E5%A4%AB%E5%A6%BB&t=31&band_rank=44&Refer=top) 289144
+1. [猫幂一起跨年](https://s.weibo.com/weibo?q=%E7%8C%AB%E5%B9%82%E4%B8%80%E8%B5%B7%E8%B7%A8%E5%B9%B4&t=31&band_rank=45&Refer=top) 184252
 <!-- END -->
 
 历史归档 [./archives](./archives)
