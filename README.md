@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-01-01 06:25:41.163292 
+最后更新时间 2024-01-01 06:34:15.794557 
 1. [新年快乐](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90%23&t=31&band_rank=1&Refer=top) 16522702
 1. [甘肃白银4.9级地震](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E7%99%BD%E9%93%B64.9%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=2&Refer=top) 5788389
 1. [央视跨年晚会](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A%23&t=31&band_rank=3&Refer=top) 4780280
@@ -82,8 +82,8 @@
 1. [苏翊鸣大方示爱朱易](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%BF%8A%E9%B8%A3%E5%A4%A7%E6%96%B9%E7%A4%BA%E7%88%B1%E6%9C%B1%E6%98%93%23&t=31&band_rank=49&Refer=top) 352141
 1. [戚薇李承铉 真夫妻](https://s.weibo.com/weibo?q=%E6%88%9A%E8%96%87%E6%9D%8E%E6%89%BF%E9%93%89%20%E7%9C%9F%E5%A4%AB%E5%A6%BB&t=31&band_rank=44&Refer=top) 289144
 1. [猫幂一起跨年](https://s.weibo.com/weibo?q=%E7%8C%AB%E5%B9%82%E4%B8%80%E8%B5%B7%E8%B7%A8%E5%B9%B4&t=31&band_rank=45&Refer=top) 184252
+1. [谁是2024跨年晚会最忙艺人](https://s.weibo.com/weibo?q=%23%E8%B0%81%E6%98%AF2024%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A%E6%9C%80%E5%BF%99%E8%89%BA%E4%BA%BA%23&t=31&band_rank=44&Refer=top) 141966
 1. [红楼梦 绝杀](https://s.weibo.com/weibo?q=%E7%BA%A2%E6%A5%BC%E6%A2%A6%20%E7%BB%9D%E6%9D%80&t=31&band_rank=46&Refer=top) 121883
-1. [谁是2024跨年晚会最忙艺人](https://s.weibo.com/weibo?q=%23%E8%B0%81%E6%98%AF2024%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A%E6%9C%80%E5%BF%99%E8%89%BA%E4%BA%BA%23&t=31&band_rank=44&Refer=top) 116993
 1. [陶喆真的老了](https://s.weibo.com/weibo?q=%E9%99%B6%E5%96%86%E7%9C%9F%E7%9A%84%E8%80%81%E4%BA%86&t=31&band_rank=43&Refer=top) 94248
 1. [熬夜一次多久能恢复](https://s.weibo.com/weibo?q=%23%E7%86%AC%E5%A4%9C%E4%B8%80%E6%AC%A1%E5%A4%9A%E4%B9%85%E8%83%BD%E6%81%A2%E5%A4%8D%23&t=31&band_rank=50&Refer=top) 81474
 1. [hot summer热冬](https://s.weibo.com/weibo?q=hot%20summer%E7%83%AD%E5%86%AC&t=31&band_rank=46&Refer=top) 62961
