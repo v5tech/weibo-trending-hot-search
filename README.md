@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-01-01 12:29:14.310286 
+最后更新时间 2024-01-01 12:38:29.558122 
 1. [新年快乐](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90%23&t=31&band_rank=1&Refer=top) 16522702
 1. [甘肃白银4.9级地震](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E7%99%BD%E9%93%B64.9%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=2&Refer=top) 5788389
 1. [央视跨年晚会](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A%23&t=31&band_rank=3&Refer=top) 4780280
@@ -57,6 +57,7 @@
 1. [苏醒 今晚都全开麦了](https://s.weibo.com/weibo?q=%E8%8B%8F%E9%86%92%20%E4%BB%8A%E6%99%9A%E9%83%BD%E5%85%A8%E5%BC%80%E9%BA%A6%E4%BA%86&t=31&band_rank=36&Refer=top) 893374
 1. [2024年财神来到我们家门前](https://s.weibo.com/weibo?q=2024%E5%B9%B4%E8%B4%A2%E7%A5%9E%E6%9D%A5%E5%88%B0%E6%88%91%E4%BB%AC%E5%AE%B6%E9%97%A8%E5%89%8D&t=31&band_rank=35&Refer=top) 892543
 1. [李宇春压轴](https://s.weibo.com/weibo?q=%E6%9D%8E%E5%AE%87%E6%98%A5%E5%8E%8B%E8%BD%B4&t=31&band_rank=38&Refer=top) 891377
+1. [樊振东2024第一条微博](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C2024%E7%AC%AC%E4%B8%80%E6%9D%A1%E5%BE%AE%E5%8D%9A%23&t=31&band_rank=12&Refer=top) 868675
 1. [许嵩 可以考虑结婚](https://s.weibo.com/weibo?q=%E8%AE%B8%E5%B5%A9%20%E5%8F%AF%E4%BB%A5%E8%80%83%E8%99%91%E7%BB%93%E5%A9%9A&t=31&band_rank=32&Refer=top) 823563
 1. [难听](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%90%AC&t=31&band_rank=43&Refer=top) 809066
 1. [谁是2024跨年晚会最忙艺人](https://s.weibo.com/weibo?q=%23%E8%B0%81%E6%98%AF2024%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A%E6%9C%80%E5%BF%99%E8%89%BA%E4%BA%BA%23&t=31&band_rank=44&Refer=top) 806211
@@ -71,7 +72,7 @@
 1. [生气了王源自己猜](https://s.weibo.com/weibo?q=%E7%94%9F%E6%B0%94%E4%BA%86%E7%8E%8B%E6%BA%90%E8%87%AA%E5%B7%B1%E7%8C%9C&t=31&band_rank=9&Refer=top) 691554
 1. [李宇春](https://s.weibo.com/weibo?q=%E6%9D%8E%E5%AE%87%E6%98%A5&t=31&band_rank=14&Refer=top) 676790
 1. [11个王俊凯](https://s.weibo.com/weibo?q=%2311%E4%B8%AA%E7%8E%8B%E4%BF%8A%E5%87%AF%23&t=31&band_rank=42&Refer=top) 673059
-1. [十年了 雷鸣终于清白了](https://s.weibo.com/weibo?q=%E5%8D%81%E5%B9%B4%E4%BA%86%20%E9%9B%B7%E9%B8%A3%E7%BB%88%E4%BA%8E%E6%B8%85%E7%99%BD%E4%BA%86&t=31&band_rank=32&Refer=top) 670209
+1. [十年了 雷鸣终于清白了](https://s.weibo.com/weibo?q=%E5%8D%81%E5%B9%B4%E4%BA%86%20%E9%9B%B7%E9%B8%A3%E7%BB%88%E4%BA%8E%E6%B8%85%E7%99%BD%E4%BA%86&t=31&band_rank=32&Refer=top) 672928
 1. [王曼昱新头像](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%9B%BC%E6%98%B1%E6%96%B0%E5%A4%B4%E5%83%8F&t=31&band_rank=50&Refer=top) 662521
 1. [银川震感](https://s.weibo.com/weibo?q=%E9%93%B6%E5%B7%9D%E9%9C%87%E6%84%9F&t=31&band_rank=49&Refer=top) 656369
 1. [谢娜唱哭了](https://s.weibo.com/weibo?q=%E8%B0%A2%E5%A8%9C%E5%94%B1%E5%93%AD%E4%BA%86&t=31&band_rank=36&Refer=top) 651850
@@ -100,10 +101,10 @@
 1. [浮生忆玲珑预捏脸](https://s.weibo.com/weibo?q=%23%E6%B5%AE%E7%94%9F%E5%BF%86%E7%8E%B2%E7%8F%91%E9%A2%84%E6%8D%8F%E8%84%B8%23&t=31&band_rank=15&Refer=top) 476065
 1. [新年壁纸](https://s.weibo.com/weibo?q=%E6%96%B0%E5%B9%B4%E5%A3%81%E7%BA%B8&t=31&band_rank=38&Refer=top) 473180
 1. [李国庆宣布离婚成功](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9B%BD%E5%BA%86%E5%AE%A3%E5%B8%83%E7%A6%BB%E5%A9%9A%E6%88%90%E5%8A%9F%23&t=31&band_rank=48&Refer=top) 470466
-1. [樊振东2024第一条微博](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C2024%E7%AC%AC%E4%B8%80%E6%9D%A1%E5%BE%AE%E5%8D%9A%23&t=31&band_rank=12&Refer=top) 455087
 1. [为裁员西安某公司从CBD搬进秦岭山区](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E8%A3%81%E5%91%98%E8%A5%BF%E5%AE%89%E6%9F%90%E5%85%AC%E5%8F%B8%E4%BB%8ECBD%E6%90%AC%E8%BF%9B%E7%A7%A6%E5%B2%AD%E5%B1%B1%E5%8C%BA%23&t=31&band_rank=48&Refer=top) 429233
 1. [在淘宝过生日还有这种待遇](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E6%B7%98%E5%AE%9D%E8%BF%87%E7%94%9F%E6%97%A5%E8%BF%98%E6%9C%89%E8%BF%99%E7%A7%8D%E5%BE%85%E9%81%87%23&t=31&band_rank=15&Refer=top) 420523
 1. [红海行动2阵容官宣](https://s.weibo.com/weibo?q=%23%E7%BA%A2%E6%B5%B7%E8%A1%8C%E5%8A%A82%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3%23&t=31&band_rank=47&Refer=top) 410238
+1. [罗非鱼皮移植](https://s.weibo.com/weibo?q=%E7%BD%97%E9%9D%9E%E9%B1%BC%E7%9A%AE%E7%A7%BB%E6%A4%8D&t=31&band_rank=37&Refer=top) 383076
 1. [苏翊鸣大方示爱朱易](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%BF%8A%E9%B8%A3%E5%A4%A7%E6%96%B9%E7%A4%BA%E7%88%B1%E6%9C%B1%E6%98%93%23&t=31&band_rank=49&Refer=top) 352141
 1. [白银4.9级地震暂未有伤亡报告](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%93%B64.9%E7%BA%A7%E5%9C%B0%E9%9C%87%E6%9A%82%E6%9C%AA%E6%9C%89%E4%BC%A4%E4%BA%A1%E6%8A%A5%E5%91%8A%23&t=31&band_rank=16&Refer=top) 350487
 1. [羡慕带S23看跨年晚会的人](https://s.weibo.com/weibo?q=%23%E7%BE%A1%E6%85%95%E5%B8%A6S23%E7%9C%8B%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A%E7%9A%84%E4%BA%BA%23&t=31&band_rank=42&Refer=top) 349637
@@ -132,12 +133,13 @@
 1. [为什么童谣里一般都唱外婆](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%AB%A5%E8%B0%A3%E9%87%8C%E4%B8%80%E8%88%AC%E9%83%BD%E5%94%B1%E5%A4%96%E5%A9%86&t=31&band_rank=32&Refer=top) 245533
 1. [越南网红教的捕猎方法](https://s.weibo.com/weibo?q=%E8%B6%8A%E5%8D%97%E7%BD%91%E7%BA%A2%E6%95%99%E7%9A%84%E6%8D%95%E7%8C%8E%E6%96%B9%E6%B3%95&t=31&band_rank=46&Refer=top) 244429
 1. [元旦文案](https://s.weibo.com/weibo?q=%E5%85%83%E6%97%A6%E6%96%87%E6%A1%88&t=31&band_rank=35&Refer=top) 240740
-1. [罗非鱼皮移植](https://s.weibo.com/weibo?q=%E7%BD%97%E9%9D%9E%E9%B1%BC%E7%9A%AE%E7%A7%BB%E6%A4%8D&t=31&band_rank=37&Refer=top) 237789
 1. [大蒜呼吸法](https://s.weibo.com/weibo?q=%E5%A4%A7%E8%92%9C%E5%91%BC%E5%90%B8%E6%B3%95&t=31&band_rank=49&Refer=top) 237672
 1. [广州成都深圳成元旦假期最火城市](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E6%88%90%E9%83%BD%E6%B7%B1%E5%9C%B3%E6%88%90%E5%85%83%E6%97%A6%E5%81%87%E6%9C%9F%E6%9C%80%E7%81%AB%E5%9F%8E%E5%B8%82%23&t=31&band_rank=40&Refer=top) 233665
 1. [张艺兴新年开门红](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E6%96%B0%E5%B9%B4%E5%BC%80%E9%97%A8%E7%BA%A2%23&t=31&band_rank=48&Refer=top) 226418
+1. [刘亦菲新年vlog](https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%E6%96%B0%E5%B9%B4vlog&t=31&band_rank=32&Refer=top) 216531
 1. [西双版纳的化妆师都会魔法吧](https://s.weibo.com/weibo?q=%E8%A5%BF%E5%8F%8C%E7%89%88%E7%BA%B3%E7%9A%84%E5%8C%96%E5%A6%86%E5%B8%88%E9%83%BD%E4%BC%9A%E9%AD%94%E6%B3%95%E5%90%A7&t=31&band_rank=45&Refer=top) 210155
 1. [跨年烟花秀](https://s.weibo.com/weibo?q=%E8%B7%A8%E5%B9%B4%E7%83%9F%E8%8A%B1%E7%A7%80&t=31&band_rank=20&Refer=top) 209833
+1. [一些旺自己的小玄学](https://s.weibo.com/weibo?q=%E4%B8%80%E4%BA%9B%E6%97%BA%E8%87%AA%E5%B7%B1%E7%9A%84%E5%B0%8F%E7%8E%84%E5%AD%A6&t=31&band_rank=38&Refer=top) 192011
 1. [全球共赏维港烟花](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E5%85%B1%E8%B5%8F%E7%BB%B4%E6%B8%AF%E7%83%9F%E8%8A%B1%23&t=31&band_rank=38&Refer=top) 184594
 1. [新的一年真的要好好睡觉啦](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%9A%84%E4%B8%80%E5%B9%B4%E7%9C%9F%E7%9A%84%E8%A6%81%E5%A5%BD%E5%A5%BD%E7%9D%A1%E8%A7%89%E5%95%A6%23&t=31&band_rank=40&Refer=top) 184303
 1. [猫幂一起跨年](https://s.weibo.com/weibo?q=%E7%8C%AB%E5%B9%82%E4%B8%80%E8%B5%B7%E8%B7%A8%E5%B9%B4&t=31&band_rank=45&Refer=top) 184252
