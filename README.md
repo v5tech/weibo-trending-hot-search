@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-01-02 01:25:03.995773 
+最后更新时间 2024-01-02 01:34:15.460496 
 1. [一个月不换的床单有多脏](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E6%9C%88%E4%B8%8D%E6%8D%A2%E7%9A%84%E5%BA%8A%E5%8D%95%E6%9C%89%E5%A4%9A%E8%84%8F%23&t=31&band_rank=1&Refer=top) 1276713
 1. [iPhone为什么只有P大写](https://s.weibo.com/weibo?q=iPhone%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%AA%E6%9C%89P%E5%A4%A7%E5%86%99&t=31&band_rank=2&Refer=top) 1201087
 1. [元旦起这些新规施行](https://s.weibo.com/weibo?q=%23%E5%85%83%E6%97%A6%E8%B5%B7%E8%BF%99%E4%BA%9B%E6%96%B0%E8%A7%84%E6%96%BD%E8%A1%8C%23&t=31&band_rank=3&Refer=top) 924375
