@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-01-02 04:23:13.592773 
+最后更新时间 2024-01-02 04:34:28.356332 
 1. [一个月不换的床单有多脏](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E6%9C%88%E4%B8%8D%E6%8D%A2%E7%9A%84%E5%BA%8A%E5%8D%95%E6%9C%89%E5%A4%9A%E8%84%8F%23&t=31&band_rank=1&Refer=top) 1276713
 1. [iPhone为什么只有P大写](https://s.weibo.com/weibo?q=iPhone%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%AA%E6%9C%89P%E5%A4%A7%E5%86%99&t=31&band_rank=2&Refer=top) 1201087
 1. [元旦起这些新规施行](https://s.weibo.com/weibo?q=%23%E5%85%83%E6%97%A6%E8%B5%B7%E8%BF%99%E4%BA%9B%E6%96%B0%E8%A7%84%E6%96%BD%E8%A1%8C%23&t=31&band_rank=3&Refer=top) 924375
@@ -26,7 +26,7 @@
 1. [宋茜王鹤棣最后一下 雪琴表情](https://s.weibo.com/weibo?q=%E5%AE%8B%E8%8C%9C%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%8B%20%E9%9B%AA%E7%90%B4%E8%A1%A8%E6%83%85&t=31&band_rank=15&Refer=top) 270820
 1. [国足vs中国香港](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%B6%B3vs%E4%B8%AD%E5%9B%BD%E9%A6%99%E6%B8%AF&t=31&band_rank=16&Refer=top) 231629
 1. [日本两小时内发生了40多次地震](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%A4%E5%B0%8F%E6%97%B6%E5%86%85%E5%8F%91%E7%94%9F%E4%BA%8640%E5%A4%9A%E6%AC%A1%E5%9C%B0%E9%9C%87%23&t=31&band_rank=17&Refer=top) 229086
-1. [今天凌晨太阳爆发一个强耀斑](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E5%87%8C%E6%99%A8%E5%A4%AA%E9%98%B3%E7%88%86%E5%8F%91%E4%B8%80%E4%B8%AA%E5%BC%BA%E8%80%80%E6%96%91%23&t=31&band_rank=35&Refer=top) 216262
+1. [今天凌晨太阳爆发一个强耀斑](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E5%87%8C%E6%99%A8%E5%A4%AA%E9%98%B3%E7%88%86%E5%8F%91%E4%B8%80%E4%B8%AA%E5%BC%BA%E8%80%80%E6%96%91%23&t=31&band_rank=35&Refer=top) 223635
 1. [日本一地火山喷发](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%80%E5%9C%B0%E7%81%AB%E5%B1%B1%E5%96%B7%E5%8F%91%23&t=31&band_rank=18&Refer=top) 187172
 1. [洗草莓时不要摘掉草莓蒂](https://s.weibo.com/weibo?q=%E6%B4%97%E8%8D%89%E8%8E%93%E6%97%B6%E4%B8%8D%E8%A6%81%E6%91%98%E6%8E%89%E8%8D%89%E8%8E%93%E8%92%82&t=31&band_rank=19&Refer=top) 181362
 1. [日本地震](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%23&t=31&band_rank=20&Refer=top) 178293
