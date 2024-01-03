@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-01-04 02:37:44.987248 
+最后更新时间 2024-01-04 02:48:54.325495 
 1. [龙年纪念币](https://s.weibo.com/weibo?q=%E9%BE%99%E5%B9%B4%E7%BA%AA%E5%BF%B5%E5%B8%81&t=31&band_rank=1&Refer=top) 1060953
 1. [哈尔滨为小土豆连夜撤下破旧公交牌](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%B0%94%E6%BB%A8%E4%B8%BA%E5%B0%8F%E5%9C%9F%E8%B1%86%E8%BF%9E%E5%A4%9C%E6%92%A4%E4%B8%8B%E7%A0%B4%E6%97%A7%E5%85%AC%E4%BA%A4%E7%89%8C%23&t=31&band_rank=20&Refer=top) 805904
 1. [付豪道歉](https://s.weibo.com/weibo?q=%23%E4%BB%98%E8%B1%AA%E9%81%93%E6%AD%89%23&t=31&band_rank=2&Refer=top) 647899
@@ -69,6 +69,7 @@
 1. [不要在负面情绪沉静太久](https://s.weibo.com/weibo?q=%E4%B8%8D%E8%A6%81%E5%9C%A8%E8%B4%9F%E9%9D%A2%E6%83%85%E7%BB%AA%E6%B2%89%E9%9D%99%E5%A4%AA%E4%B9%85&t=31&band_rank=47&Refer=top) 42560
 1. [我这Eason如履薄冰](https://s.weibo.com/weibo?q=%E6%88%91%E8%BF%99Eason%E5%A6%82%E5%B1%A5%E8%96%84%E5%86%B0&t=31&band_rank=38&Refer=top) 38213
 1. [美拉德小狗](https://s.weibo.com/weibo?q=%E7%BE%8E%E6%8B%89%E5%BE%B7%E5%B0%8F%E7%8B%97&t=31&band_rank=50&Refer=top) 19404
+1. [为什么显眼包受人欢迎](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%98%BE%E7%9C%BC%E5%8C%85%E5%8F%97%E4%BA%BA%E6%AC%A2%E8%BF%8E%23&t=31&band_rank=50&Refer=top) 19075
 <!-- END -->
 
 历史归档 [./archives](./archives)
