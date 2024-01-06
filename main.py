@@ -153,7 +153,8 @@ def upload_s3(wc_img_path, s3_config):
                         aws_secret_access_key=s3_config.get('aws_secret_access_key'))
     file_name = "{}/{}".format(bjtime.strftime('%Y%m%d'), os.path.basename(wc_img_path))
     with open(wc_img_path, 'rb') as f:
-        obj = s3.Bucket(s3_config.get('bucket_name')).put_object(Key=file_name, Body=f)
+        obj = s3.Bucket(s3_config.get('bucket_name'))\
+            .put_object(Key=file_name, Body=f, ContentType="image/png", ACL="public-read")
         response = {attr: getattr(obj, attr) for attr in ['e_tag', 'version_id']}
         upload_url = f'{s3_config.get("img_access_url")}/{file_name}?versionId={response["version_id"]}'
     print("上传词云完毕...")
