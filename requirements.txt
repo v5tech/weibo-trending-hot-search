@@ -1,3 +1,8 @@
 requests
 datetime
 lxml
+matplotlib
+imageio
+jieba
+wordcloud
+boto3

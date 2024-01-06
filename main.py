@@ -4,9 +4,15 @@ import os.path
 import re
 from datetime import datetime, timedelta
 
+import imageio.v3 as imageio
+import jieba
 import requests
 from lxml import etree
+from matplotlib import pyplot as plt
 from requests.exceptions import RequestException
+from wordcloud import WordCloud
+from wordcloud import ImageColorGenerator
+import boto3
 
 utctime = datetime.utcnow()
 bjtime = utctime + timedelta(hours=8)
@@ -15,6 +21,13 @@ ym = bjtime.strftime("%Y%m")
 ymd = bjtime.strftime("%Y-%m-%d")
 archive_filepath = f"./archives/{ym}/{ymd}"
 raw_filepath = f"./raw/{ym}/{ymd}"
+
+# s3 config
+endpoint_url = ''
+img_access_url = ''
+aws_access_key_id = ''
+aws_secret_access_key = ''
+bucket_name = ''
 
 
 # 加载文件
@@ -94,59 +107,121 @@ def update_hot_news(hot_news):
 
 
 # 加载停用词
-# def stopwords():
-#     stopwords = [line.strip() for line in open('stopwords.txt', encoding='UTF-8').readlines()]
-#     return stopwords
+def stopwords():
+    stopwords = [line.strip() for line in open('stopwords.txt', encoding='UTF-8').readlines()]
+    return stopwords
 
 
+# 保存csv
 def save_csv(sorted_news):
     str = f'{ymd},' + ",".join([k for k, v in sorted_news.items()])
     save(f'{archive_filepath}.csv', str)
 
 
 # 生成词云
-# def wordcloud(sorted_news):
-#     str = f'{today_str},' + ",".join([k for k, v in sorted_news.items()])
-#     sentence_seged = jieba.lcut(str)
-#     swords = stopwords()
-#     jieba_text = []
-#     for word in sentence_seged:
-#         if word not in swords:
-#             jieba_text.append(word)
-#     wd_join_text = " ".join(jieba_text)
-#     # mask = np.array(Image.open("weibo.png"))
-#     wc = WordCloud(font_path="msyh.ttf", width=1600, height=900, mask=None).generate_from_text(wd_join_text)
-#     plt.figure()
-#     plt.imshow(wc, interpolation="bilinear")
-#     plt.axis("off")
-#     wc.to_file(f"{archive_filepath}.png")
-#     print("生成词云完毕...")
+def wordcloud(sorted_news):
+    str = f'{ymd},' + ",".join([k for k, v in sorted_news.items()])
+    sentence_seged = jieba.lcut(str)
+    swords = stopwords()
+    jieba_text = []
+    for word in sentence_seged:
+        if word not in swords:
+            jieba_text.append(word)
+    wd_join_text = " ".join(jieba_text)
+    mask = imageio.imread("weibo.png")
+    wc = WordCloud(font_path="msyh.ttf",
+                   background_color="white",  # 背景颜色
+                   max_words=1000,  # 词云显示的最大词数
+                   max_font_size=100,  # 字体最大值
+                   min_font_size=5,  # 字体最小值
+                   random_state=42,  # 随机数
+                   collocations=False,  # 避免重复单词
+                   width=1200, height=970,
+                   margin=2,
+                   mask=mask)
+    wc.generate_from_text(wd_join_text)
+    # 调用wordcloud库中的ImageColorGenerator()函数，提取mask图片各部分的颜色
+    image_colors = ImageColorGenerator(mask)
+    wc.recolor(color_func=image_colors)
+    plt.figure(dpi=150)  # 放大或缩小
+    plt.imshow(wc, interpolation="bilinear")
+    plt.axis("off")  # 隐藏坐标
+    wc_img_path = f"{archive_filepath}.png"
+    wc.to_file(wc_img_path)
+    print("生成词云完毕...")
+    wc_img_upload_url = upload_s3(wc_img_path)
+    print("上传词云完毕...")
+    os.remove(wc_img_path)
+    return wc_img_upload_url
 
 
-def update_readme(news):
+# 上传词云文件到s3存储桶
+def upload_s3(file_path):
+    s3 = boto3.resource(service_name='s3',
+                        endpoint_url=endpoint_url,
+                        aws_access_key_id=aws_access_key_id,
+                        aws_secret_access_key=aws_secret_access_key)
+    file_name = "{}/{}".format(bjtime.strftime('%Y%m%d'), os.path.basename(file_path))
+    with open(file_path, 'rb') as f:
+        obj = s3.Bucket(bucket_name).put_object(Key=file_name, Body=f)
+        response = {attr: getattr(obj, attr) for attr in ['e_tag', 'version_id']}
+        upload_url = f'{img_access_url}/{file_name}?versionId={response["version_id"]}'
+    return upload_url
+
+
+# 更新README
+def update_readme(news, wc_img_upload_url):
     line = '1. [{title}]({url}) {hot}'
     lines = [line.format(title=k, hot=v['hot'], url=v['url']) for k, v in news.items()]
     lines = '\n'.join(lines)
-    # lines = f'<!-- BEGIN --> \r\n最后更新时间 {datetime.now()} \r\n![{archive_filepath}]({archive_filepath}.png) \r\n' + lines + '\r\n<!-- END -->'
-    lines = f'<!-- BEGIN --> \r\n最后更新时间 {datetime.now()} \r\n' + lines + '\r\n<!-- END -->'
+    lines = f'<!-- BEGIN --> \r\n最后更新时间 {datetime.now()} \r\n![]({wc_img_upload_url}) \r\n' + lines + '\r\n<!-- END -->'
+    # lines = f'<!-- BEGIN --> \r\n最后更新时间 {datetime.now()} \r\n' + lines + '\r\n<!-- END -->'
     content = re.sub(r'<!-- BEGIN -->[\s\S]*<!-- END -->', lines, load('./README.md'))
     save('./README.md', content)
+    print("更新README完毕...")
 
 
+# 保存归档
 def save_archive(news):
     line = '1. [{title}]({url}) {hot}'
     lines = [line.format(title=k, hot=v['hot'], url=v['url']) for k, v in news.items()]
     lines = '\n'.join(lines)
-    # lines = f'## {ymd}热门搜索 \r\n最后更新时间 {datetime.now()} \r\n![{ymd}]({ymd}.png) \r\n' + lines + '\r\n'
-    lines = f'## {ymd}热门搜索 \r\n最后更新时间 {datetime.now()} \r\n' + lines + '\r\n'
+    lines = f'## {ymd}热门搜索 \r\n最后更新时间 {datetime.now()} \r\n![{ymd}]({ymd}.png) \r\n' + lines + '\r\n'
+    # lines = f'## {ymd}热门搜索 \r\n最后更新时间 {datetime.now()} \r\n' + lines + '\r\n'
     save(f'{archive_filepath}.md', lines)
+    print("保存归档完毕...")
+
+
+# 检查s3存储桶环境变量
+def check_env():
+    endpoint_url = os.environ.get('ENDPOINT_URL')
+    img_access_url = os.environ.get('IMG_ACCESS_URL')
+    aws_access_key_id = os.environ.get('AWS_ACCESS_KEY_ID')
+    aws_secret_access_key = os.environ.get('AWS_SECRET_ACCESS_KEY')
+    bucket_name = os.environ.get('BUCKET_NAME')
+    if not endpoint_url:
+        print('请设置 ENDPOINT_URL 环境变量')
+        return False
+    if not img_access_url:
+        print('请设置 IMG_ACCESS_URL 环境变量')
+        return False
+    if not aws_access_key_id:
+        print('请设置 AWS_ACCESS_KEY_ID 环境变量')
+        return False
+    if not aws_secret_access_key:
+        print('请设置 AWS_SECRET_ACCESS_KEY 环境变量')
+        return False
+    if not bucket_name:
+        print('请设置 BUCKET_NAME 环境变量')
+        return False
 
 
 if __name__ == '__main__':
-    url = f'{baseurl}/top/summary?cate=realtimehot'
-    content = fetch_weibo(url)
-    hot_news = parse_weibo(content)
-    sorted_news = update_hot_news(hot_news)
-    # wordcloud(sorted_news)
-    update_readme(sorted_news)
-    save_archive(sorted_news)
+    if check_env():
+        url = f'{baseurl}/top/summary?cate=realtimehot'
+        content = fetch_weibo(url)
+        hot_news = parse_weibo(content)
+        sorted_news = update_hot_news(hot_news)
+        wc_img_upload_url = wordcloud(sorted_news)
+        update_readme(sorted_news, wc_img_upload_url)
+        save_archive(sorted_news)
