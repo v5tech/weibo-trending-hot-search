@@ -167,7 +167,7 @@ def update_readme(news, wc_img_upload_url):
     line = '1. [{title}]({url}) {hot}'
     lines = [line.format(title=k, hot=v['hot'], url=v['url']) for k, v in news.items()]
     lines = '\n'.join(lines)
-    lines = f'<!-- BEGIN --> \r\n最后更新时间 {datetime.now()} \r\n![]({wc_img_upload_url}) \r\n' + lines + '\r\n<!-- END -->'
+    lines = f'<!-- BEGIN --> \r\n最后更新时间 {datetime.now()} \r\n![{ymd}]({wc_img_upload_url}) \r\n' + lines + '\r\n<!-- END -->'
     # lines = f'<!-- BEGIN --> \r\n最后更新时间 {datetime.now()} \r\n' + lines + '\r\n<!-- END -->'
     content = re.sub(r'<!-- BEGIN -->[\s\S]*<!-- END -->', lines, load('./README.md'))
     save('./README.md', content)
@@ -175,11 +175,11 @@ def update_readme(news, wc_img_upload_url):
 
 
 # 保存归档
-def save_archive(news):
+def save_archive(news, wc_img_upload_url):
     line = '1. [{title}]({url}) {hot}'
     lines = [line.format(title=k, hot=v['hot'], url=v['url']) for k, v in news.items()]
     lines = '\n'.join(lines)
-    lines = f'## {ymd}热门搜索 \r\n最后更新时间 {datetime.now()} \r\n![{ymd}]({ymd}.png) \r\n' + lines + '\r\n'
+    lines = f'## {ymd}热门搜索 \r\n最后更新时间 {datetime.now()} \r\n![{ymd}]({wc_img_upload_url}) \r\n' + lines + '\r\n'
     # lines = f'## {ymd}热门搜索 \r\n最后更新时间 {datetime.now()} \r\n' + lines + '\r\n'
     save(f'{archive_filepath}.md', lines)
     print("保存归档完毕...")
@@ -227,4 +227,4 @@ if __name__ == '__main__':
     wc_img_path = wordcloud(sorted_news)
     wc_img_upload_url = upload_s3(wc_img_path, s3_config)
     update_readme(sorted_news, wc_img_upload_url)
-    save_archive(sorted_news)
+    save_archive(sorted_news, wc_img_upload_url)
