@@ -22,13 +22,6 @@ ymd = bjtime.strftime("%Y-%m-%d")
 archive_filepath = f"./archives/{ym}/{ymd}"
 raw_filepath = f"./raw/{ym}/{ymd}"
 
-# s3 config
-endpoint_url = ''
-img_access_url = ''
-aws_access_key_id = ''
-aws_secret_access_key = ''
-bucket_name = ''
-
 
 # 加载文件
 def load(filename):
@@ -149,23 +142,22 @@ def wordcloud(sorted_news):
     wc_img_path = f"{archive_filepath}.png"
     wc.to_file(wc_img_path)
     print("生成词云完毕...")
-    wc_img_upload_url = upload_s3(wc_img_path)
-    print("上传词云完毕...")
-    os.remove(wc_img_path)
-    return wc_img_upload_url
+    return wc_img_path
 
 
 # 上传词云文件到s3存储桶
-def upload_s3(file_path):
+def upload_s3(wc_img_path, s3_config):
     s3 = boto3.resource(service_name='s3',
-                        endpoint_url=endpoint_url,
-                        aws_access_key_id=aws_access_key_id,
-                        aws_secret_access_key=aws_secret_access_key)
-    file_name = "{}/{}".format(bjtime.strftime('%Y%m%d'), os.path.basename(file_path))
-    with open(file_path, 'rb') as f:
-        obj = s3.Bucket(bucket_name).put_object(Key=file_name, Body=f)
+                        endpoint_url=s3_config.get('endpoint_url'),
+                        aws_access_key_id=s3_config.get('aws_access_key_id'),
+                        aws_secret_access_key=s3_config.get('aws_secret_access_key'))
+    file_name = "{}/{}".format(bjtime.strftime('%Y%m%d'), os.path.basename(wc_img_path))
+    with open(wc_img_path, 'rb') as f:
+        obj = s3.Bucket(s3_config.get('bucket_name')).put_object(Key=file_name, Body=f)
         response = {attr: getattr(obj, attr) for attr in ['e_tag', 'version_id']}
-        upload_url = f'{img_access_url}/{file_name}?versionId={response["version_id"]}'
+        upload_url = f'{s3_config.get("img_access_url")}/{file_name}?versionId={response["version_id"]}'
+    print("上传词云完毕...")
+    os.remove(wc_img_path)
     return upload_url
 
 
@@ -193,7 +185,7 @@ def save_archive(news):
 
 
 # 检查s3存储桶环境变量
-def check_env():
+def s3_env_config():
     endpoint_url = os.environ.get('ENDPOINT_URL')
     img_access_url = os.environ.get('IMG_ACCESS_URL')
     aws_access_key_id = os.environ.get('AWS_ACCESS_KEY_ID')
@@ -201,28 +193,37 @@ def check_env():
     bucket_name = os.environ.get('BUCKET_NAME')
     if not endpoint_url:
         print('请设置 ENDPOINT_URL 环境变量')
-        return False
+        return None
     if not img_access_url:
         print('请设置 IMG_ACCESS_URL 环境变量')
-        return False
+        return None
     if not aws_access_key_id:
         print('请设置 AWS_ACCESS_KEY_ID 环境变量')
-        return False
+        return None
     if not aws_secret_access_key:
         print('请设置 AWS_SECRET_ACCESS_KEY 环境变量')
-        return False
+        return None
     if not bucket_name:
         print('请设置 BUCKET_NAME 环境变量')
-        return False
-    return True
+        return None
+    return {
+        'endpoint_url': endpoint_url,
+        'img_access_url': img_access_url,
+        'aws_access_key_id': aws_access_key_id,
+        'aws_secret_access_key': aws_secret_access_key,
+        'bucket_name': bucket_name
+    }
 
 
 if __name__ == '__main__':
-    if check_env():
-        url = f'{baseurl}/top/summary?cate=realtimehot'
-        content = fetch_weibo(url)
-        hot_news = parse_weibo(content)
-        sorted_news = update_hot_news(hot_news)
-        wc_img_upload_url = wordcloud(sorted_news)
-        update_readme(sorted_news, wc_img_upload_url)
-        save_archive(sorted_news)
+    s3_config = s3_env_config()
+    if not s3_config:
+        exit(1)
+    url = f'{baseurl}/top/summary?cate=realtimehot'
+    content = fetch_weibo(url)
+    hot_news = parse_weibo(content)
+    sorted_news = update_hot_news(hot_news)
+    wc_img_path = wordcloud(sorted_news)
+    wc_img_upload_url = upload_s3(wc_img_path, s3_config)
+    update_readme(sorted_news, wc_img_upload_url)
+    save_archive(sorted_news)
