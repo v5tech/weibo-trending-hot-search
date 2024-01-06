@@ -214,6 +214,7 @@ def check_env():
     if not bucket_name:
         print('请设置 BUCKET_NAME 环境变量')
         return False
+    return True
 
 
 if __name__ == '__main__':
