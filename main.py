@@ -153,7 +153,7 @@ def upload_s3(wc_img_path, s3_config):
                         aws_secret_access_key=s3_config.get('aws_secret_access_key'))
     file_name = "{}/{}".format(bjtime.strftime('%Y%m%d'), os.path.basename(wc_img_path))
     with open(wc_img_path, 'rb') as f:
-        obj = s3.Bucket(s3_config.get('bucket_name'))\
+        obj = s3.Bucket(s3_config.get('bucket_name')) \
             .put_object(Key=file_name, Body=f, ContentType="image/png", ACL="public-read")
         response = {attr: getattr(obj, attr) for attr in ['e_tag', 'version_id']}
         upload_url = f'{s3_config.get("img_access_url")}/{file_name}?versionId={response["version_id"]}'
@@ -187,33 +187,21 @@ def save_archive(news, wc_img_upload_url):
 
 # 检查s3存储桶环境变量
 def s3_env_config():
-    endpoint_url = os.environ.get('ENDPOINT_URL')
-    img_access_url = os.environ.get('IMG_ACCESS_URL')
-    aws_access_key_id = os.environ.get('AWS_ACCESS_KEY_ID')
-    aws_secret_access_key = os.environ.get('AWS_SECRET_ACCESS_KEY')
-    bucket_name = os.environ.get('BUCKET_NAME')
-    if not endpoint_url:
-        print('请设置 ENDPOINT_URL 环境变量')
-        return None
-    if not img_access_url:
-        print('请设置 IMG_ACCESS_URL 环境变量')
-        return None
-    if not aws_access_key_id:
-        print('请设置 AWS_ACCESS_KEY_ID 环境变量')
-        return None
-    if not aws_secret_access_key:
-        print('请设置 AWS_SECRET_ACCESS_KEY 环境变量')
-        return None
-    if not bucket_name:
-        print('请设置 BUCKET_NAME 环境变量')
-        return None
-    return {
-        'endpoint_url': endpoint_url,
-        'img_access_url': img_access_url,
-        'aws_access_key_id': aws_access_key_id,
-        'aws_secret_access_key': aws_secret_access_key,
-        'bucket_name': bucket_name
-    }
+    env_variables = [
+        'ENDPOINT_URL',
+        'IMG_ACCESS_URL',
+        'AWS_ACCESS_KEY_ID',
+        'AWS_SECRET_ACCESS_KEY',
+        'BUCKET_NAME'
+    ]
+    env_config = {}
+    for variable in env_variables:
+        env_value = os.environ.get(variable)
+        if not env_value:
+            print(f'请设置 {variable} 环境变量')
+            return None
+        env_config[variable.lower()] = env_value
+    return env_config
 
 
 if __name__ == '__main__':
