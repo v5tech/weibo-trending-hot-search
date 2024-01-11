@@ -217,7 +217,7 @@
   },
   "网友上海街头偶遇海恩贤圭": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E4%B8%8A%E6%B5%B7%E8%A1%97%E5%A4%B4%E5%81%B6%E9%81%87%E6%B5%B7%E6%81%A9%E8%B4%A4%E5%9C%AD%23&t=31&band_rank=23&Refer=top",
-    "hot": 42792
+    "hot": 62453
   },
   "阚清子打卡哈尔滨": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%98%9A%E6%B8%85%E5%AD%90%E6%89%93%E5%8D%A1%E5%93%88%E5%B0%94%E6%BB%A8%23&t=31&band_rank=50&Refer=top",
@@ -234,5 +234,9 @@
   "AR晋级": {
     "url": "https://s.weibo.com/weibo?q=AR%E6%99%8B%E7%BA%A7&t=31&band_rank=49&Refer=top",
     "hot": 22387
+  },
+  "摩羯座新月许愿": {
+    "url": "https://s.weibo.com/weibo?q=%E6%91%A9%E7%BE%AF%E5%BA%A7%E6%96%B0%E6%9C%88%E8%AE%B8%E6%84%BF&t=31&band_rank=49&Refer=top",
+    "hot": 19265
   }
 }
