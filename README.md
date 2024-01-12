@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-01-13 03:19:28.098263 
-![2024-01-13](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240113/2024-01-13.png?versionId=4_z8fbbed132d73df8689c40f13_f109c7621e5051327_d20240112_m191927_c005_v0501013_t0032_u01705087167962) 
+最后更新时间 2024-01-13 03:34:40.464951 
+![2024-01-13](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240113/2024-01-13.png?versionId=4_z8fbbed132d73df8689c40f13_f102f6b30001907d5_d20240112_m193439_c005_v0501015_t0021_u01705088079960) 
 1. [警方通报大一女生校内坠楼身亡](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A4%A7%E4%B8%80%E5%A5%B3%E7%94%9F%E6%A0%A1%E5%86%85%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=1&Refer=top) 1682639
 1. [亚洲最帅王子迎娶平民女孩](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E6%B4%B2%E6%9C%80%E5%B8%85%E7%8E%8B%E5%AD%90%E8%BF%8E%E5%A8%B6%E5%B9%B3%E6%B0%91%E5%A5%B3%E5%AD%A9%23&t=31&band_rank=2&Refer=top) 859333
 1. [扛着大型快递飞天的天舟六号下班啦](https://s.weibo.com/weibo?q=%23%E6%89%9B%E7%9D%80%E5%A4%A7%E5%9E%8B%E5%BF%AB%E9%80%92%E9%A3%9E%E5%A4%A9%E7%9A%84%E5%A4%A9%E8%88%9F%E5%85%AD%E5%8F%B7%E4%B8%8B%E7%8F%AD%E5%95%A6%23&t=31&band_rank=3&Refer=top) 763954
