@@ -87,6 +87,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E6%B2%A1%E4%BA%86%E4%B8%80%E5%9D%97%E9%92%B1%E4%BD%86%E8%8E%B7%E5%BE%97%E4%B8%80%E4%B8%AA%E4%BA%BF%23&t=31&band_rank=21&Refer=top",
     "hot": 191244
   },
+  "抑郁症患者可能并不需要鼓励": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%8A%91%E9%83%81%E7%97%87%E6%82%A3%E8%80%85%E5%8F%AF%E8%83%BD%E5%B9%B6%E4%B8%8D%E9%9C%80%E8%A6%81%E9%BC%93%E5%8A%B1%23&t=31&band_rank=33&Refer=top",
+    "hot": 173771
+  },
   "繁花里最让我误会的镜头": {
     "url": "https://s.weibo.com/weibo?q=%E7%B9%81%E8%8A%B1%E9%87%8C%E6%9C%80%E8%AE%A9%E6%88%91%E8%AF%AF%E4%BC%9A%E7%9A%84%E9%95%9C%E5%A4%B4&t=31&band_rank=43&Refer=top",
     "hot": 169378
@@ -207,10 +211,6 @@
     "url": "https://s.weibo.com/weibo?q=%E4%BB%A5%E6%B2%B9%E5%85%BB%E8%82%A4&t=31&band_rank=50&Refer=top",
     "hot": 73345
   },
-  "抑郁症患者可能并不需要鼓励": {
-    "url": "https://s.weibo.com/weibo?q=%23%E6%8A%91%E9%83%81%E7%97%87%E6%82%A3%E8%80%85%E5%8F%AF%E8%83%BD%E5%B9%B6%E4%B8%8D%E9%9C%80%E8%A6%81%E9%BC%93%E5%8A%B1%23&t=31&band_rank=33&Refer=top",
-    "hot": 72475
-  },
   "邓紫棋前经纪公司蜂鸟音乐仅3人参保": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%82%93%E7%B4%AB%E6%A3%8B%E5%89%8D%E7%BB%8F%E7%BA%AA%E5%85%AC%E5%8F%B8%E8%9C%82%E9%B8%9F%E9%9F%B3%E4%B9%90%E4%BB%853%E4%BA%BA%E5%8F%82%E4%BF%9D%23&t=31&band_rank=50&Refer=top",
     "hot": 69491
@@ -226,5 +226,9 @@
   "博物馆结束语": {
     "url": "https://s.weibo.com/weibo?q=%E5%8D%9A%E7%89%A9%E9%A6%86%E7%BB%93%E6%9D%9F%E8%AF%AD&t=31&band_rank=50&Refer=top",
     "hot": 27221
+  },
+  "有这些感觉请立刻休息": {
+    "url": "https://s.weibo.com/weibo?q=%E6%9C%89%E8%BF%99%E4%BA%9B%E6%84%9F%E8%A7%89%E8%AF%B7%E7%AB%8B%E5%88%BB%E4%BC%91%E6%81%AF&t=31&band_rank=41&Refer=top",
+    "hot": 27126
   }
 }
