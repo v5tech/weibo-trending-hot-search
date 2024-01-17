@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-01-18 01:49:15.120145 
-![2024-01-18](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240118/2024-01-18.png?versionId=4_z8fbbed132d73df8689c40f13_f116b886ba690c47b_d20240117_m174915_c005_v0501001_t0000_u01705513755069) 
+最后更新时间 2024-01-18 02:13:58.040303 
+![2024-01-18](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240118/2024-01-18.png?versionId=4_z8fbbed132d73df8689c40f13_f119dbb6b445a6791_d20240117_m181358_c005_v0501008_t0045_u01705515238011) 
 1. [车厘子降价仍不被买账](https://s.weibo.com/weibo?q=%23%E8%BD%A6%E5%8E%98%E5%AD%90%E9%99%8D%E4%BB%B7%E4%BB%8D%E4%B8%8D%E8%A2%AB%E4%B9%B0%E8%B4%A6%23&t=31&band_rank=1&Refer=top) 1167088
 1. [大麦同意退款抢林俊杰变林子祥的票](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%BA%A6%E5%90%8C%E6%84%8F%E9%80%80%E6%AC%BE%E6%8A%A2%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%8F%98%E6%9E%97%E5%AD%90%E7%A5%A5%E7%9A%84%E7%A5%A8%23&t=31&band_rank=12&Refer=top) 849257
 1. [仙剑四首播评价](https://s.weibo.com/weibo?q=%E4%BB%99%E5%89%91%E5%9B%9B%E9%A6%96%E6%92%AD%E8%AF%84%E4%BB%B7&t=31&band_rank=2&Refer=top) 640631
@@ -38,6 +38,7 @@
 1. [恋与深空](https://s.weibo.com/weibo?q=%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA&t=31&band_rank=26&Refer=top) 170077
 1. [华中农业大学回应涉事教师调查情况](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%AD%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E6%B6%89%E4%BA%8B%E6%95%99%E5%B8%88%E8%B0%83%E6%9F%A5%E6%83%85%E5%86%B5%23&t=31&band_rank=27&Refer=top) 162438
 1. [王安宇等这一刻等很久了吧](https://s.weibo.com/weibo?q=%E7%8E%8B%E5%AE%89%E5%AE%87%E7%AD%89%E8%BF%99%E4%B8%80%E5%88%BB%E7%AD%89%E5%BE%88%E4%B9%85%E4%BA%86%E5%90%A7&t=31&band_rank=43&Refer=top) 150037
+1. [陈泽直播](https://s.weibo.com/weibo?q=%E9%99%88%E6%B3%BD%E7%9B%B4%E6%92%AD&t=31&band_rank=43&Refer=top) 148864
 1. [原来参加婚礼也有这么多讲究](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%8F%82%E5%8A%A0%E5%A9%9A%E7%A4%BC%E4%B9%9F%E6%9C%89%E8%BF%99%E4%B9%88%E5%A4%9A%E8%AE%B2%E7%A9%B6%23&t=31&band_rank=28&Refer=top) 144239
 1. [恋与深空全球多地区登顶](https://s.weibo.com/weibo?q=%23%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%E5%85%A8%E7%90%83%E5%A4%9A%E5%9C%B0%E5%8C%BA%E7%99%BB%E9%A1%B6%23&t=31&band_rank=29&Refer=top) 142939
 1. [村里停电新能源车变身老人生命充电桩](https://s.weibo.com/weibo?q=%23%E6%9D%91%E9%87%8C%E5%81%9C%E7%94%B5%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E5%8F%98%E8%BA%AB%E8%80%81%E4%BA%BA%E7%94%9F%E5%91%BD%E5%85%85%E7%94%B5%E6%A1%A9%23&t=31&band_rank=30&Refer=top) 141583
@@ -58,18 +59,20 @@
 1. [国足](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%B6%B3&t=31&band_rank=45&Refer=top) 108947
 1. [高叶听到粉丝说放假45天的反应](https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%8F%B6%E5%90%AC%E5%88%B0%E7%B2%89%E4%B8%9D%E8%AF%B4%E6%94%BE%E5%81%8745%E5%A4%A9%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=35&Refer=top) 107921
 1. [仙剑六](https://s.weibo.com/weibo?q=%E4%BB%99%E5%89%91%E5%85%AD&t=31&band_rank=46&Refer=top) 106713
-1. [陈泽直播](https://s.weibo.com/weibo?q=%E9%99%88%E6%B3%BD%E7%9B%B4%E6%92%AD&t=31&band_rank=43&Refer=top) 105682
 1. [为什么父母总学不会道歉](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%88%B6%E6%AF%8D%E6%80%BB%E5%AD%A6%E4%B8%8D%E4%BC%9A%E9%81%93%E6%AD%89&t=31&band_rank=47&Refer=top) 105475
 1. [西村力手机震动 钵钵鸡](https://s.weibo.com/weibo?q=%E8%A5%BF%E6%9D%91%E5%8A%9B%E6%89%8B%E6%9C%BA%E9%9C%87%E5%8A%A8%20%E9%92%B5%E9%92%B5%E9%B8%A1&t=31&band_rank=48&Refer=top) 97639
 1. [可偏偏是17年](https://s.weibo.com/weibo?q=%E5%8F%AF%E5%81%8F%E5%81%8F%E6%98%AF17%E5%B9%B4&t=31&band_rank=34&Refer=top) 96366
 1. [苹果承认GPU存在安全漏洞](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%89%BF%E8%AE%A4GPU%E5%AD%98%E5%9C%A8%E5%AE%89%E5%85%A8%E6%BC%8F%E6%B4%9E%23&t=31&band_rank=49&Refer=top) 94893
 1. [生活中有四件事可以改变你](https://s.weibo.com/weibo?q=%E7%94%9F%E6%B4%BB%E4%B8%AD%E6%9C%89%E5%9B%9B%E4%BB%B6%E4%BA%8B%E5%8F%AF%E4%BB%A5%E6%94%B9%E5%8F%98%E4%BD%A0&t=31&band_rank=50&Refer=top) 88271
 1. [CBA](https://s.weibo.com/weibo?q=CBA&t=31&band_rank=49&Refer=top) 78531
+1. [华中农大教授遭学生举报学术不端被调查](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%AD%E5%86%9C%E5%A4%A7%E6%95%99%E6%8E%88%E9%81%AD%E5%AD%A6%E7%94%9F%E4%B8%BE%E6%8A%A5%E5%AD%A6%E6%9C%AF%E4%B8%8D%E7%AB%AF%E8%A2%AB%E8%B0%83%E6%9F%A5%23&t=31&band_rank=21&Refer=top) 77602
 1. [国足0比0黎巴嫩](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B30%E6%AF%940%E9%BB%8E%E5%B7%B4%E5%AB%A9%23&t=31&band_rank=50&Refer=top) 76894
 1. [仙剑四选角](https://s.weibo.com/weibo?q=%E4%BB%99%E5%89%91%E5%9B%9B%E9%80%89%E8%A7%92&t=31&band_rank=44&Refer=top) 73615
 1. [全员加速中首次录制](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%91%98%E5%8A%A0%E9%80%9F%E4%B8%AD%E9%A6%96%E6%AC%A1%E5%BD%95%E5%88%B6%23&t=31&band_rank=35&Refer=top) 73031
 1. [00后表达感谢的方式真的很00后](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E8%A1%A8%E8%BE%BE%E6%84%9F%E8%B0%A2%E7%9A%84%E6%96%B9%E5%BC%8F%E7%9C%9F%E7%9A%84%E5%BE%8800%E5%90%8E%23&t=31&band_rank=44&Refer=top) 56226
 1. [赵露思粉帽](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E7%B2%89%E5%B8%BD%23&t=31&band_rank=49&Refer=top) 50802
+1. [仙剑四今晚开播](https://s.weibo.com/weibo?q=%23%E4%BB%99%E5%89%91%E5%9B%9B%E4%BB%8A%E6%99%9A%E5%BC%80%E6%92%AD%23&t=31&band_rank=33&Refer=top) 41242
+1. [好强的饭缩力](https://s.weibo.com/weibo?q=%E5%A5%BD%E5%BC%BA%E7%9A%84%E9%A5%AD%E7%BC%A9%E5%8A%9B&t=31&band_rank=39&Refer=top) 35040
 1. [三种鱼常吃会危害健康](https://s.weibo.com/weibo?q=%E4%B8%89%E7%A7%8D%E9%B1%BC%E5%B8%B8%E5%90%83%E4%BC%9A%E5%8D%B1%E5%AE%B3%E5%81%A5%E5%BA%B7&t=31&band_rank=49&Refer=top) 32446
 1. [萌兰打包竹子去露营](https://s.weibo.com/weibo?q=%23%E8%90%8C%E5%85%B0%E6%89%93%E5%8C%85%E7%AB%B9%E5%AD%90%E5%8E%BB%E9%9C%B2%E8%90%A5%23&t=31&band_rank=50&Refer=top) 32441
 <!-- END -->
