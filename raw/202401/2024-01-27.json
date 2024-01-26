@@ -215,6 +215,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%8612%E7%A7%92%E4%B8%8D%E9%9B%85%E8%A7%86%E9%A2%91%E6%A1%88%E9%9B%B7%E6%94%BF%E5%AF%8C%E5%87%BA%E7%8B%B1%23&t=31&band_rank=48&Refer=top",
     "hot": 83040
   },
+  "有没有人在乎秦海璐的死活": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9C%89%E6%B2%A1%E6%9C%89%E4%BA%BA%E5%9C%A8%E4%B9%8E%E7%A7%A6%E6%B5%B7%E7%92%90%E7%9A%84%E6%AD%BB%E6%B4%BB%23&t=31&band_rank=35&Refer=top",
+    "hot": 67875
+  },
   "ENHYPEN澳门演唱会": {
     "url": "https://s.weibo.com/weibo?q=ENHYPEN%E6%BE%B3%E9%97%A8%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=50&Refer=top",
     "hot": 66164
@@ -222,10 +226,6 @@
   "辛芷蕾 心有猛虎细嗅蔷薇": {
     "url": "https://s.weibo.com/weibo?q=%E8%BE%9B%E8%8A%B7%E8%95%BE%20%E5%BF%83%E6%9C%89%E7%8C%9B%E8%99%8E%E7%BB%86%E5%97%85%E8%94%B7%E8%96%87&t=31&band_rank=46&Refer=top",
     "hot": 59094
-  },
-  "有没有人在乎秦海璐的死活": {
-    "url": "https://s.weibo.com/weibo?q=%23%E6%9C%89%E6%B2%A1%E6%9C%89%E4%BA%BA%E5%9C%A8%E4%B9%8E%E7%A7%A6%E6%B5%B7%E7%92%90%E7%9A%84%E6%AD%BB%E6%B4%BB%23&t=31&band_rank=35&Refer=top",
-    "hot": 56787
   },
   "世界之外 半成品": {
     "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E4%B9%8B%E5%A4%96%20%E5%8D%8A%E6%88%90%E5%93%81&t=31&band_rank=48&Refer=top",
@@ -241,10 +241,14 @@
   },
   "丽江市地震局回应当地居民称有震感": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%BD%E6%B1%9F%E5%B8%82%E5%9C%B0%E9%9C%87%E5%B1%80%E5%9B%9E%E5%BA%94%E5%BD%93%E5%9C%B0%E5%B1%85%E6%B0%91%E7%A7%B0%E6%9C%89%E9%9C%87%E6%84%9F%23&t=31&band_rank=44&Refer=top",
-    "hot": 36877
+    "hot": 38573
   },
   "我想和你唱5开播": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E6%83%B3%E5%92%8C%E4%BD%A0%E5%94%B15%E5%BC%80%E6%92%AD%23&t=31&band_rank=50&Refer=top",
-    "hot": 25475
+    "hot": 29089
+  },
+  "小哥得知要上电视风风火火洗脸": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%93%A5%E5%BE%97%E7%9F%A5%E8%A6%81%E4%B8%8A%E7%94%B5%E8%A7%86%E9%A3%8E%E9%A3%8E%E7%81%AB%E7%81%AB%E6%B4%97%E8%84%B8%23&t=31&band_rank=50&Refer=top",
+    "hot": 24764
   }
 }
