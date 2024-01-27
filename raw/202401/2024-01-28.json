@@ -79,13 +79,13 @@
     "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E9%B9%A4%E9%BE%99%E6%99%92%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%23&t=31&band_rank=18&Refer=top",
     "hot": 194904
   },
+  "00后四帅": {
+    "url": "https://s.weibo.com/weibo?q=00%E5%90%8E%E5%9B%9B%E5%B8%85&t=31&band_rank=26&Refer=top",
+    "hot": 190687
+  },
   "文韬齐思钧去看了唐九洲巡演": {
     "url": "https://s.weibo.com/weibo?q=%E6%96%87%E9%9F%AC%E9%BD%90%E6%80%9D%E9%92%A7%E5%8E%BB%E7%9C%8B%E4%BA%86%E5%94%90%E4%B9%9D%E6%B4%B2%E5%B7%A1%E6%BC%94&t=31&band_rank=19&Refer=top",
     "hot": 189827
-  },
-  "00后四帅": {
-    "url": "https://s.weibo.com/weibo?q=00%E5%90%8E%E5%9B%9B%E5%B8%85&t=31&band_rank=26&Refer=top",
-    "hot": 184664
   },
   "人要一寸一寸的拯救自己": {
     "url": "https://s.weibo.com/weibo?q=%E4%BA%BA%E8%A6%81%E4%B8%80%E5%AF%B8%E4%B8%80%E5%AF%B8%E7%9A%84%E6%8B%AF%E6%95%91%E8%87%AA%E5%B7%B1&t=31&band_rank=20&Refer=top",
@@ -213,7 +213,7 @@
   },
   "师范专业报考热还会持续吗": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%B8%88%E8%8C%83%E4%B8%93%E4%B8%9A%E6%8A%A5%E8%80%83%E7%83%AD%E8%BF%98%E4%BC%9A%E6%8C%81%E7%BB%AD%E5%90%97%23&t=31&band_rank=40&Refer=top",
-    "hot": 77207
+    "hot": 78688
   },
   "闫妮女儿 张小斐": {
     "url": "https://s.weibo.com/weibo?q=%E9%97%AB%E5%A6%AE%E5%A5%B3%E5%84%BF%20%E5%BC%A0%E5%B0%8F%E6%96%90&t=31&band_rank=47&Refer=top",
@@ -242,5 +242,9 @@
   "赵昭仪妈妈画过哪吒传奇": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%B5%B5%E6%98%AD%E4%BB%AA%E5%A6%88%E5%A6%88%E7%94%BB%E8%BF%87%E5%93%AA%E5%90%92%E4%BC%A0%E5%A5%87%23&t=31&band_rank=49&Refer=top",
     "hot": 41951
+  },
+  "明日方舟": {
+    "url": "https://s.weibo.com/weibo?q=%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F&t=31&band_rank=46&Refer=top",
+    "hot": 24027
   }
 }
