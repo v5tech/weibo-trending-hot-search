@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-01-28 01:25:42.547679 
-![2024-01-28](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240128/2024-01-28.png?versionId=4_z8fbbed132d73df8689c40f13_f106bfa7db4ccfe72_d20240127_m172542_c005_v0501000_t0042_u01706376342504) 
+最后更新时间 2024-01-28 01:34:35.666965 
+![2024-01-28](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240128/2024-01-28.png?versionId=4_z8fbbed132d73df8689c40f13_f1064e7554d152a07_d20240127_m173435_c005_v0501002_t0035_u01706376875617) 
 1. [这跟易烊千玺谈了有什么区别](https://s.weibo.com/weibo?q=%E8%BF%99%E8%B7%9F%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E8%B0%88%E4%BA%86%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB&t=31&band_rank=4&Refer=top) 945049
 1. [好消息1月工资年前发](https://s.weibo.com/weibo?q=%23%E5%A5%BD%E6%B6%88%E6%81%AF1%E6%9C%88%E5%B7%A5%E8%B5%84%E5%B9%B4%E5%89%8D%E5%8F%91%23&t=31&band_rank=1&Refer=top) 749588
 1. [包上恩](https://s.weibo.com/weibo?q=%E5%8C%85%E4%B8%8A%E6%81%A9&t=31&band_rank=2&Refer=top) 706878
@@ -16,12 +16,12 @@
 1. [昆明动物园为什么三发通报才救猫](https://s.weibo.com/weibo?q=%23%E6%98%86%E6%98%8E%E5%8A%A8%E7%89%A9%E5%9B%AD%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%89%E5%8F%91%E9%80%9A%E6%8A%A5%E6%89%8D%E6%95%91%E7%8C%AB%23&t=31&band_rank=5&Refer=top) 544985
 1. [迪丽热巴一个月四套高定](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E4%B8%80%E4%B8%AA%E6%9C%88%E5%9B%9B%E5%A5%97%E9%AB%98%E5%AE%9A%23&t=31&band_rank=6&Refer=top) 524020
 1. [00后四美](https://s.weibo.com/weibo?q=00%E5%90%8E%E5%9B%9B%E7%BE%8E&t=31&band_rank=7&Refer=top) 521381
+1. [德克萨斯](https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%85%8B%E8%90%A8%E6%96%AF%23&t=31&band_rank=34&Refer=top) 485282
 1. [主播称董宇辉被叫老板恨不得翻脸](https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%92%AD%E7%A7%B0%E8%91%A3%E5%AE%87%E8%BE%89%E8%A2%AB%E5%8F%AB%E8%80%81%E6%9D%BF%E6%81%A8%E4%B8%8D%E5%BE%97%E7%BF%BB%E8%84%B8%23&t=31&band_rank=8&Refer=top) 453389
-1. [德克萨斯](https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%85%8B%E8%90%A8%E6%96%AF%23&t=31&band_rank=34&Refer=top) 422681
 1. [中国航天器名字里有中国人才懂的含义](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%99%A8%E5%90%8D%E5%AD%97%E9%87%8C%E6%9C%89%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%89%8D%E6%87%82%E7%9A%84%E5%90%AB%E4%B9%89%23&t=31&band_rank=3&Refer=top) 392887
+1. [初中妹妹8科成绩总分66](https://s.weibo.com/weibo?q=%23%E5%88%9D%E4%B8%AD%E5%A6%B9%E5%A6%B98%E7%A7%91%E6%88%90%E7%BB%A9%E6%80%BB%E5%88%8666%23&t=31&band_rank=16&Refer=top) 322314
 1. [央视曝回流医保药洗白过程](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%9B%9E%E6%B5%81%E5%8C%BB%E4%BF%9D%E8%8D%AF%E6%B4%97%E7%99%BD%E8%BF%87%E7%A8%8B%23&t=31&band_rank=9&Refer=top) 316698
 1. [阿拉斯加自己走丢在大街上大哭](https://s.weibo.com/weibo?q=%E9%98%BF%E6%8B%89%E6%96%AF%E5%8A%A0%E8%87%AA%E5%B7%B1%E8%B5%B0%E4%B8%A2%E5%9C%A8%E5%A4%A7%E8%A1%97%E4%B8%8A%E5%A4%A7%E5%93%AD&t=31&band_rank=10&Refer=top) 314644
-1. [初中妹妹8科成绩总分66](https://s.weibo.com/weibo?q=%23%E5%88%9D%E4%B8%AD%E5%A6%B9%E5%A6%B98%E7%A7%91%E6%88%90%E7%BB%A9%E6%80%BB%E5%88%8666%23&t=31&band_rank=16&Refer=top) 306279
 1. [人均37元的早餐为何没人买单了](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E5%9D%8737%E5%85%83%E7%9A%84%E6%97%A9%E9%A4%90%E4%B8%BA%E4%BD%95%E6%B2%A1%E4%BA%BA%E4%B9%B0%E5%8D%95%E4%BA%86%23&t=31&band_rank=11&Refer=top) 298752
 1. [北京野生动物园就昆明动物园事件发声](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E9%87%8E%E7%94%9F%E5%8A%A8%E7%89%A9%E5%9B%AD%E5%B0%B1%E6%98%86%E6%98%8E%E5%8A%A8%E7%89%A9%E5%9B%AD%E4%BA%8B%E4%BB%B6%E5%8F%91%E5%A3%B0%23&t=31&band_rank=12&Refer=top) 297297
 1. [迪丽热巴高定首穿](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%AB%98%E5%AE%9A%E9%A6%96%E7%A9%BF%23&t=31&band_rank=13&Refer=top) 296751
@@ -34,7 +34,7 @@
 1. [没结婚用不用给外甥女压岁钱](https://s.weibo.com/weibo?q=%23%E6%B2%A1%E7%BB%93%E5%A9%9A%E7%94%A8%E4%B8%8D%E7%94%A8%E7%BB%99%E5%A4%96%E7%94%A5%E5%A5%B3%E5%8E%8B%E5%B2%81%E9%92%B1%23&t=31&band_rank=21&Refer=top) 180450
 1. [梦天拍热巴](https://s.weibo.com/weibo?q=%E6%A2%A6%E5%A4%A9%E6%8B%8D%E7%83%AD%E5%B7%B4&t=31&band_rank=22&Refer=top) 180436
 1. [沈梦辰腰椎骨头断裂](https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%A2%A6%E8%BE%B0%E8%85%B0%E6%A4%8E%E9%AA%A8%E5%A4%B4%E6%96%AD%E8%A3%82%23&t=31&band_rank=23&Refer=top) 180352
-1. [新加坡免签一不小心就变穷光蛋](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%85%8D%E7%AD%BE%E4%B8%80%E4%B8%8D%E5%B0%8F%E5%BF%83%E5%B0%B1%E5%8F%98%E7%A9%B7%E5%85%89%E8%9B%8B%23&t=31&band_rank=24&Refer=top) 164890
+1. [新加坡免签一不小心就变穷光蛋](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%85%8D%E7%AD%BE%E4%B8%80%E4%B8%8D%E5%B0%8F%E5%BF%83%E5%B0%B1%E5%8F%98%E7%A9%B7%E5%85%89%E8%9B%8B%23&t=31&band_rank=24&Refer=top) 165279
 1. [陈奕迅演唱会](https://s.weibo.com/weibo?q=%E9%99%88%E5%A5%95%E8%BF%85%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=27&Refer=top) 159021
 1. [宝妈用小馒头吸收药物喂宝宝吃](https://s.weibo.com/weibo?q=%23%E5%AE%9D%E5%A6%88%E7%94%A8%E5%B0%8F%E9%A6%92%E5%A4%B4%E5%90%B8%E6%94%B6%E8%8D%AF%E7%89%A9%E5%96%82%E5%AE%9D%E5%AE%9D%E5%90%83%23&t=31&band_rank=25&Refer=top) 158884
 1. [迪丽热巴爱琴海](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%88%B1%E7%90%B4%E6%B5%B7&t=31&band_rank=28&Refer=top) 155227
@@ -63,8 +63,10 @@
 1. [郑钦文赛后发布会落泪](https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E8%B5%9B%E5%90%8E%E5%8F%91%E5%B8%83%E4%BC%9A%E8%90%BD%E6%B3%AA%23&t=31&band_rank=49&Refer=top) 84386
 1. [TES拿到首胜](https://s.weibo.com/weibo?q=%23TES%E6%8B%BF%E5%88%B0%E9%A6%96%E8%83%9C%23&t=31&band_rank=50&Refer=top) 80027
 1. [闫妮女儿 张小斐](https://s.weibo.com/weibo?q=%E9%97%AB%E5%A6%AE%E5%A5%B3%E5%84%BF%20%E5%BC%A0%E5%B0%8F%E6%96%90&t=31&band_rank=47&Refer=top) 76671
+1. [师范专业报考热还会持续吗](https://s.weibo.com/weibo?q=%23%E5%B8%88%E8%8C%83%E4%B8%93%E4%B8%9A%E6%8A%A5%E8%80%83%E7%83%AD%E8%BF%98%E4%BC%9A%E6%8C%81%E7%BB%AD%E5%90%97%23&t=31&band_rank=40&Refer=top) 46793
 1. [怎么选珍珠](https://s.weibo.com/weibo?q=%E6%80%8E%E4%B9%88%E9%80%89%E7%8F%8D%E7%8F%A0&t=31&band_rank=45&Refer=top) 46507
 1. [郑钦文获澳网亚军](https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E8%8E%B7%E6%BE%B3%E7%BD%91%E4%BA%9A%E5%86%9B%23&t=31&band_rank=48&Refer=top) 46501
+1. [赵昭仪妈妈画过哪吒传奇](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E6%98%AD%E4%BB%AA%E5%A6%88%E5%A6%88%E7%94%BB%E8%BF%87%E5%93%AA%E5%90%92%E4%BC%A0%E5%A5%87%23&t=31&band_rank=49&Refer=top) 41951
 <!-- END -->
 
 历史归档 [./archives](./archives)
