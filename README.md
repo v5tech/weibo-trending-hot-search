@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-01-28 00:36:53.932722 
-![2024-01-28](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240128/2024-01-28.png?versionId=4_z8fbbed132d73df8689c40f13_f104a64e6f5e61553_d20240127_m163653_c005_v0501014_t0012_u01706373413873) 
+最后更新时间 2024-01-28 00:49:27.851614 
+![2024-01-28](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240128/2024-01-28.png?versionId=4_z8fbbed132d73df8689c40f13_f10707b7512c549f8_d20240127_m164927_c005_v0521006_t0040_u01706374167795) 
 1. [这跟易烊千玺谈了有什么区别](https://s.weibo.com/weibo?q=%E8%BF%99%E8%B7%9F%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E8%B0%88%E4%BA%86%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB&t=31&band_rank=4&Refer=top) 945049
 1. [好消息1月工资年前发](https://s.weibo.com/weibo?q=%23%E5%A5%BD%E6%B6%88%E6%81%AF1%E6%9C%88%E5%B7%A5%E8%B5%84%E5%B9%B4%E5%89%8D%E5%8F%91%23&t=31&band_rank=1&Refer=top) 749588
 1. [包上恩](https://s.weibo.com/weibo?q=%E5%8C%85%E4%B8%8A%E6%81%A9&t=31&band_rank=2&Refer=top) 706878
@@ -54,6 +54,7 @@
 1. [迪丽热巴新妆](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%96%B0%E5%A6%86&t=31&band_rank=42&Refer=top) 105204
 1. [留住金鹤龙](https://s.weibo.com/weibo?q=%E7%95%99%E4%BD%8F%E9%87%91%E9%B9%A4%E9%BE%99&t=31&band_rank=43&Refer=top) 101515
 1. [郑钦文父亲说澳网亚军只是新起点](https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E7%88%B6%E4%BA%B2%E8%AF%B4%E6%BE%B3%E7%BD%91%E4%BA%9A%E5%86%9B%E5%8F%AA%E6%98%AF%E6%96%B0%E8%B5%B7%E7%82%B9%23&t=31&band_rank=44&Refer=top) 96204
+1. [德克萨斯](https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%85%8B%E8%90%A8%E6%96%AF%23&t=31&band_rank=34&Refer=top) 90304
 1. [大鹏拥抱戴王一博面具新浪员工](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%B9%8F%E6%8B%A5%E6%8A%B1%E6%88%B4%E7%8E%8B%E4%B8%80%E5%8D%9A%E9%9D%A2%E5%85%B7%E6%96%B0%E6%B5%AA%E5%91%98%E5%B7%A5%23&t=31&band_rank=45&Refer=top) 89468
 1. [金晨舞蹈致敬200年前清代女科学家](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E8%88%9E%E8%B9%88%E8%87%B4%E6%95%AC200%E5%B9%B4%E5%89%8D%E6%B8%85%E4%BB%A3%E5%A5%B3%E7%A7%91%E5%AD%A6%E5%AE%B6%23&t=31&band_rank=46&Refer=top) 89099
 1. [宋慧乔红丝袜](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E6%85%A7%E4%B9%94%E7%BA%A2%E4%B8%9D%E8%A2%9C%23&t=31&band_rank=47&Refer=top) 88069
