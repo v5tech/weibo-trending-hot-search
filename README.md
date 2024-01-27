@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-01-28 01:34:35.666965 
-![2024-01-28](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240128/2024-01-28.png?versionId=4_z8fbbed132d73df8689c40f13_f1064e7554d152a07_d20240127_m173435_c005_v0501002_t0035_u01706376875617) 
+最后更新时间 2024-01-28 01:49:26.255801 
+![2024-01-28](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240128/2024-01-28.png?versionId=4_z8fbbed132d73df8689c40f13_f107293e20ae2a0df_d20240127_m174925_c005_v0501015_t0032_u01706377765743) 
 1. [这跟易烊千玺谈了有什么区别](https://s.weibo.com/weibo?q=%E8%BF%99%E8%B7%9F%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E8%B0%88%E4%BA%86%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB&t=31&band_rank=4&Refer=top) 945049
 1. [好消息1月工资年前发](https://s.weibo.com/weibo?q=%23%E5%A5%BD%E6%B6%88%E6%81%AF1%E6%9C%88%E5%B7%A5%E8%B5%84%E5%B9%B4%E5%89%8D%E5%8F%91%23&t=31&band_rank=1&Refer=top) 749588
 1. [包上恩](https://s.weibo.com/weibo?q=%E5%8C%85%E4%B8%8A%E6%81%A9&t=31&band_rank=2&Refer=top) 706878
@@ -16,7 +16,7 @@
 1. [昆明动物园为什么三发通报才救猫](https://s.weibo.com/weibo?q=%23%E6%98%86%E6%98%8E%E5%8A%A8%E7%89%A9%E5%9B%AD%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%89%E5%8F%91%E9%80%9A%E6%8A%A5%E6%89%8D%E6%95%91%E7%8C%AB%23&t=31&band_rank=5&Refer=top) 544985
 1. [迪丽热巴一个月四套高定](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E4%B8%80%E4%B8%AA%E6%9C%88%E5%9B%9B%E5%A5%97%E9%AB%98%E5%AE%9A%23&t=31&band_rank=6&Refer=top) 524020
 1. [00后四美](https://s.weibo.com/weibo?q=00%E5%90%8E%E5%9B%9B%E7%BE%8E&t=31&band_rank=7&Refer=top) 521381
-1. [德克萨斯](https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%85%8B%E8%90%A8%E6%96%AF%23&t=31&band_rank=34&Refer=top) 485282
+1. [德克萨斯](https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%85%8B%E8%90%A8%E6%96%AF%23&t=31&band_rank=34&Refer=top) 517061
 1. [主播称董宇辉被叫老板恨不得翻脸](https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%92%AD%E7%A7%B0%E8%91%A3%E5%AE%87%E8%BE%89%E8%A2%AB%E5%8F%AB%E8%80%81%E6%9D%BF%E6%81%A8%E4%B8%8D%E5%BE%97%E7%BF%BB%E8%84%B8%23&t=31&band_rank=8&Refer=top) 453389
 1. [中国航天器名字里有中国人才懂的含义](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%99%A8%E5%90%8D%E5%AD%97%E9%87%8C%E6%9C%89%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%89%8D%E6%87%82%E7%9A%84%E5%90%AB%E4%B9%89%23&t=31&band_rank=3&Refer=top) 392887
 1. [初中妹妹8科成绩总分66](https://s.weibo.com/weibo?q=%23%E5%88%9D%E4%B8%AD%E5%A6%B9%E5%A6%B98%E7%A7%91%E6%88%90%E7%BB%A9%E6%80%BB%E5%88%8666%23&t=31&band_rank=16&Refer=top) 322314
@@ -63,7 +63,8 @@
 1. [郑钦文赛后发布会落泪](https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E8%B5%9B%E5%90%8E%E5%8F%91%E5%B8%83%E4%BC%9A%E8%90%BD%E6%B3%AA%23&t=31&band_rank=49&Refer=top) 84386
 1. [TES拿到首胜](https://s.weibo.com/weibo?q=%23TES%E6%8B%BF%E5%88%B0%E9%A6%96%E8%83%9C%23&t=31&band_rank=50&Refer=top) 80027
 1. [闫妮女儿 张小斐](https://s.weibo.com/weibo?q=%E9%97%AB%E5%A6%AE%E5%A5%B3%E5%84%BF%20%E5%BC%A0%E5%B0%8F%E6%96%90&t=31&band_rank=47&Refer=top) 76671
-1. [师范专业报考热还会持续吗](https://s.weibo.com/weibo?q=%23%E5%B8%88%E8%8C%83%E4%B8%93%E4%B8%9A%E6%8A%A5%E8%80%83%E7%83%AD%E8%BF%98%E4%BC%9A%E6%8C%81%E7%BB%AD%E5%90%97%23&t=31&band_rank=40&Refer=top) 46793
+1. [师范专业报考热还会持续吗](https://s.weibo.com/weibo?q=%23%E5%B8%88%E8%8C%83%E4%B8%93%E4%B8%9A%E6%8A%A5%E8%80%83%E7%83%AD%E8%BF%98%E4%BC%9A%E6%8C%81%E7%BB%AD%E5%90%97%23&t=31&band_rank=40&Refer=top) 54259
+1. [吴尊 10年前的娜姐10年后的你](https://s.weibo.com/weibo?q=%E5%90%B4%E5%B0%8A%2010%E5%B9%B4%E5%89%8D%E7%9A%84%E5%A8%9C%E5%A7%9010%E5%B9%B4%E5%90%8E%E7%9A%84%E4%BD%A0&t=31&band_rank=33&Refer=top) 48032
 1. [怎么选珍珠](https://s.weibo.com/weibo?q=%E6%80%8E%E4%B9%88%E9%80%89%E7%8F%8D%E7%8F%A0&t=31&band_rank=45&Refer=top) 46507
 1. [郑钦文获澳网亚军](https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E8%8E%B7%E6%BE%B3%E7%BD%91%E4%BA%9A%E5%86%9B%23&t=31&band_rank=48&Refer=top) 46501
 1. [赵昭仪妈妈画过哪吒传奇](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E6%98%AD%E4%BB%AA%E5%A6%88%E5%A6%88%E7%94%BB%E8%BF%87%E5%93%AA%E5%90%92%E4%BC%A0%E5%A5%87%23&t=31&band_rank=49&Refer=top) 41951
