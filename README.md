@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-01-28 02:11:45.398904 
-![2024-01-28](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240128/2024-01-28.png?versionId=4_z8fbbed132d73df8689c40f13_f1071e071451a1c8a_d20240127_m181145_c005_v0501016_t0031_u01706379105364) 
+最后更新时间 2024-01-28 02:24:39.786007 
+![2024-01-28](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240128/2024-01-28.png?versionId=4_z8fbbed132d73df8689c40f13_f100cb7f7bfcf0feb_d20240127_m182439_c005_v0501013_t0046_u01706379879277) 
 1. [这跟易烊千玺谈了有什么区别](https://s.weibo.com/weibo?q=%E8%BF%99%E8%B7%9F%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E8%B0%88%E4%BA%86%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB&t=31&band_rank=4&Refer=top) 945049
 1. [好消息1月工资年前发](https://s.weibo.com/weibo?q=%23%E5%A5%BD%E6%B6%88%E6%81%AF1%E6%9C%88%E5%B7%A5%E8%B5%84%E5%B9%B4%E5%89%8D%E5%8F%91%23&t=31&band_rank=1&Refer=top) 749588
 1. [包上恩](https://s.weibo.com/weibo?q=%E5%8C%85%E4%B8%8A%E6%81%A9&t=31&band_rank=2&Refer=top) 706878
@@ -30,11 +30,11 @@
 1. [范丞丞不想跳科目三](https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E4%B8%8D%E6%83%B3%E8%B7%B3%E7%A7%91%E7%9B%AE%E4%B8%89%23&t=31&band_rank=17&Refer=top) 195766
 1. [金鹤龙晒迪丽热巴](https://s.weibo.com/weibo?q=%23%E9%87%91%E9%B9%A4%E9%BE%99%E6%99%92%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%23&t=31&band_rank=18&Refer=top) 194904
 1. [文韬齐思钧去看了唐九洲巡演](https://s.weibo.com/weibo?q=%E6%96%87%E9%9F%AC%E9%BD%90%E6%80%9D%E9%92%A7%E5%8E%BB%E7%9C%8B%E4%BA%86%E5%94%90%E4%B9%9D%E6%B4%B2%E5%B7%A1%E6%BC%94&t=31&band_rank=19&Refer=top) 189827
+1. [00后四帅](https://s.weibo.com/weibo?q=00%E5%90%8E%E5%9B%9B%E5%B8%85&t=31&band_rank=26&Refer=top) 184664
 1. [人要一寸一寸的拯救自己](https://s.weibo.com/weibo?q=%E4%BA%BA%E8%A6%81%E4%B8%80%E5%AF%B8%E4%B8%80%E5%AF%B8%E7%9A%84%E6%8B%AF%E6%95%91%E8%87%AA%E5%B7%B1&t=31&band_rank=20&Refer=top) 180513
 1. [没结婚用不用给外甥女压岁钱](https://s.weibo.com/weibo?q=%23%E6%B2%A1%E7%BB%93%E5%A9%9A%E7%94%A8%E4%B8%8D%E7%94%A8%E7%BB%99%E5%A4%96%E7%94%A5%E5%A5%B3%E5%8E%8B%E5%B2%81%E9%92%B1%23&t=31&band_rank=21&Refer=top) 180450
 1. [梦天拍热巴](https://s.weibo.com/weibo?q=%E6%A2%A6%E5%A4%A9%E6%8B%8D%E7%83%AD%E5%B7%B4&t=31&band_rank=22&Refer=top) 180436
 1. [沈梦辰腰椎骨头断裂](https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%A2%A6%E8%BE%B0%E8%85%B0%E6%A4%8E%E9%AA%A8%E5%A4%B4%E6%96%AD%E8%A3%82%23&t=31&band_rank=23&Refer=top) 180352
-1. [00后四帅](https://s.weibo.com/weibo?q=00%E5%90%8E%E5%9B%9B%E5%B8%85&t=31&band_rank=26&Refer=top) 169784
 1. [新加坡免签一不小心就变穷光蛋](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%85%8D%E7%AD%BE%E4%B8%80%E4%B8%8D%E5%B0%8F%E5%BF%83%E5%B0%B1%E5%8F%98%E7%A9%B7%E5%85%89%E8%9B%8B%23&t=31&band_rank=24&Refer=top) 165279
 1. [陈奕迅演唱会](https://s.weibo.com/weibo?q=%E9%99%88%E5%A5%95%E8%BF%85%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=27&Refer=top) 159021
 1. [宝妈用小馒头吸收药物喂宝宝吃](https://s.weibo.com/weibo?q=%23%E5%AE%9D%E5%A6%88%E7%94%A8%E5%B0%8F%E9%A6%92%E5%A4%B4%E5%90%B8%E6%94%B6%E8%8D%AF%E7%89%A9%E5%96%82%E5%AE%9D%E5%AE%9D%E5%90%83%23&t=31&band_rank=25&Refer=top) 158884
@@ -62,9 +62,9 @@
 1. [在暴雪时分](https://s.weibo.com/weibo?q=%E5%9C%A8%E6%9A%B4%E9%9B%AA%E6%97%B6%E5%88%86&t=31&band_rank=48&Refer=top) 84508
 1. [郑钦文赛后发布会落泪](https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E8%B5%9B%E5%90%8E%E5%8F%91%E5%B8%83%E4%BC%9A%E8%90%BD%E6%B3%AA%23&t=31&band_rank=49&Refer=top) 84386
 1. [TES拿到首胜](https://s.weibo.com/weibo?q=%23TES%E6%8B%BF%E5%88%B0%E9%A6%96%E8%83%9C%23&t=31&band_rank=50&Refer=top) 80027
+1. [师范专业报考热还会持续吗](https://s.weibo.com/weibo?q=%23%E5%B8%88%E8%8C%83%E4%B8%93%E4%B8%9A%E6%8A%A5%E8%80%83%E7%83%AD%E8%BF%98%E4%BC%9A%E6%8C%81%E7%BB%AD%E5%90%97%23&t=31&band_rank=40&Refer=top) 77207
 1. [闫妮女儿 张小斐](https://s.weibo.com/weibo?q=%E9%97%AB%E5%A6%AE%E5%A5%B3%E5%84%BF%20%E5%BC%A0%E5%B0%8F%E6%96%90&t=31&band_rank=47&Refer=top) 76671
-1. [师范专业报考热还会持续吗](https://s.weibo.com/weibo?q=%23%E5%B8%88%E8%8C%83%E4%B8%93%E4%B8%9A%E6%8A%A5%E8%80%83%E7%83%AD%E8%BF%98%E4%BC%9A%E6%8C%81%E7%BB%AD%E5%90%97%23&t=31&band_rank=40&Refer=top) 64597
-1. [白举纲陈立农离开地球表面舞台](https://s.weibo.com/weibo?q=%23%E7%99%BD%E4%B8%BE%E7%BA%B2%E9%99%88%E7%AB%8B%E5%86%9C%E7%A6%BB%E5%BC%80%E5%9C%B0%E7%90%83%E8%A1%A8%E9%9D%A2%E8%88%9E%E5%8F%B0%23&t=31&band_rank=22&Refer=top) 62410
+1. [白举纲陈立农离开地球表面舞台](https://s.weibo.com/weibo?q=%23%E7%99%BD%E4%B8%BE%E7%BA%B2%E9%99%88%E7%AB%8B%E5%86%9C%E7%A6%BB%E5%BC%80%E5%9C%B0%E7%90%83%E8%A1%A8%E9%9D%A2%E8%88%9E%E5%8F%B0%23&t=31&band_rank=22&Refer=top) 64904
 1. [吴尊 10年前的娜姐10年后的你](https://s.weibo.com/weibo?q=%E5%90%B4%E5%B0%8A%2010%E5%B9%B4%E5%89%8D%E7%9A%84%E5%A8%9C%E5%A7%9010%E5%B9%B4%E5%90%8E%E7%9A%84%E4%BD%A0&t=31&band_rank=33&Refer=top) 48032
 1. [买701号房交房变704业主怒嫌晦气](https://s.weibo.com/weibo?q=%23%E4%B9%B0701%E5%8F%B7%E6%88%BF%E4%BA%A4%E6%88%BF%E5%8F%98704%E4%B8%9A%E4%B8%BB%E6%80%92%E5%AB%8C%E6%99%A6%E6%B0%94%23&t=31&band_rank=31&Refer=top) 47618
 1. [怎么选珍珠](https://s.weibo.com/weibo?q=%E6%80%8E%E4%B9%88%E9%80%89%E7%8F%8D%E7%8F%A0&t=31&band_rank=45&Refer=top) 46507
