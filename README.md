@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-01-30 03:35:34.624273 
-![2024-01-30](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240130/2024-01-30.png?versionId=4_z8fbbed132d73df8689c40f13_f116223f662894bba_d20240129_m193534_c005_v0501012_t0009_u01706556934584) 
+最后更新时间 2024-01-30 03:49:11.266877 
+![2024-01-30](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240130/2024-01-30.png?versionId=4_z8fbbed132d73df8689c40f13_f11671905728d6738_d20240129_m194911_c005_v0501015_t0013_u01706557751203) 
 1. [为什么睡得越多反而越累](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%9D%A1%E5%BE%97%E8%B6%8A%E5%A4%9A%E5%8F%8D%E8%80%8C%E8%B6%8A%E7%B4%AF&t=31&band_rank=1&Refer=top) 1233619
 1. [卡米拉禁赛四年](https://s.weibo.com/weibo?q=%E5%8D%A1%E7%B1%B3%E6%8B%89%E7%A6%81%E8%B5%9B%E5%9B%9B%E5%B9%B4&t=31&band_rank=2&Refer=top) 936294
 1. [何以中国向海泉州](https://s.weibo.com/weibo?q=%23%E4%BD%95%E4%BB%A5%E4%B8%AD%E5%9B%BD%E5%90%91%E6%B5%B7%E6%B3%89%E5%B7%9E%23&t=31&band_rank=3&Refer=top) 710328
@@ -69,6 +69,7 @@
 1. [偶像梦幻祭2](https://s.weibo.com/weibo?q=%23%E5%81%B6%E5%83%8F%E6%A2%A6%E5%B9%BB%E7%A5%AD2%23&t=31&band_rank=32&Refer=top) 29956
 1. [林允耳环好大](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%85%81%E8%80%B3%E7%8E%AF%E5%A5%BD%E5%A4%A7%23&t=31&band_rank=44&Refer=top) 18674
 1. [我妈让我自己一个锅](https://s.weibo.com/weibo?q=%E6%88%91%E5%A6%88%E8%AE%A9%E6%88%91%E8%87%AA%E5%B7%B1%E4%B8%80%E4%B8%AA%E9%94%85&t=31&band_rank=49&Refer=top) 14202
+1. [老爸在外和在家的两幅面孔](https://s.weibo.com/weibo?q=%23%E8%80%81%E7%88%B8%E5%9C%A8%E5%A4%96%E5%92%8C%E5%9C%A8%E5%AE%B6%E7%9A%84%E4%B8%A4%E5%B9%85%E9%9D%A2%E5%AD%94%23&t=31&band_rank=50&Refer=top) 13343
 <!-- END -->
 
 历史归档 [./archives](./archives)
