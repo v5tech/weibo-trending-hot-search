@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-02-01 03:08:56.192053 
-![2024-02-01](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240201/2024-02-01.png?versionId=4_z8fbbed132d73df8689c40f13_f101b100b778130d3_d20240131_m190856_c005_v0501015_t0033_u01706728136128) 
+最后更新时间 2024-02-01 03:19:16.010270 
+![2024-02-01](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240201/2024-02-01.png?versionId=4_z8fbbed132d73df8689c40f13_f112cd65e50fa4c73_d20240131_m191915_c005_v0501012_t0055_u01706728755908) 
 1. [尿毒症是吃出来的](https://s.weibo.com/weibo?q=%23%E5%B0%BF%E6%AF%92%E7%97%87%E6%98%AF%E5%90%83%E5%87%BA%E6%9D%A5%E7%9A%84%23&t=31&band_rank=1&Refer=top) 1736369
 1. [王安宇好多白头发](https://s.weibo.com/weibo?q=%E7%8E%8B%E5%AE%89%E5%AE%87%E5%A5%BD%E5%A4%9A%E7%99%BD%E5%A4%B4%E5%8F%91&t=31&band_rank=2&Refer=top) 757752
 1. [没有血缘关系也能长得像](https://s.weibo.com/weibo?q=%E6%B2%A1%E6%9C%89%E8%A1%80%E7%BC%98%E5%85%B3%E7%B3%BB%E4%B9%9F%E8%83%BD%E9%95%BF%E5%BE%97%E5%83%8F&t=31&band_rank=5&Refer=top) 713417
@@ -65,8 +65,8 @@
 1. [人民网评吴谢宇案](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E5%90%B4%E8%B0%A2%E5%AE%87%E6%A1%88%23&t=31&band_rank=49&Refer=top) 79134
 1. [赵丽颖粉丝包场第二十条](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%B2%89%E4%B8%9D%E5%8C%85%E5%9C%BA%E7%AC%AC%E4%BA%8C%E5%8D%81%E6%9D%A1%23&t=31&band_rank=45&Refer=top) 43658
 1. [冬天最适合减肉](https://s.weibo.com/weibo?q=%23%E5%86%AC%E5%A4%A9%E6%9C%80%E9%80%82%E5%90%88%E5%87%8F%E8%82%89%23&t=31&band_rank=47&Refer=top) 33612
-1. [热辣滚烫预售开启](https://s.weibo.com/weibo?q=%23%E7%83%AD%E8%BE%A3%E6%BB%9A%E7%83%AB%E9%A2%84%E5%94%AE%E5%BC%80%E5%90%AF%23&t=31&band_rank=47&Refer=top) 16605
-1. [亚洲杯](https://s.weibo.com/weibo?q=%E4%BA%9A%E6%B4%B2%E6%9D%AF&t=31&band_rank=50&Refer=top) 15991
+1. [亚洲杯](https://s.weibo.com/weibo?q=%E4%BA%9A%E6%B4%B2%E6%9D%AF&t=31&band_rank=50&Refer=top) 24071
+1. [热辣滚烫预售开启](https://s.weibo.com/weibo?q=%23%E7%83%AD%E8%BE%A3%E6%BB%9A%E7%83%AB%E9%A2%84%E5%94%AE%E5%BC%80%E5%90%AF%23&t=31&band_rank=47&Refer=top) 17388
 <!-- END -->
 
 历史归档 [./archives](./archives)

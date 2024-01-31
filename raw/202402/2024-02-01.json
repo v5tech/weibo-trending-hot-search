@@ -223,12 +223,12 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%86%AC%E5%A4%A9%E6%9C%80%E9%80%82%E5%90%88%E5%87%8F%E8%82%89%23&t=31&band_rank=47&Refer=top",
     "hot": 33612
   },
-  "热辣滚烫预售开启": {
-    "url": "https://s.weibo.com/weibo?q=%23%E7%83%AD%E8%BE%A3%E6%BB%9A%E7%83%AB%E9%A2%84%E5%94%AE%E5%BC%80%E5%90%AF%23&t=31&band_rank=47&Refer=top",
-    "hot": 16605
-  },
   "亚洲杯": {
     "url": "https://s.weibo.com/weibo?q=%E4%BA%9A%E6%B4%B2%E6%9D%AF&t=31&band_rank=50&Refer=top",
-    "hot": 15991
+    "hot": 24071
+  },
+  "热辣滚烫预售开启": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%83%AD%E8%BE%A3%E6%BB%9A%E7%83%AB%E9%A2%84%E5%94%AE%E5%BC%80%E5%90%AF%23&t=31&band_rank=47&Refer=top",
+    "hot": 17388
   }
 }
