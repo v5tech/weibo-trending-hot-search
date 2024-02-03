@@ -55,6 +55,10 @@
     "url": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E6%BC%94%E8%AE%B2&t=31&band_rank=22&Refer=top",
     "hot": 297520
   },
+  "央视评陈立农最新舞台": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E8%AF%84%E9%99%88%E7%AB%8B%E5%86%9C%E6%9C%80%E6%96%B0%E8%88%9E%E5%8F%B0%23&t=31&band_rank=28&Refer=top",
+    "hot": 260392
+  },
   "日本队遭绝杀": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%98%9F%E9%81%AD%E7%BB%9D%E6%9D%80%23&t=31&band_rank=10&Refer=top",
     "hot": 250953
@@ -114,10 +118,6 @@
   "张杰 狂门永存": {
     "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9D%B0%20%E7%8B%82%E9%97%A8%E6%B0%B8%E5%AD%98&t=31&band_rank=27&Refer=top",
     "hot": 162235
-  },
-  "央视评陈立农最新舞台": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E8%AF%84%E9%99%88%E7%AB%8B%E5%86%9C%E6%9C%80%E6%96%B0%E8%88%9E%E5%8F%B0%23&t=31&band_rank=28&Refer=top",
-    "hot": 162224
   },
   "怜爱jiejie": {
     "url": "https://s.weibo.com/weibo?q=%E6%80%9C%E7%88%B1jiejie&t=31&band_rank=29&Refer=top",
@@ -207,9 +207,21 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%85%B0%E7%9A%84365%E4%B8%AA%E5%88%9D%E6%81%8B%E7%9E%AC%E9%97%B4%23&t=31&band_rank=50&Refer=top",
     "hot": 154317
   },
+  "吴磊少年人夫感": {
+    "url": "https://s.weibo.com/weibo?q=%E5%90%B4%E7%A3%8A%E5%B0%91%E5%B9%B4%E4%BA%BA%E5%A4%AB%E6%84%9F&t=31&band_rank=16&Refer=top",
+    "hot": 139967
+  },
   "杨氏双缝干涉实验": {
     "url": "https://s.weibo.com/weibo?q=%E6%9D%A8%E6%B0%8F%E5%8F%8C%E7%BC%9D%E5%B9%B2%E6%B6%89%E5%AE%9E%E9%AA%8C&t=31&band_rank=44&Refer=top",
     "hot": 139746
+  },
+  "于正盛赞卢昱晓": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E7%9B%9B%E8%B5%9E%E5%8D%A2%E6%98%B1%E6%99%93%23&t=31&band_rank=21&Refer=top",
+    "hot": 107258
+  },
+  "白客 娱乐圈知名Beta": {
+    "url": "https://s.weibo.com/weibo?q=%E7%99%BD%E5%AE%A2%20%E5%A8%B1%E4%B9%90%E5%9C%88%E7%9F%A5%E5%90%8DBeta&t=31&band_rank=22&Refer=top",
+    "hot": 107035
   },
   "四大名著": {
     "url": "https://s.weibo.com/weibo?q=%E5%9B%9B%E5%A4%A7%E5%90%8D%E8%91%97&t=31&band_rank=46&Refer=top",
@@ -218,5 +230,13 @@
   "天天福": {
     "url": "https://s.weibo.com/weibo?q=%E5%A4%A9%E5%A4%A9%E7%A6%8F&t=31&band_rank=48&Refer=top",
     "hot": 99780
+  },
+  "周深身边首唱": {
+    "url": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%B7%B1%E8%BA%AB%E8%BE%B9%E9%A6%96%E5%94%B1&t=31&band_rank=42&Refer=top",
+    "hot": 88501
+  },
+  "LPL群访": {
+    "url": "https://s.weibo.com/weibo?q=LPL%E7%BE%A4%E8%AE%BF&t=31&band_rank=49&Refer=top",
+    "hot": 85736
   }
 }
