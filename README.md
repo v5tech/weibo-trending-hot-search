@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-02-05 03:09:34.689306 
-![2024-02-05](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240205/2024-02-05.png?versionId=4_z8fbbed132d73df8689c40f13_f100aa733666da967_d20240204_m190934_c005_v0501017_t0020_u01707073774172) 
+最后更新时间 2024-02-05 03:19:17.167418 
+![2024-02-05](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240205/2024-02-05.png?versionId=4_z8fbbed132d73df8689c40f13_f108ef0158f50e8c5_d20240204_m191917_c005_v0501000_t0016_u01707074357102) 
 1. [合肥南站D4832列车晚点744分钟](https://s.weibo.com/weibo?q=%23%E5%90%88%E8%82%A5%E5%8D%97%E7%AB%99D4832%E5%88%97%E8%BD%A6%E6%99%9A%E7%82%B9744%E5%88%86%E9%92%9F%23&t=31&band_rank=1&Refer=top) 1142491
 1. [吃完头孢7天内不能喝酒](https://s.weibo.com/weibo?q=%23%E5%90%83%E5%AE%8C%E5%A4%B4%E5%AD%A27%E5%A4%A9%E5%86%85%E4%B8%8D%E8%83%BD%E5%96%9D%E9%85%92%23&t=31&band_rank=2&Refer=top) 781170
 1. [解锁龙年各地年味儿](https://s.weibo.com/weibo?q=%23%E8%A7%A3%E9%94%81%E9%BE%99%E5%B9%B4%E5%90%84%E5%9C%B0%E5%B9%B4%E5%91%B3%E5%84%BF%23&t=31&band_rank=3&Refer=top) 720089
@@ -70,7 +70,7 @@
 1. [治愈自己最好的方式就是忙碌和早睡](https://s.weibo.com/weibo?q=%E6%B2%BB%E6%84%88%E8%87%AA%E5%B7%B1%E6%9C%80%E5%A5%BD%E7%9A%84%E6%96%B9%E5%BC%8F%E5%B0%B1%E6%98%AF%E5%BF%99%E7%A2%8C%E5%92%8C%E6%97%A9%E7%9D%A1&t=31&band_rank=47&Refer=top) 56088
 1. [薛之谦是在赶新歌吗](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%98%AF%E5%9C%A8%E8%B5%B6%E6%96%B0%E6%AD%8C%E5%90%97%23&t=31&band_rank=26&Refer=top) 52029
 1. [格莱美](https://s.weibo.com/weibo?q=%E6%A0%BC%E8%8E%B1%E7%BE%8E&t=31&band_rank=50&Refer=top) 51535
-1. [杨千嬅快把冷门歌唱热了](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%8D%83%E5%AC%85%E5%BF%AB%E6%8A%8A%E5%86%B7%E9%97%A8%E6%AD%8C%E5%94%B1%E7%83%AD%E4%BA%86%23&t=31&band_rank=15&Refer=top) 44108
+1. [杨千嬅快把冷门歌唱热了](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%8D%83%E5%AC%85%E5%BF%AB%E6%8A%8A%E5%86%B7%E9%97%A8%E6%AD%8C%E5%94%B1%E7%83%AD%E4%BA%86%23&t=31&band_rank=15&Refer=top) 46491
 1. [王星越没搞笑但真的很好笑](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%98%9F%E8%B6%8A%E6%B2%A1%E6%90%9E%E7%AC%91%E4%BD%86%E7%9C%9F%E7%9A%84%E5%BE%88%E5%A5%BD%E7%AC%91%23&t=31&band_rank=49&Refer=top) 36460
 1. [恋与深空](https://s.weibo.com/weibo?q=%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA&t=31&band_rank=50&Refer=top) 22483
 <!-- END -->
