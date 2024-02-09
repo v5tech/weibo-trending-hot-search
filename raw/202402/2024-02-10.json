@@ -109,7 +109,7 @@
   },
   "尼格买提要碎了": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E8%A6%81%E7%A2%8E%E4%BA%86%23&t=31&band_rank=44&Refer=top",
-    "hot": 1727168
+    "hot": 1744745
   },
   "马丽的鞋好看": {
     "url": "https://s.weibo.com/weibo?q=%E9%A9%AC%E4%B8%BD%E7%9A%84%E9%9E%8B%E5%A5%BD%E7%9C%8B&t=31&band_rank=28&Refer=top",
@@ -290,5 +290,17 @@
   "原神": {
     "url": "https://s.weibo.com/weibo?q=%E5%8E%9F%E7%A5%9E&t=31&band_rank=49&Refer=top",
     "hot": 224065
+  },
+  "本命年": {
+    "url": "https://s.weibo.com/weibo?q=%E6%9C%AC%E5%91%BD%E5%B9%B4&t=31&band_rank=25&Refer=top",
+    "hot": 195805
+  },
+  "白敬亭春晚下班直播": {
+    "url": "https://s.weibo.com/weibo?q=%E7%99%BD%E6%95%AC%E4%BA%AD%E6%98%A5%E6%99%9A%E4%B8%8B%E7%8F%AD%E7%9B%B4%E6%92%AD&t=31&band_rank=33&Refer=top",
+    "hot": 195282
+  },
+  "阴阳师守岁庆典": {
+    "url": "https://s.weibo.com/weibo?q=%E9%98%B4%E9%98%B3%E5%B8%88%E5%AE%88%E5%B2%81%E5%BA%86%E5%85%B8&t=31&band_rank=49&Refer=top",
+    "hot": 191871
   }
 }
