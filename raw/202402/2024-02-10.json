@@ -107,6 +107,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%99%9A%E6%94%B6%E8%A7%86%E7%8E%87%E7%A0%B430%25%23&t=31&band_rank=18&Refer=top",
     "hot": 2018099
   },
+  "尼格买提要碎了": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E8%A6%81%E7%A2%8E%E4%BA%86%23&t=31&band_rank=44&Refer=top",
+    "hot": 1715599
+  },
   "马丽的鞋好看": {
     "url": "https://s.weibo.com/weibo?q=%E9%A9%AC%E4%B8%BD%E7%9A%84%E9%9E%8B%E5%A5%BD%E7%9C%8B&t=31&band_rank=28&Refer=top",
     "hot": 1687502
@@ -134,10 +138,6 @@
   "放炮": {
     "url": "https://s.weibo.com/weibo?q=%E6%94%BE%E7%82%AE&t=31&band_rank=34&Refer=top",
     "hot": 1478652
-  },
-  "尼格买提要碎了": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E8%A6%81%E7%A2%8E%E4%BA%86%23&t=31&band_rank=44&Refer=top",
-    "hot": 1478603
   },
   "还得是沈腾马丽": {
     "url": "https://s.weibo.com/weibo?q=%E8%BF%98%E5%BE%97%E6%98%AF%E6%B2%88%E8%85%BE%E9%A9%AC%E4%B8%BD&t=31&band_rank=11&Refer=top",
@@ -281,6 +281,6 @@
   },
   "蛋仔派对进不去": {
     "url": "https://s.weibo.com/weibo?q=%E8%9B%8B%E4%BB%94%E6%B4%BE%E5%AF%B9%E8%BF%9B%E4%B8%8D%E5%8E%BB&t=31&band_rank=48&Refer=top",
-    "hot": 297386
+    "hot": 439574
   }
 }
