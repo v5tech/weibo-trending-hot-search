@@ -242,5 +242,13 @@
   "春晚广告好多": {
     "url": "https://s.weibo.com/weibo?q=%E6%98%A5%E6%99%9A%E5%B9%BF%E5%91%8A%E5%A5%BD%E5%A4%9A&t=31&band_rank=46&Refer=top",
     "hot": 25898
+  },
+  "春节档": {
+    "url": "https://s.weibo.com/weibo?q=%E6%98%A5%E8%8A%82%E6%A1%A3&t=31&band_rank=41&Refer=top",
+    "hot": 21405
+  },
+  "锦鲤舞 美到我尖叫": {
+    "url": "https://s.weibo.com/weibo?q=%E9%94%A6%E9%B2%A4%E8%88%9E%20%E7%BE%8E%E5%88%B0%E6%88%91%E5%B0%96%E5%8F%AB&t=31&band_rank=48&Refer=top",
+    "hot": 20447
   }
 }
