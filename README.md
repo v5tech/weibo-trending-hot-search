@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-02-12 01:24:27.327154 
-![2024-02-12](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240212/2024-02-12.png?versionId=4_z8fbbed132d73df8689c40f13_f119828812e27bef4_d20240211_m172427_c005_v0501009_t0051_u01707672267280) 
+最后更新时间 2024-02-12 01:34:23.582204 
+![2024-02-12](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240212/2024-02-12.png?versionId=4_z8fbbed132d73df8689c40f13_f108a55756916e0b7_d20240211_m173423_c005_v0501012_t0030_u01707672863119) 
 1. [爸爸去哪儿阿拉蕾长大了](https://s.weibo.com/weibo?q=%E7%88%B8%E7%88%B8%E5%8E%BB%E5%93%AA%E5%84%BF%E9%98%BF%E6%8B%89%E8%95%BE%E9%95%BF%E5%A4%A7%E4%BA%86&t=31&band_rank=1&Refer=top) 1706355
 1. [泰国偶遇奚梦瑶和婆婆逛街](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E5%81%B6%E9%81%87%E5%A5%9A%E6%A2%A6%E7%91%B6%E5%92%8C%E5%A9%86%E5%A9%86%E9%80%9B%E8%A1%97%23&t=31&band_rank=2&Refer=top) 1022564
 1. [全球同庆中国年](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E5%90%8C%E5%BA%86%E4%B8%AD%E5%9B%BD%E5%B9%B4%23&t=31&band_rank=3&Refer=top) 984672
@@ -64,7 +64,9 @@
 1. [红毯先生 暴打资方](https://s.weibo.com/weibo?q=%E7%BA%A2%E6%AF%AF%E5%85%88%E7%94%9F%20%E6%9A%B4%E6%89%93%E8%B5%84%E6%96%B9&t=31&band_rank=48&Refer=top) 105415
 1. [老人门前空地被儿女归来的车填满](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E9%97%A8%E5%89%8D%E7%A9%BA%E5%9C%B0%E8%A2%AB%E5%84%BF%E5%A5%B3%E5%BD%92%E6%9D%A5%E7%9A%84%E8%BD%A6%E5%A1%AB%E6%BB%A1%23&t=31&band_rank=50&Refer=top) 105380
 1. [飞驰人生2彩蛋呢](https://s.weibo.com/weibo?q=%23%E9%A3%9E%E9%A9%B0%E4%BA%BA%E7%94%9F2%E5%BD%A9%E8%9B%8B%E5%91%A2%23&t=31&band_rank=47&Refer=top) 101097
+1. [贾玲称过去一年不快乐但值得](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E7%8E%B2%E7%A7%B0%E8%BF%87%E5%8E%BB%E4%B8%80%E5%B9%B4%E4%B8%8D%E5%BF%AB%E4%B9%90%E4%BD%86%E5%80%BC%E5%BE%97%23&t=31&band_rank=26&Refer=top) 88628
 1. [徐冬冬cos华妃](https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%86%AC%E5%86%ACcos%E5%8D%8E%E5%A6%83%23&t=31&band_rank=45&Refer=top) 81457
+1. [经常喝碳酸饮料会影响消化功能](https://s.weibo.com/weibo?q=%23%E7%BB%8F%E5%B8%B8%E5%96%9D%E7%A2%B3%E9%85%B8%E9%A5%AE%E6%96%99%E4%BC%9A%E5%BD%B1%E5%93%8D%E6%B6%88%E5%8C%96%E5%8A%9F%E8%83%BD%23&t=31&band_rank=49&Refer=top) 53350
 <!-- END -->
 
 历史归档 [./archives](./archives)
