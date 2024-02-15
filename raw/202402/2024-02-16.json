@@ -87,6 +87,10 @@
     "url": "https://s.weibo.com/weibo?q=%E7%AC%AC%E4%BA%8C%E5%8D%81%E6%9D%A1&t=31&band_rank=20&Refer=top",
     "hot": 233576
   },
+  "马丽主演电影票房破180亿": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%B8%BD%E4%B8%BB%E6%BC%94%E7%94%B5%E5%BD%B1%E7%A5%A8%E6%88%BF%E7%A0%B4180%E4%BA%BF%23&t=31&band_rank=20&Refer=top",
+    "hot": 230318
+  },
   "谢楠看到瘦下来的贾玲后一直发抖": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%B0%A2%E6%A5%A0%E7%9C%8B%E5%88%B0%E7%98%A6%E4%B8%8B%E6%9D%A5%E7%9A%84%E8%B4%BE%E7%8E%B2%E5%90%8E%E4%B8%80%E7%9B%B4%E5%8F%91%E6%8A%96%23&t=31&band_rank=21&Refer=top",
     "hot": 226788
@@ -98,10 +102,6 @@
   "中方驳斥卡梅伦将红海和台湾海峡混为一谈": {
     "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E6%96%B9%E9%A9%B3%E6%96%A5%E5%8D%A1%E6%A2%85%E4%BC%A6%E5%B0%86%E7%BA%A2%E6%B5%B7%E5%92%8C%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1%E6%B7%B7%E4%B8%BA%E4%B8%80%E8%B0%88&t=31&band_rank=23&Refer=top",
     "hot": 221295
-  },
-  "马丽主演电影票房破180亿": {
-    "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%B8%BD%E4%B8%BB%E6%BC%94%E7%94%B5%E5%BD%B1%E7%A5%A8%E6%88%BF%E7%A0%B4180%E4%BA%BF%23&t=31&band_rank=20&Refer=top",
-    "hot": 218723
   },
   "天亮了 爸你看到了吗": {
     "url": "https://s.weibo.com/weibo?q=%E5%A4%A9%E4%BA%AE%E4%BA%86%20%E7%88%B8%E4%BD%A0%E7%9C%8B%E5%88%B0%E4%BA%86%E5%90%97&t=31&band_rank=24&Refer=top",
@@ -229,7 +229,7 @@
   },
   "哪些时候你觉得单身也挺好的": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%93%AA%E4%BA%9B%E6%97%B6%E5%80%99%E4%BD%A0%E8%A7%89%E5%BE%97%E5%8D%95%E8%BA%AB%E4%B9%9F%E6%8C%BA%E5%A5%BD%E7%9A%84%23&t=31&band_rank=50&Refer=top",
-    "hot": 45245
+    "hot": 46613
   },
   "07年快男抗洪旧照": {
     "url": "https://s.weibo.com/weibo?q=07%E5%B9%B4%E5%BF%AB%E7%94%B7%E6%8A%97%E6%B4%AA%E6%97%A7%E7%85%A7&t=31&band_rank=47&Refer=top",
@@ -238,5 +238,9 @@
   "张颂文 治愈": {
     "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E9%A2%82%E6%96%87%20%E6%B2%BB%E6%84%88&t=31&band_rank=48&Refer=top",
     "hot": 38488
+  },
+  "阿瓦迪夫卡局势": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E7%93%A6%E8%BF%AA%E5%A4%AB%E5%8D%A1%E5%B1%80%E5%8A%BF%23&t=31&band_rank=49&Refer=top",
+    "hot": 35199
   }
 }
