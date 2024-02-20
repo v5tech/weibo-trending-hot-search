@@ -243,6 +243,10 @@
     "url": "https://s.weibo.com/weibo?q=%E8%A5%BF%E6%9D%91%E5%8A%9BDANIELLE%20Challenge&t=31&band_rank=47&Refer=top",
     "hot": 62910
   },
+  "上海暴雨": {
+    "url": "https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E6%9A%B4%E9%9B%A8&t=31&band_rank=50&Refer=top",
+    "hot": 56950
+  },
   "狗狗的耳朵一只站岗一只稍息": {
     "url": "https://s.weibo.com/weibo?q=%E7%8B%97%E7%8B%97%E7%9A%84%E8%80%B3%E6%9C%B5%E4%B8%80%E5%8F%AA%E7%AB%99%E5%B2%97%E4%B8%80%E5%8F%AA%E7%A8%8D%E6%81%AF&t=31&band_rank=49&Refer=top",
     "hot": 49414
@@ -289,10 +293,6 @@
   },
   "生死面前什么是更好的抉择": {
     "url": "https://s.weibo.com/weibo?q=%E7%94%9F%E6%AD%BB%E9%9D%A2%E5%89%8D%E4%BB%80%E4%B9%88%E6%98%AF%E6%9B%B4%E5%A5%BD%E7%9A%84%E6%8A%89%E6%8B%A9&t=31&band_rank=47&Refer=top",
-    "hot": 12578
-  },
-  "上海暴雨": {
-    "url": "https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E6%9A%B4%E9%9B%A8&t=31&band_rank=50&Refer=top",
-    "hot": 12533
+    "hot": 12591
   }
 }
