@@ -91,6 +91,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E6%8A%8A%E5%AD%A6%E5%8E%86%E6%94%B9%E6%88%90%E9%AB%98%E4%B8%AD%E5%90%8E%E7%BB%88%E4%BA%8E%E6%89%BE%E5%88%B0%E5%B7%A5%E4%BD%9C%23&t=31&band_rank=19&Refer=top",
     "hot": 226931
   },
+  "法国观众说封神比漫威电影好看": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E8%A7%82%E4%BC%97%E8%AF%B4%E5%B0%81%E7%A5%9E%E6%AF%94%E6%BC%AB%E5%A8%81%E7%94%B5%E5%BD%B1%E5%A5%BD%E7%9C%8B%23&t=31&band_rank=24&Refer=top",
+    "hot": 225394
+  },
   "周五爆改周四": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%BA%94%E7%88%86%E6%94%B9%E5%91%A8%E5%9B%9B%23&t=31&band_rank=20&Refer=top",
     "hot": 221811
@@ -138,10 +142,6 @@
   "上海和深圳的区别在哪": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%92%8C%E6%B7%B1%E5%9C%B3%E7%9A%84%E5%8C%BA%E5%88%AB%E5%9C%A8%E5%93%AA%23&t=31&band_rank=32&Refer=top",
     "hot": 176193
-  },
-  "法国观众说封神比漫威电影好看": {
-    "url": "https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E8%A7%82%E4%BC%97%E8%AF%B4%E5%B0%81%E7%A5%9E%E6%AF%94%E6%BC%AB%E5%A8%81%E7%94%B5%E5%BD%B1%E5%A5%BD%E7%9C%8B%23&t=31&band_rank=24&Refer=top",
-    "hot": 169403
   },
   "网传浪姐2024名单": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E6%B5%AA%E5%A7%902024%E5%90%8D%E5%8D%95%23&t=31&band_rank=33&Refer=top",
@@ -233,6 +233,10 @@
   },
   "我的妈妈是大明星": {
     "url": "https://s.weibo.com/weibo?q=%E6%88%91%E7%9A%84%E5%A6%88%E5%A6%88%E6%98%AF%E5%A4%A7%E6%98%8E%E6%98%9F&t=31&band_rank=50&Refer=top",
-    "hot": 38512
+    "hot": 47883
+  },
+  "倪妮钻石背心": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%80%AA%E5%A6%AE%E9%92%BB%E7%9F%B3%E8%83%8C%E5%BF%83%23&t=31&band_rank=48&Refer=top",
+    "hot": 41355
   }
 }
