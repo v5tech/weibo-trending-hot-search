@@ -247,6 +247,10 @@
     "url": "https://s.weibo.com/weibo?q=%E6%98%A5%E6%A5%A0%20%E7%83%AD%E8%BE%A3%E6%BB%9A%E7%83%AB%E6%9C%80%E4%B8%8D%E5%80%BC%E4%B8%80%E6%8F%90%E7%9A%84%E6%98%AF%E5%87%8F%E9%87%8D&t=31&band_rank=35&Refer=top",
     "hot": 41152
   },
+  "张艺兴全英文新歌": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E5%85%A8%E8%8B%B1%E6%96%87%E6%96%B0%E6%AD%8C%23&t=31&band_rank=34&Refer=top",
+    "hot": 31029
+  },
   "猎冰": {
     "url": "https://s.weibo.com/weibo?q=%E7%8C%8E%E5%86%B0&t=31&band_rank=47&Refer=top",
     "hot": 29287
@@ -254,9 +258,5 @@
   "狼队对战RW": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%8B%BC%E9%98%9F%E5%AF%B9%E6%88%98RW%23&t=31&band_rank=50&Refer=top",
     "hot": 26986
-  },
-  "张艺兴全英文新歌": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E5%85%A8%E8%8B%B1%E6%96%87%E6%96%B0%E6%AD%8C%23&t=31&band_rank=34&Refer=top",
-    "hot": 25731
   }
 }
