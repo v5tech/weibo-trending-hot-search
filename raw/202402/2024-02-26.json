@@ -83,6 +83,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%80%B3%E9%AA%A8%E9%92%89%23&t=31&band_rank=22&Refer=top",
     "hot": 320985
   },
+  "赴华韩国游客数量暴增900%": {
+    "url": "https://s.weibo.com/weibo?q=%23%E8%B5%B4%E5%8D%8E%E9%9F%A9%E5%9B%BD%E6%B8%B8%E5%AE%A2%E6%95%B0%E9%87%8F%E6%9A%B4%E5%A2%9E900%25%23&t=31&band_rank=21&Refer=top",
+    "hot": 306972
+  },
   "杭州劝架车主想的是能救两个人": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%8A%9D%E6%9E%B6%E8%BD%A6%E4%B8%BB%E6%83%B3%E7%9A%84%E6%98%AF%E8%83%BD%E6%95%91%E4%B8%A4%E4%B8%AA%E4%BA%BA%23&t=31&band_rank=18&Refer=top",
     "hot": 275622
@@ -90,10 +94,6 @@
   "马龙说这是我最后一届世锦赛": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99%E8%AF%B4%E8%BF%99%E6%98%AF%E6%88%91%E6%9C%80%E5%90%8E%E4%B8%80%E5%B1%8A%E4%B8%96%E9%94%A6%E8%B5%9B%23&t=31&band_rank=19&Refer=top",
     "hot": 259626
-  },
-  "赴华韩国游客数量暴增900%": {
-    "url": "https://s.weibo.com/weibo?q=%23%E8%B5%B4%E5%8D%8E%E9%9F%A9%E5%9B%BD%E6%B8%B8%E5%AE%A2%E6%95%B0%E9%87%8F%E6%9A%B4%E5%A2%9E900%25%23&t=31&band_rank=21&Refer=top",
-    "hot": 229752
   },
   "宗庆后逝世": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%AE%97%E5%BA%86%E5%90%8E%E9%80%9D%E4%B8%96%23&t=31&band_rank=20&Refer=top",
@@ -217,6 +217,10 @@
   },
   "这衣柜不会是全福建统一吧": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E8%A1%A3%E6%9F%9C%E4%B8%8D%E4%BC%9A%E6%98%AF%E5%85%A8%E7%A6%8F%E5%BB%BA%E7%BB%9F%E4%B8%80%E5%90%A7%23&t=31&band_rank=50&Refer=top",
-    "hot": 52631
+    "hot": 57102
+  },
+  "没人发现上班的成本很高吗": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B2%A1%E4%BA%BA%E5%8F%91%E7%8E%B0%E4%B8%8A%E7%8F%AD%E7%9A%84%E6%88%90%E6%9C%AC%E5%BE%88%E9%AB%98%E5%90%97%23&t=31&band_rank=48&Refer=top",
+    "hot": 40816
   }
 }
