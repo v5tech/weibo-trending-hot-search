@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-02-29 01:10:35.736232 
-![2024-02-29](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240229/2024-02-29.png?versionId=4_z8fbbed132d73df8689c40f13_f109551dd01b745d2_d20240228_m171035_c005_v0501010_t0017_u01709140235529) 
+最后更新时间 2024-02-29 01:26:30.290491 
+![2024-02-29](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240229/2024-02-29.png?versionId=4_z8fbbed132d73df8689c40f13_f118e9e82cf0829c2_d20240228_m172630_c005_v0501010_t0051_u01709141190170) 
 1. [厅长退休后买13套房给子孙](https://s.weibo.com/weibo?q=%23%E5%8E%85%E9%95%BF%E9%80%80%E4%BC%91%E5%90%8E%E4%B9%B013%E5%A5%97%E6%88%BF%E7%BB%99%E5%AD%90%E5%AD%99%23&t=31&band_rank=1&Refer=top) 1049505
 1. [教育局回应女老师打骂学生](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E5%A5%B3%E8%80%81%E5%B8%88%E6%89%93%E9%AA%82%E5%AD%A6%E7%94%9F%23&t=31&band_rank=2&Refer=top) 898642
 1. [我国海上巨无霸已安装就位](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E6%B5%B7%E4%B8%8A%E5%B7%A8%E6%97%A0%E9%9C%B8%E5%B7%B2%E5%AE%89%E8%A3%85%E5%B0%B1%E4%BD%8D%23&t=31&band_rank=3&Refer=top) 652440
@@ -61,11 +61,12 @@
 1. [陈赫晒妻子女儿背影照](https://s.weibo.com/weibo?q=%23%E9%99%88%E8%B5%AB%E6%99%92%E5%A6%BB%E5%AD%90%E5%A5%B3%E5%84%BF%E8%83%8C%E5%BD%B1%E7%85%A7%23&t=31&band_rank=47&Refer=top) 96457
 1. [杨幂8年前就配过功夫熊猫](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%828%E5%B9%B4%E5%89%8D%E5%B0%B1%E9%85%8D%E8%BF%87%E5%8A%9F%E5%A4%AB%E7%86%8A%E7%8C%AB&t=31&band_rank=48&Refer=top) 91816
 1. [魏大勋 看熟人演戏的尴尬](https://s.weibo.com/weibo?q=%E9%AD%8F%E5%A4%A7%E5%8B%8B%20%E7%9C%8B%E7%86%9F%E4%BA%BA%E6%BC%94%E6%88%8F%E7%9A%84%E5%B0%B4%E5%B0%AC&t=31&band_rank=49&Refer=top) 90832
+1. [BTC](https://s.weibo.com/weibo?q=BTC&t=31&band_rank=39&Refer=top) 89605
 1. [父母不扫兴且情绪价值给到满了](https://s.weibo.com/weibo?q=%E7%88%B6%E6%AF%8D%E4%B8%8D%E6%89%AB%E5%85%B4%E4%B8%94%E6%83%85%E7%BB%AA%E4%BB%B7%E5%80%BC%E7%BB%99%E5%88%B0%E6%BB%A1%E4%BA%86&t=31&band_rank=50&Refer=top) 88342
 1. [慢动作鲨鱼夹教程](https://s.weibo.com/weibo?q=%E6%85%A2%E5%8A%A8%E4%BD%9C%E9%B2%A8%E9%B1%BC%E5%A4%B9%E6%95%99%E7%A8%8B&t=31&band_rank=36&Refer=top) 68036
-1. [BTC](https://s.weibo.com/weibo?q=BTC&t=31&band_rank=39&Refer=top) 64855
-1. [男朋友寄来的一周年纪念礼物](https://s.weibo.com/weibo?q=%E7%94%B7%E6%9C%8B%E5%8F%8B%E5%AF%84%E6%9D%A5%E7%9A%84%E4%B8%80%E5%91%A8%E5%B9%B4%E7%BA%AA%E5%BF%B5%E7%A4%BC%E7%89%A9&t=31&band_rank=40&Refer=top) 64507
+1. [男朋友寄来的一周年纪念礼物](https://s.weibo.com/weibo?q=%E7%94%B7%E6%9C%8B%E5%8F%8B%E5%AF%84%E6%9D%A5%E7%9A%84%E4%B8%80%E5%91%A8%E5%B9%B4%E7%BA%AA%E5%BF%B5%E7%A4%BC%E7%89%A9&t=31&band_rank=40&Refer=top) 65806
 1. [飞驰人生](https://s.weibo.com/weibo?q=%E9%A3%9E%E9%A9%B0%E4%BA%BA%E7%94%9F&t=31&band_rank=50&Refer=top) 61775
+1. [面包店的浪费现象有多严重](https://s.weibo.com/weibo?q=%23%E9%9D%A2%E5%8C%85%E5%BA%97%E7%9A%84%E6%B5%AA%E8%B4%B9%E7%8E%B0%E8%B1%A1%E6%9C%89%E5%A4%9A%E4%B8%A5%E9%87%8D%23&t=31&band_rank=42&Refer=top) 49935
 <!-- END -->
 
 历史归档 [./archives](./archives)
