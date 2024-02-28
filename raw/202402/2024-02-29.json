@@ -75,6 +75,10 @@
     "url": "https://s.weibo.com/weibo?q=%E6%9D%8E%E6%B4%99%E8%B5%AB%20%E7%94%B7%E7%8B%90%E7%8B%B8&t=31&band_rank=18&Refer=top",
     "hot": 237189
   },
+  "面包店的浪费现象有多严重": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%9D%A2%E5%8C%85%E5%BA%97%E7%9A%84%E6%B5%AA%E8%B4%B9%E7%8E%B0%E8%B1%A1%E6%9C%89%E5%A4%9A%E4%B8%A5%E9%87%8D%23&t=31&band_rank=42&Refer=top",
+    "hot": 229257
+  },
   "舒畅红色马面裙": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%88%92%E7%95%85%E7%BA%A2%E8%89%B2%E9%A9%AC%E9%9D%A2%E8%A3%99%23&t=31&band_rank=19&Refer=top",
     "hot": 224441
@@ -183,10 +187,6 @@
     "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E5%90%83%E8%BF%99%E4%BA%9B%E4%B8%9C%E8%A5%BF%E5%8F%AF%E7%BC%93%E8%A7%A3%E8%82%A5%E8%83%96%23&t=31&band_rank=43&Refer=top",
     "hot": 110081
   },
-  "面包店的浪费现象有多严重": {
-    "url": "https://s.weibo.com/weibo?q=%23%E9%9D%A2%E5%8C%85%E5%BA%97%E7%9A%84%E6%B5%AA%E8%B4%B9%E7%8E%B0%E8%B1%A1%E6%9C%89%E5%A4%9A%E4%B8%A5%E9%87%8D%23&t=31&band_rank=42&Refer=top",
-    "hot": 108216
-  },
   "古希腊掌管teenager的神": {
     "url": "https://s.weibo.com/weibo?q=%E5%8F%A4%E5%B8%8C%E8%85%8A%E6%8E%8C%E7%AE%A1teenager%E7%9A%84%E7%A5%9E&t=31&band_rank=37&Refer=top",
     "hot": 106573
@@ -234,5 +234,13 @@
   "飞驰人生": {
     "url": "https://s.weibo.com/weibo?q=%E9%A3%9E%E9%A9%B0%E4%BA%BA%E7%94%9F&t=31&band_rank=50&Refer=top",
     "hot": 61775
+  },
+  "全球发音": {
+    "url": "https://s.weibo.com/weibo?q=%E5%85%A8%E7%90%83%E5%8F%91%E9%9F%B3&t=31&band_rank=37&Refer=top",
+    "hot": 33843
+  },
+  "祁煜 奇遇": {
+    "url": "https://s.weibo.com/weibo?q=%E7%A5%81%E7%85%9C%20%E5%A5%87%E9%81%87&t=31&band_rank=39&Refer=top",
+    "hot": 31238
   }
 }
