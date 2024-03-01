@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-03-02 04:11:58.147687 
-![2024-03-02](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240302/2024-03-02.png?versionId=4_z8fbbed132d73df8689c40f13_f1111377c4c8cefaf_d20240301_m201158_c005_v0501017_t0028_u01709323917977) 
+最后更新时间 2024-03-02 04:24:02.923682 
+![2024-03-02](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240302/2024-03-02.png?versionId=4_z8fbbed132d73df8689c40f13_f11491893815448db_d20240301_m202402_c005_v0501015_t0020_u01709324642793) 
 1. [蔡英文办公室中枪卫兵死亡](https://s.weibo.com/weibo?q=%23%E8%94%A1%E8%8B%B1%E6%96%87%E5%8A%9E%E5%85%AC%E5%AE%A4%E4%B8%AD%E6%9E%AA%E5%8D%AB%E5%85%B5%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=10&Refer=top) 3018435
 1. [蔡英文办公室一卫兵中枪](https://s.weibo.com/weibo?q=%23%E8%94%A1%E8%8B%B1%E6%96%87%E5%8A%9E%E5%85%AC%E5%AE%A4%E4%B8%80%E5%8D%AB%E5%85%B5%E4%B8%AD%E6%9E%AA%23&t=31&band_rank=1&Refer=top) 1562327
 1. [一组数据看青山定不负人](https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%BB%84%E6%95%B0%E6%8D%AE%E7%9C%8B%E9%9D%92%E5%B1%B1%E5%AE%9A%E4%B8%8D%E8%B4%9F%E4%BA%BA%23&t=31&band_rank=3&Refer=top) 1113348
@@ -79,8 +79,9 @@
 1. [虞书欣牛奶肌](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%89%9B%E5%A5%B6%E8%82%8C%23&t=31&band_rank=47&Refer=top) 32254
 1. [慢冷式恋爱](https://s.weibo.com/weibo?q=%23%E6%85%A2%E5%86%B7%E5%BC%8F%E6%81%8B%E7%88%B1%23&t=31&band_rank=42&Refer=top) 28188
 1. [张真源的晚安小屋](https://s.weibo.com/weibo?q=%E5%BC%A0%E7%9C%9F%E6%BA%90%E7%9A%84%E6%99%9A%E5%AE%89%E5%B0%8F%E5%B1%8B&t=31&band_rank=46&Refer=top) 20905
-1. [蹭麻辣烫三个月流浪狗的变化](https://s.weibo.com/weibo?q=%23%E8%B9%AD%E9%BA%BB%E8%BE%A3%E7%83%AB%E4%B8%89%E4%B8%AA%E6%9C%88%E6%B5%81%E6%B5%AA%E7%8B%97%E7%9A%84%E5%8F%98%E5%8C%96%23&t=31&band_rank=40&Refer=top) 15151
+1. [蹭麻辣烫三个月流浪狗的变化](https://s.weibo.com/weibo?q=%23%E8%B9%AD%E9%BA%BB%E8%BE%A3%E7%83%AB%E4%B8%89%E4%B8%AA%E6%9C%88%E6%B5%81%E6%B5%AA%E7%8B%97%E7%9A%84%E5%8F%98%E5%8C%96%23&t=31&band_rank=40&Refer=top) 20678
 1. [颖儿再演夏冬春](https://s.weibo.com/weibo?q=%23%E9%A2%96%E5%84%BF%E5%86%8D%E6%BC%94%E5%A4%8F%E5%86%AC%E6%98%A5%23&t=31&band_rank=42&Refer=top) 15151
+1. [酒店回应只能外国人穿拖鞋用餐](https://s.weibo.com/weibo?q=%23%E9%85%92%E5%BA%97%E5%9B%9E%E5%BA%94%E5%8F%AA%E8%83%BD%E5%A4%96%E5%9B%BD%E4%BA%BA%E7%A9%BF%E6%8B%96%E9%9E%8B%E7%94%A8%E9%A4%90%23&t=31&band_rank=44&Refer=top) 14286
 <!-- END -->
 
 历史归档 [./archives](./archives)
