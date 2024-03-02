@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-03-03 04:21:40.644777 
-![2024-03-03](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240303/2024-03-03.png?versionId=4_z8fbbed132d73df8689c40f13_f10507f1172245d3c_d20240302_m202140_c005_v0501018_t0046_u01709410900455) 
+最后更新时间 2024-03-03 04:34:26.788138 
+![2024-03-03](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240303/2024-03-03.png?versionId=4_z8fbbed132d73df8689c40f13_f10117dfcf0c8094f_d20240302_m203426_c005_v0501018_t0017_u01709411666550) 
 1. [快递员得知新规两天后离职](https://s.weibo.com/weibo?q=%23%E5%BF%AB%E9%80%92%E5%91%98%E5%BE%97%E7%9F%A5%E6%96%B0%E8%A7%84%E4%B8%A4%E5%A4%A9%E5%90%8E%E7%A6%BB%E8%81%8C%23&t=31&band_rank=1&Refer=top) 1898875
 1. [郑合惠子谈咖位不匹配](https://s.weibo.com/weibo?q=%23%E9%83%91%E5%90%88%E6%83%A0%E5%AD%90%E8%B0%88%E5%92%96%E4%BD%8D%E4%B8%8D%E5%8C%B9%E9%85%8D%23&t=31&band_rank=2&Refer=top) 735758
 1. [花楼](https://s.weibo.com/weibo?q=%E8%8A%B1%E6%A5%BC&t=31&band_rank=8&Refer=top) 690699
@@ -73,6 +73,7 @@
 1. [剪5分钟头陪演戏1小时](https://s.weibo.com/weibo?q=%23%E5%89%AA5%E5%88%86%E9%92%9F%E5%A4%B4%E9%99%AA%E6%BC%94%E6%88%8F1%E5%B0%8F%E6%97%B6%23&t=31&band_rank=50&Refer=top) 24830
 1. [港星李焯宁44岁状态](https://s.weibo.com/weibo?q=%23%E6%B8%AF%E6%98%9F%E6%9D%8E%E7%84%AF%E5%AE%8144%E5%B2%81%E7%8A%B6%E6%80%81%23&t=31&band_rank=31&Refer=top) 22119
 1. [哈圈刻板印象](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%9C%88%E5%88%BB%E6%9D%BF%E5%8D%B0%E8%B1%A1%23&t=31&band_rank=44&Refer=top) 16733
+1. [蔡文静晒手机壳](https://s.weibo.com/weibo?q=%23%E8%94%A1%E6%96%87%E9%9D%99%E6%99%92%E6%89%8B%E6%9C%BA%E5%A3%B3%23&t=31&band_rank=42&Refer=top) 14611
 <!-- END -->
 
 历史归档 [./archives](./archives)
