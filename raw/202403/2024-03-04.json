@@ -219,6 +219,10 @@
     "url": "https://s.weibo.com/weibo?q=%E9%A1%BE%E5%AF%BB%20%E6%88%91%E6%98%AF%E6%A0%A1%E8%8D%89&t=31&band_rank=36&Refer=top",
     "hot": 73830
   },
+  "陈卓璇的古装": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E5%8D%93%E7%92%87%E7%9A%84%E5%8F%A4%E8%A3%85%23&t=31&band_rank=20&Refer=top",
+    "hot": 34065
+  },
   "马森拍的范丞丞": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%A3%AE%E6%8B%8D%E7%9A%84%E8%8C%83%E4%B8%9E%E4%B8%9E%23&t=31&band_rank=44&Refer=top",
     "hot": 29565
@@ -238,5 +242,9 @@
   "女大学生逛街现状": {
     "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%80%9B%E8%A1%97%E7%8E%B0%E7%8A%B6&t=31&band_rank=43&Refer=top",
     "hot": 22074
+  },
+  "沈星回 你教教我": {
+    "url": "https://s.weibo.com/weibo?q=%E6%B2%88%E6%98%9F%E5%9B%9E%20%E4%BD%A0%E6%95%99%E6%95%99%E6%88%91&t=31&band_rank=46&Refer=top",
+    "hot": 19323
   }
 }
