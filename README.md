@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-03-05 03:19:30.901611 
-![2024-03-05](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240305/2024-03-05.png?versionId=4_z8fbbed132d73df8689c40f13_f103e82871819b419_d20240304_m191930_c005_v0501013_t0019_u01709579970409) 
+最后更新时间 2024-03-05 03:34:51.245277 
+![2024-03-05](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240305/2024-03-05.png?versionId=4_z8fbbed132d73df8689c40f13_f10060ff901c2c137_d20240304_m193451_c005_v0501012_t0000_u01709580891064) 
 1. [女子刮彩票中一辆车没发现扭头就走](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%88%AE%E5%BD%A9%E7%A5%A8%E4%B8%AD%E4%B8%80%E8%BE%86%E8%BD%A6%E6%B2%A1%E5%8F%91%E7%8E%B0%E6%89%AD%E5%A4%B4%E5%B0%B1%E8%B5%B0%23&t=31&band_rank=1&Refer=top) 971847
 1. [建议增加年轻人年假天数](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%A2%9E%E5%8A%A0%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%B9%B4%E5%81%87%E5%A4%A9%E6%95%B0%23&t=31&band_rank=2&Refer=top) 548319
 1. [100秒说两会](https://s.weibo.com/weibo?q=%23100%E7%A7%92%E8%AF%B4%E4%B8%A4%E4%BC%9A%23&t=31&band_rank=3&Refer=top) 430471
