@@ -254,5 +254,13 @@
   "IVE台北": {
     "url": "https://s.weibo.com/weibo?q=IVE%E5%8F%B0%E5%8C%97&t=31&band_rank=48&Refer=top",
     "hot": 24057
+  },
+  "陈桂林原型": {
+    "url": "https://s.weibo.com/weibo?q=%E9%99%88%E6%A1%82%E6%9E%97%E5%8E%9F%E5%9E%8B&t=31&band_rank=43&Refer=top",
+    "hot": 20953
+  },
+  "Tarzan去哪儿": {
+    "url": "https://s.weibo.com/weibo?q=%23Tarzan%E5%8E%BB%E5%93%AA%E5%84%BF%23&t=31&band_rank=50&Refer=top",
+    "hot": 20893
   }
 }
