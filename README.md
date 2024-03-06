@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-03-07 02:28:12.113799 
-![2024-03-07](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240307/2024-03-07.png?versionId=4_z8fbbed132d73df8689c40f13_f1055724572da626a_d20240306_m182812_c005_v0501009_t0021_u01709749692022) 
+最后更新时间 2024-03-07 02:36:32.648586 
+![2024-03-07](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240307/2024-03-07.png?versionId=4_z8fbbed132d73df8689c40f13_f1037dba214ae5a38_d20240306_m183632_c005_v0501005_t0021_u01709750192220) 
 1. [建议国家全面禁止未成年人网游](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%9B%BD%E5%AE%B6%E5%85%A8%E9%9D%A2%E7%A6%81%E6%AD%A2%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E7%BD%91%E6%B8%B8%23&t=31&band_rank=1&Refer=top) 1803267
 1. [男员工误入女厕10秒被解雇](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%91%98%E5%B7%A5%E8%AF%AF%E5%85%A5%E5%A5%B3%E5%8E%9510%E7%A7%92%E8%A2%AB%E8%A7%A3%E9%9B%87%23&t=31&band_rank=11&Refer=top) 840358
 1. [回南天取快递 像到了天庭](https://s.weibo.com/weibo?q=%E5%9B%9E%E5%8D%97%E5%A4%A9%E5%8F%96%E5%BF%AB%E9%80%92%20%E5%83%8F%E5%88%B0%E4%BA%86%E5%A4%A9%E5%BA%AD&t=31&band_rank=2&Refer=top) 545017
@@ -68,11 +68,11 @@
 1. [两会学习笔记](https://s.weibo.com/weibo?q=%23%E4%B8%A4%E4%BC%9A%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%23&t=31&band_rank=40&Refer=top) 63959
 1. [刘亦菲芭莎总监合照](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E8%8A%AD%E8%8E%8E%E6%80%BB%E7%9B%91%E5%90%88%E7%85%A7%23&t=31&band_rank=45&Refer=top) 48771
 1. [朋友圈舍不得屏蔽的人](https://s.weibo.com/weibo?q=%E6%9C%8B%E5%8F%8B%E5%9C%88%E8%88%8D%E4%B8%8D%E5%BE%97%E5%B1%8F%E8%94%BD%E7%9A%84%E4%BA%BA&t=31&band_rank=24&Refer=top) 46494
+1. [00后小伙被骗缅甸每天工作17小时](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E5%B0%8F%E4%BC%99%E8%A2%AB%E9%AA%97%E7%BC%85%E7%94%B8%E6%AF%8F%E5%A4%A9%E5%B7%A5%E4%BD%9C17%E5%B0%8F%E6%97%B6%23&t=31&band_rank=35&Refer=top) 41073
 1. [王源新疆攻略](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E6%96%B0%E7%96%86%E6%94%BB%E7%95%A5%23&t=31&band_rank=44&Refer=top) 41004
-1. [女子被鸡啄伤送进ICU抢救2个月](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A2%AB%E9%B8%A1%E5%95%84%E4%BC%A4%E9%80%81%E8%BF%9BICU%E6%8A%A2%E6%95%912%E4%B8%AA%E6%9C%88%23&t=31&band_rank=24&Refer=top) 36952
+1. [女子被鸡啄伤送进ICU抢救2个月](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A2%AB%E9%B8%A1%E5%95%84%E4%BC%A4%E9%80%81%E8%BF%9BICU%E6%8A%A2%E6%95%912%E4%B8%AA%E6%9C%88%23&t=31&band_rank=24&Refer=top) 37056
 1. [打工尊者](https://s.weibo.com/weibo?q=%E6%89%93%E5%B7%A5%E5%B0%8A%E8%80%85&t=31&band_rank=47&Refer=top) 30781
-1. [00后小伙被骗缅甸每天工作17小时](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E5%B0%8F%E4%BC%99%E8%A2%AB%E9%AA%97%E7%BC%85%E7%94%B8%E6%AF%8F%E5%A4%A9%E5%B7%A5%E4%BD%9C17%E5%B0%8F%E6%97%B6%23&t=31&band_rank=35&Refer=top) 25251
-1. [关于我在精神科住院的22天](https://s.weibo.com/weibo?q=%E5%85%B3%E4%BA%8E%E6%88%91%E5%9C%A8%E7%B2%BE%E7%A5%9E%E7%A7%91%E4%BD%8F%E9%99%A2%E7%9A%8422%E5%A4%A9&t=31&band_rank=46&Refer=top) 22057
+1. [关于我在精神科住院的22天](https://s.weibo.com/weibo?q=%E5%85%B3%E4%BA%8E%E6%88%91%E5%9C%A8%E7%B2%BE%E7%A5%9E%E7%A7%91%E4%BD%8F%E9%99%A2%E7%9A%8422%E5%A4%A9&t=31&band_rank=46&Refer=top) 23469
 1. [TXT新专概念预告](https://s.weibo.com/weibo?q=TXT%E6%96%B0%E4%B8%93%E6%A6%82%E5%BF%B5%E9%A2%84%E5%91%8A&t=31&band_rank=47&Refer=top) 21382
 <!-- END -->
 
