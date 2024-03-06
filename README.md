@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-03-07 01:49:21.343486 
-![2024-03-07](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240307/2024-03-07.png?versionId=4_z8fbbed132d73df8689c40f13_f1104e54a760fa067_d20240306_m174921_c005_v0501017_t0022_u01709747361112) 
+最后更新时间 2024-03-07 02:13:55.703923 
+![2024-03-07](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240307/2024-03-07.png?versionId=4_z8fbbed132d73df8689c40f13_f109be1808bc6296c_d20240306_m181355_c005_v0501007_t0033_u01709748835579) 
 1. [建议国家全面禁止未成年人网游](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%9B%BD%E5%AE%B6%E5%85%A8%E9%9D%A2%E7%A6%81%E6%AD%A2%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E7%BD%91%E6%B8%B8%23&t=31&band_rank=1&Refer=top) 1803267
 1. [男员工误入女厕10秒被解雇](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%91%98%E5%B7%A5%E8%AF%AF%E5%85%A5%E5%A5%B3%E5%8E%9510%E7%A7%92%E8%A2%AB%E8%A7%A3%E9%9B%87%23&t=31&band_rank=11&Refer=top) 840358
 1. [回南天取快递 像到了天庭](https://s.weibo.com/weibo?q=%E5%9B%9E%E5%8D%97%E5%A4%A9%E5%8F%96%E5%BF%AB%E9%80%92%20%E5%83%8F%E5%88%B0%E4%BA%86%E5%A4%A9%E5%BA%AD&t=31&band_rank=2&Refer=top) 545017
@@ -28,6 +28,7 @@
 1. [杨幂北电考官](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%8C%97%E7%94%B5%E8%80%83%E5%AE%98%23&t=31&band_rank=15&Refer=top) 262152
 1. [男生月薪一万一年存10万](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E6%9C%88%E8%96%AA%E4%B8%80%E4%B8%87%E4%B8%80%E5%B9%B4%E5%AD%9810%E4%B8%87%23&t=31&band_rank=17&Refer=top) 208441
 1. [唐探2荣梓杉一变脸画风对了](https://s.weibo.com/weibo?q=%E5%94%90%E6%8E%A22%E8%8D%A3%E6%A2%93%E6%9D%89%E4%B8%80%E5%8F%98%E8%84%B8%E7%94%BB%E9%A3%8E%E5%AF%B9%E4%BA%86&t=31&band_rank=18&Refer=top) 176170
+1. [减少你的分享欲](https://s.weibo.com/weibo?q=%E5%87%8F%E5%B0%91%E4%BD%A0%E7%9A%84%E5%88%86%E4%BA%AB%E6%AC%B2&t=31&band_rank=34&Refer=top) 166646
 1. [鲍蕾晒两个女儿跳舞视频](https://s.weibo.com/weibo?q=%23%E9%B2%8D%E8%95%BE%E6%99%92%E4%B8%A4%E4%B8%AA%E5%A5%B3%E5%84%BF%E8%B7%B3%E8%88%9E%E8%A7%86%E9%A2%91%23&t=31&band_rank=19&Refer=top) 163739
 1. [颖儿带女儿拍汉服写真](https://s.weibo.com/weibo?q=%23%E9%A2%96%E5%84%BF%E5%B8%A6%E5%A5%B3%E5%84%BF%E6%8B%8D%E6%B1%89%E6%9C%8D%E5%86%99%E7%9C%9F%23&t=31&band_rank=20&Refer=top) 155390
 1. [工资不高房价却很高的城市](https://s.weibo.com/weibo?q=%23%E5%B7%A5%E8%B5%84%E4%B8%8D%E9%AB%98%E6%88%BF%E4%BB%B7%E5%8D%B4%E5%BE%88%E9%AB%98%E7%9A%84%E5%9F%8E%E5%B8%82%23&t=31&band_rank=21&Refer=top) 144326
@@ -37,7 +38,6 @@
 1. [请勿在NPC身上浪费太多时间](https://s.weibo.com/weibo?q=%E8%AF%B7%E5%8B%BF%E5%9C%A8NPC%E8%BA%AB%E4%B8%8A%E6%B5%AA%E8%B4%B9%E5%A4%AA%E5%A4%9A%E6%97%B6%E9%97%B4&t=31&band_rank=30&Refer=top) 127550
 1. [程序员下班做偶像](https://s.weibo.com/weibo?q=%23%E7%A8%8B%E5%BA%8F%E5%91%98%E4%B8%8B%E7%8F%AD%E5%81%9A%E5%81%B6%E5%83%8F%23&t=31&band_rank=25&Refer=top) 123327
 1. [陈情令旅游专线](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%83%85%E4%BB%A4%E6%97%85%E6%B8%B8%E4%B8%93%E7%BA%BF%23&t=31&band_rank=26&Refer=top) 122956
-1. [减少你的分享欲](https://s.weibo.com/weibo?q=%E5%87%8F%E5%B0%91%E4%BD%A0%E7%9A%84%E5%88%86%E4%BA%AB%E6%AC%B2&t=31&band_rank=34&Refer=top) 121062
 1. [真正抑郁症才有的9个样子](https://s.weibo.com/weibo?q=%E7%9C%9F%E6%AD%A3%E6%8A%91%E9%83%81%E7%97%87%E6%89%8D%E6%9C%89%E7%9A%849%E4%B8%AA%E6%A0%B7%E5%AD%90&t=31&band_rank=27&Refer=top) 119366
 1. [当领导让00后准备下午茶](https://s.weibo.com/weibo?q=%23%E5%BD%93%E9%A2%86%E5%AF%BC%E8%AE%A900%E5%90%8E%E5%87%86%E5%A4%87%E4%B8%8B%E5%8D%88%E8%8C%B6%23&t=31&band_rank=28&Refer=top) 119020
 1. [周也冷脸白花](https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%B9%9F%E5%86%B7%E8%84%B8%E7%99%BD%E8%8A%B1%23&t=31&band_rank=29&Refer=top) 117289
@@ -69,7 +69,8 @@
 1. [刘亦菲芭莎总监合照](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E8%8A%AD%E8%8E%8E%E6%80%BB%E7%9B%91%E5%90%88%E7%85%A7%23&t=31&band_rank=45&Refer=top) 48771
 1. [朋友圈舍不得屏蔽的人](https://s.weibo.com/weibo?q=%E6%9C%8B%E5%8F%8B%E5%9C%88%E8%88%8D%E4%B8%8D%E5%BE%97%E5%B1%8F%E8%94%BD%E7%9A%84%E4%BA%BA&t=31&band_rank=24&Refer=top) 46494
 1. [王源新疆攻略](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E6%96%B0%E7%96%86%E6%94%BB%E7%95%A5%23&t=31&band_rank=44&Refer=top) 41004
-1. [打工尊者](https://s.weibo.com/weibo?q=%E6%89%93%E5%B7%A5%E5%B0%8A%E8%80%85&t=31&band_rank=47&Refer=top) 28982
+1. [女子被鸡啄伤送进ICU抢救2个月](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A2%AB%E9%B8%A1%E5%95%84%E4%BC%A4%E9%80%81%E8%BF%9BICU%E6%8A%A2%E6%95%912%E4%B8%AA%E6%9C%88%23&t=31&band_rank=24&Refer=top) 35664
+1. [打工尊者](https://s.weibo.com/weibo?q=%E6%89%93%E5%B7%A5%E5%B0%8A%E8%80%85&t=31&band_rank=47&Refer=top) 30781
 <!-- END -->
 
 历史归档 [./archives](./archives)
