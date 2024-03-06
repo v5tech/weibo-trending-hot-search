@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-03-07 02:13:55.703923 
-![2024-03-07](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240307/2024-03-07.png?versionId=4_z8fbbed132d73df8689c40f13_f109be1808bc6296c_d20240306_m181355_c005_v0501007_t0033_u01709748835579) 
+最后更新时间 2024-03-07 02:28:12.113799 
+![2024-03-07](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240307/2024-03-07.png?versionId=4_z8fbbed132d73df8689c40f13_f1055724572da626a_d20240306_m182812_c005_v0501009_t0021_u01709749692022) 
 1. [建议国家全面禁止未成年人网游](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%9B%BD%E5%AE%B6%E5%85%A8%E9%9D%A2%E7%A6%81%E6%AD%A2%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E7%BD%91%E6%B8%B8%23&t=31&band_rank=1&Refer=top) 1803267
 1. [男员工误入女厕10秒被解雇](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%91%98%E5%B7%A5%E8%AF%AF%E5%85%A5%E5%A5%B3%E5%8E%9510%E7%A7%92%E8%A2%AB%E8%A7%A3%E9%9B%87%23&t=31&band_rank=11&Refer=top) 840358
 1. [回南天取快递 像到了天庭](https://s.weibo.com/weibo?q=%E5%9B%9E%E5%8D%97%E5%A4%A9%E5%8F%96%E5%BF%AB%E9%80%92%20%E5%83%8F%E5%88%B0%E4%BA%86%E5%A4%A9%E5%BA%AD&t=31&band_rank=2&Refer=top) 545017
@@ -27,8 +27,8 @@
 1. [娜扎玩梗](https://s.weibo.com/weibo?q=%E5%A8%9C%E6%89%8E%E7%8E%A9%E6%A2%97&t=31&band_rank=14&Refer=top) 276504
 1. [杨幂北电考官](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%8C%97%E7%94%B5%E8%80%83%E5%AE%98%23&t=31&band_rank=15&Refer=top) 262152
 1. [男生月薪一万一年存10万](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E6%9C%88%E8%96%AA%E4%B8%80%E4%B8%87%E4%B8%80%E5%B9%B4%E5%AD%9810%E4%B8%87%23&t=31&band_rank=17&Refer=top) 208441
+1. [减少你的分享欲](https://s.weibo.com/weibo?q=%E5%87%8F%E5%B0%91%E4%BD%A0%E7%9A%84%E5%88%86%E4%BA%AB%E6%AC%B2&t=31&band_rank=34&Refer=top) 187315
 1. [唐探2荣梓杉一变脸画风对了](https://s.weibo.com/weibo?q=%E5%94%90%E6%8E%A22%E8%8D%A3%E6%A2%93%E6%9D%89%E4%B8%80%E5%8F%98%E8%84%B8%E7%94%BB%E9%A3%8E%E5%AF%B9%E4%BA%86&t=31&band_rank=18&Refer=top) 176170
-1. [减少你的分享欲](https://s.weibo.com/weibo?q=%E5%87%8F%E5%B0%91%E4%BD%A0%E7%9A%84%E5%88%86%E4%BA%AB%E6%AC%B2&t=31&band_rank=34&Refer=top) 166646
 1. [鲍蕾晒两个女儿跳舞视频](https://s.weibo.com/weibo?q=%23%E9%B2%8D%E8%95%BE%E6%99%92%E4%B8%A4%E4%B8%AA%E5%A5%B3%E5%84%BF%E8%B7%B3%E8%88%9E%E8%A7%86%E9%A2%91%23&t=31&band_rank=19&Refer=top) 163739
 1. [颖儿带女儿拍汉服写真](https://s.weibo.com/weibo?q=%23%E9%A2%96%E5%84%BF%E5%B8%A6%E5%A5%B3%E5%84%BF%E6%8B%8D%E6%B1%89%E6%9C%8D%E5%86%99%E7%9C%9F%23&t=31&band_rank=20&Refer=top) 155390
 1. [工资不高房价却很高的城市](https://s.weibo.com/weibo?q=%23%E5%B7%A5%E8%B5%84%E4%B8%8D%E9%AB%98%E6%88%BF%E4%BB%B7%E5%8D%B4%E5%BE%88%E9%AB%98%E7%9A%84%E5%9F%8E%E5%B8%82%23&t=31&band_rank=21&Refer=top) 144326
@@ -69,8 +69,11 @@
 1. [刘亦菲芭莎总监合照](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E8%8A%AD%E8%8E%8E%E6%80%BB%E7%9B%91%E5%90%88%E7%85%A7%23&t=31&band_rank=45&Refer=top) 48771
 1. [朋友圈舍不得屏蔽的人](https://s.weibo.com/weibo?q=%E6%9C%8B%E5%8F%8B%E5%9C%88%E8%88%8D%E4%B8%8D%E5%BE%97%E5%B1%8F%E8%94%BD%E7%9A%84%E4%BA%BA&t=31&band_rank=24&Refer=top) 46494
 1. [王源新疆攻略](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E6%96%B0%E7%96%86%E6%94%BB%E7%95%A5%23&t=31&band_rank=44&Refer=top) 41004
-1. [女子被鸡啄伤送进ICU抢救2个月](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A2%AB%E9%B8%A1%E5%95%84%E4%BC%A4%E9%80%81%E8%BF%9BICU%E6%8A%A2%E6%95%912%E4%B8%AA%E6%9C%88%23&t=31&band_rank=24&Refer=top) 35664
+1. [女子被鸡啄伤送进ICU抢救2个月](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A2%AB%E9%B8%A1%E5%95%84%E4%BC%A4%E9%80%81%E8%BF%9BICU%E6%8A%A2%E6%95%912%E4%B8%AA%E6%9C%88%23&t=31&band_rank=24&Refer=top) 36952
 1. [打工尊者](https://s.weibo.com/weibo?q=%E6%89%93%E5%B7%A5%E5%B0%8A%E8%80%85&t=31&band_rank=47&Refer=top) 30781
+1. [00后小伙被骗缅甸每天工作17小时](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E5%B0%8F%E4%BC%99%E8%A2%AB%E9%AA%97%E7%BC%85%E7%94%B8%E6%AF%8F%E5%A4%A9%E5%B7%A5%E4%BD%9C17%E5%B0%8F%E6%97%B6%23&t=31&band_rank=35&Refer=top) 25251
+1. [关于我在精神科住院的22天](https://s.weibo.com/weibo?q=%E5%85%B3%E4%BA%8E%E6%88%91%E5%9C%A8%E7%B2%BE%E7%A5%9E%E7%A7%91%E4%BD%8F%E9%99%A2%E7%9A%8422%E5%A4%A9&t=31&band_rank=46&Refer=top) 22057
+1. [TXT新专概念预告](https://s.weibo.com/weibo?q=TXT%E6%96%B0%E4%B8%93%E6%A6%82%E5%BF%B5%E9%A2%84%E5%91%8A&t=31&band_rank=47&Refer=top) 21382
 <!-- END -->
 
 历史归档 [./archives](./archives)
