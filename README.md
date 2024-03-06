@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-03-07 03:35:05.183859 
-![2024-03-07](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240307/2024-03-07.png?versionId=4_z8fbbed132d73df8689c40f13_f1185163ff3e5ec84_d20240306_m193504_c005_v0501015_t0049_u01709753704659) 
+最后更新时间 2024-03-07 03:49:20.571715 
+![2024-03-07](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240307/2024-03-07.png?versionId=4_z8fbbed132d73df8689c40f13_f1073e354d3f7a730_d20240306_m194919_c005_v0501013_t0059_u01709754559844) 
 1. [建议国家全面禁止未成年人网游](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%9B%BD%E5%AE%B6%E5%85%A8%E9%9D%A2%E7%A6%81%E6%AD%A2%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E7%BD%91%E6%B8%B8%23&t=31&band_rank=1&Refer=top) 1803267
 1. [男员工误入女厕10秒被解雇](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%91%98%E5%B7%A5%E8%AF%AF%E5%85%A5%E5%A5%B3%E5%8E%9510%E7%A7%92%E8%A2%AB%E8%A7%A3%E9%9B%87%23&t=31&band_rank=11&Refer=top) 840358
 1. [回南天取快递 像到了天庭](https://s.weibo.com/weibo?q=%E5%9B%9E%E5%8D%97%E5%A4%A9%E5%8F%96%E5%BF%AB%E9%80%92%20%E5%83%8F%E5%88%B0%E4%BA%86%E5%A4%A9%E5%BA%AD&t=31&band_rank=2&Refer=top) 545017
@@ -76,8 +76,8 @@
 1. [关于我在精神科住院的22天](https://s.weibo.com/weibo?q=%E5%85%B3%E4%BA%8E%E6%88%91%E5%9C%A8%E7%B2%BE%E7%A5%9E%E7%A7%91%E4%BD%8F%E9%99%A2%E7%9A%8422%E5%A4%A9&t=31&band_rank=46&Refer=top) 26646
 1. [TXT新专概念预告](https://s.weibo.com/weibo?q=TXT%E6%96%B0%E4%B8%93%E6%A6%82%E5%BF%B5%E9%A2%84%E5%91%8A&t=31&band_rank=47&Refer=top) 26572
 1. [如果可以学习一门新的语言吧](https://s.weibo.com/weibo?q=%E5%A6%82%E6%9E%9C%E5%8F%AF%E4%BB%A5%E5%AD%A6%E4%B9%A0%E4%B8%80%E9%97%A8%E6%96%B0%E7%9A%84%E8%AF%AD%E8%A8%80%E5%90%A7&t=31&band_rank=41&Refer=top) 24326
-1. [钟薛高多平台账号停更](https://s.weibo.com/weibo?q=%23%E9%92%9F%E8%96%9B%E9%AB%98%E5%A4%9A%E5%B9%B3%E5%8F%B0%E8%B4%A6%E5%8F%B7%E5%81%9C%E6%9B%B4%23&t=31&band_rank=29&Refer=top) 18988
-1. [母爱不会被葡萄压碎](https://s.weibo.com/weibo?q=%E6%AF%8D%E7%88%B1%E4%B8%8D%E4%BC%9A%E8%A2%AB%E8%91%A1%E8%90%84%E5%8E%8B%E7%A2%8E&t=31&band_rank=50&Refer=top) 15284
+1. [钟薛高多平台账号停更](https://s.weibo.com/weibo?q=%23%E9%92%9F%E8%96%9B%E9%AB%98%E5%A4%9A%E5%B9%B3%E5%8F%B0%E8%B4%A6%E5%8F%B7%E5%81%9C%E6%9B%B4%23&t=31&band_rank=29&Refer=top) 21797
+1. [母爱不会被葡萄压碎](https://s.weibo.com/weibo?q=%E6%AF%8D%E7%88%B1%E4%B8%8D%E4%BC%9A%E8%A2%AB%E8%91%A1%E8%90%84%E5%8E%8B%E7%A2%8E&t=31&band_rank=50&Refer=top) 19397
 <!-- END -->
 
 历史归档 [./archives](./archives)
