@@ -211,6 +211,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%B9%BF%E5%B7%9E%E5%87%BA%E5%8F%91%23&t=31&band_rank=45&Refer=top",
     "hot": 74666
   },
+  "年轻人为什么喜欢刷短剧": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E5%96%9C%E6%AC%A2%E5%88%B7%E7%9F%AD%E5%89%A7%23&t=31&band_rank=43&Refer=top",
+    "hot": 74138
+  },
   "双色球": {
     "url": "https://s.weibo.com/weibo?q=%E5%8F%8C%E8%89%B2%E7%90%83&t=31&band_rank=50&Refer=top",
     "hot": 72649
@@ -218,10 +222,6 @@
   "王鹤棣桃花坞前后变化": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%A1%83%E8%8A%B1%E5%9D%9E%E5%89%8D%E5%90%8E%E5%8F%98%E5%8C%96%23&t=31&band_rank=46&Refer=top",
     "hot": 67106
-  },
-  "年轻人为什么喜欢刷短剧": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E5%96%9C%E6%AC%A2%E5%88%B7%E7%9F%AD%E5%89%A7%23&t=31&band_rank=43&Refer=top",
-    "hot": 65845
   },
   "时代少年团接力女团舞": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%8E%A5%E5%8A%9B%E5%A5%B3%E5%9B%A2%E8%88%9E%23&t=31&band_rank=50&Refer=top",
@@ -253,6 +253,10 @@
   },
   "一些没有班味的连衣裙": {
     "url": "https://s.weibo.com/weibo?q=%E4%B8%80%E4%BA%9B%E6%B2%A1%E6%9C%89%E7%8F%AD%E5%91%B3%E7%9A%84%E8%BF%9E%E8%A1%A3%E8%A3%99&t=31&band_rank=50&Refer=top",
-    "hot": 20639
+    "hot": 22400
+  },
+  "2024f1沙特大奖赛": {
+    "url": "https://s.weibo.com/weibo?q=%232024f1%E6%B2%99%E7%89%B9%E5%A4%A7%E5%A5%96%E8%B5%9B%23&t=31&band_rank=49&Refer=top",
+    "hot": 20100
   }
 }
