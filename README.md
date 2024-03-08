@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-03-09 03:19:30.134694 
-![2024-03-09](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240309/2024-03-09.png?versionId=4_z8fbbed132d73df8689c40f13_f106bf35e232cef99_d20240308_m191929_c005_v0501013_t0028_u01709925569703) 
+最后更新时间 2024-03-09 03:35:02.459595 
+![2024-03-09](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240309/2024-03-09.png?versionId=4_z8fbbed132d73df8689c40f13_f118d379076b81586_d20240308_m193502_c005_v0501017_t0010_u01709926502308) 
 1. [金价杀疯了](https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9D%80%E7%96%AF%E4%BA%86%23&t=31&band_rank=1&Refer=top) 1991579
 1. [与凤行定档](https://s.weibo.com/weibo?q=%E4%B8%8E%E5%87%A4%E8%A1%8C%E5%AE%9A%E6%A1%A3&t=31&band_rank=2&Refer=top) 703176
 1. [政府工作报告里年轻人关心的热点](https://s.weibo.com/weibo?q=%23%E6%94%BF%E5%BA%9C%E5%B7%A5%E4%BD%9C%E6%8A%A5%E5%91%8A%E9%87%8C%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%85%B3%E5%BF%83%E7%9A%84%E7%83%AD%E7%82%B9%23&t=31&band_rank=3&Refer=top) 419298
