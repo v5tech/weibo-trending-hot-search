@@ -249,10 +249,14 @@
   },
   "宁静笑场": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%AE%81%E9%9D%99%E7%AC%91%E5%9C%BA%23&t=31&band_rank=40&Refer=top",
-    "hot": 27364
+    "hot": 28240
   },
   "靳东再谈假靳东事件": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%9D%B3%E4%B8%9C%E5%86%8D%E8%B0%88%E5%81%87%E9%9D%B3%E4%B8%9C%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=46&Refer=top",
     "hot": 24565
+  },
+  "RAIN再现经典lasong": {
+    "url": "https://s.weibo.com/weibo?q=%23RAIN%E5%86%8D%E7%8E%B0%E7%BB%8F%E5%85%B8lasong%23&t=31&band_rank=44&Refer=top",
+    "hot": 17787
   }
 }
