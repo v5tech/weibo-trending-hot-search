@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-03-15 05:34:33.098095 
-![2024-03-15](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240315/2024-03-15.png?versionId=4_z8fbbed132d73df8689c40f13_f1056fecb41b2a411_d20240314_m213433_c005_v0501018_t0046_u01710452072755) 
+最后更新时间 2024-03-15 05:49:20.897491 
+![2024-03-15](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240315/2024-03-15.png?versionId=4_z8fbbed132d73df8689c40f13_f115f6082f7ee2884_d20240314_m214920_c005_v0501018_t0004_u01710452960735) 
 1. [凯特王妃到底怎么了](https://s.weibo.com/weibo?q=%23%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E5%88%B0%E5%BA%95%E6%80%8E%E4%B9%88%E4%BA%86%23&t=31&band_rank=1&Refer=top) 1099966
 1. [李诞cos孟宴臣](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%AF%9Ecos%E5%AD%9F%E5%AE%B4%E8%87%A3%23&t=31&band_rank=2&Refer=top) 849276
 1. [新质生产力本身就是绿色生产力](https://s.weibo.com/weibo?q=%23%E6%96%B0%E8%B4%A8%E7%94%9F%E4%BA%A7%E5%8A%9B%E6%9C%AC%E8%BA%AB%E5%B0%B1%E6%98%AF%E7%BB%BF%E8%89%B2%E7%94%9F%E4%BA%A7%E5%8A%9B%23&t=31&band_rank=3&Refer=top) 814977
@@ -71,13 +71,14 @@
 1. [王星越被消音](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%98%9F%E8%B6%8A%E8%A2%AB%E6%B6%88%E9%9F%B3%23&t=31&band_rank=48&Refer=top) 72998
 1. [李佳琦董宇辉等17名主播被点名](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E8%91%A3%E5%AE%87%E8%BE%89%E7%AD%8917%E5%90%8D%E4%B8%BB%E6%92%AD%E8%A2%AB%E7%82%B9%E5%90%8D%23&t=31&band_rank=43&Refer=top) 68278
 1. [第五人格富江](https://s.weibo.com/weibo?q=%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%E5%AF%8C%E6%B1%9F&t=31&band_rank=45&Refer=top) 65684
+1. [特斯拉市值一夜蒸发1847亿](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E8%92%B8%E5%8F%911847%E4%BA%BF%23&t=31&band_rank=50&Refer=top) 60946
 1. [博主再用AI复活高以翔](https://s.weibo.com/weibo?q=%23%E5%8D%9A%E4%B8%BB%E5%86%8D%E7%94%A8AI%E5%A4%8D%E6%B4%BB%E9%AB%98%E4%BB%A5%E7%BF%94%23&t=31&band_rank=42&Refer=top) 57234
-1. [特斯拉市值一夜蒸发1847亿](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E8%92%B8%E5%8F%911847%E4%BA%BF%23&t=31&band_rank=50&Refer=top) 56459
 1. [猫咪耐心陪半夜睡醒的宝宝玩耍](https://s.weibo.com/weibo?q=%23%E7%8C%AB%E5%92%AA%E8%80%90%E5%BF%83%E9%99%AA%E5%8D%8A%E5%A4%9C%E7%9D%A1%E9%86%92%E7%9A%84%E5%AE%9D%E5%AE%9D%E7%8E%A9%E8%80%8D%23&t=31&band_rank=50&Refer=top) 44996
 1. [长沙一店铺门口贴招工启事被罚](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B2%99%E4%B8%80%E5%BA%97%E9%93%BA%E9%97%A8%E5%8F%A3%E8%B4%B4%E6%8B%9B%E5%B7%A5%E5%90%AF%E4%BA%8B%E8%A2%AB%E7%BD%9A%23&t=31&band_rank=49&Refer=top) 36300
 1. [小日子](https://s.weibo.com/weibo?q=%E5%B0%8F%E6%97%A5%E5%AD%90&t=31&band_rank=47&Refer=top) 27375
 1. [让吴镇宇害怕的女人来了](https://s.weibo.com/weibo?q=%23%E8%AE%A9%E5%90%B4%E9%95%87%E5%AE%87%E5%AE%B3%E6%80%95%E7%9A%84%E5%A5%B3%E4%BA%BA%E6%9D%A5%E4%BA%86%23&t=31&band_rank=46&Refer=top) 22763
-1. [老公玩股票这件事我觉得很慌](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%85%AC%E7%8E%A9%E8%82%A1%E7%A5%A8%E8%BF%99%E4%BB%B6%E4%BA%8B%E6%88%91%E8%A7%89%E5%BE%97%E5%BE%88%E6%85%8C%23&t=31&band_rank=37&Refer=top) 17701
+1. [老公玩股票这件事我觉得很慌](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%85%AC%E7%8E%A9%E8%82%A1%E7%A5%A8%E8%BF%99%E4%BB%B6%E4%BA%8B%E6%88%91%E8%A7%89%E5%BE%97%E5%BE%88%E6%85%8C%23&t=31&band_rank=37&Refer=top) 20922
+1. [农学院学生上课能有多离谱](https://s.weibo.com/weibo?q=%23%E5%86%9C%E5%AD%A6%E9%99%A2%E5%AD%A6%E7%94%9F%E4%B8%8A%E8%AF%BE%E8%83%BD%E6%9C%89%E5%A4%9A%E7%A6%BB%E8%B0%B1%23&t=31&band_rank=50&Refer=top) 16574
 <!-- END -->
 
 历史归档 [./archives](./archives)
