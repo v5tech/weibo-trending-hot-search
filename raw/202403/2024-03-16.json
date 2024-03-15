@@ -223,6 +223,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E8%BE%9F%E8%B0%A3%E4%B8%8E%E5%BE%90%E6%AD%A3%E6%BA%AA%E7%9A%84%E5%85%B3%E7%B3%BB%23&t=31&band_rank=41&Refer=top",
     "hot": 55435
   },
+  "陈漫发了赵露思": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E6%BC%AB%E5%8F%91%E4%BA%86%E8%B5%B5%E9%9C%B2%E6%80%9D%23&t=31&band_rank=20&Refer=top",
+    "hot": 55057
+  },
   "邓为英文名": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%82%93%E4%B8%BA%E8%8B%B1%E6%96%87%E5%90%8D%23&t=31&band_rank=37&Refer=top",
     "hot": 49754
@@ -242,5 +246,9 @@
   "家人回应博主用AI复活高以翔": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%AE%B6%E4%BA%BA%E5%9B%9E%E5%BA%94%E5%8D%9A%E4%B8%BB%E7%94%A8AI%E5%A4%8D%E6%B4%BB%E9%AB%98%E4%BB%A5%E7%BF%94%23&t=31&band_rank=38&Refer=top",
     "hot": 44977
+  },
+  "陈楚生深圳演唱会": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A5%9A%E7%94%9F%E6%B7%B1%E5%9C%B3%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=48&Refer=top",
+    "hot": 34968
   }
 }
