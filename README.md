@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-03-17 03:19:18.330582 
-![2024-03-17](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240317/2024-03-17.png?versionId=4_z8fbbed132d73df8689c40f13_f119013bb5eaf4721_d20240316_m191918_c005_v0501018_t0038_u01710616758143) 
+最后更新时间 2024-03-17 03:34:29.030094 
+![2024-03-17](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240317/2024-03-17.png?versionId=4_z8fbbed132d73df8689c40f13_f117b6f690121b340_d20240316_m193428_c005_v0501017_t0011_u01710617668533) 
 1. [金价下跌了](https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E4%BA%86%23&t=31&band_rank=1&Refer=top) 1950833
 1. [父亲希望AI复活乔任梁视频尽快下架](https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E5%B8%8C%E6%9C%9BAI%E5%A4%8D%E6%B4%BB%E4%B9%94%E4%BB%BB%E6%A2%81%E8%A7%86%E9%A2%91%E5%B0%BD%E5%BF%AB%E4%B8%8B%E6%9E%B6%23&t=31&band_rank=2&Refer=top) 996668
 1. [有一种意境叫中式美学](https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%B8%80%E7%A7%8D%E6%84%8F%E5%A2%83%E5%8F%AB%E4%B8%AD%E5%BC%8F%E7%BE%8E%E5%AD%A6%23&t=31&band_rank=3&Refer=top) 729787
@@ -59,7 +59,7 @@
 1. [文韬三十岁生日大片](https://s.weibo.com/weibo?q=%23%E6%96%87%E9%9F%AC%E4%B8%89%E5%8D%81%E5%B2%81%E7%94%9F%E6%97%A5%E5%A4%A7%E7%89%87%23&t=31&band_rank=36&Refer=top) 366572
 1. [王濛首次讲述原生家庭](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BF%9B%E9%A6%96%E6%AC%A1%E8%AE%B2%E8%BF%B0%E5%8E%9F%E7%94%9F%E5%AE%B6%E5%BA%AD%23&t=31&band_rank=20&Refer=top) 366528
 1. [音乐生毕业就业方向](https://s.weibo.com/weibo?q=%E9%9F%B3%E4%B9%90%E7%94%9F%E6%AF%95%E4%B8%9A%E5%B0%B1%E4%B8%9A%E6%96%B9%E5%90%91&t=31&band_rank=38&Refer=top) 366504
-1. [凯特王妃](https://s.weibo.com/weibo?q=%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83&t=31&band_rank=49&Refer=top) 249274
+1. [凯特王妃](https://s.weibo.com/weibo?q=%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83&t=31&band_rank=49&Refer=top) 328226
 1. [世锦赛林孝埈晋级](https://s.weibo.com/weibo?q=%23%E4%B8%96%E9%94%A6%E8%B5%9B%E6%9E%97%E5%AD%9D%E5%9F%88%E6%99%8B%E7%BA%A7%23&t=31&band_rank=10&Refer=top) 237880
 1. [女孩自己注射1mg司美格鲁肽送医抢救](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E8%87%AA%E5%B7%B1%E6%B3%A8%E5%B0%841mg%E5%8F%B8%E7%BE%8E%E6%A0%BC%E9%B2%81%E8%82%BD%E9%80%81%E5%8C%BB%E6%8A%A2%E6%95%91%23&t=31&band_rank=21&Refer=top) 221147
 1. [油脂鼻头](https://s.weibo.com/weibo?q=%E6%B2%B9%E8%84%82%E9%BC%BB%E5%A4%B4&t=31&band_rank=39&Refer=top) 220366
@@ -77,6 +77,7 @@
 1. [无畏契约](https://s.weibo.com/weibo?q=%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6&t=31&band_rank=46&Refer=top) 139176
 1. [尼格买提小时候曾被校园霸凌](https://s.weibo.com/weibo?q=%23%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E5%B0%8F%E6%97%B6%E5%80%99%E6%9B%BE%E8%A2%AB%E6%A0%A1%E5%9B%AD%E9%9C%B8%E5%87%8C%23&t=31&band_rank=14&Refer=top) 74766
 1. [2024全英公开赛](https://s.weibo.com/weibo?q=2024%E5%85%A8%E8%8B%B1%E5%85%AC%E5%BC%80%E8%B5%9B&t=31&band_rank=49&Refer=top) 65288
+1. [西工大女教授公开名下研究生去向走红](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%B7%A5%E5%A4%A7%E5%A5%B3%E6%95%99%E6%8E%88%E5%85%AC%E5%BC%80%E5%90%8D%E4%B8%8B%E7%A0%94%E7%A9%B6%E7%94%9F%E5%8E%BB%E5%90%91%E8%B5%B0%E7%BA%A2%23&t=31&band_rank=49&Refer=top) 46502
 <!-- END -->
 
 历史归档 [./archives](./archives)
