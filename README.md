@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-03-17 01:26:34.995655 
-![2024-03-17](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240317/2024-03-17.png?versionId=4_z8fbbed132d73df8689c40f13_f1060d0abd70e8c47_d20240316_m172634_c005_v0501005_t0046_u01710609994887) 
+最后更新时间 2024-03-17 01:35:03.881805 
+![2024-03-17](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240317/2024-03-17.png?versionId=4_z8fbbed132d73df8689c40f13_f1164bdb942fc52e4_d20240316_m173503_c005_v0501018_t0003_u01710610503226) 
 1. [金价下跌了](https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E4%BA%86%23&t=31&band_rank=1&Refer=top) 1950833
 1. [父亲希望AI复活乔任梁视频尽快下架](https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E5%B8%8C%E6%9C%9BAI%E5%A4%8D%E6%B4%BB%E4%B9%94%E4%BB%BB%E6%A2%81%E8%A7%86%E9%A2%91%E5%B0%BD%E5%BF%AB%E4%B8%8B%E6%9E%B6%23&t=31&band_rank=2&Refer=top) 996668
 1. [有一种意境叫中式美学](https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%B8%80%E7%A7%8D%E6%84%8F%E5%A2%83%E5%8F%AB%E4%B8%AD%E5%BC%8F%E7%BE%8E%E5%AD%A6%23&t=31&band_rank=3&Refer=top) 729787
