@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-03-18 04:22:14.453423 
-![2024-03-18](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240318/2024-03-18.png?versionId=4_z8fbbed132d73df8689c40f13_f1093adbde00edca6_d20240317_m202214_c005_v0501016_t0010_u01710706934141) 
+最后更新时间 2024-03-18 04:34:42.597240 
+![2024-03-18](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240318/2024-03-18.png?versionId=4_z8fbbed132d73df8689c40f13_f112e496b5d9fcbb2_d20240317_m203442_c005_v0501017_t0012_u01710707682457) 
 1. [河北邯郸通报初中生被杀害案](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8C%97%E9%82%AF%E9%83%B8%E9%80%9A%E6%8A%A5%E5%88%9D%E4%B8%AD%E7%94%9F%E8%A2%AB%E6%9D%80%E5%AE%B3%E6%A1%88%23&t=31&band_rank=1&Refer=top) 7536424
 1. [邯郸初中生被杀害案嫌疑人全部抓获](https://s.weibo.com/weibo?q=%23%E9%82%AF%E9%83%B8%E5%88%9D%E4%B8%AD%E7%94%9F%E8%A2%AB%E6%9D%80%E5%AE%B3%E6%A1%88%E5%AB%8C%E7%96%91%E4%BA%BA%E5%85%A8%E9%83%A8%E6%8A%93%E8%8E%B7%23&t=31&band_rank=2&Refer=top) 4605849
 1. [抢抓农时春日忙](https://s.weibo.com/weibo?q=%23%E6%8A%A2%E6%8A%93%E5%86%9C%E6%97%B6%E6%98%A5%E6%97%A5%E5%BF%99%23&t=31&band_rank=3&Refer=top) 1449776
@@ -70,6 +70,7 @@
 1. [为什么煎蛋会有很多泡沫](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E7%85%8E%E8%9B%8B%E4%BC%9A%E6%9C%89%E5%BE%88%E5%A4%9A%E6%B3%A1%E6%B2%AB%23&t=31&band_rank=48&Refer=top) 26783
 1. [奚梦瑶帮何超欣拍照](https://s.weibo.com/weibo?q=%23%E5%A5%9A%E6%A2%A6%E7%91%B6%E5%B8%AE%E4%BD%95%E8%B6%85%E6%AC%A3%E6%8B%8D%E7%85%A7%23&t=31&band_rank=49&Refer=top) 20829
 1. [什么称呼加上小字完全变味儿了](https://s.weibo.com/weibo?q=%23%E4%BB%80%E4%B9%88%E7%A7%B0%E5%91%BC%E5%8A%A0%E4%B8%8A%E5%B0%8F%E5%AD%97%E5%AE%8C%E5%85%A8%E5%8F%98%E5%91%B3%E5%84%BF%E4%BA%86%23&t=31&band_rank=50&Refer=top) 18393
+1. [童瑶演了我梦里的爽文女主](https://s.weibo.com/weibo?q=%E7%AB%A5%E7%91%B6%E6%BC%94%E4%BA%86%E6%88%91%E6%A2%A6%E9%87%8C%E7%9A%84%E7%88%BD%E6%96%87%E5%A5%B3%E4%B8%BB&t=31&band_rank=48&Refer=top) 18387
 <!-- END -->
 
 历史归档 [./archives](./archives)
