@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-03-18 01:34:22.310088 
-![2024-03-18](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240318/2024-03-18.png?versionId=4_z8fbbed132d73df8689c40f13_f10586c4cf3b869a8_d20240317_m173421_c005_v0501017_t0018_u01710696861811) 
+最后更新时间 2024-03-18 01:49:24.068895 
+![2024-03-18](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240318/2024-03-18.png?versionId=4_z8fbbed132d73df8689c40f13_f10240e123e6f9157_d20240317_m174924_c005_v0501013_t0005_u01710697764000) 
 1. [河北邯郸通报初中生被杀害案](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8C%97%E9%82%AF%E9%83%B8%E9%80%9A%E6%8A%A5%E5%88%9D%E4%B8%AD%E7%94%9F%E8%A2%AB%E6%9D%80%E5%AE%B3%E6%A1%88%23&t=31&band_rank=1&Refer=top) 7536424
 1. [邯郸初中生被杀害案嫌疑人全部抓获](https://s.weibo.com/weibo?q=%23%E9%82%AF%E9%83%B8%E5%88%9D%E4%B8%AD%E7%94%9F%E8%A2%AB%E6%9D%80%E5%AE%B3%E6%A1%88%E5%AB%8C%E7%96%91%E4%BA%BA%E5%85%A8%E9%83%A8%E6%8A%93%E8%8E%B7%23&t=31&band_rank=2&Refer=top) 4605849
 1. [抢抓农时春日忙](https://s.weibo.com/weibo?q=%23%E6%8A%A2%E6%8A%93%E5%86%9C%E6%97%B6%E6%98%A5%E6%97%A5%E5%BF%99%23&t=31&band_rank=3&Refer=top) 1449776
@@ -35,8 +35,8 @@
 1. [刘少林](https://s.weibo.com/weibo?q=%E5%88%98%E5%B0%91%E6%9E%97&t=31&band_rank=23&Refer=top) 338314
 1. [杜华让李汶翰去非洲修铁路](https://s.weibo.com/weibo?q=%23%E6%9D%9C%E5%8D%8E%E8%AE%A9%E6%9D%8E%E6%B1%B6%E7%BF%B0%E5%8E%BB%E9%9D%9E%E6%B4%B2%E4%BF%AE%E9%93%81%E8%B7%AF%23&t=31&band_rank=24&Refer=top) 336968
 1. [邯郸杀人案嫌犯被带走时神态平静](https://s.weibo.com/weibo?q=%23%E9%82%AF%E9%83%B8%E6%9D%80%E4%BA%BA%E6%A1%88%E5%AB%8C%E7%8A%AF%E8%A2%AB%E5%B8%A6%E8%B5%B0%E6%97%B6%E7%A5%9E%E6%80%81%E5%B9%B3%E9%9D%99%23&t=31&band_rank=25&Refer=top) 331359
+1. [国人平均睡眠时长6.75小时](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BA%BA%E5%B9%B3%E5%9D%87%E7%9D%A1%E7%9C%A0%E6%97%B6%E9%95%BF6.75%E5%B0%8F%E6%97%B6%23&t=31&band_rank=37&Refer=top) 308910
 1. [当我收到了我的二月份工资](https://s.weibo.com/weibo?q=%23%E5%BD%93%E6%88%91%E6%94%B6%E5%88%B0%E4%BA%86%E6%88%91%E7%9A%84%E4%BA%8C%E6%9C%88%E4%BB%BD%E5%B7%A5%E8%B5%84%23&t=31&band_rank=26&Refer=top) 305982
-1. [国人平均睡眠时长6.75小时](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BA%BA%E5%B9%B3%E5%9D%87%E7%9D%A1%E7%9C%A0%E6%97%B6%E9%95%BF6.75%E5%B0%8F%E6%97%B6%23&t=31&band_rank=37&Refer=top) 270249
 1. [张慧雯演技](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%85%A7%E9%9B%AF%E6%BC%94%E6%8A%80&t=31&band_rank=27&Refer=top) 265957
 1. [林孝埈最后一圈反超](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%AD%9D%E5%9F%88%E6%9C%80%E5%90%8E%E4%B8%80%E5%9C%88%E5%8F%8D%E8%B6%85%23&t=31&band_rank=27&Refer=top) 253317
 1. [林孝埈比赛](https://s.weibo.com/weibo?q=%E6%9E%97%E5%AD%9D%E5%9F%88%E6%AF%94%E8%B5%9B&t=31&band_rank=28&Refer=top) 252098
@@ -65,6 +65,7 @@
 1. [蒲熠星晒何炅的纪念蛋糕](https://s.weibo.com/weibo?q=%23%E8%92%B2%E7%86%A0%E6%98%9F%E6%99%92%E4%BD%95%E7%82%85%E7%9A%84%E7%BA%AA%E5%BF%B5%E8%9B%8B%E7%B3%95%23&t=31&band_rank=49&Refer=top) 122771
 1. [切尔西节目效果](https://s.weibo.com/weibo?q=%E5%88%87%E5%B0%94%E8%A5%BF%E8%8A%82%E7%9B%AE%E6%95%88%E6%9E%9C&t=31&band_rank=50&Refer=top) 116388
 1. [关九海张霄白](https://s.weibo.com/weibo?q=%23%E5%85%B3%E4%B9%9D%E6%B5%B7%E5%BC%A0%E9%9C%84%E7%99%BD%23&t=31&band_rank=32&Refer=top) 92953
+1. [鞠婧祎刘学义捂嘴情头](https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E5%88%98%E5%AD%A6%E4%B9%89%E6%8D%82%E5%98%B4%E6%83%85%E5%A4%B4%23&t=31&band_rank=50&Refer=top) 49683
 <!-- END -->
 
 历史归档 [./archives](./archives)
