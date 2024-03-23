@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-03-24 04:11:26.534071 
-![2024-03-24](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240324/2024-03-24.png?versionId=4_z8fbbed132d73df8689c40f13_f1074f3c607a478e2_d20240323_m201126_c005_v0501017_t0041_u01711224686476) 
+最后更新时间 2024-03-24 04:22:49.539044 
+![2024-03-24](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240324/2024-03-24.png?versionId=4_z8fbbed132d73df8689c40f13_f10765da2af2d7f40_d20240323_m202249_c005_v0501003_t0028_u01711225369421) 
 1. [俄恐袭已致143人遇难](https://s.weibo.com/weibo?q=%23%E4%BF%84%E6%81%90%E8%A2%AD%E5%B7%B2%E8%87%B4143%E4%BA%BA%E9%81%87%E9%9A%BE%23&t=31&band_rank=1&Refer=top) 1190872
 1. [尔冬升把徐若晗赶出片场](https://s.weibo.com/weibo?q=%23%E5%B0%94%E5%86%AC%E5%8D%87%E6%8A%8A%E5%BE%90%E8%8B%A5%E6%99%97%E8%B5%B6%E5%87%BA%E7%89%87%E5%9C%BA%23&t=31&band_rank=2&Refer=top) 897429
 1. [春日花经济焕发新动力](https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%97%A5%E8%8A%B1%E7%BB%8F%E6%B5%8E%E7%84%95%E5%8F%91%E6%96%B0%E5%8A%A8%E5%8A%9B%23&t=31&band_rank=3&Refer=top) 782165
