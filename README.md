@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-04-01 05:49:16.756923 
-![2024-04-01](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240401/2024-04-01.png?versionId=4_z8fbbed132d73df8689c40f13_f1069959b5d18483e_d20240331_m214916_c005_v0501016_t0018_u01711921756231) 
+最后更新时间 2024-04-01 06:10:29.326066 
+![2024-04-01](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240401/2024-04-01.png?versionId=4_z8fbbed132d73df8689c40f13_f103c19bba78004a6_d20240331_m221029_c005_v0501008_t0010_u01711923029175) 
 1. [愚人节站姐团建](https://s.weibo.com/weibo?q=%23%E6%84%9A%E4%BA%BA%E8%8A%82%E7%AB%99%E5%A7%90%E5%9B%A2%E5%BB%BA%23&t=31&band_rank=1&Refer=top) 1875501
 1. [赵露思 澳门鬼迷日眼的照片](https://s.weibo.com/weibo?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%20%E6%BE%B3%E9%97%A8%E9%AC%BC%E8%BF%B7%E6%97%A5%E7%9C%BC%E7%9A%84%E7%85%A7%E7%89%87&t=31&band_rank=2&Refer=top) 1164200
 1. [2024中国网络媒体论坛](https://s.weibo.com/weibo?q=%232024%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E5%AA%92%E4%BD%93%E8%AE%BA%E5%9D%9B%23&t=31&band_rank=3&Refer=top) 1004109
@@ -73,15 +73,17 @@
 1. [赵露思回复了林俊杰](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%9B%9E%E5%A4%8D%E4%BA%86%E6%9E%97%E4%BF%8A%E6%9D%B0%23&t=31&band_rank=42&Refer=top) 72487
 1. [张杰演唱会来了好多明星](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%E6%9D%A5%E4%BA%86%E5%A5%BD%E5%A4%9A%E6%98%8E%E6%98%9F%23&t=31&band_rank=47&Refer=top) 55339
 1. [切尔西2比2伯恩利](https://s.weibo.com/weibo?q=%23%E5%88%87%E5%B0%94%E8%A5%BF2%E6%AF%942%E4%BC%AF%E6%81%A9%E5%88%A9%23&t=31&band_rank=50&Refer=top) 53725
+1. [春天睡不好是正常现象](https://s.weibo.com/weibo?q=%23%E6%98%A5%E5%A4%A9%E7%9D%A1%E4%B8%8D%E5%A5%BD%E6%98%AF%E6%AD%A3%E5%B8%B8%E7%8E%B0%E8%B1%A1%23&t=31&band_rank=28&Refer=top) 44609
 1. [aespa的手臂](https://s.weibo.com/weibo?q=%23aespa%E7%9A%84%E6%89%8B%E8%87%82%23&t=31&band_rank=24&Refer=top) 41891
 1. [王劲松出演拜月教主](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%8A%B2%E6%9D%BE%E5%87%BA%E6%BC%94%E6%8B%9C%E6%9C%88%E6%95%99%E4%B8%BB%23&t=31&band_rank=45&Refer=top) 39516
 1. [和爸妈一起旅游住进了浴缸](https://s.weibo.com/weibo?q=%23%E5%92%8C%E7%88%B8%E5%A6%88%E4%B8%80%E8%B5%B7%E6%97%85%E6%B8%B8%E4%BD%8F%E8%BF%9B%E4%BA%86%E6%B5%B4%E7%BC%B8%23&t=31&band_rank=49&Refer=top) 36955
 1. [西安植物园郁金香美出油画质感](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E6%A4%8D%E7%89%A9%E5%9B%AD%E9%83%81%E9%87%91%E9%A6%99%E7%BE%8E%E5%87%BA%E6%B2%B9%E7%94%BB%E8%B4%A8%E6%84%9F%23&t=31&band_rank=50&Refer=top) 32444
-1. [春天睡不好是正常现象](https://s.weibo.com/weibo?q=%23%E6%98%A5%E5%A4%A9%E7%9D%A1%E4%B8%8D%E5%A5%BD%E6%98%AF%E6%AD%A3%E5%B8%B8%E7%8E%B0%E8%B1%A1%23&t=31&band_rank=28&Refer=top) 32052
 1. [张杰年度巅峰歌手](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E5%B9%B4%E5%BA%A6%E5%B7%85%E5%B3%B0%E6%AD%8C%E6%89%8B%23&t=31&band_rank=43&Refer=top) 29401
+1. [我们是冠军](https://s.weibo.com/weibo?q=%23%E6%88%91%E4%BB%AC%E6%98%AF%E5%86%A0%E5%86%9B%23&t=31&band_rank=48&Refer=top) 24797
 1. [网红包MCM过气了吗](https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E5%8C%85MCM%E8%BF%87%E6%B0%94%E4%BA%86%E5%90%97%23&t=31&band_rank=49&Refer=top) 24070
-1. [我们是冠军](https://s.weibo.com/weibo?q=%23%E6%88%91%E4%BB%AC%E6%98%AF%E5%86%A0%E5%86%9B%23&t=31&band_rank=48&Refer=top) 18942
-1. [父母对孩子情感漠视的影响有多大](https://s.weibo.com/weibo?q=%23%E7%88%B6%E6%AF%8D%E5%AF%B9%E5%AD%A9%E5%AD%90%E6%83%85%E6%84%9F%E6%BC%A0%E8%A7%86%E7%9A%84%E5%BD%B1%E5%93%8D%E6%9C%89%E5%A4%9A%E5%A4%A7%23&t=31&band_rank=49&Refer=top) 16943
+1. [父母对孩子情感漠视的影响有多大](https://s.weibo.com/weibo?q=%23%E7%88%B6%E6%AF%8D%E5%AF%B9%E5%AD%A9%E5%AD%90%E6%83%85%E6%84%9F%E6%BC%A0%E8%A7%86%E7%9A%84%E5%BD%B1%E5%93%8D%E6%9C%89%E5%A4%9A%E5%A4%A7%23&t=31&band_rank=49&Refer=top) 18706
+1. [久哲为Hero挂上寄语](https://s.weibo.com/weibo?q=%23%E4%B9%85%E5%93%B2%E4%B8%BAHero%E6%8C%82%E4%B8%8A%E5%AF%84%E8%AF%AD%23&t=31&band_rank=48&Refer=top) 17605
+1. [伞兵重回淘汰榜一](https://s.weibo.com/weibo?q=%23%E4%BC%9E%E5%85%B5%E9%87%8D%E5%9B%9E%E6%B7%98%E6%B1%B0%E6%A6%9C%E4%B8%80%23&t=31&band_rank=49&Refer=top) 17578
 1. [女子口吐白沫晕倒8岁娃机智求救](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%8F%A3%E5%90%90%E7%99%BD%E6%B2%AB%E6%99%95%E5%80%928%E5%B2%81%E5%A8%83%E6%9C%BA%E6%99%BA%E6%B1%82%E6%95%91%23&t=31&band_rank=49&Refer=top) 15370
 1. [情绪稳定又骄傲的小金毛](https://s.weibo.com/weibo?q=%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A%E5%8F%88%E9%AA%84%E5%82%B2%E7%9A%84%E5%B0%8F%E9%87%91%E6%AF%9B&t=31&band_rank=50&Refer=top) 15365
 1. [新疆阿克苏3.2级地震](https://s.weibo.com/weibo?q=%E6%96%B0%E7%96%86%E9%98%BF%E5%85%8B%E8%8B%8F3.2%E7%BA%A7%E5%9C%B0%E9%9C%87&t=31&band_rank=50&Refer=top) 14661
