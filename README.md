@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-04-04 02:37:26.626947 
-![2024-04-04](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240404/2024-04-04.png?versionId=4_z8fbbed132d73df8689c40f13_f115c361e6cea82fc_d20240403_m183726_c005_v0501009_t0059_u01712169446579) 
+最后更新时间 2024-04-04 02:49:28.886802 
+![2024-04-04](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240404/2024-04-04.png?versionId=4_z8fbbed132d73df8689c40f13_f1177706268405fe9_d20240403_m184928_c005_v0501005_t0049_u01712170168321) 
 1. [名创优品下架chiikawa不当视频](https://s.weibo.com/weibo?q=%23%E5%90%8D%E5%88%9B%E4%BC%98%E5%93%81%E4%B8%8B%E6%9E%B6chiikawa%E4%B8%8D%E5%BD%93%E8%A7%86%E9%A2%91%23&t=31&band_rank=1&Refer=top) 1228020
 1. [福宝回家了](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%AE%9D%E5%9B%9E%E5%AE%B6%E4%BA%86%23&t=31&band_rank=2&Refer=top) 1079113
 1. [家国永念致敬英雄](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E5%9B%BD%E6%B0%B8%E5%BF%B5%E8%87%B4%E6%95%AC%E8%8B%B1%E9%9B%84%23&t=31&band_rank=3&Refer=top) 889698
@@ -43,6 +43,7 @@
 1. [行止不行](https://s.weibo.com/weibo?q=%23%E8%A1%8C%E6%AD%A2%E4%B8%8D%E8%A1%8C%23&t=31&band_rank=40&Refer=top) 173117
 1. [行止穿深V是为了这一刻](https://s.weibo.com/weibo?q=%23%E8%A1%8C%E6%AD%A2%E7%A9%BF%E6%B7%B1V%E6%98%AF%E4%B8%BA%E4%BA%86%E8%BF%99%E4%B8%80%E5%88%BB%23&t=31&band_rank=30&Refer=top) 170864
 1. [09小楼事件](https://s.weibo.com/weibo?q=09%E5%B0%8F%E6%A5%BC%E4%BA%8B%E4%BB%B6&t=31&band_rank=31&Refer=top) 168679
+1. [春天很好只是太想你](https://s.weibo.com/weibo?q=%23%E6%98%A5%E5%A4%A9%E5%BE%88%E5%A5%BD%E5%8F%AA%E6%98%AF%E5%A4%AA%E6%83%B3%E4%BD%A0%23&t=31&band_rank=3&Refer=top) 166461
 1. [ILLIT冠军秀](https://s.weibo.com/weibo?q=ILLIT%E5%86%A0%E5%86%9B%E7%A7%80&t=31&band_rank=32&Refer=top) 166036
 1. [种地吧新闻联播](https://s.weibo.com/weibo?q=%E7%A7%8D%E5%9C%B0%E5%90%A7%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD&t=31&band_rank=33&Refer=top) 162966
 1. [李沁演技](https://s.weibo.com/weibo?q=%E6%9D%8E%E6%B2%81%E6%BC%94%E6%8A%80&t=31&band_rank=34&Refer=top) 162431
@@ -63,7 +64,7 @@
 1. [惜花芷](https://s.weibo.com/weibo?q=%E6%83%9C%E8%8A%B1%E8%8A%B7&t=31&band_rank=46&Refer=top) 118102
 1. [追风者 学历史](https://s.weibo.com/weibo?q=%E8%BF%BD%E9%A3%8E%E8%80%85%20%E5%AD%A6%E5%8E%86%E5%8F%B2&t=31&band_rank=47&Refer=top) 117129
 1. [WBG剧本](https://s.weibo.com/weibo?q=WBG%E5%89%A7%E6%9C%AC&t=31&band_rank=50&Refer=top) 112666
-1. [宝宝栽倒水桶溺亡奶奶数次经过未发现](https://s.weibo.com/weibo?q=%23%E5%AE%9D%E5%AE%9D%E6%A0%BD%E5%80%92%E6%B0%B4%E6%A1%B6%E6%BA%BA%E4%BA%A1%E5%A5%B6%E5%A5%B6%E6%95%B0%E6%AC%A1%E7%BB%8F%E8%BF%87%E6%9C%AA%E5%8F%91%E7%8E%B0%23&t=31&band_rank=50&Refer=top) 109777
+1. [宝宝栽倒水桶溺亡奶奶数次经过未发现](https://s.weibo.com/weibo?q=%23%E5%AE%9D%E5%AE%9D%E6%A0%BD%E5%80%92%E6%B0%B4%E6%A1%B6%E6%BA%BA%E4%BA%A1%E5%A5%B6%E5%A5%B6%E6%95%B0%E6%AC%A1%E7%BB%8F%E8%BF%87%E6%9C%AA%E5%8F%91%E7%8E%B0%23&t=31&band_rank=50&Refer=top) 109870
 1. [蒋敦豪开启养蜂之路](https://s.weibo.com/weibo?q=%E8%92%8B%E6%95%A6%E8%B1%AA%E5%BC%80%E5%90%AF%E5%85%BB%E8%9C%82%E4%B9%8B%E8%B7%AF&t=31&band_rank=48&Refer=top) 109120
 1. [清明是唯一一个以节气命名的节日](https://s.weibo.com/weibo?q=%23%E6%B8%85%E6%98%8E%E6%98%AF%E5%94%AF%E4%B8%80%E4%B8%80%E4%B8%AA%E4%BB%A5%E8%8A%82%E6%B0%94%E5%91%BD%E5%90%8D%E7%9A%84%E8%8A%82%E6%97%A5%23&t=31&band_rank=49&Refer=top) 101551
 1. [福宝隔离期有多个工作组照顾](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%AE%9D%E9%9A%94%E7%A6%BB%E6%9C%9F%E6%9C%89%E5%A4%9A%E4%B8%AA%E5%B7%A5%E4%BD%9C%E7%BB%84%E7%85%A7%E9%A1%BE%23&t=31&band_rank=44&Refer=top) 91922
