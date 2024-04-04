@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-04-05 04:34:45.709031 
-![2024-04-05](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240405/2024-04-05.png?versionId=4_z8fbbed132d73df8689c40f13_f1025389f369fae5b_d20240404_m203445_c005_v0501011_t0010_u01712262885597) 
+最后更新时间 2024-04-05 04:49:21.744156 
+![2024-04-05](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240405/2024-04-05.png?versionId=4_z8fbbed132d73df8689c40f13_f104b10ad89bedf00_d20240404_m204921_c005_v0501001_t0002_u01712263761692) 
 1. [这一互关就是一辈子](https://s.weibo.com/weibo?q=%E8%BF%99%E4%B8%80%E4%BA%92%E5%85%B3%E5%B0%B1%E6%98%AF%E4%B8%80%E8%BE%88%E5%AD%90&t=31&band_rank=1&Refer=top) 1479557
 1. [徐艺洋发了和黄子韬的合照](https://s.weibo.com/weibo?q=%23%E5%BE%90%E8%89%BA%E6%B4%8B%E5%8F%91%E4%BA%86%E5%92%8C%E9%BB%84%E5%AD%90%E9%9F%AC%E7%9A%84%E5%90%88%E7%85%A7%23&t=31&band_rank=2&Refer=top) 880218
 1. [古诗词里的清明意境超美](https://s.weibo.com/weibo?q=%23%E5%8F%A4%E8%AF%97%E8%AF%8D%E9%87%8C%E7%9A%84%E6%B8%85%E6%98%8E%E6%84%8F%E5%A2%83%E8%B6%85%E7%BE%8E%23&t=31&band_rank=3&Refer=top) 634185
@@ -70,8 +70,9 @@
 1. [回春丹献唱穿过月亮的旅行](https://s.weibo.com/weibo?q=%23%E5%9B%9E%E6%98%A5%E4%B8%B9%E7%8C%AE%E5%94%B1%E7%A9%BF%E8%BF%87%E6%9C%88%E4%BA%AE%E7%9A%84%E6%97%85%E8%A1%8C%23&t=31&band_rank=49&Refer=top) 44497
 1. [花莲县海域发生4.6级地震](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%8E%B2%E5%8E%BF%E6%B5%B7%E5%9F%9F%E5%8F%91%E7%94%9F4.6%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=50&Refer=top) 41477
 1. [与凤行](https://s.weibo.com/weibo?q=%E4%B8%8E%E5%87%A4%E8%A1%8C&t=31&band_rank=49&Refer=top) 22712
+1. [林更新没有技巧就是硬帅](https://s.weibo.com/weibo?q=%23%E6%9E%97%E6%9B%B4%E6%96%B0%E6%B2%A1%E6%9C%89%E6%8A%80%E5%B7%A7%E5%B0%B1%E6%98%AF%E7%A1%AC%E5%B8%85%23&t=31&band_rank=42&Refer=top) 19529
 1. [追风者](https://s.weibo.com/weibo?q=%E8%BF%BD%E9%A3%8E%E8%80%85&t=31&band_rank=45&Refer=top) 17459
-1. [林更新没有技巧就是硬帅](https://s.weibo.com/weibo?q=%23%E6%9E%97%E6%9B%B4%E6%96%B0%E6%B2%A1%E6%9C%89%E6%8A%80%E5%B7%A7%E5%B0%B1%E6%98%AF%E7%A1%AC%E5%B8%85%23&t=31&band_rank=42&Refer=top) 17357
+1. [20多岁大学生为21岁烈士画像](https://s.weibo.com/weibo?q=%2320%E5%A4%9A%E5%B2%81%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%B8%BA21%E5%B2%81%E7%83%88%E5%A3%AB%E7%94%BB%E5%83%8F%23&t=31&band_rank=50&Refer=top) 16625
 1. [车祸现场散落3万元20多人不约而同伸手](https://s.weibo.com/weibo?q=%23%E8%BD%A6%E7%A5%B8%E7%8E%B0%E5%9C%BA%E6%95%A3%E8%90%BD3%E4%B8%87%E5%85%8320%E5%A4%9A%E4%BA%BA%E4%B8%8D%E7%BA%A6%E8%80%8C%E5%90%8C%E4%BC%B8%E6%89%8B%23&t=31&band_rank=50&Refer=top) 16119
 <!-- END -->
 
