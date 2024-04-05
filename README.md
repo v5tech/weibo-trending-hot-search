@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-04-06 02:49:31.633538 
-![2024-04-06](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240406/2024-04-06.png?versionId=4_z8fbbed132d73df8689c40f13_f10968390935692a8_d20240405_m184931_c005_v0501019_t0021_u01712342971477) 
+最后更新时间 2024-04-06 03:10:46.828269 
+![2024-04-06](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240406/2024-04-06.png?versionId=4_z8fbbed132d73df8689c40f13_f107b14ccd5dc465a_d20240405_m191046_c005_v0501004_t0035_u01712344246465) 
 1. [纽约震感](https://s.weibo.com/weibo?q=%E7%BA%BD%E7%BA%A6%E9%9C%87%E6%84%9F&t=31&band_rank=1&Refer=top) 861146
 1. [过度省钱后觉得生活没意思了](https://s.weibo.com/weibo?q=%23%E8%BF%87%E5%BA%A6%E7%9C%81%E9%92%B1%E5%90%8E%E8%A7%89%E5%BE%97%E7%94%9F%E6%B4%BB%E6%B2%A1%E6%84%8F%E6%80%9D%E4%BA%86%23&t=31&band_rank=2&Refer=top) 838337
 1. [前夫殴打10岁女儿女子忍痛拍下取证](https://s.weibo.com/weibo?q=%23%E5%89%8D%E5%A4%AB%E6%AE%B4%E6%89%9310%E5%B2%81%E5%A5%B3%E5%84%BF%E5%A5%B3%E5%AD%90%E5%BF%8D%E7%97%9B%E6%8B%8D%E4%B8%8B%E5%8F%96%E8%AF%81%23&t=31&band_rank=4&Refer=top) 834591
@@ -66,11 +66,12 @@
 1. [眼泪女王](https://s.weibo.com/weibo?q=%E7%9C%BC%E6%B3%AA%E5%A5%B3%E7%8E%8B&t=31&band_rank=48&Refer=top) 88069
 1. [宫崎骏电影里有好多杨迪](https://s.weibo.com/weibo?q=%23%E5%AE%AB%E5%B4%8E%E9%AA%8F%E7%94%B5%E5%BD%B1%E9%87%8C%E6%9C%89%E5%A5%BD%E5%A4%9A%E6%9D%A8%E8%BF%AA%23&t=31&band_rank=44&Refer=top) 82745
 1. [与凤行](https://s.weibo.com/weibo?q=%E4%B8%8E%E5%87%A4%E8%A1%8C&t=31&band_rank=47&Refer=top) 78267
+1. [芒果与凤行AI婚礼圆满了](https://s.weibo.com/weibo?q=%23%E8%8A%92%E6%9E%9C%E4%B8%8E%E5%87%A4%E8%A1%8CAI%E5%A9%9A%E7%A4%BC%E5%9C%86%E6%BB%A1%E4%BA%86%23&t=31&band_rank=26&Refer=top) 73675
 1. [赵丽颖林更新恐怖漏网之鱼](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%9E%97%E6%9B%B4%E6%96%B0%E6%81%90%E6%80%96%E6%BC%8F%E7%BD%91%E4%B9%8B%E9%B1%BC%23&t=31&band_rank=34&Refer=top) 65588
-1. [芒果与凤行AI婚礼圆满了](https://s.weibo.com/weibo?q=%23%E8%8A%92%E6%9E%9C%E4%B8%8E%E5%87%A4%E8%A1%8CAI%E5%A9%9A%E7%A4%BC%E5%9C%86%E6%BB%A1%E4%BA%86%23&t=31&band_rank=26&Refer=top) 64683
 1. [声音玩具演唱会](https://s.weibo.com/weibo?q=%E5%A3%B0%E9%9F%B3%E7%8E%A9%E5%85%B7%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=44&Refer=top) 60307
 1. [与凤行 小情侣换装play](https://s.weibo.com/weibo?q=%E4%B8%8E%E5%87%A4%E8%A1%8C%20%E5%B0%8F%E6%83%85%E4%BE%A3%E6%8D%A2%E8%A3%85play&t=31&band_rank=49&Refer=top) 54616
 1. [青岛海牛0比1山东泰山](https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B%E6%B5%B7%E7%89%9B0%E6%AF%941%E5%B1%B1%E4%B8%9C%E6%B3%B0%E5%B1%B1%23&t=31&band_rank=50&Refer=top) 43145
+1. [4个心脏的求救信号](https://s.weibo.com/weibo?q=%234%E4%B8%AA%E5%BF%83%E8%84%8F%E7%9A%84%E6%B1%82%E6%95%91%E4%BF%A1%E5%8F%B7%23&t=31&band_rank=46&Refer=top) 28615
 <!-- END -->
 
 历史归档 [./archives](./archives)
