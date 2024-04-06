@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-04-07 02:49:31.599217 
-![2024-04-07](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240407/2024-04-07.png?versionId=4_z8fbbed132d73df8689c40f13_f1148453a15bfd62a_d20240406_m184931_c005_v0501011_t0021_u01712429371550) 
+最后更新时间 2024-04-07 03:08:44.529385 
+![2024-04-07](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240407/2024-04-07.png?versionId=4_z8fbbed132d73df8689c40f13_f102b65530192c3e5_d20240406_m190844_c005_v0501015_t0027_u01712430524470) 
 1. [王珂出道吧](https://s.weibo.com/weibo?q=%E7%8E%8B%E7%8F%82%E5%87%BA%E9%81%93%E5%90%A7&t=31&band_rank=4&Refer=top) 1371009
 1. [长期戴耳塞睡觉的人最后怎么样了](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E6%88%B4%E8%80%B3%E5%A1%9E%E7%9D%A1%E8%A7%89%E7%9A%84%E4%BA%BA%E6%9C%80%E5%90%8E%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86%23&t=31&band_rank=1&Refer=top) 1357572
 1. [爱奇艺2024首部破万剧](https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA2024%E9%A6%96%E9%83%A8%E7%A0%B4%E4%B8%87%E5%89%A7%23&t=31&band_rank=2&Refer=top) 1161983
@@ -73,6 +73,7 @@
 1. [YG与HYBE的歌曲拼出JYP的感觉](https://s.weibo.com/weibo?q=%23YG%E4%B8%8EHYBE%E7%9A%84%E6%AD%8C%E6%9B%B2%E6%8B%BC%E5%87%BAJYP%E7%9A%84%E6%84%9F%E8%A7%89%23&t=31&band_rank=42&Refer=top) 43248
 1. [十个勤天上hi6](https://s.weibo.com/weibo?q=%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9%E4%B8%8Ahi6&t=31&band_rank=47&Refer=top) 42165
 1. [魏若来正式入党](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E8%8B%A5%E6%9D%A5%E6%AD%A3%E5%BC%8F%E5%85%A5%E5%85%9A%23&t=31&band_rank=43&Refer=top) 30860
+1. [追风者](https://s.weibo.com/weibo?q=%E8%BF%BD%E9%A3%8E%E8%80%85&t=31&band_rank=44&Refer=top) 24973
 <!-- END -->
 
 历史归档 [./archives](./archives)
