@@ -263,6 +263,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E9%AD%8F%E8%8B%A5%E6%9D%A5%E6%AD%A3%E5%BC%8F%E5%85%A5%E5%85%9A%23&t=31&band_rank=43&Refer=top",
     "hot": 30860
   },
+  "丁程鑫泼水误伤了何炅": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A8%8B%E9%91%AB%E6%B3%BC%E6%B0%B4%E8%AF%AF%E4%BC%A4%E4%BA%86%E4%BD%95%E7%82%85%23&t=31&band_rank=37&Refer=top",
+    "hot": 26119
+  },
   "追风者": {
     "url": "https://s.weibo.com/weibo?q=%E8%BF%BD%E9%A3%8E%E8%80%85&t=31&band_rank=44&Refer=top",
     "hot": 24973
@@ -285,11 +289,7 @@
   },
   "吵了一辈子的爸妈在晚年爱上彼此": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%90%B5%E4%BA%86%E4%B8%80%E8%BE%88%E5%AD%90%E7%9A%84%E7%88%B8%E5%A6%88%E5%9C%A8%E6%99%9A%E5%B9%B4%E7%88%B1%E4%B8%8A%E5%BD%BC%E6%AD%A4%23&t=31&band_rank=46&Refer=top",
-    "hot": 18300
-  },
-  "丁程鑫泼水误伤了何炅": {
-    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A8%8B%E9%91%AB%E6%B3%BC%E6%B0%B4%E8%AF%AF%E4%BC%A4%E4%BA%86%E4%BD%95%E7%82%85%23&t=31&band_rank=37&Refer=top",
-    "hot": 17118
+    "hot": 20063
   },
   "退伍老兵坚守烈士陵园担当守陵人": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%80%80%E4%BC%8D%E8%80%81%E5%85%B5%E5%9D%9A%E5%AE%88%E7%83%88%E5%A3%AB%E9%99%B5%E5%9B%AD%E6%8B%85%E5%BD%93%E5%AE%88%E9%99%B5%E4%BA%BA%23&t=31&band_rank=50&Refer=top",
@@ -298,5 +298,9 @@
   "医学生夜市摆摊按摩9.9元起": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%8C%BB%E5%AD%A6%E7%94%9F%E5%A4%9C%E5%B8%82%E6%91%86%E6%91%8A%E6%8C%89%E6%91%A99.9%E5%85%83%E8%B5%B7%23&t=31&band_rank=50&Refer=top",
     "hot": 14521
+  },
+  "电视剧品质盛典": {
+    "url": "https://s.weibo.com/weibo?q=%E7%94%B5%E8%A7%86%E5%89%A7%E5%93%81%E8%B4%A8%E7%9B%9B%E5%85%B8&t=31&band_rank=48&Refer=top",
+    "hot": 14439
   }
 }
