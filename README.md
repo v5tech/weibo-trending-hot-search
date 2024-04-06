@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-04-07 03:08:44.529385 
-![2024-04-07](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240407/2024-04-07.png?versionId=4_z8fbbed132d73df8689c40f13_f102b65530192c3e5_d20240406_m190844_c005_v0501015_t0027_u01712430524470) 
+最后更新时间 2024-04-07 03:19:23.003362 
+![2024-04-07](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240407/2024-04-07.png?versionId=4_z8fbbed132d73df8689c40f13_f108376ea8dda125a_d20240406_m191922_c005_v0501008_t0055_u01712431162563) 
 1. [王珂出道吧](https://s.weibo.com/weibo?q=%E7%8E%8B%E7%8F%82%E5%87%BA%E9%81%93%E5%90%A7&t=31&band_rank=4&Refer=top) 1371009
 1. [长期戴耳塞睡觉的人最后怎么样了](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E6%88%B4%E8%80%B3%E5%A1%9E%E7%9D%A1%E8%A7%89%E7%9A%84%E4%BA%BA%E6%9C%80%E5%90%8E%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86%23&t=31&band_rank=1&Refer=top) 1357572
 1. [爱奇艺2024首部破万剧](https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA2024%E9%A6%96%E9%83%A8%E7%A0%B4%E4%B8%87%E5%89%A7%23&t=31&band_rank=2&Refer=top) 1161983
@@ -72,8 +72,13 @@
 1. [锦超演的傅卫军](https://s.weibo.com/weibo?q=%E9%94%A6%E8%B6%85%E6%BC%94%E7%9A%84%E5%82%85%E5%8D%AB%E5%86%9B&t=31&band_rank=44&Refer=top) 60689
 1. [YG与HYBE的歌曲拼出JYP的感觉](https://s.weibo.com/weibo?q=%23YG%E4%B8%8EHYBE%E7%9A%84%E6%AD%8C%E6%9B%B2%E6%8B%BC%E5%87%BAJYP%E7%9A%84%E6%84%9F%E8%A7%89%23&t=31&band_rank=42&Refer=top) 43248
 1. [十个勤天上hi6](https://s.weibo.com/weibo?q=%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9%E4%B8%8Ahi6&t=31&band_rank=47&Refer=top) 42165
+1. [王铮亮录制6期被抓5次](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%93%AE%E4%BA%AE%E5%BD%95%E5%88%B66%E6%9C%9F%E8%A2%AB%E6%8A%935%E6%AC%A1%23&t=31&band_rank=26&Refer=top) 32465
 1. [魏若来正式入党](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E8%8B%A5%E6%9D%A5%E6%AD%A3%E5%BC%8F%E5%85%A5%E5%85%9A%23&t=31&band_rank=43&Refer=top) 30860
 1. [追风者](https://s.weibo.com/weibo?q=%E8%BF%BD%E9%A3%8E%E8%80%85&t=31&band_rank=44&Refer=top) 24973
+1. [薛之谦天外来物巡回演唱会](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%A4%A9%E5%A4%96%E6%9D%A5%E7%89%A9%E5%B7%A1%E5%9B%9E%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=36&Refer=top) 22151
+1. [手术直播间](https://s.weibo.com/weibo?q=%E6%89%8B%E6%9C%AF%E7%9B%B4%E6%92%AD%E9%97%B4&t=31&band_rank=43&Refer=top) 21758
+1. [好像明白为啥鸟类多是侧面照了](https://s.weibo.com/weibo?q=%23%E5%A5%BD%E5%83%8F%E6%98%8E%E7%99%BD%E4%B8%BA%E5%95%A5%E9%B8%9F%E7%B1%BB%E5%A4%9A%E6%98%AF%E4%BE%A7%E9%9D%A2%E7%85%A7%E4%BA%86%23&t=31&band_rank=48&Refer=top) 21414
+1. [三代日本皇室女性都曾患上心理疾病](https://s.weibo.com/weibo?q=%23%E4%B8%89%E4%BB%A3%E6%97%A5%E6%9C%AC%E7%9A%87%E5%AE%A4%E5%A5%B3%E6%80%A7%E9%83%BD%E6%9B%BE%E6%82%A3%E4%B8%8A%E5%BF%83%E7%90%86%E7%96%BE%E7%97%85%23&t=31&band_rank=49&Refer=top) 21400
 <!-- END -->
 
 历史归档 [./archives](./archives)
