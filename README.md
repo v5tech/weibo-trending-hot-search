@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-04-07 02:12:34.608933 
-![2024-04-07](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240407/2024-04-07.png?versionId=4_z8fbbed132d73df8689c40f13_f108385d526b72a89_d20240406_m181234_c005_v0501018_t0046_u01712427154563) 
+最后更新时间 2024-04-07 02:27:04.377150 
+![2024-04-07](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240407/2024-04-07.png?versionId=4_z8fbbed132d73df8689c40f13_f1006ea4e5c2ae8ba_d20240406_m182703_c005_v0501019_t0035_u01712428023531) 
 1. [王珂出道吧](https://s.weibo.com/weibo?q=%E7%8E%8B%E7%8F%82%E5%87%BA%E9%81%93%E5%90%A7&t=31&band_rank=4&Refer=top) 1371009
 1. [长期戴耳塞睡觉的人最后怎么样了](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E6%88%B4%E8%80%B3%E5%A1%9E%E7%9D%A1%E8%A7%89%E7%9A%84%E4%BA%BA%E6%9C%80%E5%90%8E%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86%23&t=31&band_rank=1&Refer=top) 1357572
 1. [爱奇艺2024首部破万剧](https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA2024%E9%A6%96%E9%83%A8%E7%A0%B4%E4%B8%87%E5%89%A7%23&t=31&band_rank=2&Refer=top) 1161983
@@ -71,7 +71,7 @@
 1. [李逍遥 脆皮但能打](https://s.weibo.com/weibo?q=%E6%9D%8E%E9%80%8D%E9%81%A5%20%E8%84%86%E7%9A%AE%E4%BD%86%E8%83%BD%E6%89%93&t=31&band_rank=37&Refer=top) 62928
 1. [锦超演的傅卫军](https://s.weibo.com/weibo?q=%E9%94%A6%E8%B6%85%E6%BC%94%E7%9A%84%E5%82%85%E5%8D%AB%E5%86%9B&t=31&band_rank=44&Refer=top) 60689
 1. [十个勤天上hi6](https://s.weibo.com/weibo?q=%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9%E4%B8%8Ahi6&t=31&band_rank=47&Refer=top) 42165
-1. [YG与HYBE的歌曲拼出JYP的感觉](https://s.weibo.com/weibo?q=%23YG%E4%B8%8EHYBE%E7%9A%84%E6%AD%8C%E6%9B%B2%E6%8B%BC%E5%87%BAJYP%E7%9A%84%E6%84%9F%E8%A7%89%23&t=31&band_rank=42&Refer=top) 35689
+1. [YG与HYBE的歌曲拼出JYP的感觉](https://s.weibo.com/weibo?q=%23YG%E4%B8%8EHYBE%E7%9A%84%E6%AD%8C%E6%9B%B2%E6%8B%BC%E5%87%BAJYP%E7%9A%84%E6%84%9F%E8%A7%89%23&t=31&band_rank=42&Refer=top) 37619
 <!-- END -->
 
 历史归档 [./archives](./archives)
