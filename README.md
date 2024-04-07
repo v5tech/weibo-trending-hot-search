@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-04-08 03:34:22.611691 
-![2024-04-08](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240408/2024-04-08.png?versionId=4_z8fbbed132d73df8689c40f13_f100fe7120ca5d197_d20240407_m193422_c005_v0501009_t0022_u01712518462572) 
+最后更新时间 2024-04-08 03:49:16.041206 
+![2024-04-08](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240408/2024-04-08.png?versionId=4_z8fbbed132d73df8689c40f13_f113950ad7169b24d_d20240407_m194915_c005_v0501011_t0038_u01712519355995) 
 1. [仝卓工作室公开讨债](https://s.weibo.com/weibo?q=%23%E4%BB%9D%E5%8D%93%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%85%AC%E5%BC%80%E8%AE%A8%E5%80%BA%23&t=31&band_rank=1&Refer=top) 989504
 1. [肖战早期与素人合照](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%97%A9%E6%9C%9F%E4%B8%8E%E7%B4%A0%E4%BA%BA%E5%90%88%E7%85%A7%23&t=31&band_rank=2&Refer=top) 910054
 1. [文旅消费如何从开门红走向长红](https://s.weibo.com/weibo?q=%23%E6%96%87%E6%97%85%E6%B6%88%E8%B4%B9%E5%A6%82%E4%BD%95%E4%BB%8E%E5%BC%80%E9%97%A8%E7%BA%A2%E8%B5%B0%E5%90%91%E9%95%BF%E7%BA%A2%23&t=31&band_rank=3&Refer=top) 677701
@@ -73,6 +73,8 @@
 1. [跟水瓶座相处需要知性美](https://s.weibo.com/weibo?q=%23%E8%B7%9F%E6%B0%B4%E7%93%B6%E5%BA%A7%E7%9B%B8%E5%A4%84%E9%9C%80%E8%A6%81%E7%9F%A5%E6%80%A7%E7%BE%8E%23&t=31&band_rank=50&Refer=top) 23651
 1. [徐海乔宣璐谈林更新](https://s.weibo.com/weibo?q=%23%E5%BE%90%E6%B5%B7%E4%B9%94%E5%AE%A3%E7%92%90%E8%B0%88%E6%9E%97%E6%9B%B4%E6%96%B0%23&t=31&band_rank=50&Refer=top) 22824
 1. [被路人狂撸的小狗狗](https://s.weibo.com/weibo?q=%E8%A2%AB%E8%B7%AF%E4%BA%BA%E7%8B%82%E6%92%B8%E7%9A%84%E5%B0%8F%E7%8B%97%E7%8B%97&t=31&band_rank=50&Refer=top) 18391
+1. [90后准新娘婚前立遗嘱遗产归父母](https://s.weibo.com/weibo?q=%2390%E5%90%8E%E5%87%86%E6%96%B0%E5%A8%98%E5%A9%9A%E5%89%8D%E7%AB%8B%E9%81%97%E5%98%B1%E9%81%97%E4%BA%A7%E5%BD%92%E7%88%B6%E6%AF%8D%23&t=31&band_rank=48&Refer=top) 14938
+1. [不够善良的我们](https://s.weibo.com/weibo?q=%E4%B8%8D%E5%A4%9F%E5%96%84%E8%89%AF%E7%9A%84%E6%88%91%E4%BB%AC&t=31&band_rank=49&Refer=top) 14937
 <!-- END -->
 
 历史归档 [./archives](./archives)
