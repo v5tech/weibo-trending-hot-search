@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-04-09 01:11:24.886332 
-![2024-04-09](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240409/2024-04-09.png?versionId=4_z8fbbed132d73df8689c40f13_f112f8c8c25cd97da_d20240408_m171124_c005_v0501018_t0007_u01712596284712) 
+最后更新时间 2024-04-09 01:26:57.233782 
+![2024-04-09](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240409/2024-04-09.png?versionId=4_z8fbbed132d73df8689c40f13_f116052b839238da3_d20240408_m172656_c005_v0501017_t0017_u01712597216782) 
 1. [朱婷官宣回归中国女排](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E5%A9%B7%E5%AE%98%E5%AE%A3%E5%9B%9E%E5%BD%92%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%23&t=31&band_rank=1&Refer=top) 1566137
 1. [王一博托姐公开秀恩爱](https://s.weibo.com/weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%89%98%E5%A7%90%E5%85%AC%E5%BC%80%E7%A7%80%E6%81%A9%E7%88%B1&t=31&band_rank=2&Refer=top) 1304288
 1. [感动中国2023年度人物](https://s.weibo.com/weibo?q=%23%E6%84%9F%E5%8A%A8%E4%B8%AD%E5%9B%BD2023%E5%B9%B4%E5%BA%A6%E4%BA%BA%E7%89%A9%23&t=31&band_rank=3&Refer=top) 884313
@@ -28,6 +28,7 @@
 1. [鞠婧祎演技](https://s.weibo.com/weibo?q=%E9%9E%A0%E5%A9%A7%E7%A5%8E%E6%BC%94%E6%8A%80&t=31&band_rank=18&Refer=top) 413758
 1. [庆余年2](https://s.weibo.com/weibo?q=%E5%BA%86%E4%BD%99%E5%B9%B42&t=31&band_rank=15&Refer=top) 404202
 1. [中医建议大家不要盲目的防晒](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%8C%BB%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E4%B8%8D%E8%A6%81%E7%9B%B2%E7%9B%AE%E7%9A%84%E9%98%B2%E6%99%92%23&t=31&band_rank=16&Refer=top) 398792
+1. [我国首口超5000米深层地热科学探井](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E9%A6%96%E5%8F%A3%E8%B6%855000%E7%B1%B3%E6%B7%B1%E5%B1%82%E5%9C%B0%E7%83%AD%E7%A7%91%E5%AD%A6%E6%8E%A2%E4%BA%95%23&t=31&band_rank=3&Refer=top) 367726
 1. [意外吃到了去世10年爷爷种的韭菜](https://s.weibo.com/weibo?q=%23%E6%84%8F%E5%A4%96%E5%90%83%E5%88%B0%E4%BA%86%E5%8E%BB%E4%B8%9610%E5%B9%B4%E7%88%B7%E7%88%B7%E7%A7%8D%E7%9A%84%E9%9F%AD%E8%8F%9C%23&t=31&band_rank=17&Refer=top) 348353
 1. [王鹤棣 人夫感](https://s.weibo.com/weibo?q=%E7%8E%8B%E9%B9%A4%E6%A3%A3%20%E4%BA%BA%E5%A4%AB%E6%84%9F&t=31&band_rank=19&Refer=top) 322385
 1. [王晰怎么了](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%99%B0%E6%80%8E%E4%B9%88%E4%BA%86%23&t=31&band_rank=20&Refer=top) 312799
@@ -62,7 +63,7 @@
 1. [辛云来回忆和赵丽颖第一次见面](https://s.weibo.com/weibo?q=%23%E8%BE%9B%E4%BA%91%E6%9D%A5%E5%9B%9E%E5%BF%86%E5%92%8C%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E9%9D%A2%23&t=31&band_rank=48&Refer=top) 98801
 1. [央视网评岳婿双行长](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E7%BD%91%E8%AF%84%E5%B2%B3%E5%A9%BF%E5%8F%8C%E8%A1%8C%E9%95%BF%23&t=31&band_rank=49&Refer=top) 98774
 1. [突然发现老公有一个成年的私生子](https://s.weibo.com/weibo?q=%23%E7%AA%81%E7%84%B6%E5%8F%91%E7%8E%B0%E8%80%81%E5%85%AC%E6%9C%89%E4%B8%80%E4%B8%AA%E6%88%90%E5%B9%B4%E7%9A%84%E7%A7%81%E7%94%9F%E5%AD%90%23&t=31&band_rank=50&Refer=top) 98761
-1. [剑网3](https://s.weibo.com/weibo?q=%E5%89%91%E7%BD%913&t=31&band_rank=41&Refer=top) 63624
+1. [剑网3](https://s.weibo.com/weibo?q=%E5%89%91%E7%BD%913&t=31&band_rank=41&Refer=top) 78442
 <!-- END -->
 
 历史归档 [./archives](./archives)
