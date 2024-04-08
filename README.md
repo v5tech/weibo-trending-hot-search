@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-04-09 01:26:57.233782 
-![2024-04-09](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240409/2024-04-09.png?versionId=4_z8fbbed132d73df8689c40f13_f116052b839238da3_d20240408_m172656_c005_v0501017_t0017_u01712597216782) 
+最后更新时间 2024-04-09 01:35:22.235501 
+![2024-04-09](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240409/2024-04-09.png?versionId=4_z8fbbed132d73df8689c40f13_f11106ea7e8ca90a3_d20240408_m173521_c005_v0521006_t0022_u01712597721763) 
 1. [朱婷官宣回归中国女排](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E5%A9%B7%E5%AE%98%E5%AE%A3%E5%9B%9E%E5%BD%92%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%23&t=31&band_rank=1&Refer=top) 1566137
 1. [王一博托姐公开秀恩爱](https://s.weibo.com/weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%89%98%E5%A7%90%E5%85%AC%E5%BC%80%E7%A7%80%E6%81%A9%E7%88%B1&t=31&band_rank=2&Refer=top) 1304288
 1. [感动中国2023年度人物](https://s.weibo.com/weibo?q=%23%E6%84%9F%E5%8A%A8%E4%B8%AD%E5%9B%BD2023%E5%B9%B4%E5%BA%A6%E4%BA%BA%E7%89%A9%23&t=31&band_rank=3&Refer=top) 884313
@@ -63,7 +63,9 @@
 1. [辛云来回忆和赵丽颖第一次见面](https://s.weibo.com/weibo?q=%23%E8%BE%9B%E4%BA%91%E6%9D%A5%E5%9B%9E%E5%BF%86%E5%92%8C%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E9%9D%A2%23&t=31&band_rank=48&Refer=top) 98801
 1. [央视网评岳婿双行长](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E7%BD%91%E8%AF%84%E5%B2%B3%E5%A9%BF%E5%8F%8C%E8%A1%8C%E9%95%BF%23&t=31&band_rank=49&Refer=top) 98774
 1. [突然发现老公有一个成年的私生子](https://s.weibo.com/weibo?q=%23%E7%AA%81%E7%84%B6%E5%8F%91%E7%8E%B0%E8%80%81%E5%85%AC%E6%9C%89%E4%B8%80%E4%B8%AA%E6%88%90%E5%B9%B4%E7%9A%84%E7%A7%81%E7%94%9F%E5%AD%90%23&t=31&band_rank=50&Refer=top) 98761
-1. [剑网3](https://s.weibo.com/weibo?q=%E5%89%91%E7%BD%913&t=31&band_rank=41&Refer=top) 78442
+1. [剑网3](https://s.weibo.com/weibo?q=%E5%89%91%E7%BD%913&t=31&band_rank=41&Refer=top) 81962
+1. [孙坚吐槽奢侈品包质量问题](https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%9D%9A%E5%90%90%E6%A7%BD%E5%A5%A2%E4%BE%88%E5%93%81%E5%8C%85%E8%B4%A8%E9%87%8F%E9%97%AE%E9%A2%98%23&t=31&band_rank=35&Refer=top) 57621
+1. [费曼好孝](https://s.weibo.com/weibo?q=%23%E8%B4%B9%E6%9B%BC%E5%A5%BD%E5%AD%9D%23&t=31&band_rank=49&Refer=top) 40780
 <!-- END -->
 
 历史归档 [./archives](./archives)
