@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-04-10 04:10:49.507294 
-![2024-04-10](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240410/2024-04-10.png?versionId=4_z8fbbed132d73df8689c40f13_f10054c80bfe92795_d20240409_m201049_c005_v0501000_t0035_u01712693449064) 
+最后更新时间 2024-04-10 04:22:56.331743 
+![2024-04-10](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240410/2024-04-10.png?versionId=4_z8fbbed132d73df8689c40f13_f10250f68a9927a63_d20240409_m202256_c005_v0501004_t0005_u01712694176126) 
 1. [yamy 淘汰](https://s.weibo.com/weibo?q=yamy%20%E6%B7%98%E6%B1%B0&t=31&band_rank=1&Refer=top) 1164490
 1. [杨紫瘦了好多](https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E7%98%A6%E4%BA%86%E5%A5%BD%E5%A4%9A&t=31&band_rank=2&Refer=top) 790620
 1. [70秒看祖国大地春意盎然](https://s.weibo.com/weibo?q=%2370%E7%A7%92%E7%9C%8B%E7%A5%96%E5%9B%BD%E5%A4%A7%E5%9C%B0%E6%98%A5%E6%84%8F%E7%9B%8E%E7%84%B6%23&t=31&band_rank=3&Refer=top) 740280
