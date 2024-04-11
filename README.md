@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-04-12 01:10:11.445717 
-![2024-04-12](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240412/2024-04-12.png?versionId=4_z8fbbed132d73df8689c40f13_f103b4d3574700a41_d20240411_m171011_c005_v0501013_t0008_u01712855411383) 
+最后更新时间 2024-04-12 01:26:06.596126 
+![2024-04-12](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240412/2024-04-12.png?versionId=4_z8fbbed132d73df8689c40f13_f104517ebc132da14_d20240411_m172606_c005_v0501010_t0026_u01712856366427) 
 1. [cp粉悬着的心终于死了](https://s.weibo.com/weibo?q=cp%E7%B2%89%E6%82%AC%E7%9D%80%E7%9A%84%E5%BF%83%E7%BB%88%E4%BA%8E%E6%AD%BB%E4%BA%86&t=31&band_rank=1&Refer=top) 1353013
 1. [才知道医学生不用学毕业论文](https://s.weibo.com/weibo?q=%23%E6%89%8D%E7%9F%A5%E9%81%93%E5%8C%BB%E5%AD%A6%E7%94%9F%E4%B8%8D%E7%94%A8%E5%AD%A6%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87%23&t=31&band_rank=2&Refer=top) 798452
 1. [春天的气息藏在花海里](https://s.weibo.com/weibo?q=%23%E6%98%A5%E5%A4%A9%E7%9A%84%E6%B0%94%E6%81%AF%E8%97%8F%E5%9C%A8%E8%8A%B1%E6%B5%B7%E9%87%8C%23&t=31&band_rank=3&Refer=top) 709946
@@ -60,13 +60,15 @@
 1. [生母虐待男孩致截肢获刑6年9个月](https://s.weibo.com/weibo?q=%23%E7%94%9F%E6%AF%8D%E8%99%90%E5%BE%85%E7%94%B7%E5%AD%A9%E8%87%B4%E6%88%AA%E8%82%A2%E8%8E%B7%E5%88%916%E5%B9%B49%E4%B8%AA%E6%9C%88%23&t=31&band_rank=46&Refer=top) 90941
 1. [邓科回应配享太庙](https://s.weibo.com/weibo?q=%23%E9%82%93%E7%A7%91%E5%9B%9E%E5%BA%94%E9%85%8D%E4%BA%AB%E5%A4%AA%E5%BA%99%23&t=31&band_rank=47&Refer=top) 89220
 1. [女子在老公帮助下减重60斤恢复自信](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9C%A8%E8%80%81%E5%85%AC%E5%B8%AE%E5%8A%A9%E4%B8%8B%E5%87%8F%E9%87%8D60%E6%96%A4%E6%81%A2%E5%A4%8D%E8%87%AA%E4%BF%A1%23&t=31&band_rank=49&Refer=top) 86415
+1. [infp网络活蝶](https://s.weibo.com/weibo?q=%23infp%E7%BD%91%E7%BB%9C%E6%B4%BB%E8%9D%B6%23&t=31&band_rank=50&Refer=top) 85402
 1. [朱一龙的生日蛋糕是朱1龙](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E7%9A%84%E7%94%9F%E6%97%A5%E8%9B%8B%E7%B3%95%E6%98%AF%E6%9C%B11%E9%BE%99%23&t=31&band_rank=26&Refer=top) 84669
 1. [麦承欢分手了](https://s.weibo.com/weibo?q=%23%E9%BA%A6%E6%89%BF%E6%AC%A2%E5%88%86%E6%89%8B%E4%BA%86%23&t=31&band_rank=32&Refer=top) 84089
 1. [王俊凯野孩子亮相推介会](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E9%87%8E%E5%AD%A9%E5%AD%90%E4%BA%AE%E7%9B%B8%E6%8E%A8%E4%BB%8B%E4%BC%9A%23&t=31&band_rank=50&Refer=top) 82821
 1. [BLG晋级2024MSI](https://s.weibo.com/weibo?q=%23BLG%E6%99%8B%E7%BA%A72024MSI%23&t=31&band_rank=50&Refer=top) 81882
 1. [魏大勋生日应援](https://s.weibo.com/weibo?q=%E9%AD%8F%E5%A4%A7%E5%8B%8B%E7%94%9F%E6%97%A5%E5%BA%94%E6%8F%B4&t=31&band_rank=34&Refer=top) 79231
-1. [infp网络活蝶](https://s.weibo.com/weibo?q=%23infp%E7%BD%91%E7%BB%9C%E6%B4%BB%E8%9D%B6%23&t=31&band_rank=50&Refer=top) 75758
 1. [大牌包包分享](https://s.weibo.com/weibo?q=%E5%A4%A7%E7%89%8C%E5%8C%85%E5%8C%85%E5%88%86%E4%BA%AB&t=31&band_rank=50&Refer=top) 53163
+1. [薛之谦重庆](https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%E9%87%8D%E5%BA%86&t=31&band_rank=44&Refer=top) 46920
+1. [太阳vs快船](https://s.weibo.com/weibo?q=%23%E5%A4%AA%E9%98%B3vs%E5%BF%AB%E8%88%B9%23&t=31&band_rank=50&Refer=top) 46868
 <!-- END -->
 
 历史归档 [./archives](./archives)
