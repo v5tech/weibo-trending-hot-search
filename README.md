@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-04-14 01:20:22.797146 
-![2024-04-14](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240414/2024-04-14.png?versionId=4_z8fbbed132d73df8689c40f13_f112e82ffee7cd415_d20240413_m172022_c005_v0501018_t0032_u01713028822509) 
+最后更新时间 2024-04-14 01:34:22.953817 
+![2024-04-14](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240414/2024-04-14.png?versionId=4_z8fbbed132d73df8689c40f13_f103c0cd531a2f1b9_d20240413_m173422_c005_v0501014_t0010_u01713029662432) 
 1. [38块钱居然能吃20个菜](https://s.weibo.com/weibo?q=38%E5%9D%97%E9%92%B1%E5%B1%85%E7%84%B6%E8%83%BD%E5%90%8320%E4%B8%AA%E8%8F%9C&t=31&band_rank=1&Refer=top) 794189
 1. [Thurman猫一杯视频号被封](https://s.weibo.com/weibo?q=%23Thurman%E7%8C%AB%E4%B8%80%E6%9D%AF%E8%A7%86%E9%A2%91%E5%8F%B7%E8%A2%AB%E5%B0%81%23&t=31&band_rank=2&Refer=top) 766258
 1. [炮制秦朗丢作业丢掉了什么](https://s.weibo.com/weibo?q=%23%E7%82%AE%E5%88%B6%E7%A7%A6%E6%9C%97%E4%B8%A2%E4%BD%9C%E4%B8%9A%E4%B8%A2%E6%8E%89%E4%BA%86%E4%BB%80%E4%B9%88%23&t=31&band_rank=3&Refer=top) 746576
