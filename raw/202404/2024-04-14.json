@@ -91,6 +91,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E7%9D%A1%E5%89%8D1%E5%88%86%E9%92%9F%E8%BA%BA%E7%9D%80%E5%B0%B1%E8%83%BD%E7%98%A6%E8%82%9A%E5%AD%90%23&t=31&band_rank=21&Refer=top",
     "hot": 287716
   },
+  "春日限定励志文案": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%97%A5%E9%99%90%E5%AE%9A%E5%8A%B1%E5%BF%97%E6%96%87%E6%A1%88%23&t=31&band_rank=3&Refer=top",
+    "hot": 261423
+  },
   "张靓颖 老娘没有唱破音": {
     "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9D%93%E9%A2%96%20%E8%80%81%E5%A8%98%E6%B2%A1%E6%9C%89%E5%94%B1%E7%A0%B4%E9%9F%B3&t=31&band_rank=22&Refer=top",
     "hot": 245009
@@ -223,8 +227,12 @@
     "url": "https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%9F%A5%E9%81%93%E4%B8%8B%E4%B9%A1%E7%BB%99%E8%80%81%E4%BA%BA%E6%8B%8D%E7%85%A7%E6%9C%89%E5%A4%9A%E8%B5%9A%E5%90%97%23&t=31&band_rank=50&Refer=top",
     "hot": 72568
   },
+  "海仁表白": {
+    "url": "https://s.weibo.com/weibo?q=%E6%B5%B7%E4%BB%81%E8%A1%A8%E7%99%BD&t=31&band_rank=48&Refer=top",
+    "hot": 69456
+  },
   "AG 现场复盘": {
     "url": "https://s.weibo.com/weibo?q=AG%20%E7%8E%B0%E5%9C%BA%E5%A4%8D%E7%9B%98&t=31&band_rank=50&Refer=top",
-    "hot": 63278
+    "hot": 69424
   }
 }
