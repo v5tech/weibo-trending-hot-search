@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-04-17 01:11:01.562040 
-![2024-04-17](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240417/2024-04-17.png?versionId=4_z8fbbed132d73df8689c40f13_f1083dfd488b5bdb1_d20240416_m171101_c005_v0501013_t0036_u01713287461002) 
+最后更新时间 2024-04-17 01:26:37.114077 
+![2024-04-17](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240417/2024-04-17.png?versionId=4_z8fbbed132d73df8689c40f13_f119317cc3563a8d0_d20240416_m172636_c005_v0501002_t0029_u01713288396695) 
 1. [王妈](https://s.weibo.com/weibo?q=%E7%8E%8B%E5%A6%88&t=31&band_rank=1&Refer=top) 968080
 1. [媒体发声能否叫停调休](https://s.weibo.com/weibo?q=%23%E5%AA%92%E4%BD%93%E5%8F%91%E5%A3%B0%E8%83%BD%E5%90%A6%E5%8F%AB%E5%81%9C%E8%B0%83%E4%BC%91%23&t=31&band_rank=2&Refer=top) 928080
 1. [聚焦2024年消博会](https://s.weibo.com/weibo?q=%23%E8%81%9A%E7%84%A62024%E5%B9%B4%E6%B6%88%E5%8D%9A%E4%BC%9A%23&t=31&band_rank=3&Refer=top) 764902
@@ -57,15 +57,17 @@
 1. [薛之谦演唱会眼镜哥被质疑系策划](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E7%9C%BC%E9%95%9C%E5%93%A5%E8%A2%AB%E8%B4%A8%E7%96%91%E7%B3%BB%E7%AD%96%E5%88%92%23&t=31&band_rank=45&Refer=top) 104045
 1. [沙特电竞世界杯奖金公布](https://s.weibo.com/weibo?q=%23%E6%B2%99%E7%89%B9%E7%94%B5%E7%AB%9E%E4%B8%96%E7%95%8C%E6%9D%AF%E5%A5%96%E9%87%91%E5%85%AC%E5%B8%83%23&t=31&band_rank=42&Refer=top) 102622
 1. [承欢记热度](https://s.weibo.com/weibo?q=%E6%89%BF%E6%AC%A2%E8%AE%B0%E7%83%AD%E5%BA%A6&t=31&band_rank=46&Refer=top) 101336
+1. [许嵩演唱会上万粉丝同时进错拍](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%B5%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E4%B8%87%E7%B2%89%E4%B8%9D%E5%90%8C%E6%97%B6%E8%BF%9B%E9%94%99%E6%8B%8D%23&t=31&band_rank=24&Refer=top) 100464
 1. [曾经很讨厌现在却喜欢的东西](https://s.weibo.com/weibo?q=%23%E6%9B%BE%E7%BB%8F%E5%BE%88%E8%AE%A8%E5%8E%8C%E7%8E%B0%E5%9C%A8%E5%8D%B4%E5%96%9C%E6%AC%A2%E7%9A%84%E4%B8%9C%E8%A5%BF%23&t=31&band_rank=47&Refer=top) 99672
 1. [00后咖啡消费趋势](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E5%92%96%E5%95%A1%E6%B6%88%E8%B4%B9%E8%B6%8B%E5%8A%BF%23&t=31&band_rank=48&Refer=top) 97416
 1. [林更新答应我白着回来](https://s.weibo.com/weibo?q=%23%E6%9E%97%E6%9B%B4%E6%96%B0%E7%AD%94%E5%BA%94%E6%88%91%E7%99%BD%E7%9D%80%E5%9B%9E%E6%9D%A5%23&t=31&band_rank=49&Refer=top) 90909
 1. [中医建议皮肤变好的方法](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%8C%BB%E5%BB%BA%E8%AE%AE%E7%9A%AE%E8%82%A4%E5%8F%98%E5%A5%BD%E7%9A%84%E6%96%B9%E6%B3%95%23&t=31&band_rank=50&Refer=top) 90311
-1. [许嵩演唱会上万粉丝同时进错拍](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%B5%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E4%B8%87%E7%B2%89%E4%B8%9D%E5%90%8C%E6%97%B6%E8%BF%9B%E9%94%99%E6%8B%8D%23&t=31&band_rank=24&Refer=top) 87963
 1. [年会见到张凌赫](https://s.weibo.com/weibo?q=%E5%B9%B4%E4%BC%9A%E8%A7%81%E5%88%B0%E5%BC%A0%E5%87%8C%E8%B5%AB&t=31&band_rank=48&Refer=top) 83264
+1. [阿母和嫋嫋](https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%AF%8D%E5%92%8C%E5%AB%8B%E5%AB%8B%23&t=31&band_rank=48&Refer=top) 73693
 1. [雷军称SU7零百加速实测2.95秒](https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E7%A7%B0SU7%E9%9B%B6%E7%99%BE%E5%8A%A0%E9%80%9F%E5%AE%9E%E6%B5%8B2.95%E7%A7%92%23&t=31&band_rank=43&Refer=top) 54040
 1. [北京北汽](https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E5%8C%97%E6%B1%BD&t=31&band_rank=50&Refer=top) 52262
-1. [阿母和嫋嫋](https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%AF%8D%E5%92%8C%E5%AB%8B%E5%AB%8B%23&t=31&band_rank=48&Refer=top) 49415
+1. [爱发电](https://s.weibo.com/weibo?q=%E7%88%B1%E5%8F%91%E7%94%B5&t=31&band_rank=44&Refer=top) 44517
+1. [心疼Rebecca](https://s.weibo.com/weibo?q=%23%E5%BF%83%E7%96%BCRebecca%23&t=31&band_rank=49&Refer=top) 40670
 <!-- END -->
 
 历史归档 [./archives](./archives)
