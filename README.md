@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-04-18 03:07:57.767718 
-![2024-04-18](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240418/2024-04-18.png?versionId=4_z8fbbed132d73df8689c40f13_f119c3a251c1ef27b_d20240417_m190757_c005_v0501019_t0059_u01713380877253) 
+最后更新时间 2024-04-18 03:19:22.360145 
+![2024-04-18](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240418/2024-04-18.png?versionId=4_z8fbbed132d73df8689c40f13_f108132a2f15d8f37_d20240417_m191922_c005_v0501011_t0005_u01713381562135) 
 1. [90岁游本昌婚姻幸福的秘诀是不响](https://s.weibo.com/weibo?q=%2390%E5%B2%81%E6%B8%B8%E6%9C%AC%E6%98%8C%E5%A9%9A%E5%A7%BB%E5%B9%B8%E7%A6%8F%E7%9A%84%E7%A7%98%E8%AF%80%E6%98%AF%E4%B8%8D%E5%93%8D%23&t=31&band_rank=1&Refer=top) 822388
 1. [seventeen](https://s.weibo.com/weibo?q=seventeen&t=31&band_rank=5&Refer=top) 730536
 1. [食物语停运](https://s.weibo.com/weibo?q=%23%E9%A3%9F%E7%89%A9%E8%AF%AD%E5%81%9C%E8%BF%90%23&t=31&band_rank=2&Refer=top) 563404
@@ -42,11 +42,11 @@
 1. [林彦俊 哑巴前夫有话说](https://s.weibo.com/weibo?q=%E6%9E%97%E5%BD%A6%E4%BF%8A%20%E5%93%91%E5%B7%B4%E5%89%8D%E5%A4%AB%E6%9C%89%E8%AF%9D%E8%AF%B4&t=31&band_rank=31&Refer=top) 157569
 1. [十个勤天卖大米](https://s.weibo.com/weibo?q=%23%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9%E5%8D%96%E5%A4%A7%E7%B1%B3%23&t=31&band_rank=32&Refer=top) 153170
 1. [杨紫高定黑礼裙](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E9%AB%98%E5%AE%9A%E9%BB%91%E7%A4%BC%E8%A3%99%23&t=31&band_rank=33&Refer=top) 150162
+1. [论文查重](https://s.weibo.com/weibo?q=%E8%AE%BA%E6%96%87%E6%9F%A5%E9%87%8D&t=31&band_rank=46&Refer=top) 146088
 1. [射手座的精神洁癖](https://s.weibo.com/weibo?q=%23%E5%B0%84%E6%89%8B%E5%BA%A7%E7%9A%84%E7%B2%BE%E7%A5%9E%E6%B4%81%E7%99%96%23&t=31&band_rank=34&Refer=top) 140438
 1. [蹭空调的正确打开方式](https://s.weibo.com/weibo?q=%23%E8%B9%AD%E7%A9%BA%E8%B0%83%E7%9A%84%E6%AD%A3%E7%A1%AE%E6%89%93%E5%BC%80%E6%96%B9%E5%BC%8F%23&t=31&band_rank=30&Refer=top) 135981
 1. [体外受精的过程](https://s.weibo.com/weibo?q=%E4%BD%93%E5%A4%96%E5%8F%97%E7%B2%BE%E7%9A%84%E8%BF%87%E7%A8%8B&t=31&band_rank=35&Refer=top) 133729
 1. [朱丹因怀二胎才送女儿去幼儿园](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%B9%E5%9B%A0%E6%80%80%E4%BA%8C%E8%83%8E%E6%89%8D%E9%80%81%E5%A5%B3%E5%84%BF%E5%8E%BB%E5%B9%BC%E5%84%BF%E5%9B%AD%23&t=31&band_rank=36&Refer=top) 125729
-1. [论文查重](https://s.weibo.com/weibo?q=%E8%AE%BA%E6%96%87%E6%9F%A5%E9%87%8D&t=31&band_rank=46&Refer=top) 122392
 1. [狗瘾犯了](https://s.weibo.com/weibo?q=%E7%8B%97%E7%98%BE%E7%8A%AF%E4%BA%86&t=31&band_rank=37&Refer=top) 115171
 1. [十个勤天 禾你见面](https://s.weibo.com/weibo?q=%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9%20%E7%A6%BE%E4%BD%A0%E8%A7%81%E9%9D%A2&t=31&band_rank=38&Refer=top) 114795
 1. [杨祐宁每一张实况秦岚都在说话](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%A5%90%E5%AE%81%E6%AF%8F%E4%B8%80%E5%BC%A0%E5%AE%9E%E5%86%B5%E7%A7%A6%E5%B2%9A%E9%83%BD%E5%9C%A8%E8%AF%B4%E8%AF%9D%23&t=31&band_rank=39&Refer=top) 114209
@@ -70,8 +70,9 @@
 1. [一动不动老板主动为我降了3块钱](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%8A%A8%E4%B8%8D%E5%8A%A8%E8%80%81%E6%9D%BF%E4%B8%BB%E5%8A%A8%E4%B8%BA%E6%88%91%E9%99%8D%E4%BA%863%E5%9D%97%E9%92%B1%23&t=31&band_rank=50&Refer=top) 69466
 1. [种地吧](https://s.weibo.com/weibo?q=%E7%A7%8D%E5%9C%B0%E5%90%A7&t=31&band_rank=49&Refer=top) 62613
 1. [真是眼前一亮又一亮又一亮](https://s.weibo.com/weibo?q=%23%E7%9C%9F%E6%98%AF%E7%9C%BC%E5%89%8D%E4%B8%80%E4%BA%AE%E5%8F%88%E4%B8%80%E4%BA%AE%E5%8F%88%E4%B8%80%E4%BA%AE%23&t=31&band_rank=34&Refer=top) 60901
-1. [欧冠](https://s.weibo.com/weibo?q=%E6%AC%A7%E5%86%A0&t=31&band_rank=47&Refer=top) 35651
+1. [欧冠](https://s.weibo.com/weibo?q=%E6%AC%A7%E5%86%A0&t=31&band_rank=47&Refer=top) 36390
 1. [眼镜哥](https://s.weibo.com/weibo?q=%E7%9C%BC%E9%95%9C%E5%93%A5&t=31&band_rank=40&Refer=top) 21721
+1. [欧冠海报](https://s.weibo.com/weibo?q=%E6%AC%A7%E5%86%A0%E6%B5%B7%E6%8A%A5&t=31&band_rank=48&Refer=top) 18496
 <!-- END -->
 
 历史归档 [./archives](./archives)
