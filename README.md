@@ -7,10 +7,10 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-04-18 00:32:38.367875 
-![2024-04-18](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240418/2024-04-18.png?versionId=4_z8fbbed132d73df8689c40f13_f108337875021cf87_d20240417_m163238_c005_v0501012_t0048_u01713371558211) 
+最后更新时间 2024-04-18 00:49:24.316789 
+![2024-04-18](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240418/2024-04-18.png?versionId=4_z8fbbed132d73df8689c40f13_f113171487909a11a_d20240417_m164924_c005_v0501015_t0057_u01713372564225) 
 1. [90岁游本昌婚姻幸福的秘诀是不响](https://s.weibo.com/weibo?q=%2390%E5%B2%81%E6%B8%B8%E6%9C%AC%E6%98%8C%E5%A9%9A%E5%A7%BB%E5%B9%B8%E7%A6%8F%E7%9A%84%E7%A7%98%E8%AF%80%E6%98%AF%E4%B8%8D%E5%93%8D%23&t=31&band_rank=1&Refer=top) 822388
-1. [seventeen](https://s.weibo.com/weibo?q=seventeen&t=31&band_rank=5&Refer=top) 667701
+1. [seventeen](https://s.weibo.com/weibo?q=seventeen&t=31&band_rank=5&Refer=top) 730536
 1. [食物语停运](https://s.weibo.com/weibo?q=%23%E9%A3%9F%E7%89%A9%E8%AF%AD%E5%81%9C%E8%BF%90%23&t=31&band_rank=2&Refer=top) 563404
 1. [数字丝路发展论坛](https://s.weibo.com/weibo?q=%23%E6%95%B0%E5%AD%97%E4%B8%9D%E8%B7%AF%E5%8F%91%E5%B1%95%E8%AE%BA%E5%9D%9B%23&t=31&band_rank=3&Refer=top) 531690
 1. [林彦俊直播](https://s.weibo.com/weibo?q=%E6%9E%97%E5%BD%A6%E4%BF%8A%E7%9B%B4%E6%92%AD&t=31&band_rank=4&Refer=top) 527010
@@ -61,7 +61,10 @@
 1. [福宝躺着吃笋满身竹笋皮](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%AE%9D%E8%BA%BA%E7%9D%80%E5%90%83%E7%AC%8B%E6%BB%A1%E8%BA%AB%E7%AB%B9%E7%AC%8B%E7%9A%AE%23&t=31&band_rank=48&Refer=top) 93540
 1. [杨紫工作室出图](https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%87%BA%E5%9B%BE&t=31&band_rank=49&Refer=top) 88027
 1. [超好喝苹果汁配方](https://s.weibo.com/weibo?q=%E8%B6%85%E5%A5%BD%E5%96%9D%E8%8B%B9%E6%9E%9C%E6%B1%81%E9%85%8D%E6%96%B9&t=31&band_rank=50&Refer=top) 87988
+1. [每天1个西红柿7天能白成一道光吗](https://s.weibo.com/weibo?q=%23%E6%AF%8F%E5%A4%A91%E4%B8%AA%E8%A5%BF%E7%BA%A2%E6%9F%BF7%E5%A4%A9%E8%83%BD%E7%99%BD%E6%88%90%E4%B8%80%E9%81%93%E5%85%89%E5%90%97%23&t=31&band_rank=42&Refer=top) 75504
 1. [一动不动老板主动为我降了3块钱](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%8A%A8%E4%B8%8D%E5%8A%A8%E8%80%81%E6%9D%BF%E4%B8%BB%E5%8A%A8%E4%B8%BA%E6%88%91%E9%99%8D%E4%BA%863%E5%9D%97%E9%92%B1%23&t=31&band_rank=50&Refer=top) 69466
+1. [种地吧](https://s.weibo.com/weibo?q=%E7%A7%8D%E5%9C%B0%E5%90%A7&t=31&band_rank=49&Refer=top) 62613
+1. [西藏发生4.0级地震](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%97%8F%E5%8F%91%E7%94%9F4.0%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=50&Refer=top) 59737
 <!-- END -->
 
 历史归档 [./archives](./archives)
