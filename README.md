@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-04-19 02:14:06.267052 
-![2024-04-19](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240419/2024-04-19.png?versionId=4_z8fbbed132d73df8689c40f13_f11796e48556b3a31_d20240418_m181406_c005_v0501016_t0055_u01713464046210) 
+最后更新时间 2024-04-19 02:29:04.000836 
+![2024-04-19](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240419/2024-04-19.png?versionId=4_z8fbbed132d73df8689c40f13_f1009a315164701fb_d20240418_m182903_c005_v0501014_t0057_u01713464943743) 
 1. [专家鼓励买到下铺的年轻人跟老人换位](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E9%BC%93%E5%8A%B1%E4%B9%B0%E5%88%B0%E4%B8%8B%E9%93%BA%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%B7%9F%E8%80%81%E4%BA%BA%E6%8D%A2%E4%BD%8D%23&t=31&band_rank=1&Refer=top) 758189
 1. [小龙虾身价暴跌](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%BE%99%E8%99%BE%E8%BA%AB%E4%BB%B7%E6%9A%B4%E8%B7%8C%23&t=31&band_rank=2&Refer=top) 728304
 1. [全力巩固和增强经济回升向好态势](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%8A%9B%E5%B7%A9%E5%9B%BA%E5%92%8C%E5%A2%9E%E5%BC%BA%E7%BB%8F%E6%B5%8E%E5%9B%9E%E5%8D%87%E5%90%91%E5%A5%BD%E6%80%81%E5%8A%BF%23&t=31&band_rank=3&Refer=top) 626427
@@ -71,7 +71,10 @@
 1. [张天爱去了灵隐寺](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%A4%A9%E7%88%B1%E5%8E%BB%E4%BA%86%E7%81%B5%E9%9A%90%E5%AF%BA%23&t=31&band_rank=47&Refer=top) 52425
 1. [人生 易如反掌](https://s.weibo.com/weibo?q=%E4%BA%BA%E7%94%9F%20%E6%98%93%E5%A6%82%E5%8F%8D%E6%8E%8C&t=31&band_rank=48&Refer=top) 52108
 1. [变形金刚起源首支预告](https://s.weibo.com/weibo?q=%23%E5%8F%98%E5%BD%A2%E9%87%91%E5%88%9A%E8%B5%B7%E6%BA%90%E9%A6%96%E6%94%AF%E9%A2%84%E5%91%8A%23&t=31&band_rank=47&Refer=top) 38224
+1. [周杰伦晒与大莲花合照](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%99%92%E4%B8%8E%E5%A4%A7%E8%8E%B2%E8%8A%B1%E5%90%88%E7%85%A7%23&t=31&band_rank=32&Refer=top) 37352
 1. [李宇春台风好飒](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AE%87%E6%98%A5%E5%8F%B0%E9%A3%8E%E5%A5%BD%E9%A3%92%23&t=31&band_rank=41&Refer=top) 32601
+1. [燥候TTPD](https://s.weibo.com/weibo?q=%23%E7%87%A5%E5%80%99TTPD%23&t=31&band_rank=38&Refer=top) 31151
+1. [氯雷他定可能是疗效最差的药物](https://s.weibo.com/weibo?q=%E6%B0%AF%E9%9B%B7%E4%BB%96%E5%AE%9A%E5%8F%AF%E8%83%BD%E6%98%AF%E7%96%97%E6%95%88%E6%9C%80%E5%B7%AE%E7%9A%84%E8%8D%AF%E7%89%A9&t=31&band_rank=39&Refer=top) 30812
 <!-- END -->
 
 历史归档 [./archives](./archives)
