@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-04-19 03:09:21.219604 
-![2024-04-19](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240419/2024-04-19.png?versionId=4_z8fbbed132d73df8689c40f13_f1007677242459174_d20240418_m190921_c005_v0501018_t0030_u01713467361071) 
+最后更新时间 2024-04-19 03:19:35.045552 
+![2024-04-19](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240419/2024-04-19.png?versionId=4_z8fbbed132d73df8689c40f13_f105cfdaf36ff99ae_d20240418_m191934_c005_v0501013_t0013_u01713467974555) 
 1. [专家鼓励买到下铺的年轻人跟老人换位](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E9%BC%93%E5%8A%B1%E4%B9%B0%E5%88%B0%E4%B8%8B%E9%93%BA%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%B7%9F%E8%80%81%E4%BA%BA%E6%8D%A2%E4%BD%8D%23&t=31&band_rank=1&Refer=top) 758189
 1. [小龙虾身价暴跌](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%BE%99%E8%99%BE%E8%BA%AB%E4%BB%B7%E6%9A%B4%E8%B7%8C%23&t=31&band_rank=2&Refer=top) 728304
 1. [全力巩固和增强经济回升向好态势](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%8A%9B%E5%B7%A9%E5%9B%BA%E5%92%8C%E5%A2%9E%E5%BC%BA%E7%BB%8F%E6%B5%8E%E5%9B%9E%E5%8D%87%E5%90%91%E5%A5%BD%E6%80%81%E5%8A%BF%23&t=31&band_rank=3&Refer=top) 626427
@@ -65,9 +65,9 @@
 1. [王楚钦vs雨果](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E9%9B%A8%E6%9E%9C&t=31&band_rank=49&Refer=top) 110690
 1. [百分百出片妆容](https://s.weibo.com/weibo?q=%E7%99%BE%E5%88%86%E7%99%BE%E5%87%BA%E7%89%87%E5%A6%86%E5%AE%B9&t=31&band_rank=50&Refer=top) 110688
 1. [电子宠物](https://s.weibo.com/weibo?q=%E7%94%B5%E5%AD%90%E5%AE%A0%E7%89%A9&t=31&band_rank=34&Refer=top) 106737
+1. [氯雷他定可能是疗效最差的药物](https://s.weibo.com/weibo?q=%E6%B0%AF%E9%9B%B7%E4%BB%96%E5%AE%9A%E5%8F%AF%E8%83%BD%E6%98%AF%E7%96%97%E6%95%88%E6%9C%80%E5%B7%AE%E7%9A%84%E8%8D%AF%E7%89%A9&t=31&band_rank=39&Refer=top) 96696
 1. [樊振东让人看到了那颗最想赢的心](https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E8%AE%A9%E4%BA%BA%E7%9C%8B%E5%88%B0%E4%BA%86%E9%82%A3%E9%A2%97%E6%9C%80%E6%83%B3%E8%B5%A2%E7%9A%84%E5%BF%83&t=31&band_rank=50&Refer=top) 90962
 1. [黄牛卖十个勤天大米](https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%89%9B%E5%8D%96%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9%E5%A4%A7%E7%B1%B3%23&t=31&band_rank=43&Refer=top) 88622
-1. [氯雷他定可能是疗效最差的药物](https://s.weibo.com/weibo?q=%E6%B0%AF%E9%9B%B7%E4%BB%96%E5%AE%9A%E5%8F%AF%E8%83%BD%E6%98%AF%E7%96%97%E6%95%88%E6%9C%80%E5%B7%AE%E7%9A%84%E8%8D%AF%E7%89%A9&t=31&band_rank=39&Refer=top) 76934
 1. [RIIZE Shotaro 直拍](https://s.weibo.com/weibo?q=RIIZE%20Shotaro%20%E7%9B%B4%E6%8B%8D&t=31&band_rank=38&Refer=top) 66345
 1. [张天爱去了灵隐寺](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%A4%A9%E7%88%B1%E5%8E%BB%E4%BA%86%E7%81%B5%E9%9A%90%E5%AF%BA%23&t=31&band_rank=47&Refer=top) 52425
 1. [人生 易如反掌](https://s.weibo.com/weibo?q=%E4%BA%BA%E7%94%9F%20%E6%98%93%E5%A6%82%E5%8F%8D%E6%8E%8C&t=31&band_rank=48&Refer=top) 52108
@@ -75,6 +75,8 @@
 1. [周杰伦晒与大莲花合照](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%99%92%E4%B8%8E%E5%A4%A7%E8%8E%B2%E8%8A%B1%E5%90%88%E7%85%A7%23&t=31&band_rank=32&Refer=top) 37352
 1. [李宇春台风好飒](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AE%87%E6%98%A5%E5%8F%B0%E9%A3%8E%E5%A5%BD%E9%A3%92%23&t=31&band_rank=41&Refer=top) 32601
 1. [燥候TTPD](https://s.weibo.com/weibo?q=%23%E7%87%A5%E5%80%99TTPD%23&t=31&band_rank=38&Refer=top) 31151
+1. [约一半的肺癌患者确诊时有慢性咳嗽](https://s.weibo.com/weibo?q=%23%E7%BA%A6%E4%B8%80%E5%8D%8A%E7%9A%84%E8%82%BA%E7%99%8C%E6%82%A3%E8%80%85%E7%A1%AE%E8%AF%8A%E6%97%B6%E6%9C%89%E6%85%A2%E6%80%A7%E5%92%B3%E5%97%BD%23&t=31&band_rank=43&Refer=top) 18622
+1. [五人迷失深山民警喊山式救援](https://s.weibo.com/weibo?q=%23%E4%BA%94%E4%BA%BA%E8%BF%B7%E5%A4%B1%E6%B7%B1%E5%B1%B1%E6%B0%91%E8%AD%A6%E5%96%8A%E5%B1%B1%E5%BC%8F%E6%95%91%E6%8F%B4%23&t=31&band_rank=50&Refer=top) 17431
 <!-- END -->
 
 历史归档 [./archives](./archives)
