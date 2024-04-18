@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-04-19 05:49:15.076903 
-![2024-04-19](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240419/2024-04-19.png?versionId=4_z8fbbed132d73df8689c40f13_f1160ccc80b3fc82e_d20240418_m214915_c005_v0501019_t0056_u01713476955021) 
+最后更新时间 2024-04-19 06:10:19.855247 
+![2024-04-19](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240419/2024-04-19.png?versionId=4_z8fbbed132d73df8689c40f13_f110c33cb7011e589_d20240418_m221019_c005_v0501002_t0052_u01713478219639) 
 1. [专家鼓励买到下铺的年轻人跟老人换位](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E9%BC%93%E5%8A%B1%E4%B9%B0%E5%88%B0%E4%B8%8B%E9%93%BA%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%B7%9F%E8%80%81%E4%BA%BA%E6%8D%A2%E4%BD%8D%23&t=31&band_rank=1&Refer=top) 758189
 1. [小龙虾身价暴跌](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%BE%99%E8%99%BE%E8%BA%AB%E4%BB%B7%E6%9A%B4%E8%B7%8C%23&t=31&band_rank=2&Refer=top) 728304
 1. [全力巩固和增强经济回升向好态势](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%8A%9B%E5%B7%A9%E5%9B%BA%E5%92%8C%E5%A2%9E%E5%BC%BA%E7%BB%8F%E6%B5%8E%E5%9B%9E%E5%8D%87%E5%90%91%E5%A5%BD%E6%80%81%E5%8A%BF%23&t=31&band_rank=3&Refer=top) 626427
@@ -54,8 +54,8 @@
 1. [每天坚持踮脚身体会发生什么变化](https://s.weibo.com/weibo?q=%23%E6%AF%8F%E5%A4%A9%E5%9D%9A%E6%8C%81%E8%B8%AE%E8%84%9A%E8%BA%AB%E4%BD%93%E4%BC%9A%E5%8F%91%E7%94%9F%E4%BB%80%E4%B9%88%E5%8F%98%E5%8C%96%23&t=31&band_rank=30&Refer=top) 123893
 1. [周杰伦是会选日子的](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%98%AF%E4%BC%9A%E9%80%89%E6%97%A5%E5%AD%90%E7%9A%84%23&t=31&band_rank=43&Refer=top) 122516
 1. [昊磊](https://s.weibo.com/weibo?q=%E6%98%8A%E7%A3%8A&t=31&band_rank=38&Refer=top) 117432
+1. [氯雷他定可能是疗效最差的药物](https://s.weibo.com/weibo?q=%E6%B0%AF%E9%9B%B7%E4%BB%96%E5%AE%9A%E5%8F%AF%E8%83%BD%E6%98%AF%E7%96%97%E6%95%88%E6%9C%80%E5%B7%AE%E7%9A%84%E8%8D%AF%E7%89%A9&t=31&band_rank=39&Refer=top) 116526
 1. [删公婆好友后发超长文怼了公公](https://s.weibo.com/weibo?q=%23%E5%88%A0%E5%85%AC%E5%A9%86%E5%A5%BD%E5%8F%8B%E5%90%8E%E5%8F%91%E8%B6%85%E9%95%BF%E6%96%87%E6%80%BC%E4%BA%86%E5%85%AC%E5%85%AC%23&t=31&band_rank=39&Refer=top) 114042
-1. [氯雷他定可能是疗效最差的药物](https://s.weibo.com/weibo?q=%E6%B0%AF%E9%9B%B7%E4%BB%96%E5%AE%9A%E5%8F%AF%E8%83%BD%E6%98%AF%E7%96%97%E6%95%88%E6%9C%80%E5%B7%AE%E7%9A%84%E8%8D%AF%E7%89%A9&t=31&band_rank=39&Refer=top) 113562
 1. [沙溢瘦了20斤](https://s.weibo.com/weibo?q=%23%E6%B2%99%E6%BA%A2%E7%98%A6%E4%BA%8620%E6%96%A4%23&t=31&band_rank=41&Refer=top) 113380
 1. [朱一龙 最年轻评委](https://s.weibo.com/weibo?q=%E6%9C%B1%E4%B8%80%E9%BE%99%20%E6%9C%80%E5%B9%B4%E8%BD%BB%E8%AF%84%E5%A7%94&t=31&band_rank=42&Refer=top) 112822
 1. [张艺兴开始打歌了](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E5%BC%80%E5%A7%8B%E6%89%93%E6%AD%8C%E4%BA%86%23&t=31&band_rank=43&Refer=top) 110697
@@ -69,26 +69,26 @@
 1. [樊振东让人看到了那颗最想赢的心](https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E8%AE%A9%E4%BA%BA%E7%9C%8B%E5%88%B0%E4%BA%86%E9%82%A3%E9%A2%97%E6%9C%80%E6%83%B3%E8%B5%A2%E7%9A%84%E5%BF%83&t=31&band_rank=50&Refer=top) 90962
 1. [黄牛卖十个勤天大米](https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%89%9B%E5%8D%96%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9%E5%A4%A7%E7%B1%B3%23&t=31&band_rank=43&Refer=top) 88622
 1. [RIIZE Shotaro 直拍](https://s.weibo.com/weibo?q=RIIZE%20Shotaro%20%E7%9B%B4%E6%8B%8D&t=31&band_rank=38&Refer=top) 66345
+1. [中国城市高铁第一隧道开始盾构掘进](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%9F%8E%E5%B8%82%E9%AB%98%E9%93%81%E7%AC%AC%E4%B8%80%E9%9A%A7%E9%81%93%E5%BC%80%E5%A7%8B%E7%9B%BE%E6%9E%84%E6%8E%98%E8%BF%9B%23&t=31&band_rank=21&Refer=top) 55109
 1. [张天爱去了灵隐寺](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%A4%A9%E7%88%B1%E5%8E%BB%E4%BA%86%E7%81%B5%E9%9A%90%E5%AF%BA%23&t=31&band_rank=47&Refer=top) 52425
 1. [人生 易如反掌](https://s.weibo.com/weibo?q=%E4%BA%BA%E7%94%9F%20%E6%98%93%E5%A6%82%E5%8F%8D%E6%8E%8C&t=31&band_rank=48&Refer=top) 52108
-1. [中国城市高铁第一隧道开始盾构掘进](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%9F%8E%E5%B8%82%E9%AB%98%E9%93%81%E7%AC%AC%E4%B8%80%E9%9A%A7%E9%81%93%E5%BC%80%E5%A7%8B%E7%9B%BE%E6%9E%84%E6%8E%98%E8%BF%9B%23&t=31&band_rank=21&Refer=top) 40815
+1. [周杰伦晒与大莲花合照](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%99%92%E4%B8%8E%E5%A4%A7%E8%8E%B2%E8%8A%B1%E5%90%88%E7%85%A7%23&t=31&band_rank=32&Refer=top) 41828
 1. [变形金刚起源首支预告](https://s.weibo.com/weibo?q=%23%E5%8F%98%E5%BD%A2%E9%87%91%E5%88%9A%E8%B5%B7%E6%BA%90%E9%A6%96%E6%94%AF%E9%A2%84%E5%91%8A%23&t=31&band_rank=47&Refer=top) 38224
-1. [周杰伦晒与大莲花合照](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%99%92%E4%B8%8E%E5%A4%A7%E8%8E%B2%E8%8A%B1%E5%90%88%E7%85%A7%23&t=31&band_rank=32&Refer=top) 37352
 1. [英超团灭](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E8%B6%85%E5%9B%A2%E7%81%AD%23&t=31&band_rank=35&Refer=top) 35590
+1. [唐嫣新高定首穿](https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%E6%96%B0%E9%AB%98%E5%AE%9A%E9%A6%96%E7%A9%BF%23&t=31&band_rank=44&Refer=top) 34358
 1. [李宇春台风好飒](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AE%87%E6%98%A5%E5%8F%B0%E9%A3%8E%E5%A5%BD%E9%A3%92%23&t=31&band_rank=41&Refer=top) 32601
 1. [燥候TTPD](https://s.weibo.com/weibo?q=%23%E7%87%A5%E5%80%99TTPD%23&t=31&band_rank=38&Refer=top) 31151
-1. [于适评委身份亮相北影节红毯](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E9%80%82%E8%AF%84%E5%A7%94%E8%BA%AB%E4%BB%BD%E4%BA%AE%E7%9B%B8%E5%8C%97%E5%BD%B1%E8%8A%82%E7%BA%A2%E6%AF%AF%23&t=31&band_rank=31&Refer=top) 25006
-1. [唐嫣新高定首穿](https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%E6%96%B0%E9%AB%98%E5%AE%9A%E9%A6%96%E7%A9%BF%23&t=31&band_rank=44&Refer=top) 23540
-1. [约一半的肺癌患者确诊时有慢性咳嗽](https://s.weibo.com/weibo?q=%23%E7%BA%A6%E4%B8%80%E5%8D%8A%E7%9A%84%E8%82%BA%E7%99%8C%E6%82%A3%E8%80%85%E7%A1%AE%E8%AF%8A%E6%97%B6%E6%9C%89%E6%85%A2%E6%80%A7%E5%92%B3%E5%97%BD%23&t=31&band_rank=43&Refer=top) 20779
-1. [小狗忘了要对齐颗粒度](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8B%97%E5%BF%98%E4%BA%86%E8%A6%81%E5%AF%B9%E9%BD%90%E9%A2%97%E7%B2%92%E5%BA%A6%23&t=31&band_rank=48&Refer=top) 18577
+1. [约一半的肺癌患者确诊时有慢性咳嗽](https://s.weibo.com/weibo?q=%23%E7%BA%A6%E4%B8%80%E5%8D%8A%E7%9A%84%E8%82%BA%E7%99%8C%E6%82%A3%E8%80%85%E7%A1%AE%E8%AF%8A%E6%97%B6%E6%9C%89%E6%85%A2%E6%80%A7%E5%92%B3%E5%97%BD%23&t=31&band_rank=43&Refer=top) 29786
+1. [于适评委身份亮相北影节红毯](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E9%80%82%E8%AF%84%E5%A7%94%E8%BA%AB%E4%BB%BD%E4%BA%AE%E7%9B%B8%E5%8C%97%E5%BD%B1%E8%8A%82%E7%BA%A2%E6%AF%AF%23&t=31&band_rank=31&Refer=top) 26178
+1. [4个习惯容易导致骨盆前倾](https://s.weibo.com/weibo?q=%234%E4%B8%AA%E4%B9%A0%E6%83%AF%E5%AE%B9%E6%98%93%E5%AF%BC%E8%87%B4%E9%AA%A8%E7%9B%86%E5%89%8D%E5%80%BE%23&t=31&band_rank=47&Refer=top) 23008
+1. [如何早期发现隐匿性乳腺癌](https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E6%97%A9%E6%9C%9F%E5%8F%91%E7%8E%B0%E9%9A%90%E5%8C%BF%E6%80%A7%E4%B9%B3%E8%85%BA%E7%99%8C%23&t=31&band_rank=49&Refer=top) 22753
+1. [小狗忘了要对齐颗粒度](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8B%97%E5%BF%98%E4%BA%86%E8%A6%81%E5%AF%B9%E9%BD%90%E9%A2%97%E7%B2%92%E5%BA%A6%23&t=31&band_rank=48&Refer=top) 22691
 1. [莽小五的空中芭蕾我能循环看一天](https://s.weibo.com/weibo?q=%23%E8%8E%BD%E5%B0%8F%E4%BA%94%E7%9A%84%E7%A9%BA%E4%B8%AD%E8%8A%AD%E8%95%BE%E6%88%91%E8%83%BD%E5%BE%AA%E7%8E%AF%E7%9C%8B%E4%B8%80%E5%A4%A9%23&t=31&band_rank=36&Refer=top) 18184
 1. [福宝迪拜式炫笋笋](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%AE%9D%E8%BF%AA%E6%8B%9C%E5%BC%8F%E7%82%AB%E7%AC%8B%E7%AC%8B%23&t=31&band_rank=50&Refer=top) 17666
-1. [火车下铺应该共享吗](https://s.weibo.com/weibo?q=%23%E7%81%AB%E8%BD%A6%E4%B8%8B%E9%93%BA%E5%BA%94%E8%AF%A5%E5%85%B1%E4%BA%AB%E5%90%97%23&t=31&band_rank=40&Refer=top) 17457
+1. [火车下铺应该共享吗](https://s.weibo.com/weibo?q=%23%E7%81%AB%E8%BD%A6%E4%B8%8B%E9%93%BA%E5%BA%94%E8%AF%A5%E5%85%B1%E4%BA%AB%E5%90%97%23&t=31&band_rank=40&Refer=top) 17616
 1. [五人迷失深山民警喊山式救援](https://s.weibo.com/weibo?q=%23%E4%BA%94%E4%BA%BA%E8%BF%B7%E5%A4%B1%E6%B7%B1%E5%B1%B1%E6%B0%91%E8%AD%A6%E5%96%8A%E5%B1%B1%E5%BC%8F%E6%95%91%E6%8F%B4%23&t=31&band_rank=50&Refer=top) 17431
 1. [春夏美甲](https://s.weibo.com/weibo?q=%E6%98%A5%E5%A4%8F%E7%BE%8E%E7%94%B2&t=31&band_rank=42&Refer=top) 16900
-1. [4个习惯容易导致骨盆前倾](https://s.weibo.com/weibo?q=%234%E4%B8%AA%E4%B9%A0%E6%83%AF%E5%AE%B9%E6%98%93%E5%AF%BC%E8%87%B4%E9%AA%A8%E7%9B%86%E5%89%8D%E5%80%BE%23&t=31&band_rank=47&Refer=top) 15995
 1. [1岁幼童卡喉窒息护士120秒极速营救](https://s.weibo.com/weibo?q=%231%E5%B2%81%E5%B9%BC%E7%AB%A5%E5%8D%A1%E5%96%89%E7%AA%92%E6%81%AF%E6%8A%A4%E5%A3%AB120%E7%A7%92%E6%9E%81%E9%80%9F%E8%90%A5%E6%95%91%23&t=31&band_rank=49&Refer=top) 15497
-1. [如何早期发现隐匿性乳腺癌](https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E6%97%A9%E6%9C%9F%E5%8F%91%E7%8E%B0%E9%9A%90%E5%8C%BF%E6%80%A7%E4%B9%B3%E8%85%BA%E7%99%8C%23&t=31&band_rank=49&Refer=top) 15415
 1. [成都的烧烤连卖相都在卷](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E7%9A%84%E7%83%A7%E7%83%A4%E8%BF%9E%E5%8D%96%E7%9B%B8%E9%83%BD%E5%9C%A8%E5%8D%B7%23&t=31&band_rank=49&Refer=top) 14976
 <!-- END -->
 
