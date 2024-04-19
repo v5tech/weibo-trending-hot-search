@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-04-20 01:26:35.039137 
-![2024-04-20](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240420/2024-04-20.png?versionId=4_z8fbbed132d73df8689c40f13_f103e48ac8b2b21e6_d20240419_m172634_c005_v0501015_t0012_u01713547594570) 
+最后更新时间 2024-04-20 01:35:00.316423 
+![2024-04-20](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240420/2024-04-20.png?versionId=4_z8fbbed132d73df8689c40f13_f115856a56a230b80_d20240419_m173500_c005_v0501004_t0031_u01713548100221) 
 1. [弟弟都亲了一夜承明你们呢](https://s.weibo.com/weibo?q=%23%E5%BC%9F%E5%BC%9F%E9%83%BD%E4%BA%B2%E4%BA%86%E4%B8%80%E5%A4%9C%E6%89%BF%E6%98%8E%E4%BD%A0%E4%BB%AC%E5%91%A2%23&t=31&band_rank=9&Refer=top) 748137
 1. [重庆严肃处理错收多收燃气费问题](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E4%B8%A5%E8%82%83%E5%A4%84%E7%90%86%E9%94%99%E6%94%B6%E5%A4%9A%E6%94%B6%E7%87%83%E6%B0%94%E8%B4%B9%E9%97%AE%E9%A2%98%23&t=31&band_rank=1&Refer=top) 692878
 1. [男子酒后打死10余只火烈鸟获刑5年](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%85%92%E5%90%8E%E6%89%93%E6%AD%BB10%E4%BD%99%E5%8F%AA%E7%81%AB%E7%83%88%E9%B8%9F%E8%8E%B7%E5%88%915%E5%B9%B4%23&t=31&band_rank=2&Refer=top) 485379
@@ -48,6 +48,7 @@
 1. [林高远4比2樊振东](https://s.weibo.com/weibo?q=%23%E6%9E%97%E9%AB%98%E8%BF%9C4%E6%AF%942%E6%A8%8A%E6%8C%AF%E4%B8%9C%23&t=31&band_rank=29&Refer=top) 141944
 1. [杀妻谷歌工程师或被关押监狱精神病房](https://s.weibo.com/weibo?q=%23%E6%9D%80%E5%A6%BB%E8%B0%B7%E6%AD%8C%E5%B7%A5%E7%A8%8B%E5%B8%88%E6%88%96%E8%A2%AB%E5%85%B3%E6%8A%BC%E7%9B%91%E7%8B%B1%E7%B2%BE%E7%A5%9E%E7%97%85%E6%88%BF%23&t=31&band_rank=30&Refer=top) 139485
 1. [乘风2024](https://s.weibo.com/weibo?q=%E4%B9%98%E9%A3%8E2024&t=31&band_rank=38&Refer=top) 110622
+1. [00后老师为每位同学送专属信](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E8%80%81%E5%B8%88%E4%B8%BA%E6%AF%8F%E4%BD%8D%E5%90%8C%E5%AD%A6%E9%80%81%E4%B8%93%E5%B1%9E%E4%BF%A1%23&t=31&band_rank=35&Refer=top) 108739
 1. [买燃油车的人正式成了少数派](https://s.weibo.com/weibo?q=%23%E4%B9%B0%E7%87%83%E6%B2%B9%E8%BD%A6%E7%9A%84%E4%BA%BA%E6%AD%A3%E5%BC%8F%E6%88%90%E4%BA%86%E5%B0%91%E6%95%B0%E6%B4%BE%23&t=31&band_rank=44&Refer=top) 105694
 1. [孙颖莎说困难时就拼呗顶呗](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E8%AF%B4%E5%9B%B0%E9%9A%BE%E6%97%B6%E5%B0%B1%E6%8B%BC%E5%91%97%E9%A1%B6%E5%91%97%23&t=31&band_rank=39&Refer=top) 104954
 1. [重生之我在霸总短剧里当保姆](https://s.weibo.com/weibo?q=%E9%87%8D%E7%94%9F%E4%B9%8B%E6%88%91%E5%9C%A8%E9%9C%B8%E6%80%BB%E7%9F%AD%E5%89%A7%E9%87%8C%E5%BD%93%E4%BF%9D%E5%A7%86&t=31&band_rank=40&Refer=top) 103248
@@ -60,14 +61,14 @@
 1. [林高远vs樊振东](https://s.weibo.com/weibo?q=%E6%9E%97%E9%AB%98%E8%BF%9Cvs%E6%A8%8A%E6%8C%AF%E4%B8%9C&t=31&band_rank=48&Refer=top) 97190
 1. [u23国足vs韩国u23](https://s.weibo.com/weibo?q=%23u23%E5%9B%BD%E8%B6%B3vs%E9%9F%A9%E5%9B%BDu23%23&t=31&band_rank=49&Refer=top) 97182
 1. [AG再次零封WB](https://s.weibo.com/weibo?q=AG%E5%86%8D%E6%AC%A1%E9%9B%B6%E5%B0%81WB&t=31&band_rank=50&Refer=top) 97177
+1. [蔡文静cos可云](https://s.weibo.com/weibo?q=%23%E8%94%A1%E6%96%87%E9%9D%99cos%E5%8F%AF%E4%BA%91%23&t=31&band_rank=43&Refer=top) 96947
 1. [杨紫方回应粉丝造型意见](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E6%96%B9%E5%9B%9E%E5%BA%94%E7%B2%89%E4%B8%9D%E9%80%A0%E5%9E%8B%E6%84%8F%E8%A7%81%23&t=31&band_rank=45&Refer=top) 93263
-1. [蔡文静cos可云](https://s.weibo.com/weibo?q=%23%E8%94%A1%E6%96%87%E9%9D%99cos%E5%8F%AF%E4%BA%91%23&t=31&band_rank=43&Refer=top) 92818
 1. [大熊猫吃笋整出了扛炮筒的架势](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E5%90%83%E7%AC%8B%E6%95%B4%E5%87%BA%E4%BA%86%E6%89%9B%E7%82%AE%E7%AD%92%E7%9A%84%E6%9E%B6%E5%8A%BF%23&t=31&band_rank=49&Refer=top) 92734
 1. [伊朗高官称暂无立即报复以色列计划](https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E9%AB%98%E5%AE%98%E7%A7%B0%E6%9A%82%E6%97%A0%E7%AB%8B%E5%8D%B3%E6%8A%A5%E5%A4%8D%E4%BB%A5%E8%89%B2%E5%88%97%E8%AE%A1%E5%88%92%23&t=31&band_rank=50&Refer=top) 92718
 1. [霍格沃茨魔法真让他们学到了](https://s.weibo.com/weibo?q=%23%E9%9C%8D%E6%A0%BC%E6%B2%83%E8%8C%A8%E9%AD%94%E6%B3%95%E7%9C%9F%E8%AE%A9%E4%BB%96%E4%BB%AC%E5%AD%A6%E5%88%B0%E4%BA%86%23&t=31&band_rank=25&Refer=top) 82229
 1. [原来你的蝴蝶结束发带一直戴反了](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E4%BD%A0%E7%9A%84%E8%9D%B4%E8%9D%B6%E7%BB%93%E6%9D%9F%E5%8F%91%E5%B8%A6%E4%B8%80%E7%9B%B4%E6%88%B4%E5%8F%8D%E4%BA%86&t=31&band_rank=35&Refer=top) 80863
-1. [00后老师为每位同学送专属信](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E8%80%81%E5%B8%88%E4%B8%BA%E6%AF%8F%E4%BD%8D%E5%90%8C%E5%AD%A6%E9%80%81%E4%B8%93%E5%B1%9E%E4%BF%A1%23&t=31&band_rank=35&Refer=top) 77723
 1. [宿迁光明村老人错认刘强东](https://s.weibo.com/weibo?q=%23%E5%AE%BF%E8%BF%81%E5%85%89%E6%98%8E%E6%9D%91%E8%80%81%E4%BA%BA%E9%94%99%E8%AE%A4%E5%88%98%E5%BC%BA%E4%B8%9C%23&t=31&band_rank=48&Refer=top) 63922
+1. [万妮达说要回不去黑怕圈了](https://s.weibo.com/weibo?q=%23%E4%B8%87%E5%A6%AE%E8%BE%BE%E8%AF%B4%E8%A6%81%E5%9B%9E%E4%B8%8D%E5%8E%BB%E9%BB%91%E6%80%95%E5%9C%88%E4%BA%86%23&t=31&band_rank=45&Refer=top) 53118
 <!-- END -->
 
 历史归档 [./archives](./archives)
