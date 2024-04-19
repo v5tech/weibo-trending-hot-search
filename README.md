@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-04-20 06:09:57.254021 
-![2024-04-20](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240420/2024-04-20.png?versionId=4_z8fbbed132d73df8689c40f13_f1022b83d91eaac8a_d20240419_m220957_c005_v0501017_t0005_u01713564597188) 
+最后更新时间 2024-04-20 06:26:24.862605 
+![2024-04-20](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240420/2024-04-20.png?versionId=4_z8fbbed132d73df8689c40f13_f1050936613f8a702_d20240419_m222624_c005_v0501020_t0017_u01713565584488) 
 1. [弟弟都亲了一夜承明你们呢](https://s.weibo.com/weibo?q=%23%E5%BC%9F%E5%BC%9F%E9%83%BD%E4%BA%B2%E4%BA%86%E4%B8%80%E5%A4%9C%E6%89%BF%E6%98%8E%E4%BD%A0%E4%BB%AC%E5%91%A2%23&t=31&band_rank=9&Refer=top) 748137
 1. [重庆严肃处理错收多收燃气费问题](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E4%B8%A5%E8%82%83%E5%A4%84%E7%90%86%E9%94%99%E6%94%B6%E5%A4%9A%E6%94%B6%E7%87%83%E6%B0%94%E8%B4%B9%E9%97%AE%E9%A2%98%23&t=31&band_rank=1&Refer=top) 692878
 1. [男子酒后打死10余只火烈鸟获刑5年](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%85%92%E5%90%8E%E6%89%93%E6%AD%BB10%E4%BD%99%E5%8F%AA%E7%81%AB%E7%83%88%E9%B8%9F%E8%8E%B7%E5%88%915%E5%B9%B4%23&t=31&band_rank=2&Refer=top) 485379
@@ -45,12 +45,12 @@
 1. [张小斐表情 真的心疼](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%B0%8F%E6%96%90%E8%A1%A8%E6%83%85%20%E7%9C%9F%E7%9A%84%E5%BF%83%E7%96%BC&t=31&band_rank=31&Refer=top) 179964
 1. [苗苗回应浪姐初舞台站反了](https://s.weibo.com/weibo?q=%23%E8%8B%97%E8%8B%97%E5%9B%9E%E5%BA%94%E6%B5%AA%E5%A7%90%E5%88%9D%E8%88%9E%E5%8F%B0%E7%AB%99%E5%8F%8D%E4%BA%86%23&t=31&band_rank=32&Refer=top) 171937
 1. [肖战还给了两年的售后时间](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%BF%98%E7%BB%99%E4%BA%86%E4%B8%A4%E5%B9%B4%E7%9A%84%E5%94%AE%E5%90%8E%E6%97%B6%E9%97%B4%23&t=31&band_rank=28&Refer=top) 146918
+1. [买燃油车的人正式成了少数派](https://s.weibo.com/weibo?q=%23%E4%B9%B0%E7%87%83%E6%B2%B9%E8%BD%A6%E7%9A%84%E4%BA%BA%E6%AD%A3%E5%BC%8F%E6%88%90%E4%BA%86%E5%B0%91%E6%95%B0%E6%B4%BE%23&t=31&band_rank=44&Refer=top) 143206
 1. [歌手韩雪回归](https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E9%9F%A9%E9%9B%AA%E5%9B%9E%E5%BD%92%23&t=31&band_rank=33&Refer=top) 143112
 1. [林高远4比2樊振东](https://s.weibo.com/weibo?q=%23%E6%9E%97%E9%AB%98%E8%BF%9C4%E6%AF%942%E6%A8%8A%E6%8C%AF%E4%B8%9C%23&t=31&band_rank=29&Refer=top) 141944
 1. [杀妻谷歌工程师或被关押监狱精神病房](https://s.weibo.com/weibo?q=%23%E6%9D%80%E5%A6%BB%E8%B0%B7%E6%AD%8C%E5%B7%A5%E7%A8%8B%E5%B8%88%E6%88%96%E8%A2%AB%E5%85%B3%E6%8A%BC%E7%9B%91%E7%8B%B1%E7%B2%BE%E7%A5%9E%E7%97%85%E6%88%BF%23&t=31&band_rank=30&Refer=top) 139485
 1. [00后老师为每位同学送专属信](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E8%80%81%E5%B8%88%E4%B8%BA%E6%AF%8F%E4%BD%8D%E5%90%8C%E5%AD%A6%E9%80%81%E4%B8%93%E5%B1%9E%E4%BF%A1%23&t=31&band_rank=35&Refer=top) 119715
 1. [乘风2024](https://s.weibo.com/weibo?q=%E4%B9%98%E9%A3%8E2024&t=31&band_rank=38&Refer=top) 110622
-1. [买燃油车的人正式成了少数派](https://s.weibo.com/weibo?q=%23%E4%B9%B0%E7%87%83%E6%B2%B9%E8%BD%A6%E7%9A%84%E4%BA%BA%E6%AD%A3%E5%BC%8F%E6%88%90%E4%BA%86%E5%B0%91%E6%95%B0%E6%B4%BE%23&t=31&band_rank=44&Refer=top) 105694
 1. [孙颖莎说困难时就拼呗顶呗](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E8%AF%B4%E5%9B%B0%E9%9A%BE%E6%97%B6%E5%B0%B1%E6%8B%BC%E5%91%97%E9%A1%B6%E5%91%97%23&t=31&band_rank=39&Refer=top) 104954
 1. [重生之我在霸总短剧里当保姆](https://s.weibo.com/weibo?q=%E9%87%8D%E7%94%9F%E4%B9%8B%E6%88%91%E5%9C%A8%E9%9C%B8%E6%80%BB%E7%9F%AD%E5%89%A7%E9%87%8C%E5%BD%93%E4%BF%9D%E5%A7%86&t=31&band_rank=40&Refer=top) 103248
 1. [IVE新预告](https://s.weibo.com/weibo?q=%23IVE%E6%96%B0%E9%A2%84%E5%91%8A%23&t=31&band_rank=41&Refer=top) 103193
@@ -79,11 +79,11 @@
 1. [JackeyLove说elk履历太白](https://s.weibo.com/weibo?q=%23JackeyLove%E8%AF%B4elk%E5%B1%A5%E5%8E%86%E5%A4%AA%E7%99%BD%23&t=31&band_rank=50&Refer=top) 46546
 1. [女子熬夜双眼皮熬成悲伤蛙](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%86%AC%E5%A4%9C%E5%8F%8C%E7%9C%BC%E7%9A%AE%E7%86%AC%E6%88%90%E6%82%B2%E4%BC%A4%E8%9B%99%23&t=31&band_rank=39&Refer=top) 42432
 1. [韩雪乘风初舞台再唱飘雪](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E9%9B%AA%E4%B9%98%E9%A3%8E%E5%88%9D%E8%88%9E%E5%8F%B0%E5%86%8D%E5%94%B1%E9%A3%98%E9%9B%AA%23&t=31&band_rank=32&Refer=top) 37521
+1. [戚薇梦回沐之晴](https://s.weibo.com/weibo?q=%23%E6%88%9A%E8%96%87%E6%A2%A6%E5%9B%9E%E6%B2%90%E4%B9%8B%E6%99%B4%23&t=31&band_rank=44&Refer=top) 27797
 1. [IVE预告照](https://s.weibo.com/weibo?q=IVE%E9%A2%84%E5%91%8A%E7%85%A7&t=31&band_rank=41&Refer=top) 26222
 1. [防止开场尬聊的100个话题](https://s.weibo.com/weibo?q=%23%E9%98%B2%E6%AD%A2%E5%BC%80%E5%9C%BA%E5%B0%AC%E8%81%8A%E7%9A%84100%E4%B8%AA%E8%AF%9D%E9%A2%98%23&t=31&band_rank=50&Refer=top) 26126
-1. [戚薇梦回沐之晴](https://s.weibo.com/weibo?q=%23%E6%88%9A%E8%96%87%E6%A2%A6%E5%9B%9E%E6%B2%90%E4%B9%8B%E6%99%B4%23&t=31&band_rank=44&Refer=top) 24489
 1. [陈昊宇的耳环是杨丞琳掉的那个吧](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%98%8A%E5%AE%87%E7%9A%84%E8%80%B3%E7%8E%AF%E6%98%AF%E6%9D%A8%E4%B8%9E%E7%90%B3%E6%8E%89%E7%9A%84%E9%82%A3%E4%B8%AA%E5%90%A7%23&t=31&band_rank=45&Refer=top) 24040
-1. [氯雷他定](https://s.weibo.com/weibo?q=%23%E6%B0%AF%E9%9B%B7%E4%BB%96%E5%AE%9A%23&t=31&band_rank=48&Refer=top) 20965
+1. [氯雷他定](https://s.weibo.com/weibo?q=%23%E6%B0%AF%E9%9B%B7%E4%BB%96%E5%AE%9A%23&t=31&band_rank=48&Refer=top) 22174
 1. [北影节轮到宝总当爷叔后盾了](https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%BD%B1%E8%8A%82%E8%BD%AE%E5%88%B0%E5%AE%9D%E6%80%BB%E5%BD%93%E7%88%B7%E5%8F%94%E5%90%8E%E7%9B%BE%E4%BA%86%23&t=31&band_rank=36&Refer=top) 19707
 1. [轻轻松松喜剧节](https://s.weibo.com/weibo?q=%E8%BD%BB%E8%BD%BB%E6%9D%BE%E6%9D%BE%E5%96%9C%E5%89%A7%E8%8A%82&t=31&band_rank=49&Refer=top) 14521
 <!-- END -->
