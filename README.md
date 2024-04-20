@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-04-21 03:49:18.081382 
-![2024-04-21](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240421/2024-04-21.png?versionId=4_z8fbbed132d73df8689c40f13_f1126b01c75e42799_d20240420_m194917_c005_v0501020_t0021_u01713642557613) 
+最后更新时间 2024-04-21 04:11:02.438699 
+![2024-04-21](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240421/2024-04-21.png?versionId=4_z8fbbed132d73df8689c40f13_f1183dcb0cf4ef1c7_d20240420_m201102_c005_v0501017_t0009_u01713643862413) 
 1. [白敬亭 B站](https://s.weibo.com/weibo?q=%E7%99%BD%E6%95%AC%E4%BA%AD%20B%E7%AB%99&t=31&band_rank=1&Refer=top) 1323702
 1. [周海媚墓碑上刻着周芷若画像](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B5%B7%E5%AA%9A%E5%A2%93%E7%A2%91%E4%B8%8A%E5%88%BB%E7%9D%80%E5%91%A8%E8%8A%B7%E8%8B%A5%E7%94%BB%E5%83%8F%23&t=31&band_rank=2&Refer=top) 1038683
 1. [良田良种良机良法绘就当代春耕图](https://s.weibo.com/weibo?q=%23%E8%89%AF%E7%94%B0%E8%89%AF%E7%A7%8D%E8%89%AF%E6%9C%BA%E8%89%AF%E6%B3%95%E7%BB%98%E5%B0%B1%E5%BD%93%E4%BB%A3%E6%98%A5%E8%80%95%E5%9B%BE%23&t=31&band_rank=3&Refer=top) 928778
@@ -69,12 +69,13 @@
 1. [林高远张本智和](https://s.weibo.com/weibo?q=%E6%9E%97%E9%AB%98%E8%BF%9C%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C&t=31&band_rank=50&Refer=top) 71394
 1. [刘宇巡演](https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%87%E5%B7%A1%E6%BC%94&t=31&band_rank=42&Refer=top) 65128
 1. [独臂独腿小伙成功登顶泰山](https://s.weibo.com/weibo?q=%23%E7%8B%AC%E8%87%82%E7%8B%AC%E8%85%BF%E5%B0%8F%E4%BC%99%E6%88%90%E5%8A%9F%E7%99%BB%E9%A1%B6%E6%B3%B0%E5%B1%B1%23&t=31&band_rank=10&Refer=top) 61756
+1. [追星的意义是救赎自己](https://s.weibo.com/weibo?q=%23%E8%BF%BD%E6%98%9F%E7%9A%84%E6%84%8F%E4%B9%89%E6%98%AF%E6%95%91%E8%B5%8E%E8%87%AA%E5%B7%B1%23&t=31&band_rank=50&Refer=top) 53295
 1. [张艺兴Psychic国内舞台首秀](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4Psychic%E5%9B%BD%E5%86%85%E8%88%9E%E5%8F%B0%E9%A6%96%E7%A7%80%23&t=31&band_rank=43&Refer=top) 51439
 1. [戚薇怎么不笑了](https://s.weibo.com/weibo?q=%23%E6%88%9A%E8%96%87%E6%80%8E%E4%B9%88%E4%B8%8D%E7%AC%91%E4%BA%86%23&t=31&band_rank=45&Refer=top) 44997
 1. [朱一龙谈天坛奖最佳男主角评判标准](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E8%B0%88%E5%A4%A9%E5%9D%9B%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B7%E4%B8%BB%E8%A7%92%E8%AF%84%E5%88%A4%E6%A0%87%E5%87%86%23&t=31&band_rank=43&Refer=top) 35788
-1. [追星的意义是救赎自己](https://s.weibo.com/weibo?q=%23%E8%BF%BD%E6%98%9F%E7%9A%84%E6%84%8F%E4%B9%89%E6%98%AF%E6%95%91%E8%B5%8E%E8%87%AA%E5%B7%B1%23&t=31&band_rank=50&Refer=top) 33127
 1. [工作简庆芬 生活Rebecca](https://s.weibo.com/weibo?q=%E5%B7%A5%E4%BD%9C%E7%AE%80%E5%BA%86%E8%8A%AC%20%E7%94%9F%E6%B4%BBRebecca&t=31&band_rank=46&Refer=top) 32034
 1. [自称周杰伦演唱会迟到崩溃当事女子回应](https://s.weibo.com/weibo?q=%23%E8%87%AA%E7%A7%B0%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E8%BF%9F%E5%88%B0%E5%B4%A9%E6%BA%83%E5%BD%93%E4%BA%8B%E5%A5%B3%E5%AD%90%E5%9B%9E%E5%BA%94%23&t=31&band_rank=31&Refer=top) 30267
+1. [胃癌在早期没有症状](https://s.weibo.com/weibo?q=%23%E8%83%83%E7%99%8C%E5%9C%A8%E6%97%A9%E6%9C%9F%E6%B2%A1%E6%9C%89%E7%97%87%E7%8A%B6%23&t=31&band_rank=34&Refer=top) 23492
 <!-- END -->
 
 历史归档 [./archives](./archives)
