@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-04-22 04:34:32.541161 
-![2024-04-22](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240422/2024-04-22.png?versionId=4_z8fbbed132d73df8689c40f13_f112666c9131febf5_d20240421_m203432_c005_v0501018_t0001_u01713731672476) 
+最后更新时间 2024-04-22 04:49:31.352732 
+![2024-04-22](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240422/2024-04-22.png?versionId=4_z8fbbed132d73df8689c40f13_f110dc0c0f7779d19_d20240421_m204931_c005_v0501016_t0027_u01713732571301) 
 1. [马龙男单夺冠](https://s.weibo.com/weibo?q=%E9%A9%AC%E9%BE%99%E7%94%B7%E5%8D%95%E5%A4%BA%E5%86%A0&t=31&band_rank=1&Refer=top) 1257986
 1. [钟薛高创始人称卖红薯也要把债还上](https://s.weibo.com/weibo?q=%23%E9%92%9F%E8%96%9B%E9%AB%98%E5%88%9B%E5%A7%8B%E4%BA%BA%E7%A7%B0%E5%8D%96%E7%BA%A2%E8%96%AF%E4%B9%9F%E8%A6%81%E6%8A%8A%E5%80%BA%E8%BF%98%E4%B8%8A%23&t=31&band_rank=6&Refer=top) 754303
 1. [罗云熙演唱会票价1680](https://s.weibo.com/weibo?q=%23%E7%BD%97%E4%BA%91%E7%86%99%E6%BC%94%E5%94%B1%E4%BC%9A%E7%A5%A8%E4%BB%B71680%23&t=31&band_rank=2&Refer=top) 720642
@@ -74,7 +74,8 @@
 1. [中国土味短剧在日本火了](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%9C%9F%E5%91%B3%E7%9F%AD%E5%89%A7%E5%9C%A8%E6%97%A5%E6%9C%AC%E7%81%AB%E4%BA%86%23&t=31&band_rank=50&Refer=top) 40227
 1. [哈哈哈哈哈](https://s.weibo.com/weibo?q=%E5%93%88%E5%93%88%E5%93%88%E5%93%88%E5%93%88&t=31&band_rank=19&Refer=top) 39708
 1. [鹿晗踢球戴曼联手套](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E8%B8%A2%E7%90%83%E6%88%B4%E6%9B%BC%E8%81%94%E6%89%8B%E5%A5%97%23&t=31&band_rank=47&Refer=top) 36325
-1. [为什么闭上眼睛能看到诡异的波纹](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E9%97%AD%E4%B8%8A%E7%9C%BC%E7%9D%9B%E8%83%BD%E7%9C%8B%E5%88%B0%E8%AF%A1%E5%BC%82%E7%9A%84%E6%B3%A2%E7%BA%B9%23&t=31&band_rank=50&Refer=top) 17344
+1. [为什么闭上眼睛能看到诡异的波纹](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E9%97%AD%E4%B8%8A%E7%9C%BC%E7%9D%9B%E8%83%BD%E7%9C%8B%E5%88%B0%E8%AF%A1%E5%BC%82%E7%9A%84%E6%B3%A2%E7%BA%B9%23&t=31&band_rank=50&Refer=top) 22103
+1. [能促进代谢的8种食物](https://s.weibo.com/weibo?q=%23%E8%83%BD%E4%BF%83%E8%BF%9B%E4%BB%A3%E8%B0%A2%E7%9A%848%E7%A7%8D%E9%A3%9F%E7%89%A9%23&t=31&band_rank=46&Refer=top) 16650
 <!-- END -->
 
 历史归档 [./archives](./archives)
