@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-04-22 01:10:39.995250 
-![2024-04-22](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240422/2024-04-22.png?versionId=4_z8fbbed132d73df8689c40f13_f1096e8007d973f4d_d20240421_m171039_c005_v0501008_t0038_u01713719439552) 
+最后更新时间 2024-04-22 01:25:44.158840 
+![2024-04-22](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240422/2024-04-22.png?versionId=4_z8fbbed132d73df8689c40f13_f1195ebd6ca017fcf_d20240421_m172543_c005_v0501018_t0003_u01713720343986) 
 1. [马龙男单夺冠](https://s.weibo.com/weibo?q=%E9%A9%AC%E9%BE%99%E7%94%B7%E5%8D%95%E5%A4%BA%E5%86%A0&t=31&band_rank=1&Refer=top) 1257986
 1. [钟薛高创始人称卖红薯也要把债还上](https://s.weibo.com/weibo?q=%23%E9%92%9F%E8%96%9B%E9%AB%98%E5%88%9B%E5%A7%8B%E4%BA%BA%E7%A7%B0%E5%8D%96%E7%BA%A2%E8%96%AF%E4%B9%9F%E8%A6%81%E6%8A%8A%E5%80%BA%E8%BF%98%E4%B8%8A%23&t=31&band_rank=6&Refer=top) 754303
 1. [罗云熙演唱会票价1680](https://s.weibo.com/weibo?q=%23%E7%BD%97%E4%BA%91%E7%86%99%E6%BC%94%E5%94%B1%E4%BC%9A%E7%A5%A8%E4%BB%B71680%23&t=31&band_rank=2&Refer=top) 720642
@@ -29,12 +29,14 @@
 1. [莎头 少男的祈祷](https://s.weibo.com/weibo?q=%E8%8E%8E%E5%A4%B4%20%E5%B0%91%E7%94%B7%E7%9A%84%E7%A5%88%E7%A5%B7&t=31&band_rank=18&Refer=top) 354149
 1. [马龙第三次夺得世界杯单打冠军](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99%E7%AC%AC%E4%B8%89%E6%AC%A1%E5%A4%BA%E5%BE%97%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8D%95%E6%89%93%E5%86%A0%E5%86%9B%23&t=31&band_rank=19&Refer=top) 328783
 1. [圆满不圆满](https://s.weibo.com/weibo?q=%E5%9C%86%E6%BB%A1%E4%B8%8D%E5%9C%86%E6%BB%A1&t=31&band_rank=20&Refer=top) 320888
+1. [用中国传统色打开春耕画卷](https://s.weibo.com/weibo?q=%23%E7%94%A8%E4%B8%AD%E5%9B%BD%E4%BC%A0%E7%BB%9F%E8%89%B2%E6%89%93%E5%BC%80%E6%98%A5%E8%80%95%E7%94%BB%E5%8D%B7%23&t=31&band_rank=3&Refer=top) 315031
 1. [白桃星座](https://s.weibo.com/weibo?q=%E7%99%BD%E6%A1%83%E6%98%9F%E5%BA%A7&t=31&band_rank=22&Refer=top) 307777
 1. [孙颖莎冠军](https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E5%86%A0%E5%86%9B&t=31&band_rank=21&Refer=top) 302984
 1. [aespa正规一辑预告](https://s.weibo.com/weibo?q=%23aespa%E6%AD%A3%E8%A7%84%E4%B8%80%E8%BE%91%E9%A2%84%E5%91%8A%23&t=31&band_rank=23&Refer=top) 285382
 1. [一小时内被三个人说我占座了](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%B0%8F%E6%97%B6%E5%86%85%E8%A2%AB%E4%B8%89%E4%B8%AA%E4%BA%BA%E8%AF%B4%E6%88%91%E5%8D%A0%E5%BA%A7%E4%BA%86%23&t=31&band_rank=24&Refer=top) 284254
 1. [为什么周日晚上总是睡不着](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%91%A8%E6%97%A5%E6%99%9A%E4%B8%8A%E6%80%BB%E6%98%AF%E7%9D%A1%E4%B8%8D%E7%9D%80%23&t=31&band_rank=25&Refer=top) 233974
 1. [不想发朋友圈的可以发状态](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E6%83%B3%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%88%E7%9A%84%E5%8F%AF%E4%BB%A5%E5%8F%91%E7%8A%B6%E6%80%81%23&t=31&band_rank=26&Refer=top) 218858
+1. [女子称一个月光洗澡燃气费达130多元](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%B0%E4%B8%80%E4%B8%AA%E6%9C%88%E5%85%89%E6%B4%97%E6%BE%A1%E7%87%83%E6%B0%94%E8%B4%B9%E8%BE%BE130%E5%A4%9A%E5%85%83%23&t=31&band_rank=27&Refer=top) 217789
 1. [周杰伦送外套给粉丝](https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E9%80%81%E5%A4%96%E5%A5%97%E7%BB%99%E7%B2%89%E4%B8%9D&t=31&band_rank=27&Refer=top) 204078
 1. [孙颖莎夺得澳门世界杯冠军](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E5%A4%BA%E5%BE%97%E6%BE%B3%E9%97%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E5%86%A0%E5%86%9B%23&t=31&band_rank=26&Refer=top) 200933
 1. [北京市副市长高朋被查](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%B8%82%E5%89%AF%E5%B8%82%E9%95%BF%E9%AB%98%E6%9C%8B%E8%A2%AB%E6%9F%A5%23&t=31&band_rank=28&Refer=top) 196868
@@ -57,7 +59,6 @@
 1. [世界杯颁奖](https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A2%81%E5%A5%96&t=31&band_rank=43&Refer=top) 126233
 1. [姚志明麦承欢官宣](https://s.weibo.com/weibo?q=%23%E5%A7%9A%E5%BF%97%E6%98%8E%E9%BA%A6%E6%89%BF%E6%AC%A2%E5%AE%98%E5%AE%A3%23&t=31&band_rank=50&Refer=top) 124993
 1. [被陈楚生谭维维合唱硬控住了](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E9%99%88%E6%A5%9A%E7%94%9F%E8%B0%AD%E7%BB%B4%E7%BB%B4%E5%90%88%E5%94%B1%E7%A1%AC%E6%8E%A7%E4%BD%8F%E4%BA%86%23&t=31&band_rank=44&Refer=top) 124291
-1. [女子称一个月光洗澡燃气费达130多元](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%B0%E4%B8%80%E4%B8%AA%E6%9C%88%E5%85%89%E6%B4%97%E6%BE%A1%E7%87%83%E6%B0%94%E8%B4%B9%E8%BE%BE130%E5%A4%9A%E5%85%83%23&t=31&band_rank=27&Refer=top) 118175
 1. [陈楚生独唱将进酒](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A5%9A%E7%94%9F%E7%8B%AC%E5%94%B1%E5%B0%86%E8%BF%9B%E9%85%92%23&t=31&band_rank=28&Refer=top) 112687
 1. [赵露思抹胸高定](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%8A%B9%E8%83%B8%E9%AB%98%E5%AE%9A%23&t=31&band_rank=45&Refer=top) 112231
 1. [东北雨姐是东北给全国人打的一针兴奋剂](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E9%9B%A8%E5%A7%90%E6%98%AF%E4%B8%9C%E5%8C%97%E7%BB%99%E5%85%A8%E5%9B%BD%E4%BA%BA%E6%89%93%E7%9A%84%E4%B8%80%E9%92%88%E5%85%B4%E5%A5%8B%E5%89%82%23&t=31&band_rank=46&Refer=top) 105226
@@ -65,6 +66,7 @@
 1. [王曼昱状态](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B1%E7%8A%B6%E6%80%81%23&t=31&band_rank=48&Refer=top) 103871
 1. [林依轮举孙颖莎手幅](https://s.weibo.com/weibo?q=%E6%9E%97%E4%BE%9D%E8%BD%AE%E4%B8%BE%E5%AD%99%E9%A2%96%E8%8E%8E%E6%89%8B%E5%B9%85&t=31&band_rank=49&Refer=top) 103869
 1. [尚雯婕 语言可以六国人很难多记一个](https://s.weibo.com/weibo?q=%E5%B0%9A%E9%9B%AF%E5%A9%95%20%E8%AF%AD%E8%A8%80%E5%8F%AF%E4%BB%A5%E5%85%AD%E5%9B%BD%E4%BA%BA%E5%BE%88%E9%9A%BE%E5%A4%9A%E8%AE%B0%E4%B8%80%E4%B8%AA&t=31&band_rank=47&Refer=top) 103865
+1. [永远不低估一颗冠军的心](https://s.weibo.com/weibo?q=%23%E6%B0%B8%E8%BF%9C%E4%B8%8D%E4%BD%8E%E4%BC%B0%E4%B8%80%E9%A2%97%E5%86%A0%E5%86%9B%E7%9A%84%E5%BF%83%23&t=31&band_rank=27&Refer=top) 93767
 <!-- END -->
 
 历史归档 [./archives](./archives)
