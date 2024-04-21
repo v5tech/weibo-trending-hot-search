@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-04-22 00:49:20.453277 
-![2024-04-22](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240422/2024-04-22.png?versionId=4_z8fbbed132d73df8689c40f13_f116ce46df9d0ab29_d20240421_m164920_c005_v0501018_t0013_u01713718160300) 
+最后更新时间 2024-04-22 01:10:39.995250 
+![2024-04-22](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240422/2024-04-22.png?versionId=4_z8fbbed132d73df8689c40f13_f1096e8007d973f4d_d20240421_m171039_c005_v0501008_t0038_u01713719439552) 
 1. [马龙男单夺冠](https://s.weibo.com/weibo?q=%E9%A9%AC%E9%BE%99%E7%94%B7%E5%8D%95%E5%A4%BA%E5%86%A0&t=31&band_rank=1&Refer=top) 1257986
 1. [钟薛高创始人称卖红薯也要把债还上](https://s.weibo.com/weibo?q=%23%E9%92%9F%E8%96%9B%E9%AB%98%E5%88%9B%E5%A7%8B%E4%BA%BA%E7%A7%B0%E5%8D%96%E7%BA%A2%E8%96%AF%E4%B9%9F%E8%A6%81%E6%8A%8A%E5%80%BA%E8%BF%98%E4%B8%8A%23&t=31&band_rank=6&Refer=top) 754303
 1. [罗云熙演唱会票价1680](https://s.weibo.com/weibo?q=%23%E7%BD%97%E4%BA%91%E7%86%99%E6%BC%94%E5%94%B1%E4%BC%9A%E7%A5%A8%E4%BB%B71680%23&t=31&band_rank=2&Refer=top) 720642
@@ -57,6 +57,8 @@
 1. [世界杯颁奖](https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A2%81%E5%A5%96&t=31&band_rank=43&Refer=top) 126233
 1. [姚志明麦承欢官宣](https://s.weibo.com/weibo?q=%23%E5%A7%9A%E5%BF%97%E6%98%8E%E9%BA%A6%E6%89%BF%E6%AC%A2%E5%AE%98%E5%AE%A3%23&t=31&band_rank=50&Refer=top) 124993
 1. [被陈楚生谭维维合唱硬控住了](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E9%99%88%E6%A5%9A%E7%94%9F%E8%B0%AD%E7%BB%B4%E7%BB%B4%E5%90%88%E5%94%B1%E7%A1%AC%E6%8E%A7%E4%BD%8F%E4%BA%86%23&t=31&band_rank=44&Refer=top) 124291
+1. [女子称一个月光洗澡燃气费达130多元](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%B0%E4%B8%80%E4%B8%AA%E6%9C%88%E5%85%89%E6%B4%97%E6%BE%A1%E7%87%83%E6%B0%94%E8%B4%B9%E8%BE%BE130%E5%A4%9A%E5%85%83%23&t=31&band_rank=27&Refer=top) 118175
+1. [陈楚生独唱将进酒](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A5%9A%E7%94%9F%E7%8B%AC%E5%94%B1%E5%B0%86%E8%BF%9B%E9%85%92%23&t=31&band_rank=28&Refer=top) 112687
 1. [赵露思抹胸高定](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%8A%B9%E8%83%B8%E9%AB%98%E5%AE%9A%23&t=31&band_rank=45&Refer=top) 112231
 1. [东北雨姐是东北给全国人打的一针兴奋剂](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E9%9B%A8%E5%A7%90%E6%98%AF%E4%B8%9C%E5%8C%97%E7%BB%99%E5%85%A8%E5%9B%BD%E4%BA%BA%E6%89%93%E7%9A%84%E4%B8%80%E9%92%88%E5%85%B4%E5%A5%8B%E5%89%82%23&t=31&band_rank=46&Refer=top) 105226
 1. [青春没有售价 同窗贴脸开大](https://s.weibo.com/weibo?q=%E9%9D%92%E6%98%A5%E6%B2%A1%E6%9C%89%E5%94%AE%E4%BB%B7%20%E5%90%8C%E7%AA%97%E8%B4%B4%E8%84%B8%E5%BC%80%E5%A4%A7&t=31&band_rank=41&Refer=top) 103884
