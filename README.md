@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-04-23 03:19:48.712166 
-![2024-04-23](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240423/2024-04-23.png?versionId=4_z8fbbed132d73df8689c40f13_f10469298ea2b8990_d20240422_m191948_c005_v0501015_t0039_u01713813588321) 
+最后更新时间 2024-04-23 03:35:36.703484 
+![2024-04-23](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240423/2024-04-23.png?versionId=4_z8fbbed132d73df8689c40f13_f1142ef3c5af6a20c_d20240422_m193536_c005_v0501010_t0019_u01713814536595) 
 1. [台湾花莲又发5.9级地震](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E8%8A%B1%E8%8E%B2%E5%8F%88%E5%8F%915.9%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=1&Refer=top) 5239905
 1. [台湾1小时内发生10起地震](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE1%E5%B0%8F%E6%97%B6%E5%86%85%E5%8F%91%E7%94%9F10%E8%B5%B7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=2&Refer=top) 3978320
 1. [世界读书日开卷有益](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E8%AF%BB%E4%B9%A6%E6%97%A5%E5%BC%80%E5%8D%B7%E6%9C%89%E7%9B%8A%23&t=31&band_rank=3&Refer=top) 2967829
