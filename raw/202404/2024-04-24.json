@@ -59,6 +59,10 @@
     "url": "https://s.weibo.com/weibo?q=%E8%BE%9B%E8%8A%B7%E8%95%BE%20%E6%8A%B1%E6%AD%89%E6%9D%A8%E6%B4%8B%E6%88%91%E5%90%AC%E9%94%99%E4%BA%86&t=31&band_rank=15&Refer=top",
     "hot": 340207
   },
+  "女子反映天然气费用突增老公被公司约谈": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%8F%8D%E6%98%A0%E5%A4%A9%E7%84%B6%E6%B0%94%E8%B4%B9%E7%94%A8%E7%AA%81%E5%A2%9E%E8%80%81%E5%85%AC%E8%A2%AB%E5%85%AC%E5%8F%B8%E7%BA%A6%E8%B0%88%23&t=31&band_rank=19&Refer=top",
+    "hot": 325163
+  },
   "周星驰要上综艺了": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%98%9F%E9%A9%B0%E8%A6%81%E4%B8%8A%E7%BB%BC%E8%89%BA%E4%BA%86%23&t=31&band_rank=18&Refer=top",
     "hot": 319288
@@ -71,13 +75,13 @@
     "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E8%89%BA%E8%80%83%E7%94%9F%E6%9D%8E%E9%97%BD%E8%BD%A9%E6%88%96%E8%A2%AB%E5%8F%96%E6%B6%88%E9%AB%98%E8%80%83%E8%B5%84%E6%A0%BC%23&t=31&band_rank=17&Refer=top",
     "hot": 281672
   },
-  "女子反映天然气费用突增老公被公司约谈": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%8F%8D%E6%98%A0%E5%A4%A9%E7%84%B6%E6%B0%94%E8%B4%B9%E7%94%A8%E7%AA%81%E5%A2%9E%E8%80%81%E5%85%AC%E8%A2%AB%E5%85%AC%E5%8F%B8%E7%BA%A6%E8%B0%88%23&t=31&band_rank=19&Refer=top",
-    "hot": 267854
-  },
   "重庆动物园就熊猫扑倒保育员报平安": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E5%8A%A8%E7%89%A9%E5%9B%AD%E5%B0%B1%E7%86%8A%E7%8C%AB%E6%89%91%E5%80%92%E4%BF%9D%E8%82%B2%E5%91%98%E6%8A%A5%E5%B9%B3%E5%AE%89%23&t=31&band_rank=46&Refer=top",
     "hot": 261308
+  },
+  "一条小团团单月礼物收入曾高达500万": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%9D%A1%E5%B0%8F%E5%9B%A2%E5%9B%A2%E5%8D%95%E6%9C%88%E7%A4%BC%E7%89%A9%E6%94%B6%E5%85%A5%E6%9B%BE%E9%AB%98%E8%BE%BE500%E4%B8%87%23&t=31&band_rank=49&Refer=top",
+    "hot": 248223
   },
   "周琦被驱逐": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E7%90%A6%E8%A2%AB%E9%A9%B1%E9%80%90%23&t=31&band_rank=20&Refer=top",
@@ -127,10 +131,6 @@
     "url": "https://s.weibo.com/weibo?q=%23%E6%BD%98%E5%B1%95%E4%B9%90100%E7%B1%B3%E8%87%AA%E5%86%A0%E5%86%9B%23&t=31&band_rank=30&Refer=top",
     "hot": 198901
   },
-  "一条小团团单月礼物收入曾高达500万": {
-    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%9D%A1%E5%B0%8F%E5%9B%A2%E5%9B%A2%E5%8D%95%E6%9C%88%E7%A4%BC%E7%89%A9%E6%94%B6%E5%85%A5%E6%9B%BE%E9%AB%98%E8%BE%BE500%E4%B8%87%23&t=31&band_rank=49&Refer=top",
-    "hot": 198149
-  },
   "田馥甄 音乐节": {
     "url": "https://s.weibo.com/weibo?q=%E7%94%B0%E9%A6%A5%E7%94%84%20%E9%9F%B3%E4%B9%90%E8%8A%82&t=31&band_rank=31&Refer=top",
     "hot": 194598
@@ -165,7 +165,11 @@
   },
   "孙女回家找不到奶奶崩溃大哭": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%A5%B3%E5%9B%9E%E5%AE%B6%E6%89%BE%E4%B8%8D%E5%88%B0%E5%A5%B6%E5%A5%B6%E5%B4%A9%E6%BA%83%E5%A4%A7%E5%93%AD%23&t=31&band_rank=20&Refer=top",
-    "hot": 105869
+    "hot": 131698
+  },
+  "张颂文新剧官宣文案没跟上队形": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%A2%82%E6%96%87%E6%96%B0%E5%89%A7%E5%AE%98%E5%AE%A3%E6%96%87%E6%A1%88%E6%B2%A1%E8%B7%9F%E4%B8%8A%E9%98%9F%E5%BD%A2%23&t=31&band_rank=47&Refer=top",
+    "hot": 114037
   },
   "小团团 小囚囚": {
     "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E5%9B%A2%E5%9B%A2%20%E5%B0%8F%E5%9B%9A%E5%9B%9A&t=31&band_rank=38&Refer=top",
@@ -182,10 +186,6 @@
   "张翰沧桑了": {
     "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E7%BF%B0%E6%B2%A7%E6%A1%91%E4%BA%86&t=31&band_rank=41&Refer=top",
     "hot": 95647
-  },
-  "张颂文新剧官宣文案没跟上队形": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%A2%82%E6%96%87%E6%96%B0%E5%89%A7%E5%AE%98%E5%AE%A3%E6%96%87%E6%A1%88%E6%B2%A1%E8%B7%9F%E4%B8%8A%E9%98%9F%E5%BD%A2%23&t=31&band_rank=47&Refer=top",
-    "hot": 93824
   },
   "秦昊杨幂新剧微博开分谍战第一": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%A7%A6%E6%98%8A%E6%9D%A8%E5%B9%82%E6%96%B0%E5%89%A7%E5%BE%AE%E5%8D%9A%E5%BC%80%E5%88%86%E8%B0%8D%E6%88%98%E7%AC%AC%E4%B8%80%23&t=31&band_rank=42&Refer=top",
@@ -227,21 +227,33 @@
     "url": "https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%AE%A1%E7%BE%8E%23&t=31&band_rank=42&Refer=top",
     "hot": 83467
   },
+  "孩子刚休学老师就把我微信删了": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E5%88%9A%E4%BC%91%E5%AD%A6%E8%80%81%E5%B8%88%E5%B0%B1%E6%8A%8A%E6%88%91%E5%BE%AE%E4%BF%A1%E5%88%A0%E4%BA%86%23&t=31&band_rank=45&Refer=top",
+    "hot": 71740
+  },
+  "当地回应4岁男童被三小孩倒酒精烧死": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%944%E5%B2%81%E7%94%B7%E7%AB%A5%E8%A2%AB%E4%B8%89%E5%B0%8F%E5%AD%A9%E5%80%92%E9%85%92%E7%B2%BE%E7%83%A7%E6%AD%BB%23&t=31&band_rank=49&Refer=top",
+    "hot": 71272
+  },
   "于适说小时候流行的都会": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%BA%8E%E9%80%82%E8%AF%B4%E5%B0%8F%E6%97%B6%E5%80%99%E6%B5%81%E8%A1%8C%E7%9A%84%E9%83%BD%E4%BC%9A%23&t=31&band_rank=35&Refer=top",
     "hot": 68984
   },
-  "孩子刚休学老师就把我微信删了": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E5%88%9A%E4%BC%91%E5%AD%A6%E8%80%81%E5%B8%88%E5%B0%B1%E6%8A%8A%E6%88%91%E5%BE%AE%E4%BF%A1%E5%88%A0%E4%BA%86%23&t=31&band_rank=45&Refer=top",
-    "hot": 54545
+  "拿了驾照却不会开车了": {
+    "url": "https://s.weibo.com/weibo?q=%E6%8B%BF%E4%BA%86%E9%A9%BE%E7%85%A7%E5%8D%B4%E4%B8%8D%E4%BC%9A%E5%BC%80%E8%BD%A6%E4%BA%86&t=31&band_rank=37&Refer=top",
+    "hot": 48135
   },
-  "当地回应4岁男童被三小孩倒酒精烧死": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%944%E5%B2%81%E7%94%B7%E7%AB%A5%E8%A2%AB%E4%B8%89%E5%B0%8F%E5%AD%A9%E5%80%92%E9%85%92%E7%B2%BE%E7%83%A7%E6%AD%BB%23&t=31&band_rank=49&Refer=top",
-    "hot": 54005
+  "红山动物园推草小猩猩疑似抑郁": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BA%A2%E5%B1%B1%E5%8A%A8%E7%89%A9%E5%9B%AD%E6%8E%A8%E8%8D%89%E5%B0%8F%E7%8C%A9%E7%8C%A9%E7%96%91%E4%BC%BC%E6%8A%91%E9%83%81%23&t=31&band_rank=44&Refer=top",
+    "hot": 47754
+  },
+  "张云龙上午古偶下午悬疑": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BA%91%E9%BE%99%E4%B8%8A%E5%8D%88%E5%8F%A4%E5%81%B6%E4%B8%8B%E5%8D%88%E6%82%AC%E7%96%91%23&t=31&band_rank=42&Refer=top",
+    "hot": 47675
   },
   "阿森纳vs切尔西": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A3%AE%E7%BA%B3vs%E5%88%87%E5%B0%94%E8%A5%BF%23&t=31&band_rank=46&Refer=top",
-    "hot": 46908
+    "hot": 47151
   },
   "蔡磊说要在倒下之前干掉渐冻症": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%94%A1%E7%A3%8A%E8%AF%B4%E8%A6%81%E5%9C%A8%E5%80%92%E4%B8%8B%E4%B9%8B%E5%89%8D%E5%B9%B2%E6%8E%89%E6%B8%90%E5%86%BB%E7%97%87%23&t=31&band_rank=39&Refer=top",
@@ -259,21 +271,25 @@
     "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E8%BD%A6%E5%86%85%E4%BE%A7%E9%A2%9C%23&t=31&band_rank=50&Refer=top",
     "hot": 41220
   },
-  "拿了驾照却不会开车了": {
-    "url": "https://s.weibo.com/weibo?q=%E6%8B%BF%E4%BA%86%E9%A9%BE%E7%85%A7%E5%8D%B4%E4%B8%8D%E4%BC%9A%E5%BC%80%E8%BD%A6%E4%BA%86&t=31&band_rank=37&Refer=top",
-    "hot": 39439
-  },
-  "红山动物园推草小猩猩疑似抑郁": {
-    "url": "https://s.weibo.com/weibo?q=%23%E7%BA%A2%E5%B1%B1%E5%8A%A8%E7%89%A9%E5%9B%AD%E6%8E%A8%E8%8D%89%E5%B0%8F%E7%8C%A9%E7%8C%A9%E7%96%91%E4%BC%BC%E6%8A%91%E9%83%81%23&t=31&band_rank=44&Refer=top",
-    "hot": 35557
-  },
-  "张云龙上午古偶下午悬疑": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BA%91%E9%BE%99%E4%B8%8A%E5%8D%88%E5%8F%A4%E5%81%B6%E4%B8%8B%E5%8D%88%E6%82%AC%E7%96%91%23&t=31&band_rank=42&Refer=top",
-    "hot": 33591
+  "金价": {
+    "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=37&Refer=top",
+    "hot": 37465
   },
   "赵今麦首部刑侦悬疑剧女主": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%BB%8A%E9%BA%A6%E9%A6%96%E9%83%A8%E5%88%91%E4%BE%A6%E6%82%AC%E7%96%91%E5%89%A7%E5%A5%B3%E4%B8%BB%23&t=31&band_rank=39&Refer=top",
     "hot": 32400
+  },
+  "娜扎粉色短裙": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A8%9C%E6%89%8E%E7%B2%89%E8%89%B2%E7%9F%AD%E8%A3%99%23&t=31&band_rank=45&Refer=top",
+    "hot": 32255
+  },
+  "双子座的分享欲不是喜欢": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8F%8C%E5%AD%90%E5%BA%A7%E7%9A%84%E5%88%86%E4%BA%AB%E6%AC%B2%E4%B8%8D%E6%98%AF%E5%96%9C%E6%AC%A2%23&t=31&band_rank=46&Refer=top",
+    "hot": 32028
+  },
+  "婚礼上玩这个游戏我饭都不吃了": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A9%9A%E7%A4%BC%E4%B8%8A%E7%8E%A9%E8%BF%99%E4%B8%AA%E6%B8%B8%E6%88%8F%E6%88%91%E9%A5%AD%E9%83%BD%E4%B8%8D%E5%90%83%E4%BA%86%23&t=31&band_rank=49&Refer=top",
+    "hot": 31515
   },
   "这个画面也太吉卜力了": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%AA%E7%94%BB%E9%9D%A2%E4%B9%9F%E5%A4%AA%E5%90%89%E5%8D%9C%E5%8A%9B%E4%BA%86%23&t=31&band_rank=49&Refer=top",
@@ -281,19 +297,7 @@
   },
   "开鲁官方通报干部下田拦春耕": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%BC%80%E9%B2%81%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%B9%B2%E9%83%A8%E4%B8%8B%E7%94%B0%E6%8B%A6%E6%98%A5%E8%80%95%23&t=31&band_rank=49&Refer=top",
-    "hot": 30079
-  },
-  "双子座的分享欲不是喜欢": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%8F%8C%E5%AD%90%E5%BA%A7%E7%9A%84%E5%88%86%E4%BA%AB%E6%AC%B2%E4%B8%8D%E6%98%AF%E5%96%9C%E6%AC%A2%23&t=31&band_rank=46&Refer=top",
-    "hot": 27728
-  },
-  "娜扎粉色短裙": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%A8%9C%E6%89%8E%E7%B2%89%E8%89%B2%E7%9F%AD%E8%A3%99%23&t=31&band_rank=45&Refer=top",
-    "hot": 27087
-  },
-  "婚礼上玩这个游戏我饭都不吃了": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%A9%9A%E7%A4%BC%E4%B8%8A%E7%8E%A9%E8%BF%99%E4%B8%AA%E6%B8%B8%E6%88%8F%E6%88%91%E9%A5%AD%E9%83%BD%E4%B8%8D%E5%90%83%E4%BA%86%23&t=31&band_rank=49&Refer=top",
-    "hot": 26258
+    "hot": 30734
   },
   "李现替向远生给多慈回信": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%B0%E6%9B%BF%E5%90%91%E8%BF%9C%E7%94%9F%E7%BB%99%E5%A4%9A%E6%85%88%E5%9B%9E%E4%BF%A1%23&t=31&band_rank=50&Refer=top",
