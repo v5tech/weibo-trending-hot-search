@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-04-25 02:36:21.528951 
-![2024-04-25](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240425/2024-04-25.png?versionId=4_z8fbbed132d73df8689c40f13_f112c21c1fc0c8280_d20240424_m183621_c005_v0501003_t0023_u01713983781091) 
+最后更新时间 2024-04-25 02:49:23.794416 
+![2024-04-25](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240425/2024-04-25.png?versionId=4_z8fbbed132d73df8689c40f13_f10886513612bfb7d_d20240424_m184923_c005_v0501018_t0012_u01713984563673) 
 1. [以色列](https://s.weibo.com/weibo?q=%E4%BB%A5%E8%89%B2%E5%88%97&t=31&band_rank=2&Refer=top) 720962
 1. [唐家三少宣布停更](https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AE%B6%E4%B8%89%E5%B0%91%E5%AE%A3%E5%B8%83%E5%81%9C%E6%9B%B4%23&t=31&band_rank=1&Refer=top) 688526
 1. [万千气象看山西](https://s.weibo.com/weibo?q=%23%E4%B8%87%E5%8D%83%E6%B0%94%E8%B1%A1%E7%9C%8B%E5%B1%B1%E8%A5%BF%23&t=31&band_rank=3&Refer=top) 635082
