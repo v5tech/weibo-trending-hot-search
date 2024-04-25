@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-04-26 01:12:31.930895 
-![2024-04-26](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240426/2024-04-26.png?versionId=4_z8fbbed132d73df8689c40f13_f119d5e3e0b68236a_d20240425_m171231_c005_v0501020_t0001_u01714065151175) 
+最后更新时间 2024-04-26 01:28:03.634110 
+![2024-04-26](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240426/2024-04-26.png?versionId=4_z8fbbed132d73df8689c40f13_f106b6699fbfd92dd_d20240425_m172802_c005_v0501004_t0009_u01714066082985) 
 1. [杨幂演技](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E6%BC%94%E6%8A%80&t=31&band_rank=1&Refer=top) 862805
 1. [武艺 各位老师对不起](https://s.weibo.com/weibo?q=%E6%AD%A6%E8%89%BA%20%E5%90%84%E4%BD%8D%E8%80%81%E5%B8%88%E5%AF%B9%E4%B8%8D%E8%B5%B7&t=31&band_rank=2&Refer=top) 637008
 1. [全国网络普法行江苏站](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E7%BD%91%E7%BB%9C%E6%99%AE%E6%B3%95%E8%A1%8C%E6%B1%9F%E8%8B%8F%E7%AB%99%23&t=31&band_rank=3&Refer=top) 560622
@@ -60,13 +60,14 @@
 1. [杭州爬山失联女子已找到丈夫发声](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E7%88%AC%E5%B1%B1%E5%A4%B1%E8%81%94%E5%A5%B3%E5%AD%90%E5%B7%B2%E6%89%BE%E5%88%B0%E4%B8%88%E5%A4%AB%E5%8F%91%E5%A3%B0%23&t=31&band_rank=48&Refer=top) 204794
 1. [数学就是玄学](https://s.weibo.com/weibo?q=%E6%95%B0%E5%AD%A6%E5%B0%B1%E6%98%AF%E7%8E%84%E5%AD%A6&t=31&band_rank=49&Refer=top) 204656
 1. [上海月租50元1平米房为摆拍造假](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%9C%88%E7%A7%9F50%E5%85%831%E5%B9%B3%E7%B1%B3%E6%88%BF%E4%B8%BA%E6%91%86%E6%8B%8D%E9%80%A0%E5%81%87%23&t=31&band_rank=50&Refer=top) 204624
-1. [赵文琪称美甲不满意可退款重做](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E6%96%87%E7%90%AA%E7%A7%B0%E7%BE%8E%E7%94%B2%E4%B8%8D%E6%BB%A1%E6%84%8F%E5%8F%AF%E9%80%80%E6%AC%BE%E9%87%8D%E5%81%9A%23&t=31&band_rank=42&Refer=top) 109318
+1. [赵文琪称美甲不满意可退款重做](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E6%96%87%E7%90%AA%E7%A7%B0%E7%BE%8E%E7%94%B2%E4%B8%8D%E6%BB%A1%E6%84%8F%E5%8F%AF%E9%80%80%E6%AC%BE%E9%87%8D%E5%81%9A%23&t=31&band_rank=42&Refer=top) 114098
 1. [张予曦的肤色](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BA%88%E6%9B%A6%E7%9A%84%E8%82%A4%E8%89%B2%23&t=31&band_rank=44&Refer=top) 97556
 1. [S组大结局](https://s.weibo.com/weibo?q=%23S%E7%BB%84%E5%A4%A7%E7%BB%93%E5%B1%80%23&t=31&band_rank=49&Refer=top) 90013
+1. [美国校园冲突升级](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%A0%A1%E5%9B%AD%E5%86%B2%E7%AA%81%E5%8D%87%E7%BA%A7%23&t=31&band_rank=38&Refer=top) 79311
 1. [花蓉结局](https://s.weibo.com/weibo?q=%E8%8A%B1%E8%93%89%E7%BB%93%E5%B1%80&t=31&band_rank=45&Refer=top) 73038
+1. [内娱有多爱玩青春修炼手册的梗](https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E6%9C%89%E5%A4%9A%E7%88%B1%E7%8E%A9%E9%9D%92%E6%98%A5%E4%BF%AE%E7%82%BC%E6%89%8B%E5%86%8C%E7%9A%84%E6%A2%97%23&t=31&band_rank=43&Refer=top) 72699
 1. [惜花芷](https://s.weibo.com/weibo?q=%E6%83%9C%E8%8A%B1%E8%8A%B7&t=31&band_rank=49&Refer=top) 71496
-1. [美国校园冲突升级](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%A0%A1%E5%9B%AD%E5%86%B2%E7%AA%81%E5%8D%87%E7%BA%A7%23&t=31&band_rank=38&Refer=top) 56395
-1. [内娱有多爱玩青春修炼手册的梗](https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E6%9C%89%E5%A4%9A%E7%88%B1%E7%8E%A9%E9%9D%92%E6%98%A5%E4%BF%AE%E7%82%BC%E6%89%8B%E5%86%8C%E7%9A%84%E6%A2%97%23&t=31&band_rank=43&Refer=top) 54206
+1. [第五人格演绎之星](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%E6%BC%94%E7%BB%8E%E4%B9%8B%E6%98%9F%23&t=31&band_rank=49&Refer=top) 48901
 <!-- END -->
 
 历史归档 [./archives](./archives)
