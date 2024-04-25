@@ -271,8 +271,16 @@
     "url": "https://s.weibo.com/weibo?q=%23%E6%B7%84%E5%8D%9A%E8%88%B0%E4%B8%8A%E8%83%BD%E5%90%83%E7%83%A7%E7%83%A4%E5%90%97%23&t=31&band_rank=44&Refer=top",
     "hot": 20446
   },
+  "沈阳": {
+    "url": "https://s.weibo.com/weibo?q=%E6%B2%88%E9%98%B3&t=31&band_rank=32&Refer=top",
+    "hot": 20310
+  },
   "李彩演Smart Challenge": {
     "url": "https://s.weibo.com/weibo?q=%E6%9D%8E%E5%BD%A9%E6%BC%94Smart%20Challenge&t=31&band_rank=47&Refer=top",
     "hot": 18471
+  },
+  "谭爷爷你孙女当花局长了": {
+    "url": "https://s.weibo.com/weibo?q=%23%E8%B0%AD%E7%88%B7%E7%88%B7%E4%BD%A0%E5%AD%99%E5%A5%B3%E5%BD%93%E8%8A%B1%E5%B1%80%E9%95%BF%E4%BA%86%23&t=31&band_rank=44&Refer=top",
+    "hot": 17334
   }
 }
