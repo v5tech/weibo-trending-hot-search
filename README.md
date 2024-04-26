@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-04-27 03:49:26.779166 
-![2024-04-27](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240427/2024-04-27.png?versionId=4_z8fbbed132d73df8689c40f13_f118b27b2c9eed6bb_d20240426_m194926_c005_v0501008_t0045_u01714160966709) 
+最后更新时间 2024-04-27 04:12:12.408668 
+![2024-04-27](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240427/2024-04-27.png?versionId=4_z8fbbed132d73df8689c40f13_f115269fbaf712f39_d20240426_m201212_c005_v0501004_t0046_u01714162332278) 
 1. [芒果又押错宝了吗](https://s.weibo.com/weibo?q=%E8%8A%92%E6%9E%9C%E5%8F%88%E6%8A%BC%E9%94%99%E5%AE%9D%E4%BA%86%E5%90%97&t=31&band_rank=1&Refer=top) 1499178
 1. [跑男收视率](https://s.weibo.com/weibo?q=%E8%B7%91%E7%94%B7%E6%94%B6%E8%A7%86%E7%8E%87&t=31&band_rank=2&Refer=top) 705275
 1. [全国网络普法行江苏站](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E7%BD%91%E7%BB%9C%E6%99%AE%E6%B3%95%E8%A1%8C%E6%B1%9F%E8%8B%8F%E7%AB%99%23&t=31&band_rank=3&Refer=top) 602453
@@ -78,7 +78,8 @@
 1. [英雄联盟](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%23&t=31&band_rank=50&Refer=top) 29973
 1. [薛之谦演唱会上的小朋友](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E7%9A%84%E5%B0%8F%E6%9C%8B%E5%8F%8B%23&t=31&band_rank=45&Refer=top) 27319
 1. [浪姐 修音](https://s.weibo.com/weibo?q=%E6%B5%AA%E5%A7%90%20%E4%BF%AE%E9%9F%B3&t=31&band_rank=36&Refer=top) 27178
-1. [小K是谁](https://s.weibo.com/weibo?q=%E5%B0%8FK%E6%98%AF%E8%B0%81&t=31&band_rank=40&Refer=top) 24517
+1. [小K是谁](https://s.weibo.com/weibo?q=%E5%B0%8FK%E6%98%AF%E8%B0%81&t=31&band_rank=40&Refer=top) 25851
+1. [普京称计划5月访华](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E7%A7%B0%E8%AE%A1%E5%88%925%E6%9C%88%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=30&Refer=top) 22605
 <!-- END -->
 
 历史归档 [./archives](./archives)
