@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-04-27 03:09:19.417571 
-![2024-04-27](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240427/2024-04-27.png?versionId=4_z8fbbed132d73df8689c40f13_f1083a2870d9d75cc_d20240426_m190919_c005_v0501000_t0021_u01714158559020) 
+最后更新时间 2024-04-27 03:19:34.366843 
+![2024-04-27](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240427/2024-04-27.png?versionId=4_z8fbbed132d73df8689c40f13_f118c51bc1ddce692_d20240426_m191934_c005_v0501020_t0057_u01714159174181) 
 1. [芒果又押错宝了吗](https://s.weibo.com/weibo?q=%E8%8A%92%E6%9E%9C%E5%8F%88%E6%8A%BC%E9%94%99%E5%AE%9D%E4%BA%86%E5%90%97&t=31&band_rank=1&Refer=top) 1499178
 1. [跑男收视率](https://s.weibo.com/weibo?q=%E8%B7%91%E7%94%B7%E6%94%B6%E8%A7%86%E7%8E%87&t=31&band_rank=2&Refer=top) 705275
 1. [全国网络普法行江苏站](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E7%BD%91%E7%BB%9C%E6%99%AE%E6%B3%95%E8%A1%8C%E6%B1%9F%E8%8B%8F%E7%AB%99%23&t=31&band_rank=3&Refer=top) 602453
@@ -72,12 +72,12 @@
 1. [Mpop](https://s.weibo.com/weibo?q=Mpop&t=31&band_rank=43&Refer=top) 58498
 1. [睡不着就吃天然的褪黑素](https://s.weibo.com/weibo?q=%23%E7%9D%A1%E4%B8%8D%E7%9D%80%E5%B0%B1%E5%90%83%E5%A4%A9%E7%84%B6%E7%9A%84%E8%A4%AA%E9%BB%91%E7%B4%A0%23&t=31&band_rank=39&Refer=top) 53283
 1. [星穹铁道2.2版本前瞻](https://s.weibo.com/weibo?q=%23%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%932.2%E7%89%88%E6%9C%AC%E5%89%8D%E7%9E%BB%23&t=31&band_rank=45&Refer=top) 45076
+1. [发明邓超的人真是个天才](https://s.weibo.com/weibo?q=%23%E5%8F%91%E6%98%8E%E9%82%93%E8%B6%85%E7%9A%84%E4%BA%BA%E7%9C%9F%E6%98%AF%E4%B8%AA%E5%A4%A9%E6%89%8D%23&t=31&band_rank=28&Refer=top) 36271
 1. [乘风赛点秀](https://s.weibo.com/weibo?q=%E4%B9%98%E9%A3%8E%E8%B5%9B%E7%82%B9%E7%A7%80&t=31&band_rank=36&Refer=top) 33484
-1. [发明邓超的人真是个天才](https://s.weibo.com/weibo?q=%23%E5%8F%91%E6%98%8E%E9%82%93%E8%B6%85%E7%9A%84%E4%BA%BA%E7%9C%9F%E6%98%AF%E4%B8%AA%E5%A4%A9%E6%89%8D%23&t=31&band_rank=28&Refer=top) 33027
 1. [星穹铁道一周年](https://s.weibo.com/weibo?q=%23%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93%E4%B8%80%E5%91%A8%E5%B9%B4%23&t=31&band_rank=50&Refer=top) 32230
+1. [英雄联盟](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%23&t=31&band_rank=50&Refer=top) 27854
 1. [薛之谦演唱会上的小朋友](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E7%9A%84%E5%B0%8F%E6%9C%8B%E5%8F%8B%23&t=31&band_rank=45&Refer=top) 27319
 1. [浪姐 修音](https://s.weibo.com/weibo?q=%E6%B5%AA%E5%A7%90%20%E4%BF%AE%E9%9F%B3&t=31&band_rank=36&Refer=top) 27078
-1. [英雄联盟](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%23&t=31&band_rank=50&Refer=top) 26359
 <!-- END -->
 
 历史归档 [./archives](./archives)

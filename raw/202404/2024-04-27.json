@@ -251,17 +251,21 @@
     "url": "https://s.weibo.com/weibo?q=%23%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%932.2%E7%89%88%E6%9C%AC%E5%89%8D%E7%9E%BB%23&t=31&band_rank=45&Refer=top",
     "hot": 45076
   },
+  "发明邓超的人真是个天才": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8F%91%E6%98%8E%E9%82%93%E8%B6%85%E7%9A%84%E4%BA%BA%E7%9C%9F%E6%98%AF%E4%B8%AA%E5%A4%A9%E6%89%8D%23&t=31&band_rank=28&Refer=top",
+    "hot": 36271
+  },
   "乘风赛点秀": {
     "url": "https://s.weibo.com/weibo?q=%E4%B9%98%E9%A3%8E%E8%B5%9B%E7%82%B9%E7%A7%80&t=31&band_rank=36&Refer=top",
     "hot": 33484
   },
-  "发明邓超的人真是个天才": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%8F%91%E6%98%8E%E9%82%93%E8%B6%85%E7%9A%84%E4%BA%BA%E7%9C%9F%E6%98%AF%E4%B8%AA%E5%A4%A9%E6%89%8D%23&t=31&band_rank=28&Refer=top",
-    "hot": 33027
-  },
   "星穹铁道一周年": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93%E4%B8%80%E5%91%A8%E5%B9%B4%23&t=31&band_rank=50&Refer=top",
     "hot": 32230
+  },
+  "英雄联盟": {
+    "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%23&t=31&band_rank=50&Refer=top",
+    "hot": 27854
   },
   "薛之谦演唱会上的小朋友": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E7%9A%84%E5%B0%8F%E6%9C%8B%E5%8F%8B%23&t=31&band_rank=45&Refer=top",
@@ -270,9 +274,5 @@
   "浪姐 修音": {
     "url": "https://s.weibo.com/weibo?q=%E6%B5%AA%E5%A7%90%20%E4%BF%AE%E9%9F%B3&t=31&band_rank=36&Refer=top",
     "hot": 27078
-  },
-  "英雄联盟": {
-    "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%23&t=31&band_rank=50&Refer=top",
-    "hot": 26359
   }
 }
