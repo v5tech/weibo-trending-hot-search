@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-04-28 05:49:34.498214 
-![2024-04-28](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240428/2024-04-28.png?versionId=4_z8fbbed132d73df8689c40f13_f105214960b2d0c9f_d20240427_m214934_c005_v0501003_t0008_u01714254574184) 
+最后更新时间 2024-04-28 06:10:29.509654 
+![2024-04-28](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240428/2024-04-28.png?versionId=4_z8fbbed132d73df8689c40f13_f10328625d462bb38_d20240427_m221029_c005_v0521006_t0042_u01714255829402) 
 1. [广州龙卷风已致5死33伤](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E9%BE%99%E5%8D%B7%E9%A3%8E%E5%B7%B2%E8%87%B45%E6%AD%BB33%E4%BC%A4%23&t=31&band_rank=10&Refer=top) 1443367
 1. [4个何炅](https://s.weibo.com/weibo?q=%234%E4%B8%AA%E4%BD%95%E7%82%85%23&t=31&band_rank=1&Refer=top) 1041676
 1. [郝蕾怒批赵晴](https://s.weibo.com/weibo?q=%E9%83%9D%E8%95%BE%E6%80%92%E6%89%B9%E8%B5%B5%E6%99%B4&t=31&band_rank=2&Refer=top) 883098
@@ -58,11 +58,11 @@
 1. [苗苗好甜](https://s.weibo.com/weibo?q=%E8%8B%97%E8%8B%97%E5%A5%BD%E7%94%9C&t=31&band_rank=46&Refer=top) 121942
 1. [迪丽热巴提裙对视](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%8F%90%E8%A3%99%E5%AF%B9%E8%A7%86%23&t=31&band_rank=47&Refer=top) 112571
 1. [现在年轻人久坐问题有多普遍](https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B9%85%E5%9D%90%E9%97%AE%E9%A2%98%E6%9C%89%E5%A4%9A%E6%99%AE%E9%81%8D%23&t=31&band_rank=48&Refer=top) 112333
+1. [牛仔裤正在被抛弃吗](https://s.weibo.com/weibo?q=%23%E7%89%9B%E4%BB%94%E8%A3%A4%E6%AD%A3%E5%9C%A8%E8%A2%AB%E6%8A%9B%E5%BC%83%E5%90%97%23&t=31&band_rank=50&Refer=top) 110734
 1. [每天多睡1小时能有多大好处](https://s.weibo.com/weibo?q=%23%E6%AF%8F%E5%A4%A9%E5%A4%9A%E7%9D%A11%E5%B0%8F%E6%97%B6%E8%83%BD%E6%9C%89%E5%A4%9A%E5%A4%A7%E5%A5%BD%E5%A4%84%23&t=31&band_rank=46&Refer=top) 102838
 1. [明日方舟迷宫饭](https://s.weibo.com/weibo?q=%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F%E8%BF%B7%E5%AE%AB%E9%A5%AD&t=31&band_rank=49&Refer=top) 95396
 1. [苗苗一公舞台](https://s.weibo.com/weibo?q=%23%E8%8B%97%E8%8B%97%E4%B8%80%E5%85%AC%E8%88%9E%E5%8F%B0%23&t=31&band_rank=48&Refer=top) 94587
 1. [明日方舟五周年直播](https://s.weibo.com/weibo?q=%23%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F%E4%BA%94%E5%91%A8%E5%B9%B4%E7%9B%B4%E6%92%AD%23&t=31&band_rank=50&Refer=top) 94495
-1. [牛仔裤正在被抛弃吗](https://s.weibo.com/weibo?q=%23%E7%89%9B%E4%BB%94%E8%A3%A4%E6%AD%A3%E5%9C%A8%E8%A2%AB%E6%8A%9B%E5%BC%83%E5%90%97%23&t=31&band_rank=50&Refer=top) 90488
 1. [我只喜欢你的人设](https://s.weibo.com/weibo?q=%E6%88%91%E5%8F%AA%E5%96%9C%E6%AC%A2%E4%BD%A0%E7%9A%84%E4%BA%BA%E8%AE%BE&t=31&band_rank=48&Refer=top) 82788
 1. [林更新回应太瘦了](https://s.weibo.com/weibo?q=%23%E6%9E%97%E6%9B%B4%E6%96%B0%E5%9B%9E%E5%BA%94%E5%A4%AA%E7%98%A6%E4%BA%86%23&t=31&band_rank=45&Refer=top) 75489
 1. [广州发布今年首个雷雨大风红色预警](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%8F%91%E5%B8%83%E4%BB%8A%E5%B9%B4%E9%A6%96%E4%B8%AA%E9%9B%B7%E9%9B%A8%E5%A4%A7%E9%A3%8E%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6%23&t=31&band_rank=44&Refer=top) 67600
@@ -75,14 +75,14 @@
 1. [眼泪女王白贤佑出车祸](https://s.weibo.com/weibo?q=%23%E7%9C%BC%E6%B3%AA%E5%A5%B3%E7%8E%8B%E7%99%BD%E8%B4%A4%E4%BD%91%E5%87%BA%E8%BD%A6%E7%A5%B8%23&t=31&band_rank=37&Refer=top) 45515
 1. [中岛美嘉 音乐就是救命稻草](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%B2%9B%E7%BE%8E%E5%98%89%20%E9%9F%B3%E4%B9%90%E5%B0%B1%E6%98%AF%E6%95%91%E5%91%BD%E7%A8%BB%E8%8D%89&t=31&band_rank=34&Refer=top) 42385
 1. [天津泡泡岛音乐节](https://s.weibo.com/weibo?q=%E5%A4%A9%E6%B4%A5%E6%B3%A1%E6%B3%A1%E5%B2%9B%E9%9F%B3%E4%B9%90%E8%8A%82&t=31&band_rank=47&Refer=top) 41486
+1. [邓超说蔡文静脑子好厉害](https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E8%AF%B4%E8%94%A1%E6%96%87%E9%9D%99%E8%84%91%E5%AD%90%E5%A5%BD%E5%8E%89%E5%AE%B3%23&t=31&band_rank=50&Refer=top) 41231
 1. [广东最大的水库开闸泄洪](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%9C%80%E5%A4%A7%E7%9A%84%E6%B0%B4%E5%BA%93%E5%BC%80%E9%97%B8%E6%B3%84%E6%B4%AA%23&t=31&band_rank=42&Refer=top) 40812
-1. [邓超说蔡文静脑子好厉害](https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E8%AF%B4%E8%94%A1%E6%96%87%E9%9D%99%E8%84%91%E5%AD%90%E5%A5%BD%E5%8E%89%E5%AE%B3%23&t=31&band_rank=50&Refer=top) 35023
+1. [外国游客3个月爆买1.75万亿日元](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%9B%BD%E6%B8%B8%E5%AE%A23%E4%B8%AA%E6%9C%88%E7%88%86%E4%B9%B01.75%E4%B8%87%E4%BA%BF%E6%97%A5%E5%85%83%23&t=31&band_rank=34&Refer=top) 32461
 1. [maestro饭拍视频](https://s.weibo.com/weibo?q=maestro%E9%A5%AD%E6%8B%8D%E8%A7%86%E9%A2%91&t=31&band_rank=48&Refer=top) 29793
-1. [年轻人想赚快钱不用不好意思](https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%83%B3%E8%B5%9A%E5%BF%AB%E9%92%B1%E4%B8%8D%E7%94%A8%E4%B8%8D%E5%A5%BD%E6%84%8F%E6%80%9D%23&t=31&band_rank=49&Refer=top) 22978
-1. [外国游客3个月爆买1.75万亿日元](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%9B%BD%E6%B8%B8%E5%AE%A23%E4%B8%AA%E6%9C%88%E7%88%86%E4%B9%B01.75%E4%B8%87%E4%BA%BF%E6%97%A5%E5%85%83%23&t=31&band_rank=34&Refer=top) 21233
-1. [小龙虾为什么大降价](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%BE%99%E8%99%BE%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%A7%E9%99%8D%E4%BB%B7%23&t=31&band_rank=50&Refer=top) 18766
-1. [第一次见这么肥美的大熊猫](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E8%BF%99%E4%B9%88%E8%82%A5%E7%BE%8E%E7%9A%84%E5%A4%A7%E7%86%8A%E7%8C%AB%23&t=31&band_rank=50&Refer=top) 18348
-1. [碓冰拓海 一如既往的帅](https://s.weibo.com/weibo?q=%E7%A2%93%E5%86%B0%E6%8B%93%E6%B5%B7%20%E4%B8%80%E5%A6%82%E6%97%A2%E5%BE%80%E7%9A%84%E5%B8%85&t=31&band_rank=49&Refer=top) 17370
+1. [年轻人想赚快钱不用不好意思](https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%83%B3%E8%B5%9A%E5%BF%AB%E9%92%B1%E4%B8%8D%E7%94%A8%E4%B8%8D%E5%A5%BD%E6%84%8F%E6%80%9D%23&t=31&band_rank=49&Refer=top) 29189
+1. [小龙虾为什么大降价](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%BE%99%E8%99%BE%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%A7%E9%99%8D%E4%BB%B7%23&t=31&band_rank=50&Refer=top) 22116
+1. [碓冰拓海 一如既往的帅](https://s.weibo.com/weibo?q=%E7%A2%93%E5%86%B0%E6%8B%93%E6%B5%B7%20%E4%B8%80%E5%A6%82%E6%97%A2%E5%BE%80%E7%9A%84%E5%B8%85&t=31&band_rank=49&Refer=top) 22022
+1. [第一次见这么肥美的大熊猫](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E8%BF%99%E4%B9%88%E8%82%A5%E7%BE%8E%E7%9A%84%E5%A4%A7%E7%86%8A%E7%8C%AB%23&t=31&band_rank=50&Refer=top) 22008
 1. [97年生交警被86岁奶奶叫叔叔](https://s.weibo.com/weibo?q=%2397%E5%B9%B4%E7%94%9F%E4%BA%A4%E8%AD%A6%E8%A2%AB86%E5%B2%81%E5%A5%B6%E5%A5%B6%E5%8F%AB%E5%8F%94%E5%8F%94%23&t=31&band_rank=50&Refer=top) 16526
 <!-- END -->
 
