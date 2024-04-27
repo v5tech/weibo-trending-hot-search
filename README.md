@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-04-28 06:10:29.509654 
-![2024-04-28](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240428/2024-04-28.png?versionId=4_z8fbbed132d73df8689c40f13_f10328625d462bb38_d20240427_m221029_c005_v0521006_t0042_u01714255829402) 
+最后更新时间 2024-04-28 06:26:53.773993 
+![2024-04-28](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240428/2024-04-28.png?versionId=4_z8fbbed132d73df8689c40f13_f1074676760d39017_d20240427_m222653_c005_v0501009_t0020_u01714256813685) 
 1. [广州龙卷风已致5死33伤](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E9%BE%99%E5%8D%B7%E9%A3%8E%E5%B7%B2%E8%87%B45%E6%AD%BB33%E4%BC%A4%23&t=31&band_rank=10&Refer=top) 1443367
 1. [4个何炅](https://s.weibo.com/weibo?q=%234%E4%B8%AA%E4%BD%95%E7%82%85%23&t=31&band_rank=1&Refer=top) 1041676
 1. [郝蕾怒批赵晴](https://s.weibo.com/weibo?q=%E9%83%9D%E8%95%BE%E6%80%92%E6%89%B9%E8%B5%B5%E6%99%B4&t=31&band_rank=2&Refer=top) 883098
@@ -43,6 +43,7 @@
 1. [广州多处铁皮厂房坍塌有人受伤](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%A4%9A%E5%A4%84%E9%93%81%E7%9A%AE%E5%8E%82%E6%88%BF%E5%9D%8D%E5%A1%8C%E6%9C%89%E4%BA%BA%E5%8F%97%E4%BC%A4%23&t=31&band_rank=30&Refer=top) 183133
 1. [王锵 吻技生疏](https://s.weibo.com/weibo?q=%E7%8E%8B%E9%94%B5%20%E5%90%BB%E6%8A%80%E7%94%9F%E7%96%8F&t=31&band_rank=31&Refer=top) 182239
 1. [周也嗑到张子枫胡先煦了](https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%B9%9F%E5%97%91%E5%88%B0%E5%BC%A0%E5%AD%90%E6%9E%AB%E8%83%A1%E5%85%88%E7%85%A6%E4%BA%86%23&t=31&band_rank=32&Refer=top) 179917
+1. [牛仔裤正在被抛弃吗](https://s.weibo.com/weibo?q=%23%E7%89%9B%E4%BB%94%E8%A3%A4%E6%AD%A3%E5%9C%A8%E8%A2%AB%E6%8A%9B%E5%BC%83%E5%90%97%23&t=31&band_rank=50&Refer=top) 175215
 1. [第一次出国发朋友圈被同事警告了](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%87%BA%E5%9B%BD%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%88%E8%A2%AB%E5%90%8C%E4%BA%8B%E8%AD%A6%E5%91%8A%E4%BA%86%23&t=31&band_rank=33&Refer=top) 171631
 1. [Jennie去了seventeen演唱会](https://s.weibo.com/weibo?q=%23Jennie%E5%8E%BB%E4%BA%86seventeen%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=34&Refer=top) 171072
 1. [男朋友送的22岁生日礼物](https://s.weibo.com/weibo?q=%23%E7%94%B7%E6%9C%8B%E5%8F%8B%E9%80%81%E7%9A%8422%E5%B2%81%E7%94%9F%E6%97%A5%E7%A4%BC%E7%89%A9%23&t=31&band_rank=35&Refer=top) 157541
@@ -58,7 +59,6 @@
 1. [苗苗好甜](https://s.weibo.com/weibo?q=%E8%8B%97%E8%8B%97%E5%A5%BD%E7%94%9C&t=31&band_rank=46&Refer=top) 121942
 1. [迪丽热巴提裙对视](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%8F%90%E8%A3%99%E5%AF%B9%E8%A7%86%23&t=31&band_rank=47&Refer=top) 112571
 1. [现在年轻人久坐问题有多普遍](https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B9%85%E5%9D%90%E9%97%AE%E9%A2%98%E6%9C%89%E5%A4%9A%E6%99%AE%E9%81%8D%23&t=31&band_rank=48&Refer=top) 112333
-1. [牛仔裤正在被抛弃吗](https://s.weibo.com/weibo?q=%23%E7%89%9B%E4%BB%94%E8%A3%A4%E6%AD%A3%E5%9C%A8%E8%A2%AB%E6%8A%9B%E5%BC%83%E5%90%97%23&t=31&band_rank=50&Refer=top) 110734
 1. [每天多睡1小时能有多大好处](https://s.weibo.com/weibo?q=%23%E6%AF%8F%E5%A4%A9%E5%A4%9A%E7%9D%A11%E5%B0%8F%E6%97%B6%E8%83%BD%E6%9C%89%E5%A4%9A%E5%A4%A7%E5%A5%BD%E5%A4%84%23&t=31&band_rank=46&Refer=top) 102838
 1. [明日方舟迷宫饭](https://s.weibo.com/weibo?q=%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F%E8%BF%B7%E5%AE%AB%E9%A5%AD&t=31&band_rank=49&Refer=top) 95396
 1. [苗苗一公舞台](https://s.weibo.com/weibo?q=%23%E8%8B%97%E8%8B%97%E4%B8%80%E5%85%AC%E8%88%9E%E5%8F%B0%23&t=31&band_rank=48&Refer=top) 94587
@@ -66,6 +66,7 @@
 1. [我只喜欢你的人设](https://s.weibo.com/weibo?q=%E6%88%91%E5%8F%AA%E5%96%9C%E6%AC%A2%E4%BD%A0%E7%9A%84%E4%BA%BA%E8%AE%BE&t=31&band_rank=48&Refer=top) 82788
 1. [林更新回应太瘦了](https://s.weibo.com/weibo?q=%23%E6%9E%97%E6%9B%B4%E6%96%B0%E5%9B%9E%E5%BA%94%E5%A4%AA%E7%98%A6%E4%BA%86%23&t=31&band_rank=45&Refer=top) 75489
 1. [广州发布今年首个雷雨大风红色预警](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%8F%91%E5%B8%83%E4%BB%8A%E5%B9%B4%E9%A6%96%E4%B8%AA%E9%9B%B7%E9%9B%A8%E5%A4%A7%E9%A3%8E%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6%23&t=31&band_rank=44&Refer=top) 67600
+1. [邓超说蔡文静脑子好厉害](https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E8%AF%B4%E8%94%A1%E6%96%87%E9%9D%99%E8%84%91%E5%AD%90%E5%A5%BD%E5%8E%89%E5%AE%B3%23&t=31&band_rank=50&Refer=top) 64381
 1. [真正要忌口少吃的蔬菜](https://s.weibo.com/weibo?q=%23%E7%9C%9F%E6%AD%A3%E8%A6%81%E5%BF%8C%E5%8F%A3%E5%B0%91%E5%90%83%E7%9A%84%E8%94%AC%E8%8F%9C%23&t=31&band_rank=45&Refer=top) 59973
 1. [方时赫](https://s.weibo.com/weibo?q=%E6%96%B9%E6%97%B6%E8%B5%AB&t=31&band_rank=30&Refer=top) 59313
 1. [幸福四件套](https://s.weibo.com/weibo?q=%E5%B9%B8%E7%A6%8F%E5%9B%9B%E4%BB%B6%E5%A5%97&t=31&band_rank=46&Refer=top) 57344
@@ -73,16 +74,16 @@
 1. [你的名字无人知晓 你的功绩与世长存](https://s.weibo.com/weibo?q=%E4%BD%A0%E7%9A%84%E5%90%8D%E5%AD%97%E6%97%A0%E4%BA%BA%E7%9F%A5%E6%99%93%20%E4%BD%A0%E7%9A%84%E5%8A%9F%E7%BB%A9%E4%B8%8E%E4%B8%96%E9%95%BF%E5%AD%98&t=31&band_rank=48&Refer=top) 51014
 1. [广州司机致猫死亡事件疑反转](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%8F%B8%E6%9C%BA%E8%87%B4%E7%8C%AB%E6%AD%BB%E4%BA%A1%E4%BA%8B%E4%BB%B6%E7%96%91%E5%8F%8D%E8%BD%AC%23&t=31&band_rank=50&Refer=top) 50303
 1. [眼泪女王白贤佑出车祸](https://s.weibo.com/weibo?q=%23%E7%9C%BC%E6%B3%AA%E5%A5%B3%E7%8E%8B%E7%99%BD%E8%B4%A4%E4%BD%91%E5%87%BA%E8%BD%A6%E7%A5%B8%23&t=31&band_rank=37&Refer=top) 45515
+1. [广东最大的水库开闸泄洪](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%9C%80%E5%A4%A7%E7%9A%84%E6%B0%B4%E5%BA%93%E5%BC%80%E9%97%B8%E6%B3%84%E6%B4%AA%23&t=31&band_rank=42&Refer=top) 44635
 1. [中岛美嘉 音乐就是救命稻草](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%B2%9B%E7%BE%8E%E5%98%89%20%E9%9F%B3%E4%B9%90%E5%B0%B1%E6%98%AF%E6%95%91%E5%91%BD%E7%A8%BB%E8%8D%89&t=31&band_rank=34&Refer=top) 42385
 1. [天津泡泡岛音乐节](https://s.weibo.com/weibo?q=%E5%A4%A9%E6%B4%A5%E6%B3%A1%E6%B3%A1%E5%B2%9B%E9%9F%B3%E4%B9%90%E8%8A%82&t=31&band_rank=47&Refer=top) 41486
-1. [邓超说蔡文静脑子好厉害](https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E8%AF%B4%E8%94%A1%E6%96%87%E9%9D%99%E8%84%91%E5%AD%90%E5%A5%BD%E5%8E%89%E5%AE%B3%23&t=31&band_rank=50&Refer=top) 41231
-1. [广东最大的水库开闸泄洪](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%9C%80%E5%A4%A7%E7%9A%84%E6%B0%B4%E5%BA%93%E5%BC%80%E9%97%B8%E6%B3%84%E6%B4%AA%23&t=31&band_rank=42&Refer=top) 40812
-1. [外国游客3个月爆买1.75万亿日元](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%9B%BD%E6%B8%B8%E5%AE%A23%E4%B8%AA%E6%9C%88%E7%88%86%E4%B9%B01.75%E4%B8%87%E4%BA%BF%E6%97%A5%E5%85%83%23&t=31&band_rank=34&Refer=top) 32461
+1. [外国游客3个月爆买1.75万亿日元](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%9B%BD%E6%B8%B8%E5%AE%A23%E4%B8%AA%E6%9C%88%E7%88%86%E4%B9%B01.75%E4%B8%87%E4%BA%BF%E6%97%A5%E5%85%83%23&t=31&band_rank=34&Refer=top) 37406
+1. [年轻人想赚快钱不用不好意思](https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%83%B3%E8%B5%9A%E5%BF%AB%E9%92%B1%E4%B8%8D%E7%94%A8%E4%B8%8D%E5%A5%BD%E6%84%8F%E6%80%9D%23&t=31&band_rank=49&Refer=top) 34476
 1. [maestro饭拍视频](https://s.weibo.com/weibo?q=maestro%E9%A5%AD%E6%8B%8D%E8%A7%86%E9%A2%91&t=31&band_rank=48&Refer=top) 29793
-1. [年轻人想赚快钱不用不好意思](https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%83%B3%E8%B5%9A%E5%BF%AB%E9%92%B1%E4%B8%8D%E7%94%A8%E4%B8%8D%E5%A5%BD%E6%84%8F%E6%80%9D%23&t=31&band_rank=49&Refer=top) 29189
-1. [小龙虾为什么大降价](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%BE%99%E8%99%BE%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%A7%E9%99%8D%E4%BB%B7%23&t=31&band_rank=50&Refer=top) 22116
-1. [碓冰拓海 一如既往的帅](https://s.weibo.com/weibo?q=%E7%A2%93%E5%86%B0%E6%8B%93%E6%B5%B7%20%E4%B8%80%E5%A6%82%E6%97%A2%E5%BE%80%E7%9A%84%E5%B8%85&t=31&band_rank=49&Refer=top) 22022
-1. [第一次见这么肥美的大熊猫](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E8%BF%99%E4%B9%88%E8%82%A5%E7%BE%8E%E7%9A%84%E5%A4%A7%E7%86%8A%E7%8C%AB%23&t=31&band_rank=50&Refer=top) 22008
+1. [小龙虾为什么大降价](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%BE%99%E8%99%BE%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%A7%E9%99%8D%E4%BB%B7%23&t=31&band_rank=50&Refer=top) 28030
+1. [第一次见这么肥美的大熊猫](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E8%BF%99%E4%B9%88%E8%82%A5%E7%BE%8E%E7%9A%84%E5%A4%A7%E7%86%8A%E7%8C%AB%23&t=31&band_rank=50&Refer=top) 24755
+1. [刘嘉玲梁朝伟国外度假](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%98%89%E7%8E%B2%E6%A2%81%E6%9C%9D%E4%BC%9F%E5%9B%BD%E5%A4%96%E5%BA%A6%E5%81%87%23&t=31&band_rank=47&Refer=top) 24719
+1. [碓冰拓海 一如既往的帅](https://s.weibo.com/weibo?q=%E7%A2%93%E5%86%B0%E6%8B%93%E6%B5%B7%20%E4%B8%80%E5%A6%82%E6%97%A2%E5%BE%80%E7%9A%84%E5%B8%85&t=31&band_rank=49&Refer=top) 24680
 1. [97年生交警被86岁奶奶叫叔叔](https://s.weibo.com/weibo?q=%2397%E5%B9%B4%E7%94%9F%E4%BA%A4%E8%AD%A6%E8%A2%AB86%E5%B2%81%E5%A5%B6%E5%A5%B6%E5%8F%AB%E5%8F%94%E5%8F%94%23&t=31&band_rank=50&Refer=top) 16526
 <!-- END -->
 
