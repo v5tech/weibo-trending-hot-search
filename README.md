@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-04-28 04:34:46.434473 
-![2024-04-28](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240428/2024-04-28.png?versionId=4_z8fbbed132d73df8689c40f13_f10934e0904707647_d20240427_m203446_c005_v0501020_t0032_u01714250086018) 
+最后更新时间 2024-04-28 04:49:22.953157 
+![2024-04-28](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240428/2024-04-28.png?versionId=4_z8fbbed132d73df8689c40f13_f102e5af239b4ef25_d20240427_m204922_c005_v0501017_t0017_u01714250962896) 
 1. [广州龙卷风已致5死33伤](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E9%BE%99%E5%8D%B7%E9%A3%8E%E5%B7%B2%E8%87%B45%E6%AD%BB33%E4%BC%A4%23&t=31&band_rank=10&Refer=top) 1443367
 1. [4个何炅](https://s.weibo.com/weibo?q=%234%E4%B8%AA%E4%BD%95%E7%82%85%23&t=31&band_rank=1&Refer=top) 1041676
 1. [郝蕾怒批赵晴](https://s.weibo.com/weibo?q=%E9%83%9D%E8%95%BE%E6%80%92%E6%89%B9%E8%B5%B5%E6%99%B4&t=31&band_rank=2&Refer=top) 883098
@@ -79,7 +79,8 @@
 1. [邓超说蔡文静脑子好厉害](https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E8%AF%B4%E8%94%A1%E6%96%87%E9%9D%99%E8%84%91%E5%AD%90%E5%A5%BD%E5%8E%89%E5%AE%B3%23&t=31&band_rank=50&Refer=top) 34388
 1. [maestro饭拍视频](https://s.weibo.com/weibo?q=maestro%E9%A5%AD%E6%8B%8D%E8%A7%86%E9%A2%91&t=31&band_rank=48&Refer=top) 29793
 1. [第一次见这么肥美的大熊猫](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E8%BF%99%E4%B9%88%E8%82%A5%E7%BE%8E%E7%9A%84%E5%A4%A7%E7%86%8A%E7%8C%AB%23&t=31&band_rank=50&Refer=top) 18348
-1. [碓冰拓海 一如既往的帅](https://s.weibo.com/weibo?q=%E7%A2%93%E5%86%B0%E6%8B%93%E6%B5%B7%20%E4%B8%80%E5%A6%82%E6%97%A2%E5%BE%80%E7%9A%84%E5%B8%85&t=31&band_rank=49&Refer=top) 16333
+1. [碓冰拓海 一如既往的帅](https://s.weibo.com/weibo?q=%E7%A2%93%E5%86%B0%E6%8B%93%E6%B5%B7%20%E4%B8%80%E5%A6%82%E6%97%A2%E5%BE%80%E7%9A%84%E5%B8%85&t=31&band_rank=49&Refer=top) 16549
+1. [97年生交警被86岁奶奶叫叔叔](https://s.weibo.com/weibo?q=%2397%E5%B9%B4%E7%94%9F%E4%BA%A4%E8%AD%A6%E8%A2%AB86%E5%B2%81%E5%A5%B6%E5%A5%B6%E5%8F%AB%E5%8F%94%E5%8F%94%23&t=31&band_rank=50&Refer=top) 16526
 <!-- END -->
 
 历史归档 [./archives](./archives)
