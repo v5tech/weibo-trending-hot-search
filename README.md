@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-04-28 02:13:01.484947 
-![2024-04-28](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240428/2024-04-28.png?versionId=4_z8fbbed132d73df8689c40f13_f1156e0f8b5ff7cb7_d20240427_m181301_c005_v0501000_t0051_u01714241581433) 
+最后更新时间 2024-04-28 02:27:14.822647 
+![2024-04-28](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240428/2024-04-28.png?versionId=4_z8fbbed132d73df8689c40f13_f118222048ccdd82a_d20240427_m182714_c005_v0501009_t0009_u01714242434462) 
 1. [广州龙卷风已致5死33伤](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E9%BE%99%E5%8D%B7%E9%A3%8E%E5%B7%B2%E8%87%B45%E6%AD%BB33%E4%BC%A4%23&t=31&band_rank=10&Refer=top) 1443367
 1. [4个何炅](https://s.weibo.com/weibo?q=%234%E4%B8%AA%E4%BD%95%E7%82%85%23&t=31&band_rank=1&Refer=top) 1041676
 1. [郝蕾怒批赵晴](https://s.weibo.com/weibo?q=%E9%83%9D%E8%95%BE%E6%80%92%E6%89%B9%E8%B5%B5%E6%99%B4&t=31&band_rank=2&Refer=top) 883098
@@ -71,7 +71,9 @@
 1. [你的名字无人知晓 你的功绩与世长存](https://s.weibo.com/weibo?q=%E4%BD%A0%E7%9A%84%E5%90%8D%E5%AD%97%E6%97%A0%E4%BA%BA%E7%9F%A5%E6%99%93%20%E4%BD%A0%E7%9A%84%E5%8A%9F%E7%BB%A9%E4%B8%8E%E4%B8%96%E9%95%BF%E5%AD%98&t=31&band_rank=48&Refer=top) 51014
 1. [广州司机致猫死亡事件疑反转](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%8F%B8%E6%9C%BA%E8%87%B4%E7%8C%AB%E6%AD%BB%E4%BA%A1%E4%BA%8B%E4%BB%B6%E7%96%91%E5%8F%8D%E8%BD%AC%23&t=31&band_rank=50&Refer=top) 50303
 1. [眼泪女王白贤佑出车祸](https://s.weibo.com/weibo?q=%23%E7%9C%BC%E6%B3%AA%E5%A5%B3%E7%8E%8B%E7%99%BD%E8%B4%A4%E4%BD%91%E5%87%BA%E8%BD%A6%E7%A5%B8%23&t=31&band_rank=37&Refer=top) 45515
+1. [中岛美嘉 音乐就是救命稻草](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%B2%9B%E7%BE%8E%E5%98%89%20%E9%9F%B3%E4%B9%90%E5%B0%B1%E6%98%AF%E6%95%91%E5%91%BD%E7%A8%BB%E8%8D%89&t=31&band_rank=34&Refer=top) 42385
 1. [天津泡泡岛音乐节](https://s.weibo.com/weibo?q=%E5%A4%A9%E6%B4%A5%E6%B3%A1%E6%B3%A1%E5%B2%9B%E9%9F%B3%E4%B9%90%E8%8A%82&t=31&band_rank=47&Refer=top) 41486
+1. [广州发布今年首个雷雨大风红色预警](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%8F%91%E5%B8%83%E4%BB%8A%E5%B9%B4%E9%A6%96%E4%B8%AA%E9%9B%B7%E9%9B%A8%E5%A4%A7%E9%A3%8E%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6%23&t=31&band_rank=44&Refer=top) 35208
 <!-- END -->
 
 历史归档 [./archives](./archives)
