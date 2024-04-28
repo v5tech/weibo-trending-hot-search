@@ -7,15 +7,15 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-04-29 01:34:57.062727 
-![2024-04-29](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240429/2024-04-29.png?versionId=4_z8fbbed132d73df8689c40f13_f1191dc57be19b8d1_d20240428_m173455_c005_v0501017_t0037_u01714325695940) 
+最后更新时间 2024-04-29 01:49:15.587418 
+![2024-04-29](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240429/2024-04-29.png?versionId=4_z8fbbed132d73df8689c40f13_f1146e11dab79757f_d20240428_m174915_c005_v0501020_t0024_u01714326555407) 
 1. [宋雨琦 反正他们听不懂](https://s.weibo.com/weibo?q=%E5%AE%8B%E9%9B%A8%E7%90%A6%20%E5%8F%8D%E6%AD%A3%E4%BB%96%E4%BB%AC%E5%90%AC%E4%B8%8D%E6%87%82&t=31&band_rank=6&Refer=top) 736542
 1. [官方通报广州一女子商场跳楼砸中人](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%B9%BF%E5%B7%9E%E4%B8%80%E5%A5%B3%E5%AD%90%E5%95%86%E5%9C%BA%E8%B7%B3%E6%A5%BC%E7%A0%B8%E4%B8%AD%E4%BA%BA%23&t=31&band_rank=1&Refer=top) 638908
 1. [中国航天员完成在轨交接](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%91%98%E5%AE%8C%E6%88%90%E5%9C%A8%E8%BD%A8%E4%BA%A4%E6%8E%A5%23&t=31&band_rank=3&Refer=top) 533919
 1. [张颂文回应砍价被吐槽穷酸](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%A2%82%E6%96%87%E5%9B%9E%E5%BA%94%E7%A0%8D%E4%BB%B7%E8%A2%AB%E5%90%90%E6%A7%BD%E7%A9%B7%E9%85%B8%23&t=31&band_rank=4&Refer=top) 533307
 1. [海仁墓碑](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E4%BB%81%E5%A2%93%E7%A2%91%23&t=31&band_rank=5&Refer=top) 532514
 1. [海仁活到了84岁](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E4%BB%81%E6%B4%BB%E5%88%B0%E4%BA%8684%E5%B2%81%23&t=31&band_rank=2&Refer=top) 486091
-1. [会长是女仆大人 碓冰拓海](https://s.weibo.com/weibo?q=%E4%BC%9A%E9%95%BF%E6%98%AF%E5%A5%B3%E4%BB%86%E5%A4%A7%E4%BA%BA%20%E7%A2%93%E5%86%B0%E6%8B%93%E6%B5%B7&t=31&band_rank=39&Refer=top) 384818
+1. [会长是女仆大人 碓冰拓海](https://s.weibo.com/weibo?q=%E4%BC%9A%E9%95%BF%E6%98%AF%E5%A5%B3%E4%BB%86%E5%A4%A7%E4%BA%BA%20%E7%A2%93%E5%86%B0%E6%8B%93%E6%B5%B7&t=31&band_rank=39&Refer=top) 391771
 1. [眼泪女王大结局](https://s.weibo.com/weibo?q=%E7%9C%BC%E6%B3%AA%E5%A5%B3%E7%8E%8B%E5%A4%A7%E7%BB%93%E5%B1%80&t=31&band_rank=7&Refer=top) 369045
 1. [张雨绮是怎么发现这个赛道的](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%A8%E7%BB%AE%E6%98%AF%E6%80%8E%E4%B9%88%E5%8F%91%E7%8E%B0%E8%BF%99%E4%B8%AA%E8%B5%9B%E9%81%93%E7%9A%84%23&t=31&band_rank=12&Refer=top) 368503
 1. [民宿涨价1500后被退单平台只赔230](https://s.weibo.com/weibo?q=%23%E6%B0%91%E5%AE%BF%E6%B6%A8%E4%BB%B71500%E5%90%8E%E8%A2%AB%E9%80%80%E5%8D%95%E5%B9%B3%E5%8F%B0%E5%8F%AA%E8%B5%94230%23&t=31&band_rank=20&Refer=top) 360145
@@ -65,6 +65,7 @@
 1. [继续前行吧 不够善良的我们](https://s.weibo.com/weibo?q=%E7%BB%A7%E7%BB%AD%E5%89%8D%E8%A1%8C%E5%90%A7%20%E4%B8%8D%E5%A4%9F%E5%96%84%E8%89%AF%E7%9A%84%E6%88%91%E4%BB%AC&t=31&band_rank=36&Refer=top) 77333
 1. [陈少熙是懂M3的](https://s.weibo.com/weibo?q=%E9%99%88%E5%B0%91%E7%86%99%E6%98%AF%E6%87%82M3%E7%9A%84&t=31&band_rank=43&Refer=top) 76707
 1. [眼泪女王杀青宴好像婚闹现场](https://s.weibo.com/weibo?q=%23%E7%9C%BC%E6%B3%AA%E5%A5%B3%E7%8E%8B%E6%9D%80%E9%9D%92%E5%AE%B4%E5%A5%BD%E5%83%8F%E5%A9%9A%E9%97%B9%E7%8E%B0%E5%9C%BA%23&t=31&band_rank=47&Refer=top) 70677
+1. [男子曾获老师无偿资助回母校捐款50万](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%9B%BE%E8%8E%B7%E8%80%81%E5%B8%88%E6%97%A0%E5%81%BF%E8%B5%84%E5%8A%A9%E5%9B%9E%E6%AF%8D%E6%A0%A1%E6%8D%90%E6%AC%BE50%E4%B8%87%23&t=31&band_rank=27&Refer=top) 66151
 1. [邓超陈赫能玩到一起的原因](https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E9%99%88%E8%B5%AB%E8%83%BD%E7%8E%A9%E5%88%B0%E4%B8%80%E8%B5%B7%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=41&Refer=top) 66043
 1. [眼泪女王](https://s.weibo.com/weibo?q=%E7%9C%BC%E6%B3%AA%E5%A5%B3%E7%8E%8B&t=31&band_rank=37&Refer=top) 64287
 1. [雷军称小米造车投入了半个家底](https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E7%A7%B0%E5%B0%8F%E7%B1%B3%E9%80%A0%E8%BD%A6%E6%8A%95%E5%85%A5%E4%BA%86%E5%8D%8A%E4%B8%AA%E5%AE%B6%E5%BA%95%23&t=31&band_rank=49&Refer=top) 62041
