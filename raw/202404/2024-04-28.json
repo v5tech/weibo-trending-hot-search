@@ -47,6 +47,10 @@
     "url": "https://s.weibo.com/weibo?q=%23iPhone%E5%85%85%E7%94%B5%E5%88%87%E5%8B%BF%E6%94%BE%E6%9E%95%E5%A4%B4%E4%B8%8B%23&t=31&band_rank=24&Refer=top",
     "hot": 1033087
   },
+  "美国多人使用吸血鬼面膜感染HIV": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A4%9A%E4%BA%BA%E4%BD%BF%E7%94%A8%E5%90%B8%E8%A1%80%E9%AC%BC%E9%9D%A2%E8%86%9C%E6%84%9F%E6%9F%93HIV%23&t=31&band_rank=39&Refer=top",
+    "hot": 968543
+  },
   "歌手阵容": {
     "url": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E9%98%B5%E5%AE%B9&t=31&band_rank=46&Refer=top",
     "hot": 934836
@@ -74,6 +78,10 @@
   "调休": {
     "url": "https://s.weibo.com/weibo?q=%E8%B0%83%E4%BC%91&t=31&band_rank=12&Refer=top",
     "hot": 780017
+  },
+  "于正回应郝蕾怒批赵晴": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E5%9B%9E%E5%BA%94%E9%83%9D%E8%95%BE%E6%80%92%E6%89%B9%E8%B5%B5%E6%99%B4%23&t=31&band_rank=9&Refer=top",
+    "hot": 768294
   },
   "日本奢侈品白菜价白菜变奢侈品": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A5%A2%E4%BE%88%E5%93%81%E7%99%BD%E8%8F%9C%E4%BB%B7%E7%99%BD%E8%8F%9C%E5%8F%98%E5%A5%A2%E4%BE%88%E5%93%81%23&t=31&band_rank=32&Refer=top",
@@ -135,6 +143,10 @@
     "url": "https://s.weibo.com/weibo?q=%E4%BD%95%E7%91%9E%E4%B9%8B%20%E6%88%91%E5%BE%88%E7%88%B1%E6%88%91%E8%80%81%E5%A9%86&t=31&band_rank=34&Refer=top",
     "hot": 587685
   },
+  "两女子穿和服跳日本舞惹众怒": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%A4%E5%A5%B3%E5%AD%90%E7%A9%BF%E5%92%8C%E6%9C%8D%E8%B7%B3%E6%97%A5%E6%9C%AC%E8%88%9E%E6%83%B9%E4%BC%97%E6%80%92%23&t=31&band_rank=50&Refer=top",
+    "hot": 581308
+  },
   "薛之谦打嗝全场喊退票": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%89%93%E5%97%9D%E5%85%A8%E5%9C%BA%E5%96%8A%E9%80%80%E7%A5%A8%23&t=31&band_rank=37&Refer=top",
     "hot": 548691
@@ -163,10 +175,6 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%23&t=31&band_rank=9&Refer=top",
     "hot": 483305
   },
-  "于正回应郝蕾怒批赵晴": {
-    "url": "https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E5%9B%9E%E5%BA%94%E9%83%9D%E8%95%BE%E6%80%92%E6%89%B9%E8%B5%B5%E6%99%B4%23&t=31&band_rank=9&Refer=top",
-    "hot": 481022
-  },
   "这届医学生唱跳都这么专业嘛": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B1%8A%E5%8C%BB%E5%AD%A6%E7%94%9F%E5%94%B1%E8%B7%B3%E9%83%BD%E8%BF%99%E4%B9%88%E4%B8%93%E4%B8%9A%E5%98%9B%23&t=31&band_rank=9&Refer=top",
     "hot": 479564
@@ -179,13 +187,17 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%BD%AD%E4%BA%8E%E6%99%8F%E7%B4%A0%E9%A2%9C%E9%81%9B%E7%8B%97%E8%A2%AB%E5%81%B6%E9%81%87%23&t=31&band_rank=16&Refer=top",
     "hot": 464272
   },
-  "闹钟没响": {
-    "url": "https://s.weibo.com/weibo?q=%E9%97%B9%E9%92%9F%E6%B2%A1%E5%93%8D&t=31&band_rank=27&Refer=top",
-    "hot": 433735
+  "何炅的伞撑了一个又一个人": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%E7%9A%84%E4%BC%9E%E6%92%91%E4%BA%86%E4%B8%80%E4%B8%AA%E5%8F%88%E4%B8%80%E4%B8%AA%E4%BA%BA%23&t=31&band_rank=19&Refer=top",
+    "hot": 464160
   },
   "通知书到了读研还是结婚": {
     "url": "https://s.weibo.com/weibo?q=%E9%80%9A%E7%9F%A5%E4%B9%A6%E5%88%B0%E4%BA%86%E8%AF%BB%E7%A0%94%E8%BF%98%E6%98%AF%E7%BB%93%E5%A9%9A&t=31&band_rank=32&Refer=top",
-    "hot": 421601
+    "hot": 456483
+  },
+  "闹钟没响": {
+    "url": "https://s.weibo.com/weibo?q=%E9%97%B9%E9%92%9F%E6%B2%A1%E5%93%8D&t=31&band_rank=27&Refer=top",
+    "hot": 433735
   },
   "湖人1比3掘金": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%B9%96%E4%BA%BA1%E6%AF%943%E6%8E%98%E9%87%91%23&t=31&band_rank=18&Refer=top",
@@ -198,10 +210,6 @@
   "眼泪女王是14年前的剧本": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%9C%BC%E6%B3%AA%E5%A5%B3%E7%8E%8B%E6%98%AF14%E5%B9%B4%E5%89%8D%E7%9A%84%E5%89%A7%E6%9C%AC%23&t=31&band_rank=15&Refer=top",
     "hot": 390291
-  },
-  "两女子穿和服跳日本舞惹众怒": {
-    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%A4%E5%A5%B3%E5%AD%90%E7%A9%BF%E5%92%8C%E6%9C%8D%E8%B7%B3%E6%97%A5%E6%9C%AC%E8%88%9E%E6%83%B9%E4%BC%97%E6%80%92%23&t=31&band_rank=50&Refer=top",
-    "hot": 388471
   },
   "詹姆斯被哈姆气到跳脚": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%A9%B9%E5%A7%86%E6%96%AF%E8%A2%AB%E5%93%88%E5%A7%86%E6%B0%94%E5%88%B0%E8%B7%B3%E8%84%9A%23&t=31&band_rank=31&Refer=top",
@@ -226,14 +234,6 @@
   "身上长这种疙瘩是HPV感染": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%BA%AB%E4%B8%8A%E9%95%BF%E8%BF%99%E7%A7%8D%E7%96%99%E7%98%A9%E6%98%AFHPV%E6%84%9F%E6%9F%93%23&t=31&band_rank=39&Refer=top",
     "hot": 374622
-  },
-  "何炅的伞撑了一个又一个人": {
-    "url": "https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%E7%9A%84%E4%BC%9E%E6%92%91%E4%BA%86%E4%B8%80%E4%B8%AA%E5%8F%88%E4%B8%80%E4%B8%AA%E4%BA%BA%23&t=31&band_rank=19&Refer=top",
-    "hot": 372633
-  },
-  "美国多人使用吸血鬼面膜感染HIV": {
-    "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A4%9A%E4%BA%BA%E4%BD%BF%E7%94%A8%E5%90%B8%E8%A1%80%E9%AC%BC%E9%9D%A2%E8%86%9C%E6%84%9F%E6%9F%93HIV%23&t=31&band_rank=39&Refer=top",
-    "hot": 369369
   },
   "翟潇闻难哄出妆": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%BF%9F%E6%BD%87%E9%97%BB%E9%9A%BE%E5%93%84%E5%87%BA%E5%A6%86%23&t=31&band_rank=7&Refer=top",
@@ -315,6 +315,10 @@
     "url": "https://s.weibo.com/weibo?q=%E5%85%89%E4%B8%8E%E5%A4%9C%E4%B9%8B%E6%81%8B%E5%A9%9A%E7%BA%B1&t=31&band_rank=18&Refer=top",
     "hot": 281066
   },
+  "鹿晗邓超陈赫再唱超级英雄": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E9%82%93%E8%B6%85%E9%99%88%E8%B5%AB%E5%86%8D%E5%94%B1%E8%B6%85%E7%BA%A7%E8%8B%B1%E9%9B%84%23&t=31&band_rank=26&Refer=top",
+    "hot": 278418
+  },
   "刘亦菲也会内耗吗": {
     "url": "https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%E4%B9%9F%E4%BC%9A%E5%86%85%E8%80%97%E5%90%97&t=31&band_rank=33&Refer=top",
     "hot": 277806
@@ -326,6 +330,10 @@
   "五一假期多个旅游热门城市下雨": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E5%A4%9A%E4%B8%AA%E6%97%85%E6%B8%B8%E7%83%AD%E9%97%A8%E5%9F%8E%E5%B8%82%E4%B8%8B%E9%9B%A8%23&t=31&band_rank=17&Refer=top",
     "hot": 266912
+  },
+  "老头杯": {
+    "url": "https://s.weibo.com/weibo?q=%E8%80%81%E5%A4%B4%E6%9D%AF&t=31&band_rank=36&Refer=top",
+    "hot": 266433
   },
   "王者荣耀": {
     "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80&t=31&band_rank=14&Refer=top",
@@ -395,6 +403,10 @@
     "url": "https://s.weibo.com/weibo?q=%E7%A7%8D%E5%9C%B0%E5%90%A7%20%E6%B2%A1%E7%9B%B4%E6%92%AD&t=31&band_rank=29&Refer=top",
     "hot": 238982
   },
+  "林峯舌头可以舔到下巴": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%B3%AF%E8%88%8C%E5%A4%B4%E5%8F%AF%E4%BB%A5%E8%88%94%E5%88%B0%E4%B8%8B%E5%B7%B4%23&t=31&band_rank=29&Refer=top",
+    "hot": 232088
+  },
   "只休一天真的好累啊": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%8F%AA%E4%BC%91%E4%B8%80%E5%A4%A9%E7%9C%9F%E7%9A%84%E5%A5%BD%E7%B4%AF%E5%95%8A%23&t=31&band_rank=39&Refer=top",
     "hot": 231696
@@ -419,9 +431,9 @@
     "url": "https://s.weibo.com/weibo?q=%E4%BA%BA%E7%94%9F%E5%AE%B9%E9%94%99%E7%8E%87%E6%AF%94%E4%BD%A0%E6%83%B3%E8%B1%A1%E7%9A%84%E6%9B%B4%E5%A4%A7&t=31&band_rank=35&Refer=top",
     "hot": 221784
   },
-  "老头杯": {
-    "url": "https://s.weibo.com/weibo?q=%E8%80%81%E5%A4%B4%E6%9D%AF&t=31&band_rank=36&Refer=top",
-    "hot": 221578
+  "华为": {
+    "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA&t=31&band_rank=35&Refer=top",
+    "hot": 206824
   },
   "重庆燃气表只有极个别表失准": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E7%87%83%E6%B0%94%E8%A1%A8%E5%8F%AA%E6%9C%89%E6%9E%81%E4%B8%AA%E5%88%AB%E8%A1%A8%E5%A4%B1%E5%87%86%23&t=31&band_rank=30&Refer=top",
@@ -654,6 +666,10 @@
   "广州司机致猫死亡事件疑反转": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%8F%B8%E6%9C%BA%E8%87%B4%E7%8C%AB%E6%AD%BB%E4%BA%A1%E4%BA%8B%E4%BB%B6%E7%96%91%E5%8F%8D%E8%BD%AC%23&t=31&band_rank=50&Refer=top",
     "hot": 135550
+  },
+  "传奇杯": {
+    "url": "https://s.weibo.com/weibo?q=%E4%BC%A0%E5%A5%87%E6%9D%AF&t=31&band_rank=50&Refer=top",
+    "hot": 135079
   },
   "梅西连场进球": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E8%BF%9E%E5%9C%BA%E8%BF%9B%E7%90%83%23&t=31&band_rank=43&Refer=top",
