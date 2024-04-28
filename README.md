@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-04-29 04:49:23.501332 
-![2024-04-29](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240429/2024-04-29.png?versionId=4_z8fbbed132d73df8689c40f13_f104421de2667fbd8_d20240428_m204923_c005_v0501013_t0025_u01714337363435) 
+最后更新时间 2024-04-29 05:10:19.047047 
+![2024-04-29](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240429/2024-04-29.png?versionId=4_z8fbbed132d73df8689c40f13_f11191dc1e93bbd04_d20240428_m211019_c005_v0501002_t0013_u01714338619011) 
 1. [宋雨琦 反正他们听不懂](https://s.weibo.com/weibo?q=%E5%AE%8B%E9%9B%A8%E7%90%A6%20%E5%8F%8D%E6%AD%A3%E4%BB%96%E4%BB%AC%E5%90%AC%E4%B8%8D%E6%87%82&t=31&band_rank=6&Refer=top) 736542
 1. [官方通报广州一女子商场跳楼砸中人](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%B9%BF%E5%B7%9E%E4%B8%80%E5%A5%B3%E5%AD%90%E5%95%86%E5%9C%BA%E8%B7%B3%E6%A5%BC%E7%A0%B8%E4%B8%AD%E4%BA%BA%23&t=31&band_rank=1&Refer=top) 638908
 1. [中国航天员完成在轨交接](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%91%98%E5%AE%8C%E6%88%90%E5%9C%A8%E8%BD%A8%E4%BA%A4%E6%8E%A5%23&t=31&band_rank=3&Refer=top) 533919
@@ -85,8 +85,8 @@
 1. [异地小情侣约好在同一天拔智齿](https://s.weibo.com/weibo?q=%E5%BC%82%E5%9C%B0%E5%B0%8F%E6%83%85%E4%BE%A3%E7%BA%A6%E5%A5%BD%E5%9C%A8%E5%90%8C%E4%B8%80%E5%A4%A9%E6%8B%94%E6%99%BA%E9%BD%BF&t=31&band_rank=41&Refer=top) 22345
 1. [新郎一家开荒给新娘办向日葵婚礼](https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%83%8E%E4%B8%80%E5%AE%B6%E5%BC%80%E8%8D%92%E7%BB%99%E6%96%B0%E5%A8%98%E5%8A%9E%E5%90%91%E6%97%A5%E8%91%B5%E5%A9%9A%E7%A4%BC%23&t=31&band_rank=50&Refer=top) 20535
 1. [张颂文和小白](https://s.weibo.com/weibo?q=%E5%BC%A0%E9%A2%82%E6%96%87%E5%92%8C%E5%B0%8F%E7%99%BD&t=31&band_rank=50&Refer=top) 20434
+1. [国外一位妻子给老公打包午餐](https://s.weibo.com/weibo?q=%E5%9B%BD%E5%A4%96%E4%B8%80%E4%BD%8D%E5%A6%BB%E5%AD%90%E7%BB%99%E8%80%81%E5%85%AC%E6%89%93%E5%8C%85%E5%8D%88%E9%A4%90&t=31&band_rank=40&Refer=top) 20040
 1. [如何三句话跳出自证陷阱](https://s.weibo.com/weibo?q=%E5%A6%82%E4%BD%95%E4%B8%89%E5%8F%A5%E8%AF%9D%E8%B7%B3%E5%87%BA%E8%87%AA%E8%AF%81%E9%99%B7%E9%98%B1&t=31&band_rank=50&Refer=top) 19637
-1. [国外一位妻子给老公打包午餐](https://s.weibo.com/weibo?q=%E5%9B%BD%E5%A4%96%E4%B8%80%E4%BD%8D%E5%A6%BB%E5%AD%90%E7%BB%99%E8%80%81%E5%85%AC%E6%89%93%E5%8C%85%E5%8D%88%E9%A4%90&t=31&band_rank=40&Refer=top) 18834
 <!-- END -->
 
 历史归档 [./archives](./archives)
