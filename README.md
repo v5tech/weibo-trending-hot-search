@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-04-30 03:09:00.920804 
-![2024-04-30](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240430/2024-04-30.png?versionId=4_z8fbbed132d73df8689c40f13_f1178610b3e77efa7_d20240429_m190900_c005_v0501018_t0044_u01714417740395) 
+最后更新时间 2024-04-30 03:19:20.426158 
+![2024-04-30](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240430/2024-04-30.png?versionId=4_z8fbbed132d73df8689c40f13_f11929c00fdfa93b5_d20240429_m191920_c005_v0501007_t0005_u01714418360367) 
 1. [南京胖哥被初诊为PTSD](https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E8%83%96%E5%93%A5%E8%A2%AB%E5%88%9D%E8%AF%8A%E4%B8%BAPTSD%23&t=31&band_rank=1&Refer=top) 789114
 1. [刘宇宁自曝录hi6受伤](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E8%87%AA%E6%9B%9D%E5%BD%95hi6%E5%8F%97%E4%BC%A4%23&t=31&band_rank=2&Refer=top) 779387
 1. [五一公路出行将呈现五大特点](https://s.weibo.com/weibo?q=%23%E4%BA%94%E4%B8%80%E5%85%AC%E8%B7%AF%E5%87%BA%E8%A1%8C%E5%B0%86%E5%91%88%E7%8E%B0%E4%BA%94%E5%A4%A7%E7%89%B9%E7%82%B9%23&t=31&band_rank=3&Refer=top) 604152
