@@ -223,6 +223,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%B6%E8%BD%BB%E7%9C%89%E7%9A%84%E4%BA%BA%E6%B0%94%E9%82%A3%E4%B9%88%E9%AB%98%23&t=31&band_rank=36&Refer=top",
     "hot": 102834
   },
+  "低估了五一堵车的程度": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BD%8E%E4%BC%B0%E4%BA%86%E4%BA%94%E4%B8%80%E5%A0%B5%E8%BD%A6%E7%9A%84%E7%A8%8B%E5%BA%A6%23&t=31&band_rank=40&Refer=top",
+    "hot": 89123
+  },
   "张韶涵昆山演唱会": {
     "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9F%B6%E6%B6%B5%E6%98%86%E5%B1%B1%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=43&Refer=top",
     "hot": 65915
@@ -237,11 +241,7 @@
   },
   "百万粉丝博主为罐子汤放弃减肥": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%99%BE%E4%B8%87%E7%B2%89%E4%B8%9D%E5%8D%9A%E4%B8%BB%E4%B8%BA%E7%BD%90%E5%AD%90%E6%B1%A4%E6%94%BE%E5%BC%83%E5%87%8F%E8%82%A5%23&t=31&band_rank=43&Refer=top",
-    "hot": 44347
-  },
-  "低估了五一堵车的程度": {
-    "url": "https://s.weibo.com/weibo?q=%23%E4%BD%8E%E4%BC%B0%E4%BA%86%E4%BA%94%E4%B8%80%E5%A0%B5%E8%BD%A6%E7%9A%84%E7%A8%8B%E5%BA%A6%23&t=31&band_rank=40&Refer=top",
-    "hot": 40520
+    "hot": 49551
   },
   "春色寄情人": {
     "url": "https://s.weibo.com/weibo?q=%E6%98%A5%E8%89%B2%E5%AF%84%E6%83%85%E4%BA%BA&t=31&band_rank=47&Refer=top",
@@ -251,16 +251,16 @@
     "url": "https://s.weibo.com/weibo?q=%E6%AC%A7%E6%B4%B2%E5%BE%B7%E6%AF%94&t=31&band_rank=43&Refer=top",
     "hot": 30022
   },
+  "中央气象台发强对流天气橙色预警": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%A4%AE%E6%B0%94%E8%B1%A1%E5%8F%B0%E5%8F%91%E5%BC%BA%E5%AF%B9%E6%B5%81%E5%A4%A9%E6%B0%94%E6%A9%99%E8%89%B2%E9%A2%84%E8%AD%A6%23&t=31&band_rank=39&Refer=top",
+    "hot": 25274
+  },
   "院士哽咽介绍医生每天一首琵琶曲延长患者生命": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%99%A2%E5%A3%AB%E5%93%BD%E5%92%BD%E4%BB%8B%E7%BB%8D%E5%8C%BB%E7%94%9F%E6%AF%8F%E5%A4%A9%E4%B8%80%E9%A6%96%E7%90%B5%E7%90%B6%E6%9B%B2%E5%BB%B6%E9%95%BF%E6%82%A3%E8%80%85%E7%94%9F%E5%91%BD%23&t=31&band_rank=38&Refer=top",
     "hot": 21724
   },
-  "中央气象台发强对流天气橙色预警": {
-    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%A4%AE%E6%B0%94%E8%B1%A1%E5%8F%B0%E5%8F%91%E5%BC%BA%E5%AF%B9%E6%B5%81%E5%A4%A9%E6%B0%94%E6%A9%99%E8%89%B2%E9%A2%84%E8%AD%A6%23&t=31&band_rank=39&Refer=top",
-    "hot": 18762
-  },
   "唐九洲 小卡届的神": {
     "url": "https://s.weibo.com/weibo?q=%E5%94%90%E4%B9%9D%E6%B4%B2%20%E5%B0%8F%E5%8D%A1%E5%B1%8A%E7%9A%84%E7%A5%9E&t=31&band_rank=50&Refer=top",
-    "hot": 18134
+    "hot": 18302
   }
 }
