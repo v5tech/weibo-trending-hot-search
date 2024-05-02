@@ -7,10 +7,10 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-05-03 03:09:04.113818 
-![2024-05-03](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240503/2024-05-03.png?versionId=4_z8fbbed132d73df8689c40f13_f1127b276fa307bb1_d20240502_m190904_c005_v0501018_t0047_u01714676944059) 
+最后更新时间 2024-05-03 03:19:26.805227 
+![2024-05-03](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240503/2024-05-03.png?versionId=4_z8fbbed132d73df8689c40f13_f119c3696a76952c2_d20240502_m191926_c005_v0501017_t0045_u01714677566647) 
 1. [小众城市突然爆红](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%97%E5%9F%8E%E5%B8%82%E7%AA%81%E7%84%B6%E7%88%86%E7%BA%A2%23&t=31&band_rank=1&Refer=top) 1563786
-1. [河南大学](https://s.weibo.com/weibo?q=%E6%B2%B3%E5%8D%97%E5%A4%A7%E5%AD%A6&t=31&band_rank=9&Refer=top) 719961
+1. [河南大学](https://s.weibo.com/weibo?q=%E6%B2%B3%E5%8D%97%E5%A4%A7%E5%AD%A6&t=31&band_rank=9&Refer=top) 778167
 1. [观音桥网红天桥因人流火爆而限流](https://s.weibo.com/weibo?q=%23%E8%A7%82%E9%9F%B3%E6%A1%A5%E7%BD%91%E7%BA%A2%E5%A4%A9%E6%A1%A5%E5%9B%A0%E4%BA%BA%E6%B5%81%E7%81%AB%E7%88%86%E8%80%8C%E9%99%90%E6%B5%81%23&t=31&band_rank=2&Refer=top) 486168
 1. [我弟弟就是最好的旅游搭子](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%BC%9F%E5%BC%9F%E5%B0%B1%E6%98%AF%E6%9C%80%E5%A5%BD%E7%9A%84%E6%97%85%E6%B8%B8%E6%90%AD%E5%AD%90%23&t=31&band_rank=8&Refer=top) 478489
 1. [2分钟回顾神十七187天](https://s.weibo.com/weibo?q=%232%E5%88%86%E9%92%9F%E5%9B%9E%E9%A1%BE%E7%A5%9E%E5%8D%81%E4%B8%83187%E5%A4%A9%23&t=31&band_rank=3&Refer=top) 462101
@@ -73,6 +73,7 @@
 1. [灿烂的花园](https://s.weibo.com/weibo?q=%E7%81%BF%E7%83%82%E7%9A%84%E8%8A%B1%E5%9B%AD&t=31&band_rank=48&Refer=top) 53210
 1. [不眠之夜英文版](https://s.weibo.com/weibo?q=%E4%B8%8D%E7%9C%A0%E4%B9%8B%E5%A4%9C%E8%8B%B1%E6%96%87%E7%89%88&t=31&band_rank=50&Refer=top) 31881
 1. [切尔西vs热刺](https://s.weibo.com/weibo?q=%23%E5%88%87%E5%B0%94%E8%A5%BFvs%E7%83%AD%E5%88%BA%23&t=31&band_rank=41&Refer=top) 25097
+1. [WTT沙特大满贯2024](https://s.weibo.com/weibo?q=WTT%E6%B2%99%E7%89%B9%E5%A4%A7%E6%BB%A1%E8%B4%AF2024&t=31&band_rank=49&Refer=top) 20542
 <!-- END -->
 
 历史归档 [./archives](./archives)
