@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-05-04 04:25:41.124213 
-![2024-05-04](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240504/2024-05-04.png?versionId=4_z8fbbed132d73df8689c40f13_f1190f8de1f4d4d14_d20240503_m202540_c005_v0501020_t0058_u01714767940677) 
+最后更新时间 2024-05-04 04:35:28.484041 
+![2024-05-04](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240504/2024-05-04.png?versionId=4_z8fbbed132d73df8689c40f13_f107d3a9dd83f2edd_d20240503_m203528_c005_v0501018_t0026_u01714768528421) 
 1. [演唱会是一个巨大的乌托邦](https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%94%B1%E4%BC%9A%E6%98%AF%E4%B8%80%E4%B8%AA%E5%B7%A8%E5%A4%A7%E7%9A%84%E4%B9%8C%E6%89%98%E9%82%A6%23&t=31&band_rank=2&Refer=top) 1021874
 1. [正式被确诊为淡淡综合症](https://s.weibo.com/weibo?q=%23%E6%AD%A3%E5%BC%8F%E8%A2%AB%E7%A1%AE%E8%AF%8A%E4%B8%BA%E6%B7%A1%E6%B7%A1%E7%BB%BC%E5%90%88%E7%97%87%23&t=31&band_rank=1&Refer=top) 813422
 1. [文化中国行我写家乡](https://s.weibo.com/weibo?q=%23%E6%96%87%E5%8C%96%E4%B8%AD%E5%9B%BD%E8%A1%8C%E6%88%91%E5%86%99%E5%AE%B6%E4%B9%A1%23&t=31&band_rank=3&Refer=top) 519802
