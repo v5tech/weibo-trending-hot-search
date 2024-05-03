@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-05-04 05:22:28.374670 
-![2024-05-04](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240504/2024-05-04.png?versionId=4_z8fbbed132d73df8689c40f13_f104845d890871b7a_d20240503_m212227_c005_v0501020_t0004_u01714771347918) 
+最后更新时间 2024-05-04 05:34:48.065528 
+![2024-05-04](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240504/2024-05-04.png?versionId=4_z8fbbed132d73df8689c40f13_f1108c22935896a56_d20240503_m213448_c005_v0501008_t0036_u01714772088001) 
 1. [演唱会是一个巨大的乌托邦](https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%94%B1%E4%BC%9A%E6%98%AF%E4%B8%80%E4%B8%AA%E5%B7%A8%E5%A4%A7%E7%9A%84%E4%B9%8C%E6%89%98%E9%82%A6%23&t=31&band_rank=2&Refer=top) 1021874
 1. [正式被确诊为淡淡综合症](https://s.weibo.com/weibo?q=%23%E6%AD%A3%E5%BC%8F%E8%A2%AB%E7%A1%AE%E8%AF%8A%E4%B8%BA%E6%B7%A1%E6%B7%A1%E7%BB%BC%E5%90%88%E7%97%87%23&t=31&band_rank=1&Refer=top) 813422
 1. [文化中国行我写家乡](https://s.weibo.com/weibo?q=%23%E6%96%87%E5%8C%96%E4%B8%AD%E5%9B%BD%E8%A1%8C%E6%88%91%E5%86%99%E5%AE%B6%E4%B9%A1%23&t=31&band_rank=3&Refer=top) 519802
@@ -79,6 +79,7 @@
 1. [发炎其实是人类的超能力](https://s.weibo.com/weibo?q=%23%E5%8F%91%E7%82%8E%E5%85%B6%E5%AE%9E%E6%98%AF%E4%BA%BA%E7%B1%BB%E7%9A%84%E8%B6%85%E8%83%BD%E5%8A%9B%23&t=31&band_rank=43&Refer=top) 40930
 1. [背书时就能看见骨子里的谦让](https://s.weibo.com/weibo?q=%E8%83%8C%E4%B9%A6%E6%97%B6%E5%B0%B1%E8%83%BD%E7%9C%8B%E8%A7%81%E9%AA%A8%E5%AD%90%E9%87%8C%E7%9A%84%E8%B0%A6%E8%AE%A9&t=31&band_rank=46&Refer=top) 34834
 1. [梅大高速救人的白衣黑裤小伙找到了](https://s.weibo.com/weibo?q=%23%E6%A2%85%E5%A4%A7%E9%AB%98%E9%80%9F%E6%95%91%E4%BA%BA%E7%9A%84%E7%99%BD%E8%A1%A3%E9%BB%91%E8%A3%A4%E5%B0%8F%E4%BC%99%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=50&Refer=top) 34819
+1. [美国和沙特将达成历史性协议](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%92%8C%E6%B2%99%E7%89%B9%E5%B0%86%E8%BE%BE%E6%88%90%E5%8E%86%E5%8F%B2%E6%80%A7%E5%8D%8F%E8%AE%AE%23&t=31&band_rank=42&Refer=top) 34707
 <!-- END -->
 
 历史归档 [./archives](./archives)
