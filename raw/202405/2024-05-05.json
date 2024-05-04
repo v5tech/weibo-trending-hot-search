@@ -61,7 +61,7 @@
   },
   "歌手2024": {
     "url": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B2024&t=31&band_rank=20&Refer=top",
-    "hot": 228220
+    "hot": 229484
   },
   "张杰青年节唱少年中国说": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E9%9D%92%E5%B9%B4%E8%8A%82%E5%94%B1%E5%B0%91%E5%B9%B4%E4%B8%AD%E5%9B%BD%E8%AF%B4%23&t=31&band_rank=17&Refer=top",
@@ -206,5 +206,13 @@
   "逐花归海首秀首胜": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%80%90%E8%8A%B1%E5%BD%92%E6%B5%B7%E9%A6%96%E7%A7%80%E9%A6%96%E8%83%9C%23&t=31&band_rank=49&Refer=top",
     "hot": 207892
+  },
+  "网友曾在泰妍家住宿": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E6%9B%BE%E5%9C%A8%E6%B3%B0%E5%A6%8D%E5%AE%B6%E4%BD%8F%E5%AE%BF%23&t=31&band_rank=13&Refer=top",
+    "hot": 194137
+  },
+  "张真源绿海": {
+    "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E7%9C%9F%E6%BA%90%E7%BB%BF%E6%B5%B7&t=31&band_rank=48&Refer=top",
+    "hot": 161181
   }
 }
