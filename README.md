@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-05-06 00:30:06.411905 
-![2024-05-06](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240506/2024-05-06.png?versionId=4_z8fbbed132d73df8689c40f13_f115697b2dd543728_d20240505_m163005_c005_v0501004_t0015_u01714926605972) 
+最后更新时间 2024-05-06 00:39:22.972945 
+![2024-05-06](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240506/2024-05-06.png?versionId=4_z8fbbed132d73df8689c40f13_f1115aa8fa94f0c58_d20240505_m163922_c005_v0501016_t0006_u01714927162124) 
 1. [看腿就知道你血糖高了](https://s.weibo.com/weibo?q=%23%E7%9C%8B%E8%85%BF%E5%B0%B1%E7%9F%A5%E9%81%93%E4%BD%A0%E8%A1%80%E7%B3%96%E9%AB%98%E4%BA%86%23&t=31&band_rank=1&Refer=top) 773083
 1. [凤凰传奇观众被质疑假唱](https://s.weibo.com/weibo?q=%23%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E8%A7%82%E4%BC%97%E8%A2%AB%E8%B4%A8%E7%96%91%E5%81%87%E5%94%B1%23&t=31&band_rank=2&Refer=top) 714743
 1. [数说中法合作亮眼成绩单](https://s.weibo.com/weibo?q=%23%E6%95%B0%E8%AF%B4%E4%B8%AD%E6%B3%95%E5%90%88%E4%BD%9C%E4%BA%AE%E7%9C%BC%E6%88%90%E7%BB%A9%E5%8D%95%23&t=31&band_rank=3&Refer=top) 629750
@@ -60,6 +60,8 @@
 1. [一夫妻驾驶特斯拉冲下山路不幸身亡](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%A4%AB%E5%A6%BB%E9%A9%BE%E9%A9%B6%E7%89%B9%E6%96%AF%E6%8B%89%E5%86%B2%E4%B8%8B%E5%B1%B1%E8%B7%AF%E4%B8%8D%E5%B9%B8%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=49&Refer=top) 93409
 1. [黄子韬徐艺洋吵架受伤的是姜潮](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%BE%90%E8%89%BA%E6%B4%8B%E5%90%B5%E6%9E%B6%E5%8F%97%E4%BC%A4%E7%9A%84%E6%98%AF%E5%A7%9C%E6%BD%AE%23&t=31&band_rank=50&Refer=top) 92146
 1. [MSI赛程](https://s.weibo.com/weibo?q=MSI%E8%B5%9B%E7%A8%8B&t=31&band_rank=49&Refer=top) 78693
+1. [为什么年轻人流行偷偷领证](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%B5%81%E8%A1%8C%E5%81%B7%E5%81%B7%E9%A2%86%E8%AF%81%23&t=31&band_rank=45&Refer=top) 73340
+1. [金秀贤金智媛ins更新照](https://s.weibo.com/weibo?q=%23%E9%87%91%E7%A7%80%E8%B4%A4%E9%87%91%E6%99%BA%E5%AA%9Bins%E6%9B%B4%E6%96%B0%E7%85%A7%23&t=31&band_rank=50&Refer=top) 60870
 <!-- END -->
 
 历史归档 [./archives](./archives)
