@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-05-06 03:49:28.596385 
-![2024-05-06](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240506/2024-05-06.png?versionId=4_z8fbbed132d73df8689c40f13_f116fef117ac23727_d20240505_m194928_c005_v0501020_t0043_u01714938568201) 
+最后更新时间 2024-05-06 04:11:12.723103 
+![2024-05-06](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240506/2024-05-06.png?versionId=4_z8fbbed132d73df8689c40f13_f1199cc8173c6fa1c_d20240505_m201112_c005_v0501019_t0049_u01714939872565) 
 1. [看腿就知道你血糖高了](https://s.weibo.com/weibo?q=%23%E7%9C%8B%E8%85%BF%E5%B0%B1%E7%9F%A5%E9%81%93%E4%BD%A0%E8%A1%80%E7%B3%96%E9%AB%98%E4%BA%86%23&t=31&band_rank=1&Refer=top) 773083
 1. [凤凰传奇观众被质疑假唱](https://s.weibo.com/weibo?q=%23%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E8%A7%82%E4%BC%97%E8%A2%AB%E8%B4%A8%E7%96%91%E5%81%87%E5%94%B1%23&t=31&band_rank=2&Refer=top) 714743
 1. [数说中法合作亮眼成绩单](https://s.weibo.com/weibo?q=%23%E6%95%B0%E8%AF%B4%E4%B8%AD%E6%B3%95%E5%90%88%E4%BD%9C%E4%BA%AE%E7%9C%BC%E6%88%90%E7%BB%A9%E5%8D%95%23&t=31&band_rank=3&Refer=top) 629750
@@ -75,7 +75,7 @@
 1. [一晚两场演唱会民警人海硬控忙不停](https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%99%9A%E4%B8%A4%E5%9C%BA%E6%BC%94%E5%94%B1%E4%BC%9A%E6%B0%91%E8%AD%A6%E4%BA%BA%E6%B5%B7%E7%A1%AC%E6%8E%A7%E5%BF%99%E4%B8%8D%E5%81%9C%23&t=31&band_rank=47&Refer=top) 34330
 1. [麦当娜160万人演唱会](https://s.weibo.com/weibo?q=%E9%BA%A6%E5%BD%93%E5%A8%9C160%E4%B8%87%E4%BA%BA%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=49&Refer=top) 29615
 1. [毕业后唯一没还给老师的品质](https://s.weibo.com/weibo?q=%E6%AF%95%E4%B8%9A%E5%90%8E%E5%94%AF%E4%B8%80%E6%B2%A1%E8%BF%98%E7%BB%99%E8%80%81%E5%B8%88%E7%9A%84%E5%93%81%E8%B4%A8&t=31&band_rank=42&Refer=top) 27325
-1. [F1](https://s.weibo.com/weibo?q=F1&t=31&band_rank=45&Refer=top) 17976
+1. [F1](https://s.weibo.com/weibo?q=F1&t=31&band_rank=45&Refer=top) 23135
 1. [花花越来越有派了](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%8A%B1%E8%B6%8A%E6%9D%A5%E8%B6%8A%E6%9C%89%E6%B4%BE%E4%BA%86%23&t=31&band_rank=50&Refer=top) 17676
 <!-- END -->
 
