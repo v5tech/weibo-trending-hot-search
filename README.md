@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-05-07 05:34:43.304809 
-![2024-05-07](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240507/2024-05-07.png?versionId=4_z8fbbed132d73df8689c40f13_f1020c98cd7196533_d20240506_m213443_c005_v0501017_t0012_u01715031283271) 
+最后更新时间 2024-05-07 05:49:20.714144 
+![2024-05-07](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240507/2024-05-07.png?versionId=4_z8fbbed132d73df8689c40f13_f111fc82f7b79bae9_d20240506_m214920_c005_v0501018_t0052_u01715032160655) 
 1. [抑郁女儿叫朋友来家里吃饭了](https://s.weibo.com/weibo?q=%E6%8A%91%E9%83%81%E5%A5%B3%E5%84%BF%E5%8F%AB%E6%9C%8B%E5%8F%8B%E6%9D%A5%E5%AE%B6%E9%87%8C%E5%90%83%E9%A5%AD%E4%BA%86&t=31&band_rank=1&Refer=top) 658858
 1. [三只羊参与举办电音节被指宰客](https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%8F%AA%E7%BE%8A%E5%8F%82%E4%B8%8E%E4%B8%BE%E5%8A%9E%E7%94%B5%E9%9F%B3%E8%8A%82%E8%A2%AB%E6%8C%87%E5%AE%B0%E5%AE%A2%23&t=31&band_rank=18&Refer=top) 623916
 1. [考上研究生是对混子的最大惩罚](https://s.weibo.com/weibo?q=%23%E8%80%83%E4%B8%8A%E7%A0%94%E7%A9%B6%E7%94%9F%E6%98%AF%E5%AF%B9%E6%B7%B7%E5%AD%90%E7%9A%84%E6%9C%80%E5%A4%A7%E6%83%A9%E7%BD%9A%23&t=31&band_rank=2&Refer=top) 613781
@@ -62,7 +62,7 @@
 1. [背着善宰跑第九集](https://s.weibo.com/weibo?q=%E8%83%8C%E7%9D%80%E5%96%84%E5%AE%B0%E8%B7%91%E7%AC%AC%E4%B9%9D%E9%9B%86&t=31&band_rank=48&Refer=top) 96346
 1. [赴山海](https://s.weibo.com/weibo?q=%E8%B5%B4%E5%B1%B1%E6%B5%B7&t=31&band_rank=49&Refer=top) 96336
 1. [潘玮柏胖了](https://s.weibo.com/weibo?q=%E6%BD%98%E7%8E%AE%E6%9F%8F%E8%83%96%E4%BA%86&t=31&band_rank=50&Refer=top) 96329
-1. [上海现付费马桶圈充1000可用13.8万次](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E7%8E%B0%E4%BB%98%E8%B4%B9%E9%A9%AC%E6%A1%B6%E5%9C%88%E5%85%851000%E5%8F%AF%E7%94%A813.8%E4%B8%87%E6%AC%A1%23&t=31&band_rank=50&Refer=top) 77965
+1. [上海现付费马桶圈充1000可用13.8万次](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E7%8E%B0%E4%BB%98%E8%B4%B9%E9%A9%AC%E6%A1%B6%E5%9C%88%E5%85%851000%E5%8F%AF%E7%94%A813.8%E4%B8%87%E6%AC%A1%23&t=31&band_rank=50&Refer=top) 80845
 1. [豪宅小区被外卖员吐槽赔钱也不送](https://s.weibo.com/weibo?q=%23%E8%B1%AA%E5%AE%85%E5%B0%8F%E5%8C%BA%E8%A2%AB%E5%A4%96%E5%8D%96%E5%91%98%E5%90%90%E6%A7%BD%E8%B5%94%E9%92%B1%E4%B9%9F%E4%B8%8D%E9%80%81%23&t=31&band_rank=39&Refer=top) 65823
 1. [想和吴磊谈](https://s.weibo.com/weibo?q=%23%E6%83%B3%E5%92%8C%E5%90%B4%E7%A3%8A%E8%B0%88%23&t=31&band_rank=34&Refer=top) 58138
 1. [Jennie和zicoMV花絮](https://s.weibo.com/weibo?q=%23Jennie%E5%92%8CzicoMV%E8%8A%B1%E7%B5%AE%23&t=31&band_rank=44&Refer=top) 55480
@@ -70,14 +70,14 @@
 1. [熬夜疲劳可能会让你变臭](https://s.weibo.com/weibo?q=%23%E7%86%AC%E5%A4%9C%E7%96%B2%E5%8A%B3%E5%8F%AF%E8%83%BD%E4%BC%9A%E8%AE%A9%E4%BD%A0%E5%8F%98%E8%87%AD%23&t=31&band_rank=36&Refer=top) 45813
 1. [和动画简直一模一样](https://s.weibo.com/weibo?q=%E5%92%8C%E5%8A%A8%E7%94%BB%E7%AE%80%E7%9B%B4%E4%B8%80%E6%A8%A1%E4%B8%80%E6%A0%B7&t=31&band_rank=47&Refer=top) 42042
 1. [庆余年3还能集齐原班人马吗](https://s.weibo.com/weibo?q=%23%E5%BA%86%E4%BD%99%E5%B9%B43%E8%BF%98%E8%83%BD%E9%9B%86%E9%BD%90%E5%8E%9F%E7%8F%AD%E4%BA%BA%E9%A9%AC%E5%90%97%23&t=31&band_rank=45&Refer=top) 38077
+1. [抗抑郁食物清单](https://s.weibo.com/weibo?q=%23%E6%8A%97%E6%8A%91%E9%83%81%E9%A3%9F%E7%89%A9%E6%B8%85%E5%8D%95%23&t=31&band_rank=49&Refer=top) 32091
 1. [纪凌尘回复宋威龙](https://s.weibo.com/weibo?q=%23%E7%BA%AA%E5%87%8C%E5%B0%98%E5%9B%9E%E5%A4%8D%E5%AE%8B%E5%A8%81%E9%BE%99%23&t=31&band_rank=49&Refer=top) 31958
 1. [李沁拿鸡腿](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B2%81%E6%8B%BF%E9%B8%A1%E8%85%BF%23&t=31&band_rank=50&Refer=top) 30186
-1. [抗抑郁食物清单](https://s.weibo.com/weibo?q=%23%E6%8A%97%E6%8A%91%E9%83%81%E9%A3%9F%E7%89%A9%E6%B8%85%E5%8D%95%23&t=31&band_rank=49&Refer=top) 29795
+1. [男子打球被球友看出面相不对救了一命](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%89%93%E7%90%83%E8%A2%AB%E7%90%83%E5%8F%8B%E7%9C%8B%E5%87%BA%E9%9D%A2%E7%9B%B8%E4%B8%8D%E5%AF%B9%E6%95%91%E4%BA%86%E4%B8%80%E5%91%BD%23&t=31&band_rank=49&Refer=top) 28144
 1. [TTG晋级败者组第三轮](https://s.weibo.com/weibo?q=%23TTG%E6%99%8B%E7%BA%A7%E8%B4%A5%E8%80%85%E7%BB%84%E7%AC%AC%E4%B8%89%E8%BD%AE%23&t=31&band_rank=48&Refer=top) 27353
 1. [章鱼的智慧](https://s.weibo.com/weibo?q=%E7%AB%A0%E9%B1%BC%E7%9A%84%E6%99%BA%E6%85%A7&t=31&band_rank=50&Refer=top) 26475
-1. [男子打球被球友看出面相不对救了一命](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%89%93%E7%90%83%E8%A2%AB%E7%90%83%E5%8F%8B%E7%9C%8B%E5%87%BA%E9%9D%A2%E7%9B%B8%E4%B8%8D%E5%AF%B9%E6%95%91%E4%BA%86%E4%B8%80%E5%91%BD%23&t=31&band_rank=49&Refer=top) 21737
+1. [医学生有自己杀菠萝方式](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E5%AD%A6%E7%94%9F%E6%9C%89%E8%87%AA%E5%B7%B1%E6%9D%80%E8%8F%A0%E8%90%9D%E6%96%B9%E5%BC%8F%23&t=31&band_rank=47&Refer=top) 26449
 1. [范闲暴揍范思辙](https://s.weibo.com/weibo?q=%23%E8%8C%83%E9%97%B2%E6%9A%B4%E6%8F%8D%E8%8C%83%E6%80%9D%E8%BE%99%23&t=31&band_rank=46&Refer=top) 21559
-1. [医学生有自己杀菠萝方式](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E5%AD%A6%E7%94%9F%E6%9C%89%E8%87%AA%E5%B7%B1%E6%9D%80%E8%8F%A0%E8%90%9D%E6%96%B9%E5%BC%8F%23&t=31&band_rank=47&Refer=top) 21495
 1. [广东人你别耍我了](https://s.weibo.com/weibo?q=%E5%B9%BF%E4%B8%9C%E4%BA%BA%E4%BD%A0%E5%88%AB%E8%80%8D%E6%88%91%E4%BA%86&t=31&band_rank=50&Refer=top) 17860
 1. [老人沉迷直播间买买买民警破门而入](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E6%B2%89%E8%BF%B7%E7%9B%B4%E6%92%AD%E9%97%B4%E4%B9%B0%E4%B9%B0%E4%B9%B0%E6%B0%91%E8%AD%A6%E7%A0%B4%E9%97%A8%E8%80%8C%E5%85%A5%23&t=31&band_rank=50&Refer=top) 15025
 <!-- END -->
