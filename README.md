@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-05-07 02:16:19.735714 
-![2024-05-07](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240507/2024-05-07.png?versionId=4_z8fbbed132d73df8689c40f13_f111fc82f7b4d6d46_d20240506_m181619_c005_v0501018_t0017_u01715019379341) 
+最后更新时间 2024-05-07 02:35:56.396900 
+![2024-05-07](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240507/2024-05-07.png?versionId=4_z8fbbed132d73df8689c40f13_f114a27191bd5bb90_d20240506_m183556_c005_v0501018_t0059_u01715020556243) 
 1. [抑郁女儿叫朋友来家里吃饭了](https://s.weibo.com/weibo?q=%E6%8A%91%E9%83%81%E5%A5%B3%E5%84%BF%E5%8F%AB%E6%9C%8B%E5%8F%8B%E6%9D%A5%E5%AE%B6%E9%87%8C%E5%90%83%E9%A5%AD%E4%BA%86&t=31&band_rank=1&Refer=top) 658858
 1. [三只羊参与举办电音节被指宰客](https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%8F%AA%E7%BE%8A%E5%8F%82%E4%B8%8E%E4%B8%BE%E5%8A%9E%E7%94%B5%E9%9F%B3%E8%8A%82%E8%A2%AB%E6%8C%87%E5%AE%B0%E5%AE%A2%23&t=31&band_rank=18&Refer=top) 623916
 1. [考上研究生是对混子的最大惩罚](https://s.weibo.com/weibo?q=%23%E8%80%83%E4%B8%8A%E7%A0%94%E7%A9%B6%E7%94%9F%E6%98%AF%E5%AF%B9%E6%B7%B7%E5%AD%90%E7%9A%84%E6%9C%80%E5%A4%A7%E6%83%A9%E7%BD%9A%23&t=31&band_rank=2&Refer=top) 613781
@@ -70,8 +70,9 @@
 1. [熬夜疲劳可能会让你变臭](https://s.weibo.com/weibo?q=%23%E7%86%AC%E5%A4%9C%E7%96%B2%E5%8A%B3%E5%8F%AF%E8%83%BD%E4%BC%9A%E8%AE%A9%E4%BD%A0%E5%8F%98%E8%87%AD%23&t=31&band_rank=36&Refer=top) 45813
 1. [和动画简直一模一样](https://s.weibo.com/weibo?q=%E5%92%8C%E5%8A%A8%E7%94%BB%E7%AE%80%E7%9B%B4%E4%B8%80%E6%A8%A1%E4%B8%80%E6%A0%B7&t=31&band_rank=47&Refer=top) 42042
 1. [庆余年3还能集齐原班人马吗](https://s.weibo.com/weibo?q=%23%E5%BA%86%E4%BD%99%E5%B9%B43%E8%BF%98%E8%83%BD%E9%9B%86%E9%BD%90%E5%8E%9F%E7%8F%AD%E4%BA%BA%E9%A9%AC%E5%90%97%23&t=31&band_rank=45&Refer=top) 38077
-1. [纪凌尘回复宋威龙](https://s.weibo.com/weibo?q=%23%E7%BA%AA%E5%87%8C%E5%B0%98%E5%9B%9E%E5%A4%8D%E5%AE%8B%E5%A8%81%E9%BE%99%23&t=31&band_rank=49&Refer=top) 30194
+1. [纪凌尘回复宋威龙](https://s.weibo.com/weibo?q=%23%E7%BA%AA%E5%87%8C%E5%B0%98%E5%9B%9E%E5%A4%8D%E5%AE%8B%E5%A8%81%E9%BE%99%23&t=31&band_rank=49&Refer=top) 30205
 1. [李沁拿鸡腿](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B2%81%E6%8B%BF%E9%B8%A1%E8%85%BF%23&t=31&band_rank=50&Refer=top) 30186
+1. [章鱼的智慧](https://s.weibo.com/weibo?q=%E7%AB%A0%E9%B1%BC%E7%9A%84%E6%99%BA%E6%85%A7&t=31&band_rank=50&Refer=top) 24282
 <!-- END -->
 
 历史归档 [./archives](./archives)
