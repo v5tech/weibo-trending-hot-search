@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-05-09 04:49:20.882213 
-![2024-05-09](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240509/2024-05-09.png?versionId=4_z8fbbed132d73df8689c40f13_f105612cc2b4c7500_d20240508_m204920_c005_v0501020_t0018_u01715201360829) 
+最后更新时间 2024-05-09 05:12:54.345613 
+![2024-05-09](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240509/2024-05-09.png?versionId=4_z8fbbed132d73df8689c40f13_f103c5e2aa3f69677_d20240508_m211254_c005_v0501007_t0013_u01715202774312) 
 1. [榴莲一斤跌破10元](https://s.weibo.com/weibo?q=%23%E6%A6%B4%E8%8E%B2%E4%B8%80%E6%96%A4%E8%B7%8C%E7%A0%B410%E5%85%83%23&t=31&band_rank=7&Refer=top) 872517
 1. [男子冒充胖猫事件女主被行政处罚](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%86%92%E5%85%85%E8%83%96%E7%8C%AB%E4%BA%8B%E4%BB%B6%E5%A5%B3%E4%B8%BB%E8%A2%AB%E8%A1%8C%E6%94%BF%E5%A4%84%E7%BD%9A%23&t=31&band_rank=1&Refer=top) 815949
 1. [花少北恋爱](https://s.weibo.com/weibo?q=%E8%8A%B1%E5%B0%91%E5%8C%97%E6%81%8B%E7%88%B1&t=31&band_rank=2&Refer=top) 814092
@@ -75,10 +75,13 @@
 1. [黄宗泽晒刚入行照](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AE%97%E6%B3%BD%E6%99%92%E5%88%9A%E5%85%A5%E8%A1%8C%E7%85%A7%23&t=31&band_rank=45&Refer=top) 22010
 1. [老师自费为糖尿病学生买小冰箱](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E8%87%AA%E8%B4%B9%E4%B8%BA%E7%B3%96%E5%B0%BF%E7%97%85%E5%AD%A6%E7%94%9F%E4%B9%B0%E5%B0%8F%E5%86%B0%E7%AE%B1%23&t=31&band_rank=49&Refer=top) 21511
 1. [警犬听到违禁品名字秒变脸](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E7%8A%AC%E5%90%AC%E5%88%B0%E8%BF%9D%E7%A6%81%E5%93%81%E5%90%8D%E5%AD%97%E7%A7%92%E5%8F%98%E8%84%B8%23&t=31&band_rank=50&Refer=top) 21505
+1. [医保卡里的钱可以给亲人买药吗](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E4%BF%9D%E5%8D%A1%E9%87%8C%E7%9A%84%E9%92%B1%E5%8F%AF%E4%BB%A5%E7%BB%99%E4%BA%B2%E4%BA%BA%E4%B9%B0%E8%8D%AF%E5%90%97%23&t=31&band_rank=28&Refer=top) 20191
 1. [狼队第五人格](https://s.weibo.com/weibo?q=%E7%8B%BC%E9%98%9F%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC&t=31&band_rank=49&Refer=top) 19863
 1. [一张与父母的合影她等了20年](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%BC%A0%E4%B8%8E%E7%88%B6%E6%AF%8D%E7%9A%84%E5%90%88%E5%BD%B1%E5%A5%B9%E7%AD%89%E4%BA%8620%E5%B9%B4%23&t=31&band_rank=50&Refer=top) 19463
 1. [80后民警一月获三面锦旗开心得像个孩子](https://s.weibo.com/weibo?q=%2380%E5%90%8E%E6%B0%91%E8%AD%A6%E4%B8%80%E6%9C%88%E8%8E%B7%E4%B8%89%E9%9D%A2%E9%94%A6%E6%97%97%E5%BC%80%E5%BF%83%E5%BE%97%E5%83%8F%E4%B8%AA%E5%AD%A9%E5%AD%90%23&t=31&band_rank=50&Refer=top) 19062
 1. [台州小岛为世界提供海洋治理创新方案](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E5%B7%9E%E5%B0%8F%E5%B2%9B%E4%B8%BA%E4%B8%96%E7%95%8C%E6%8F%90%E4%BE%9B%E6%B5%B7%E6%B4%8B%E6%B2%BB%E7%90%86%E5%88%9B%E6%96%B0%E6%96%B9%E6%A1%88%23&t=31&band_rank=50&Refer=top) 18984
+1. [医保局回应医保卡的钱能不能给亲人买药](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E4%BF%9D%E5%B1%80%E5%9B%9E%E5%BA%94%E5%8C%BB%E4%BF%9D%E5%8D%A1%E7%9A%84%E9%92%B1%E8%83%BD%E4%B8%8D%E8%83%BD%E7%BB%99%E4%BA%B2%E4%BA%BA%E4%B9%B0%E8%8D%AF%23&t=31&band_rank=43&Refer=top) 17471
+1. [水果店开了二十几年只卖香蕉](https://s.weibo.com/weibo?q=%23%E6%B0%B4%E6%9E%9C%E5%BA%97%E5%BC%80%E4%BA%86%E4%BA%8C%E5%8D%81%E5%87%A0%E5%B9%B4%E5%8F%AA%E5%8D%96%E9%A6%99%E8%95%89%23&t=31&band_rank=44&Refer=top) 17332
 <!-- END -->
 
 历史归档 [./archives](./archives)
