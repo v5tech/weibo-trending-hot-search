@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-05-12 04:49:28.808808 
-![2024-05-12](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240512/2024-05-12.png?versionId=4_z8fbbed132d73df8689c40f13_f101a5968e1e3771f_d20240511_m204928_c005_v0501020_t0038_u01715460568585) 
+最后更新时间 2024-05-12 05:10:37.074911 
+![2024-05-12](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240512/2024-05-12.png?versionId=4_z8fbbed132d73df8689c40f13_f109f8bccc8c8c2fc_d20240511_m211036_c005_v0501020_t0059_u01715461836969) 
 1. [南通车祸事故原因初步查明](https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%80%9A%E8%BD%A6%E7%A5%B8%E4%BA%8B%E6%95%85%E5%8E%9F%E5%9B%A0%E5%88%9D%E6%AD%A5%E6%9F%A5%E6%98%8E%23&t=31&band_rank=1&Refer=top) 2919973
 1. [歌手踢馆](https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E8%B8%A2%E9%A6%86&t=31&band_rank=4&Refer=top) 1151098
 1. [歌手](https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B&t=31&band_rank=2&Refer=top) 1127510
@@ -87,6 +87,7 @@
 1. [谭晶能不能来踢馆](https://s.weibo.com/weibo?q=%E8%B0%AD%E6%99%B6%E8%83%BD%E4%B8%8D%E8%83%BD%E6%9D%A5%E8%B8%A2%E9%A6%86&t=31&band_rank=48&Refer=top) 25847
 1. [老龚你说句话啊](https://s.weibo.com/weibo?q=%23%E8%80%81%E9%BE%9A%E4%BD%A0%E8%AF%B4%E5%8F%A5%E8%AF%9D%E5%95%8A%23&t=31&band_rank=48&Refer=top) 20720
 1. [2024防灾减灾日](https://s.weibo.com/weibo?q=%232024%E9%98%B2%E7%81%BE%E5%87%8F%E7%81%BE%E6%97%A5%23&t=31&band_rank=49&Refer=top) 20713
+1. [NBA](https://s.weibo.com/weibo?q=NBA&t=31&band_rank=50&Refer=top) 18600
 <!-- END -->
 
 历史归档 [./archives](./archives)
