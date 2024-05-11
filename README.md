@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-05-12 06:49:23.881596 
-![2024-05-12](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240512/2024-05-12.png?versionId=4_z8fbbed132d73df8689c40f13_f1068aab693f78726_d20240511_m224923_c005_v0501020_t0059_u01715467763669) 
+最后更新时间 2024-05-12 07:23:00.648581 
+![2024-05-12](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240512/2024-05-12.png?versionId=4_z8fbbed132d73df8689c40f13_f119bc1a1a87055b6_d20240511_m232300_c005_v0501019_t0021_u01715469780613) 
 1. [南通车祸事故原因初步查明](https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%80%9A%E8%BD%A6%E7%A5%B8%E4%BA%8B%E6%95%85%E5%8E%9F%E5%9B%A0%E5%88%9D%E6%AD%A5%E6%9F%A5%E6%98%8E%23&t=31&band_rank=1&Refer=top) 2919973
 1. [歌手踢馆](https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E8%B8%A2%E9%A6%86&t=31&band_rank=4&Refer=top) 1151098
 1. [歌手](https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B&t=31&band_rank=2&Refer=top) 1127510
