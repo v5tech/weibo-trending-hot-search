@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-05-12 06:09:52.380411 
-![2024-05-12](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240512/2024-05-12.png?versionId=4_z8fbbed132d73df8689c40f13_f10521525abf0d55b_d20240511_m220951_c005_v0501003_t0038_u01715465391926) 
+最后更新时间 2024-05-12 06:25:12.869082 
+![2024-05-12](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240512/2024-05-12.png?versionId=4_z8fbbed132d73df8689c40f13_f100bdd1fb6a7501e_d20240511_m222512_c005_v0501015_t0011_u01715466312441) 
 1. [南通车祸事故原因初步查明](https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%80%9A%E8%BD%A6%E7%A5%B8%E4%BA%8B%E6%95%85%E5%8E%9F%E5%9B%A0%E5%88%9D%E6%AD%A5%E6%9F%A5%E6%98%8E%23&t=31&band_rank=1&Refer=top) 2919973
 1. [歌手踢馆](https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E8%B8%A2%E9%A6%86&t=31&band_rank=4&Refer=top) 1151098
 1. [歌手](https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B&t=31&band_rank=2&Refer=top) 1127510
@@ -81,11 +81,11 @@
 1. [何炅吴昕新综艺](https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%E5%90%B4%E6%98%95%E6%96%B0%E7%BB%BC%E8%89%BA%23&t=31&band_rank=39&Refer=top) 64053
 1. [地磁暴带着极光来了](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E7%A3%81%E6%9A%B4%E5%B8%A6%E7%9D%80%E6%9E%81%E5%85%89%E6%9D%A5%E4%BA%86%23&t=31&band_rank=46&Refer=top) 52012
 1. [井柏然审美](https://s.weibo.com/weibo?q=%E4%BA%95%E6%9F%8F%E7%84%B6%E5%AE%A1%E7%BE%8E&t=31&band_rank=44&Refer=top) 43411
+1. [班级成绩第一老师请全班吃烤全羊](https://s.weibo.com/weibo?q=%23%E7%8F%AD%E7%BA%A7%E6%88%90%E7%BB%A9%E7%AC%AC%E4%B8%80%E8%80%81%E5%B8%88%E8%AF%B7%E5%85%A8%E7%8F%AD%E5%90%83%E7%83%A4%E5%85%A8%E7%BE%8A%23&t=31&band_rank=49&Refer=top) 41776
 1. [那英 当打之年](https://s.weibo.com/weibo?q=%E9%82%A3%E8%8B%B1%20%E5%BD%93%E6%89%93%E4%B9%8B%E5%B9%B4&t=31&band_rank=44&Refer=top) 38502
 1. [Uzi去AL基地集训](https://s.weibo.com/weibo?q=%23Uzi%E5%8E%BBAL%E5%9F%BA%E5%9C%B0%E9%9B%86%E8%AE%AD%23&t=31&band_rank=50&Refer=top) 36707
-1. [头发蛋白矫正](https://s.weibo.com/weibo?q=%E5%A4%B4%E5%8F%91%E8%9B%8B%E7%99%BD%E7%9F%AB%E6%AD%A3&t=31&band_rank=50&Refer=top) 31459
-1. [NBA](https://s.weibo.com/weibo?q=NBA&t=31&band_rank=50&Refer=top) 26529
-1. [班级成绩第一老师请全班吃烤全羊](https://s.weibo.com/weibo?q=%23%E7%8F%AD%E7%BA%A7%E6%88%90%E7%BB%A9%E7%AC%AC%E4%B8%80%E8%80%81%E5%B8%88%E8%AF%B7%E5%85%A8%E7%8F%AD%E5%90%83%E7%83%A4%E5%85%A8%E7%BE%8A%23&t=31&band_rank=49&Refer=top) 26501
+1. [NBA](https://s.weibo.com/weibo?q=NBA&t=31&band_rank=50&Refer=top) 34974
+1. [头发蛋白矫正](https://s.weibo.com/weibo?q=%E5%A4%B4%E5%8F%91%E8%9B%8B%E7%99%BD%E7%9F%AB%E6%AD%A3&t=31&band_rank=50&Refer=top) 33395
 1. [谭晶能不能来踢馆](https://s.weibo.com/weibo?q=%E8%B0%AD%E6%99%B6%E8%83%BD%E4%B8%8D%E8%83%BD%E6%9D%A5%E8%B8%A2%E9%A6%86&t=31&band_rank=48&Refer=top) 25847
 1. [老龚你说句话啊](https://s.weibo.com/weibo?q=%23%E8%80%81%E9%BE%9A%E4%BD%A0%E8%AF%B4%E5%8F%A5%E8%AF%9D%E5%95%8A%23&t=31&band_rank=48&Refer=top) 20720
 1. [2024防灾减灾日](https://s.weibo.com/weibo?q=%232024%E9%98%B2%E7%81%BE%E5%87%8F%E7%81%BE%E6%97%A5%23&t=31&band_rank=49&Refer=top) 20713
