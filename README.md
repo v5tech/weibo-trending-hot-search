@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-05-12 01:25:55.740100 
-![2024-05-12](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240512/2024-05-12.png?versionId=4_z8fbbed132d73df8689c40f13_f1123b939002d9727_d20240511_m172555_c005_v0501019_t0010_u01715448355683) 
+最后更新时间 2024-05-12 01:34:29.186052 
+![2024-05-12](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240512/2024-05-12.png?versionId=4_z8fbbed132d73df8689c40f13_f107ab91c7bfb11ed_d20240511_m173429_c005_v0501000_t0057_u01715448869126) 
 1. [南通车祸事故原因初步查明](https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%80%9A%E8%BD%A6%E7%A5%B8%E4%BA%8B%E6%95%85%E5%8E%9F%E5%9B%A0%E5%88%9D%E6%AD%A5%E6%9F%A5%E6%98%8E%23&t=31&band_rank=1&Refer=top) 2919973
 1. [歌手踢馆](https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E8%B8%A2%E9%A6%86&t=31&band_rank=4&Refer=top) 1151098
 1. [歌手](https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B&t=31&band_rank=2&Refer=top) 1127510
@@ -64,6 +64,7 @@
 1. [杨鸣采访](https://s.weibo.com/weibo?q=%E6%9D%A8%E9%B8%A3%E9%87%87%E8%AE%BF&t=31&band_rank=46&Refer=top) 133071
 1. [母亲节快乐](https://s.weibo.com/weibo?q=%E6%AF%8D%E4%BA%B2%E8%8A%82%E5%BF%AB%E4%B9%90&t=31&band_rank=47&Refer=top) 131650
 1. [郑钦文晋级](https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E6%99%8B%E7%BA%A7&t=31&band_rank=50&Refer=top) 127587
+1. [一起追极光](https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%B5%B7%E8%BF%BD%E6%9E%81%E5%85%89%23&t=31&band_rank=30&Refer=top) 118224
 1. [母亲节红包](https://s.weibo.com/weibo?q=%23%E6%AF%8D%E4%BA%B2%E8%8A%82%E7%BA%A2%E5%8C%85%23&t=31&band_rank=46&Refer=top) 117901
 1. [丁太升问李荣浩不教教杨丞琳吗](https://s.weibo.com/weibo?q=%23%E4%B8%81%E5%A4%AA%E5%8D%87%E9%97%AE%E6%9D%8E%E8%8D%A3%E6%B5%A9%E4%B8%8D%E6%95%99%E6%95%99%E6%9D%A8%E4%B8%9E%E7%90%B3%E5%90%97%23&t=31&band_rank=49&Refer=top) 109464
 1. [陈楚生弹壳合唱醉](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A5%9A%E7%94%9F%E5%BC%B9%E5%A3%B3%E5%90%88%E5%94%B1%E9%86%89%23&t=31&band_rank=43&Refer=top) 107965
@@ -71,7 +72,7 @@
 1. [陈梦说抱着向莎莎学习的心态打比赛](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A2%A6%E8%AF%B4%E6%8A%B1%E7%9D%80%E5%90%91%E8%8E%8E%E8%8E%8E%E5%AD%A6%E4%B9%A0%E7%9A%84%E5%BF%83%E6%80%81%E6%89%93%E6%AF%94%E8%B5%9B%23&t=31&band_rank=46&Refer=top) 103633
 1. [周深能不能来歌手](https://s.weibo.com/weibo?q=%E5%91%A8%E6%B7%B1%E8%83%BD%E4%B8%8D%E8%83%BD%E6%9D%A5%E6%AD%8C%E6%89%8B&t=31&band_rank=47&Refer=top) 103483
 1. [老头杯](https://s.weibo.com/weibo?q=%E8%80%81%E5%A4%B4%E6%9D%AF&t=31&band_rank=50&Refer=top) 103169
-1. [现在的年轻人为什么不穿皮鞋](https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E7%A9%BF%E7%9A%AE%E9%9E%8B%23&t=31&band_rank=43&Refer=top) 77805
+1. [现在的年轻人为什么不穿皮鞋](https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E7%A9%BF%E7%9A%AE%E9%9E%8B%23&t=31&band_rank=43&Refer=top) 83185
 1. [张镇麟打爆了](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%95%87%E9%BA%9F%E6%89%93%E7%88%86%E4%BA%86%23&t=31&band_rank=50&Refer=top) 77802
 <!-- END -->
 
