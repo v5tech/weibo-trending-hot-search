@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-05-15 03:19:15.867189 
-![2024-05-15](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240515/2024-05-15.png?versionId=4_z8fbbed132d73df8689c40f13_f112ba5c00306695c_d20240514_m191915_c005_v0501017_t0004_u01715714355219) 
+最后更新时间 2024-05-15 03:35:44.483366 
+![2024-05-15](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240515/2024-05-15.png?versionId=4_z8fbbed132d73df8689c40f13_f11695682e2b14234_d20240514_m193543_c005_v0501004_t0054_u01715715343919) 
 1. [樊振东](https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C&t=31&band_rank=6&Refer=top) 1691530
 1. [歌手报名 没档期](https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E6%8A%A5%E5%90%8D%20%E6%B2%A1%E6%A1%A3%E6%9C%9F&t=31&band_rank=1&Refer=top) 610865
 1. [青岛一女童发热输液后死亡](https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B%E4%B8%80%E5%A5%B3%E7%AB%A5%E5%8F%91%E7%83%AD%E8%BE%93%E6%B6%B2%E5%90%8E%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=2&Refer=top) 573493
@@ -67,11 +67,12 @@
 1. [花少北超话](https://s.weibo.com/weibo?q=%E8%8A%B1%E5%B0%91%E5%8C%97%E8%B6%85%E8%AF%9D&t=31&band_rank=50&Refer=top) 68265
 1. [沈小婷回国第一站跑男](https://s.weibo.com/weibo?q=%23%E6%B2%88%E5%B0%8F%E5%A9%B7%E5%9B%9E%E5%9B%BD%E7%AC%AC%E4%B8%80%E7%AB%99%E8%B7%91%E7%94%B7%23&t=31&band_rank=46&Refer=top) 60553
 1. [仙剑与轩辕剑版权将被出售](https://s.weibo.com/weibo?q=%23%E4%BB%99%E5%89%91%E4%B8%8E%E8%BD%A9%E8%BE%95%E5%89%91%E7%89%88%E6%9D%83%E5%B0%86%E8%A2%AB%E5%87%BA%E5%94%AE%23&t=31&band_rank=50&Refer=top) 42944
+1. [手机被监听一招就能解决](https://s.weibo.com/weibo?q=%E6%89%8B%E6%9C%BA%E8%A2%AB%E7%9B%91%E5%90%AC%E4%B8%80%E6%8B%9B%E5%B0%B1%E8%83%BD%E8%A7%A3%E5%86%B3&t=31&band_rank=38&Refer=top) 31664
 1. [陈赫小柔美弱逻辑](https://s.weibo.com/weibo?q=%23%E9%99%88%E8%B5%AB%E5%B0%8F%E6%9F%94%E7%BE%8E%E5%BC%B1%E9%80%BB%E8%BE%91%23&t=31&band_rank=48&Refer=top) 30520
 1. [热刺vs曼城](https://s.weibo.com/weibo?q=%23%E7%83%AD%E5%88%BAvs%E6%9B%BC%E5%9F%8E%23&t=31&band_rank=37&Refer=top) 28110
-1. [手机被监听一招就能解决](https://s.weibo.com/weibo?q=%E6%89%8B%E6%9C%BA%E8%A2%AB%E7%9B%91%E5%90%AC%E4%B8%80%E6%8B%9B%E5%B0%B1%E8%83%BD%E8%A7%A3%E5%86%B3&t=31&band_rank=38&Refer=top) 26542
-1. [秦岚简直是情绪价值的富翁](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E7%AE%80%E7%9B%B4%E6%98%AF%E6%83%85%E7%BB%AA%E4%BB%B7%E5%80%BC%E7%9A%84%E5%AF%8C%E7%BF%81%23&t=31&band_rank=47&Refer=top) 18912
+1. [秦岚简直是情绪价值的富翁](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E7%AE%80%E7%9B%B4%E6%98%AF%E6%83%85%E7%BB%AA%E4%BB%B7%E5%80%BC%E7%9A%84%E5%AF%8C%E7%BF%81%23&t=31&band_rank=47&Refer=top) 20214
 1. [陈晓杨子姗三搭](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%99%93%E6%9D%A8%E5%AD%90%E5%A7%97%E4%B8%89%E6%90%AD%23&t=31&band_rank=47&Refer=top) 18080
+1. [医生夫妇路边紧急抢救心脏骤停男子](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E5%A4%AB%E5%A6%87%E8%B7%AF%E8%BE%B9%E7%B4%A7%E6%80%A5%E6%8A%A2%E6%95%91%E5%BF%83%E8%84%8F%E9%AA%A4%E5%81%9C%E7%94%B7%E5%AD%90%23&t=31&band_rank=50&Refer=top) 17602
 <!-- END -->
 
 历史归档 [./archives](./archives)
