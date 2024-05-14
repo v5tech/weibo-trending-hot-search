@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-05-15 00:49:19.947373 
-![2024-05-15](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240515/2024-05-15.png?versionId=4_z8fbbed132d73df8689c40f13_f10275e2c9abf23df_d20240514_m164919_c005_v0501019_t0022_u01715705359455) 
+最后更新时间 2024-05-15 01:10:12.594657 
+![2024-05-15](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240515/2024-05-15.png?versionId=4_z8fbbed132d73df8689c40f13_f10431c391c7c713c_d20240514_m171012_c005_v0501019_t0023_u01715706612550) 
 1. [樊振东](https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C&t=31&band_rank=6&Refer=top) 1691530
 1. [歌手报名 没档期](https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E6%8A%A5%E5%90%8D%20%E6%B2%A1%E6%A1%A3%E6%9C%9F&t=31&band_rank=1&Refer=top) 610865
 1. [青岛一女童发热输液后死亡](https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B%E4%B8%80%E5%A5%B3%E7%AB%A5%E5%8F%91%E7%83%AD%E8%BE%93%E6%B6%B2%E5%90%8E%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=2&Refer=top) 573493
