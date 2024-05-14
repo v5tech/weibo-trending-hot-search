@@ -1,7 +1,7 @@
 {
   "樊振东": {
     "url": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C&t=31&band_rank=6&Refer=top",
-    "hot": 1106005
+    "hot": 1691530
   },
   "歌手报名 没档期": {
     "url": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E6%8A%A5%E5%90%8D%20%E6%B2%A1%E6%A1%A3%E6%9C%9F&t=31&band_rank=1&Refer=top",
@@ -198,5 +198,17 @@
   "菲律宾": {
     "url": "https://s.weibo.com/weibo?q=%E8%8F%B2%E5%BE%8B%E5%AE%BE&t=31&band_rank=50&Refer=top",
     "hot": 77816
+  },
+  "新生第九集": {
+    "url": "https://s.weibo.com/weibo?q=%E6%96%B0%E7%94%9F%E7%AC%AC%E4%B9%9D%E9%9B%86&t=31&band_rank=45&Refer=top",
+    "hot": 68695
+  },
+  "G2对战TES": {
+    "url": "https://s.weibo.com/weibo?q=%23G2%E5%AF%B9%E6%88%98TES%23&t=31&band_rank=47&Refer=top",
+    "hot": 68571
+  },
+  "花少北超话": {
+    "url": "https://s.weibo.com/weibo?q=%E8%8A%B1%E5%B0%91%E5%8C%97%E8%B6%85%E8%AF%9D&t=31&band_rank=50&Refer=top",
+    "hot": 68265
   }
 }

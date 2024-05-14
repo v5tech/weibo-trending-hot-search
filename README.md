@@ -7,9 +7,9 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-05-15 00:33:34.740779 
-![2024-05-15](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240515/2024-05-15.png?versionId=4_z8fbbed132d73df8689c40f13_f1105ac1efdeab14f_d20240514_m163334_c005_v0501020_t0028_u01715704414452) 
-1. [樊振东](https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C&t=31&band_rank=6&Refer=top) 1106005
+最后更新时间 2024-05-15 00:49:19.947373 
+![2024-05-15](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240515/2024-05-15.png?versionId=4_z8fbbed132d73df8689c40f13_f10275e2c9abf23df_d20240514_m164919_c005_v0501019_t0022_u01715705359455) 
+1. [樊振东](https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C&t=31&band_rank=6&Refer=top) 1691530
 1. [歌手报名 没档期](https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E6%8A%A5%E5%90%8D%20%E6%B2%A1%E6%A1%A3%E6%9C%9F&t=31&band_rank=1&Refer=top) 610865
 1. [青岛一女童发热输液后死亡](https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B%E4%B8%80%E5%A5%B3%E7%AB%A5%E5%8F%91%E7%83%AD%E8%BE%93%E6%B6%B2%E5%90%8E%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=2&Refer=top) 573493
 1. [行进看中国](https://s.weibo.com/weibo?q=%23%E8%A1%8C%E8%BF%9B%E7%9C%8B%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top) 572882
@@ -59,6 +59,9 @@
 1. [蒋敦豪 田间的舞狮少年](https://s.weibo.com/weibo?q=%E8%92%8B%E6%95%A6%E8%B1%AA%20%E7%94%B0%E9%97%B4%E7%9A%84%E8%88%9E%E7%8B%AE%E5%B0%91%E5%B9%B4&t=31&band_rank=48&Refer=top) 81323
 1. [TES 管泽元](https://s.weibo.com/weibo?q=TES%20%E7%AE%A1%E6%B3%BD%E5%85%83&t=31&band_rank=49&Refer=top) 80068
 1. [菲律宾](https://s.weibo.com/weibo?q=%E8%8F%B2%E5%BE%8B%E5%AE%BE&t=31&band_rank=50&Refer=top) 77816
+1. [新生第九集](https://s.weibo.com/weibo?q=%E6%96%B0%E7%94%9F%E7%AC%AC%E4%B9%9D%E9%9B%86&t=31&band_rank=45&Refer=top) 68695
+1. [G2对战TES](https://s.weibo.com/weibo?q=%23G2%E5%AF%B9%E6%88%98TES%23&t=31&band_rank=47&Refer=top) 68571
+1. [花少北超话](https://s.weibo.com/weibo?q=%E8%8A%B1%E5%B0%91%E5%8C%97%E8%B6%85%E8%AF%9D&t=31&band_rank=50&Refer=top) 68265
 <!-- END -->
 
 历史归档 [./archives](./archives)
