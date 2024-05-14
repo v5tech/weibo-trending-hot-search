@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-05-15 03:49:26.664562 
-![2024-05-15](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240515/2024-05-15.png?versionId=4_z8fbbed132d73df8689c40f13_f10550be6b4be5cb9_d20240514_m194926_c005_v0501012_t0050_u01715716166233) 
+最后更新时间 2024-05-15 04:13:28.350498 
+![2024-05-15](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240515/2024-05-15.png?versionId=4_z8fbbed132d73df8689c40f13_f11750efaf4d3aff9_d20240514_m201328_c005_v0501014_t0022_u01715717608300) 
 1. [樊振东](https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C&t=31&band_rank=6&Refer=top) 1691530
 1. [歌手报名 没档期](https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E6%8A%A5%E5%90%8D%20%E6%B2%A1%E6%A1%A3%E6%9C%9F&t=31&band_rank=1&Refer=top) 610865
 1. [青岛一女童发热输液后死亡](https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B%E4%B8%80%E5%A5%B3%E7%AB%A5%E5%8F%91%E7%83%AD%E8%BE%93%E6%B6%B2%E5%90%8E%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=2&Refer=top) 573493
@@ -73,6 +73,7 @@
 1. [秦岚简直是情绪价值的富翁](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E7%AE%80%E7%9B%B4%E6%98%AF%E6%83%85%E7%BB%AA%E4%BB%B7%E5%80%BC%E7%9A%84%E5%AF%8C%E7%BF%81%23&t=31&band_rank=47&Refer=top) 20214
 1. [陈晓杨子姗三搭](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%99%93%E6%9D%A8%E5%AD%90%E5%A7%97%E4%B8%89%E6%90%AD%23&t=31&band_rank=47&Refer=top) 18080
 1. [医生夫妇路边紧急抢救心脏骤停男子](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E5%A4%AB%E5%A6%87%E8%B7%AF%E8%BE%B9%E7%B4%A7%E6%80%A5%E6%8A%A2%E6%95%91%E5%BF%83%E8%84%8F%E9%AA%A4%E5%81%9C%E7%94%B7%E5%AD%90%23&t=31&band_rank=50&Refer=top) 17602
+1. [留子打败老外靠的是无知](https://s.weibo.com/weibo?q=%E7%95%99%E5%AD%90%E6%89%93%E8%B4%A5%E8%80%81%E5%A4%96%E9%9D%A0%E7%9A%84%E6%98%AF%E6%97%A0%E7%9F%A5&t=31&band_rank=38&Refer=top) 16101
 <!-- END -->
 
 历史归档 [./archives](./archives)
