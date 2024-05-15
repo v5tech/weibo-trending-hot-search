@@ -225,7 +225,7 @@
   },
   "新华社专访普京": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%8D%8E%E7%A4%BE%E4%B8%93%E8%AE%BF%E6%99%AE%E4%BA%AC%23&t=31&band_rank=50&Refer=top",
-    "hot": 57259
+    "hot": 57822
   },
   "一起看2024巴黎奥运会": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%B5%B7%E7%9C%8B2024%E5%B7%B4%E9%BB%8E%E5%A5%A5%E8%BF%90%E4%BC%9A%23&t=31&band_rank=47&Refer=top",
@@ -239,6 +239,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E4%BA%91%E5%8D%97%E5%B0%86%E8%BF%8E1%E4%BA%BF%E5%8F%AA%E4%BB%A5%E4%B8%8A%E8%9D%B4%E8%9D%B6%E5%A4%A7%E7%88%86%E5%8F%91%23&t=31&band_rank=20&Refer=top",
     "hot": 31798
   },
+  "日本前大臣感慨日本太落后": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%89%8D%E5%A4%A7%E8%87%A3%E6%84%9F%E6%85%A8%E6%97%A5%E6%9C%AC%E5%A4%AA%E8%90%BD%E5%90%8E%23&t=31&band_rank=48&Refer=top",
+    "hot": 29029
+  },
   "周深新歌借过一下": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E6%96%B0%E6%AD%8C%E5%80%9F%E8%BF%87%E4%B8%80%E4%B8%8B%23&t=31&band_rank=45&Refer=top",
     "hot": 28906
@@ -246,10 +250,6 @@
   "给免胶假睫毛泼盆凉水": {
     "url": "https://s.weibo.com/weibo?q=%E7%BB%99%E5%85%8D%E8%83%B6%E5%81%87%E7%9D%AB%E6%AF%9B%E6%B3%BC%E7%9B%86%E5%87%89%E6%B0%B4&t=31&band_rank=50&Refer=top",
     "hot": 28862
-  },
-  "日本前大臣感慨日本太落后": {
-    "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%89%8D%E5%A4%A7%E8%87%A3%E6%84%9F%E6%85%A8%E6%97%A5%E6%9C%AC%E5%A4%AA%E8%90%BD%E5%90%8E%23&t=31&band_rank=48&Refer=top",
-    "hot": 24972
   },
   "睡眠真的是大脑在排毒吗": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%9D%A1%E7%9C%A0%E7%9C%9F%E7%9A%84%E6%98%AF%E5%A4%A7%E8%84%91%E5%9C%A8%E6%8E%92%E6%AF%92%E5%90%97%23&t=31&band_rank=40&Refer=top",
@@ -259,6 +259,14 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%9C%A8%E5%A4%A7%E5%AD%A6%E5%BD%93%E9%AB%98%E4%B8%AD%E7%94%9F%23&t=31&band_rank=50&Refer=top",
     "hot": 21693
   },
+  "夏天最喜欢的几款香水": {
+    "url": "https://s.weibo.com/weibo?q=%E5%A4%8F%E5%A4%A9%E6%9C%80%E5%96%9C%E6%AC%A2%E7%9A%84%E5%87%A0%E6%AC%BE%E9%A6%99%E6%B0%B4&t=31&band_rank=46&Refer=top",
+    "hot": 17364
+  },
+  "心理咨询师打开患者心扉过程": {
+    "url": "https://s.weibo.com/weibo?q=%E5%BF%83%E7%90%86%E5%92%A8%E8%AF%A2%E5%B8%88%E6%89%93%E5%BC%80%E6%82%A3%E8%80%85%E5%BF%83%E6%89%89%E8%BF%87%E7%A8%8B&t=31&band_rank=49&Refer=top",
+    "hot": 17363
+  },
   "耶耶头部的含绒量": {
     "url": "https://s.weibo.com/weibo?q=%E8%80%B6%E8%80%B6%E5%A4%B4%E9%83%A8%E7%9A%84%E5%90%AB%E7%BB%92%E9%87%8F&t=31&band_rank=50&Refer=top",
     "hot": 16822
@@ -266,13 +274,5 @@
   "戛纳青年电影之夜红毯": {
     "url": "https://s.weibo.com/weibo?q=%E6%88%9B%E7%BA%B3%E9%9D%92%E5%B9%B4%E7%94%B5%E5%BD%B1%E4%B9%8B%E5%A4%9C%E7%BA%A2%E6%AF%AF&t=31&band_rank=46&Refer=top",
     "hot": 16269
-  },
-  "夏天最喜欢的几款香水": {
-    "url": "https://s.weibo.com/weibo?q=%E5%A4%8F%E5%A4%A9%E6%9C%80%E5%96%9C%E6%AC%A2%E7%9A%84%E5%87%A0%E6%AC%BE%E9%A6%99%E6%B0%B4&t=31&band_rank=46&Refer=top",
-    "hot": 14524
-  },
-  "心理咨询师打开患者心扉过程": {
-    "url": "https://s.weibo.com/weibo?q=%E5%BF%83%E7%90%86%E5%92%A8%E8%AF%A2%E5%B8%88%E6%89%93%E5%BC%80%E6%82%A3%E8%80%85%E5%BF%83%E6%89%89%E8%BF%87%E7%A8%8B&t=31&band_rank=49&Refer=top",
-    "hot": 14517
   }
 }
