@@ -1,7 +1,7 @@
 {
   "歌手直播": {
     "url": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E7%9B%B4%E6%92%AD&t=31&band_rank=1&Refer=top",
-    "hot": 12388928
+    "hot": 13094155
   },
   "个人住房公积金贷款利率下调0.25%": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AA%E4%BA%BA%E4%BD%8F%E6%88%BF%E5%85%AC%E7%A7%AF%E9%87%91%E8%B4%B7%E6%AC%BE%E5%88%A9%E7%8E%87%E4%B8%8B%E8%B0%830.25%25%23&t=31&band_rank=5&Refer=top",
@@ -247,29 +247,45 @@
     "url": "https://s.weibo.com/weibo?q=%E9%A9%AC%E6%80%9D%E7%BA%AF%20%E7%98%A6%E8%BA%AB%E5%90%8E&t=31&band_rank=12&Refer=top",
     "hot": 500674
   },
+  "那英 不在": {
+    "url": "https://s.weibo.com/weibo?q=%E9%82%A3%E8%8B%B1%20%E4%B8%8D%E5%9C%A8&t=31&band_rank=35&Refer=top",
+    "hot": 498032
+  },
   "鹿晗回应剪发": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E5%9B%9E%E5%BA%94%E5%89%AA%E5%8F%91%23&t=31&band_rank=8&Refer=top",
     "hot": 497380
   },
   "女朋友效应": {
     "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E6%9C%8B%E5%8F%8B%E6%95%88%E5%BA%94&t=31&band_rank=44&Refer=top",
-    "hot": 494418
+    "hot": 495915
+  },
+  "CBA总决赛": {
+    "url": "https://s.weibo.com/weibo?q=CBA%E6%80%BB%E5%86%B3%E8%B5%9B&t=31&band_rank=19&Refer=top",
+    "hot": 495234
   },
   "LPL获得第四个S赛名额": {
     "url": "https://s.weibo.com/weibo?q=%23LPL%E8%8E%B7%E5%BE%97%E7%AC%AC%E5%9B%9B%E4%B8%AAS%E8%B5%9B%E5%90%8D%E9%A2%9D%23&t=31&band_rank=18&Refer=top",
     "hot": 493975
   },
+  "杨丞琳 开口跑调": {
+    "url": "https://s.weibo.com/weibo?q=%E6%9D%A8%E4%B8%9E%E7%90%B3%20%E5%BC%80%E5%8F%A3%E8%B7%91%E8%B0%83&t=31&band_rank=7&Refer=top",
+    "hot": 493178
+  },
   "男子救助被撞小猫全网寻领养": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%95%91%E5%8A%A9%E8%A2%AB%E6%92%9E%E5%B0%8F%E7%8C%AB%E5%85%A8%E7%BD%91%E5%AF%BB%E9%A2%86%E5%85%BB%23&t=31&band_rank=10&Refer=top",
     "hot": 492826
   },
-  "那英 不在": {
-    "url": "https://s.weibo.com/weibo?q=%E9%82%A3%E8%8B%B1%20%E4%B8%8D%E5%9C%A8&t=31&band_rank=35&Refer=top",
-    "hot": 491857
+  "取消全国房贷利率下限对购房者有何影响": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8F%96%E6%B6%88%E5%85%A8%E5%9B%BD%E6%88%BF%E8%B4%B7%E5%88%A9%E7%8E%87%E4%B8%8B%E9%99%90%E5%AF%B9%E8%B4%AD%E6%88%BF%E8%80%85%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D%23&t=31&band_rank=40&Refer=top",
+    "hot": 490704
   },
   "黄宣太松弛了": {
     "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E5%AE%A3%E5%A4%AA%E6%9D%BE%E5%BC%9B%E4%BA%86&t=31&band_rank=21&Refer=top",
     "hot": 490211
+  },
+  "海来阿木请神请到了杨坤": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B5%B7%E6%9D%A5%E9%98%BF%E6%9C%A8%E8%AF%B7%E7%A5%9E%E8%AF%B7%E5%88%B0%E4%BA%86%E6%9D%A8%E5%9D%A4%23&t=31&band_rank=14&Refer=top",
+    "hot": 487570
   },
   "双揭榜 双淘汰": {
     "url": "https://s.weibo.com/weibo?q=%E5%8F%8C%E6%8F%AD%E6%A6%9C%20%E5%8F%8C%E6%B7%98%E6%B1%B0&t=31&band_rank=31&Refer=top",
@@ -283,9 +299,17 @@
     "url": "https://s.weibo.com/weibo?q=%E8%8F%B2%E7%BB%84%E7%BB%87%E5%8D%95%E6%96%B9%E9%9D%A2%E5%AE%A3%E5%B8%83%E6%88%90%E5%8A%9F%E6%98%AF%E5%9D%91%E8%92%99%E6%8B%90%E9%AA%97&t=31&band_rank=36&Refer=top",
     "hot": 485139
   },
+  "张镇麟怒摔球衣": {
+    "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E9%95%87%E9%BA%9F%E6%80%92%E6%91%94%E7%90%83%E8%A1%A3&t=31&band_rank=49&Refer=top",
+    "hot": 481831
+  },
   "得了带状疱疹有多疼": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%BE%97%E4%BA%86%E5%B8%A6%E7%8A%B6%E7%96%B1%E7%96%B9%E6%9C%89%E5%A4%9A%E7%96%BC%23&t=31&band_rank=38&Refer=top",
     "hot": 480484
+  },
+  "市场称抢狂飙兄弟手机男子系保安": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B8%82%E5%9C%BA%E7%A7%B0%E6%8A%A2%E7%8B%82%E9%A3%99%E5%85%84%E5%BC%9F%E6%89%8B%E6%9C%BA%E7%94%B7%E5%AD%90%E7%B3%BB%E4%BF%9D%E5%AE%89%23&t=31&band_rank=17&Refer=top",
+    "hot": 479093
   },
   "沙溢问时代少年团什么时候解散": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%B2%99%E6%BA%A2%E9%97%AE%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E8%A7%A3%E6%95%A3%23&t=31&band_rank=12&Refer=top",
@@ -303,6 +327,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E8%A7%A3%E8%AF%B433%E4%B8%8A%E7%BA%BF%23&t=31&band_rank=18&Refer=top",
     "hot": 477280
   },
+  "辽疆大战": {
+    "url": "https://s.weibo.com/weibo?q=%23%E8%BE%BD%E7%96%86%E5%A4%A7%E6%88%98%23&t=31&band_rank=47&Refer=top",
+    "hot": 475486
+  },
   "死亡笔记 天使L": {
     "url": "https://s.weibo.com/weibo?q=%E6%AD%BB%E4%BA%A1%E7%AC%94%E8%AE%B0%20%E5%A4%A9%E4%BD%BFL&t=31&band_rank=34&Refer=top",
     "hot": 475236
@@ -315,6 +343,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E6%B5%B7%E9%B2%9C%E5%B8%82%E5%9C%BA%E9%AC%BC%E7%A7%A4%E4%BA%8B%E4%BB%B6%E9%99%84%E8%BF%91%E5%95%86%E6%88%B7%E5%8F%91%E5%A3%B0%23&t=31&band_rank=27&Refer=top",
     "hot": 473444
   },
+  "那英他的手好胖哦": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%82%A3%E8%8B%B1%E4%BB%96%E7%9A%84%E6%89%8B%E5%A5%BD%E8%83%96%E5%93%A6%23&t=31&band_rank=33&Refer=top",
+    "hot": 470811
+  },
   "二手玫瑰是要把嫂子送走么": {
     "url": "https://s.weibo.com/weibo?q=%E4%BA%8C%E6%89%8B%E7%8E%AB%E7%91%B0%E6%98%AF%E8%A6%81%E6%8A%8A%E5%AB%82%E5%AD%90%E9%80%81%E8%B5%B0%E4%B9%88&t=31&band_rank=23&Refer=top",
     "hot": 470546
@@ -323,33 +355,29 @@
     "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E5%AE%A3%20%E5%8F%AB%E4%BD%A0%E4%B8%80%E5%A3%B0%E8%80%81%E5%A4%AA%E5%A9%86&t=31&band_rank=22&Refer=top",
     "hot": 470302
   },
-  "海来阿木请神请到了杨坤": {
-    "url": "https://s.weibo.com/weibo?q=%23%E6%B5%B7%E6%9D%A5%E9%98%BF%E6%9C%A8%E8%AF%B7%E7%A5%9E%E8%AF%B7%E5%88%B0%E4%BA%86%E6%9D%A8%E5%9D%A4%23&t=31&band_rank=14&Refer=top",
-    "hot": 466172
+  "领克07价格": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%A2%86%E5%85%8B07%E4%BB%B7%E6%A0%BC%23&t=31&band_rank=24&Refer=top",
+    "hot": 469839
+  },
+  "今天歌手现场vivo赢麻了": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E6%AD%8C%E6%89%8B%E7%8E%B0%E5%9C%BAvivo%E8%B5%A2%E9%BA%BB%E4%BA%86%23&t=31&band_rank=48&Refer=top",
+    "hot": 469046
   },
   "香缇莫被挑战": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%A6%99%E7%BC%87%E8%8E%AB%E8%A2%AB%E6%8C%91%E6%88%98%23&t=31&band_rank=15&Refer=top",
     "hot": 465686
   },
-  "取消全国房贷利率下限对购房者有何影响": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%8F%96%E6%B6%88%E5%85%A8%E5%9B%BD%E6%88%BF%E8%B4%B7%E5%88%A9%E7%8E%87%E4%B8%8B%E9%99%90%E5%AF%B9%E8%B4%AD%E6%88%BF%E8%80%85%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D%23&t=31&band_rank=40&Refer=top",
-    "hot": 464567
+  "庆余年2": {
+    "url": "https://s.weibo.com/weibo?q=%E5%BA%86%E4%BD%99%E5%B9%B42&t=31&band_rank=48&Refer=top",
+    "hot": 465168
   },
   "周杰伦 哥平常是不随便流泪的": {
     "url": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%20%E5%93%A5%E5%B9%B3%E5%B8%B8%E6%98%AF%E4%B8%8D%E9%9A%8F%E4%BE%BF%E6%B5%81%E6%B3%AA%E7%9A%84&t=31&band_rank=25&Refer=top",
     "hot": 464158
   },
-  "CBA总决赛": {
-    "url": "https://s.weibo.com/weibo?q=CBA%E6%80%BB%E5%86%B3%E8%B5%9B&t=31&band_rank=19&Refer=top",
-    "hot": 463369
-  },
   "Kpop选秀史上第一位脱北练习生": {
     "url": "https://s.weibo.com/weibo?q=%23Kpop%E9%80%89%E7%A7%80%E5%8F%B2%E4%B8%8A%E7%AC%AC%E4%B8%80%E4%BD%8D%E8%84%B1%E5%8C%97%E7%BB%83%E4%B9%A0%E7%94%9F%23&t=31&band_rank=14&Refer=top",
     "hot": 463199
-  },
-  "庆余年2": {
-    "url": "https://s.weibo.com/weibo?q=%E5%BA%86%E4%BD%99%E5%B9%B42&t=31&band_rank=48&Refer=top",
-    "hot": 461335
   },
   "戚薇二公排名第一": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%88%9A%E8%96%87%E4%BA%8C%E5%85%AC%E6%8E%92%E5%90%8D%E7%AC%AC%E4%B8%80%23&t=31&band_rank=22&Refer=top",
@@ -363,10 +391,6 @@
     "url": "https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%E7%9B%B4%E6%92%AD&t=31&band_rank=16&Refer=top",
     "hot": 451043
   },
-  "辽疆大战": {
-    "url": "https://s.weibo.com/weibo?q=%23%E8%BE%BD%E7%96%86%E5%A4%A7%E6%88%98%23&t=31&band_rank=47&Refer=top",
-    "hot": 443055
-  },
   "你购房是公积金贷还是商贷": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%B4%AD%E6%88%BF%E6%98%AF%E5%85%AC%E7%A7%AF%E9%87%91%E8%B4%B7%E8%BF%98%E6%98%AF%E5%95%86%E8%B4%B7%23&t=31&band_rank=38&Refer=top",
     "hot": 441629
@@ -374,10 +398,6 @@
   "歌手收视率": {
     "url": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E6%94%B6%E8%A7%86%E7%8E%87&t=31&band_rank=28&Refer=top",
     "hot": 438488
-  },
-  "今天歌手现场vivo赢麻了": {
-    "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E6%AD%8C%E6%89%8B%E7%8E%B0%E5%9C%BAvivo%E8%B5%A2%E9%BA%BB%E4%BA%86%23&t=31&band_rank=48&Refer=top",
-    "hot": 438057
   },
   "躺了五年还给范闲躺漏气了": {
     "url": "https://s.weibo.com/weibo?q=%E8%BA%BA%E4%BA%86%E4%BA%94%E5%B9%B4%E8%BF%98%E7%BB%99%E8%8C%83%E9%97%B2%E8%BA%BA%E6%BC%8F%E6%B0%94%E4%BA%86&t=31&band_rank=45&Refer=top",
@@ -399,9 +419,17 @@
     "url": "https://s.weibo.com/weibo?q=%E4%BD%95%E7%82%85%20%E4%B8%8D%E5%9C%A8%E8%AF%9D%E4%B8%8B&t=31&band_rank=27&Refer=top",
     "hot": 424202
   },
+  "中俄元首北京会晤看点": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BF%84%E5%85%83%E9%A6%96%E5%8C%97%E4%BA%AC%E4%BC%9A%E6%99%A4%E7%9C%8B%E7%82%B9%23&t=31&band_rank=30&Refer=top",
+    "hot": 420221
+  },
   "鬼秤": {
     "url": "https://s.weibo.com/weibo?q=%E9%AC%BC%E7%A7%A4&t=31&band_rank=17&Refer=top",
     "hot": 418504
+  },
+  "沈梦辰在歌手录跑男": {
+    "url": "https://s.weibo.com/weibo?q=%E6%B2%88%E6%A2%A6%E8%BE%B0%E5%9C%A8%E6%AD%8C%E6%89%8B%E5%BD%95%E8%B7%91%E7%94%B7&t=31&band_rank=32&Refer=top",
+    "hot": 417832
   },
   "惠英红 易烊千玺在后面赶紧去": {
     "url": "https://s.weibo.com/weibo?q=%E6%83%A0%E8%8B%B1%E7%BA%A2%20%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%9C%A8%E5%90%8E%E9%9D%A2%E8%B5%B6%E7%B4%A7%E5%8E%BB&t=31&band_rank=34&Refer=top",
@@ -483,10 +511,6 @@
     "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A6%E7%A5%9E%E6%94%B9%E5%90%8Dotto%E8%A2%ABmlxg%E9%AA%82%23&t=31&band_rank=17&Refer=top",
     "hot": 379720
   },
-  "那英他的手好胖哦": {
-    "url": "https://s.weibo.com/weibo?q=%23%E9%82%A3%E8%8B%B1%E4%BB%96%E7%9A%84%E6%89%8B%E5%A5%BD%E8%83%96%E5%93%A6%23&t=31&band_rank=33&Refer=top",
-    "hot": 374901
-  },
   "iPhone7系列用户可获苹果赔偿": {
     "url": "https://s.weibo.com/weibo?q=%23iPhone7%E7%B3%BB%E5%88%97%E7%94%A8%E6%88%B7%E5%8F%AF%E8%8E%B7%E8%8B%B9%E6%9E%9C%E8%B5%94%E5%81%BF%23&t=31&band_rank=25&Refer=top",
     "hot": 373823
@@ -526,10 +550,6 @@
   "郭艾伦采访": {
     "url": "https://s.weibo.com/weibo?q=%E9%83%AD%E8%89%BE%E4%BC%A6%E9%87%87%E8%AE%BF&t=31&band_rank=34&Refer=top",
     "hot": 372842
-  },
-  "张镇麟怒摔球衣": {
-    "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E9%95%87%E9%BA%9F%E6%80%92%E6%91%94%E7%90%83%E8%A1%A3&t=31&band_rank=49&Refer=top",
-    "hot": 372671
   },
   "T1战胜G2": {
     "url": "https://s.weibo.com/weibo?q=T1%E6%88%98%E8%83%9CG2&t=31&band_rank=6&Refer=top",
@@ -610,6 +630,14 @@
   "戚薇称体重": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%88%9A%E8%96%87%E7%A7%B0%E4%BD%93%E9%87%8D%23&t=31&band_rank=14&Refer=top",
     "hot": 304929
+  },
+  "海来阿木受众群体 我妈": {
+    "url": "https://s.weibo.com/weibo?q=%E6%B5%B7%E6%9D%A5%E9%98%BF%E6%9C%A8%E5%8F%97%E4%BC%97%E7%BE%A4%E4%BD%93%20%E6%88%91%E5%A6%88&t=31&band_rank=36&Refer=top",
+    "hot": 304082
+  },
+  "梁龙表情": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%A2%81%E9%BE%99%E8%A1%A8%E6%83%85%23&t=31&band_rank=39&Refer=top",
+    "hot": 303848
   },
   "森林狼3比3掘金": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%A3%AE%E6%9E%97%E7%8B%BC3%E6%AF%943%E6%8E%98%E9%87%91%23&t=31&band_rank=47&Refer=top",
@@ -783,6 +811,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%96%9C%E6%AC%A2%E7%9D%A1%E5%89%8D%E7%8E%A9%E6%89%8B%E6%9C%BA%E7%9A%84%E4%BA%BA%E8%AD%A6%E6%83%955%E4%B8%AA%E6%AF%9B%E7%97%85%E6%89%BE%E4%B8%8A%E9%97%A8%23&t=31&band_rank=21&Refer=top",
     "hot": 247717
   },
+  "歌手顺序": {
+    "url": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E9%A1%BA%E5%BA%8F&t=31&band_rank=44&Refer=top",
+    "hot": 247223
+  },
   "爷爷给奶奶买了店里最贵的雪糕": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E7%BB%99%E5%A5%B6%E5%A5%B6%E4%B9%B0%E4%BA%86%E5%BA%97%E9%87%8C%E6%9C%80%E8%B4%B5%E7%9A%84%E9%9B%AA%E7%B3%95%23&t=31&band_rank=10&Refer=top",
     "hot": 246329
@@ -822,6 +854,14 @@
   "黄子韬只承认鹿晗比自己帅": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%8F%AA%E6%89%BF%E8%AE%A4%E9%B9%BF%E6%99%97%E6%AF%94%E8%87%AA%E5%B7%B1%E5%B8%85%23&t=31&band_rank=13&Refer=top",
     "hot": 233126
+  },
+  "CFPLS24揭幕战": {
+    "url": "https://s.weibo.com/weibo?q=%23CFPLS24%E6%8F%AD%E5%B9%95%E6%88%98%23&t=31&band_rank=48&Refer=top",
+    "hot": 233100
+  },
+  "没喝完的饮料到底能放多久": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B2%A1%E5%96%9D%E5%AE%8C%E7%9A%84%E9%A5%AE%E6%96%99%E5%88%B0%E5%BA%95%E8%83%BD%E6%94%BE%E5%A4%9A%E4%B9%85%23&t=31&band_rank=49&Refer=top",
+    "hot": 231190
   },
   "中版恋爱兄妹": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%89%88%E6%81%8B%E7%88%B1%E5%85%84%E5%A6%B9%23&t=31&band_rank=42&Refer=top",
