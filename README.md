@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-05-18 00:49:17.521459 
-![2024-05-18](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240518/2024-05-18.png?versionId=4_z8fbbed132d73df8689c40f13_f10593c0df9780875_d20240517_m164917_c005_v0501018_t0032_u01715964557449) 
+最后更新时间 2024-05-18 01:10:31.768053 
+![2024-05-18](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240518/2024-05-18.png?versionId=4_z8fbbed132d73df8689c40f13_f113ff8c214f534f7_d20240517_m171031_c005_v0501018_t0007_u01715965831357) 
 1. [亚当真来歌手了](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E5%BD%93%E7%9C%9F%E6%9D%A5%E6%AD%8C%E6%89%8B%E4%BA%86%23&t=31&band_rank=1&Refer=top) 4802347
 1. [汪苏泷 表现](https://s.weibo.com/weibo?q=%E6%B1%AA%E8%8B%8F%E6%B3%B7%20%E8%A1%A8%E7%8E%B0&t=31&band_rank=2&Refer=top) 2582308
 1. [盘点中国知名体育博物馆](https://s.weibo.com/weibo?q=%23%E7%9B%98%E7%82%B9%E4%B8%AD%E5%9B%BD%E7%9F%A5%E5%90%8D%E4%BD%93%E8%82%B2%E5%8D%9A%E7%89%A9%E9%A6%86%23&t=31&band_rank=3&Refer=top) 2015072
@@ -66,6 +66,9 @@
 1. [张若昀 还可以更狂一点](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%8B%A5%E6%98%80%20%E8%BF%98%E5%8F%AF%E4%BB%A5%E6%9B%B4%E7%8B%82%E4%B8%80%E7%82%B9&t=31&band_rank=46&Refer=top) 153906
 1. [他走了20公里来看病](https://s.weibo.com/weibo?q=%E4%BB%96%E8%B5%B0%E4%BA%8620%E5%85%AC%E9%87%8C%E6%9D%A5%E7%9C%8B%E7%97%85&t=31&band_rank=49&Refer=top) 153165
 1. [CBA总决赛](https://s.weibo.com/weibo?q=CBA%E6%80%BB%E5%86%B3%E8%B5%9B&t=31&band_rank=50&Refer=top) 153087
+1. [张真源变张真火](https://s.weibo.com/weibo?q=%E5%BC%A0%E7%9C%9F%E6%BA%90%E5%8F%98%E5%BC%A0%E7%9C%9F%E7%81%AB&t=31&band_rank=37&Refer=top) 134655
+1. [王鹤棣音综从嘻嘻到不嘻嘻](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E9%9F%B3%E7%BB%BC%E4%BB%8E%E5%98%BB%E5%98%BB%E5%88%B0%E4%B8%8D%E5%98%BB%E5%98%BB%23&t=31&band_rank=44&Refer=top) 132525
+1. [女朋友的情绪价值过于饱满了](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%9C%8B%E5%8F%8B%E7%9A%84%E6%83%85%E7%BB%AA%E4%BB%B7%E5%80%BC%E8%BF%87%E4%BA%8E%E9%A5%B1%E6%BB%A1%E4%BA%86%23&t=31&band_rank=49&Refer=top) 131384
 <!-- END -->
 
 历史归档 [./archives](./archives)
