@@ -179,6 +179,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%B7%B1V%E7%99%BD%E8%A3%99%23&t=31&band_rank=38&Refer=top",
     "hot": 152913
   },
+  "亚当曾说想和蔡依林合作": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BA%9A%E5%BD%93%E6%9B%BE%E8%AF%B4%E6%83%B3%E5%92%8C%E8%94%A1%E4%BE%9D%E6%9E%97%E5%90%88%E4%BD%9C%23&t=31&band_rank=33&Refer=top",
+    "hot": 150270
+  },
   "周深演唱会庆余年联动开场": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BA%86%E4%BD%99%E5%B9%B4%E8%81%94%E5%8A%A8%E5%BC%80%E5%9C%BA%23&t=31&band_rank=40&Refer=top",
     "hot": 148910
@@ -219,10 +223,6 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E7%A5%9D%E7%A6%8FRed%E5%A5%B3%E5%9B%A2%23&t=31&band_rank=47&Refer=top",
     "hot": 121785
   },
-  "亚当曾说想和蔡依林合作": {
-    "url": "https://s.weibo.com/weibo?q=%23%E4%BA%9A%E5%BD%93%E6%9B%BE%E8%AF%B4%E6%83%B3%E5%92%8C%E8%94%A1%E4%BE%9D%E6%9E%97%E5%90%88%E4%BD%9C%23&t=31&band_rank=33&Refer=top",
-    "hot": 117435
-  },
   "南阳一男童被狗咬伤离世调查结果公布": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%98%B3%E4%B8%80%E7%94%B7%E7%AB%A5%E8%A2%AB%E7%8B%97%E5%92%AC%E4%BC%A4%E7%A6%BB%E4%B8%96%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C%E5%85%AC%E5%B8%83%23&t=31&band_rank=48&Refer=top",
     "hot": 116897
@@ -250,5 +250,9 @@
   "Bin说三比零T1": {
     "url": "https://s.weibo.com/weibo?q=%23Bin%E8%AF%B4%E4%B8%89%E6%AF%94%E9%9B%B6T1%23&t=31&band_rank=48&Refer=top",
     "hot": 81025
+  },
+  "一诺单杀小胖": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%AF%BA%E5%8D%95%E6%9D%80%E5%B0%8F%E8%83%96%23&t=31&band_rank=42&Refer=top",
+    "hot": 72152
   }
 }
