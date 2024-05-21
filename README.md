@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-05-22 03:36:45.488187 
-![2024-05-22](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240522/2024-05-22.png?versionId=4_z8fbbed132d73df8689c40f13_f1094883a1ff6059f_d20240521_m193645_c005_v0501003_t0041_u01716320205438) 
+最后更新时间 2024-05-22 03:49:22.666412 
+![2024-05-22](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240522/2024-05-22.png?versionId=4_z8fbbed132d73df8689c40f13_f1181a3eda2e9186c_d20240521_m194922_c005_v0501019_t0048_u01716320962473) 
 1. [蔡徐坤范思哲全球品牌代言人](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E8%8C%83%E6%80%9D%E5%93%B2%E5%85%A8%E7%90%83%E5%93%81%E7%89%8C%E4%BB%A3%E8%A8%80%E4%BA%BA%23&t=31&band_rank=1&Refer=top) 1096913
 1. [夫妻俩因为同一个习惯双双确诊结直肠癌](https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E4%BF%A9%E5%9B%A0%E4%B8%BA%E5%90%8C%E4%B8%80%E4%B8%AA%E4%B9%A0%E6%83%AF%E5%8F%8C%E5%8F%8C%E7%A1%AE%E8%AF%8A%E7%BB%93%E7%9B%B4%E8%82%A0%E7%99%8C%23&t=31&band_rank=2&Refer=top) 941274
 1. [港珠澳大桥今年出入境客流破1000万人次](https://s.weibo.com/weibo?q=%23%E6%B8%AF%E7%8F%A0%E6%BE%B3%E5%A4%A7%E6%A1%A5%E4%BB%8A%E5%B9%B4%E5%87%BA%E5%85%A5%E5%A2%83%E5%AE%A2%E6%B5%81%E7%A0%B41000%E4%B8%87%E4%BA%BA%E6%AC%A1%23&t=31&band_rank=3&Refer=top) 726477
