@@ -7,9 +7,9 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-05-23 00:15:55.691538 
-![2024-05-23](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240523/2024-05-23.png?versionId=4_z8fbbed132d73df8689c40f13_f113b710a4617a4fc_d20240522_m161555_c005_v0501020_t0044_u01716394555502) 
-1. [B站取消播放时长指标外显改版](https://s.weibo.com/weibo?q=%23B%E7%AB%99%E5%8F%96%E6%B6%88%E6%92%AD%E6%94%BE%E6%97%B6%E9%95%BF%E6%8C%87%E6%A0%87%E5%A4%96%E6%98%BE%E6%94%B9%E7%89%88%23&t=31&band_rank=1&Refer=top) 1147146
+最后更新时间 2024-05-23 00:33:53.075995 
+![2024-05-23](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240523/2024-05-23.png?versionId=4_z8fbbed132d73df8689c40f13_f1117f035e17953fc_d20240522_m163352_c005_v0501007_t0059_u01716395632621) 
+1. [B站取消播放时长指标外显改版](https://s.weibo.com/weibo?q=%23B%E7%AB%99%E5%8F%96%E6%B6%88%E6%92%AD%E6%94%BE%E6%97%B6%E9%95%BF%E6%8C%87%E6%A0%87%E5%A4%96%E6%98%BE%E6%94%B9%E7%89%88%23&t=31&band_rank=1&Refer=top) 1166248
 1. [庆余年 杀疯了](https://s.weibo.com/weibo?q=%E5%BA%86%E4%BD%99%E5%B9%B4%20%E6%9D%80%E7%96%AF%E4%BA%86&t=31&band_rank=2&Refer=top) 968296
 1. [我国有345个国家级夜间文化和旅游消费集聚区](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E6%9C%89345%E4%B8%AA%E5%9B%BD%E5%AE%B6%E7%BA%A7%E5%A4%9C%E9%97%B4%E6%96%87%E5%8C%96%E5%92%8C%E6%97%85%E6%B8%B8%E6%B6%88%E8%B4%B9%E9%9B%86%E8%81%9A%E5%8C%BA%23&t=31&band_rank=3&Refer=top) 810368
 1. [六公主回应被认成亚当](https://s.weibo.com/weibo?q=%23%E5%85%AD%E5%85%AC%E4%B8%BB%E5%9B%9E%E5%BA%94%E8%A2%AB%E8%AE%A4%E6%88%90%E4%BA%9A%E5%BD%93%23&t=31&band_rank=4&Refer=top) 687687
@@ -42,23 +42,27 @@
 1. [杨幂说和郭晓婷很难对视](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E8%AF%B4%E5%92%8C%E9%83%AD%E6%99%93%E5%A9%B7%E5%BE%88%E9%9A%BE%E5%AF%B9%E8%A7%86%23&t=31&band_rank=31&Refer=top) 133939
 1. [这一刻范闲像有家长撑腰的孩子](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%80%E5%88%BB%E8%8C%83%E9%97%B2%E5%83%8F%E6%9C%89%E5%AE%B6%E9%95%BF%E6%92%91%E8%85%B0%E7%9A%84%E5%AD%A9%E5%AD%90%23&t=31&band_rank=32&Refer=top) 131804
 1. [亚当 甘露寺美甲](https://s.weibo.com/weibo?q=%E4%BA%9A%E5%BD%93%20%E7%94%98%E9%9C%B2%E5%AF%BA%E7%BE%8E%E7%94%B2&t=31&band_rank=33&Refer=top) 124378
+1. [同年同月同日生的鉴察院双子星](https://s.weibo.com/weibo?q=%E5%90%8C%E5%B9%B4%E5%90%8C%E6%9C%88%E5%90%8C%E6%97%A5%E7%94%9F%E7%9A%84%E9%89%B4%E5%AF%9F%E9%99%A2%E5%8F%8C%E5%AD%90%E6%98%9F&t=31&band_rank=47&Refer=top) 116452
 1. [中医认为半月痕是五脏六腑的警示器](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%8C%BB%E8%AE%A4%E4%B8%BA%E5%8D%8A%E6%9C%88%E7%97%95%E6%98%AF%E4%BA%94%E8%84%8F%E5%85%AD%E8%85%91%E7%9A%84%E8%AD%A6%E7%A4%BA%E5%99%A8%23&t=31&band_rank=34&Refer=top) 115941
 1. [杨鸣夺冠采访没了](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E9%B8%A3%E5%A4%BA%E5%86%A0%E9%87%87%E8%AE%BF%E6%B2%A1%E4%BA%86%23&t=31&band_rank=35&Refer=top) 104101
 1. [杨幂挽龚俊出场](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E6%8C%BD%E9%BE%9A%E4%BF%8A%E5%87%BA%E5%9C%BA%23&t=31&band_rank=36&Refer=top) 104098
 1. [庆余年15集](https://s.weibo.com/weibo?q=%E5%BA%86%E4%BD%99%E5%B9%B415%E9%9B%86&t=31&band_rank=37&Refer=top) 103827
 1. [明显感觉到大学逐渐高中化](https://s.weibo.com/weibo?q=%23%E6%98%8E%E6%98%BE%E6%84%9F%E8%A7%89%E5%88%B0%E5%A4%A7%E5%AD%A6%E9%80%90%E6%B8%90%E9%AB%98%E4%B8%AD%E5%8C%96%23&t=31&band_rank=38&Refer=top) 103349
-1. [chatgpt崩了](https://s.weibo.com/weibo?q=chatgpt%E5%B4%A9%E4%BA%86&t=31&band_rank=39&Refer=top) 96096
-1. [李晓旭 受伤祭旗](https://s.weibo.com/weibo?q=%E6%9D%8E%E6%99%93%E6%97%AD%20%E5%8F%97%E4%BC%A4%E7%A5%AD%E6%97%97&t=31&band_rank=40&Refer=top) 95636
-1. [边佑锡作息](https://s.weibo.com/weibo?q=%E8%BE%B9%E4%BD%91%E9%94%A1%E4%BD%9C%E6%81%AF&t=31&band_rank=41&Refer=top) 95635
+1. [边佑锡作息](https://s.weibo.com/weibo?q=%E8%BE%B9%E4%BD%91%E9%94%A1%E4%BD%9C%E6%81%AF&t=31&band_rank=41&Refer=top) 98013
+1. [拼多多总市值超越阿里巴巴](https://s.weibo.com/weibo?q=%23%E6%8B%BC%E5%A4%9A%E5%A4%9A%E6%80%BB%E5%B8%82%E5%80%BC%E8%B6%85%E8%B6%8A%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%23&t=31&band_rank=46&Refer=top) 98013
+1. [chatgpt崩了](https://s.weibo.com/weibo?q=chatgpt%E5%B4%A9%E4%BA%86&t=31&band_rank=39&Refer=top) 97964
+1. [李晓旭 受伤祭旗](https://s.weibo.com/weibo?q=%E6%9D%8E%E6%99%93%E6%97%AD%20%E5%8F%97%E4%BC%A4%E7%A5%AD%E6%97%97&t=31&band_rank=40&Refer=top) 97939
 1. [孙千身材](https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%8D%83%E8%BA%AB%E6%9D%90%23&t=31&band_rank=42&Refer=top) 94539
+1. [伊能静好会写](https://s.weibo.com/weibo?q=%E4%BC%8A%E8%83%BD%E9%9D%99%E5%A5%BD%E4%BC%9A%E5%86%99&t=31&band_rank=44&Refer=top) 93791
 1. [长河落日圆现实画面好壮美](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B2%B3%E8%90%BD%E6%97%A5%E5%9C%86%E7%8E%B0%E5%AE%9E%E7%94%BB%E9%9D%A2%E5%A5%BD%E5%A3%AE%E7%BE%8E%23&t=31&band_rank=43&Refer=top) 93617
-1. [伊能静好会写](https://s.weibo.com/weibo?q=%E4%BC%8A%E8%83%BD%E9%9D%99%E5%A5%BD%E4%BC%9A%E5%86%99&t=31&band_rank=44&Refer=top) 93422
+1. [李承泽未承受半分恩泽](https://s.weibo.com/weibo?q=%E6%9D%8E%E6%89%BF%E6%B3%BD%E6%9C%AA%E6%89%BF%E5%8F%97%E5%8D%8A%E5%88%86%E6%81%A9%E6%B3%BD&t=31&band_rank=44&Refer=top) 93383
+1. [aespa造型](https://s.weibo.com/weibo?q=aespa%E9%80%A0%E5%9E%8B&t=31&band_rank=46&Refer=top) 93315
+1. [赵继伟赛后发文](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E7%BB%A7%E4%BC%9F%E8%B5%9B%E5%90%8E%E5%8F%91%E6%96%87%23&t=31&band_rank=47&Refer=top) 93245
+1. [张镇麟采访](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%95%87%E9%BA%9F%E9%87%87%E8%AE%BF%23&t=31&band_rank=49&Refer=top) 93186
+1. [B站社区与产品负责人道歉](https://s.weibo.com/weibo?q=%23B%E7%AB%99%E7%A4%BE%E5%8C%BA%E4%B8%8E%E4%BA%A7%E5%93%81%E8%B4%9F%E8%B4%A3%E4%BA%BA%E9%81%93%E6%AD%89%23&t=31&band_rank=50&Refer=top) 93118
 1. [想替范闲狂敲庆帝](https://s.weibo.com/weibo?q=%23%E6%83%B3%E6%9B%BF%E8%8C%83%E9%97%B2%E7%8B%82%E6%95%B2%E5%BA%86%E5%B8%9D%23&t=31&band_rank=45&Refer=top) 92889
-1. [拼多多总市值超越阿里巴巴](https://s.weibo.com/weibo?q=%23%E6%8B%BC%E5%A4%9A%E5%A4%9A%E6%80%BB%E5%B8%82%E5%80%BC%E8%B6%85%E8%B6%8A%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%23&t=31&band_rank=46&Refer=top) 92693
-1. [同年同月同日生的鉴察院双子星](https://s.weibo.com/weibo?q=%E5%90%8C%E5%B9%B4%E5%90%8C%E6%9C%88%E5%90%8C%E6%97%A5%E7%94%9F%E7%9A%84%E9%89%B4%E5%AF%9F%E9%99%A2%E5%8F%8C%E5%AD%90%E6%98%9F&t=31&band_rank=47&Refer=top) 90888
 1. [郭艾伦直播](https://s.weibo.com/weibo?q=%E9%83%AD%E8%89%BE%E4%BC%A6%E7%9B%B4%E6%92%AD&t=31&band_rank=48&Refer=top) 90848
 1. [田田小阿姨抖音账号搜索不到](https://s.weibo.com/weibo?q=%23%E7%94%B0%E7%94%B0%E5%B0%8F%E9%98%BF%E5%A7%A8%E6%8A%96%E9%9F%B3%E8%B4%A6%E5%8F%B7%E6%90%9C%E7%B4%A2%E4%B8%8D%E5%88%B0%23&t=31&band_rank=49&Refer=top) 89984
-1. [B站社区与产品负责人道歉](https://s.weibo.com/weibo?q=%23B%E7%AB%99%E7%A4%BE%E5%8C%BA%E4%B8%8E%E4%BA%A7%E5%93%81%E8%B4%9F%E8%B4%A3%E4%BA%BA%E9%81%93%E6%AD%89%23&t=31&band_rank=50&Refer=top) 88210
 <!-- END -->
 
 历史归档 [./archives](./archives)
