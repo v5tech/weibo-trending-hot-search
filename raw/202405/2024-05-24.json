@@ -187,6 +187,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%BE%99%E8%99%BE%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8D%E7%88%B1%E5%90%83%E4%BA%86%23&t=31&band_rank=40&Refer=top",
     "hot": 109948
   },
+  "百万留学回国后月薪7000": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%99%BE%E4%B8%87%E7%95%99%E5%AD%A6%E5%9B%9E%E5%9B%BD%E5%90%8E%E6%9C%88%E8%96%AA7000%23&t=31&band_rank=38&Refer=top",
+    "hot": 109492
+  },
   "此次台岛周边联合演习有何特点": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%AD%A4%E6%AC%A1%E5%8F%B0%E5%B2%9B%E5%91%A8%E8%BE%B9%E8%81%94%E5%90%88%E6%BC%94%E4%B9%A0%E6%9C%89%E4%BD%95%E7%89%B9%E7%82%B9%23&t=31&band_rank=46&Refer=top",
     "hot": 104583
@@ -206,10 +210,6 @@
   "TES官宣教练Maokai加入": {
     "url": "https://s.weibo.com/weibo?q=%23TES%E5%AE%98%E5%AE%A3%E6%95%99%E7%BB%83Maokai%E5%8A%A0%E5%85%A5%23&t=31&band_rank=50&Refer=top",
     "hot": 104067
-  },
-  "百万留学回国后月薪7000": {
-    "url": "https://s.weibo.com/weibo?q=%23%E7%99%BE%E4%B8%87%E7%95%99%E5%AD%A6%E5%9B%9E%E5%9B%BD%E5%90%8E%E6%9C%88%E8%96%AA7000%23&t=31&band_rank=38&Refer=top",
-    "hot": 99400
   },
   "宁那贝儿": {
     "url": "https://s.weibo.com/weibo?q=%E5%AE%81%E9%82%A3%E8%B4%9D%E5%84%BF&t=31&band_rank=41&Refer=top",
@@ -265,18 +265,22 @@
   },
   "当小女孩知道舅舅听不了呕吐声": {
     "url": "https://s.weibo.com/weibo?q=%E5%BD%93%E5%B0%8F%E5%A5%B3%E5%AD%A9%E7%9F%A5%E9%81%93%E8%88%85%E8%88%85%E5%90%AC%E4%B8%8D%E4%BA%86%E5%91%95%E5%90%90%E5%A3%B0&t=31&band_rank=46&Refer=top",
-    "hot": 22383
+    "hot": 23345
+  },
+  "涂山红红 遥遥领先": {
+    "url": "https://s.weibo.com/weibo?q=%E6%B6%82%E5%B1%B1%E7%BA%A2%E7%BA%A2%20%E9%81%A5%E9%81%A5%E9%A2%86%E5%85%88&t=31&band_rank=48&Refer=top",
+    "hot": 21867
   },
   "修仙突然就接地气了": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%BF%AE%E4%BB%99%E7%AA%81%E7%84%B6%E5%B0%B1%E6%8E%A5%E5%9C%B0%E6%B0%94%E4%BA%86%23&t=31&band_rank=50&Refer=top",
     "hot": 19526
   },
-  "涂山红红 遥遥领先": {
-    "url": "https://s.weibo.com/weibo?q=%E6%B6%82%E5%B1%B1%E7%BA%A2%E7%BA%A2%20%E9%81%A5%E9%81%A5%E9%A2%86%E5%85%88&t=31&band_rank=48&Refer=top",
-    "hot": 17935
-  },
   "网文网剧网游文旅的顶流在这儿齐聚": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E6%96%87%E7%BD%91%E5%89%A7%E7%BD%91%E6%B8%B8%E6%96%87%E6%97%85%E7%9A%84%E9%A1%B6%E6%B5%81%E5%9C%A8%E8%BF%99%E5%84%BF%E9%BD%90%E8%81%9A%23&t=31&band_rank=50&Refer=top",
     "hot": 17679
+  },
+  "张颂文重现狂飙鱼摊名场面": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%A2%82%E6%96%87%E9%87%8D%E7%8E%B0%E7%8B%82%E9%A3%99%E9%B1%BC%E6%91%8A%E5%90%8D%E5%9C%BA%E9%9D%A2%23&t=31&band_rank=48&Refer=top",
+    "hot": 16734
   }
 }
