@@ -119,6 +119,10 @@
     "url": "https://s.weibo.com/weibo?q=%E9%85%B1%E5%9B%AD%E5%BC%84&t=31&band_rank=25&Refer=top",
     "hot": 247255
   },
+  "邓紫棋将刷新亚洲女歌手纪录": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%82%93%E7%B4%AB%E6%A3%8B%E5%B0%86%E5%88%B7%E6%96%B0%E4%BA%9A%E6%B4%B2%E5%A5%B3%E6%AD%8C%E6%89%8B%E7%BA%AA%E5%BD%95%23&t=31&band_rank=46&Refer=top",
+    "hot": 236021
+  },
   "蔡依林演唱会": {
     "url": "https://s.weibo.com/weibo?q=%E8%94%A1%E4%BE%9D%E6%9E%97%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=27&Refer=top",
     "hot": 230827
@@ -130,10 +134,6 @@
   "苗苗恶补小时代被郭碧婷制止": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%8B%97%E8%8B%97%E6%81%B6%E8%A1%A5%E5%B0%8F%E6%97%B6%E4%BB%A3%E8%A2%AB%E9%83%AD%E7%A2%A7%E5%A9%B7%E5%88%B6%E6%AD%A2%23&t=31&band_rank=28&Refer=top",
     "hot": 218376
-  },
-  "邓紫棋将刷新亚洲女歌手纪录": {
-    "url": "https://s.weibo.com/weibo?q=%23%E9%82%93%E7%B4%AB%E6%A3%8B%E5%B0%86%E5%88%B7%E6%96%B0%E4%BA%9A%E6%B4%B2%E5%A5%B3%E6%AD%8C%E6%89%8B%E7%BA%AA%E5%BD%95%23&t=31&band_rank=46&Refer=top",
-    "hot": 207790
   },
   "假性亲密关系": {
     "url": "https://s.weibo.com/weibo?q=%E5%81%87%E6%80%A7%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB&t=31&band_rank=29&Refer=top",
@@ -223,13 +223,13 @@
     "url": "https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E5%B7%A5%E4%BD%9C%E5%AE%A4%E8%BE%9F%E8%B0%A3%23&t=31&band_rank=49&Refer=top",
     "hot": 114597
   },
+  "手机一定要清理的四大文件": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E4%B8%80%E5%AE%9A%E8%A6%81%E6%B8%85%E7%90%86%E7%9A%84%E5%9B%9B%E5%A4%A7%E6%96%87%E4%BB%B6%23&t=31&band_rank=44&Refer=top",
+    "hot": 109789
+  },
   "志愿者为何开始避雷演唱会了": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%BF%97%E6%84%BF%E8%80%85%E4%B8%BA%E4%BD%95%E5%BC%80%E5%A7%8B%E9%81%BF%E9%9B%B7%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BA%86%23&t=31&band_rank=34&Refer=top",
     "hot": 101810
-  },
-  "手机一定要清理的四大文件": {
-    "url": "https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E4%B8%80%E5%AE%9A%E8%A6%81%E6%B8%85%E7%90%86%E7%9A%84%E5%9B%9B%E5%A4%A7%E6%96%87%E4%BB%B6%23&t=31&band_rank=44&Refer=top",
-    "hot": 101661
   },
   "苹果教育优惠新iPad打9折": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%95%99%E8%82%B2%E4%BC%98%E6%83%A0%E6%96%B0iPad%E6%89%939%E6%8A%98%23&t=31&band_rank=50&Refer=top",
@@ -237,6 +237,6 @@
   },
   "原来沈月是李嘉琦的嫡长闺": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%B2%88%E6%9C%88%E6%98%AF%E6%9D%8E%E5%98%89%E7%90%A6%E7%9A%84%E5%AB%A1%E9%95%BF%E9%97%BA%23&t=31&band_rank=49&Refer=top",
-    "hot": 65612
+    "hot": 66594
   }
 }
