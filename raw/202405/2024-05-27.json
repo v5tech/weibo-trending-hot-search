@@ -107,6 +107,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%A6%88%E5%8F%91%E5%A3%B0%23&t=31&band_rank=25&Refer=top",
     "hot": 198489
   },
+  "服务区回应多位女士占用男厕": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9C%8D%E5%8A%A1%E5%8C%BA%E5%9B%9E%E5%BA%94%E5%A4%9A%E4%BD%8D%E5%A5%B3%E5%A3%AB%E5%8D%A0%E7%94%A8%E7%94%B7%E5%8E%95%23&t=31&band_rank=50&Refer=top",
+    "hot": 198327
+  },
   "韩红回应要上歌手": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%BA%A2%E5%9B%9E%E5%BA%94%E8%A6%81%E4%B8%8A%E6%AD%8C%E6%89%8B%23&t=31&band_rank=27&Refer=top",
     "hot": 196228
@@ -114,10 +118,6 @@
   "邓超回应抱鹿晗那么紧": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E5%9B%9E%E5%BA%94%E6%8A%B1%E9%B9%BF%E6%99%97%E9%82%A3%E4%B9%88%E7%B4%A7%23&t=31&band_rank=26&Refer=top",
     "hot": 195119
-  },
-  "服务区回应多位女士占用男厕": {
-    "url": "https://s.weibo.com/weibo?q=%23%E6%9C%8D%E5%8A%A1%E5%8C%BA%E5%9B%9E%E5%BA%94%E5%A4%9A%E4%BD%8D%E5%A5%B3%E5%A3%AB%E5%8D%A0%E7%94%A8%E7%94%B7%E5%8E%95%23&t=31&band_rank=50&Refer=top",
-    "hot": 192498
   },
   "林俊杰嘉宾": {
     "url": "https://s.weibo.com/weibo?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%98%89%E5%AE%BE&t=31&band_rank=28&Refer=top",
@@ -214,5 +214,9 @@
   "谢娜看女儿第一次表演泪流满面": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E7%9C%8B%E5%A5%B3%E5%84%BF%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A1%A8%E6%BC%94%E6%B3%AA%E6%B5%81%E6%BB%A1%E9%9D%A2%23&t=31&band_rank=48&Refer=top",
     "hot": 65936
+  },
+  "WTT常规挑战赛太原站2024": {
+    "url": "https://s.weibo.com/weibo?q=%23WTT%E5%B8%B8%E8%A7%84%E6%8C%91%E6%88%98%E8%B5%9B%E5%A4%AA%E5%8E%9F%E7%AB%992024%23&t=31&band_rank=49&Refer=top",
+    "hot": 42169
   }
 }
