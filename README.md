@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-06-01 02:15:00.161888 
-![2024-06-01](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240601/2024-06-01.png?versionId=4_z8fbbed132d73df8689c40f13_f1084e4174b627617_d20240531_m181459_c005_v0501016_t0032_u01717179299697) 
+最后更新时间 2024-06-01 02:31:18.128575 
+![2024-06-01](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240601/2024-06-01.png?versionId=4_z8fbbed132d73df8689c40f13_f1072eea1dee30ce2_d20240531_m183118_c005_v0501021_t0013_u01717180278075) 
 1. [断眉真来了](https://s.weibo.com/weibo?q=%23%E6%96%AD%E7%9C%89%E7%9C%9F%E6%9D%A5%E4%BA%86%23&t=31&band_rank=1&Refer=top) 1802348
 1. [孙楠 真拯救](https://s.weibo.com/weibo?q=%E5%AD%99%E6%A5%A0%20%E7%9C%9F%E6%8B%AF%E6%95%91&t=31&band_rank=2&Refer=top) 1635558
 1. [高质量发展看能源](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E7%9C%8B%E8%83%BD%E6%BA%90%23&t=31&band_rank=3&Refer=top) 1436398
@@ -70,10 +70,12 @@
 1. [朱婷采访](https://s.weibo.com/weibo?q=%E6%9C%B1%E5%A9%B7%E9%87%87%E8%AE%BF&t=31&band_rank=47&Refer=top) 189506
 1. [男子看到去世24年父亲照片时红了眼眶](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%9C%8B%E5%88%B0%E5%8E%BB%E4%B8%9624%E5%B9%B4%E7%88%B6%E4%BA%B2%E7%85%A7%E7%89%87%E6%97%B6%E7%BA%A2%E4%BA%86%E7%9C%BC%E7%9C%B6%23&t=31&band_rank=50&Refer=top) 186720
 1. [郑恺 原来我离真相这么近](https://s.weibo.com/weibo?q=%E9%83%91%E6%81%BA%20%E5%8E%9F%E6%9D%A5%E6%88%91%E7%A6%BB%E7%9C%9F%E7%9B%B8%E8%BF%99%E4%B9%88%E8%BF%91&t=31&band_rank=44&Refer=top) 135202
-1. [五竹的血是金色的](https://s.weibo.com/weibo?q=%23%E4%BA%94%E7%AB%B9%E7%9A%84%E8%A1%80%E6%98%AF%E9%87%91%E8%89%B2%E7%9A%84%23&t=31&band_rank=46&Refer=top) 79971
+1. [90后情侣免费为600多名留守老人理发](https://s.weibo.com/weibo?q=%2390%E5%90%8E%E6%83%85%E4%BE%A3%E5%85%8D%E8%B4%B9%E4%B8%BA600%E5%A4%9A%E5%90%8D%E7%95%99%E5%AE%88%E8%80%81%E4%BA%BA%E7%90%86%E5%8F%91%23&t=31&band_rank=23&Refer=top) 88598
+1. [五竹的血是金色的](https://s.weibo.com/weibo?q=%23%E4%BA%94%E7%AB%B9%E7%9A%84%E8%A1%80%E6%98%AF%E9%87%91%E8%89%B2%E7%9A%84%23&t=31&band_rank=46&Refer=top) 86556
 1. [微信状态就是最好的发疯神器](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E7%8A%B6%E6%80%81%E5%B0%B1%E6%98%AF%E6%9C%80%E5%A5%BD%E7%9A%84%E5%8F%91%E7%96%AF%E7%A5%9E%E5%99%A8%23&t=31&band_rank=35&Refer=top) 78088
 1. [严浩翔掀帘子偶像剧](https://s.weibo.com/weibo?q=%23%E4%B8%A5%E6%B5%A9%E7%BF%94%E6%8E%80%E5%B8%98%E5%AD%90%E5%81%B6%E5%83%8F%E5%89%A7%23&t=31&band_rank=46&Refer=top) 67910
 1. [女排积分](https://s.weibo.com/weibo?q=%E5%A5%B3%E6%8E%92%E7%A7%AF%E5%88%86&t=31&band_rank=50&Refer=top) 67606
+1. [Paparazzi](https://s.weibo.com/weibo?q=Paparazzi&t=31&band_rank=46&Refer=top) 55486
 <!-- END -->
 
 历史归档 [./archives](./archives)

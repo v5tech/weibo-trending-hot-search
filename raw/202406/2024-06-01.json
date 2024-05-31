@@ -243,9 +243,13 @@
     "url": "https://s.weibo.com/weibo?q=%E9%83%91%E6%81%BA%20%E5%8E%9F%E6%9D%A5%E6%88%91%E7%A6%BB%E7%9C%9F%E7%9B%B8%E8%BF%99%E4%B9%88%E8%BF%91&t=31&band_rank=44&Refer=top",
     "hot": 135202
   },
+  "90后情侣免费为600多名留守老人理发": {
+    "url": "https://s.weibo.com/weibo?q=%2390%E5%90%8E%E6%83%85%E4%BE%A3%E5%85%8D%E8%B4%B9%E4%B8%BA600%E5%A4%9A%E5%90%8D%E7%95%99%E5%AE%88%E8%80%81%E4%BA%BA%E7%90%86%E5%8F%91%23&t=31&band_rank=23&Refer=top",
+    "hot": 88598
+  },
   "五竹的血是金色的": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%BA%94%E7%AB%B9%E7%9A%84%E8%A1%80%E6%98%AF%E9%87%91%E8%89%B2%E7%9A%84%23&t=31&band_rank=46&Refer=top",
-    "hot": 79971
+    "hot": 86556
   },
   "微信状态就是最好的发疯神器": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E7%8A%B6%E6%80%81%E5%B0%B1%E6%98%AF%E6%9C%80%E5%A5%BD%E7%9A%84%E5%8F%91%E7%96%AF%E7%A5%9E%E5%99%A8%23&t=31&band_rank=35&Refer=top",
@@ -258,5 +262,9 @@
   "女排积分": {
     "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E6%8E%92%E7%A7%AF%E5%88%86&t=31&band_rank=50&Refer=top",
     "hot": 67606
+  },
+  "Paparazzi": {
+    "url": "https://s.weibo.com/weibo?q=Paparazzi&t=31&band_rank=46&Refer=top",
+    "hot": 55486
   }
 }
