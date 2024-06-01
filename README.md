@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-06-02 01:34:53.084315 
-![2024-06-02](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240602/2024-06-02.png?versionId=4_z8fbbed132d73df8689c40f13_f118fa64bf8ebc1f8_d20240601_m173452_c005_v0501018_t0054_u01717263292474) 
+最后更新时间 2024-06-02 01:49:15.219526 
+![2024-06-02](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240602/2024-06-02.png?versionId=4_z8fbbed132d73df8689c40f13_f116e840ce0a4a9a5_d20240601_m174915_c005_v0501018_t0036_u01717264155145) 
 1. [微信聊天最惹人反感的4种行为](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E8%81%8A%E5%A4%A9%E6%9C%80%E6%83%B9%E4%BA%BA%E5%8F%8D%E6%84%9F%E7%9A%844%E7%A7%8D%E8%A1%8C%E4%B8%BA%23&t=31&band_rank=1&Refer=top) 1272717
 1. [印度大选至少19名官员被热死](https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%A4%A7%E9%80%89%E8%87%B3%E5%B0%9119%E5%90%8D%E5%AE%98%E5%91%98%E8%A2%AB%E7%83%AD%E6%AD%BB%23&t=31&band_rank=2&Refer=top) 833897
 1. [假如与中华5000年文明对话](https://s.weibo.com/weibo?q=%23%E5%81%87%E5%A6%82%E4%B8%8E%E4%B8%AD%E5%8D%8E5000%E5%B9%B4%E6%96%87%E6%98%8E%E5%AF%B9%E8%AF%9D%23&t=31&band_rank=3&Refer=top) 806539
@@ -36,7 +36,7 @@
 1. [原来腰突了还可以回去](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E8%85%B0%E7%AA%81%E4%BA%86%E8%BF%98%E5%8F%AF%E4%BB%A5%E5%9B%9E%E5%8E%BB&t=31&band_rank=19&Refer=top) 274132
 1. [朱一龙 我会少说多做](https://s.weibo.com/weibo?q=%E6%9C%B1%E4%B8%80%E9%BE%99%20%E6%88%91%E4%BC%9A%E5%B0%91%E8%AF%B4%E5%A4%9A%E5%81%9A&t=31&band_rank=19&Refer=top) 225416
 1. [爸爸带娃打针紧张到全程闭眼](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E5%B8%A6%E5%A8%83%E6%89%93%E9%92%88%E7%B4%A7%E5%BC%A0%E5%88%B0%E5%85%A8%E7%A8%8B%E9%97%AD%E7%9C%BC%23&t=31&band_rank=10&Refer=top) 221652
-1. [为什么大脑删除了3岁前的记忆](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%A7%E8%84%91%E5%88%A0%E9%99%A4%E4%BA%863%E5%B2%81%E5%89%8D%E7%9A%84%E8%AE%B0%E5%BF%86%23&t=31&band_rank=21&Refer=top) 208735
+1. [为什么大脑删除了3岁前的记忆](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%A7%E8%84%91%E5%88%A0%E9%99%A4%E4%BA%863%E5%B2%81%E5%89%8D%E7%9A%84%E8%AE%B0%E5%BF%86%23&t=31&band_rank=21&Refer=top) 210075
 1. [范思辙名字](https://s.weibo.com/weibo?q=%E8%8C%83%E6%80%9D%E8%BE%99%E5%90%8D%E5%AD%97&t=31&band_rank=27&Refer=top) 199812
 1. [逆水寒](https://s.weibo.com/weibo?q=%23%E9%80%86%E6%B0%B4%E5%AF%92%23&t=31&band_rank=20&Refer=top) 197364
 1. [新华社六一发王一博](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%8D%8E%E7%A4%BE%E5%85%AD%E4%B8%80%E5%8F%91%E7%8E%8B%E4%B8%80%E5%8D%9A%23&t=31&band_rank=22&Refer=top) 195295
@@ -70,6 +70,7 @@
 1. [多特蒙德vs皇马](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E7%89%B9%E8%92%99%E5%BE%B7vs%E7%9A%87%E9%A9%AC%23&t=31&band_rank=48&Refer=top) 102655
 1. [咸鱼 逆水寒](https://s.weibo.com/weibo?q=%E5%92%B8%E9%B1%BC%20%E9%80%86%E6%B0%B4%E5%AF%92&t=31&band_rank=50&Refer=top) 102577
 1. [张杰演唱会儿童节撒糖](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%E5%84%BF%E7%AB%A5%E8%8A%82%E6%92%92%E7%B3%96%23&t=31&band_rank=50&Refer=top) 90925
+1. [薛之谦天外来物巡回演唱会](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%A4%A9%E5%A4%96%E6%9D%A5%E7%89%A9%E5%B7%A1%E5%9B%9E%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=29&Refer=top) 79275
 1. [迪丽热巴微博生日惊喜](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%BE%AE%E5%8D%9A%E7%94%9F%E6%97%A5%E6%83%8A%E5%96%9C%23&t=31&band_rank=45&Refer=top) 75113
 1. [林俊杰南昌](https://s.weibo.com/weibo?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%8D%97%E6%98%8C&t=31&band_rank=46&Refer=top) 75111
 1. [建议把干发帽换成运动毛巾](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%8A%8A%E5%B9%B2%E5%8F%91%E5%B8%BD%E6%8D%A2%E6%88%90%E8%BF%90%E5%8A%A8%E6%AF%9B%E5%B7%BE%23&t=31&band_rank=47&Refer=top) 75106
