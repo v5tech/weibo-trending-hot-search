@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-06-03 02:31:29.329713 
-![2024-06-03](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240603/2024-06-03.png?versionId=4_z8fbbed132d73df8689c40f13_f112f8d977e393fda_d20240602_m183129_c005_v0501018_t0025_u01717353089275) 
+最后更新时间 2024-06-03 02:49:18.345814 
+![2024-06-03](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240603/2024-06-03.png?versionId=4_z8fbbed132d73df8689c40f13_f111d8f2ef17b2935_d20240602_m184917_c005_v0501015_t0020_u01717354157635) 
 1. [庆余年第三季](https://s.weibo.com/weibo?q=%E5%BA%86%E4%BD%99%E5%B9%B4%E7%AC%AC%E4%B8%89%E5%AD%A3&t=31&band_rank=1&Refer=top) 1002709
 1. [女子穿7cm厚洞洞鞋崴脚粉碎性骨折](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A9%BF7cm%E5%8E%9A%E6%B4%9E%E6%B4%9E%E9%9E%8B%E5%B4%B4%E8%84%9A%E7%B2%89%E7%A2%8E%E6%80%A7%E9%AA%A8%E6%8A%98%23&t=31&band_rank=2&Refer=top) 526755
 1. [中国女排排名降至亚洲第二](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E6%8E%92%E5%90%8D%E9%99%8D%E8%87%B3%E4%BA%9A%E6%B4%B2%E7%AC%AC%E4%BA%8C%23&t=31&band_rank=6&Refer=top) 503557
@@ -68,8 +68,9 @@
 1. [孙颖莎王曼昱会师决赛](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E7%8E%8B%E6%9B%BC%E6%98%B1%E4%BC%9A%E5%B8%88%E5%86%B3%E8%B5%9B%23&t=31&band_rank=30&Refer=top) 61576
 1. [女子骗走男友891万获刑13年6个月](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%AA%97%E8%B5%B0%E7%94%B7%E5%8F%8B891%E4%B8%87%E8%8E%B7%E5%88%9113%E5%B9%B46%E4%B8%AA%E6%9C%88%23&t=31&band_rank=48&Refer=top) 60695
 1. [刘些宁首演恶女](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%9B%E5%AE%81%E9%A6%96%E6%BC%94%E6%81%B6%E5%A5%B3%23&t=31&band_rank=38&Refer=top) 53307
-1. [方便面为什么越卖越贵](https://s.weibo.com/weibo?q=%23%E6%96%B9%E4%BE%BF%E9%9D%A2%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B6%8A%E5%8D%96%E8%B6%8A%E8%B4%B5%23&t=31&band_rank=50&Refer=top) 34078
-1. [耳帝发文力挺Athree](https://s.weibo.com/weibo?q=%23%E8%80%B3%E5%B8%9D%E5%8F%91%E6%96%87%E5%8A%9B%E6%8C%BAAthree%23&t=31&band_rank=45&Refer=top) 28391
+1. [方便面为什么越卖越贵](https://s.weibo.com/weibo?q=%23%E6%96%B9%E4%BE%BF%E9%9D%A2%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B6%8A%E5%8D%96%E8%B6%8A%E8%B4%B5%23&t=31&band_rank=50&Refer=top) 36556
+1. [耳帝发文力挺Athree](https://s.weibo.com/weibo?q=%23%E8%80%B3%E5%B8%9D%E5%8F%91%E6%96%87%E5%8A%9B%E6%8C%BAAthree%23&t=31&band_rank=45&Refer=top) 34363
+1. [芹菜叶子到底要不要吃](https://s.weibo.com/weibo?q=%23%E8%8A%B9%E8%8F%9C%E5%8F%B6%E5%AD%90%E5%88%B0%E5%BA%95%E8%A6%81%E4%B8%8D%E8%A6%81%E5%90%83%23&t=31&band_rank=50&Refer=top) 34163
 <!-- END -->
 
 历史归档 [./archives](./archives)
