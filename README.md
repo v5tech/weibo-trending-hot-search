@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-06-03 00:30:29.813035 
-![2024-06-03](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240603/2024-06-03.png?versionId=4_z8fbbed132d73df8689c40f13_f107a661501af692c_d20240602_m163029_c005_v0501018_t0021_u01717345829383) 
+最后更新时间 2024-06-03 00:40:02.947239 
+![2024-06-03](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240603/2024-06-03.png?versionId=4_z8fbbed132d73df8689c40f13_f1079fb42df523df5_d20240602_m164002_c005_v0501003_t0009_u01717346402137) 
 1. [庆余年第三季](https://s.weibo.com/weibo?q=%E5%BA%86%E4%BD%99%E5%B9%B4%E7%AC%AC%E4%B8%89%E5%AD%A3&t=31&band_rank=1&Refer=top) 1002709
 1. [女子穿7cm厚洞洞鞋崴脚粉碎性骨折](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A9%BF7cm%E5%8E%9A%E6%B4%9E%E6%B4%9E%E9%9E%8B%E5%B4%B4%E8%84%9A%E7%B2%89%E7%A2%8E%E6%80%A7%E9%AA%A8%E6%8A%98%23&t=31&band_rank=2&Refer=top) 526755
 1. [中国女排排名降至亚洲第二](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E6%8E%92%E5%90%8D%E9%99%8D%E8%87%B3%E4%BA%9A%E6%B4%B2%E7%AC%AC%E4%BA%8C%23&t=31&band_rank=6&Refer=top) 503557
@@ -44,6 +44,7 @@
 1. [张若昀庆余年2最后一场戏](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%8B%A5%E6%98%80%E5%BA%86%E4%BD%99%E5%B9%B42%E6%9C%80%E5%90%8E%E4%B8%80%E5%9C%BA%E6%88%8F%23&t=31&band_rank=31&Refer=top) 174942
 1. [赵露思陈伟霆 许我耀眼](https://s.weibo.com/weibo?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%E9%99%88%E4%BC%9F%E9%9C%86%20%E8%AE%B8%E6%88%91%E8%80%80%E7%9C%BC&t=31&band_rank=32&Refer=top) 167356
 1. [猫眼 退票](https://s.weibo.com/weibo?q=%E7%8C%AB%E7%9C%BC%20%E9%80%80%E7%A5%A8&t=31&band_rank=33&Refer=top) 147367
+1. [南宁一教官多次将男孩头按进水里](https://s.weibo.com/weibo?q=%23%E5%8D%97%E5%AE%81%E4%B8%80%E6%95%99%E5%AE%98%E5%A4%9A%E6%AC%A1%E5%B0%86%E7%94%B7%E5%AD%A9%E5%A4%B4%E6%8C%89%E8%BF%9B%E6%B0%B4%E9%87%8C%23&t=31&band_rank=45&Refer=top) 145693
 1. [班主任带亲手种向日葵拍高三毕业照](https://s.weibo.com/weibo?q=%23%E7%8F%AD%E4%B8%BB%E4%BB%BB%E5%B8%A6%E4%BA%B2%E6%89%8B%E7%A7%8D%E5%90%91%E6%97%A5%E8%91%B5%E6%8B%8D%E9%AB%98%E4%B8%89%E6%AF%95%E4%B8%9A%E7%85%A7%23&t=31&band_rank=34&Refer=top) 145130
 1. [肖战重庆](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E9%87%8D%E5%BA%86&t=31&band_rank=35&Refer=top) 143133
 1. [刘端端告别二皇子](https://s.weibo.com/weibo?q=%23%E5%88%98%E7%AB%AF%E7%AB%AF%E5%91%8A%E5%88%AB%E4%BA%8C%E7%9A%87%E5%AD%90%23&t=31&band_rank=36&Refer=top) 136391
@@ -60,8 +61,8 @@
 1. [老公要用我的彩礼来装修房子](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%85%AC%E8%A6%81%E7%94%A8%E6%88%91%E7%9A%84%E5%BD%A9%E7%A4%BC%E6%9D%A5%E8%A3%85%E4%BF%AE%E6%88%BF%E5%AD%90%23&t=31&band_rank=48&Refer=top) 123332
 1. [剑网三](https://s.weibo.com/weibo?q=%E5%89%91%E7%BD%91%E4%B8%89&t=31&band_rank=49&Refer=top) 123275
 1. [广州夜晚的灯光照亮了云雾](https://s.weibo.com/weibo?q=%E5%B9%BF%E5%B7%9E%E5%A4%9C%E6%99%9A%E7%9A%84%E7%81%AF%E5%85%89%E7%85%A7%E4%BA%AE%E4%BA%86%E4%BA%91%E9%9B%BE&t=31&band_rank=50&Refer=top) 123226
-1. [南宁一教官多次将男孩头按进水里](https://s.weibo.com/weibo?q=%23%E5%8D%97%E5%AE%81%E4%B8%80%E6%95%99%E5%AE%98%E5%A4%9A%E6%AC%A1%E5%B0%86%E7%94%B7%E5%AD%A9%E5%A4%B4%E6%8C%89%E8%BF%9B%E6%B0%B4%E9%87%8C%23&t=31&band_rank=45&Refer=top) 96656
 1. [中国女排0比3意大利女排](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%920%E6%AF%943%E6%84%8F%E5%A4%A7%E5%88%A9%E5%A5%B3%E6%8E%92%23&t=31&band_rank=50&Refer=top) 96615
+1. [孙颖莎4比2陈梦](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E4%E6%AF%942%E9%99%88%E6%A2%A6%23&t=31&band_rank=50&Refer=top) 93824
 <!-- END -->
 
 历史归档 [./archives](./archives)
