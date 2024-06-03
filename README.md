@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-06-04 03:21:10.256093 
-![2024-06-04](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240604/2024-06-04.png?versionId=4_z8fbbed132d73df8689c40f13_f1085580de60e3733_d20240603_m192110_c005_v0501020_t0057_u01717442470190) 
+最后更新时间 2024-06-04 03:35:45.775988 
+![2024-06-04](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240604/2024-06-04.png?versionId=4_z8fbbed132d73df8689c40f13_f103050f19c9277b9_d20240603_m193545_c005_v0501018_t0058_u01717443345749) 
 1. [伊利](https://s.weibo.com/weibo?q=%E4%BC%8A%E5%88%A9&t=31&band_rank=7&Refer=top) 1082836
 1. [数只美股疑似出现行情异常](https://s.weibo.com/weibo?q=%23%E6%95%B0%E5%8F%AA%E7%BE%8E%E8%82%A1%E7%96%91%E4%BC%BC%E5%87%BA%E7%8E%B0%E8%A1%8C%E6%83%85%E5%BC%82%E5%B8%B8%23&t=31&band_rank=1&Refer=top) 700088
 1. [秦岚觉得结了婚就不要离婚](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E8%A7%89%E5%BE%97%E7%BB%93%E4%BA%86%E5%A9%9A%E5%B0%B1%E4%B8%8D%E8%A6%81%E7%A6%BB%E5%A9%9A%23&t=31&band_rank=2&Refer=top) 598353
@@ -40,6 +40,7 @@
 1. [浙江两驴友被溪流冲走当地商户发声](https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E4%B8%A4%E9%A9%B4%E5%8F%8B%E8%A2%AB%E6%BA%AA%E6%B5%81%E5%86%B2%E8%B5%B0%E5%BD%93%E5%9C%B0%E5%95%86%E6%88%B7%E5%8F%91%E5%A3%B0%23&t=31&band_rank=46&Refer=top) 138633
 1. [首饰金价重回5字头](https://s.weibo.com/weibo?q=%23%E9%A6%96%E9%A5%B0%E9%87%91%E4%BB%B7%E9%87%8D%E5%9B%9E5%E5%AD%97%E5%A4%B4%23&t=31&band_rank=27&Refer=top) 131896
 1. [鞠婧祎背沟好深](https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E8%83%8C%E6%B2%9F%E5%A5%BD%E6%B7%B1%23&t=31&band_rank=28&Refer=top) 129766
+1. [姆巴佩](https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9&t=31&band_rank=1&Refer=top) 128844
 1. [樊振东说更在意王楚钦伤势](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E8%AF%B4%E6%9B%B4%E5%9C%A8%E6%84%8F%E7%8E%8B%E6%A5%9A%E9%92%A6%E4%BC%A4%E5%8A%BF%23&t=31&band_rank=29&Refer=top) 121417
 1. [蔡徐坤染了银发梦回偶练](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E6%9F%93%E4%BA%86%E9%93%B6%E5%8F%91%E6%A2%A6%E5%9B%9E%E5%81%B6%E7%BB%83%23&t=31&band_rank=30&Refer=top) 115360
 1. [夏天手上长巨痒小水泡怎么办](https://s.weibo.com/weibo?q=%23%E5%A4%8F%E5%A4%A9%E6%89%8B%E4%B8%8A%E9%95%BF%E5%B7%A8%E7%97%92%E5%B0%8F%E6%B0%B4%E6%B3%A1%E6%80%8E%E4%B9%88%E5%8A%9E%23&t=31&band_rank=31&Refer=top) 115299
@@ -72,13 +73,13 @@
 1. [迪丽热巴 TopGirl](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20TopGirl&t=31&band_rank=49&Refer=top) 66887
 1. [这份菜谱满满都是对高考生的爱](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BB%BD%E8%8F%9C%E8%B0%B1%E6%BB%A1%E6%BB%A1%E9%83%BD%E6%98%AF%E5%AF%B9%E9%AB%98%E8%80%83%E7%94%9F%E7%9A%84%E7%88%B1%23&t=31&band_rank=10&Refer=top) 66184
 1. [丁真自曝刚上岛跟不上节奏](https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%9C%9F%E8%87%AA%E6%9B%9D%E5%88%9A%E4%B8%8A%E5%B2%9B%E8%B7%9F%E4%B8%8D%E4%B8%8A%E8%8A%82%E5%A5%8F%23&t=31&band_rank=12&Refer=top) 65808
-1. [中国探月工程不断刷新月球探测纪录](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%8E%A2%E6%9C%88%E5%B7%A5%E7%A8%8B%E4%B8%8D%E6%96%AD%E5%88%B7%E6%96%B0%E6%9C%88%E7%90%83%E6%8E%A2%E6%B5%8B%E7%BA%AA%E5%BD%95%23&t=31&band_rank=3&Refer=top) 60390
+1. [中国探月工程不断刷新月球探测纪录](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%8E%A2%E6%9C%88%E5%B7%A5%E7%A8%8B%E4%B8%8D%E6%96%AD%E5%88%B7%E6%96%B0%E6%9C%88%E7%90%83%E6%8E%A2%E6%B5%8B%E7%BA%AA%E5%BD%95%23&t=31&band_rank=3&Refer=top) 62942
 1. [义乌老奶奶闲不下来在家做手工活](https://s.weibo.com/weibo?q=%23%E4%B9%89%E4%B9%8C%E8%80%81%E5%A5%B6%E5%A5%B6%E9%97%B2%E4%B8%8D%E4%B8%8B%E6%9D%A5%E5%9C%A8%E5%AE%B6%E5%81%9A%E6%89%8B%E5%B7%A5%E6%B4%BB%23&t=31&band_rank=10&Refer=top) 55577
 1. [海清曝温峥嵘把大学宿舍烧了](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E6%B8%85%E6%9B%9D%E6%B8%A9%E5%B3%A5%E5%B5%98%E6%8A%8A%E5%A4%A7%E5%AD%A6%E5%AE%BF%E8%88%8D%E7%83%A7%E4%BA%86%23&t=31&band_rank=21&Refer=top) 54886
 1. [榴莲价格为何一路走低](https://s.weibo.com/weibo?q=%23%E6%A6%B4%E8%8E%B2%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E8%B5%B0%E4%BD%8E%23&t=31&band_rank=10&Refer=top) 42581
 1. [18岁长女高考后妈生3胎弟弟](https://s.weibo.com/weibo?q=%2318%E5%B2%81%E9%95%BF%E5%A5%B3%E9%AB%98%E8%80%83%E5%90%8E%E5%A6%88%E7%94%9F3%E8%83%8E%E5%BC%9F%E5%BC%9F%23&t=31&band_rank=36&Refer=top) 40602
 1. [千金府直播](https://s.weibo.com/weibo?q=%23%E5%8D%83%E9%87%91%E5%BA%9C%E7%9B%B4%E6%92%AD%23&t=31&band_rank=41&Refer=top) 28827
-1. [猫 忘了我也会](https://s.weibo.com/weibo?q=%E7%8C%AB%20%E5%BF%98%E4%BA%86%E6%88%91%E4%B9%9F%E4%BC%9A&t=31&band_rank=49&Refer=top) 23900
+1. [猫 忘了我也会](https://s.weibo.com/weibo?q=%E7%8C%AB%20%E5%BF%98%E4%BA%86%E6%88%91%E4%B9%9F%E4%BC%9A&t=31&band_rank=49&Refer=top) 24108
 1. [伯克希尔哈撒韦暴跌99.97%](https://s.weibo.com/weibo?q=%23%E4%BC%AF%E5%85%8B%E5%B8%8C%E5%B0%94%E5%93%88%E6%92%92%E9%9F%A6%E6%9A%B4%E8%B7%8C99.97%25%23&t=31&band_rank=41&Refer=top) 18915
 <!-- END -->
 
