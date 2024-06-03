@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-06-04 03:10:46.177831 
-![2024-06-04](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240604/2024-06-04.png?versionId=4_z8fbbed132d73df8689c40f13_f1048f83cc0ddc85d_d20240603_m191046_c005_v0501007_t0042_u01717441846147) 
+最后更新时间 2024-06-04 03:21:10.256093 
+![2024-06-04](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240604/2024-06-04.png?versionId=4_z8fbbed132d73df8689c40f13_f1085580de60e3733_d20240603_m192110_c005_v0501020_t0057_u01717442470190) 
 1. [伊利](https://s.weibo.com/weibo?q=%E4%BC%8A%E5%88%A9&t=31&band_rank=7&Refer=top) 1082836
 1. [数只美股疑似出现行情异常](https://s.weibo.com/weibo?q=%23%E6%95%B0%E5%8F%AA%E7%BE%8E%E8%82%A1%E7%96%91%E4%BC%BC%E5%87%BA%E7%8E%B0%E8%A1%8C%E6%83%85%E5%BC%82%E5%B8%B8%23&t=31&band_rank=1&Refer=top) 700088
 1. [秦岚觉得结了婚就不要离婚](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E8%A7%89%E5%BE%97%E7%BB%93%E4%BA%86%E5%A9%9A%E5%B0%B1%E4%B8%8D%E8%A6%81%E7%A6%BB%E5%A9%9A%23&t=31&band_rank=2&Refer=top) 598353
@@ -78,7 +78,8 @@
 1. [榴莲价格为何一路走低](https://s.weibo.com/weibo?q=%23%E6%A6%B4%E8%8E%B2%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E8%B5%B0%E4%BD%8E%23&t=31&band_rank=10&Refer=top) 42581
 1. [18岁长女高考后妈生3胎弟弟](https://s.weibo.com/weibo?q=%2318%E5%B2%81%E9%95%BF%E5%A5%B3%E9%AB%98%E8%80%83%E5%90%8E%E5%A6%88%E7%94%9F3%E8%83%8E%E5%BC%9F%E5%BC%9F%23&t=31&band_rank=36&Refer=top) 40602
 1. [千金府直播](https://s.weibo.com/weibo?q=%23%E5%8D%83%E9%87%91%E5%BA%9C%E7%9B%B4%E6%92%AD%23&t=31&band_rank=41&Refer=top) 28827
-1. [猫 忘了我也会](https://s.weibo.com/weibo?q=%E7%8C%AB%20%E5%BF%98%E4%BA%86%E6%88%91%E4%B9%9F%E4%BC%9A&t=31&band_rank=49&Refer=top) 22652
+1. [猫 忘了我也会](https://s.weibo.com/weibo?q=%E7%8C%AB%20%E5%BF%98%E4%BA%86%E6%88%91%E4%B9%9F%E4%BC%9A&t=31&band_rank=49&Refer=top) 23900
+1. [伯克希尔哈撒韦暴跌99.97%](https://s.weibo.com/weibo?q=%23%E4%BC%AF%E5%85%8B%E5%B8%8C%E5%B0%94%E5%93%88%E6%92%92%E9%9F%A6%E6%9A%B4%E8%B7%8C99.97%25%23&t=31&band_rank=41&Refer=top) 18915
 <!-- END -->
 
 历史归档 [./archives](./archives)
