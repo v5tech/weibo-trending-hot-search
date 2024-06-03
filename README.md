@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-06-04 00:49:34.038733 
-![2024-06-04](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240604/2024-06-04.png?versionId=4_z8fbbed132d73df8689c40f13_f117b68a729736a50_d20240603_m164934_c005_v0501019_t0032_u01717433374006) 
+最后更新时间 2024-06-04 01:11:18.676409 
+![2024-06-04](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240604/2024-06-04.png?versionId=4_z8fbbed132d73df8689c40f13_f102d34045c59e0ad_d20240603_m171118_c005_v0501021_t0053_u01717434678621) 
 1. [伊利](https://s.weibo.com/weibo?q=%E4%BC%8A%E5%88%A9&t=31&band_rank=7&Refer=top) 1082836
 1. [数只美股疑似出现行情异常](https://s.weibo.com/weibo?q=%23%E6%95%B0%E5%8F%AA%E7%BE%8E%E8%82%A1%E7%96%91%E4%BC%BC%E5%87%BA%E7%8E%B0%E8%A1%8C%E6%83%85%E5%BC%82%E5%B8%B8%23&t=31&band_rank=1&Refer=top) 700088
 1. [秦岚觉得结了婚就不要离婚](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E8%A7%89%E5%BE%97%E7%BB%93%E4%BA%86%E5%A9%9A%E5%B0%B1%E4%B8%8D%E8%A6%81%E7%A6%BB%E5%A9%9A%23&t=31&band_rank=2&Refer=top) 598353
@@ -32,10 +32,12 @@
 1. [王楚钦 脚踝](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%20%E8%84%9A%E8%B8%9D&t=31&band_rank=20&Refer=top) 257205
 1. [樊振东男单冠军](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%94%B7%E5%8D%95%E5%86%A0%E5%86%9B%23&t=31&band_rank=21&Refer=top) 212890
 1. [印度高温 恒河洗澡](https://s.weibo.com/weibo?q=%E5%8D%B0%E5%BA%A6%E9%AB%98%E6%B8%A9%20%E6%81%92%E6%B2%B3%E6%B4%97%E6%BE%A1&t=31&band_rank=22&Refer=top) 176980
+1. [护士救人一命却悄悄自责](https://s.weibo.com/weibo?q=%23%E6%8A%A4%E5%A3%AB%E6%95%91%E4%BA%BA%E4%B8%80%E5%91%BD%E5%8D%B4%E6%82%84%E6%82%84%E8%87%AA%E8%B4%A3%23&t=31&band_rank=10&Refer=top) 166928
 1. [战至巅峰](https://s.weibo.com/weibo?q=%E6%88%98%E8%87%B3%E5%B7%85%E5%B3%B0&t=31&band_rank=23&Refer=top) 154689
 1. [樊振东4比3战胜王楚钦](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C4%E6%AF%943%E6%88%98%E8%83%9C%E7%8E%8B%E6%A5%9A%E9%92%A6%23&t=31&band_rank=24&Refer=top) 151293
 1. [这届实习生显然已经nextlevel了](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B1%8A%E5%AE%9E%E4%B9%A0%E7%94%9F%E6%98%BE%E7%84%B6%E5%B7%B2%E7%BB%8Fnextlevel%E4%BA%86%23&t=31&band_rank=25&Refer=top) 145105
 1. [为什么收拾房间有助于攒钱](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%94%B6%E6%8B%BE%E6%88%BF%E9%97%B4%E6%9C%89%E5%8A%A9%E4%BA%8E%E6%94%92%E9%92%B1%23&t=31&band_rank=26&Refer=top) 140347
+1. [浙江两驴友被溪流冲走当地商户发声](https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E4%B8%A4%E9%A9%B4%E5%8F%8B%E8%A2%AB%E6%BA%AA%E6%B5%81%E5%86%B2%E8%B5%B0%E5%BD%93%E5%9C%B0%E5%95%86%E6%88%B7%E5%8F%91%E5%A3%B0%23&t=31&band_rank=46&Refer=top) 138633
 1. [首饰金价重回5字头](https://s.weibo.com/weibo?q=%23%E9%A6%96%E9%A5%B0%E9%87%91%E4%BB%B7%E9%87%8D%E5%9B%9E5%E5%AD%97%E5%A4%B4%23&t=31&band_rank=27&Refer=top) 131896
 1. [鞠婧祎背沟好深](https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E8%83%8C%E6%B2%9F%E5%A5%BD%E6%B7%B1%23&t=31&band_rank=28&Refer=top) 129766
 1. [樊振东说更在意王楚钦伤势](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E8%AF%B4%E6%9B%B4%E5%9C%A8%E6%84%8F%E7%8E%8B%E6%A5%9A%E9%92%A6%E4%BC%A4%E5%8A%BF%23&t=31&band_rank=29&Refer=top) 121417
@@ -49,7 +51,6 @@
 1. [张艺兴薯条蘸冰激凌](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E8%96%AF%E6%9D%A1%E8%98%B8%E5%86%B0%E6%BF%80%E5%87%8C%23&t=31&band_rank=37&Refer=top) 101106
 1. [三家日本车企高管开记者会道歉](https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%AE%B6%E6%97%A5%E6%9C%AC%E8%BD%A6%E4%BC%81%E9%AB%98%E7%AE%A1%E5%BC%80%E8%AE%B0%E8%80%85%E4%BC%9A%E9%81%93%E6%AD%89%23&t=31&band_rank=38&Refer=top) 100070
 1. [戚薇录乘风十天没理李承铉](https://s.weibo.com/weibo?q=%23%E6%88%9A%E8%96%87%E5%BD%95%E4%B9%98%E9%A3%8E%E5%8D%81%E5%A4%A9%E6%B2%A1%E7%90%86%E6%9D%8E%E6%89%BF%E9%93%89%23&t=31&band_rank=39&Refer=top) 98721
-1. [浙江两驴友被溪流冲走当地商户发声](https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E4%B8%A4%E9%A9%B4%E5%8F%8B%E8%A2%AB%E6%BA%AA%E6%B5%81%E5%86%B2%E8%B5%B0%E5%BD%93%E5%9C%B0%E5%95%86%E6%88%B7%E5%8F%91%E5%A3%B0%23&t=31&band_rank=46&Refer=top) 97604
 1. [宋雨琦章昊Ricky国内同框](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E9%9B%A8%E7%90%A6%E7%AB%A0%E6%98%8ARicky%E5%9B%BD%E5%86%85%E5%90%8C%E6%A1%86%23&t=31&band_rank=40&Refer=top) 95782
 1. [知道为什么洪世贤认不出品如了](https://s.weibo.com/weibo?q=%23%E7%9F%A5%E9%81%93%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B4%AA%E4%B8%96%E8%B4%A4%E8%AE%A4%E4%B8%8D%E5%87%BA%E5%93%81%E5%A6%82%E4%BA%86%23&t=31&band_rank=41&Refer=top) 95445
 1. [于正 选角](https://s.weibo.com/weibo?q=%E4%BA%8E%E6%AD%A3%20%E9%80%89%E8%A7%92&t=31&band_rank=42&Refer=top) 93469
@@ -63,6 +64,8 @@
 1. [迪丽热巴叼花镜头](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%8F%BC%E8%8A%B1%E9%95%9C%E5%A4%B4%23&t=31&band_rank=50&Refer=top) 89709
 1. [乘风之夜组队选曲征集](https://s.weibo.com/weibo?q=%E4%B9%98%E9%A3%8E%E4%B9%8B%E5%A4%9C%E7%BB%84%E9%98%9F%E9%80%89%E6%9B%B2%E5%BE%81%E9%9B%86&t=31&band_rank=27&Refer=top) 82886
 1. [这个家没有王栎鑫得散](https://s.weibo.com/weibo?q=%E8%BF%99%E4%B8%AA%E5%AE%B6%E6%B2%A1%E6%9C%89%E7%8E%8B%E6%A0%8E%E9%91%AB%E5%BE%97%E6%95%A3&t=31&band_rank=34&Refer=top) 69766
+1. [陈泽抽奖](https://s.weibo.com/weibo?q=%E9%99%88%E6%B3%BD%E6%8A%BD%E5%A5%96&t=31&band_rank=33&Refer=top) 49363
+1. [陈泽直播](https://s.weibo.com/weibo?q=%E9%99%88%E6%B3%BD%E7%9B%B4%E6%92%AD&t=31&band_rank=39&Refer=top) 45903
 <!-- END -->
 
 历史归档 [./archives](./archives)
