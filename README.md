@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-06-05 00:49:17.271276 
-![2024-06-05](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240605/2024-06-05.png?versionId=4_z8fbbed132d73df8689c40f13_f117d3457e6d5d27c_d20240604_m164917_c005_v0501020_t0010_u01717519757235) 
+最后更新时间 2024-06-05 01:10:40.825375 
+![2024-06-05](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240605/2024-06-05.png?versionId=4_z8fbbed132d73df8689c40f13_f116e840ce29cea93_d20240604_m171040_c005_v0501018_t0011_u01717521040796) 
 1. [巴勒斯坦](https://s.weibo.com/weibo?q=%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6&t=31&band_rank=1&Refer=top) 618307
 1. [为什么患上尿毒症的年轻人越来越多](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%82%A3%E4%B8%8A%E5%B0%BF%E6%AF%92%E7%97%87%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%23&t=31&band_rank=2&Refer=top) 450971
 1. [高铁穿过麦田氛围感拉满](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E7%A9%BF%E8%BF%87%E9%BA%A6%E7%94%B0%E6%B0%9B%E5%9B%B4%E6%84%9F%E6%8B%89%E6%BB%A1%23&t=31&band_rank=3&Refer=top) 442540
@@ -35,6 +35,7 @@
 1. [幽门螺杆菌不仅致癌还伤大脑](https://s.weibo.com/weibo?q=%23%E5%B9%BD%E9%97%A8%E8%9E%BA%E6%9D%86%E8%8F%8C%E4%B8%8D%E4%BB%85%E8%87%B4%E7%99%8C%E8%BF%98%E4%BC%A4%E5%A4%A7%E8%84%91%23&t=31&band_rank=23&Refer=top) 124178
 1. [理想汽车召回部分被裁员工](https://s.weibo.com/weibo?q=%23%E7%90%86%E6%83%B3%E6%B1%BD%E8%BD%A6%E5%8F%AC%E5%9B%9E%E9%83%A8%E5%88%86%E8%A2%AB%E8%A3%81%E5%91%98%E5%B7%A5%23&t=31&band_rank=24&Refer=top) 124175
 1. [云台山回应瀑布源头是水管](https://s.weibo.com/weibo?q=%23%E4%BA%91%E5%8F%B0%E5%B1%B1%E5%9B%9E%E5%BA%94%E7%80%91%E5%B8%83%E6%BA%90%E5%A4%B4%E6%98%AF%E6%B0%B4%E7%AE%A1%23&t=31&band_rank=25&Refer=top) 123719
+1. [龙舟届劳斯莱斯盛装起航](https://s.weibo.com/weibo?q=%23%E9%BE%99%E8%88%9F%E5%B1%8A%E5%8A%B3%E6%96%AF%E8%8E%B1%E6%96%AF%E7%9B%9B%E8%A3%85%E8%B5%B7%E8%88%AA%23&t=31&band_rank=10&Refer=top) 115552
 1. [孙楠或唱毛不易的歌](https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%A5%A0%E6%88%96%E5%94%B1%E6%AF%9B%E4%B8%8D%E6%98%93%E7%9A%84%E6%AD%8C%23&t=31&band_rank=26&Refer=top) 110963
 1. [两个猫猫吵架人类帮忙劝架](https://s.weibo.com/weibo?q=%E4%B8%A4%E4%B8%AA%E7%8C%AB%E7%8C%AB%E5%90%B5%E6%9E%B6%E4%BA%BA%E7%B1%BB%E5%B8%AE%E5%BF%99%E5%8A%9D%E6%9E%B6&t=31&band_rank=27&Refer=top) 110086
 1. [于正 王一栩](https://s.weibo.com/weibo?q=%E4%BA%8E%E6%AD%A3%20%E7%8E%8B%E4%B8%80%E6%A0%A9&t=31&band_rank=28&Refer=top) 105928
@@ -63,6 +64,7 @@
 1. [张雪峰说报志愿要以孩子为中心](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E8%AF%B4%E6%8A%A5%E5%BF%97%E6%84%BF%E8%A6%81%E4%BB%A5%E5%AD%A9%E5%AD%90%E4%B8%BA%E4%B8%AD%E5%BF%83%23&t=31&band_rank=50&Refer=top) 73054
 1. [删了吧火象星座汗流浃背了](https://s.weibo.com/weibo?q=%23%E5%88%A0%E4%BA%86%E5%90%A7%E7%81%AB%E8%B1%A1%E6%98%9F%E5%BA%A7%E6%B1%97%E6%B5%81%E6%B5%83%E8%83%8C%E4%BA%86%23&t=31&band_rank=33&Refer=top) 62813
 1. [杨幂青丘涂山的狐狸都演过](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E9%9D%92%E4%B8%98%E6%B6%82%E5%B1%B1%E7%9A%84%E7%8B%90%E7%8B%B8%E9%83%BD%E6%BC%94%E8%BF%87%23&t=31&band_rank=34&Refer=top) 62699
+1. [我的阿勒泰央八黄金档开播](https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E9%98%BF%E5%8B%92%E6%B3%B0%E5%A4%AE%E5%85%AB%E9%BB%84%E9%87%91%E6%A1%A3%E5%BC%80%E6%92%AD%23&t=31&band_rank=25&Refer=top) 52402
 <!-- END -->
 
 历史归档 [./archives](./archives)
