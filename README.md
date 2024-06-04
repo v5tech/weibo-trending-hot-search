@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-06-05 02:49:14.629177 
-![2024-06-05](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240605/2024-06-05.png?versionId=4_z8fbbed132d73df8689c40f13_f101ee8d6cdd60a16_d20240604_m184914_c005_v0501018_t0018_u01717526954416) 
+最后更新时间 2024-06-05 03:10:44.672250 
+![2024-06-05](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240605/2024-06-05.png?versionId=4_z8fbbed132d73df8689c40f13_f100dc8ca2dc0d93e_d20240604_m191044_c005_v0501020_t0022_u01717528244617) 
 1. [巴勒斯坦](https://s.weibo.com/weibo?q=%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6&t=31&band_rank=1&Refer=top) 618307
 1. [为什么患上尿毒症的年轻人越来越多](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%82%A3%E4%B8%8A%E5%B0%BF%E6%AF%92%E7%97%87%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%23&t=31&band_rank=2&Refer=top) 450971
 1. [高铁穿过麦田氛围感拉满](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E7%A9%BF%E8%BF%87%E9%BA%A6%E7%94%B0%E6%B0%9B%E5%9B%B4%E6%84%9F%E6%8B%89%E6%BB%A1%23&t=31&band_rank=3&Refer=top) 442540
@@ -73,6 +73,7 @@
 1. [墨雨云间 复仇爽剧](https://s.weibo.com/weibo?q=%E5%A2%A8%E9%9B%A8%E4%BA%91%E9%97%B4%20%E5%A4%8D%E4%BB%87%E7%88%BD%E5%89%A7&t=31&band_rank=50&Refer=top) 35981
 1. [胖人有个致命的缺点叫怕浪费](https://s.weibo.com/weibo?q=%23%E8%83%96%E4%BA%BA%E6%9C%89%E4%B8%AA%E8%87%B4%E5%91%BD%E7%9A%84%E7%BC%BA%E7%82%B9%E5%8F%AB%E6%80%95%E6%B5%AA%E8%B4%B9%23&t=31&band_rank=38&Refer=top) 31863
 1. [爸爸突发心脏病倒地7岁女儿冷静急救](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E7%AA%81%E5%8F%91%E5%BF%83%E8%84%8F%E7%97%85%E5%80%92%E5%9C%B07%E5%B2%81%E5%A5%B3%E5%84%BF%E5%86%B7%E9%9D%99%E6%80%A5%E6%95%91%23&t=31&band_rank=48&Refer=top) 25209
+1. [嫦娥六号月背挖宝瞬间](https://s.weibo.com/weibo?q=%23%E5%AB%A6%E5%A8%A5%E5%85%AD%E5%8F%B7%E6%9C%88%E8%83%8C%E6%8C%96%E5%AE%9D%E7%9E%AC%E9%97%B4%23&t=31&band_rank=44&Refer=top) 17907
 <!-- END -->
 
 历史归档 [./archives](./archives)
