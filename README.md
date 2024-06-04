@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-06-05 01:49:36.726879 
-![2024-06-05](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240605/2024-06-05.png?versionId=4_z8fbbed132d73df8689c40f13_f10761aea89ad27ff_d20240604_m174936_c005_v0501020_t0056_u01717523376664) 
+最后更新时间 2024-06-05 02:15:42.456078 
+![2024-06-05](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240605/2024-06-05.png?versionId=4_z8fbbed132d73df8689c40f13_f1133156905049e12_d20240604_m181541_c005_v0521006_t0032_u01717524941673) 
 1. [巴勒斯坦](https://s.weibo.com/weibo?q=%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6&t=31&band_rank=1&Refer=top) 618307
 1. [为什么患上尿毒症的年轻人越来越多](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%82%A3%E4%B8%8A%E5%B0%BF%E6%AF%92%E7%97%87%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%23&t=31&band_rank=2&Refer=top) 450971
 1. [高铁穿过麦田氛围感拉满](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E7%A9%BF%E8%BF%87%E9%BA%A6%E7%94%B0%E6%B0%9B%E5%9B%B4%E6%84%9F%E6%8B%89%E6%BB%A1%23&t=31&band_rank=3&Refer=top) 442540
@@ -66,10 +66,12 @@
 1. [张雪峰说报志愿要以孩子为中心](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E8%AF%B4%E6%8A%A5%E5%BF%97%E6%84%BF%E8%A6%81%E4%BB%A5%E5%AD%A9%E5%AD%90%E4%B8%BA%E4%B8%AD%E5%BF%83%23&t=31&band_rank=50&Refer=top) 73054
 1. [删了吧火象星座汗流浃背了](https://s.weibo.com/weibo?q=%23%E5%88%A0%E4%BA%86%E5%90%A7%E7%81%AB%E8%B1%A1%E6%98%9F%E5%BA%A7%E6%B1%97%E6%B5%81%E6%B5%83%E8%83%8C%E4%BA%86%23&t=31&band_rank=33&Refer=top) 62813
 1. [杨幂青丘涂山的狐狸都演过](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E9%9D%92%E4%B8%98%E6%B6%82%E5%B1%B1%E7%9A%84%E7%8B%90%E7%8B%B8%E9%83%BD%E6%BC%94%E8%BF%87%23&t=31&band_rank=34&Refer=top) 62699
+1. [渝爱把自己裹成了粽子](https://s.weibo.com/weibo?q=%23%E6%B8%9D%E7%88%B1%E6%8A%8A%E8%87%AA%E5%B7%B1%E8%A3%B9%E6%88%90%E4%BA%86%E7%B2%BD%E5%AD%90%23&t=31&band_rank=10&Refer=top) 59020
 1. [王星越眉眼间有风雨](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%98%9F%E8%B6%8A%E7%9C%89%E7%9C%BC%E9%97%B4%E6%9C%89%E9%A3%8E%E9%9B%A8%23&t=31&band_rank=40&Refer=top) 46651
 1. [辛芷蕾的松弛感绝了](https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E7%9A%84%E6%9D%BE%E5%BC%9B%E6%84%9F%E7%BB%9D%E4%BA%86%23&t=31&band_rank=45&Refer=top) 41053
 1. [墨雨云间 复仇爽剧](https://s.weibo.com/weibo?q=%E5%A2%A8%E9%9B%A8%E4%BA%91%E9%97%B4%20%E5%A4%8D%E4%BB%87%E7%88%BD%E5%89%A7&t=31&band_rank=50&Refer=top) 35981
 1. [胖人有个致命的缺点叫怕浪费](https://s.weibo.com/weibo?q=%23%E8%83%96%E4%BA%BA%E6%9C%89%E4%B8%AA%E8%87%B4%E5%91%BD%E7%9A%84%E7%BC%BA%E7%82%B9%E5%8F%AB%E6%80%95%E6%B5%AA%E8%B4%B9%23&t=31&band_rank=38&Refer=top) 31863
+1. [爸爸突发心脏病倒地7岁女儿冷静急救](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E7%AA%81%E5%8F%91%E5%BF%83%E8%84%8F%E7%97%85%E5%80%92%E5%9C%B07%E5%B2%81%E5%A5%B3%E5%84%BF%E5%86%B7%E9%9D%99%E6%80%A5%E6%95%91%23&t=31&band_rank=48&Refer=top) 21286
 <!-- END -->
 
 历史归档 [./archives](./archives)
