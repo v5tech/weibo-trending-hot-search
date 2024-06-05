@@ -271,6 +271,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E9%A5%AD%E5%BA%97%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%8A%A0%E8%91%B1%E9%A6%99%E8%8F%9C%23&t=31&band_rank=50&Refer=top",
     "hot": 25143
   },
+  "你的高考幸运签已送达": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%9A%84%E9%AB%98%E8%80%83%E5%B9%B8%E8%BF%90%E7%AD%BE%E5%B7%B2%E9%80%81%E8%BE%BE%23&t=31&band_rank=14&Refer=top",
+    "hot": 22765
+  },
   "为啥天天刷牙还有口臭": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%BA%E5%95%A5%E5%A4%A9%E5%A4%A9%E5%88%B7%E7%89%99%E8%BF%98%E6%9C%89%E5%8F%A3%E8%87%AD%23&t=31&band_rank=49&Refer=top",
     "hot": 19133
@@ -279,20 +283,24 @@
     "url": "https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%BA%AB%E4%B8%8A%E7%9A%84%E7%8B%97%E5%91%B3%E6%AF%94%E6%88%91%E7%9A%84%E8%BF%98%E9%87%8D%23&t=31&band_rank=41&Refer=top",
     "hot": 17868
   },
+  "情绪稳定的本质": {
+    "url": "https://s.weibo.com/weibo?q=%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A%E7%9A%84%E6%9C%AC%E8%B4%A8&t=31&band_rank=50&Refer=top",
+    "hot": 17868
+  },
   "一不小心又被爸妈幽默到了": {
     "url": "https://s.weibo.com/weibo?q=%E4%B8%80%E4%B8%8D%E5%B0%8F%E5%BF%83%E5%8F%88%E8%A2%AB%E7%88%B8%E5%A6%88%E5%B9%BD%E9%BB%98%E5%88%B0%E4%BA%86&t=31&band_rank=41&Refer=top",
     "hot": 16800
   },
-  "情绪稳定的本质": {
-    "url": "https://s.weibo.com/weibo?q=%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A%E7%9A%84%E6%9C%AC%E8%B4%A8&t=31&band_rank=50&Refer=top",
-    "hot": 16791
-  },
   "周大福有员工称收到N+3赔偿": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%A4%A7%E7%A6%8F%E6%9C%89%E5%91%98%E5%B7%A5%E7%A7%B0%E6%94%B6%E5%88%B0N%2B3%E8%B5%94%E5%81%BF%23&t=31&band_rank=47&Refer=top",
-    "hot": 13781
+    "hot": 15135
   },
   "更好发挥住房公积金保障作用": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%9B%B4%E5%A5%BD%E5%8F%91%E6%8C%A5%E4%BD%8F%E6%88%BF%E5%85%AC%E7%A7%AF%E9%87%91%E4%BF%9D%E9%9A%9C%E4%BD%9C%E7%94%A8%23&t=31&band_rank=49&Refer=top",
-    "hot": 13780
+    "hot": 15128
+  },
+  "蹦极时的仪式感 割绳子": {
+    "url": "https://s.weibo.com/weibo?q=%E8%B9%A6%E6%9E%81%E6%97%B6%E7%9A%84%E4%BB%AA%E5%BC%8F%E6%84%9F%20%E5%89%B2%E7%BB%B3%E5%AD%90&t=31&band_rank=50&Refer=top",
+    "hot": 15122
   }
 }
