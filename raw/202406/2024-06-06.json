@@ -159,6 +159,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E6%80%BB%E7%90%86%E8%8E%AB%E8%BF%AA%E6%8F%90%E4%BA%A4%E8%BE%9E%E5%91%88%23&t=31&band_rank=36&Refer=top",
     "hot": 108509
   },
+  "恢复一代": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%81%A2%E5%A4%8D%E4%B8%80%E4%BB%A3%23&t=31&band_rank=31&Refer=top",
+    "hot": 106583
+  },
   "皮肤变好带给我的变化有多大": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%9A%AE%E8%82%A4%E5%8F%98%E5%A5%BD%E5%B8%A6%E7%BB%99%E6%88%91%E7%9A%84%E5%8F%98%E5%8C%96%E6%9C%89%E5%A4%9A%E5%A4%A7%23&t=31&band_rank=37&Refer=top",
     "hot": 106144
@@ -223,13 +227,13 @@
     "url": "https://s.weibo.com/weibo?q=%23%E8%97%8F%E5%9C%A8%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E6%A8%A1%E6%8B%9F%E5%8D%B7%E9%87%8C%E7%9A%84%E6%B5%AA%E6%BC%AB%23&t=31&band_rank=27&Refer=top",
     "hot": 80220
   },
-  "恢复一代": {
-    "url": "https://s.weibo.com/weibo?q=%23%E6%81%A2%E5%A4%8D%E4%B8%80%E4%BB%A3%23&t=31&band_rank=31&Refer=top",
-    "hot": 79714
-  },
   "leave闪现接箭": {
     "url": "https://s.weibo.com/weibo?q=%23leave%E9%97%AA%E7%8E%B0%E6%8E%A5%E7%AE%AD%23&t=31&band_rank=50&Refer=top",
     "hot": 79512
+  },
+  "考王梁实称或是最后一次参加高考": {
+    "url": "https://s.weibo.com/weibo?q=%23%E8%80%83%E7%8E%8B%E6%A2%81%E5%AE%9E%E7%A7%B0%E6%88%96%E6%98%AF%E6%9C%80%E5%90%8E%E4%B8%80%E6%AC%A1%E5%8F%82%E5%8A%A0%E9%AB%98%E8%80%83%23&t=31&band_rank=10&Refer=top",
+    "hot": 72260
   },
   "墨雨云间 双强cp": {
     "url": "https://s.weibo.com/weibo?q=%E5%A2%A8%E9%9B%A8%E4%BA%91%E9%97%B4%20%E5%8F%8C%E5%BC%BAcp&t=31&band_rank=40&Refer=top",
@@ -246,5 +250,9 @@
   "吴谨言杨超越合照": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%B0%A8%E8%A8%80%E6%9D%A8%E8%B6%85%E8%B6%8A%E5%90%88%E7%85%A7%23&t=31&band_rank=46&Refer=top",
     "hot": 41829
+  },
+  "人间失格音乐剧": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E9%97%B4%E5%A4%B1%E6%A0%BC%E9%9F%B3%E4%B9%90%E5%89%A7%23&t=31&band_rank=49&Refer=top",
+    "hot": 29894
   }
 }
