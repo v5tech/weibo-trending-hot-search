@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-06-06 03:35:09.580632 
-![2024-06-06](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240606/2024-06-06.png?versionId=4_z8fbbed132d73df8689c40f13_f106756ae17d906c5_d20240605_m193509_c005_v0501021_t0025_u01717616109073) 
+最后更新时间 2024-06-06 03:49:21.373809 
+![2024-06-06](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240606/2024-06-06.png?versionId=4_z8fbbed132d73df8689c40f13_f1177a02f58ce0679_d20240605_m194921_c005_v0501021_t0044_u01717616961293) 
 1. [养了6年的巨骨舌鱼把自己摔死了](https://s.weibo.com/weibo?q=%23%E5%85%BB%E4%BA%866%E5%B9%B4%E7%9A%84%E5%B7%A8%E9%AA%A8%E8%88%8C%E9%B1%BC%E6%8A%8A%E8%87%AA%E5%B7%B1%E6%91%94%E6%AD%BB%E4%BA%86%23&t=31&band_rank=12&Refer=top) 1014794
 1. [爱奇艺 线下免费线上收费](https://s.weibo.com/weibo?q=%E7%88%B1%E5%A5%87%E8%89%BA%20%E7%BA%BF%E4%B8%8B%E5%85%8D%E8%B4%B9%E7%BA%BF%E4%B8%8A%E6%94%B6%E8%B4%B9&t=31&band_rank=1&Refer=top) 914638
 1. [增绿就是增优势植树就是植未来](https://s.weibo.com/weibo?q=%23%E5%A2%9E%E7%BB%BF%E5%B0%B1%E6%98%AF%E5%A2%9E%E4%BC%98%E5%8A%BF%E6%A4%8D%E6%A0%91%E5%B0%B1%E6%98%AF%E6%A4%8D%E6%9C%AA%E6%9D%A5%23&t=31&band_rank=3&Refer=top) 511647
@@ -46,6 +46,7 @@
 1. [游客吐槽阿勒泰旅游太贵了](https://s.weibo.com/weibo?q=%23%E6%B8%B8%E5%AE%A2%E5%90%90%E6%A7%BD%E9%98%BF%E5%8B%92%E6%B3%B0%E6%97%85%E6%B8%B8%E5%A4%AA%E8%B4%B5%E4%BA%86%23&t=31&band_rank=29&Refer=top) 125138
 1. [都江堰已持续运行2280年](https://s.weibo.com/weibo?q=%23%E9%83%BD%E6%B1%9F%E5%A0%B0%E5%B7%B2%E6%8C%81%E7%BB%AD%E8%BF%90%E8%A1%8C2280%E5%B9%B4%23&t=31&band_rank=30&Refer=top) 120891
 1. [刑事侦缉档案剧组重聚](https://s.weibo.com/weibo?q=%23%E5%88%91%E4%BA%8B%E4%BE%A6%E7%BC%89%E6%A1%A3%E6%A1%88%E5%89%A7%E7%BB%84%E9%87%8D%E8%81%9A%23&t=31&band_rank=32&Refer=top) 120303
+1. [张雪峰一门课卖近两万元](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E4%B8%80%E9%97%A8%E8%AF%BE%E5%8D%96%E8%BF%91%E4%B8%A4%E4%B8%87%E5%85%83%23&t=31&band_rank=34&Refer=top) 116049
 1. [黄子弘凡 下次不准再演了](https://s.weibo.com/weibo?q=%E9%BB%84%E5%AD%90%E5%BC%98%E5%87%A1%20%E4%B8%8B%E6%AC%A1%E4%B8%8D%E5%87%86%E5%86%8D%E6%BC%94%E4%BA%86&t=31&band_rank=34&Refer=top) 114147
 1. [恢复一代](https://s.weibo.com/weibo?q=%23%E6%81%A2%E5%A4%8D%E4%B8%80%E4%BB%A3%23&t=31&band_rank=31&Refer=top) 110795
 1. [重庆文旅发了肖战](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E6%96%87%E6%97%85%E5%8F%91%E4%BA%86%E8%82%96%E6%88%98%23&t=31&band_rank=35&Refer=top) 108766
@@ -69,7 +70,6 @@
 1. [leave闪现接箭](https://s.weibo.com/weibo?q=%23leave%E9%97%AA%E7%8E%B0%E6%8E%A5%E7%AE%AD%23&t=31&band_rank=50&Refer=top) 79512
 1. [考王梁实称或是最后一次参加高考](https://s.weibo.com/weibo?q=%23%E8%80%83%E7%8E%8B%E6%A2%81%E5%AE%9E%E7%A7%B0%E6%88%96%E6%98%AF%E6%9C%80%E5%90%8E%E4%B8%80%E6%AC%A1%E5%8F%82%E5%8A%A0%E9%AB%98%E8%80%83%23&t=31&band_rank=10&Refer=top) 72260
 1. [文化中国行看节气之美](https://s.weibo.com/weibo?q=%23%E6%96%87%E5%8C%96%E4%B8%AD%E5%9B%BD%E8%A1%8C%E7%9C%8B%E8%8A%82%E6%B0%94%E4%B9%8B%E7%BE%8E%23&t=31&band_rank=10&Refer=top) 63997
-1. [张雪峰一门课卖近两万元](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E4%B8%80%E9%97%A8%E8%AF%BE%E5%8D%96%E8%BF%91%E4%B8%A4%E4%B8%87%E5%85%83%23&t=31&band_rank=34&Refer=top) 54388
 1. [墨雨云间 双强cp](https://s.weibo.com/weibo?q=%E5%A2%A8%E9%9B%A8%E4%BA%91%E9%97%B4%20%E5%8F%8C%E5%BC%BAcp&t=31&band_rank=40&Refer=top) 54281
 1. [没想到朋友圈置顶还能这么玩](https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E6%9C%8B%E5%8F%8B%E5%9C%88%E7%BD%AE%E9%A1%B6%E8%BF%98%E8%83%BD%E8%BF%99%E4%B9%88%E7%8E%A9%23&t=31&band_rank=43&Refer=top) 54097
 1. [徐艺洋运动就会恶心](https://s.weibo.com/weibo?q=%23%E5%BE%90%E8%89%BA%E6%B4%8B%E8%BF%90%E5%8A%A8%E5%B0%B1%E4%BC%9A%E6%81%B6%E5%BF%83%23&t=31&band_rank=46&Refer=top) 46570
@@ -78,6 +78,9 @@
 1. [人间失格音乐剧](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E9%97%B4%E5%A4%B1%E6%A0%BC%E9%9F%B3%E4%B9%90%E5%89%A7%23&t=31&band_rank=49&Refer=top) 29894
 1. [终于知道饭店为什么要加葱香菜](https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E9%A5%AD%E5%BA%97%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%8A%A0%E8%91%B1%E9%A6%99%E8%8F%9C%23&t=31&band_rank=50&Refer=top) 25143
 1. [你身上的狗味比我的还重](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%BA%AB%E4%B8%8A%E7%9A%84%E7%8B%97%E5%91%B3%E6%AF%94%E6%88%91%E7%9A%84%E8%BF%98%E9%87%8D%23&t=31&band_rank=41&Refer=top) 17868
+1. [一不小心又被爸妈幽默到了](https://s.weibo.com/weibo?q=%E4%B8%80%E4%B8%8D%E5%B0%8F%E5%BF%83%E5%8F%88%E8%A2%AB%E7%88%B8%E5%A6%88%E5%B9%BD%E9%BB%98%E5%88%B0%E4%BA%86&t=31&band_rank=41&Refer=top) 16800
+1. [为啥天天刷牙还有口臭](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E5%95%A5%E5%A4%A9%E5%A4%A9%E5%88%B7%E7%89%99%E8%BF%98%E6%9C%89%E5%8F%A3%E8%87%AD%23&t=31&band_rank=49&Refer=top) 16791
+1. [情绪稳定的本质](https://s.weibo.com/weibo?q=%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A%E7%9A%84%E6%9C%AC%E8%B4%A8&t=31&band_rank=50&Refer=top) 16791
 <!-- END -->
 
 历史归档 [./archives](./archives)

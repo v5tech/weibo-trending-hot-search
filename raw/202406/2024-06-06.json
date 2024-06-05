@@ -147,6 +147,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%88%91%E4%BA%8B%E4%BE%A6%E7%BC%89%E6%A1%A3%E6%A1%88%E5%89%A7%E7%BB%84%E9%87%8D%E8%81%9A%23&t=31&band_rank=32&Refer=top",
     "hot": 120303
   },
+  "张雪峰一门课卖近两万元": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E4%B8%80%E9%97%A8%E8%AF%BE%E5%8D%96%E8%BF%91%E4%B8%A4%E4%B8%87%E5%85%83%23&t=31&band_rank=34&Refer=top",
+    "hot": 116049
+  },
   "黄子弘凡 下次不准再演了": {
     "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E5%AD%90%E5%BC%98%E5%87%A1%20%E4%B8%8B%E6%AC%A1%E4%B8%8D%E5%87%86%E5%86%8D%E6%BC%94%E4%BA%86&t=31&band_rank=34&Refer=top",
     "hot": 114147
@@ -239,10 +243,6 @@
     "url": "https://s.weibo.com/weibo?q=%23%E6%96%87%E5%8C%96%E4%B8%AD%E5%9B%BD%E8%A1%8C%E7%9C%8B%E8%8A%82%E6%B0%94%E4%B9%8B%E7%BE%8E%23&t=31&band_rank=10&Refer=top",
     "hot": 63997
   },
-  "张雪峰一门课卖近两万元": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E5%B3%B0%E4%B8%80%E9%97%A8%E8%AF%BE%E5%8D%96%E8%BF%91%E4%B8%A4%E4%B8%87%E5%85%83%23&t=31&band_rank=34&Refer=top",
-    "hot": 54388
-  },
   "墨雨云间 双强cp": {
     "url": "https://s.weibo.com/weibo?q=%E5%A2%A8%E9%9B%A8%E4%BA%91%E9%97%B4%20%E5%8F%8C%E5%BC%BAcp&t=31&band_rank=40&Refer=top",
     "hot": 54281
@@ -274,5 +274,17 @@
   "你身上的狗味比我的还重": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%BA%AB%E4%B8%8A%E7%9A%84%E7%8B%97%E5%91%B3%E6%AF%94%E6%88%91%E7%9A%84%E8%BF%98%E9%87%8D%23&t=31&band_rank=41&Refer=top",
     "hot": 17868
+  },
+  "一不小心又被爸妈幽默到了": {
+    "url": "https://s.weibo.com/weibo?q=%E4%B8%80%E4%B8%8D%E5%B0%8F%E5%BF%83%E5%8F%88%E8%A2%AB%E7%88%B8%E5%A6%88%E5%B9%BD%E9%BB%98%E5%88%B0%E4%BA%86&t=31&band_rank=41&Refer=top",
+    "hot": 16800
+  },
+  "为啥天天刷牙还有口臭": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%BA%E5%95%A5%E5%A4%A9%E5%A4%A9%E5%88%B7%E7%89%99%E8%BF%98%E6%9C%89%E5%8F%A3%E8%87%AD%23&t=31&band_rank=49&Refer=top",
+    "hot": 16791
+  },
+  "情绪稳定的本质": {
+    "url": "https://s.weibo.com/weibo?q=%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A%E7%9A%84%E6%9C%AC%E8%B4%A8&t=31&band_rank=50&Refer=top",
+    "hot": 16791
   }
 }
