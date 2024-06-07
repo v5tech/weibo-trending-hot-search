@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-06-08 01:35:27.827550 
-![2024-06-08](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240608/2024-06-08.png?versionId=4_z8fbbed132d73df8689c40f13_f109bc40f45aa4230_d20240607_m173527_c005_v0501018_t0059_u01717781727803) 
+最后更新时间 2024-06-08 01:53:47.790608 
+![2024-06-08](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240608/2024-06-08.png?versionId=4_z8fbbed132d73df8689c40f13_f11482df44e5cc509_d20240607_m175347_c005_v0501021_t0055_u01717782827760) 
 1. [少年目睹爷爷被打后投河身亡爷爷仍昏迷](https://s.weibo.com/weibo?q=%23%E5%B0%91%E5%B9%B4%E7%9B%AE%E7%9D%B9%E7%88%B7%E7%88%B7%E8%A2%AB%E6%89%93%E5%90%8E%E6%8A%95%E6%B2%B3%E8%BA%AB%E4%BA%A1%E7%88%B7%E7%88%B7%E4%BB%8D%E6%98%8F%E8%BF%B7%23&t=31&band_rank=1&Refer=top) 1469063
 1. [歌手排名](https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E6%8E%92%E5%90%8D&t=31&band_rank=2&Refer=top) 1223812
 1. [中华文化传承发展新华章](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%8D%8E%E6%96%87%E5%8C%96%E4%BC%A0%E6%89%BF%E5%8F%91%E5%B1%95%E6%96%B0%E5%8D%8E%E7%AB%A0%23&t=31&band_rank=3&Refer=top) 1192430
@@ -63,6 +63,7 @@
 1. [何炅缺席](https://s.weibo.com/weibo?q=%E4%BD%95%E7%82%85%E7%BC%BA%E5%B8%AD&t=31&band_rank=45&Refer=top) 111897
 1. [尚雯婕没去歌手去618了](https://s.weibo.com/weibo?q=%23%E5%B0%9A%E9%9B%AF%E5%A9%95%E6%B2%A1%E5%8E%BB%E6%AD%8C%E6%89%8B%E5%8E%BB618%E4%BA%86%23&t=31&band_rank=44&Refer=top) 79379
 1. [说唱梦工厂](https://s.weibo.com/weibo?q=%E8%AF%B4%E5%94%B1%E6%A2%A6%E5%B7%A5%E5%8E%82&t=31&band_rank=46&Refer=top) 79356
+1. [医生提醒9种面相或是疾病信号](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E6%8F%90%E9%86%929%E7%A7%8D%E9%9D%A2%E7%9B%B8%E6%88%96%E6%98%AF%E7%96%BE%E7%97%85%E4%BF%A1%E5%8F%B7%23&t=31&band_rank=34&Refer=top) 54297
 <!-- END -->
 
 历史归档 [./archives](./archives)
