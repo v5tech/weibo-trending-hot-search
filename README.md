@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-06-08 04:25:37.816543 
-![2024-06-08](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240608/2024-06-08.png?versionId=4_z8fbbed132d73df8689c40f13_f10542423f340d7b0_d20240607_m202537_c005_v0501010_t0018_u01717791937230) 
+最后更新时间 2024-06-08 04:35:10.146300 
+![2024-06-08](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240608/2024-06-08.png?versionId=4_z8fbbed132d73df8689c40f13_f1003369aacc45fed_d20240607_m203510_c005_v0501007_t0043_u01717792510089) 
 1. [少年目睹爷爷被打后投河身亡爷爷仍昏迷](https://s.weibo.com/weibo?q=%23%E5%B0%91%E5%B9%B4%E7%9B%AE%E7%9D%B9%E7%88%B7%E7%88%B7%E8%A2%AB%E6%89%93%E5%90%8E%E6%8A%95%E6%B2%B3%E8%BA%AB%E4%BA%A1%E7%88%B7%E7%88%B7%E4%BB%8D%E6%98%8F%E8%BF%B7%23&t=31&band_rank=1&Refer=top) 1469063
 1. [歌手排名](https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E6%8E%92%E5%90%8D&t=31&band_rank=2&Refer=top) 1223812
 1. [中华文化传承发展新华章](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%8D%8E%E6%96%87%E5%8C%96%E4%BC%A0%E6%89%BF%E5%8F%91%E5%B1%95%E6%96%B0%E5%8D%8E%E7%AB%A0%23&t=31&band_rank=3&Refer=top) 1192430
@@ -72,8 +72,9 @@
 1. [数学数学 我要diss你](https://s.weibo.com/weibo?q=%E6%95%B0%E5%AD%A6%E6%95%B0%E5%AD%A6%20%E6%88%91%E8%A6%81diss%E4%BD%A0&t=31&band_rank=50&Refer=top) 39003
 1. [红领巾](https://s.weibo.com/weibo?q=%E7%BA%A2%E9%A2%86%E5%B7%BE&t=31&band_rank=50&Refer=top) 35608
 1. [董宇辉小时候被抢过好多次钱](https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%AE%87%E8%BE%89%E5%B0%8F%E6%97%B6%E5%80%99%E8%A2%AB%E6%8A%A2%E8%BF%87%E5%A5%BD%E5%A4%9A%E6%AC%A1%E9%92%B1%23&t=31&band_rank=20&Refer=top) 31075
+1. [关晓彤无袖背心短裤](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E6%97%A0%E8%A2%96%E8%83%8C%E5%BF%83%E7%9F%AD%E8%A3%A4%23&t=31&band_rank=42&Refer=top) 21817
 1. [时代少年团做29块9的洗剪吹](https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E5%81%9A29%E5%9D%979%E7%9A%84%E6%B4%97%E5%89%AA%E5%90%B9%23&t=31&band_rank=45&Refer=top) 21616
-1. [关晓彤无袖背心短裤](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E6%97%A0%E8%A2%96%E8%83%8C%E5%BF%83%E7%9F%AD%E8%A3%A4%23&t=31&band_rank=42&Refer=top) 20431
+1. [临沂8.1万名考生奔赴考场](https://s.weibo.com/weibo?q=%23%E4%B8%B4%E6%B2%828.1%E4%B8%87%E5%90%8D%E8%80%83%E7%94%9F%E5%A5%94%E8%B5%B4%E8%80%83%E5%9C%BA%23&t=31&band_rank=50&Refer=top) 16572
 <!-- END -->
 
 历史归档 [./archives](./archives)
