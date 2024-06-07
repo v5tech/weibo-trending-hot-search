@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-06-08 03:34:59.070718 
-![2024-06-08](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240608/2024-06-08.png?versionId=4_z8fbbed132d73df8689c40f13_f100b52cf3dcd75ab_d20240607_m193458_c005_v0501008_t0031_u01717788898487) 
+最后更新时间 2024-06-08 03:49:37.328378 
+![2024-06-08](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240608/2024-06-08.png?versionId=4_z8fbbed132d73df8689c40f13_f1112f87fa0d3c80b_d20240607_m194936_c005_v0501007_t0008_u01717789776820) 
 1. [少年目睹爷爷被打后投河身亡爷爷仍昏迷](https://s.weibo.com/weibo?q=%23%E5%B0%91%E5%B9%B4%E7%9B%AE%E7%9D%B9%E7%88%B7%E7%88%B7%E8%A2%AB%E6%89%93%E5%90%8E%E6%8A%95%E6%B2%B3%E8%BA%AB%E4%BA%A1%E7%88%B7%E7%88%B7%E4%BB%8D%E6%98%8F%E8%BF%B7%23&t=31&band_rank=1&Refer=top) 1469063
 1. [歌手排名](https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E6%8E%92%E5%90%8D&t=31&band_rank=2&Refer=top) 1223812
 1. [中华文化传承发展新华章](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%8D%8E%E6%96%87%E5%8C%96%E4%BC%A0%E6%89%BF%E5%8F%91%E5%B1%95%E6%96%B0%E5%8D%8E%E7%AB%A0%23&t=31&band_rank=3&Refer=top) 1192430
@@ -70,8 +70,8 @@
 1. [白敬亭上身肌肉线条](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E4%B8%8A%E8%BA%AB%E8%82%8C%E8%82%89%E7%BA%BF%E6%9D%A1%23&t=31&band_rank=44&Refer=top) 39129
 1. [薛芳菲我不允许任何人忤逆你](https://s.weibo.com/weibo?q=%E8%96%9B%E8%8A%B3%E8%8F%B2%E6%88%91%E4%B8%8D%E5%85%81%E8%AE%B8%E4%BB%BB%E4%BD%95%E4%BA%BA%E5%BF%A4%E9%80%86%E4%BD%A0&t=31&band_rank=45&Refer=top) 39102
 1. [数学数学 我要diss你](https://s.weibo.com/weibo?q=%E6%95%B0%E5%AD%A6%E6%95%B0%E5%AD%A6%20%E6%88%91%E8%A6%81diss%E4%BD%A0&t=31&band_rank=50&Refer=top) 39003
+1. [红领巾](https://s.weibo.com/weibo?q=%E7%BA%A2%E9%A2%86%E5%B7%BE&t=31&band_rank=50&Refer=top) 22168
 1. [时代少年团做29块9的洗剪吹](https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E5%81%9A29%E5%9D%979%E7%9A%84%E6%B4%97%E5%89%AA%E5%90%B9%23&t=31&band_rank=45&Refer=top) 21616
-1. [红领巾](https://s.weibo.com/weibo?q=%E7%BA%A2%E9%A2%86%E5%B7%BE&t=31&band_rank=50&Refer=top) 21613
 <!-- END -->
 
 历史归档 [./archives](./archives)
