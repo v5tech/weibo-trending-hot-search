@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-06-08 00:49:26.782570 
-![2024-06-08](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240608/2024-06-08.png?versionId=4_z8fbbed132d73df8689c40f13_f1052df19299c3286_d20240607_m164926_c005_v0501019_t0057_u01717778966707) 
+最后更新时间 2024-06-08 01:11:13.246586 
+![2024-06-08](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240608/2024-06-08.png?versionId=4_z8fbbed132d73df8689c40f13_f1041930be716a6c0_d20240607_m171113_c005_v0501007_t0059_u01717780273205) 
 1. [少年目睹爷爷被打后投河身亡爷爷仍昏迷](https://s.weibo.com/weibo?q=%23%E5%B0%91%E5%B9%B4%E7%9B%AE%E7%9D%B9%E7%88%B7%E7%88%B7%E8%A2%AB%E6%89%93%E5%90%8E%E6%8A%95%E6%B2%B3%E8%BA%AB%E4%BA%A1%E7%88%B7%E7%88%B7%E4%BB%8D%E6%98%8F%E8%BF%B7%23&t=31&band_rank=1&Refer=top) 1469063
 1. [歌手排名](https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E6%8E%92%E5%90%8D&t=31&band_rank=2&Refer=top) 1223812
 1. [中华文化传承发展新华章](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%8D%8E%E6%96%87%E5%8C%96%E4%BC%A0%E6%89%BF%E5%8F%91%E5%B1%95%E6%96%B0%E5%8D%8E%E7%AB%A0%23&t=31&band_rank=3&Refer=top) 1192430
