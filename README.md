@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-06-09 01:10:53.630978 
-![2024-06-09](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240609/2024-06-09.png?versionId=4_z8fbbed132d73df8689c40f13_f10909e6ba92c430b_d20240608_m171053_c005_v0501020_t0046_u01717866653586) 
+最后更新时间 2024-06-09 01:25:35.819646 
+![2024-06-09](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240609/2024-06-09.png?versionId=4_z8fbbed132d73df8689c40f13_f116523316ed5ad07_d20240608_m172535_c005_v0501020_t0046_u01717867535749) 
 1. [刘亦菲美得劈头盖脸的](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E7%BE%8E%E5%BE%97%E5%8A%88%E5%A4%B4%E7%9B%96%E8%84%B8%E7%9A%84%23&t=31&band_rank=4&Refer=top) 757063
 1. [玫瑰的故事收视率](https://s.weibo.com/weibo?q=%23%E7%8E%AB%E7%91%B0%E7%9A%84%E6%95%85%E4%BA%8B%E6%94%B6%E8%A7%86%E7%8E%87%23&t=31&band_rank=1&Refer=top) 707304
 1. [FPX小老虎不打了](https://s.weibo.com/weibo?q=%23FPX%E5%B0%8F%E8%80%81%E8%99%8E%E4%B8%8D%E6%89%93%E4%BA%86%23&t=31&band_rank=2&Refer=top) 524527
