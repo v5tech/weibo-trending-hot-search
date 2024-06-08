@@ -1,7 +1,7 @@
 {
   "高考英语": {
     "url": "https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E8%8B%B1%E8%AF%AD&t=31&band_rank=2&Refer=top",
-    "hot": 4876432
+    "hot": 8013419
   },
   "高考物理": {
     "url": "https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E7%89%A9%E7%90%86&t=31&band_rank=2&Refer=top",
@@ -99,6 +99,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%B9%96%E5%8C%97%E4%BB%99%E6%A1%83%E5%B8%82%E5%A7%94%E5%89%AF%E4%B9%A6%E8%AE%B0%E5%9D%A0%E4%BA%A1%23&t=31&band_rank=5&Refer=top",
     "hot": 856999
   },
+  "高考日语": {
+    "url": "https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E6%97%A5%E8%AF%AD&t=31&band_rank=34&Refer=top",
+    "hot": 798945
+  },
   "那英 请你们对我不要太苛刻": {
     "url": "https://s.weibo.com/weibo?q=%E9%82%A3%E8%8B%B1%20%E8%AF%B7%E4%BD%A0%E4%BB%AC%E5%AF%B9%E6%88%91%E4%B8%8D%E8%A6%81%E5%A4%AA%E8%8B%9B%E5%88%BB&t=31&band_rank=45&Refer=top",
     "hot": 779568
@@ -126,6 +130,10 @@
   "陌生乘客接力为特殊考生送祝福": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%99%8C%E7%94%9F%E4%B9%98%E5%AE%A2%E6%8E%A5%E5%8A%9B%E4%B8%BA%E7%89%B9%E6%AE%8A%E8%80%83%E7%94%9F%E9%80%81%E7%A5%9D%E7%A6%8F%23&t=31&band_rank=27&Refer=top",
     "hot": 747034
+  },
+  "多地高考结束": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%23&t=31&band_rank=49&Refer=top",
+    "hot": 743898
   },
   "大学生要尽快学会打扮": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A6%81%E5%B0%BD%E5%BF%AB%E5%AD%A6%E4%BC%9A%E6%89%93%E6%89%AE%23&t=31&band_rank=2&Refer=top",
@@ -159,6 +167,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E7%BB%992024%E9%AB%98%E8%80%83%E7%94%9F%E6%9C%80%E5%A5%BD%E7%9A%84%E5%8A%A0%E6%B2%B9%23&t=31&band_rank=41&Refer=top",
     "hot": 622237
   },
+  "新一卷英语 难": {
+    "url": "https://s.weibo.com/weibo?q=%E6%96%B0%E4%B8%80%E5%8D%B7%E8%8B%B1%E8%AF%AD%20%E9%9A%BE&t=31&band_rank=44&Refer=top",
+    "hot": 616713
+  },
   "王心凌听到汪苏泷让她上歌手的反应": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%BF%83%E5%87%8C%E5%90%AC%E5%88%B0%E6%B1%AA%E8%8B%8F%E6%B3%B7%E8%AE%A9%E5%A5%B9%E4%B8%8A%E6%AD%8C%E6%89%8B%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=14&Refer=top",
     "hot": 613333
@@ -174,10 +186,6 @@
   "广东物理助我上大专": {
     "url": "https://s.weibo.com/weibo?q=%E5%B9%BF%E4%B8%9C%E7%89%A9%E7%90%86%E5%8A%A9%E6%88%91%E4%B8%8A%E5%A4%A7%E4%B8%93&t=31&band_rank=34&Refer=top",
     "hot": 604477
-  },
-  "高考日语": {
-    "url": "https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E6%97%A5%E8%AF%AD&t=31&band_rank=34&Refer=top",
-    "hot": 600493
   },
   "Nobody好看": {
     "url": "https://s.weibo.com/weibo?q=%23Nobody%E5%A5%BD%E7%9C%8B%23&t=31&band_rank=14&Refer=top",
@@ -207,6 +215,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E7%BD%91%E7%BA%A2%E7%A7%B0%E5%9C%A8%E6%BE%B3%E6%B4%B2%E9%81%AD%E7%A7%8D%E6%97%8F%E6%AD%A7%E8%A7%86%E8%A2%AB%E5%9B%B4%E6%AE%B4%23&t=31&band_rank=20&Refer=top",
     "hot": 524834
   },
+  "今年高考最好笑的一个": {
+    "url": "https://s.weibo.com/weibo?q=%E4%BB%8A%E5%B9%B4%E9%AB%98%E8%80%83%E6%9C%80%E5%A5%BD%E7%AC%91%E7%9A%84%E4%B8%80%E4%B8%AA&t=31&band_rank=31&Refer=top",
+    "hot": 519507
+  },
   "端午遇高考一定会考好": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%AB%AF%E5%8D%88%E9%81%87%E9%AB%98%E8%80%83%E4%B8%80%E5%AE%9A%E4%BC%9A%E8%80%83%E5%A5%BD%23&t=31&band_rank=30&Refer=top",
     "hot": 515184
@@ -215,17 +227,9 @@
     "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E8%80%83%E5%9C%BA%E5%A4%96%E7%9A%84%E9%BB%98%E5%A5%91%E7%9E%AC%E9%97%B4%23&t=31&band_rank=10&Refer=top",
     "hot": 515155
   },
-  "今年高考最好笑的一个": {
-    "url": "https://s.weibo.com/weibo?q=%E4%BB%8A%E5%B9%B4%E9%AB%98%E8%80%83%E6%9C%80%E5%A5%BD%E7%AC%91%E7%9A%84%E4%B8%80%E4%B8%AA&t=31&band_rank=31&Refer=top",
-    "hot": 506875
-  },
   "27岁到30岁才是最难熬的": {
     "url": "https://s.weibo.com/weibo?q=%2327%E5%B2%81%E5%88%B030%E5%B2%81%E6%89%8D%E6%98%AF%E6%9C%80%E9%9A%BE%E7%86%AC%E7%9A%84%23&t=31&band_rank=26&Refer=top",
     "hot": 501252
-  },
-  "多地高考结束": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%23&t=31&band_rank=49&Refer=top",
-    "hot": 498358
   },
   "伊能静 我爱的女孩终于长成玫瑰": {
     "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E8%83%BD%E9%9D%99%20%E6%88%91%E7%88%B1%E7%9A%84%E5%A5%B3%E5%AD%A9%E7%BB%88%E4%BA%8E%E9%95%BF%E6%88%90%E7%8E%AB%E7%91%B0&t=31&band_rank=32&Refer=top",
@@ -343,9 +347,17 @@
     "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=45&Refer=top",
     "hot": 340618
   },
+  "一牛蛙影响高考被抓": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%89%9B%E8%9B%99%E5%BD%B1%E5%93%8D%E9%AB%98%E8%80%83%E8%A2%AB%E6%8A%93%23&t=31&band_rank=25&Refer=top",
+    "hot": 337551
+  },
   "日本一神社禁止韩国人入内": {
     "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E4%B8%80%E7%A5%9E%E7%A4%BE%E7%A6%81%E6%AD%A2%E9%9F%A9%E5%9B%BD%E4%BA%BA%E5%85%A5%E5%86%85&t=31&band_rank=38&Refer=top",
     "hot": 337084
+  },
+  "高考前一天妈妈押中语文作文题": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%89%8D%E4%B8%80%E5%A4%A9%E5%A6%88%E5%A6%88%E6%8A%BC%E4%B8%AD%E8%AF%AD%E6%96%87%E4%BD%9C%E6%96%87%E9%A2%98%23&t=31&band_rank=32&Refer=top",
+    "hot": 336837
   },
   "王一博要求黑粉公开道歉": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%A6%81%E6%B1%82%E9%BB%91%E7%B2%89%E5%85%AC%E5%BC%80%E9%81%93%E6%AD%89%23&t=31&band_rank=12&Refer=top",
@@ -411,6 +423,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%BA%E5%95%A5%E8%BF%90%E9%AB%98%E8%80%83%E8%AF%95%E5%8D%B7%E7%94%A8%E6%AD%A5%E6%9E%AA%E6%8A%BC%E9%80%81%E7%8E%B0%E9%87%91%E7%94%A8%E9%9C%B0%E5%BC%B9%E6%9E%AA%23&t=31&band_rank=31&Refer=top",
     "hot": 301116
   },
+  "今年又帮李华了": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E5%8F%88%E5%B8%AE%E6%9D%8E%E5%8D%8E%E4%BA%86%23&t=31&band_rank=18&Refer=top",
+    "hot": 298407
+  },
   "沈梦辰主持": {
     "url": "https://s.weibo.com/weibo?q=%E6%B2%88%E6%A2%A6%E8%BE%B0%E4%B8%BB%E6%8C%81&t=31&band_rank=12&Refer=top",
     "hot": 291652
@@ -439,10 +455,6 @@
     "url": "https://s.weibo.com/weibo?q=%E6%B1%AA%E8%8B%8F%E6%B3%B7%E7%AC%AC%E5%85%AD&t=31&band_rank=29&Refer=top",
     "hot": 279154
   },
-  "一牛蛙影响高考被抓": {
-    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%89%9B%E8%9B%99%E5%BD%B1%E5%93%8D%E9%AB%98%E8%80%83%E8%A2%AB%E6%8A%93%23&t=31&band_rank=25&Refer=top",
-    "hot": 272423
-  },
   "Gala 幽梦": {
     "url": "https://s.weibo.com/weibo?q=Gala%20%E5%B9%BD%E6%A2%A6&t=31&band_rank=15&Refer=top",
     "hot": 271218
@@ -462,10 +474,6 @@
   "女子替过世6年小姨拥抱高考表弟": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%9B%BF%E8%BF%87%E4%B8%966%E5%B9%B4%E5%B0%8F%E5%A7%A8%E6%8B%A5%E6%8A%B1%E9%AB%98%E8%80%83%E8%A1%A8%E5%BC%9F%23&t=31&band_rank=18&Refer=top",
     "hot": 265258
-  },
-  "今年又帮李华了": {
-    "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E5%8F%88%E5%B8%AE%E6%9D%8E%E5%8D%8E%E4%BA%86%23&t=31&band_rank=18&Refer=top",
-    "hot": 264143
   },
   "数学 一生之敌": {
     "url": "https://s.weibo.com/weibo?q=%E6%95%B0%E5%AD%A6%20%E4%B8%80%E7%94%9F%E4%B9%8B%E6%95%8C&t=31&band_rank=19&Refer=top",
@@ -551,6 +559,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E6%9C%8B%E5%8F%8B%E5%9C%A8%E5%85%A8%E9%BA%BB%E5%90%8E%E8%AF%B4%E4%BA%86%E4%BC%A4%E4%BA%BA%E7%9A%84%E8%AF%9D%23&t=31&band_rank=44&Refer=top",
     "hot": 241608
   },
+  "张若昀说高考分数对艺考很富余": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%8B%A5%E6%98%80%E8%AF%B4%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E5%AF%B9%E8%89%BA%E8%80%83%E5%BE%88%E5%AF%8C%E4%BD%99%23&t=31&band_rank=37&Refer=top",
+    "hot": 240377
+  },
   "边佑锡cos百变小樱": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%BE%B9%E4%BD%91%E9%94%A1cos%E7%99%BE%E5%8F%98%E5%B0%8F%E6%A8%B1%23&t=31&band_rank=31&Refer=top",
     "hot": 240035
@@ -603,9 +615,17 @@
     "url": "https://s.weibo.com/weibo?q=%23%E6%9C%88%E8%96%AA%E5%85%AD%E5%8D%83%E7%9A%84%E9%97%BA%E8%9C%9C%E4%B8%80%E4%B8%AA%E6%9C%88%E8%83%BD%E5%AD%98%E4%B8%89%E5%8D%83%23&t=31&band_rank=22&Refer=top",
     "hot": 226503
   },
+  "高考英语作文": {
+    "url": "https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E8%8B%B1%E8%AF%AD%E4%BD%9C%E6%96%87&t=31&band_rank=20&Refer=top",
+    "hot": 226355
+  },
   "高考生持续耳鸣以为压力大结果是鼻咽癌": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E7%94%9F%E6%8C%81%E7%BB%AD%E8%80%B3%E9%B8%A3%E4%BB%A5%E4%B8%BA%E5%8E%8B%E5%8A%9B%E5%A4%A7%E7%BB%93%E6%9E%9C%E6%98%AF%E9%BC%BB%E5%92%BD%E7%99%8C%23&t=31&band_rank=50&Refer=top",
     "hot": 226256
+  },
+  "女子花费518元雇体育生陪女儿爬泰山": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%8A%B1%E8%B4%B9518%E5%85%83%E9%9B%87%E4%BD%93%E8%82%B2%E7%94%9F%E9%99%AA%E5%A5%B3%E5%84%BF%E7%88%AC%E6%B3%B0%E5%B1%B1%23&t=31&band_rank=22&Refer=top",
+    "hot": 226173
   },
   "福建历史考完老实了": {
     "url": "https://s.weibo.com/weibo?q=%E7%A6%8F%E5%BB%BA%E5%8E%86%E5%8F%B2%E8%80%83%E5%AE%8C%E8%80%81%E5%AE%9E%E4%BA%86&t=31&band_rank=46&Refer=top",
@@ -647,6 +667,10 @@
     "url": "https://s.weibo.com/weibo?q=%E5%AE%89%E5%BE%BD%E7%89%A9%E7%90%86%20%E7%AE%80%E5%8D%95&t=31&band_rank=37&Refer=top",
     "hot": 211230
   },
+  "我才不要和你做朋友呢": {
+    "url": "https://s.weibo.com/weibo?q=%E6%88%91%E6%89%8D%E4%B8%8D%E8%A6%81%E5%92%8C%E4%BD%A0%E5%81%9A%E6%9C%8B%E5%8F%8B%E5%91%A2&t=31&band_rank=29&Refer=top",
+    "hot": 210914
+  },
   "墨雨云间簪花定情": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%A2%A8%E9%9B%A8%E4%BA%91%E9%97%B4%E7%B0%AA%E8%8A%B1%E5%AE%9A%E6%83%85%23&t=31&band_rank=20&Refer=top",
     "hot": 210235
@@ -666,10 +690,6 @@
   "广东历史 难": {
     "url": "https://s.weibo.com/weibo?q=%E5%B9%BF%E4%B8%9C%E5%8E%86%E5%8F%B2%20%E9%9A%BE&t=31&band_rank=29&Refer=top",
     "hot": 209038
-  },
-  "女子花费518元雇体育生陪女儿爬泰山": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%8A%B1%E8%B4%B9518%E5%85%83%E9%9B%87%E4%BD%93%E8%82%B2%E7%94%9F%E9%99%AA%E5%A5%B3%E5%84%BF%E7%88%AC%E6%B3%B0%E5%B1%B1%23&t=31&band_rank=22&Refer=top",
-    "hot": 208913
   },
   "登陆计划": {
     "url": "https://s.weibo.com/weibo?q=%E7%99%BB%E9%99%86%E8%AE%A1%E5%88%92&t=31&band_rank=23&Refer=top",
@@ -710,10 +730,6 @@
   "原来动画片真的没有骗我": {
     "url": "https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E5%8A%A8%E7%94%BB%E7%89%87%E7%9C%9F%E7%9A%84%E6%B2%A1%E6%9C%89%E9%AA%97%E6%88%91&t=31&band_rank=37&Refer=top",
     "hot": 194327
-  },
-  "我才不要和你做朋友呢": {
-    "url": "https://s.weibo.com/weibo?q=%E6%88%91%E6%89%8D%E4%B8%8D%E8%A6%81%E5%92%8C%E4%BD%A0%E5%81%9A%E6%9C%8B%E5%8F%8B%E5%91%A2&t=31&band_rank=29&Refer=top",
-    "hot": 193039
   },
   "25岁在出租屋躺了两年": {
     "url": "https://s.weibo.com/weibo?q=%2325%E5%B2%81%E5%9C%A8%E5%87%BA%E7%A7%9F%E5%B1%8B%E8%BA%BA%E4%BA%86%E4%B8%A4%E5%B9%B4%23&t=31&band_rank=23&Refer=top",
@@ -799,6 +815,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E9%99%AA%E5%AE%A4%E5%8F%8B%E7%9C%8B%E8%80%83%E7%A0%94%E6%88%BF%E7%BB%93%E6%9E%9C%E8%A6%81%E6%88%91%E5%B9%B3%E6%91%8A%E8%BD%A6%E8%B4%B9%23&t=31&band_rank=41&Refer=top",
     "hot": 173999
   },
+  "德国洪水": {
+    "url": "https://s.weibo.com/weibo?q=%E5%BE%B7%E5%9B%BD%E6%B4%AA%E6%B0%B4&t=31&band_rank=30&Refer=top",
+    "hot": 173247
+  },
   "今年高考会有李华吗": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E9%AB%98%E8%80%83%E4%BC%9A%E6%9C%89%E6%9D%8E%E5%8D%8E%E5%90%97%23&t=31&band_rank=41&Refer=top",
     "hot": 173147
@@ -850,6 +870,10 @@
   "林一回应和刘亦菲搭戏已读乱回": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%B8%80%E5%9B%9E%E5%BA%94%E5%92%8C%E5%88%98%E4%BA%A6%E8%8F%B2%E6%90%AD%E6%88%8F%E5%B7%B2%E8%AF%BB%E4%B9%B1%E5%9B%9E%23&t=31&band_rank=40&Refer=top",
     "hot": 166787
+  },
+  "王星越文有张遮武有萧蘅": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%98%9F%E8%B6%8A%E6%96%87%E6%9C%89%E5%BC%A0%E9%81%AE%E6%AD%A6%E6%9C%89%E8%90%A7%E8%98%85%23&t=31&band_rank=32&Refer=top",
+    "hot": 166459
   },
   "周深下期回归奔跑吧": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E4%B8%8B%E6%9C%9F%E5%9B%9E%E5%BD%92%E5%A5%94%E8%B7%91%E5%90%A7%23&t=31&band_rank=31&Refer=top",
@@ -931,10 +955,6 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%85%BB%E7%8B%97%E4%BA%BA%E4%B8%8B%E7%8F%AD%E5%90%8E%E8%83%BD%E6%9C%89%E5%A4%9A%E8%87%AA%E5%BE%8B%23&t=31&band_rank=47&Refer=top",
     "hot": 149329
   },
-  "高考前一天妈妈押中语文作文题": {
-    "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%89%8D%E4%B8%80%E5%A4%A9%E5%A6%88%E5%A6%88%E6%8A%BC%E4%B8%AD%E8%AF%AD%E6%96%87%E4%BD%9C%E6%96%87%E9%A2%98%23&t=31&band_rank=32&Refer=top",
-    "hot": 149243
-  },
   "安徽历史": {
     "url": "https://s.weibo.com/weibo?q=%E5%AE%89%E5%BE%BD%E5%8E%86%E5%8F%B2&t=31&band_rank=43&Refer=top",
     "hot": 148333
@@ -974,10 +994,6 @@
   "最羡慕徐志胜的一集": {
     "url": "https://s.weibo.com/weibo?q=%E6%9C%80%E7%BE%A1%E6%85%95%E5%BE%90%E5%BF%97%E8%83%9C%E7%9A%84%E4%B8%80%E9%9B%86&t=31&band_rank=46&Refer=top",
     "hot": 139852
-  },
-  "张若昀说高考分数对艺考很富余": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%8B%A5%E6%98%80%E8%AF%B4%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E5%AF%B9%E8%89%BA%E8%80%83%E5%BE%88%E5%AF%8C%E4%BD%99%23&t=31&band_rank=37&Refer=top",
-    "hot": 139218
   },
   "张耀在墨雨云间演白月光": {
     "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E8%80%80%E5%9C%A8%E5%A2%A8%E9%9B%A8%E4%BA%91%E9%97%B4%E6%BC%94%E7%99%BD%E6%9C%88%E5%85%89&t=31&band_rank=49&Refer=top",
@@ -1123,10 +1139,6 @@
     "url": "https://s.weibo.com/weibo?q=%E9%87%91%E6%BB%A1%E7%A6%8F%E7%88%B1%E5%A6%BB%E4%BA%BA%E8%AE%BE&t=31&band_rank=49&Refer=top",
     "hot": 119851
   },
-  "新一卷英语 难": {
-    "url": "https://s.weibo.com/weibo?q=%E6%96%B0%E4%B8%80%E5%8D%B7%E8%8B%B1%E8%AF%AD%20%E9%9A%BE&t=31&band_rank=44&Refer=top",
-    "hot": 119650
-  },
   "高考数学难不难": {
     "url": "https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E9%9A%BE%E4%B8%8D%E9%9A%BE&t=31&band_rank=50&Refer=top",
     "hot": 119313
@@ -1182,6 +1194,10 @@
   "高考第2日": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E7%AC%AC2%E6%97%A5%23&t=31&band_rank=29&Refer=top",
     "hot": 106880
+  },
+  "Tian画的挺好的拿远一点": {
+    "url": "https://s.weibo.com/weibo?q=Tian%E7%94%BB%E7%9A%84%E6%8C%BA%E5%A5%BD%E7%9A%84%E6%8B%BF%E8%BF%9C%E4%B8%80%E7%82%B9&t=31&band_rank=50&Refer=top",
+    "hot": 104980
   },
   "黑神话悟空开启预购": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%BB%91%E7%A5%9E%E8%AF%9D%E6%82%9F%E7%A9%BA%E5%BC%80%E5%90%AF%E9%A2%84%E8%B4%AD%23&t=31&band_rank=20&Refer=top",
