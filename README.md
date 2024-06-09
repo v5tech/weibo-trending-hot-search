@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-06-10 01:11:17.675874 
-![2024-06-10](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240610/2024-06-10.png?versionId=4_z8fbbed132d73df8689c40f13_f1186d302b6088aa6_d20240609_m171117_c005_v0501010_t0042_u01717953077643) 
+最后更新时间 2024-06-10 01:27:08.798819 
+![2024-06-10](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240610/2024-06-10.png?versionId=4_z8fbbed132d73df8689c40f13_f116523316f23d81b_d20240609_m172708_c005_v0501020_t0037_u01717954028636) 
 1. [刘亦菲头像](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E5%A4%B4%E5%83%8F%23&t=31&band_rank=6&Refer=top) 1074467
 1. [刘亦菲5集换了32套造型](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B25%E9%9B%86%E6%8D%A2%E4%BA%8632%E5%A5%97%E9%80%A0%E5%9E%8B%23&t=31&band_rank=1&Refer=top) 767561
 1. [不接陌生电话但是要去微信搜](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E6%8E%A5%E9%99%8C%E7%94%9F%E7%94%B5%E8%AF%9D%E4%BD%86%E6%98%AF%E8%A6%81%E5%8E%BB%E5%BE%AE%E4%BF%A1%E6%90%9C%23&t=31&band_rank=2&Refer=top) 508953
@@ -70,6 +70,8 @@
 1. [窝囊废赛道挤满了男明星](https://s.weibo.com/weibo?q=%23%E7%AA%9D%E5%9B%8A%E5%BA%9F%E8%B5%9B%E9%81%93%E6%8C%A4%E6%BB%A1%E4%BA%86%E7%94%B7%E6%98%8E%E6%98%9F%23&t=31&band_rank=34&Refer=top) 76807
 1. [苏炳添回应帅气高考生喊话](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%82%B3%E6%B7%BB%E5%9B%9E%E5%BA%94%E5%B8%85%E6%B0%94%E9%AB%98%E8%80%83%E7%94%9F%E5%96%8A%E8%AF%9D%23&t=31&band_rank=45&Refer=top) 55414
 1. [请问你俩不亲是谁的问题](https://s.weibo.com/weibo?q=%23%E8%AF%B7%E9%97%AE%E4%BD%A0%E4%BF%A9%E4%B8%8D%E4%BA%B2%E6%98%AF%E8%B0%81%E7%9A%84%E9%97%AE%E9%A2%98%23&t=31&band_rank=50&Refer=top) 55382
+1. [c1ubab詹詹](https://s.weibo.com/weibo?q=c1ubab%E8%A9%B9%E8%A9%B9&t=31&band_rank=42&Refer=top) 52125
+1. [2024PEL](https://s.weibo.com/weibo?q=%232024PEL%23&t=31&band_rank=49&Refer=top) 44529
 <!-- END -->
 
 历史归档 [./archives](./archives)
