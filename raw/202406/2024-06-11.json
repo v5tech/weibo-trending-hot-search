@@ -43,6 +43,10 @@
     "url": "https://s.weibo.com/weibo?q=%2396%E5%B9%B428%E5%B2%81%E5%85%B6%E5%AE%9E%E6%8C%BA%E5%B0%8F%E7%9A%84%23&t=31&band_rank=11&Refer=top",
     "hot": 319019
   },
+  "发现一直玩手机真的很恐怖": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8F%91%E7%8E%B0%E4%B8%80%E7%9B%B4%E7%8E%A9%E6%89%8B%E6%9C%BA%E7%9C%9F%E7%9A%84%E5%BE%88%E6%81%90%E6%80%96%23&t=31&band_rank=13&Refer=top",
+    "hot": 313634
+  },
   "肖战上海": {
     "url": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E4%B8%8A%E6%B5%B7&t=31&band_rank=12&Refer=top",
     "hot": 298971
@@ -50,10 +54,6 @@
   "90岁奶奶送考愿孩子们都能考上大学": {
     "url": "https://s.weibo.com/weibo?q=%2390%E5%B2%81%E5%A5%B6%E5%A5%B6%E9%80%81%E8%80%83%E6%84%BF%E5%AD%A9%E5%AD%90%E4%BB%AC%E9%83%BD%E8%83%BD%E8%80%83%E4%B8%8A%E5%A4%A7%E5%AD%A6%23&t=31&band_rank=16&Refer=top",
     "hot": 293729
-  },
-  "发现一直玩手机真的很恐怖": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%8F%91%E7%8E%B0%E4%B8%80%E7%9B%B4%E7%8E%A9%E6%89%8B%E6%9C%BA%E7%9C%9F%E7%9A%84%E5%BE%88%E6%81%90%E6%80%96%23&t=31&band_rank=13&Refer=top",
-    "hot": 293060
   },
   "刘亦菲新剧口碑逆跌": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E6%96%B0%E5%89%A7%E5%8F%A3%E7%A2%91%E9%80%86%E8%B7%8C%23&t=31&band_rank=14&Refer=top",
@@ -66,6 +66,10 @@
   "彭冠英下线林更新上线": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%BD%AD%E5%86%A0%E8%8B%B1%E4%B8%8B%E7%BA%BF%E6%9E%97%E6%9B%B4%E6%96%B0%E4%B8%8A%E7%BA%BF%23&t=31&band_rank=17&Refer=top",
     "hot": 252273
+  },
+  "高考结束消防员架起水门祝福考生": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E6%B6%88%E9%98%B2%E5%91%98%E6%9E%B6%E8%B5%B7%E6%B0%B4%E9%97%A8%E7%A5%9D%E7%A6%8F%E8%80%83%E7%94%9F%23&t=31&band_rank=10&Refer=top",
+    "hot": 247130
   },
   "这周只上4天班": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%91%A8%E5%8F%AA%E4%B8%8A4%E5%A4%A9%E7%8F%AD%23&t=31&band_rank=18&Refer=top",
@@ -206,5 +210,9 @@
   "WWDC24": {
     "url": "https://s.weibo.com/weibo?q=%23WWDC24%23&t=31&band_rank=46&Refer=top",
     "hot": 67141
+  },
+  "原来爱豆是可以喊回来安可的": {
+    "url": "https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E7%88%B1%E8%B1%86%E6%98%AF%E5%8F%AF%E4%BB%A5%E5%96%8A%E5%9B%9E%E6%9D%A5%E5%AE%89%E5%8F%AF%E7%9A%84&t=31&band_rank=44&Refer=top",
+    "hot": 58613
   }
 }
