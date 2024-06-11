@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-06-12 02:49:18.977589 
-![2024-06-12](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240612/2024-06-12.png?versionId=4_z8fbbed132d73df8689c40f13_f106ad02cde674531_d20240611_m184918_c005_v0521006_t0030_u01718131758551) 
+最后更新时间 2024-06-12 03:10:20.426890 
+![2024-06-12](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240612/2024-06-12.png?versionId=4_z8fbbed132d73df8689c40f13_f1144ab7fc5f53524_d20240611_m191020_c005_v0501018_t0053_u01718133020303) 
 1. [国足晋级18强赛](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3%E6%99%8B%E7%BA%A718%E5%BC%BA%E8%B5%9B%23&t=31&band_rank=1&Refer=top) 1874903
 1. [刘亦菲为了气我真是什么戏都接](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E4%B8%BA%E4%BA%86%E6%B0%94%E6%88%91%E7%9C%9F%E6%98%AF%E4%BB%80%E4%B9%88%E6%88%8F%E9%83%BD%E6%8E%A5%23&t=31&band_rank=2&Refer=top) 627155
 1. [大数据看端午假期出行](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E6%95%B0%E6%8D%AE%E7%9C%8B%E7%AB%AF%E5%8D%88%E5%81%87%E6%9C%9F%E5%87%BA%E8%A1%8C%23&t=31&band_rank=3&Refer=top) 600367
