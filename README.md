@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-06-12 01:49:28.921903 
-![2024-06-12](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240612/2024-06-12.png?versionId=4_z8fbbed132d73df8689c40f13_f114b9dfca52ebaa8_d20240611_m174928_c005_v0501012_t0057_u01718128168770) 
+最后更新时间 2024-06-12 02:16:35.532027 
+![2024-06-12](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240612/2024-06-12.png?versionId=4_z8fbbed132d73df8689c40f13_f100c8f9688a2babe_d20240611_m181635_c005_v0501019_t0000_u01718129795497) 
 1. [国足晋级18强赛](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3%E6%99%8B%E7%BA%A718%E5%BC%BA%E8%B5%9B%23&t=31&band_rank=1&Refer=top) 1874903
 1. [刘亦菲为了气我真是什么戏都接](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E4%B8%BA%E4%BA%86%E6%B0%94%E6%88%91%E7%9C%9F%E6%98%AF%E4%BB%80%E4%B9%88%E6%88%8F%E9%83%BD%E6%8E%A5%23&t=31&band_rank=2&Refer=top) 627155
 1. [大数据看端午假期出行](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E6%95%B0%E6%8D%AE%E7%9C%8B%E7%AB%AF%E5%8D%88%E5%81%87%E6%9C%9F%E5%87%BA%E8%A1%8C%23&t=31&band_rank=3&Refer=top) 600367
@@ -34,6 +34,7 @@
 1. [韩国vs国足](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BDvs%E5%9B%BD%E8%B6%B3%23&t=31&band_rank=18&Refer=top) 179030
 1. [刘亦菲一年一句出圈名台词](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E4%B8%80%E5%B9%B4%E4%B8%80%E5%8F%A5%E5%87%BA%E5%9C%88%E5%90%8D%E5%8F%B0%E8%AF%8D%23&t=31&band_rank=24&Refer=top) 165255
 1. [国足0比1不敌韩国队](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B30%E6%AF%941%E4%B8%8D%E6%95%8C%E9%9F%A9%E5%9B%BD%E9%98%9F%23&t=31&band_rank=19&Refer=top) 162396
+1. [航拍视角看三夏时节麦收忙](https://s.weibo.com/weibo?q=%23%E8%88%AA%E6%8B%8D%E8%A7%86%E8%A7%92%E7%9C%8B%E4%B8%89%E5%A4%8F%E6%97%B6%E8%8A%82%E9%BA%A6%E6%94%B6%E5%BF%99%23&t=31&band_rank=3&Refer=top) 155616
 1. [长期开灯睡觉更易患上糖尿病](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E5%BC%80%E7%81%AF%E7%9D%A1%E8%A7%89%E6%9B%B4%E6%98%93%E6%82%A3%E4%B8%8A%E7%B3%96%E5%B0%BF%E7%97%85%23&t=31&band_rank=20&Refer=top) 153659
 1. [成都一年轻女子在家被捅伤致死](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E4%B8%80%E5%B9%B4%E8%BD%BB%E5%A5%B3%E5%AD%90%E5%9C%A8%E5%AE%B6%E8%A2%AB%E6%8D%85%E4%BC%A4%E8%87%B4%E6%AD%BB%23&t=31&band_rank=21&Refer=top) 153318
 1. [一直不知道床单是要勤换的](https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%9B%B4%E4%B8%8D%E7%9F%A5%E9%81%93%E5%BA%8A%E5%8D%95%E6%98%AF%E8%A6%81%E5%8B%A4%E6%8D%A2%E7%9A%84%23&t=31&band_rank=22&Refer=top) 152824
@@ -65,10 +66,11 @@
 1. [中国女排3比0保加利亚女排](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%923%E6%AF%940%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A%E5%A5%B3%E6%8E%92%23&t=31&band_rank=50&Refer=top) 106038
 1. [谭维维尚雯婕疑似救场](https://s.weibo.com/weibo?q=%23%E8%B0%AD%E7%BB%B4%E7%BB%B4%E5%B0%9A%E9%9B%AF%E5%A9%95%E7%96%91%E4%BC%BC%E6%95%91%E5%9C%BA%23&t=31&band_rank=30&Refer=top) 100987
 1. [创造营亚洲第二季海选路透](https://s.weibo.com/weibo?q=%23%E5%88%9B%E9%80%A0%E8%90%A5%E4%BA%9A%E6%B4%B2%E7%AC%AC%E4%BA%8C%E5%AD%A3%E6%B5%B7%E9%80%89%E8%B7%AF%E9%80%8F%23&t=31&band_rank=46&Refer=top) 87766
+1. [黑龙江一医生被举报出轨患者](https://s.weibo.com/weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%80%E5%8C%BB%E7%94%9F%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%87%BA%E8%BD%A8%E6%82%A3%E8%80%85%23&t=31&band_rank=36&Refer=top) 83284
 1. [赴山海](https://s.weibo.com/weibo?q=%E8%B5%B4%E5%B1%B1%E6%B5%B7&t=31&band_rank=49&Refer=top) 81106
 1. [王星越到底在爽什么](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%98%9F%E8%B6%8A%E5%88%B0%E5%BA%95%E5%9C%A8%E7%88%BD%E4%BB%80%E4%B9%88%23&t=31&band_rank=32&Refer=top) 47070
-1. [黑龙江一医生被举报出轨患者](https://s.weibo.com/weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%80%E5%8C%BB%E7%94%9F%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%87%BA%E8%BD%A8%E6%82%A3%E8%80%85%23&t=31&band_rank=36&Refer=top) 43944
-1. [风象星座不为人知的秘密](https://s.weibo.com/weibo?q=%23%E9%A3%8E%E8%B1%A1%E6%98%9F%E5%BA%A7%E4%B8%8D%E4%B8%BA%E4%BA%BA%E7%9F%A5%E7%9A%84%E7%A7%98%E5%AF%86%23&t=31&band_rank=50&Refer=top) 42539
+1. [风象星座不为人知的秘密](https://s.weibo.com/weibo?q=%23%E9%A3%8E%E8%B1%A1%E6%98%9F%E5%BA%A7%E4%B8%8D%E4%B8%BA%E4%BA%BA%E7%9F%A5%E7%9A%84%E7%A7%98%E5%AF%86%23&t=31&band_rank=50&Refer=top) 44497
+1. [睡前饿了真正推荐吃的食物](https://s.weibo.com/weibo?q=%23%E7%9D%A1%E5%89%8D%E9%A5%BF%E4%BA%86%E7%9C%9F%E6%AD%A3%E6%8E%A8%E8%8D%90%E5%90%83%E7%9A%84%E9%A3%9F%E7%89%A9%23&t=31&band_rank=30&Refer=top) 42464
 1. [国足今晚变了](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3%E4%BB%8A%E6%99%9A%E5%8F%98%E4%BA%86%23&t=31&band_rank=47&Refer=top) 37948
 <!-- END -->
 
