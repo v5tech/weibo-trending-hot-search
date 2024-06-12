@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-06-13 04:35:39.640677 
-![2024-06-13](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240613/2024-06-13.png?versionId=4_z8fbbed132d73df8689c40f13_f1139a69e43fb5b46_d20240612_m203539_c005_v0501008_t0027_u01718224539616) 
+最后更新时间 2024-06-13 04:49:27.907041 
+![2024-06-13](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240613/2024-06-13.png?versionId=4_z8fbbed132d73df8689c40f13_f109f21d286be6dca_d20240612_m204927_c005_v0501019_t0027_u01718225367406) 
 1. [刘亦菲一部剧带火了5个人](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E4%B8%80%E9%83%A8%E5%89%A7%E5%B8%A6%E7%81%AB%E4%BA%865%E4%B8%AA%E4%BA%BA%23&t=31&band_rank=1&Refer=top) 621860
 1. [黄景瑜中国人民警察大学招生简章](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%AF%E7%91%9C%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E8%AD%A6%E5%AF%9F%E5%A4%A7%E5%AD%A6%E6%8B%9B%E7%94%9F%E7%AE%80%E7%AB%A0%23&t=31&band_rank=8&Refer=top) 520454
 1. [北京冰雹](https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E5%86%B0%E9%9B%B9&t=31&band_rank=2&Refer=top) 504521
@@ -67,9 +67,9 @@
 1. [被95后吕剧演员转场变装硬控了](https://s.weibo.com/weibo?q=%23%E8%A2%AB95%E5%90%8E%E5%90%95%E5%89%A7%E6%BC%94%E5%91%98%E8%BD%AC%E5%9C%BA%E5%8F%98%E8%A3%85%E7%A1%AC%E6%8E%A7%E4%BA%86%23&t=31&band_rank=30&Refer=top) 103656
 1. [玫瑰的故事](https://s.weibo.com/weibo?q=%E7%8E%AB%E7%91%B0%E7%9A%84%E6%95%85%E4%BA%8B&t=31&band_rank=47&Refer=top) 86012
 1. [墨雨云间跪下文学](https://s.weibo.com/weibo?q=%23%E5%A2%A8%E9%9B%A8%E4%BA%91%E9%97%B4%E8%B7%AA%E4%B8%8B%E6%96%87%E5%AD%A6%23&t=31&band_rank=45&Refer=top) 85971
+1. [东北孩子噩梦马上就来了](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E5%AD%A9%E5%AD%90%E5%99%A9%E6%A2%A6%E9%A9%AC%E4%B8%8A%E5%B0%B1%E6%9D%A5%E4%BA%86%23&t=31&band_rank=33&Refer=top) 47962
 1. [徐彰彬疑似推搡李龙馥](https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%BD%B0%E5%BD%AC%E7%96%91%E4%BC%BC%E6%8E%A8%E6%90%A1%E6%9D%8E%E9%BE%99%E9%A6%A5%23&t=31&band_rank=29&Refer=top) 40527
 1. [怦然心动20岁 be](https://s.weibo.com/weibo?q=%E6%80%A6%E7%84%B6%E5%BF%83%E5%8A%A820%E5%B2%81%20be&t=31&band_rank=29&Refer=top) 40072
-1. [东北孩子噩梦马上就来了](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E5%AD%A9%E5%AD%90%E5%99%A9%E6%A2%A6%E9%A9%AC%E4%B8%8A%E5%B0%B1%E6%9D%A5%E4%BA%86%23&t=31&band_rank=33&Refer=top) 37592
 1. [赵露思金牌女主播许妍上线](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E9%87%91%E7%89%8C%E5%A5%B3%E4%B8%BB%E6%92%AD%E8%AE%B8%E5%A6%8D%E4%B8%8A%E7%BA%BF%23&t=31&band_rank=47&Refer=top) 35214
 1. [新疆为什么像四个省份](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E4%B8%BA%E4%BB%80%E4%B9%88%E5%83%8F%E5%9B%9B%E4%B8%AA%E7%9C%81%E4%BB%BD%23&t=31&band_rank=32&Refer=top) 34159
 1. [黄亦玫1分钟6个才艺](https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%BA%A6%E7%8E%AB1%E5%88%86%E9%92%9F6%E4%B8%AA%E6%89%8D%E8%89%BA%23&t=31&band_rank=37&Refer=top) 33827
