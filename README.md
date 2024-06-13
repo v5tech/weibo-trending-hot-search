@@ -7,14 +7,14 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-06-14 05:49:23.543378 
-![2024-06-14](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240614/2024-06-14.png?versionId=4_z8fbbed132d73df8689c40f13_f1177805b75aa081c_d20240613_m214923_c005_v0501019_t0050_u01718315363495) 
+最后更新时间 2024-06-14 06:12:00.659636 
+![2024-06-14](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240614/2024-06-14.png?versionId=4_z8fbbed132d73df8689c40f13_f1018a6934202f749_d20240613_m221200_c005_v0501013_t0039_u01718316720528) 
 1. [5km 倒闭](https://s.weibo.com/weibo?q=5km%20%E5%80%92%E9%97%AD&t=31&band_rank=1&Refer=top) 1404737
 1. [林更新这个真骂不了](https://s.weibo.com/weibo?q=%23%E6%9E%97%E6%9B%B4%E6%96%B0%E8%BF%99%E4%B8%AA%E7%9C%9F%E9%AA%82%E4%B8%8D%E4%BA%86%23&t=31&band_rank=2&Refer=top) 819327
 1. [请查收你的预防中暑小贴士](https://s.weibo.com/weibo?q=%23%E8%AF%B7%E6%9F%A5%E6%94%B6%E4%BD%A0%E7%9A%84%E9%A2%84%E9%98%B2%E4%B8%AD%E6%9A%91%E5%B0%8F%E8%B4%B4%E5%A3%AB%23&t=31&band_rank=3&Refer=top) 593427
 1. [张百乔评论网友法院见](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%99%BE%E4%B9%94%E8%AF%84%E8%AE%BA%E7%BD%91%E5%8F%8B%E6%B3%95%E9%99%A2%E8%A7%81%23&t=31&band_rank=4&Refer=top) 528149
 1. [南海沉船打捞出的文物惊艳了](https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%B5%B7%E6%B2%89%E8%88%B9%E6%89%93%E6%8D%9E%E5%87%BA%E7%9A%84%E6%96%87%E7%89%A9%E6%83%8A%E8%89%B3%E4%BA%86%23&t=31&band_rank=3&Refer=top) 390413
-1. [姜萍](https://s.weibo.com/weibo?q=%E5%A7%9C%E8%90%8D&t=31&band_rank=16&Refer=top) 319279
+1. [姜萍](https://s.weibo.com/weibo?q=%E5%A7%9C%E8%90%8D&t=31&band_rank=16&Refer=top) 320303
 1. [广东人已发霉求放过](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E4%BA%BA%E5%B7%B2%E5%8F%91%E9%9C%89%E6%B1%82%E6%94%BE%E8%BF%87%23&t=31&band_rank=5&Refer=top) 284061
 1. [印度男子在冰激凌中发现手指](https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E7%94%B7%E5%AD%90%E5%9C%A8%E5%86%B0%E6%BF%80%E5%87%8C%E4%B8%AD%E5%8F%91%E7%8E%B0%E6%89%8B%E6%8C%87%23&t=31&band_rank=6&Refer=top) 281821
 1. [米卡表白刘亦菲](https://s.weibo.com/weibo?q=%E7%B1%B3%E5%8D%A1%E8%A1%A8%E7%99%BD%E5%88%98%E4%BA%A6%E8%8F%B2&t=31&band_rank=7&Refer=top) 262257
@@ -68,19 +68,20 @@
 1. [张真源跑男飞椅首飞](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%9C%9F%E6%BA%90%E8%B7%91%E7%94%B7%E9%A3%9E%E6%A4%85%E9%A6%96%E9%A3%9E%23&t=31&band_rank=50&Refer=top) 83316
 1. [暴雨中他们用行动护旗的样子太帅](https://s.weibo.com/weibo?q=%23%E6%9A%B4%E9%9B%A8%E4%B8%AD%E4%BB%96%E4%BB%AC%E7%94%A8%E8%A1%8C%E5%8A%A8%E6%8A%A4%E6%97%97%E7%9A%84%E6%A0%B7%E5%AD%90%E5%A4%AA%E5%B8%85%23&t=31&band_rank=10&Refer=top) 80799
 1. [声优祭](https://s.weibo.com/weibo?q=%E5%A3%B0%E4%BC%98%E7%A5%AD&t=31&band_rank=40&Refer=top) 72593
+1. [猫咪伪造自己一直在家睡觉的事实](https://s.weibo.com/weibo?q=%23%E7%8C%AB%E5%92%AA%E4%BC%AA%E9%80%A0%E8%87%AA%E5%B7%B1%E4%B8%80%E7%9B%B4%E5%9C%A8%E5%AE%B6%E7%9D%A1%E8%A7%89%E7%9A%84%E4%BA%8B%E5%AE%9E%23&t=31&band_rank=50&Refer=top) 71592
 1. [剑网三](https://s.weibo.com/weibo?q=%E5%89%91%E7%BD%91%E4%B8%89&t=31&band_rank=49&Refer=top) 68607
+1. [男童被教练打死案家属发声](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%AB%A5%E8%A2%AB%E6%95%99%E7%BB%83%E6%89%93%E6%AD%BB%E6%A1%88%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0%23&t=31&band_rank=45&Refer=top) 66703
 1. [装在套子里的人 冒犯的人](https://s.weibo.com/weibo?q=%E8%A3%85%E5%9C%A8%E5%A5%97%E5%AD%90%E9%87%8C%E7%9A%84%E4%BA%BA%20%E5%86%92%E7%8A%AF%E7%9A%84%E4%BA%BA&t=31&band_rank=40&Refer=top) 57378
 1. [留守孩子长大后带大山孩子组乐队](https://s.weibo.com/weibo?q=%23%E7%95%99%E5%AE%88%E5%AD%A9%E5%AD%90%E9%95%BF%E5%A4%A7%E5%90%8E%E5%B8%A6%E5%A4%A7%E5%B1%B1%E5%AD%A9%E5%AD%90%E7%BB%84%E4%B9%90%E9%98%9F%23&t=31&band_rank=13&Refer=top) 56007
-1. [猫咪伪造自己一直在家睡觉的事实](https://s.weibo.com/weibo?q=%23%E7%8C%AB%E5%92%AA%E4%BC%AA%E9%80%A0%E8%87%AA%E5%B7%B1%E4%B8%80%E7%9B%B4%E5%9C%A8%E5%AE%B6%E7%9D%A1%E8%A7%89%E7%9A%84%E4%BA%8B%E5%AE%9E%23&t=31&band_rank=50&Refer=top) 52842
+1. [郑恺苗苗结束韩国度假回国了](https://s.weibo.com/weibo?q=%23%E9%83%91%E6%81%BA%E8%8B%97%E8%8B%97%E7%BB%93%E6%9D%9F%E9%9F%A9%E5%9B%BD%E5%BA%A6%E5%81%87%E5%9B%9E%E5%9B%BD%E4%BA%86%23&t=31&band_rank=16&Refer=top) 47608
 1. [黄亦玫 白羊座](https://s.weibo.com/weibo?q=%E9%BB%84%E4%BA%A6%E7%8E%AB%20%E7%99%BD%E7%BE%8A%E5%BA%A7&t=31&band_rank=43&Refer=top) 40844
 1. [开始审判方协文](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%A7%8B%E5%AE%A1%E5%88%A4%E6%96%B9%E5%8D%8F%E6%96%87%23&t=31&band_rank=50&Refer=top) 37025
 1. [影视音乐盛典阵容](https://s.weibo.com/weibo?q=%23%E5%BD%B1%E8%A7%86%E9%9F%B3%E4%B9%90%E7%9B%9B%E5%85%B8%E9%98%B5%E5%AE%B9%23&t=31&band_rank=49&Refer=top) 32302
 1. [RIIZE新歌试听](https://s.weibo.com/weibo?q=%23RIIZE%E6%96%B0%E6%AD%8C%E8%AF%95%E5%90%AC%23&t=31&band_rank=50&Refer=top) 32299
-1. [郑恺苗苗结束韩国度假回国了](https://s.weibo.com/weibo?q=%23%E9%83%91%E6%81%BA%E8%8B%97%E8%8B%97%E7%BB%93%E6%9D%9F%E9%9F%A9%E5%9B%BD%E5%BA%A6%E5%81%87%E5%9B%9E%E5%9B%BD%E4%BA%86%23&t=31&band_rank=16&Refer=top) 31557
-1. [男童被教练打死案家属发声](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%AB%A5%E8%A2%AB%E6%95%99%E7%BB%83%E6%89%93%E6%AD%BB%E6%A1%88%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0%23&t=31&band_rank=45&Refer=top) 24025
-1. [猪肉价格为何突然起飞](https://s.weibo.com/weibo?q=%23%E7%8C%AA%E8%82%89%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E7%AA%81%E7%84%B6%E8%B5%B7%E9%A3%9E%23&t=31&band_rank=36&Refer=top) 24007
-1. [京东因春晚超额大奖被罚5万元](https://s.weibo.com/weibo?q=%23%E4%BA%AC%E4%B8%9C%E5%9B%A0%E6%98%A5%E6%99%9A%E8%B6%85%E9%A2%9D%E5%A4%A7%E5%A5%96%E8%A2%AB%E7%BD%9A5%E4%B8%87%E5%85%83%23&t=31&band_rank=50&Refer=top) 23959
-1. [茅台市值跌掉一个青岛啤酒](https://s.weibo.com/weibo?q=%23%E8%8C%85%E5%8F%B0%E5%B8%82%E5%80%BC%E8%B7%8C%E6%8E%89%E4%B8%80%E4%B8%AA%E9%9D%92%E5%B2%9B%E5%95%A4%E9%85%92%23&t=31&band_rank=37&Refer=top) 21255
+1. [猪肉价格为何突然起飞](https://s.weibo.com/weibo?q=%23%E7%8C%AA%E8%82%89%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E7%AA%81%E7%84%B6%E8%B5%B7%E9%A3%9E%23&t=31&band_rank=36&Refer=top) 30802
+1. [京东因春晚超额大奖被罚5万元](https://s.weibo.com/weibo?q=%23%E4%BA%AC%E4%B8%9C%E5%9B%A0%E6%98%A5%E6%99%9A%E8%B6%85%E9%A2%9D%E5%A4%A7%E5%A5%96%E8%A2%AB%E7%BD%9A5%E4%B8%87%E5%85%83%23&t=31&band_rank=50&Refer=top) 30680
+1. [茅台市值跌掉一个青岛啤酒](https://s.weibo.com/weibo?q=%23%E8%8C%85%E5%8F%B0%E5%B8%82%E5%80%BC%E8%B7%8C%E6%8E%89%E4%B8%80%E4%B8%AA%E9%9D%92%E5%B2%9B%E5%95%A4%E9%85%92%23&t=31&band_rank=37&Refer=top) 30326
+1. [牛肉斤价跌破30元](https://s.weibo.com/weibo?q=%23%E7%89%9B%E8%82%89%E6%96%A4%E4%BB%B7%E8%B7%8C%E7%A0%B430%E5%85%83%23&t=31&band_rank=46&Refer=top) 22326
 1. [交警一招手涌来30位群众抬车救人](https://s.weibo.com/weibo?q=%23%E4%BA%A4%E8%AD%A6%E4%B8%80%E6%8B%9B%E6%89%8B%E6%B6%8C%E6%9D%A530%E4%BD%8D%E7%BE%A4%E4%BC%97%E6%8A%AC%E8%BD%A6%E6%95%91%E4%BA%BA%23&t=31&band_rank=50&Refer=top) 21220
 <!-- END -->
 
