@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-06-15 03:49:33.566747 
-![2024-06-15](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240615/2024-06-15.png?versionId=4_z8fbbed132d73df8689c40f13_f10517bce00f2040f_d20240614_m194933_c005_v0501021_t0042_u01718394573497) 
+最后更新时间 2024-06-15 04:12:41.469408 
+![2024-06-15](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240615/2024-06-15.png?versionId=4_z8fbbed132d73df8689c40f13_f118713f68332ac42_d20240614_m201241_c005_v0501020_t0054_u01718395961427) 
 1. [汪苏泷奢香夫人 难听](https://s.weibo.com/weibo?q=%E6%B1%AA%E8%8B%8F%E6%B3%B7%E5%A5%A2%E9%A6%99%E5%A4%AB%E4%BA%BA%20%E9%9A%BE%E5%90%AC&t=31&band_rank=1&Refer=top) 1837715
 1. [姜萍已达到数学系本科生的水平](https://s.weibo.com/weibo?q=%23%E5%A7%9C%E8%90%8D%E5%B7%B2%E8%BE%BE%E5%88%B0%E6%95%B0%E5%AD%A6%E7%B3%BB%E6%9C%AC%E7%A7%91%E7%94%9F%E7%9A%84%E6%B0%B4%E5%B9%B3%23&t=31&band_rank=2&Refer=top) 1161639
 1. [清明上河图动起来了](https://s.weibo.com/weibo?q=%23%E6%B8%85%E6%98%8E%E4%B8%8A%E6%B2%B3%E5%9B%BE%E5%8A%A8%E8%B5%B7%E6%9D%A5%E4%BA%86%23&t=31&band_rank=3&Refer=top) 1037108
@@ -78,9 +78,11 @@
 1. [郝蕾表演课不招收纯素人](https://s.weibo.com/weibo?q=%23%E9%83%9D%E8%95%BE%E8%A1%A8%E6%BC%94%E8%AF%BE%E4%B8%8D%E6%8B%9B%E6%94%B6%E7%BA%AF%E7%B4%A0%E4%BA%BA%23&t=31&band_rank=41&Refer=top) 66891
 1. [女儿高考后想打工妈妈劝其享受假期](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E9%AB%98%E8%80%83%E5%90%8E%E6%83%B3%E6%89%93%E5%B7%A5%E5%A6%88%E5%A6%88%E5%8A%9D%E5%85%B6%E4%BA%AB%E5%8F%97%E5%81%87%E6%9C%9F%23&t=31&band_rank=10&Refer=top) 60293
 1. [退伍军人见车辆坠河化身砸车侠](https://s.weibo.com/weibo?q=%23%E9%80%80%E4%BC%8D%E5%86%9B%E4%BA%BA%E8%A7%81%E8%BD%A6%E8%BE%86%E5%9D%A0%E6%B2%B3%E5%8C%96%E8%BA%AB%E7%A0%B8%E8%BD%A6%E4%BE%A0%23&t=31&band_rank=36&Refer=top) 51279
+1. [8车道高速与地下春秋战车震撼交汇](https://s.weibo.com/weibo?q=%238%E8%BD%A6%E9%81%93%E9%AB%98%E9%80%9F%E4%B8%8E%E5%9C%B0%E4%B8%8B%E6%98%A5%E7%A7%8B%E6%88%98%E8%BD%A6%E9%9C%87%E6%92%BC%E4%BA%A4%E6%B1%87%23&t=31&band_rank=10&Refer=top) 44806
 1. [原来大学毕业后可以有这么多选择](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%A4%A7%E5%AD%A6%E6%AF%95%E4%B8%9A%E5%90%8E%E5%8F%AF%E4%BB%A5%E6%9C%89%E8%BF%99%E4%B9%88%E5%A4%9A%E9%80%89%E6%8B%A9%23&t=31&band_rank=46&Refer=top) 43420
 1. [赖冠霖 101时做成标本](https://s.weibo.com/weibo?q=%E8%B5%96%E5%86%A0%E9%9C%96%20101%E6%97%B6%E5%81%9A%E6%88%90%E6%A0%87%E6%9C%AC&t=31&band_rank=42&Refer=top) 31173
 1. [大一VS大四毕业季文案](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E4%B8%80VS%E5%A4%A7%E5%9B%9B%E6%AF%95%E4%B8%9A%E5%AD%A3%E6%96%87%E6%A1%88%23&t=31&band_rank=49&Refer=top) 31098
+1. [沙特阿拉伯不续签石油美元协议](https://s.weibo.com/weibo?q=%23%E6%B2%99%E7%89%B9%E9%98%BF%E6%8B%89%E4%BC%AF%E4%B8%8D%E7%BB%AD%E7%AD%BE%E7%9F%B3%E6%B2%B9%E7%BE%8E%E5%85%83%E5%8D%8F%E8%AE%AE%23&t=31&band_rank=25&Refer=top) 28909
 <!-- END -->
 
 历史归档 [./archives](./archives)
