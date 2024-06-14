@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-06-15 02:16:14.821484 
-![2024-06-15](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240615/2024-06-15.png?versionId=4_z8fbbed132d73df8689c40f13_f115c6cd624026cad_d20240614_m181614_c005_v0501012_t0041_u01718388974663) 
+最后更新时间 2024-06-15 02:38:49.670251 
+![2024-06-15](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240615/2024-06-15.png?versionId=4_z8fbbed132d73df8689c40f13_f1102a554cf7e560c_d20240614_m183849_c005_v0501020_t0027_u01718390329184) 
 1. [汪苏泷奢香夫人 难听](https://s.weibo.com/weibo?q=%E6%B1%AA%E8%8B%8F%E6%B3%B7%E5%A5%A2%E9%A6%99%E5%A4%AB%E4%BA%BA%20%E9%9A%BE%E5%90%AC&t=31&band_rank=1&Refer=top) 1837715
 1. [姜萍已达到数学系本科生的水平](https://s.weibo.com/weibo?q=%23%E5%A7%9C%E8%90%8D%E5%B7%B2%E8%BE%BE%E5%88%B0%E6%95%B0%E5%AD%A6%E7%B3%BB%E6%9C%AC%E7%A7%91%E7%94%9F%E7%9A%84%E6%B0%B4%E5%B9%B3%23&t=31&band_rank=2&Refer=top) 1161639
 1. [清明上河图动起来了](https://s.weibo.com/weibo?q=%23%E6%B8%85%E6%98%8E%E4%B8%8A%E6%B2%B3%E5%9B%BE%E5%8A%A8%E8%B5%B7%E6%9D%A5%E4%BA%86%23&t=31&band_rank=3&Refer=top) 1037108
@@ -74,7 +74,8 @@
 1. [易烊千玺也吃到了浦东机场的苦](https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E4%B9%9F%E5%90%83%E5%88%B0%E4%BA%86%E6%B5%A6%E4%B8%9C%E6%9C%BA%E5%9C%BA%E7%9A%84%E8%8B%A6%23&t=31&band_rank=42&Refer=top) 86503
 1. [欧洲杯](https://s.weibo.com/weibo?q=%E6%AC%A7%E6%B4%B2%E6%9D%AF&t=31&band_rank=47&Refer=top) 81006
 1. [那英不紧张了](https://s.weibo.com/weibo?q=%E9%82%A3%E8%8B%B1%E4%B8%8D%E7%B4%A7%E5%BC%A0%E4%BA%86&t=31&band_rank=43&Refer=top) 76168
-1. [郝蕾表演课不招收纯素人](https://s.weibo.com/weibo?q=%23%E9%83%9D%E8%95%BE%E8%A1%A8%E6%BC%94%E8%AF%BE%E4%B8%8D%E6%8B%9B%E6%94%B6%E7%BA%AF%E7%B4%A0%E4%BA%BA%23&t=31&band_rank=41&Refer=top) 43467
+1. [女儿高考后想打工妈妈劝其享受假期](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E9%AB%98%E8%80%83%E5%90%8E%E6%83%B3%E6%89%93%E5%B7%A5%E5%A6%88%E5%A6%88%E5%8A%9D%E5%85%B6%E4%BA%AB%E5%8F%97%E5%81%87%E6%9C%9F%23&t=31&band_rank=10&Refer=top) 60293
+1. [郝蕾表演课不招收纯素人](https://s.weibo.com/weibo?q=%23%E9%83%9D%E8%95%BE%E8%A1%A8%E6%BC%94%E8%AF%BE%E4%B8%8D%E6%8B%9B%E6%94%B6%E7%BA%AF%E7%B4%A0%E4%BA%BA%23&t=31&band_rank=41&Refer=top) 45022
 1. [原来大学毕业后可以有这么多选择](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%A4%A7%E5%AD%A6%E6%AF%95%E4%B8%9A%E5%90%8E%E5%8F%AF%E4%BB%A5%E6%9C%89%E8%BF%99%E4%B9%88%E5%A4%9A%E9%80%89%E6%8B%A9%23&t=31&band_rank=46&Refer=top) 43420
 <!-- END -->
 
