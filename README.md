@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-06-15 00:14:02.661204 
-![2024-06-15](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240615/2024-06-15.png?versionId=4_z8fbbed132d73df8689c40f13_f1044877bb679caf7_d20240614_m161402_c005_v0501020_t0032_u01718381642487) 
+最后更新时间 2024-06-15 00:31:49.797649 
+![2024-06-15](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240615/2024-06-15.png?versionId=4_z8fbbed132d73df8689c40f13_f103ff626e9d0abb0_d20240614_m163149_c005_v0501013_t0029_u01718382709636) 
 1. [汪苏泷奢香夫人 难听](https://s.weibo.com/weibo?q=%E6%B1%AA%E8%8B%8F%E6%B3%B7%E5%A5%A2%E9%A6%99%E5%A4%AB%E4%BA%BA%20%E9%9A%BE%E5%90%AC&t=31&band_rank=1&Refer=top) 1837715
 1. [姜萍已达到数学系本科生的水平](https://s.weibo.com/weibo?q=%23%E5%A7%9C%E8%90%8D%E5%B7%B2%E8%BE%BE%E5%88%B0%E6%95%B0%E5%AD%A6%E7%B3%BB%E6%9C%AC%E7%A7%91%E7%94%9F%E7%9A%84%E6%B0%B4%E5%B9%B3%23&t=31&band_rank=2&Refer=top) 1161639
 1. [清明上河图动起来了](https://s.weibo.com/weibo?q=%23%E6%B8%85%E6%98%8E%E4%B8%8A%E6%B2%B3%E5%9B%BE%E5%8A%A8%E8%B5%B7%E6%9D%A5%E4%BA%86%23&t=31&band_rank=3&Refer=top) 1037108
@@ -18,10 +18,11 @@
 1. [袁娅维太牛了](https://s.weibo.com/weibo?q=%23%E8%A2%81%E5%A8%85%E7%BB%B4%E5%A4%AA%E7%89%9B%E4%BA%86%23&t=31&band_rank=7&Refer=top) 711835
 1. [张钰琪淘汰](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%92%B0%E7%90%AA%E6%B7%98%E6%B1%B0%23&t=31&band_rank=8&Refer=top) 663841
 1. [日本一女子患产后抑郁勒死三个女儿](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%80%E5%A5%B3%E5%AD%90%E6%82%A3%E4%BA%A7%E5%90%8E%E6%8A%91%E9%83%81%E5%8B%92%E6%AD%BB%E4%B8%89%E4%B8%AA%E5%A5%B3%E5%84%BF%23&t=31&band_rank=9&Refer=top) 436606
+1. [恋爱兄妹最终情侣](https://s.weibo.com/weibo?q=%E6%81%8B%E7%88%B1%E5%85%84%E5%A6%B9%E6%9C%80%E7%BB%88%E6%83%85%E4%BE%A3&t=31&band_rank=12&Refer=top) 379147
 1. [四级 花钱买早八](https://s.weibo.com/weibo?q=%E5%9B%9B%E7%BA%A7%20%E8%8A%B1%E9%92%B1%E4%B9%B0%E6%97%A9%E5%85%AB&t=31&band_rank=10&Refer=top) 338029
+1. [六公主发的周也](https://s.weibo.com/weibo?q=%E5%85%AD%E5%85%AC%E4%B8%BB%E5%8F%91%E7%9A%84%E5%91%A8%E4%B9%9F&t=31&band_rank=13&Refer=top) 335915
 1. [那英不敢跟尚雯婕聊天](https://s.weibo.com/weibo?q=%23%E9%82%A3%E8%8B%B1%E4%B8%8D%E6%95%A2%E8%B7%9F%E5%B0%9A%E9%9B%AF%E5%A9%95%E8%81%8A%E5%A4%A9%23&t=31&band_rank=11&Refer=top) 335581
-1. [恋爱兄妹最终情侣](https://s.weibo.com/weibo?q=%E6%81%8B%E7%88%B1%E5%85%84%E5%A6%B9%E6%9C%80%E7%BB%88%E6%83%85%E4%BE%A3&t=31&band_rank=12&Refer=top) 300251
-1. [六公主发的周也](https://s.weibo.com/weibo?q=%E5%85%AD%E5%85%AC%E4%B8%BB%E5%8F%91%E7%9A%84%E5%91%A8%E4%B9%9F&t=31&band_rank=13&Refer=top) 285130
+1. [被浙江医院产房外的显示屏暖到了](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%B5%99%E6%B1%9F%E5%8C%BB%E9%99%A2%E4%BA%A7%E6%88%BF%E5%A4%96%E7%9A%84%E6%98%BE%E7%A4%BA%E5%B1%8F%E6%9A%96%E5%88%B0%E4%BA%86%23&t=31&band_rank=10&Refer=top) 258743
 1. [汪苏泷 泷泷看到热搜了](https://s.weibo.com/weibo?q=%E6%B1%AA%E8%8B%8F%E6%B3%B7%20%E6%B3%B7%E6%B3%B7%E7%9C%8B%E5%88%B0%E7%83%AD%E6%90%9C%E4%BA%86&t=31&band_rank=14&Refer=top) 256861
 1. [姜萍考上高中但自己选择了中专](https://s.weibo.com/weibo?q=%23%E5%A7%9C%E8%90%8D%E8%80%83%E4%B8%8A%E9%AB%98%E4%B8%AD%E4%BD%86%E8%87%AA%E5%B7%B1%E9%80%89%E6%8B%A9%E4%BA%86%E4%B8%AD%E4%B8%93%23&t=31&band_rank=15&Refer=top) 233253
 1. [那英 怎么又说你难听](https://s.weibo.com/weibo?q=%E9%82%A3%E8%8B%B1%20%E6%80%8E%E4%B9%88%E5%8F%88%E8%AF%B4%E4%BD%A0%E9%9A%BE%E5%90%AC&t=31&band_rank=16&Refer=top) 231156
@@ -59,6 +60,8 @@
 1. [德国vs苏格兰](https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%9B%BDvs%E8%8B%8F%E6%A0%BC%E5%85%B0%23&t=31&band_rank=48&Refer=top) 208396
 1. [光与夜之恋 炫迈](https://s.weibo.com/weibo?q=%E5%85%89%E4%B8%8E%E5%A4%9C%E4%B9%8B%E6%81%8B%20%E7%82%AB%E8%BF%88&t=31&band_rank=49&Refer=top) 208298
 1. [刁琳宇状态](https://s.weibo.com/weibo?q=%E5%88%81%E7%90%B3%E5%AE%87%E7%8A%B6%E6%80%81&t=31&band_rank=50&Refer=top) 208230
+1. [陈丽君选戚薇吧她快碎了](https://s.weibo.com/weibo?q=%23%E9%99%88%E4%B8%BD%E5%90%9B%E9%80%89%E6%88%9A%E8%96%87%E5%90%A7%E5%A5%B9%E5%BF%AB%E7%A2%8E%E4%BA%86%23&t=31&band_rank=46&Refer=top) 149914
+1. [姜萍的祖师爷来微博了](https://s.weibo.com/weibo?q=%23%E5%A7%9C%E8%90%8D%E7%9A%84%E7%A5%96%E5%B8%88%E7%88%B7%E6%9D%A5%E5%BE%AE%E5%8D%9A%E4%BA%86%23&t=31&band_rank=49&Refer=top) 149893
 <!-- END -->
 
 历史归档 [./archives](./archives)
