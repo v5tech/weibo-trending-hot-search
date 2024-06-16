@@ -71,6 +71,14 @@
     "url": "https://s.weibo.com/weibo?q=TheShy&t=31&band_rank=17&Refer=top",
     "hot": 233976
   },
+  "毕业典礼全场齐唱义勇军进行曲好澎湃": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E5%85%A8%E5%9C%BA%E9%BD%90%E5%94%B1%E4%B9%89%E5%8B%87%E5%86%9B%E8%BF%9B%E8%A1%8C%E6%9B%B2%E5%A5%BD%E6%BE%8E%E6%B9%83%23&t=31&band_rank=10&Refer=top",
+    "hot": 214115
+  },
+  "章子怡哽咽": {
+    "url": "https://s.weibo.com/weibo?q=%E7%AB%A0%E5%AD%90%E6%80%A1%E5%93%BD%E5%92%BD&t=31&band_rank=27&Refer=top",
+    "hot": 192700
+  },
   "央视曝光乳胶床品造假乱象": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E4%B9%B3%E8%83%B6%E5%BA%8A%E5%93%81%E9%80%A0%E5%81%87%E4%B9%B1%E8%B1%A1%23&t=31&band_rank=18&Refer=top",
     "hot": 156816
@@ -151,10 +159,6 @@
     "url": "https://s.weibo.com/weibo?q=%23%E6%9E%97%E6%9B%B4%E6%96%B0%E5%BD%AD%E5%86%A0%E8%8B%B1%E5%AF%B9%E5%B3%99%E6%88%8F%23&t=31&band_rank=37&Refer=top",
     "hot": 139464
   },
-  "章子怡哽咽": {
-    "url": "https://s.weibo.com/weibo?q=%E7%AB%A0%E5%AD%90%E6%80%A1%E5%93%BD%E5%92%BD&t=31&band_rank=27&Refer=top",
-    "hot": 130547
-  },
   "欧洲杯": {
     "url": "https://s.weibo.com/weibo?q=%E6%AC%A7%E6%B4%B2%E6%9D%AF&t=31&band_rank=40&Refer=top",
     "hot": 129617
@@ -214,5 +218,9 @@
   "斯洛文尼亚vs丹麦": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%96%AF%E6%B4%9B%E6%96%87%E5%B0%BC%E4%BA%9Avs%E4%B8%B9%E9%BA%A6%23&t=31&band_rank=50&Refer=top",
     "hot": 75074
+  },
+  "小县城里最舒服的人": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%8E%BF%E5%9F%8E%E9%87%8C%E6%9C%80%E8%88%92%E6%9C%8D%E7%9A%84%E4%BA%BA%23&t=31&band_rank=50&Refer=top",
+    "hot": 69191
   }
 }
