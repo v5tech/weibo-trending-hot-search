@@ -151,6 +151,10 @@
     "url": "https://s.weibo.com/weibo?q=%E5%BA%86%E4%BD%99%E5%B9%B4%20%E4%BA%8C%E7%9A%87%E5%AD%90&t=31&band_rank=33&Refer=top",
     "hot": 152998
   },
+  "小县城里最舒服的人": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%8E%BF%E5%9F%8E%E9%87%8C%E6%9C%80%E8%88%92%E6%9C%8D%E7%9A%84%E4%BA%BA%23&t=31&band_rank=50&Refer=top",
+    "hot": 150515
+  },
   "陈昊宇文咏珊合照": {
     "url": "https://s.weibo.com/weibo?q=%E9%99%88%E6%98%8A%E5%AE%87%E6%96%87%E5%92%8F%E7%8F%8A%E5%90%88%E7%85%A7&t=31&band_rank=34&Refer=top",
     "hot": 146734
@@ -223,10 +227,6 @@
     "url": "https://s.weibo.com/weibo?q=%232%E5%B2%81%E5%A5%B3%E5%84%BF%E4%B8%80%E7%9B%B4%E4%BB%A5%E4%B8%BA%E7%88%B8%E7%88%B8%E4%BD%8F%E5%9C%A8%E7%9B%91%E6%8E%A7%E9%87%8C%23&t=31&band_rank=50&Refer=top",
     "hot": 95652
   },
-  "小县城里最舒服的人": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%8E%BF%E5%9F%8E%E9%87%8C%E6%9C%80%E8%88%92%E6%9C%8D%E7%9A%84%E4%BA%BA%23&t=31&band_rank=50&Refer=top",
-    "hot": 94545
-  },
   "斯洛文尼亚vs丹麦": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%96%AF%E6%B4%9B%E6%96%87%E5%B0%BC%E4%BA%9Avs%E4%B8%B9%E9%BA%A6%23&t=31&band_rank=50&Refer=top",
     "hot": 75074
@@ -234,5 +234,9 @@
   "sana好美": {
     "url": "https://s.weibo.com/weibo?q=sana%E5%A5%BD%E7%BE%8E&t=31&band_rank=44&Refer=top",
     "hot": 55467
+  },
+  "Baolan老头杯夺冠": {
+    "url": "https://s.weibo.com/weibo?q=%23Baolan%E8%80%81%E5%A4%B4%E6%9D%AF%E5%A4%BA%E5%86%A0%23&t=31&band_rank=50&Refer=top",
+    "hot": 52581
   }
 }
