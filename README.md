@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-06-17 01:34:49.815715 
-![2024-06-17](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240617/2024-06-17.png?versionId=4_z8fbbed132d73df8689c40f13_f108b14d6914b5dfa_d20240616_m173449_c005_v0501018_t0044_u01718559289789) 
+最后更新时间 2024-06-17 01:49:13.358648 
+![2024-06-17](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240617/2024-06-17.png?versionId=4_z8fbbed132d73df8689c40f13_f10144aae9c3bcf05_d20240616_m174912_c005_v0501011_t0046_u01718560152871) 
 1. [姜萍中考621分却上中专的原因](https://s.weibo.com/weibo?q=%23%E5%A7%9C%E8%90%8D%E4%B8%AD%E8%80%83621%E5%88%86%E5%8D%B4%E4%B8%8A%E4%B8%AD%E4%B8%93%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=1&Refer=top) 1964340
 1. [跳跳俏俏芽芽演唱会表白张杰](https://s.weibo.com/weibo?q=%23%E8%B7%B3%E8%B7%B3%E4%BF%8F%E4%BF%8F%E8%8A%BD%E8%8A%BD%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A1%A8%E7%99%BD%E5%BC%A0%E6%9D%B0%23&t=31&band_rank=2&Refer=top) 669802
 1. [中国式现代化的万千气象](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%E7%9A%84%E4%B8%87%E5%8D%83%E6%B0%94%E8%B1%A1%23&t=31&band_rank=3&Refer=top) 646320
@@ -29,7 +29,7 @@
 1. [不结婚的年轻人重伤糖果业](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E7%BB%93%E5%A9%9A%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA%E9%87%8D%E4%BC%A4%E7%B3%96%E6%9E%9C%E4%B8%9A%23&t=31&band_rank=16&Refer=top) 237956
 1. [TheShy](https://s.weibo.com/weibo?q=TheShy&t=31&band_rank=17&Refer=top) 233976
 1. [毕业典礼全场齐唱义勇军进行曲好澎湃](https://s.weibo.com/weibo?q=%23%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E5%85%A8%E5%9C%BA%E9%BD%90%E5%94%B1%E4%B9%89%E5%8B%87%E5%86%9B%E8%BF%9B%E8%A1%8C%E6%9B%B2%E5%A5%BD%E6%BE%8E%E6%B9%83%23&t=31&band_rank=10&Refer=top) 214115
-1. [小县城里最舒服的人](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%8E%BF%E5%9F%8E%E9%87%8C%E6%9C%80%E8%88%92%E6%9C%8D%E7%9A%84%E4%BA%BA%23&t=31&band_rank=50&Refer=top) 200606
+1. [小县城里最舒服的人](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%8E%BF%E5%9F%8E%E9%87%8C%E6%9C%80%E8%88%92%E6%9C%8D%E7%9A%84%E4%BA%BA%23&t=31&band_rank=50&Refer=top) 209428
 1. [章子怡哽咽](https://s.weibo.com/weibo?q=%E7%AB%A0%E5%AD%90%E6%80%A1%E5%93%BD%E5%92%BD&t=31&band_rank=27&Refer=top) 192700
 1. [央视曝光乳胶床品造假乱象](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E4%B9%B3%E8%83%B6%E5%BA%8A%E5%93%81%E9%80%A0%E5%81%87%E4%B9%B1%E8%B1%A1%23&t=31&band_rank=18&Refer=top) 156816
 1. [TheShy诡术薇恩](https://s.weibo.com/weibo?q=%23TheShy%E8%AF%A1%E6%9C%AF%E8%96%87%E6%81%A9%23&t=31&band_rank=19&Refer=top) 156781
@@ -54,6 +54,7 @@
 1. [林更新彭冠英对峙戏](https://s.weibo.com/weibo?q=%23%E6%9E%97%E6%9B%B4%E6%96%B0%E5%BD%AD%E5%86%A0%E8%8B%B1%E5%AF%B9%E5%B3%99%E6%88%8F%23&t=31&band_rank=37&Refer=top) 139464
 1. [欧洲杯](https://s.weibo.com/weibo?q=%E6%AC%A7%E6%B4%B2%E6%9D%AF&t=31&band_rank=40&Refer=top) 129617
 1. [墨雨云间团综没招到商](https://s.weibo.com/weibo?q=%23%E5%A2%A8%E9%9B%A8%E4%BA%91%E9%97%B4%E5%9B%A2%E7%BB%BC%E6%B2%A1%E6%8B%9B%E5%88%B0%E5%95%86%23&t=31&band_rank=35&Refer=top) 128454
+1. [校书记走下主席台为残疾毕业生拨穗](https://s.weibo.com/weibo?q=%23%E6%A0%A1%E4%B9%A6%E8%AE%B0%E8%B5%B0%E4%B8%8B%E4%B8%BB%E5%B8%AD%E5%8F%B0%E4%B8%BA%E6%AE%8B%E7%96%BE%E6%AF%95%E4%B8%9A%E7%94%9F%E6%8B%A8%E7%A9%97%23&t=31&band_rank=22&Refer=top) 124871
 1. [逼出体内湿气的方法](https://s.weibo.com/weibo?q=%E9%80%BC%E5%87%BA%E4%BD%93%E5%86%85%E6%B9%BF%E6%B0%94%E7%9A%84%E6%96%B9%E6%B3%95&t=31&band_rank=38&Refer=top) 116492
 1. [孙燕姿 音乐节](https://s.weibo.com/weibo?q=%E5%AD%99%E7%87%95%E5%A7%BF%20%E9%9F%B3%E4%B9%90%E8%8A%82&t=31&band_rank=41&Refer=top) 113028
 1. [波兰1比2荷兰](https://s.weibo.com/weibo?q=%23%E6%B3%A2%E5%85%B01%E6%AF%942%E8%8D%B7%E5%85%B0%23&t=31&band_rank=39&Refer=top) 107339
@@ -67,10 +68,11 @@
 1. [十二星座的反差感](https://s.weibo.com/weibo?q=%23%E5%8D%81%E4%BA%8C%E6%98%9F%E5%BA%A7%E7%9A%84%E5%8F%8D%E5%B7%AE%E6%84%9F%23&t=31&band_rank=49&Refer=top) 95774
 1. [2岁女儿一直以为爸爸住在监控里](https://s.weibo.com/weibo?q=%232%E5%B2%81%E5%A5%B3%E5%84%BF%E4%B8%80%E7%9B%B4%E4%BB%A5%E4%B8%BA%E7%88%B8%E7%88%B8%E4%BD%8F%E5%9C%A8%E7%9B%91%E6%8E%A7%E9%87%8C%23&t=31&band_rank=50&Refer=top) 95652
 1. [斯洛文尼亚vs丹麦](https://s.weibo.com/weibo?q=%23%E6%96%AF%E6%B4%9B%E6%96%87%E5%B0%BC%E4%BA%9Avs%E4%B8%B9%E9%BA%A6%23&t=31&band_rank=50&Refer=top) 79508
-1. [校书记走下主席台为残疾毕业生拨穗](https://s.weibo.com/weibo?q=%23%E6%A0%A1%E4%B9%A6%E8%AE%B0%E8%B5%B0%E4%B8%8B%E4%B8%BB%E5%B8%AD%E5%8F%B0%E4%B8%BA%E6%AE%8B%E7%96%BE%E6%AF%95%E4%B8%9A%E7%94%9F%E6%8B%A8%E7%A9%97%23&t=31&band_rank=22&Refer=top) 78349
 1. [sana好美](https://s.weibo.com/weibo?q=sana%E5%A5%BD%E7%BE%8E&t=31&band_rank=44&Refer=top) 63813
 1. [Baolan老头杯夺冠](https://s.weibo.com/weibo?q=%23Baolan%E8%80%81%E5%A4%B4%E6%9D%AF%E5%A4%BA%E5%86%A0%23&t=31&band_rank=50&Refer=top) 52581
+1. [16周所有大学生都会失联](https://s.weibo.com/weibo?q=%2316%E5%91%A8%E6%89%80%E6%9C%89%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%83%BD%E4%BC%9A%E5%A4%B1%E8%81%94%23&t=31&band_rank=40&Refer=top) 50614
 1. [张艺兴挑染绿发](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E6%8C%91%E6%9F%93%E7%BB%BF%E5%8F%91%23&t=31&band_rank=48&Refer=top) 44195
+1. [狗狗偷偷戴上了奶奶的假牙](https://s.weibo.com/weibo?q=%E7%8B%97%E7%8B%97%E5%81%B7%E5%81%B7%E6%88%B4%E4%B8%8A%E4%BA%86%E5%A5%B6%E5%A5%B6%E7%9A%84%E5%81%87%E7%89%99&t=31&band_rank=47&Refer=top) 36656
 <!-- END -->
 
 历史归档 [./archives](./archives)

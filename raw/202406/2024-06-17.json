@@ -81,7 +81,7 @@
   },
   "小县城里最舒服的人": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%8E%BF%E5%9F%8E%E9%87%8C%E6%9C%80%E8%88%92%E6%9C%8D%E7%9A%84%E4%BA%BA%23&t=31&band_rank=50&Refer=top",
-    "hot": 200606
+    "hot": 209428
   },
   "章子怡哽咽": {
     "url": "https://s.weibo.com/weibo?q=%E7%AB%A0%E5%AD%90%E6%80%A1%E5%93%BD%E5%92%BD&t=31&band_rank=27&Refer=top",
@@ -179,6 +179,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%A2%A8%E9%9B%A8%E4%BA%91%E9%97%B4%E5%9B%A2%E7%BB%BC%E6%B2%A1%E6%8B%9B%E5%88%B0%E5%95%86%23&t=31&band_rank=35&Refer=top",
     "hot": 128454
   },
+  "校书记走下主席台为残疾毕业生拨穗": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%A0%A1%E4%B9%A6%E8%AE%B0%E8%B5%B0%E4%B8%8B%E4%B8%BB%E5%B8%AD%E5%8F%B0%E4%B8%BA%E6%AE%8B%E7%96%BE%E6%AF%95%E4%B8%9A%E7%94%9F%E6%8B%A8%E7%A9%97%23&t=31&band_rank=22&Refer=top",
+    "hot": 124871
+  },
   "逼出体内湿气的方法": {
     "url": "https://s.weibo.com/weibo?q=%E9%80%BC%E5%87%BA%E4%BD%93%E5%86%85%E6%B9%BF%E6%B0%94%E7%9A%84%E6%96%B9%E6%B3%95&t=31&band_rank=38&Refer=top",
     "hot": 116492
@@ -231,10 +235,6 @@
     "url": "https://s.weibo.com/weibo?q=%23%E6%96%AF%E6%B4%9B%E6%96%87%E5%B0%BC%E4%BA%9Avs%E4%B8%B9%E9%BA%A6%23&t=31&band_rank=50&Refer=top",
     "hot": 79508
   },
-  "校书记走下主席台为残疾毕业生拨穗": {
-    "url": "https://s.weibo.com/weibo?q=%23%E6%A0%A1%E4%B9%A6%E8%AE%B0%E8%B5%B0%E4%B8%8B%E4%B8%BB%E5%B8%AD%E5%8F%B0%E4%B8%BA%E6%AE%8B%E7%96%BE%E6%AF%95%E4%B8%9A%E7%94%9F%E6%8B%A8%E7%A9%97%23&t=31&band_rank=22&Refer=top",
-    "hot": 78349
-  },
   "sana好美": {
     "url": "https://s.weibo.com/weibo?q=sana%E5%A5%BD%E7%BE%8E&t=31&band_rank=44&Refer=top",
     "hot": 63813
@@ -243,8 +243,16 @@
     "url": "https://s.weibo.com/weibo?q=%23Baolan%E8%80%81%E5%A4%B4%E6%9D%AF%E5%A4%BA%E5%86%A0%23&t=31&band_rank=50&Refer=top",
     "hot": 52581
   },
+  "16周所有大学生都会失联": {
+    "url": "https://s.weibo.com/weibo?q=%2316%E5%91%A8%E6%89%80%E6%9C%89%E5%A4%A7%E5%AD%A6%E7%94%9F%E9%83%BD%E4%BC%9A%E5%A4%B1%E8%81%94%23&t=31&band_rank=40&Refer=top",
+    "hot": 50614
+  },
   "张艺兴挑染绿发": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E6%8C%91%E6%9F%93%E7%BB%BF%E5%8F%91%23&t=31&band_rank=48&Refer=top",
     "hot": 44195
+  },
+  "狗狗偷偷戴上了奶奶的假牙": {
+    "url": "https://s.weibo.com/weibo?q=%E7%8B%97%E7%8B%97%E5%81%B7%E5%81%B7%E6%88%B4%E4%B8%8A%E4%BA%86%E5%A5%B6%E5%A5%B6%E7%9A%84%E5%81%87%E7%89%99&t=31&band_rank=47&Refer=top",
+    "hot": 36656
   }
 }
