@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-06-18 02:33:12.132710 
-![2024-06-18](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240618/2024-06-18.png?versionId=4_z8fbbed132d73df8689c40f13_f1171a12edb69f642_d20240617_m183311_c005_v0501008_t0016_u01718649191350) 
+最后更新时间 2024-06-18 02:49:21.085543 
+![2024-06-18](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240618/2024-06-18.png?versionId=4_z8fbbed132d73df8689c40f13_f110b23b4266575a6_d20240617_m184921_c005_v0501019_t0021_u01718650161059) 
 1. [林更新演技](https://s.weibo.com/weibo?q=%E6%9E%97%E6%9B%B4%E6%96%B0%E6%BC%94%E6%8A%80&t=31&band_rank=1&Refer=top) 867957
 1. [姜萍](https://s.weibo.com/weibo?q=%E5%A7%9C%E8%90%8D&t=31&band_rank=2&Refer=top) 727646
 1. [卫星视角见证中国治沙奇迹](https://s.weibo.com/weibo?q=%23%E5%8D%AB%E6%98%9F%E8%A7%86%E8%A7%92%E8%A7%81%E8%AF%81%E4%B8%AD%E5%9B%BD%E6%B2%BB%E6%B2%99%E5%A5%87%E8%BF%B9%23&t=31&band_rank=3&Refer=top) 646111
@@ -78,6 +78,7 @@
 1. [NBA](https://s.weibo.com/weibo?q=NBA&t=31&band_rank=50&Refer=top) 28774
 1. [刘德华白宇莫文蔚新片焚城](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%BE%B7%E5%8D%8E%E7%99%BD%E5%AE%87%E8%8E%AB%E6%96%87%E8%94%9A%E6%96%B0%E7%89%87%E7%84%9A%E5%9F%8E%23&t=31&band_rank=42&Refer=top) 25556
 1. [东极岛官宣没有倪妮](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E6%9E%81%E5%B2%9B%E5%AE%98%E5%AE%A3%E6%B2%A1%E6%9C%89%E5%80%AA%E5%A6%AE%23&t=31&band_rank=49&Refer=top) 24362
+1. [陈乔恩告别墨雨云间](https://s.weibo.com/weibo?q=%23%E9%99%88%E4%B9%94%E6%81%A9%E5%91%8A%E5%88%AB%E5%A2%A8%E9%9B%A8%E4%BA%91%E9%97%B4%23&t=31&band_rank=49&Refer=top) 22328
 <!-- END -->
 
 历史归档 [./archives](./archives)
