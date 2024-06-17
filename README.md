@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-06-18 03:36:05.425217 
-![2024-06-18](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240618/2024-06-18.png?versionId=4_z8fbbed132d73df8689c40f13_f101a6a79909cec76_d20240617_m193604_c005_v0501012_t0048_u01718652964906) 
+最后更新时间 2024-06-18 03:49:19.807081 
+![2024-06-18](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240618/2024-06-18.png?versionId=4_z8fbbed132d73df8689c40f13_f1055ab507ac765e8_d20240617_m194919_c005_v0521006_t0014_u01718653759053) 
 1. [林更新演技](https://s.weibo.com/weibo?q=%E6%9E%97%E6%9B%B4%E6%96%B0%E6%BC%94%E6%8A%80&t=31&band_rank=1&Refer=top) 867957
 1. [姜萍](https://s.weibo.com/weibo?q=%E5%A7%9C%E8%90%8D&t=31&band_rank=2&Refer=top) 727646
 1. [卫星视角见证中国治沙奇迹](https://s.weibo.com/weibo?q=%23%E5%8D%AB%E6%98%9F%E8%A7%86%E8%A7%92%E8%A7%81%E8%AF%81%E4%B8%AD%E5%9B%BD%E6%B2%BB%E6%B2%99%E5%A5%87%E8%BF%B9%23&t=31&band_rank=3&Refer=top) 646111
@@ -62,6 +62,7 @@
 1. [庄国栋碎了](https://s.weibo.com/weibo?q=%E5%BA%84%E5%9B%BD%E6%A0%8B%E7%A2%8E%E4%BA%86&t=31&band_rank=42&Refer=top) 96957
 1. [Giselle中国首封](https://s.weibo.com/weibo?q=%23Giselle%E4%B8%AD%E5%9B%BD%E9%A6%96%E5%B0%81%23&t=31&band_rank=43&Refer=top) 95949
 1. [于文文Amber刘忻 拽姐秀](https://s.weibo.com/weibo?q=%E4%BA%8E%E6%96%87%E6%96%87Amber%E5%88%98%E5%BF%BB%20%E6%8B%BD%E5%A7%90%E7%A7%80&t=31&band_rank=44&Refer=top) 91950
+1. [奥地利vs法国](https://s.weibo.com/weibo?q=%23%E5%A5%A5%E5%9C%B0%E5%88%A9vs%E6%B3%95%E5%9B%BD%23&t=31&band_rank=48&Refer=top) 88425
 1. [王星越吴谨言这大手这小腰](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%98%9F%E8%B6%8A%E5%90%B4%E8%B0%A8%E8%A8%80%E8%BF%99%E5%A4%A7%E6%89%8B%E8%BF%99%E5%B0%8F%E8%85%B0%23&t=31&band_rank=45&Refer=top) 87868
 1. [华晨宇声线有日出的温暖](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E5%A3%B0%E7%BA%BF%E6%9C%89%E6%97%A5%E5%87%BA%E7%9A%84%E6%B8%A9%E6%9A%96%23&t=31&band_rank=46&Refer=top) 85173
 1. [周深孙楠对唱](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E5%AD%99%E6%A5%A0%E5%AF%B9%E5%94%B1%23&t=31&band_rank=47&Refer=top) 85169
@@ -69,17 +70,17 @@
 1. [刚收到的录取通知书被撤回了](https://s.weibo.com/weibo?q=%23%E5%88%9A%E6%94%B6%E5%88%B0%E7%9A%84%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E8%A2%AB%E6%92%A4%E5%9B%9E%E4%BA%86%23&t=31&band_rank=50&Refer=top) 85152
 1. [钓鱼大哥抛出鱼竿救回轻生男子](https://s.weibo.com/weibo?q=%23%E9%92%93%E9%B1%BC%E5%A4%A7%E5%93%A5%E6%8A%9B%E5%87%BA%E9%B1%BC%E7%AB%BF%E6%95%91%E5%9B%9E%E8%BD%BB%E7%94%9F%E7%94%B7%E5%AD%90%23&t=31&band_rank=10&Refer=top) 84190
 1. [乃万 从livehouse到体育馆](https://s.weibo.com/weibo?q=%E4%B9%83%E4%B8%87%20%E4%BB%8Elivehouse%E5%88%B0%E4%BD%93%E8%82%B2%E9%A6%86&t=31&band_rank=39&Refer=top) 82347
-1. [奥地利vs法国](https://s.weibo.com/weibo?q=%23%E5%A5%A5%E5%9C%B0%E5%88%A9vs%E6%B3%95%E5%9B%BD%23&t=31&band_rank=48&Refer=top) 73299
 1. [水象星座真的是恋爱脑吗](https://s.weibo.com/weibo?q=%23%E6%B0%B4%E8%B1%A1%E6%98%9F%E5%BA%A7%E7%9C%9F%E7%9A%84%E6%98%AF%E6%81%8B%E7%88%B1%E8%84%91%E5%90%97%23&t=31&band_rank=46&Refer=top) 70380
 1. [坠桥男子漂流8公里被鱼竿拉上岸](https://s.weibo.com/weibo?q=%23%E5%9D%A0%E6%A1%A5%E7%94%B7%E5%AD%90%E6%BC%82%E6%B5%818%E5%85%AC%E9%87%8C%E8%A2%AB%E9%B1%BC%E7%AB%BF%E6%8B%89%E4%B8%8A%E5%B2%B8%23&t=31&band_rank=10&Refer=top) 58453
 1. [胡歌片寄凉太土屋太凤同框](https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E7%89%87%E5%AF%84%E5%87%89%E5%A4%AA%E5%9C%9F%E5%B1%8B%E5%A4%AA%E5%87%A4%E5%90%8C%E6%A1%86%23&t=31&band_rank=28&Refer=top) 55299
 1. [金庸武侠世界](https://s.weibo.com/weibo?q=%E9%87%91%E5%BA%B8%E6%AD%A6%E4%BE%A0%E4%B8%96%E7%95%8C&t=31&band_rank=42&Refer=top) 54383
 1. [方协文气死我](https://s.weibo.com/weibo?q=%E6%96%B9%E5%8D%8F%E6%96%87%E6%B0%94%E6%AD%BB%E6%88%91&t=31&band_rank=49&Refer=top) 54357
+1. [陈乔恩告别墨雨云间](https://s.weibo.com/weibo?q=%23%E9%99%88%E4%B9%94%E6%81%A9%E5%91%8A%E5%88%AB%E5%A2%A8%E9%9B%A8%E4%BA%91%E9%97%B4%23&t=31&band_rank=49&Refer=top) 30625
 1. [德国地铁站广告](https://s.weibo.com/weibo?q=%E5%BE%B7%E5%9B%BD%E5%9C%B0%E9%93%81%E7%AB%99%E5%B9%BF%E5%91%8A&t=31&band_rank=48&Refer=top) 28778
 1. [NBA](https://s.weibo.com/weibo?q=NBA&t=31&band_rank=50&Refer=top) 28774
-1. [陈乔恩告别墨雨云间](https://s.weibo.com/weibo?q=%23%E9%99%88%E4%B9%94%E6%81%A9%E5%91%8A%E5%88%AB%E5%A2%A8%E9%9B%A8%E4%BA%91%E9%97%B4%23&t=31&band_rank=49&Refer=top) 26832
 1. [刘德华白宇莫文蔚新片焚城](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%BE%B7%E5%8D%8E%E7%99%BD%E5%AE%87%E8%8E%AB%E6%96%87%E8%94%9A%E6%96%B0%E7%89%87%E7%84%9A%E5%9F%8E%23&t=31&band_rank=42&Refer=top) 25556
 1. [东极岛官宣没有倪妮](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E6%9E%81%E5%B2%9B%E5%AE%98%E5%AE%A3%E6%B2%A1%E6%9C%89%E5%80%AA%E5%A6%AE%23&t=31&band_rank=49&Refer=top) 24362
+1. [牛津朱朱 自学数学的可行性](https://s.weibo.com/weibo?q=%E7%89%9B%E6%B4%A5%E6%9C%B1%E6%9C%B1%20%E8%87%AA%E5%AD%A6%E6%95%B0%E5%AD%A6%E7%9A%84%E5%8F%AF%E8%A1%8C%E6%80%A7&t=31&band_rank=48&Refer=top) 19006
 <!-- END -->
 
 历史归档 [./archives](./archives)
