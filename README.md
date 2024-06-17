@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-06-18 04:35:21.709883 
-![2024-06-18](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240618/2024-06-18.png?versionId=4_z8fbbed132d73df8689c40f13_f10517bce01bd5bca_d20240617_m203521_c005_v0501021_t0003_u01718656521302) 
+最后更新时间 2024-06-18 04:49:32.905938 
+![2024-06-18](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240618/2024-06-18.png?versionId=4_z8fbbed132d73df8689c40f13_f1192682963a47c82_d20240617_m204932_c005_v0501003_t0012_u01718657372451) 
 1. [林更新演技](https://s.weibo.com/weibo?q=%E6%9E%97%E6%9B%B4%E6%96%B0%E6%BC%94%E6%8A%80&t=31&band_rank=1&Refer=top) 867957
 1. [姜萍](https://s.weibo.com/weibo?q=%E5%A7%9C%E8%90%8D&t=31&band_rank=2&Refer=top) 727646
 1. [卫星视角见证中国治沙奇迹](https://s.weibo.com/weibo?q=%23%E5%8D%AB%E6%98%9F%E8%A7%86%E8%A7%92%E8%A7%81%E8%AF%81%E4%B8%AD%E5%9B%BD%E6%B2%BB%E6%B2%99%E5%A5%87%E8%BF%B9%23&t=31&band_rank=3&Refer=top) 646111
@@ -83,8 +83,9 @@
 1. [果然生女儿就是用来打扮的](https://s.weibo.com/weibo?q=%23%E6%9E%9C%E7%84%B6%E7%94%9F%E5%A5%B3%E5%84%BF%E5%B0%B1%E6%98%AF%E7%94%A8%E6%9D%A5%E6%89%93%E6%89%AE%E7%9A%84%23&t=31&band_rank=45&Refer=top) 21681
 1. [牛津朱朱 自学数学的可行性](https://s.weibo.com/weibo?q=%E7%89%9B%E6%B4%A5%E6%9C%B1%E6%9C%B1%20%E8%87%AA%E5%AD%A6%E6%95%B0%E5%AD%A6%E7%9A%84%E5%8F%AF%E8%A1%8C%E6%80%A7&t=31&band_rank=48&Refer=top) 19876
 1. [周翊然看秀look](https://s.weibo.com/weibo?q=%23%E5%91%A8%E7%BF%8A%E7%84%B6%E7%9C%8B%E7%A7%80look%23&t=31&band_rank=50&Refer=top) 19866
-1. [黄宣女装](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AE%A3%E5%A5%B3%E8%A3%85%23&t=31&band_rank=48&Refer=top) 18802
-1. [红豆薏米水真的可以祛湿吗](https://s.weibo.com/weibo?q=%23%E7%BA%A2%E8%B1%86%E8%96%8F%E7%B1%B3%E6%B0%B4%E7%9C%9F%E7%9A%84%E5%8F%AF%E4%BB%A5%E7%A5%9B%E6%B9%BF%E5%90%97%23&t=31&band_rank=49&Refer=top) 18797
+1. [黄宣女装](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AE%A3%E5%A5%B3%E8%A3%85%23&t=31&band_rank=48&Refer=top) 19419
+1. [红豆薏米水真的可以祛湿吗](https://s.weibo.com/weibo?q=%23%E7%BA%A2%E8%B1%86%E8%96%8F%E7%B1%B3%E6%B0%B4%E7%9C%9F%E7%9A%84%E5%8F%AF%E4%BB%A5%E7%A5%9B%E6%B9%BF%E5%90%97%23&t=31&band_rank=49&Refer=top) 19409
+1. [冷藏车](https://s.weibo.com/weibo?q=%E5%86%B7%E8%97%8F%E8%BD%A6&t=31&band_rank=47&Refer=top) 19405
 <!-- END -->
 
 历史归档 [./archives](./archives)
