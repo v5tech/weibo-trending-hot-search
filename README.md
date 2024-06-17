@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-06-18 06:11:05.185492 
-![2024-06-18](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240618/2024-06-18.png?versionId=4_z8fbbed132d73df8689c40f13_f1184c024d9b71865_d20240617_m221104_c005_v0501008_t0016_u01718662264850) 
+最后更新时间 2024-06-18 06:27:42.131855 
+![2024-06-18](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240618/2024-06-18.png?versionId=4_z8fbbed132d73df8689c40f13_f11186a4b304ae6f9_d20240617_m222742_c005_v0501011_t0057_u01718663262067) 
 1. [林更新演技](https://s.weibo.com/weibo?q=%E6%9E%97%E6%9B%B4%E6%96%B0%E6%BC%94%E6%8A%80&t=31&band_rank=1&Refer=top) 867957
 1. [姜萍](https://s.weibo.com/weibo?q=%E5%A7%9C%E8%90%8D&t=31&band_rank=2&Refer=top) 727646
 1. [卫星视角见证中国治沙奇迹](https://s.weibo.com/weibo?q=%23%E5%8D%AB%E6%98%9F%E8%A7%86%E8%A7%92%E8%A7%81%E8%AF%81%E4%B8%AD%E5%9B%BD%E6%B2%BB%E6%B2%99%E5%A5%87%E8%BF%B9%23&t=31&band_rank=3&Refer=top) 646111
@@ -36,6 +36,7 @@
 1. [广东梅州暴雨致5死15失联](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%A2%85%E5%B7%9E%E6%9A%B4%E9%9B%A8%E8%87%B45%E6%AD%BB15%E5%A4%B1%E8%81%94%23&t=31&band_rank=18&Refer=top) 177256
 1. [数学专业就业后的收入](https://s.weibo.com/weibo?q=%23%E6%95%B0%E5%AD%A6%E4%B8%93%E4%B8%9A%E5%B0%B1%E4%B8%9A%E5%90%8E%E7%9A%84%E6%94%B6%E5%85%A5%23&t=31&band_rank=19&Refer=top) 175800
 1. [奥地利vs法国](https://s.weibo.com/weibo?q=%23%E5%A5%A5%E5%9C%B0%E5%88%A9vs%E6%B3%95%E5%9B%BD%23&t=31&band_rank=48&Refer=top) 159791
+1. [红豆薏米水真的可以祛湿吗](https://s.weibo.com/weibo?q=%23%E7%BA%A2%E8%B1%86%E8%96%8F%E7%B1%B3%E6%B0%B4%E7%9C%9F%E7%9A%84%E5%8F%AF%E4%BB%A5%E7%A5%9B%E6%B9%BF%E5%90%97%23&t=31&band_rank=49&Refer=top) 154893
 1. [city不city](https://s.weibo.com/weibo?q=city%E4%B8%8Dcity&t=31&band_rank=20&Refer=top) 150463
 1. [外国人被中国夜市硬控了](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%9B%BD%E4%BA%BA%E8%A2%AB%E4%B8%AD%E5%9B%BD%E5%A4%9C%E5%B8%82%E7%A1%AC%E6%8E%A7%E4%BA%86%23&t=31&band_rank=21&Refer=top) 150130
 1. [长寿的人多半有4慢3长特点](https://s.weibo.com/weibo?q=%23%E9%95%BF%E5%AF%BF%E7%9A%84%E4%BA%BA%E5%A4%9A%E5%8D%8A%E6%9C%894%E6%85%A23%E9%95%BF%E7%89%B9%E7%82%B9%23&t=31&band_rank=22&Refer=top) 148481
@@ -71,24 +72,24 @@
 1. [钓鱼大哥抛出鱼竿救回轻生男子](https://s.weibo.com/weibo?q=%23%E9%92%93%E9%B1%BC%E5%A4%A7%E5%93%A5%E6%8A%9B%E5%87%BA%E9%B1%BC%E7%AB%BF%E6%95%91%E5%9B%9E%E8%BD%BB%E7%94%9F%E7%94%B7%E5%AD%90%23&t=31&band_rank=10&Refer=top) 84190
 1. [乃万 从livehouse到体育馆](https://s.weibo.com/weibo?q=%E4%B9%83%E4%B8%87%20%E4%BB%8Elivehouse%E5%88%B0%E4%BD%93%E8%82%B2%E9%A6%86&t=31&band_rank=39&Refer=top) 82347
 1. [水象星座真的是恋爱脑吗](https://s.weibo.com/weibo?q=%23%E6%B0%B4%E8%B1%A1%E6%98%9F%E5%BA%A7%E7%9C%9F%E7%9A%84%E6%98%AF%E6%81%8B%E7%88%B1%E8%84%91%E5%90%97%23&t=31&band_rank=46&Refer=top) 70380
-1. [红豆薏米水真的可以祛湿吗](https://s.weibo.com/weibo?q=%23%E7%BA%A2%E8%B1%86%E8%96%8F%E7%B1%B3%E6%B0%B4%E7%9C%9F%E7%9A%84%E5%8F%AF%E4%BB%A5%E7%A5%9B%E6%B9%BF%E5%90%97%23&t=31&band_rank=49&Refer=top) 62853
 1. [坠桥男子漂流8公里被鱼竿拉上岸](https://s.weibo.com/weibo?q=%23%E5%9D%A0%E6%A1%A5%E7%94%B7%E5%AD%90%E6%BC%82%E6%B5%818%E5%85%AC%E9%87%8C%E8%A2%AB%E9%B1%BC%E7%AB%BF%E6%8B%89%E4%B8%8A%E5%B2%B8%23&t=31&band_rank=10&Refer=top) 58453
 1. [胡歌片寄凉太土屋太凤同框](https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E7%89%87%E5%AF%84%E5%87%89%E5%A4%AA%E5%9C%9F%E5%B1%8B%E5%A4%AA%E5%87%A4%E5%90%8C%E6%A1%86%23&t=31&band_rank=28&Refer=top) 55299
 1. [金庸武侠世界](https://s.weibo.com/weibo?q=%E9%87%91%E5%BA%B8%E6%AD%A6%E4%BE%A0%E4%B8%96%E7%95%8C&t=31&band_rank=42&Refer=top) 54383
 1. [方协文气死我](https://s.weibo.com/weibo?q=%E6%96%B9%E5%8D%8F%E6%96%87%E6%B0%94%E6%AD%BB%E6%88%91&t=31&band_rank=49&Refer=top) 54357
-1. [黄宣女装](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AE%A3%E5%A5%B3%E8%A3%85%23&t=31&band_rank=48&Refer=top) 38035
-1. [冷藏车](https://s.weibo.com/weibo?q=%E5%86%B7%E8%97%8F%E8%BD%A6&t=31&band_rank=47&Refer=top) 31380
+1. [黄宣女装](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AE%A3%E5%A5%B3%E8%A3%85%23&t=31&band_rank=48&Refer=top) 48727
+1. [王珞丹包臀花瓶裙](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%8F%9E%E4%B8%B9%E5%8C%85%E8%87%80%E8%8A%B1%E7%93%B6%E8%A3%99%23&t=31&band_rank=47&Refer=top) 40477
+1. [冷藏车](https://s.weibo.com/weibo?q=%E5%86%B7%E8%97%8F%E8%BD%A6&t=31&band_rank=47&Refer=top) 32320
 1. [陈乔恩告别墨雨云间](https://s.weibo.com/weibo?q=%23%E9%99%88%E4%B9%94%E6%81%A9%E5%91%8A%E5%88%AB%E5%A2%A8%E9%9B%A8%E4%BA%91%E9%97%B4%23&t=31&band_rank=49&Refer=top) 30625
-1. [王珞丹包臀花瓶裙](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%8F%9E%E4%B8%B9%E5%8C%85%E8%87%80%E8%8A%B1%E7%93%B6%E8%A3%99%23&t=31&band_rank=47&Refer=top) 29859
 1. [果然生女儿就是用来打扮的](https://s.weibo.com/weibo?q=%23%E6%9E%9C%E7%84%B6%E7%94%9F%E5%A5%B3%E5%84%BF%E5%B0%B1%E6%98%AF%E7%94%A8%E6%9D%A5%E6%89%93%E6%89%AE%E7%9A%84%23&t=31&band_rank=45&Refer=top) 29418
 1. [德国地铁站广告](https://s.weibo.com/weibo?q=%E5%BE%B7%E5%9B%BD%E5%9C%B0%E9%93%81%E7%AB%99%E5%B9%BF%E5%91%8A&t=31&band_rank=48&Refer=top) 28778
 1. [NBA](https://s.weibo.com/weibo?q=NBA&t=31&band_rank=50&Refer=top) 28774
+1. [我好像有旅游发朋友圈羞耻症](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%A5%BD%E5%83%8F%E6%9C%89%E6%97%85%E6%B8%B8%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%88%E7%BE%9E%E8%80%BB%E7%97%87%23&t=31&band_rank=47&Refer=top) 27989
+1. [离职风工位说明无安全感](https://s.weibo.com/weibo?q=%23%E7%A6%BB%E8%81%8C%E9%A3%8E%E5%B7%A5%E4%BD%8D%E8%AF%B4%E6%98%8E%E6%97%A0%E5%AE%89%E5%85%A8%E6%84%9F%23&t=31&band_rank=36&Refer=top) 27092
+1. [无能领导的10个特征](https://s.weibo.com/weibo?q=%23%E6%97%A0%E8%83%BD%E9%A2%86%E5%AF%BC%E7%9A%8410%E4%B8%AA%E7%89%B9%E5%BE%81%23&t=31&band_rank=42&Refer=top) 26648
+1. [牛津朱朱 自学数学的可行性](https://s.weibo.com/weibo?q=%E7%89%9B%E6%B4%A5%E6%9C%B1%E6%9C%B1%20%E8%87%AA%E5%AD%A6%E6%95%B0%E5%AD%A6%E7%9A%84%E5%8F%AF%E8%A1%8C%E6%80%A7&t=31&band_rank=48&Refer=top) 25906
+1. [东极岛官宣没有倪妮](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E6%9E%81%E5%B2%9B%E5%AE%98%E5%AE%A3%E6%B2%A1%E6%9C%89%E5%80%AA%E5%A6%AE%23&t=31&band_rank=49&Refer=top) 25880
 1. [刘德华白宇莫文蔚新片焚城](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%BE%B7%E5%8D%8E%E7%99%BD%E5%AE%87%E8%8E%AB%E6%96%87%E8%94%9A%E6%96%B0%E7%89%87%E7%84%9A%E5%9F%8E%23&t=31&band_rank=42&Refer=top) 25556
-1. [东极岛官宣没有倪妮](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E6%9E%81%E5%B2%9B%E5%AE%98%E5%AE%A3%E6%B2%A1%E6%9C%89%E5%80%AA%E5%A6%AE%23&t=31&band_rank=49&Refer=top) 24362
-1. [牛津朱朱 自学数学的可行性](https://s.weibo.com/weibo?q=%E7%89%9B%E6%B4%A5%E6%9C%B1%E6%9C%B1%20%E8%87%AA%E5%AD%A6%E6%95%B0%E5%AD%A6%E7%9A%84%E5%8F%AF%E8%A1%8C%E6%80%A7&t=31&band_rank=48&Refer=top) 19876
 1. [周翊然看秀look](https://s.weibo.com/weibo?q=%23%E5%91%A8%E7%BF%8A%E7%84%B6%E7%9C%8B%E7%A7%80look%23&t=31&band_rank=50&Refer=top) 19866
-1. [无能领导的10个特征](https://s.weibo.com/weibo?q=%23%E6%97%A0%E8%83%BD%E9%A2%86%E5%AF%BC%E7%9A%8410%E4%B8%AA%E7%89%B9%E5%BE%81%23&t=31&band_rank=42&Refer=top) 18962
-1. [我好像有旅游发朋友圈羞耻症](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%A5%BD%E5%83%8F%E6%9C%89%E6%97%85%E6%B8%B8%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%88%E7%BE%9E%E8%80%BB%E7%97%87%23&t=31&band_rank=47&Refer=top) 18843
 <!-- END -->
 
 历史归档 [./archives](./archives)
