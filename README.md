@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-06-20 02:33:05.350022 
-![2024-06-20](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240620/2024-06-20.png?versionId=4_z8fbbed132d73df8689c40f13_f112d908a41b4f352_d20240619_m183305_c005_v0501000_t0042_u01718821985217) 
+最后更新时间 2024-06-20 02:49:26.716094 
+![2024-06-20](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240620/2024-06-20.png?versionId=4_z8fbbed132d73df8689c40f13_f118349bf081cc457_d20240619_m184926_c005_v0501018_t0047_u01718822966586) 
 1. [玫瑰的故事最炸裂的台词出现了](https://s.weibo.com/weibo?q=%E7%8E%AB%E7%91%B0%E7%9A%84%E6%95%85%E4%BA%8B%E6%9C%80%E7%82%B8%E8%A3%82%E7%9A%84%E5%8F%B0%E8%AF%8D%E5%87%BA%E7%8E%B0%E4%BA%86&t=31&band_rank=1&Refer=top) 1549336
 1. [女孩秋千跌落身亡设备公司判赔107万](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E7%A7%8B%E5%8D%83%E8%B7%8C%E8%90%BD%E8%BA%AB%E4%BA%A1%E8%AE%BE%E5%A4%87%E5%85%AC%E5%8F%B8%E5%88%A4%E8%B5%94107%E4%B8%87%23&t=31&band_rank=2&Refer=top) 827196
 1. [中国式现代化的万千气象](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%E7%9A%84%E4%B8%87%E5%8D%83%E6%B0%94%E8%B1%A1%23&t=31&band_rank=3&Refer=top) 568637
@@ -69,6 +69,7 @@
 1. [鞠婧祎小号发博](https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E5%B0%8F%E5%8F%B7%E5%8F%91%E5%8D%9A%23&t=31&band_rank=47&Refer=top) 55381
 1. [蓝色监狱 全员白衬衫西装](https://s.weibo.com/weibo?q=%E8%93%9D%E8%89%B2%E7%9B%91%E7%8B%B1%20%E5%85%A8%E5%91%98%E7%99%BD%E8%A1%AC%E8%A1%AB%E8%A5%BF%E8%A3%85&t=31&band_rank=41&Refer=top) 52651
 1. [straykids回归预告](https://s.weibo.com/weibo?q=straykids%E5%9B%9E%E5%BD%92%E9%A2%84%E5%91%8A&t=31&band_rank=50&Refer=top) 40345
+1. [2024年新增24个本科专业](https://s.weibo.com/weibo?q=%232024%E5%B9%B4%E6%96%B0%E5%A2%9E24%E4%B8%AA%E6%9C%AC%E7%A7%91%E4%B8%93%E4%B8%9A%23&t=31&band_rank=49&Refer=top) 19476
 <!-- END -->
 
 历史归档 [./archives](./archives)
