@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-06-21 01:10:40.480254 
-![2024-06-21](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240621/2024-06-21.png?versionId=4_z8fbbed132d73df8689c40f13_f11589bd57d263b1a_d20240620_m171039_c005_v0501013_t0013_u01718903439998) 
+最后更新时间 2024-06-21 01:25:54.489539 
+![2024-06-21](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240621/2024-06-21.png?versionId=4_z8fbbed132d73df8689c40f13_f103e5c160d99f50a_d20240620_m172554_c005_v0501020_t0022_u01718904354437) 
 1. [人最好不要all in做任何事情](https://s.weibo.com/weibo?q=%E4%BA%BA%E6%9C%80%E5%A5%BD%E4%B8%8D%E8%A6%81all%20in%E5%81%9A%E4%BB%BB%E4%BD%95%E4%BA%8B%E6%83%85&t=31&band_rank=1&Refer=top) 1232782
 1. [白晓荷有孩子了](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%99%93%E8%8D%B7%E6%9C%89%E5%AD%A9%E5%AD%90%E4%BA%86%23&t=31&band_rank=2&Refer=top) 945251
 1. [何以中国运载千秋](https://s.weibo.com/weibo?q=%23%E4%BD%95%E4%BB%A5%E4%B8%AD%E5%9B%BD%E8%BF%90%E8%BD%BD%E5%8D%83%E7%A7%8B%23&t=31&band_rank=3&Refer=top) 763508
@@ -18,12 +18,12 @@
 1. [黄亦玫手撕恶婆婆](https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%BA%A6%E7%8E%AB%E6%89%8B%E6%92%95%E6%81%B6%E5%A9%86%E5%A9%86%23&t=31&band_rank=7&Refer=top) 443525
 1. [汪苏泷回应体重140斤的原因](https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E5%9B%9E%E5%BA%94%E4%BD%93%E9%87%8D140%E6%96%A4%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=8&Refer=top) 411651
 1. [南方暴雨](https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%96%B9%E6%9A%B4%E9%9B%A8%23&t=31&band_rank=18&Refer=top) 385831
+1. [迪丽热巴张凌赫 艺术生和理工男](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%BC%A0%E5%87%8C%E8%B5%AB%20%E8%89%BA%E6%9C%AF%E7%94%9F%E5%92%8C%E7%90%86%E5%B7%A5%E7%94%B7&t=31&band_rank=41&Refer=top) 337150
 1. [长相思2剧本](https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D2%E5%89%A7%E6%9C%AC%23&t=31&band_rank=13&Refer=top) 335068
 1. [安徽暴雨致灾消防员涉水扛起守护](https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%BE%BD%E6%9A%B4%E9%9B%A8%E8%87%B4%E7%81%BE%E6%B6%88%E9%98%B2%E5%91%98%E6%B6%89%E6%B0%B4%E6%89%9B%E8%B5%B7%E5%AE%88%E6%8A%A4%23&t=31&band_rank=10&Refer=top) 332103
 1. [菲媒称中国万吨大驱驶过菲沿岸](https://s.weibo.com/weibo?q=%23%E8%8F%B2%E5%AA%92%E7%A7%B0%E4%B8%AD%E5%9B%BD%E4%B8%87%E5%90%A8%E5%A4%A7%E9%A9%B1%E9%A9%B6%E8%BF%87%E8%8F%B2%E6%B2%BF%E5%B2%B8%23&t=31&band_rank=11&Refer=top) 331898
 1. [桂林女店员遇难后有居民提醒关闸](https://s.weibo.com/weibo?q=%23%E6%A1%82%E6%9E%97%E5%A5%B3%E5%BA%97%E5%91%98%E9%81%87%E9%9A%BE%E5%90%8E%E6%9C%89%E5%B1%85%E6%B0%91%E6%8F%90%E9%86%92%E5%85%B3%E9%97%B8%23&t=31&band_rank=31&Refer=top) 331806
 1. [黄亦玫生娃摸鼻子是刘亦菲即兴发挥](https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%BA%A6%E7%8E%AB%E7%94%9F%E5%A8%83%E6%91%B8%E9%BC%BB%E5%AD%90%E6%98%AF%E5%88%98%E4%BA%A6%E8%8F%B2%E5%8D%B3%E5%85%B4%E5%8F%91%E6%8C%A5%23&t=31&band_rank=12&Refer=top) 331686
-1. [迪丽热巴张凌赫 艺术生和理工男](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%BC%A0%E5%87%8C%E8%B5%AB%20%E8%89%BA%E6%9C%AF%E7%94%9F%E5%92%8C%E7%90%86%E5%B7%A5%E7%94%B7&t=31&band_rank=41&Refer=top) 317163
 1. [黄亦玫吃菌子了吧](https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%BA%A6%E7%8E%AB%E5%90%83%E8%8F%8C%E5%AD%90%E4%BA%86%E5%90%A7%23&t=31&band_rank=14&Refer=top) 305191
 1. [武汉暴雨](https://s.weibo.com/weibo?q=%E6%AD%A6%E6%B1%89%E6%9A%B4%E9%9B%A8&t=31&band_rank=34&Refer=top) 275423
 1. [北大回应网传复旦打老师男生被录取](https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E5%A4%8D%E6%97%A6%E6%89%93%E8%80%81%E5%B8%88%E7%94%B7%E7%94%9F%E8%A2%AB%E5%BD%95%E5%8F%96%23&t=31&band_rank=9&Refer=top) 265336
@@ -65,6 +65,8 @@
 1. [颜心记 敢耍我](https://s.weibo.com/weibo?q=%E9%A2%9C%E5%BF%83%E8%AE%B0%20%E6%95%A2%E8%80%8D%E6%88%91&t=31&band_rank=47&Refer=top) 88336
 1. [免收学费就业率贼高的神仙专业](https://s.weibo.com/weibo?q=%23%E5%85%8D%E6%94%B6%E5%AD%A6%E8%B4%B9%E5%B0%B1%E4%B8%9A%E7%8E%87%E8%B4%BC%E9%AB%98%E7%9A%84%E7%A5%9E%E4%BB%99%E4%B8%93%E4%B8%9A%23&t=31&band_rank=50&Refer=top) 88297
 1. [西班牙vs意大利](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E7%8F%AD%E7%89%99vs%E6%84%8F%E5%A4%A7%E5%88%A9%23&t=31&band_rank=31&Refer=top) 84696
+1. [酒商称如今一箱赚几块就不错](https://s.weibo.com/weibo?q=%23%E9%85%92%E5%95%86%E7%A7%B0%E5%A6%82%E4%BB%8A%E4%B8%80%E7%AE%B1%E8%B5%9A%E5%87%A0%E5%9D%97%E5%B0%B1%E4%B8%8D%E9%94%99%23&t=31&band_rank=30&Refer=top) 76708
+1. [庄国栋睡了但彭冠英醒了](https://s.weibo.com/weibo?q=%23%E5%BA%84%E5%9B%BD%E6%A0%8B%E7%9D%A1%E4%BA%86%E4%BD%86%E5%BD%AD%E5%86%A0%E8%8B%B1%E9%86%92%E4%BA%86%23&t=31&band_rank=38&Refer=top) 58944
 <!-- END -->
 
 历史归档 [./archives](./archives)
