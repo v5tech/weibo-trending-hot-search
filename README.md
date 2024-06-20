@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-06-21 06:27:45.476645 
-![2024-06-21](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240621/2024-06-21.png?versionId=4_z8fbbed132d73df8689c40f13_f117dd825a2e31aac_d20240620_m222745_c005_v0501020_t0045_u01718922465346) 
+最后更新时间 2024-06-21 06:36:34.949293 
+![2024-06-21](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240621/2024-06-21.png?versionId=4_z8fbbed132d73df8689c40f13_f10007d657513475c_d20240620_m223634_c005_v0501022_t0055_u01718922994902) 
 1. [人最好不要all in做任何事情](https://s.weibo.com/weibo?q=%E4%BA%BA%E6%9C%80%E5%A5%BD%E4%B8%8D%E8%A6%81all%20in%E5%81%9A%E4%BB%BB%E4%BD%95%E4%BA%8B%E6%83%85&t=31&band_rank=1&Refer=top) 1232782
 1. [白晓荷有孩子了](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%99%93%E8%8D%B7%E6%9C%89%E5%AD%A9%E5%AD%90%E4%BA%86%23&t=31&band_rank=2&Refer=top) 945251
 1. [何以中国运载千秋](https://s.weibo.com/weibo?q=%23%E4%BD%95%E4%BB%A5%E4%B8%AD%E5%9B%BD%E8%BF%90%E8%BD%BD%E5%8D%83%E7%A7%8B%23&t=31&band_rank=3&Refer=top) 763508
@@ -66,17 +66,18 @@
 1. [美股三巨头合计市值突破10万亿美元](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E4%B8%89%E5%B7%A8%E5%A4%B4%E5%90%88%E8%AE%A1%E5%B8%82%E5%80%BC%E7%AA%81%E7%A0%B410%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%23&t=31&band_rank=49&Refer=top) 91351
 1. [颜心记 敢耍我](https://s.weibo.com/weibo?q=%E9%A2%9C%E5%BF%83%E8%AE%B0%20%E6%95%A2%E8%80%8D%E6%88%91&t=31&band_rank=47&Refer=top) 88336
 1. [免收学费就业率贼高的神仙专业](https://s.weibo.com/weibo?q=%23%E5%85%8D%E6%94%B6%E5%AD%A6%E8%B4%B9%E5%B0%B1%E4%B8%9A%E7%8E%87%E8%B4%BC%E9%AB%98%E7%9A%84%E7%A5%9E%E4%BB%99%E4%B8%93%E4%B8%9A%23&t=31&band_rank=50&Refer=top) 88297
-1. [西班牙vs意大利](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E7%8F%AD%E7%89%99vs%E6%84%8F%E5%A4%A7%E5%88%A9%23&t=31&band_rank=31&Refer=top) 84696
+1. [西班牙vs意大利](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E7%8F%AD%E7%89%99vs%E6%84%8F%E5%A4%A7%E5%88%A9%23&t=31&band_rank=31&Refer=top) 87440
 1. [庄国栋睡了但彭冠英醒了](https://s.weibo.com/weibo?q=%23%E5%BA%84%E5%9B%BD%E6%A0%8B%E7%9D%A1%E4%BA%86%E4%BD%86%E5%BD%AD%E5%86%A0%E8%8B%B1%E9%86%92%E4%BA%86%23&t=31&band_rank=38&Refer=top) 59748
+1. [人体3处淋巴没事常揉揉](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E4%BD%933%E5%A4%84%E6%B7%8B%E5%B7%B4%E6%B2%A1%E4%BA%8B%E5%B8%B8%E6%8F%89%E6%8F%89%23&t=31&band_rank=47&Refer=top) 57013
 1. [能预知灾难是幸运还是不幸](https://s.weibo.com/weibo?q=%23%E8%83%BD%E9%A2%84%E7%9F%A5%E7%81%BE%E9%9A%BE%E6%98%AF%E5%B9%B8%E8%BF%90%E8%BF%98%E6%98%AF%E4%B8%8D%E5%B9%B8%23&t=31&band_rank=31&Refer=top) 54603
 1. [日向翔阳28岁生日](https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%90%91%E7%BF%94%E9%98%B328%E5%B2%81%E7%94%9F%E6%97%A5%23&t=31&band_rank=22&Refer=top) 52933
-1. [人体3处淋巴没事常揉揉](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E4%BD%933%E5%A4%84%E6%B7%8B%E5%B7%B4%E6%B2%A1%E4%BA%8B%E5%B8%B8%E6%8F%89%E6%8F%89%23&t=31&band_rank=47&Refer=top) 49643
 1. [黄山洪水](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%B1%B1%E6%B4%AA%E6%B0%B4%23&t=31&band_rank=48&Refer=top) 43666
-1. [女子4年间先后查出3种癌](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%904%E5%B9%B4%E9%97%B4%E5%85%88%E5%90%8E%E6%9F%A5%E5%87%BA3%E7%A7%8D%E7%99%8C%23&t=31&band_rank=42&Refer=top) 38294
+1. [女子4年间先后查出3种癌](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%904%E5%B9%B4%E9%97%B4%E5%85%88%E5%90%8E%E6%9F%A5%E5%87%BA3%E7%A7%8D%E7%99%8C%23&t=31&band_rank=42&Refer=top) 41607
+1. [住房条件影响健康](https://s.weibo.com/weibo?q=%23%E4%BD%8F%E6%88%BF%E6%9D%A1%E4%BB%B6%E5%BD%B1%E5%93%8D%E5%81%A5%E5%BA%B7%23&t=31&band_rank=47&Refer=top) 40009
+1. [霍建华曾一个人演一家子](https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%BB%BA%E5%8D%8E%E6%9B%BE%E4%B8%80%E4%B8%AA%E4%BA%BA%E6%BC%94%E4%B8%80%E5%AE%B6%E5%AD%90%23&t=31&band_rank=31&Refer=top) 37867
 1. [薛之谦巡回演唱会官宣北京站](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%B7%A1%E5%9B%9E%E6%BC%94%E5%94%B1%E4%BC%9A%E5%AE%98%E5%AE%A3%E5%8C%97%E4%BA%AC%E7%AB%99%23&t=31&band_rank=45&Refer=top) 36400
-1. [住房条件影响健康](https://s.weibo.com/weibo?q=%23%E4%BD%8F%E6%88%BF%E6%9D%A1%E4%BB%B6%E5%BD%B1%E5%93%8D%E5%81%A5%E5%BA%B7%23&t=31&band_rank=47&Refer=top) 35742
 1. [周雨彤酒杯比脸大](https://s.weibo.com/weibo?q=%23%E5%91%A8%E9%9B%A8%E5%BD%A4%E9%85%92%E6%9D%AF%E6%AF%94%E8%84%B8%E5%A4%A7%23&t=31&band_rank=46&Refer=top) 34233
-1. [苗苗KTV状态演我](https://s.weibo.com/weibo?q=%23%E8%8B%97%E8%8B%97KTV%E7%8A%B6%E6%80%81%E6%BC%94%E6%88%91%23&t=31&band_rank=47&Refer=top) 26198
+1. [苗苗KTV状态演我](https://s.weibo.com/weibo?q=%23%E8%8B%97%E8%8B%97KTV%E7%8A%B6%E6%80%81%E6%BC%94%E6%88%91%23&t=31&band_rank=47&Refer=top) 27237
 1. [吴谨言喊王星越王哥](https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%B0%A8%E8%A8%80%E5%96%8A%E7%8E%8B%E6%98%9F%E8%B6%8A%E7%8E%8B%E5%93%A5%23&t=31&band_rank=49&Refer=top) 22170
 1. [关注广东梅州暴雨抢险救灾进展](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%B3%A8%E5%B9%BF%E4%B8%9C%E6%A2%85%E5%B7%9E%E6%9A%B4%E9%9B%A8%E6%8A%A2%E9%99%A9%E6%95%91%E7%81%BE%E8%BF%9B%E5%B1%95%23&t=31&band_rank=47&Refer=top) 20641
 1. [优秀学长樊振东](https://s.weibo.com/weibo?q=%E4%BC%98%E7%A7%80%E5%AD%A6%E9%95%BF%E6%A8%8A%E6%8C%AF%E4%B8%9C&t=31&band_rank=49&Refer=top) 20641
