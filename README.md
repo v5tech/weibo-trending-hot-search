@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-06-21 02:16:33.216447 
-![2024-06-21](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240621/2024-06-21.png?versionId=4_z8fbbed132d73df8689c40f13_f11251800f3b31645_d20240620_m181633_c005_v0501022_t0015_u01718907393089) 
+最后更新时间 2024-06-21 02:37:48.349053 
+![2024-06-21](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240621/2024-06-21.png?versionId=4_z8fbbed132d73df8689c40f13_f11518a34dc8687f5_d20240620_m183748_c005_v0501022_t0040_u01718908668278) 
 1. [人最好不要all in做任何事情](https://s.weibo.com/weibo?q=%E4%BA%BA%E6%9C%80%E5%A5%BD%E4%B8%8D%E8%A6%81all%20in%E5%81%9A%E4%BB%BB%E4%BD%95%E4%BA%8B%E6%83%85&t=31&band_rank=1&Refer=top) 1232782
 1. [白晓荷有孩子了](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%99%93%E8%8D%B7%E6%9C%89%E5%AD%A9%E5%AD%90%E4%BA%86%23&t=31&band_rank=2&Refer=top) 945251
 1. [何以中国运载千秋](https://s.weibo.com/weibo?q=%23%E4%BD%95%E4%BB%A5%E4%B8%AD%E5%9B%BD%E8%BF%90%E8%BD%BD%E5%8D%83%E7%A7%8B%23&t=31&band_rank=3&Refer=top) 763508
@@ -69,6 +69,7 @@
 1. [西班牙vs意大利](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E7%8F%AD%E7%89%99vs%E6%84%8F%E5%A4%A7%E5%88%A9%23&t=31&band_rank=31&Refer=top) 84696
 1. [庄国栋睡了但彭冠英醒了](https://s.weibo.com/weibo?q=%23%E5%BA%84%E5%9B%BD%E6%A0%8B%E7%9D%A1%E4%BA%86%E4%BD%86%E5%BD%AD%E5%86%A0%E8%8B%B1%E9%86%92%E4%BA%86%23&t=31&band_rank=38&Refer=top) 59748
 1. [能预知灾难是幸运还是不幸](https://s.weibo.com/weibo?q=%23%E8%83%BD%E9%A2%84%E7%9F%A5%E7%81%BE%E9%9A%BE%E6%98%AF%E5%B9%B8%E8%BF%90%E8%BF%98%E6%98%AF%E4%B8%8D%E5%B9%B8%23&t=31&band_rank=31&Refer=top) 54603
+1. [日向翔阳28岁生日](https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%90%91%E7%BF%94%E9%98%B328%E5%B2%81%E7%94%9F%E6%97%A5%23&t=31&band_rank=22&Refer=top) 52933
 1. [黄山洪水](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%B1%B1%E6%B4%AA%E6%B0%B4%23&t=31&band_rank=48&Refer=top) 43666
 1. [薛之谦巡回演唱会官宣北京站](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%B7%A1%E5%9B%9E%E6%BC%94%E5%94%B1%E4%BC%9A%E5%AE%98%E5%AE%A3%E5%8C%97%E4%BA%AC%E7%AB%99%23&t=31&band_rank=45&Refer=top) 36400
 1. [周雨彤酒杯比脸大](https://s.weibo.com/weibo?q=%23%E5%91%A8%E9%9B%A8%E5%BD%A4%E9%85%92%E6%9D%AF%E6%AF%94%E8%84%B8%E5%A4%A7%23&t=31&band_rank=46&Refer=top) 34233
