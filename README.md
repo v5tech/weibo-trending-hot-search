@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-06-22 04:36:27.286161 
-![2024-06-22](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240622/2024-06-22.png?versionId=4_z8fbbed132d73df8689c40f13_f111f383438bec7f1_d20240621_m203626_c005_v0501022_t0014_u01719002186796) 
+最后更新时间 2024-06-22 04:49:16.041799 
+![2024-06-22](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240622/2024-06-22.png?versionId=4_z8fbbed132d73df8689c40f13_f111520423234d45a_d20240621_m204916_c005_v0501020_t0017_u01719002956007) 
 1. [耳帝 歌手最差的一期吧](https://s.weibo.com/weibo?q=%E8%80%B3%E5%B8%9D%20%E6%AD%8C%E6%89%8B%E6%9C%80%E5%B7%AE%E7%9A%84%E4%B8%80%E6%9C%9F%E5%90%A7&t=31&band_rank=1&Refer=top) 1708645
 1. [那英竟然第七](https://s.weibo.com/weibo?q=%E9%82%A3%E8%8B%B1%E7%AB%9F%E7%84%B6%E7%AC%AC%E4%B8%83&t=31&band_rank=2&Refer=top) 1170418
 1. [全天候直播解读2024高考招生](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%A4%A9%E5%80%99%E7%9B%B4%E6%92%AD%E8%A7%A3%E8%AF%BB2024%E9%AB%98%E8%80%83%E6%8B%9B%E7%94%9F%23&t=31&band_rank=3&Refer=top) 1081458
