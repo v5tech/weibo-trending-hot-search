@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-06-22 01:28:47.144881 
-![2024-06-22](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240622/2024-06-22.png?versionId=4_z8fbbed132d73df8689c40f13_f1071f35f907ece1c_d20240621_m172846_c005_v0501021_t0021_u01718990926708) 
+最后更新时间 2024-06-22 01:37:10.889907 
+![2024-06-22](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240622/2024-06-22.png?versionId=4_z8fbbed132d73df8689c40f13_f11930d12ee6c033a_d20240621_m173710_c005_v0501022_t0013_u01718991430481) 
 1. [耳帝 歌手最差的一期吧](https://s.weibo.com/weibo?q=%E8%80%B3%E5%B8%9D%20%E6%AD%8C%E6%89%8B%E6%9C%80%E5%B7%AE%E7%9A%84%E4%B8%80%E6%9C%9F%E5%90%A7&t=31&band_rank=1&Refer=top) 1708645
 1. [那英竟然第七](https://s.weibo.com/weibo?q=%E9%82%A3%E8%8B%B1%E7%AB%9F%E7%84%B6%E7%AC%AC%E4%B8%83&t=31&band_rank=2&Refer=top) 1170418
 1. [全天候直播解读2024高考招生](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%A4%A9%E5%80%99%E7%9B%B4%E6%92%AD%E8%A7%A3%E8%AF%BB2024%E9%AB%98%E8%80%83%E6%8B%9B%E7%94%9F%23&t=31&band_rank=3&Refer=top) 1081458
@@ -63,14 +63,15 @@
 1. [100斤减到120斤的秘诀](https://s.weibo.com/weibo?q=%23100%E6%96%A4%E5%87%8F%E5%88%B0120%E6%96%A4%E7%9A%84%E7%A7%98%E8%AF%80%23&t=31&band_rank=48&Refer=top) 180002
 1. [土耳其女排vs波兰女排](https://s.weibo.com/weibo?q=%23%E5%9C%9F%E8%80%B3%E5%85%B6%E5%A5%B3%E6%8E%92vs%E6%B3%A2%E5%85%B0%E5%A5%B3%E6%8E%92%23&t=31&band_rank=49&Refer=top) 179889
 1. [欧洲杯赛程](https://s.weibo.com/weibo?q=%E6%AC%A7%E6%B4%B2%E6%9D%AF%E8%B5%9B%E7%A8%8B&t=31&band_rank=50&Refer=top) 179867
+1. [女生买2份饭拿6双筷子被怒斥盗窃](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E4%B9%B02%E4%BB%BD%E9%A5%AD%E6%8B%BF6%E5%8F%8C%E7%AD%B7%E5%AD%90%E8%A2%AB%E6%80%92%E6%96%A5%E7%9B%97%E7%AA%83%23&t=31&band_rank=29&Refer=top) 149404
 1. [有本事把那英淘汰了](https://s.weibo.com/weibo?q=%23%E6%9C%89%E6%9C%AC%E4%BA%8B%E6%8A%8A%E9%82%A3%E8%8B%B1%E6%B7%98%E6%B1%B0%E4%BA%86%23&t=31&band_rank=46&Refer=top) 145700
 1. [张信哲夸张远](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BF%A1%E5%93%B2%E5%A4%B8%E5%BC%A0%E8%BF%9C%23&t=31&band_rank=31&Refer=top) 139347
 1. [黄霄雲回应冲榜失败](https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%9C%84%E9%9B%B2%E5%9B%9E%E5%BA%94%E5%86%B2%E6%A6%9C%E5%A4%B1%E8%B4%A5%23&t=31&band_rank=32&Refer=top) 139233
 1. [Manner咖啡后续](https://s.weibo.com/weibo?q=%23Manner%E5%92%96%E5%95%A1%E5%90%8E%E7%BB%AD%23&t=31&band_rank=39&Refer=top) 138791
-1. [女生买2份饭拿6双筷子被怒斥盗窃](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E4%B9%B02%E4%BB%BD%E9%A5%AD%E6%8B%BF6%E5%8F%8C%E7%AD%B7%E5%AD%90%E8%A2%AB%E6%80%92%E6%96%A5%E7%9B%97%E7%AA%83%23&t=31&band_rank=29&Refer=top) 119948
 1. [赵露思瘦了好多](https://s.weibo.com/weibo?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%E7%98%A6%E4%BA%86%E5%A5%BD%E5%A4%9A&t=31&band_rank=44&Refer=top) 102504
 1. [夏至标志着盛夏来临](https://s.weibo.com/weibo?q=%23%E5%A4%8F%E8%87%B3%E6%A0%87%E5%BF%97%E7%9D%80%E7%9B%9B%E5%A4%8F%E6%9D%A5%E4%B8%B4%23&t=31&band_rank=50&Refer=top) 102177
 1. [Manner咖啡将优化门店运营安排](https://s.weibo.com/weibo?q=%23Manner%E5%92%96%E5%95%A1%E5%B0%86%E4%BC%98%E5%8C%96%E9%97%A8%E5%BA%97%E8%BF%90%E8%90%A5%E5%AE%89%E6%8E%92%23&t=31&band_rank=48&Refer=top) 102045
+1. [王者新赛季回忆系统送史诗皮](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E6%96%B0%E8%B5%9B%E5%AD%A3%E5%9B%9E%E5%BF%86%E7%B3%BB%E7%BB%9F%E9%80%81%E5%8F%B2%E8%AF%97%E7%9A%AE%23&t=31&band_rank=50&Refer=top) 89063
 <!-- END -->
 
 历史归档 [./archives](./archives)
