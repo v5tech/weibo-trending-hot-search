@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-06-23 02:30:56.996095 
-![2024-06-23](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240623/2024-06-23.png?versionId=4_z8fbbed132d73df8689c40f13_f113ea24ebd18be0d_d20240622_m183056_c005_v0501022_t0015_u01719081056500) 
+最后更新时间 2024-06-23 02:40:01.436156 
+![2024-06-23](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240623/2024-06-23.png?versionId=4_z8fbbed132d73df8689c40f13_f118ef7feb6fca957_d20240622_m184000_c005_v0501010_t0032_u01719081600896) 
 1. [林俊杰 冻结](https://s.weibo.com/weibo?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%20%E5%86%BB%E7%BB%93&t=31&band_rank=1&Refer=top) 1234172
 1. [月亮](https://s.weibo.com/weibo?q=%E6%9C%88%E4%BA%AE&t=31&band_rank=2&Refer=top) 732708
 1. [何以中国运载千秋](https://s.weibo.com/weibo?q=%23%E4%BD%95%E4%BB%A5%E4%B8%AD%E5%9B%BD%E8%BF%90%E8%BD%BD%E5%8D%83%E7%A7%8B%23&t=31&band_rank=3&Refer=top) 506552
@@ -73,6 +73,7 @@
 1. [法国3支特种部队将参与奥运安保](https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD3%E6%94%AF%E7%89%B9%E7%A7%8D%E9%83%A8%E9%98%9F%E5%B0%86%E5%8F%82%E4%B8%8E%E5%A5%A5%E8%BF%90%E5%AE%89%E4%BF%9D%23&t=31&band_rank=47&Refer=top) 50111
 1. [菲常萧张已he求放过](https://s.weibo.com/weibo?q=%23%E8%8F%B2%E5%B8%B8%E8%90%A7%E5%BC%A0%E5%B7%B2he%E6%B1%82%E6%94%BE%E8%BF%87%23&t=31&band_rank=38&Refer=top) 49592
 1. [这5种病根本无法根治](https://s.weibo.com/weibo?q=%23%E8%BF%995%E7%A7%8D%E7%97%85%E6%A0%B9%E6%9C%AC%E6%97%A0%E6%B3%95%E6%A0%B9%E6%B2%BB%23&t=31&band_rank=50&Refer=top) 49239
+1. [王莺莺长命百岁](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%8E%BA%E8%8E%BA%E9%95%BF%E5%91%BD%E7%99%BE%E5%B2%81%23&t=31&band_rank=45&Refer=top) 41172
 <!-- END -->
 
 历史归档 [./archives](./archives)
