@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-06-24 04:49:30.718787 
-![2024-06-24](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240624/2024-06-24.png?versionId=4_z8fbbed132d73df8689c40f13_f10025d561f54b263_d20240623_m204930_c005_v0501019_t0001_u01719175770130) 
+最后更新时间 2024-06-24 05:10:52.193255 
+![2024-06-24](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240624/2024-06-24.png?versionId=4_z8fbbed132d73df8689c40f13_f118ed92f3edb6b32_d20240623_m211052_c005_v0501020_t0027_u01719177052133) 
 1. [韩国警告俄罗斯](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E8%AD%A6%E5%91%8A%E4%BF%84%E7%BD%97%E6%96%AF%23&t=31&band_rank=1&Refer=top) 869935
 1. [iPhone16全系尺寸曝光](https://s.weibo.com/weibo?q=%23iPhone16%E5%85%A8%E7%B3%BB%E5%B0%BA%E5%AF%B8%E6%9B%9D%E5%85%89%23&t=31&band_rank=2&Refer=top) 726861
 1. [千年运河从历史流向未来](https://s.weibo.com/weibo?q=%23%E5%8D%83%E5%B9%B4%E8%BF%90%E6%B2%B3%E4%BB%8E%E5%8E%86%E5%8F%B2%E6%B5%81%E5%90%91%E6%9C%AA%E6%9D%A5%23&t=31&band_rank=3&Refer=top) 627667
@@ -65,26 +65,28 @@
 1. [说多喝水可能真不是在敷衍你](https://s.weibo.com/weibo?q=%23%E8%AF%B4%E5%A4%9A%E5%96%9D%E6%B0%B4%E5%8F%AF%E8%83%BD%E7%9C%9F%E4%B8%8D%E6%98%AF%E5%9C%A8%E6%95%B7%E8%A1%8D%E4%BD%A0%23&t=31&band_rank=50&Refer=top) 84840
 1. [陈鑫海王星越好会扭](https://s.weibo.com/weibo?q=%23%E9%99%88%E9%91%AB%E6%B5%B7%E7%8E%8B%E6%98%9F%E8%B6%8A%E5%A5%BD%E4%BC%9A%E6%89%AD%23&t=31&band_rank=43&Refer=top) 84326
 1. [EXO感情真好](https://s.weibo.com/weibo?q=EXO%E6%84%9F%E6%83%85%E7%9C%9F%E5%A5%BD&t=31&band_rank=45&Refer=top) 81152
+1. [瑞士vs德国](https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%A3%ABvs%E5%BE%B7%E5%9B%BD%23&t=31&band_rank=50&Refer=top) 79185
 1. [虞书欣给路人拍照片](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%BB%99%E8%B7%AF%E4%BA%BA%E6%8B%8D%E7%85%A7%E7%89%87%23&t=31&band_rank=49&Refer=top) 71655
-1. [瑞士vs德国](https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%A3%ABvs%E5%BE%B7%E5%9B%BD%23&t=31&band_rank=50&Refer=top) 71249
-1. [何以中国运载千秋](https://s.weibo.com/weibo?q=%23%E4%BD%95%E4%BB%A5%E4%B8%AD%E5%9B%BD%E8%BF%90%E8%BD%BD%E5%8D%83%E7%A7%8B%23&t=31&band_rank=3&Refer=top) 59246
+1. [何以中国运载千秋](https://s.weibo.com/weibo?q=%23%E4%BD%95%E4%BB%A5%E4%B8%AD%E5%9B%BD%E8%BF%90%E8%BD%BD%E5%8D%83%E7%A7%8B%23&t=31&band_rank=3&Refer=top) 69662
+1. [于正说以后他所有的剧全部明确HE](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E8%AF%B4%E4%BB%A5%E5%90%8E%E4%BB%96%E6%89%80%E6%9C%89%E7%9A%84%E5%89%A7%E5%85%A8%E9%83%A8%E6%98%8E%E7%A1%AEHE%23&t=31&band_rank=42&Refer=top) 54694
 1. [RNG夏季赛五连败](https://s.weibo.com/weibo?q=%23RNG%E5%A4%8F%E5%AD%A3%E8%B5%9B%E4%BA%94%E8%BF%9E%E8%B4%A5%23&t=31&band_rank=42&Refer=top) 52167
 1. [肖战回国机场穿搭](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%9B%9E%E5%9B%BD%E6%9C%BA%E5%9C%BA%E7%A9%BF%E6%90%AD%23&t=31&band_rank=49&Refer=top) 52008
+1. [苏格兰vs匈牙利](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E6%A0%BC%E5%85%B0vs%E5%8C%88%E7%89%99%E5%88%A9%23&t=31&band_rank=50&Refer=top) 50615
 1. [高考成绩](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9&t=31&band_rank=49&Refer=top) 50575
-1. [苏格兰vs匈牙利](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E6%A0%BC%E5%85%B0vs%E5%8C%88%E7%89%99%E5%88%A9%23&t=31&band_rank=50&Refer=top) 50566
 1. [花莲海域4.9级地震](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%8E%B2%E6%B5%B7%E5%9F%9F4.9%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=50&Refer=top) 42323
-1. [于正说以后他所有的剧全部明确HE](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E8%AF%B4%E4%BB%A5%E5%90%8E%E4%BB%96%E6%89%80%E6%9C%89%E7%9A%84%E5%89%A7%E5%85%A8%E9%83%A8%E6%98%8E%E7%A1%AEHE%23&t=31&band_rank=42&Refer=top) 39629
+1. [陈都灵买过刘诗诗步步惊心周边](https://s.weibo.com/weibo?q=%23%E9%99%88%E9%83%BD%E7%81%B5%E4%B9%B0%E8%BF%87%E5%88%98%E8%AF%97%E8%AF%97%E6%AD%A5%E6%AD%A5%E6%83%8A%E5%BF%83%E5%91%A8%E8%BE%B9%23&t=31&band_rank=49&Refer=top) 38401
 1. [周笔畅唱跳电影组曲](https://s.weibo.com/weibo?q=%23%E5%91%A8%E7%AC%94%E7%95%85%E5%94%B1%E8%B7%B3%E7%94%B5%E5%BD%B1%E7%BB%84%E6%9B%B2%23&t=31&band_rank=49&Refer=top) 33576
 1. [Enhypen MV](https://s.weibo.com/weibo?q=Enhypen%20MV&t=31&band_rank=50&Refer=top) 33563
 1. [我发现射手座很难被PUA](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%8F%91%E7%8E%B0%E5%B0%84%E6%89%8B%E5%BA%A7%E5%BE%88%E9%9A%BE%E8%A2%ABPUA%23&t=31&band_rank=50&Refer=top) 28539
-1. [陈都灵买过刘诗诗步步惊心周边](https://s.weibo.com/weibo?q=%23%E9%99%88%E9%83%BD%E7%81%B5%E4%B9%B0%E8%BF%87%E5%88%98%E8%AF%97%E8%AF%97%E6%AD%A5%E6%AD%A5%E6%83%8A%E5%BF%83%E5%91%A8%E8%BE%B9%23&t=31&band_rank=49&Refer=top) 28368
 1. [夫妻自驾运毒34.8公斤被抓](https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E8%87%AA%E9%A9%BE%E8%BF%90%E6%AF%9234.8%E5%85%AC%E6%96%A4%E8%A2%AB%E6%8A%93%23&t=31&band_rank=43&Refer=top) 26898
 1. [男生查分被屏蔽淡定向家人报喜](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E6%9F%A5%E5%88%86%E8%A2%AB%E5%B1%8F%E8%94%BD%E6%B7%A1%E5%AE%9A%E5%90%91%E5%AE%B6%E4%BA%BA%E6%8A%A5%E5%96%9C%23&t=31&band_rank=32&Refer=top) 21729
+1. [菲律宾蓄意闹海](https://s.weibo.com/weibo?q=%23%E8%8F%B2%E5%BE%8B%E5%AE%BE%E8%93%84%E6%84%8F%E9%97%B9%E6%B5%B7%23&t=31&band_rank=44&Refer=top) 19385
 1. [艾尔登法环](https://s.weibo.com/weibo?q=%23%E8%89%BE%E5%B0%94%E7%99%BB%E6%B3%95%E7%8E%AF%23&t=31&band_rank=46&Refer=top) 18778
 1. [汪苏泷武汉站](https://s.weibo.com/weibo?q=%E6%B1%AA%E8%8B%8F%E6%B3%B7%E6%AD%A6%E6%B1%89%E7%AB%99&t=31&band_rank=48&Refer=top) 18458
 1. [男老师蓄起披肩长发赠化疗女孩](https://s.weibo.com/weibo?q=%23%E7%94%B7%E8%80%81%E5%B8%88%E8%93%84%E8%B5%B7%E6%8A%AB%E8%82%A9%E9%95%BF%E5%8F%91%E8%B5%A0%E5%8C%96%E7%96%97%E5%A5%B3%E5%AD%A9%23&t=31&band_rank=50&Refer=top) 18457
 1. [不翻车的小短甲](https://s.weibo.com/weibo?q=%E4%B8%8D%E7%BF%BB%E8%BD%A6%E7%9A%84%E5%B0%8F%E7%9F%AD%E7%94%B2&t=31&band_rank=49&Refer=top) 15624
-1. [菲律宾蓄意闹海](https://s.weibo.com/weibo?q=%23%E8%8F%B2%E5%BE%8B%E5%AE%BE%E8%93%84%E6%84%8F%E9%97%B9%E6%B5%B7%23&t=31&band_rank=44&Refer=top) 15510
+1. [小锅米线](https://s.weibo.com/weibo?q=%E5%B0%8F%E9%94%85%E7%B1%B3%E7%BA%BF&t=31&band_rank=49&Refer=top) 14907
+1. [高考成绩被屏蔽为什么](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E8%A2%AB%E5%B1%8F%E8%94%BD%E4%B8%BA%E4%BB%80%E4%B9%88%23&t=31&band_rank=50&Refer=top) 14905
 <!-- END -->
 
 历史归档 [./archives](./archives)
