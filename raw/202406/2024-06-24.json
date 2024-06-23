@@ -207,6 +207,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E7%BB%88%E4%BA%8E%E5%94%B1%E5%B7%B4%E8%B5%AB%E6%97%A7%E7%BA%A6%E4%BA%86%23&t=31&band_rank=24&Refer=top",
     "hot": 90144
   },
+  "瑞士vs德国": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%A3%ABvs%E5%BE%B7%E5%9B%BD%23&t=31&band_rank=50&Refer=top",
+    "hot": 87129
+  },
   "日本人冒充中国人在巴基斯坦骗吃骗喝": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%86%92%E5%85%85%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%9C%A8%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E9%AA%97%E5%90%83%E9%AA%97%E5%96%9D%23&t=31&band_rank=49&Refer=top",
     "hot": 87004
@@ -219,17 +223,13 @@
     "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E9%91%AB%E6%B5%B7%E7%8E%8B%E6%98%9F%E8%B6%8A%E5%A5%BD%E4%BC%9A%E6%89%AD%23&t=31&band_rank=43&Refer=top",
     "hot": 84326
   },
-  "瑞士vs德国": {
-    "url": "https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%A3%ABvs%E5%BE%B7%E5%9B%BD%23&t=31&band_rank=50&Refer=top",
-    "hot": 84056
-  },
   "EXO感情真好": {
     "url": "https://s.weibo.com/weibo?q=EXO%E6%84%9F%E6%83%85%E7%9C%9F%E5%A5%BD&t=31&band_rank=45&Refer=top",
     "hot": 81152
   },
   "何以中国运载千秋": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%BD%95%E4%BB%A5%E4%B8%AD%E5%9B%BD%E8%BF%90%E8%BD%BD%E5%8D%83%E7%A7%8B%23&t=31&band_rank=3&Refer=top",
-    "hot": 77007
+    "hot": 81053
   },
   "虞书欣给路人拍照片": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%BB%99%E8%B7%AF%E4%BA%BA%E6%8B%8D%E7%85%A7%E7%89%87%23&t=31&band_rank=49&Refer=top",
@@ -261,7 +261,7 @@
   },
   "陈都灵买过刘诗诗步步惊心周边": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E9%83%BD%E7%81%B5%E4%B9%B0%E8%BF%87%E5%88%98%E8%AF%97%E8%AF%97%E6%AD%A5%E6%AD%A5%E6%83%8A%E5%BF%83%E5%91%A8%E8%BE%B9%23&t=31&band_rank=49&Refer=top",
-    "hot": 38401
+    "hot": 40736
   },
   "周笔畅唱跳电影组曲": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E7%AC%94%E7%95%85%E5%94%B1%E8%B7%B3%E7%94%B5%E5%BD%B1%E7%BB%84%E6%9B%B2%23&t=31&band_rank=49&Refer=top",
@@ -275,17 +275,17 @@
     "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E5%8F%91%E7%8E%B0%E5%B0%84%E6%89%8B%E5%BA%A7%E5%BE%88%E9%9A%BE%E8%A2%ABPUA%23&t=31&band_rank=50&Refer=top",
     "hot": 28539
   },
+  "菲律宾蓄意闹海": {
+    "url": "https://s.weibo.com/weibo?q=%23%E8%8F%B2%E5%BE%8B%E5%AE%BE%E8%93%84%E6%84%8F%E9%97%B9%E6%B5%B7%23&t=31&band_rank=44&Refer=top",
+    "hot": 28278
+  },
   "夫妻自驾运毒34.8公斤被抓": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E8%87%AA%E9%A9%BE%E8%BF%90%E6%AF%9234.8%E5%85%AC%E6%96%A4%E8%A2%AB%E6%8A%93%23&t=31&band_rank=43&Refer=top",
     "hot": 26898
   },
-  "菲律宾蓄意闹海": {
-    "url": "https://s.weibo.com/weibo?q=%23%E8%8F%B2%E5%BE%8B%E5%AE%BE%E8%93%84%E6%84%8F%E9%97%B9%E6%B5%B7%23&t=31&band_rank=44&Refer=top",
-    "hot": 22153
-  },
   "男生查分被屏蔽淡定向家人报喜": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E6%9F%A5%E5%88%86%E8%A2%AB%E5%B1%8F%E8%94%BD%E6%B7%A1%E5%AE%9A%E5%90%91%E5%AE%B6%E4%BA%BA%E6%8A%A5%E5%96%9C%23&t=31&band_rank=32&Refer=top",
-    "hot": 22127
+    "hot": 24092
   },
   "艾尔登法环": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%89%BE%E5%B0%94%E7%99%BB%E6%B3%95%E7%8E%AF%23&t=31&band_rank=46&Refer=top",
@@ -301,18 +301,18 @@
   },
   "小锅米线": {
     "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E9%94%85%E7%B1%B3%E7%BA%BF&t=31&band_rank=49&Refer=top",
-    "hot": 15789
+    "hot": 17043
   },
   "不翻车的小短甲": {
     "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E7%BF%BB%E8%BD%A6%E7%9A%84%E5%B0%8F%E7%9F%AD%E7%94%B2&t=31&band_rank=49&Refer=top",
-    "hot": 15781
-  },
-  "美国vs玻利维亚": {
-    "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BDvs%E7%8E%BB%E5%88%A9%E7%BB%B4%E4%BA%9A%23&t=31&band_rank=45&Refer=top",
-    "hot": 15781
+    "hot": 16680
   },
   "高考成绩被屏蔽为什么": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E8%A2%AB%E5%B1%8F%E8%94%BD%E4%B8%BA%E4%BB%80%E4%B9%88%23&t=31&band_rank=50&Refer=top",
-    "hot": 15764
+    "hot": 16668
+  },
+  "美国vs玻利维亚": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BDvs%E7%8E%BB%E5%88%A9%E7%BB%B4%E4%BA%9A%23&t=31&band_rank=45&Refer=top",
+    "hot": 16652
   }
 }
