@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-06-24 01:34:52.671375 
-![2024-06-24](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240624/2024-06-24.png?versionId=4_z8fbbed132d73df8689c40f13_f1069e77575634c6d_d20240623_m173451_c005_v0501022_t0033_u01719164091961) 
+最后更新时间 2024-06-24 01:49:20.766576 
+![2024-06-24](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240624/2024-06-24.png?versionId=4_z8fbbed132d73df8689c40f13_f118ed92f3ed12e80_d20240623_m174920_c005_v0501020_t0009_u01719164960721) 
 1. [韩国警告俄罗斯](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E8%AD%A6%E5%91%8A%E4%BF%84%E7%BD%97%E6%96%AF%23&t=31&band_rank=1&Refer=top) 869935
 1. [iPhone16全系尺寸曝光](https://s.weibo.com/weibo?q=%23iPhone16%E5%85%A8%E7%B3%BB%E5%B0%BA%E5%AF%B8%E6%9B%9D%E5%85%89%23&t=31&band_rank=2&Refer=top) 726861
 1. [千年运河从历史流向未来](https://s.weibo.com/weibo?q=%23%E5%8D%83%E5%B9%B4%E8%BF%90%E6%B2%B3%E4%BB%8E%E5%8E%86%E5%8F%B2%E6%B5%81%E5%90%91%E6%9C%AA%E6%9D%A5%23&t=31&band_rank=3&Refer=top) 627667
@@ -65,11 +65,12 @@
 1. [陈鑫海王星越好会扭](https://s.weibo.com/weibo?q=%23%E9%99%88%E9%91%AB%E6%B5%B7%E7%8E%8B%E6%98%9F%E8%B6%8A%E5%A5%BD%E4%BC%9A%E6%89%AD%23&t=31&band_rank=43&Refer=top) 84326
 1. [EXO感情真好](https://s.weibo.com/weibo?q=EXO%E6%84%9F%E6%83%85%E7%9C%9F%E5%A5%BD&t=31&band_rank=45&Refer=top) 81152
 1. [虞书欣给路人拍照片](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%BB%99%E8%B7%AF%E4%BA%BA%E6%8B%8D%E7%85%A7%E7%89%87%23&t=31&band_rank=49&Refer=top) 71655
-1. [瑞士vs德国](https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%A3%ABvs%E5%BE%B7%E5%9B%BD%23&t=31&band_rank=50&Refer=top) 63900
+1. [瑞士vs德国](https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%A3%ABvs%E5%BE%B7%E5%9B%BD%23&t=31&band_rank=50&Refer=top) 71249
 1. [RNG夏季赛五连败](https://s.weibo.com/weibo?q=%23RNG%E5%A4%8F%E5%AD%A3%E8%B5%9B%E4%BA%94%E8%BF%9E%E8%B4%A5%23&t=31&band_rank=42&Refer=top) 52167
 1. [肖战回国机场穿搭](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%9B%9E%E5%9B%BD%E6%9C%BA%E5%9C%BA%E7%A9%BF%E6%90%AD%23&t=31&band_rank=49&Refer=top) 52008
 1. [高考成绩](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9&t=31&band_rank=49&Refer=top) 50575
 1. [苏格兰vs匈牙利](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E6%A0%BC%E5%85%B0vs%E5%8C%88%E7%89%99%E5%88%A9%23&t=31&band_rank=50&Refer=top) 50566
+1. [花莲海域4.9级地震](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%8E%B2%E6%B5%B7%E5%9F%9F4.9%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=50&Refer=top) 42323
 <!-- END -->
 
 历史归档 [./archives](./archives)
