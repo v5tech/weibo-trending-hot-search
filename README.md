@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-06-25 00:49:37.487389 
-![2024-06-25](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240625/2024-06-25.png?versionId=4_z8fbbed132d73df8689c40f13_f118b521f3bf6725d_d20240624_m164937_c005_v0501019_t0046_u01719247777369) 
+最后更新时间 2024-06-25 01:11:01.304852 
+![2024-06-25](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240625/2024-06-25.png?versionId=4_z8fbbed132d73df8689c40f13_f1086edb9d4f46a12_d20240624_m171101_c005_v0501022_t0052_u01719249061186) 
 1. [尚雯婕冠军](https://s.weibo.com/weibo?q=%23%E5%B0%9A%E9%9B%AF%E5%A9%95%E5%86%A0%E5%86%9B%23&t=31&band_rank=1&Refer=top) 1156551
 1. [到底啥是city不city啊](https://s.weibo.com/weibo?q=%23%E5%88%B0%E5%BA%95%E5%95%A5%E6%98%AFcity%E4%B8%8Dcity%E5%95%8A%23&t=31&band_rank=2&Refer=top) 760225
 1. [收下这份暴雨天避险自救指南](https://s.weibo.com/weibo?q=%23%E6%94%B6%E4%B8%8B%E8%BF%99%E4%BB%BD%E6%9A%B4%E9%9B%A8%E5%A4%A9%E9%81%BF%E9%99%A9%E8%87%AA%E6%95%91%E6%8C%87%E5%8D%97%23&t=31&band_rank=3&Refer=top) 426549
@@ -42,6 +42,7 @@
 1. [易猝死的人有4个共同点](https://s.weibo.com/weibo?q=%23%E6%98%93%E7%8C%9D%E6%AD%BB%E7%9A%84%E4%BA%BA%E6%9C%894%E4%B8%AA%E5%85%B1%E5%90%8C%E7%82%B9%23&t=31&band_rank=30&Refer=top) 162240
 1. [大碗宽面组团魂4年后居然还在](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%A2%97%E5%AE%BD%E9%9D%A2%E7%BB%84%E5%9B%A2%E9%AD%824%E5%B9%B4%E5%90%8E%E5%B1%85%E7%84%B6%E8%BF%98%E5%9C%A8%23&t=31&band_rank=27&Refer=top) 152449
 1. [陈丽君 投票](https://s.weibo.com/weibo?q=%E9%99%88%E4%B8%BD%E5%90%9B%20%E6%8A%95%E7%A5%A8&t=31&band_rank=31&Refer=top) 150879
+1. [浙大百万网红陈娴已有多家公司](https://s.weibo.com/weibo?q=%23%E6%B5%99%E5%A4%A7%E7%99%BE%E4%B8%87%E7%BD%91%E7%BA%A2%E9%99%88%E5%A8%B4%E5%B7%B2%E6%9C%89%E5%A4%9A%E5%AE%B6%E5%85%AC%E5%8F%B8%23&t=31&band_rank=5&Refer=top) 150304
 1. [外国博主打卡北京带火city不city](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%9B%BD%E5%8D%9A%E4%B8%BB%E6%89%93%E5%8D%A1%E5%8C%97%E4%BA%AC%E5%B8%A6%E7%81%ABcity%E4%B8%8Dcity%23&t=31&band_rank=32&Refer=top) 147681
 1. [终于有了一部全女主的剧](https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E6%9C%89%E4%BA%86%E4%B8%80%E9%83%A8%E5%85%A8%E5%A5%B3%E4%B8%BB%E7%9A%84%E5%89%A7%23&t=31&band_rank=33&Refer=top) 141876
 1. [EXO成员去了张艺兴演唱会](https://s.weibo.com/weibo?q=%23EXO%E6%88%90%E5%91%98%E5%8E%BB%E4%BA%86%E5%BC%A0%E8%89%BA%E5%85%B4%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=34&Refer=top) 140453
@@ -51,6 +52,7 @@
 1. [某韩国男星性侵18岁女学生](https://s.weibo.com/weibo?q=%23%E6%9F%90%E9%9F%A9%E5%9B%BD%E7%94%B7%E6%98%9F%E6%80%A7%E4%BE%B518%E5%B2%81%E5%A5%B3%E5%AD%A6%E7%94%9F%23&t=31&band_rank=37&Refer=top) 136197
 1. [长相思2定档](https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D2%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=38&Refer=top) 129595
 1. [榴莲的叶酸含量是苹果的30倍](https://s.weibo.com/weibo?q=%23%E6%A6%B4%E8%8E%B2%E7%9A%84%E5%8F%B6%E9%85%B8%E5%90%AB%E9%87%8F%E6%98%AF%E8%8B%B9%E6%9E%9C%E7%9A%8430%E5%80%8D%23&t=31&band_rank=39&Refer=top) 126699
+1. [长沙暴雨多地被淹](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B2%99%E6%9A%B4%E9%9B%A8%E5%A4%9A%E5%9C%B0%E8%A2%AB%E6%B7%B9%23&t=31&band_rank=10&Refer=top) 126239
 1. [女性一生中月经的次数变化](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%80%A7%E4%B8%80%E7%94%9F%E4%B8%AD%E6%9C%88%E7%BB%8F%E7%9A%84%E6%AC%A1%E6%95%B0%E5%8F%98%E5%8C%96%23&t=31&band_rank=40&Refer=top) 124338
 1. [何洁听尚雯婕哭了](https://s.weibo.com/weibo?q=%23%E4%BD%95%E6%B4%81%E5%90%AC%E5%B0%9A%E9%9B%AF%E5%A9%95%E5%93%AD%E4%BA%86%23&t=31&band_rank=41&Refer=top) 122897
 1. [大奉打更人](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%A5%89%E6%89%93%E6%9B%B4%E4%BA%BA&t=31&band_rank=42&Refer=top) 114184
@@ -64,6 +66,7 @@
 1. [李晋晔哽咽回应歌手争议](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%99%8B%E6%99%94%E5%93%BD%E5%92%BD%E5%9B%9E%E5%BA%94%E6%AD%8C%E6%89%8B%E4%BA%89%E8%AE%AE%23&t=31&band_rank=48&Refer=top) 93600
 1. [大四女生退学后复读5个月考641分](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%9B%9B%E5%A5%B3%E7%94%9F%E9%80%80%E5%AD%A6%E5%90%8E%E5%A4%8D%E8%AF%BB5%E4%B8%AA%E6%9C%88%E8%80%83641%E5%88%86%23&t=31&band_rank=49&Refer=top) 93564
 1. [中方对波兰公民实施15日单方面免签](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%AF%B9%E6%B3%A2%E5%85%B0%E5%85%AC%E6%B0%91%E5%AE%9E%E6%96%BD15%E6%97%A5%E5%8D%95%E6%96%B9%E9%9D%A2%E5%85%8D%E7%AD%BE%23&t=31&band_rank=50&Refer=top) 93547
+1. [AI陶喆 泪桥](https://s.weibo.com/weibo?q=AI%E9%99%B6%E5%96%86%20%E6%B3%AA%E6%A1%A5&t=31&band_rank=49&Refer=top) 51544
 <!-- END -->
 
 历史归档 [./archives](./archives)
