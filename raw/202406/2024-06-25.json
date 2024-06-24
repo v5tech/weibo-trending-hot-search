@@ -259,8 +259,12 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%BF%AB%E9%80%9F%E5%AF%B9%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%A5%9B%E9%AD%85%E7%9A%84%E6%96%B9%E5%BC%8F%23&t=31&band_rank=50&Refer=top",
     "hot": 36087
   },
+  "欧洲杯": {
+    "url": "https://s.weibo.com/weibo?q=%E6%AC%A7%E6%B4%B2%E6%9D%AF&t=31&band_rank=19&Refer=top",
+    "hot": 29453
+  },
   "我不是小太阳啊": {
     "url": "https://s.weibo.com/weibo?q=%E6%88%91%E4%B8%8D%E6%98%AF%E5%B0%8F%E5%A4%AA%E9%98%B3%E5%95%8A&t=31&band_rank=43&Refer=top",
-    "hot": 22156
+    "hot": 24501
   }
 }
