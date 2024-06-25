@@ -75,6 +75,10 @@
     "url": "https://s.weibo.com/weibo?q=%E5%96%9C%E8%8C%B6%20%E5%B0%8F%E5%A5%B6%E6%A0%80&t=31&band_rank=18&Refer=top",
     "hot": 238132
   },
+  "送给1170万毕业生的纪念歌曲": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%80%81%E7%BB%991170%E4%B8%87%E6%AF%95%E4%B8%9A%E7%94%9F%E7%9A%84%E7%BA%AA%E5%BF%B5%E6%AD%8C%E6%9B%B2%23&t=31&band_rank=26&Refer=top",
+    "hot": 216083
+  },
   "双鱼座讨厌一个人全写在脸上": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%8F%8C%E9%B1%BC%E5%BA%A7%E8%AE%A8%E5%8E%8C%E4%B8%80%E4%B8%AA%E4%BA%BA%E5%85%A8%E5%86%99%E5%9C%A8%E8%84%B8%E4%B8%8A%23&t=31&band_rank=19&Refer=top",
     "hot": 210669
@@ -126,10 +130,6 @@
   "法国vs波兰": {
     "url": "https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BDvs%E6%B3%A2%E5%85%B0&t=31&band_rank=32&Refer=top",
     "hot": 123711
-  },
-  "送给1170万毕业生的纪念歌曲": {
-    "url": "https://s.weibo.com/weibo?q=%23%E9%80%81%E7%BB%991170%E4%B8%87%E6%AF%95%E4%B8%9A%E7%94%9F%E7%9A%84%E7%BA%AA%E5%BF%B5%E6%AD%8C%E6%9B%B2%23&t=31&band_rank=26&Refer=top",
-    "hot": 117060
   },
   "喜茶新品名小奶栀被指擦边": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%96%9C%E8%8C%B6%E6%96%B0%E5%93%81%E5%90%8D%E5%B0%8F%E5%A5%B6%E6%A0%80%E8%A2%AB%E6%8C%87%E6%93%A6%E8%BE%B9%23&t=31&band_rank=31&Refer=top",
@@ -214,5 +214,9 @@
   "迪丽热巴今年第13套高定": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E4%BB%8A%E5%B9%B4%E7%AC%AC13%E5%A5%97%E9%AB%98%E5%AE%9A%23&t=31&band_rank=48&Refer=top",
     "hot": 80979
+  },
+  "WBG更换首发辅助": {
+    "url": "https://s.weibo.com/weibo?q=%23WBG%E6%9B%B4%E6%8D%A2%E9%A6%96%E5%8F%91%E8%BE%85%E5%8A%A9%23&t=31&band_rank=48&Refer=top",
+    "hot": 57742
   }
 }
