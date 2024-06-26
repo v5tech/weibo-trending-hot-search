@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-06-27 01:49:12.722083 
-![2024-06-27](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240627/2024-06-27.png?versionId=4_z8fbbed132d73df8689c40f13_f119f996204e4b6b0_d20240626_m174912_c005_v0501022_t0055_u01719424152649) 
+最后更新时间 2024-06-27 02:15:21.569459 
+![2024-06-27](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240627/2024-06-27.png?versionId=4_z8fbbed132d73df8689c40f13_f114504c799a24414_d20240626_m181521_c005_v0501021_t0038_u01719425721486) 
 1. [法老diss](https://s.weibo.com/weibo?q=%E6%B3%95%E8%80%81diss&t=31&band_rank=1&Refer=top) 1281243
 1. [哪里人不爱出省读大学](https://s.weibo.com/weibo?q=%23%E5%93%AA%E9%87%8C%E4%BA%BA%E4%B8%8D%E7%88%B1%E5%87%BA%E7%9C%81%E8%AF%BB%E5%A4%A7%E5%AD%A6%23&t=31&band_rank=2&Refer=top) 597463
 1. [宇宙快递开箱了](https://s.weibo.com/weibo?q=%23%E5%AE%87%E5%AE%99%E5%BF%AB%E9%80%92%E5%BC%80%E7%AE%B1%E4%BA%86%23&t=31&band_rank=3&Refer=top) 520763
@@ -68,12 +68,14 @@
 1. [辉子第四](https://s.weibo.com/weibo?q=%E8%BE%89%E5%AD%90%E7%AC%AC%E5%9B%9B&t=31&band_rank=44&Refer=top) 69414
 1. [打卡第八届亚欧博览会](https://s.weibo.com/weibo?q=%23%E6%89%93%E5%8D%A1%E7%AC%AC%E5%85%AB%E5%B1%8A%E4%BA%9A%E6%AC%A7%E5%8D%9A%E8%A7%88%E4%BC%9A%23&t=31&band_rank=48&Refer=top) 66491
 1. [新海诚为中国观众手写你的名字](https://s.weibo.com/weibo?q=%23%E6%96%B0%E6%B5%B7%E8%AF%9A%E4%B8%BA%E4%B8%AD%E5%9B%BD%E8%A7%82%E4%BC%97%E6%89%8B%E5%86%99%E4%BD%A0%E7%9A%84%E5%90%8D%E5%AD%97%23&t=31&band_rank=37&Refer=top) 64462
+1. [欧洲杯乌龙球停不下来](https://s.weibo.com/weibo?q=%23%E6%AC%A7%E6%B4%B2%E6%9D%AF%E4%B9%8C%E9%BE%99%E7%90%83%E5%81%9C%E4%B8%8D%E4%B8%8B%E6%9D%A5%23&t=31&band_rank=9&Refer=top) 61047
 1. [Scout3000杀](https://s.weibo.com/weibo?q=%23Scout3000%E6%9D%80%23&t=31&band_rank=49&Refer=top) 60404
 1. [医学生高铁上争分夺秒练缝合](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E5%AD%A6%E7%94%9F%E9%AB%98%E9%93%81%E4%B8%8A%E4%BA%89%E5%88%86%E5%A4%BA%E7%A7%92%E7%BB%83%E7%BC%9D%E5%90%88%23&t=31&band_rank=50&Refer=top) 60391
 1. [第一次看蛋糕这么反胃的](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%9C%8B%E8%9B%8B%E7%B3%95%E8%BF%99%E4%B9%88%E5%8F%8D%E8%83%83%E7%9A%84%23&t=31&band_rank=35&Refer=top) 59588
 1. [乘风Dance直播节目单](https://s.weibo.com/weibo?q=%23%E4%B9%98%E9%A3%8EDance%E7%9B%B4%E6%92%AD%E8%8A%82%E7%9B%AE%E5%8D%95%23&t=31&band_rank=46&Refer=top) 51158
 1. [毕业就是一场巨大的丢money](https://s.weibo.com/weibo?q=%23%E6%AF%95%E4%B8%9A%E5%B0%B1%E6%98%AF%E4%B8%80%E5%9C%BA%E5%B7%A8%E5%A4%A7%E7%9A%84%E4%B8%A2money%23&t=31&band_rank=50&Refer=top) 45723
 1. [魔兽世界怀旧服回归](https://s.weibo.com/weibo?q=%E9%AD%94%E5%85%BD%E4%B8%96%E7%95%8C%E6%80%80%E6%97%A7%E6%9C%8D%E5%9B%9E%E5%BD%92&t=31&band_rank=49&Refer=top) 42282
+1. [真心建议晚上考语文](https://s.weibo.com/weibo?q=%23%E7%9C%9F%E5%BF%83%E5%BB%BA%E8%AE%AE%E6%99%9A%E4%B8%8A%E8%80%83%E8%AF%AD%E6%96%87%23&t=31&band_rank=47&Refer=top) 36056
 <!-- END -->
 
 历史归档 [./archives](./archives)
