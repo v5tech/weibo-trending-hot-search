@@ -7,14 +7,14 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-06-27 01:26:52.697722 
-![2024-06-27](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240627/2024-06-27.png?versionId=4_z8fbbed132d73df8689c40f13_f100deec13404e1cb_d20240626_m172651_c005_v0501019_t0054_u01719422811150) 
+最后更新时间 2024-06-27 01:35:29.482655 
+![2024-06-27](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240627/2024-06-27.png?versionId=4_z8fbbed132d73df8689c40f13_f105d6cfd416ea4b6_d20240626_m173528_c005_v0501020_t0036_u01719423328977) 
 1. [法老diss](https://s.weibo.com/weibo?q=%E6%B3%95%E8%80%81diss&t=31&band_rank=1&Refer=top) 1281243
 1. [哪里人不爱出省读大学](https://s.weibo.com/weibo?q=%23%E5%93%AA%E9%87%8C%E4%BA%BA%E4%B8%8D%E7%88%B1%E5%87%BA%E7%9C%81%E8%AF%BB%E5%A4%A7%E5%AD%A6%23&t=31&band_rank=2&Refer=top) 597463
 1. [宇宙快递开箱了](https://s.weibo.com/weibo?q=%23%E5%AE%87%E5%AE%99%E5%BF%AB%E9%80%92%E5%BC%80%E7%AE%B1%E4%BA%86%23&t=31&band_rank=3&Refer=top) 520763
 1. [李雪琴高考分数](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%9B%AA%E7%90%B4%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%23&t=31&band_rank=4&Refer=top) 496510
 1. [女装退货率高的原因好像找到了](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E8%A3%85%E9%80%80%E8%B4%A7%E7%8E%87%E9%AB%98%E7%9A%84%E5%8E%9F%E5%9B%A0%E5%A5%BD%E5%83%8F%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=5&Refer=top) 453719
-1. [温州女生高考726分称自己不是天赋型](https://s.weibo.com/weibo?q=%23%E6%B8%A9%E5%B7%9E%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83726%E5%88%86%E7%A7%B0%E8%87%AA%E5%B7%B1%E4%B8%8D%E6%98%AF%E5%A4%A9%E8%B5%8B%E5%9E%8B%23&t=31&band_rank=10&Refer=top) 281329
+1. [温州女生高考726分称自己不是天赋型](https://s.weibo.com/weibo?q=%23%E6%B8%A9%E5%B7%9E%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83726%E5%88%86%E7%A7%B0%E8%87%AA%E5%B7%B1%E4%B8%8D%E6%98%AF%E5%A4%A9%E8%B5%8B%E5%9E%8B%23&t=31&band_rank=10&Refer=top) 315341
 1. [女儿不想结婚爸爸舌战亲戚](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E4%B8%8D%E6%83%B3%E7%BB%93%E5%A9%9A%E7%88%B8%E7%88%B8%E8%88%8C%E6%88%98%E4%BA%B2%E6%88%9A%23&t=31&band_rank=6&Refer=top) 277604
 1. [做票](https://s.weibo.com/weibo?q=%E5%81%9A%E7%A5%A8&t=31&band_rank=7&Refer=top) 276530
 1. [毒贩在禁毒视频下打广告被抓](https://s.weibo.com/weibo?q=%23%E6%AF%92%E8%B4%A9%E5%9C%A8%E7%A6%81%E6%AF%92%E8%A7%86%E9%A2%91%E4%B8%8B%E6%89%93%E5%B9%BF%E5%91%8A%E8%A2%AB%E6%8A%93%23&t=31&band_rank=8&Refer=top) 274372
@@ -26,6 +26,7 @@
 1. [父亲上网刷视频得知女儿被霸凌](https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E4%B8%8A%E7%BD%91%E5%88%B7%E8%A7%86%E9%A2%91%E5%BE%97%E7%9F%A5%E5%A5%B3%E5%84%BF%E8%A2%AB%E9%9C%B8%E5%87%8C%23&t=31&band_rank=15&Refer=top) 272474
 1. [秃子](https://s.weibo.com/weibo?q=%E7%A7%83%E5%AD%90&t=31&band_rank=16&Refer=top) 262782
 1. [城管局回应环卫工坐下休息被领导骂哭](https://s.weibo.com/weibo?q=%23%E5%9F%8E%E7%AE%A1%E5%B1%80%E5%9B%9E%E5%BA%94%E7%8E%AF%E5%8D%AB%E5%B7%A5%E5%9D%90%E4%B8%8B%E4%BC%91%E6%81%AF%E8%A2%AB%E9%A2%86%E5%AF%BC%E9%AA%82%E5%93%AD%23&t=31&band_rank=17&Refer=top) 243410
+1. [高校毕业季就是最好的招生简章](https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E6%AF%95%E4%B8%9A%E5%AD%A3%E5%B0%B1%E6%98%AF%E6%9C%80%E5%A5%BD%E7%9A%84%E6%8B%9B%E7%94%9F%E7%AE%80%E7%AB%A0%23&t=31&band_rank=3&Refer=top) 235226
 1. [男子高考失利离家出走8年](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%AB%98%E8%80%83%E5%A4%B1%E5%88%A9%E7%A6%BB%E5%AE%B6%E5%87%BA%E8%B5%B08%E5%B9%B4%23&t=31&band_rank=18&Refer=top) 193556
 1. [北京100万房贷30年少还11.25万元](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC100%E4%B8%87%E6%88%BF%E8%B4%B730%E5%B9%B4%E5%B0%91%E8%BF%9811.25%E4%B8%87%E5%85%83%23&t=31&band_rank=19&Refer=top) 164302
 1. [中国象棋第一人王天一被调查](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%B1%A1%E6%A3%8B%E7%AC%AC%E4%B8%80%E4%BA%BA%E7%8E%8B%E5%A4%A9%E4%B8%80%E8%A2%AB%E8%B0%83%E6%9F%A5%23&t=31&band_rank=20&Refer=top) 157105
@@ -70,6 +71,8 @@
 1. [医学生高铁上争分夺秒练缝合](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E5%AD%A6%E7%94%9F%E9%AB%98%E9%93%81%E4%B8%8A%E4%BA%89%E5%88%86%E5%A4%BA%E7%A7%92%E7%BB%83%E7%BC%9D%E5%90%88%23&t=31&band_rank=50&Refer=top) 60391
 1. [第一次看蛋糕这么反胃的](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%9C%8B%E8%9B%8B%E7%B3%95%E8%BF%99%E4%B9%88%E5%8F%8D%E8%83%83%E7%9A%84%23&t=31&band_rank=35&Refer=top) 59588
 1. [乘风Dance直播节目单](https://s.weibo.com/weibo?q=%23%E4%B9%98%E9%A3%8EDance%E7%9B%B4%E6%92%AD%E8%8A%82%E7%9B%AE%E5%8D%95%23&t=31&band_rank=46&Refer=top) 51158
+1. [魔兽世界怀旧服回归](https://s.weibo.com/weibo?q=%E9%AD%94%E5%85%BD%E4%B8%96%E7%95%8C%E6%80%80%E6%97%A7%E6%9C%8D%E5%9B%9E%E5%BD%92&t=31&band_rank=49&Refer=top) 42282
+1. [毕业就是一场巨大的丢money](https://s.weibo.com/weibo?q=%23%E6%AF%95%E4%B8%9A%E5%B0%B1%E6%98%AF%E4%B8%80%E5%9C%BA%E5%B7%A8%E5%A4%A7%E7%9A%84%E4%B8%A2money%23&t=31&band_rank=50&Refer=top) 42276
 <!-- END -->
 
 历史归档 [./archives](./archives)
