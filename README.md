@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-06-27 04:29:15.775185 
-![2024-06-27](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240627/2024-06-27.png?versionId=4_z8fbbed132d73df8689c40f13_f10377d3b90150c95_d20240626_m202915_c005_v0501007_t0007_u01719433755195) 
+最后更新时间 2024-06-27 04:38:16.203122 
+![2024-06-27](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240627/2024-06-27.png?versionId=4_z8fbbed132d73df8689c40f13_f1037639e133c6266_d20240626_m203815_c005_v0501014_t0046_u01719434295382) 
 1. [法老diss](https://s.weibo.com/weibo?q=%E6%B3%95%E8%80%81diss&t=31&band_rank=1&Refer=top) 1281243
 1. [哪里人不爱出省读大学](https://s.weibo.com/weibo?q=%23%E5%93%AA%E9%87%8C%E4%BA%BA%E4%B8%8D%E7%88%B1%E5%87%BA%E7%9C%81%E8%AF%BB%E5%A4%A7%E5%AD%A6%23&t=31&band_rank=2&Refer=top) 597463
 1. [宇宙快递开箱了](https://s.weibo.com/weibo?q=%23%E5%AE%87%E5%AE%99%E5%BF%AB%E9%80%92%E5%BC%80%E7%AE%B1%E4%BA%86%23&t=31&band_rank=3&Refer=top) 520763
@@ -76,12 +76,12 @@
 1. [乘风Dance直播节目单](https://s.weibo.com/weibo?q=%23%E4%B9%98%E9%A3%8EDance%E7%9B%B4%E6%92%AD%E8%8A%82%E7%9B%AE%E5%8D%95%23&t=31&band_rank=46&Refer=top) 51158
 1. [毕业就是一场巨大的丢money](https://s.weibo.com/weibo?q=%23%E6%AF%95%E4%B8%9A%E5%B0%B1%E6%98%AF%E4%B8%80%E5%9C%BA%E5%B7%A8%E5%A4%A7%E7%9A%84%E4%B8%A2money%23&t=31&band_rank=50&Refer=top) 45723
 1. [魔兽世界怀旧服回归](https://s.weibo.com/weibo?q=%E9%AD%94%E5%85%BD%E4%B8%96%E7%95%8C%E6%80%80%E6%97%A7%E6%9C%8D%E5%9B%9E%E5%BD%92&t=31&band_rank=49&Refer=top) 42282
+1. [具荷拉保险柜嫌犯去除反光后的照片](https://s.weibo.com/weibo?q=%23%E5%85%B7%E8%8D%B7%E6%8B%89%E4%BF%9D%E9%99%A9%E6%9F%9C%E5%AB%8C%E7%8A%AF%E5%8E%BB%E9%99%A4%E5%8F%8D%E5%85%89%E5%90%8E%E7%9A%84%E7%85%A7%E7%89%87%23&t=31&band_rank=39&Refer=top) 36697
 1. [真心建议晚上考语文](https://s.weibo.com/weibo?q=%23%E7%9C%9F%E5%BF%83%E5%BB%BA%E8%AE%AE%E6%99%9A%E4%B8%8A%E8%80%83%E8%AF%AD%E6%96%87%23&t=31&band_rank=47&Refer=top) 36056
 1. [王星越落地的动作真的很小学生](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%98%9F%E8%B6%8A%E8%90%BD%E5%9C%B0%E7%9A%84%E5%8A%A8%E4%BD%9C%E7%9C%9F%E7%9A%84%E5%BE%88%E5%B0%8F%E5%AD%A6%E7%94%9F%23&t=31&band_rank=50&Refer=top) 29354
-1. [具荷拉保险柜嫌犯去除反光后的照片](https://s.weibo.com/weibo?q=%23%E5%85%B7%E8%8D%B7%E6%8B%89%E4%BF%9D%E9%99%A9%E6%9F%9C%E5%AB%8C%E7%8A%AF%E5%8E%BB%E9%99%A4%E5%8F%8D%E5%85%89%E5%90%8E%E7%9A%84%E7%85%A7%E7%89%87%23&t=31&band_rank=39&Refer=top) 28931
 1. [巴黎世家大秀](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E%E4%B8%96%E5%AE%B6%E5%A4%A7%E7%A7%80%23&t=31&band_rank=33&Refer=top) 26936
+1. [查完分出门被爸爸误以为想不开](https://s.weibo.com/weibo?q=%E6%9F%A5%E5%AE%8C%E5%88%86%E5%87%BA%E9%97%A8%E8%A2%AB%E7%88%B8%E7%88%B8%E8%AF%AF%E4%BB%A5%E4%B8%BA%E6%83%B3%E4%B8%8D%E5%BC%80&t=31&band_rank=45&Refer=top) 26696
 1. [闪光的夏天阵容官宣](https://s.weibo.com/weibo?q=%23%E9%97%AA%E5%85%89%E7%9A%84%E5%A4%8F%E5%A4%A9%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3%23&t=31&band_rank=49&Refer=top) 26514
-1. [查完分出门被爸爸误以为想不开](https://s.weibo.com/weibo?q=%E6%9F%A5%E5%AE%8C%E5%88%86%E5%87%BA%E9%97%A8%E8%A2%AB%E7%88%B8%E7%88%B8%E8%AF%AF%E4%BB%A5%E4%B8%BA%E6%83%B3%E4%B8%8D%E5%BC%80&t=31&band_rank=45&Refer=top) 22850
 <!-- END -->
 
 历史归档 [./archives](./archives)
