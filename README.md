@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-06-27 00:33:28.764498 
-![2024-06-27](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240627/2024-06-27.png?versionId=4_z8fbbed132d73df8689c40f13_f1007db674fe4a058_d20240626_m163328_c005_v0501003_t0049_u01719419608157) 
+最后更新时间 2024-06-27 00:49:25.025196 
+![2024-06-27](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240627/2024-06-27.png?versionId=4_z8fbbed132d73df8689c40f13_f115e7457e6d87b38_d20240626_m164924_c005_v0501018_t0032_u01719420564473) 
 1. [法老diss](https://s.weibo.com/weibo?q=%E6%B3%95%E8%80%81diss&t=31&band_rank=1&Refer=top) 1281243
 1. [哪里人不爱出省读大学](https://s.weibo.com/weibo?q=%23%E5%93%AA%E9%87%8C%E4%BA%BA%E4%B8%8D%E7%88%B1%E5%87%BA%E7%9C%81%E8%AF%BB%E5%A4%A7%E5%AD%A6%23&t=31&band_rank=2&Refer=top) 597463
 1. [宇宙快递开箱了](https://s.weibo.com/weibo?q=%23%E5%AE%87%E5%AE%99%E5%BF%AB%E9%80%92%E5%BC%80%E7%AE%B1%E4%BA%86%23&t=31&band_rank=3&Refer=top) 520763
@@ -39,6 +39,7 @@
 1. [陈昊宇郑妮可万妮达袁娅维狂野舞台](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%98%8A%E5%AE%87%E9%83%91%E5%A6%AE%E5%8F%AF%E4%B8%87%E5%A6%AE%E8%BE%BE%E8%A2%81%E5%A8%85%E7%BB%B4%E7%8B%82%E9%87%8E%E8%88%9E%E5%8F%B0%23&t=31&band_rank=28&Refer=top) 147096
 1. [为什么不建议盲目当老师](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E5%BB%BA%E8%AE%AE%E7%9B%B2%E7%9B%AE%E5%BD%93%E8%80%81%E5%B8%88%23&t=31&band_rank=29&Refer=top) 146797
 1. [何洁尚雯婕合唱想唱就唱](https://s.weibo.com/weibo?q=%23%E4%BD%95%E6%B4%81%E5%B0%9A%E9%9B%AF%E5%A9%95%E5%90%88%E5%94%B1%E6%83%B3%E5%94%B1%E5%B0%B1%E5%94%B1%23&t=31&band_rank=30&Refer=top) 143777
+1. [像你这样的朋友毕业合唱版](https://s.weibo.com/weibo?q=%23%E5%83%8F%E4%BD%A0%E8%BF%99%E6%A0%B7%E7%9A%84%E6%9C%8B%E5%8F%8B%E6%AF%95%E4%B8%9A%E5%90%88%E5%94%B1%E7%89%88%23&t=31&band_rank=10&Refer=top) 139965
 1. [海棠延期](https://s.weibo.com/weibo?q=%E6%B5%B7%E6%A3%A0%E5%BB%B6%E6%9C%9F&t=31&band_rank=31&Refer=top) 138848
 1. [张凌赫赵今麦cp感](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E8%B5%B5%E4%BB%8A%E9%BA%A6cp%E6%84%9F&t=31&band_rank=32&Refer=top) 130824
 1. [度华年开播热度](https://s.weibo.com/weibo?q=%23%E5%BA%A6%E5%8D%8E%E5%B9%B4%E5%BC%80%E6%92%AD%E7%83%AD%E5%BA%A6%23&t=31&band_rank=36&Refer=top) 119045
@@ -59,6 +60,11 @@
 1. [刘忻团票数](https://s.weibo.com/weibo?q=%E5%88%98%E5%BF%BB%E5%9B%A2%E7%A5%A8%E6%95%B0&t=31&band_rank=48&Refer=top) 83800
 1. [白玉兰](https://s.weibo.com/weibo?q=%E7%99%BD%E7%8E%89%E5%85%B0&t=31&band_rank=49&Refer=top) 83796
 1. [四胞胎](https://s.weibo.com/weibo?q=%E5%9B%9B%E8%83%9E%E8%83%8E&t=31&band_rank=50&Refer=top) 83788
+1. [男子每晚徒步发传单寻狗1个月瘦8斤](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%AF%8F%E6%99%9A%E5%BE%92%E6%AD%A5%E5%8F%91%E4%BC%A0%E5%8D%95%E5%AF%BB%E7%8B%971%E4%B8%AA%E6%9C%88%E7%98%A68%E6%96%A4%23&t=31&band_rank=38&Refer=top) 71073
+1. [斯洛伐克vs罗马尼亚](https://s.weibo.com/weibo?q=%23%E6%96%AF%E6%B4%9B%E4%BC%90%E5%85%8Bvs%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A%23&t=31&band_rank=39&Refer=top) 70542
+1. [辉子第四](https://s.weibo.com/weibo?q=%E8%BE%89%E5%AD%90%E7%AC%AC%E5%9B%9B&t=31&band_rank=44&Refer=top) 66550
+1. [蔡文静说近半年不想再拍综艺了](https://s.weibo.com/weibo?q=%23%E8%94%A1%E6%96%87%E9%9D%99%E8%AF%B4%E8%BF%91%E5%8D%8A%E5%B9%B4%E4%B8%8D%E6%83%B3%E5%86%8D%E6%8B%8D%E7%BB%BC%E8%89%BA%E4%BA%86%23&t=31&band_rank=47&Refer=top) 66506
+1. [打卡第八届亚欧博览会](https://s.weibo.com/weibo?q=%23%E6%89%93%E5%8D%A1%E7%AC%AC%E5%85%AB%E5%B1%8A%E4%BA%9A%E6%AC%A7%E5%8D%9A%E8%A7%88%E4%BC%9A%23&t=31&band_rank=48&Refer=top) 66491
 1. [Scout3000杀](https://s.weibo.com/weibo?q=%23Scout3000%E6%9D%80%23&t=31&band_rank=49&Refer=top) 60404
 1. [医学生高铁上争分夺秒练缝合](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E5%AD%A6%E7%94%9F%E9%AB%98%E9%93%81%E4%B8%8A%E4%BA%89%E5%88%86%E5%A4%BA%E7%A7%92%E7%BB%83%E7%BC%9D%E5%90%88%23&t=31&band_rank=50&Refer=top) 60391
 <!-- END -->
