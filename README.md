@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-06-27 03:09:37.676020 
-![2024-06-27](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240627/2024-06-27.png?versionId=4_z8fbbed132d73df8689c40f13_f112528875546a1ac_d20240626_m190932_c005_v0501019_t0055_u01719428972723) 
+最后更新时间 2024-06-27 03:21:13.013716 
+![2024-06-27](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240627/2024-06-27.png?versionId=4_z8fbbed132d73df8689c40f13_f106f33e040868029_d20240626_m192112_c005_v0501012_t0014_u01719429672948) 
 1. [法老diss](https://s.weibo.com/weibo?q=%E6%B3%95%E8%80%81diss&t=31&band_rank=1&Refer=top) 1281243
 1. [哪里人不爱出省读大学](https://s.weibo.com/weibo?q=%23%E5%93%AA%E9%87%8C%E4%BA%BA%E4%B8%8D%E7%88%B1%E5%87%BA%E7%9C%81%E8%AF%BB%E5%A4%A7%E5%AD%A6%23&t=31&band_rank=2&Refer=top) 597463
 1. [宇宙快递开箱了](https://s.weibo.com/weibo?q=%23%E5%AE%87%E5%AE%99%E5%BF%AB%E9%80%92%E5%BC%80%E7%AE%B1%E4%BA%86%23&t=31&band_rank=3&Refer=top) 520763
