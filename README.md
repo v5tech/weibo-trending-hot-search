@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-06-28 03:49:19.092862 
-![2024-06-28](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240628/2024-06-28.png?versionId=4_z8fbbed132d73df8689c40f13_f119f996205722e48_d20240627_m194918_c005_v0501022_t0005_u01719517758691) 
+最后更新时间 2024-06-28 04:12:27.094004 
+![2024-06-28](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240628/2024-06-28.png?versionId=4_z8fbbed132d73df8689c40f13_f11940916d854961e_d20240627_m201227_c005_v0501018_t0058_u01719519147057) 
 1. [黄子韬谈经纪人被抓](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E8%B0%88%E7%BB%8F%E7%BA%AA%E4%BA%BA%E8%A2%AB%E6%8A%93%23&t=31&band_rank=1&Refer=top) 1162297
 1. [Asen新专辑](https://s.weibo.com/weibo?q=Asen%E6%96%B0%E4%B8%93%E8%BE%91&t=31&band_rank=13&Refer=top) 1162229
 1. [长期轻断食对身体有什么影响](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E8%BD%BB%E6%96%AD%E9%A3%9F%E5%AF%B9%E8%BA%AB%E4%BD%93%E6%9C%89%E4%BB%80%E4%B9%88%E5%BD%B1%E5%93%8D%23&t=31&band_rank=2&Refer=top) 651947
@@ -74,6 +74,7 @@
 1. [mercy 抽象](https://s.weibo.com/weibo?q=mercy%20%E6%8A%BD%E8%B1%A1&t=31&band_rank=37&Refer=top) 59322
 1. [7折保时捷5折BBA](https://s.weibo.com/weibo?q=%237%E6%8A%98%E4%BF%9D%E6%97%B6%E6%8D%B75%E6%8A%98BBA%23&t=31&band_rank=48&Refer=top) 59303
 1. [颜心记](https://s.weibo.com/weibo?q=%E9%A2%9C%E5%BF%83%E8%AE%B0&t=31&band_rank=50&Refer=top) 52204
+1. [拼团买猫粮还没收到平台已确认收货](https://s.weibo.com/weibo?q=%23%E6%8B%BC%E5%9B%A2%E4%B9%B0%E7%8C%AB%E7%B2%AE%E8%BF%98%E6%B2%A1%E6%94%B6%E5%88%B0%E5%B9%B3%E5%8F%B0%E5%B7%B2%E7%A1%AE%E8%AE%A4%E6%94%B6%E8%B4%A7%23&t=31&band_rank=50&Refer=top) 15805
 <!-- END -->
 
 历史归档 [./archives](./archives)
