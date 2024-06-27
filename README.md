@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-06-28 03:22:10.013801 
-![2024-06-28](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240628/2024-06-28.png?versionId=4_z8fbbed132d73df8689c40f13_f1106bc14927e6809_d20240627_m192209_c005_v0501022_t0059_u01719516129530) 
+最后更新时间 2024-06-28 03:36:49.247369 
+![2024-06-28](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240628/2024-06-28.png?versionId=4_z8fbbed132d73df8689c40f13_f109f5ed08abd82d9_d20240627_m193648_c005_v0521006_t0052_u01719517008040) 
 1. [黄子韬谈经纪人被抓](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E8%B0%88%E7%BB%8F%E7%BA%AA%E4%BA%BA%E8%A2%AB%E6%8A%93%23&t=31&band_rank=1&Refer=top) 1162297
 1. [Asen新专辑](https://s.weibo.com/weibo?q=Asen%E6%96%B0%E4%B8%93%E8%BE%91&t=31&band_rank=13&Refer=top) 1162229
 1. [长期轻断食对身体有什么影响](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E8%BD%BB%E6%96%AD%E9%A3%9F%E5%AF%B9%E8%BA%AB%E4%BD%93%E6%9C%89%E4%BB%80%E4%B9%88%E5%BD%B1%E5%93%8D%23&t=31&band_rank=2&Refer=top) 651947
