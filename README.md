@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-06-28 02:49:31.123058 
-![2024-06-28](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240628/2024-06-28.png?versionId=4_z8fbbed132d73df8689c40f13_f1127807f6ee66c37_d20240627_m184930_c005_v0501022_t0049_u01719514170663) 
+最后更新时间 2024-06-28 03:10:49.353918 
+![2024-06-28](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240628/2024-06-28.png?versionId=4_z8fbbed132d73df8689c40f13_f101b8cede972bf1c_d20240627_m191049_c005_v0501022_t0016_u01719515449186) 
 1. [黄子韬谈经纪人被抓](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E8%B0%88%E7%BB%8F%E7%BA%AA%E4%BA%BA%E8%A2%AB%E6%8A%93%23&t=31&band_rank=1&Refer=top) 1162297
 1. [Asen新专辑](https://s.weibo.com/weibo?q=Asen%E6%96%B0%E4%B8%93%E8%BE%91&t=31&band_rank=13&Refer=top) 1162229
 1. [长期轻断食对身体有什么影响](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E8%BD%BB%E6%96%AD%E9%A3%9F%E5%AF%B9%E8%BA%AB%E4%BD%93%E6%9C%89%E4%BB%80%E4%B9%88%E5%BD%B1%E5%93%8D%23&t=31&band_rank=2&Refer=top) 651947
@@ -73,7 +73,7 @@
 1. [于正说王楚然是上戏表演系本科](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E8%AF%B4%E7%8E%8B%E6%A5%9A%E7%84%B6%E6%98%AF%E4%B8%8A%E6%88%8F%E8%A1%A8%E6%BC%94%E7%B3%BB%E6%9C%AC%E7%A7%91%23&t=31&band_rank=24&Refer=top) 61811
 1. [mercy 抽象](https://s.weibo.com/weibo?q=mercy%20%E6%8A%BD%E8%B1%A1&t=31&band_rank=37&Refer=top) 59322
 1. [7折保时捷5折BBA](https://s.weibo.com/weibo?q=%237%E6%8A%98%E4%BF%9D%E6%97%B6%E6%8D%B75%E6%8A%98BBA%23&t=31&band_rank=48&Refer=top) 59303
-1. [颜心记](https://s.weibo.com/weibo?q=%E9%A2%9C%E5%BF%83%E8%AE%B0&t=31&band_rank=50&Refer=top) 42198
+1. [颜心记](https://s.weibo.com/weibo?q=%E9%A2%9C%E5%BF%83%E8%AE%B0&t=31&band_rank=50&Refer=top) 52204
 <!-- END -->
 
 历史归档 [./archives](./archives)
