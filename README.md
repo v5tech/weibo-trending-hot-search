@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-06-30 02:14:20.227996 
-![2024-06-30](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240630/2024-06-30.png?versionId=4_z8fbbed132d73df8689c40f13_f10966514b9229d96_d20240629_m181420_c005_v0501020_t0048_u01719684860200) 
+最后更新时间 2024-06-30 02:30:46.953175 
+![2024-06-30](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240630/2024-06-30.png?versionId=4_z8fbbed132d73df8689c40f13_f114167aa1bd65078_d20240629_m183046_c005_v0501003_t0049_u01719685846546) 
 1. [于正的聊天记录](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E7%9A%84%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%23&t=31&band_rank=1&Refer=top) 1062248
 1. [江浙沪朋友们最近出门的样子](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E6%B5%99%E6%B2%AA%E6%9C%8B%E5%8F%8B%E4%BB%AC%E6%9C%80%E8%BF%91%E5%87%BA%E9%97%A8%E7%9A%84%E6%A0%B7%E5%AD%90%23&t=31&band_rank=2&Refer=top) 789065
 1. [穿越千年看大运河秀美画卷](https://s.weibo.com/weibo?q=%23%E7%A9%BF%E8%B6%8A%E5%8D%83%E5%B9%B4%E7%9C%8B%E5%A4%A7%E8%BF%90%E6%B2%B3%E7%A7%80%E7%BE%8E%E7%94%BB%E5%8D%B7%23&t=31&band_rank=3&Refer=top) 777931
@@ -68,6 +68,7 @@
 1. [谢霆锋回应保险公司不敢给他投保](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E9%9C%86%E9%94%8B%E5%9B%9E%E5%BA%94%E4%BF%9D%E9%99%A9%E5%85%AC%E5%8F%B8%E4%B8%8D%E6%95%A2%E7%BB%99%E4%BB%96%E6%8A%95%E4%BF%9D%23&t=31&band_rank=45&Refer=top) 89069
 1. [德国vs丹麦](https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%9B%BDvs%E4%B8%B9%E9%BA%A6%23&t=31&band_rank=50&Refer=top) 89024
 1. [武磊今晚天神下凡](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E7%A3%8A%E4%BB%8A%E6%99%9A%E5%A4%A9%E7%A5%9E%E4%B8%8B%E5%87%A1%23&t=31&band_rank=49&Refer=top) 48466
+1. [许嵩演唱会青岛站](https://s.weibo.com/weibo?q=%E8%AE%B8%E5%B5%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E9%9D%92%E5%B2%9B%E7%AB%99&t=31&band_rank=46&Refer=top) 44580
 <!-- END -->
 
 历史归档 [./archives](./archives)
