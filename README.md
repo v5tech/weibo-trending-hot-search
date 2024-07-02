@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-07-03 04:49:17.916670 
-![2024-07-03](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240703/2024-07-03.png?versionId=4_z8fbbed132d73df8689c40f13_f1120710ec696784f_d20240702_m204917_c005_v0501021_t0031_u01719953357870) 
+最后更新时间 2024-07-03 05:11:40.648734 
+![2024-07-03](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240703/2024-07-03.png?versionId=4_z8fbbed132d73df8689c40f13_f111b4aa960d57eea_d20240702_m211140_c005_v0501020_t0021_u01719954700170) 
 1. [男孩举报百万粉丝博主剽窃视频卖课](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E4%B8%BE%E6%8A%A5%E7%99%BE%E4%B8%87%E7%B2%89%E4%B8%9D%E5%8D%9A%E4%B8%BB%E5%89%BD%E7%AA%83%E8%A7%86%E9%A2%91%E5%8D%96%E8%AF%BE%23&t=31&band_rank=1&Refer=top) 731172
 1. [野孩子](https://s.weibo.com/weibo?q=%E9%87%8E%E5%AD%A9%E5%AD%90&t=31&band_rank=23&Refer=top) 564126
 1. [爸爸把女儿第一次上学拍成了纪录片](https://s.weibo.com/weibo?q=%E7%88%B8%E7%88%B8%E6%8A%8A%E5%A5%B3%E5%84%BF%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%B8%8A%E5%AD%A6%E6%8B%8D%E6%88%90%E4%BA%86%E7%BA%AA%E5%BD%95%E7%89%87&t=31&band_rank=2&Refer=top) 551970
@@ -42,10 +42,10 @@
 1. [全班都能上985老师们嘴角压不住了](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%8F%AD%E9%83%BD%E8%83%BD%E4%B8%8A985%E8%80%81%E5%B8%88%E4%BB%AC%E5%98%B4%E8%A7%92%E5%8E%8B%E4%B8%8D%E4%BD%8F%E4%BA%86%23&t=31&band_rank=28&Refer=top) 130709
 1. [赵今麦撒娇](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%BB%8A%E9%BA%A6%E6%92%92%E5%A8%87&t=31&band_rank=30&Refer=top) 126504
 1. [老老实实睡觉才是最小众的睡觉方式](https://s.weibo.com/weibo?q=%23%E8%80%81%E8%80%81%E5%AE%9E%E5%AE%9E%E7%9D%A1%E8%A7%89%E6%89%8D%E6%98%AF%E6%9C%80%E5%B0%8F%E4%BC%97%E7%9A%84%E7%9D%A1%E8%A7%89%E6%96%B9%E5%BC%8F%23&t=31&band_rank=31&Refer=top) 122300
+1. [短短5秒却救了2个家庭](https://s.weibo.com/weibo?q=%23%E7%9F%AD%E7%9F%AD5%E7%A7%92%E5%8D%B4%E6%95%91%E4%BA%862%E4%B8%AA%E5%AE%B6%E5%BA%AD%23&t=31&band_rank=35&Refer=top) 118206
 1. [花花伸出小短手够竹笋太努力了](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%8A%B1%E4%BC%B8%E5%87%BA%E5%B0%8F%E7%9F%AD%E6%89%8B%E5%A4%9F%E7%AB%B9%E7%AC%8B%E5%A4%AA%E5%8A%AA%E5%8A%9B%E4%BA%86%23&t=31&band_rank=32&Refer=top) 116257
 1. [iPhone16预计需求强劲](https://s.weibo.com/weibo?q=%23iPhone16%E9%A2%84%E8%AE%A1%E9%9C%80%E6%B1%82%E5%BC%BA%E5%8A%B2%23&t=31&band_rank=33&Refer=top) 115713
 1. [杜海涛镜头下的金靖](https://s.weibo.com/weibo?q=%23%E6%9D%9C%E6%B5%B7%E6%B6%9B%E9%95%9C%E5%A4%B4%E4%B8%8B%E7%9A%84%E9%87%91%E9%9D%96%23&t=31&band_rank=34&Refer=top) 109766
-1. [短短5秒却救了2个家庭](https://s.weibo.com/weibo?q=%23%E7%9F%AD%E7%9F%AD5%E7%A7%92%E5%8D%B4%E6%95%91%E4%BA%862%E4%B8%AA%E5%AE%B6%E5%BA%AD%23&t=31&band_rank=35&Refer=top) 109479
 1. [网红乔老师疑剽窃未成年视频卖课](https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E4%B9%94%E8%80%81%E5%B8%88%E7%96%91%E5%89%BD%E7%AA%83%E6%9C%AA%E6%88%90%E5%B9%B4%E8%A7%86%E9%A2%91%E5%8D%96%E8%AF%BE%23&t=31&band_rank=35&Refer=top) 103200
 1. [疱疹性咽峡炎高发季](https://s.weibo.com/weibo?q=%23%E7%96%B1%E7%96%B9%E6%80%A7%E5%92%BD%E5%B3%A1%E7%82%8E%E9%AB%98%E5%8F%91%E5%AD%A3%23&t=31&band_rank=36&Refer=top) 101345
 1. [第一次见对狗毛过敏的狗](https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E5%AF%B9%E7%8B%97%E6%AF%9B%E8%BF%87%E6%95%8F%E7%9A%84%E7%8B%97&t=31&band_rank=37&Refer=top) 100920
@@ -78,10 +78,11 @@
 1. [贺军翔回应性骚扰指控](https://s.weibo.com/weibo?q=%23%E8%B4%BA%E5%86%9B%E7%BF%94%E5%9B%9E%E5%BA%94%E6%80%A7%E9%AA%9A%E6%89%B0%E6%8C%87%E6%8E%A7%23&t=31&band_rank=35&Refer=top) 33251
 1. [沈月敢编王子奇敢信](https://s.weibo.com/weibo?q=%E6%B2%88%E6%9C%88%E6%95%A2%E7%BC%96%E7%8E%8B%E5%AD%90%E5%A5%87%E6%95%A2%E4%BF%A1&t=31&band_rank=41&Refer=top) 32783
 1. [登陆计划 规则怪谈](https://s.weibo.com/weibo?q=%E7%99%BB%E9%99%86%E8%AE%A1%E5%88%92%20%E8%A7%84%E5%88%99%E6%80%AA%E8%B0%88&t=31&band_rank=49&Refer=top) 27544
+1. [美国男子枪击邻居一家七口后自杀](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%94%B7%E5%AD%90%E6%9E%AA%E5%87%BB%E9%82%BB%E5%B1%85%E4%B8%80%E5%AE%B6%E4%B8%83%E5%8F%A3%E5%90%8E%E8%87%AA%E6%9D%80%23&t=31&band_rank=48&Refer=top) 24783
 1. [江浙沪朋友们最近出门的样子](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E6%B5%99%E6%B2%AA%E6%9C%8B%E5%8F%8B%E4%BB%AC%E6%9C%80%E8%BF%91%E5%87%BA%E9%97%A8%E7%9A%84%E6%A0%B7%E5%AD%90%23&t=31&band_rank=40&Refer=top) 23357
-1. [美国男子枪击邻居一家七口后自杀](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%94%B7%E5%AD%90%E6%9E%AA%E5%87%BB%E9%82%BB%E5%B1%85%E4%B8%80%E5%AE%B6%E4%B8%83%E5%8F%A3%E5%90%8E%E8%87%AA%E6%9D%80%23&t=31&band_rank=48&Refer=top) 22005
-1. [军校毕业大考也太硬核了](https://s.weibo.com/weibo?q=%23%E5%86%9B%E6%A0%A1%E6%AF%95%E4%B8%9A%E5%A4%A7%E8%80%83%E4%B9%9F%E5%A4%AA%E7%A1%AC%E6%A0%B8%E4%BA%86%23&t=31&band_rank=49&Refer=top) 18437
+1. [军校毕业大考也太硬核了](https://s.weibo.com/weibo?q=%23%E5%86%9B%E6%A0%A1%E6%AF%95%E4%B8%9A%E5%A4%A7%E8%80%83%E4%B9%9F%E5%A4%AA%E7%A1%AC%E6%A0%B8%E4%BA%86%23&t=31&band_rank=49&Refer=top) 19438
 1. [杨紫带piupiu直播](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%B8%A6piupiu%E7%9B%B4%E6%92%AD%23&t=31&band_rank=50&Refer=top) 16077
+1. [抽血为啥要用五颜六色的试管](https://s.weibo.com/weibo?q=%23%E6%8A%BD%E8%A1%80%E4%B8%BA%E5%95%A5%E8%A6%81%E7%94%A8%E4%BA%94%E9%A2%9C%E5%85%AD%E8%89%B2%E7%9A%84%E8%AF%95%E7%AE%A1%23&t=31&band_rank=47&Refer=top) 14390
 <!-- END -->
 
 历史归档 [./archives](./archives)
