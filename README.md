@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-07-04 05:49:22.504372 
-![2024-07-04](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240704/2024-07-04.png?versionId=4_z8fbbed132d73df8689c40f13_f1186976ebcc327a8_d20240703_m214922_c005_v0501010_t0025_u01720043362097) 
+最后更新时间 2024-07-04 06:12:12.012340 
+![2024-07-04](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240704/2024-07-04.png?versionId=4_z8fbbed132d73df8689c40f13_f115d2a7d44623d31_d20240703_m221211_c005_v0501002_t0029_u01720044731550) 
 1. [野孩子 撤档](https://s.weibo.com/weibo?q=%E9%87%8E%E5%AD%A9%E5%AD%90%20%E6%92%A4%E6%A1%A3&t=31&band_rank=1&Refer=top) 2148485
 1. [医院通报医生传播患者麻醉裸照](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E9%80%9A%E6%8A%A5%E5%8C%BB%E7%94%9F%E4%BC%A0%E6%92%AD%E6%82%A3%E8%80%85%E9%BA%BB%E9%86%89%E8%A3%B8%E7%85%A7%23&t=31&band_rank=2&Refer=top) 861708
 1. [雪龙2号和极地号硬核同框](https://s.weibo.com/weibo?q=%23%E9%9B%AA%E9%BE%992%E5%8F%B7%E5%92%8C%E6%9E%81%E5%9C%B0%E5%8F%B7%E7%A1%AC%E6%A0%B8%E5%90%8C%E6%A1%86%23&t=31&band_rank=3&Refer=top) 481894
@@ -45,6 +45,7 @@
 1. [网友偶遇张亮儿子张天天](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E5%81%B6%E9%81%87%E5%BC%A0%E4%BA%AE%E5%84%BF%E5%AD%90%E5%BC%A0%E5%A4%A9%E5%A4%A9%23&t=31&band_rank=32&Refer=top) 130195
 1. [郑州文旅回应涉林俊杰演唱会争议内容](https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E6%96%87%E6%97%85%E5%9B%9E%E5%BA%94%E6%B6%89%E6%9E%97%E4%BF%8A%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BA%89%E8%AE%AE%E5%86%85%E5%AE%B9%23&t=31&band_rank=34&Refer=top) 126676
 1. [北大博导否认地铁收徒看书小孩哥](https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E5%8D%9A%E5%AF%BC%E5%90%A6%E8%AE%A4%E5%9C%B0%E9%93%81%E6%94%B6%E5%BE%92%E7%9C%8B%E4%B9%A6%E5%B0%8F%E5%AD%A9%E5%93%A5%23&t=31&band_rank=20&Refer=top) 126332
+1. [哈萨克斯坦小女孩和康辉聊天好丝滑](https://s.weibo.com/weibo?q=%23%E5%93%88%E8%90%A8%E5%85%8B%E6%96%AF%E5%9D%A6%E5%B0%8F%E5%A5%B3%E5%AD%A9%E5%92%8C%E5%BA%B7%E8%BE%89%E8%81%8A%E5%A4%A9%E5%A5%BD%E4%B8%9D%E6%BB%91%23&t=31&band_rank=3&Refer=top) 125636
 1. [中餐厅8合伙人阵容官宣](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E9%A4%90%E5%8E%858%E5%90%88%E4%BC%99%E4%BA%BA%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3%23&t=31&band_rank=35&Refer=top) 121578
 1. [不要让服务员用你手机写评价](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%A6%81%E8%AE%A9%E6%9C%8D%E5%8A%A1%E5%91%98%E7%94%A8%E4%BD%A0%E6%89%8B%E6%9C%BA%E5%86%99%E8%AF%84%E4%BB%B7%23&t=31&band_rank=36&Refer=top) 117898
 1. [李雪琴 游泳证](https://s.weibo.com/weibo?q=%E6%9D%8E%E9%9B%AA%E7%90%B4%20%E6%B8%B8%E6%B3%B3%E8%AF%81&t=31&band_rank=37&Refer=top) 114222
@@ -60,18 +61,17 @@
 1. [沈月看SEVENTEEN团综哭了](https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%9C%88%E7%9C%8BSEVENTEEN%E5%9B%A2%E7%BB%BC%E5%93%AD%E4%BA%86%23&t=31&band_rank=46&Refer=top) 85334
 1. [银河证券回应员工跳楼传闻](https://s.weibo.com/weibo?q=%23%E9%93%B6%E6%B2%B3%E8%AF%81%E5%88%B8%E5%9B%9E%E5%BA%94%E5%91%98%E5%B7%A5%E8%B7%B3%E6%A5%BC%E4%BC%A0%E9%97%BB%23&t=31&band_rank=47&Refer=top) 83944
 1. [B太 南京大爷带我勇闯南京](https://s.weibo.com/weibo?q=B%E5%A4%AA%20%E5%8D%97%E4%BA%AC%E5%A4%A7%E7%88%B7%E5%B8%A6%E6%88%91%E5%8B%87%E9%97%AF%E5%8D%97%E4%BA%AC&t=31&band_rank=48&Refer=top) 83563
-1. [哈萨克斯坦小女孩和康辉聊天好丝滑](https://s.weibo.com/weibo?q=%23%E5%93%88%E8%90%A8%E5%85%8B%E6%96%AF%E5%9D%A6%E5%B0%8F%E5%A5%B3%E5%AD%A9%E5%92%8C%E5%BA%B7%E8%BE%89%E8%81%8A%E5%A4%A9%E5%A5%BD%E4%B8%9D%E6%BB%91%23&t=31&band_rank=3&Refer=top) 83389
 1. [Uzi谈自己名人堂皮肤](https://s.weibo.com/weibo?q=%23Uzi%E8%B0%88%E8%87%AA%E5%B7%B1%E5%90%8D%E4%BA%BA%E5%A0%82%E7%9A%AE%E8%82%A4%23&t=31&band_rank=49&Refer=top) 83288
 1. [林俊杰演唱会](https://s.weibo.com/weibo?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=50&Refer=top) 78621
 1. [肾虚不虚看这5个地方就知道](https://s.weibo.com/weibo?q=%23%E8%82%BE%E8%99%9A%E4%B8%8D%E8%99%9A%E7%9C%8B%E8%BF%995%E4%B8%AA%E5%9C%B0%E6%96%B9%E5%B0%B1%E7%9F%A5%E9%81%93%23&t=31&band_rank=42&Refer=top) 44798
 1. [魔方新世界排名](https://s.weibo.com/weibo?q=%E9%AD%94%E6%96%B9%E6%96%B0%E4%B8%96%E7%95%8C%E6%8E%92%E5%90%8D&t=31&band_rank=50&Refer=top) 38691
+1. [失眠是因为身体缺少维生素](https://s.weibo.com/weibo?q=%23%E5%A4%B1%E7%9C%A0%E6%98%AF%E5%9B%A0%E4%B8%BA%E8%BA%AB%E4%BD%93%E7%BC%BA%E5%B0%91%E7%BB%B4%E7%94%9F%E7%B4%A0%23&t=31&band_rank=35&Refer=top) 34151
 1. [TXT日专MV](https://s.weibo.com/weibo?q=%23TXT%E6%97%A5%E4%B8%93MV%23&t=31&band_rank=37&Refer=top) 30950
-1. [失眠是因为身体缺少维生素](https://s.weibo.com/weibo?q=%23%E5%A4%B1%E7%9C%A0%E6%98%AF%E5%9B%A0%E4%B8%BA%E8%BA%AB%E4%BD%93%E7%BC%BA%E5%B0%91%E7%BB%B4%E7%94%9F%E7%B4%A0%23&t=31&band_rank=35&Refer=top) 29526
+1. [突然发现了我妈是先天留子圣体](https://s.weibo.com/weibo?q=%23%E7%AA%81%E7%84%B6%E5%8F%91%E7%8E%B0%E4%BA%86%E6%88%91%E5%A6%88%E6%98%AF%E5%85%88%E5%A4%A9%E7%95%99%E5%AD%90%E5%9C%A3%E4%BD%93%23&t=31&band_rank=50&Refer=top) 27331
 1. [原来点外卖看太多次地图骑手知道的](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E7%82%B9%E5%A4%96%E5%8D%96%E7%9C%8B%E5%A4%AA%E5%A4%9A%E6%AC%A1%E5%9C%B0%E5%9B%BE%E9%AA%91%E6%89%8B%E7%9F%A5%E9%81%93%E7%9A%84%23&t=31&band_rank=43&Refer=top) 24555
-1. [突然发现了我妈是先天留子圣体](https://s.weibo.com/weibo?q=%23%E7%AA%81%E7%84%B6%E5%8F%91%E7%8E%B0%E4%BA%86%E6%88%91%E5%A6%88%E6%98%AF%E5%85%88%E5%A4%A9%E7%95%99%E5%AD%90%E5%9C%A3%E4%BD%93%23&t=31&band_rank=50&Refer=top) 22055
 1. [永劫无间](https://s.weibo.com/weibo?q=%23%E6%B0%B8%E5%8A%AB%E6%97%A0%E9%97%B4%23&t=31&band_rank=50&Refer=top) 20855
-1. [张志杰之殇折射羽毛球赛程过密](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%BF%97%E6%9D%B0%E4%B9%8B%E6%AE%87%E6%8A%98%E5%B0%84%E7%BE%BD%E6%AF%9B%E7%90%83%E8%B5%9B%E7%A8%8B%E8%BF%87%E5%AF%86%23&t=31&band_rank=49&Refer=top) 18351
-1. [在毕业典礼上被求婚了](https://s.weibo.com/weibo?q=%E5%9C%A8%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E4%B8%8A%E8%A2%AB%E6%B1%82%E5%A9%9A%E4%BA%86&t=31&band_rank=47&Refer=top) 15856
+1. [张志杰之殇折射羽毛球赛程过密](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%BF%97%E6%9D%B0%E4%B9%8B%E6%AE%87%E6%8A%98%E5%B0%84%E7%BE%BD%E6%AF%9B%E7%90%83%E8%B5%9B%E7%A8%8B%E8%BF%87%E5%AF%86%23&t=31&band_rank=49&Refer=top) 19679
+1. [在毕业典礼上被求婚了](https://s.weibo.com/weibo?q=%E5%9C%A8%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC%E4%B8%8A%E8%A2%AB%E6%B1%82%E5%A9%9A%E4%BA%86&t=31&band_rank=47&Refer=top) 19517
 1. [海南小孩究竟有多爱排球](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%8D%97%E5%B0%8F%E5%AD%A9%E7%A9%B6%E7%AB%9F%E6%9C%89%E5%A4%9A%E7%88%B1%E6%8E%92%E7%90%83%23&t=31&band_rank=50&Refer=top) 15273
 <!-- END -->
 
