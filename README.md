@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-07-06 02:15:50.715820 
-![2024-07-06](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240706/2024-07-06.png?versionId=4_z8fbbed132d73df8689c40f13_f102c4bc2cc0dfd62_d20240705_m181550_c005_v0501003_t0001_u01720203350669) 
+最后更新时间 2024-07-06 02:32:59.064591 
+![2024-07-06](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240706/2024-07-06.png?versionId=4_z8fbbed132d73df8689c40f13_f102fab617b0cf408_d20240705_m183258_c005_v0501020_t0041_u01720204378976) 
 1. [歌手排名](https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E6%8E%92%E5%90%8D&t=31&band_rank=1&Refer=top) 1992678
 1. [TES](https://s.weibo.com/weibo?q=TES&t=31&band_rank=9&Refer=top) 1952180
 1. [友谊勋章藏着多少设计细节](https://s.weibo.com/weibo?q=%23%E5%8F%8B%E8%B0%8A%E5%8B%8B%E7%AB%A0%E8%97%8F%E7%9D%80%E5%A4%9A%E5%B0%91%E8%AE%BE%E8%AE%A1%E7%BB%86%E8%8A%82%23&t=31&band_rank=3&Refer=top) 768537
