@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-07-06 06:29:27.892951 
-![2024-07-06](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240706/2024-07-06.png?versionId=4_z8fbbed132d73df8689c40f13_f105cca72177f03f4_d20240705_m222927_c005_v0501019_t0036_u01720218567665) 
+最后更新时间 2024-07-06 06:38:22.482406 
+![2024-07-06](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240706/2024-07-06.png?versionId=4_z8fbbed132d73df8689c40f13_f1112462f6287bfd6_d20240705_m223822_c005_v0501021_t0028_u01720219102421) 
 1. [歌手排名](https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E6%8E%92%E5%90%8D&t=31&band_rank=1&Refer=top) 1992678
 1. [TES](https://s.weibo.com/weibo?q=TES&t=31&band_rank=9&Refer=top) 1952180
 1. [西班牙vs德国](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E7%8F%AD%E7%89%99vs%E5%BE%B7%E5%9B%BD%23&t=31&band_rank=16&Refer=top) 1182393
@@ -16,9 +16,9 @@
 1. [友谊勋章藏着多少设计细节](https://s.weibo.com/weibo?q=%23%E5%8F%8B%E8%B0%8A%E5%8B%8B%E7%AB%A0%E8%97%8F%E7%9D%80%E5%A4%9A%E5%B0%91%E8%AE%BE%E8%AE%A1%E7%BB%86%E8%8A%82%23&t=31&band_rank=3&Refer=top) 768537
 1. [洞庭湖决堤](https://s.weibo.com/weibo?q=%E6%B4%9E%E5%BA%AD%E6%B9%96%E5%86%B3%E5%A0%A4&t=31&band_rank=4&Refer=top) 764815
 1. [袁娅维已经1个月没5点前睡觉了](https://s.weibo.com/weibo?q=%23%E8%A2%81%E5%A8%85%E7%BB%B4%E5%B7%B2%E7%BB%8F1%E4%B8%AA%E6%9C%88%E6%B2%A15%E7%82%B9%E5%89%8D%E7%9D%A1%E8%A7%89%E4%BA%86%23&t=31&band_rank=2&Refer=top) 721584
+1. [C罗](https://s.weibo.com/weibo?q=C%E7%BD%97&t=31&band_rank=2&Refer=top) 720093
 1. [TES战胜GEN](https://s.weibo.com/weibo?q=%23TES%E6%88%98%E8%83%9CGEN%23&t=31&band_rank=2&Refer=top) 709524
 1. [袁娅维是不是被算错票了](https://s.weibo.com/weibo?q=%23%E8%A2%81%E5%A8%85%E7%BB%B4%E6%98%AF%E4%B8%8D%E6%98%AF%E8%A2%AB%E7%AE%97%E9%94%99%E7%A5%A8%E4%BA%86%23&t=31&band_rank=14&Refer=top) 706244
-1. [C罗](https://s.weibo.com/weibo?q=C%E7%BD%97&t=31&band_rank=2&Refer=top) 687741
 1. [首批武警已抵达洞庭湖开始救援](https://s.weibo.com/weibo?q=%23%E9%A6%96%E6%89%B9%E6%AD%A6%E8%AD%A6%E5%B7%B2%E6%8A%B5%E8%BE%BE%E6%B4%9E%E5%BA%AD%E6%B9%96%E5%BC%80%E5%A7%8B%E6%95%91%E6%8F%B4%23&t=31&band_rank=30&Refer=top) 626978
 1. [东方树叶 第八](https://s.weibo.com/weibo?q=%E4%B8%9C%E6%96%B9%E6%A0%91%E5%8F%B6%20%E7%AC%AC%E5%85%AB&t=31&band_rank=5&Refer=top) 591272
 1. [CoCo回应员工边做边吃](https://s.weibo.com/weibo?q=%23CoCo%E5%9B%9E%E5%BA%94%E5%91%98%E5%B7%A5%E8%BE%B9%E5%81%9A%E8%BE%B9%E5%90%83%23&t=31&band_rank=47&Refer=top) 589474
@@ -43,8 +43,8 @@
 1. [西班牙](https://s.weibo.com/weibo?q=%E8%A5%BF%E7%8F%AD%E7%89%99&t=31&band_rank=11&Refer=top) 239713
 1. [欧洲杯直播](https://s.weibo.com/weibo?q=%E6%AC%A7%E6%B4%B2%E6%9D%AF%E7%9B%B4%E6%92%AD&t=31&band_rank=41&Refer=top) 230780
 1. [TES对战GEN](https://s.weibo.com/weibo?q=%23TES%E5%AF%B9%E6%88%98GEN%23&t=31&band_rank=20&Refer=top) 225472
+1. [葡萄牙3比5法国](https://s.weibo.com/weibo?q=%23%E8%91%A1%E8%90%84%E7%89%993%E6%AF%945%E6%B3%95%E5%9B%BD%23&t=31&band_rank=12&Refer=top) 216311
 1. [男子中751万彩票藏枕头下半月才兑奖](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%AD751%E4%B8%87%E5%BD%A9%E7%A5%A8%E8%97%8F%E6%9E%95%E5%A4%B4%E4%B8%8B%E5%8D%8A%E6%9C%88%E6%89%8D%E5%85%91%E5%A5%96%23&t=31&band_rank=18&Refer=top) 201827
-1. [葡萄牙3比5法国](https://s.weibo.com/weibo?q=%23%E8%91%A1%E8%90%84%E7%89%993%E6%AF%945%E6%B3%95%E5%9B%BD%23&t=31&band_rank=12&Refer=top) 198497
 1. [洞庭湖](https://s.weibo.com/weibo?q=%E6%B4%9E%E5%BA%AD%E6%B9%96&t=31&band_rank=19&Refer=top) 180912
 1. [睡前不刷牙将是对牙齿的恐怖待遇](https://s.weibo.com/weibo?q=%23%E7%9D%A1%E5%89%8D%E4%B8%8D%E5%88%B7%E7%89%99%E5%B0%86%E6%98%AF%E5%AF%B9%E7%89%99%E9%BD%BF%E7%9A%84%E6%81%90%E6%80%96%E5%BE%85%E9%81%87%23&t=31&band_rank=21&Refer=top) 177891
 1. [早上空腹喝水真比不吃早餐危害大吗](https://s.weibo.com/weibo?q=%23%E6%97%A9%E4%B8%8A%E7%A9%BA%E8%85%B9%E5%96%9D%E6%B0%B4%E7%9C%9F%E6%AF%94%E4%B8%8D%E5%90%83%E6%97%A9%E9%A4%90%E5%8D%B1%E5%AE%B3%E5%A4%A7%E5%90%97%23&t=31&band_rank=22&Refer=top) 176420
@@ -71,26 +71,26 @@
 1. [电影默杀](https://s.weibo.com/weibo?q=%E7%94%B5%E5%BD%B1%E9%BB%98%E6%9D%80&t=31&band_rank=43&Refer=top) 136090
 1. [宋雨琦ins发文](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E9%9B%A8%E7%90%A6ins%E5%8F%91%E6%96%87%23&t=31&band_rank=45&Refer=top) 134798
 1. [那英 清唱](https://s.weibo.com/weibo?q=%E9%82%A3%E8%8B%B1%20%E6%B8%85%E5%94%B1&t=31&band_rank=46&Refer=top) 127007
+1. [饲养员摆喜宴给企鹅办集体婚礼](https://s.weibo.com/weibo?q=%23%E9%A5%B2%E5%85%BB%E5%91%98%E6%91%86%E5%96%9C%E5%AE%B4%E7%BB%99%E4%BC%81%E9%B9%85%E5%8A%9E%E9%9B%86%E4%BD%93%E5%A9%9A%E7%A4%BC%23&t=31&band_rank=39&Refer=top) 126745
 1. [王者全英雄及50款皮肤限免](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E5%85%A8%E8%8B%B1%E9%9B%84%E5%8F%8A50%E6%AC%BE%E7%9A%AE%E8%82%A4%E9%99%90%E5%85%8D%23&t=31&band_rank=50&Refer=top) 125987
 1. [陈乔恩回应被说表演痕迹重](https://s.weibo.com/weibo?q=%23%E9%99%88%E4%B9%94%E6%81%A9%E5%9B%9E%E5%BA%94%E8%A2%AB%E8%AF%B4%E8%A1%A8%E6%BC%94%E7%97%95%E8%BF%B9%E9%87%8D%23&t=31&band_rank=28&Refer=top) 125920
 1. [自助餐为什么不受欢迎了](https://s.weibo.com/weibo?q=%23%E8%87%AA%E5%8A%A9%E9%A4%90%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E5%8F%97%E6%AC%A2%E8%BF%8E%E4%BA%86%23&t=31&band_rank=48&Refer=top) 120786
-1. [西班牙加时绝杀](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E7%8F%AD%E7%89%99%E5%8A%A0%E6%97%B6%E7%BB%9D%E6%9D%80%23&t=31&band_rank=26&Refer=top) 117495
+1. [西班牙加时绝杀](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E7%8F%AD%E7%89%99%E5%8A%A0%E6%97%B6%E7%BB%9D%E6%9D%80%23&t=31&band_rank=26&Refer=top) 118836
 1. [EWC电竞世界杯](https://s.weibo.com/weibo?q=EWC%E7%94%B5%E7%AB%9E%E4%B8%96%E7%95%8C%E6%9D%AF&t=31&band_rank=27&Refer=top) 114662
 1. [新婚夫妻身亡女方家被判还11万彩礼](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%A9%9A%E5%A4%AB%E5%A6%BB%E8%BA%AB%E4%BA%A1%E5%A5%B3%E6%96%B9%E5%AE%B6%E8%A2%AB%E5%88%A4%E8%BF%9811%E4%B8%87%E5%BD%A9%E7%A4%BC%23&t=31&band_rank=49&Refer=top) 112863
 1. [巨蟹座新月许愿](https://s.weibo.com/weibo?q=%23%E5%B7%A8%E8%9F%B9%E5%BA%A7%E6%96%B0%E6%9C%88%E8%AE%B8%E6%84%BF%23&t=31&band_rank=50&Refer=top) 101276
+1. [TES晋级电竞世界杯四强](https://s.weibo.com/weibo?q=%23TES%E6%99%8B%E7%BA%A7%E7%94%B5%E7%AB%9E%E4%B8%96%E7%95%8C%E6%9D%AF%E5%9B%9B%E5%BC%BA%23&t=31&band_rank=36&Refer=top) 100512
 1. [姆巴佩面对C罗正式比赛0进球](https://s.weibo.com/weibo?q=%23%E5%A7%86%E5%B7%B4%E4%BD%A9%E9%9D%A2%E5%AF%B9C%E7%BD%97%E6%AD%A3%E5%BC%8F%E6%AF%94%E8%B5%9B0%E8%BF%9B%E7%90%83%23&t=31&band_rank=36&Refer=top) 96938
 1. [2024欧洲杯](https://s.weibo.com/weibo?q=%232024%E6%AC%A7%E6%B4%B2%E6%9D%AF%23&t=31&band_rank=38&Refer=top) 94851
-1. [TES晋级电竞世界杯四强](https://s.weibo.com/weibo?q=%23TES%E6%99%8B%E7%BA%A7%E7%94%B5%E7%AB%9E%E4%B8%96%E7%95%8C%E6%9D%AF%E5%9B%9B%E5%BC%BA%23&t=31&band_rank=36&Refer=top) 94163
 1. [三部门向湖南华容紧急调拨物资](https://s.weibo.com/weibo?q=%23%E4%B8%89%E9%83%A8%E9%97%A8%E5%90%91%E6%B9%96%E5%8D%97%E5%8D%8E%E5%AE%B9%E7%B4%A7%E6%80%A5%E8%B0%83%E6%8B%A8%E7%89%A9%E8%B5%84%23&t=31&band_rank=50&Refer=top) 90622
 1. [8名铁骑护送临产孕妇15分钟到医院](https://s.weibo.com/weibo?q=%238%E5%90%8D%E9%93%81%E9%AA%91%E6%8A%A4%E9%80%81%E4%B8%B4%E4%BA%A7%E5%AD%95%E5%A6%8715%E5%88%86%E9%92%9F%E5%88%B0%E5%8C%BB%E9%99%A2%23&t=31&band_rank=26&Refer=top) 86696
 1. [葡萄牙vs法国首发](https://s.weibo.com/weibo?q=%23%E8%91%A1%E8%90%84%E7%89%99vs%E6%B3%95%E5%9B%BD%E9%A6%96%E5%8F%91%23&t=31&band_rank=28&Refer=top) 80664
 1. [克罗斯结束球员生涯](https://s.weibo.com/weibo?q=%23%E5%85%8B%E7%BD%97%E6%96%AF%E7%BB%93%E6%9D%9F%E7%90%83%E5%91%98%E7%94%9F%E6%B6%AF%23&t=31&band_rank=17&Refer=top) 80301
 1. [佩德里欧洲杯报销](https://s.weibo.com/weibo?q=%23%E4%BD%A9%E5%BE%B7%E9%87%8C%E6%AC%A7%E6%B4%B2%E6%9D%AF%E6%8A%A5%E9%94%80%23&t=31&band_rank=31&Refer=top) 60243
-1. [饲养员摆喜宴给企鹅办集体婚礼](https://s.weibo.com/weibo?q=%23%E9%A5%B2%E5%85%BB%E5%91%98%E6%91%86%E5%96%9C%E5%AE%B4%E7%BB%99%E4%BC%81%E9%B9%85%E5%8A%9E%E9%9B%86%E4%BD%93%E5%A9%9A%E7%A4%BC%23&t=31&band_rank=39&Refer=top) 59864
+1. [原来宝宝真的比甲方还难伺候](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%AE%9D%E5%AE%9D%E7%9C%9F%E7%9A%84%E6%AF%94%E7%94%B2%E6%96%B9%E8%BF%98%E9%9A%BE%E4%BC%BA%E5%80%99%23&t=31&band_rank=48&Refer=top) 52122
 1. [为啥人民币没有7元8元9元面值](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E5%95%A5%E4%BA%BA%E6%B0%91%E5%B8%81%E6%B2%A1%E6%9C%897%E5%85%838%E5%85%839%E5%85%83%E9%9D%A2%E5%80%BC%23&t=31&band_rank=45&Refer=top) 51901
 1. [谁家的电影票是主演画的](https://s.weibo.com/weibo?q=%E8%B0%81%E5%AE%B6%E7%9A%84%E7%94%B5%E5%BD%B1%E7%A5%A8%E6%98%AF%E4%B8%BB%E6%BC%94%E7%94%BB%E7%9A%84&t=31&band_rank=47&Refer=top) 46334
-1. [原来宝宝真的比甲方还难伺候](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%AE%9D%E5%AE%9D%E7%9C%9F%E7%9A%84%E6%AF%94%E7%94%B2%E6%96%B9%E8%BF%98%E9%9A%BE%E4%BC%BA%E5%80%99%23&t=31&band_rank=48&Refer=top) 45945
-1. [高圆圆banban](https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%9C%86%E5%9C%86banban%23&t=31&band_rank=49&Refer=top) 34154
+1. [高圆圆banban](https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%9C%86%E5%9C%86banban%23&t=31&band_rank=49&Refer=top) 37151
 <!-- END -->
 
 历史归档 [./archives](./archives)
