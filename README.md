@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-07-06 04:26:38.940575 
-![2024-07-06](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240706/2024-07-06.png?versionId=4_z8fbbed132d73df8689c40f13_f11269cf73c9d51a8_d20240705_m202638_c005_v0501002_t0017_u01720211198812) 
+最后更新时间 2024-07-06 04:35:35.065240 
+![2024-07-06](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240706/2024-07-06.png?versionId=4_z8fbbed132d73df8689c40f13_f1040ec02b117bfcb_d20240705_m203534_c005_v0501019_t0025_u01720211734753) 
 1. [歌手排名](https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E6%8E%92%E5%90%8D&t=31&band_rank=1&Refer=top) 1992678
 1. [TES](https://s.weibo.com/weibo?q=TES&t=31&band_rank=9&Refer=top) 1952180
 1. [西班牙vs德国](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E7%8F%AD%E7%89%99vs%E5%BE%B7%E5%9B%BD%23&t=31&band_rank=16&Refer=top) 1182393
@@ -82,7 +82,7 @@
 1. [佩德里欧洲杯报销](https://s.weibo.com/weibo?q=%23%E4%BD%A9%E5%BE%B7%E9%87%8C%E6%AC%A7%E6%B4%B2%E6%9D%AF%E6%8A%A5%E9%94%80%23&t=31&band_rank=31&Refer=top) 60243
 1. [为啥人民币没有7元8元9元面值](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E5%95%A5%E4%BA%BA%E6%B0%91%E5%B8%81%E6%B2%A1%E6%9C%897%E5%85%838%E5%85%839%E5%85%83%E9%9D%A2%E5%80%BC%23&t=31&band_rank=45&Refer=top) 51901
 1. [谁家的电影票是主演画的](https://s.weibo.com/weibo?q=%E8%B0%81%E5%AE%B6%E7%9A%84%E7%94%B5%E5%BD%B1%E7%A5%A8%E6%98%AF%E4%B8%BB%E6%BC%94%E7%94%BB%E7%9A%84&t=31&band_rank=47&Refer=top) 46334
-1. [高圆圆banban](https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%9C%86%E5%9C%86banban%23&t=31&band_rank=49&Refer=top) 22737
+1. [高圆圆banban](https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%9C%86%E5%9C%86banban%23&t=31&band_rank=49&Refer=top) 24886
 <!-- END -->
 
 历史归档 [./archives](./archives)
