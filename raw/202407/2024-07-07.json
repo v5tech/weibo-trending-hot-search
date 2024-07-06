@@ -25,7 +25,7 @@
   },
   "英格兰vs瑞士": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E6%A0%BC%E5%85%B0vs%E7%91%9E%E5%A3%AB%23&t=31&band_rank=49&Refer=top",
-    "hot": 315924
+    "hot": 334885
   },
   "扬州地震": {
     "url": "https://s.weibo.com/weibo?q=%E6%89%AC%E5%B7%9E%E5%9C%B0%E9%9C%87&t=31&band_rank=6&Refer=top",
@@ -235,6 +235,10 @@
     "url": "https://s.weibo.com/weibo?q=%E9%97%AA%E5%85%89%E7%9A%84%E5%A4%8F%E5%A4%A9&t=31&band_rank=50&Refer=top",
     "hot": 53638
   },
+  "G2战胜Fly": {
+    "url": "https://s.weibo.com/weibo?q=%23G2%E6%88%98%E8%83%9CFly%23&t=31&band_rank=43&Refer=top",
+    "hot": 53027
+  },
   "进不了12强就得回去上班": {
     "url": "https://s.weibo.com/weibo?q=%E8%BF%9B%E4%B8%8D%E4%BA%8612%E5%BC%BA%E5%B0%B1%E5%BE%97%E5%9B%9E%E5%8E%BB%E4%B8%8A%E7%8F%AD&t=31&band_rank=39&Refer=top",
     "hot": 48702
@@ -247,8 +251,8 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E8%93%9D%E5%8F%91%E5%86%B7%E5%B8%BD%23&t=31&band_rank=40&Refer=top",
     "hot": 47214
   },
-  "G2战胜Fly": {
-    "url": "https://s.weibo.com/weibo?q=%23G2%E6%88%98%E8%83%9CFly%23&t=31&band_rank=43&Refer=top",
-    "hot": 38192
+  "卢沟桥事变亲历者郑福来老人去世": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8D%A2%E6%B2%9F%E6%A1%A5%E4%BA%8B%E5%8F%98%E4%BA%B2%E5%8E%86%E8%80%85%E9%83%91%E7%A6%8F%E6%9D%A5%E8%80%81%E4%BA%BA%E5%8E%BB%E4%B8%96%23&t=31&band_rank=48&Refer=top",
+    "hot": 34522
   }
 }
