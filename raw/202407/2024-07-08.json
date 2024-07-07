@@ -31,6 +31,10 @@
     "url": "https://s.weibo.com/weibo?q=%E7%94%B5%E7%AB%9E%E4%B8%96%E7%95%8C%E6%9D%AF&t=31&band_rank=5&Refer=top",
     "hot": 341015
   },
+  "T1夺冠": {
+    "url": "https://s.weibo.com/weibo?q=T1%E5%A4%BA%E5%86%A0&t=31&band_rank=2&Refer=top",
+    "hot": 338564
+  },
   "赵露思 路透": {
     "url": "https://s.weibo.com/weibo?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%20%E8%B7%AF%E9%80%8F&t=31&band_rank=28&Refer=top",
     "hot": 301333
@@ -106,6 +110,10 @@
   "骄阳似我 李现田曦薇": {
     "url": "https://s.weibo.com/weibo?q=%E9%AA%84%E9%98%B3%E4%BC%BC%E6%88%91%20%E6%9D%8E%E7%8E%B0%E7%94%B0%E6%9B%A6%E8%96%87&t=31&band_rank=18&Refer=top",
     "hot": 170335
+  },
+  "Faker亚索": {
+    "url": "https://s.weibo.com/weibo?q=Faker%E4%BA%9A%E7%B4%A2&t=31&band_rank=25&Refer=top",
+    "hot": 169471
   },
   "有香港人去深圳买一周的菜": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%9C%89%E9%A6%99%E6%B8%AF%E4%BA%BA%E5%8E%BB%E6%B7%B1%E5%9C%B3%E4%B9%B0%E4%B8%80%E5%91%A8%E7%9A%84%E8%8F%9C%23&t=31&band_rank=19&Refer=top",
@@ -311,6 +319,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E7%9B%B2%E7%9B%92%E6%97%85%E8%A1%8C%E5%B1%80%23&t=31&band_rank=39&Refer=top",
     "hot": 53807
   },
+  "JackeyLove四杀": {
+    "url": "https://s.weibo.com/weibo?q=JackeyLove%E5%9B%9B%E6%9D%80&t=31&band_rank=14&Refer=top",
+    "hot": 45298
+  },
   "TES对战T1先下一城": {
     "url": "https://s.weibo.com/weibo?q=%23TES%E5%AF%B9%E6%88%98T1%E5%85%88%E4%B8%8B%E4%B8%80%E5%9F%8E%23&t=31&band_rank=49&Refer=top",
     "hot": 42713
@@ -321,18 +333,18 @@
   },
   "为什么不ban兰博": {
     "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8Dban%E5%85%B0%E5%8D%9A&t=31&band_rank=30&Refer=top",
-    "hot": 37690
+    "hot": 40004
   },
   "faker状态": {
     "url": "https://s.weibo.com/weibo?q=%23faker%E7%8A%B6%E6%80%81%23&t=31&band_rank=50&Refer=top",
     "hot": 30010
   },
+  "经典第四把": {
+    "url": "https://s.weibo.com/weibo?q=%E7%BB%8F%E5%85%B8%E7%AC%AC%E5%9B%9B%E6%8A%8A&t=31&band_rank=31&Refer=top",
+    "hot": 24773
+  },
   "369单杀Zeus": {
     "url": "https://s.weibo.com/weibo?q=369%E5%8D%95%E6%9D%80Zeus&t=31&band_rank=40&Refer=top",
     "hot": 22994
-  },
-  "Faker亚索": {
-    "url": "https://s.weibo.com/weibo?q=Faker%E4%BA%9A%E7%B4%A2&t=31&band_rank=25&Refer=top",
-    "hot": 21831
   }
 }
