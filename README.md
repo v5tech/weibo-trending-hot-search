@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-07-08 05:49:13.488588 
-![2024-07-08](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240708/2024-07-08.png?versionId=4_z8fbbed132d73df8689c40f13_f115de588878c7714_d20240707_m214913_c005_v0501019_t0006_u01720388953416) 
+最后更新时间 2024-07-08 06:11:43.083213 
+![2024-07-08](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240708/2024-07-08.png?versionId=4_z8fbbed132d73df8689c40f13_f101487dcf765523a_d20240707_m221142_c005_v0501020_t0041_u01720390302894) 
 1. [TES对战T1](https://s.weibo.com/weibo?q=%23TES%E5%AF%B9%E6%88%98T1%23&t=31&band_rank=4&Refer=top) 1139429
 1. [T1夺冠](https://s.weibo.com/weibo?q=T1%E5%A4%BA%E5%86%A0&t=31&band_rank=2&Refer=top) 590017
 1. [河南暴雨实况](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E6%9A%B4%E9%9B%A8%E5%AE%9E%E5%86%B5%23&t=31&band_rank=1&Refer=top) 574959
@@ -87,17 +87,19 @@
 1. [时代少年团对接回应](https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E5%AF%B9%E6%8E%A5%E5%9B%9E%E5%BA%94%23&t=31&band_rank=45&Refer=top) 65618
 1. [大学生为丽水近30对老人补拍结婚照](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%B8%BA%E4%B8%BD%E6%B0%B4%E8%BF%9130%E5%AF%B9%E8%80%81%E4%BA%BA%E8%A1%A5%E6%8B%8D%E7%BB%93%E5%A9%9A%E7%85%A7%23&t=31&band_rank=10&Refer=top) 64372
 1. [JackeyLove四杀](https://s.weibo.com/weibo?q=JackeyLove%E5%9B%9B%E6%9D%80&t=31&band_rank=14&Refer=top) 63442
+1. [奖杯底座](https://s.weibo.com/weibo?q=%E5%A5%96%E6%9D%AF%E5%BA%95%E5%BA%A7&t=31&band_rank=17&Refer=top) 62615
 1. [石油杯 奶油杯](https://s.weibo.com/weibo?q=%E7%9F%B3%E6%B2%B9%E6%9D%AF%20%E5%A5%B6%E6%B2%B9%E6%9D%AF&t=31&band_rank=50&Refer=top) 60251
 1. [为什么不ban兰博](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8Dban%E5%85%B0%E5%8D%9A&t=31&band_rank=30&Refer=top) 60188
 1. [369鳄鱼](https://s.weibo.com/weibo?q=369%E9%B3%84%E9%B1%BC&t=31&band_rank=42&Refer=top) 58293
-1. [奖杯底座](https://s.weibo.com/weibo?q=%E5%A5%96%E6%9D%AF%E5%BA%95%E5%BA%A7&t=31&band_rank=17&Refer=top) 55624
 1. [盲盒旅行局](https://s.weibo.com/weibo?q=%23%E7%9B%B2%E7%9B%92%E6%97%85%E8%A1%8C%E5%B1%80%23&t=31&band_rank=39&Refer=top) 53807
+1. [A股一上市公司12年造假上百亿元](https://s.weibo.com/weibo?q=%23A%E8%82%A1%E4%B8%80%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B812%E5%B9%B4%E9%80%A0%E5%81%87%E4%B8%8A%E7%99%BE%E4%BA%BF%E5%85%83%23&t=31&band_rank=48&Refer=top) 46179
 1. [TES对战T1先下一城](https://s.weibo.com/weibo?q=%23TES%E5%AF%B9%E6%88%98T1%E5%85%88%E4%B8%8B%E4%B8%80%E5%9F%8E%23&t=31&band_rank=49&Refer=top) 42713
 1. [T1扳回一城](https://s.weibo.com/weibo?q=%23T1%E6%89%B3%E5%9B%9E%E4%B8%80%E5%9F%8E%23&t=31&band_rank=40&Refer=top) 40454
 1. [faker状态](https://s.weibo.com/weibo?q=%23faker%E7%8A%B6%E6%80%81%23&t=31&band_rank=50&Refer=top) 38013
+1. [邓为涂山璟](https://s.weibo.com/weibo?q=%23%E9%82%93%E4%B8%BA%E6%B6%82%E5%B1%B1%E7%92%9F%23&t=31&band_rank=28&Refer=top) 31270
 1. [经典第四把](https://s.weibo.com/weibo?q=%E7%BB%8F%E5%85%B8%E7%AC%AC%E5%9B%9B%E6%8A%8A&t=31&band_rank=31&Refer=top) 30279
-1. [A股一上市公司12年造假上百亿元](https://s.weibo.com/weibo?q=%23A%E8%82%A1%E4%B8%80%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B812%E5%B9%B4%E9%80%A0%E5%81%87%E4%B8%8A%E7%99%BE%E4%BA%BF%E5%85%83%23&t=31&band_rank=48&Refer=top) 26036
 1. [369单杀Zeus](https://s.weibo.com/weibo?q=369%E5%8D%95%E6%9D%80Zeus&t=31&band_rank=40&Refer=top) 22994
+1. [冬瓜苹果水](https://s.weibo.com/weibo?q=%E5%86%AC%E7%93%9C%E8%8B%B9%E6%9E%9C%E6%B0%B4&t=31&band_rank=49&Refer=top) 18400
 <!-- END -->
 
 历史归档 [./archives](./archives)
