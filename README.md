@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-07-08 02:31:01.060817 
-![2024-07-08](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240708/2024-07-08.png?versionId=4_z8fbbed132d73df8689c40f13_f101487dcf75c7794_d20240707_m183100_c005_v0501020_t0050_u01720377060108) 
+最后更新时间 2024-07-08 02:49:13.110589 
+![2024-07-08](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240708/2024-07-08.png?versionId=4_z8fbbed132d73df8689c40f13_f103835f162146477_d20240707_m184912_c005_v0501021_t0031_u01720378152958) 
 1. [TES对战T1](https://s.weibo.com/weibo?q=%23TES%E5%AF%B9%E6%88%98T1%23&t=31&band_rank=4&Refer=top) 1139429
 1. [河南暴雨实况](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E6%9A%B4%E9%9B%A8%E5%AE%9E%E5%86%B5%23&t=31&band_rank=1&Refer=top) 574959
 1. [普京没空吃饭偷吃零食](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E6%B2%A1%E7%A9%BA%E5%90%83%E9%A5%AD%E5%81%B7%E5%90%83%E9%9B%B6%E9%A3%9F%23&t=31&band_rank=2&Refer=top) 498882
@@ -74,6 +74,7 @@
 1. [腰围多少是中心型肥胖有标准了](https://s.weibo.com/weibo?q=%23%E8%85%B0%E5%9B%B4%E5%A4%9A%E5%B0%91%E6%98%AF%E4%B8%AD%E5%BF%83%E5%9E%8B%E8%82%A5%E8%83%96%E6%9C%89%E6%A0%87%E5%87%86%E4%BA%86%23&t=31&band_rank=47&Refer=top) 76076
 1. [蒂亚戈退役](https://s.weibo.com/weibo?q=%23%E8%92%82%E4%BA%9A%E6%88%88%E9%80%80%E5%BD%B9%23&t=31&band_rank=48&Refer=top) 75511
 1. [任敏瘦了](https://s.weibo.com/weibo?q=%E4%BB%BB%E6%95%8F%E7%98%A6%E4%BA%86&t=31&band_rank=49&Refer=top) 75472
+1. [当婺剧遇上00后](https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%A9%BA%E5%89%A7%E9%81%87%E4%B8%8A00%E5%90%8E%23&t=31&band_rank=10&Refer=top) 73337
 1. [12306上的静兑铺都是啥意思](https://s.weibo.com/weibo?q=%2312306%E4%B8%8A%E7%9A%84%E9%9D%99%E5%85%91%E9%93%BA%E9%83%BD%E6%98%AF%E5%95%A5%E6%84%8F%E6%80%9D%23&t=31&band_rank=50&Refer=top) 71914
 1. [T1扳回一局](https://s.weibo.com/weibo?q=T1%E6%89%B3%E5%9B%9E%E4%B8%80%E5%B1%80&t=31&band_rank=45&Refer=top) 71522
 1. [TES全华班](https://s.weibo.com/weibo?q=TES%E5%85%A8%E5%8D%8E%E7%8F%AD&t=31&band_rank=34&Refer=top) 71297
@@ -83,8 +84,9 @@
 1. [盲盒旅行局](https://s.weibo.com/weibo?q=%23%E7%9B%B2%E7%9B%92%E6%97%85%E8%A1%8C%E5%B1%80%23&t=31&band_rank=39&Refer=top) 53807
 1. [TES对战T1先下一城](https://s.weibo.com/weibo?q=%23TES%E5%AF%B9%E6%88%98T1%E5%85%88%E4%B8%8B%E4%B8%80%E5%9F%8E%23&t=31&band_rank=49&Refer=top) 42713
 1. [T1扳回一城](https://s.weibo.com/weibo?q=%23T1%E6%89%B3%E5%9B%9E%E4%B8%80%E5%9F%8E%23&t=31&band_rank=40&Refer=top) 40454
-1. [石油杯 奶油杯](https://s.weibo.com/weibo?q=%E7%9F%B3%E6%B2%B9%E6%9D%AF%20%E5%A5%B6%E6%B2%B9%E6%9D%AF&t=31&band_rank=50&Refer=top) 38337
+1. [石油杯 奶油杯](https://s.weibo.com/weibo?q=%E7%9F%B3%E6%B2%B9%E6%9D%AF%20%E5%A5%B6%E6%B2%B9%E6%9D%AF&t=31&band_rank=50&Refer=top) 39537
 1. [为什么不ban兰博](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8Dban%E5%85%B0%E5%8D%9A&t=31&band_rank=30&Refer=top) 37690
+1. [沙特杯超长暂停时间](https://s.weibo.com/weibo?q=%E6%B2%99%E7%89%B9%E6%9D%AF%E8%B6%85%E9%95%BF%E6%9A%82%E5%81%9C%E6%97%B6%E9%97%B4&t=31&band_rank=25&Refer=top) 36276
 1. [faker状态](https://s.weibo.com/weibo?q=%23faker%E7%8A%B6%E6%80%81%23&t=31&band_rank=50&Refer=top) 30010
 <!-- END -->
 
