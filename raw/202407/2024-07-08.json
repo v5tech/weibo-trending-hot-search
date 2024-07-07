@@ -83,6 +83,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E6%B1%89%E5%AF%86%E5%B0%94%E9%A1%BF%E8%8B%B1%E5%9B%BD%E4%B8%BB%E5%9C%BA%E5%A4%BA%E5%86%A0%23&t=31&band_rank=16&Refer=top",
     "hot": 210916
   },
+  "求井盖闭嘴教程": {
+    "url": "https://s.weibo.com/weibo?q=%E6%B1%82%E4%BA%95%E7%9B%96%E9%97%AD%E5%98%B4%E6%95%99%E7%A8%8B&t=31&band_rank=7&Refer=top",
+    "hot": 204780
+  },
   "山东暴雨高铁站开休息室供旅客躲雨": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E6%9A%B4%E9%9B%A8%E9%AB%98%E9%93%81%E7%AB%99%E5%BC%80%E4%BC%91%E6%81%AF%E5%AE%A4%E4%BE%9B%E6%97%85%E5%AE%A2%E8%BA%B2%E9%9B%A8%23&t=31&band_rank=10&Refer=top",
     "hot": 197555
@@ -138,10 +142,6 @@
   "大熊猫赴港": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E8%B5%B4%E6%B8%AF%23&t=31&band_rank=27&Refer=top",
     "hot": 131529
-  },
-  "求井盖闭嘴教程": {
-    "url": "https://s.weibo.com/weibo?q=%E6%B1%82%E4%BA%95%E7%9B%96%E9%97%AD%E5%98%B4%E6%95%99%E7%A8%8B&t=31&band_rank=7&Refer=top",
-    "hot": 127064
   },
   "北海公园偶遇朱珠一家": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%B5%B7%E5%85%AC%E5%9B%AD%E5%81%B6%E9%81%87%E6%9C%B1%E7%8F%A0%E4%B8%80%E5%AE%B6%23&t=31&band_rank=29&Refer=top",
@@ -223,6 +223,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E8%80%80%E6%96%87%E5%AF%B9%E6%8E%A5%E5%8F%91%E6%96%87%E5%9B%9E%E5%BA%94%23&t=31&band_rank=42&Refer=top",
     "hot": 87405
   },
+  "B太向灾区捐赠物资": {
+    "url": "https://s.weibo.com/weibo?q=%23B%E5%A4%AA%E5%90%91%E7%81%BE%E5%8C%BA%E6%8D%90%E8%B5%A0%E7%89%A9%E8%B5%84%23&t=31&band_rank=12&Refer=top",
+    "hot": 85056
+  },
   "预拨5.4亿元支持湖南等地抢险救灾": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%A2%84%E6%8B%A85.4%E4%BA%BF%E5%85%83%E6%94%AF%E6%8C%81%E6%B9%96%E5%8D%97%E7%AD%89%E5%9C%B0%E6%8A%A2%E9%99%A9%E6%95%91%E7%81%BE%23&t=31&band_rank=45&Refer=top",
     "hot": 83971
@@ -259,17 +263,13 @@
     "url": "https://s.weibo.com/weibo?q=%2312306%E4%B8%8A%E7%9A%84%E9%9D%99%E5%85%91%E9%93%BA%E9%83%BD%E6%98%AF%E5%95%A5%E6%84%8F%E6%80%9D%23&t=31&band_rank=50&Refer=top",
     "hot": 71914
   },
+  "T1扳回一局": {
+    "url": "https://s.weibo.com/weibo?q=T1%E6%89%B3%E5%9B%9E%E4%B8%80%E5%B1%80&t=31&band_rank=45&Refer=top",
+    "hot": 71522
+  },
   "TES全华班": {
     "url": "https://s.weibo.com/weibo?q=TES%E5%85%A8%E5%8D%8E%E7%8F%AD&t=31&band_rank=34&Refer=top",
     "hot": 71297
-  },
-  "B太向灾区捐赠物资": {
-    "url": "https://s.weibo.com/weibo?q=%23B%E5%A4%AA%E5%90%91%E7%81%BE%E5%8C%BA%E6%8D%90%E8%B5%A0%E7%89%A9%E8%B5%84%23&t=31&band_rank=12&Refer=top",
-    "hot": 71209
-  },
-  "T1扳回一局": {
-    "url": "https://s.weibo.com/weibo?q=T1%E6%89%B3%E5%9B%9E%E4%B8%80%E5%B1%80&t=31&band_rank=45&Refer=top",
-    "hot": 70186
   },
   "Zeus 幽默": {
     "url": "https://s.weibo.com/weibo?q=Zeus%20%E5%B9%BD%E9%BB%98&t=31&band_rank=43&Refer=top",
@@ -297,7 +297,11 @@
   },
   "石油杯 奶油杯": {
     "url": "https://s.weibo.com/weibo?q=%E7%9F%B3%E6%B2%B9%E6%9D%AF%20%E5%A5%B6%E6%B2%B9%E6%9D%AF&t=31&band_rank=50&Refer=top",
-    "hot": 36365
+    "hot": 38337
+  },
+  "为什么不ban兰博": {
+    "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8Dban%E5%85%B0%E5%8D%9A&t=31&band_rank=30&Refer=top",
+    "hot": 37690
   },
   "faker状态": {
     "url": "https://s.weibo.com/weibo?q=%23faker%E7%8A%B6%E6%80%81%23&t=31&band_rank=50&Refer=top",
