@@ -15,6 +15,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%A1%94%E5%85%B3%E7%B3%BB%E6%8B%A5%E6%9C%89%E4%BA%86%E6%96%B0%E5%AE%9A%E4%BD%8D%23&t=31&band_rank=3&Refer=top",
     "hot": 489593
   },
+  "BLG Wei": {
+    "url": "https://s.weibo.com/weibo?q=BLG%20Wei&t=31&band_rank=17&Refer=top",
+    "hot": 389222
+  },
   "洞庭湖决堤被冲毁的家和生计": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%B4%9E%E5%BA%AD%E6%B9%96%E5%86%B3%E5%A0%A4%E8%A2%AB%E5%86%B2%E6%AF%81%E7%9A%84%E5%AE%B6%E5%92%8C%E7%94%9F%E8%AE%A1%23&t=31&band_rank=13&Refer=top",
     "hot": 362952
@@ -35,9 +39,9 @@
     "url": "https://s.weibo.com/weibo?q=%E9%BB%98%E6%9D%80%20%E7%8E%8B%E5%9C%A3%E8%BF%AA%E5%B7%B2%E6%98%AFnextlevel&t=31&band_rank=6&Refer=top",
     "hot": 297357
   },
-  "BLG Wei": {
-    "url": "https://s.weibo.com/weibo?q=BLG%20Wei&t=31&band_rank=17&Refer=top",
-    "hot": 260379
+  "古人的解暑智慧": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8F%A4%E4%BA%BA%E7%9A%84%E8%A7%A3%E6%9A%91%E6%99%BA%E6%85%A7%23&t=31&band_rank=3&Refer=top",
+    "hot": 270920
   },
   "白桃星座": {
     "url": "https://s.weibo.com/weibo?q=%E7%99%BD%E6%A1%83%E6%98%9F%E5%BA%A7&t=31&band_rank=7&Refer=top",
@@ -134,6 +138,10 @@
   "大熊猫赴港": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E8%B5%B4%E6%B8%AF%23&t=31&band_rank=27&Refer=top",
     "hot": 131529
+  },
+  "求井盖闭嘴教程": {
+    "url": "https://s.weibo.com/weibo?q=%E6%B1%82%E4%BA%95%E7%9B%96%E9%97%AD%E5%98%B4%E6%95%99%E7%A8%8B&t=31&band_rank=7&Refer=top",
+    "hot": 127064
   },
   "北海公园偶遇朱珠一家": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%B5%B7%E5%85%AC%E5%9B%AD%E5%81%B6%E9%81%87%E6%9C%B1%E7%8F%A0%E4%B8%80%E5%AE%B6%23&t=31&band_rank=29&Refer=top",
@@ -255,6 +263,18 @@
     "url": "https://s.weibo.com/weibo?q=TES%E5%85%A8%E5%8D%8E%E7%8F%AD&t=31&band_rank=34&Refer=top",
     "hot": 71297
   },
+  "B太向灾区捐赠物资": {
+    "url": "https://s.weibo.com/weibo?q=%23B%E5%A4%AA%E5%90%91%E7%81%BE%E5%8C%BA%E6%8D%90%E8%B5%A0%E7%89%A9%E8%B5%84%23&t=31&band_rank=12&Refer=top",
+    "hot": 71209
+  },
+  "T1扳回一局": {
+    "url": "https://s.weibo.com/weibo?q=T1%E6%89%B3%E5%9B%9E%E4%B8%80%E5%B1%80&t=31&band_rank=45&Refer=top",
+    "hot": 70186
+  },
+  "Zeus 幽默": {
+    "url": "https://s.weibo.com/weibo?q=Zeus%20%E5%B9%BD%E9%BB%98&t=31&band_rank=43&Refer=top",
+    "hot": 66743
+  },
   "不ban小炮": {
     "url": "https://s.weibo.com/weibo?q=%E4%B8%8Dban%E5%B0%8F%E7%82%AE&t=31&band_rank=36&Refer=top",
     "hot": 66364
@@ -275,16 +295,12 @@
     "url": "https://s.weibo.com/weibo?q=%23T1%E6%89%B3%E5%9B%9E%E4%B8%80%E5%9F%8E%23&t=31&band_rank=40&Refer=top",
     "hot": 40454
   },
-  "Zeus 幽默": {
-    "url": "https://s.weibo.com/weibo?q=Zeus%20%E5%B9%BD%E9%BB%98&t=31&band_rank=43&Refer=top",
-    "hot": 36623
-  },
-  "T1扳回一局": {
-    "url": "https://s.weibo.com/weibo?q=T1%E6%89%B3%E5%9B%9E%E4%B8%80%E5%B1%80&t=31&band_rank=45&Refer=top",
-    "hot": 36135
-  },
   "石油杯 奶油杯": {
     "url": "https://s.weibo.com/weibo?q=%E7%9F%B3%E6%B2%B9%E6%9D%AF%20%E5%A5%B6%E6%B2%B9%E6%9D%AF&t=31&band_rank=50&Refer=top",
-    "hot": 34560
+    "hot": 36365
+  },
+  "faker状态": {
+    "url": "https://s.weibo.com/weibo?q=%23faker%E7%8A%B6%E6%80%81%23&t=31&band_rank=50&Refer=top",
+    "hot": 30010
   }
 }
