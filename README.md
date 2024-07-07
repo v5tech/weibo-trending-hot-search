@@ -7,17 +7,17 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-07-08 04:24:26.566502 
-![2024-07-08](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240708/2024-07-08.png?versionId=4_z8fbbed132d73df8689c40f13_f1055a2337ac6e9e4_d20240707_m202426_c005_v0501022_t0009_u01720383866414) 
+最后更新时间 2024-07-08 04:35:24.894280 
+![2024-07-08](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240708/2024-07-08.png?versionId=4_z8fbbed132d73df8689c40f13_f106dd7b98a322988_d20240707_m203524_c005_v0501014_t0003_u01720384524502) 
 1. [TES对战T1](https://s.weibo.com/weibo?q=%23TES%E5%AF%B9%E6%88%98T1%23&t=31&band_rank=4&Refer=top) 1139429
 1. [河南暴雨实况](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E6%9A%B4%E9%9B%A8%E5%AE%9E%E5%86%B5%23&t=31&band_rank=1&Refer=top) 574959
+1. [T1夺冠](https://s.weibo.com/weibo?q=T1%E5%A4%BA%E5%86%A0&t=31&band_rank=2&Refer=top) 555739
 1. [普京没空吃饭偷吃零食](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E6%B2%A1%E7%A9%BA%E5%90%83%E9%A5%AD%E5%81%B7%E5%90%83%E9%9B%B6%E9%A3%9F%23&t=31&band_rank=2&Refer=top) 498882
 1. [中塔关系拥有了新定位](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%A1%94%E5%85%B3%E7%B3%BB%E6%8B%A5%E6%9C%89%E4%BA%86%E6%96%B0%E5%AE%9A%E4%BD%8D%23&t=31&band_rank=3&Refer=top) 489593
 1. [BLG Wei](https://s.weibo.com/weibo?q=BLG%20Wei&t=31&band_rank=17&Refer=top) 389222
 1. [洞庭湖决堤被冲毁的家和生计](https://s.weibo.com/weibo?q=%23%E6%B4%9E%E5%BA%AD%E6%B9%96%E5%86%B3%E5%A0%A4%E8%A2%AB%E5%86%B2%E6%AF%81%E7%9A%84%E5%AE%B6%E5%92%8C%E7%94%9F%E8%AE%A1%23&t=31&band_rank=13&Refer=top) 362952
 1. [TES先下一城](https://s.weibo.com/weibo?q=TES%E5%85%88%E4%B8%8B%E4%B8%80%E5%9F%8E&t=31&band_rank=10&Refer=top) 353936
 1. [电竞世界杯](https://s.weibo.com/weibo?q=%E7%94%B5%E7%AB%9E%E4%B8%96%E7%95%8C%E6%9D%AF&t=31&band_rank=5&Refer=top) 341015
-1. [T1夺冠](https://s.weibo.com/weibo?q=T1%E5%A4%BA%E5%86%A0&t=31&band_rank=2&Refer=top) 338564
 1. [赵露思 路透](https://s.weibo.com/weibo?q=%E8%B5%B5%E9%9C%B2%E6%80%9D%20%E8%B7%AF%E9%80%8F&t=31&band_rank=28&Refer=top) 301333
 1. [默杀 王圣迪已是nextlevel](https://s.weibo.com/weibo?q=%E9%BB%98%E6%9D%80%20%E7%8E%8B%E5%9C%A3%E8%BF%AA%E5%B7%B2%E6%98%AFnextlevel&t=31&band_rank=6&Refer=top) 297357
 1. [古人的解暑智慧](https://s.weibo.com/weibo?q=%23%E5%8F%A4%E4%BA%BA%E7%9A%84%E8%A7%A3%E6%9A%91%E6%99%BA%E6%85%A7%23&t=31&band_rank=3&Refer=top) 270920
@@ -88,13 +88,13 @@
 1. [大学生为丽水近30对老人补拍结婚照](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%B8%BA%E4%B8%BD%E6%B0%B4%E8%BF%9130%E5%AF%B9%E8%80%81%E4%BA%BA%E8%A1%A5%E6%8B%8D%E7%BB%93%E5%A9%9A%E7%85%A7%23&t=31&band_rank=10&Refer=top) 64372
 1. [石油杯 奶油杯](https://s.weibo.com/weibo?q=%E7%9F%B3%E6%B2%B9%E6%9D%AF%20%E5%A5%B6%E6%B2%B9%E6%9D%AF&t=31&band_rank=50&Refer=top) 60251
 1. [369鳄鱼](https://s.weibo.com/weibo?q=369%E9%B3%84%E9%B1%BC&t=31&band_rank=42&Refer=top) 58293
+1. [JackeyLove四杀](https://s.weibo.com/weibo?q=JackeyLove%E5%9B%9B%E6%9D%80&t=31&band_rank=14&Refer=top) 57282
 1. [盲盒旅行局](https://s.weibo.com/weibo?q=%23%E7%9B%B2%E7%9B%92%E6%97%85%E8%A1%8C%E5%B1%80%23&t=31&band_rank=39&Refer=top) 53807
-1. [JackeyLove四杀](https://s.weibo.com/weibo?q=JackeyLove%E5%9B%9B%E6%9D%80&t=31&band_rank=14&Refer=top) 45298
+1. [为什么不ban兰博](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8Dban%E5%85%B0%E5%8D%9A&t=31&band_rank=30&Refer=top) 53331
 1. [TES对战T1先下一城](https://s.weibo.com/weibo?q=%23TES%E5%AF%B9%E6%88%98T1%E5%85%88%E4%B8%8B%E4%B8%80%E5%9F%8E%23&t=31&band_rank=49&Refer=top) 42713
 1. [T1扳回一城](https://s.weibo.com/weibo?q=%23T1%E6%89%B3%E5%9B%9E%E4%B8%80%E5%9F%8E%23&t=31&band_rank=40&Refer=top) 40454
-1. [为什么不ban兰博](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8Dban%E5%85%B0%E5%8D%9A&t=31&band_rank=30&Refer=top) 40004
+1. [经典第四把](https://s.weibo.com/weibo?q=%E7%BB%8F%E5%85%B8%E7%AC%AC%E5%9B%9B%E6%8A%8A&t=31&band_rank=31&Refer=top) 30279
 1. [faker状态](https://s.weibo.com/weibo?q=%23faker%E7%8A%B6%E6%80%81%23&t=31&band_rank=50&Refer=top) 30010
-1. [经典第四把](https://s.weibo.com/weibo?q=%E7%BB%8F%E5%85%B8%E7%AC%AC%E5%9B%9B%E6%8A%8A&t=31&band_rank=31&Refer=top) 24773
 1. [369单杀Zeus](https://s.weibo.com/weibo?q=369%E5%8D%95%E6%9D%80Zeus&t=31&band_rank=40&Refer=top) 22994
 <!-- END -->
 
