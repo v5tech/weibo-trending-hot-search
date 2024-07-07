@@ -183,6 +183,10 @@
     "url": "https://s.weibo.com/weibo?q=%E5%8C%96%E5%A6%86%E7%9A%84%E5%B0%BD%E5%A4%B4%E6%98%AF%E6%B7%A1%E5%A6%86&t=31&band_rank=31&Refer=top",
     "hot": 106925
   },
+  "沙特杯超长暂停时间": {
+    "url": "https://s.weibo.com/weibo?q=%E6%B2%99%E7%89%B9%E6%9D%AF%E8%B6%85%E9%95%BF%E6%9A%82%E5%81%9C%E6%97%B6%E9%97%B4&t=31&band_rank=25&Refer=top",
+    "hot": 106033
+  },
   "五月天深圳": {
     "url": "https://s.weibo.com/weibo?q=%E4%BA%94%E6%9C%88%E5%A4%A9%E6%B7%B1%E5%9C%B3&t=31&band_rank=33&Refer=top",
     "hot": 104790
@@ -307,12 +311,12 @@
     "url": "https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8Dban%E5%85%B0%E5%8D%9A&t=31&band_rank=30&Refer=top",
     "hot": 37690
   },
-  "沙特杯超长暂停时间": {
-    "url": "https://s.weibo.com/weibo?q=%E6%B2%99%E7%89%B9%E6%9D%AF%E8%B6%85%E9%95%BF%E6%9A%82%E5%81%9C%E6%97%B6%E9%97%B4&t=31&band_rank=25&Refer=top",
-    "hot": 36276
-  },
   "faker状态": {
     "url": "https://s.weibo.com/weibo?q=%23faker%E7%8A%B6%E6%80%81%23&t=31&band_rank=50&Refer=top",
     "hot": 30010
+  },
+  "369鳄鱼": {
+    "url": "https://s.weibo.com/weibo?q=369%E9%B3%84%E9%B1%BC&t=31&band_rank=42&Refer=top",
+    "hot": 22945
   }
 }
