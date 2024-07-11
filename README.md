@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-07-12 02:38:37.454260 
-![2024-07-12](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240712/2024-07-12.png?versionId=4_z8fbbed132d73df8689c40f13_f10851b6de0d7df95_d20240711_m183836_c005_v0501022_t0032_u01720723116957) 
+最后更新时间 2024-07-12 02:49:27.722794 
+![2024-07-12](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240712/2024-07-12.png?versionId=4_z8fbbed132d73df8689c40f13_f10561203cc4fedf8_d20240711_m184927_c005_v0501021_t0014_u01720723767682) 
 1. [44岁柳岩自曝患子宫肌瘤](https://s.weibo.com/weibo?q=%2344%E5%B2%81%E6%9F%B3%E5%B2%A9%E8%87%AA%E6%9B%9D%E6%82%A3%E5%AD%90%E5%AE%AB%E8%82%8C%E7%98%A4%23&t=31&band_rank=1&Refer=top) 982806
 1. [苏翊鸣 朱易](https://s.weibo.com/weibo?q=%E8%8B%8F%E7%BF%8A%E9%B8%A3%20%E6%9C%B1%E6%98%93&t=31&band_rank=2&Refer=top) 663496
 1. [普通人遇到大暴雨到底该怎么办](https://s.weibo.com/weibo?q=%23%E6%99%AE%E9%80%9A%E4%BA%BA%E9%81%87%E5%88%B0%E5%A4%A7%E6%9A%B4%E9%9B%A8%E5%88%B0%E5%BA%95%E8%AF%A5%E6%80%8E%E4%B9%88%E5%8A%9E%23&t=31&band_rank=3&Refer=top) 503132
@@ -75,8 +75,8 @@
 1. [檀健次唱桃花血憋不住一点](https://s.weibo.com/weibo?q=%E6%AA%80%E5%81%A5%E6%AC%A1%E5%94%B1%E6%A1%83%E8%8A%B1%E8%A1%80%E6%86%8B%E4%B8%8D%E4%BD%8F%E4%B8%80%E7%82%B9&t=31&band_rank=48&Refer=top) 52192
 1. [说唱梦工厂](https://s.weibo.com/weibo?q=%E8%AF%B4%E5%94%B1%E6%A2%A6%E5%B7%A5%E5%8E%82&t=31&band_rank=50&Refer=top) 52169
 1. [周杰伦cos藤原拓海](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6cos%E8%97%A4%E5%8E%9F%E6%8B%93%E6%B5%B7%23&t=31&band_rank=34&Refer=top) 40008
+1. [北大发文祝福要去敦煌的考古女孩](https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E5%8F%91%E6%96%87%E7%A5%9D%E7%A6%8F%E8%A6%81%E5%8E%BB%E6%95%A6%E7%85%8C%E7%9A%84%E8%80%83%E5%8F%A4%E5%A5%B3%E5%AD%A9%23&t=31&band_rank=30&Refer=top) 39553
 1. [世界之外](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E4%B9%8B%E5%A4%96%23&t=31&band_rank=47&Refer=top) 39538
-1. [北大发文祝福要去敦煌的考古女孩](https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E5%8F%91%E6%96%87%E7%A5%9D%E7%A6%8F%E8%A6%81%E5%8E%BB%E6%95%A6%E7%85%8C%E7%9A%84%E8%80%83%E5%8F%A4%E5%A5%B3%E5%AD%A9%23&t=31&band_rank=30&Refer=top) 33082
 1. [Red女团首专OrientalRed](https://s.weibo.com/weibo?q=%23Red%E5%A5%B3%E5%9B%A2%E9%A6%96%E4%B8%93OrientalRed%23&t=31&band_rank=38&Refer=top) 28841
 <!-- END -->
 
