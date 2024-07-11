@@ -187,6 +187,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E9%83%91%E6%81%BA%E8%8B%97%E8%8B%97%E4%B8%A4%E5%B0%8F%E6%97%A0%E7%8C%9C%23&t=31&band_rank=44&Refer=top",
     "hot": 97199
   },
+  "大哥暖心怼脸拍摄出手相助的交警": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%93%A5%E6%9A%96%E5%BF%83%E6%80%BC%E8%84%B8%E6%8B%8D%E6%91%84%E5%87%BA%E6%89%8B%E7%9B%B8%E5%8A%A9%E7%9A%84%E4%BA%A4%E8%AD%A6%23&t=31&band_rank=17&Refer=top",
+    "hot": 94432
+  },
   "五点半和六点下班真不一样": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%BA%94%E7%82%B9%E5%8D%8A%E5%92%8C%E5%85%AD%E7%82%B9%E4%B8%8B%E7%8F%AD%E7%9C%9F%E4%B8%8D%E4%B8%80%E6%A0%B7%23&t=31&band_rank=45&Refer=top",
     "hot": 94082
@@ -223,10 +227,6 @@
     "url": "https://s.weibo.com/weibo?q=%E8%B0%A2%E9%9C%86%E9%94%8B%20%E7%8E%8B%E8%8F%B2%E6%88%98%E6%96%97%E7%B2%89&t=31&band_rank=50&Refer=top",
     "hot": 74903
   },
-  "大哥暖心怼脸拍摄出手相助的交警": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%93%A5%E6%9A%96%E5%BF%83%E6%80%BC%E8%84%B8%E6%8B%8D%E6%91%84%E5%87%BA%E6%89%8B%E7%9B%B8%E5%8A%A9%E7%9A%84%E4%BA%A4%E8%AD%A6%23&t=31&band_rank=17&Refer=top",
-    "hot": 69859
-  },
   "相柳酒搭子已上线": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%9B%B8%E6%9F%B3%E9%85%92%E6%90%AD%E5%AD%90%E5%B7%B2%E4%B8%8A%E7%BA%BF%23&t=31&band_rank=50&Refer=top",
     "hot": 67205
@@ -254,5 +254,13 @@
   "说唱梦工厂": {
     "url": "https://s.weibo.com/weibo?q=%E8%AF%B4%E5%94%B1%E6%A2%A6%E5%B7%A5%E5%8E%82&t=31&band_rank=50&Refer=top",
     "hot": 52169
+  },
+  "周杰伦cos藤原拓海": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6cos%E8%97%A4%E5%8E%9F%E6%8B%93%E6%B5%B7%23&t=31&band_rank=34&Refer=top",
+    "hot": 40008
+  },
+  "世界之外": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E4%B9%8B%E5%A4%96%23&t=31&band_rank=47&Refer=top",
+    "hot": 39538
   }
 }
