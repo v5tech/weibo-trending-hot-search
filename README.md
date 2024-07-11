@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-07-12 03:10:26.418886 
-![2024-07-12](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240712/2024-07-12.png?versionId=4_z8fbbed132d73df8689c40f13_f110b5f0e7d83a78e_d20240711_m191026_c005_v0501022_t0000_u01720725026226) 
+最后更新时间 2024-07-12 03:20:36.482274 
+![2024-07-12](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240712/2024-07-12.png?versionId=4_z8fbbed132d73df8689c40f13_f111b71197f90ea01_d20240711_m192035_c005_v0501020_t0012_u01720725635986) 
 1. [44岁柳岩自曝患子宫肌瘤](https://s.weibo.com/weibo?q=%2344%E5%B2%81%E6%9F%B3%E5%B2%A9%E8%87%AA%E6%9B%9D%E6%82%A3%E5%AD%90%E5%AE%AB%E8%82%8C%E7%98%A4%23&t=31&band_rank=1&Refer=top) 982806
 1. [苏翊鸣 朱易](https://s.weibo.com/weibo?q=%E8%8B%8F%E7%BF%8A%E9%B8%A3%20%E6%9C%B1%E6%98%93&t=31&band_rank=2&Refer=top) 663496
 1. [普通人遇到大暴雨到底该怎么办](https://s.weibo.com/weibo?q=%23%E6%99%AE%E9%80%9A%E4%BA%BA%E9%81%87%E5%88%B0%E5%A4%A7%E6%9A%B4%E9%9B%A8%E5%88%B0%E5%BA%95%E8%AF%A5%E6%80%8E%E4%B9%88%E5%8A%9E%23&t=31&band_rank=3&Refer=top) 503132
@@ -78,6 +78,8 @@
 1. [周杰伦cos藤原拓海](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6cos%E8%97%A4%E5%8E%9F%E6%8B%93%E6%B5%B7%23&t=31&band_rank=34&Refer=top) 40008
 1. [世界之外](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E4%B9%8B%E5%A4%96%23&t=31&band_rank=47&Refer=top) 39538
 1. [Red女团首专OrientalRed](https://s.weibo.com/weibo?q=%23Red%E5%A5%B3%E5%9B%A2%E9%A6%96%E4%B8%93OrientalRed%23&t=31&band_rank=38&Refer=top) 28841
+1. [高温天大巴车抛锚众人化身推车侠](https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%B8%A9%E5%A4%A9%E5%A4%A7%E5%B7%B4%E8%BD%A6%E6%8A%9B%E9%94%9A%E4%BC%97%E4%BA%BA%E5%8C%96%E8%BA%AB%E6%8E%A8%E8%BD%A6%E4%BE%A0%23&t=31&band_rank=25&Refer=top) 25289
+1. [6旬母亲跟儿子学滑板动作丝滑](https://s.weibo.com/weibo?q=%236%E6%97%AC%E6%AF%8D%E4%BA%B2%E8%B7%9F%E5%84%BF%E5%AD%90%E5%AD%A6%E6%BB%91%E6%9D%BF%E5%8A%A8%E4%BD%9C%E4%B8%9D%E6%BB%91%23&t=31&band_rank=38&Refer=top) 21810
 1. [水枪好玩吗周震南](https://s.weibo.com/weibo?q=%23%E6%B0%B4%E6%9E%AA%E5%A5%BD%E7%8E%A9%E5%90%97%E5%91%A8%E9%9C%87%E5%8D%97%23&t=31&band_rank=45&Refer=top) 21526
 1. [刘德华2580元门票被炒到68880元](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%BE%B7%E5%8D%8E2580%E5%85%83%E9%97%A8%E7%A5%A8%E8%A2%AB%E7%82%92%E5%88%B068880%E5%85%83%23&t=31&band_rank=46&Refer=top) 21524
 <!-- END -->
