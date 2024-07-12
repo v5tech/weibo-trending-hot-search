@@ -79,6 +79,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E6%97%A5%E6%96%B9%E8%A6%81%E6%B1%82%E9%80%AE%E6%8D%952%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA%23&t=31&band_rank=20&Refer=top",
     "hot": 166620
   },
+  "旅客突发疾病他掏出AED救人": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%97%85%E5%AE%A2%E7%AA%81%E5%8F%91%E7%96%BE%E7%97%85%E4%BB%96%E6%8E%8F%E5%87%BAAED%E6%95%91%E4%BA%BA%23&t=31&band_rank=10&Refer=top",
+    "hot": 162995
+  },
   "男孩高考656分志愿全填临床医学": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E9%AB%98%E8%80%83656%E5%88%86%E5%BF%97%E6%84%BF%E5%85%A8%E5%A1%AB%E4%B8%B4%E5%BA%8A%E5%8C%BB%E5%AD%A6%23&t=31&band_rank=24&Refer=top",
     "hot": 161048
@@ -218,5 +222,9 @@
   "2024LPL": {
     "url": "https://s.weibo.com/weibo?q=2024LPL&t=31&band_rank=50&Refer=top",
     "hot": 96180
+  },
+  "真的教会我怎么夹抓夹了": {
+    "url": "https://s.weibo.com/weibo?q=%E7%9C%9F%E7%9A%84%E6%95%99%E4%BC%9A%E6%88%91%E6%80%8E%E4%B9%88%E5%A4%B9%E6%8A%93%E5%A4%B9%E4%BA%86&t=31&band_rank=39&Refer=top",
+    "hot": 76368
   }
 }
