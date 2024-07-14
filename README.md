@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-07-14 11:32:55.442955 
-![2024-07-14](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240714/2024-07-14.png?versionId=4_z8fbbed132d73df8689c40f13_f1016850cefe27b63_d20240714_m033255_c005_v0501022_t0056_u01720927975352) 
+最后更新时间 2024-07-14 11:49:40.612051 
+![2024-07-14](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240714/2024-07-14.png?versionId=4_z8fbbed132d73df8689c40f13_f1159b06be9916855_d20240714_m034940_c005_v0501022_t0016_u01720928980432) 
 1. [特朗普称右耳被子弹击穿](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%8F%B3%E8%80%B3%E8%A2%AB%E5%AD%90%E5%BC%B9%E5%87%BB%E7%A9%BF%23&t=31&band_rank=2&Refer=top) 11665372
 1. [特朗普遭遇枪击](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%81%AD%E9%81%87%E6%9E%AA%E5%87%BB%23&t=31&band_rank=1&Refer=top) 11586725
 1. [枪声响起特朗普撤离演讲台](https://s.weibo.com/weibo?q=%23%E6%9E%AA%E5%A3%B0%E5%93%8D%E8%B5%B7%E7%89%B9%E6%9C%97%E6%99%AE%E6%92%A4%E7%A6%BB%E6%BC%94%E8%AE%B2%E5%8F%B0%23&t=31&band_rank=1&Refer=top) 6139554
@@ -41,57 +41,63 @@
 1. [凯特王妃将第二次公开露面](https://s.weibo.com/weibo?q=%23%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E5%B0%86%E7%AC%AC%E4%BA%8C%E6%AC%A1%E5%85%AC%E5%BC%80%E9%9C%B2%E9%9D%A2%23&t=31&band_rank=5&Refer=top) 369592
 1. [崔永熙](https://s.weibo.com/weibo?q=%E5%B4%94%E6%B0%B8%E7%86%99&t=31&band_rank=9&Refer=top) 364647
 1. [眉山东坡泡菜年销售超220亿](https://s.weibo.com/weibo?q=%23%E7%9C%89%E5%B1%B1%E4%B8%9C%E5%9D%A1%E6%B3%A1%E8%8F%9C%E5%B9%B4%E9%94%80%E5%94%AE%E8%B6%85220%E4%BA%BF%23&t=31&band_rank=10&Refer=top) 359222
-1. [奥巴马就特朗普遭枪击发声](https://s.weibo.com/weibo?q=%23%E5%A5%A5%E5%B7%B4%E9%A9%AC%E5%B0%B1%E7%89%B9%E6%9C%97%E6%99%AE%E9%81%AD%E6%9E%AA%E5%87%BB%E5%8F%91%E5%A3%B0%23&t=31&band_rank=31&Refer=top) 351838
-1. [白敬亭两片装饼干21元](https://s.weibo.com/weibo?q=%E7%99%BD%E6%95%AC%E4%BA%AD%E4%B8%A4%E7%89%87%E8%A3%85%E9%A5%BC%E5%B9%B221%E5%85%83&t=31&band_rank=14&Refer=top) 332287
-1. [记者拍到子弹划过特朗普耳朵画面](https://s.weibo.com/weibo?q=%23%E8%AE%B0%E8%80%85%E6%8B%8D%E5%88%B0%E5%AD%90%E5%BC%B9%E5%88%92%E8%BF%87%E7%89%B9%E6%9C%97%E6%99%AE%E8%80%B3%E6%9C%B5%E7%94%BB%E9%9D%A2%23&t=31&band_rank=16&Refer=top) 327771
+1. [小夫妻每年结婚纪念日套娃式拍合照](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%A4%AB%E5%A6%BB%E6%AF%8F%E5%B9%B4%E7%BB%93%E5%A9%9A%E7%BA%AA%E5%BF%B5%E6%97%A5%E5%A5%97%E5%A8%83%E5%BC%8F%E6%8B%8D%E5%90%88%E7%85%A7%23&t=31&band_rank=10&Refer=top) 355008
+1. [奥巴马就特朗普遭枪击发声](https://s.weibo.com/weibo?q=%23%E5%A5%A5%E5%B7%B4%E9%A9%AC%E5%B0%B1%E7%89%B9%E6%9C%97%E6%99%AE%E9%81%AD%E6%9E%AA%E5%87%BB%E5%8F%91%E5%A3%B0%23&t=31&band_rank=31&Refer=top) 354151
+1. [白敬亭两片装饼干21元](https://s.weibo.com/weibo?q=%E7%99%BD%E6%95%AC%E4%BA%AD%E4%B8%A4%E7%89%87%E8%A3%85%E9%A5%BC%E5%B9%B221%E5%85%83&t=31&band_rank=14&Refer=top) 350890
+1. [刺杀特朗普枪手为一白人男性](https://s.weibo.com/weibo?q=%23%E5%88%BA%E6%9D%80%E7%89%B9%E6%9C%97%E6%99%AE%E6%9E%AA%E6%89%8B%E4%B8%BA%E4%B8%80%E7%99%BD%E4%BA%BA%E7%94%B7%E6%80%A7%23&t=31&band_rank=29&Refer=top) 349820
+1. [记者拍到子弹划过特朗普耳朵画面](https://s.weibo.com/weibo?q=%23%E8%AE%B0%E8%80%85%E6%8B%8D%E5%88%B0%E5%AD%90%E5%BC%B9%E5%88%92%E8%BF%87%E7%89%B9%E6%9C%97%E6%99%AE%E8%80%B3%E6%9C%B5%E7%94%BB%E9%9D%A2%23&t=31&band_rank=16&Refer=top) 347699
+1. [汪峰](https://s.weibo.com/weibo?q=%E6%B1%AA%E5%B3%B0&t=31&band_rank=26&Refer=top) 345864
+1. [伊万卡发声](https://s.weibo.com/weibo?q=%23%E4%BC%8A%E4%B8%87%E5%8D%A1%E5%8F%91%E5%A3%B0%23&t=31&band_rank=18&Refer=top) 345252
+1. [拜登发布声明](https://s.weibo.com/weibo?q=%E6%8B%9C%E7%99%BB%E5%8F%91%E5%B8%83%E5%A3%B0%E6%98%8E&t=31&band_rank=16&Refer=top) 344413
+1. [卫生巾要2个小时换一次](https://s.weibo.com/weibo?q=%23%E5%8D%AB%E7%94%9F%E5%B7%BE%E8%A6%812%E4%B8%AA%E5%B0%8F%E6%97%B6%E6%8D%A2%E4%B8%80%E6%AC%A1%23&t=31&band_rank=24&Refer=top) 326240
+1. [孙俪一家 儿子像妈女儿像爸](https://s.weibo.com/weibo?q=%E5%AD%99%E4%BF%AA%E4%B8%80%E5%AE%B6%20%E5%84%BF%E5%AD%90%E5%83%8F%E5%A6%88%E5%A5%B3%E5%84%BF%E5%83%8F%E7%88%B8&t=31&band_rank=36&Refer=top) 324711
 1. [李宇春一晚四套高定全球首穿](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AE%87%E6%98%A5%E4%B8%80%E6%99%9A%E5%9B%9B%E5%A5%97%E9%AB%98%E5%AE%9A%E5%85%A8%E7%90%83%E9%A6%96%E7%A9%BF%23&t=31&band_rank=7&Refer=top) 324187
-1. [刺杀特朗普枪手为一白人男性](https://s.weibo.com/weibo?q=%23%E5%88%BA%E6%9D%80%E7%89%B9%E6%9C%97%E6%99%AE%E6%9E%AA%E6%89%8B%E4%B8%BA%E4%B8%80%E7%99%BD%E4%BA%BA%E7%94%B7%E6%80%A7%23&t=31&band_rank=29&Refer=top) 323389
-1. [小夫妻每年结婚纪念日套娃式拍合照](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%A4%AB%E5%A6%BB%E6%AF%8F%E5%B9%B4%E7%BB%93%E5%A9%9A%E7%BA%AA%E5%BF%B5%E6%97%A5%E5%A5%97%E5%A8%83%E5%BC%8F%E6%8B%8D%E5%90%88%E7%85%A7%23&t=31&band_rank=10&Refer=top) 319032
+1. [因为录取通知书跟爸妈吵架了](https://s.weibo.com/weibo?q=%23%E5%9B%A0%E4%B8%BA%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E8%B7%9F%E7%88%B8%E5%A6%88%E5%90%B5%E6%9E%B6%E4%BA%86%23&t=31&band_rank=24&Refer=top) 323748
+1. [Henry以为吃火锅会去世](https://s.weibo.com/weibo?q=Henry%E4%BB%A5%E4%B8%BA%E5%90%83%E7%81%AB%E9%94%85%E4%BC%9A%E5%8E%BB%E4%B8%96&t=31&band_rank=25&Refer=top) 320493
 1. [安倍晋三](https://s.weibo.com/weibo?q=%E5%AE%89%E5%80%8D%E6%99%8B%E4%B8%89&t=31&band_rank=11&Refer=top) 318361
-1. [拜登发布声明](https://s.weibo.com/weibo?q=%E6%8B%9C%E7%99%BB%E5%8F%91%E5%B8%83%E5%A3%B0%E6%98%8E&t=31&band_rank=16&Refer=top) 316950
-1. [卫生巾要2个小时换一次](https://s.weibo.com/weibo?q=%23%E5%8D%AB%E7%94%9F%E5%B7%BE%E8%A6%812%E4%B8%AA%E5%B0%8F%E6%97%B6%E6%8D%A2%E4%B8%80%E6%AC%A1%23&t=31&band_rank=24&Refer=top) 313309
 1. [马斯克祝特朗普早日康复](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A5%9D%E7%89%B9%E6%9C%97%E6%99%AE%E6%97%A9%E6%97%A5%E5%BA%B7%E5%A4%8D%23&t=31&band_rank=20&Refer=top) 306260
 1. [爸爸借给舅舅儿子50w买房](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E5%80%9F%E7%BB%99%E8%88%85%E8%88%85%E5%84%BF%E5%AD%9050w%E4%B9%B0%E6%88%BF%23&t=31&band_rank=22&Refer=top) 295750
 1. [希林娜依高嗓子咋了](https://s.weibo.com/weibo?q=%E5%B8%8C%E6%9E%97%E5%A8%9C%E4%BE%9D%E9%AB%98%E5%97%93%E5%AD%90%E5%92%8B%E4%BA%86&t=31&band_rank=8&Refer=top) 289068
+1. [多位知名运动员无缘巴黎奥运会](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E4%BD%8D%E7%9F%A5%E5%90%8D%E8%BF%90%E5%8A%A8%E5%91%98%E6%97%A0%E7%BC%98%E5%B7%B4%E9%BB%8E%E5%A5%A5%E8%BF%90%E4%BC%9A%23&t=31&band_rank=32&Refer=top) 287694
 1. [女婴不幸离世捐献器官助3人重获新生](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%A9%B4%E4%B8%8D%E5%B9%B8%E7%A6%BB%E4%B8%96%E6%8D%90%E7%8C%AE%E5%99%A8%E5%AE%98%E5%8A%A93%E4%BA%BA%E9%87%8D%E8%8E%B7%E6%96%B0%E7%94%9F%23&t=31&band_rank=20&Refer=top) 285512
 1. [拜登谴责特朗普竞选集会枪击事件](https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E8%B0%B4%E8%B4%A3%E7%89%B9%E6%9C%97%E6%99%AE%E7%AB%9E%E9%80%89%E9%9B%86%E4%BC%9A%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=14&Refer=top) 284275
 1. [特朗普团队发声](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%A2%E9%98%9F%E5%8F%91%E5%A3%B0%23&t=31&band_rank=16&Refer=top) 282767
 1. [李斯丹妮上身身材](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%96%AF%E4%B8%B9%E5%A6%AE%E4%B8%8A%E8%BA%AB%E8%BA%AB%E6%9D%90%23&t=31&band_rank=21&Refer=top) 281956
-1. [因为录取通知书跟爸妈吵架了](https://s.weibo.com/weibo?q=%23%E5%9B%A0%E4%B8%BA%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E8%B7%9F%E7%88%B8%E5%A6%88%E5%90%B5%E6%9E%B6%E4%BA%86%23&t=31&band_rank=24&Refer=top) 280999
 1. [特朗普离开医院](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A6%BB%E5%BC%80%E5%8C%BB%E9%99%A2%23&t=31&band_rank=33&Refer=top) 278373
-1. [多位知名运动员无缘巴黎奥运会](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E4%BD%8D%E7%9F%A5%E5%90%8D%E8%BF%90%E5%8A%A8%E5%91%98%E6%97%A0%E7%BC%98%E5%B7%B4%E9%BB%8E%E5%A5%A5%E8%BF%90%E4%BC%9A%23&t=31&band_rank=32&Refer=top) 276904
 1. [长大后才知道小学课本里都是细糠](https://s.weibo.com/weibo?q=%23%E9%95%BF%E5%A4%A7%E5%90%8E%E6%89%8D%E7%9F%A5%E9%81%93%E5%B0%8F%E5%AD%A6%E8%AF%BE%E6%9C%AC%E9%87%8C%E9%83%BD%E6%98%AF%E7%BB%86%E7%B3%A0%23&t=31&band_rank=36&Refer=top) 273684
+1. [美国史上有9位总统遇刺其中4人遇难](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%8F%B2%E4%B8%8A%E6%9C%899%E4%BD%8D%E6%80%BB%E7%BB%9F%E9%81%87%E5%88%BA%E5%85%B6%E4%B8%AD4%E4%BA%BA%E9%81%87%E9%9A%BE%23&t=31&band_rank=48&Refer=top) 268953
 1. [华晨宇舞台已经NextLevel了](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E8%88%9E%E5%8F%B0%E5%B7%B2%E7%BB%8FNextLevel%E4%BA%86%23&t=31&band_rank=22&Refer=top) 267583
-1. [孙俪一家 儿子像妈女儿像爸](https://s.weibo.com/weibo?q=%E5%AD%99%E4%BF%AA%E4%B8%80%E5%AE%B6%20%E5%84%BF%E5%AD%90%E5%83%8F%E5%A6%88%E5%A5%B3%E5%84%BF%E5%83%8F%E7%88%B8&t=31&band_rank=36&Refer=top) 267076
-1. [Henry以为吃火锅会去世](https://s.weibo.com/weibo?q=Henry%E4%BB%A5%E4%B8%BA%E5%90%83%E7%81%AB%E9%94%85%E4%BC%9A%E5%8E%BB%E4%B8%96&t=31&band_rank=25&Refer=top) 265813
-1. [汪峰](https://s.weibo.com/weibo?q=%E6%B1%AA%E5%B3%B0&t=31&band_rank=26&Refer=top) 264755
 1. [恋与深空](https://s.weibo.com/weibo?q=%23%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%23&t=31&band_rank=14&Refer=top) 261677
 1. [拜登听取特朗普枪击事件简报](https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E5%90%AC%E5%8F%96%E7%89%B9%E6%9C%97%E6%99%AE%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6%E7%AE%80%E6%8A%A5%23&t=31&band_rank=15&Refer=top) 260876
+1. [为什么说晚上洗头生湿气](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E8%AF%B4%E6%99%9A%E4%B8%8A%E6%B4%97%E5%A4%B4%E7%94%9F%E6%B9%BF%E6%B0%94%23&t=31&band_rank=32&Refer=top) 251688
 1. [特朗普枪击事件枪手或为狙击手](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6%E6%9E%AA%E6%89%8B%E6%88%96%E4%B8%BA%E7%8B%99%E5%87%BB%E6%89%8B%23&t=31&band_rank=20&Refer=top) 248867
 1. [云南牛奶自带插孔吸管震惊北方人](https://s.weibo.com/weibo?q=%23%E4%BA%91%E5%8D%97%E7%89%9B%E5%A5%B6%E8%87%AA%E5%B8%A6%E6%8F%92%E5%AD%94%E5%90%B8%E7%AE%A1%E9%9C%87%E6%83%8A%E5%8C%97%E6%96%B9%E4%BA%BA%23&t=31&band_rank=26&Refer=top) 245540
+1. [范世錡买了萧敬腾歌版权](https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%96%E9%8C%A1%E4%B9%B0%E4%BA%86%E8%90%A7%E6%95%AC%E8%85%BE%E6%AD%8C%E7%89%88%E6%9D%83%23&t=31&band_rank=28&Refer=top) 238659
+1. [拜登同特朗普通电话](https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D%23&t=31&band_rank=31&Refer=top) 238130
 1. [特朗普集会观众中1人死亡2人受伤](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%9B%86%E4%BC%9A%E8%A7%82%E4%BC%97%E4%B8%AD1%E4%BA%BA%E6%AD%BB%E4%BA%A12%E4%BA%BA%E5%8F%97%E4%BC%A4%23&t=31&band_rank=25&Refer=top) 237981
 1. [王玉雯王子奇四搭](https://s.weibo.com/weibo?q=%E7%8E%8B%E7%8E%89%E9%9B%AF%E7%8E%8B%E5%AD%90%E5%A5%87%E5%9B%9B%E6%90%AD&t=31&band_rank=11&Refer=top) 231933
 1. [特朗普枪击事件被定性为暗杀未遂](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6%E8%A2%AB%E5%AE%9A%E6%80%A7%E4%B8%BA%E6%9A%97%E6%9D%80%E6%9C%AA%E9%81%82%23&t=31&band_rank=25&Refer=top) 228516
+1. [我买房了亲戚破防了](https://s.weibo.com/weibo?q=%23%E6%88%91%E4%B9%B0%E6%88%BF%E4%BA%86%E4%BA%B2%E6%88%9A%E7%A0%B4%E9%98%B2%E4%BA%86%23&t=31&band_rank=39&Refer=top) 224741
 1. [女子称晒背10天瘦了4斤](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%B0%E6%99%92%E8%83%8C10%E5%A4%A9%E7%98%A6%E4%BA%864%E6%96%A4%23&t=31&band_rank=9&Refer=top) 220771
 1. [美国总统](https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F&t=31&band_rank=25&Refer=top) 218809
 1. [00后从警不到一年连救2人](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E4%BB%8E%E8%AD%A6%E4%B8%8D%E5%88%B0%E4%B8%80%E5%B9%B4%E8%BF%9E%E6%95%912%E4%BA%BA%23&t=31&band_rank=10&Refer=top) 218676
 1. [BW2024漫展26名黄牛带客冲卡被抓](https://s.weibo.com/weibo?q=%23BW2024%E6%BC%AB%E5%B1%9526%E5%90%8D%E9%BB%84%E7%89%9B%E5%B8%A6%E5%AE%A2%E5%86%B2%E5%8D%A1%E8%A2%AB%E6%8A%93%23&t=31&band_rank=10&Refer=top) 218592
 1. [特朗普将继续出席15日的活动](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E7%BB%A7%E7%BB%AD%E5%87%BA%E5%B8%AD15%E6%97%A5%E7%9A%84%E6%B4%BB%E5%8A%A8%23&t=31&band_rank=26&Refer=top) 217727
 1. [抓娃娃 二婚设定](https://s.weibo.com/weibo?q=%E6%8A%93%E5%A8%83%E5%A8%83%20%E4%BA%8C%E5%A9%9A%E8%AE%BE%E5%AE%9A&t=31&band_rank=12&Refer=top) 215694
-1. [范世錡买了萧敬腾歌版权](https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%96%E9%8C%A1%E4%B9%B0%E4%BA%86%E8%90%A7%E6%95%AC%E8%85%BE%E6%AD%8C%E7%89%88%E6%9D%83%23&t=31&band_rank=28&Refer=top) 214720
 1. [韩廷办公室的床](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%BB%B7%E5%8A%9E%E5%85%AC%E5%AE%A4%E7%9A%84%E5%BA%8A&t=31&band_rank=14&Refer=top) 214139
-1. [拜登同特朗普通电话](https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D%23&t=31&band_rank=31&Refer=top) 211684
 1. [拜登回应特朗普遭枪击是否为暗杀](https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E9%81%AD%E6%9E%AA%E5%87%BB%E6%98%AF%E5%90%A6%E4%B8%BA%E6%9A%97%E6%9D%80%23&t=31&band_rank=31&Refer=top) 210962
 1. [建议大家人脸识别要穿上衣服](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB%E8%A6%81%E7%A9%BF%E4%B8%8A%E8%A1%A3%E6%9C%8D%23&t=31&band_rank=27&Refer=top) 210495
-1. [为什么说晚上洗头生湿气](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E8%AF%B4%E6%99%9A%E4%B8%8A%E6%B4%97%E5%A4%B4%E7%94%9F%E6%B9%BF%E6%B0%94%23&t=31&band_rank=32&Refer=top) 203371
 1. [身体湿气重是什么感觉](https://s.weibo.com/weibo?q=%23%E8%BA%AB%E4%BD%93%E6%B9%BF%E6%B0%94%E9%87%8D%E6%98%AF%E4%BB%80%E4%B9%88%E6%84%9F%E8%A7%89%23&t=31&band_rank=22&Refer=top) 201433
 1. [发言人称特朗普身体状况良好](https://s.weibo.com/weibo?q=%23%E5%8F%91%E8%A8%80%E4%BA%BA%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E8%BA%AB%E4%BD%93%E7%8A%B6%E5%86%B5%E8%89%AF%E5%A5%BD%23&t=31&band_rank=38&Refer=top) 197307
 1. [赵今麦错猜蒋依依](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%BB%8A%E9%BA%A6%E9%94%99%E7%8C%9C%E8%92%8B%E4%BE%9D%E4%BE%9D%23&t=31&band_rank=46&Refer=top) 197240
 1. [回家后发现我的房间被表妹霸占了](https://s.weibo.com/weibo?q=%23%E5%9B%9E%E5%AE%B6%E5%90%8E%E5%8F%91%E7%8E%B0%E6%88%91%E7%9A%84%E6%88%BF%E9%97%B4%E8%A2%AB%E8%A1%A8%E5%A6%B9%E9%9C%B8%E5%8D%A0%E4%BA%86%23&t=31&band_rank=50&Refer=top) 190528
 1. [长沙这么热吗](https://s.weibo.com/weibo?q=%E9%95%BF%E6%B2%99%E8%BF%99%E4%B9%88%E7%83%AD%E5%90%97&t=31&band_rank=13&Refer=top) 189370
+1. [牙齿正畸有时太早反而影响面型](https://s.weibo.com/weibo?q=%23%E7%89%99%E9%BD%BF%E6%AD%A3%E7%95%B8%E6%9C%89%E6%97%B6%E5%A4%AA%E6%97%A9%E5%8F%8D%E8%80%8C%E5%BD%B1%E5%93%8D%E9%9D%A2%E5%9E%8B%23&t=31&band_rank=48&Refer=top) 187051
 1. [什么工作未来几十年都不会失业](https://s.weibo.com/weibo?q=%23%E4%BB%80%E4%B9%88%E5%B7%A5%E4%BD%9C%E6%9C%AA%E6%9D%A5%E5%87%A0%E5%8D%81%E5%B9%B4%E9%83%BD%E4%B8%8D%E4%BC%9A%E5%A4%B1%E4%B8%9A%23&t=31&band_rank=44&Refer=top) 181975
+1. [GLASS 十个勤天](https://s.weibo.com/weibo?q=GLASS%20%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9&t=31&band_rank=40&Refer=top) 179530
 1. [重庆暴雨](https://s.weibo.com/weibo?q=%E9%87%8D%E5%BA%86%E6%9A%B4%E9%9B%A8&t=31&band_rank=15&Refer=top) 177198
 1. [九点上班要求8点50就到](https://s.weibo.com/weibo?q=%23%E4%B9%9D%E7%82%B9%E4%B8%8A%E7%8F%AD%E8%A6%81%E6%B1%828%E7%82%B950%E5%B0%B1%E5%88%B0%23&t=31&band_rank=36&Refer=top) 174854
+1. [特朗普遭遇暗杀最新视频曝光](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%81%AD%E9%81%87%E6%9A%97%E6%9D%80%E6%9C%80%E6%96%B0%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89%23&t=31&band_rank=41&Refer=top) 174196
 1. [山下智久来了](https://s.weibo.com/weibo?q=%E5%B1%B1%E4%B8%8B%E6%99%BA%E4%B9%85%E6%9D%A5%E4%BA%86&t=31&band_rank=35&Refer=top) 171249
 1. [王一博香奈儿采访part](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E9%A6%99%E5%A5%88%E5%84%BF%E9%87%87%E8%AE%BFpart%23&t=31&band_rank=35&Refer=top) 168456
 1. [外国人对中国留学生的印象](https://s.weibo.com/weibo?q=%E5%A4%96%E5%9B%BD%E4%BA%BA%E5%AF%B9%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E7%9A%84%E5%8D%B0%E8%B1%A1&t=31&band_rank=17&Refer=top) 168197
@@ -133,6 +139,7 @@
 1. [加拿大5比6乌拉圭](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%8B%BF%E5%A4%A75%E6%AF%946%E4%B9%8C%E6%8B%89%E5%9C%AD%23&t=31&band_rank=37&Refer=top) 161031
 1. [单依纯 音乐节](https://s.weibo.com/weibo?q=%E5%8D%95%E4%BE%9D%E7%BA%AF%20%E9%9F%B3%E4%B9%90%E8%8A%82&t=31&band_rank=38&Refer=top) 160411
 1. [薛之谦超话](https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%E8%B6%85%E8%AF%9D&t=31&band_rank=14&Refer=top) 159615
+1. [甄嬛传曹贵人叫什么名字](https://s.weibo.com/weibo?q=%23%E7%94%84%E5%AC%9B%E4%BC%A0%E6%9B%B9%E8%B4%B5%E4%BA%BA%E5%8F%AB%E4%BB%80%E4%B9%88%E5%90%8D%E5%AD%97%23&t=31&band_rank=45&Refer=top) 159107
 1. [原来鹿晗陈奕迅的热歌是他写的](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E9%B9%BF%E6%99%97%E9%99%88%E5%A5%95%E8%BF%85%E7%9A%84%E7%83%AD%E6%AD%8C%E6%98%AF%E4%BB%96%E5%86%99%E7%9A%84%23&t=31&band_rank=37&Refer=top) 157854
 1. [那英压轴](https://s.weibo.com/weibo?q=%23%E9%82%A3%E8%8B%B1%E5%8E%8B%E8%BD%B4%23&t=31&band_rank=27&Refer=top) 152987
 1. [刘宇输了](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E8%BE%93%E4%BA%86%23&t=31&band_rank=30&Refer=top) 152653
@@ -140,19 +147,20 @@
 1. [肖战 重庆](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%20%E9%87%8D%E5%BA%86&t=31&band_rank=37&Refer=top) 152297
 1. [AG超绝松弛感](https://s.weibo.com/weibo?q=AG%E8%B6%85%E7%BB%9D%E6%9D%BE%E5%BC%9B%E6%84%9F&t=31&band_rank=44&Refer=top) 152074
 1. [72岁爷爷为孙女手写订婚书](https://s.weibo.com/weibo?q=%2372%E5%B2%81%E7%88%B7%E7%88%B7%E4%B8%BA%E5%AD%99%E5%A5%B3%E6%89%8B%E5%86%99%E8%AE%A2%E5%A9%9A%E4%B9%A6%23&t=31&band_rank=34&Refer=top) 152022
-1. [我买房了亲戚破防了](https://s.weibo.com/weibo?q=%23%E6%88%91%E4%B9%B0%E6%88%BF%E4%BA%86%E4%BA%B2%E6%88%9A%E7%A0%B4%E9%98%B2%E4%BA%86%23&t=31&band_rank=39&Refer=top) 149928
-1. [牙齿正畸有时太早反而影响面型](https://s.weibo.com/weibo?q=%23%E7%89%99%E9%BD%BF%E6%AD%A3%E7%95%B8%E6%9C%89%E6%97%B6%E5%A4%AA%E6%97%A9%E5%8F%8D%E8%80%8C%E5%BD%B1%E5%93%8D%E9%9D%A2%E5%9E%8B%23&t=31&band_rank=48&Refer=top) 149923
-1. [刺杀特朗普枪手持半自动步枪](https://s.weibo.com/weibo?q=%23%E5%88%BA%E6%9D%80%E7%89%B9%E6%9C%97%E6%99%AE%E6%9E%AA%E6%89%8B%E6%8C%81%E5%8D%8A%E8%87%AA%E5%8A%A8%E6%AD%A5%E6%9E%AA%23&t=31&band_rank=40&Refer=top) 148336
+1. [恋与深空合作摇滚莫扎特主创](https://s.weibo.com/weibo?q=%23%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%E5%90%88%E4%BD%9C%E6%91%87%E6%BB%9A%E8%8E%AB%E6%89%8E%E7%89%B9%E4%B8%BB%E5%88%9B%23&t=31&band_rank=43&Refer=top) 150809
+1. [刺杀特朗普枪手持半自动步枪](https://s.weibo.com/weibo?q=%23%E5%88%BA%E6%9D%80%E7%89%B9%E6%9C%97%E6%99%AE%E6%9E%AA%E6%89%8B%E6%8C%81%E5%8D%8A%E8%87%AA%E5%8A%A8%E6%AD%A5%E6%9E%AA%23&t=31&band_rank=40&Refer=top) 148386
+1. [枪击特朗普枪手身份确认](https://s.weibo.com/weibo?q=%23%E6%9E%AA%E5%87%BB%E7%89%B9%E6%9C%97%E6%99%AE%E6%9E%AA%E6%89%8B%E8%BA%AB%E4%BB%BD%E7%A1%AE%E8%AE%A4%23&t=31&band_rank=45&Refer=top) 147049
 1. [拜登称不会容忍这种暴力行为](https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E7%A7%B0%E4%B8%8D%E4%BC%9A%E5%AE%B9%E5%BF%8D%E8%BF%99%E7%A7%8D%E6%9A%B4%E5%8A%9B%E8%A1%8C%E4%B8%BA%23&t=31&band_rank=41&Refer=top) 146212
+1. [肯尼迪](https://s.weibo.com/weibo?q=%E8%82%AF%E5%B0%BC%E8%BF%AA&t=31&band_rank=46&Refer=top) 146119
 1. [自己给奶奶做了一个智能屏](https://s.weibo.com/weibo?q=%E8%87%AA%E5%B7%B1%E7%BB%99%E5%A5%B6%E5%A5%B6%E5%81%9A%E4%BA%86%E4%B8%80%E4%B8%AA%E6%99%BA%E8%83%BD%E5%B1%8F&t=31&band_rank=44&Refer=top) 143111
+1. [一元一斤空心菜根本摘不完](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%85%83%E4%B8%80%E6%96%A4%E7%A9%BA%E5%BF%83%E8%8F%9C%E6%A0%B9%E6%9C%AC%E6%91%98%E4%B8%8D%E5%AE%8C%23&t=31&band_rank=47&Refer=top) 143086
 1. [同事帮我带饭都是素菜收5元](https://s.weibo.com/weibo?q=%E5%90%8C%E4%BA%8B%E5%B8%AE%E6%88%91%E5%B8%A6%E9%A5%AD%E9%83%BD%E6%98%AF%E7%B4%A0%E8%8F%9C%E6%94%B65%E5%85%83&t=31&band_rank=35&Refer=top) 141738
 1. [共富工坊帮蚕农结出黄金茧](https://s.weibo.com/weibo?q=%23%E5%85%B1%E5%AF%8C%E5%B7%A5%E5%9D%8A%E5%B8%AE%E8%9A%95%E5%86%9C%E7%BB%93%E5%87%BA%E9%BB%84%E9%87%91%E8%8C%A7%23&t=31&band_rank=10&Refer=top) 136228
 1. [中国男篮不敌掘金](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%8D%E6%95%8C%E6%8E%98%E9%87%91%23&t=31&band_rank=47&Refer=top) 134912
 1. [张韶涵石家庄](https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9F%B6%E6%B6%B5%E7%9F%B3%E5%AE%B6%E5%BA%84&t=31&band_rank=42&Refer=top) 134305
 1. [人人都爱苏亚雷斯](https://s.weibo.com/weibo?q=%E4%BA%BA%E4%BA%BA%E9%83%BD%E7%88%B1%E8%8B%8F%E4%BA%9A%E9%9B%B7%E6%96%AF&t=31&band_rank=44&Refer=top) 132096
-1. [甄嬛传曹贵人叫什么名字](https://s.weibo.com/weibo?q=%23%E7%94%84%E5%AC%9B%E4%BC%A0%E6%9B%B9%E8%B4%B5%E4%BA%BA%E5%8F%AB%E4%BB%80%E4%B9%88%E5%90%8D%E5%AD%97%23&t=31&band_rank=45&Refer=top) 131917
 1. [一个老爷爷的干净小摊子](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E8%80%81%E7%88%B7%E7%88%B7%E7%9A%84%E5%B9%B2%E5%87%80%E5%B0%8F%E6%91%8A%E5%AD%90%23&t=31&band_rank=49&Refer=top) 128135
-1. [美国史上有9位总统遇刺其中4人遇难](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%8F%B2%E4%B8%8A%E6%9C%899%E4%BD%8D%E6%80%BB%E7%BB%9F%E9%81%87%E5%88%BA%E5%85%B6%E4%B8%AD4%E4%BA%BA%E9%81%87%E9%9A%BE%23&t=31&band_rank=48&Refer=top) 127371
+1. [3元饮料又回来了](https://s.weibo.com/weibo?q=%233%E5%85%83%E9%A5%AE%E6%96%99%E5%8F%88%E5%9B%9E%E6%9D%A5%E4%BA%86%23&t=31&band_rank=49&Refer=top) 124751
 1. [间歇性厌恶伴侣是因为不爱了吗](https://s.weibo.com/weibo?q=%23%E9%97%B4%E6%AD%87%E6%80%A7%E5%8E%8C%E6%81%B6%E4%BC%B4%E4%BE%A3%E6%98%AF%E5%9B%A0%E4%B8%BA%E4%B8%8D%E7%88%B1%E4%BA%86%E5%90%97%23&t=31&band_rank=39&Refer=top) 124136
 1. [日本已有1144例食人菌感染病例](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B7%B2%E6%9C%891144%E4%BE%8B%E9%A3%9F%E4%BA%BA%E8%8F%8C%E6%84%9F%E6%9F%93%E7%97%85%E4%BE%8B%23&t=31&band_rank=43&Refer=top) 121778
 1. [沈腾看马丽戴头纱](https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E7%9C%8B%E9%A9%AC%E4%B8%BD%E6%88%B4%E5%A4%B4%E7%BA%B1%23&t=31&band_rank=41&Refer=top) 120855
