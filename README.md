@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-07-15 01:17:30.763383 
-![2024-07-15](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240715/2024-07-15.png?versionId=4_z8fbbed132d73df8689c40f13_f11273828d46ae89a_d20240714_m171730_c005_v0501022_t0041_u01720977450689) 
+最后更新时间 2024-07-15 01:46:38.139322 
+![2024-07-15](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240715/2024-07-15.png?versionId=4_z8fbbed132d73df8689c40f13_f117a32c46af993cd_d20240714_m174637_c005_v0501020_t0058_u01720979197703) 
 1. [国乒出发奔赴巴黎](https://s.weibo.com/weibo?q=%E5%9B%BD%E4%B9%92%E5%87%BA%E5%8F%91%E5%A5%94%E8%B5%B4%E5%B7%B4%E9%BB%8E&t=31&band_rank=1&Refer=top) 866249
 1. [好像所有人都确认了相柳的结局](https://s.weibo.com/weibo?q=%E5%A5%BD%E5%83%8F%E6%89%80%E6%9C%89%E4%BA%BA%E9%83%BD%E7%A1%AE%E8%AE%A4%E4%BA%86%E7%9B%B8%E6%9F%B3%E7%9A%84%E7%BB%93%E5%B1%80&t=31&band_rank=7&Refer=top) 688548
 1. [错位](https://s.weibo.com/weibo?q=%E9%94%99%E4%BD%8D&t=31&band_rank=2&Refer=top) 402870
@@ -16,10 +16,12 @@
 1. [特朗普称右耳被子弹击穿](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%8F%B3%E8%80%B3%E8%A2%AB%E5%AD%90%E5%BC%B9%E5%87%BB%E7%A9%BF%23&t=31&band_rank=4&Refer=top) 398907
 1. [希林娜依高 破音](https://s.weibo.com/weibo?q=%E5%B8%8C%E6%9E%97%E5%A8%9C%E4%BE%9D%E9%AB%98%20%E7%A0%B4%E9%9F%B3&t=31&band_rank=5&Refer=top) 397009
 1. [特朗普遇刺6小时后首次露面](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%81%87%E5%88%BA6%E5%B0%8F%E6%97%B6%E5%90%8E%E9%A6%96%E6%AC%A1%E9%9C%B2%E9%9D%A2%23&t=31&band_rank=6&Refer=top) 368736
+1. [王楚钦孙颖莎巴黎如愿](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E%E5%B7%B4%E9%BB%8E%E5%A6%82%E6%84%BF%23&t=31&band_rank=1&Refer=top) 357709
 1. [欧洲杯决赛](https://s.weibo.com/weibo?q=%E6%AC%A7%E6%B4%B2%E6%9D%AF%E5%86%B3%E8%B5%9B&t=31&band_rank=8&Refer=top) 258324
 1. [防风意映这一刻好漂亮](https://s.weibo.com/weibo?q=%E9%98%B2%E9%A3%8E%E6%84%8F%E6%98%A0%E8%BF%99%E4%B8%80%E5%88%BB%E5%A5%BD%E6%BC%82%E4%BA%AE&t=31&band_rank=9&Refer=top) 257987
 1. [夜跑夫妻狂奔百米营救落水女子](https://s.weibo.com/weibo?q=%23%E5%A4%9C%E8%B7%91%E5%A4%AB%E5%A6%BB%E7%8B%82%E5%A5%94%E7%99%BE%E7%B1%B3%E8%90%A5%E6%95%91%E8%90%BD%E6%B0%B4%E5%A5%B3%E5%AD%90%23&t=31&band_rank=10&Refer=top) 255738
 1. [黄子韬徐艺洋官宣](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%BE%90%E8%89%BA%E6%B4%8B%E5%AE%98%E5%AE%A3%23&t=31&band_rank=11&Refer=top) 252501
+1. [行进的中国如此蓬勃](https://s.weibo.com/weibo?q=%23%E8%A1%8C%E8%BF%9B%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%A6%82%E6%AD%A4%E8%93%AC%E5%8B%83%23&t=31&band_rank=3&Refer=top) 252332
 1. [特朗普或因侧头看图表救回一命](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E5%9B%A0%E4%BE%A7%E5%A4%B4%E7%9C%8B%E5%9B%BE%E8%A1%A8%E6%95%91%E5%9B%9E%E4%B8%80%E5%91%BD%23&t=31&band_rank=12&Refer=top) 251956
 1. [凯特王妃亮相温网](https://s.weibo.com/weibo?q=%23%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E4%BA%AE%E7%9B%B8%E6%B8%A9%E7%BD%91%23&t=31&band_rank=13&Refer=top) 249208
 1. [马斯克自曝差点遭到2次暗杀](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E8%87%AA%E6%9B%9D%E5%B7%AE%E7%82%B9%E9%81%AD%E5%88%B02%E6%AC%A1%E6%9A%97%E6%9D%80%23&t=31&band_rank=14&Refer=top) 247004
@@ -48,9 +50,10 @@
 1. [王楚钦第2次奥运之旅身兼三项](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E7%AC%AC2%E6%AC%A1%E5%A5%A5%E8%BF%90%E4%B9%8B%E6%97%85%E8%BA%AB%E5%85%BC%E4%B8%89%E9%A1%B9%23&t=31&band_rank=37&Refer=top) 130239
 1. [迪丽热巴夏天绿西装](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%A4%8F%E5%A4%A9%E7%BB%BF%E8%A5%BF%E8%A3%85%23&t=31&band_rank=38&Refer=top) 129645
 1. [外商扎根义乌20年完成产业逆袭](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%95%86%E6%89%8E%E6%A0%B9%E4%B9%89%E4%B9%8C20%E5%B9%B4%E5%AE%8C%E6%88%90%E4%BA%A7%E4%B8%9A%E9%80%86%E8%A2%AD%23&t=31&band_rank=17&Refer=top) 126768
+1. [凯特王妃为阿尔卡拉斯颁奖](https://s.weibo.com/weibo?q=%23%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E4%B8%BA%E9%98%BF%E5%B0%94%E5%8D%A1%E6%8B%89%E6%96%AF%E9%A2%81%E5%A5%96%23&t=31&band_rank=43&Refer=top) 126604
 1. [方大同薛凯琪互动了](https://s.weibo.com/weibo?q=%E6%96%B9%E5%A4%A7%E5%90%8C%E8%96%9B%E5%87%AF%E7%90%AA%E4%BA%92%E5%8A%A8%E4%BA%86&t=31&band_rank=39&Refer=top) 120737
 1. [蔡依林的小狗屋虎](https://s.weibo.com/weibo?q=%23%E8%94%A1%E4%BE%9D%E6%9E%97%E7%9A%84%E5%B0%8F%E7%8B%97%E5%B1%8B%E8%99%8E%23&t=31&band_rank=40&Refer=top) 120287
-1. [凯特王妃为阿尔卡拉斯颁奖](https://s.weibo.com/weibo?q=%23%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E4%B8%BA%E9%98%BF%E5%B0%94%E5%8D%A1%E6%8B%89%E6%96%AF%E9%A2%81%E5%A5%96%23&t=31&band_rank=43&Refer=top) 119391
+1. [这3个体检项目其实是浪费钱](https://s.weibo.com/weibo?q=%23%E8%BF%993%E4%B8%AA%E4%BD%93%E6%A3%80%E9%A1%B9%E7%9B%AE%E5%85%B6%E5%AE%9E%E6%98%AF%E6%B5%AA%E8%B4%B9%E9%92%B1%23&t=31&band_rank=17&Refer=top) 114695
 1. [张杰致敬英雄城市武汉](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E8%87%B4%E6%95%AC%E8%8B%B1%E9%9B%84%E5%9F%8E%E5%B8%82%E6%AD%A6%E6%B1%89%23&t=31&band_rank=41&Refer=top) 111540
 1. [温网](https://s.weibo.com/weibo?q=%E6%B8%A9%E7%BD%91&t=31&band_rank=42&Refer=top) 108830
 1. [椰子水为何干不过柠檬茶](https://s.weibo.com/weibo?q=%23%E6%A4%B0%E5%AD%90%E6%B0%B4%E4%B8%BA%E4%BD%95%E5%B9%B2%E4%B8%8D%E8%BF%87%E6%9F%A0%E6%AA%AC%E8%8C%B6%23&t=31&band_rank=43&Refer=top) 104242
@@ -65,6 +68,7 @@
 1. [女爱豆宣誓绝对不找丑人谈恋爱](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%88%B1%E8%B1%86%E5%AE%A3%E8%AA%93%E7%BB%9D%E5%AF%B9%E4%B8%8D%E6%89%BE%E4%B8%91%E4%BA%BA%E8%B0%88%E6%81%8B%E7%88%B1%23&t=31&band_rank=42&Refer=top) 61636
 1. [易烊千玺纪念开博11周年](https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E7%BA%AA%E5%BF%B5%E5%BC%80%E5%8D%9A11%E5%91%A8%E5%B9%B4%23&t=31&band_rank=48&Refer=top) 61594
 1. [王鸥的状态](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B8%A5%E7%9A%84%E7%8A%B6%E6%80%81%23&t=31&band_rank=49&Refer=top) 61584
+1. [薛之谦李健合唱像风一样](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%9D%8E%E5%81%A5%E5%90%88%E5%94%B1%E5%83%8F%E9%A3%8E%E4%B8%80%E6%A0%B7%23&t=31&band_rank=29&Refer=top) 61385
 <!-- END -->
 
 历史归档 [./archives](./archives)
