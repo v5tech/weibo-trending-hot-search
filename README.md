@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-07-16 04:49:28.656384 
-![2024-07-16](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240716/2024-07-16.png?versionId=4_z8fbbed132d73df8689c40f13_f113c8a113c5994d3_d20240715_m204928_c005_v0501021_t0022_u01721076568497) 
+最后更新时间 2024-07-16 05:12:37.479283 
+![2024-07-16](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240716/2024-07-16.png?versionId=4_z8fbbed132d73df8689c40f13_f10561203cdda5764_d20240715_m211237_c005_v0501021_t0002_u01721077957046) 
 1. [迪丽热巴不喝冰川水的原因](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E4%B8%8D%E5%96%9D%E5%86%B0%E5%B7%9D%E6%B0%B4%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=1&Refer=top) 1019879
 1. [07高中生的一天是什么样](https://s.weibo.com/weibo?q=%2307%E9%AB%98%E4%B8%AD%E7%94%9F%E7%9A%84%E4%B8%80%E5%A4%A9%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%23&t=31&band_rank=2&Refer=top) 505303
 1. [九尾缺席沙特大名单](https://s.weibo.com/weibo?q=%23%E4%B9%9D%E5%B0%BE%E7%BC%BA%E5%B8%AD%E6%B2%99%E7%89%B9%E5%A4%A7%E5%90%8D%E5%8D%95%23&t=31&band_rank=40&Refer=top) 385641
@@ -77,6 +77,7 @@
 1. [网传花儿与少年6名单](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E8%8A%B1%E5%84%BF%E4%B8%8E%E5%B0%91%E5%B9%B46%E5%90%8D%E5%8D%95%23&t=31&band_rank=50&Refer=top) 41371
 1. [被小女孩照顾长大的小象](https://s.weibo.com/weibo?q=%E8%A2%AB%E5%B0%8F%E5%A5%B3%E5%AD%A9%E7%85%A7%E9%A1%BE%E9%95%BF%E5%A4%A7%E7%9A%84%E5%B0%8F%E8%B1%A1&t=31&band_rank=48&Refer=top) 40827
 1. [俩话痨在婚礼上也止不住唠嗑](https://s.weibo.com/weibo?q=%E4%BF%A9%E8%AF%9D%E7%97%A8%E5%9C%A8%E5%A9%9A%E7%A4%BC%E4%B8%8A%E4%B9%9F%E6%AD%A2%E4%B8%8D%E4%BD%8F%E5%94%A0%E5%97%91&t=31&band_rank=50&Refer=top) 40770
+1. [惠州4人潜水失联背后](https://s.weibo.com/weibo?q=%23%E6%83%A0%E5%B7%9E4%E4%BA%BA%E6%BD%9C%E6%B0%B4%E5%A4%B1%E8%81%94%E8%83%8C%E5%90%8E%23&t=31&band_rank=48&Refer=top) 18074
 <!-- END -->
 
 历史归档 [./archives](./archives)
