@@ -179,13 +179,17 @@
     "url": "https://s.weibo.com/weibo?q=%23%E9%87%8E%E7%94%9F%E5%A4%A7%E7%86%8A%E7%8C%AB%E8%87%AA%E5%B7%B1%E5%9C%A8%E7%AB%B9%E6%9E%97%E5%90%83%E4%BA%86%E4%B8%80%E6%95%B4%E6%99%9A%23&t=31&band_rank=24&Refer=top",
     "hot": 595640
   },
+  "奋进中国": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A5%8B%E8%BF%9B%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top",
+    "hot": 570008
+  },
   "羽毛球场1小时160元仍订不到": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%BE%BD%E6%AF%9B%E7%90%83%E5%9C%BA1%E5%B0%8F%E6%97%B6160%E5%85%83%E4%BB%8D%E8%AE%A2%E4%B8%8D%E5%88%B0%23&t=31&band_rank=9&Refer=top",
     "hot": 567778
   },
-  "奋进中国": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%A5%8B%E8%BF%9B%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top",
-    "hot": 555885
+  "北京一幼儿园突遇搬迁遭家长集体反对": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E4%B8%80%E5%B9%BC%E5%84%BF%E5%9B%AD%E7%AA%81%E9%81%87%E6%90%AC%E8%BF%81%E9%81%AD%E5%AE%B6%E9%95%BF%E9%9B%86%E4%BD%93%E5%8F%8D%E5%AF%B9%23&t=31&band_rank=32&Refer=top",
+    "hot": 555341
   },
   "抓娃娃": {
     "url": "https://s.weibo.com/weibo?q=%E6%8A%93%E5%A8%83%E5%A8%83&t=31&band_rank=50&Refer=top",
@@ -210,6 +214,10 @@
   "外国游客成了我的互联网嘴替": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%9B%BD%E6%B8%B8%E5%AE%A2%E6%88%90%E4%BA%86%E6%88%91%E7%9A%84%E4%BA%92%E8%81%94%E7%BD%91%E5%98%B4%E6%9B%BF%23&t=31&band_rank=10&Refer=top",
     "hot": 537205
+  },
+  "霸王茶姬就员工离职被公示致歉": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E5%B0%B1%E5%91%98%E5%B7%A5%E7%A6%BB%E8%81%8C%E8%A2%AB%E5%85%AC%E7%A4%BA%E8%87%B4%E6%AD%89%23&t=31&band_rank=36&Refer=top",
+    "hot": 537076
   },
   "暑期小城游火出圈": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%9A%91%E6%9C%9F%E5%B0%8F%E5%9F%8E%E6%B8%B8%E7%81%AB%E5%87%BA%E5%9C%88%23&t=31&band_rank=10&Refer=top",
@@ -278,10 +286,6 @@
   "黄子韬徐艺洋官宣": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%BE%90%E8%89%BA%E6%B4%8B%E5%AE%98%E5%AE%A3%23&t=31&band_rank=11&Refer=top",
     "hot": 459550
-  },
-  "霸王茶姬就员工离职被公示致歉": {
-    "url": "https://s.weibo.com/weibo?q=%23%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E5%B0%B1%E5%91%98%E5%B7%A5%E7%A6%BB%E8%81%8C%E8%A2%AB%E5%85%AC%E7%A4%BA%E8%87%B4%E6%AD%89%23&t=31&band_rank=36&Refer=top",
-    "hot": 457923
   },
   "陕师大连续18年手写新生录取通知书": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%99%95%E5%B8%88%E5%A4%A7%E8%BF%9E%E7%BB%AD18%E5%B9%B4%E6%89%8B%E5%86%99%E6%96%B0%E7%94%9F%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%23&t=31&band_rank=10&Refer=top",
@@ -487,6 +491,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E6%8E%A9%E6%8A%A4%E6%88%98%E5%8F%8B%E6%92%A4%E7%A6%BB%E5%8F%97%E4%BC%A4%E7%AB%8B%E4%B8%80%E7%AD%89%E5%8A%9F%23&t=31&band_rank=21&Refer=top",
     "hot": 340189
   },
+  "国家助学贷款在校期间本息都不用还": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E5%8A%A9%E5%AD%A6%E8%B4%B7%E6%AC%BE%E5%9C%A8%E6%A0%A1%E6%9C%9F%E9%97%B4%E6%9C%AC%E6%81%AF%E9%83%BD%E4%B8%8D%E7%94%A8%E8%BF%98%23&t=31&band_rank=34&Refer=top",
+    "hot": 340065
+  },
   "孙颖莎奥运官网值得关注运动员": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E5%A5%A5%E8%BF%90%E5%AE%98%E7%BD%91%E5%80%BC%E5%BE%97%E5%85%B3%E6%B3%A8%E8%BF%90%E5%8A%A8%E5%91%98%23&t=31&band_rank=10&Refer=top",
     "hot": 338827
@@ -510,6 +518,10 @@
   "苏醒回应自己是梅西球迷": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%86%92%E5%9B%9E%E5%BA%94%E8%87%AA%E5%B7%B1%E6%98%AF%E6%A2%85%E8%A5%BF%E7%90%83%E8%BF%B7%23&t=31&band_rank=29&Refer=top",
     "hot": 338151
+  },
+  "吴谨言王星越叼玫瑰花片段被删": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%B0%A8%E8%A8%80%E7%8E%8B%E6%98%9F%E8%B6%8A%E5%8F%BC%E7%8E%AB%E7%91%B0%E8%8A%B1%E7%89%87%E6%AE%B5%E8%A2%AB%E5%88%A0%23&t=31&band_rank=38&Refer=top",
+    "hot": 337679
   },
   "原神卡齐娜": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%8E%9F%E7%A5%9E%E5%8D%A1%E9%BD%90%E5%A8%9C%23&t=31&band_rank=9&Refer=top",
@@ -547,6 +559,10 @@
     "url": "https://s.weibo.com/weibo?q=%23Uzi%E8%80%81%E5%A9%86%E5%90%83%E9%86%8B%23&t=31&band_rank=27&Refer=top",
     "hot": 325525
   },
+  "劳斯莱斯传奇设计师被刺身亡": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8A%B3%E6%96%AF%E8%8E%B1%E6%96%AF%E4%BC%A0%E5%A5%87%E8%AE%BE%E8%AE%A1%E5%B8%88%E8%A2%AB%E5%88%BA%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=16&Refer=top",
+    "hot": 323126
+  },
   "高校最走心的录取通知书": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E6%9C%80%E8%B5%B0%E5%BF%83%E7%9A%84%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%23&t=31&band_rank=10&Refer=top",
     "hot": 321781
@@ -582,10 +598,6 @@
   "巴黎街头偶遇王一博散步": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E%E8%A1%97%E5%A4%B4%E5%81%B6%E9%81%87%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%95%A3%E6%AD%A5%23&t=31&band_rank=34&Refer=top",
     "hot": 314605
-  },
-  "吴谨言王星越叼玫瑰花片段被删": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%B0%A8%E8%A8%80%E7%8E%8B%E6%98%9F%E8%B6%8A%E5%8F%BC%E7%8E%AB%E7%91%B0%E8%8A%B1%E7%89%87%E6%AE%B5%E8%A2%AB%E5%88%A0%23&t=31&band_rank=38&Refer=top",
-    "hot": 310351
   },
   "工作室分享赵丽颖的休憩时光": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%88%86%E4%BA%AB%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%9A%84%E4%BC%91%E6%86%A9%E6%97%B6%E5%85%89%23&t=31&band_rank=25&Refer=top",
@@ -691,10 +703,6 @@
     "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E5%96%9D%E8%8C%B6%E7%9A%84%E4%BA%BA%E6%9C%80%E5%90%8E%E9%83%BD%E5%92%8B%E6%A0%B7%E4%BA%86%23&t=31&band_rank=37&Refer=top",
     "hot": 278012
   },
-  "北京一幼儿园突遇搬迁遭家长集体反对": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E4%B8%80%E5%B9%BC%E5%84%BF%E5%9B%AD%E7%AA%81%E9%81%87%E6%90%AC%E8%BF%81%E9%81%AD%E5%AE%B6%E9%95%BF%E9%9B%86%E4%BD%93%E5%8F%8D%E5%AF%B9%23&t=31&band_rank=32&Refer=top",
-    "hot": 277415
-  },
   "一文速览国乒队员出征前说了什么": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%96%87%E9%80%9F%E8%A7%88%E5%9B%BD%E4%B9%92%E9%98%9F%E5%91%98%E5%87%BA%E5%BE%81%E5%89%8D%E8%AF%B4%E4%BA%86%E4%BB%80%E4%B9%88%23&t=31&band_rank=10&Refer=top",
     "hot": 277162
@@ -715,6 +723,10 @@
     "url": "https://s.weibo.com/weibo?q=BTS%E5%92%8CBP%E5%8F%82%E4%B8%8E%E7%A5%9E%E5%81%B7%E5%A5%B6%E7%88%B84OST&t=31&band_rank=32&Refer=top",
     "hot": 273598
   },
+  "本届欧洲杯到底有多难看": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9C%AC%E5%B1%8A%E6%AC%A7%E6%B4%B2%E6%9D%AF%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E9%9A%BE%E7%9C%8B%23&t=31&band_rank=15&Refer=top",
+    "hot": 273383
+  },
   "前车女生抓痒后车女生出手援助": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%89%8D%E8%BD%A6%E5%A5%B3%E7%94%9F%E6%8A%93%E7%97%92%E5%90%8E%E8%BD%A6%E5%A5%B3%E7%94%9F%E5%87%BA%E6%89%8B%E6%8F%B4%E5%8A%A9%23&t=31&band_rank=26&Refer=top",
     "hot": 269705
@@ -723,17 +735,9 @@
     "url": "https://s.weibo.com/weibo?q=%23%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%E7%A7%A6%E5%BD%BB%23&t=31&band_rank=33&Refer=top",
     "hot": 267978
   },
-  "本届欧洲杯到底有多难看": {
-    "url": "https://s.weibo.com/weibo?q=%23%E6%9C%AC%E5%B1%8A%E6%AC%A7%E6%B4%B2%E6%9D%AF%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E9%9A%BE%E7%9C%8B%23&t=31&band_rank=15&Refer=top",
-    "hot": 267430
-  },
   "本周狗屎运最旺的星座": {
     "url": "https://s.weibo.com/weibo?q=%E6%9C%AC%E5%91%A8%E7%8B%97%E5%B1%8E%E8%BF%90%E6%9C%80%E6%97%BA%E7%9A%84%E6%98%9F%E5%BA%A7&t=31&band_rank=27&Refer=top",
     "hot": 267282
-  },
-  "劳斯莱斯传奇设计师被刺身亡": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%8A%B3%E6%96%AF%E8%8E%B1%E6%96%AF%E4%BC%A0%E5%A5%87%E8%AE%BE%E8%AE%A1%E5%B8%88%E8%A2%AB%E5%88%BA%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=16&Refer=top",
-    "hot": 266306
   },
   "边佑锡方道歉": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%BE%B9%E4%BD%91%E9%94%A1%E6%96%B9%E9%81%93%E6%AD%89%23&t=31&band_rank=29&Refer=top",
@@ -742,6 +746,10 @@
   "小狗狗的嘴嘴是十分的臭": {
     "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%8B%97%E7%8B%97%E7%9A%84%E5%98%B4%E5%98%B4%E6%98%AF%E5%8D%81%E5%88%86%E7%9A%84%E8%87%AD&t=31&band_rank=31&Refer=top",
     "hot": 263316
+  },
+  "全新极氪009日行600km奔香港": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E6%96%B0%E6%9E%81%E6%B0%AA009%E6%97%A5%E8%A1%8C600km%E5%A5%94%E9%A6%99%E6%B8%AF%23&t=31&band_rank=41&Refer=top",
+    "hot": 262588
   },
   "英雄联盟手游": {
     "url": "https://s.weibo.com/weibo?q=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E6%89%8B%E6%B8%B8&t=31&band_rank=22&Refer=top",
@@ -859,13 +867,13 @@
     "url": "https://s.weibo.com/weibo?q=%E9%82%93%E8%B6%85%E5%92%8C%E7%AD%89%E7%AD%89%20%E6%B4%BB%E6%B3%BC%E8%80%81%E5%A5%B4%E5%92%8C%E6%B2%89%E7%A8%B3%E5%B0%91%E7%88%B7&t=31&band_rank=44&Refer=top",
     "hot": 228193
   },
-  "国家助学贷款在校期间本息都不用还": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E5%8A%A9%E5%AD%A6%E8%B4%B7%E6%AC%BE%E5%9C%A8%E6%A0%A1%E6%9C%9F%E9%97%B4%E6%9C%AC%E6%81%AF%E9%83%BD%E4%B8%8D%E7%94%A8%E8%BF%98%23&t=31&band_rank=34&Refer=top",
-    "hot": 225527
-  },
   "三伏天谨记三忌三宜": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E4%BC%8F%E5%A4%A9%E8%B0%A8%E8%AE%B0%E4%B8%89%E5%BF%8C%E4%B8%89%E5%AE%9C%23&t=31&band_rank=34&Refer=top",
     "hot": 222799
+  },
+  "王子奇王星越给沈月整无语了": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AD%90%E5%A5%87%E7%8E%8B%E6%98%9F%E8%B6%8A%E7%BB%99%E6%B2%88%E6%9C%88%E6%95%B4%E6%97%A0%E8%AF%AD%E4%BA%86%23&t=31&band_rank=40&Refer=top",
+    "hot": 222725
   },
   "元梦之星直播": {
     "url": "https://s.weibo.com/weibo?q=%E5%85%83%E6%A2%A6%E4%B9%8B%E6%98%9F%E7%9B%B4%E6%92%AD&t=31&band_rank=32&Refer=top",
@@ -919,10 +927,6 @@
     "url": "https://s.weibo.com/weibo?q=%23%E8%83%96%E5%AE%A4%E6%AF%8F%E5%A4%A9%E4%B8%80%E4%B8%AA%E7%A6%BB%E8%81%8C%E5%B0%8F%E6%8A%80%E5%B7%A7%23&t=31&band_rank=39&Refer=top",
     "hot": 215527
   },
-  "王子奇王星越给沈月整无语了": {
-    "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AD%90%E5%A5%87%E7%8E%8B%E6%98%9F%E8%B6%8A%E7%BB%99%E6%B2%88%E6%9C%88%E6%95%B4%E6%97%A0%E8%AF%AD%E4%BA%86%23&t=31&band_rank=40&Refer=top",
-    "hot": 215360
-  },
   "西安在上一种很新的早八": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E5%9C%A8%E4%B8%8A%E4%B8%80%E7%A7%8D%E5%BE%88%E6%96%B0%E7%9A%84%E6%97%A9%E5%85%AB%23&t=31&band_rank=33&Refer=top",
     "hot": 215258
@@ -958,10 +962,6 @@
   "金硕珍担任巴黎奥运会火炬手": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E7%A1%95%E7%8F%8D%E6%8B%85%E4%BB%BB%E5%B7%B4%E9%BB%8E%E5%A5%A5%E8%BF%90%E4%BC%9A%E7%81%AB%E7%82%AC%E6%89%8B%23&t=31&band_rank=37&Refer=top",
     "hot": 209042
-  },
-  "全新极氪009日行600km奔香港": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E6%96%B0%E6%9E%81%E6%B0%AA009%E6%97%A5%E8%A1%8C600km%E5%A5%94%E9%A6%99%E6%B8%AF%23&t=31&band_rank=41&Refer=top",
-    "hot": 208420
   },
   "我们的歌city不city阵容官宣": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E4%BB%AC%E7%9A%84%E6%AD%8Ccity%E4%B8%8Dcity%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3%23&t=31&band_rank=27&Refer=top",
@@ -1215,6 +1215,10 @@
     "url": "https://s.weibo.com/weibo?q=%E8%A5%BF%E7%8F%AD%E7%89%99&t=31&band_rank=28&Refer=top",
     "hot": 171087
   },
+  "溪溪大人因不正当竞争判赔小米15万": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%BA%AA%E6%BA%AA%E5%A4%A7%E4%BA%BA%E5%9B%A0%E4%B8%8D%E6%AD%A3%E5%BD%93%E7%AB%9E%E4%BA%89%E5%88%A4%E8%B5%94%E5%B0%8F%E7%B1%B315%E4%B8%87%23&t=31&band_rank=30&Refer=top",
+    "hot": 170406
+  },
   "苏真真究竟什么是真的": {
     "url": "https://s.weibo.com/weibo?q=%E8%8B%8F%E7%9C%9F%E7%9C%9F%E7%A9%B6%E7%AB%9F%E4%BB%80%E4%B9%88%E6%98%AF%E7%9C%9F%E7%9A%84&t=31&band_rank=33&Refer=top",
     "hot": 169732
@@ -1319,6 +1323,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%90%88%E8%82%A5%E5%85%AC%E4%BA%A4%E9%9B%86%E5%9B%A2%E9%80%9A%E6%8A%A5%E8%B9%A6%E8%BF%AA%E5%B7%B4%E5%A3%AB%23&t=31&band_rank=40&Refer=top",
     "hot": 154741
   },
+  "文佳煐车银优合照": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%96%87%E4%BD%B3%E7%85%90%E8%BD%A6%E9%93%B6%E4%BC%98%E5%90%88%E7%85%A7%23&t=31&band_rank=35&Refer=top",
+    "hot": 154304
+  },
   "巴黎奥运乒乓球项目赛程表": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E%E5%A5%A5%E8%BF%90%E4%B9%92%E4%B9%93%E7%90%83%E9%A1%B9%E7%9B%AE%E8%B5%9B%E7%A8%8B%E8%A1%A8%23&t=31&band_rank=41&Refer=top",
     "hot": 154226
@@ -1330,6 +1338,10 @@
   "找百万粉丝网红带货3场销量都为0": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%89%BE%E7%99%BE%E4%B8%87%E7%B2%89%E4%B8%9D%E7%BD%91%E7%BA%A2%E5%B8%A6%E8%B4%A73%E5%9C%BA%E9%94%80%E9%87%8F%E9%83%BD%E4%B8%BA0%23&t=31&band_rank=45&Refer=top",
     "hot": 154141
+  },
+  "周雨彤正在恶补英语中": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E9%9B%A8%E5%BD%A4%E6%AD%A3%E5%9C%A8%E6%81%B6%E8%A1%A5%E8%8B%B1%E8%AF%AD%E4%B8%AD%23&t=31&band_rank=38&Refer=top",
+    "hot": 153995
   },
   "从21世纪安全撤离新预告": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8E21%E4%B8%96%E7%BA%AA%E5%AE%89%E5%85%A8%E6%92%A4%E7%A6%BB%E6%96%B0%E9%A2%84%E5%91%8A%23&t=31&band_rank=42&Refer=top",
@@ -1362,10 +1374,6 @@
   "巴黎奥运国乒比赛时间表": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E%E5%A5%A5%E8%BF%90%E5%9B%BD%E4%B9%92%E6%AF%94%E8%B5%9B%E6%97%B6%E9%97%B4%E8%A1%A8%23&t=31&band_rank=34&Refer=top",
     "hot": 146494
-  },
-  "周雨彤正在恶补英语中": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E9%9B%A8%E5%BD%A4%E6%AD%A3%E5%9C%A8%E6%81%B6%E8%A1%A5%E8%8B%B1%E8%AF%AD%E4%B8%AD%23&t=31&band_rank=38&Refer=top",
-    "hot": 146116
   },
   "阿根廷国家足球队发文庆祝16冠": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%9B%BD%E5%AE%B6%E8%B6%B3%E7%90%83%E9%98%9F%E5%8F%91%E6%96%87%E5%BA%86%E7%A5%9D16%E5%86%A0%23&t=31&band_rank=47&Refer=top",
@@ -1646,6 +1654,10 @@
   "好多明星去看了温网女单决赛": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%A5%BD%E5%A4%9A%E6%98%8E%E6%98%9F%E5%8E%BB%E7%9C%8B%E4%BA%86%E6%B8%A9%E7%BD%91%E5%A5%B3%E5%8D%95%E5%86%B3%E8%B5%9B%23&t=31&band_rank=46&Refer=top",
     "hot": 101064
+  },
+  "一周不重样早餐做法": {
+    "url": "https://s.weibo.com/weibo?q=%E4%B8%80%E5%91%A8%E4%B8%8D%E9%87%8D%E6%A0%B7%E6%97%A9%E9%A4%90%E5%81%9A%E6%B3%95&t=31&band_rank=49&Refer=top",
+    "hot": 100608
   },
   "特朗普遭遇枪击": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%81%AD%E9%81%87%E6%9E%AA%E5%87%BB%23&t=31&band_rank=47&Refer=top",
