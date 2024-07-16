@@ -123,6 +123,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%9B%9E%E5%BA%94iPhone%E9%AC%BC%E6%89%8B%E7%8E%B0%E8%B1%A1%23&t=31&band_rank=29&Refer=top",
     "hot": 115019
   },
+  "一篇近半个世纪的工作总结": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%AF%87%E8%BF%91%E5%8D%8A%E4%B8%AA%E4%B8%96%E7%BA%AA%E7%9A%84%E5%B7%A5%E4%BD%9C%E6%80%BB%E7%BB%93%23&t=31&band_rank=3&Refer=top",
+    "hot": 112526
+  },
   "王子奇抱着王星越坐": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AD%90%E5%A5%87%E6%8A%B1%E7%9D%80%E7%8E%8B%E6%98%9F%E8%B6%8A%E5%9D%90%23&t=31&band_rank=30&Refer=top",
     "hot": 108605
@@ -234,5 +238,9 @@
   "阿拉蕾撞脸林妙可": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%8B%89%E8%95%BE%E6%92%9E%E8%84%B8%E6%9E%97%E5%A6%99%E5%8F%AF%23&t=31&band_rank=34&Refer=top",
     "hot": 45608
+  },
+  "网红面筋哥近况": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E9%9D%A2%E7%AD%8B%E5%93%A5%E8%BF%91%E5%86%B5%23&t=31&band_rank=36&Refer=top",
+    "hot": 43805
   }
 }
