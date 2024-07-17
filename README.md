@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-07-18 01:10:55.275099 
-![2024-07-18](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240718/2024-07-18.png?versionId=4_z8fbbed132d73df8689c40f13_f114317f54a47233f_d20240717_m171054_c005_v0501021_t0000_u01721236254829) 
+最后更新时间 2024-07-18 01:26:35.690453 
+![2024-07-18](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240718/2024-07-18.png?versionId=4_z8fbbed132d73df8689c40f13_f1137d97cdd059344_d20240717_m172635_c005_v0501009_t0012_u01721237195197) 
 1. [陈意涵 我来自中国台湾](https://s.weibo.com/weibo?q=%E9%99%88%E6%84%8F%E6%B6%B5%20%E6%88%91%E6%9D%A5%E8%87%AA%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE&t=31&band_rank=1&Refer=top) 1039502
 1. [iPhone17不使用节省空间的主板材料](https://s.weibo.com/weibo?q=%23iPhone17%E4%B8%8D%E4%BD%BF%E7%94%A8%E8%8A%82%E7%9C%81%E7%A9%BA%E9%97%B4%E7%9A%84%E4%B8%BB%E6%9D%BF%E6%9D%90%E6%96%99%23&t=31&band_rank=2&Refer=top) 649897
 1. [小岗梦也是广大农民的梦](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%B2%97%E6%A2%A6%E4%B9%9F%E6%98%AF%E5%B9%BF%E5%A4%A7%E5%86%9C%E6%B0%91%E7%9A%84%E6%A2%A6%23&t=31&band_rank=3&Refer=top) 604641
@@ -69,6 +69,8 @@
 1. [三伏天真的适合减肥吗](https://s.weibo.com/weibo?q=%23%E4%B8%89%E4%BC%8F%E5%A4%A9%E7%9C%9F%E7%9A%84%E9%80%82%E5%90%88%E5%87%8F%E8%82%A5%E5%90%97%23&t=31&band_rank=30&Refer=top) 115526
 1. [文韬好会撒娇啊](https://s.weibo.com/weibo?q=%23%E6%96%87%E9%9F%AC%E5%A5%BD%E4%BC%9A%E6%92%92%E5%A8%87%E5%95%8A%23&t=31&band_rank=47&Refer=top) 114169
 1. [约罗接近加盟曼联](https://s.weibo.com/weibo?q=%23%E7%BA%A6%E7%BD%97%E6%8E%A5%E8%BF%91%E5%8A%A0%E7%9B%9F%E6%9B%BC%E8%81%94%23&t=31&band_rank=50&Refer=top) 113923
+1. [低质强碱性搞笑片](https://s.weibo.com/weibo?q=%E4%BD%8E%E8%B4%A8%E5%BC%BA%E7%A2%B1%E6%80%A7%E6%90%9E%E7%AC%91%E7%89%87&t=31&band_rank=25&Refer=top) 107109
+1. [好小众的爆痘方式](https://s.weibo.com/weibo?q=%E5%A5%BD%E5%B0%8F%E4%BC%97%E7%9A%84%E7%88%86%E7%97%98%E6%96%B9%E5%BC%8F&t=31&band_rank=43&Refer=top) 104712
 <!-- END -->
 
 历史归档 [./archives](./archives)
