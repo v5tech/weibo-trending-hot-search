@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-07-19 04:49:14.773832 
-![2024-07-19](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240719/2024-07-19.png?versionId=4_z8fbbed132d73df8689c40f13_f112ec87813acb22a_d20240718_m204914_c005_v0501019_t0059_u01721335754718) 
+最后更新时间 2024-07-19 05:11:34.815586 
+![2024-07-19](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240719/2024-07-19.png?versionId=4_z8fbbed132d73df8689c40f13_f100a2c5466071788_d20240718_m211134_c005_v0501000_t0006_u01721337094750) 
 1. [涂山璟下线](https://s.weibo.com/weibo?q=%E6%B6%82%E5%B1%B1%E7%92%9F%E4%B8%8B%E7%BA%BF&t=31&band_rank=1&Refer=top) 987802
 1. [瓶装饮用水跌破7毛大关](https://s.weibo.com/weibo?q=%23%E7%93%B6%E8%A3%85%E9%A5%AE%E7%94%A8%E6%B0%B4%E8%B7%8C%E7%A0%B47%E6%AF%9B%E5%A4%A7%E5%85%B3%23&t=31&band_rank=2&Refer=top) 468259
 1. [进一步全面深化改革的总目标](https://s.weibo.com/weibo?q=%23%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%85%A8%E9%9D%A2%E6%B7%B1%E5%8C%96%E6%94%B9%E9%9D%A9%E7%9A%84%E6%80%BB%E7%9B%AE%E6%A0%87%23&t=31&band_rank=3&Refer=top) 354354
@@ -83,7 +83,9 @@
 1. [长相思 三人行](https://s.weibo.com/weibo?q=%E9%95%BF%E7%9B%B8%E6%80%9D%20%E4%B8%89%E4%BA%BA%E8%A1%8C&t=31&band_rank=47&Refer=top) 24416
 1. [警方回应动物医院员工殴打小狗](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E5%8A%A8%E7%89%A9%E5%8C%BB%E9%99%A2%E5%91%98%E5%B7%A5%E6%AE%B4%E6%89%93%E5%B0%8F%E7%8B%97%23&t=31&band_rank=43&Refer=top) 20992
 1. [小男孩发型神似宫崎骏动画角色](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%94%B7%E5%AD%A9%E5%8F%91%E5%9E%8B%E7%A5%9E%E4%BC%BC%E5%AE%AB%E5%B4%8E%E9%AA%8F%E5%8A%A8%E7%94%BB%E8%A7%92%E8%89%B2%23&t=31&band_rank=49&Refer=top) 20937
-1. [拜登有轻微症状将居家隔离](https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E6%9C%89%E8%BD%BB%E5%BE%AE%E7%97%87%E7%8A%B6%E5%B0%86%E5%B1%85%E5%AE%B6%E9%9A%94%E7%A6%BB%23&t=31&band_rank=49&Refer=top) 18713
+1. [拜登有轻微症状将居家隔离](https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E6%9C%89%E8%BD%BB%E5%BE%AE%E7%97%87%E7%8A%B6%E5%B0%86%E5%B1%85%E5%AE%B6%E9%9A%94%E7%A6%BB%23&t=31&band_rank=49&Refer=top) 19405
+1. [年轻人开始爱上当电子爸妈](https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8B%E7%88%B1%E4%B8%8A%E5%BD%93%E7%94%B5%E5%AD%90%E7%88%B8%E5%A6%88%23&t=31&band_rank=41&Refer=top) 16504
+1. [耳朵纱布](https://s.weibo.com/weibo?q=%23%E8%80%B3%E6%9C%B5%E7%BA%B1%E5%B8%83%23&t=31&band_rank=49&Refer=top) 16497
 <!-- END -->
 
 历史归档 [./archives](./archives)
