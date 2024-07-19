@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-07-19 23:28:55.485194 
-![2024-07-19](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240719/2024-07-19.png?versionId=4_z8fbbed132d73df8689c40f13_f1177213a27b81d7a_d20240719_m152855_c005_v0501022_t0038_u01721402935421) 
+最后更新时间 2024-07-19 23:38:33.191996 
+![2024-07-19](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240719/2024-07-19.png?versionId=4_z8fbbed132d73df8689c40f13_f113d18a754cdcd0b_d20240719_m153832_c005_v0501022_t0011_u01721403512747) 
 1. [郑佩佩](https://s.weibo.com/weibo?q=%E9%83%91%E4%BD%A9%E4%BD%A9&t=31&band_rank=1&Refer=top) 10121180
 1. [海来阿木 好听](https://s.weibo.com/weibo?q=%E6%B5%B7%E6%9D%A5%E9%98%BF%E6%9C%A8%20%E5%A5%BD%E5%90%AC&t=31&band_rank=24&Refer=top) 8383017
 1. [郑佩佩捐赠大脑用于医学研究](https://s.weibo.com/weibo?q=%23%E9%83%91%E4%BD%A9%E4%BD%A9%E6%8D%90%E8%B5%A0%E5%A4%A7%E8%84%91%E7%94%A8%E4%BA%8E%E5%8C%BB%E5%AD%A6%E7%A0%94%E7%A9%B6%23&t=31&band_rank=11&Refer=top) 5117628
@@ -19,8 +19,8 @@
 1. [中共中央举行新闻发布会](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E4%B8%BE%E8%A1%8C%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=2&Refer=top) 4308866
 1. [二十届三中全会公报速读](https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%B1%8A%E4%B8%89%E4%B8%AD%E5%85%A8%E4%BC%9A%E5%85%AC%E6%8A%A5%E9%80%9F%E8%AF%BB%23&t=31&band_rank=3&Refer=top) 4300954
 1. [张钰琪回应中指](https://s.weibo.com/weibo?q=%E5%BC%A0%E9%92%B0%E7%90%AA%E5%9B%9E%E5%BA%94%E4%B8%AD%E6%8C%87&t=31&band_rank=33&Refer=top) 4076668
+1. [李晟医生](https://s.weibo.com/weibo?q=%E6%9D%8E%E6%99%9F%E5%8C%BB%E7%94%9F&t=31&band_rank=2&Refer=top) 3777295
 1. [黄宣无代餐](https://s.weibo.com/weibo?q=%E9%BB%84%E5%AE%A3%E6%97%A0%E4%BB%A3%E9%A4%90&t=31&band_rank=2&Refer=top) 3411799
-1. [李晟医生](https://s.weibo.com/weibo?q=%E6%9D%8E%E6%99%9F%E5%8C%BB%E7%94%9F&t=31&band_rank=2&Refer=top) 3213359
 1. [党的二十届三中全会精神](https://s.weibo.com/weibo?q=%23%E5%85%9A%E7%9A%84%E4%BA%8C%E5%8D%81%E5%B1%8A%E4%B8%89%E4%B8%AD%E5%85%A8%E4%BC%9A%E7%B2%BE%E7%A5%9E%23&t=31&band_rank=2&Refer=top) 2890672
 1. [智利7.3级地震](https://s.weibo.com/weibo?q=%23%E6%99%BA%E5%88%A97.3%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=10&Refer=top) 2861513
 1. [citywalk后年轻人开始citylie](https://s.weibo.com/weibo?q=%23citywalk%E5%90%8E%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8Bcitylie%23&t=31&band_rank=41&Refer=top) 2719899
@@ -205,6 +205,7 @@
 1. [雷军漂移](https://s.weibo.com/weibo?q=%E9%9B%B7%E5%86%9B%E6%BC%82%E7%A7%BB&t=31&band_rank=18&Refer=top) 394431
 1. [郑佩佩花少安慰华晨宇](https://s.weibo.com/weibo?q=%23%E9%83%91%E4%BD%A9%E4%BD%A9%E8%8A%B1%E5%B0%91%E5%AE%89%E6%85%B0%E5%8D%8E%E6%99%A8%E5%AE%87%23&t=31&band_rank=35&Refer=top) 388375
 1. [喝隔夜水会致癌吗](https://s.weibo.com/weibo?q=%23%E5%96%9D%E9%9A%94%E5%A4%9C%E6%B0%B4%E4%BC%9A%E8%87%B4%E7%99%8C%E5%90%97%23&t=31&band_rank=35&Refer=top) 387750
+1. [女子雨中把伞给老人自己却全身淋湿](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%9B%A8%E4%B8%AD%E6%8A%8A%E4%BC%9E%E7%BB%99%E8%80%81%E4%BA%BA%E8%87%AA%E5%B7%B1%E5%8D%B4%E5%85%A8%E8%BA%AB%E6%B7%8B%E6%B9%BF%23&t=31&band_rank=10&Refer=top) 385929
 1. [吴艳妮谈化妆做造型参加比赛](https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%89%B3%E5%A6%AE%E8%B0%88%E5%8C%96%E5%A6%86%E5%81%9A%E9%80%A0%E5%9E%8B%E5%8F%82%E5%8A%A0%E6%AF%94%E8%B5%9B%23&t=31&band_rank=9&Refer=top) 380500
 1. [许晴悼念郑佩佩](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%99%B4%E6%82%BC%E5%BF%B5%E9%83%91%E4%BD%A9%E4%BD%A9%23&t=31&band_rank=32&Refer=top) 380461
 1. [唐朝诡事录 吓人](https://s.weibo.com/weibo?q=%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%95%20%E5%90%93%E4%BA%BA&t=31&band_rank=26&Refer=top) 380139
@@ -236,7 +237,7 @@
 1. [官方通报一医院院长与女子不正当关系](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B8%80%E5%8C%BB%E9%99%A2%E9%99%A2%E9%95%BF%E4%B8%8E%E5%A5%B3%E5%AD%90%E4%B8%8D%E6%AD%A3%E5%BD%93%E5%85%B3%E7%B3%BB%23&t=31&band_rank=16&Refer=top) 315114
 1. [长相思18集名场面含量100%](https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D18%E9%9B%86%E5%90%8D%E5%9C%BA%E9%9D%A2%E5%90%AB%E9%87%8F100%25%23&t=31&band_rank=31&Refer=top) 314451
 1. [奥运期间巴黎物价全面上涨](https://s.weibo.com/weibo?q=%23%E5%A5%A5%E8%BF%90%E6%9C%9F%E9%97%B4%E5%B7%B4%E9%BB%8E%E7%89%A9%E4%BB%B7%E5%85%A8%E9%9D%A2%E4%B8%8A%E6%B6%A8%23&t=31&band_rank=6&Refer=top) 314444
-1. [雷军回应董明珠怼小米空调](https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E8%91%A3%E6%98%8E%E7%8F%A0%E6%80%BC%E5%B0%8F%E7%B1%B3%E7%A9%BA%E8%B0%83%23&t=31&band_rank=45&Refer=top) 306868
+1. [雷军回应董明珠怼小米空调](https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E8%91%A3%E6%98%8E%E7%8F%A0%E6%80%BC%E5%B0%8F%E7%B1%B3%E7%A9%BA%E8%B0%83%23&t=31&band_rank=45&Refer=top) 309623
 1. [加沙小兔子衣服女童惊恐睁大眼睛](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%99%E5%B0%8F%E5%85%94%E5%AD%90%E8%A1%A3%E6%9C%8D%E5%A5%B3%E7%AB%A5%E6%83%8A%E6%81%90%E7%9D%81%E5%A4%A7%E7%9C%BC%E7%9D%9B%23&t=31&band_rank=49&Refer=top) 304905
 1. [邓为涂山璟下线拍了三天](https://s.weibo.com/weibo?q=%E9%82%93%E4%B8%BA%E6%B6%82%E5%B1%B1%E7%92%9F%E4%B8%8B%E7%BA%BF%E6%8B%8D%E4%BA%86%E4%B8%89%E5%A4%A9&t=31&band_rank=37&Refer=top) 304587
 1. [研究称久坐者每天喝杯咖啡降低死亡风险](https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E7%A7%B0%E4%B9%85%E5%9D%90%E8%80%85%E6%AF%8F%E5%A4%A9%E5%96%9D%E6%9D%AF%E5%92%96%E5%95%A1%E9%99%8D%E4%BD%8E%E6%AD%BB%E4%BA%A1%E9%A3%8E%E9%99%A9%23&t=31&band_rank=21&Refer=top) 303422
@@ -291,6 +292,7 @@
 1. [向日葵登不上了](https://s.weibo.com/weibo?q=%E5%90%91%E6%97%A5%E8%91%B5%E7%99%BB%E4%B8%8D%E4%B8%8A%E4%BA%86&t=31&band_rank=37&Refer=top) 219113
 1. [小米折叠](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%8A%98%E5%8F%A0&t=31&band_rank=44&Refer=top) 218587
 1. [无期迷途直播](https://s.weibo.com/weibo?q=%23%E6%97%A0%E6%9C%9F%E8%BF%B7%E9%80%94%E7%9B%B4%E6%92%AD%23&t=31&band_rank=30&Refer=top) 218072
+1. [蔡依林uglybeauty演唱会](https://s.weibo.com/weibo?q=%E8%94%A1%E4%BE%9D%E6%9E%97uglybeauty%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=46&Refer=top) 216506
 1. [唐朝诡事录](https://s.weibo.com/weibo?q=%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%95&t=31&band_rank=33&Refer=top) 216474
 1. [白鹿曾舜晞大婚吻戏路透](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E6%9B%BE%E8%88%9C%E6%99%9E%E5%A4%A7%E5%A9%9A%E5%90%BB%E6%88%8F%E8%B7%AF%E9%80%8F%23&t=31&band_rank=34&Refer=top) 215614
 1. [秦彻剧情](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%BD%BB%E5%89%A7%E6%83%85%23&t=31&band_rank=28&Refer=top) 215253
