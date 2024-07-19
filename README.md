@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-07-19 13:39:17.868674 
-![2024-07-19](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240719/2024-07-19.png?versionId=4_z8fbbed132d73df8689c40f13_f113d18a754a15f1d_d20240719_m053917_c005_v0501022_t0055_u01721367557745) 
+最后更新时间 2024-07-19 13:49:37.486840 
+![2024-07-19](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240719/2024-07-19.png?versionId=4_z8fbbed132d73df8689c40f13_f105ff7bc4150fb0f_d20240719_m054937_c005_v0501020_t0005_u01721368177338) 
 1. [郑佩佩](https://s.weibo.com/weibo?q=%E9%83%91%E4%BD%A9%E4%BD%A9&t=31&band_rank=1&Refer=top) 10121180
 1. [中共中央举行新闻发布会](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E4%B8%BE%E8%A1%8C%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=2&Refer=top) 4308866
 1. [党的二十届三中全会精神](https://s.weibo.com/weibo?q=%23%E5%85%9A%E7%9A%84%E4%BA%8C%E5%8D%81%E5%B1%8A%E4%B8%89%E4%B8%AD%E5%85%A8%E4%BC%9A%E7%B2%BE%E7%A5%9E%23&t=31&band_rank=2&Refer=top) 2890672
@@ -84,9 +84,12 @@
 1. [惠英红悼念郑佩佩](https://s.weibo.com/weibo?q=%23%E6%83%A0%E8%8B%B1%E7%BA%A2%E6%82%BC%E5%BF%B5%E9%83%91%E4%BD%A9%E4%BD%A9%23&t=31&band_rank=41&Refer=top) 429970
 1. [小夭疯起来全大荒都得靠边站](https://s.weibo.com/weibo?q=%E5%B0%8F%E5%A4%AD%E7%96%AF%E8%B5%B7%E6%9D%A5%E5%85%A8%E5%A4%A7%E8%8D%92%E9%83%BD%E5%BE%97%E9%9D%A0%E8%BE%B9%E7%AB%99&t=31&band_rank=10&Refer=top) 421216
 1. [一个面包35元高价烘焙卷土重来](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E9%9D%A2%E5%8C%8535%E5%85%83%E9%AB%98%E4%BB%B7%E7%83%98%E7%84%99%E5%8D%B7%E5%9C%9F%E9%87%8D%E6%9D%A5%23&t=31&band_rank=12&Refer=top) 418082
+1. [微软蓝屏](https://s.weibo.com/weibo?q=%E5%BE%AE%E8%BD%AF%E8%93%9D%E5%B1%8F&t=31&band_rank=18&Refer=top) 404218
+1. [张翰 想你了佩佩姐](https://s.weibo.com/weibo?q=%E5%BC%A0%E7%BF%B0%20%E6%83%B3%E4%BD%A0%E4%BA%86%E4%BD%A9%E4%BD%A9%E5%A7%90&t=31&band_rank=24&Refer=top) 400488
 1. [宋茜将录制花少6](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%8C%9C%E5%B0%86%E5%BD%95%E5%88%B6%E8%8A%B1%E5%B0%916%23&t=31&band_rank=30&Refer=top) 398964
 1. [得闲谨制开机](https://s.weibo.com/weibo?q=%E5%BE%97%E9%97%B2%E8%B0%A8%E5%88%B6%E5%BC%80%E6%9C%BA&t=31&band_rank=13&Refer=top) 396404
 1. [喝隔夜水会致癌吗](https://s.weibo.com/weibo?q=%23%E5%96%9D%E9%9A%94%E5%A4%9C%E6%B0%B4%E4%BC%9A%E8%87%B4%E7%99%8C%E5%90%97%23&t=31&band_rank=35&Refer=top) 387750
+1. [刘亦菲说郑佩佩是榜样](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E8%AF%B4%E9%83%91%E4%BD%A9%E4%BD%A9%E6%98%AF%E6%A6%9C%E6%A0%B7%23&t=31&band_rank=33&Refer=top) 375976
 1. [26岁医学女博士入职前先救了个人](https://s.weibo.com/weibo?q=%2326%E5%B2%81%E5%8C%BB%E5%AD%A6%E5%A5%B3%E5%8D%9A%E5%A3%AB%E5%85%A5%E8%81%8C%E5%89%8D%E5%85%88%E6%95%91%E4%BA%86%E4%B8%AA%E4%BA%BA%23&t=31&band_rank=10&Refer=top) 371274
 1. [山东小钺钺已进行第二次开颅手术](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E5%B0%8F%E9%92%BA%E9%92%BA%E5%B7%B2%E8%BF%9B%E8%A1%8C%E7%AC%AC%E4%BA%8C%E6%AC%A1%E5%BC%80%E9%A2%85%E6%89%8B%E6%9C%AF%23&t=31&band_rank=14&Refer=top) 362633
 1. [空空日记道歉](https://s.weibo.com/weibo?q=%23%E7%A9%BA%E7%A9%BA%E6%97%A5%E8%AE%B0%E9%81%93%E6%AD%89%23&t=31&band_rank=15&Refer=top) 357666
@@ -108,6 +111,8 @@
 1. [毛毛虫因为烫脚而光速跑路](https://s.weibo.com/weibo?q=%E6%AF%9B%E6%AF%9B%E8%99%AB%E5%9B%A0%E4%B8%BA%E7%83%AB%E8%84%9A%E8%80%8C%E5%85%89%E9%80%9F%E8%B7%91%E8%B7%AF&t=31&band_rank=22&Refer=top) 300565
 1. [你长这么慢 我很难看到你长大](https://s.weibo.com/weibo?q=%E4%BD%A0%E9%95%BF%E8%BF%99%E4%B9%88%E6%85%A2%20%E6%88%91%E5%BE%88%E9%9A%BE%E7%9C%8B%E5%88%B0%E4%BD%A0%E9%95%BF%E5%A4%A7&t=31&band_rank=40&Refer=top) 298881
 1. [麦当劳新制服](https://s.weibo.com/weibo?q=%23%E9%BA%A6%E5%BD%93%E5%8A%B3%E6%96%B0%E5%88%B6%E6%9C%8D%23&t=31&band_rank=17&Refer=top) 290740
+1. [虞书欣让中餐厅宣发变年轻了](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E8%AE%A9%E4%B8%AD%E9%A4%90%E5%8E%85%E5%AE%A3%E5%8F%91%E5%8F%98%E5%B9%B4%E8%BD%BB%E4%BA%86%23&t=31&band_rank=34&Refer=top) 289587
+1. [郑佩佩花少安慰华晨宇](https://s.weibo.com/weibo?q=%23%E9%83%91%E4%BD%A9%E4%BD%A9%E8%8A%B1%E5%B0%91%E5%AE%89%E6%85%B0%E5%8D%8E%E6%99%A8%E5%AE%87%23&t=31&band_rank=35&Refer=top) 289283
 1. [赵丽颖冯小刚聚餐](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%86%AF%E5%B0%8F%E5%88%9A%E8%81%9A%E9%A4%90%23&t=31&band_rank=18&Refer=top) 288847
 1. [华晨宇黑粉被恢复执行](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E9%BB%91%E7%B2%89%E8%A2%AB%E6%81%A2%E5%A4%8D%E6%89%A7%E8%A1%8C%23&t=31&band_rank=32&Refer=top) 283496
 1. [苹果把大招留给了iPhone18](https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%8A%8A%E5%A4%A7%E6%8B%9B%E7%95%99%E7%BB%99%E4%BA%86iPhone18%23&t=31&band_rank=23&Refer=top) 273695
