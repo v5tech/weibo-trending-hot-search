@@ -103,6 +103,10 @@
     "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E5%B0%96%E5%B0%96&t=31&band_rank=23&Refer=top",
     "hot": 206899
   },
+  "有一种甜蜜叫哈密": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%B8%80%E7%A7%8D%E7%94%9C%E8%9C%9C%E5%8F%AB%E5%93%88%E5%AF%86%23&t=31&band_rank=24&Refer=top",
+    "hot": 205339
+  },
   "薛之谦嘉宾韩红": {
     "url": "https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%98%89%E5%AE%BE%E9%9F%A9%E7%BA%A2&t=31&band_rank=30&Refer=top",
     "hot": 203256
@@ -199,10 +203,6 @@
     "url": "https://s.weibo.com/weibo?q=%E9%9F%A6%E4%B8%96%E8%B1%AA%E7%BA%A2%E7%89%8C&t=31&band_rank=50&Refer=top",
     "hot": 201766
   },
-  "有一种甜蜜叫哈密": {
-    "url": "https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%B8%80%E7%A7%8D%E7%94%9C%E8%9C%9C%E5%8F%AB%E5%93%88%E5%AF%86%23&t=31&band_rank=24&Refer=top",
-    "hot": 193000
-  },
   "小伙子们为救人整整走了17个小时": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E5%AD%90%E4%BB%AC%E4%B8%BA%E6%95%91%E4%BA%BA%E6%95%B4%E6%95%B4%E8%B5%B0%E4%BA%8617%E4%B8%AA%E5%B0%8F%E6%97%B6%23&t=31&band_rank=25&Refer=top",
     "hot": 191528
@@ -211,12 +211,20 @@
     "url": "https://s.weibo.com/weibo?q=EDG%E5%A4%BA%E5%86%A0&t=31&band_rank=49&Refer=top",
     "hot": 162586
   },
-  "上海闪电": {
-    "url": "https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E9%97%AA%E7%94%B5&t=31&band_rank=47&Refer=top",
-    "hot": 104477
+  "朱志鑫组二公小考第一": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9C%B1%E5%BF%97%E9%91%AB%E7%BB%84%E4%BA%8C%E5%85%AC%E5%B0%8F%E8%80%83%E7%AC%AC%E4%B8%80%23&t=31&band_rank=32&Refer=top",
+    "hot": 121979
   },
   "今晚记得抬头看看月亮": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8A%E6%99%9A%E8%AE%B0%E5%BE%97%E6%8A%AC%E5%A4%B4%E7%9C%8B%E7%9C%8B%E6%9C%88%E4%BA%AE%23&t=31&band_rank=49&Refer=top",
-    "hot": 99515
+    "hot": 121934
+  },
+  "BLG换人": {
+    "url": "https://s.weibo.com/weibo?q=BLG%E6%8D%A2%E4%BA%BA&t=31&band_rank=47&Refer=top",
+    "hot": 121875
+  },
+  "上海闪电": {
+    "url": "https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E9%97%AA%E7%94%B5&t=31&band_rank=47&Refer=top",
+    "hot": 104477
   }
 }
