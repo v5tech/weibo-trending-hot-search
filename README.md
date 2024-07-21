@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-07-22 01:34:52.412439 
-![2024-07-22](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240722/2024-07-22.png?versionId=4_z8fbbed132d73df8689c40f13_f103f5d88eb0c1345_d20240721_m173452_c005_v0501021_t0045_u01721583292352) 
+最后更新时间 2024-07-22 01:49:34.284862 
+![2024-07-22](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240722/2024-07-22.png?versionId=4_z8fbbed132d73df8689c40f13_f1000517036402203_d20240721_m174934_c005_v0501022_t0009_u01721584174125) 
 1. [TFBOYS发文支持王源](https://s.weibo.com/weibo?q=%23TFBOYS%E5%8F%91%E6%96%87%E6%94%AF%E6%8C%81%E7%8E%8B%E6%BA%90%23&t=31&band_rank=1&Refer=top) 1006676
 1. [为什么现在很少看到灾难片了](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E5%BE%88%E5%B0%91%E7%9C%8B%E5%88%B0%E7%81%BE%E9%9A%BE%E7%89%87%E4%BA%86&t=31&band_rank=8&Refer=top) 731238
 1. [虎门一公职人员贩毒被执行死刑](https://s.weibo.com/weibo?q=%23%E8%99%8E%E9%97%A8%E4%B8%80%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E8%B4%A9%E6%AF%92%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23&t=31&band_rank=2&Refer=top) 702570
@@ -65,8 +65,10 @@
 1. [71岁大爷破窗勇救落水女司机](https://s.weibo.com/weibo?q=%2371%E5%B2%81%E5%A4%A7%E7%88%B7%E7%A0%B4%E7%AA%97%E5%8B%87%E6%95%91%E8%90%BD%E6%B0%B4%E5%A5%B3%E5%8F%B8%E6%9C%BA%23&t=31&band_rank=15&Refer=top) 174579
 1. [周深今天好闪](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E4%BB%8A%E5%A4%A9%E5%A5%BD%E9%97%AA%23&t=31&band_rank=32&Refer=top) 169312
 1. [赵雅芝叶童重现打伞名场面](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9B%85%E8%8A%9D%E5%8F%B6%E7%AB%A5%E9%87%8D%E7%8E%B0%E6%89%93%E4%BC%9E%E5%90%8D%E5%9C%BA%E9%9D%A2%23&t=31&band_rank=47&Refer=top) 164044
+1. [打卡课本里的大美中国](https://s.weibo.com/weibo?q=%23%E6%89%93%E5%8D%A1%E8%AF%BE%E6%9C%AC%E9%87%8C%E7%9A%84%E5%A4%A7%E7%BE%8E%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top) 160652
 1. [登陆计划抽奖](https://s.weibo.com/weibo?q=%23%E7%99%BB%E9%99%86%E8%AE%A1%E5%88%92%E6%8A%BD%E5%A5%96%23&t=31&band_rank=38&Refer=top) 139165
 1. [宋丹丹张新成演恋人](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%B8%B9%E4%B8%B9%E5%BC%A0%E6%96%B0%E6%88%90%E6%BC%94%E6%81%8B%E4%BA%BA%23&t=31&band_rank=45&Refer=top) 134817
+1. [睡觉盖肚脐真的有必要吗](https://s.weibo.com/weibo?q=%23%E7%9D%A1%E8%A7%89%E7%9B%96%E8%82%9A%E8%84%90%E7%9C%9F%E7%9A%84%E6%9C%89%E5%BF%85%E8%A6%81%E5%90%97%23&t=31&band_rank=38&Refer=top) 132943
 <!-- END -->
 
 历史归档 [./archives](./archives)
