@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-07-22 04:37:41.214511 
-![2024-07-22](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240722/2024-07-22.png?versionId=4_z8fbbed132d73df8689c40f13_f10654b1428a982a8_d20240721_m203741_c005_v0501022_t0000_u01721594261185) 
+最后更新时间 2024-07-22 04:49:24.205604 
+![2024-07-22](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240722/2024-07-22.png?versionId=4_z8fbbed132d73df8689c40f13_f1008f0a6e4791428_d20240721_m204924_c005_v0501021_t0051_u01721594964174) 
 1. [拜登退选](https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E9%80%80%E9%80%89%23&t=31&band_rank=8&Refer=top) 2214784
 1. [拜登](https://s.weibo.com/weibo?q=%E6%8B%9C%E7%99%BB&t=31&band_rank=2&Refer=top) 1259355
 1. [TFBOYS发文支持王源](https://s.weibo.com/weibo?q=%23TFBOYS%E5%8F%91%E6%96%87%E6%94%AF%E6%8C%81%E7%8E%8B%E6%BA%90%23&t=31&band_rank=1&Refer=top) 1006676
