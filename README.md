@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-07-22 01:25:23.305936 
-![2024-07-22](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240722/2024-07-22.png?versionId=4_z8fbbed132d73df8689c40f13_f1040e05d703d6eb7_d20240721_m172523_c005_v0501022_t0029_u01721582723133) 
+最后更新时间 2024-07-22 01:34:52.412439 
+![2024-07-22](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240722/2024-07-22.png?versionId=4_z8fbbed132d73df8689c40f13_f103f5d88eb0c1345_d20240721_m173452_c005_v0501021_t0045_u01721583292352) 
 1. [TFBOYS发文支持王源](https://s.weibo.com/weibo?q=%23TFBOYS%E5%8F%91%E6%96%87%E6%94%AF%E6%8C%81%E7%8E%8B%E6%BA%90%23&t=31&band_rank=1&Refer=top) 1006676
 1. [为什么现在很少看到灾难片了](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E5%BE%88%E5%B0%91%E7%9C%8B%E5%88%B0%E7%81%BE%E9%9A%BE%E7%89%87%E4%BA%86&t=31&band_rank=8&Refer=top) 731238
 1. [虎门一公职人员贩毒被执行死刑](https://s.weibo.com/weibo?q=%23%E8%99%8E%E9%97%A8%E4%B8%80%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E8%B4%A9%E6%AF%92%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23&t=31&band_rank=2&Refer=top) 702570
@@ -62,6 +62,7 @@
 1. [花儿与少年直播](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%84%BF%E4%B8%8E%E5%B0%91%E5%B9%B4%E7%9B%B4%E6%92%AD%23&t=31&band_rank=50&Refer=top) 179258
 1. [博物馆的千年文物开花了](https://s.weibo.com/weibo?q=%23%E5%8D%9A%E7%89%A9%E9%A6%86%E7%9A%84%E5%8D%83%E5%B9%B4%E6%96%87%E7%89%A9%E5%BC%80%E8%8A%B1%E4%BA%86%23&t=31&band_rank=46&Refer=top) 175086
 1. [周深TMEA压轴](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1TMEA%E5%8E%8B%E8%BD%B4%23&t=31&band_rank=44&Refer=top) 174972
+1. [71岁大爷破窗勇救落水女司机](https://s.weibo.com/weibo?q=%2371%E5%B2%81%E5%A4%A7%E7%88%B7%E7%A0%B4%E7%AA%97%E5%8B%87%E6%95%91%E8%90%BD%E6%B0%B4%E5%A5%B3%E5%8F%B8%E6%9C%BA%23&t=31&band_rank=15&Refer=top) 174579
 1. [周深今天好闪](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E4%BB%8A%E5%A4%A9%E5%A5%BD%E9%97%AA%23&t=31&band_rank=32&Refer=top) 169312
 1. [赵雅芝叶童重现打伞名场面](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9B%85%E8%8A%9D%E5%8F%B6%E7%AB%A5%E9%87%8D%E7%8E%B0%E6%89%93%E4%BC%9E%E5%90%8D%E5%9C%BA%E9%9D%A2%23&t=31&band_rank=47&Refer=top) 164044
 1. [登陆计划抽奖](https://s.weibo.com/weibo?q=%23%E7%99%BB%E9%99%86%E8%AE%A1%E5%88%92%E6%8A%BD%E5%A5%96%23&t=31&band_rank=38&Refer=top) 139165
