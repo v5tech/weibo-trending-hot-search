@@ -39,6 +39,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%A7%B0%E7%BB%99%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E5%B7%AE%E8%AF%84%E5%90%8E%E8%A2%AB%E6%89%BE%E4%B8%8A%E9%97%A8%23&t=31&band_rank=42&Refer=top",
     "hot": 466078
   },
+  "拜登支持哈里斯竞选": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E6%94%AF%E6%8C%81%E5%93%88%E9%87%8C%E6%96%AF%E7%AB%9E%E9%80%89%23&t=31&band_rank=36&Refer=top",
+    "hot": 365463
+  },
   "盗墓团伙要价1.8亿的文物被追回": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%9B%97%E5%A2%93%E5%9B%A2%E4%BC%99%E8%A6%81%E4%BB%B71.8%E4%BA%BF%E7%9A%84%E6%96%87%E7%89%A9%E8%A2%AB%E8%BF%BD%E5%9B%9E%23&t=31&band_rank=6&Refer=top",
     "hot": 308611
@@ -247,10 +251,6 @@
     "url": "https://s.weibo.com/weibo?q=%23%E7%9D%A1%E8%A7%89%E7%9B%96%E8%82%9A%E8%84%90%E7%9C%9F%E7%9A%84%E6%9C%89%E5%BF%85%E8%A6%81%E5%90%97%23&t=31&band_rank=38&Refer=top",
     "hot": 132943
   },
-  "拜登支持哈里斯竞选": {
-    "url": "https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E6%94%AF%E6%8C%81%E5%93%88%E9%87%8C%E6%96%AF%E7%AB%9E%E9%80%89%23&t=31&band_rank=36&Refer=top",
-    "hot": 60460
-  },
   "张杰未live开往1982巡回演唱会": {
     "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9D%B0%E6%9C%AAlive%E5%BC%80%E5%BE%801982%E5%B7%A1%E5%9B%9E%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=49&Refer=top",
     "hot": 56011
@@ -263,8 +263,20 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E5%B9%B4%E5%BA%A6%E6%9C%80%E5%85%B7%E5%BD%B1%E5%93%8D%E5%8A%9B%E5%85%A8%E8%83%BD%E6%AD%8C%E6%89%8B%23&t=31&band_rank=43&Refer=top",
     "hot": 44807
   },
+  "特朗普回应拜登退选": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E6%8B%9C%E7%99%BB%E9%80%80%E9%80%89%23&t=31&band_rank=31&Refer=top",
+    "hot": 36316
+  },
   "少年白马醉春风": {
     "url": "https://s.weibo.com/weibo?q=%E5%B0%91%E5%B9%B4%E7%99%BD%E9%A9%AC%E9%86%89%E6%98%A5%E9%A3%8E&t=31&band_rank=47&Refer=top",
     "hot": 35509
+  },
+  "长沙交警通报": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B2%99%E4%BA%A4%E8%AD%A6%E9%80%9A%E6%8A%A5%23&t=31&band_rank=36&Refer=top",
+    "hot": 33936
+  },
+  "中餐厅": {
+    "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E9%A4%90%E5%8E%85&t=31&band_rank=46&Refer=top",
+    "hot": 33911
   }
 }
