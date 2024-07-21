@@ -41,7 +41,11 @@
   },
   "特朗普回应拜登退选": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E6%8B%9C%E7%99%BB%E9%80%80%E9%80%89%23&t=31&band_rank=31&Refer=top",
-    "hot": 435010
+    "hot": 437140
+  },
+  "见证历史": {
+    "url": "https://s.weibo.com/weibo?q=%23%E8%A7%81%E8%AF%81%E5%8E%86%E5%8F%B2%23&t=31&band_rank=12&Refer=top",
+    "hot": 427003
   },
   "拜登支持哈里斯竞选": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E6%94%AF%E6%8C%81%E5%93%88%E9%87%8C%E6%96%AF%E7%AB%9E%E9%80%89%23&t=31&band_rank=36&Refer=top",
@@ -275,10 +279,6 @@
     "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%B2%99%E4%BA%A4%E8%AD%A6%E9%80%9A%E6%8A%A5%23&t=31&band_rank=36&Refer=top",
     "hot": 41066
   },
-  "见证历史": {
-    "url": "https://s.weibo.com/weibo?q=%23%E8%A7%81%E8%AF%81%E5%8E%86%E5%8F%B2%23&t=31&band_rank=12&Refer=top",
-    "hot": 40060
-  },
   "少年白马醉春风": {
     "url": "https://s.weibo.com/weibo?q=%E5%B0%91%E5%B9%B4%E7%99%BD%E9%A9%AC%E9%86%89%E6%98%A5%E9%A3%8E&t=31&band_rank=47&Refer=top",
     "hot": 35509
@@ -286,5 +286,13 @@
   "中餐厅": {
     "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E9%A4%90%E5%8E%85&t=31&band_rank=46&Refer=top",
     "hot": 33911
+  },
+  "你为什么不买优衣库了": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E4%B9%B0%E4%BC%98%E8%A1%A3%E5%BA%93%E4%BA%86%23&t=31&band_rank=46&Refer=top",
+    "hot": 25784
+  },
+  "中国奥数竞赛五连冠被美国队终结": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%A5%E6%95%B0%E7%AB%9E%E8%B5%9B%E4%BA%94%E8%BF%9E%E5%86%A0%E8%A2%AB%E7%BE%8E%E5%9B%BD%E9%98%9F%E7%BB%88%E7%BB%93%23&t=31&band_rank=50&Refer=top",
+    "hot": 25768
   }
 }
