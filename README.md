@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-07-23 04:13:06.439777 
-![2024-07-23](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240723/2024-07-23.png?versionId=4_z8fbbed132d73df8689c40f13_f11032affb0c4b6fe_d20240722_m201306_c005_v0501020_t0036_u01721679186009) 
+最后更新时间 2024-07-23 04:26:51.470072 
+![2024-07-23](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240723/2024-07-23.png?versionId=4_z8fbbed132d73df8689c40f13_f10151b25340211bd_d20240722_m202651_c005_v0501021_t0051_u01721680011281) 
 1. [蒋敦豪发长文回应](https://s.weibo.com/weibo?q=%23%E8%92%8B%E6%95%A6%E8%B1%AA%E5%8F%91%E9%95%BF%E6%96%87%E5%9B%9E%E5%BA%94%23&t=31&band_rank=1&Refer=top) 5955626
 1. [奶茶30元时代已成过去](https://s.weibo.com/weibo?q=%23%E5%A5%B6%E8%8C%B630%E5%85%83%E6%97%B6%E4%BB%A3%E5%B7%B2%E6%88%90%E8%BF%87%E5%8E%BB%23&t=31&band_rank=2&Refer=top) 695147
 1. [万千气象看青海](https://s.weibo.com/weibo?q=%23%E4%B8%87%E5%8D%83%E6%B0%94%E8%B1%A1%E7%9C%8B%E9%9D%92%E6%B5%B7%23&t=31&band_rank=3&Refer=top) 464686
