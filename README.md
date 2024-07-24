@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-07-25 04:13:37.746342 
-![2024-07-25](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240725/2024-07-25.png?versionId=4_z8fbbed132d73df8689c40f13_f1150f8200244da90_d20240724_m201337_c005_v0501021_t0045_u01721852017687) 
+最后更新时间 2024-07-25 04:26:24.096766 
+![2024-07-25](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240725/2024-07-25.png?versionId=4_z8fbbed132d73df8689c40f13_f1178bdf85b04031f_d20240724_m202623_c005_v0501019_t0012_u01721852783947) 
 1. [台风格美直角掉头了](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E6%A0%BC%E7%BE%8E%E7%9B%B4%E8%A7%92%E6%8E%89%E5%A4%B4%E4%BA%86%23&t=31&band_rank=1&Refer=top) 1456830
 1. [国乒奥运抽签](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E5%A5%A5%E8%BF%90%E6%8A%BD%E7%AD%BE%23&t=31&band_rank=2&Refer=top) 1055767
 1. [孙颖莎早田希娜女单同区](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E6%97%A9%E7%94%B0%E5%B8%8C%E5%A8%9C%E5%A5%B3%E5%8D%95%E5%90%8C%E5%8C%BA%23&t=31&band_rank=8&Refer=top) 799484
@@ -75,15 +75,16 @@
 1. [男子胃痛医生一眼识别为心梗救下一命](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%83%83%E7%97%9B%E5%8C%BB%E7%94%9F%E4%B8%80%E7%9C%BC%E8%AF%86%E5%88%AB%E4%B8%BA%E5%BF%83%E6%A2%97%E6%95%91%E4%B8%8B%E4%B8%80%E5%91%BD%23&t=31&band_rank=10&Refer=top) 92719
 1. [男子川藏线偶遇大爷竟是00后](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%B7%9D%E8%97%8F%E7%BA%BF%E5%81%B6%E9%81%87%E5%A4%A7%E7%88%B7%E7%AB%9F%E6%98%AF00%E5%90%8E%23&t=31&band_rank=50&Refer=top) 88602
 1. [国乒女团vs埃及女团](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E5%A5%B3%E5%9B%A2vs%E5%9F%83%E5%8F%8A%E5%A5%B3%E5%9B%A2%23&t=31&band_rank=47&Refer=top) 82180
+1. [妻子买西瓜发生纠纷男子捅伤瓜贩](https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E4%B9%B0%E8%A5%BF%E7%93%9C%E5%8F%91%E7%94%9F%E7%BA%A0%E7%BA%B7%E7%94%B7%E5%AD%90%E6%8D%85%E4%BC%A4%E7%93%9C%E8%B4%A9%23&t=31&band_rank=45&Refer=top) 72542
 1. [男孩坐火车吃瓜子卡喉列车员救回](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E5%9D%90%E7%81%AB%E8%BD%A6%E5%90%83%E7%93%9C%E5%AD%90%E5%8D%A1%E5%96%89%E5%88%97%E8%BD%A6%E5%91%98%E6%95%91%E5%9B%9E%23&t=31&band_rank=24&Refer=top) 67116
 1. [虞书欣清冷A感](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E6%B8%85%E5%86%B7A%E6%84%9F%23&t=31&band_rank=50&Refer=top) 61001
-1. [妻子买西瓜发生纠纷男子捅伤瓜贩](https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E4%B9%B0%E8%A5%BF%E7%93%9C%E5%8F%91%E7%94%9F%E7%BA%A0%E7%BA%B7%E7%94%B7%E5%AD%90%E6%8D%85%E4%BC%A4%E7%93%9C%E8%B4%A9%23&t=31&band_rank=45&Refer=top) 59556
 1. [奥运村环境](https://s.weibo.com/weibo?q=%E5%A5%A5%E8%BF%90%E6%9D%91%E7%8E%AF%E5%A2%83&t=31&band_rank=48&Refer=top) 54541
 1. [因无人应答房东报警救下热昏迷租客](https://s.weibo.com/weibo?q=%23%E5%9B%A0%E6%97%A0%E4%BA%BA%E5%BA%94%E7%AD%94%E6%88%BF%E4%B8%9C%E6%8A%A5%E8%AD%A6%E6%95%91%E4%B8%8B%E7%83%AD%E6%98%8F%E8%BF%B7%E7%A7%9F%E5%AE%A2%23&t=31&band_rank=15&Refer=top) 48220
 1. [特朗普遇袭事件出现最新视频](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%81%87%E8%A2%AD%E4%BA%8B%E4%BB%B6%E5%87%BA%E7%8E%B0%E6%9C%80%E6%96%B0%E8%A7%86%E9%A2%91%23&t=31&band_rank=16&Refer=top) 46830
 1. [音乐缘计划](https://s.weibo.com/weibo?q=%E9%9F%B3%E4%B9%90%E7%BC%98%E8%AE%A1%E5%88%92&t=31&band_rank=49&Refer=top) 37169
 1. [北京暴雨一秒入夜](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%9A%B4%E9%9B%A8%E4%B8%80%E7%A7%92%E5%85%A5%E5%A4%9C%23&t=31&band_rank=50&Refer=top) 27477
 1. [为何红斑狼疮尤其偏爱女性](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BD%95%E7%BA%A2%E6%96%91%E7%8B%BC%E7%96%AE%E5%B0%A4%E5%85%B6%E5%81%8F%E7%88%B1%E5%A5%B3%E6%80%A7%23&t=31&band_rank=50&Refer=top) 23352
+1. [闪光的夏天](https://s.weibo.com/weibo?q=%E9%97%AA%E5%85%89%E7%9A%84%E5%A4%8F%E5%A4%A9&t=31&band_rank=46&Refer=top) 22319
 1. [给孙颖莎送礼物是什么感受](https://s.weibo.com/weibo?q=%23%E7%BB%99%E5%AD%99%E9%A2%96%E8%8E%8E%E9%80%81%E7%A4%BC%E7%89%A9%E6%98%AF%E4%BB%80%E4%B9%88%E6%84%9F%E5%8F%97%23&t=31&band_rank=39&Refer=top) 21712
 <!-- END -->
 
