@@ -167,6 +167,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%8B%A5%E6%98%80%E7%A9%BA%E9%99%8D%E5%8C%97%E4%BA%AC%E7%94%B5%E5%BD%B1%E9%99%A2%23&t=31&band_rank=38&Refer=top",
     "hot": 128523
   },
+  "阿根廷国奥绝平球无效": {
+    "url": "https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%9B%BD%E5%A5%A5%E7%BB%9D%E5%B9%B3%E7%90%83%E6%97%A0%E6%95%88&t=31&band_rank=16&Refer=top",
+    "hot": 126149
+  },
   "国内首档啦啦队综艺来了": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%86%85%E9%A6%96%E6%A1%A3%E5%95%A6%E5%95%A6%E9%98%9F%E7%BB%BC%E8%89%BA%E6%9D%A5%E4%BA%86%23&t=31&band_rank=45&Refer=top",
     "hot": 124015
@@ -238,5 +242,9 @@
   "男子川藏线偶遇大爷竟是00后": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%B7%9D%E8%97%8F%E7%BA%BF%E5%81%B6%E9%81%87%E5%A4%A7%E7%88%B7%E7%AB%9F%E6%98%AF00%E5%90%8E%23&t=31&band_rank=50&Refer=top",
     "hot": 88602
+  },
+  "国乒女团vs埃及女团": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E5%A5%B3%E5%9B%A2vs%E5%9F%83%E5%8F%8A%E5%A5%B3%E5%9B%A2%23&t=31&band_rank=47&Refer=top",
+    "hot": 82180
   }
 }
