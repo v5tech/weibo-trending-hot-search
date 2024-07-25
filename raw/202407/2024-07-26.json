@@ -239,6 +239,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%A5%A5%E8%BF%90%E7%89%88%E6%B5%81%E5%8A%A8%E7%9A%84%E7%9B%9B%E5%AE%B4%23&t=31&band_rank=30&Refer=top",
     "hot": 69086
   },
+  "40年前的老西安什么样": {
+    "url": "https://s.weibo.com/weibo?q=%2340%E5%B9%B4%E5%89%8D%E7%9A%84%E8%80%81%E8%A5%BF%E5%AE%89%E4%BB%80%E4%B9%88%E6%A0%B7%23&t=31&band_rank=10&Refer=top",
+    "hot": 60309
+  },
   "永劫无间": {
     "url": "https://s.weibo.com/weibo?q=%E6%B0%B8%E5%8A%AB%E6%97%A0%E9%97%B4&t=31&band_rank=34&Refer=top",
     "hot": 58668
@@ -302,5 +306,9 @@
   "如果幸福是 那我是": {
     "url": "https://s.weibo.com/weibo?q=%E5%A6%82%E6%9E%9C%E5%B9%B8%E7%A6%8F%E6%98%AF%20%E9%82%A3%E6%88%91%E6%98%AF&t=31&band_rank=47&Refer=top",
     "hot": 22336
+  },
+  "台风格美实时路径": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E6%A0%BC%E7%BE%8E%E5%AE%9E%E6%97%B6%E8%B7%AF%E5%BE%84%23&t=31&band_rank=49&Refer=top",
+    "hot": 21297
   }
 }
