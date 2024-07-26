@@ -41,7 +41,7 @@
   },
   "巴黎开幕式 真的牛": {
     "url": "https://s.weibo.com/weibo?q=%E5%B7%B4%E9%BB%8E%E5%BC%80%E5%B9%95%E5%BC%8F%20%E7%9C%9F%E7%9A%84%E7%89%9B&t=31&band_rank=7&Refer=top",
-    "hot": 1671800
+    "hot": 1759538
   },
   "LadyGaga像火烈鸟一样窜出来": {
     "url": "https://s.weibo.com/weibo?q=%23LadyGaga%E5%83%8F%E7%81%AB%E7%83%88%E9%B8%9F%E4%B8%80%E6%A0%B7%E7%AA%9C%E5%87%BA%E6%9D%A5%23&t=31&band_rank=7&Refer=top",
@@ -103,6 +103,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%87%E5%B9%B4%E5%8E%BF%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%AF%9B%E5%A5%87%E8%A2%AB%E6%9F%A5%23&t=31&band_rank=8&Refer=top",
     "hot": 774549
   },
+  "奥林匹克会旗挂反了": {
+    "url": "https://s.weibo.com/weibo?q=%E5%A5%A5%E6%9E%97%E5%8C%B9%E5%85%8B%E4%BC%9A%E6%97%97%E6%8C%82%E5%8F%8D%E4%BA%86&t=31&band_rank=18&Refer=top",
+    "hot": 770204
+  },
   "美国包船": {
     "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E5%8C%85%E8%88%B9&t=31&band_rank=11&Refer=top",
     "hot": 724385
@@ -134,10 +138,6 @@
   "海底捞美甲开始要收费了": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E7%BE%8E%E7%94%B2%E5%BC%80%E5%A7%8B%E8%A6%81%E6%94%B6%E8%B4%B9%E4%BA%86%23&t=31&band_rank=9&Refer=top",
     "hot": 591313
-  },
-  "奥林匹克会旗挂反了": {
-    "url": "https://s.weibo.com/weibo?q=%E5%A5%A5%E6%9E%97%E5%8C%B9%E5%85%8B%E4%BC%9A%E6%97%97%E6%8C%82%E5%8F%8D%E4%BA%86&t=31&band_rank=18&Refer=top",
-    "hot": 586608
   },
   "初二男生保送清华大学本硕博连读": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%88%9D%E4%BA%8C%E7%94%B7%E7%94%9F%E4%BF%9D%E9%80%81%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E6%9C%AC%E7%A1%95%E5%8D%9A%E8%BF%9E%E8%AF%BB%23&t=31&band_rank=10&Refer=top",
@@ -183,6 +183,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E8%B4%BE%E7%8E%B2%E5%B7%B4%E9%BB%8E%E7%8A%B6%E6%80%81%23&t=31&band_rank=15&Refer=top",
     "hot": 494597
   },
+  "巴黎奥运主火炬点燃": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E%E5%A5%A5%E8%BF%90%E4%B8%BB%E7%81%AB%E7%82%AC%E7%82%B9%E7%87%83%23&t=31&band_rank=8&Refer=top",
+    "hot": 468292
+  },
   "文旅部一组数据看旅游业有多红火": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%96%87%E6%97%85%E9%83%A8%E4%B8%80%E7%BB%84%E6%95%B0%E6%8D%AE%E7%9C%8B%E6%97%85%E6%B8%B8%E4%B8%9A%E6%9C%89%E5%A4%9A%E7%BA%A2%E7%81%AB%23&t=31&band_rank=20&Refer=top",
     "hot": 454615
@@ -195,17 +199,21 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E8%AF%B4%E4%BB%A5%E5%90%8E%E5%A6%82%E6%9E%9C%E4%B8%8D%E8%B7%B3%E5%B0%B1%E6%B2%A1%E4%BA%BA%E5%96%9C%E6%AC%A2%E4%BA%86%23&t=31&band_rank=10&Refer=top",
     "hot": 431968
   },
+  "曝光诊所140元药卖2980博主发声": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%85%89%E8%AF%8A%E6%89%80140%E5%85%83%E8%8D%AF%E5%8D%962980%E5%8D%9A%E4%B8%BB%E5%8F%91%E5%A3%B0%23&t=31&band_rank=10&Refer=top",
+    "hot": 428792
+  },
   "德罗巴为贾玲撑伞": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%BE%B7%E7%BD%97%E5%B7%B4%E4%B8%BA%E8%B4%BE%E7%8E%B2%E6%92%91%E4%BC%9E%23&t=31&band_rank=18&Refer=top",
     "hot": 411098
   },
-  "曝光诊所140元药卖2980博主发声": {
-    "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%85%89%E8%AF%8A%E6%89%80140%E5%85%83%E8%8D%AF%E5%8D%962980%E5%8D%9A%E4%B8%BB%E5%8F%91%E5%A3%B0%23&t=31&band_rank=10&Refer=top",
-    "hot": 400070
-  },
   "未央直播": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%9C%AA%E5%A4%AE%E7%9B%B4%E6%92%AD%23&t=31&band_rank=17&Refer=top",
     "hot": 397015
+  },
+  "巴黎奥运正式开幕": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E%E5%A5%A5%E8%BF%90%E6%AD%A3%E5%BC%8F%E5%BC%80%E5%B9%95%23&t=31&band_rank=13&Refer=top",
+    "hot": 396125
   },
   "LadyGaga彩排": {
     "url": "https://s.weibo.com/weibo?q=%23LadyGaga%E5%BD%A9%E6%8E%92%23&t=31&band_rank=36&Refer=top",
@@ -222,10 +230,6 @@
   "中国队将乘坐16号船亮相开幕式": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%B0%86%E4%B9%98%E5%9D%9016%E5%8F%B7%E8%88%B9%E4%BA%AE%E7%9B%B8%E5%BC%80%E5%B9%95%E5%BC%8F%23&t=31&band_rank=30&Refer=top",
     "hot": 365761
-  },
-  "巴黎奥运正式开幕": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E%E5%A5%A5%E8%BF%90%E6%AD%A3%E5%BC%8F%E5%BC%80%E5%B9%95%23&t=31&band_rank=13&Refer=top",
-    "hot": 352388
   },
   "为什么吃道具是剧组大忌": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%90%83%E9%81%93%E5%85%B7%E6%98%AF%E5%89%A7%E7%BB%84%E5%A4%A7%E5%BF%8C%23&t=31&band_rank=18&Refer=top",
@@ -250,6 +254,10 @@
   "开幕式镜头比我的人生还混乱": {
     "url": "https://s.weibo.com/weibo?q=%E5%BC%80%E5%B9%95%E5%BC%8F%E9%95%9C%E5%A4%B4%E6%AF%94%E6%88%91%E7%9A%84%E4%BA%BA%E7%94%9F%E8%BF%98%E6%B7%B7%E4%B9%B1&t=31&band_rank=27&Refer=top",
     "hot": 307942
+  },
+  "席琳迪翁终于来了": {
+    "url": "https://s.weibo.com/weibo?q=%E5%B8%AD%E7%90%B3%E8%BF%AA%E7%BF%81%E7%BB%88%E4%BA%8E%E6%9D%A5%E4%BA%86&t=31&band_rank=15&Refer=top",
+    "hot": 304769
   },
   "中国代表团预计第41个入场": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%9B%A2%E9%A2%84%E8%AE%A1%E7%AC%AC41%E4%B8%AA%E5%85%A5%E5%9C%BA%23&t=31&band_rank=19&Refer=top",
@@ -330,6 +338,10 @@
   "耳帝": {
     "url": "https://s.weibo.com/weibo?q=%E8%80%B3%E5%B8%9D&t=31&band_rank=33&Refer=top",
     "hot": 227483
+  },
+  "火炬台是热气球": {
+    "url": "https://s.weibo.com/weibo?q=%E7%81%AB%E7%82%AC%E5%8F%B0%E6%98%AF%E7%83%AD%E6%B0%94%E7%90%83&t=31&band_rank=22&Refer=top",
+    "hot": 224904
   },
   "戏梦巴黎": {
     "url": "https://s.weibo.com/weibo?q=%E6%88%8F%E6%A2%A6%E5%B7%B4%E9%BB%8E&t=31&band_rank=30&Refer=top",
@@ -598,5 +610,9 @@
   "开幕式女骑手": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%B9%95%E5%BC%8F%E5%A5%B3%E9%AA%91%E6%89%8B%23&t=31&band_rank=36&Refer=top",
     "hot": 112756
+  },
+  "还不点火": {
+    "url": "https://s.weibo.com/weibo?q=%E8%BF%98%E4%B8%8D%E7%82%B9%E7%81%AB&t=31&band_rank=42&Refer=top",
+    "hot": 93757
   }
 }
