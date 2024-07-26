@@ -7,30 +7,33 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-07-27 02:49:33.156413 
-![2024-07-27](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240727/2024-07-27.png?versionId=4_z8fbbed132d73df8689c40f13_f102c4b9340a155ce_d20240726_m184932_c005_v0501019_t0000_u01722019772703) 
+最后更新时间 2024-07-27 03:11:43.923415 
+![2024-07-27](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240727/2024-07-27.png?versionId=4_z8fbbed132d73df8689c40f13_f113a758b939f2940_d20240726_m191143_c005_v0501015_t0044_u01722021103072) 
 1. [巴黎奥运开幕式](https://s.weibo.com/weibo?q=%E5%B7%B4%E9%BB%8E%E5%A5%A5%E8%BF%90%E5%BC%80%E5%B9%95%E5%BC%8F&t=31&band_rank=2&Refer=top) 10554092
 1. [那英歌王](https://s.weibo.com/weibo?q=%E9%82%A3%E8%8B%B1%E6%AD%8C%E7%8E%8B&t=31&band_rank=1&Refer=top) 6282110
+1. [奥运开幕式 燃冬](https://s.weibo.com/weibo?q=%E5%A5%A5%E8%BF%90%E5%BC%80%E5%B9%95%E5%BC%8F%20%E7%87%83%E5%86%AC&t=31&band_rank=28&Refer=top) 4931346
 1. [开幕式 简陋](https://s.weibo.com/weibo?q=%E5%BC%80%E5%B9%95%E5%BC%8F%20%E7%AE%80%E9%99%8B&t=31&band_rank=4&Refer=top) 3690334
-1. [奥运开幕式 燃冬](https://s.weibo.com/weibo?q=%E5%A5%A5%E8%BF%90%E5%BC%80%E5%B9%95%E5%BC%8F%20%E7%87%83%E5%86%AC&t=31&band_rank=28&Refer=top) 3595324
 1. [中国队亮相](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E4%BA%AE%E7%9B%B8%23&t=31&band_rank=13&Refer=top) 3555266
-1. [闪耀奥运赛场的中国骄傲](https://s.weibo.com/weibo?q=%23%E9%97%AA%E8%80%80%E5%A5%A5%E8%BF%90%E8%B5%9B%E5%9C%BA%E7%9A%84%E4%B8%AD%E5%9B%BD%E9%AA%84%E5%82%B2%23&t=31&band_rank=3&Refer=top) 3126077
+1. [闪耀奥运赛场的中国骄傲](https://s.weibo.com/weibo?q=%23%E9%97%AA%E8%80%80%E5%A5%A5%E8%BF%90%E8%B5%9B%E5%9C%BA%E7%9A%84%E4%B8%AD%E5%9B%BD%E9%AA%84%E5%82%B2%23&t=31&band_rank=3&Refer=top) 3204900
+1. [央视解说沉默了](https://s.weibo.com/weibo?q=%E5%A4%AE%E8%A7%86%E8%A7%A3%E8%AF%B4%E6%B2%89%E9%BB%98%E4%BA%86&t=31&band_rank=14&Refer=top) 3194386
 1. [贾玲 奥运开幕式](https://s.weibo.com/weibo?q=%E8%B4%BE%E7%8E%B2%20%E5%A5%A5%E8%BF%90%E5%BC%80%E5%B9%95%E5%BC%8F&t=31&band_rank=4&Refer=top) 2460965
 1. [开幕式 LV硬广](https://s.weibo.com/weibo?q=%E5%BC%80%E5%B9%95%E5%BC%8F%20LV%E7%A1%AC%E5%B9%BF&t=31&band_rank=7&Refer=top) 1914303
 1. [中国队拼船](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E9%98%9F%E6%8B%BC%E8%88%B9&t=31&band_rank=9&Refer=top) 1873181
 1. [LadyGaga像火烈鸟一样窜出来](https://s.weibo.com/weibo?q=%23LadyGaga%E5%83%8F%E7%81%AB%E7%83%88%E9%B8%9F%E4%B8%80%E6%A0%B7%E7%AA%9C%E5%87%BA%E6%9D%A5%23&t=31&band_rank=7&Refer=top) 1583727
 1. [火炬手 刺客信条](https://s.weibo.com/weibo?q=%E7%81%AB%E7%82%AC%E6%89%8B%20%E5%88%BA%E5%AE%A2%E4%BF%A1%E6%9D%A1&t=31&band_rank=8&Refer=top) 1437533
+1. [蒙娜丽莎被小黄人偷走了](https://s.weibo.com/weibo?q=%E8%92%99%E5%A8%9C%E4%B8%BD%E8%8E%8E%E8%A2%AB%E5%B0%8F%E9%BB%84%E4%BA%BA%E5%81%B7%E8%B5%B0%E4%BA%86&t=31&band_rank=7&Refer=top) 1400732
 1. [奥运会开幕式直播](https://s.weibo.com/weibo?q=%E5%A5%A5%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E7%9B%B4%E6%92%AD&t=31&band_rank=6&Refer=top) 1155392
 1. [潮州街道水浸水位高至车顶](https://s.weibo.com/weibo?q=%23%E6%BD%AE%E5%B7%9E%E8%A1%97%E9%81%93%E6%B0%B4%E6%B5%B8%E6%B0%B4%E4%BD%8D%E9%AB%98%E8%87%B3%E8%BD%A6%E9%A1%B6%23&t=31&band_rank=10&Refer=top) 1151296
 1. [几个国家挤一条船](https://s.weibo.com/weibo?q=%E5%87%A0%E4%B8%AA%E5%9B%BD%E5%AE%B6%E6%8C%A4%E4%B8%80%E6%9D%A1%E8%88%B9&t=31&band_rank=12&Refer=top) 1144784
 1. [法国人 浪漫至死不渝](https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD%E4%BA%BA%20%E6%B5%AA%E6%BC%AB%E8%87%B3%E6%AD%BB%E4%B8%8D%E6%B8%9D&t=31&band_rank=16&Refer=top) 1034352
 1. [中信建投实习生称未被告知资料保密](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BF%A1%E5%BB%BA%E6%8A%95%E5%AE%9E%E4%B9%A0%E7%94%9F%E7%A7%B0%E6%9C%AA%E8%A2%AB%E5%91%8A%E7%9F%A5%E8%B5%84%E6%96%99%E4%BF%9D%E5%AF%86%23&t=31&band_rank=7&Refer=top) 940114
+1. [马龙奥运神图](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99%E5%A5%A5%E8%BF%90%E7%A5%9E%E5%9B%BE%23&t=31&band_rank=14&Refer=top) 921635
 1. [歌手排名](https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E6%8E%92%E5%90%8D&t=31&band_rank=5&Refer=top) 889648
-1. [央视解说沉默了](https://s.weibo.com/weibo?q=%E5%A4%AE%E8%A7%86%E8%A7%A3%E8%AF%B4%E6%B2%89%E9%BB%98%E4%BA%86&t=31&band_rank=14&Refer=top) 876499
-1. [马龙奥运神图](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99%E5%A5%A5%E8%BF%90%E7%A5%9E%E5%9B%BE%23&t=31&band_rank=14&Refer=top) 861120
+1. [叶诗文晒和队友跳舞视频](https://s.weibo.com/weibo?q=%23%E5%8F%B6%E8%AF%97%E6%96%87%E6%99%92%E5%92%8C%E9%98%9F%E5%8F%8B%E8%B7%B3%E8%88%9E%E8%A7%86%E9%A2%91%23&t=31&band_rank=10&Refer=top) 879507
 1. [那英吃了回春丹](https://s.weibo.com/weibo?q=%E9%82%A3%E8%8B%B1%E5%90%83%E4%BA%86%E5%9B%9E%E6%98%A5%E4%B8%B9&t=31&band_rank=6&Refer=top) 817314
 1. [万年县委书记毛奇被查](https://s.weibo.com/weibo?q=%23%E4%B8%87%E5%B9%B4%E5%8E%BF%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%AF%9B%E5%A5%87%E8%A2%AB%E6%9F%A5%23&t=31&band_rank=8&Refer=top) 774549
 1. [巴黎下雨了](https://s.weibo.com/weibo?q=%E5%B7%B4%E9%BB%8E%E4%B8%8B%E9%9B%A8%E4%BA%86&t=31&band_rank=39&Refer=top) 704319
+1. [巴黎奥运 女性主义](https://s.weibo.com/weibo?q=%E5%B7%B4%E9%BB%8E%E5%A5%A5%E8%BF%90%20%E5%A5%B3%E6%80%A7%E4%B8%BB%E4%B9%89&t=31&band_rank=14&Refer=top) 676852
 1. [全红婵怎么还出歌了](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E6%80%8E%E4%B9%88%E8%BF%98%E5%87%BA%E6%AD%8C%E4%BA%86%23&t=31&band_rank=10&Refer=top) 666553
 1. [开幕式红毯](https://s.weibo.com/weibo?q=%E5%BC%80%E5%B9%95%E5%BC%8F%E7%BA%A2%E6%AF%AF&t=31&band_rank=10&Refer=top) 629264
 1. [旗手马龙出发了](https://s.weibo.com/weibo?q=%23%E6%97%97%E6%89%8B%E9%A9%AC%E9%BE%99%E5%87%BA%E5%8F%91%E4%BA%86%23&t=31&band_rank=20&Refer=top) 622874
@@ -38,14 +41,15 @@
 1. [初二男生保送清华大学本硕博连读](https://s.weibo.com/weibo?q=%23%E5%88%9D%E4%BA%8C%E7%94%B7%E7%94%9F%E4%BF%9D%E9%80%81%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E6%9C%AC%E7%A1%95%E5%8D%9A%E8%BF%9E%E8%AF%BB%23&t=31&band_rank=10&Refer=top) 582743
 1. [樊振东穿雨衣挥国旗](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%A9%BF%E9%9B%A8%E8%A1%A3%E6%8C%A5%E5%9B%BD%E6%97%97%23&t=31&band_rank=25&Refer=top) 579669
 1. [中信建投实习生道歉](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BF%A1%E5%BB%BA%E6%8A%95%E5%AE%9E%E4%B9%A0%E7%94%9F%E9%81%93%E6%AD%89%23&t=31&band_rank=11&Refer=top) 567566
+1. [中国队镜头呢](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E9%98%9F%E9%95%9C%E5%A4%B4%E5%91%A2&t=31&band_rank=25&Refer=top) 559533
 1. [谭维维 审美疲劳](https://s.weibo.com/weibo?q=%E8%B0%AD%E7%BB%B4%E7%BB%B4%20%E5%AE%A1%E7%BE%8E%E7%96%B2%E5%8A%B3&t=31&band_rank=12&Refer=top) 555968
 1. [卢昱晓给工作人员做心肺复苏](https://s.weibo.com/weibo?q=%23%E5%8D%A2%E6%98%B1%E6%99%93%E7%BB%99%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%81%9A%E5%BF%83%E8%82%BA%E5%A4%8D%E8%8B%8F%23&t=31&band_rank=16&Refer=top) 549612
 1. [刘欢加孙楠 以为奥运开幕了](https://s.weibo.com/weibo?q=%E5%88%98%E6%AC%A2%E5%8A%A0%E5%AD%99%E6%A5%A0%20%E4%BB%A5%E4%B8%BA%E5%A5%A5%E8%BF%90%E5%BC%80%E5%B9%95%E4%BA%86&t=31&band_rank=13&Refer=top) 543091
 1. [张杰陈楚生拥抱](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9D%B0%E9%99%88%E6%A5%9A%E7%94%9F%E6%8B%A5%E6%8A%B1&t=31&band_rank=14&Refer=top) 537771
+1. [小黄人](https://s.weibo.com/weibo?q=%E5%B0%8F%E9%BB%84%E4%BA%BA&t=31&band_rank=19&Refer=top) 526399
 1. [贾玲巴黎状态](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E7%8E%B2%E5%B7%B4%E9%BB%8E%E7%8A%B6%E6%80%81%23&t=31&band_rank=15&Refer=top) 494597
 1. [文旅部一组数据看旅游业有多红火](https://s.weibo.com/weibo?q=%23%E6%96%87%E6%97%85%E9%83%A8%E4%B8%80%E7%BB%84%E6%95%B0%E6%8D%AE%E7%9C%8B%E6%97%85%E6%B8%B8%E4%B8%9A%E6%9C%89%E5%A4%9A%E7%BA%A2%E7%81%AB%23&t=31&band_rank=20&Refer=top) 454615
 1. [歌剧魅影](https://s.weibo.com/weibo?q=%E6%AD%8C%E5%89%A7%E9%AD%85%E5%BD%B1&t=31&band_rank=25&Refer=top) 453027
-1. [中国队镜头呢](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E9%98%9F%E9%95%9C%E5%A4%B4%E5%91%A2&t=31&band_rank=25&Refer=top) 435146
 1. [全红婵说以后如果不跳就没人喜欢了](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E8%AF%B4%E4%BB%A5%E5%90%8E%E5%A6%82%E6%9E%9C%E4%B8%8D%E8%B7%B3%E5%B0%B1%E6%B2%A1%E4%BA%BA%E5%96%9C%E6%AC%A2%E4%BA%86%23&t=31&band_rank=10&Refer=top) 431968
 1. [德罗巴为贾玲撑伞](https://s.weibo.com/weibo?q=%23%E5%BE%B7%E7%BD%97%E5%B7%B4%E4%B8%BA%E8%B4%BE%E7%8E%B2%E6%92%91%E4%BC%9E%23&t=31&band_rank=18&Refer=top) 411098
 1. [未央直播](https://s.weibo.com/weibo?q=%23%E6%9C%AA%E5%A4%AE%E7%9B%B4%E6%92%AD%23&t=31&band_rank=17&Refer=top) 397015
@@ -53,9 +57,12 @@
 1. [奥运会 入场穿插表演](https://s.weibo.com/weibo?q=%E5%A5%A5%E8%BF%90%E4%BC%9A%20%E5%85%A5%E5%9C%BA%E7%A9%BF%E6%8F%92%E8%A1%A8%E6%BC%94&t=31&band_rank=28&Refer=top) 374447
 1. [中国队将乘坐16号船亮相开幕式](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%B0%86%E4%B9%98%E5%9D%9016%E5%8F%B7%E8%88%B9%E4%BA%AE%E7%9B%B8%E5%BC%80%E5%B9%95%E5%BC%8F%23&t=31&band_rank=30&Refer=top) 365761
 1. [为什么吃道具是剧组大忌](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%90%83%E9%81%93%E5%85%B7%E6%98%AF%E5%89%A7%E7%BB%84%E5%A4%A7%E5%BF%8C%23&t=31&band_rank=18&Refer=top) 345727
+1. [韩国 占C](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%20%E5%8D%A0C&t=31&band_rank=21&Refer=top) 336711
 1. [LV到底给了多少钱](https://s.weibo.com/weibo?q=%23LV%E5%88%B0%E5%BA%95%E7%BB%99%E4%BA%86%E5%A4%9A%E5%B0%91%E9%92%B1%23&t=31&band_rank=24&Refer=top) 333406
+1. [开幕式镜头比我的人生还混乱](https://s.weibo.com/weibo?q=%E5%BC%80%E5%B9%95%E5%BC%8F%E9%95%9C%E5%A4%B4%E6%AF%94%E6%88%91%E7%9A%84%E4%BA%BA%E7%94%9F%E8%BF%98%E6%B7%B7%E4%B9%B1&t=31&band_rank=27&Refer=top) 305343
 1. [中国代表团预计第41个入场](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%9B%A2%E9%A2%84%E8%AE%A1%E7%AC%AC41%E4%B8%AA%E5%85%A5%E5%9C%BA%23&t=31&band_rank=19&Refer=top) 297326
 1. [齐达内运送火炬](https://s.weibo.com/weibo?q=%E9%BD%90%E8%BE%BE%E5%86%85%E8%BF%90%E9%80%81%E7%81%AB%E7%82%AC&t=31&band_rank=26&Refer=top) 290641
+1. [微博实时 开幕式弹幕](https://s.weibo.com/weibo?q=%E5%BE%AE%E5%8D%9A%E5%AE%9E%E6%97%B6%20%E5%BC%80%E5%B9%95%E5%BC%8F%E5%BC%B9%E5%B9%95&t=31&band_rank=25&Refer=top) 285988
 1. [开幕式路透](https://s.weibo.com/weibo?q=%E5%BC%80%E5%B9%95%E5%BC%8F%E8%B7%AF%E9%80%8F&t=31&band_rank=20&Refer=top) 285744
 1. [医生让我每晚睡前喝杯牛奶](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E8%AE%A9%E6%88%91%E6%AF%8F%E6%99%9A%E7%9D%A1%E5%89%8D%E5%96%9D%E6%9D%AF%E7%89%9B%E5%A5%B6%23&t=31&band_rank=21&Refer=top) 280418
 1. [歌手总决赛](https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E6%80%BB%E5%86%B3%E8%B5%9B&t=31&band_rank=22&Refer=top) 270745
@@ -64,15 +71,15 @@
 1. [印度女子生下2张脸4只胳膊婴儿](https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%A5%B3%E5%AD%90%E7%94%9F%E4%B8%8B2%E5%BC%A0%E8%84%B84%E5%8F%AA%E8%83%B3%E8%86%8A%E5%A9%B4%E5%84%BF%23&t=31&band_rank=25&Refer=top) 253964
 1. [贾玲亮相奥委会主席晚宴](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E7%8E%B2%E4%BA%AE%E7%9B%B8%E5%A5%A5%E5%A7%94%E4%BC%9A%E4%B8%BB%E5%B8%AD%E6%99%9A%E5%AE%B4%23&t=31&band_rank=26&Refer=top) 252572
 1. [歌手 音乐竞技搞煽情](https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%20%E9%9F%B3%E4%B9%90%E7%AB%9E%E6%8A%80%E6%90%9E%E7%85%BD%E6%83%85&t=31&band_rank=27&Refer=top) 250595
-1. [开幕式镜头比我的人生还混乱](https://s.weibo.com/weibo?q=%E5%BC%80%E5%B9%95%E5%BC%8F%E9%95%9C%E5%A4%B4%E6%AF%94%E6%88%91%E7%9A%84%E4%BA%BA%E7%94%9F%E8%BF%98%E6%B7%B7%E4%B9%B1&t=31&band_rank=27&Refer=top) 235190
+1. [悲惨世界](https://s.weibo.com/weibo?q=%E6%82%B2%E6%83%A8%E4%B8%96%E7%95%8C&t=31&band_rank=35&Refer=top) 238971
 1. [下周有歌手巅峰之夜](https://s.weibo.com/weibo?q=%23%E4%B8%8B%E5%91%A8%E6%9C%89%E6%AD%8C%E6%89%8B%E5%B7%85%E5%B3%B0%E4%B9%8B%E5%A4%9C%23&t=31&band_rank=32&Refer=top) 231812
 1. [张杰凡希亚 强强联合](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9D%B0%E5%87%A1%E5%B8%8C%E4%BA%9A%20%E5%BC%BA%E5%BC%BA%E8%81%94%E5%90%88&t=31&band_rank=29&Refer=top) 231269
 1. [王楚钦削上了](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%89%8A%E4%B8%8A%E4%BA%86&t=31&band_rank=28&Refer=top) 230238
 1. [古巨基一直看提词器](https://s.weibo.com/weibo?q=%E5%8F%A4%E5%B7%A8%E5%9F%BA%E4%B8%80%E7%9B%B4%E7%9C%8B%E6%8F%90%E8%AF%8D%E5%99%A8&t=31&band_rank=37&Refer=top) 229827
 1. [那英燃炸了](https://s.weibo.com/weibo?q=%E9%82%A3%E8%8B%B1%E7%87%83%E7%82%B8%E4%BA%86&t=31&band_rank=31&Refer=top) 228025
 1. [耳帝](https://s.weibo.com/weibo?q=%E8%80%B3%E5%B8%9D&t=31&band_rank=33&Refer=top) 227483
+1. [戏梦巴黎](https://s.weibo.com/weibo?q=%E6%88%8F%E6%A2%A6%E5%B7%B4%E9%BB%8E&t=31&band_rank=30&Refer=top) 224650
 1. [中信建投实习生泄漏IPO材料](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BF%A1%E5%BB%BA%E6%8A%95%E5%AE%9E%E4%B9%A0%E7%94%9F%E6%B3%84%E6%BC%8FIPO%E6%9D%90%E6%96%99%23&t=31&band_rank=34&Refer=top) 221520
-1. [悲惨世界](https://s.weibo.com/weibo?q=%E6%82%B2%E6%83%A8%E4%B8%96%E7%95%8C&t=31&band_rank=35&Refer=top) 217953
 1. [凡希亚第四](https://s.weibo.com/weibo?q=%E5%87%A1%E5%B8%8C%E4%BA%9A%E7%AC%AC%E5%9B%9B&t=31&band_rank=36&Refer=top) 216032
 1. [雪憨憨恋爱](https://s.weibo.com/weibo?q=%E9%9B%AA%E6%86%A8%E6%86%A8%E6%81%8B%E7%88%B1&t=31&band_rank=35&Refer=top) 210206
 1. [网传IPO项目泄露中信建投董事长震怒](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0IPO%E9%A1%B9%E7%9B%AE%E6%B3%84%E9%9C%B2%E4%B8%AD%E4%BF%A1%E5%BB%BA%E6%8A%95%E8%91%A3%E4%BA%8B%E9%95%BF%E9%9C%87%E6%80%92%23&t=31&band_rank=38&Refer=top) 209394
@@ -80,12 +87,12 @@
 1. [中国代表团出发了](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%9B%A2%E5%87%BA%E5%8F%91%E4%BA%86&t=31&band_rank=49&Refer=top) 208598
 1. [卡门](https://s.weibo.com/weibo?q=%E5%8D%A1%E9%97%A8&t=31&band_rank=39&Refer=top) 206913
 1. [巴黎开幕式现北京奥运五环](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E%E5%BC%80%E5%B9%95%E5%BC%8F%E7%8E%B0%E5%8C%97%E4%BA%AC%E5%A5%A5%E8%BF%90%E4%BA%94%E7%8E%AF%23&t=31&band_rank=27&Refer=top) 205110
-1. [戏梦巴黎](https://s.weibo.com/weibo?q=%E6%88%8F%E6%A2%A6%E5%B7%B4%E9%BB%8E&t=31&band_rank=30&Refer=top) 204262
 1. [巴黎奥运会奖牌和火炬都用的LV](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E%E5%A5%A5%E8%BF%90%E4%BC%9A%E5%A5%96%E7%89%8C%E5%92%8C%E7%81%AB%E7%82%AC%E9%83%BD%E7%94%A8%E7%9A%84LV%23&t=31&band_rank=31&Refer=top) 204064
 1. [时尚巴沙](https://s.weibo.com/weibo?q=%E6%97%B6%E5%B0%9A%E5%B7%B4%E6%B2%99&t=31&band_rank=35&Refer=top) 201570
 1. [法国人超绝松弛感](https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD%E4%BA%BA%E8%B6%85%E7%BB%9D%E6%9D%BE%E5%BC%9B%E6%84%9F&t=31&band_rank=34&Refer=top) 200732
 1. [中国队直拍](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E7%9B%B4%E6%8B%8D%23&t=31&band_rank=29&Refer=top) 200224
 1. [中国队旗手马龙冯雨](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E6%97%97%E6%89%8B%E9%A9%AC%E9%BE%99%E5%86%AF%E9%9B%A8%23&t=31&band_rank=27&Refer=top) 197870
+1. [蒙娜丽莎又被偷了](https://s.weibo.com/weibo?q=%E8%92%99%E5%A8%9C%E4%B8%BD%E8%8E%8E%E5%8F%88%E8%A2%AB%E5%81%B7%E4%BA%86&t=31&band_rank=32&Refer=top) 194980
 1. [马龙挥舞国旗](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99%E6%8C%A5%E8%88%9E%E5%9B%BD%E6%97%97%23&t=31&band_rank=30&Refer=top) 194153
 1. [奥运开幕式开场好抽象](https://s.weibo.com/weibo?q=%23%E5%A5%A5%E8%BF%90%E5%BC%80%E5%B9%95%E5%BC%8F%E5%BC%80%E5%9C%BA%E5%A5%BD%E6%8A%BD%E8%B1%A1%23&t=31&band_rank=31&Refer=top) 193577
 1. [王一博献唱奥运助威曲](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E7%8C%AE%E5%94%B1%E5%A5%A5%E8%BF%90%E5%8A%A9%E5%A8%81%E6%9B%B2%23&t=31&band_rank=36&Refer=top) 190277
@@ -99,6 +106,7 @@
 1. [汪苏泷忘词](https://s.weibo.com/weibo?q=%E6%B1%AA%E8%8B%8F%E6%B3%B7%E5%BF%98%E8%AF%8D&t=31&band_rank=43&Refer=top) 183237
 1. [印度一工人挖出近20克拉钻石](https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E4%B8%80%E5%B7%A5%E4%BA%BA%E6%8C%96%E5%87%BA%E8%BF%9120%E5%85%8B%E6%8B%89%E9%92%BB%E7%9F%B3%23&t=31&band_rank=44&Refer=top) 182618
 1. [中国代表团将与加拿大等队同船亮相](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%9B%A2%E5%B0%86%E4%B8%8E%E5%8A%A0%E6%8B%BF%E5%A4%A7%E7%AD%89%E9%98%9F%E5%90%8C%E8%88%B9%E4%BA%AE%E7%9B%B8%23&t=31&band_rank=31&Refer=top) 181704
+1. [巴黎圣母院 还在修](https://s.weibo.com/weibo?q=%E5%B7%B4%E9%BB%8E%E5%9C%A3%E6%AF%8D%E9%99%A2%20%E8%BF%98%E5%9C%A8%E4%BF%AE&t=31&band_rank=45&Refer=top) 176613
 1. [眼睛里取出来好多结石](https://s.weibo.com/weibo?q=%23%E7%9C%BC%E7%9D%9B%E9%87%8C%E5%8F%96%E5%87%BA%E6%9D%A5%E5%A5%BD%E5%A4%9A%E7%BB%93%E7%9F%B3%23&t=31&band_rank=45&Refer=top) 174850
 1. [何浩楠巧了那天穿了白色入镜](https://s.weibo.com/weibo?q=%23%E4%BD%95%E6%B5%A9%E6%A5%A0%E5%B7%A7%E4%BA%86%E9%82%A3%E5%A4%A9%E7%A9%BF%E4%BA%86%E7%99%BD%E8%89%B2%E5%85%A5%E9%95%9C%23&t=31&band_rank=42&Refer=top) 174253
 1. [D社记者吐槽中恩静](https://s.weibo.com/weibo?q=%23D%E7%A4%BE%E8%AE%B0%E8%80%85%E5%90%90%E6%A7%BD%E4%B8%AD%E6%81%A9%E9%9D%99%23&t=31&band_rank=44&Refer=top) 173894
@@ -111,13 +119,15 @@
 1. [谷爱凌开幕式红毯比心](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E5%BC%80%E5%B9%95%E5%BC%8F%E7%BA%A2%E6%AF%AF%E6%AF%94%E5%BF%83%23&t=31&band_rank=34&Refer=top) 164598
 1. [火炬手在房顶跑酷](https://s.weibo.com/weibo?q=%E7%81%AB%E7%82%AC%E6%89%8B%E5%9C%A8%E6%88%BF%E9%A1%B6%E8%B7%91%E9%85%B7&t=31&band_rank=40&Refer=top) 163719
 1. [法语](https://s.weibo.com/weibo?q=%E6%B3%95%E8%AF%AD&t=31&band_rank=33&Refer=top) 159788
+1. [贾玲好大气](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E7%8E%B2%E5%A5%BD%E5%A4%A7%E6%B0%94%23&t=31&band_rank=35&Refer=top) 158700
 1. [最后一棒火炬手](https://s.weibo.com/weibo?q=%E6%9C%80%E5%90%8E%E4%B8%80%E6%A3%92%E7%81%AB%E7%82%AC%E6%89%8B&t=31&band_rank=23&Refer=top) 158631
 1. [奥运会开幕式时间](https://s.weibo.com/weibo?q=%E5%A5%A5%E8%BF%90%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E6%97%B6%E9%97%B4&t=31&band_rank=48&Refer=top) 153708
 1. [张磊秒了海来阿木](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%A3%8A%E7%A7%92%E4%BA%86%E6%B5%B7%E6%9D%A5%E9%98%BF%E6%9C%A8%23&t=31&band_rank=45&Refer=top) 143250
 1. [相柳哭坟都这么有节目](https://s.weibo.com/weibo?q=%23%E7%9B%B8%E6%9F%B3%E5%93%AD%E5%9D%9F%E9%83%BD%E8%BF%99%E4%B9%88%E6%9C%89%E8%8A%82%E7%9B%AE%23&t=31&band_rank=47&Refer=top) 138884
 1. [苏醒出发看奥运开幕式](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%86%92%E5%87%BA%E5%8F%91%E7%9C%8B%E5%A5%A5%E8%BF%90%E5%BC%80%E5%B9%95%E5%BC%8F%23&t=31&band_rank=40&Refer=top) 136733
-1. [巴黎圣母院 还在修](https://s.weibo.com/weibo?q=%E5%B7%B4%E9%BB%8E%E5%9C%A3%E6%AF%8D%E9%99%A2%20%E8%BF%98%E5%9C%A8%E4%BF%AE&t=31&band_rank=45&Refer=top) 131201
 1. [李现暂别国色芳华](https://s.weibo.com/weibo?q=%E6%9D%8E%E7%8E%B0%E6%9A%82%E5%88%AB%E5%9B%BD%E8%89%B2%E8%8A%B3%E5%8D%8E&t=31&band_rank=44&Refer=top) 128185
+1. [重金属歌剧](https://s.weibo.com/weibo?q=%E9%87%8D%E9%87%91%E5%B1%9E%E6%AD%8C%E5%89%A7&t=31&band_rank=48&Refer=top) 113945
+1. [法国要不要擦下镜头呢](https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD%E8%A6%81%E4%B8%8D%E8%A6%81%E6%93%A6%E4%B8%8B%E9%95%9C%E5%A4%B4%E5%91%A2&t=31&band_rank=50&Refer=top) 113339
 <!-- END -->
 
 历史归档 [./archives](./archives)
