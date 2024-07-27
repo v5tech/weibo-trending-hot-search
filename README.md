@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-07-28 01:35:50.335057 
-![2024-07-28](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240728/2024-07-28.png?versionId=4_z8fbbed132d73df8689c40f13_f115a44bbcc148872_d20240727_m173549_c005_v0501016_t0041_u01722101749874) 
+最后更新时间 2024-07-28 01:49:24.523995 
+![2024-07-28](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240728/2024-07-28.png?versionId=4_z8fbbed132d73df8689c40f13_f104ec03c368b5d4d_d20240727_m174924_c005_v0501019_t0050_u01722102564089) 
 1. [张本智和早田希娜爆冷出局](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E6%97%A9%E7%94%B0%E5%B8%8C%E5%A8%9C%E7%88%86%E5%86%B7%E5%87%BA%E5%B1%80%23&t=31&band_rank=1&Refer=top) 12239466
 1. [王楚钦孙颖莎vs阿萨尔梅谢芙](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8Evs%E9%98%BF%E8%90%A8%E5%B0%94%E6%A2%85%E8%B0%A2%E8%8A%99&t=31&band_rank=2&Refer=top) 7955162
 1. [孙一文遭误判](https://s.weibo.com/weibo?q=%23%E5%AD%99%E4%B8%80%E6%96%87%E9%81%AD%E8%AF%AF%E5%88%A4%23&t=31&band_rank=3&Refer=top) 6371878
@@ -73,9 +73,13 @@
 1. [王楚钦孙颖莎奥运开门红](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E%E5%A5%A5%E8%BF%90%E5%BC%80%E9%97%A8%E7%BA%A2%23&t=31&band_rank=46&Refer=top) 212923
 1. [陈艺文昌雅妮好甜](https://s.weibo.com/weibo?q=%23%E9%99%88%E8%89%BA%E6%96%87%E6%98%8C%E9%9B%85%E5%A6%AE%E5%A5%BD%E7%94%9C%23&t=31&band_rank=47&Refer=top) 212754
 1. [巴黎奥运开幕式](https://s.weibo.com/weibo?q=%E5%B7%B4%E9%BB%8E%E5%A5%A5%E8%BF%90%E5%BC%80%E5%B9%95%E5%BC%8F&t=31&band_rank=50&Refer=top) 204408
+1. [陈艺文昌雅妮 好嗑](https://s.weibo.com/weibo?q=%E9%99%88%E8%89%BA%E6%96%87%E6%98%8C%E9%9B%85%E5%A6%AE%20%E5%A5%BD%E5%97%91&t=31&band_rank=28&Refer=top) 198491
 1. [许昕预测神了](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%98%95%E9%A2%84%E6%B5%8B%E7%A5%9E%E4%BA%86%23&t=31&band_rank=45&Refer=top) 198301
 1. [王嘉尔ins回怼网友](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94ins%E5%9B%9E%E6%80%BC%E7%BD%91%E5%8F%8B%23&t=31&band_rank=47&Refer=top) 173887
-1. [日媒称日本乒乓奥运连冠梦破灭了](https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%AA%92%E7%A7%B0%E6%97%A5%E6%9C%AC%E4%B9%92%E4%B9%93%E5%A5%A5%E8%BF%90%E8%BF%9E%E5%86%A0%E6%A2%A6%E7%A0%B4%E7%81%AD%E4%BA%86%23&t=31&band_rank=49&Refer=top) 130865
+1. [羽毛球女双](https://s.weibo.com/weibo?q=%23%E7%BE%BD%E6%AF%9B%E7%90%83%E5%A5%B3%E5%8F%8C%23&t=31&band_rank=36&Refer=top) 162294
+1. [我和她](https://s.weibo.com/weibo?q=%E6%88%91%E5%92%8C%E5%A5%B9&t=31&band_rank=44&Refer=top) 144083
+1. [日媒称日本乒乓奥运连冠梦破灭了](https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%AA%92%E7%A7%B0%E6%97%A5%E6%9C%AC%E4%B9%92%E4%B9%93%E5%A5%A5%E8%BF%90%E8%BF%9E%E5%86%A0%E6%A2%A6%E7%A0%B4%E7%81%AD%E4%BA%86%23&t=31&band_rank=49&Refer=top) 138598
+1. [林昀儒陈思羽4比2A勒布伦袁嘉楠](https://s.weibo.com/weibo?q=%23%E6%9E%97%E6%98%80%E5%84%92%E9%99%88%E6%80%9D%E7%BE%BD4%E6%AF%942A%E5%8B%92%E5%B8%83%E4%BC%A6%E8%A2%81%E5%98%89%E6%A5%A0%23&t=31&band_rank=50&Refer=top) 114913
 <!-- END -->
 
 历史归档 [./archives](./archives)
