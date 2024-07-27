@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-07-28 04:49:24.665957 
-![2024-07-28](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240728/2024-07-28.png?versionId=4_z8fbbed132d73df8689c40f13_f1150f8200392b9fe_d20240727_m204924_c005_v0501021_t0023_u01722113364638) 
+最后更新时间 2024-07-28 05:10:57.890689 
+![2024-07-28](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240728/2024-07-28.png?versionId=4_z8fbbed132d73df8689c40f13_f102c4b9340c56077_d20240727_m211057_c005_v0501019_t0057_u01722114657736) 
 1. [张本智和早田希娜爆冷出局](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E6%97%A9%E7%94%B0%E5%B8%8C%E5%A8%9C%E7%88%86%E5%86%B7%E5%87%BA%E5%B1%80%23&t=31&band_rank=1&Refer=top) 12239466
 1. [王楚钦孙颖莎vs阿萨尔梅谢芙](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8Evs%E9%98%BF%E8%90%A8%E5%B0%94%E6%A2%85%E8%B0%A2%E8%8A%99&t=31&band_rank=2&Refer=top) 7955162
 1. [孙一文遭误判](https://s.weibo.com/weibo?q=%23%E5%AD%99%E4%B8%80%E6%96%87%E9%81%AD%E8%AF%AF%E5%88%A4%23&t=31&band_rank=3&Refer=top) 6371878
@@ -92,11 +92,13 @@
 1. [巴黎奥运开幕式](https://s.weibo.com/weibo?q=%E5%B7%B4%E9%BB%8E%E5%A5%A5%E8%BF%90%E5%BC%80%E5%B9%95%E5%BC%8F&t=31&band_rank=50&Refer=top) 204408
 1. [陈艺文昌雅妮 好嗑](https://s.weibo.com/weibo?q=%E9%99%88%E8%89%BA%E6%96%87%E6%98%8C%E9%9B%85%E5%A6%AE%20%E5%A5%BD%E5%97%91&t=31&band_rank=28&Refer=top) 198491
 1. [许昕预测神了](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%98%95%E9%A2%84%E6%B5%8B%E7%A5%9E%E4%BA%86%23&t=31&band_rank=45&Refer=top) 198301
+1. [爸爸要昌雅妮在升国旗时大声唱国歌](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E8%A6%81%E6%98%8C%E9%9B%85%E5%A6%AE%E5%9C%A8%E5%8D%87%E5%9B%BD%E6%97%97%E6%97%B6%E5%A4%A7%E5%A3%B0%E5%94%B1%E5%9B%BD%E6%AD%8C%23&t=31&band_rank=10&Refer=top) 173972
 1. [王嘉尔ins回怼网友](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94ins%E5%9B%9E%E6%80%BC%E7%BD%91%E5%8F%8B%23&t=31&band_rank=47&Refer=top) 173887
 1. [日媒称日本乒乓奥运连冠梦破灭了](https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%AA%92%E7%A7%B0%E6%97%A5%E6%9C%AC%E4%B9%92%E4%B9%93%E5%A5%A5%E8%BF%90%E8%BF%9E%E5%86%A0%E6%A2%A6%E7%A0%B4%E7%81%AD%E4%BA%86%23&t=31&band_rank=49&Refer=top) 169305
 1. [羽毛球女双](https://s.weibo.com/weibo?q=%23%E7%BE%BD%E6%AF%9B%E7%90%83%E5%A5%B3%E5%8F%8C%23&t=31&band_rank=36&Refer=top) 166998
 1. [中国游泳队首枚奖牌](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B8%B8%E6%B3%B3%E9%98%9F%E9%A6%96%E6%9E%9A%E5%A5%96%E7%89%8C%23&t=31&band_rank=30&Refer=top) 161591
 1. [中国姑娘4×100自由泳接力铜牌](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A7%91%E5%A8%984%C3%97100%E8%87%AA%E7%94%B1%E6%B3%B3%E6%8E%A5%E5%8A%9B%E9%93%9C%E7%89%8C%23&t=31&band_rank=19&Refer=top) 153485
+1. [潘展乐第一棒破奥运纪录](https://s.weibo.com/weibo?q=%23%E6%BD%98%E5%B1%95%E4%B9%90%E7%AC%AC%E4%B8%80%E6%A3%92%E7%A0%B4%E5%A5%A5%E8%BF%90%E7%BA%AA%E5%BD%95%23&t=31&band_rank=31&Refer=top) 139989
 1. [潘展乐46秒92](https://s.weibo.com/weibo?q=%23%E6%BD%98%E5%B1%95%E4%B9%9046%E7%A7%9292%23&t=31&band_rank=44&Refer=top) 131181
 1. [中国男子4x100自由泳接力第四](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E5%AD%904x100%E8%87%AA%E7%94%B1%E6%B3%B3%E6%8E%A5%E5%8A%9B%E7%AC%AC%E5%9B%9B%23&t=31&band_rank=50&Refer=top) 120281
 1. [邓亚萍跳预言家了](https://s.weibo.com/weibo?q=%23%E9%82%93%E4%BA%9A%E8%90%8D%E8%B7%B3%E9%A2%84%E8%A8%80%E5%AE%B6%E4%BA%86%23&t=31&band_rank=31&Refer=top) 116122
@@ -105,7 +107,6 @@
 1. [费立纬400自第六](https://s.weibo.com/weibo?q=%23%E8%B4%B9%E7%AB%8B%E7%BA%AC400%E8%87%AA%E7%AC%AC%E5%85%AD%23&t=31&band_rank=39&Refer=top) 102334
 1. [张雨霏好霸气](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%A8%E9%9C%8F%E5%A5%BD%E9%9C%B8%E6%B0%94%23&t=31&band_rank=50&Refer=top) 99770
 1. [覃海洋晋级100蛙决赛](https://s.weibo.com/weibo?q=%23%E8%A6%83%E6%B5%B7%E6%B4%8B%E6%99%8B%E7%BA%A7100%E8%9B%99%E5%86%B3%E8%B5%9B%23&t=31&band_rank=24&Refer=top) 97050
-1. [潘展乐第一棒破奥运纪录](https://s.weibo.com/weibo?q=%23%E6%BD%98%E5%B1%95%E4%B9%90%E7%AC%AC%E4%B8%80%E6%A3%92%E7%A0%B4%E5%A5%A5%E8%BF%90%E7%BA%AA%E5%BD%95%23&t=31&band_rank=31&Refer=top) 94040
 1. [张雨霏池江璃花子 巴黎再相逢](https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%A8%E9%9C%8F%E6%B1%A0%E6%B1%9F%E7%92%83%E8%8A%B1%E5%AD%90%20%E5%B7%B4%E9%BB%8E%E5%86%8D%E7%9B%B8%E9%80%A2&t=31&band_rank=35&Refer=top) 93319
 1. [宁泽涛真的来了](https://s.weibo.com/weibo?q=%23%E5%AE%81%E6%B3%BD%E6%B6%9B%E7%9C%9F%E7%9A%84%E6%9D%A5%E4%BA%86%23&t=31&band_rank=36&Refer=top) 88480
 1. [中国姑娘接力破亚洲纪录](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A7%91%E5%A8%98%E6%8E%A5%E5%8A%9B%E7%A0%B4%E4%BA%9A%E6%B4%B2%E7%BA%AA%E5%BD%95%23&t=31&band_rank=34&Refer=top) 85113
