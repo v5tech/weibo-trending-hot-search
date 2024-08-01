@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-08-02 03:36:02.601352 
-![2024-08-02](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240802/2024-08-02.png?versionId=4_z8fbbed132d73df8689c40f13_f104de993707b49a8_d20240801_m193602_c005_v0501002_t0011_u01722540962567) 
+最后更新时间 2024-08-02 03:49:23.078051 
+![2024-08-02](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240802/2024-08-02.png?versionId=4_z8fbbed132d73df8689c40f13_f113afa7c27b4ee97_d20240801_m194922_c005_v0501022_t0050_u01722541762567) 
 1. [樊振东vs张本智和](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9Cvs%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%23&t=31&band_rank=1&Refer=top) 43981621
 1. [奥组委调查王楚钦球拍被踩事件](https://s.weibo.com/weibo?q=%23%E5%A5%A5%E7%BB%84%E5%A7%94%E8%B0%83%E6%9F%A5%E7%8E%8B%E6%A5%9A%E9%92%A6%E7%90%83%E6%8B%8D%E8%A2%AB%E8%B8%A9%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=2&Refer=top) 25009871
 1. [樊振东状态](https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%8A%B6%E6%80%81&t=31&band_rank=3&Refer=top) 18051212
