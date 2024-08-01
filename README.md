@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-08-02 05:13:59.638663 
-![2024-08-02](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240802/2024-08-02.png?versionId=4_z8fbbed132d73df8689c40f13_f11616f92f9e4e0b3_d20240801_m211358_c005_v0501015_t0028_u01722546838480) 
+最后更新时间 2024-08-02 05:27:30.485212 
+![2024-08-02](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240802/2024-08-02.png?versionId=4_z8fbbed132d73df8689c40f13_f1053179a2e02099c_d20240801_m212730_c005_v0501021_t0056_u01722547650322) 
 1. [樊振东vs张本智和](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9Cvs%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%23&t=31&band_rank=1&Refer=top) 43981621
 1. [奥组委调查王楚钦球拍被踩事件](https://s.weibo.com/weibo?q=%23%E5%A5%A5%E7%BB%84%E5%A7%94%E8%B0%83%E6%9F%A5%E7%8E%8B%E6%A5%9A%E9%92%A6%E7%90%83%E6%8B%8D%E8%A2%AB%E8%B8%A9%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=2&Refer=top) 25009871
 1. [樊振东状态](https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%8A%B6%E6%80%81&t=31&band_rank=3&Refer=top) 18051212
@@ -62,8 +62,8 @@
 1. [拜尔斯高低杠失误](https://s.weibo.com/weibo?q=%23%E6%8B%9C%E5%B0%94%E6%96%AF%E9%AB%98%E4%BD%8E%E6%9D%A0%E5%A4%B1%E8%AF%AF%23&t=31&band_rank=40&Refer=top) 1145071
 1. [陈玘解说](https://s.weibo.com/weibo?q=%E9%99%88%E7%8E%98%E8%A7%A3%E8%AF%B4&t=31&band_rank=26&Refer=top) 1133914
 1. [个人全能拜尔斯金牌](https://s.weibo.com/weibo?q=%23%E4%B8%AA%E4%BA%BA%E5%85%A8%E8%83%BD%E6%8B%9C%E5%B0%94%E6%96%AF%E9%87%91%E7%89%8C%23&t=31&band_rank=19&Refer=top) 1119597
+1. [王楚钦给樊振东竖大拇指](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E7%BB%99%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%AB%96%E5%A4%A7%E6%8B%87%E6%8C%87&t=31&band_rank=36&Refer=top) 1119441
 1. [库里来看体操了](https://s.weibo.com/weibo?q=%E5%BA%93%E9%87%8C%E6%9D%A5%E7%9C%8B%E4%BD%93%E6%93%8D%E4%BA%86&t=31&band_rank=46&Refer=top) 1074980
-1. [王楚钦给樊振东竖大拇指](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E7%BB%99%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%AB%96%E5%A4%A7%E6%8B%87%E6%8C%87&t=31&band_rank=36&Refer=top) 1022032
 1. [剑网3恭喜刘宇坤夺金](https://s.weibo.com/weibo?q=%23%E5%89%91%E7%BD%913%E6%81%AD%E5%96%9C%E5%88%98%E5%AE%87%E5%9D%A4%E5%A4%BA%E9%87%91%23&t=31&band_rank=47&Refer=top) 981329
 1. [梁王组合进四强](https://s.weibo.com/weibo?q=%23%E6%A2%81%E7%8E%8B%E7%BB%84%E5%90%88%E8%BF%9B%E5%9B%9B%E5%BC%BA%23&t=31&band_rank=42&Refer=top) 976600
 1. [梁王组合vs印尼组合](https://s.weibo.com/weibo?q=%E6%A2%81%E7%8E%8B%E7%BB%84%E5%90%88vs%E5%8D%B0%E5%B0%BC%E7%BB%84%E5%90%88&t=31&band_rank=39&Refer=top) 952087
@@ -91,7 +91,7 @@
 1. [郑钦文碰到没素质的当场回怼](https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E7%A2%B0%E5%88%B0%E6%B2%A1%E7%B4%A0%E8%B4%A8%E7%9A%84%E5%BD%93%E5%9C%BA%E5%9B%9E%E6%80%BC&t=31&band_rank=41&Refer=top) 670276
 1. [张雨霏本届已获3枚奖牌](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%A8%E9%9C%8F%E6%9C%AC%E5%B1%8A%E5%B7%B2%E8%8E%B73%E6%9E%9A%E5%A5%96%E7%89%8C%23&t=31&band_rank=23&Refer=top) 642883
 1. [失利后的张本智和](https://s.weibo.com/weibo?q=%23%E5%A4%B1%E5%88%A9%E5%90%8E%E7%9A%84%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%23&t=31&band_rank=27&Refer=top) 603904
-1. [梁伟铿偶遇樊振东](https://s.weibo.com/weibo?q=%23%E6%A2%81%E4%BC%9F%E9%93%BF%E5%81%B6%E9%81%87%E6%A8%8A%E6%8C%AF%E4%B8%9C%23&t=31&band_rank=12&Refer=top) 573214
+1. [梁伟铿偶遇樊振东](https://s.weibo.com/weibo?q=%23%E6%A2%81%E4%BC%9F%E9%93%BF%E5%81%B6%E9%81%87%E6%A8%8A%E6%8C%AF%E4%B8%9C%23&t=31&band_rank=12&Refer=top) 595671
 1. [刘诗诗给妮可基德曼送刺绣团扇](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E7%BB%99%E5%A6%AE%E5%8F%AF%E5%9F%BA%E5%BE%B7%E6%9B%BC%E9%80%81%E5%88%BA%E7%BB%A3%E5%9B%A2%E6%89%87%23&t=31&band_rank=30&Refer=top) 564641
 1. [蔡徐坤生日新歌Remedy](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E7%94%9F%E6%97%A5%E6%96%B0%E6%AD%8CRemedy%23&t=31&band_rank=14&Refer=top) 555400
 1. [王昶露腹肌](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%98%B6%E9%9C%B2%E8%85%B9%E8%82%8C&t=31&band_rank=46&Refer=top) 546197
@@ -116,6 +116,7 @@
 1. [张本智和说还没有资格拿到奥运奖牌](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E8%AF%B4%E8%BF%98%E6%B2%A1%E6%9C%89%E8%B5%84%E6%A0%BC%E6%8B%BF%E5%88%B0%E5%A5%A5%E8%BF%90%E5%A5%96%E7%89%8C%23&t=31&band_rank=38&Refer=top) 339757
 1. [张雨霏病刚好又遇上生理期](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%A8%E9%9C%8F%E7%97%85%E5%88%9A%E5%A5%BD%E5%8F%88%E9%81%87%E4%B8%8A%E7%94%9F%E7%90%86%E6%9C%9F%23&t=31&band_rank=37&Refer=top) 289824
 1. [雅思组合进决赛了](https://s.weibo.com/weibo?q=%23%E9%9B%85%E6%80%9D%E7%BB%84%E5%90%88%E8%BF%9B%E5%86%B3%E8%B5%9B%E4%BA%86%23&t=31&band_rank=38&Refer=top) 289589
+1. [樊振东说整场都非常坚定](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E8%AF%B4%E6%95%B4%E5%9C%BA%E9%83%BD%E9%9D%9E%E5%B8%B8%E5%9D%9A%E5%AE%9A%23&t=31&band_rank=25&Refer=top) 256967
 1. [张雨霏说身体右边都是麻掉的](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%A8%E9%9C%8F%E8%AF%B4%E8%BA%AB%E4%BD%93%E5%8F%B3%E8%BE%B9%E9%83%BD%E6%98%AF%E9%BA%BB%E6%8E%89%E7%9A%84%23&t=31&band_rank=45&Refer=top) 207659
 1. [张雨霏奥运奖牌超过孙杨](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%A8%E9%9C%8F%E5%A5%A5%E8%BF%90%E5%A5%96%E7%89%8C%E8%B6%85%E8%BF%87%E5%AD%99%E6%9D%A8%23&t=31&band_rank=36&Refer=top) 195562
 1. [欧钰珊自由操11.933分](https://s.weibo.com/weibo?q=%23%E6%AC%A7%E9%92%B0%E7%8F%8A%E8%87%AA%E7%94%B1%E6%93%8D11.933%E5%88%86%23&t=31&band_rank=45&Refer=top) 194216
