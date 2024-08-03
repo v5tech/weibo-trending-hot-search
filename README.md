@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-08-04 03:34:43.182599 
-![2024-08-04](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240804/2024-08-04.png?versionId=4_z8fbbed132d73df8689c40f13_f105bc9e1bc72d56d_d20240803_m193443_c005_v0501022_t0026_u01722713683054) 
+最后更新时间 2024-08-04 03:49:17.555189 
+![2024-08-04](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240804/2024-08-04.png?versionId=4_z8fbbed132d73df8689c40f13_f105d316627114c4b_d20240803_m194917_c005_v0501023_t0002_u01722714557422) 
 1. [郑钦文vs维基奇](https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87vs%E7%BB%B4%E5%9F%BA%E5%A5%87%23&t=31&band_rank=2&Refer=top) 30354118
 1. [郑钦文好牛](https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E5%A5%BD%E7%89%9B%23&t=31&band_rank=6&Refer=top) 19543402
 1. [郑钦文金牌](https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E9%87%91%E7%89%8C&t=31&band_rank=3&Refer=top) 19378303
@@ -83,6 +83,7 @@
 1. [张杰演唱会](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=49&Refer=top) 529088
 1. [黄晓明发红包祝贺表妹陈梦夺金](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E5%8F%91%E7%BA%A2%E5%8C%85%E7%A5%9D%E8%B4%BA%E8%A1%A8%E5%A6%B9%E9%99%88%E6%A2%A6%E5%A4%BA%E9%87%91%23&t=31&band_rank=32&Refer=top) 513118
 1. [维基奇红温](https://s.weibo.com/weibo?q=%E7%BB%B4%E5%9F%BA%E5%A5%87%E7%BA%A2%E6%B8%A9&t=31&band_rank=44&Refer=top) 506524
+1. [弗雷泽退赛](https://s.weibo.com/weibo?q=%E5%BC%97%E9%9B%B7%E6%B3%BD%E9%80%80%E8%B5%9B&t=31&band_rank=42&Refer=top) 499805
 1. [亚洲人首夺奥运会网球单打金牌](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E6%B4%B2%E4%BA%BA%E9%A6%96%E5%A4%BA%E5%A5%A5%E8%BF%90%E4%BC%9A%E7%BD%91%E7%90%83%E5%8D%95%E6%89%93%E9%87%91%E7%89%8C%23&t=31&band_rank=45&Refer=top) 461573
 1. [女单解说](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%8D%95%E8%A7%A3%E8%AF%B4%23&t=31&band_rank=44&Refer=top) 450270
 1. [张怡宁丁宁观赛](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%80%A1%E5%AE%81%E4%B8%81%E5%AE%81%E8%A7%82%E8%B5%9B%23&t=31&band_rank=45&Refer=top) 412493
@@ -104,11 +105,12 @@
 1. [张雨霏吴卿风50自进决赛](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%A8%E9%9C%8F%E5%90%B4%E5%8D%BF%E9%A3%8E50%E8%87%AA%E8%BF%9B%E5%86%B3%E8%B5%9B%23&t=31&band_rank=19&Refer=top) 168704
 1. [张雨霏小组第二](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%A8%E9%9C%8F%E5%B0%8F%E7%BB%84%E7%AC%AC%E4%BA%8C%23&t=31&band_rank=20&Refer=top) 168268
 1. [张艺兴演唱会](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%89%BA%E5%85%B4%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=49&Refer=top) 167207
-1. [弗雷泽退赛](https://s.weibo.com/weibo?q=%E5%BC%97%E9%9B%B7%E6%B3%BD%E9%80%80%E8%B5%9B&t=31&band_rank=42&Refer=top) 166110
-1. [郑钦文放国旗的方式](https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E6%94%BE%E5%9B%BD%E6%97%97%E7%9A%84%E6%96%B9%E5%BC%8F%23&t=31&band_rank=46&Refer=top) 142435
-1. [余依婷200米混合泳第四](https://s.weibo.com/weibo?q=%23%E4%BD%99%E4%BE%9D%E5%A9%B7200%E7%B1%B3%E6%B7%B7%E5%90%88%E6%B3%B3%E7%AC%AC%E5%9B%9B%23&t=31&band_rank=18&Refer=top) 133884
-1. [郑钦文隔空喊话喜爱网球的孩子](https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E9%9A%94%E7%A9%BA%E5%96%8A%E8%AF%9D%E5%96%9C%E7%88%B1%E7%BD%91%E7%90%83%E7%9A%84%E5%AD%A9%E5%AD%90%23&t=31&band_rank=38&Refer=top) 116099
-1. [孙颖莎赛前训练好认真](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E8%B5%9B%E5%89%8D%E8%AE%AD%E7%BB%83%E5%A5%BD%E8%AE%A4%E7%9C%9F%23&t=31&band_rank=42&Refer=top) 115242
+1. [余依婷200米混合泳第四](https://s.weibo.com/weibo?q=%23%E4%BD%99%E4%BE%9D%E5%A9%B7200%E7%B1%B3%E6%B7%B7%E5%90%88%E6%B3%B3%E7%AC%AC%E5%9B%9B%23&t=31&band_rank=18&Refer=top) 163995
+1. [郑钦文放国旗的方式](https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E6%94%BE%E5%9B%BD%E6%97%97%E7%9A%84%E6%96%B9%E5%BC%8F%23&t=31&band_rank=46&Refer=top) 148570
+1. [郑钦文隔空喊话喜爱网球的孩子](https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E9%9A%94%E7%A9%BA%E5%96%8A%E8%AF%9D%E5%96%9C%E7%88%B1%E7%BD%91%E7%90%83%E7%9A%84%E5%AD%A9%E5%AD%90%23&t=31&band_rank=38&Refer=top) 144805
+1. [许昕直播](https://s.weibo.com/weibo?q=%E8%AE%B8%E6%98%95%E7%9B%B4%E6%92%AD&t=31&band_rank=42&Refer=top) 127396
+1. [孙颖莎赛前训练好认真](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E8%B5%9B%E5%89%8D%E8%AE%AD%E7%BB%83%E5%A5%BD%E8%AE%A4%E7%9C%9F%23&t=31&band_rank=42&Refer=top) 117110
+1. [阿尔弗雷德加冕女飞人](https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%B0%94%E5%BC%97%E9%9B%B7%E5%BE%B7%E5%8A%A0%E5%86%95%E5%A5%B3%E9%A3%9E%E4%BA%BA%23&t=31&band_rank=44&Refer=top) 117064
 1. [男女4x100混接中国队名单](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%A5%B34x100%E6%B7%B7%E6%8E%A5%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%90%8D%E5%8D%95%23&t=31&band_rank=45&Refer=top) 89276
 <!-- END -->
 
