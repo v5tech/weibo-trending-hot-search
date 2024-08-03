@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-08-04 05:11:44.597809 
-![2024-08-04](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240804/2024-08-04.png?versionId=4_z8fbbed132d73df8689c40f13_f1075af4cab6dbe9a_d20240803_m211144_c005_v0501023_t0059_u01722719504106) 
+最后更新时间 2024-08-04 05:24:20.042266 
+![2024-08-04](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240804/2024-08-04.png?versionId=4_z8fbbed132d73df8689c40f13_f104e7dad37ec38bb_d20240803_m212419_c005_v0501023_t0008_u01722720259987) 
 1. [郑钦文vs维基奇](https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87vs%E7%BB%B4%E5%9F%BA%E5%A5%87%23&t=31&band_rank=2&Refer=top) 30354118
 1. [郑钦文好牛](https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E5%A5%BD%E7%89%9B%23&t=31&band_rank=6&Refer=top) 19543402
 1. [郑钦文金牌](https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E9%87%91%E7%89%8C&t=31&band_rank=3&Refer=top) 19378303
@@ -96,6 +96,7 @@
 1. [许昕直播](https://s.weibo.com/weibo?q=%E8%AE%B8%E6%98%95%E7%9B%B4%E6%92%AD&t=31&band_rank=42&Refer=top) 359654
 1. [章若楠男粉](https://s.weibo.com/weibo?q=%23%E7%AB%A0%E8%8B%A5%E6%A5%A0%E7%94%B7%E7%B2%89%23&t=31&band_rank=35&Refer=top) 356562
 1. [郭焱称赞孙颖莎格局大](https://s.weibo.com/weibo?q=%23%E9%83%AD%E7%84%B1%E7%A7%B0%E8%B5%9E%E5%AD%99%E9%A2%96%E8%8E%8E%E6%A0%BC%E5%B1%80%E5%A4%A7%23&t=31&band_rank=46&Refer=top) 317526
+1. [蛙王回来了](https://s.weibo.com/weibo?q=%E8%9B%99%E7%8E%8B%E5%9B%9E%E6%9D%A5%E4%BA%86&t=31&band_rank=37&Refer=top) 283084
 1. [山东亲友团为陈梦加油](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E4%BA%B2%E5%8F%8B%E5%9B%A2%E4%B8%BA%E9%99%88%E6%A2%A6%E5%8A%A0%E6%B2%B9%23&t=31&band_rank=38&Refer=top) 244199
 1. [收视率破10](https://s.weibo.com/weibo?q=%23%E6%94%B6%E8%A7%86%E7%8E%87%E7%A0%B410%23&t=31&band_rank=45&Refer=top) 241412
 1. [今夕赫夕](https://s.weibo.com/weibo?q=%E4%BB%8A%E5%A4%95%E8%B5%AB%E5%A4%95&t=31&band_rank=45&Refer=top) 239613
@@ -114,11 +115,11 @@
 1. [贾冰居然做了腋下管理](https://s.weibo.com/weibo?q=%E8%B4%BE%E5%86%B0%E5%B1%85%E7%84%B6%E5%81%9A%E4%BA%86%E8%85%8B%E4%B8%8B%E7%AE%A1%E7%90%86&t=31&band_rank=45&Refer=top) 133544
 1. [中国队创男女混接亚洲纪录](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%88%9B%E7%94%B7%E5%A5%B3%E6%B7%B7%E6%8E%A5%E4%BA%9A%E6%B4%B2%E7%BA%AA%E5%BD%95%23&t=31&band_rank=36&Refer=top) 133440
 1. [张雨霏吴卿风50自晋级半决赛](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%A8%E9%9C%8F%E5%90%B4%E5%8D%BF%E9%A3%8E50%E8%87%AA%E6%99%8B%E7%BA%A7%E5%8D%8A%E5%86%B3%E8%B5%9B%23&t=31&band_rank=41&Refer=top) 127946
-1. [蛙王回来了](https://s.weibo.com/weibo?q=%E8%9B%99%E7%8E%8B%E5%9B%9E%E6%9D%A5%E4%BA%86&t=31&band_rank=37&Refer=top) 123580
 1. [孙颖莎赛前训练好认真](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E8%B5%9B%E5%89%8D%E8%AE%AD%E7%BB%83%E5%A5%BD%E8%AE%A4%E7%9C%9F%23&t=31&band_rank=42&Refer=top) 117110
 1. [阿尔弗雷德加冕女飞人](https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%B0%94%E5%BC%97%E9%9B%B7%E5%BE%B7%E5%8A%A0%E5%86%95%E5%A5%B3%E9%A3%9E%E4%BA%BA%23&t=31&band_rank=44&Refer=top) 117064
 1. [潘展乐20岁了](https://s.weibo.com/weibo?q=%23%E6%BD%98%E5%B1%95%E4%B9%9020%E5%B2%81%E4%BA%86%23&t=31&band_rank=46&Refer=top) 93746
 1. [覃海洋首枚奖牌](https://s.weibo.com/weibo?q=%23%E8%A6%83%E6%B5%B7%E6%B4%8B%E9%A6%96%E6%9E%9A%E5%A5%96%E7%89%8C%23&t=31&band_rank=45&Refer=top) 87024
+1. [张雨霏第8枚奥运奖牌](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%A8%E9%9C%8F%E7%AC%AC8%E6%9E%9A%E5%A5%A5%E8%BF%90%E5%A5%96%E7%89%8C%23&t=31&band_rank=42&Refer=top) 79236
 <!-- END -->
 
 历史归档 [./archives](./archives)
