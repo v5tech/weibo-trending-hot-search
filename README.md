@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-08-04 02:15:55.324682 
-![2024-08-04](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240804/2024-08-04.png?versionId=4_z8fbbed132d73df8689c40f13_f1018230c9cccbc0d_d20240803_m181555_c005_v0501023_t0039_u01722708955196) 
+最后更新时间 2024-08-04 02:33:06.740360 
+![2024-08-04](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240804/2024-08-04.png?versionId=4_z8fbbed132d73df8689c40f13_f11745571636f3c1c_d20240803_m183306_c005_v0501000_t0031_u01722709986673) 
 1. [郑钦文vs维基奇](https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87vs%E7%BB%B4%E5%9F%BA%E5%A5%87%23&t=31&band_rank=2&Refer=top) 30354118
 1. [郑钦文好牛](https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E5%A5%BD%E7%89%9B%23&t=31&band_rank=6&Refer=top) 19543402
 1. [郑钦文金牌](https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E9%87%91%E7%89%8C&t=31&band_rank=3&Refer=top) 19378303
@@ -88,14 +88,17 @@
 1. [章若楠男粉](https://s.weibo.com/weibo?q=%23%E7%AB%A0%E8%8B%A5%E6%A5%A0%E7%94%B7%E7%B2%89%23&t=31&band_rank=35&Refer=top) 356562
 1. [辅警尿检阳性发现肉夹馍加了罂粟壳](https://s.weibo.com/weibo?q=%23%E8%BE%85%E8%AD%A6%E5%B0%BF%E6%A3%80%E9%98%B3%E6%80%A7%E5%8F%91%E7%8E%B0%E8%82%89%E5%A4%B9%E9%A6%8D%E5%8A%A0%E4%BA%86%E7%BD%82%E7%B2%9F%E5%A3%B3%23&t=31&band_rank=34&Refer=top) 346636
 1. [郭焱称赞孙颖莎格局大](https://s.weibo.com/weibo?q=%23%E9%83%AD%E7%84%B1%E7%A7%B0%E8%B5%9E%E5%AD%99%E9%A2%96%E8%8E%8E%E6%A0%BC%E5%B1%80%E5%A4%A7%23&t=31&band_rank=46&Refer=top) 317526
+1. [孙颖莎说有遗憾也能接受](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E8%AF%B4%E6%9C%89%E9%81%97%E6%86%BE%E4%B9%9F%E8%83%BD%E6%8E%A5%E5%8F%97%23&t=31&band_rank=31&Refer=top) 269155
+1. [山东亲友团为陈梦加油](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E4%BA%B2%E5%8F%8B%E5%9B%A2%E4%B8%BA%E9%99%88%E6%A2%A6%E5%8A%A0%E6%B2%B9%23&t=31&band_rank=38&Refer=top) 244199
+1. [收视率破10](https://s.weibo.com/weibo?q=%23%E6%94%B6%E8%A7%86%E7%8E%87%E7%A0%B410%23&t=31&band_rank=45&Refer=top) 241412
 1. [今夕赫夕](https://s.weibo.com/weibo?q=%E4%BB%8A%E5%A4%95%E8%B5%AB%E5%A4%95&t=31&band_rank=45&Refer=top) 239613
-1. [山东亲友团为陈梦加油](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E4%BA%B2%E5%8F%8B%E5%9B%A2%E4%B8%BA%E9%99%88%E6%A2%A6%E5%8A%A0%E6%B2%B9%23&t=31&band_rank=38&Refer=top) 205373
-1. [收视率破10](https://s.weibo.com/weibo?q=%23%E6%94%B6%E8%A7%86%E7%8E%87%E7%A0%B410%23&t=31&band_rank=45&Refer=top) 205359
 1. [4位姑娘高喊中国女双第1](https://s.weibo.com/weibo?q=%234%E4%BD%8D%E5%A7%91%E5%A8%98%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%8F%8C%E7%AC%AC1%23&t=31&band_rank=43&Refer=top) 205313
 1. [吴尊奥运前就预言郑钦文能拿牌](https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%B0%8A%E5%A5%A5%E8%BF%90%E5%89%8D%E5%B0%B1%E9%A2%84%E8%A8%80%E9%83%91%E9%92%A6%E6%96%87%E8%83%BD%E6%8B%BF%E7%89%8C%23&t=31&band_rank=34&Refer=top) 204877
 1. [Queen Wen](https://s.weibo.com/weibo?q=Queen%20Wen&t=31&band_rank=45&Refer=top) 200340
 1. [杨冰怡排名](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%86%B0%E6%80%A1%E6%8E%92%E5%90%8D&t=31&band_rank=47&Refer=top) 198169
 1. [时代少年团梦](https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%A2%A6%23&t=31&band_rank=49&Refer=top) 196352
+1. [孙颖莎祝贺陈梦](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E7%A5%9D%E8%B4%BA%E9%99%88%E6%A2%A6%23&t=31&band_rank=40&Refer=top) 180544
+1. [张艺兴演唱会](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%89%BA%E5%85%B4%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=49&Refer=top) 167207
 <!-- END -->
 
 历史归档 [./archives](./archives)
