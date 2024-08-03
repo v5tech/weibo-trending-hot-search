@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-08-04 01:35:36.670545 
-![2024-08-04](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240804/2024-08-04.png?versionId=4_z8fbbed132d73df8689c40f13_f102edbf5ef9f36fd_d20240803_m173536_c005_v0501022_t0013_u01722706536158) 
+最后更新时间 2024-08-04 01:49:23.625967 
+![2024-08-04](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240804/2024-08-04.png?versionId=4_z8fbbed132d73df8689c40f13_f11524f813ae61c8a_d20240803_m174923_c005_v0501001_t0001_u01722707363576) 
 1. [郑钦文vs维基奇](https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87vs%E7%BB%B4%E5%9F%BA%E5%A5%87%23&t=31&band_rank=2&Refer=top) 30354118
 1. [郑钦文好牛](https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E5%A5%BD%E7%89%9B%23&t=31&band_rank=6&Refer=top) 19543402
 1. [郑钦文金牌](https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E9%87%91%E7%89%8C&t=31&band_rank=3&Refer=top) 19378303
@@ -30,15 +30,16 @@
 1. [宋雨琦辣成这样](https://s.weibo.com/weibo?q=%E5%AE%8B%E9%9B%A8%E7%90%A6%E8%BE%A3%E6%88%90%E8%BF%99%E6%A0%B7&t=31&band_rank=19&Refer=top) 3494058
 1. [海棠](https://s.weibo.com/weibo?q=%E6%B5%B7%E6%A3%A0&t=31&band_rank=15&Refer=top) 3322623
 1. [凡尘组合超级大满贯](https://s.weibo.com/weibo?q=%23%E5%87%A1%E5%B0%98%E7%BB%84%E5%90%88%E8%B6%85%E7%BA%A7%E5%A4%A7%E6%BB%A1%E8%B4%AF%23&t=31&band_rank=5&Refer=top) 3234494
+1. [郑钦文赛后采访](https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E8%B5%9B%E5%90%8E%E9%87%87%E8%AE%BF&t=31&band_rank=26&Refer=top) 3087821
 1. [郑钦文接发神了](https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E6%8E%A5%E5%8F%91%E7%A5%9E%E4%BA%86%23&t=31&band_rank=38&Refer=top) 2641098
 1. [郑钦文咬金牌](https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E5%92%AC%E9%87%91%E7%89%8C%23&t=31&band_rank=7&Refer=top) 2486611
 1. [武汉江滩灯光秀为郑钦文加油](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89%E6%B1%9F%E6%BB%A9%E7%81%AF%E5%85%89%E7%A7%80%E4%B8%BA%E9%83%91%E9%92%A6%E6%96%87%E5%8A%A0%E6%B2%B9%23&t=31&band_rank=49&Refer=top) 2391806
 1. [孙颖莎又指导拍照了](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E5%8F%88%E6%8C%87%E5%AF%BC%E6%8B%8D%E7%85%A7%E4%BA%86%23&t=31&band_rank=42&Refer=top) 2371605
 1. [中国第16金](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%AC%AC16%E9%87%91%23&t=31&band_rank=15&Refer=top) 2357112
+1. [陈梦美甲](https://s.weibo.com/weibo?q=%E9%99%88%E6%A2%A6%E7%BE%8E%E7%94%B2&t=31&band_rank=22&Refer=top) 2259207
 1. [费沁源排名](https://s.weibo.com/weibo?q=%23%E8%B4%B9%E6%B2%81%E6%BA%90%E6%8E%92%E5%90%8D%23&t=31&band_rank=32&Refer=top) 2202595
 1. [豆瓣崩了](https://s.weibo.com/weibo?q=%E8%B1%86%E7%93%A3%E5%B4%A9%E4%BA%86&t=31&band_rank=13&Refer=top) 1998738
 1. [马尔尚道歉了](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%B0%94%E5%B0%9A%E9%81%93%E6%AD%89%E4%BA%86%23&t=31&band_rank=22&Refer=top) 1950865
-1. [陈梦美甲](https://s.weibo.com/weibo?q=%E9%99%88%E6%A2%A6%E7%BE%8E%E7%94%B2&t=31&band_rank=22&Refer=top) 1870904
 1. [孙颖莎vs陈梦](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8Evs%E9%99%88%E6%A2%A6%23&t=31&band_rank=21&Refer=top) 1782262
 1. [陈梦孙颖莎拥抱](https://s.weibo.com/weibo?q=%E9%99%88%E6%A2%A6%E5%AD%99%E9%A2%96%E8%8E%8E%E6%8B%A5%E6%8A%B1&t=31&band_rank=17&Refer=top) 1693138
 1. [SNH48总选 袁一琦第一](https://s.weibo.com/weibo?q=SNH48%E6%80%BB%E9%80%89%20%E8%A2%81%E4%B8%80%E7%90%A6%E7%AC%AC%E4%B8%80&t=31&band_rank=50&Refer=top) 1605353
@@ -51,7 +52,6 @@
 1. [陈梦成女单奥运夺金年龄最大选手](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A2%A6%E6%88%90%E5%A5%B3%E5%8D%95%E5%A5%A5%E8%BF%90%E5%A4%BA%E9%87%91%E5%B9%B4%E9%BE%84%E6%9C%80%E5%A4%A7%E9%80%89%E6%89%8B%23&t=31&band_rank=26&Refer=top) 878515
 1. [郑中基退圈](https://s.weibo.com/weibo?q=%23%E9%83%91%E4%B8%AD%E5%9F%BA%E9%80%80%E5%9C%88%23&t=31&band_rank=29&Refer=top) 874288
 1. [请帮我告诉他你现在是第一名](https://s.weibo.com/weibo?q=%E8%AF%B7%E5%B8%AE%E6%88%91%E5%91%8A%E8%AF%89%E4%BB%96%E4%BD%A0%E7%8E%B0%E5%9C%A8%E6%98%AF%E7%AC%AC%E4%B8%80%E5%90%8D&t=31&band_rank=33&Refer=top) 874087
-1. [郑钦文赛后采访](https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%E8%B5%9B%E5%90%8E%E9%87%87%E8%AE%BF&t=31&band_rank=26&Refer=top) 859523
 1. [网球规则](https://s.weibo.com/weibo?q=%E7%BD%91%E7%90%83%E8%A7%84%E5%88%99&t=31&band_rank=27&Refer=top) 823940
 1. [赌王三房四房子女聚会](https://s.weibo.com/weibo?q=%23%E8%B5%8C%E7%8E%8B%E4%B8%89%E6%88%BF%E5%9B%9B%E6%88%BF%E5%AD%90%E5%A5%B3%E8%81%9A%E4%BC%9A%23&t=31&band_rank=30&Refer=top) 814449
 1. [檀健次王玉雯上演替身文学](https://s.weibo.com/weibo?q=%E6%AA%80%E5%81%A5%E6%AC%A1%E7%8E%8B%E7%8E%89%E9%9B%AF%E4%B8%8A%E6%BC%94%E6%9B%BF%E8%BA%AB%E6%96%87%E5%AD%A6&t=31&band_rank=35&Refer=top) 812703
@@ -89,6 +89,8 @@
 1. [章若楠男粉](https://s.weibo.com/weibo?q=%23%E7%AB%A0%E8%8B%A5%E6%A5%A0%E7%94%B7%E7%B2%89%23&t=31&band_rank=35&Refer=top) 246878
 1. [今夕赫夕](https://s.weibo.com/weibo?q=%E4%BB%8A%E5%A4%95%E8%B5%AB%E5%A4%95&t=31&band_rank=45&Refer=top) 239613
 1. [郭焱称赞孙颖莎格局大](https://s.weibo.com/weibo?q=%23%E9%83%AD%E7%84%B1%E7%A7%B0%E8%B5%9E%E5%AD%99%E9%A2%96%E8%8E%8E%E6%A0%BC%E5%B1%80%E5%A4%A7%23&t=31&band_rank=46&Refer=top) 238356
+1. [吴尊奥运前就预言郑钦文能拿牌](https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%B0%8A%E5%A5%A5%E8%BF%90%E5%89%8D%E5%B0%B1%E9%A2%84%E8%A8%80%E9%83%91%E9%92%A6%E6%96%87%E8%83%BD%E6%8B%BF%E7%89%8C%23&t=31&band_rank=34&Refer=top) 204877
+1. [收视率破10](https://s.weibo.com/weibo?q=%23%E6%94%B6%E8%A7%86%E7%8E%87%E7%A0%B410%23&t=31&band_rank=45&Refer=top) 202222
 <!-- END -->
 
 历史归档 [./archives](./archives)
