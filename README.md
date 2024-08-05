@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-08-06 05:28:17.895636 
-![2024-08-06](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240806/2024-08-06.png?versionId=4_z8fbbed132d73df8689c40f13_f11286a23544ece06_d20240805_m212817_c005_v0501013_t0046_u01722893297472) 
+最后更新时间 2024-08-06 05:37:02.438647 
+![2024-08-06](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240806/2024-08-06.png?versionId=4_z8fbbed132d73df8689c40f13_f10888b4efac574a6_d20240805_m213702_c005_v0501023_t0052_u01722893822291) 
 1. [TFBOYS出道十一周年](https://s.weibo.com/weibo?q=TFBOYS%E5%87%BA%E9%81%93%E5%8D%81%E4%B8%80%E5%91%A8%E5%B9%B4&t=31&band_rank=1&Refer=top) 5639452
 1. [马琳 暂停](https://s.weibo.com/weibo?q=%E9%A9%AC%E7%90%B3%20%E6%9A%82%E5%81%9C&t=31&band_rank=1&Refer=top) 4879882
 1. [孙颖莎一单](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E4%B8%80%E5%8D%95%23&t=31&band_rank=2&Refer=top) 3745164
