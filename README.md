@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-08-06 05:37:02.438647 
-![2024-08-06](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240806/2024-08-06.png?versionId=4_z8fbbed132d73df8689c40f13_f10888b4efac574a6_d20240805_m213702_c005_v0501023_t0052_u01722893822291) 
+最后更新时间 2024-08-06 05:49:23.490987 
+![2024-08-06](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240806/2024-08-06.png?versionId=4_z8fbbed132d73df8689c40f13_f106867ed99f67d6b_d20240805_m214923_c005_v0501018_t0013_u01722894563352) 
 1. [TFBOYS出道十一周年](https://s.weibo.com/weibo?q=TFBOYS%E5%87%BA%E9%81%93%E5%8D%81%E4%B8%80%E5%91%A8%E5%B9%B4&t=31&band_rank=1&Refer=top) 5639452
 1. [马琳 暂停](https://s.weibo.com/weibo?q=%E9%A9%AC%E7%90%B3%20%E6%9A%82%E5%81%9C&t=31&band_rank=1&Refer=top) 4879882
 1. [孙颖莎一单](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E4%B8%80%E5%8D%95%23&t=31&band_rank=2&Refer=top) 3745164
@@ -99,18 +99,18 @@
 1. [冯彬66米33](https://s.weibo.com/weibo?q=%E5%86%AF%E5%BD%AC66%E7%B1%B333&t=31&band_rank=32&Refer=top) 105222
 1. [勒布伦铜牌小品](https://s.weibo.com/weibo?q=%E5%8B%92%E5%B8%83%E4%BC%A6%E9%93%9C%E7%89%8C%E5%B0%8F%E5%93%81&t=31&band_rank=45&Refer=top) 101270
 1. [城市捉迷藏](https://s.weibo.com/weibo?q=%E5%9F%8E%E5%B8%82%E6%8D%89%E8%BF%B7%E8%97%8F&t=31&band_rank=48&Refer=top) 101210
-1. [店主暖心关怀获中暑外卖小哥赠水感恩](https://s.weibo.com/weibo?q=%23%E5%BA%97%E4%B8%BB%E6%9A%96%E5%BF%83%E5%85%B3%E6%80%80%E8%8E%B7%E4%B8%AD%E6%9A%91%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E8%B5%A0%E6%B0%B4%E6%84%9F%E6%81%A9%23&t=31&band_rank=22&Refer=top) 82072
+1. [店主暖心关怀获中暑外卖小哥赠水感恩](https://s.weibo.com/weibo?q=%23%E5%BA%97%E4%B8%BB%E6%9A%96%E5%BF%83%E5%85%B3%E6%80%80%E8%8E%B7%E4%B8%AD%E6%9A%91%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E8%B5%A0%E6%B0%B4%E6%84%9F%E6%81%A9%23&t=31&band_rank=22&Refer=top) 92065
 1. [冯彬好牛](https://s.weibo.com/weibo?q=%E5%86%AF%E5%BD%AC%E5%A5%BD%E7%89%9B&t=31&band_rank=42&Refer=top) 81923
 1. [黄博凯第七](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%8D%9A%E5%87%AF%E7%AC%AC%E4%B8%83%23&t=31&band_rank=36&Refer=top) 76910
 1. [张博恒单杠13.966分](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%8D%9A%E6%81%92%E5%8D%95%E6%9D%A013.966%E5%88%86%23&t=31&band_rank=45&Refer=top) 65607
 1. [王源客厅狂欢巡演](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%BA%90%E5%AE%A2%E5%8E%85%E7%8B%82%E6%AC%A2%E5%B7%A1%E6%BC%94&t=31&band_rank=49&Refer=top) 65589
+1. [男子殴打妻子致死案最新进展](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%AE%B4%E6%89%93%E5%A6%BB%E5%AD%90%E8%87%B4%E6%AD%BB%E6%A1%88%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95%23&t=31&band_rank=50&Refer=top) 59041
 1. [超级红人节](https://s.weibo.com/weibo?q=%E8%B6%85%E7%BA%A7%E7%BA%A2%E4%BA%BA%E8%8A%82&t=31&band_rank=50&Refer=top) 58187
 1. [王昶让刘雨辰给他留个伴郎位置](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%98%B6%E8%AE%A9%E5%88%98%E9%9B%A8%E8%BE%B0%E7%BB%99%E4%BB%96%E7%95%99%E4%B8%AA%E4%BC%B4%E9%83%8E%E4%BD%8D%E7%BD%AE%23&t=31&band_rank=45&Refer=top) 55578
-1. [男子殴打妻子致死案最新进展](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%AE%B4%E6%89%93%E5%A6%BB%E5%AD%90%E8%87%B4%E6%AD%BB%E6%A1%88%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95%23&t=31&band_rank=50&Refer=top) 48070
 1. [曹利国晋级决赛](https://s.weibo.com/weibo?q=%23%E6%9B%B9%E5%88%A9%E5%9B%BD%E6%99%8B%E7%BA%A7%E5%86%B3%E8%B5%9B%23&t=31&band_rank=39&Refer=top) 47706
 1. [等你的回答练习室](https://s.weibo.com/weibo?q=%23%E7%AD%89%E4%BD%A0%E7%9A%84%E5%9B%9E%E7%AD%94%E7%BB%83%E4%B9%A0%E5%AE%A4%23&t=31&band_rank=48&Refer=top) 46321
+1. [潘展乐这能说吗2.0](https://s.weibo.com/weibo?q=%23%E6%BD%98%E5%B1%95%E4%B9%90%E8%BF%99%E8%83%BD%E8%AF%B4%E5%90%972.0%23&t=31&band_rank=47&Refer=top) 44890
 1. [金牌是樊振东最好的医美](https://s.weibo.com/weibo?q=%23%E9%87%91%E7%89%8C%E6%98%AF%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%9C%80%E5%A5%BD%E7%9A%84%E5%8C%BB%E7%BE%8E%23&t=31&band_rank=46&Refer=top) 44618
-1. [潘展乐这能说吗2.0](https://s.weibo.com/weibo?q=%23%E6%BD%98%E5%B1%95%E4%B9%90%E8%BF%99%E8%83%BD%E8%AF%B4%E5%90%972.0%23&t=31&band_rank=47&Refer=top) 36488
 <!-- END -->
 
 历史归档 [./archives](./archives)
