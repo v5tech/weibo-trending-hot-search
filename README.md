@@ -7,20 +7,20 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-08-08 01:38:52.254315 
-![2024-08-08](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240808/2024-08-08.png?versionId=4_z8fbbed132d73df8689c40f13_f1104eb8df4bc21d4_d20240807_m173851_c005_v0501003_t0056_u01723052331768) 
+最后更新时间 2024-08-08 01:49:23.599183 
+![2024-08-08](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240808/2024-08-08.png?versionId=4_z8fbbed132d73df8689c40f13_f116e7488533cd535_d20240807_m174923_c005_v0501021_t0013_u01723052963569) 
 1. [李发彬举重金牌](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%8F%91%E5%BD%AC%E4%B8%BE%E9%87%8D%E9%87%91%E7%89%8C%23&t=31&band_rank=1&Refer=top) 3803290
 1. [徐卓一秦伟搏110米栏半决赛](https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%8D%93%E4%B8%80%E7%A7%A6%E4%BC%9F%E6%90%8F110%E7%B1%B3%E6%A0%8F%E5%8D%8A%E5%86%B3%E8%B5%9B%23&t=31&band_rank=27&Refer=top) 1842054
 1. [BLACKPINK直播](https://s.weibo.com/weibo?q=BLACKPINK%E7%9B%B4%E6%92%AD&t=31&band_rank=2&Refer=top) 1724824
 1. [巴黎奥运赛场上的中国突破](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E%E5%A5%A5%E8%BF%90%E8%B5%9B%E5%9C%BA%E4%B8%8A%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%AA%81%E7%A0%B4%23&t=31&band_rank=3&Refer=top) 1680911
 1. [戴向宇的工作全部叫停](https://s.weibo.com/weibo?q=%23%E6%88%B4%E5%90%91%E5%AE%87%E7%9A%84%E5%B7%A5%E4%BD%9C%E5%85%A8%E9%83%A8%E5%8F%AB%E5%81%9C%23&t=31&band_rank=4&Refer=top) 1670168
 1. [王楚钦感谢教练让他出战第三场](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%84%9F%E8%B0%A2%E6%95%99%E7%BB%83%E8%AE%A9%E4%BB%96%E5%87%BA%E6%88%98%E7%AC%AC%E4%B8%89%E5%9C%BA%23&t=31&band_rank=5&Refer=top) 1501479
+1. [徐卓一止步半决赛](https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%8D%93%E4%B8%80%E6%AD%A2%E6%AD%A5%E5%8D%8A%E5%86%B3%E8%B5%9B%23&t=31&band_rank=4&Refer=top) 1457165
 1. [吴艳妮复活赛又进死亡之组](https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%89%B3%E5%A6%AE%E5%A4%8D%E6%B4%BB%E8%B5%9B%E5%8F%88%E8%BF%9B%E6%AD%BB%E4%BA%A1%E4%B9%8B%E7%BB%84%23&t=31&band_rank=6&Refer=top) 1314392
 1. [美国申诉夺铜后气炸罗马尼亚](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%94%B3%E8%AF%89%E5%A4%BA%E9%93%9C%E5%90%8E%E6%B0%94%E7%82%B8%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A%23&t=31&band_rank=7&Refer=top) 1120988
 1. [潘展乐告状行为开始人传人](https://s.weibo.com/weibo?q=%E6%BD%98%E5%B1%95%E4%B9%90%E5%91%8A%E7%8A%B6%E8%A1%8C%E4%B8%BA%E5%BC%80%E5%A7%8B%E4%BA%BA%E4%BC%A0%E4%BA%BA&t=31&band_rank=24&Refer=top) 1095676
+1. [我国进出口规模再创新高](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E8%BF%9B%E5%87%BA%E5%8F%A3%E8%A7%84%E6%A8%A1%E5%86%8D%E5%88%9B%E6%96%B0%E9%AB%98%23&t=31&band_rank=3&Refer=top) 990394
 1. [莎莎给自己做了条小裙子](https://s.weibo.com/weibo?q=%E8%8E%8E%E8%8E%8E%E7%BB%99%E8%87%AA%E5%B7%B1%E5%81%9A%E4%BA%86%E6%9D%A1%E5%B0%8F%E8%A3%99%E5%AD%90&t=31&band_rank=35&Refer=top) 761603
-1. [我国进出口规模再创新高](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E8%BF%9B%E5%87%BA%E5%8F%A3%E8%A7%84%E6%A8%A1%E5%86%8D%E5%88%9B%E6%96%B0%E9%AB%98%23&t=31&band_rank=3&Refer=top) 751880
-1. [徐卓一止步半决赛](https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%8D%93%E4%B8%80%E6%AD%A2%E6%AD%A5%E5%8D%8A%E5%86%B3%E8%B5%9B%23&t=31&band_rank=4&Refer=top) 748988
 1. [与金牌仅差0.08秒](https://s.weibo.com/weibo?q=%23%E4%B8%8E%E9%87%91%E7%89%8C%E4%BB%85%E5%B7%AE0.08%E7%A7%92%23&t=31&band_rank=8&Refer=top) 747086
 1. [女子称双汇火腿肠含像眼睛似的异物](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%B0%E5%8F%8C%E6%B1%87%E7%81%AB%E8%85%BF%E8%82%A0%E5%90%AB%E5%83%8F%E7%9C%BC%E7%9D%9B%E4%BC%BC%E7%9A%84%E5%BC%82%E7%89%A9%23&t=31&band_rank=13&Refer=top) 614391
 1. [深圳安居拟收购商品房作保障房](https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%AE%89%E5%B1%85%E6%8B%9F%E6%94%B6%E8%B4%AD%E5%95%86%E5%93%81%E6%88%BF%E4%BD%9C%E4%BF%9D%E9%9A%9C%E6%88%BF%23&t=31&band_rank=10&Refer=top) 612786
@@ -73,12 +73,15 @@
 1. [举重女子49公斤级决赛](https://s.weibo.com/weibo?q=%E4%B8%BE%E9%87%8D%E5%A5%B3%E5%AD%9049%E5%85%AC%E6%96%A4%E7%BA%A7%E5%86%B3%E8%B5%9B&t=31&band_rank=33&Refer=top) 215966
 1. [徐卓一跨栏时眼镜为何不会掉](https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%8D%93%E4%B8%80%E8%B7%A8%E6%A0%8F%E6%97%B6%E7%9C%BC%E9%95%9C%E4%B8%BA%E4%BD%95%E4%B8%8D%E4%BC%9A%E6%8E%89%23&t=31&band_rank=43&Refer=top) 211837
 1. [王楚钦vs张禹珍](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E5%BC%A0%E7%A6%B9%E7%8F%8D%23&t=31&band_rank=44&Refer=top) 206653
+1. [中国冲击花游历史首金](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%86%B2%E5%87%BB%E8%8A%B1%E6%B8%B8%E5%8E%86%E5%8F%B2%E9%A6%96%E9%87%91%23&t=31&band_rank=10&Refer=top) 204444
 1. [波兰男排vs美国男排](https://s.weibo.com/weibo?q=%23%E6%B3%A2%E5%85%B0%E7%94%B7%E6%8E%92vs%E7%BE%8E%E5%9B%BD%E7%94%B7%E6%8E%92%23&t=31&band_rank=41&Refer=top) 198416
 1. [戴向宇回应张昊唯道歉](https://s.weibo.com/weibo?q=%23%E6%88%B4%E5%90%91%E5%AE%87%E5%9B%9E%E5%BA%94%E5%BC%A0%E6%98%8A%E5%94%AF%E9%81%93%E6%AD%89%23&t=31&band_rank=50&Refer=top) 197840
 1. [秦伟搏无缘110米栏决赛](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E4%BC%9F%E6%90%8F%E6%97%A0%E7%BC%98110%E7%B1%B3%E6%A0%8F%E5%86%B3%E8%B5%9B%23&t=31&band_rank=34&Refer=top) 195502
 1. [在下徐卓一有何贵干](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E4%B8%8B%E5%BE%90%E5%8D%93%E4%B8%80%E6%9C%89%E4%BD%95%E8%B4%B5%E5%B9%B2%23&t=31&band_rank=47&Refer=top) 179259
 1. [孙颖莎vs郑怡静](https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8Evs%E9%83%91%E6%80%A1%E9%9D%99&t=31&band_rank=48&Refer=top) 173820
+1. [哈马斯新领导人曾放话让以色列暗杀自己](https://s.weibo.com/weibo?q=%23%E5%93%88%E9%A9%AC%E6%96%AF%E6%96%B0%E9%A2%86%E5%AF%BC%E4%BA%BA%E6%9B%BE%E6%94%BE%E8%AF%9D%E8%AE%A9%E4%BB%A5%E8%89%B2%E5%88%97%E6%9A%97%E6%9D%80%E8%87%AA%E5%B7%B1%23&t=31&band_rank=25&Refer=top) 127972
 1. [孙颖莎3比0战胜郑怡静](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E3%E6%AF%940%E6%88%98%E8%83%9C%E9%83%91%E6%80%A1%E9%9D%99%23&t=31&band_rank=45&Refer=top) 120674
+1. [哈马斯新领导人是强硬派](https://s.weibo.com/weibo?q=%23%E5%93%88%E9%A9%AC%E6%96%AF%E6%96%B0%E9%A2%86%E5%AF%BC%E4%BA%BA%E6%98%AF%E5%BC%BA%E7%A1%AC%E6%B4%BE%23&t=31&band_rank=35&Refer=top) 104333
 1. [马龙给穿了队服的外国小朋友签名](https://s.weibo.com/weibo?q=%E9%A9%AC%E9%BE%99%E7%BB%99%E7%A9%BF%E4%BA%86%E9%98%9F%E6%9C%8D%E7%9A%84%E5%A4%96%E5%9B%BD%E5%B0%8F%E6%9C%8B%E5%8F%8B%E7%AD%BE%E5%90%8D&t=31&band_rank=48&Refer=top) 96844
 <!-- END -->
 
