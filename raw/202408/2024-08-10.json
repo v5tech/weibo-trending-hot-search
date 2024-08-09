@@ -273,7 +273,7 @@
   },
   "中国女曲vs荷兰女曲": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%9B%B2vs%E8%8D%B7%E5%85%B0%E5%A5%B3%E6%9B%B2%23&t=31&band_rank=9&Refer=top",
-    "hot": 583354
+    "hot": 618728
   },
   "宋佳媛铜牌": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BD%B3%E5%AA%9B%E9%93%9C%E7%89%8C%23&t=31&band_rank=15&Refer=top",
@@ -281,7 +281,7 @@
   },
   "巩立姣铅球第五": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%B7%A9%E7%AB%8B%E5%A7%A3%E9%93%85%E7%90%83%E7%AC%AC%E4%BA%94%23&t=31&band_rank=6&Refer=top",
-    "hot": 553500
+    "hot": 560557
   },
   "黄景瑜 爱心还给我": {
     "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E6%99%AF%E7%91%9C%20%E7%88%B1%E5%BF%83%E8%BF%98%E7%BB%99%E6%88%91&t=31&band_rank=46&Refer=top",
@@ -370,5 +370,9 @@
   "樊振东发霉霉的歌庆祝男团夺冠": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%8F%91%E9%9C%89%E9%9C%89%E7%9A%84%E6%AD%8C%E5%BA%86%E7%A5%9D%E7%94%B7%E5%9B%A2%E5%A4%BA%E5%86%A0%23&t=31&band_rank=43&Refer=top",
     "hot": 188233
+  },
+  "刘清漪出战铜牌赛": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E6%B8%85%E6%BC%AA%E5%87%BA%E6%88%98%E9%93%9C%E7%89%8C%E8%B5%9B%23&t=31&band_rank=15&Refer=top",
+    "hot": 145848
   }
 }
