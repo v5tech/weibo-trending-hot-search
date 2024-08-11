@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-08-12 02:39:47.245778 
-![2024-08-12](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240812/2024-08-12.png?versionId=4_z8fbbed132d73df8689c40f13_f115b976eafb09f09_d20240811_m183946_c005_v0501016_t0016_u01723401586790) 
+最后更新时间 2024-08-12 02:49:15.888241 
+![2024-08-12](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240812/2024-08-12.png?versionId=4_z8fbbed132d73df8689c40f13_f100d2e78bba75533_d20240811_m184915_c005_v0501023_t0041_u01723402155463) 
 1. [中国金牌榜并列第一](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%87%91%E7%89%8C%E6%A6%9C%E5%B9%B6%E5%88%97%E7%AC%AC%E4%B8%80%23&t=31&band_rank=1&Refer=top) 19212270
 1. [美国女篮vs法国女篮](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A5%B3%E7%AF%AEvs%E6%B3%95%E5%9B%BD%E5%A5%B3%E7%AF%AE%23&t=31&band_rank=2&Refer=top) 5017867
 1. [孙颖莎闭幕式有互动环节](https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E9%97%AD%E5%B9%95%E5%BC%8F%E6%9C%89%E4%BA%92%E5%8A%A8%E7%8E%AF%E8%8A%82&t=31&band_rank=2&Refer=top) 2998140
@@ -19,6 +19,7 @@
 1. [孙颖莎邱贻可散装英语勇闯法国](https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E9%82%B1%E8%B4%BB%E5%8F%AF%E6%95%A3%E8%A3%85%E8%8B%B1%E8%AF%AD%E5%8B%87%E9%97%AF%E6%B3%95%E5%9B%BD&t=31&band_rank=23&Refer=top) 1239589
 1. [王楚钦飞机上签名球拍](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E9%A3%9E%E6%9C%BA%E4%B8%8A%E7%AD%BE%E5%90%8D%E7%90%83%E6%8B%8D%23&t=31&band_rank=21&Refer=top) 1136191
 1. [中国金牌数创境外奥运新纪录](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%87%91%E7%89%8C%E6%95%B0%E5%88%9B%E5%A2%83%E5%A4%96%E5%A5%A5%E8%BF%90%E6%96%B0%E7%BA%AA%E5%BD%95%23&t=31&band_rank=6&Refer=top) 1067113
+1. [孙颖莎去闭幕式好像春游一样](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E5%8E%BB%E9%97%AD%E5%B9%95%E5%BC%8F%E5%A5%BD%E5%83%8F%E6%98%A5%E6%B8%B8%E4%B8%80%E6%A0%B7%23&t=31&band_rank=6&Refer=top) 930358
 1. [法国要是赢了](https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD%E8%A6%81%E6%98%AF%E8%B5%A2%E4%BA%86&t=31&band_rank=7&Refer=top) 930242
 1. [黄子韬许愿和徐艺洋一生一世](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E8%AE%B8%E6%84%BF%E5%92%8C%E5%BE%90%E8%89%BA%E6%B4%8B%E4%B8%80%E7%94%9F%E4%B8%80%E4%B8%96%23&t=31&band_rank=8&Refer=top) 924595
 1. [张杰官宣世界巡演](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E5%AE%98%E5%AE%A3%E4%B8%96%E7%95%8C%E5%B7%A1%E6%BC%94%23&t=31&band_rank=9&Refer=top) 923710
@@ -26,7 +27,6 @@
 1. [女篮裁判](https://s.weibo.com/weibo?q=%E5%A5%B3%E7%AF%AE%E8%A3%81%E5%88%A4&t=31&band_rank=11&Refer=top) 923163
 1. [瑞幸向易烊千玺道歉](https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B8%E5%90%91%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E9%81%93%E6%AD%89%23&t=31&band_rank=35&Refer=top) 893512
 1. [莎莎说大头永远是最好的搭档和朋友](https://s.weibo.com/weibo?q=%23%E8%8E%8E%E8%8E%8E%E8%AF%B4%E5%A4%A7%E5%A4%B4%E6%B0%B8%E8%BF%9C%E6%98%AF%E6%9C%80%E5%A5%BD%E7%9A%84%E6%90%AD%E6%A1%A3%E5%92%8C%E6%9C%8B%E5%8F%8B%23&t=31&band_rank=12&Refer=top) 884372
-1. [孙颖莎去闭幕式好像春游一样](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E5%8E%BB%E9%97%AD%E5%B9%95%E5%BC%8F%E5%A5%BD%E5%83%8F%E6%98%A5%E6%B8%B8%E4%B8%80%E6%A0%B7%23&t=31&band_rank=6&Refer=top) 857306
 1. [法国女篮打疯了](https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD%E5%A5%B3%E7%AF%AE%E6%89%93%E7%96%AF%E4%BA%86&t=31&band_rank=13&Refer=top) 720983
 1. [在披哥看李佳琦直播](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E6%8A%AB%E5%93%A5%E7%9C%8B%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%9B%B4%E6%92%AD%23&t=31&band_rank=19&Refer=top) 589569
 1. [孙颖莎回应从开幕式打到闭幕式](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E5%9B%9E%E5%BA%94%E4%BB%8E%E5%BC%80%E5%B9%95%E5%BC%8F%E6%89%93%E5%88%B0%E9%97%AD%E5%B9%95%E5%BC%8F%23&t=31&band_rank=38&Refer=top) 575296
@@ -78,7 +78,7 @@
 1. [美国女篮 罚球](https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E5%A5%B3%E7%AF%AE%20%E7%BD%9A%E7%90%83&t=31&band_rank=44&Refer=top) 195518
 1. [法国女篮差点完成任务](https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E5%A5%B3%E7%AF%AE%E5%B7%AE%E7%82%B9%E5%AE%8C%E6%88%90%E4%BB%BB%E5%8A%A1%23&t=31&band_rank=45&Refer=top) 194984
 1. [你的巴黎奥运会总结](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%9A%84%E5%B7%B4%E9%BB%8E%E5%A5%A5%E8%BF%90%E4%BC%9A%E6%80%BB%E7%BB%93%23&t=31&band_rank=46&Refer=top) 189457
-1. [以后提起巴黎奥运会就会浮现的画面](https://s.weibo.com/weibo?q=%E4%BB%A5%E5%90%8E%E6%8F%90%E8%B5%B7%E5%B7%B4%E9%BB%8E%E5%A5%A5%E8%BF%90%E4%BC%9A%E5%B0%B1%E4%BC%9A%E6%B5%AE%E7%8E%B0%E7%9A%84%E7%94%BB%E9%9D%A2&t=31&band_rank=46&Refer=top) 165619
+1. [以后提起巴黎奥运会就会浮现的画面](https://s.weibo.com/weibo?q=%E4%BB%A5%E5%90%8E%E6%8F%90%E8%B5%B7%E5%B7%B4%E9%BB%8E%E5%A5%A5%E8%BF%90%E4%BC%9A%E5%B0%B1%E4%BC%9A%E6%B5%AE%E7%8E%B0%E7%9A%84%E7%94%BB%E9%9D%A2&t=31&band_rank=46&Refer=top) 187683
 1. [人生松弛感挑战](https://s.weibo.com/weibo?q=%E4%BA%BA%E7%94%9F%E6%9D%BE%E5%BC%9B%E6%84%9F%E6%8C%91%E6%88%98&t=31&band_rank=47&Refer=top) 134397
 1. [我为中国队骄傲](https://s.weibo.com/weibo?q=%23%E6%88%91%E4%B8%BA%E4%B8%AD%E5%9B%BD%E9%98%9F%E9%AA%84%E5%82%B2%23&t=31&band_rank=43&Refer=top) 133276
 1. [六千万网红被立案竟是乌龙](https://s.weibo.com/weibo?q=%23%E5%85%AD%E5%8D%83%E4%B8%87%E7%BD%91%E7%BA%A2%E8%A2%AB%E7%AB%8B%E6%A1%88%E7%AB%9F%E6%98%AF%E4%B9%8C%E9%BE%99%23&t=31&band_rank=50&Refer=top) 127346
@@ -88,7 +88,9 @@
 1. [华晨宇说日出演唱会是一生回忆](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E8%AF%B4%E6%97%A5%E5%87%BA%E6%BC%94%E5%94%B1%E4%BC%9A%E6%98%AF%E4%B8%80%E7%94%9F%E5%9B%9E%E5%BF%86%23&t=31&band_rank=47&Refer=top) 84990
 1. [樊振东说巴黎奥运有很多酸甜苦辣](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E8%AF%B4%E5%B7%B4%E9%BB%8E%E5%A5%A5%E8%BF%90%E6%9C%89%E5%BE%88%E5%A4%9A%E9%85%B8%E7%94%9C%E8%8B%A6%E8%BE%A3%23&t=31&band_rank=38&Refer=top) 69452
 1. [音乐缘计划](https://s.weibo.com/weibo?q=%E9%9F%B3%E4%B9%90%E7%BC%98%E8%AE%A1%E5%88%92&t=31&band_rank=49&Refer=top) 62011
+1. [中国代表团已抵达法兰西体育场](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%9B%A2%E5%B7%B2%E6%8A%B5%E8%BE%BE%E6%B3%95%E5%85%B0%E8%A5%BF%E4%BD%93%E8%82%B2%E5%9C%BA%23&t=31&band_rank=31&Refer=top) 61194
 1. [一人一句恭喜中国队](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%BA%BA%E4%B8%80%E5%8F%A5%E6%81%AD%E5%96%9C%E4%B8%AD%E5%9B%BD%E9%98%9F%23&t=31&band_rank=42&Refer=top) 59053
+1. [任运杰好帅](https://s.weibo.com/weibo?q=%E4%BB%BB%E8%BF%90%E6%9D%B0%E5%A5%BD%E5%B8%85&t=31&band_rank=50&Refer=top) 52674
 <!-- END -->
 
 历史归档 [./archives](./archives)
