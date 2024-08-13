@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-08-14 02:49:32.433401 
-![2024-08-14](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240814/2024-08-14.png?versionId=4_z8fbbed132d73df8689c40f13_f101f6e86e6341ed3_d20240813_m184932_c005_v0501023_t0007_u01723574972031) 
+最后更新时间 2024-08-14 03:11:13.177517 
+![2024-08-14](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240814/2024-08-14.png?versionId=4_z8fbbed132d73df8689c40f13_f103bd0985f60cb84_d20240813_m191113_c005_v0501016_t0009_u01723576273119) 
 1. [孙杨要求重新升一次国旗](https://s.weibo.com/weibo?q=%E5%AD%99%E6%9D%A8%E8%A6%81%E6%B1%82%E9%87%8D%E6%96%B0%E5%8D%87%E4%B8%80%E6%AC%A1%E5%9B%BD%E6%97%97&t=31&band_rank=1&Refer=top) 2119222
 1. [俄罗斯](https://s.weibo.com/weibo?q=%E4%BF%84%E7%BD%97%E6%96%AF&t=31&band_rank=5&Refer=top) 1544072
 1. [何以中国寻根辽宁](https://s.weibo.com/weibo?q=%23%E4%BD%95%E4%BB%A5%E4%B8%AD%E5%9B%BD%E5%AF%BB%E6%A0%B9%E8%BE%BD%E5%AE%81%23&t=31&band_rank=3&Refer=top) 1027071
@@ -73,9 +73,9 @@
 1. [井胧解除和索尼音乐合作](https://s.weibo.com/weibo?q=%23%E4%BA%95%E8%83%A7%E8%A7%A3%E9%99%A4%E5%92%8C%E7%B4%A2%E5%B0%BC%E9%9F%B3%E4%B9%90%E5%90%88%E4%BD%9C%23&t=31&band_rank=44&Refer=top) 103760
 1. [大人把2个娃塞后备箱还违章行驶](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E4%BA%BA%E6%8A%8A2%E4%B8%AA%E5%A8%83%E5%A1%9E%E5%90%8E%E5%A4%87%E7%AE%B1%E8%BF%98%E8%BF%9D%E7%AB%A0%E8%A1%8C%E9%A9%B6%23&t=31&band_rank=43&Refer=top) 95161
 1. [刘宇宁录节目越录越害怕](https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%E5%BD%95%E8%8A%82%E7%9B%AE%E8%B6%8A%E5%BD%95%E8%B6%8A%E5%AE%B3%E6%80%95&t=31&band_rank=47&Refer=top) 93823
-1. [浙江又来两所新大学](https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E5%8F%88%E6%9D%A5%E4%B8%A4%E6%89%80%E6%96%B0%E5%A4%A7%E5%AD%A6%23&t=31&band_rank=12&Refer=top) 91992
+1. [浙江又来两所新大学](https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E5%8F%88%E6%9D%A5%E4%B8%A4%E6%89%80%E6%96%B0%E5%A4%A7%E5%AD%A6%23&t=31&band_rank=12&Refer=top) 93498
 1. [名侦探柯南](https://s.weibo.com/weibo?q=%E5%90%8D%E4%BE%A6%E6%8E%A2%E6%9F%AF%E5%8D%97&t=31&band_rank=50&Refer=top) 73210
-1. [男子打球后喝了口冰饮料心肌梗死](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%89%93%E7%90%83%E5%90%8E%E5%96%9D%E4%BA%86%E5%8F%A3%E5%86%B0%E9%A5%AE%E6%96%99%E5%BF%83%E8%82%8C%E6%A2%97%E6%AD%BB%23&t=31&band_rank=50&Refer=top) 40808
+1. [男子打球后喝了口冰饮料心肌梗死](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%89%93%E7%90%83%E5%90%8E%E5%96%9D%E4%BA%86%E5%8F%A3%E5%86%B0%E9%A5%AE%E6%96%99%E5%BF%83%E8%82%8C%E6%A2%97%E6%AD%BB%23&t=31&band_rank=50&Refer=top) 43326
 <!-- END -->
 
 历史归档 [./archives](./archives)
