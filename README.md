@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-08-18 03:34:51.957752 
-![2024-08-18](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240818/2024-08-18.png?versionId=4_z8fbbed132d73df8689c40f13_f117cd346517f723b_d20240817_m193451_c005_v0501017_t0044_u01723923291522) 
+最后更新时间 2024-08-18 03:49:18.770420 
+![2024-08-18](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240818/2024-08-18.png?versionId=4_z8fbbed132d73df8689c40f13_f1067bfa082d38531_d20240817_m194918_c005_v0501012_t0058_u01723924158282) 
 1. [严浩翔麦没关](https://s.weibo.com/weibo?q=%E4%B8%A5%E6%B5%A9%E7%BF%94%E9%BA%A6%E6%B2%A1%E5%85%B3&t=31&band_rank=1&Refer=top) 2360671
 1. [特鲁索娃结婚](https://s.weibo.com/weibo?q=%23%E7%89%B9%E9%B2%81%E7%B4%A2%E5%A8%83%E7%BB%93%E5%A9%9A%23&t=31&band_rank=5&Refer=top) 1252308
 1. [雷军直播突发炸麦](https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E7%9B%B4%E6%92%AD%E7%AA%81%E5%8F%91%E7%82%B8%E9%BA%A6%23&t=31&band_rank=2&Refer=top) 1248570
