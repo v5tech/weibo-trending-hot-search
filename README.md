@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-08-19 03:35:17.561015 
-![2024-08-19](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240819/2024-08-19.png?versionId=4_z8fbbed132d73df8689c40f13_f10896258eb36f88f_d20240818_m193517_c005_v0501004_t0003_u01724009717445) 
+最后更新时间 2024-08-19 03:49:30.069033 
+![2024-08-19](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240819/2024-08-19.png?versionId=4_z8fbbed132d73df8689c40f13_f107b10e5aa0a728b_d20240818_m194929_c005_v0501022_t0025_u01724010569916) 
 1. [樊振东回应退役传闻](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%9B%9E%E5%BA%94%E9%80%80%E5%BD%B9%E4%BC%A0%E9%97%BB%23&t=31&band_rank=1&Refer=top) 6616924
 1. [陈芋汐回应去读大学](https://s.weibo.com/weibo?q=%23%E9%99%88%E8%8A%8B%E6%B1%90%E5%9B%9E%E5%BA%94%E5%8E%BB%E8%AF%BB%E5%A4%A7%E5%AD%A6%23&t=31&band_rank=4&Refer=top) 1214155
 1. [全红婵跳207C经常平摔进水里](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E8%B7%B3207C%E7%BB%8F%E5%B8%B8%E5%B9%B3%E6%91%94%E8%BF%9B%E6%B0%B4%E9%87%8C%23&t=31&band_rank=2&Refer=top) 1175096
