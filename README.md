@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-08-19 00:49:28.215589 
-![2024-08-19](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240819/2024-08-19.png?versionId=4_z8fbbed132d73df8689c40f13_f11066fc2a244ee7b_d20240818_m164928_c005_v0501023_t0007_u01723999768159) 
+最后更新时间 2024-08-19 01:10:25.294250 
+![2024-08-19](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240819/2024-08-19.png?versionId=4_z8fbbed132d73df8689c40f13_f119aaa5f699702bf_d20240818_m171025_c005_v0501021_t0009_u01724001025248) 
 1. [樊振东回应退役传闻](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%9B%9E%E5%BA%94%E9%80%80%E5%BD%B9%E4%BC%A0%E9%97%BB%23&t=31&band_rank=1&Refer=top) 6616924
 1. [陈芋汐回应去读大学](https://s.weibo.com/weibo?q=%23%E9%99%88%E8%8A%8B%E6%B1%90%E5%9B%9E%E5%BA%94%E5%8E%BB%E8%AF%BB%E5%A4%A7%E5%AD%A6%23&t=31&band_rank=4&Refer=top) 1214155
 1. [全红婵跳207C经常平摔进水里](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E8%B7%B3207C%E7%BB%8F%E5%B8%B8%E5%B9%B3%E6%91%94%E8%BF%9B%E6%B0%B4%E9%87%8C%23&t=31&band_rank=2&Refer=top) 1175096
@@ -64,8 +64,10 @@
 1. [情侣同居后更容易分手吗](https://s.weibo.com/weibo?q=%23%E6%83%85%E4%BE%A3%E5%90%8C%E5%B1%85%E5%90%8E%E6%9B%B4%E5%AE%B9%E6%98%93%E5%88%86%E6%89%8B%E5%90%97%23&t=31&band_rank=32&Refer=top) 120626
 1. [杨幂超话头像](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E8%B6%85%E8%AF%9D%E5%A4%B4%E5%83%8F&t=31&band_rank=47&Refer=top) 107609
 1. [你一般每天睡多长时间](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%B8%80%E8%88%AC%E6%AF%8F%E5%A4%A9%E7%9D%A1%E5%A4%9A%E9%95%BF%E6%97%B6%E9%97%B4%23&t=31&band_rank=48&Refer=top) 107600
+1. [半夜把讨厌的人全部设成了毕业删](https://s.weibo.com/weibo?q=%23%E5%8D%8A%E5%A4%9C%E6%8A%8A%E8%AE%A8%E5%8E%8C%E7%9A%84%E4%BA%BA%E5%85%A8%E9%83%A8%E8%AE%BE%E6%88%90%E4%BA%86%E6%AF%95%E4%B8%9A%E5%88%A0%23&t=31&band_rank=33&Refer=top) 88394
 1. [种地吧](https://s.weibo.com/weibo?q=%E7%A7%8D%E5%9C%B0%E5%90%A7&t=31&band_rank=47&Refer=top) 85718
-1. [张艺兴唱了晴天](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E5%94%B1%E4%BA%86%E6%99%B4%E5%A4%A9%23&t=31&band_rank=50&Refer=top) 82336
+1. [张艺兴唱了晴天](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E5%94%B1%E4%BA%86%E6%99%B4%E5%A4%A9%23&t=31&band_rank=50&Refer=top) 82506
+1. [战至巅峰勇闯天涯红黑榜](https://s.weibo.com/weibo?q=%E6%88%98%E8%87%B3%E5%B7%85%E5%B3%B0%E5%8B%87%E9%97%AF%E5%A4%A9%E6%B6%AF%E7%BA%A2%E9%BB%91%E6%A6%9C&t=31&band_rank=48&Refer=top) 69767
 <!-- END -->
 
 历史归档 [./archives](./archives)
