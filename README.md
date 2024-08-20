@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-08-21 03:10:14.195589 
-![2024-08-21](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240821/2024-08-21.png?versionId=4_z8fbbed132d73df8689c40f13_f119abd8835e14e24_d20240820_m191014_c005_v0501023_t0020_u01724181014021) 
+最后更新时间 2024-08-21 03:21:11.691171 
+![2024-08-21](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240821/2024-08-21.png?versionId=4_z8fbbed132d73df8689c40f13_f1159faaf44c31757_d20240820_m192111_c005_v0501023_t0016_u01724181671546) 
 1. [全红婵 他比黄子韬帅一点](https://s.weibo.com/weibo?q=%E5%85%A8%E7%BA%A2%E5%A9%B5%20%E4%BB%96%E6%AF%94%E9%BB%84%E5%AD%90%E9%9F%AC%E5%B8%85%E4%B8%80%E7%82%B9&t=31&band_rank=1&Refer=top) 2223879
 1. [游客呼吁山西一定要接住泼天的富贵](https://s.weibo.com/weibo?q=%23%E6%B8%B8%E5%AE%A2%E5%91%BC%E5%90%81%E5%B1%B1%E8%A5%BF%E4%B8%80%E5%AE%9A%E8%A6%81%E6%8E%A5%E4%BD%8F%E6%B3%BC%E5%A4%A9%E7%9A%84%E5%AF%8C%E8%B4%B5%23&t=31&band_rank=2&Refer=top) 963176
 1. [直击地球裂缝上的花江峡谷大桥](https://s.weibo.com/weibo?q=%23%E7%9B%B4%E5%87%BB%E5%9C%B0%E7%90%83%E8%A3%82%E7%BC%9D%E4%B8%8A%E7%9A%84%E8%8A%B1%E6%B1%9F%E5%B3%A1%E8%B0%B7%E5%A4%A7%E6%A1%A5%23&t=31&band_rank=3&Refer=top) 897219
@@ -72,11 +72,12 @@
 1. [入职2年高校教师吐槽评职称](https://s.weibo.com/weibo?q=%23%E5%85%A5%E8%81%8C2%E5%B9%B4%E9%AB%98%E6%A0%A1%E6%95%99%E5%B8%88%E5%90%90%E6%A7%BD%E8%AF%84%E8%81%8C%E7%A7%B0%23&t=31&band_rank=41&Refer=top) 121374
 1. [汪顺 巴黎奥运会end](https://s.weibo.com/weibo?q=%E6%B1%AA%E9%A1%BA%20%E5%B7%B4%E9%BB%8E%E5%A5%A5%E8%BF%90%E4%BC%9Aend&t=31&band_rank=49&Refer=top) 108847
 1. [领笑员](https://s.weibo.com/weibo?q=%E9%A2%86%E7%AC%91%E5%91%98&t=31&band_rank=46&Refer=top) 97071
+1. [第一视角夜探亚马孙雨林](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E8%A7%86%E8%A7%92%E5%A4%9C%E6%8E%A2%E4%BA%9A%E9%A9%AC%E5%AD%99%E9%9B%A8%E6%9E%97%23&t=31&band_rank=10&Refer=top) 90084
 1. [黑神话悟空带火西游记原著](https://s.weibo.com/weibo?q=%23%E9%BB%91%E7%A5%9E%E8%AF%9D%E6%82%9F%E7%A9%BA%E5%B8%A6%E7%81%AB%E8%A5%BF%E6%B8%B8%E8%AE%B0%E5%8E%9F%E8%91%97%23&t=31&band_rank=49&Refer=top) 80164
 1. [双鱼座好运蓄势待发](https://s.weibo.com/weibo?q=%23%E5%8F%8C%E9%B1%BC%E5%BA%A7%E5%A5%BD%E8%BF%90%E8%93%84%E5%8A%BF%E5%BE%85%E5%8F%91%23&t=31&band_rank=47&Refer=top) 77952
 1. [披荆斩棘](https://s.weibo.com/weibo?q=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98&t=31&band_rank=42&Refer=top) 50261
+1. [不怪衣服不好看只怪自己不会搭](https://s.weibo.com/weibo?q=%E4%B8%8D%E6%80%AA%E8%A1%A3%E6%9C%8D%E4%B8%8D%E5%A5%BD%E7%9C%8B%E5%8F%AA%E6%80%AA%E8%87%AA%E5%B7%B1%E4%B8%8D%E4%BC%9A%E6%90%AD&t=31&band_rank=50&Refer=top) 48713
 1. [时代少年团超话](https://s.weibo.com/weibo?q=%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E8%B6%85%E8%AF%9D&t=31&band_rank=50&Refer=top) 48269
-1. [不怪衣服不好看只怪自己不会搭](https://s.weibo.com/weibo?q=%E4%B8%8D%E6%80%AA%E8%A1%A3%E6%9C%8D%E4%B8%8D%E5%A5%BD%E7%9C%8B%E5%8F%AA%E6%80%AA%E8%87%AA%E5%B7%B1%E4%B8%8D%E4%BC%9A%E6%90%AD&t=31&band_rank=50&Refer=top) 46329
 <!-- END -->
 
 历史归档 [./archives](./archives)
