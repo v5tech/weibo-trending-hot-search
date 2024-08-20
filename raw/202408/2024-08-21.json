@@ -59,6 +59,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E8%8B%8D%E5%85%B0%E8%AF%80%E6%9C%AA%E5%85%AC%E5%BC%80%E5%90%88%E7%85%A7%23&t=31&band_rank=14&Refer=top",
     "hot": 551863
   },
+  "黑神话悟空结局": {
+    "url": "https://s.weibo.com/weibo?q=%E9%BB%91%E7%A5%9E%E8%AF%9D%E6%82%9F%E7%A9%BA%E7%BB%93%E5%B1%80&t=31&band_rank=23&Refer=top",
+    "hot": 492578
+  },
   "黑神话悟空中很多翻译直接用了拼音": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%BB%91%E7%A5%9E%E8%AF%9D%E6%82%9F%E7%A9%BA%E4%B8%AD%E5%BE%88%E5%A4%9A%E7%BF%BB%E8%AF%91%E7%9B%B4%E6%8E%A5%E7%94%A8%E4%BA%86%E6%8B%BC%E9%9F%B3%23&t=31&band_rank=18&Refer=top",
     "hot": 488021
@@ -98,10 +102,6 @@
   "张雨霏戴一串奖牌水灵灵地出现了": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%A8%E9%9C%8F%E6%88%B4%E4%B8%80%E4%B8%B2%E5%A5%96%E7%89%8C%E6%B0%B4%E7%81%B5%E7%81%B5%E5%9C%B0%E5%87%BA%E7%8E%B0%E4%BA%86%23&t=31&band_rank=44&Refer=top",
     "hot": 345884
-  },
-  "黑神话悟空结局": {
-    "url": "https://s.weibo.com/weibo?q=%E9%BB%91%E7%A5%9E%E8%AF%9D%E6%82%9F%E7%A9%BA%E7%BB%93%E5%B1%80&t=31&band_rank=23&Refer=top",
-    "hot": 326936
   },
   "孙颖莎好像和衣服鞋子不太熟": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E5%A5%BD%E5%83%8F%E5%92%8C%E8%A1%A3%E6%9C%8D%E9%9E%8B%E5%AD%90%E4%B8%8D%E5%A4%AA%E7%86%9F%23&t=31&band_rank=24&Refer=top",
@@ -233,6 +233,10 @@
   },
   "领笑员": {
     "url": "https://s.weibo.com/weibo?q=%E9%A2%86%E7%AC%91%E5%91%98&t=31&band_rank=46&Refer=top",
-    "hot": 84537
+    "hot": 85162
+  },
+  "黑神话悟空带火西游记原著": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%BB%91%E7%A5%9E%E8%AF%9D%E6%82%9F%E7%A9%BA%E5%B8%A6%E7%81%AB%E8%A5%BF%E6%B8%B8%E8%AE%B0%E5%8E%9F%E8%91%97%23&t=31&band_rank=49&Refer=top",
+    "hot": 80164
   }
 }
