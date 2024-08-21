@@ -71,6 +71,10 @@
     "url": "https://s.weibo.com/weibo?q=%E5%8D%81%E5%B9%B4%E8%BF%87%E5%8E%BB%E4%BA%86TFBOYS%E5%92%8CEXO%E8%BF%98%E6%98%AF%E7%A2%B0%E4%B8%8A%E4%BA%86&t=31&band_rank=18&Refer=top",
     "hot": 274820
   },
+  "印度法院裁决汉堡王是一个印度品牌": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E6%B3%95%E9%99%A2%E8%A3%81%E5%86%B3%E6%B1%89%E5%A0%A1%E7%8E%8B%E6%98%AF%E4%B8%80%E4%B8%AA%E5%8D%B0%E5%BA%A6%E5%93%81%E7%89%8C%23&t=31&band_rank=24&Refer=top",
+    "hot": 262494
+  },
   "你能接受连上22天连休8天吗": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%83%BD%E6%8E%A5%E5%8F%97%E8%BF%9E%E4%B8%8A22%E5%A4%A9%E8%BF%9E%E4%BC%918%E5%A4%A9%E5%90%97%23&t=31&band_rank=19&Refer=top",
     "hot": 228505
@@ -102,10 +106,6 @@
   "严浩翔 小惊喜": {
     "url": "https://s.weibo.com/weibo?q=%E4%B8%A5%E6%B5%A9%E7%BF%94%20%E5%B0%8F%E6%83%8A%E5%96%9C&t=31&band_rank=26&Refer=top",
     "hot": 194661
-  },
-  "印度法院裁决汉堡王是一个印度品牌": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E6%B3%95%E9%99%A2%E8%A3%81%E5%86%B3%E6%B1%89%E5%A0%A1%E7%8E%8B%E6%98%AF%E4%B8%80%E4%B8%AA%E5%8D%B0%E5%BA%A6%E5%93%81%E7%89%8C%23&t=31&band_rank=24&Refer=top",
-    "hot": 193892
   },
   "颜怡颜悦 一来就杀": {
     "url": "https://s.weibo.com/weibo?q=%E9%A2%9C%E6%80%A1%E9%A2%9C%E6%82%A6%20%E4%B8%80%E6%9D%A5%E5%B0%B1%E6%9D%80&t=31&band_rank=27&Refer=top",
@@ -163,6 +163,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E7%94%A8%E6%88%B7%E5%80%9F%E9%BB%91%E7%A5%9E%E8%AF%9D%E6%82%9F%E7%A9%BA%E5%8F%91%E5%B8%83%E6%80%A7%E5%88%AB%E5%AF%B9%E7%AB%8B%E8%A2%AB%E5%A4%84%E7%BD%AE%23&t=31&band_rank=40&Refer=top",
     "hot": 135491
   },
+  "这个月处女座是幸运儿": {
+    "url": "https://s.weibo.com/weibo?q=%E8%BF%99%E4%B8%AA%E6%9C%88%E5%A4%84%E5%A5%B3%E5%BA%A7%E6%98%AF%E5%B9%B8%E8%BF%90%E5%84%BF&t=31&band_rank=46&Refer=top",
+    "hot": 130732
+  },
   "出圈的是悟空出海的是中国文化": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%87%BA%E5%9C%88%E7%9A%84%E6%98%AF%E6%82%9F%E7%A9%BA%E5%87%BA%E6%B5%B7%E7%9A%84%E6%98%AF%E4%B8%AD%E5%9B%BD%E6%96%87%E5%8C%96%23&t=31&band_rank=46&Refer=top",
     "hot": 129506
@@ -178,10 +182,6 @@
   "樊振东马龙陈梦退出澳门赛": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E9%A9%AC%E9%BE%99%E9%99%88%E6%A2%A6%E9%80%80%E5%87%BA%E6%BE%B3%E9%97%A8%E8%B5%9B%23&t=31&band_rank=43&Refer=top",
     "hot": 126071
-  },
-  "这个月处女座是幸运儿": {
-    "url": "https://s.weibo.com/weibo?q=%E8%BF%99%E4%B8%AA%E6%9C%88%E5%A4%84%E5%A5%B3%E5%BA%A7%E6%98%AF%E5%B9%B8%E8%BF%90%E5%84%BF&t=31&band_rank=46&Refer=top",
-    "hot": 121502
   },
   "杨紫 花仙子": {
     "url": "https://s.weibo.com/weibo?q=%E6%9D%A8%E7%B4%AB%20%E8%8A%B1%E4%BB%99%E5%AD%90&t=31&band_rank=44&Refer=top",
@@ -210,5 +210,9 @@
   "BLG对战TES": {
     "url": "https://s.weibo.com/weibo?q=BLG%E5%AF%B9%E6%88%98TES&t=31&band_rank=49&Refer=top",
     "hot": 99820
+  },
+  "狼队零封KSG": {
+    "url": "https://s.weibo.com/weibo?q=%E7%8B%BC%E9%98%9F%E9%9B%B6%E5%B0%81KSG&t=31&band_rank=50&Refer=top",
+    "hot": 83182
   }
 }
