@@ -1,9 +1,9 @@
 name: weibo-trending-hot-search
 
 on:
-  workflow_dispatch: # 手动触发
+  workflow_dispatch:
   schedule:
-    - cron: "*/15 * * * *"
+    - cron: "0 * * * *"
 
 jobs:
   build:
