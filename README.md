@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-08-25 02:22:00.754553 
-![2024-08-25](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240825/2024-08-25.png?versionId=4_z8fbbed132d73df8689c40f13_f1001bacc0e3fbbc0_d20240824_m182200_c005_v0501020_t0014_u01724523720606) 
+最后更新时间 2024-08-25 03:12:58.502139 
+![2024-08-25](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240825/2024-08-25.png?versionId=4_z8fbbed132d73df8689c40f13_f115489912f60b71f_d20240824_m191258_c005_v0501007_t0030_u01724526778262) 
 1. [樊振东退赛](https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E9%80%80%E8%B5%9B&t=31&band_rank=1&Refer=top) 2226357
 1. [孙颖莎去了邓紫棋演唱会](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E5%8E%BB%E4%BA%86%E9%82%93%E7%B4%AB%E6%A3%8B%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=2&Refer=top) 1054629
 1. [渤海油气开发新突破](https://s.weibo.com/weibo?q=%23%E6%B8%A4%E6%B5%B7%E6%B2%B9%E6%B0%94%E5%BC%80%E5%8F%91%E6%96%B0%E7%AA%81%E7%A0%B4%23&t=31&band_rank=3&Refer=top) 841091
@@ -66,10 +66,14 @@
 1. [印度女医生案监控画面曝光](https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%A5%B3%E5%8C%BB%E7%94%9F%E6%A1%88%E7%9B%91%E6%8E%A7%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89%23&t=31&band_rank=30&Refer=top) 126021
 1. [小孩姐上个山捡了几条命](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A9%E5%A7%90%E4%B8%8A%E4%B8%AA%E5%B1%B1%E6%8D%A1%E4%BA%86%E5%87%A0%E6%9D%A1%E5%91%BD%23&t=31&band_rank=36&Refer=top) 106209
 1. [乐华 业务能力](https://s.weibo.com/weibo?q=%E4%B9%90%E5%8D%8E%20%E4%B8%9A%E5%8A%A1%E8%83%BD%E5%8A%9B&t=31&band_rank=40&Refer=top) 97661
+1. [为何这些丑东西成了年轻人的心头好](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BD%95%E8%BF%99%E4%BA%9B%E4%B8%91%E4%B8%9C%E8%A5%BF%E6%88%90%E4%BA%86%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E5%BF%83%E5%A4%B4%E5%A5%BD%23&t=31&band_rank=10&Refer=top) 93327
 1. [杨紫镜头内外的日常](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E9%95%9C%E5%A4%B4%E5%86%85%E5%A4%96%E7%9A%84%E6%97%A5%E5%B8%B8%23&t=31&band_rank=47&Refer=top) 87138
 1. [出伏后秋老虎和瞌睡虫都要来了](https://s.weibo.com/weibo?q=%23%E5%87%BA%E4%BC%8F%E5%90%8E%E7%A7%8B%E8%80%81%E8%99%8E%E5%92%8C%E7%9E%8C%E7%9D%A1%E8%99%AB%E9%83%BD%E8%A6%81%E6%9D%A5%E4%BA%86%23&t=31&band_rank=50&Refer=top) 83156
 1. [孙杨400自报名成绩仍属国内顶尖](https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%9D%A8400%E8%87%AA%E6%8A%A5%E5%90%8D%E6%88%90%E7%BB%A9%E4%BB%8D%E5%B1%9E%E5%9B%BD%E5%86%85%E9%A1%B6%E5%B0%96%23&t=31&band_rank=38&Refer=top) 56339
+1. [2中学生网上利用卡牌盲盒设局诈骗](https://s.weibo.com/weibo?q=%232%E4%B8%AD%E5%AD%A6%E7%94%9F%E7%BD%91%E4%B8%8A%E5%88%A9%E7%94%A8%E5%8D%A1%E7%89%8C%E7%9B%B2%E7%9B%92%E8%AE%BE%E5%B1%80%E8%AF%88%E9%AA%97%23&t=31&band_rank=20&Refer=top) 53626
 1. [TF三代登陆时刻演唱会](https://s.weibo.com/weibo?q=%23TF%E4%B8%89%E4%BB%A3%E7%99%BB%E9%99%86%E6%97%B6%E5%88%BB%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=46&Refer=top) 52567
+1. [刘雨昕让粉丝保证安全](https://s.weibo.com/weibo?q=%23%E5%88%98%E9%9B%A8%E6%98%95%E8%AE%A9%E7%B2%89%E4%B8%9D%E4%BF%9D%E8%AF%81%E5%AE%89%E5%85%A8%23&t=31&band_rank=39&Refer=top) 37351
+1. [WBG获胜](https://s.weibo.com/weibo?q=WBG%E8%8E%B7%E8%83%9C&t=31&band_rank=41&Refer=top) 34901
 <!-- END -->
 
 历史归档 [./archives](./archives)
