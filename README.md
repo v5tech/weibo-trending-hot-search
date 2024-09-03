@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-09-04 04:19:20.614093 
-![2024-09-04](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240904/2024-09-04.png?versionId=4_z8fbbed132d73df8689c40f13_f119fe0f7dc844fc5_d20240903_m201920_c005_v0501024_t0034_u01725394760546) 
+最后更新时间 2024-09-04 05:17:04.566435 
+![2024-09-04](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240904/2024-09-04.png?versionId=4_z8fbbed132d73df8689c40f13_f114f3c197dff816e_d20240903_m211704_c005_v0501004_t0057_u01725398224055) 
 1. [男孩玩火烧伤后竟被老人驱赶](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E7%8E%A9%E7%81%AB%E7%83%A7%E4%BC%A4%E5%90%8E%E7%AB%9F%E8%A2%AB%E8%80%81%E4%BA%BA%E9%A9%B1%E8%B5%B6%23&t=31&band_rank=1&Refer=top) 964957
 1. [颜怡颜悦 七个矮子放现在叫男团](https://s.weibo.com/weibo?q=%E9%A2%9C%E6%80%A1%E9%A2%9C%E6%82%A6%20%E4%B8%83%E4%B8%AA%E7%9F%AE%E5%AD%90%E6%94%BE%E7%8E%B0%E5%9C%A8%E5%8F%AB%E7%94%B7%E5%9B%A2&t=31&band_rank=2&Refer=top) 755778
 1. [90秒科普中非合作成果](https://s.weibo.com/weibo?q=%2390%E7%A7%92%E7%A7%91%E6%99%AE%E4%B8%AD%E9%9D%9E%E5%90%88%E4%BD%9C%E6%88%90%E6%9E%9C%23&t=31&band_rank=3&Refer=top) 697985
@@ -65,21 +65,23 @@
 1. [王源你的罗伯特来了](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%BA%90%E4%BD%A0%E7%9A%84%E7%BD%97%E4%BC%AF%E7%89%B9%E6%9D%A5%E4%BA%86&t=31&band_rank=37&Refer=top) 64822
 1. [开学姑姑成为班主任男孩开启表情包](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%AD%A6%E5%A7%91%E5%A7%91%E6%88%90%E4%B8%BA%E7%8F%AD%E4%B8%BB%E4%BB%BB%E7%94%B7%E5%AD%A9%E5%BC%80%E5%90%AF%E8%A1%A8%E6%83%85%E5%8C%85%23&t=31&band_rank=10&Refer=top) 54998
 1. [韩国翻拍那些年](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%BF%BB%E6%8B%8D%E9%82%A3%E4%BA%9B%E5%B9%B4%23&t=31&band_rank=19&Refer=top) 50534
-1. [被打只能屈辱承受吗](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%89%93%E5%8F%AA%E8%83%BD%E5%B1%88%E8%BE%B1%E6%89%BF%E5%8F%97%E5%90%97%23&t=31&band_rank=33&Refer=top) 41918
+1. [被打只能屈辱承受吗](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%89%93%E5%8F%AA%E8%83%BD%E5%B1%88%E8%BE%B1%E6%89%BF%E5%8F%97%E5%90%97%23&t=31&band_rank=33&Refer=top) 44994
 1. [沈腾一个游戏得罪马丽范丞丞贾玲](https://s.weibo.com/weibo?q=%E6%B2%88%E8%85%BE%E4%B8%80%E4%B8%AA%E6%B8%B8%E6%88%8F%E5%BE%97%E7%BD%AA%E9%A9%AC%E4%B8%BD%E8%8C%83%E4%B8%9E%E4%B8%9E%E8%B4%BE%E7%8E%B2&t=31&band_rank=31&Refer=top) 40170
+1. [68岁教授说现在的年轻人比以前难多了](https://s.weibo.com/weibo?q=%2368%E5%B2%81%E6%95%99%E6%8E%88%E8%AF%B4%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%AF%94%E4%BB%A5%E5%89%8D%E9%9A%BE%E5%A4%9A%E4%BA%86%23&t=31&band_rank=19&Refer=top) 40106
 1. [杨倩欢迎大家选修清华射击课](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%80%A9%E6%AC%A2%E8%BF%8E%E5%A4%A7%E5%AE%B6%E9%80%89%E4%BF%AE%E6%B8%85%E5%8D%8E%E5%B0%84%E5%87%BB%E8%AF%BE%23&t=31&band_rank=33&Refer=top) 38905
 1. [东北人不把腿支出来就不会站着](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E4%BA%BA%E4%B8%8D%E6%8A%8A%E8%85%BF%E6%94%AF%E5%87%BA%E6%9D%A5%E5%B0%B1%E4%B8%8D%E4%BC%9A%E7%AB%99%E7%9D%80%23&t=31&band_rank=41&Refer=top) 32132
 1. [野孩子片长127分钟](https://s.weibo.com/weibo?q=%E9%87%8E%E5%AD%A9%E5%AD%90%E7%89%87%E9%95%BF127%E5%88%86%E9%92%9F&t=31&band_rank=44&Refer=top) 32121
 1. [罗云熙给LPL加油](https://s.weibo.com/weibo?q=%23%E7%BD%97%E4%BA%91%E7%86%99%E7%BB%99LPL%E5%8A%A0%E6%B2%B9%23&t=31&band_rank=46&Refer=top) 32118
 1. [徐明浩看恋综看红温了](https://s.weibo.com/weibo?q=%23%E5%BE%90%E6%98%8E%E6%B5%A9%E7%9C%8B%E6%81%8B%E7%BB%BC%E7%9C%8B%E7%BA%A2%E6%B8%A9%E4%BA%86%23&t=31&band_rank=48&Refer=top) 32108
-1. [68岁教授说现在的年轻人比以前难多了](https://s.weibo.com/weibo?q=%2368%E5%B2%81%E6%95%99%E6%8E%88%E8%AF%B4%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%AF%94%E4%BB%A5%E5%89%8D%E9%9A%BE%E5%A4%9A%E4%BA%86%23&t=31&band_rank=19&Refer=top) 25756
+1. [警方回应男生因室友电瓶爆燃烧伤](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E7%94%B7%E7%94%9F%E5%9B%A0%E5%AE%A4%E5%8F%8B%E7%94%B5%E7%93%B6%E7%88%86%E7%87%83%E7%83%A7%E4%BC%A4%23&t=31&band_rank=20&Refer=top) 25716
+1. [让孩子课间走出教室跑跑跳跳](https://s.weibo.com/weibo?q=%23%E8%AE%A9%E5%AD%A9%E5%AD%90%E8%AF%BE%E9%97%B4%E8%B5%B0%E5%87%BA%E6%95%99%E5%AE%A4%E8%B7%91%E8%B7%91%E8%B7%B3%E8%B7%B3%23&t=31&band_rank=26&Refer=top) 25347
 1. [崩溃的妈无奈的爸失控的娃](https://s.weibo.com/weibo?q=%E5%B4%A9%E6%BA%83%E7%9A%84%E5%A6%88%E6%97%A0%E5%A5%88%E7%9A%84%E7%88%B8%E5%A4%B1%E6%8E%A7%E7%9A%84%E5%A8%83&t=31&band_rank=47&Refer=top) 25131
 1. [买校服牛奶才办入学涉事学校被整改](https://s.weibo.com/weibo?q=%23%E4%B9%B0%E6%A0%A1%E6%9C%8D%E7%89%9B%E5%A5%B6%E6%89%8D%E5%8A%9E%E5%85%A5%E5%AD%A6%E6%B6%89%E4%BA%8B%E5%AD%A6%E6%A0%A1%E8%A2%AB%E6%95%B4%E6%94%B9%23&t=31&band_rank=28&Refer=top) 24730
+1. [钟楚曦韩东君 野性的张力](https://s.weibo.com/weibo?q=%E9%92%9F%E6%A5%9A%E6%9B%A6%E9%9F%A9%E4%B8%9C%E5%90%9B%20%E9%87%8E%E6%80%A7%E7%9A%84%E5%BC%A0%E5%8A%9B&t=31&band_rank=43&Refer=top) 24313
 1. [迪丽热巴五年前后对比](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E4%BA%94%E5%B9%B4%E5%89%8D%E5%90%8E%E5%AF%B9%E6%AF%94%23&t=31&band_rank=35&Refer=top) 20319
-1. [钟楚曦韩东君 野性的张力](https://s.weibo.com/weibo?q=%E9%92%9F%E6%A5%9A%E6%9B%A6%E9%9F%A9%E4%B8%9C%E5%90%9B%20%E9%87%8E%E6%80%A7%E7%9A%84%E5%BC%A0%E5%8A%9B&t=31&band_rank=43&Refer=top) 17243
-1. [藏海花系统点播梗](https://s.weibo.com/weibo?q=%23%E8%97%8F%E6%B5%B7%E8%8A%B1%E7%B3%BB%E7%BB%9F%E7%82%B9%E6%92%AD%E6%A2%97%23&t=31&band_rank=44&Refer=top) 16919
-1. [别人卡bug他是卡爸爸](https://s.weibo.com/weibo?q=%23%E5%88%AB%E4%BA%BA%E5%8D%A1bug%E4%BB%96%E6%98%AF%E5%8D%A1%E7%88%B8%E7%88%B8%23&t=31&band_rank=47&Refer=top) 16918
-1. [新疆重庆实力演绎冰火两重天](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E9%87%8D%E5%BA%86%E5%AE%9E%E5%8A%9B%E6%BC%94%E7%BB%8E%E5%86%B0%E7%81%AB%E4%B8%A4%E9%87%8D%E5%A4%A9%23&t=31&band_rank=50&Refer=top) 16915
+1. [藏海花系统点播梗](https://s.weibo.com/weibo?q=%23%E8%97%8F%E6%B5%B7%E8%8A%B1%E7%B3%BB%E7%BB%9F%E7%82%B9%E6%92%AD%E6%A2%97%23&t=31&band_rank=44&Refer=top) 18207
+1. [别人卡bug他是卡爸爸](https://s.weibo.com/weibo?q=%23%E5%88%AB%E4%BA%BA%E5%8D%A1bug%E4%BB%96%E6%98%AF%E5%8D%A1%E7%88%B8%E7%88%B8%23&t=31&band_rank=47&Refer=top) 18096
+1. [新疆重庆实力演绎冰火两重天](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E9%87%8D%E5%BA%86%E5%AE%9E%E5%8A%9B%E6%BC%94%E7%BB%8E%E5%86%B0%E7%81%AB%E4%B8%A4%E9%87%8D%E5%A4%A9%23&t=31&band_rank=50&Refer=top) 17593
 <!-- END -->
 
 历史归档 [./archives](./archives)
