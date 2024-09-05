@@ -235,6 +235,10 @@
     "url": "https://s.weibo.com/weibo?q=%E9%BE%99%E5%82%B2%E5%A4%A9%E4%BD%A0%E7%9C%9F%E6%98%AF%E5%87%BA%E6%81%AF%E4%BA%86&t=31&band_rank=30&Refer=top",
     "hot": 59332
   },
+  "高温持续你觉得应继续延迟返校吗": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%B8%A9%E6%8C%81%E7%BB%AD%E4%BD%A0%E8%A7%89%E5%BE%97%E5%BA%94%E7%BB%A7%E7%BB%AD%E5%BB%B6%E8%BF%9F%E8%BF%94%E6%A0%A1%E5%90%97%23&t=31&band_rank=10&Refer=top",
+    "hot": 51095
+  },
   "重庆各区县正在研判开学工作事宜": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E5%90%84%E5%8C%BA%E5%8E%BF%E6%AD%A3%E5%9C%A8%E7%A0%94%E5%88%A4%E5%BC%80%E5%AD%A6%E5%B7%A5%E4%BD%9C%E4%BA%8B%E5%AE%9C%23&t=31&band_rank=41&Refer=top",
     "hot": 38033
@@ -246,5 +250,9 @@
   "为什么暑期档没人能扛剧了": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9A%91%E6%9C%9F%E6%A1%A3%E6%B2%A1%E4%BA%BA%E8%83%BD%E6%89%9B%E5%89%A7%E4%BA%86%23&t=31&band_rank=50&Refer=top",
     "hot": 36692
+  },
+  "三只羊主播怼辛巴称其满嘴脏话": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%8F%AA%E7%BE%8A%E4%B8%BB%E6%92%AD%E6%80%BC%E8%BE%9B%E5%B7%B4%E7%A7%B0%E5%85%B6%E6%BB%A1%E5%98%B4%E8%84%8F%E8%AF%9D%23&t=31&band_rank=49&Refer=top",
+    "hot": 25752
   }
 }
