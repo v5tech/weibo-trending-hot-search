@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-09-14 04:19:39.953525 
-![2024-09-14](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240914/2024-09-14.png?versionId=4_z8fbbed132d73df8689c40f13_f1018975434b98992_d20240913_m201939_c005_v0501022_t0045_u01726258779796) 
+最后更新时间 2024-09-14 05:17:51.639828 
+![2024-09-14](https://imgs-storage.s3.us-east-005.backblazeb2.com/20240914/2024-09-14.png?versionId=4_z8fbbed132d73df8689c40f13_f1132253b3e7cf545_d20240913_m211751_c005_v0501019_t0034_u01726262271586) 
 1. [乘务员手臂有纹身官方将追责](https://s.weibo.com/weibo?q=%23%E4%B9%98%E5%8A%A1%E5%91%98%E6%89%8B%E8%87%82%E6%9C%89%E7%BA%B9%E8%BA%AB%E5%AE%98%E6%96%B9%E5%B0%86%E8%BF%BD%E8%B4%A3%23&t=31&band_rank=1&Refer=top) 1000591
 1. [中学被指不订奶要提供过敏证明](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%AD%A6%E8%A2%AB%E6%8C%87%E4%B8%8D%E8%AE%A2%E5%A5%B6%E8%A6%81%E6%8F%90%E4%BE%9B%E8%BF%87%E6%95%8F%E8%AF%81%E6%98%8E%23&t=31&band_rank=2&Refer=top) 720046
 1. [淬火强军新征程](https://s.weibo.com/weibo?q=%23%E6%B7%AC%E7%81%AB%E5%BC%BA%E5%86%9B%E6%96%B0%E5%BE%81%E7%A8%8B%23&t=31&band_rank=3&Refer=top) 717035
@@ -40,6 +40,7 @@
 1. [警方回应农妇劳作时遭无故砍杀](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E5%86%9C%E5%A6%87%E5%8A%B3%E4%BD%9C%E6%97%B6%E9%81%AD%E6%97%A0%E6%95%85%E7%A0%8D%E6%9D%80%23&t=31&band_rank=28&Refer=top) 175414
 1. [第一次见这么多明星宣传的电影](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E8%BF%99%E4%B9%88%E5%A4%9A%E6%98%8E%E6%98%9F%E5%AE%A3%E4%BC%A0%E7%9A%84%E7%94%B5%E5%BD%B1%23&t=31&band_rank=13&Refer=top) 172336
 1. [陆虎发了婚礼照](https://s.weibo.com/weibo?q=%23%E9%99%86%E8%99%8E%E5%8F%91%E4%BA%86%E5%A9%9A%E7%A4%BC%E7%85%A7%23&t=31&band_rank=29&Refer=top) 166684
+1. [云南宁洱3.4级地震](https://s.weibo.com/weibo?q=%23%E4%BA%91%E5%8D%97%E5%AE%81%E6%B4%B13.4%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=1&Refer=top) 157209
 1. [小姐姐的伞厨师哥的勺正义的剑](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%A7%90%E5%A7%90%E7%9A%84%E4%BC%9E%E5%8E%A8%E5%B8%88%E5%93%A5%E7%9A%84%E5%8B%BA%E6%AD%A3%E4%B9%89%E7%9A%84%E5%89%91%23&t=31&band_rank=10&Refer=top) 153442
 1. [游客给差评商家带人上门威胁](https://s.weibo.com/weibo?q=%23%E6%B8%B8%E5%AE%A2%E7%BB%99%E5%B7%AE%E8%AF%84%E5%95%86%E5%AE%B6%E5%B8%A6%E4%BA%BA%E4%B8%8A%E9%97%A8%E5%A8%81%E8%83%81%23&t=31&band_rank=30&Refer=top) 147003
 1. [陈楚生 证婚人](https://s.weibo.com/weibo?q=%E9%99%88%E6%A5%9A%E7%94%9F%20%E8%AF%81%E5%A9%9A%E4%BA%BA&t=31&band_rank=31&Refer=top) 141613
@@ -71,14 +72,17 @@
 1. [明天周六也要上班](https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%A4%A9%E5%91%A8%E5%85%AD%E4%B9%9F%E8%A6%81%E4%B8%8A%E7%8F%AD%23&t=31&band_rank=10&Refer=top) 53119
 1. [母亲去世男孩放学回家哭着喊妈妈](https://s.weibo.com/weibo?q=%23%E6%AF%8D%E4%BA%B2%E5%8E%BB%E4%B8%96%E7%94%B7%E5%AD%A9%E6%94%BE%E5%AD%A6%E5%9B%9E%E5%AE%B6%E5%93%AD%E7%9D%80%E5%96%8A%E5%A6%88%E5%A6%88%23&t=31&band_rank=23&Refer=top) 50508
 1. [红到发紫的花牛苹果](https://s.weibo.com/weibo?q=%23%E7%BA%A2%E5%88%B0%E5%8F%91%E7%B4%AB%E7%9A%84%E8%8A%B1%E7%89%9B%E8%8B%B9%E6%9E%9C%23&t=31&band_rank=47&Refer=top) 47616
+1. [男孩被拐16年民警从未放弃寻找](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E8%A2%AB%E6%8B%9016%E5%B9%B4%E6%B0%91%E8%AD%A6%E4%BB%8E%E6%9C%AA%E6%94%BE%E5%BC%83%E5%AF%BB%E6%89%BE%23&t=31&band_rank=10&Refer=top) 44840
 1. [中秋将有超级月亮](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%A7%8B%E5%B0%86%E6%9C%89%E8%B6%85%E7%BA%A7%E6%9C%88%E4%BA%AE%23&t=31&band_rank=10&Refer=top) 40162
 1. [30斤水桶砸下蚊帐救了一家三口](https://s.weibo.com/weibo?q=%2330%E6%96%A4%E6%B0%B4%E6%A1%B6%E7%A0%B8%E4%B8%8B%E8%9A%8A%E5%B8%90%E6%95%91%E4%BA%86%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%23&t=31&band_rank=35&Refer=top) 33960
 1. [周杰伦演唱会被吐槽音响声音小](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E5%90%90%E6%A7%BD%E9%9F%B3%E5%93%8D%E5%A3%B0%E9%9F%B3%E5%B0%8F%23&t=31&band_rank=49&Refer=top) 30369
 1. [徐子未唱阿楚姑娘](https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%AD%90%E6%9C%AA%E5%94%B1%E9%98%BF%E6%A5%9A%E5%A7%91%E5%A8%98%23&t=31&band_rank=46&Refer=top) 29739
 1. [陆虎跑着去牵陈曌旭的手](https://s.weibo.com/weibo?q=%23%E9%99%86%E8%99%8E%E8%B7%91%E7%9D%80%E5%8E%BB%E7%89%B5%E9%99%88%E6%9B%8C%E6%97%AD%E7%9A%84%E6%89%8B%23&t=31&band_rank=25&Refer=top) 27504
 1. [ti13](https://s.weibo.com/weibo?q=ti13&t=31&band_rank=45&Refer=top) 22087
+1. [111名缅北电诈嫌犯被移交我方](https://s.weibo.com/weibo?q=%23111%E5%90%8D%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E5%AB%8C%E7%8A%AF%E8%A2%AB%E7%A7%BB%E4%BA%A4%E6%88%91%E6%96%B9%23&t=31&band_rank=37&Refer=top) 21057
+1. [文昌鸡被台风吹走椰子鸡供不上了](https://s.weibo.com/weibo?q=%23%E6%96%87%E6%98%8C%E9%B8%A1%E8%A2%AB%E5%8F%B0%E9%A3%8E%E5%90%B9%E8%B5%B0%E6%A4%B0%E5%AD%90%E9%B8%A1%E4%BE%9B%E4%B8%8D%E4%B8%8A%E4%BA%86%23&t=31&band_rank=48&Refer=top) 20042
+1. [96岁田华回忆往事落泪](https://s.weibo.com/weibo?q=%2396%E5%B2%81%E7%94%B0%E5%8D%8E%E5%9B%9E%E5%BF%86%E5%BE%80%E4%BA%8B%E8%90%BD%E6%B3%AA%23&t=31&band_rank=50&Refer=top) 20030
 1. [感觉是沈渡和颜幸本人在采访](https://s.weibo.com/weibo?q=%E6%84%9F%E8%A7%89%E6%98%AF%E6%B2%88%E6%B8%A1%E5%92%8C%E9%A2%9C%E5%B9%B8%E6%9C%AC%E4%BA%BA%E5%9C%A8%E9%87%87%E8%AE%BF&t=31&band_rank=36&Refer=top) 19946
-1. [文昌鸡被台风吹走椰子鸡供不上了](https://s.weibo.com/weibo?q=%23%E6%96%87%E6%98%8C%E9%B8%A1%E8%A2%AB%E5%8F%B0%E9%A3%8E%E5%90%B9%E8%B5%B0%E6%A4%B0%E5%AD%90%E9%B8%A1%E4%BE%9B%E4%B8%8D%E4%B8%8A%E4%BA%86%23&t=31&band_rank=48&Refer=top) 18875
 <!-- END -->
 
 历史归档 [./archives](./archives)
