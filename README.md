@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-10-14 03:16:37.620017 
-![2024-10-14](https://imgs-storage.s3.us-east-005.backblazeb2.com/20241014/2024-10-14.png?versionId=4_z8fbbed132d73df8689c40f13_f104bca7abcf124da_d20241013_m191637_c005_v0501012_t0052_u01728846997491) 
+最后更新时间 2024-10-14 04:19:35.986929 
+![2024-10-14](https://imgs-storage.s3.us-east-005.backblazeb2.com/20241014/2024-10-14.png?versionId=4_z8fbbed132d73df8689c40f13_f100cf37bd03e25f8_d20241013_m201935_c005_v0501024_t0054_u01728850775827) 
 1. [哀牢山发现全球仅千只的鸟](https://s.weibo.com/weibo?q=%23%E5%93%80%E7%89%A2%E5%B1%B1%E5%8F%91%E7%8E%B0%E5%85%A8%E7%90%83%E4%BB%85%E5%8D%83%E5%8F%AA%E7%9A%84%E9%B8%9F%23&t=31&band_rank=1&Refer=top) 986219
 1. [上海爷叔现身被大量股民围观](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E7%88%B7%E5%8F%94%E7%8E%B0%E8%BA%AB%E8%A2%AB%E5%A4%A7%E9%87%8F%E8%82%A1%E6%B0%91%E5%9B%B4%E8%A7%82%23&t=31&band_rank=2&Refer=top) 861414
 1. [听泉鉴宝喊话别再神话我了](https://s.weibo.com/weibo?q=%23%E5%90%AC%E6%B3%89%E9%89%B4%E5%AE%9D%E5%96%8A%E8%AF%9D%E5%88%AB%E5%86%8D%E7%A5%9E%E8%AF%9D%E6%88%91%E4%BA%86%23&t=31&band_rank=16&Refer=top) 629026
@@ -74,6 +74,7 @@
 1. [刘若英演唱会嘉宾是阿信](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%8B%A5%E8%8B%B1%E6%BC%94%E5%94%B1%E4%BC%9A%E5%98%89%E5%AE%BE%E6%98%AF%E9%98%BF%E4%BF%A1%23&t=31&band_rank=49&Refer=top) 73082
 1. [许嵩西安演唱会](https://s.weibo.com/weibo?q=%E8%AE%B8%E5%B5%A9%E8%A5%BF%E5%AE%89%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=50&Refer=top) 73045
 1. [郑钦文身体欠佳已尽全力](https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E8%BA%AB%E4%BD%93%E6%AC%A0%E4%BD%B3%E5%B7%B2%E5%B0%BD%E5%85%A8%E5%8A%9B%23&t=31&band_rank=33&Refer=top) 63408
+1. [独库公路为何1年封闭8个月](https://s.weibo.com/weibo?q=%23%E7%8B%AC%E5%BA%93%E5%85%AC%E8%B7%AF%E4%B8%BA%E4%BD%951%E5%B9%B4%E5%B0%81%E9%97%AD8%E4%B8%AA%E6%9C%88%23&t=31&band_rank=10&Refer=top) 61890
 1. [涉诈骗女子在泰被抓多名受害者发声](https://s.weibo.com/weibo?q=%23%E6%B6%89%E8%AF%88%E9%AA%97%E5%A5%B3%E5%AD%90%E5%9C%A8%E6%B3%B0%E8%A2%AB%E6%8A%93%E5%A4%9A%E5%90%8D%E5%8F%97%E5%AE%B3%E8%80%85%E5%8F%91%E5%A3%B0%23&t=31&band_rank=35&Refer=top) 59176
 1. [WBG战胜DK](https://s.weibo.com/weibo?q=%23WBG%E6%88%98%E8%83%9CDK%23&t=31&band_rank=36&Refer=top) 54818
 1. [成都通报一燃油车发生燃爆](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E9%80%9A%E6%8A%A5%E4%B8%80%E7%87%83%E6%B2%B9%E8%BD%A6%E5%8F%91%E7%94%9F%E7%87%83%E7%88%86%23&t=31&band_rank=21&Refer=top) 48856
@@ -81,6 +82,8 @@
 1. [贵州王乃山发生山火燃烧猛烈](https://s.weibo.com/weibo?q=%23%E8%B4%B5%E5%B7%9E%E7%8E%8B%E4%B9%83%E5%B1%B1%E5%8F%91%E7%94%9F%E5%B1%B1%E7%81%AB%E7%87%83%E7%83%A7%E7%8C%9B%E7%83%88%23&t=31&band_rank=25&Refer=top) 44309
 1. [问界新M5智驾未紧急制动撞死11只羊](https://s.weibo.com/weibo?q=%23%E9%97%AE%E7%95%8C%E6%96%B0M5%E6%99%BA%E9%A9%BE%E6%9C%AA%E7%B4%A7%E6%80%A5%E5%88%B6%E5%8A%A8%E6%92%9E%E6%AD%BB11%E5%8F%AA%E7%BE%8A%23&t=31&band_rank=47&Refer=top) 43308
 1. [大冰连线](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%86%B0%E8%BF%9E%E7%BA%BF&t=31&band_rank=43&Refer=top) 29320
+1. [运输车翻车致化学品泄漏有人中毒](https://s.weibo.com/weibo?q=%23%E8%BF%90%E8%BE%93%E8%BD%A6%E7%BF%BB%E8%BD%A6%E8%87%B4%E5%8C%96%E5%AD%A6%E5%93%81%E6%B3%84%E6%BC%8F%E6%9C%89%E4%BA%BA%E4%B8%AD%E6%AF%92%23&t=31&band_rank=43&Refer=top) 23560
+1. [韩方回应若构成威胁朝鲜政权将终结](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E6%96%B9%E5%9B%9E%E5%BA%94%E8%8B%A5%E6%9E%84%E6%88%90%E5%A8%81%E8%83%81%E6%9C%9D%E9%B2%9C%E6%94%BF%E6%9D%83%E5%B0%86%E7%BB%88%E7%BB%93%23&t=31&band_rank=44&Refer=top) 23536
 <!-- END -->
 
 历史归档 [./archives](./archives)
