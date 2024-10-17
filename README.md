@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-10-18 00:25:37.256564 
-![2024-10-18](https://imgs-storage.s3.us-east-005.backblazeb2.com/20241018/2024-10-18.png?versionId=4_z8fbbed132d73df8689c40f13_f101ef20bf63c325b_d20241017_m162537_c005_v0501025_t0010_u01729182337189) 
+最后更新时间 2024-10-18 01:17:20.719007 
+![2024-10-18](https://imgs-storage.s3.us-east-005.backblazeb2.com/20241018/2024-10-18.png?versionId=4_z8fbbed132d73df8689c40f13_f119aa04445bd606e_d20241017_m171720_c005_v0501024_t0049_u01729185440583) 
 1. [WBG晋级S14四强](https://s.weibo.com/weibo?q=%23WBG%E6%99%8B%E7%BA%A7S14%E5%9B%9B%E5%BC%BA%23&t=31&band_rank=1&Refer=top) 2792786
 1. [刘亦菲压轴](https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%E5%8E%8B%E8%BD%B4&t=31&band_rank=2&Refer=top) 1405587
 1. [美好新疆](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%A5%BD%E6%96%B0%E7%96%86%23&t=31&band_rank=3&Refer=top) 913676
@@ -17,6 +17,7 @@
 1. [GALA连续四年止步八强](https://s.weibo.com/weibo?q=%23GALA%E8%BF%9E%E7%BB%AD%E5%9B%9B%E5%B9%B4%E6%AD%A2%E6%AD%A5%E5%85%AB%E5%BC%BA%23&t=31&band_rank=6&Refer=top) 762458
 1. [倪妮拿到了杨幂的绣球](https://s.weibo.com/weibo?q=%23%E5%80%AA%E5%A6%AE%E6%8B%BF%E5%88%B0%E4%BA%86%E6%9D%A8%E5%B9%82%E7%9A%84%E7%BB%A3%E7%90%83%23&t=31&band_rank=7&Refer=top) 723469
 1. [VOGUE晚宴](https://s.weibo.com/weibo?q=VOGUE%E6%99%9A%E5%AE%B4&t=31&band_rank=8&Refer=top) 560569
+1. [scout 还钱](https://s.weibo.com/weibo?q=scout%20%E8%BF%98%E9%92%B1&t=31&band_rank=4&Refer=top) 496725
 1. [老人花40万在直播间买了堆塑料](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E8%8A%B140%E4%B8%87%E5%9C%A8%E7%9B%B4%E6%92%AD%E9%97%B4%E4%B9%B0%E4%BA%86%E5%A0%86%E5%A1%91%E6%96%99%23&t=31&band_rank=9&Refer=top) 459968
 1. [WBG前期全是计谋](https://s.weibo.com/weibo?q=WBG%E5%89%8D%E6%9C%9F%E5%85%A8%E6%98%AF%E8%AE%A1%E8%B0%8B&t=31&band_rank=10&Refer=top) 398859
 1. [毕业生举报高校女教师与其恋爱出轨](https://s.weibo.com/weibo?q=%23%E6%AF%95%E4%B8%9A%E7%94%9F%E4%B8%BE%E6%8A%A5%E9%AB%98%E6%A0%A1%E5%A5%B3%E6%95%99%E5%B8%88%E4%B8%8E%E5%85%B6%E6%81%8B%E7%88%B1%E5%87%BA%E8%BD%A8%23&t=31&band_rank=11&Refer=top) 397710
@@ -27,6 +28,9 @@
 1. [周也裙子变装](https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%B9%9F%E8%A3%99%E5%AD%90%E5%8F%98%E8%A3%85%23&t=31&band_rank=16&Refer=top) 360955
 1. [以称正核实是否打死哈马斯领导人辛瓦尔](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E7%A7%B0%E6%AD%A3%E6%A0%B8%E5%AE%9E%E6%98%AF%E5%90%A6%E6%89%93%E6%AD%BB%E5%93%88%E9%A9%AC%E6%96%AF%E9%A2%86%E5%AF%BC%E4%BA%BA%E8%BE%9B%E7%93%A6%E5%B0%94%23&t=31&band_rank=17&Refer=top) 332256
 1. [救救GALA](https://s.weibo.com/weibo?q=%E6%95%91%E6%95%91GALA&t=31&band_rank=18&Refer=top) 301644
+1. [职工医保中断可以补缴吗](https://s.weibo.com/weibo?q=%23%E8%81%8C%E5%B7%A5%E5%8C%BB%E4%BF%9D%E4%B8%AD%E6%96%AD%E5%8F%AF%E4%BB%A5%E8%A1%A5%E7%BC%B4%E5%90%97%23&t=31&band_rank=29&Refer=top) 259677
+1. [爸爸花10元买了孩子一整天的快乐](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E8%8A%B110%E5%85%83%E4%B9%B0%E4%BA%86%E5%AD%A9%E5%AD%90%E4%B8%80%E6%95%B4%E5%A4%A9%E7%9A%84%E5%BF%AB%E4%B9%90%23&t=31&band_rank=10&Refer=top) 241941
+1. [孕妇2次到店借用厕所和店员起争执](https://s.weibo.com/weibo?q=%23%E5%AD%95%E5%A6%872%E6%AC%A1%E5%88%B0%E5%BA%97%E5%80%9F%E7%94%A8%E5%8E%95%E6%89%80%E5%92%8C%E5%BA%97%E5%91%98%E8%B5%B7%E4%BA%89%E6%89%A7%23&t=31&band_rank=11&Refer=top) 241463
 1. [刘冲让王一博走慢点](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%86%B2%E8%AE%A9%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%B5%B0%E6%85%A2%E7%82%B9%23&t=31&band_rank=19&Refer=top) 238540
 1. [UNIQ TFBOYS前辈挺可爱的](https://s.weibo.com/weibo?q=UNIQ%20TFBOYS%E5%89%8D%E8%BE%88%E6%8C%BA%E5%8F%AF%E7%88%B1%E7%9A%84&t=31&band_rank=20&Refer=top) 231170
 1. [女生称遭平台自动扣费22个月](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E7%A7%B0%E9%81%AD%E5%B9%B3%E5%8F%B0%E8%87%AA%E5%8A%A8%E6%89%A3%E8%B4%B922%E4%B8%AA%E6%9C%88%23&t=31&band_rank=21&Refer=top) 230270
@@ -36,8 +40,8 @@
 1. [刘诗诗 霜雪天降具像化](https://s.weibo.com/weibo?q=%E5%88%98%E8%AF%97%E8%AF%97%20%E9%9C%9C%E9%9B%AA%E5%A4%A9%E9%99%8D%E5%85%B7%E5%83%8F%E5%8C%96&t=31&band_rank=25&Refer=top) 223709
 1. [朱珠真是风情万种](https://s.weibo.com/weibo?q=%E6%9C%B1%E7%8F%A0%E7%9C%9F%E6%98%AF%E9%A3%8E%E6%83%85%E4%B8%87%E7%A7%8D&t=31&band_rank=26&Refer=top) 188659
 1. [王鹤棣 小狗包](https://s.weibo.com/weibo?q=%E7%8E%8B%E9%B9%A4%E6%A3%A3%20%E5%B0%8F%E7%8B%97%E5%8C%85&t=31&band_rank=27&Refer=top) 179245
+1. [Daeny表情](https://s.weibo.com/weibo?q=%23Daeny%E8%A1%A8%E6%83%85%23&t=31&band_rank=18&Refer=top) 176442
 1. [VOGUE走秀](https://s.weibo.com/weibo?q=%23VOGUE%E8%B5%B0%E7%A7%80%23&t=31&band_rank=28&Refer=top) 175305
-1. [职工医保中断可以补缴吗](https://s.weibo.com/weibo?q=%23%E8%81%8C%E5%B7%A5%E5%8C%BB%E4%BF%9D%E4%B8%AD%E6%96%AD%E5%8F%AF%E4%BB%A5%E8%A1%A5%E7%BC%B4%E5%90%97%23&t=31&band_rank=29&Refer=top) 157344
 1. [以方称打死哈马斯领导人辛瓦尔](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E6%96%B9%E7%A7%B0%E6%89%93%E6%AD%BB%E5%93%88%E9%A9%AC%E6%96%AF%E9%A2%86%E5%AF%BC%E4%BA%BA%E8%BE%9B%E7%93%A6%E5%B0%94%23&t=31&band_rank=30&Refer=top) 156616
 1. [檀健次跳舞出场](https://s.weibo.com/weibo?q=%E6%AA%80%E5%81%A5%E6%AC%A1%E8%B7%B3%E8%88%9E%E5%87%BA%E5%9C%BA&t=31&band_rank=31&Refer=top) 156596
 1. [黄圣依杨子 2个人8人群](https://s.weibo.com/weibo?q=%E9%BB%84%E5%9C%A3%E4%BE%9D%E6%9D%A8%E5%AD%90%202%E4%B8%AA%E4%BA%BA8%E4%BA%BA%E7%BE%A4&t=31&band_rank=32&Refer=top) 154229
@@ -59,6 +63,13 @@
 1. [樊振东全锦赛的球场眼神杀](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%85%A8%E9%94%A6%E8%B5%9B%E7%9A%84%E7%90%83%E5%9C%BA%E7%9C%BC%E7%A5%9E%E6%9D%80%23&t=31&band_rank=48&Refer=top) 142025
 1. [枭起青壤](https://s.weibo.com/weibo?q=%E6%9E%AD%E8%B5%B7%E9%9D%92%E5%A3%A4&t=31&band_rank=49&Refer=top) 141973
 1. [欧洲央行宣布降息25个基点](https://s.weibo.com/weibo?q=%23%E6%AC%A7%E6%B4%B2%E5%A4%AE%E8%A1%8C%E5%AE%A3%E5%B8%83%E9%99%8D%E6%81%AF25%E4%B8%AA%E5%9F%BA%E7%82%B9%23&t=31&band_rank=50&Refer=top) 141916
+1. [LNG发文告别S14](https://s.weibo.com/weibo?q=%23LNG%E5%8F%91%E6%96%87%E5%91%8A%E5%88%ABS14%23&t=31&band_rank=24&Refer=top) 129475
+1. [LNG教练](https://s.weibo.com/weibo?q=LNG%E6%95%99%E7%BB%83&t=31&band_rank=29&Refer=top) 113045
+1. [小虎 MVP](https://s.weibo.com/weibo?q=%E5%B0%8F%E8%99%8E%20MVP&t=31&band_rank=31&Refer=top) 106834
+1. [维秘 消费降级](https://s.weibo.com/weibo?q=%E7%BB%B4%E7%A7%98%20%E6%B6%88%E8%B4%B9%E9%99%8D%E7%BA%A7&t=31&band_rank=32&Refer=top) 102890
+1. [Crisp请神S9的自己](https://s.weibo.com/weibo?q=%23Crisp%E8%AF%B7%E7%A5%9ES9%E7%9A%84%E8%87%AA%E5%B7%B1%23&t=31&band_rank=38&Refer=top) 82134
+1. [丹尼教练](https://s.weibo.com/weibo?q=%E4%B8%B9%E5%B0%BC%E6%95%99%E7%BB%83&t=31&band_rank=46&Refer=top) 72114
+1. [马斯克捐赠近7500万美元支持共和党](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E6%8D%90%E8%B5%A0%E8%BF%917500%E4%B8%87%E7%BE%8E%E5%85%83%E6%94%AF%E6%8C%81%E5%85%B1%E5%92%8C%E5%85%9A%23&t=31&band_rank=48&Refer=top) 67060
 <!-- END -->
 
 历史归档 [./archives](./archives)
