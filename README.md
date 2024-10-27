@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-10-28 03:16:39.211049 
-![2024-10-28](https://imgs-storage.s3.us-east-005.backblazeb2.com/20241028/2024-10-28.png?versionId=4_z8fbbed132d73df8689c40f13_f105c79e84cf0533e_d20241027_m191639_c005_v0501013_t0036_u01730056599182) 
+最后更新时间 2024-10-28 04:21:00.278027 
+![2024-10-28](https://imgs-storage.s3.us-east-005.backblazeb2.com/20241028/2024-10-28.png?versionId=4_z8fbbed132d73df8689c40f13_f104dc4fcec7e3cbc_d20241027_m202100_c005_v0501020_t0000_u01730060460181) 
 1. [网曝塔斯汀汉堡吃出生肉](https://s.weibo.com/weibo?q=%23%E7%BD%91%E6%9B%9D%E5%A1%94%E6%96%AF%E6%B1%80%E6%B1%89%E5%A0%A1%E5%90%83%E5%87%BA%E7%94%9F%E8%82%89%23&t=31&band_rank=1&Refer=top) 2120940
 1. [T1晋级S14决赛](https://s.weibo.com/weibo?q=T1%E6%99%8B%E7%BA%A7S14%E5%86%B3%E8%B5%9B&t=31&band_rank=1&Refer=top) 1369870
 1. [专家提醒长期晚睡晚起也算熬夜](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E6%8F%90%E9%86%92%E9%95%BF%E6%9C%9F%E6%99%9A%E7%9D%A1%E6%99%9A%E8%B5%B7%E4%B9%9F%E7%AE%97%E7%86%AC%E5%A4%9C%23&t=31&band_rank=2&Refer=top) 1353840
@@ -90,6 +90,10 @@
 1. [2024年医保谈判竞价开始](https://s.weibo.com/weibo?q=%232024%E5%B9%B4%E5%8C%BB%E4%BF%9D%E8%B0%88%E5%88%A4%E7%AB%9E%E4%BB%B7%E5%BC%80%E5%A7%8B%23&t=31&band_rank=41&Refer=top) 46793
 1. [撞以色列公交站司机为以籍阿拉伯人](https://s.weibo.com/weibo?q=%23%E6%92%9E%E4%BB%A5%E8%89%B2%E5%88%97%E5%85%AC%E4%BA%A4%E7%AB%99%E5%8F%B8%E6%9C%BA%E4%B8%BA%E4%BB%A5%E7%B1%8D%E9%98%BF%E6%8B%89%E4%BC%AF%E4%BA%BA%23&t=31&band_rank=27&Refer=top) 40964
 1. [一个人真正靠谱的4种表现](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%9C%9F%E6%AD%A3%E9%9D%A0%E8%B0%B1%E7%9A%844%E7%A7%8D%E8%A1%A8%E7%8E%B0%23&t=31&band_rank=44&Refer=top) 39917
+1. [戈壁创业33年她在兵团实现人生蜕变](https://s.weibo.com/weibo?q=%23%E6%88%88%E5%A3%81%E5%88%9B%E4%B8%9A33%E5%B9%B4%E5%A5%B9%E5%9C%A8%E5%85%B5%E5%9B%A2%E5%AE%9E%E7%8E%B0%E4%BA%BA%E7%94%9F%E8%9C%95%E5%8F%98%23&t=31&band_rank=15&Refer=top) 38287
+1. [警方通报乘客酒后殴打网约车司机](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B9%98%E5%AE%A2%E9%85%92%E5%90%8E%E6%AE%B4%E6%89%93%E7%BD%91%E7%BA%A6%E8%BD%A6%E5%8F%B8%E6%9C%BA%23&t=31&band_rank=17&Refer=top) 37512
+1. [摩托车特技表演失控冲向人群](https://s.weibo.com/weibo?q=%23%E6%91%A9%E6%89%98%E8%BD%A6%E7%89%B9%E6%8A%80%E8%A1%A8%E6%BC%94%E5%A4%B1%E6%8E%A7%E5%86%B2%E5%90%91%E4%BA%BA%E7%BE%A4%23&t=31&band_rank=22&Refer=top) 31699
+1. [官方回应公厕有人冲洗臭豆腐原材料](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%85%AC%E5%8E%95%E6%9C%89%E4%BA%BA%E5%86%B2%E6%B4%97%E8%87%AD%E8%B1%86%E8%85%90%E5%8E%9F%E6%9D%90%E6%96%99%23&t=31&band_rank=39&Refer=top) 24832
 1. [苏新皓超长日常vlog](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E6%96%B0%E7%9A%93%E8%B6%85%E9%95%BF%E6%97%A5%E5%B8%B8vlog%23&t=31&band_rank=50&Refer=top) 23508
 <!-- END -->
 
