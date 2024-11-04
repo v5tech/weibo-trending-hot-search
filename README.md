@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-11-05 00:24:41.650007 
-![2024-11-05](https://imgs-storage.s3.us-east-005.backblazeb2.com/20241105/2024-11-05.png?versionId=4_z8fbbed132d73df8689c40f13_f1013f24cb124bbb5_d20241104_m162441_c005_v0501001_t0059_u01730737481491) 
+最后更新时间 2024-11-05 01:17:22.892846 
+![2024-11-05](https://imgs-storage.s3.us-east-005.backblazeb2.com/20241105/2024-11-05.png?versionId=4_z8fbbed132d73df8689c40f13_f11601bc73585efbd_d20241104_m171722_c005_v0501023_t0027_u01730740642391) 
 1. [郑钦文 别喊了](https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%87%20%E5%88%AB%E5%96%8A%E4%BA%86&t=31&band_rank=1&Refer=top) 1251813
 1. [范丞丞 出戏](https://s.weibo.com/weibo?q=%E8%8C%83%E4%B8%9E%E4%B8%9E%20%E5%87%BA%E6%88%8F&t=31&band_rank=2&Refer=top) 756079
 1. [特朗普不满遭奥巴马妻子攻击](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8D%E6%BB%A1%E9%81%AD%E5%A5%A5%E5%B7%B4%E9%A9%AC%E5%A6%BB%E5%AD%90%E6%94%BB%E5%87%BB%23&t=31&band_rank=3&Refer=top) 654043
@@ -41,7 +41,9 @@
 1. [猫因为我辞职在家压力太大吐了](https://s.weibo.com/weibo?q=%E7%8C%AB%E5%9B%A0%E4%B8%BA%E6%88%91%E8%BE%9E%E8%81%8C%E5%9C%A8%E5%AE%B6%E5%8E%8B%E5%8A%9B%E5%A4%AA%E5%A4%A7%E5%90%90%E4%BA%86&t=31&band_rank=30&Refer=top) 174063
 1. [班主任被指在家长群强推医保](https://s.weibo.com/weibo?q=%23%E7%8F%AD%E4%B8%BB%E4%BB%BB%E8%A2%AB%E6%8C%87%E5%9C%A8%E5%AE%B6%E9%95%BF%E7%BE%A4%E5%BC%BA%E6%8E%A8%E5%8C%BB%E4%BF%9D%23&t=31&band_rank=31&Refer=top) 171513
 1. [缅甸小姐未夺冠当场翻脸](https://s.weibo.com/weibo?q=%23%E7%BC%85%E7%94%B8%E5%B0%8F%E5%A7%90%E6%9C%AA%E5%A4%BA%E5%86%A0%E5%BD%93%E5%9C%BA%E7%BF%BB%E8%84%B8%23&t=31&band_rank=32&Refer=top) 165194
+1. [美了1千多年的银杏是唐太宗种的](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%BA%861%E5%8D%83%E5%A4%9A%E5%B9%B4%E7%9A%84%E9%93%B6%E6%9D%8F%E6%98%AF%E5%94%90%E5%A4%AA%E5%AE%97%E7%A7%8D%E7%9A%84%23&t=31&band_rank=10&Refer=top) 148642
 1. [Faker 第五冠献给粉丝](https://s.weibo.com/weibo?q=Faker%20%E7%AC%AC%E4%BA%94%E5%86%A0%E7%8C%AE%E7%BB%99%E7%B2%89%E4%B8%9D&t=31&band_rank=33&Refer=top) 142569
+1. [传单印广西大学副院长强奸女学生](https://s.weibo.com/weibo?q=%23%E4%BC%A0%E5%8D%95%E5%8D%B0%E5%B9%BF%E8%A5%BF%E5%A4%A7%E5%AD%A6%E5%89%AF%E9%99%A2%E9%95%BF%E5%BC%BA%E5%A5%B8%E5%A5%B3%E5%AD%A6%E7%94%9F%23&t=31&band_rank=49&Refer=top) 139996
 1. [王楚钦vs户上隼辅](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E6%88%B7%E4%B8%8A%E9%9A%BC%E8%BE%85%23&t=31&band_rank=34&Refer=top) 134417
 1. [孙颖莎再提最爱的小白球](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E5%86%8D%E6%8F%90%E6%9C%80%E7%88%B1%E7%9A%84%E5%B0%8F%E7%99%BD%E7%90%83%23&t=31&band_rank=35&Refer=top) 133228
 1. [一诺黄牌](https://s.weibo.com/weibo?q=%E4%B8%80%E8%AF%BA%E9%BB%84%E7%89%8C&t=31&band_rank=36&Refer=top) 131182
@@ -57,8 +59,12 @@
 1. [网曝高中女生约十几人勒索初中男生](https://s.weibo.com/weibo?q=%23%E7%BD%91%E6%9B%9D%E9%AB%98%E4%B8%AD%E5%A5%B3%E7%94%9F%E7%BA%A6%E5%8D%81%E5%87%A0%E4%BA%BA%E5%8B%92%E7%B4%A2%E5%88%9D%E4%B8%AD%E7%94%B7%E7%94%9F%23&t=31&band_rank=46&Refer=top) 100636
 1. [张继科开业球馆不对外营业](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BB%A7%E7%A7%91%E5%BC%80%E4%B8%9A%E7%90%83%E9%A6%86%E4%B8%8D%E5%AF%B9%E5%A4%96%E8%90%A5%E4%B8%9A%23&t=31&band_rank=47&Refer=top) 96207
 1. [关晓彤黑抹胸裙](https://s.weibo.com/weibo?q=%E5%85%B3%E6%99%93%E5%BD%A4%E9%BB%91%E6%8A%B9%E8%83%B8%E8%A3%99&t=31&band_rank=48&Refer=top) 95990
-1. [传单印广西大学副院长强奸女学生](https://s.weibo.com/weibo?q=%23%E4%BC%A0%E5%8D%95%E5%8D%B0%E5%B9%BF%E8%A5%BF%E5%A4%A7%E5%AD%A6%E5%89%AF%E9%99%A2%E9%95%BF%E5%BC%BA%E5%A5%B8%E5%A5%B3%E5%AD%A6%E7%94%9F%23&t=31&band_rank=49&Refer=top) 86346
+1. [广西大学被指强奸女学生教授报案](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E5%A4%A7%E5%AD%A6%E8%A2%AB%E6%8C%87%E5%BC%BA%E5%A5%B8%E5%A5%B3%E5%AD%A6%E7%94%9F%E6%95%99%E6%8E%88%E6%8A%A5%E6%A1%88%23&t=31&band_rank=27&Refer=top) 92592
 1. [郑钦文WTA年终总决赛首胜](https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87WTA%E5%B9%B4%E7%BB%88%E6%80%BB%E5%86%B3%E8%B5%9B%E9%A6%96%E8%83%9C%23&t=31&band_rank=50&Refer=top) 80117
+1. [谁允许你们欺瞒本尊贵的系统大人](https://s.weibo.com/weibo?q=%E8%B0%81%E5%85%81%E8%AE%B8%E4%BD%A0%E4%BB%AC%E6%AC%BA%E7%9E%92%E6%9C%AC%E5%B0%8A%E8%B4%B5%E7%9A%84%E7%B3%BB%E7%BB%9F%E5%A4%A7%E4%BA%BA&t=31&band_rank=35&Refer=top) 64693
+1. [死亡游戏为何能在孩子间流行](https://s.weibo.com/weibo?q=%23%E6%AD%BB%E4%BA%A1%E6%B8%B8%E6%88%8F%E4%B8%BA%E4%BD%95%E8%83%BD%E5%9C%A8%E5%AD%A9%E5%AD%90%E9%97%B4%E6%B5%81%E8%A1%8C%23&t=31&band_rank=41&Refer=top) 54676
+1. [郑钦文vs莱巴金娜](https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87vs%E8%8E%B1%E5%B7%B4%E9%87%91%E5%A8%9C%23&t=31&band_rank=47&Refer=top) 46659
+1. [业主群闹事专用情头](https://s.weibo.com/weibo?q=%E4%B8%9A%E4%B8%BB%E7%BE%A4%E9%97%B9%E4%BA%8B%E4%B8%93%E7%94%A8%E6%83%85%E5%A4%B4&t=31&band_rank=50&Refer=top) 45097
 <!-- END -->
 
 历史归档 [./archives](./archives)
