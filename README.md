@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2024-11-06 03:14:42.787787 
-![2024-11-06](https://imgs-storage.s3.us-east-005.backblazeb2.com/20241106/2024-11-06.png?versionId=4_z8fbbed132d73df8689c40f13_f109ac16449f2a39e_d20241105_m191442_c005_v0501025_t0036_u01730834082318) 
+最后更新时间 2024-11-06 04:20:35.770836 
+![2024-11-06](https://imgs-storage.s3.us-east-005.backblazeb2.com/20241106/2024-11-06.png?versionId=4_z8fbbed132d73df8689c40f13_f1061c32a5391b592_d20241105_m202035_c005_v0501003_t0047_u01730838035718) 
 1. [瑞士卷当事人称非常后悔并抱歉](https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%A3%AB%E5%8D%B7%E5%BD%93%E4%BA%8B%E4%BA%BA%E7%A7%B0%E9%9D%9E%E5%B8%B8%E5%90%8E%E6%82%94%E5%B9%B6%E6%8A%B1%E6%AD%89%23&t=31&band_rank=1&Refer=top) 5849967
 1. [河南女子被害前打电话喊妈妈救命](https://s.weibo.com/weibo?q=%E6%B2%B3%E5%8D%97%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%AE%B3%E5%89%8D%E6%89%93%E7%94%B5%E8%AF%9D%E5%96%8A%E5%A6%88%E5%A6%88%E6%95%91%E5%91%BD&t=31&band_rank=16&Refer=top) 919901
 1. [永夜星河 我就说一天播一集会出事吧](https://s.weibo.com/weibo?q=%E6%B0%B8%E5%A4%9C%E6%98%9F%E6%B2%B3%20%E6%88%91%E5%B0%B1%E8%AF%B4%E4%B8%80%E5%A4%A9%E6%92%AD%E4%B8%80%E9%9B%86%E4%BC%9A%E5%87%BA%E4%BA%8B%E5%90%A7&t=31&band_rank=2&Refer=top) 654955
@@ -68,6 +68,7 @@
 1. [行贿者一次性送150瓶五粮液](https://s.weibo.com/weibo?q=%23%E8%A1%8C%E8%B4%BF%E8%80%85%E4%B8%80%E6%AC%A1%E6%80%A7%E9%80%81150%E7%93%B6%E4%BA%94%E7%B2%AE%E6%B6%B2%23&t=31&band_rank=20&Refer=top) 76285
 1. [张艺兴唱身骑白马](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%89%BA%E5%85%B4%E5%94%B1%E8%BA%AB%E9%AA%91%E7%99%BD%E9%A9%AC&t=31&band_rank=46&Refer=top) 76167
 1. [清华大学发了凌妙妙转场](https://s.weibo.com/weibo?q=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E5%8F%91%E4%BA%86%E5%87%8C%E5%A6%99%E5%A6%99%E8%BD%AC%E5%9C%BA&t=31&band_rank=47&Refer=top) 76128
+1. [媒体评瑞士卷事件](https://s.weibo.com/weibo?q=%23%E5%AA%92%E4%BD%93%E8%AF%84%E7%91%9E%E5%A3%AB%E5%8D%B7%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=10&Refer=top) 50135
 1. [原来盖被子也是讲顺序的](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E7%9B%96%E8%A2%AB%E5%AD%90%E4%B9%9F%E6%98%AF%E8%AE%B2%E9%A1%BA%E5%BA%8F%E7%9A%84%23&t=31&band_rank=25&Refer=top) 49054
 1. [锅盔叔叔称妻子病倒时家里只有10万](https://s.weibo.com/weibo?q=%23%E9%94%85%E7%9B%94%E5%8F%94%E5%8F%94%E7%A7%B0%E5%A6%BB%E5%AD%90%E7%97%85%E5%80%92%E6%97%B6%E5%AE%B6%E9%87%8C%E5%8F%AA%E6%9C%8910%E4%B8%87%23&t=31&band_rank=15&Refer=top) 43638
 1. [微博视界大会](https://s.weibo.com/weibo?q=%E5%BE%AE%E5%8D%9A%E8%A7%86%E7%95%8C%E5%A4%A7%E4%BC%9A&t=31&band_rank=29&Refer=top) 31350
@@ -75,7 +76,9 @@
 1. [我的抽象视界](https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E6%8A%BD%E8%B1%A1%E8%A7%86%E7%95%8C%23&t=31&band_rank=45&Refer=top) 30574
 1. [夜袭开封](https://s.weibo.com/weibo?q=%E5%A4%9C%E8%A2%AD%E5%BC%80%E5%B0%81&t=31&band_rank=47&Refer=top) 30564
 1. [虞书欣送凌妙妙周边](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E9%80%81%E5%87%8C%E5%A6%99%E5%A6%99%E5%91%A8%E8%BE%B9%23&t=31&band_rank=33&Refer=top) 29396
+1. [虞书欣赵露思 干票大的引爆视界大会](https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%E8%B5%B5%E9%9C%B2%E6%80%9D%20%E5%B9%B2%E7%A5%A8%E5%A4%A7%E7%9A%84%E5%BC%95%E7%88%86%E8%A7%86%E7%95%8C%E5%A4%A7%E4%BC%9A&t=31&band_rank=31&Refer=top) 25625
 1. [河南固始被害妻子曾多次遭家暴](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E5%9B%BA%E5%A7%8B%E8%A2%AB%E5%AE%B3%E5%A6%BB%E5%AD%90%E6%9B%BE%E5%A4%9A%E6%AC%A1%E9%81%AD%E5%AE%B6%E6%9A%B4%23&t=31&band_rank=39&Refer=top) 25461
+1. [大学生的开封PassionRide](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%9A%84%E5%BC%80%E5%B0%81PassionRide%23&t=31&band_rank=34&Refer=top) 22367
 <!-- END -->
 
 历史归档 [./archives](./archives)
