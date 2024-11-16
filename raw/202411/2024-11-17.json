@@ -7,6 +7,10 @@
     "url": "https://s.weibo.com/weibo?q=AG%E5%A4%BA%E5%86%A0&t=31&band_rank=2&Refer=top",
     "hot": 476122
   },
+  "广州打破最长夏天纪录": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E6%89%93%E7%A0%B4%E6%9C%80%E9%95%BF%E5%A4%8F%E5%A4%A9%E7%BA%AA%E5%BD%95%23&t=31&band_rank=10&Refer=top",
+    "hot": 423903
+  },
   "男子在秘鲁40多年开了60多家中餐厅": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9C%A8%E7%A7%98%E9%B2%8140%E5%A4%9A%E5%B9%B4%E5%BC%80%E4%BA%8660%E5%A4%9A%E5%AE%B6%E4%B8%AD%E9%A4%90%E5%8E%85%23&t=31&band_rank=3&Refer=top",
     "hot": 390395
@@ -35,10 +39,6 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A9%E7%8B%BC%E6%98%9F%E7%94%B1%E6%88%91%E4%BB%ACAG%E4%BA%B2%E6%89%8B%E7%86%84%E7%81%AD%23&t=31&band_rank=9&Refer=top",
     "hot": 341779
   },
-  "广州打破最长夏天纪录": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E6%89%93%E7%A0%B4%E6%9C%80%E9%95%BF%E5%A4%8F%E5%A4%A9%E7%BA%AA%E5%BD%95%23&t=31&band_rank=10&Refer=top",
-    "hot": 338064
-  },
   "张家界火灾遇难者系一家祖孙三代": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%AE%B6%E7%95%8C%E7%81%AB%E7%81%BE%E9%81%87%E9%9A%BE%E8%80%85%E7%B3%BB%E4%B8%80%E5%AE%B6%E7%A5%96%E5%AD%99%E4%B8%89%E4%BB%A3%23&t=31&band_rank=11&Refer=top",
     "hot": 335212
@@ -50,6 +50,10 @@
   "派出所回应丢38吨稻谷报警被怼": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%B4%BE%E5%87%BA%E6%89%80%E5%9B%9E%E5%BA%94%E4%B8%A238%E5%90%A8%E7%A8%BB%E8%B0%B7%E6%8A%A5%E8%AD%A6%E8%A2%AB%E6%80%BC%23&t=31&band_rank=13&Refer=top",
     "hot": 327310
+  },
+  "虞书欣丁禹兮hi6收视率历史最高": {
+    "url": "https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E4%B8%81%E7%A6%B9%E5%85%AEhi6%E6%94%B6%E8%A7%86%E7%8E%87%E5%8E%86%E5%8F%B2%E6%9C%80%E9%AB%98%23&t=31&band_rank=4&Refer=top",
+    "hot": 316387
   },
   "徐静蕾": {
     "url": "https://s.weibo.com/weibo?q=%E5%BE%90%E9%9D%99%E8%95%BE&t=31&band_rank=14&Refer=top",
@@ -127,9 +131,37 @@
     "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E7%AB%99%E8%B5%B7%E6%9D%A5%E4%B8%BA%E7%83%AD%E7%83%88%E9%BC%93%E6%8E%8C%23&t=31&band_rank=32&Refer=top",
     "hot": 234440
   },
+  "格林威治": {
+    "url": "https://s.weibo.com/weibo?q=%E6%A0%BC%E6%9E%97%E5%A8%81%E6%B2%BB&t=31&band_rank=50&Refer=top",
+    "hot": 223662
+  },
+  "王者荣耀王昭君": {
+    "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E7%8E%8B%E6%98%AD%E5%90%9B&t=31&band_rank=44&Refer=top",
+    "hot": 222419
+  },
+  "资源咖": {
+    "url": "https://s.weibo.com/weibo?q=%E8%B5%84%E6%BA%90%E5%92%96&t=31&band_rank=11&Refer=top",
+    "hot": 218379
+  },
   "大梦归离大结局": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E6%A2%A6%E5%BD%92%E7%A6%BB%E5%A4%A7%E7%BB%93%E5%B1%80%23&t=31&band_rank=33&Refer=top",
     "hot": 215881
+  },
+  "00花第一位金鸡影后": {
+    "url": "https://s.weibo.com/weibo?q=00%E8%8A%B1%E7%AC%AC%E4%B8%80%E4%BD%8D%E9%87%91%E9%B8%A1%E5%BD%B1%E5%90%8E&t=31&band_rank=40&Refer=top",
+    "hot": 191107
+  },
+  "空军军乐团指挥航展群众齐唱歌唱祖国": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%A9%BA%E5%86%9B%E5%86%9B%E4%B9%90%E5%9B%A2%E6%8C%87%E6%8C%A5%E8%88%AA%E5%B1%95%E7%BE%A4%E4%BC%97%E9%BD%90%E5%94%B1%E6%AD%8C%E5%94%B1%E7%A5%96%E5%9B%BD%23&t=31&band_rank=19&Refer=top",
+    "hot": 187769
+  },
+  "周翊然见面会": {
+    "url": "https://s.weibo.com/weibo?q=%E5%91%A8%E7%BF%8A%E7%84%B6%E8%A7%81%E9%9D%A2%E4%BC%9A&t=31&band_rank=20&Refer=top",
+    "hot": 186975
+  },
+  "新疆沙漠里瓜果蔬菜水灵灵丰收了": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E6%B2%99%E6%BC%A0%E9%87%8C%E7%93%9C%E6%9E%9C%E8%94%AC%E8%8F%9C%E6%B0%B4%E7%81%B5%E7%81%B5%E4%B8%B0%E6%94%B6%E4%BA%86%23&t=31&band_rank=21&Refer=top",
+    "hot": 185715
   },
   "69岁产女婴老夫妻为女儿过5岁生日": {
     "url": "https://s.weibo.com/weibo?q=%2369%E5%B2%81%E4%BA%A7%E5%A5%B3%E5%A9%B4%E8%80%81%E5%A4%AB%E5%A6%BB%E4%B8%BA%E5%A5%B3%E5%84%BF%E8%BF%875%E5%B2%81%E7%94%9F%E6%97%A5%23&t=31&band_rank=34&Refer=top",
@@ -155,13 +187,17 @@
     "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80&t=31&band_rank=39&Refer=top",
     "hot": 155248
   },
-  "00花第一位金鸡影后": {
-    "url": "https://s.weibo.com/weibo?q=00%E8%8A%B1%E7%AC%AC%E4%B8%80%E4%BD%8D%E9%87%91%E9%B8%A1%E5%BD%B1%E5%90%8E&t=31&band_rank=40&Refer=top",
-    "hot": 154691
+  "小渔船一网下去捞起美国核潜艇": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%B8%94%E8%88%B9%E4%B8%80%E7%BD%91%E4%B8%8B%E5%8E%BB%E6%8D%9E%E8%B5%B7%E7%BE%8E%E5%9B%BD%E6%A0%B8%E6%BD%9C%E8%89%87%23&t=31&band_rank=29&Refer=top",
+    "hot": 154741
   },
   "永夜星河团综": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%B0%B8%E5%A4%9C%E6%98%9F%E6%B2%B3%E5%9B%A2%E7%BB%BC%23&t=31&band_rank=41&Refer=top",
     "hot": 152067
+  },
+  "奥本海默最佳外语片": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A5%A5%E6%9C%AC%E6%B5%B7%E9%BB%98%E6%9C%80%E4%BD%B3%E5%A4%96%E8%AF%AD%E7%89%87%23&t=31&band_rank=30&Refer=top",
+    "hot": 150681
   },
   "NEWJEANS颁奖词感谢闵熙珍": {
     "url": "https://s.weibo.com/weibo?q=%23NEWJEANS%E9%A2%81%E5%A5%96%E8%AF%8D%E6%84%9F%E8%B0%A2%E9%97%B5%E7%86%99%E7%8F%8D%23&t=31&band_rank=42&Refer=top",
@@ -170,10 +206,6 @@
   "阿娇王晓晨新剧白蛇青蛇": {
     "url": "https://s.weibo.com/weibo?q=%E9%98%BF%E5%A8%87%E7%8E%8B%E6%99%93%E6%99%A8%E6%96%B0%E5%89%A7%E7%99%BD%E8%9B%87%E9%9D%92%E8%9B%87&t=31&band_rank=43&Refer=top",
     "hot": 144057
-  },
-  "王者荣耀王昭君": {
-    "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E7%8E%8B%E6%98%AD%E5%90%9B&t=31&band_rank=44&Refer=top",
-    "hot": 143742
   },
   "王源把演唱会现场变成游乐场": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E6%8A%8A%E6%BC%94%E5%94%B1%E4%BC%9A%E7%8E%B0%E5%9C%BA%E5%8F%98%E6%88%90%E6%B8%B8%E4%B9%90%E5%9C%BA%23&t=31&band_rank=45&Refer=top",
@@ -195,8 +227,16 @@
     "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%9A%93%E5%9B%9E%E5%BA%94%E6%A8%8A%E6%8C%AF%E4%B8%9C%E9%A9%AC%E9%BE%99%E9%80%80%E5%87%BA%E6%80%BB%E5%86%B3%E8%B5%9B%23&t=31&band_rank=49&Refer=top",
     "hot": 130214
   },
-  "格林威治": {
-    "url": "https://s.weibo.com/weibo?q=%E6%A0%BC%E6%9E%97%E5%A8%81%E6%B2%BB&t=31&band_rank=50&Refer=top",
-    "hot": 127591
+  "唐九洲说文韬的梗太伟大了": {
+    "url": "https://s.weibo.com/weibo?q=%E5%94%90%E4%B9%9D%E6%B4%B2%E8%AF%B4%E6%96%87%E9%9F%AC%E7%9A%84%E6%A2%97%E5%A4%AA%E4%BC%9F%E5%A4%A7%E4%BA%86&t=31&band_rank=37&Refer=top",
+    "hot": 118110
+  },
+  "珠海航展": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%8F%A0%E6%B5%B7%E8%88%AA%E5%B1%95%23&t=31&band_rank=39&Refer=top",
+    "hot": 109959
+  },
+  "宿敌": {
+    "url": "https://s.weibo.com/weibo?q=%E5%AE%BF%E6%95%8C&t=31&band_rank=42&Refer=top",
+    "hot": 104908
   }
 }
