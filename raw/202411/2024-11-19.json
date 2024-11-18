@@ -107,9 +107,17 @@
     "url": "https://s.weibo.com/weibo?q=%23%E6%B5%8E%E5%AE%81%E5%A5%B3%E5%AD%A9%E5%9D%A0%E4%BA%A1%E5%95%86%E5%9C%BA%E5%B7%B2%E8%A3%85%E9%98%B2%E6%8A%A4%E7%BD%91%23&t=31&band_rank=25&Refer=top",
     "hot": 164040
   },
+  "TGA2024提名公布": {
+    "url": "https://s.weibo.com/weibo?q=%23TGA2024%E6%8F%90%E5%90%8D%E5%85%AC%E5%B8%83%23&t=31&band_rank=1&Refer=top",
+    "hot": 159044
+  },
   "李行亮朋友回应借钱": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%A1%8C%E4%BA%AE%E6%9C%8B%E5%8F%8B%E5%9B%9E%E5%BA%94%E5%80%9F%E9%92%B1%23&t=31&band_rank=26&Refer=top",
     "hot": 144396
+  },
+  "tga": {
+    "url": "https://s.weibo.com/weibo?q=tga&t=31&band_rank=2&Refer=top",
+    "hot": 144288
   },
   "当红男女爱豆的边界感": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%BD%93%E7%BA%A2%E7%94%B7%E5%A5%B3%E7%88%B1%E8%B1%86%E7%9A%84%E8%BE%B9%E7%95%8C%E6%84%9F%23&t=31&band_rank=27&Refer=top",
@@ -247,6 +255,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%92%8C%E5%B7%B4%E8%A5%BF%E6%98%AF%E5%BF%97%E5%90%8C%E9%81%93%E5%90%88%E7%9A%84%E5%A5%BD%E6%9C%8B%E5%8F%8B%23&t=31&band_rank=45&Refer=top",
     "hot": 50310
   },
+  "宠协工作人员称死亡犬数仍上升": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%AE%A0%E5%8D%8F%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E7%A7%B0%E6%AD%BB%E4%BA%A1%E7%8A%AC%E6%95%B0%E4%BB%8D%E4%B8%8A%E5%8D%87%23&t=31&band_rank=19&Refer=top",
+    "hot": 43373
+  },
   "中国支持全球发展的八项行动": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%94%AF%E6%8C%81%E5%85%A8%E7%90%83%E5%8F%91%E5%B1%95%E7%9A%84%E5%85%AB%E9%A1%B9%E8%A1%8C%E5%8A%A8%23&t=31&band_rank=49&Refer=top",
     "hot": 42382
@@ -255,6 +267,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E7%A7%B0%E9%87%8E%E7%94%9F%E8%80%81%E8%99%8E%E6%9D%A5%E6%BA%90%E5%B0%9A%E4%B8%8D%E6%98%8E%E7%A1%AE%23&t=31&band_rank=25&Refer=top",
     "hot": 40273
   },
+  "张若昀说好东西真是好东西": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%8B%A5%E6%98%80%E8%AF%B4%E5%A5%BD%E4%B8%9C%E8%A5%BF%E7%9C%9F%E6%98%AF%E5%A5%BD%E4%B8%9C%E8%A5%BF%23&t=31&band_rank=30&Refer=top",
+    "hot": 28800
+  },
   "张杰要得第三篇章预告": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E8%A6%81%E5%BE%97%E7%AC%AC%E4%B8%89%E7%AF%87%E7%AB%A0%E9%A2%84%E5%91%8A%23&t=31&band_rank=46&Refer=top",
     "hot": 26677
@@ -262,5 +278,13 @@
   "原来东方明珠有11颗珠": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E4%B8%9C%E6%96%B9%E6%98%8E%E7%8F%A0%E6%9C%8911%E9%A2%97%E7%8F%A0%23&t=31&band_rank=50&Refer=top",
     "hot": 26652
+  },
+  "自主研发的中国芯片有多强": {
+    "url": "https://s.weibo.com/weibo?q=%23%E8%87%AA%E4%B8%BB%E7%A0%94%E5%8F%91%E7%9A%84%E4%B8%AD%E5%9B%BD%E8%8A%AF%E7%89%87%E6%9C%89%E5%A4%9A%E5%BC%BA%23&t=31&band_rank=41&Refer=top",
+    "hot": 18498
+  },
+  "G20里约峰会": {
+    "url": "https://s.weibo.com/weibo?q=%23G20%E9%87%8C%E7%BA%A6%E5%B3%B0%E4%BC%9A%23&t=31&band_rank=48&Refer=top",
+    "hot": 16905
   }
 }
