@@ -7,8 +7,8 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-01-08 05:18:20.331183 
-![2025-01-08](https://imgs-storage.s3.us-east-005.backblazeb2.com/20250108/2025-01-08.png?versionId=4_z8fbbed132d73df8689c40f13_f11888c421bba3b5d_d20250107_m211820_c005_v0501010_t0040_u01736284700282) 
+最后更新时间 2025-01-08 06:18:11.942666 
+![2025-01-08](https://imgs-storage.s3.us-east-005.backblazeb2.com/20250108/2025-01-08.png?versionId=4_z8fbbed132d73df8689c40f13_f114d02aad282fd93_d20250107_m221811_c005_v0501026_t0050_u01736288291524) 
 1. [西藏定日县地震已致126人遇难](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%97%8F%E5%AE%9A%E6%97%A5%E5%8E%BF%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B4126%E4%BA%BA%E9%81%87%E9%9A%BE%23&t=31&band_rank=1&Refer=top) 887208
 1. [男子为还百万债务杀妻骗保](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%BA%E8%BF%98%E7%99%BE%E4%B8%87%E5%80%BA%E5%8A%A1%E6%9D%80%E5%A6%BB%E9%AA%97%E4%BF%9D%23&t=31&band_rank=10&Refer=top) 378862
 1. [国色芳华热度](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%89%B2%E8%8A%B3%E5%8D%8E%E7%83%AD%E5%BA%A6&t=31&band_rank=2&Refer=top) 369502
@@ -78,18 +78,20 @@
 1. [关注定日县地震救灾](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%B3%A8%E5%AE%9A%E6%97%A5%E5%8E%BF%E5%9C%B0%E9%9C%87%E6%95%91%E7%81%BE%23&t=31&band_rank=48&Refer=top) 80333
 1. [日喀则发生5次3.0级以上余震](https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%96%80%E5%88%99%E5%8F%91%E7%94%9F5%E6%AC%A13.0%E7%BA%A7%E4%BB%A5%E4%B8%8A%E4%BD%99%E9%9C%87%23&t=31&band_rank=49&Refer=top) 80324
 1. [定日县地震已致126人遇难188人受伤](https://s.weibo.com/weibo?q=%23%E5%AE%9A%E6%97%A5%E5%8E%BF%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B4126%E4%BA%BA%E9%81%87%E9%9A%BE188%E4%BA%BA%E5%8F%97%E4%BC%A4%23&t=31&band_rank=50&Refer=top) 80307
-1. [愿西藏定日县平安](https://s.weibo.com/weibo?q=%23%E6%84%BF%E8%A5%BF%E8%97%8F%E5%AE%9A%E6%97%A5%E5%8E%BF%E5%B9%B3%E5%AE%89%23&t=31&band_rank=5&Refer=top) 66245
+1. [愿西藏定日县平安](https://s.weibo.com/weibo?q=%23%E6%84%BF%E8%A5%BF%E8%97%8F%E5%AE%9A%E6%97%A5%E5%8E%BF%E5%B9%B3%E5%AE%89%23&t=31&band_rank=5&Refer=top) 73599
 1. [守望相助日喀则](https://s.weibo.com/weibo?q=%23%E5%AE%88%E6%9C%9B%E7%9B%B8%E5%8A%A9%E6%97%A5%E5%96%80%E5%88%99%23&t=31&band_rank=20&Refer=top) 49795
 1. [贪官用妻子控制的34家公司受贿](https://s.weibo.com/weibo?q=%23%E8%B4%AA%E5%AE%98%E7%94%A8%E5%A6%BB%E5%AD%90%E6%8E%A7%E5%88%B6%E7%9A%8434%E5%AE%B6%E5%85%AC%E5%8F%B8%E5%8F%97%E8%B4%BF%23&t=31&band_rank=25&Refer=top) 49676
 1. [救援车辆逆行赴西藏定日震区](https://s.weibo.com/weibo?q=%23%E6%95%91%E6%8F%B4%E8%BD%A6%E8%BE%86%E9%80%86%E8%A1%8C%E8%B5%B4%E8%A5%BF%E8%97%8F%E5%AE%9A%E6%97%A5%E9%9C%87%E5%8C%BA%23&t=31&band_rank=46&Refer=top) 49222
-1. [定日县地震全力搜救](https://s.weibo.com/weibo?q=%23%E5%AE%9A%E6%97%A5%E5%8E%BF%E5%9C%B0%E9%9C%87%E5%85%A8%E5%8A%9B%E6%90%9C%E6%95%91%23&t=31&band_rank=16&Refer=top) 32960
+1. [定日县地震全力搜救](https://s.weibo.com/weibo?q=%23%E5%AE%9A%E6%97%A5%E5%8E%BF%E5%9C%B0%E9%9C%87%E5%85%A8%E5%8A%9B%E6%90%9C%E6%95%91%23&t=31&band_rank=16&Refer=top) 43726
 1. [国色芳华里到底有多少牡丹](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%89%B2%E8%8A%B3%E5%8D%8E%E9%87%8C%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%B0%91%E7%89%A1%E4%B8%B9%23&t=31&band_rank=20&Refer=top) 31783
 1. [甲流有没有特效药](https://s.weibo.com/weibo?q=%23%E7%94%B2%E6%B5%81%E6%9C%89%E6%B2%A1%E6%9C%89%E7%89%B9%E6%95%88%E8%8D%AF%23&t=31&band_rank=42&Refer=top) 31517
 1. [大型项目变私人农场开发公司注销](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%9E%8B%E9%A1%B9%E7%9B%AE%E5%8F%98%E7%A7%81%E4%BA%BA%E5%86%9C%E5%9C%BA%E5%BC%80%E5%8F%91%E5%85%AC%E5%8F%B8%E6%B3%A8%E9%94%80%23&t=31&band_rank=23&Refer=top) 31365
 1. [微博之夜年度推荐](https://s.weibo.com/weibo?q=%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E5%B9%B4%E5%BA%A6%E6%8E%A8%E8%8D%90&t=31&band_rank=48&Refer=top) 31192
 1. [腊八节快乐](https://s.weibo.com/weibo?q=%23%E8%85%8A%E5%85%AB%E8%8A%82%E5%BF%AB%E4%B9%90%23&t=31&band_rank=50&Refer=top) 31174
+1. [李现原声台词](https://s.weibo.com/weibo?q=%E6%9D%8E%E7%8E%B0%E5%8E%9F%E5%A3%B0%E5%8F%B0%E8%AF%8D&t=31&band_rank=34&Refer=top) 31174
+1. [地震时你背同学往外冲的模样真帅](https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%9C%87%E6%97%B6%E4%BD%A0%E8%83%8C%E5%90%8C%E5%AD%A6%E5%BE%80%E5%A4%96%E5%86%B2%E7%9A%84%E6%A8%A1%E6%A0%B7%E7%9C%9F%E5%B8%85%23&t=31&band_rank=43&Refer=top) 31148
+1. [今天腊八](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E8%85%8A%E5%85%AB%23&t=31&band_rank=48&Refer=top) 31132
 1. [大叔用20年20万棵树爆改沙地](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%8F%94%E7%94%A820%E5%B9%B420%E4%B8%87%E6%A3%B5%E6%A0%91%E7%88%86%E6%94%B9%E6%B2%99%E5%9C%B0%23&t=31&band_rank=40&Refer=top) 28109
-1. [今天腊八](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E8%85%8A%E5%85%AB%23&t=31&band_rank=48&Refer=top) 28102
 <!-- END -->
 
 历史归档 [./archives](./archives)
