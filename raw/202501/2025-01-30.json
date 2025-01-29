@@ -175,9 +175,13 @@
     "url": "https://s.weibo.com/weibo?q=%E7%9C%8B%E5%AE%8C%E5%94%90%E6%8E%A2%E6%88%91%E5%85%88%E6%9B%BF%E9%99%88%E6%80%9D%E8%AF%9A%E5%93%AD%E4%B8%A4%E5%A3%B0&t=31&band_rank=44&Refer=top",
     "hot": 116535
   },
+  "春节宝宝来了": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%98%A5%E8%8A%82%E5%AE%9D%E5%AE%9D%E6%9D%A5%E4%BA%86%23&t=31&band_rank=10&Refer=top",
+    "hot": 108976
+  },
   "特朗普称DeepSeek传递积极信号": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0DeepSeek%E4%BC%A0%E9%80%92%E7%A7%AF%E6%9E%81%E4%BF%A1%E5%8F%B7%23&t=31&band_rank=14&Refer=top",
-    "hot": 96187
+    "hot": 96992
   },
   "申公豹彩蛋": {
     "url": "https://s.weibo.com/weibo?q=%E7%94%B3%E5%85%AC%E8%B1%B9%E5%BD%A9%E8%9B%8B&t=31&band_rank=45&Refer=top",
@@ -222,5 +226,17 @@
   "DeepSeek能否改写AI战局": {
     "url": "https://s.weibo.com/weibo?q=DeepSeek%E8%83%BD%E5%90%A6%E6%94%B9%E5%86%99AI%E6%88%98%E5%B1%80&t=31&band_rank=50&Refer=top",
     "hot": 57427
+  },
+  "春节档观影排序": {
+    "url": "https://s.weibo.com/weibo?q=%E6%98%A5%E8%8A%82%E6%A1%A3%E8%A7%82%E5%BD%B1%E6%8E%92%E5%BA%8F&t=31&band_rank=35&Refer=top",
+    "hot": 35952
+  },
+  "哪吒票房": {
+    "url": "https://s.weibo.com/weibo?q=%E5%93%AA%E5%90%92%E7%A5%A8%E6%88%BF&t=31&band_rank=42&Refer=top",
+    "hot": 32341
+  },
+  "中国电影史单日票房破纪录": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%BD%B1%E5%8F%B2%E5%8D%95%E6%97%A5%E7%A5%A8%E6%88%BF%E7%A0%B4%E7%BA%AA%E5%BD%95%23&t=31&band_rank=45&Refer=top",
+    "hot": 32161
   }
 }
