@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-01-31 05:17:20.968125 
+最后更新时间 2025-01-31 06:17:15.700532 
 1. [敖丙他爸出场 哇声一片](https://s.weibo.com/weibo?q=%E6%95%96%E4%B8%99%E4%BB%96%E7%88%B8%E5%87%BA%E5%9C%BA%20%E5%93%87%E5%A3%B0%E4%B8%80%E7%89%87&t=31&band_rank=1&Refer=top) 1201591
 1. [金价](https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=2&Refer=top) 990090
 1. [文化中国行非遗贺新春](https://s.weibo.com/weibo?q=%23%E6%96%87%E5%8C%96%E4%B8%AD%E5%9B%BD%E8%A1%8C%E9%9D%9E%E9%81%97%E8%B4%BA%E6%96%B0%E6%98%A5%23&t=31&band_rank=3&Refer=top) 749591
@@ -75,10 +75,13 @@
 1. [美花滑运动员因狗逃过致命航班](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%8A%B1%E6%BB%91%E8%BF%90%E5%8A%A8%E5%91%98%E5%9B%A0%E7%8B%97%E9%80%83%E8%BF%87%E8%87%B4%E5%91%BD%E8%88%AA%E7%8F%AD%23&t=31&band_rank=48&Refer=top) 31640
 1. [珍贵的好友就要多多见面](https://s.weibo.com/weibo?q=%23%E7%8F%8D%E8%B4%B5%E7%9A%84%E5%A5%BD%E5%8F%8B%E5%B0%B1%E8%A6%81%E5%A4%9A%E5%A4%9A%E8%A7%81%E9%9D%A2%23&t=31&band_rank=50&Refer=top) 31633
 1. [抗美援朝女兵回忆脚趾甲被冻掉](https://s.weibo.com/weibo?q=%23%E6%8A%97%E7%BE%8E%E6%8F%B4%E6%9C%9D%E5%A5%B3%E5%85%B5%E5%9B%9E%E5%BF%86%E8%84%9A%E8%B6%BE%E7%94%B2%E8%A2%AB%E5%86%BB%E6%8E%89%23&t=31&band_rank=15&Refer=top) 26292
+1. [美国撞机事件空中音频曝光](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%92%9E%E6%9C%BA%E4%BA%8B%E4%BB%B6%E7%A9%BA%E4%B8%AD%E9%9F%B3%E9%A2%91%E6%9B%9D%E5%85%89%23&t=31&band_rank=25&Refer=top) 25471
+1. [4万香客排队10小时进雍和宫烧头香](https://s.weibo.com/weibo?q=%234%E4%B8%87%E9%A6%99%E5%AE%A2%E6%8E%92%E9%98%9F10%E5%B0%8F%E6%97%B6%E8%BF%9B%E9%9B%8D%E5%92%8C%E5%AE%AB%E7%83%A7%E5%A4%B4%E9%A6%99%23&t=31&band_rank=40&Refer=top) 20488
+1. [为何美国两日坠三机](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BD%95%E7%BE%8E%E5%9B%BD%E4%B8%A4%E6%97%A5%E5%9D%A0%E4%B8%89%E6%9C%BA%23&t=31&band_rank=49&Refer=top) 20291
 1. [美国撞机事故目击者发声](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%92%9E%E6%9C%BA%E4%BA%8B%E6%95%85%E7%9B%AE%E5%87%BB%E8%80%85%E5%8F%91%E5%A3%B0%23&t=31&band_rank=31&Refer=top) 19357
 1. [陈丽君穿10公分戏靴连转25米彩绸](https://s.weibo.com/weibo?q=%23%E9%99%88%E4%B8%BD%E5%90%9B%E7%A9%BF10%E5%85%AC%E5%88%86%E6%88%8F%E9%9D%B4%E8%BF%9E%E8%BD%AC25%E7%B1%B3%E5%BD%A9%E7%BB%B8%23&t=31&band_rank=32&Refer=top) 19345
-1. [为何美国两日坠三机](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BD%95%E7%BE%8E%E5%9B%BD%E4%B8%A4%E6%97%A5%E5%9D%A0%E4%B8%89%E6%9C%BA%23&t=31&band_rank=49&Refer=top) 18404
-1. [4万香客排队10小时进雍和宫烧头香](https://s.weibo.com/weibo?q=%234%E4%B8%87%E9%A6%99%E5%AE%A2%E6%8E%92%E9%98%9F10%E5%B0%8F%E6%97%B6%E8%BF%9B%E9%9B%8D%E5%92%8C%E5%AE%AB%E7%83%A7%E5%A4%B4%E9%A6%99%23&t=31&band_rank=40&Refer=top) 16837
+1. [美国坠河客机上有花滑世界冠军](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%9D%A0%E6%B2%B3%E5%AE%A2%E6%9C%BA%E4%B8%8A%E6%9C%89%E8%8A%B1%E6%BB%91%E4%B8%96%E7%95%8C%E5%86%A0%E5%86%9B%23&t=31&band_rank=34&Refer=top) 18773
+1. [今年春节档票房有望再创新高](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E6%98%A5%E8%8A%82%E6%A1%A3%E7%A5%A8%E6%88%BF%E6%9C%89%E6%9C%9B%E5%86%8D%E5%88%9B%E6%96%B0%E9%AB%98%23&t=31&band_rank=36&Refer=top) 18171
 1. [福气码](https://s.weibo.com/weibo?q=%E7%A6%8F%E6%B0%94%E7%A0%81&t=31&band_rank=42&Refer=top) 15906
 1. [三航母官兵合唱当那一天来临](https://s.weibo.com/weibo?q=%E4%B8%89%E8%88%AA%E6%AF%8D%E5%AE%98%E5%85%B5%E5%90%88%E5%94%B1%E5%BD%93%E9%82%A3%E4%B8%80%E5%A4%A9%E6%9D%A5%E4%B8%B4&t=31&band_rank=41&Refer=top) 14898
 <!-- END -->
