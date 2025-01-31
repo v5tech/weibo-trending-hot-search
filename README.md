@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-02-01 02:25:21.515638 
+最后更新时间 2025-02-01 03:14:49.710467 
 1. [哪吒2票房逆跌](https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%922%E7%A5%A8%E6%88%BF%E9%80%86%E8%B7%8C%23&t=31&band_rank=1&Refer=top) 1372772
 1. [真的不要把鞭炮扔进下水道](https://s.weibo.com/weibo?q=%23%E7%9C%9F%E7%9A%84%E4%B8%8D%E8%A6%81%E6%8A%8A%E9%9E%AD%E7%82%AE%E6%89%94%E8%BF%9B%E4%B8%8B%E6%B0%B4%E9%81%93%23&t=31&band_rank=2&Refer=top) 633105
 1. [中国人的春节传统走向世界了](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E6%98%A5%E8%8A%82%E4%BC%A0%E7%BB%9F%E8%B5%B0%E5%90%91%E4%B8%96%E7%95%8C%E4%BA%86%23&t=31&band_rank=3&Refer=top) 294298
@@ -65,10 +65,15 @@
 1. [唐探获中国影史系列电影票房冠军](https://s.weibo.com/weibo?q=%23%E5%94%90%E6%8E%A2%E8%8E%B7%E4%B8%AD%E5%9B%BD%E5%BD%B1%E5%8F%B2%E7%B3%BB%E5%88%97%E7%94%B5%E5%BD%B1%E7%A5%A8%E6%88%BF%E5%86%A0%E5%86%9B%23&t=31&band_rank=40&Refer=top) 61972
 1. [藕饼交融](https://s.weibo.com/weibo?q=%E8%97%95%E9%A5%BC%E4%BA%A4%E8%9E%8D&t=31&band_rank=41&Refer=top) 61058
 1. [越南从韩国进口的无人机大批坠机](https://s.weibo.com/weibo?q=%23%E8%B6%8A%E5%8D%97%E4%BB%8E%E9%9F%A9%E5%9B%BD%E8%BF%9B%E5%8F%A3%E7%9A%84%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%A4%A7%E6%89%B9%E5%9D%A0%E6%9C%BA%23&t=31&band_rank=46&Refer=top) 53252
+1. [使千千万万个家庭成为梦想启航的地方](https://s.weibo.com/weibo?q=%23%E4%BD%BF%E5%8D%83%E5%8D%83%E4%B8%87%E4%B8%87%E4%B8%AA%E5%AE%B6%E5%BA%AD%E6%88%90%E4%B8%BA%E6%A2%A6%E6%83%B3%E5%90%AF%E8%88%AA%E7%9A%84%E5%9C%B0%E6%96%B9%23&t=31&band_rank=19&Refer=top) 42990
+1. [哪吒2特效](https://s.weibo.com/weibo?q=%E5%93%AA%E5%90%922%E7%89%B9%E6%95%88&t=31&band_rank=27&Refer=top) 37603
 1. [大年初四接灶王](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%B9%B4%E5%88%9D%E5%9B%9B%E6%8E%A5%E7%81%B6%E7%8E%8B%23&t=31&band_rank=40&Refer=top) 35012
 1. [那尔那茜八年空窗期都干了什么](https://s.weibo.com/weibo?q=%E9%82%A3%E5%B0%94%E9%82%A3%E8%8C%9C%E5%85%AB%E5%B9%B4%E7%A9%BA%E7%AA%97%E6%9C%9F%E9%83%BD%E5%B9%B2%E4%BA%86%E4%BB%80%E4%B9%88&t=31&band_rank=42&Refer=top) 34661
 1. [三亚西岛致歉](https://s.weibo.com/weibo?q=%23%E4%B8%89%E4%BA%9A%E8%A5%BF%E5%B2%9B%E8%87%B4%E6%AD%89%23&t=31&band_rank=44&Refer=top) 32787
 1. [2月第1天](https://s.weibo.com/weibo?q=%232%E6%9C%88%E7%AC%AC1%E5%A4%A9%23&t=31&band_rank=46&Refer=top) 29732
+1. [光头强做了微整形还偷偷洗白了](https://s.weibo.com/weibo?q=%23%E5%85%89%E5%A4%B4%E5%BC%BA%E5%81%9A%E4%BA%86%E5%BE%AE%E6%95%B4%E5%BD%A2%E8%BF%98%E5%81%B7%E5%81%B7%E6%B4%97%E7%99%BD%E4%BA%86%23&t=31&band_rank=35&Refer=top) 28654
+1. [特朗普称撞机时黑鹰直升机高度过高](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%92%9E%E6%9C%BA%E6%97%B6%E9%BB%91%E9%B9%B0%E7%9B%B4%E5%8D%87%E6%9C%BA%E9%AB%98%E5%BA%A6%E8%BF%87%E9%AB%98%23&t=31&band_rank=38&Refer=top) 26709
+1. [黄晓明与陈凯歌一家聚餐](https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E4%B8%8E%E9%99%88%E5%87%AF%E6%AD%8C%E4%B8%80%E5%AE%B6%E8%81%9A%E9%A4%90%23&t=31&band_rank=43&Refer=top) 25534
 <!-- END -->
 
 历史归档 [./archives](./archives)
