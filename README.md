@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-02-02 02:22:52.263282 
+最后更新时间 2025-02-02 03:13:31.769045 
 1. [女生一觉醒来相亲对象已站床边](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E4%B8%80%E8%A7%89%E9%86%92%E6%9D%A5%E7%9B%B8%E4%BA%B2%E5%AF%B9%E8%B1%A1%E5%B7%B2%E7%AB%99%E5%BA%8A%E8%BE%B9%23&t=31&band_rank=1&Refer=top) 1080109
 1. [三亚紧急发布6条措施明日实施](https://s.weibo.com/weibo?q=%23%E4%B8%89%E4%BA%9A%E7%B4%A7%E6%80%A5%E5%8F%91%E5%B8%836%E6%9D%A1%E6%8E%AA%E6%96%BD%E6%98%8E%E6%97%A5%E5%AE%9E%E6%96%BD%23&t=31&band_rank=1&Refer=top) 999203
 1. [于冬反问无名只配6.6分吗](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E5%86%AC%E5%8F%8D%E9%97%AE%E6%97%A0%E5%90%8D%E5%8F%AA%E9%85%8D6.6%E5%88%86%E5%90%97%23&t=31&band_rank=27&Refer=top) 783302
@@ -71,6 +71,8 @@
 1. [好友揭秘王菲春晚落泪](https://s.weibo.com/weibo?q=%23%E5%A5%BD%E5%8F%8B%E6%8F%AD%E7%A7%98%E7%8E%8B%E8%8F%B2%E6%98%A5%E6%99%9A%E8%90%BD%E6%B3%AA%23&t=31&band_rank=46&Refer=top) 39446
 1. [伯恩茅斯0比2利物浦](https://s.weibo.com/weibo?q=%23%E4%BC%AF%E6%81%A9%E8%8C%85%E6%96%AF0%E6%AF%942%E5%88%A9%E7%89%A9%E6%B5%A6%23&t=31&band_rank=48&Refer=top) 39444
 1. [初五财蛇到](https://s.weibo.com/weibo?q=%23%E5%88%9D%E4%BA%94%E8%B4%A2%E8%9B%87%E5%88%B0%23&t=31&band_rank=50&Refer=top) 39438
+1. [哪吒2魔童闹海](https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%922%E9%AD%94%E7%AB%A5%E9%97%B9%E6%B5%B7%23&t=31&band_rank=37&Refer=top) 31232
+1. [一路繁花](https://s.weibo.com/weibo?q=%E4%B8%80%E8%B7%AF%E7%B9%81%E8%8A%B1&t=31&band_rank=43&Refer=top) 25097
 <!-- END -->
 
 历史归档 [./archives](./archives)
