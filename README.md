@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-02-03 04:18:31.260524 
+最后更新时间 2025-02-03 05:16:23.342437 
 1. [哪吒2进入影史票房前二十](https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%922%E8%BF%9B%E5%85%A5%E5%BD%B1%E5%8F%B2%E7%A5%A8%E6%88%BF%E5%89%8D%E4%BA%8C%E5%8D%81%23&t=31&band_rank=1&Refer=top) 1057561
 1. [影院回应一天排99场哪吒2](https://s.weibo.com/weibo?q=%23%E5%BD%B1%E9%99%A2%E5%9B%9E%E5%BA%94%E4%B8%80%E5%A4%A9%E6%8E%9299%E5%9C%BA%E5%93%AA%E5%90%922%23&t=31&band_rank=1&Refer=top) 930948
 1. [孙颖莎王楚钦王曼昱等集体发声](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E7%8E%8B%E6%A5%9A%E9%92%A6%E7%8E%8B%E6%9B%BC%E6%98%B1%E7%AD%89%E9%9B%86%E4%BD%93%E5%8F%91%E5%A3%B0%23&t=31&band_rank=2&Refer=top) 638072
@@ -71,8 +71,10 @@
 1. [导演谈哪吒的容貌焦虑](https://s.weibo.com/weibo?q=%23%E5%AF%BC%E6%BC%94%E8%B0%88%E5%93%AA%E5%90%92%E7%9A%84%E5%AE%B9%E8%B2%8C%E7%84%A6%E8%99%91%23&t=31&band_rank=25&Refer=top) 50972
 1. [拜托这可是陈哲远亲自选的女主](https://s.weibo.com/weibo?q=%E6%8B%9C%E6%89%98%E8%BF%99%E5%8F%AF%E6%98%AF%E9%99%88%E5%93%B2%E8%BF%9C%E4%BA%B2%E8%87%AA%E9%80%89%E7%9A%84%E5%A5%B3%E4%B8%BB&t=31&band_rank=35&Refer=top) 40122
 1. [电影哪吒之魔童闹海](https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E5%93%AA%E5%90%92%E4%B9%8B%E9%AD%94%E7%AB%A5%E9%97%B9%E6%B5%B7%23&t=31&band_rank=30&Refer=top) 37053
+1. [大年初六逢立春](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%B9%B4%E5%88%9D%E5%85%AD%E9%80%A2%E7%AB%8B%E6%98%A5%23&t=31&band_rank=10&Refer=top) 36760
 1. [刘国梁建议隐藏世界排名](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%9B%BD%E6%A2%81%E5%BB%BA%E8%AE%AE%E9%9A%90%E8%97%8F%E4%B8%96%E7%95%8C%E6%8E%92%E5%90%8D%23&t=31&band_rank=44&Refer=top) 28940
 1. [张极成长记录vlog](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9E%81%E6%88%90%E9%95%BF%E8%AE%B0%E5%BD%95vlog&t=31&band_rank=48&Refer=top) 26312
+1. [王楚钦说希望运动员有合理选择赛事的权利](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%AF%B4%E5%B8%8C%E6%9C%9B%E8%BF%90%E5%8A%A8%E5%91%98%E6%9C%89%E5%90%88%E7%90%86%E9%80%89%E6%8B%A9%E8%B5%9B%E4%BA%8B%E7%9A%84%E6%9D%83%E5%88%A9%23&t=31&band_rank=30&Refer=top) 21491
 1. [用中国式浪漫打开立春节气](https://s.weibo.com/weibo?q=%E7%94%A8%E4%B8%AD%E5%9B%BD%E5%BC%8F%E6%B5%AA%E6%BC%AB%E6%89%93%E5%BC%80%E7%AB%8B%E6%98%A5%E8%8A%82%E6%B0%94&t=31&band_rank=39&Refer=top) 20413
 1. [仙台有树全员抱树等开播](https://s.weibo.com/weibo?q=%23%E4%BB%99%E5%8F%B0%E6%9C%89%E6%A0%91%E5%85%A8%E5%91%98%E6%8A%B1%E6%A0%91%E7%AD%89%E5%BC%80%E6%92%AD%23&t=31&band_rank=44&Refer=top) 17474
 <!-- END -->
