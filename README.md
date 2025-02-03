@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-02-04 02:25:53.279502 
+最后更新时间 2025-02-04 03:15:32.392792 
 1. [光线要拍敖丙传](https://s.weibo.com/weibo?q=%23%E5%85%89%E7%BA%BF%E8%A6%81%E6%8B%8D%E6%95%96%E4%B8%99%E4%BC%A0%23&t=31&band_rank=1&Refer=top) 970150
 1. [奥司他韦不能乱吃](https://s.weibo.com/weibo?q=%23%E5%A5%A5%E5%8F%B8%E4%BB%96%E9%9F%A6%E4%B8%8D%E8%83%BD%E4%B9%B1%E5%90%83%23&t=31&band_rank=2&Refer=top) 528859
 1. [手写二十四节气领略四季之美](https://s.weibo.com/weibo?q=%23%E6%89%8B%E5%86%99%E4%BA%8C%E5%8D%81%E5%9B%9B%E8%8A%82%E6%B0%94%E9%A2%86%E7%95%A5%E5%9B%9B%E5%AD%A3%E4%B9%8B%E7%BE%8E%23&t=31&band_rank=3&Refer=top) 433642
@@ -69,6 +69,8 @@
 1. [射雕疑似被恶意打分](https://s.weibo.com/weibo?q=%23%E5%B0%84%E9%9B%95%E7%96%91%E4%BC%BC%E8%A2%AB%E6%81%B6%E6%84%8F%E6%89%93%E5%88%86%23&t=31&band_rank=22&Refer=top) 120312
 1. [美国超市冷藏柜拉出一只活狼](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%B6%85%E5%B8%82%E5%86%B7%E8%97%8F%E6%9F%9C%E6%8B%89%E5%87%BA%E4%B8%80%E5%8F%AA%E6%B4%BB%E7%8B%BC%23&t=31&band_rank=34&Refer=top) 118690
 1. [立春](https://s.weibo.com/weibo?q=%E7%AB%8B%E6%98%A5&t=31&band_rank=49&Refer=top) 116565
+1. [哪吒2曾尝试国外特效团队不尽人意](https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%922%E6%9B%BE%E5%B0%9D%E8%AF%95%E5%9B%BD%E5%A4%96%E7%89%B9%E6%95%88%E5%9B%A2%E9%98%9F%E4%B8%8D%E5%B0%BD%E4%BA%BA%E6%84%8F%23&t=31&band_rank=28&Refer=top) 74190
+1. [慕胥辞杀青特辑](https://s.weibo.com/weibo?q=%23%E6%85%95%E8%83%A5%E8%BE%9E%E6%9D%80%E9%9D%92%E7%89%B9%E8%BE%91%23&t=31&band_rank=42&Refer=top) 73951
 <!-- END -->
 
 历史归档 [./archives](./archives)
