@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-02-06 04:21:12.936473 
+最后更新时间 2025-02-06 05:18:17.057084 
 1. [48岁李锋博士春节遭意外离世](https://s.weibo.com/weibo?q=%2348%E5%B2%81%E6%9D%8E%E9%94%8B%E5%8D%9A%E5%A3%AB%E6%98%A5%E8%8A%82%E9%81%AD%E6%84%8F%E5%A4%96%E7%A6%BB%E4%B8%96%23&t=31&band_rank=1&Refer=top) 1426581
 1. [哪吒](https://s.weibo.com/weibo?q=%E5%93%AA%E5%90%92&t=31&band_rank=2&Refer=top) 1199457
 1. [哪吒2明日或登顶中国影史票房冠军](https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%922%E6%98%8E%E6%97%A5%E6%88%96%E7%99%BB%E9%A1%B6%E4%B8%AD%E5%9B%BD%E5%BD%B1%E5%8F%B2%E7%A5%A8%E6%88%BF%E5%86%A0%E5%86%9B%23&t=31&band_rank=5&Refer=top) 1187870
@@ -77,9 +77,12 @@
 1. [宁艺卓Giselle自作曲](https://s.weibo.com/weibo?q=%23%E5%AE%81%E8%89%BA%E5%8D%93Giselle%E8%87%AA%E4%BD%9C%E6%9B%B2%23&t=31&band_rank=35&Refer=top) 46070
 1. [央视网文娱点赞白色橄榄树](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E7%BD%91%E6%96%87%E5%A8%B1%E7%82%B9%E8%B5%9E%E7%99%BD%E8%89%B2%E6%A9%84%E6%A6%84%E6%A0%91%23&t=31&band_rank=44&Refer=top) 45999
 1. [上海营商环境8.0版](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E8%90%A5%E5%95%86%E7%8E%AF%E5%A2%838.0%E7%89%88%23&t=31&band_rank=10&Refer=top) 45558
+1. [南京地铁10号线突发故障](https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E5%9C%B0%E9%93%8110%E5%8F%B7%E7%BA%BF%E7%AA%81%E5%8F%91%E6%95%85%E9%9A%9C%23&t=31&band_rank=10&Refer=top) 38058
 1. [国安提醒节后返岗牢记四不](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%89%E6%8F%90%E9%86%92%E8%8A%82%E5%90%8E%E8%BF%94%E5%B2%97%E7%89%A2%E8%AE%B0%E5%9B%9B%E4%B8%8D%23&t=31&band_rank=46&Refer=top) 31269
 1. [谷歌删除不将AI用于武器研发的承诺条款](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E6%AD%8C%E5%88%A0%E9%99%A4%E4%B8%8D%E5%B0%86AI%E7%94%A8%E4%BA%8E%E6%AD%A6%E5%99%A8%E7%A0%94%E5%8F%91%E7%9A%84%E6%89%BF%E8%AF%BA%E6%9D%A1%E6%AC%BE%23&t=31&band_rank=48&Refer=top) 31256
 1. [解放军南部战区位南海海域例行巡航](https://s.weibo.com/weibo?q=%23%E8%A7%A3%E6%94%BE%E5%86%9B%E5%8D%97%E9%83%A8%E6%88%98%E5%8C%BA%E4%BD%8D%E5%8D%97%E6%B5%B7%E6%B5%B7%E5%9F%9F%E4%BE%8B%E8%A1%8C%E5%B7%A1%E8%88%AA%23&t=31&band_rank=44&Refer=top) 20961
+1. [开工第一天情绪价值拉满](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%B7%A5%E7%AC%AC%E4%B8%80%E5%A4%A9%E6%83%85%E7%BB%AA%E4%BB%B7%E5%80%BC%E6%8B%89%E6%BB%A1%23&t=31&band_rank=47&Refer=top) 18419
+1. [王一博祝你开工大吉](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E7%A5%9D%E4%BD%A0%E5%BC%80%E5%B7%A5%E5%A4%A7%E5%90%89%23&t=31&band_rank=50&Refer=top) 18417
 <!-- END -->
 
 历史归档 [./archives](./archives)
