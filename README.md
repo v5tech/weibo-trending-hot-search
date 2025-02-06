@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-02-07 04:20:25.378958 
+最后更新时间 2025-02-07 05:18:07.577977 
 1. [哪吒影史第一](https://s.weibo.com/weibo?q=%E5%93%AA%E5%90%92%E5%BD%B1%E5%8F%B2%E7%AC%AC%E4%B8%80&t=31&band_rank=1&Refer=top) 1083160
 1. [建议别在晚上做重大决定](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%88%AB%E5%9C%A8%E6%99%9A%E4%B8%8A%E5%81%9A%E9%87%8D%E5%A4%A7%E5%86%B3%E5%AE%9A%23&t=31&band_rank=2&Refer=top) 715824
 1. [三个关键词概括第九届亚冬会](https://s.weibo.com/weibo?q=%23%E4%B8%89%E4%B8%AA%E5%85%B3%E9%94%AE%E8%AF%8D%E6%A6%82%E6%8B%AC%E7%AC%AC%E4%B9%9D%E5%B1%8A%E4%BA%9A%E5%86%AC%E4%BC%9A%23&t=31&band_rank=3&Refer=top) 643646
