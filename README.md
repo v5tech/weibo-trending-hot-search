@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-02-09 01:15:27.579357 
+最后更新时间 2025-02-09 02:23:26.674764 
 1. [哪吒2进全球票房榜前50](https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%922%E8%BF%9B%E5%85%A8%E7%90%83%E7%A5%A8%E6%88%BF%E6%A6%9C%E5%89%8D50%23&t=31&band_rank=1&Refer=top) 1115816
 1. [泽连斯基向美国亮出稀土地图](https://s.weibo.com/weibo?q=%23%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%90%91%E7%BE%8E%E5%9B%BD%E4%BA%AE%E5%87%BA%E7%A8%80%E5%9C%9F%E5%9C%B0%E5%9B%BE%23&t=31&band_rank=26&Refer=top) 573233
 1. [从冬奥到亚冬冰雪热燃起来了](https://s.weibo.com/weibo?q=%23%E4%BB%8E%E5%86%AC%E5%A5%A5%E5%88%B0%E4%BA%9A%E5%86%AC%E5%86%B0%E9%9B%AA%E7%83%AD%E7%87%83%E8%B5%B7%E6%9D%A5%E4%BA%86%23&t=31&band_rank=3&Refer=top) 542270
@@ -29,7 +29,7 @@
 1. [哪吒2已破74亿](https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%922%E5%B7%B2%E7%A0%B474%E4%BA%BF%23&t=31&band_rank=16&Refer=top) 241169
 1. [儿子砸车窗取AED救下心梗父亲](https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E7%A0%B8%E8%BD%A6%E7%AA%97%E5%8F%96AED%E6%95%91%E4%B8%8B%E5%BF%83%E6%A2%97%E7%88%B6%E4%BA%B2%23&t=31&band_rank=17&Refer=top) 233278
 1. [网曝服务区垃圾桶发现大量酥肉腊味](https://s.weibo.com/weibo?q=%23%E7%BD%91%E6%9B%9D%E6%9C%8D%E5%8A%A1%E5%8C%BA%E5%9E%83%E5%9C%BE%E6%A1%B6%E5%8F%91%E7%8E%B0%E5%A4%A7%E9%87%8F%E9%85%A5%E8%82%89%E8%85%8A%E5%91%B3%23&t=31&band_rank=18&Refer=top) 228426
-1. [警方通报欺凌视频事实基本属实](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E6%AC%BA%E5%87%8C%E8%A7%86%E9%A2%91%E4%BA%8B%E5%AE%9E%E5%9F%BA%E6%9C%AC%E5%B1%9E%E5%AE%9E%23&t=31&band_rank=10&Refer=top) 212888
+1. [警方通报欺凌视频事实基本属实](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E6%AC%BA%E5%87%8C%E8%A7%86%E9%A2%91%E4%BA%8B%E5%AE%9E%E5%9F%BA%E6%9C%AC%E5%B1%9E%E5%AE%9E%23&t=31&band_rank=10&Refer=top) 222012
 1. [普通人真的不用花钱学DeepSeek](https://s.weibo.com/weibo?q=%23%E6%99%AE%E9%80%9A%E4%BA%BA%E7%9C%9F%E7%9A%84%E4%B8%8D%E7%94%A8%E8%8A%B1%E9%92%B1%E5%AD%A6DeepSeek%23&t=31&band_rank=19&Refer=top) 205907
 1. [成都一景区用棉花仿雪村引争议](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E4%B8%80%E6%99%AF%E5%8C%BA%E7%94%A8%E6%A3%89%E8%8A%B1%E4%BB%BF%E9%9B%AA%E6%9D%91%E5%BC%95%E4%BA%89%E8%AE%AE%23&t=31&band_rank=20&Refer=top) 202667
 1. [石矶娘娘配音演员照片宛如石矶本矶](https://s.weibo.com/weibo?q=%23%E7%9F%B3%E7%9F%B6%E5%A8%98%E5%A8%98%E9%85%8D%E9%9F%B3%E6%BC%94%E5%91%98%E7%85%A7%E7%89%87%E5%AE%9B%E5%A6%82%E7%9F%B3%E7%9F%B6%E6%9C%AC%E7%9F%B6%23&t=31&band_rank=21&Refer=top) 202323
@@ -42,6 +42,7 @@
 1. [四川山体滑坡30余人失联](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%B1%B1%E4%BD%93%E6%BB%91%E5%9D%A130%E4%BD%99%E4%BA%BA%E5%A4%B1%E8%81%94%23&t=31&band_rank=29&Refer=top) 162769
 1. [导演饺子初中班主任发声](https://s.weibo.com/weibo?q=%23%E5%AF%BC%E6%BC%94%E9%A5%BA%E5%AD%90%E5%88%9D%E4%B8%AD%E7%8F%AD%E4%B8%BB%E4%BB%BB%E5%8F%91%E5%A3%B0%23&t=31&band_rank=30&Refer=top) 159334
 1. [魏哲鸣录hi6脖子过敏](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%93%B2%E9%B8%A3%E5%BD%95hi6%E8%84%96%E5%AD%90%E8%BF%87%E6%95%8F%23&t=31&band_rank=31&Refer=top) 157847
+1. [加沙人说这辈子什么都没有了](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%99%E4%BA%BA%E8%AF%B4%E8%BF%99%E8%BE%88%E5%AD%90%E4%BB%80%E4%B9%88%E9%83%BD%E6%B2%A1%E6%9C%89%E4%BA%86%23&t=31&band_rank=7&Refer=top) 155343
 1. [王曼昱蒯曼用冠军庆祝生日](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B1%E8%92%AF%E6%9B%BC%E7%94%A8%E5%86%A0%E5%86%9B%E5%BA%86%E7%A5%9D%E7%94%9F%E6%97%A5%23&t=31&band_rank=32&Refer=top) 153961
 1. [紧急预拨3000万元支持四川救灾工作](https://s.weibo.com/weibo?q=%23%E7%B4%A7%E6%80%A5%E9%A2%84%E6%8B%A83000%E4%B8%87%E5%85%83%E6%94%AF%E6%8C%81%E5%9B%9B%E5%B7%9D%E6%95%91%E7%81%BE%E5%B7%A5%E4%BD%9C%23&t=31&band_rank=33&Refer=top) 153952
 1. [武艺分手两三年了](https://s.weibo.com/weibo?q=%E6%AD%A6%E8%89%BA%E5%88%86%E6%89%8B%E4%B8%A4%E4%B8%89%E5%B9%B4%E4%BA%86&t=31&band_rank=34&Refer=top) 153951
@@ -51,6 +52,8 @@
 1. [外媒称哪吒2爆火是因中国人没钱旅游](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%AA%92%E7%A7%B0%E5%93%AA%E5%90%922%E7%88%86%E7%81%AB%E6%98%AF%E5%9B%A0%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B2%A1%E9%92%B1%E6%97%85%E6%B8%B8%23&t=31&band_rank=21&Refer=top) 130655
 1. [李宗伟强烈反对改15分制](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AE%97%E4%BC%9F%E5%BC%BA%E7%83%88%E5%8F%8D%E5%AF%B9%E6%94%B915%E5%88%86%E5%88%B6%23&t=31&band_rank=38&Refer=top) 127047
 1. [四川筠连山体滑坡救援现场](https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E7%AD%A0%E8%BF%9E%E5%B1%B1%E4%BD%93%E6%BB%91%E5%9D%A1%E6%95%91%E6%8F%B4%E7%8E%B0%E5%9C%BA%23&t=31&band_rank=39&Refer=top) 126232
+1. [女孩遭欺凌5名涉案人员均已到案](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E9%81%AD%E6%AC%BA%E5%87%8C5%E5%90%8D%E6%B6%89%E6%A1%88%E4%BA%BA%E5%91%98%E5%9D%87%E5%B7%B2%E5%88%B0%E6%A1%88%23&t=31&band_rank=10&Refer=top) 121842
+1. [女子得了流感硬抗3天变白肺](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%BE%97%E4%BA%86%E6%B5%81%E6%84%9F%E7%A1%AC%E6%8A%973%E5%A4%A9%E5%8F%98%E7%99%BD%E8%82%BA%23&t=31&band_rank=11&Refer=top) 120214
 1. [刘诗诗 妈妈级别](https://s.weibo.com/weibo?q=%E5%88%98%E8%AF%97%E8%AF%97%20%E5%A6%88%E5%A6%88%E7%BA%A7%E5%88%AB&t=31&band_rank=40&Refer=top) 119490
 1. [没人告诉我莲花楼后劲这么大啊](https://s.weibo.com/weibo?q=%E6%B2%A1%E4%BA%BA%E5%91%8A%E8%AF%89%E6%88%91%E8%8E%B2%E8%8A%B1%E6%A5%BC%E5%90%8E%E5%8A%B2%E8%BF%99%E4%B9%88%E5%A4%A7%E5%95%8A&t=31&band_rank=41&Refer=top) 119358
 1. [零下35度一家三口救下路边冻僵大爷](https://s.weibo.com/weibo?q=%23%E9%9B%B6%E4%B8%8B35%E5%BA%A6%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E6%95%91%E4%B8%8B%E8%B7%AF%E8%BE%B9%E5%86%BB%E5%83%B5%E5%A4%A7%E7%88%B7%23&t=31&band_rank=42&Refer=top) 119209
@@ -68,6 +71,12 @@
 1. [饺子导演的70亿海报](https://s.weibo.com/weibo?q=%23%E9%A5%BA%E5%AD%90%E5%AF%BC%E6%BC%94%E7%9A%8470%E4%BA%BF%E6%B5%B7%E6%8A%A5%23&t=31&band_rank=41&Refer=top) 81841
 1. [这发不过来的夺金速度](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%8F%91%E4%B8%8D%E8%BF%87%E6%9D%A5%E7%9A%84%E5%A4%BA%E9%87%91%E9%80%9F%E5%BA%A6%23&t=31&band_rank=45&Refer=top) 81785
 1. [王曼昱蒯曼3比2孙颖莎王艺迪](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B1%E8%92%AF%E6%9B%BC3%E6%AF%942%E5%AD%99%E9%A2%96%E8%8E%8E%E7%8E%8B%E8%89%BA%E8%BF%AA%23&t=31&band_rank=49&Refer=top) 81727
+1. [蒯曼三项进决赛](https://s.weibo.com/weibo?q=%23%E8%92%AF%E6%9B%BC%E4%B8%89%E9%A1%B9%E8%BF%9B%E5%86%B3%E8%B5%9B%23&t=31&band_rank=25&Refer=top) 65151
+1. [武警已到达四川山体滑坡现场救援](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E8%AD%A6%E5%B7%B2%E5%88%B0%E8%BE%BE%E5%9B%9B%E5%B7%9D%E5%B1%B1%E4%BD%93%E6%BB%91%E5%9D%A1%E7%8E%B0%E5%9C%BA%E6%95%91%E6%8F%B4%23&t=31&band_rank=32&Refer=top) 49333
+1. [女生入住毛坯房水电软装花费1万元](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E5%85%A5%E4%BD%8F%E6%AF%9B%E5%9D%AF%E6%88%BF%E6%B0%B4%E7%94%B5%E8%BD%AF%E8%A3%85%E8%8A%B1%E8%B4%B91%E4%B8%87%E5%85%83%23&t=31&band_rank=33&Refer=top) 49322
+1. [fayeyoko](https://s.weibo.com/weibo?q=%23fayeyoko%23&t=31&band_rank=34&Refer=top) 49319
+1. [饺子导演亲签卡牌被炒至9.5万](https://s.weibo.com/weibo?q=%23%E9%A5%BA%E5%AD%90%E5%AF%BC%E6%BC%94%E4%BA%B2%E7%AD%BE%E5%8D%A1%E7%89%8C%E8%A2%AB%E7%82%92%E8%87%B39.5%E4%B8%87%23&t=31&band_rank=46&Refer=top) 42843
+1. [TF家族2025新音纪录片星火](https://s.weibo.com/weibo?q=%23TF%E5%AE%B6%E6%97%8F2025%E6%96%B0%E9%9F%B3%E7%BA%AA%E5%BD%95%E7%89%87%E6%98%9F%E7%81%AB%23&t=31&band_rank=48&Refer=top) 42823
 <!-- END -->
 
 历史归档 [./archives](./archives)
