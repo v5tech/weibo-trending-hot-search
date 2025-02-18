@@ -1,4 +1,8 @@
 {
+  "哪吒2预测票房下跌": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%922%E9%A2%84%E6%B5%8B%E7%A5%A8%E6%88%BF%E4%B8%8B%E8%B7%8C%23&t=31&band_rank=1&Refer=top",
+    "hot": 2470391
+  },
   "AI公务员上岗": {
     "url": "https://s.weibo.com/weibo?q=%23AI%E5%85%AC%E5%8A%A1%E5%91%98%E4%B8%8A%E5%B2%97%23&t=31&band_rank=1&Refer=top",
     "hot": 1860310
@@ -23,13 +27,41 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E8%A1%8C%E6%98%9F%E6%88%96%E6%92%9E%E5%9C%B0%E7%90%83%E6%98%AF%E8%99%9A%E6%83%8A%E8%BF%98%E6%98%AF%E4%B8%A5%E9%87%8D%E5%A8%81%E8%83%81%23&t=31&band_rank=2&Refer=top",
     "hot": 878996
   },
+  "美国男子蜜月期殴打华裔妻子致死": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%94%B7%E5%AD%90%E8%9C%9C%E6%9C%88%E6%9C%9F%E6%AE%B4%E6%89%93%E5%8D%8E%E8%A3%94%E5%A6%BB%E5%AD%90%E8%87%B4%E6%AD%BB%23&t=31&band_rank=4&Refer=top",
+    "hot": 681842
+  },
   "哪吒2进入全球影史票房前9": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%922%E8%BF%9B%E5%85%A5%E5%85%A8%E7%90%83%E5%BD%B1%E5%8F%B2%E7%A5%A8%E6%88%BF%E5%89%8D9%23&t=31&band_rank=4&Refer=top",
     "hot": 673233
   },
+  "难哄开播": {
+    "url": "https://s.weibo.com/weibo?q=%E9%9A%BE%E5%93%84%E5%BC%80%E6%92%AD&t=31&band_rank=5&Refer=top",
+    "hot": 647146
+  },
   "原来难哄的是桑延": {
     "url": "https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E9%9A%BE%E5%93%84%E7%9A%84%E6%98%AF%E6%A1%91%E5%BB%B6&t=31&band_rank=6&Refer=top",
     "hot": 497482
+  },
+  "专家称不必过于担忧AI抢人类铁饭碗": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E4%B8%8D%E5%BF%85%E8%BF%87%E4%BA%8E%E6%8B%85%E5%BF%A7AI%E6%8A%A2%E4%BA%BA%E7%B1%BB%E9%93%81%E9%A5%AD%E7%A2%97%23&t=31&band_rank=6&Refer=top",
+    "hot": 487029
+  },
+  "相柳这次终于是桐华的男主了": {
+    "url": "https://s.weibo.com/weibo?q=%E7%9B%B8%E6%9F%B3%E8%BF%99%E6%AC%A1%E7%BB%88%E4%BA%8E%E6%98%AF%E6%A1%90%E5%8D%8E%E7%9A%84%E7%94%B7%E4%B8%BB%E4%BA%86&t=31&band_rank=20&Refer=top",
+    "hot": 466031
+  },
+  "DeepSeek手机版安全使用教程": {
+    "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%89%8B%E6%9C%BA%E7%89%88%E5%AE%89%E5%85%A8%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B%23&t=31&band_rank=8&Refer=top",
+    "hot": 437963
+  },
+  "仿冒DeepSeek手机病毒出现": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BB%BF%E5%86%92DeepSeek%E6%89%8B%E6%9C%BA%E7%97%85%E6%AF%92%E5%87%BA%E7%8E%B0%23&t=31&band_rank=9&Refer=top",
+    "hot": 433470
+  },
+  "美航司客机翻转落地内部一片狼藉": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%88%AA%E5%8F%B8%E5%AE%A2%E6%9C%BA%E7%BF%BB%E8%BD%AC%E8%90%BD%E5%9C%B0%E5%86%85%E9%83%A8%E4%B8%80%E7%89%87%E7%8B%BC%E8%97%89%23&t=31&band_rank=10&Refer=top",
+    "hot": 408711
   },
   "亲属称罗福莉与丈夫研究领域相同": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%BA%B2%E5%B1%9E%E7%A7%B0%E7%BD%97%E7%A6%8F%E8%8E%89%E4%B8%8E%E4%B8%88%E5%A4%AB%E7%A0%94%E7%A9%B6%E9%A2%86%E5%9F%9F%E7%9B%B8%E5%90%8C%23&t=31&band_rank=8&Refer=top",
@@ -54,6 +86,10 @@
   "建议饺子导演学学宫崎骏": {
     "url": "https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E9%A5%BA%E5%AD%90%E5%AF%BC%E6%BC%94%E5%AD%A6%E5%AD%A6%E5%AE%AB%E5%B4%8E%E9%AA%8F&t=31&band_rank=15&Refer=top",
     "hot": 388721
+  },
+  "浙江妈妈早产生下双胞胎哪吒": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E5%A6%88%E5%A6%88%E6%97%A9%E4%BA%A7%E7%94%9F%E4%B8%8B%E5%8F%8C%E8%83%9E%E8%83%8E%E5%93%AA%E5%90%92%23&t=31&band_rank=11&Refer=top",
+    "hot": 388527
   },
   "当事人回应高速旁停车抽打教育小孩": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%9B%9E%E5%BA%94%E9%AB%98%E9%80%9F%E6%97%81%E5%81%9C%E8%BD%A6%E6%8A%BD%E6%89%93%E6%95%99%E8%82%B2%E5%B0%8F%E5%AD%A9%23&t=31&band_rank=29&Refer=top",
@@ -83,13 +119,13 @@
     "url": "https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%A3%8E%E8%A1%A3%E9%98%94%E8%85%BF%E8%A3%A4%E9%80%A0%E5%9E%8B%23&t=31&band_rank=19&Refer=top",
     "hot": 361014
   },
-  "相柳这次终于是桐华的男主了": {
-    "url": "https://s.weibo.com/weibo?q=%E7%9B%B8%E6%9F%B3%E8%BF%99%E6%AC%A1%E7%BB%88%E4%BA%8E%E6%98%AF%E6%A1%90%E5%8D%8E%E7%9A%84%E7%94%B7%E4%B8%BB%E4%BA%86&t=31&band_rank=20&Refer=top",
-    "hot": 354005
-  },
   "花八万给妈妈补上十几年的社保": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%85%AB%E4%B8%87%E7%BB%99%E5%A6%88%E5%A6%88%E8%A1%A5%E4%B8%8A%E5%8D%81%E5%87%A0%E5%B9%B4%E7%9A%84%E7%A4%BE%E4%BF%9D%23&t=31&band_rank=21&Refer=top",
     "hot": 344245
+  },
+  "马斯克查美社保称发现360岁老人": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E6%9F%A5%E7%BE%8E%E7%A4%BE%E4%BF%9D%E7%A7%B0%E5%8F%91%E7%8E%B0360%E5%B2%81%E8%80%81%E4%BA%BA%23&t=31&band_rank=16&Refer=top",
+    "hot": 316122
   },
   "不喜欢求助他人可能是缺爱": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%96%9C%E6%AC%A2%E6%B1%82%E5%8A%A9%E4%BB%96%E4%BA%BA%E5%8F%AF%E8%83%BD%E6%98%AF%E7%BC%BA%E7%88%B1%23&t=31&band_rank=5&Refer=top",
@@ -147,6 +183,10 @@
     "url": "https://s.weibo.com/weibo?q=%23psy%E5%9B%A0%E8%BF%87%E5%BA%A6%E5%87%8F%E8%82%A5%E5%90%91%E7%B2%89%E4%B8%9D%E9%81%93%E6%AD%89%23&t=31&band_rank=13&Refer=top",
     "hot": 264240
   },
+  "申小豹仿妆": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%94%B3%E5%B0%8F%E8%B1%B9%E4%BB%BF%E5%A6%86%23&t=31&band_rank=18&Refer=top",
+    "hot": 260136
+  },
   "我爱的那些人 杨幂": {
     "url": "https://s.weibo.com/weibo?q=%E6%88%91%E7%88%B1%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%BA%20%E6%9D%A8%E5%B9%82&t=31&band_rank=28&Refer=top",
     "hot": 260067
@@ -158,6 +198,14 @@
   "翟潇闻演技": {
     "url": "https://s.weibo.com/weibo?q=%E7%BF%9F%E6%BD%87%E9%97%BB%E6%BC%94%E6%8A%80&t=31&band_rank=29&Refer=top",
     "hot": 254579
+  },
+  "女子晒双胞胎儿子cos哪吒敖丙": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%99%92%E5%8F%8C%E8%83%9E%E8%83%8E%E5%84%BF%E5%AD%90cos%E5%93%AA%E5%90%92%E6%95%96%E4%B8%99%23&t=31&band_rank=21&Refer=top",
+    "hot": 251450
+  },
+  "全国仅4台的限量款耳机是啥样的": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E4%BB%854%E5%8F%B0%E7%9A%84%E9%99%90%E9%87%8F%E6%AC%BE%E8%80%B3%E6%9C%BA%E6%98%AF%E5%95%A5%E6%A0%B7%E7%9A%84%23&t=31&band_rank=22&Refer=top",
+    "hot": 250612
   },
   "周扬青回应网曝新恋情": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%89%AC%E9%9D%92%E5%9B%9E%E5%BA%94%E7%BD%91%E6%9B%9D%E6%96%B0%E6%81%8B%E6%83%85%23&t=31&band_rank=16&Refer=top",
@@ -183,6 +231,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E8%A2%AB%E5%82%AC%E5%A9%9A%E5%82%AC%E7%83%A6%E4%B8%80%E5%8F%A3%E6%B0%94%E6%8A%8A%E9%95%BF%E5%8F%91%E5%89%AA%E4%BA%86%23&t=31&band_rank=23&Refer=top",
     "hot": 218788
   },
+  "科比东契奇巨幅壁画": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%A7%91%E6%AF%94%E4%B8%9C%E5%A5%91%E5%A5%87%E5%B7%A8%E5%B9%85%E5%A3%81%E7%94%BB%23&t=31&band_rank=25&Refer=top",
+    "hot": 216908
+  },
   "乌方不承认美俄谈判达成协议": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%B9%8C%E6%96%B9%E4%B8%8D%E6%89%BF%E8%AE%A4%E7%BE%8E%E4%BF%84%E8%B0%88%E5%88%A4%E8%BE%BE%E6%88%90%E5%8D%8F%E8%AE%AE%23&t=31&band_rank=8&Refer=top",
     "hot": 214614
@@ -203,9 +255,25 @@
     "url": "https://s.weibo.com/weibo?q=%23%E8%92%8B%E6%AC%A3%E8%AF%84%E8%AE%BA%E5%8C%BA%E5%9B%9E%E5%BA%94%E4%B8%BA%E4%BD%95%E4%B8%8D%E7%BB%93%E5%A9%9A%23&t=31&band_rank=22&Refer=top",
     "hot": 198852
   },
+  "编号17定档": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BC%96%E5%8F%B717%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=29&Refer=top",
+    "hot": 194896
+  },
+  "网红顾茜茜说日收入30万都是辛苦钱": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E9%A1%BE%E8%8C%9C%E8%8C%9C%E8%AF%B4%E6%97%A5%E6%94%B6%E5%85%A530%E4%B8%87%E9%83%BD%E6%98%AF%E8%BE%9B%E8%8B%A6%E9%92%B1%23&t=31&band_rank=31&Refer=top",
+    "hot": 191691
+  },
+  "橘子冒烟小心肺部真菌感染": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%A9%98%E5%AD%90%E5%86%92%E7%83%9F%E5%B0%8F%E5%BF%83%E8%82%BA%E9%83%A8%E7%9C%9F%E8%8F%8C%E6%84%9F%E6%9F%93%23&t=31&band_rank=32&Refer=top",
+    "hot": 187367
+  },
   "脂肪肝少吃主食还是少吃肉": {
     "url": "https://s.weibo.com/weibo?q=%E8%84%82%E8%82%AA%E8%82%9D%E5%B0%91%E5%90%83%E4%B8%BB%E9%A3%9F%E8%BF%98%E6%98%AF%E5%B0%91%E5%90%83%E8%82%89&t=31&band_rank=37&Refer=top",
     "hot": 180580
+  },
+  "刘浩存文淇柏林电影节第二套look": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E6%B5%A9%E5%AD%98%E6%96%87%E6%B7%87%E6%9F%8F%E6%9E%97%E7%94%B5%E5%BD%B1%E8%8A%82%E7%AC%AC%E4%BA%8C%E5%A5%97look%23&t=31&band_rank=33&Refer=top",
+    "hot": 173911
   },
   "杭州AI主播和真人长得也太像了": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9EAI%E4%B8%BB%E6%92%AD%E5%92%8C%E7%9C%9F%E4%BA%BA%E9%95%BF%E5%BE%97%E4%B9%9F%E5%A4%AA%E5%83%8F%E4%BA%86%23&t=31&band_rank=36&Refer=top",
@@ -215,9 +283,17 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B9%E7%A9%BF%E7%9D%80%E6%9C%80%E7%94%9C%E7%9A%84%E6%9C%8D%E8%A3%85%E5%81%9A%E6%9C%80%E7%8B%A0%E7%9A%84%E5%BC%95%E4%BD%93%E5%90%91%E4%B8%8A%23&t=31&band_rank=37&Refer=top",
     "hot": 163195
   },
+  "开除树籍": {
+    "url": "https://s.weibo.com/weibo?q=%E5%BC%80%E9%99%A4%E6%A0%91%E7%B1%8D&t=31&band_rank=36&Refer=top",
+    "hot": 162952
+  },
   "奶奶给孙女缝结界兽套装回头率爆表": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B6%E5%A5%B6%E7%BB%99%E5%AD%99%E5%A5%B3%E7%BC%9D%E7%BB%93%E7%95%8C%E5%85%BD%E5%A5%97%E8%A3%85%E5%9B%9E%E5%A4%B4%E7%8E%87%E7%88%86%E8%A1%A8%23&t=31&band_rank=38&Refer=top",
     "hot": 162260
+  },
+  "哪吒2港澳定档22日": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%922%E6%B8%AF%E6%BE%B3%E5%AE%9A%E6%A1%A322%E6%97%A5%23&t=31&band_rank=37&Refer=top",
+    "hot": 161641
   },
   "雨水": {
     "url": "https://s.weibo.com/weibo?q=%E9%9B%A8%E6%B0%B4&t=31&band_rank=9&Refer=top",
@@ -267,13 +343,41 @@
     "url": "https://s.weibo.com/weibo?q=%23%E7%BC%BA%E7%88%B1%E7%9A%84%E4%BA%BA%E5%BE%88%E9%9A%BE%E8%BF%9B%E5%85%A5%E4%B8%80%E6%AE%B5%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB%23&t=31&band_rank=31&Refer=top",
     "hot": 143811
   },
+  "为防AI作业老师说不用补寒假作业": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%BA%E9%98%B2AI%E4%BD%9C%E4%B8%9A%E8%80%81%E5%B8%88%E8%AF%B4%E4%B8%8D%E7%94%A8%E8%A1%A5%E5%AF%92%E5%81%87%E4%BD%9C%E4%B8%9A%23&t=31&band_rank=41&Refer=top",
+    "hot": 143028
+  },
   "张嘉元直播爆料演员3未播片段": {
     "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%98%89%E5%85%83%E7%9B%B4%E6%92%AD%E7%88%86%E6%96%99%E6%BC%94%E5%91%983%E6%9C%AA%E6%92%AD%E7%89%87%E6%AE%B5&t=31&band_rank=32&Refer=top",
     "hot": 139793
   },
+  "英雄联盟铁男圣堂皮肤": {
+    "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E9%93%81%E7%94%B7%E5%9C%A3%E5%A0%82%E7%9A%AE%E8%82%A4%23&t=31&band_rank=42&Refer=top",
+    "hot": 134053
+  },
+  "红房子导演 穷出自信穷出风采": {
+    "url": "https://s.weibo.com/weibo?q=%E7%BA%A2%E6%88%BF%E5%AD%90%E5%AF%BC%E6%BC%94%20%E7%A9%B7%E5%87%BA%E8%87%AA%E4%BF%A1%E7%A9%B7%E5%87%BA%E9%A3%8E%E9%87%87&t=31&band_rank=43&Refer=top",
+    "hot": 133777
+  },
+  "福宝浑身都是笋": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%AE%9D%E6%B5%91%E8%BA%AB%E9%83%BD%E6%98%AF%E7%AC%8B%23&t=31&band_rank=44&Refer=top",
+    "hot": 132996
+  },
+  "千万不要有学习羞耻症": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E6%9C%89%E5%AD%A6%E4%B9%A0%E7%BE%9E%E8%80%BB%E7%97%87%23&t=31&band_rank=46&Refer=top",
+    "hot": 130274
+  },
   "杨洋展昭杀青请客": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B4%8B%E5%B1%95%E6%98%AD%E6%9D%80%E9%9D%92%E8%AF%B7%E5%AE%A2%23&t=31&band_rank=33&Refer=top",
     "hot": 129718
+  },
+  "缅方在妙瓦底再抓捕273人": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BC%85%E6%96%B9%E5%9C%A8%E5%A6%99%E7%93%A6%E5%BA%95%E5%86%8D%E6%8A%93%E6%8D%95273%E4%BA%BA%23&t=31&band_rank=47&Refer=top",
+    "hot": 123565
+  },
+  "福宝出门晒太阳了": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%AE%9D%E5%87%BA%E9%97%A8%E6%99%92%E5%A4%AA%E9%98%B3%E4%BA%86%23&t=31&band_rank=48&Refer=top",
+    "hot": 123232
   },
   "她真的找到了做一辈子的爱好": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B9%E7%9C%9F%E7%9A%84%E6%89%BE%E5%88%B0%E4%BA%86%E5%81%9A%E4%B8%80%E8%BE%88%E5%AD%90%E7%9A%84%E7%88%B1%E5%A5%BD%23&t=31&band_rank=44&Refer=top",
