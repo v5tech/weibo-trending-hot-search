@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-02-22 03:15:20.795968 
+最后更新时间 2025-02-22 04:20:23.586810 
 1. [五毛人民币假钞在美国卖五美金](https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%AF%9B%E4%BA%BA%E6%B0%91%E5%B8%81%E5%81%87%E9%92%9E%E5%9C%A8%E7%BE%8E%E5%9B%BD%E5%8D%96%E4%BA%94%E7%BE%8E%E9%87%91%23&t=31&band_rank=1&Refer=top) 968529
 1. [择天记](https://s.weibo.com/weibo?q=%E6%8B%A9%E5%A4%A9%E8%AE%B0&t=31&band_rank=2&Refer=top) 637510
 1. [中国空间站首个舱内在轨机器人试验](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E9%A6%96%E4%B8%AA%E8%88%B1%E5%86%85%E5%9C%A8%E8%BD%A8%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%AF%95%E9%AA%8C%23&t=31&band_rank=3&Refer=top) 612575
@@ -65,18 +65,23 @@
 1. [白敬亭红温到脖子了](https://s.weibo.com/weibo?q=%E7%99%BD%E6%95%AC%E4%BA%AD%E7%BA%A2%E6%B8%A9%E5%88%B0%E8%84%96%E5%AD%90%E4%BA%86&t=31&band_rank=9&Refer=top) 83117
 1. [植物大战僵尸3过审](https://s.weibo.com/weibo?q=%23%E6%A4%8D%E7%89%A9%E5%A4%A7%E6%88%98%E5%83%B5%E5%B0%B83%E8%BF%87%E5%AE%A1%23&t=31&band_rank=50&Refer=top) 78994
 1. [法国小伙想让全世界都知道真相](https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E5%B0%8F%E4%BC%99%E6%83%B3%E8%AE%A9%E5%85%A8%E4%B8%96%E7%95%8C%E9%83%BD%E7%9F%A5%E9%81%93%E7%9C%9F%E7%9B%B8%23&t=31&band_rank=17&Refer=top) 70717
+1. [DeepSeek上线数据局人员称应该不会失业](https://s.weibo.com/weibo?q=%23DeepSeek%E4%B8%8A%E7%BA%BF%E6%95%B0%E6%8D%AE%E5%B1%80%E4%BA%BA%E5%91%98%E7%A7%B0%E5%BA%94%E8%AF%A5%E4%B8%8D%E4%BC%9A%E5%A4%B1%E4%B8%9A%23&t=31&band_rank=27&Refer=top) 56213
 1. [民警建议家里不要安装摄像头](https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E5%BB%BA%E8%AE%AE%E5%AE%B6%E9%87%8C%E4%B8%8D%E8%A6%81%E5%AE%89%E8%A3%85%E6%91%84%E5%83%8F%E5%A4%B4%23&t=31&band_rank=48&Refer=top) 49699
 1. [PEL季前定位突围赛](https://s.weibo.com/weibo?q=%23PEL%E5%AD%A3%E5%89%8D%E5%AE%9A%E4%BD%8D%E7%AA%81%E5%9B%B4%E8%B5%9B%23&t=31&band_rank=49&Refer=top) 48164
 1. [靶向整治让网络环境更清朗](https://s.weibo.com/weibo?q=%23%E9%9D%B6%E5%90%91%E6%95%B4%E6%B2%BB%E8%AE%A9%E7%BD%91%E7%BB%9C%E7%8E%AF%E5%A2%83%E6%9B%B4%E6%B8%85%E6%9C%97%23&t=31&band_rank=30&Refer=top) 43893
 1. [IU朴宝剑新剧3月上线](https://s.weibo.com/weibo?q=%23IU%E6%9C%B4%E5%AE%9D%E5%89%91%E6%96%B0%E5%89%A73%E6%9C%88%E4%B8%8A%E7%BA%BF%23&t=31&band_rank=42&Refer=top) 40937
 1. [中方回应乌克兰危机和谈](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E4%B9%8C%E5%85%8B%E5%85%B0%E5%8D%B1%E6%9C%BA%E5%92%8C%E8%B0%88%23&t=31&band_rank=20&Refer=top) 39550
 1. [前女友力挺法老](https://s.weibo.com/weibo?q=%23%E5%89%8D%E5%A5%B3%E5%8F%8B%E5%8A%9B%E6%8C%BA%E6%B3%95%E8%80%81%23&t=31&band_rank=25&Refer=top) 37855
-1. [DeepSeek上线数据局人员称应该不会失业](https://s.weibo.com/weibo?q=%23DeepSeek%E4%B8%8A%E7%BA%BF%E6%95%B0%E6%8D%AE%E5%B1%80%E4%BA%BA%E5%91%98%E7%A7%B0%E5%BA%94%E8%AF%A5%E4%B8%8D%E4%BC%9A%E5%A4%B1%E4%B8%9A%23&t=31&band_rank=27&Refer=top) 33754
+1. [余华英案有4名人民陪审员参审](https://s.weibo.com/weibo?q=%23%E4%BD%99%E5%8D%8E%E8%8B%B1%E6%A1%88%E6%9C%894%E5%90%8D%E4%BA%BA%E6%B0%91%E9%99%AA%E5%AE%A1%E5%91%98%E5%8F%82%E5%AE%A1%23&t=31&band_rank=10&Refer=top) 34357
 1. [难哄删除争议镜头](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%93%84%E5%88%A0%E9%99%A4%E4%BA%89%E8%AE%AE%E9%95%9C%E5%A4%B4&t=31&band_rank=41&Refer=top) 31659
 1. [中泰缅雷霆式合作打击网赌电诈](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%B3%B0%E7%BC%85%E9%9B%B7%E9%9C%86%E5%BC%8F%E5%90%88%E4%BD%9C%E6%89%93%E5%87%BB%E7%BD%91%E8%B5%8C%E7%94%B5%E8%AF%88%23&t=31&band_rank=45&Refer=top) 28325
 1. [苏新皓2025潜力升咖艺人](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E6%96%B0%E7%9A%932025%E6%BD%9C%E5%8A%9B%E5%8D%87%E5%92%96%E8%89%BA%E4%BA%BA%23&t=31&band_rank=48&Refer=top) 26777
 1. [泡泡岛天津站官宣](https://s.weibo.com/weibo?q=%23%E6%B3%A1%E6%B3%A1%E5%B2%9B%E5%A4%A9%E6%B4%A5%E7%AB%99%E5%AE%98%E5%AE%A3%23&t=31&band_rank=50&Refer=top) 26775
 1. [我们的爸爸](https://s.weibo.com/weibo?q=%E6%88%91%E4%BB%AC%E7%9A%84%E7%88%B8%E7%88%B8&t=31&band_rank=49&Refer=top) 22009
+1. [以色列爆炸现场有多枚爆炸装置](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E7%88%86%E7%82%B8%E7%8E%B0%E5%9C%BA%E6%9C%89%E5%A4%9A%E6%9E%9A%E7%88%86%E7%82%B8%E8%A3%85%E7%BD%AE%23&t=31&band_rank=35&Refer=top) 19412
+1. [美国国税局将解雇约6000名员工](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%9B%BD%E7%A8%8E%E5%B1%80%E5%B0%86%E8%A7%A3%E9%9B%87%E7%BA%A66000%E5%90%8D%E5%91%98%E5%B7%A5%23&t=31&band_rank=36&Refer=top) 18774
+1. [马斯克说普京买不起我](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E8%AF%B4%E6%99%AE%E4%BA%AC%E4%B9%B0%E4%B8%8D%E8%B5%B7%E6%88%91%23&t=31&band_rank=45&Refer=top) 16301
+1. [今天星期五](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E6%98%9F%E6%9C%9F%E4%BA%94%23&t=31&band_rank=50&Refer=top) 16001
 <!-- END -->
 
 历史归档 [./archives](./archives)

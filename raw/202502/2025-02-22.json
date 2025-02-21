@@ -227,6 +227,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E5%B0%8F%E4%BC%99%E6%83%B3%E8%AE%A9%E5%85%A8%E4%B8%96%E7%95%8C%E9%83%BD%E7%9F%A5%E9%81%93%E7%9C%9F%E7%9B%B8%23&t=31&band_rank=17&Refer=top",
     "hot": 70717
   },
+  "DeepSeek上线数据局人员称应该不会失业": {
+    "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E4%B8%8A%E7%BA%BF%E6%95%B0%E6%8D%AE%E5%B1%80%E4%BA%BA%E5%91%98%E7%A7%B0%E5%BA%94%E8%AF%A5%E4%B8%8D%E4%BC%9A%E5%A4%B1%E4%B8%9A%23&t=31&band_rank=27&Refer=top",
+    "hot": 56213
+  },
   "民警建议家里不要安装摄像头": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E5%BB%BA%E8%AE%AE%E5%AE%B6%E9%87%8C%E4%B8%8D%E8%A6%81%E5%AE%89%E8%A3%85%E6%91%84%E5%83%8F%E5%A4%B4%23&t=31&band_rank=48&Refer=top",
     "hot": 49699
@@ -251,9 +255,9 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%89%8D%E5%A5%B3%E5%8F%8B%E5%8A%9B%E6%8C%BA%E6%B3%95%E8%80%81%23&t=31&band_rank=25&Refer=top",
     "hot": 37855
   },
-  "DeepSeek上线数据局人员称应该不会失业": {
-    "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E4%B8%8A%E7%BA%BF%E6%95%B0%E6%8D%AE%E5%B1%80%E4%BA%BA%E5%91%98%E7%A7%B0%E5%BA%94%E8%AF%A5%E4%B8%8D%E4%BC%9A%E5%A4%B1%E4%B8%9A%23&t=31&band_rank=27&Refer=top",
-    "hot": 33754
+  "余华英案有4名人民陪审员参审": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BD%99%E5%8D%8E%E8%8B%B1%E6%A1%88%E6%9C%894%E5%90%8D%E4%BA%BA%E6%B0%91%E9%99%AA%E5%AE%A1%E5%91%98%E5%8F%82%E5%AE%A1%23&t=31&band_rank=10&Refer=top",
+    "hot": 34357
   },
   "难哄删除争议镜头": {
     "url": "https://s.weibo.com/weibo?q=%E9%9A%BE%E5%93%84%E5%88%A0%E9%99%A4%E4%BA%89%E8%AE%AE%E9%95%9C%E5%A4%B4&t=31&band_rank=41&Refer=top",
@@ -274,5 +278,21 @@
   "我们的爸爸": {
     "url": "https://s.weibo.com/weibo?q=%E6%88%91%E4%BB%AC%E7%9A%84%E7%88%B8%E7%88%B8&t=31&band_rank=49&Refer=top",
     "hot": 22009
+  },
+  "以色列爆炸现场有多枚爆炸装置": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E7%88%86%E7%82%B8%E7%8E%B0%E5%9C%BA%E6%9C%89%E5%A4%9A%E6%9E%9A%E7%88%86%E7%82%B8%E8%A3%85%E7%BD%AE%23&t=31&band_rank=35&Refer=top",
+    "hot": 19412
+  },
+  "美国国税局将解雇约6000名员工": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%9B%BD%E7%A8%8E%E5%B1%80%E5%B0%86%E8%A7%A3%E9%9B%87%E7%BA%A66000%E5%90%8D%E5%91%98%E5%B7%A5%23&t=31&band_rank=36&Refer=top",
+    "hot": 18774
+  },
+  "马斯克说普京买不起我": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E8%AF%B4%E6%99%AE%E4%BA%AC%E4%B9%B0%E4%B8%8D%E8%B5%B7%E6%88%91%23&t=31&band_rank=45&Refer=top",
+    "hot": 16301
+  },
+  "今天星期五": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E6%98%9F%E6%9C%9F%E4%BA%94%23&t=31&band_rank=50&Refer=top",
+    "hot": 16001
   }
 }
