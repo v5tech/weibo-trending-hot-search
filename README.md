@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-02-25 02:27:39.603237 
+最后更新时间 2025-02-25 03:16:04.798249 
 1. [李威涉嫌伤害致死](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%A8%81%E6%B6%89%E5%AB%8C%E4%BC%A4%E5%AE%B3%E8%87%B4%E6%AD%BB%23&t=31&band_rank=1&Refer=top) 1229526
 1. [吉祥航空被曝给乘客发过期坚果](https://s.weibo.com/weibo?q=%23%E5%90%89%E7%A5%A5%E8%88%AA%E7%A9%BA%E8%A2%AB%E6%9B%9D%E7%BB%99%E4%B9%98%E5%AE%A2%E5%8F%91%E8%BF%87%E6%9C%9F%E5%9D%9A%E6%9E%9C%23&t=31&band_rank=2&Refer=top) 637645
 1. [专家解读中央一号文件亮点](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E8%A7%A3%E8%AF%BB%E4%B8%AD%E5%A4%AE%E4%B8%80%E5%8F%B7%E6%96%87%E4%BB%B6%E4%BA%AE%E7%82%B9%23&t=31&band_rank=3&Refer=top) 472682
@@ -63,12 +63,14 @@
 1. [难哄导演给白敬亭拍出偶像包袱了](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%93%84%E5%AF%BC%E6%BC%94%E7%BB%99%E7%99%BD%E6%95%AC%E4%BA%AD%E6%8B%8D%E5%87%BA%E5%81%B6%E5%83%8F%E5%8C%85%E8%A2%B1%E4%BA%86&t=31&band_rank=32&Refer=top) 58915
 1. [比起来月经 器官时间不和谐更让我烦躁](https://s.weibo.com/weibo?q=%E6%AF%94%E8%B5%B7%E6%9D%A5%E6%9C%88%E7%BB%8F%20%E5%99%A8%E5%AE%98%E6%97%B6%E9%97%B4%E4%B8%8D%E5%92%8C%E8%B0%90%E6%9B%B4%E8%AE%A9%E6%88%91%E7%83%A6%E8%BA%81&t=31&band_rank=45&Refer=top) 43461
 1. [被小孩哥高情商化解尴尬暖到了](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%B0%8F%E5%AD%A9%E5%93%A5%E9%AB%98%E6%83%85%E5%95%86%E5%8C%96%E8%A7%A3%E5%B0%B4%E5%B0%AC%E6%9A%96%E5%88%B0%E4%BA%86%23&t=31&band_rank=27&Refer=top) 32219
+1. [俄乌冲突三年给世界带来了什么](https://s.weibo.com/weibo?q=%23%E4%BF%84%E4%B9%8C%E5%86%B2%E7%AA%81%E4%B8%89%E5%B9%B4%E7%BB%99%E4%B8%96%E7%95%8C%E5%B8%A6%E6%9D%A5%E4%BA%86%E4%BB%80%E4%B9%88%23&t=31&band_rank=34&Refer=top) 29805
 1. [酒吧偶遇蒋奇明](https://s.weibo.com/weibo?q=%23%E9%85%92%E5%90%A7%E5%81%B6%E9%81%87%E8%92%8B%E5%A5%87%E6%98%8E%23&t=31&band_rank=31&Refer=top) 29181
 1. [丁程鑫23岁状态](https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A8%8B%E9%91%AB23%E5%B2%81%E7%8A%B6%E6%80%81%23&t=31&band_rank=32&Refer=top) 28532
-1. [俄乌冲突三年给世界带来了什么](https://s.weibo.com/weibo?q=%23%E4%BF%84%E4%B9%8C%E5%86%B2%E7%AA%81%E4%B8%89%E5%B9%B4%E7%BB%99%E4%B8%96%E7%95%8C%E5%B8%A6%E6%9D%A5%E4%BA%86%E4%BB%80%E4%B9%88%23&t=31&band_rank=34&Refer=top) 27536
+1. [留学生为父母养老放弃绿卡回国](https://s.weibo.com/weibo?q=%23%E7%95%99%E5%AD%A6%E7%94%9F%E4%B8%BA%E7%88%B6%E6%AF%8D%E5%85%BB%E8%80%81%E6%94%BE%E5%BC%83%E7%BB%BF%E5%8D%A1%E5%9B%9E%E5%9B%BD%23&t=31&band_rank=24&Refer=top) 28062
 1. [因为爱聊天获诺贝尔一直讲](https://s.weibo.com/weibo?q=%23%E5%9B%A0%E4%B8%BA%E7%88%B1%E8%81%8A%E5%A4%A9%E8%8E%B7%E8%AF%BA%E8%B4%9D%E5%B0%94%E4%B8%80%E7%9B%B4%E8%AE%B2%23&t=31&band_rank=41&Refer=top) 26452
 1. [唐奇的造型师们选的真不错](https://s.weibo.com/weibo?q=%E5%94%90%E5%A5%87%E7%9A%84%E9%80%A0%E5%9E%8B%E5%B8%88%E4%BB%AC%E9%80%89%E7%9A%84%E7%9C%9F%E4%B8%8D%E9%94%99&t=31&band_rank=48&Refer=top) 25344
 1. [Hearts2Hearts出道曲MV](https://s.weibo.com/weibo?q=Hearts2Hearts%E5%87%BA%E9%81%93%E6%9B%B2MV&t=31&band_rank=50&Refer=top) 25343
+1. [一男子地铁吵架吼对方听不懂上海话](https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%94%B7%E5%AD%90%E5%9C%B0%E9%93%81%E5%90%B5%E6%9E%B6%E5%90%BC%E5%AF%B9%E6%96%B9%E5%90%AC%E4%B8%8D%E6%87%82%E4%B8%8A%E6%B5%B7%E8%AF%9D%23&t=31&band_rank=41&Refer=top) 19427
 <!-- END -->
 
 历史归档 [./archives](./archives)
