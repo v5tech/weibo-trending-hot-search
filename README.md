@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-02-28 04:21:41.471100 
+最后更新时间 2025-02-28 05:18:41.929181 
 1. [哪吒2配音演员起诉配音公司](https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%922%E9%85%8D%E9%9F%B3%E6%BC%94%E5%91%98%E8%B5%B7%E8%AF%89%E9%85%8D%E9%9F%B3%E5%85%AC%E5%8F%B8%23&t=31&band_rank=1&Refer=top) 1637543
 1. [小米SU7Ultra](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3SU7Ultra&t=31&band_rank=2&Refer=top) 640249
 1. [看AI如何助力春耕育种](https://s.weibo.com/weibo?q=%23%E7%9C%8BAI%E5%A6%82%E4%BD%95%E5%8A%A9%E5%8A%9B%E6%98%A5%E8%80%95%E8%82%B2%E7%A7%8D%23&t=31&band_rank=3&Refer=top) 510656
@@ -78,7 +78,10 @@
 1. [WTA焕新登场](https://s.weibo.com/weibo?q=%23WTA%E7%84%95%E6%96%B0%E7%99%BB%E5%9C%BA%23&t=31&band_rank=25&Refer=top) 23033
 1. [PEL](https://s.weibo.com/weibo?q=PEL&t=31&band_rank=44&Refer=top) 21575
 1. [陈昊宇柳智敏同框看秀](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%98%8A%E5%AE%87%E6%9F%B3%E6%99%BA%E6%95%8F%E5%90%8C%E6%A1%86%E7%9C%8B%E7%A7%80%23&t=31&band_rank=46&Refer=top) 21573
+1. [卡卡前妻回应离婚说他太完美了](https://s.weibo.com/weibo?q=%23%E5%8D%A1%E5%8D%A1%E5%89%8D%E5%A6%BB%E5%9B%9E%E5%BA%94%E7%A6%BB%E5%A9%9A%E8%AF%B4%E4%BB%96%E5%A4%AA%E5%AE%8C%E7%BE%8E%E4%BA%86%23&t=31&band_rank=25&Refer=top) 20627
+1. [53万的小米SU7Ultra到底值不值](https://s.weibo.com/weibo?q=%2353%E4%B8%87%E7%9A%84%E5%B0%8F%E7%B1%B3SU7Ultra%E5%88%B0%E5%BA%95%E5%80%BC%E4%B8%8D%E5%80%BC%23&t=31&band_rank=35&Refer=top) 17381
 1. [180天重启计划](https://s.weibo.com/weibo?q=180%E5%A4%A9%E9%87%8D%E5%90%AF%E8%AE%A1%E5%88%92&t=31&band_rank=41&Refer=top) 14816
+1. [2025年全国两会新闻中心启用](https://s.weibo.com/weibo?q=%232025%E5%B9%B4%E5%85%A8%E5%9B%BD%E4%B8%A4%E4%BC%9A%E6%96%B0%E9%97%BB%E4%B8%AD%E5%BF%83%E5%90%AF%E7%94%A8%23&t=31&band_rank=50&Refer=top) 13740
 <!-- END -->
 
 历史归档 [./archives](./archives)
