@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-03-04 04:21:41.443053 
+最后更新时间 2025-03-04 05:19:52.306799 
 1. [deepseek统计利润率最高的10个行业](https://s.weibo.com/weibo?q=%23deepseek%E7%BB%9F%E8%AE%A1%E5%88%A9%E6%B6%A6%E7%8E%87%E6%9C%80%E9%AB%98%E7%9A%8410%E4%B8%AA%E8%A1%8C%E4%B8%9A%23&t=31&band_rank=1&Refer=top) 1055273
 1. [女子炒黄金第1天就赚2000元报了警](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%82%92%E9%BB%84%E9%87%91%E7%AC%AC1%E5%A4%A9%E5%B0%B1%E8%B5%9A2000%E5%85%83%E6%8A%A5%E4%BA%86%E8%AD%A6%23&t=31&band_rank=4&Refer=top) 545730
 1. [歌手](https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B&t=31&band_rank=2&Refer=top) 530633
@@ -84,6 +84,7 @@
 1. [蜜雪冰城平均1天卖近2500万杯](https://s.weibo.com/weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E5%B9%B3%E5%9D%871%E5%A4%A9%E5%8D%96%E8%BF%912500%E4%B8%87%E6%9D%AF%23&t=31&band_rank=48&Refer=top) 16449
 1. [建议心理健康纳入必修课](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7%E7%BA%B3%E5%85%A5%E5%BF%85%E4%BF%AE%E8%AF%BE%23&t=31&band_rank=49&Refer=top) 16446
 1. [檀健次微表情](https://s.weibo.com/weibo?q=%E6%AA%80%E5%81%A5%E6%AC%A1%E5%BE%AE%E8%A1%A8%E6%83%85&t=31&band_rank=50&Refer=top) 16444
+1. [建议药品说明书改变专业用语表述](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E8%8D%AF%E5%93%81%E8%AF%B4%E6%98%8E%E4%B9%A6%E6%94%B9%E5%8F%98%E4%B8%93%E4%B8%9A%E7%94%A8%E8%AF%AD%E8%A1%A8%E8%BF%B0%23&t=31&band_rank=42&Refer=top) 12520
 <!-- END -->
 
 历史归档 [./archives](./archives)
