@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-03-10 02:20:33.902017 
+最后更新时间 2025-03-10 03:12:25.241538 
 1. [徐克声明](https://s.weibo.com/weibo?q=%E5%BE%90%E5%85%8B%E5%A3%B0%E6%98%8E&t=31&band_rank=1&Refer=top) 1387109
 1. [难哄28集杀疯了](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%93%8428%E9%9B%86%E6%9D%80%E7%96%AF%E4%BA%86&t=31&band_rank=38&Refer=top) 699183
 1. [哪吒2冲上全球第6](https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%922%E5%86%B2%E4%B8%8A%E5%85%A8%E7%90%83%E7%AC%AC6%23&t=31&band_rank=2&Refer=top) 487291
@@ -68,6 +68,9 @@
 1. [辛美尔年度最佳男配角](https://s.weibo.com/weibo?q=%E8%BE%9B%E7%BE%8E%E5%B0%94%E5%B9%B4%E5%BA%A6%E6%9C%80%E4%BD%B3%E7%94%B7%E9%85%8D%E8%A7%92&t=31&band_rank=40&Refer=top) 31612
 1. [TT蝉联周冠军](https://s.weibo.com/weibo?q=%23TT%E8%9D%89%E8%81%94%E5%91%A8%E5%86%A0%E5%86%9B%23&t=31&band_rank=47&Refer=top) 31605
 1. [海尔老总回应撞脸结界兽](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%B0%94%E8%80%81%E6%80%BB%E5%9B%9E%E5%BA%94%E6%92%9E%E8%84%B8%E7%BB%93%E7%95%8C%E5%85%BD%23&t=31&band_rank=48&Refer=top) 31604
+1. [每个地市设立一个心理或睡眠门诊](https://s.weibo.com/weibo?q=%23%E6%AF%8F%E4%B8%AA%E5%9C%B0%E5%B8%82%E8%AE%BE%E7%AB%8B%E4%B8%80%E4%B8%AA%E5%BF%83%E7%90%86%E6%88%96%E7%9D%A1%E7%9C%A0%E9%97%A8%E8%AF%8A%23&t=31&band_rank=24&Refer=top) 28698
+1. [放开灵活就业人员参保的户籍限制](https://s.weibo.com/weibo?q=%23%E6%94%BE%E5%BC%80%E7%81%B5%E6%B4%BB%E5%B0%B1%E4%B8%9A%E4%BA%BA%E5%91%98%E5%8F%82%E4%BF%9D%E7%9A%84%E6%88%B7%E7%B1%8D%E9%99%90%E5%88%B6%23&t=31&band_rank=27&Refer=top) 28368
+1. [超宝藏上海citywalk路线](https://s.weibo.com/weibo?q=%E8%B6%85%E5%AE%9D%E8%97%8F%E4%B8%8A%E6%B5%B7citywalk%E8%B7%AF%E7%BA%BF&t=31&band_rank=50&Refer=top) 26374
 <!-- END -->
 
 历史归档 [./archives](./archives)
