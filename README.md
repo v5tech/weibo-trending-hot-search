@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-03-11 01:18:37.153529 
+最后更新时间 2025-03-11 02:26:36.118547 
 1. [26岁小伙泰山陪爬1年赚30多万](https://s.weibo.com/weibo?q=%2326%E5%B2%81%E5%B0%8F%E4%BC%99%E6%B3%B0%E5%B1%B1%E9%99%AA%E7%88%AC1%E5%B9%B4%E8%B5%9A30%E5%A4%9A%E4%B8%87%23&t=31&band_rank=1&Refer=top) 922971
 1. [国家版减肥指南来了](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E7%89%88%E5%87%8F%E8%82%A5%E6%8C%87%E5%8D%97%E6%9D%A5%E4%BA%86%23&t=31&band_rank=2&Refer=top) 623063
 1. [2025年美丽中国这样建](https://s.weibo.com/weibo?q=%232025%E5%B9%B4%E7%BE%8E%E4%B8%BD%E4%B8%AD%E5%9B%BD%E8%BF%99%E6%A0%B7%E5%BB%BA%23&t=31&band_rank=3&Refer=top) 346737
@@ -62,6 +62,9 @@
 1. [HLE战胜TES](https://s.weibo.com/weibo?q=%23HLE%E6%88%98%E8%83%9CTES%23&t=31&band_rank=44&Refer=top) 92781
 1. [恶作剧之吻裕树都结婚了](https://s.weibo.com/weibo?q=%23%E6%81%B6%E4%BD%9C%E5%89%A7%E4%B9%8B%E5%90%BB%E8%A3%95%E6%A0%91%E9%83%BD%E7%BB%93%E5%A9%9A%E4%BA%86%23&t=31&band_rank=46&Refer=top) 92735
 1. [日本女星岸本梓离世](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A5%B3%E6%98%9F%E5%B2%B8%E6%9C%AC%E6%A2%93%E7%A6%BB%E4%B8%96%23&t=31&band_rank=50&Refer=top) 92661
+1. [食物判官](https://s.weibo.com/weibo?q=%E9%A3%9F%E7%89%A9%E5%88%A4%E5%AE%98&t=31&band_rank=32&Refer=top) 34379
+1. [金圣圭签售会上请求上厕所](https://s.weibo.com/weibo?q=%23%E9%87%91%E5%9C%A3%E5%9C%AD%E7%AD%BE%E5%94%AE%E4%BC%9A%E4%B8%8A%E8%AF%B7%E6%B1%82%E4%B8%8A%E5%8E%95%E6%89%80%23&t=31&band_rank=39&Refer=top) 34315
+1. [陈飞宇生图](https://s.weibo.com/weibo?q=%E9%99%88%E9%A3%9E%E5%AE%87%E7%94%9F%E5%9B%BE&t=31&band_rank=46&Refer=top) 34252
 <!-- END -->
 
 历史归档 [./archives](./archives)
