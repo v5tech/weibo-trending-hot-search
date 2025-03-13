@@ -107,13 +107,13 @@
     "url": "https://s.weibo.com/weibo?q=%23%E8%B4%BE%E6%98%8E%E5%84%92%E7%BB%9D%E6%9D%80%23&t=31&band_rank=25&Refer=top",
     "hot": 152291
   },
+  "普京表示俄罗斯同意停火30天": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E8%A1%A8%E7%A4%BA%E4%BF%84%E7%BD%97%E6%96%AF%E5%90%8C%E6%84%8F%E5%81%9C%E7%81%AB30%E5%A4%A9%23&t=31&band_rank=18&Refer=top",
+    "hot": 148673
+  },
   "所有学生本硕博连读不用内卷": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%89%80%E6%9C%89%E5%AD%A6%E7%94%9F%E6%9C%AC%E7%A1%95%E5%8D%9A%E8%BF%9E%E8%AF%BB%E4%B8%8D%E7%94%A8%E5%86%85%E5%8D%B7%23&t=31&band_rank=26&Refer=top",
     "hot": 138917
-  },
-  "普京表示俄罗斯同意停火30天": {
-    "url": "https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E8%A1%A8%E7%A4%BA%E4%BF%84%E7%BD%97%E6%96%AF%E5%90%8C%E6%84%8F%E5%81%9C%E7%81%AB30%E5%A4%A9%23&t=31&band_rank=18&Refer=top",
-    "hot": 137932
   },
   "发胖前的3大征兆": {
     "url": "https://s.weibo.com/weibo?q=%E5%8F%91%E8%83%96%E5%89%8D%E7%9A%843%E5%A4%A7%E5%BE%81%E5%85%86&t=31&band_rank=27&Refer=top",
@@ -230,5 +230,13 @@
   "高端穿戴甲在海外卖爆了": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E7%AB%AF%E7%A9%BF%E6%88%B4%E7%94%B2%E5%9C%A8%E6%B5%B7%E5%A4%96%E5%8D%96%E7%88%86%E4%BA%86%23&t=31&band_rank=47&Refer=top",
     "hot": 42772
+  },
+  "专家称4.5天工作制不能一刀切": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B04.5%E5%A4%A9%E5%B7%A5%E4%BD%9C%E5%88%B6%E4%B8%8D%E8%83%BD%E4%B8%80%E5%88%80%E5%88%87%23&t=31&band_rank=26&Refer=top",
+    "hot": 36390
+  },
+  "哪吒2票房": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%922%E7%A5%A8%E6%88%BF%23&t=31&band_rank=50&Refer=top",
+    "hot": 25630
   }
 }
