@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-03-19 04:21:21.877335 
+最后更新时间 2025-03-19 05:18:40.208855 
 1. [媒体评蜜雪冰城别把宽容变纵容](https://s.weibo.com/weibo?q=%23%E5%AA%92%E4%BD%93%E8%AF%84%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E5%88%AB%E6%8A%8A%E5%AE%BD%E5%AE%B9%E5%8F%98%E7%BA%B5%E5%AE%B9%23&t=31&band_rank=1&Refer=top) 952874
 1. [辛云来 听泉鉴宝](https://s.weibo.com/weibo?q=%E8%BE%9B%E4%BA%91%E6%9D%A5%20%E5%90%AC%E6%B3%89%E9%89%B4%E5%AE%9D&t=31&band_rank=2&Refer=top) 613405
 1. [9图了解提振消费专项行动方案](https://s.weibo.com/weibo?q=%239%E5%9B%BE%E4%BA%86%E8%A7%A3%E6%8F%90%E6%8C%AF%E6%B6%88%E8%B4%B9%E4%B8%93%E9%A1%B9%E8%A1%8C%E5%8A%A8%E6%96%B9%E6%A1%88%23&t=31&band_rank=3&Refer=top) 585992
@@ -31,6 +31,7 @@
 1. [听音乐喝牛奶长大的鸡半只卖480元](https://s.weibo.com/weibo?q=%23%E5%90%AC%E9%9F%B3%E4%B9%90%E5%96%9D%E7%89%9B%E5%A5%B6%E9%95%BF%E5%A4%A7%E7%9A%84%E9%B8%A1%E5%8D%8A%E5%8F%AA%E5%8D%96480%E5%85%83%23&t=31&band_rank=20&Refer=top) 206169
 1. [女生做了人工阴道后仍感染HPV](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E5%81%9A%E4%BA%86%E4%BA%BA%E5%B7%A5%E9%98%B4%E9%81%93%E5%90%8E%E4%BB%8D%E6%84%9F%E6%9F%93HPV%23&t=31&band_rank=21&Refer=top) 202282
 1. [景甜术后首次直播透露近况](https://s.weibo.com/weibo?q=%23%E6%99%AF%E7%94%9C%E6%9C%AF%E5%90%8E%E9%A6%96%E6%AC%A1%E7%9B%B4%E6%92%AD%E9%80%8F%E9%9C%B2%E8%BF%91%E5%86%B5%23&t=31&band_rank=22&Refer=top) 196578
+1. [不要一边充电一边看手机](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%A6%81%E4%B8%80%E8%BE%B9%E5%85%85%E7%94%B5%E4%B8%80%E8%BE%B9%E7%9C%8B%E6%89%8B%E6%9C%BA%23&t=31&band_rank=42&Refer=top) 172814
 1. [朋友结婚毒友竟随礼1克冰毒](https://s.weibo.com/weibo?q=%23%E6%9C%8B%E5%8F%8B%E7%BB%93%E5%A9%9A%E6%AF%92%E5%8F%8B%E7%AB%9F%E9%9A%8F%E7%A4%BC1%E5%85%8B%E5%86%B0%E6%AF%92%23&t=31&band_rank=24&Refer=top) 172035
 1. [良好睡眠要在30分钟内入睡](https://s.weibo.com/weibo?q=%23%E8%89%AF%E5%A5%BD%E7%9D%A1%E7%9C%A0%E8%A6%81%E5%9C%A830%E5%88%86%E9%92%9F%E5%86%85%E5%85%A5%E7%9D%A1%23&t=31&band_rank=25&Refer=top) 150761
 1. [哈马斯证实多名高层死于以军空袭](https://s.weibo.com/weibo?q=%23%E5%93%88%E9%A9%AC%E6%96%AF%E8%AF%81%E5%AE%9E%E5%A4%9A%E5%90%8D%E9%AB%98%E5%B1%82%E6%AD%BB%E4%BA%8E%E4%BB%A5%E5%86%9B%E7%A9%BA%E8%A2%AD%23&t=31&band_rank=26&Refer=top) 149612
@@ -65,18 +66,18 @@
 1. [华莱士将开展30天卫生抽查](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E8%8E%B1%E5%A3%AB%E5%B0%86%E5%BC%80%E5%B1%9530%E5%A4%A9%E5%8D%AB%E7%94%9F%E6%8A%BD%E6%9F%A5%23&t=31&band_rank=15&Refer=top) 44078
 1. [以军空袭加沙已致412人死亡](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E5%86%9B%E7%A9%BA%E8%A2%AD%E5%8A%A0%E6%B2%99%E5%B7%B2%E8%87%B4412%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=50&Refer=top) 42580
 1. [特朗普称将公布8万页肯尼迪遇刺案文件](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E5%85%AC%E5%B8%838%E4%B8%87%E9%A1%B5%E8%82%AF%E5%B0%BC%E8%BF%AA%E9%81%87%E5%88%BA%E6%A1%88%E6%96%87%E4%BB%B6%23&t=31&band_rank=31&Refer=top) 32217
-1. [不要一边充电一边看手机](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%A6%81%E4%B8%80%E8%BE%B9%E5%85%85%E7%94%B5%E4%B8%80%E8%BE%B9%E7%9C%8B%E6%89%8B%E6%9C%BA%23&t=31&band_rank=42&Refer=top) 26957
 1. [民警张俊瑞刘世学因公牺牲](https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E5%BC%A0%E4%BF%8A%E7%91%9E%E5%88%98%E4%B8%96%E5%AD%A6%E5%9B%A0%E5%85%AC%E7%89%BA%E7%89%B2%23&t=31&band_rank=31&Refer=top) 25287
 1. [夫妻争吵妻子跳楼致残被丈夫送回娘家](https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E4%BA%89%E5%90%B5%E5%A6%BB%E5%AD%90%E8%B7%B3%E6%A5%BC%E8%87%B4%E6%AE%8B%E8%A2%AB%E4%B8%88%E5%A4%AB%E9%80%81%E5%9B%9E%E5%A8%98%E5%AE%B6%23&t=31&band_rank=40&Refer=top) 24671
 1. [宅斗](https://s.weibo.com/weibo?q=%E5%AE%85%E6%96%97&t=31&band_rank=41&Refer=top) 24667
 1. [黄晓明 苹什么不爱我](https://s.weibo.com/weibo?q=%E9%BB%84%E6%99%93%E6%98%8E%20%E8%8B%B9%E4%BB%80%E4%B9%88%E4%B8%8D%E7%88%B1%E6%88%91&t=31&band_rank=44&Refer=top) 24654
 1. [以军大规模空袭加沙致上百人死亡](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E5%86%9B%E5%A4%A7%E8%A7%84%E6%A8%A1%E7%A9%BA%E8%A2%AD%E5%8A%A0%E6%B2%99%E8%87%B4%E4%B8%8A%E7%99%BE%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=47&Refer=top) 24635
 1. [春天里的中国沐光前行](https://s.weibo.com/weibo?q=%23%E6%98%A5%E5%A4%A9%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%B2%90%E5%85%89%E5%89%8D%E8%A1%8C%23&t=31&band_rank=50&Refer=top) 24621
+1. [记者卧底华莱士餐厅后厨](https://s.weibo.com/weibo?q=%23%E8%AE%B0%E8%80%85%E5%8D%A7%E5%BA%95%E5%8D%8E%E8%8E%B1%E5%A3%AB%E9%A4%90%E5%8E%85%E5%90%8E%E5%8E%A8%23&t=31&band_rank=31&Refer=top) 19607
 1. [以军空袭已致310人死亡](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E5%86%9B%E7%A9%BA%E8%A2%AD%E5%B7%B2%E8%87%B4310%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=44&Refer=top) 17402
 1. [雁回时 非要文学](https://s.weibo.com/weibo?q=%E9%9B%81%E5%9B%9E%E6%97%B6%20%E9%9D%9E%E8%A6%81%E6%96%87%E5%AD%A6&t=31&band_rank=50&Refer=top) 17274
-1. [当地市监局回应男童往玻璃杯小便](https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%9C%B0%E5%B8%82%E7%9B%91%E5%B1%80%E5%9B%9E%E5%BA%94%E7%94%B7%E7%AB%A5%E5%BE%80%E7%8E%BB%E7%92%83%E6%9D%AF%E5%B0%8F%E4%BE%BF%23&t=31&band_rank=40&Refer=top) 15456
-1. [金赛纶遗属将对照片数字取证](https://s.weibo.com/weibo?q=%23%E9%87%91%E8%B5%9B%E7%BA%B6%E9%81%97%E5%B1%9E%E5%B0%86%E5%AF%B9%E7%85%A7%E7%89%87%E6%95%B0%E5%AD%97%E5%8F%96%E8%AF%81%23&t=31&band_rank=45&Refer=top) 13786
-1. [中方敦促澳方尊重中国主权](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E6%95%A6%E4%BF%83%E6%BE%B3%E6%96%B9%E5%B0%8A%E9%87%8D%E4%B8%AD%E5%9B%BD%E4%B8%BB%E6%9D%83%23&t=31&band_rank=46&Refer=top) 13786
+1. [金赛纶遗属将对照片数字取证](https://s.weibo.com/weibo?q=%23%E9%87%91%E8%B5%9B%E7%BA%B6%E9%81%97%E5%B1%9E%E5%B0%86%E5%AF%B9%E7%85%A7%E7%89%87%E6%95%B0%E5%AD%97%E5%8F%96%E8%AF%81%23&t=31&band_rank=45&Refer=top) 16492
+1. [当地市监局回应男童往玻璃杯小便](https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%9C%B0%E5%B8%82%E7%9B%91%E5%B1%80%E5%9B%9E%E5%BA%94%E7%94%B7%E7%AB%A5%E5%BE%80%E7%8E%BB%E7%92%83%E6%9D%AF%E5%B0%8F%E4%BE%BF%23&t=31&band_rank=40&Refer=top) 16070
+1. [中方敦促澳方尊重中国主权](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E6%95%A6%E4%BF%83%E6%BE%B3%E6%96%B9%E5%B0%8A%E9%87%8D%E4%B8%AD%E5%9B%BD%E4%B8%BB%E6%9D%83%23&t=31&band_rank=46&Refer=top) 15619
 <!-- END -->
 
 历史归档 [./archives](./archives)
