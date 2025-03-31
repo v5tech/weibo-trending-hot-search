@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-04-01 01:18:16.776421 
+最后更新时间 2025-04-01 02:28:56.597668 
 1. [愚人节文案](https://s.weibo.com/weibo?q=%E6%84%9A%E4%BA%BA%E8%8A%82%E6%96%87%E6%A1%88&t=31&band_rank=1&Refer=top) 882124
 1. [山姆客服称水果中吃出虫是正常情况](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E5%A7%86%E5%AE%A2%E6%9C%8D%E7%A7%B0%E6%B0%B4%E6%9E%9C%E4%B8%AD%E5%90%83%E5%87%BA%E8%99%AB%E6%98%AF%E6%AD%A3%E5%B8%B8%E6%83%85%E5%86%B5%23&t=31&band_rank=2&Refer=top) 372675
 1. [沉浸式感受广西三月三](https://s.weibo.com/weibo?q=%23%E6%B2%89%E6%B5%B8%E5%BC%8F%E6%84%9F%E5%8F%97%E5%B9%BF%E8%A5%BF%E4%B8%89%E6%9C%88%E4%B8%89%23&t=31&band_rank=3&Refer=top) 356843
@@ -65,6 +65,12 @@
 1. [雁回时反转](https://s.weibo.com/weibo?q=%E9%9B%81%E5%9B%9E%E6%97%B6%E5%8F%8D%E8%BD%AC&t=31&band_rank=45&Refer=top) 66181
 1. [缅甸地震已遇难2065人](https://s.weibo.com/weibo?q=%23%E7%BC%85%E7%94%B8%E5%9C%B0%E9%9C%87%E5%B7%B2%E9%81%87%E9%9A%BE2065%E4%BA%BA%23&t=31&band_rank=48&Refer=top) 63187
 1. [CBA排名](https://s.weibo.com/weibo?q=CBA%E6%8E%92%E5%90%8D&t=31&band_rank=50&Refer=top) 60798
+1. [日本对中国人民负有严重历史罪责](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%AF%B9%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E8%B4%9F%E6%9C%89%E4%B8%A5%E9%87%8D%E5%8E%86%E5%8F%B2%E7%BD%AA%E8%B4%A3%23&t=31&band_rank=21&Refer=top) 54317
+1. [来自假惺惺的你](https://s.weibo.com/weibo?q=%23%E6%9D%A5%E8%87%AA%E5%81%87%E6%83%BA%E6%83%BA%E7%9A%84%E4%BD%A0%23&t=31&band_rank=24&Refer=top) 54306
+1. [男子发现打工养了7年的女儿非亲生](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%8F%91%E7%8E%B0%E6%89%93%E5%B7%A5%E5%85%BB%E4%BA%867%E5%B9%B4%E7%9A%84%E5%A5%B3%E5%84%BF%E9%9D%9E%E4%BA%B2%E7%94%9F%23&t=31&band_rank=29&Refer=top) 54279
+1. [挖野菜](https://s.weibo.com/weibo?q=%E6%8C%96%E9%87%8E%E8%8F%9C&t=31&band_rank=42&Refer=top) 54220
+1. [泰高空走廊被震断男子奋力跳向对面](https://s.weibo.com/weibo?q=%23%E6%B3%B0%E9%AB%98%E7%A9%BA%E8%B5%B0%E5%BB%8A%E8%A2%AB%E9%9C%87%E6%96%AD%E7%94%B7%E5%AD%90%E5%A5%8B%E5%8A%9B%E8%B7%B3%E5%90%91%E5%AF%B9%E9%9D%A2%23&t=31&band_rank=43&Refer=top) 54214
+1. [马龙说全运会后还想参加比赛](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99%E8%AF%B4%E5%85%A8%E8%BF%90%E4%BC%9A%E5%90%8E%E8%BF%98%E6%83%B3%E5%8F%82%E5%8A%A0%E6%AF%94%E8%B5%9B%23&t=31&band_rank=50&Refer=top) 54183
 <!-- END -->
 
 历史归档 [./archives](./archives)
