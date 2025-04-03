@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-04-04 04:23:10.283690 
+最后更新时间 2025-04-04 05:19:18.919118 
 1. [重庆一交通事故致6死1伤](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E4%B8%80%E4%BA%A4%E9%80%9A%E4%BA%8B%E6%95%85%E8%87%B46%E6%AD%BB1%E4%BC%A4%23&t=31&band_rank=1&Refer=top) 1711911
 1. [刀小刀拖欠解约赔偿金400多万](https://s.weibo.com/weibo?q=%23%E5%88%80%E5%B0%8F%E5%88%80%E6%8B%96%E6%AC%A0%E8%A7%A3%E7%BA%A6%E8%B5%94%E5%81%BF%E9%87%91400%E5%A4%9A%E4%B8%87%23&t=31&band_rank=2&Refer=top) 768251
 1. [清明美食图鉴上新了](https://s.weibo.com/weibo?q=%23%E6%B8%85%E6%98%8E%E7%BE%8E%E9%A3%9F%E5%9B%BE%E9%89%B4%E4%B8%8A%E6%96%B0%E4%BA%86%23&t=31&band_rank=3&Refer=top) 533793
@@ -47,6 +47,7 @@
 1. [小婉训狗](https://s.weibo.com/weibo?q=%E5%B0%8F%E5%A9%89%E8%AE%AD%E7%8B%97&t=31&band_rank=36&Refer=top) 104699
 1. [直播弹幕暗藏神秘交易信息](https://s.weibo.com/weibo?q=%E7%9B%B4%E6%92%AD%E5%BC%B9%E5%B9%95%E6%9A%97%E8%97%8F%E7%A5%9E%E7%A7%98%E4%BA%A4%E6%98%93%E4%BF%A1%E6%81%AF&t=31&band_rank=37&Refer=top) 102374
 1. [冰壶](https://s.weibo.com/weibo?q=%E5%86%B0%E5%A3%B6&t=31&band_rank=38&Refer=top) 98907
+1. [哪吒](https://s.weibo.com/weibo?q=%E5%93%AA%E5%90%92&t=31&band_rank=2&Refer=top) 98130
 1. [缅甸地震已致4名中国人遇难](https://s.weibo.com/weibo?q=%23%E7%BC%85%E7%94%B8%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B44%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E9%81%87%E9%9A%BE%23&t=31&band_rank=39&Refer=top) 97464
 1. [Uzi妻子宣布胜诉](https://s.weibo.com/weibo?q=%23Uzi%E5%A6%BB%E5%AD%90%E5%AE%A3%E5%B8%83%E8%83%9C%E8%AF%89%23&t=31&band_rank=40&Refer=top) 97460
 1. [给老婆保管工资离婚后要索回全部](https://s.weibo.com/weibo?q=%23%E7%BB%99%E8%80%81%E5%A9%86%E4%BF%9D%E7%AE%A1%E5%B7%A5%E8%B5%84%E7%A6%BB%E5%A9%9A%E5%90%8E%E8%A6%81%E7%B4%A2%E5%9B%9E%E5%85%A8%E9%83%A8%23&t=31&band_rank=41&Refer=top) 93908
@@ -60,11 +61,11 @@
 1. [永远记住你](https://s.weibo.com/weibo?q=%23%E6%B0%B8%E8%BF%9C%E8%AE%B0%E4%BD%8F%E4%BD%A0%23&t=31&band_rank=45&Refer=top) 80591
 1. [jayjay呢](https://s.weibo.com/weibo?q=jayjay%E5%91%A2&t=31&band_rank=49&Refer=top) 77624
 1. [宁夏一退役老兵佩戴军功章祭奠战友](https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%A4%8F%E4%B8%80%E9%80%80%E5%BD%B9%E8%80%81%E5%85%B5%E4%BD%A9%E6%88%B4%E5%86%9B%E5%8A%9F%E7%AB%A0%E7%A5%AD%E5%A5%A0%E6%88%98%E5%8F%8B%23&t=31&band_rank=27&Refer=top) 75705
+1. [国际金价高位跳水了](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E9%AB%98%E4%BD%8D%E8%B7%B3%E6%B0%B4%E4%BA%86%23&t=31&band_rank=11&Refer=top) 71452
 1. [翟潇闻拿着丁禹兮的牌子](https://s.weibo.com/weibo?q=%23%E7%BF%9F%E6%BD%87%E9%97%BB%E6%8B%BF%E7%9D%80%E4%B8%81%E7%A6%B9%E5%85%AE%E7%9A%84%E7%89%8C%E5%AD%90%23&t=31&band_rank=50&Refer=top) 70829
+1. [一人一句缅怀先烈](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%BA%BA%E4%B8%80%E5%8F%A5%E7%BC%85%E6%80%80%E5%85%88%E7%83%88%23&t=31&band_rank=10&Refer=top) 62488
 1. [库克套现1.75亿](https://s.weibo.com/weibo?q=%23%E5%BA%93%E5%85%8B%E5%A5%97%E7%8E%B01.75%E4%BA%BF%23&t=31&band_rank=36&Refer=top) 60685
-1. [国际金价高位跳水了](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E9%AB%98%E4%BD%8D%E8%B7%B3%E6%B0%B4%E4%BA%86%23&t=31&band_rank=11&Refer=top) 60560
 1. [马航MH370搜救预计年底重启](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E8%88%AAMH370%E6%90%9C%E6%95%91%E9%A2%84%E8%AE%A1%E5%B9%B4%E5%BA%95%E9%87%8D%E5%90%AF%23&t=31&band_rank=13&Refer=top) 59357
-1. [一人一句缅怀先烈](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%BA%BA%E4%B8%80%E5%8F%A5%E7%BC%85%E6%80%80%E5%85%88%E7%83%88%23&t=31&band_rank=10&Refer=top) 56749
 1. [值得爱](https://s.weibo.com/weibo?q=%E5%80%BC%E5%BE%97%E7%88%B1&t=31&band_rank=45&Refer=top) 50418
 1. [十二年前的陈都灵](https://s.weibo.com/weibo?q=%E5%8D%81%E4%BA%8C%E5%B9%B4%E5%89%8D%E7%9A%84%E9%99%88%E9%83%BD%E7%81%B5&t=31&band_rank=49&Refer=top) 47925
 1. [邓超5G冲浪实锤了](https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%855G%E5%86%B2%E6%B5%AA%E5%AE%9E%E9%94%A4%E4%BA%86%23&t=31&band_rank=24&Refer=top) 39660
@@ -73,7 +74,10 @@
 1. [英国拟对美超8000类商品征税](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E6%8B%9F%E5%AF%B9%E7%BE%8E%E8%B6%858000%E7%B1%BB%E5%95%86%E5%93%81%E5%BE%81%E7%A8%8E%23&t=31&band_rank=48&Refer=top) 26878
 1. [唐嫣哄娃](https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%E5%93%84%E5%A8%83%23&t=31&band_rank=42&Refer=top) 21622
 1. [电影热烈今日重映](https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E7%83%AD%E7%83%88%E4%BB%8A%E6%97%A5%E9%87%8D%E6%98%A0%23&t=31&band_rank=49&Refer=top) 19628
-1. [官方通报出逃黑熊已找到](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%87%BA%E9%80%83%E9%BB%91%E7%86%8A%E5%B7%B2%E6%89%BE%E5%88%B0%23&t=31&band_rank=48&Refer=top) 14481
+1. [我会永远永远永远的保佑好我](https://s.weibo.com/weibo?q=%E6%88%91%E4%BC%9A%E6%B0%B8%E8%BF%9C%E6%B0%B8%E8%BF%9C%E6%B0%B8%E8%BF%9C%E7%9A%84%E4%BF%9D%E4%BD%91%E5%A5%BD%E6%88%91&t=31&band_rank=39&Refer=top) 18258
+1. [还没参加青春有你2的金子涵](https://s.weibo.com/weibo?q=%23%E8%BF%98%E6%B2%A1%E5%8F%82%E5%8A%A0%E9%9D%92%E6%98%A5%E6%9C%89%E4%BD%A02%E7%9A%84%E9%87%91%E5%AD%90%E6%B6%B5%23&t=31&band_rank=40&Refer=top) 18239
+1. [官方通报出逃黑熊已找到](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%87%BA%E9%80%83%E9%BB%91%E7%86%8A%E5%B7%B2%E6%89%BE%E5%88%B0%23&t=31&band_rank=48&Refer=top) 14729
+1. [多数美国人认为关税政策损美经济](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%95%B0%E7%BE%8E%E5%9B%BD%E4%BA%BA%E8%AE%A4%E4%B8%BA%E5%85%B3%E7%A8%8E%E6%94%BF%E7%AD%96%E6%8D%9F%E7%BE%8E%E7%BB%8F%E6%B5%8E%23&t=31&band_rank=48&Refer=top) 14690
 1. [朝雪录井底埋尸单元预告](https://s.weibo.com/weibo?q=%E6%9C%9D%E9%9B%AA%E5%BD%95%E4%BA%95%E5%BA%95%E5%9F%8B%E5%B0%B8%E5%8D%95%E5%85%83%E9%A2%84%E5%91%8A&t=31&band_rank=50&Refer=top) 14481
 <!-- END -->
 
