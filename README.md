@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-04-05 03:17:32.589384 
+最后更新时间 2025-04-05 04:22:07.657026 
 1. [原来假期最好的休息不是睡觉](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%81%87%E6%9C%9F%E6%9C%80%E5%A5%BD%E7%9A%84%E4%BC%91%E6%81%AF%E4%B8%8D%E6%98%AF%E7%9D%A1%E8%A7%89%23&t=31&band_rank=1&Refer=top) 883797
 1. [赵丽颖没法看电影里自己跟孩子的那一段](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%B2%A1%E6%B3%95%E7%9C%8B%E7%94%B5%E5%BD%B1%E9%87%8C%E8%87%AA%E5%B7%B1%E8%B7%9F%E5%AD%A9%E5%AD%90%E7%9A%84%E9%82%A3%E4%B8%80%E6%AE%B5%23&t=31&band_rank=14&Refer=top) 532872
 1. [中方反制措施来了](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%8F%8D%E5%88%B6%E6%8E%AA%E6%96%BD%E6%9D%A5%E4%BA%86%23&t=31&band_rank=2&Refer=top) 351471
@@ -71,7 +71,11 @@
 1. [檀健次将回归Hi6录制](https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E5%B0%86%E5%9B%9E%E5%BD%92Hi6%E5%BD%95%E5%88%B6%23&t=31&band_rank=42&Refer=top) 27173
 1. [何浩楠清明新歌梨雪飞](https://s.weibo.com/weibo?q=%23%E4%BD%95%E6%B5%A9%E6%A5%A0%E6%B8%85%E6%98%8E%E6%96%B0%E6%AD%8C%E6%A2%A8%E9%9B%AA%E9%A3%9E%23&t=31&band_rank=49&Refer=top) 25576
 1. [吴宣仪 选人环节](https://s.weibo.com/weibo?q=%E5%90%B4%E5%AE%A3%E4%BB%AA%20%E9%80%89%E4%BA%BA%E7%8E%AF%E8%8A%82&t=31&band_rank=34&Refer=top) 23608
+1. [时隔50年带戍边战友回家](https://s.weibo.com/weibo?q=%23%E6%97%B6%E9%9A%9450%E5%B9%B4%E5%B8%A6%E6%88%8D%E8%BE%B9%E6%88%98%E5%8F%8B%E5%9B%9E%E5%AE%B6%23&t=31&band_rank=25&Refer=top) 20048
 1. [杜邦](https://s.weibo.com/weibo?q=%E6%9D%9C%E9%82%A6&t=31&band_rank=49&Refer=top) 19691
+1. [10位在韩志愿军烈士寻亲](https://s.weibo.com/weibo?q=%2310%E4%BD%8D%E5%9C%A8%E9%9F%A9%E5%BF%97%E6%84%BF%E5%86%9B%E7%83%88%E5%A3%AB%E5%AF%BB%E4%BA%B2%23&t=31&band_rank=29&Refer=top) 18285
+1. [眼前有山河心中有家国](https://s.weibo.com/weibo?q=%23%E7%9C%BC%E5%89%8D%E6%9C%89%E5%B1%B1%E6%B2%B3%E5%BF%83%E4%B8%AD%E6%9C%89%E5%AE%B6%E5%9B%BD%23&t=31&band_rank=42&Refer=top) 15552
+1. [柳絮来了](https://s.weibo.com/weibo?q=%E6%9F%B3%E7%B5%AE%E6%9D%A5%E4%BA%86&t=31&band_rank=47&Refer=top) 15101
 <!-- END -->
 
 历史归档 [./archives](./archives)
