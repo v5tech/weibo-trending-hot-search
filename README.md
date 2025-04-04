@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-04-05 02:28:04.207592 
+最后更新时间 2025-04-05 03:17:32.589384 
 1. [原来假期最好的休息不是睡觉](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%81%87%E6%9C%9F%E6%9C%80%E5%A5%BD%E7%9A%84%E4%BC%91%E6%81%AF%E4%B8%8D%E6%98%AF%E7%9D%A1%E8%A7%89%23&t=31&band_rank=1&Refer=top) 883797
 1. [赵丽颖没法看电影里自己跟孩子的那一段](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%B2%A1%E6%B3%95%E7%9C%8B%E7%94%B5%E5%BD%B1%E9%87%8C%E8%87%AA%E5%B7%B1%E8%B7%9F%E5%AD%A9%E5%AD%90%E7%9A%84%E9%82%A3%E4%B8%80%E6%AE%B5%23&t=31&band_rank=14&Refer=top) 532872
 1. [中方反制措施来了](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%8F%8D%E5%88%B6%E6%8E%AA%E6%96%BD%E6%9D%A5%E4%BA%86%23&t=31&band_rank=2&Refer=top) 351471
@@ -65,11 +65,13 @@
 1. [唐嫣古代四方步](https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%E5%8F%A4%E4%BB%A3%E5%9B%9B%E6%96%B9%E6%AD%A5%23&t=31&band_rank=43&Refer=top) 44309
 1. [樊振东十年铁血一单](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%8D%81%E5%B9%B4%E9%93%81%E8%A1%80%E4%B8%80%E5%8D%95%23&t=31&band_rank=44&Refer=top) 43706
 1. [李金铭十年前剩饭保留至今](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%87%91%E9%93%AD%E5%8D%81%E5%B9%B4%E5%89%8D%E5%89%A9%E9%A5%AD%E4%BF%9D%E7%95%99%E8%87%B3%E4%BB%8A%23&t=31&band_rank=45&Refer=top) 43706
-1. [美股七姐妹大跌](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E4%B8%83%E5%A7%90%E5%A6%B9%E5%A4%A7%E8%B7%8C%23&t=31&band_rank=26&Refer=top) 36236
+1. [美股七姐妹大跌](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E4%B8%83%E5%A7%90%E5%A6%B9%E5%A4%A7%E8%B7%8C%23&t=31&band_rank=26&Refer=top) 41548
 1. [棋士](https://s.weibo.com/weibo?q=%E6%A3%8B%E5%A3%AB&t=31&band_rank=27&Refer=top) 35646
 1. [向阳花票房](https://s.weibo.com/weibo?q=%E5%90%91%E9%98%B3%E8%8A%B1%E7%A5%A8%E6%88%BF&t=31&band_rank=35&Refer=top) 30091
 1. [檀健次将回归Hi6录制](https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E5%B0%86%E5%9B%9E%E5%BD%92Hi6%E5%BD%95%E5%88%B6%23&t=31&band_rank=42&Refer=top) 27173
 1. [何浩楠清明新歌梨雪飞](https://s.weibo.com/weibo?q=%23%E4%BD%95%E6%B5%A9%E6%A5%A0%E6%B8%85%E6%98%8E%E6%96%B0%E6%AD%8C%E6%A2%A8%E9%9B%AA%E9%A3%9E%23&t=31&band_rank=49&Refer=top) 25576
+1. [吴宣仪 选人环节](https://s.weibo.com/weibo?q=%E5%90%B4%E5%AE%A3%E4%BB%AA%20%E9%80%89%E4%BA%BA%E7%8E%AF%E8%8A%82&t=31&band_rank=34&Refer=top) 23608
+1. [杜邦](https://s.weibo.com/weibo?q=%E6%9D%9C%E9%82%A6&t=31&band_rank=49&Refer=top) 19691
 <!-- END -->
 
 历史归档 [./archives](./archives)
