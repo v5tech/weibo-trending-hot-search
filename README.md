@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-04-06 04:20:14.632261 
+最后更新时间 2025-04-06 05:18:48.928163 
 1. [刘奕畅拒演苍兰诀男二](https://s.weibo.com/weibo?q=%E5%88%98%E5%A5%95%E7%95%85%E6%8B%92%E6%BC%94%E8%8B%8D%E5%85%B0%E8%AF%80%E7%94%B7%E4%BA%8C&t=31&band_rank=1&Refer=top) 1060525
 1. [顾客失联外卖员回药店问是不是救命药](https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E5%A4%B1%E8%81%94%E5%A4%96%E5%8D%96%E5%91%98%E5%9B%9E%E8%8D%AF%E5%BA%97%E9%97%AE%E6%98%AF%E4%B8%8D%E6%98%AF%E6%95%91%E5%91%BD%E8%8D%AF%23&t=31&band_rank=2&Refer=top) 481493
 1. [AI修复抗战英雄的模样](https://s.weibo.com/weibo?q=%23AI%E4%BF%AE%E5%A4%8D%E6%8A%97%E6%88%98%E8%8B%B1%E9%9B%84%E7%9A%84%E6%A8%A1%E6%A0%B7%23&t=31&band_rank=3&Refer=top) 456970
@@ -81,6 +81,9 @@
 1. [必胜客沉浸在自己的艺术里](https://s.weibo.com/weibo?q=%E5%BF%85%E8%83%9C%E5%AE%A2%E6%B2%89%E6%B5%B8%E5%9C%A8%E8%87%AA%E5%B7%B1%E7%9A%84%E8%89%BA%E6%9C%AF%E9%87%8C&t=31&band_rank=41&Refer=top) 22132
 1. [夫妻摆摊7年还30多万债务修复信用](https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E6%91%86%E6%91%8A7%E5%B9%B4%E8%BF%9830%E5%A4%9A%E4%B8%87%E5%80%BA%E5%8A%A1%E4%BF%AE%E5%A4%8D%E4%BF%A1%E7%94%A8%23&t=31&band_rank=47&Refer=top) 20851
 1. [susu福福](https://s.weibo.com/weibo?q=%23susu%E7%A6%8F%E7%A6%8F%23&t=31&band_rank=49&Refer=top) 17718
+1. [金饰价格2天大跌32元](https://s.weibo.com/weibo?q=%23%E9%87%91%E9%A5%B0%E4%BB%B7%E6%A0%BC2%E5%A4%A9%E5%A4%A7%E8%B7%8C32%E5%85%83%23&t=31&band_rank=38&Refer=top) 14907
+1. [PCL2025](https://s.weibo.com/weibo?q=PCL2025&t=31&band_rank=42&Refer=top) 14312
+1. [娘口三三具像化](https://s.weibo.com/weibo?q=%E5%A8%98%E5%8F%A3%E4%B8%89%E4%B8%89%E5%85%B7%E5%83%8F%E5%8C%96&t=31&band_rank=47&Refer=top) 14311
 <!-- END -->
 
 历史归档 [./archives](./archives)

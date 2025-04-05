@@ -290,5 +290,17 @@
   "susu福福": {
     "url": "https://s.weibo.com/weibo?q=%23susu%E7%A6%8F%E7%A6%8F%23&t=31&band_rank=49&Refer=top",
     "hot": 17718
+  },
+  "金饰价格2天大跌32元": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E9%A5%B0%E4%BB%B7%E6%A0%BC2%E5%A4%A9%E5%A4%A7%E8%B7%8C32%E5%85%83%23&t=31&band_rank=38&Refer=top",
+    "hot": 14907
+  },
+  "PCL2025": {
+    "url": "https://s.weibo.com/weibo?q=PCL2025&t=31&band_rank=42&Refer=top",
+    "hot": 14312
+  },
+  "娘口三三具像化": {
+    "url": "https://s.weibo.com/weibo?q=%E5%A8%98%E5%8F%A3%E4%B8%89%E4%B8%89%E5%85%B7%E5%83%8F%E5%8C%96&t=31&band_rank=47&Refer=top",
+    "hot": 14311
   }
 }
