@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-04-06 03:15:05.338495 
+最后更新时间 2025-04-06 04:20:14.632261 
 1. [刘奕畅拒演苍兰诀男二](https://s.weibo.com/weibo?q=%E5%88%98%E5%A5%95%E7%95%85%E6%8B%92%E6%BC%94%E8%8B%8D%E5%85%B0%E8%AF%80%E7%94%B7%E4%BA%8C&t=31&band_rank=1&Refer=top) 1060525
 1. [顾客失联外卖员回药店问是不是救命药](https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E5%A4%B1%E8%81%94%E5%A4%96%E5%8D%96%E5%91%98%E5%9B%9E%E8%8D%AF%E5%BA%97%E9%97%AE%E6%98%AF%E4%B8%8D%E6%98%AF%E6%95%91%E5%91%BD%E8%8D%AF%23&t=31&band_rank=2&Refer=top) 481493
 1. [AI修复抗战英雄的模样](https://s.weibo.com/weibo?q=%23AI%E4%BF%AE%E5%A4%8D%E6%8A%97%E6%88%98%E8%8B%B1%E9%9B%84%E7%9A%84%E6%A8%A1%E6%A0%B7%23&t=31&band_rank=3&Refer=top) 456970
@@ -72,13 +72,15 @@
 1. [GAI演唱会再唱张震岳小宇](https://s.weibo.com/weibo?q=%23GAI%E6%BC%94%E5%94%B1%E4%BC%9A%E5%86%8D%E5%94%B1%E5%BC%A0%E9%9C%87%E5%B2%B3%E5%B0%8F%E5%AE%87%23&t=31&band_rank=44&Refer=top) 54664
 1. [Hyunjun公开](https://s.weibo.com/weibo?q=%23Hyunjun%E5%85%AC%E5%BC%80%23&t=31&band_rank=47&Refer=top) 50681
 1. [敖瑞鹏说自己是白鹿的掌中宝](https://s.weibo.com/weibo?q=%23%E6%95%96%E7%91%9E%E9%B9%8F%E8%AF%B4%E8%87%AA%E5%B7%B1%E6%98%AF%E7%99%BD%E9%B9%BF%E7%9A%84%E6%8E%8C%E4%B8%AD%E5%AE%9D%23&t=31&band_rank=48&Refer=top) 49797
+1. [江苏发出一张信用修复证明书](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E5%8F%91%E5%87%BA%E4%B8%80%E5%BC%A0%E4%BF%A1%E7%94%A8%E4%BF%AE%E5%A4%8D%E8%AF%81%E6%98%8E%E4%B9%A6%23&t=31&band_rank=37&Refer=top) 43510
 1. [女生被前男友杀害5年后仍无法安葬](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E8%A2%AB%E5%89%8D%E7%94%B7%E5%8F%8B%E6%9D%80%E5%AE%B35%E5%B9%B4%E5%90%8E%E4%BB%8D%E6%97%A0%E6%B3%95%E5%AE%89%E8%91%AC%23&t=31&band_rank=36&Refer=top) 38515
+1. [这两天问勇路摆满了鲜花](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%A4%E5%A4%A9%E9%97%AE%E5%8B%87%E8%B7%AF%E6%91%86%E6%BB%A1%E4%BA%86%E9%B2%9C%E8%8A%B1%23&t=31&band_rank=10&Refer=top) 37969
 1. [苏新皓录屏](https://s.weibo.com/weibo?q=%E8%8B%8F%E6%96%B0%E7%9A%93%E5%BD%95%E5%B1%8F&t=31&band_rank=47&Refer=top) 28519
 1. [大张伟直播](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%BC%A0%E4%BC%9F%E7%9B%B4%E6%92%AD&t=31&band_rank=48&Refer=top) 28518
 1. [哪吒敖丙hi6打卡vlog](https://s.weibo.com/weibo?q=%E5%93%AA%E5%90%92%E6%95%96%E4%B8%99hi6%E6%89%93%E5%8D%A1vlog&t=31&band_rank=50&Refer=top) 28516
-1. [江苏发出一张信用修复证明书](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E5%8F%91%E5%87%BA%E4%B8%80%E5%BC%A0%E4%BF%A1%E7%94%A8%E4%BF%AE%E5%A4%8D%E8%AF%81%E6%98%8E%E4%B9%A6%23&t=31&band_rank=37&Refer=top) 24964
 1. [必胜客沉浸在自己的艺术里](https://s.weibo.com/weibo?q=%E5%BF%85%E8%83%9C%E5%AE%A2%E6%B2%89%E6%B5%B8%E5%9C%A8%E8%87%AA%E5%B7%B1%E7%9A%84%E8%89%BA%E6%9C%AF%E9%87%8C&t=31&band_rank=41&Refer=top) 22132
 1. [夫妻摆摊7年还30多万债务修复信用](https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E6%91%86%E6%91%8A7%E5%B9%B4%E8%BF%9830%E5%A4%9A%E4%B8%87%E5%80%BA%E5%8A%A1%E4%BF%AE%E5%A4%8D%E4%BF%A1%E7%94%A8%23&t=31&band_rank=47&Refer=top) 20851
+1. [susu福福](https://s.weibo.com/weibo?q=%23susu%E7%A6%8F%E7%A6%8F%23&t=31&band_rank=49&Refer=top) 17718
 <!-- END -->
 
 历史归档 [./archives](./archives)
