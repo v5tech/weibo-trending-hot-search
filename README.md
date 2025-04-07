@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-04-08 03:16:49.740282 
+最后更新时间 2025-04-08 04:23:09.701272 
 1. [美副总统称中国人乡巴佬被批](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%89%AF%E6%80%BB%E7%BB%9F%E7%A7%B0%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%B9%A1%E5%B7%B4%E4%BD%AC%E8%A2%AB%E6%89%B9%23&t=31&band_rank=2&Refer=top) 1537803
 1. [芒果 尴尬](https://s.weibo.com/weibo?q=%E8%8A%92%E6%9E%9C%20%E5%B0%B4%E5%B0%AC&t=31&band_rank=1&Refer=top) 1534091
 1. [集中精力办好自己的事](https://s.weibo.com/weibo?q=%23%E9%9B%86%E4%B8%AD%E7%B2%BE%E5%8A%9B%E5%8A%9E%E5%A5%BD%E8%87%AA%E5%B7%B1%E7%9A%84%E4%BA%8B%23&t=31&band_rank=3&Refer=top) 1241383
@@ -68,9 +68,11 @@
 1. [当地回应女子报警后被强制送精神病院](https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E6%8A%A5%E8%AD%A6%E5%90%8E%E8%A2%AB%E5%BC%BA%E5%88%B6%E9%80%81%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2%23&t=31&band_rank=45&Refer=top) 46337
 1. [美国滥施关税无异于剥夺各国发展权利](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%BB%A5%E6%96%BD%E5%85%B3%E7%A8%8E%E6%97%A0%E5%BC%82%E4%BA%8E%E5%89%A5%E5%A4%BA%E5%90%84%E5%9B%BD%E5%8F%91%E5%B1%95%E6%9D%83%E5%88%A9%23&t=31&band_rank=10&Refer=top) 44962
 1. [美股三大股指转涨](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E8%BD%AC%E6%B6%A8%23&t=31&band_rank=46&Refer=top) 44530
+1. [美官员称关税将导致美国商品价格下降](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%AE%98%E5%91%98%E7%A7%B0%E5%85%B3%E7%A8%8E%E5%B0%86%E5%AF%BC%E8%87%B4%E7%BE%8E%E5%9B%BD%E5%95%86%E5%93%81%E4%BB%B7%E6%A0%BC%E4%B8%8B%E9%99%8D%23&t=31&band_rank=6&Refer=top) 41821
 1. [大姐每天采茶12小时子宫掉出体外](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%A7%90%E6%AF%8F%E5%A4%A9%E9%87%87%E8%8C%B612%E5%B0%8F%E6%97%B6%E5%AD%90%E5%AE%AB%E6%8E%89%E5%87%BA%E4%BD%93%E5%A4%96%23&t=31&band_rank=14&Refer=top) 41326
 1. [淮水竹亭定档](https://s.weibo.com/weibo?q=%23%E6%B7%AE%E6%B0%B4%E7%AB%B9%E4%BA%AD%E5%AE%9A%E6%A1%A3%23&t=31&band_rank=49&Refer=top) 40241
 1. [以美之名](https://s.weibo.com/weibo?q=%E4%BB%A5%E7%BE%8E%E4%B9%8B%E5%90%8D&t=31&band_rank=50&Refer=top) 40237
+1. [景区回应美人鱼泡在绿水里表演](https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94%E7%BE%8E%E4%BA%BA%E9%B1%BC%E6%B3%A1%E5%9C%A8%E7%BB%BF%E6%B0%B4%E9%87%8C%E8%A1%A8%E6%BC%94%23&t=31&band_rank=10&Refer=top) 37969
 1. [长沙文旅](https://s.weibo.com/weibo?q=%E9%95%BF%E6%B2%99%E6%96%87%E6%97%85&t=31&band_rank=25&Refer=top) 36348
 1. [女王就是女王 倒嗓了也是女王](https://s.weibo.com/weibo?q=%E5%A5%B3%E7%8E%8B%E5%B0%B1%E6%98%AF%E5%A5%B3%E7%8E%8B%20%E5%80%92%E5%97%93%E4%BA%86%E4%B9%9F%E6%98%AF%E5%A5%B3%E7%8E%8B&t=31&band_rank=26&Refer=top) 35734
 1. [美国网友说副总统万斯愚不可及](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%BD%91%E5%8F%8B%E8%AF%B4%E5%89%AF%E6%80%BB%E7%BB%9F%E4%B8%87%E6%96%AF%E6%84%9A%E4%B8%8D%E5%8F%AF%E5%8F%8A%23&t=31&band_rank=31&Refer=top) 31799
@@ -79,6 +81,7 @@
 1. [面对美关税我们心中有数手上有招](https://s.weibo.com/weibo?q=%23%E9%9D%A2%E5%AF%B9%E7%BE%8E%E5%85%B3%E7%A8%8E%E6%88%91%E4%BB%AC%E5%BF%83%E4%B8%AD%E6%9C%89%E6%95%B0%E6%89%8B%E4%B8%8A%E6%9C%89%E6%8B%9B%23&t=31&band_rank=45&Refer=top) 23445
 1. [马布里汪妤凌](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%B8%83%E9%87%8C%E6%B1%AA%E5%A6%A4%E5%87%8C%23&t=31&band_rank=47&Refer=top) 22775
 1. [檀健次高干文男主适配度](https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E9%AB%98%E5%B9%B2%E6%96%87%E7%94%B7%E4%B8%BB%E9%80%82%E9%85%8D%E5%BA%A6%23&t=31&band_rank=49&Refer=top) 22231
+1. [低精力人群](https://s.weibo.com/weibo?q=%E4%BD%8E%E7%B2%BE%E5%8A%9B%E4%BA%BA%E7%BE%A4&t=31&band_rank=25&Refer=top) 19622
 <!-- END -->
 
 历史归档 [./archives](./archives)
