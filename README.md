@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-04-09 01:18:48.990035 
+最后更新时间 2025-04-09 02:28:33.216124 
 1. [女医生惨遭丧子之痛还带来凶宅官司](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%8C%BB%E7%94%9F%E6%83%A8%E9%81%AD%E4%B8%A7%E5%AD%90%E4%B9%8B%E7%97%9B%E8%BF%98%E5%B8%A6%E6%9D%A5%E5%87%B6%E5%AE%85%E5%AE%98%E5%8F%B8%23&t=31&band_rank=1&Refer=top) 878031
 1. [贪官买宝马不敢开罩起来放地下室](https://s.weibo.com/weibo?q=%23%E8%B4%AA%E5%AE%98%E4%B9%B0%E5%AE%9D%E9%A9%AC%E4%B8%8D%E6%95%A2%E5%BC%80%E7%BD%A9%E8%B5%B7%E6%9D%A5%E6%94%BE%E5%9C%B0%E4%B8%8B%E5%AE%A4%23&t=31&band_rank=2&Refer=top) 390127
 1. [中国不惹事也绝不怕事](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%B8%8D%E6%83%B9%E4%BA%8B%E4%B9%9F%E7%BB%9D%E4%B8%8D%E6%80%95%E4%BA%8B%23&t=31&band_rank=3&Refer=top) 326538
@@ -26,6 +26,7 @@
 1. [刘宇宁直播回应万花世界](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E7%9B%B4%E6%92%AD%E5%9B%9E%E5%BA%94%E4%B8%87%E8%8A%B1%E4%B8%96%E7%95%8C%23&t=31&band_rank=16&Refer=top) 190971
 1. [质疑严浩翔导师身份选手道歉](https://s.weibo.com/weibo?q=%23%E8%B4%A8%E7%96%91%E4%B8%A5%E6%B5%A9%E7%BF%94%E5%AF%BC%E5%B8%88%E8%BA%AB%E4%BB%BD%E9%80%89%E6%89%8B%E9%81%93%E6%AD%89%23&t=31&band_rank=17&Refer=top) 180908
 1. [贾静雯回应股市受灾情况](https://s.weibo.com/weibo?q=%23%E8%B4%BE%E9%9D%99%E9%9B%AF%E5%9B%9E%E5%BA%94%E8%82%A1%E5%B8%82%E5%8F%97%E7%81%BE%E6%83%85%E5%86%B5%23&t=31&band_rank=18&Refer=top) 175696
+1. [外交部回应特朗普威胁再加征50%关税](https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E5%86%8D%E5%8A%A0%E5%BE%8150%25%E5%85%B3%E7%A8%8E%23&t=31&band_rank=33&Refer=top) 174217
 1. [金子涵曾瘦到49公斤](https://s.weibo.com/weibo?q=%23%E9%87%91%E5%AD%90%E6%B6%B5%E6%9B%BE%E7%98%A6%E5%88%B049%E5%85%AC%E6%96%A4%23&t=31&band_rank=19&Refer=top) 166804
 1. [办好自己的事中国有底气](https://s.weibo.com/weibo?q=%23%E5%8A%9E%E5%A5%BD%E8%87%AA%E5%B7%B1%E7%9A%84%E4%BA%8B%E4%B8%AD%E5%9B%BD%E6%9C%89%E5%BA%95%E6%B0%94%23&t=31&band_rank=20&Refer=top) 164805
 1. [吴世勋去了EXO直播现场](https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%B8%96%E5%8B%8B%E5%8E%BB%E4%BA%86EXO%E7%9B%B4%E6%92%AD%E7%8E%B0%E5%9C%BA%23&t=31&band_rank=21&Refer=top) 161280
@@ -35,7 +36,6 @@
 1. [刘纪鹏再次建议成立4万亿平准基金](https://s.weibo.com/weibo?q=%23%E5%88%98%E7%BA%AA%E9%B9%8F%E5%86%8D%E6%AC%A1%E5%BB%BA%E8%AE%AE%E6%88%90%E7%AB%8B4%E4%B8%87%E4%BA%BF%E5%B9%B3%E5%87%86%E5%9F%BA%E9%87%91%23&t=31&band_rank=25&Refer=top) 140808
 1. [张艺兴不参加EXO周年纪念活动](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E4%B8%8D%E5%8F%82%E5%8A%A0EXO%E5%91%A8%E5%B9%B4%E7%BA%AA%E5%BF%B5%E6%B4%BB%E5%8A%A8%23&t=31&band_rank=26&Refer=top) 140798
 1. [A股一扫阴霾强势反弹](https://s.weibo.com/weibo?q=%23A%E8%82%A1%E4%B8%80%E6%89%AB%E9%98%B4%E9%9C%BE%E5%BC%BA%E5%8A%BF%E5%8F%8D%E5%BC%B9%23&t=31&band_rank=5&Refer=top) 132497
-1. [外交部回应特朗普威胁再加征50%关税](https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E5%86%8D%E5%8A%A0%E5%BE%8150%25%E5%85%B3%E7%A8%8E%23&t=31&band_rank=33&Refer=top) 126813
 1. [股民押中农业股1天从亏5万到赚5万](https://s.weibo.com/weibo?q=%23%E8%82%A1%E6%B0%91%E6%8A%BC%E4%B8%AD%E5%86%9C%E4%B8%9A%E8%82%A11%E5%A4%A9%E4%BB%8E%E4%BA%8F5%E4%B8%87%E5%88%B0%E8%B5%9A5%E4%B8%87%23&t=31&band_rank=27&Refer=top) 126355
 1. [美所谓对等关税单边霸凌损人害己](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%89%80%E8%B0%93%E5%AF%B9%E7%AD%89%E5%85%B3%E7%A8%8E%E5%8D%95%E8%BE%B9%E9%9C%B8%E5%87%8C%E6%8D%9F%E4%BA%BA%E5%AE%B3%E5%B7%B1%23&t=31&band_rank=10&Refer=top) 125501
 1. [清朝ppt](https://s.weibo.com/weibo?q=%E6%B8%85%E6%9C%9Dppt&t=31&band_rank=15&Refer=top) 122514
@@ -63,10 +63,18 @@
 1. [内心笃定是一种力量](https://s.weibo.com/weibo?q=%23%E5%86%85%E5%BF%83%E7%AC%83%E5%AE%9A%E6%98%AF%E4%B8%80%E7%A7%8D%E5%8A%9B%E9%87%8F%23&t=31&band_rank=49&Refer=top) 74735
 1. [A股超3200只个股收红](https://s.weibo.com/weibo?q=%23A%E8%82%A1%E8%B6%853200%E5%8F%AA%E4%B8%AA%E8%82%A1%E6%94%B6%E7%BA%A2%23&t=31&band_rank=25&Refer=top) 74364
 1. [陈飞宇朋友圈](https://s.weibo.com/weibo?q=%E9%99%88%E9%A3%9E%E5%AE%87%E6%9C%8B%E5%8F%8B%E5%9C%88&t=31&band_rank=50&Refer=top) 73716
+1. [央行必要时将再贷款支持中央汇金](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A1%8C%E5%BF%85%E8%A6%81%E6%97%B6%E5%B0%86%E5%86%8D%E8%B4%B7%E6%AC%BE%E6%94%AF%E6%8C%81%E4%B8%AD%E5%A4%AE%E6%B1%87%E9%87%91%23&t=31&band_rank=10&Refer=top) 56607
 1. [朱志鑫又回到一些熟悉的地方](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E5%BF%97%E9%91%AB%E5%8F%88%E5%9B%9E%E5%88%B0%E4%B8%80%E4%BA%9B%E7%86%9F%E6%82%89%E7%9A%84%E5%9C%B0%E6%96%B9%23&t=31&band_rank=38&Refer=top) 50414
 1. [棋士22](https://s.weibo.com/weibo?q=%E6%A3%8B%E5%A3%AB22&t=31&band_rank=39&Refer=top) 50353
 1. [内娱女明星红毯统计](https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E5%A5%B3%E6%98%8E%E6%98%9F%E7%BA%A2%E6%AF%AF%E7%BB%9F%E8%AE%A1%23&t=31&band_rank=41&Refer=top) 49551
 1. [王嘉尔版superidol](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E7%89%88superidol%23&t=31&band_rank=45&Refer=top) 46752
+1. [警方打假冒牌咖啡](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E6%89%93%E5%81%87%E5%86%92%E7%89%8C%E5%92%96%E5%95%A1%23&t=31&band_rank=21&Refer=top) 41954
+1. [美威胁进一步对华加征50%关税](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%A8%81%E8%83%81%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%AF%B9%E5%8D%8E%E5%8A%A0%E5%BE%8150%25%E5%85%B3%E7%A8%8E%23&t=31&band_rank=31&Refer=top) 33894
+1. [念无双番外](https://s.weibo.com/weibo?q=%E5%BF%B5%E6%97%A0%E5%8F%8C%E7%95%AA%E5%A4%96&t=31&band_rank=39&Refer=top) 27401
+1. [缅甸地震致3645人死亡](https://s.weibo.com/weibo?q=%23%E7%BC%85%E7%94%B8%E5%9C%B0%E9%9C%87%E8%87%B43645%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=46&Refer=top) 24685
+1. [星穹铁道遐蝶](https://s.weibo.com/weibo?q=%23%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93%E9%81%90%E8%9D%B6%23&t=31&band_rank=47&Refer=top) 24194
+1. [A股利好连发](https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%88%A9%E5%A5%BD%E8%BF%9E%E5%8F%91%23&t=31&band_rank=49&Refer=top) 23943
+1. [离境退税即买即退今起全国推广](https://s.weibo.com/weibo?q=%23%E7%A6%BB%E5%A2%83%E9%80%80%E7%A8%8E%E5%8D%B3%E4%B9%B0%E5%8D%B3%E9%80%80%E4%BB%8A%E8%B5%B7%E5%85%A8%E5%9B%BD%E6%8E%A8%E5%B9%BF%23&t=31&band_rank=50&Refer=top) 23934
 <!-- END -->
 
 历史归档 [./archives](./archives)
