@@ -67,6 +67,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%B0%B8%E8%BF%9C%E6%B2%A1%E6%9C%89%E5%91%8A%E5%88%AB%23&t=31&band_rank=33&Refer=top",
     "hot": 495082
   },
+  "中方绝对不接受美方极限施压霸道霸凌": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E7%BB%9D%E5%AF%B9%E4%B8%8D%E6%8E%A5%E5%8F%97%E7%BE%8E%E6%96%B9%E6%9E%81%E9%99%90%E6%96%BD%E5%8E%8B%E9%9C%B8%E9%81%93%E9%9C%B8%E5%87%8C%23&t=31&band_rank=3&Refer=top",
+    "hot": 492208
+  },
   "奥迪暂停对美国经销商交付新车": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%A5%A5%E8%BF%AA%E6%9A%82%E5%81%9C%E5%AF%B9%E7%BE%8E%E5%9B%BD%E7%BB%8F%E9%94%80%E5%95%86%E4%BA%A4%E4%BB%98%E6%96%B0%E8%BD%A6%23&t=31&band_rank=16&Refer=top",
     "hot": 480492
@@ -95,6 +99,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%86%B0%E5%86%B07%E5%B9%B4%E5%81%9A%E4%BA%8616%E6%AC%A1%E8%AF%95%E7%AE%A1%E5%A9%B4%E5%84%BF%23&t=31&band_rank=22&Refer=top",
     "hot": 347382
   },
+  "美股": {
+    "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=34&Refer=top",
+    "hot": 346860
+  },
   "家长建议小学延时至6点半放学": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%95%BF%E5%BB%BA%E8%AE%AE%E5%B0%8F%E5%AD%A6%E5%BB%B6%E6%97%B6%E8%87%B36%E7%82%B9%E5%8D%8A%E6%94%BE%E5%AD%A6%23&t=31&band_rank=23&Refer=top",
     "hot": 268145
@@ -102,6 +110,10 @@
   "马斯克游戏直播太菜被骂下播": {
     "url": "https://s.weibo.com/weibo?q=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%B8%B8%E6%88%8F%E7%9B%B4%E6%92%AD%E5%A4%AA%E8%8F%9C%E8%A2%AB%E9%AA%82%E4%B8%8B%E6%92%AD&t=31&band_rank=24&Refer=top",
     "hot": 267455
+  },
+  "纳斯达克": {
+    "url": "https://s.weibo.com/weibo?q=%E7%BA%B3%E6%96%AF%E8%BE%BE%E5%85%8B&t=31&band_rank=47&Refer=top",
+    "hot": 253122
   },
   "这真不是周迅小时候吗": {
     "url": "https://s.weibo.com/weibo?q=%E8%BF%99%E7%9C%9F%E4%B8%8D%E6%98%AF%E5%91%A8%E8%BF%85%E5%B0%8F%E6%97%B6%E5%80%99%E5%90%97&t=31&band_rank=25&Refer=top",
@@ -134,10 +146,6 @@
   "外交部回应美国对华征收104%关税": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD%E5%AF%B9%E5%8D%8E%E5%BE%81%E6%94%B6104%25%E5%85%B3%E7%A8%8E%23&t=31&band_rank=32&Refer=top",
     "hot": 186804
-  },
-  "美股": {
-    "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=34&Refer=top",
-    "hot": 159378
   },
   "上海人均4千餐厅甜品是大象粪便": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%BA%BA%E5%9D%874%E5%8D%83%E9%A4%90%E5%8E%85%E7%94%9C%E5%93%81%E6%98%AF%E5%A4%A7%E8%B1%A1%E7%B2%AA%E4%BE%BF%23&t=31&band_rank=35&Refer=top",
@@ -187,10 +195,6 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%AD%95%E5%A6%87%E6%8B%94%E5%9D%9F%E5%A4%B4%E8%8D%89%E7%85%AE%E6%B0%B4%E5%96%9D%E6%AF%8D%E5%AD%90%E9%99%A9%E4%B8%A7%E5%91%BD%23&t=31&band_rank=44&Refer=top",
     "hot": 100844
   },
-  "纳斯达克": {
-    "url": "https://s.weibo.com/weibo?q=%E7%BA%B3%E6%96%AF%E8%BE%BE%E5%85%8B&t=31&band_rank=47&Refer=top",
-    "hot": 91262
-  },
   "要相信自己的节奏": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%A6%81%E7%9B%B8%E4%BF%A1%E8%87%AA%E5%B7%B1%E7%9A%84%E8%8A%82%E5%A5%8F%23&t=31&band_rank=48&Refer=top",
     "hot": 82581
@@ -207,8 +211,20 @@
     "url": "https://s.weibo.com/weibo?q=PUBG&t=31&band_rank=38&Refer=top",
     "hot": 73376
   },
+  "纳指涨幅扩大": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BA%B3%E6%8C%87%E6%B6%A8%E5%B9%85%E6%89%A9%E5%A4%A7%23&t=31&band_rank=25&Refer=top",
+    "hot": 69261
+  },
   "白鹿 爱能克服远距离": {
     "url": "https://s.weibo.com/weibo?q=%E7%99%BD%E9%B9%BF%20%E7%88%B1%E8%83%BD%E5%85%8B%E6%9C%8D%E8%BF%9C%E8%B7%9D%E7%A6%BB&t=31&band_rank=50&Refer=top",
     "hot": 50924
+  },
+  "黄金": {
+    "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91&t=31&band_rank=48&Refer=top",
+    "hot": 38030
+  },
+  "朱一龙顺毛对镜拍": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E9%A1%BA%E6%AF%9B%E5%AF%B9%E9%95%9C%E6%8B%8D%23&t=31&band_rank=50&Refer=top",
+    "hot": 38023
   }
 }
