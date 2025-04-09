@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-04-10 02:29:21.339120 
+最后更新时间 2025-04-10 03:17:16.254394 
 1. [对美所有进口商品关税再提高50%](https://s.weibo.com/weibo?q=%23%E5%AF%B9%E7%BE%8E%E6%89%80%E6%9C%89%E8%BF%9B%E5%8F%A3%E5%95%86%E5%93%81%E5%85%B3%E7%A8%8E%E5%86%8D%E6%8F%90%E9%AB%9850%25%23&t=31&band_rank=1&Refer=top) 6774275
 1. [美国被加关税后特朗普呼吁冷静](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%A2%AB%E5%8A%A0%E5%85%B3%E7%A8%8E%E5%90%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%91%BC%E5%90%81%E5%86%B7%E9%9D%99%23&t=31&band_rank=4&Refer=top) 2499545
 1. [外媒称美国的痛苦是自作自受](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%AA%92%E7%A7%B0%E7%BE%8E%E5%9B%BD%E7%9A%84%E7%97%9B%E8%8B%A6%E6%98%AF%E8%87%AA%E4%BD%9C%E8%87%AA%E5%8F%97%23&t=31&band_rank=3&Refer=top) 1268387
@@ -65,6 +65,9 @@
 1. [白鹿 爱能克服远距离](https://s.weibo.com/weibo?q=%E7%99%BD%E9%B9%BF%20%E7%88%B1%E8%83%BD%E5%85%8B%E6%9C%8D%E8%BF%9C%E8%B7%9D%E7%A6%BB&t=31&band_rank=50&Refer=top) 50924
 1. [黄金](https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91&t=31&band_rank=48&Refer=top) 38030
 1. [朱一龙顺毛对镜拍](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E9%A1%BA%E6%AF%9B%E5%AF%B9%E9%95%9C%E6%8B%8D%23&t=31&band_rank=50&Refer=top) 38023
+1. [中国一如既往扎根周边贡献周边](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%B8%80%E5%A6%82%E6%97%A2%E5%BE%80%E6%89%8E%E6%A0%B9%E5%91%A8%E8%BE%B9%E8%B4%A1%E7%8C%AE%E5%91%A8%E8%BE%B9%23&t=31&band_rank=36&Refer=top) 30202
+1. [中国有底气有信心应对美国关税冲击](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%9C%89%E5%BA%95%E6%B0%94%E6%9C%89%E4%BF%A1%E5%BF%83%E5%BA%94%E5%AF%B9%E7%BE%8E%E5%9B%BD%E5%85%B3%E7%A8%8E%E5%86%B2%E5%87%BB%23&t=31&band_rank=44&Refer=top) 24654
+1. [阿尔曼](https://s.weibo.com/weibo?q=%E9%98%BF%E5%B0%94%E6%9B%BC&t=31&band_rank=50&Refer=top) 23752
 <!-- END -->
 
 历史归档 [./archives](./archives)
