@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-04-14 04:20:40.848086 
+最后更新时间 2025-04-14 05:18:37.384834 
 1. [外媒问哪来的自信幻想中国人会跪](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%AA%92%E9%97%AE%E5%93%AA%E6%9D%A5%E7%9A%84%E8%87%AA%E4%BF%A1%E5%B9%BB%E6%83%B3%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%BC%9A%E8%B7%AA%23&t=31&band_rank=1&Refer=top) 946577
 1. [女生替去世前男友照顾家人还债60万](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E6%9B%BF%E5%8E%BB%E4%B8%96%E5%89%8D%E7%94%B7%E5%8F%8B%E7%85%A7%E9%A1%BE%E5%AE%B6%E4%BA%BA%E8%BF%98%E5%80%BA60%E4%B8%87%23&t=31&band_rank=2&Refer=top) 731167
 1. [大张旗鼓加税偷偷摸摸豁免](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%BC%A0%E6%97%97%E9%BC%93%E5%8A%A0%E7%A8%8E%E5%81%B7%E5%81%B7%E6%91%B8%E6%91%B8%E8%B1%81%E5%85%8D%23&t=31&band_rank=3&Refer=top) 560500
@@ -72,6 +72,7 @@
 1. [25岁歌手演出第二天猝死](https://s.weibo.com/weibo?q=%2325%E5%B2%81%E6%AD%8C%E6%89%8B%E6%BC%94%E5%87%BA%E7%AC%AC%E4%BA%8C%E5%A4%A9%E7%8C%9D%E6%AD%BB%23&t=31&band_rank=30&Refer=top) 35923
 1. [公司约9827万应收账款拍卖2.85万成交](https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%8F%B8%E7%BA%A69827%E4%B8%87%E5%BA%94%E6%94%B6%E8%B4%A6%E6%AC%BE%E6%8B%8D%E5%8D%962.85%E4%B8%87%E6%88%90%E4%BA%A4%23&t=31&band_rank=40&Refer=top) 29791
 1. [黑镜](https://s.weibo.com/weibo?q=%E9%BB%91%E9%95%9C&t=31&band_rank=41&Refer=top) 29431
+1. [美媒称市场处于快速去美元化过程中](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%AA%92%E7%A7%B0%E5%B8%82%E5%9C%BA%E5%A4%84%E4%BA%8E%E5%BF%AB%E9%80%9F%E5%8E%BB%E7%BE%8E%E5%85%83%E5%8C%96%E8%BF%87%E7%A8%8B%E4%B8%AD%23&t=31&band_rank=17&Refer=top) 29399
 1. [姚琛雨中万人蹦迪让人红温](https://s.weibo.com/weibo?q=%E5%A7%9A%E7%90%9B%E9%9B%A8%E4%B8%AD%E4%B8%87%E4%BA%BA%E8%B9%A6%E8%BF%AA%E8%AE%A9%E4%BA%BA%E7%BA%A2%E6%B8%A9&t=31&band_rank=43&Refer=top) 28381
 1. [周震南这把鲨疯了](https://s.weibo.com/weibo?q=%E5%91%A8%E9%9C%87%E5%8D%97%E8%BF%99%E6%8A%8A%E9%B2%A8%E7%96%AF%E4%BA%86&t=31&band_rank=46&Refer=top) 27213
 1. [卓沅出去玩泥巴了](https://s.weibo.com/weibo?q=%E5%8D%93%E6%B2%85%E5%87%BA%E5%8E%BB%E7%8E%A9%E6%B3%A5%E5%B7%B4%E4%BA%86&t=31&band_rank=47&Refer=top) 26474
@@ -79,7 +80,9 @@
 1. [张小婉说当时感到脚下有异动](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E5%A9%89%E8%AF%B4%E5%BD%93%E6%97%B6%E6%84%9F%E5%88%B0%E8%84%9A%E4%B8%8B%E6%9C%89%E5%BC%82%E5%8A%A8%23&t=31&band_rank=28&Refer=top) 21204
 1. [张泽禹禹宙角落的广播](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%B3%BD%E7%A6%B9%E7%A6%B9%E5%AE%99%E8%A7%92%E8%90%BD%E7%9A%84%E5%B9%BF%E6%92%AD&t=31&band_rank=46&Refer=top) 20393
 1. [我的后半生](https://s.weibo.com/weibo?q=%E6%88%91%E7%9A%84%E5%90%8E%E5%8D%8A%E7%94%9F&t=31&band_rank=48&Refer=top) 20392
+1. [你好星期六](https://s.weibo.com/weibo?q=%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD&t=31&band_rank=40&Refer=top) 15660
 1. [美关税乱政成了马戏表演](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%85%B3%E7%A8%8E%E4%B9%B1%E6%94%BF%E6%88%90%E4%BA%86%E9%A9%AC%E6%88%8F%E8%A1%A8%E6%BC%94%23&t=31&band_rank=40&Refer=top) 15602
+1. [中越山水相连文化相通](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E8%B6%8A%E5%B1%B1%E6%B0%B4%E7%9B%B8%E8%BF%9E%E6%96%87%E5%8C%96%E7%9B%B8%E9%80%9A%23&t=31&band_rank=45&Refer=top) 15380
 1. [你的朋友圈和微博是两人在运营吗](https://s.weibo.com/weibo?q=%E4%BD%A0%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%92%8C%E5%BE%AE%E5%8D%9A%E6%98%AF%E4%B8%A4%E4%BA%BA%E5%9C%A8%E8%BF%90%E8%90%A5%E5%90%97&t=31&band_rank=46&Refer=top) 14660
 <!-- END -->
 
