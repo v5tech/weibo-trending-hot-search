@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-04-15 02:29:27.069832 
+最后更新时间 2025-04-15 03:17:13.718982 
 1. [zmjjkk发博](https://s.weibo.com/weibo?q=zmjjkk%E5%8F%91%E5%8D%9A&t=31&band_rank=1&Refer=top) 929246
 1. [绵绵的羊卫生巾被曝有异物](https://s.weibo.com/weibo?q=%23%E7%BB%B5%E7%BB%B5%E7%9A%84%E7%BE%8A%E5%8D%AB%E7%94%9F%E5%B7%BE%E8%A2%AB%E6%9B%9D%E6%9C%89%E5%BC%82%E7%89%A9%23&t=31&band_rank=2&Refer=top) 619281
 1. [我国与东盟贸易互补不断增强](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E4%B8%8E%E4%B8%9C%E7%9B%9F%E8%B4%B8%E6%98%93%E4%BA%92%E8%A1%A5%E4%B8%8D%E6%96%AD%E5%A2%9E%E5%BC%BA%23&t=31&band_rank=3&Refer=top) 603286
@@ -72,6 +72,9 @@
 1. [越南人聚会也爱嗑瓜子](https://s.weibo.com/weibo?q=%23%E8%B6%8A%E5%8D%97%E4%BA%BA%E8%81%9A%E4%BC%9A%E4%B9%9F%E7%88%B1%E5%97%91%E7%93%9C%E5%AD%90%23&t=31&band_rank=37&Refer=top) 31931
 1. [水果姐将乘飞船进太空](https://s.weibo.com/weibo?q=%23%E6%B0%B4%E6%9E%9C%E5%A7%90%E5%B0%86%E4%B9%98%E9%A3%9E%E8%88%B9%E8%BF%9B%E5%A4%AA%E7%A9%BA%23&t=31&band_rank=48&Refer=top) 31841
 1. [苏新皓直拍](https://s.weibo.com/weibo?q=%E8%8B%8F%E6%96%B0%E7%9A%93%E7%9B%B4%E6%8B%8D&t=31&band_rank=49&Refer=top) 31836
+1. [全球多家大型养老基金暂停对美投资](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E5%A4%9A%E5%AE%B6%E5%A4%A7%E5%9E%8B%E5%85%BB%E8%80%81%E5%9F%BA%E9%87%91%E6%9A%82%E5%81%9C%E5%AF%B9%E7%BE%8E%E6%8A%95%E8%B5%84%23&t=31&band_rank=27&Refer=top) 25613
+1. [荣耀之战](https://s.weibo.com/weibo?q=%E8%8D%A3%E8%80%80%E4%B9%8B%E6%88%98&t=31&band_rank=49&Refer=top) 23438
+1. [张远粉丝想要粉丝得到](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%BF%9C%E7%B2%89%E4%B8%9D%E6%83%B3%E8%A6%81%E7%B2%89%E4%B8%9D%E5%BE%97%E5%88%B0&t=31&band_rank=50&Refer=top) 23438
 <!-- END -->
 
 历史归档 [./archives](./archives)
