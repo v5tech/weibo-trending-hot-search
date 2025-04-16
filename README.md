@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-04-17 04:23:53.698912 
+最后更新时间 2025-04-17 05:20:05.826232 
 1. [加州宣布将起诉特朗普政府](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E5%B7%9E%E5%AE%A3%E5%B8%83%E5%B0%86%E8%B5%B7%E8%AF%89%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%23&t=31&band_rank=1&Refer=top) 902988
 1. [黄金](https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91&t=31&band_rank=2&Refer=top) 656914
 1. [杭州警方通报浙江队外援坠亡](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E6%B5%99%E6%B1%9F%E9%98%9F%E5%A4%96%E6%8F%B4%E5%9D%A0%E4%BA%A1%23&t=31&band_rank=17&Refer=top) 584787
@@ -69,16 +69,17 @@
 1. [继榴莲之后马来椰子也要来华了](https://s.weibo.com/weibo?q=%23%E7%BB%A7%E6%A6%B4%E8%8E%B2%E4%B9%8B%E5%90%8E%E9%A9%AC%E6%9D%A5%E6%A4%B0%E5%AD%90%E4%B9%9F%E8%A6%81%E6%9D%A5%E5%8D%8E%E4%BA%86%23&t=31&band_rank=48&Refer=top) 42140
 1. [中国经济的未来从来不由别人定义](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E7%9A%84%E6%9C%AA%E6%9D%A5%E4%BB%8E%E6%9D%A5%E4%B8%8D%E7%94%B1%E5%88%AB%E4%BA%BA%E5%AE%9A%E4%B9%89%23&t=31&band_rank=24&Refer=top) 35272
 1. [张晚意的25岁是事业转折点](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%99%9A%E6%84%8F%E7%9A%8425%E5%B2%81%E6%98%AF%E4%BA%8B%E4%B8%9A%E8%BD%AC%E6%8A%98%E7%82%B9%23&t=31&band_rank=34&Refer=top) 28182
+1. [崔乐北电表演专业第一](https://s.weibo.com/weibo?q=%23%E5%B4%94%E4%B9%90%E5%8C%97%E7%94%B5%E8%A1%A8%E6%BC%94%E4%B8%93%E4%B8%9A%E7%AC%AC%E4%B8%80%23&t=31&band_rank=31&Refer=top) 27908
 1. [上海女教师怒怼安福路偷拍老法师](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%A5%B3%E6%95%99%E5%B8%88%E6%80%92%E6%80%BC%E5%AE%89%E7%A6%8F%E8%B7%AF%E5%81%B7%E6%8B%8D%E8%80%81%E6%B3%95%E5%B8%88%23&t=31&band_rank=37&Refer=top) 26067
 1. [TTG首次无缘季后赛](https://s.weibo.com/weibo?q=%23TTG%E9%A6%96%E6%AC%A1%E6%97%A0%E7%BC%98%E5%AD%A3%E5%90%8E%E8%B5%9B%23&t=31&band_rank=47&Refer=top) 21896
 1. [太湖湾音乐节](https://s.weibo.com/weibo?q=%E5%A4%AA%E6%B9%96%E6%B9%BE%E9%9F%B3%E4%B9%90%E8%8A%82&t=31&band_rank=48&Refer=top) 21558
 1. [柬埔寨首都街头随处可见中文标识](https://s.weibo.com/weibo?q=%23%E6%9F%AC%E5%9F%94%E5%AF%A8%E9%A6%96%E9%83%BD%E8%A1%97%E5%A4%B4%E9%9A%8F%E5%A4%84%E5%8F%AF%E8%A7%81%E4%B8%AD%E6%96%87%E6%A0%87%E8%AF%86%23&t=31&band_rank=49&Refer=top) 20651
 1. [多方回应上海安福路老法师偷拍女性](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94%E4%B8%8A%E6%B5%B7%E5%AE%89%E7%A6%8F%E8%B7%AF%E8%80%81%E6%B3%95%E5%B8%88%E5%81%B7%E6%8B%8D%E5%A5%B3%E6%80%A7%23&t=31&band_rank=42&Refer=top) 18501
-1. [崔乐北电表演专业第一](https://s.weibo.com/weibo?q=%23%E5%B4%94%E4%B9%90%E5%8C%97%E7%94%B5%E8%A1%A8%E6%BC%94%E4%B8%93%E4%B8%9A%E7%AC%AC%E4%B8%80%23&t=31&band_rank=31&Refer=top) 17113
-1. [女子遭前男友烧残生活仍不能自理](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%81%AD%E5%89%8D%E7%94%B7%E5%8F%8B%E7%83%A7%E6%AE%8B%E7%94%9F%E6%B4%BB%E4%BB%8D%E4%B8%8D%E8%83%BD%E8%87%AA%E7%90%86%23&t=31&band_rank=36&Refer=top) 16476
+1. [女子遭前男友烧残生活仍不能自理](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%81%AD%E5%89%8D%E7%94%B7%E5%8F%8B%E7%83%A7%E6%AE%8B%E7%94%9F%E6%B4%BB%E4%BB%8D%E4%B8%8D%E8%83%BD%E8%87%AA%E7%90%86%23&t=31&band_rank=36&Refer=top) 17517
 1. [无限超越班](https://s.weibo.com/weibo?q=%E6%97%A0%E9%99%90%E8%B6%85%E8%B6%8A%E7%8F%AD&t=31&band_rank=40&Refer=top) 16365
 1. [我国首次验证用卫星跟踪卫星](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E9%A6%96%E6%AC%A1%E9%AA%8C%E8%AF%81%E7%94%A8%E5%8D%AB%E6%98%9F%E8%B7%9F%E8%B8%AA%E5%8D%AB%E6%98%9F%23&t=31&band_rank=46&Refer=top) 16360
 1. [美方无所不用其极搞监控窃密攻击](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%96%B9%E6%97%A0%E6%89%80%E4%B8%8D%E7%94%A8%E5%85%B6%E6%9E%81%E6%90%9E%E7%9B%91%E6%8E%A7%E7%AA%83%E5%AF%86%E6%94%BB%E5%87%BB%23&t=31&band_rank=47&Refer=top) 16359
+1. [看似奇葩却能秒睡的姿势](https://s.weibo.com/weibo?q=%E7%9C%8B%E4%BC%BC%E5%A5%87%E8%91%A9%E5%8D%B4%E8%83%BD%E7%A7%92%E7%9D%A1%E7%9A%84%E5%A7%BF%E5%8A%BF&t=31&band_rank=39&Refer=top) 16297
 <!-- END -->
 
 历史归档 [./archives](./archives)
