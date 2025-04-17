@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-04-18 02:28:41.013323 
+最后更新时间 2025-04-18 03:16:36.906854 
 1. [花21万追女生签自愿赠与协议后起诉](https://s.weibo.com/weibo?q=%23%E8%8A%B121%E4%B8%87%E8%BF%BD%E5%A5%B3%E7%94%9F%E7%AD%BE%E8%87%AA%E6%84%BF%E8%B5%A0%E4%B8%8E%E5%8D%8F%E8%AE%AE%E5%90%8E%E8%B5%B7%E8%AF%89%23&t=31&band_rank=1&Refer=top) 944409
 1. [00后女生微创手术后缺氧致脑死亡](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E5%A5%B3%E7%94%9F%E5%BE%AE%E5%88%9B%E6%89%8B%E6%9C%AF%E5%90%8E%E7%BC%BA%E6%B0%A7%E8%87%B4%E8%84%91%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=2&Refer=top) 723900
 1. [马来西亚小哥大喊我爱中国](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E5%B0%8F%E5%93%A5%E5%A4%A7%E5%96%8A%E6%88%91%E7%88%B1%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top) 555441
@@ -70,6 +70,8 @@
 1. [丁程鑫早点睡吧别太累](https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A8%8B%E9%91%AB%E6%97%A9%E7%82%B9%E7%9D%A1%E5%90%A7%E5%88%AB%E5%A4%AA%E7%B4%AF%23&t=31&band_rank=42&Refer=top) 22859
 1. [4K超高清的视界每一帧都震撼](https://s.weibo.com/weibo?q=%234K%E8%B6%85%E9%AB%98%E6%B8%85%E7%9A%84%E8%A7%86%E7%95%8C%E6%AF%8F%E4%B8%80%E5%B8%A7%E9%83%BD%E9%9C%87%E6%92%BC%23&t=31&band_rank=43&Refer=top) 22857
 1. [时代少年团特权码](https://s.weibo.com/weibo?q=%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E7%89%B9%E6%9D%83%E7%A0%81&t=31&band_rank=50&Refer=top) 22849
+1. [2025年为中柬旅游年](https://s.weibo.com/weibo?q=%232025%E5%B9%B4%E4%B8%BA%E4%B8%AD%E6%9F%AC%E6%97%85%E6%B8%B8%E5%B9%B4%23&t=31&band_rank=42&Refer=top) 17652
+1. [惠英红祝福新浪娱乐25周年](https://s.weibo.com/weibo?q=%23%E6%83%A0%E8%8B%B1%E7%BA%A2%E7%A5%9D%E7%A6%8F%E6%96%B0%E6%B5%AA%E5%A8%B1%E4%B9%9025%E5%91%A8%E5%B9%B4%23&t=31&band_rank=48&Refer=top) 17649
 <!-- END -->
 
 历史归档 [./archives](./archives)
