@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-04-19 04:22:01.391393 
+最后更新时间 2025-04-19 05:18:59.640082 
 1. [中国被曝已不再生产出口美国的玩具](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%A2%AB%E6%9B%9D%E5%B7%B2%E4%B8%8D%E5%86%8D%E7%94%9F%E4%BA%A7%E5%87%BA%E5%8F%A3%E7%BE%8E%E5%9B%BD%E7%9A%84%E7%8E%A9%E5%85%B7%23&t=31&band_rank=1&Refer=top) 953161
 1. [特朗普称1个月内会与中国达成协议](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B01%E4%B8%AA%E6%9C%88%E5%86%85%E4%BC%9A%E4%B8%8E%E4%B8%AD%E5%9B%BD%E8%BE%BE%E6%88%90%E5%8D%8F%E8%AE%AE%23&t=31&band_rank=2&Refer=top) 602206
 1. [美国加关税是搬石头砸自己脚](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%8A%A0%E5%85%B3%E7%A8%8E%E6%98%AF%E6%90%AC%E7%9F%B3%E5%A4%B4%E7%A0%B8%E8%87%AA%E5%B7%B1%E8%84%9A%23&t=31&band_rank=3&Refer=top) 561672
@@ -74,15 +74,17 @@
 1. [我给虞书欣拍的撕拉片](https://s.weibo.com/weibo?q=%E6%88%91%E7%BB%99%E8%99%9E%E4%B9%A6%E6%AC%A3%E6%8B%8D%E7%9A%84%E6%92%95%E6%8B%89%E7%89%87&t=31&band_rank=38&Refer=top) 36042
 1. [意大利发生缆车轿厢坠落事故](https://s.weibo.com/weibo?q=%23%E6%84%8F%E5%A4%A7%E5%88%A9%E5%8F%91%E7%94%9F%E7%BC%86%E8%BD%A6%E8%BD%BF%E5%8E%A2%E5%9D%A0%E8%90%BD%E4%BA%8B%E6%95%85%23&t=31&band_rank=47&Refer=top) 35969
 1. [周深世巡票房](https://s.weibo.com/weibo?q=%E5%91%A8%E6%B7%B1%E4%B8%96%E5%B7%A1%E7%A5%A8%E6%88%BF&t=31&band_rank=50&Refer=top) 35946
+1. [00后女辅警40米深井救出幼童](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E5%A5%B3%E8%BE%85%E8%AD%A640%E7%B1%B3%E6%B7%B1%E4%BA%95%E6%95%91%E5%87%BA%E5%B9%BC%E7%AB%A5%23&t=31&band_rank=17&Refer=top) 34969
 1. [希音Temu告知美国消费者25日起涨价](https://s.weibo.com/weibo?q=%23%E5%B8%8C%E9%9F%B3Temu%E5%91%8A%E7%9F%A5%E7%BE%8E%E5%9B%BD%E6%B6%88%E8%B4%B9%E8%80%8525%E6%97%A5%E8%B5%B7%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=27&Refer=top) 32753
 1. [susu福福](https://s.weibo.com/weibo?q=%23susu%E7%A6%8F%E7%A6%8F%23&t=31&band_rank=43&Refer=top) 25469
 1. [王源其实是宇宙超级无敌大i人](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%BA%90%E5%85%B6%E5%AE%9E%E6%98%AF%E5%AE%87%E5%AE%99%E8%B6%85%E7%BA%A7%E6%97%A0%E6%95%8C%E5%A4%A7i%E4%BA%BA&t=31&band_rank=44&Refer=top) 25467
 1. [入职民办高校北大博主发声](https://s.weibo.com/weibo?q=%23%E5%85%A5%E8%81%8C%E6%B0%91%E5%8A%9E%E9%AB%98%E6%A0%A1%E5%8C%97%E5%A4%A7%E5%8D%9A%E4%B8%BB%E5%8F%91%E5%A3%B0%23&t=31&band_rank=49&Refer=top) 25452
-1. [00后女辅警40米深井救出幼童](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E5%A5%B3%E8%BE%85%E8%AD%A640%E7%B1%B3%E6%B7%B1%E4%BA%95%E6%95%91%E5%87%BA%E5%B9%BC%E7%AB%A5%23&t=31&band_rank=17&Refer=top) 24705
+1. [杭州发布契税新政](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%8F%91%E5%B8%83%E5%A5%91%E7%A8%8E%E6%96%B0%E6%94%BF%23&t=31&band_rank=21&Refer=top) 23393
 1. [在马来西亚这群建设者哭过更笑过](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E8%BF%99%E7%BE%A4%E5%BB%BA%E8%AE%BE%E8%80%85%E5%93%AD%E8%BF%87%E6%9B%B4%E7%AC%91%E8%BF%87%23&t=31&band_rank=34&Refer=top) 17855
+1. [特朗普称本周将收到俄方反馈](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%9C%AC%E5%91%A8%E5%B0%86%E6%94%B6%E5%88%B0%E4%BF%84%E6%96%B9%E5%8F%8D%E9%A6%88%23&t=31&band_rank=50&Refer=top) 16943
 1. [第一次见一部电影有18个喜剧人](https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E4%B8%80%E9%83%A8%E7%94%B5%E5%BD%B1%E6%9C%8918%E4%B8%AA%E5%96%9C%E5%89%A7%E4%BA%BA&t=31&band_rank=41&Refer=top) 16561
 1. [鲁比奥说俄乌和谈没进展美国就不管了](https://s.weibo.com/weibo?q=%23%E9%B2%81%E6%AF%94%E5%A5%A5%E8%AF%B4%E4%BF%84%E4%B9%8C%E5%92%8C%E8%B0%88%E6%B2%A1%E8%BF%9B%E5%B1%95%E7%BE%8E%E5%9B%BD%E5%B0%B1%E4%B8%8D%E7%AE%A1%E4%BA%86%23&t=31&band_rank=43&Refer=top) 16143
-1. [特朗普称本周将收到俄方反馈](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%9C%AC%E5%91%A8%E5%B0%86%E6%94%B6%E5%88%B0%E4%BF%84%E6%96%B9%E5%8F%8D%E9%A6%88%23&t=31&band_rank=50&Refer=top) 15305
+1. [李晟是宋妍霏唯一的选择](https://s.weibo.com/weibo?q=%E6%9D%8E%E6%99%9F%E6%98%AF%E5%AE%8B%E5%A6%8D%E9%9C%8F%E5%94%AF%E4%B8%80%E7%9A%84%E9%80%89%E6%8B%A9&t=31&band_rank=37&Refer=top) 15702
 <!-- END -->
 
 历史归档 [./archives](./archives)
