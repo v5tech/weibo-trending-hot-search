@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-04-20 04:20:35.104586 
+最后更新时间 2025-04-20 05:18:22.316889 
 1. [关晓彤](https://s.weibo.com/weibo?q=%E5%85%B3%E6%99%93%E5%BD%A4&t=31&band_rank=12&Refer=top) 21841955
 1. [关晓彤已连续7年为鹿晗庆生](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E5%B7%B2%E8%BF%9E%E7%BB%AD7%E5%B9%B4%E4%B8%BA%E9%B9%BF%E6%99%97%E5%BA%86%E7%94%9F%23&t=31&band_rank=11&Refer=top) 8552027
 1. [鹿晗工作室](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E5%B7%A5%E4%BD%9C%E5%AE%A4%23&t=31&band_rank=1&Refer=top) 7834310
@@ -75,18 +75,20 @@
 1. [虞书欣面包小狗变身](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E9%9D%A2%E5%8C%85%E5%B0%8F%E7%8B%97%E5%8F%98%E8%BA%AB%23&t=31&band_rank=45&Refer=top) 79065
 1. [王一珩高管的一天vlog](https://s.weibo.com/weibo?q=%E7%8E%8B%E4%B8%80%E7%8F%A9%E9%AB%98%E7%AE%A1%E7%9A%84%E4%B8%80%E5%A4%A9vlog&t=31&band_rank=46&Refer=top) 78785
 1. [云南广西要热到40度了](https://s.weibo.com/weibo?q=%23%E4%BA%91%E5%8D%97%E5%B9%BF%E8%A5%BF%E8%A6%81%E7%83%AD%E5%88%B040%E5%BA%A6%E4%BA%86%23&t=31&band_rank=20&Refer=top) 70060
+1. [女子阻止高铁关门为何能得逞](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%98%BB%E6%AD%A2%E9%AB%98%E9%93%81%E5%85%B3%E9%97%A8%E4%B8%BA%E4%BD%95%E8%83%BD%E5%BE%97%E9%80%9E%23&t=31&band_rank=46&Refer=top) 50696
 1. [亚克力枪枪](https://s.weibo.com/weibo?q=%E4%BA%9A%E5%85%8B%E5%8A%9B%E6%9E%AA%E6%9E%AA&t=31&band_rank=45&Refer=top) 38349
 1. [普京称停火将能检验乌克兰诚意](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E7%A7%B0%E5%81%9C%E7%81%AB%E5%B0%86%E8%83%BD%E6%A3%80%E9%AA%8C%E4%B9%8C%E5%85%8B%E5%85%B0%E8%AF%9A%E6%84%8F%23&t=31&band_rank=46&Refer=top) 36268
 1. [丁禹兮感动到快哭了](https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%E6%84%9F%E5%8A%A8%E5%88%B0%E5%BF%AB%E5%93%AD%E4%BA%86%23&t=31&band_rank=47&Refer=top) 34718
 1. [王婆坦言曾因焦虑暴瘦20斤](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%A9%86%E5%9D%A6%E8%A8%80%E6%9B%BE%E5%9B%A0%E7%84%A6%E8%99%91%E6%9A%B4%E7%98%A620%E6%96%A4%23&t=31&band_rank=48&Refer=top) 34663
+1. [美国各地农民面临破产风险](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%90%84%E5%9C%B0%E5%86%9C%E6%B0%91%E9%9D%A2%E4%B8%B4%E7%A0%B4%E4%BA%A7%E9%A3%8E%E9%99%A9%23&t=31&band_rank=25&Refer=top) 27925
 1. [网友拍到大爷在悬崖峭壁上耕作](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E6%8B%8D%E5%88%B0%E5%A4%A7%E7%88%B7%E5%9C%A8%E6%82%AC%E5%B4%96%E5%B3%AD%E5%A3%81%E4%B8%8A%E8%80%95%E4%BD%9C%23&t=31&band_rank=27&Refer=top) 26537
 1. [罗云熙年度最佳跨界男歌手](https://s.weibo.com/weibo?q=%23%E7%BD%97%E4%BA%91%E7%86%99%E5%B9%B4%E5%BA%A6%E6%9C%80%E4%BD%B3%E8%B7%A8%E7%95%8C%E7%94%B7%E6%AD%8C%E6%89%8B%23&t=31&band_rank=44&Refer=top) 25522
 1. [咪咕汇](https://s.weibo.com/weibo?q=%E5%92%AA%E5%92%95%E6%B1%87&t=31&band_rank=46&Refer=top) 24699
 1. [肖俊直播](https://s.weibo.com/weibo?q=%E8%82%96%E4%BF%8A%E7%9B%B4%E6%92%AD&t=31&band_rank=47&Refer=top) 24694
 1. [热点观点](https://s.weibo.com/weibo?q=%23%E7%83%AD%E7%82%B9%E8%A7%82%E7%82%B9%23&t=31&band_rank=39&Refer=top) 19797
-1. [女子阻止高铁关门为何能得逞](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%98%BB%E6%AD%A2%E9%AB%98%E9%93%81%E5%85%B3%E9%97%A8%E4%B8%BA%E4%BD%95%E8%83%BD%E5%BE%97%E9%80%9E%23&t=31&band_rank=46&Refer=top) 19185
 1. [一句古话说透中马关系](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%8F%A5%E5%8F%A4%E8%AF%9D%E8%AF%B4%E9%80%8F%E4%B8%AD%E9%A9%AC%E5%85%B3%E7%B3%BB%23&t=31&band_rank=47&Refer=top) 19107
 1. [山西一处塌方一货车司机遇难](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E4%B8%80%E5%A4%84%E5%A1%8C%E6%96%B9%E4%B8%80%E8%B4%A7%E8%BD%A6%E5%8F%B8%E6%9C%BA%E9%81%87%E9%9A%BE%23&t=31&band_rank=48&Refer=top) 19090
+1. [为什么微信还不推出编辑功能](https://s.weibo.com/weibo?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BE%AE%E4%BF%A1%E8%BF%98%E4%B8%8D%E6%8E%A8%E5%87%BA%E7%BC%96%E8%BE%91%E5%8A%9F%E8%83%BD&t=31&band_rank=48&Refer=top) 16674
 <!-- END -->
 
 历史归档 [./archives](./archives)
