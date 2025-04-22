@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-04-23 01:19:08.442285 
+最后更新时间 2025-04-23 02:29:23.859857 
 1. [微信加好友能加图片备注了](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E5%8A%A0%E5%A5%BD%E5%8F%8B%E8%83%BD%E5%8A%A0%E5%9B%BE%E7%89%87%E5%A4%87%E6%B3%A8%E4%BA%86%23&t=31&band_rank=1&Refer=top) 1583156
 1. [仅退款](https://s.weibo.com/weibo?q=%E4%BB%85%E9%80%80%E6%AC%BE&t=31&band_rank=2&Refer=top) 1436415
 1. [探秘深圳机器人谷的黑科技](https://s.weibo.com/weibo?q=%23%E6%8E%A2%E7%A7%98%E6%B7%B1%E5%9C%B3%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B0%B7%E7%9A%84%E9%BB%91%E7%A7%91%E6%8A%80%23&t=31&band_rank=3&Refer=top) 863975
@@ -15,6 +15,7 @@
 1. [被质疑长相听障女生称微调过几处](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E8%B4%A8%E7%96%91%E9%95%BF%E7%9B%B8%E5%90%AC%E9%9A%9C%E5%A5%B3%E7%94%9F%E7%A7%B0%E5%BE%AE%E8%B0%83%E8%BF%87%E5%87%A0%E5%A4%84%23&t=31&band_rank=5&Refer=top) 665605
 1. [金价暴涨预示市场正经历根本性转变](https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E9%A2%84%E7%A4%BA%E5%B8%82%E5%9C%BA%E6%AD%A3%E7%BB%8F%E5%8E%86%E6%A0%B9%E6%9C%AC%E6%80%A7%E8%BD%AC%E5%8F%98%23&t=31&band_rank=6&Refer=top) 354064
 1. [电商平台全面取消仅退款](https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%95%86%E5%B9%B3%E5%8F%B0%E5%85%A8%E9%9D%A2%E5%8F%96%E6%B6%88%E4%BB%85%E9%80%80%E6%AC%BE%23&t=31&band_rank=7&Refer=top) 257557
+1. [特朗普上任之前中国已经早有布局](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8A%E4%BB%BB%E4%B9%8B%E5%89%8D%E4%B8%AD%E5%9B%BD%E5%B7%B2%E7%BB%8F%E6%97%A9%E6%9C%89%E5%B8%83%E5%B1%80%23&t=31&band_rank=2&Refer=top) 246708
 1. [无忧渡播出 陈奕恒都长大了](https://s.weibo.com/weibo?q=%E6%97%A0%E5%BF%A7%E6%B8%A1%E6%92%AD%E5%87%BA%20%E9%99%88%E5%A5%95%E6%81%92%E9%83%BD%E9%95%BF%E5%A4%A7%E4%BA%86&t=31&band_rank=8&Refer=top) 220802
 1. [哪吒2离全球影史第4还差7亿票房](https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%922%E7%A6%BB%E5%85%A8%E7%90%83%E5%BD%B1%E5%8F%B2%E7%AC%AC4%E8%BF%98%E5%B7%AE7%E4%BA%BF%E7%A5%A8%E6%88%BF%23&t=31&band_rank=9&Refer=top) 212651
 1. [黄金](https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91&t=31&band_rank=10&Refer=top) 201831
@@ -61,7 +62,15 @@
 1. [喝过期酸奶会怎么样](https://s.weibo.com/weibo?q=%E5%96%9D%E8%BF%87%E6%9C%9F%E9%85%B8%E5%A5%B6%E4%BC%9A%E6%80%8E%E4%B9%88%E6%A0%B7&t=31&band_rank=48&Refer=top) 62403
 1. [周震南铁定是风了](https://s.weibo.com/weibo?q=%E5%91%A8%E9%9C%87%E5%8D%97%E9%93%81%E5%AE%9A%E6%98%AF%E9%A3%8E%E4%BA%86&t=31&band_rank=49&Refer=top) 62402
 1. [车展方称努力争取后YU7还是遗憾缺席](https://s.weibo.com/weibo?q=%23%E8%BD%A6%E5%B1%95%E6%96%B9%E7%A7%B0%E5%8A%AA%E5%8A%9B%E4%BA%89%E5%8F%96%E5%90%8EYU7%E8%BF%98%E6%98%AF%E9%81%97%E6%86%BE%E7%BC%BA%E5%B8%AD%23&t=31&band_rank=50&Refer=top) 62400
+1. [当地回应39岁网红串哥因病去世](https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%9439%E5%B2%81%E7%BD%91%E7%BA%A2%E4%B8%B2%E5%93%A5%E5%9B%A0%E7%97%85%E5%8E%BB%E4%B8%96%23&t=31&band_rank=15&Refer=top) 46432
 1. [翁东华卸任文和友小龙虾公司董事](https://s.weibo.com/weibo?q=%23%E7%BF%81%E4%B8%9C%E5%8D%8E%E5%8D%B8%E4%BB%BB%E6%96%87%E5%92%8C%E5%8F%8B%E5%B0%8F%E9%BE%99%E8%99%BE%E5%85%AC%E5%8F%B8%E8%91%A3%E4%BA%8B%23&t=31&band_rank=50&Refer=top) 41935
+1. [哪吒2票房](https://s.weibo.com/weibo?q=%E5%93%AA%E5%90%922%E7%A5%A8%E6%88%BF&t=31&band_rank=26&Refer=top) 36289
+1. [迪丽热巴元气美少女](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%85%83%E6%B0%94%E7%BE%8E%E5%B0%91%E5%A5%B3%23&t=31&band_rank=30&Refer=top) 35435
+1. [被医生错切右膝体育生称未来被打乱](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%8C%BB%E7%94%9F%E9%94%99%E5%88%87%E5%8F%B3%E8%86%9D%E4%BD%93%E8%82%B2%E7%94%9F%E7%A7%B0%E6%9C%AA%E6%9D%A5%E8%A2%AB%E6%89%93%E4%B9%B1%23&t=31&band_rank=36&Refer=top) 25586
+1. [海军舰舰舰舰舰已就位](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%86%9B%E8%88%B0%E8%88%B0%E8%88%B0%E8%88%B0%E8%88%B0%E5%B7%B2%E5%B0%B1%E4%BD%8D%23&t=31&band_rank=40&Refer=top) 24685
+1. [独一无二](https://s.weibo.com/weibo?q=%E7%8B%AC%E4%B8%80%E6%97%A0%E4%BA%8C&t=31&band_rank=44&Refer=top) 22039
+1. [堪称神来之笔的名著开头结尾](https://s.weibo.com/weibo?q=%23%E5%A0%AA%E7%A7%B0%E7%A5%9E%E6%9D%A5%E4%B9%8B%E7%AC%94%E7%9A%84%E5%90%8D%E8%91%97%E5%BC%80%E5%A4%B4%E7%BB%93%E5%B0%BE%23&t=31&band_rank=45&Refer=top) 21966
+1. [日投资者抛售美国国债](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%8A%95%E8%B5%84%E8%80%85%E6%8A%9B%E5%94%AE%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%80%BA%23&t=31&band_rank=50&Refer=top) 21616
 <!-- END -->
 
 历史归档 [./archives](./archives)
