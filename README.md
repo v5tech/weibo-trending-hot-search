@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-04-25 01:18:50.292906 
+最后更新时间 2025-04-25 02:29:12.534301 
 1. [抢labubu](https://s.weibo.com/weibo?q=%E6%8A%A2labubu&t=31&band_rank=1&Refer=top) 955742
 1. [榜上佳婿 空降](https://s.weibo.com/weibo?q=%E6%A6%9C%E4%B8%8A%E4%BD%B3%E5%A9%BF%20%E7%A9%BA%E9%99%8D&t=31&band_rank=2&Refer=top) 585172
 1. [高质量发展中国行](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E4%B8%AD%E5%9B%BD%E8%A1%8C%23&t=31&band_rank=3&Refer=top) 406115
@@ -24,13 +24,13 @@
 1. [赵露思说化妆是尊重自己](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E8%AF%B4%E5%8C%96%E5%A6%86%E6%98%AF%E5%B0%8A%E9%87%8D%E8%87%AA%E5%B7%B1%23&t=31&band_rank=13&Refer=top) 243779
 1. [澳大利亚出动直升机扑杀750只考拉](https://s.weibo.com/weibo?q=%23%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E5%87%BA%E5%8A%A8%E7%9B%B4%E5%8D%87%E6%9C%BA%E6%89%91%E6%9D%80750%E5%8F%AA%E8%80%83%E6%8B%89%23&t=31&band_rank=14&Refer=top) 243672
 1. [石凯订婚照](https://s.weibo.com/weibo?q=%23%E7%9F%B3%E5%87%AF%E8%AE%A2%E5%A9%9A%E7%85%A7%23&t=31&band_rank=15&Refer=top) 241699
+1. [特朗普宣布关税后支持率骤降](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E5%85%B3%E7%A8%8E%E5%90%8E%E6%94%AF%E6%8C%81%E7%8E%87%E9%AA%A4%E9%99%8D%23&t=31&band_rank=10&Refer=top) 240140
 1. [男子炒股11年狂赚6000多万](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%82%92%E8%82%A111%E5%B9%B4%E7%8B%82%E8%B5%9A6000%E5%A4%9A%E4%B8%87%23&t=31&band_rank=16&Refer=top) 233961
 1. [我当了明星就这样](https://s.weibo.com/weibo?q=%E6%88%91%E5%BD%93%E4%BA%86%E6%98%8E%E6%98%9F%E5%B0%B1%E8%BF%99%E6%A0%B7&t=31&band_rank=17&Refer=top) 229173
 1. [张凌赫拍迪丽热巴](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E6%8B%8D%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%23&t=31&band_rank=18&Refer=top) 173468
 1. [神舟二十号发射圆满成功](https://s.weibo.com/weibo?q=%23%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E5%8F%B7%E5%8F%91%E5%B0%84%E5%9C%86%E6%BB%A1%E6%88%90%E5%8A%9F%23&t=31&band_rank=19&Refer=top) 157257
 1. [无忧渡](https://s.weibo.com/weibo?q=%E6%97%A0%E5%BF%A7%E6%B8%A1&t=31&band_rank=20&Refer=top) 143501
 1. [养了4年的猫把主人咬到输液1周](https://s.weibo.com/weibo?q=%23%E5%85%BB%E4%BA%864%E5%B9%B4%E7%9A%84%E7%8C%AB%E6%8A%8A%E4%B8%BB%E4%BA%BA%E5%92%AC%E5%88%B0%E8%BE%93%E6%B6%B21%E5%91%A8%23&t=31&band_rank=21&Refer=top) 143315
-1. [特朗普宣布关税后支持率骤降](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E5%85%B3%E7%A8%8E%E5%90%8E%E6%94%AF%E6%8C%81%E7%8E%87%E9%AA%A4%E9%99%8D%23&t=31&band_rank=10&Refer=top) 130960
 1. [40件小事快速缓解焦虑](https://s.weibo.com/weibo?q=%2340%E4%BB%B6%E5%B0%8F%E4%BA%8B%E5%BF%AB%E9%80%9F%E7%BC%93%E8%A7%A3%E7%84%A6%E8%99%91%23&t=31&band_rank=22&Refer=top) 127286
 1. [杨超越太权威了](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%B6%85%E8%B6%8A%E5%A4%AA%E6%9D%83%E5%A8%81%E4%BA%86%23&t=31&band_rank=23&Refer=top) 125174
 1. [花少7](https://s.weibo.com/weibo?q=%E8%8A%B1%E5%B0%917&t=31&band_rank=24&Refer=top) 119587
@@ -65,6 +65,16 @@
 1. [刘强东老家宿迁京东外卖遍地开花](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%BC%BA%E4%B8%9C%E8%80%81%E5%AE%B6%E5%AE%BF%E8%BF%81%E4%BA%AC%E4%B8%9C%E5%A4%96%E5%8D%96%E9%81%8D%E5%9C%B0%E5%BC%80%E8%8A%B1%23&t=31&band_rank=39&Refer=top) 42574
 1. [杨紫宋洋同框](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%AE%8B%E6%B4%8B%E5%90%8C%E6%A1%86%23&t=31&band_rank=43&Refer=top) 40796
 1. [柳智敏HelloKitty](https://s.weibo.com/weibo?q=%23%E6%9F%B3%E6%99%BA%E6%95%8FHelloKitty%23&t=31&band_rank=50&Refer=top) 35671
+1. [陈冬问跟你们梦里梦到的一样不一样](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%86%AC%E9%97%AE%E8%B7%9F%E4%BD%A0%E4%BB%AC%E6%A2%A6%E9%87%8C%E6%A2%A6%E5%88%B0%E7%9A%84%E4%B8%80%E6%A0%B7%E4%B8%8D%E4%B8%80%E6%A0%B7%23&t=31&band_rank=27&Refer=top) 29899
+1. [美国农场主犹豫还种不种大豆](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%86%9C%E5%9C%BA%E4%B8%BB%E7%8A%B9%E8%B1%AB%E8%BF%98%E7%A7%8D%E4%B8%8D%E7%A7%8D%E5%A4%A7%E8%B1%86%23&t=31&band_rank=30&Refer=top) 29489
+1. [邓超发布一段录音对话](https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E5%8F%91%E5%B8%83%E4%B8%80%E6%AE%B5%E5%BD%95%E9%9F%B3%E5%AF%B9%E8%AF%9D%23&t=31&band_rank=31&Refer=top) 28234
+1. [瑶大耳狗之梦皮肤](https://s.weibo.com/weibo?q=%23%E7%91%B6%E5%A4%A7%E8%80%B3%E7%8B%97%E4%B9%8B%E6%A2%A6%E7%9A%AE%E8%82%A4%23&t=31&band_rank=35&Refer=top) 25530
+1. [大熊猫半夜不睡觉排排坐吃夜宵](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E5%8D%8A%E5%A4%9C%E4%B8%8D%E7%9D%A1%E8%A7%89%E6%8E%92%E6%8E%92%E5%9D%90%E5%90%83%E5%A4%9C%E5%AE%B5%23&t=31&band_rank=41&Refer=top) 23676
+1. [何江道歉](https://s.weibo.com/weibo?q=%E4%BD%95%E6%B1%9F%E9%81%93%E6%AD%89&t=31&band_rank=42&Refer=top) 23108
+1. [刷手机第一次觉得腿软](https://s.weibo.com/weibo?q=%23%E5%88%B7%E6%89%8B%E6%9C%BA%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%89%E5%BE%97%E8%85%BF%E8%BD%AF%23&t=31&band_rank=44&Refer=top) 23103
+1. [杨紫北京国际电影节造型](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%8C%97%E4%BA%AC%E5%9B%BD%E9%99%85%E7%94%B5%E5%BD%B1%E8%8A%82%E9%80%A0%E5%9E%8B%23&t=31&band_rank=46&Refer=top) 23095
+1. [同一天同一地点跨越55年](https://s.weibo.com/weibo?q=%23%E5%90%8C%E4%B8%80%E5%A4%A9%E5%90%8C%E4%B8%80%E5%9C%B0%E7%82%B9%E8%B7%A8%E8%B6%8A55%E5%B9%B4%23&t=31&band_rank=48&Refer=top) 23091
+1. [坐高铁宠物专车需要提前做哪些准备](https://s.weibo.com/weibo?q=%E5%9D%90%E9%AB%98%E9%93%81%E5%AE%A0%E7%89%A9%E4%B8%93%E8%BD%A6%E9%9C%80%E8%A6%81%E6%8F%90%E5%89%8D%E5%81%9A%E5%93%AA%E4%BA%9B%E5%87%86%E5%A4%87&t=31&band_rank=50&Refer=top) 23084
 <!-- END -->
 
 历史归档 [./archives](./archives)
