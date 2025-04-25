@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-04-26 03:17:30.382884 
+最后更新时间 2025-04-26 04:23:08.765495 
 1. [王菲去了谢霆锋演唱会](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%8F%B2%E5%8E%BB%E4%BA%86%E8%B0%A2%E9%9C%86%E9%94%8B%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=1&Refer=top) 1347700
 1. [中国取消1.2万吨美国猪肉订单](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%8F%96%E6%B6%881.2%E4%B8%87%E5%90%A8%E7%BE%8E%E5%9B%BD%E7%8C%AA%E8%82%89%E8%AE%A2%E5%8D%95%23&t=31&band_rank=2&Refer=top) 385125
 1. [以旧换新带动销售额超7200亿](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E6%97%A7%E6%8D%A2%E6%96%B0%E5%B8%A6%E5%8A%A8%E9%94%80%E5%94%AE%E9%A2%9D%E8%B6%857200%E4%BA%BF%23&t=31&band_rank=3&Refer=top) 347488
@@ -76,6 +76,8 @@
 1. [一组壁纸收藏故宫的春天](https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%BB%84%E5%A3%81%E7%BA%B8%E6%94%B6%E8%97%8F%E6%95%85%E5%AE%AB%E7%9A%84%E6%98%A5%E5%A4%A9%23&t=31&band_rank=50&Refer=top) 36668
 1. [因为你每天摸墙100次](https://s.weibo.com/weibo?q=%E5%9B%A0%E4%B8%BA%E4%BD%A0%E6%AF%8F%E5%A4%A9%E6%91%B8%E5%A2%99100%E6%AC%A1&t=31&band_rank=46&Refer=top) 21756
 1. [戚薇夫妻关系是冷暖自知的](https://s.weibo.com/weibo?q=%E6%88%9A%E8%96%87%E5%A4%AB%E5%A6%BB%E5%85%B3%E7%B3%BB%E6%98%AF%E5%86%B7%E6%9A%96%E8%87%AA%E7%9F%A5%E7%9A%84&t=31&band_rank=47&Refer=top) 21752
+1. [蔡徐坤狼尾卷毛](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E7%8B%BC%E5%B0%BE%E5%8D%B7%E6%AF%9B%23&t=31&band_rank=28&Refer=top) 21706
+1. [潮汐树大自然的神奇画作](https://s.weibo.com/weibo?q=%E6%BD%AE%E6%B1%90%E6%A0%91%E5%A4%A7%E8%87%AA%E7%84%B6%E7%9A%84%E7%A5%9E%E5%A5%87%E7%94%BB%E4%BD%9C&t=31&band_rank=40&Refer=top) 16817
 <!-- END -->
 
 历史归档 [./archives](./archives)
