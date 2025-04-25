@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-04-26 05:19:55.438345 
+最后更新时间 2025-04-26 06:21:30.520724 
 1. [王菲去了谢霆锋演唱会](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%8F%B2%E5%8E%BB%E4%BA%86%E8%B0%A2%E9%9C%86%E9%94%8B%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=1&Refer=top) 1347700
 1. [中国取消1.2万吨美国猪肉订单](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%8F%96%E6%B6%881.2%E4%B8%87%E5%90%A8%E7%BE%8E%E5%9B%BD%E7%8C%AA%E8%82%89%E8%AE%A2%E5%8D%95%23&t=31&band_rank=2&Refer=top) 385125
 1. [以旧换新带动销售额超7200亿](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E6%97%A7%E6%8D%A2%E6%96%B0%E5%B8%A6%E5%8A%A8%E9%94%80%E5%94%AE%E9%A2%9D%E8%B6%857200%E4%BA%BF%23&t=31&band_rank=3&Refer=top) 347488
@@ -70,16 +70,20 @@
 1. [张真源猜词零参与感](https://s.weibo.com/weibo?q=%E5%BC%A0%E7%9C%9F%E6%BA%90%E7%8C%9C%E8%AF%8D%E9%9B%B6%E5%8F%82%E4%B8%8E%E6%84%9F&t=31&band_rank=49&Refer=top) 54869
 1. [你可能一直忌口错了](https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%8F%AF%E8%83%BD%E4%B8%80%E7%9B%B4%E5%BF%8C%E5%8F%A3%E9%94%99%E4%BA%86%23&t=31&band_rank=50&Refer=top) 54865
 1. [王菲陈奕迅陈伟霆看谢霆锋演唱会](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%8F%B2%E9%99%88%E5%A5%95%E8%BF%85%E9%99%88%E4%BC%9F%E9%9C%86%E7%9C%8B%E8%B0%A2%E9%9C%86%E9%94%8B%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=23&Refer=top) 50441
+1. [女子手机失控冲进派出所民警建议砸掉](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%89%8B%E6%9C%BA%E5%A4%B1%E6%8E%A7%E5%86%B2%E8%BF%9B%E6%B4%BE%E5%87%BA%E6%89%80%E6%B0%91%E8%AD%A6%E5%BB%BA%E8%AE%AE%E7%A0%B8%E6%8E%89%23&t=31&band_rank=21&Refer=top) 50017
 1. [跺脚变装](https://s.weibo.com/weibo?q=%E8%B7%BA%E8%84%9A%E5%8F%98%E8%A3%85&t=31&band_rank=38&Refer=top) 36814
 1. [导演夸易烊千玺是难得的好演员](https://s.weibo.com/weibo?q=%23%E5%AF%BC%E6%BC%94%E5%A4%B8%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%98%AF%E9%9A%BE%E5%BE%97%E7%9A%84%E5%A5%BD%E6%BC%94%E5%91%98%23&t=31&band_rank=40&Refer=top) 36796
 1. [如果我是西游编外PD](https://s.weibo.com/weibo?q=%23%E5%A6%82%E6%9E%9C%E6%88%91%E6%98%AF%E8%A5%BF%E6%B8%B8%E7%BC%96%E5%A4%96PD%23&t=31&band_rank=49&Refer=top) 36671
 1. [一组壁纸收藏故宫的春天](https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%BB%84%E5%A3%81%E7%BA%B8%E6%94%B6%E8%97%8F%E6%95%85%E5%AE%AB%E7%9A%84%E6%98%A5%E5%A4%A9%23&t=31&band_rank=50&Refer=top) 36668
-1. [因为你每天摸墙100次](https://s.weibo.com/weibo?q=%E5%9B%A0%E4%B8%BA%E4%BD%A0%E6%AF%8F%E5%A4%A9%E6%91%B8%E5%A2%99100%E6%AC%A1&t=31&band_rank=46&Refer=top) 21756
-1. [戚薇夫妻关系是冷暖自知的](https://s.weibo.com/weibo?q=%E6%88%9A%E8%96%87%E5%A4%AB%E5%A6%BB%E5%85%B3%E7%B3%BB%E6%98%AF%E5%86%B7%E6%9A%96%E8%87%AA%E7%9F%A5%E7%9A%84&t=31&band_rank=47&Refer=top) 21752
+1. [因为你每天摸墙100次](https://s.weibo.com/weibo?q=%E5%9B%A0%E4%B8%BA%E4%BD%A0%E6%AF%8F%E5%A4%A9%E6%91%B8%E5%A2%99100%E6%AC%A1&t=31&band_rank=46&Refer=top) 31958
+1. [偶遇赵丽颖上海逛街](https://s.weibo.com/weibo?q=%23%E5%81%B6%E9%81%87%E8%B5%B5%E4%B8%BD%E9%A2%96%E4%B8%8A%E6%B5%B7%E9%80%9B%E8%A1%97%23&t=31&band_rank=47&Refer=top) 30247
+1. [杨天真回应减肥质疑](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%A4%A9%E7%9C%9F%E5%9B%9E%E5%BA%94%E5%87%8F%E8%82%A5%E8%B4%A8%E7%96%91%23&t=31&band_rank=32&Refer=top) 29444
+1. [戚薇夫妻关系是冷暖自知的](https://s.weibo.com/weibo?q=%E6%88%9A%E8%96%87%E5%A4%AB%E5%A6%BB%E5%85%B3%E7%B3%BB%E6%98%AF%E5%86%B7%E6%9A%96%E8%87%AA%E7%9F%A5%E7%9A%84&t=31&band_rank=47&Refer=top) 23562
 1. [蔡徐坤狼尾卷毛](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E7%8B%BC%E5%B0%BE%E5%8D%B7%E6%AF%9B%23&t=31&band_rank=28&Refer=top) 21706
+1. [熊孩子又又又卡墙缝了](https://s.weibo.com/weibo?q=%23%E7%86%8A%E5%AD%A9%E5%AD%90%E5%8F%88%E5%8F%88%E5%8F%88%E5%8D%A1%E5%A2%99%E7%BC%9D%E4%BA%86%23&t=31&band_rank=48&Refer=top) 18826
+1. [新浪娱乐换了邓为苏易水头像](https://s.weibo.com/weibo?q=%23%E6%96%B0%E6%B5%AA%E5%A8%B1%E4%B9%90%E6%8D%A2%E4%BA%86%E9%82%93%E4%B8%BA%E8%8B%8F%E6%98%93%E6%B0%B4%E5%A4%B4%E5%83%8F%23&t=31&band_rank=50&Refer=top) 18388
 1. [潮汐树大自然的神奇画作](https://s.weibo.com/weibo?q=%E6%BD%AE%E6%B1%90%E6%A0%91%E5%A4%A7%E8%87%AA%E7%84%B6%E7%9A%84%E7%A5%9E%E5%A5%87%E7%94%BB%E4%BD%9C&t=31&band_rank=40&Refer=top) 16817
 1. [惠英红包租婆细节是自己设计的](https://s.weibo.com/weibo?q=%23%E6%83%A0%E8%8B%B1%E7%BA%A2%E5%8C%85%E7%A7%9F%E5%A9%86%E7%BB%86%E8%8A%82%E6%98%AF%E8%87%AA%E5%B7%B1%E8%AE%BE%E8%AE%A1%E7%9A%84%23&t=31&band_rank=46&Refer=top) 13883
-1. [偶遇赵丽颖上海逛街](https://s.weibo.com/weibo?q=%23%E5%81%B6%E9%81%87%E8%B5%B5%E4%B8%BD%E9%A2%96%E4%B8%8A%E6%B5%B7%E9%80%9B%E8%A1%97%23&t=31&band_rank=47&Refer=top) 13882
 1. [普京会见美特使](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E4%BC%9A%E8%A7%81%E7%BE%8E%E7%89%B9%E4%BD%BF%23&t=31&band_rank=50&Refer=top) 13879
 <!-- END -->
 
