@@ -255,6 +255,14 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%9B%BD%E9%99%85%E7%94%B5%E5%BD%B1%E8%8A%82%E9%97%AD%E5%B9%95%23&t=31&band_rank=50&Refer=top",
     "hot": 30726
   },
+  "肖战2014年的愿望实现了": {
+    "url": "https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%982014%E5%B9%B4%E7%9A%84%E6%84%BF%E6%9C%9B%E5%AE%9E%E7%8E%B0%E4%BA%86%23&t=31&band_rank=10&Refer=top",
+    "hot": 30376
+  },
+  "全球聚焦中国回应中美所谓关税谈判": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E8%81%9A%E7%84%A6%E4%B8%AD%E5%9B%BD%E5%9B%9E%E5%BA%94%E4%B8%AD%E7%BE%8E%E6%89%80%E8%B0%93%E5%85%B3%E7%A8%8E%E8%B0%88%E5%88%A4%23&t=31&band_rank=18&Refer=top",
+    "hot": 25806
+  },
   "考古刘旸结果上了节英语课": {
     "url": "https://s.weibo.com/weibo?q=%E8%80%83%E5%8F%A4%E5%88%98%E6%97%B8%E7%BB%93%E6%9E%9C%E4%B8%8A%E4%BA%86%E8%8A%82%E8%8B%B1%E8%AF%AD%E8%AF%BE&t=31&band_rank=34&Refer=top",
     "hot": 24468
@@ -282,5 +290,9 @@
   "周深将出席北京国际电影节闭幕式": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E5%B0%86%E5%87%BA%E5%B8%AD%E5%8C%97%E4%BA%AC%E5%9B%BD%E9%99%85%E7%94%B5%E5%BD%B1%E8%8A%82%E9%97%AD%E5%B9%95%E5%BC%8F%23&t=31&band_rank=50&Refer=top",
     "hot": 18734
+  },
+  "把六旬老人吴镇宇气成小伙了": {
+    "url": "https://s.weibo.com/weibo?q=%E6%8A%8A%E5%85%AD%E6%97%AC%E8%80%81%E4%BA%BA%E5%90%B4%E9%95%87%E5%AE%87%E6%B0%94%E6%88%90%E5%B0%8F%E4%BC%99%E4%BA%86&t=31&band_rank=34&Refer=top",
+    "hot": 17271
   }
 }
