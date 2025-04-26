@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-04-27 01:16:25.407494 
+最后更新时间 2025-04-27 02:26:23.271537 
 1. [丁禹兮 舒心](https://s.weibo.com/weibo?q=%E4%B8%81%E7%A6%B9%E5%85%AE%20%E8%88%92%E5%BF%83&t=31&band_rank=1&Refer=top) 1217918
 1. [原来这就是生理性厌恶的表现](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%BF%99%E5%B0%B1%E6%98%AF%E7%94%9F%E7%90%86%E6%80%A7%E5%8E%8C%E6%81%B6%E7%9A%84%E8%A1%A8%E7%8E%B0%23&t=31&band_rank=2&Refer=top) 842416
 1. [MadeInChina硬控全球客商](https://s.weibo.com/weibo?q=%23MadeInChina%E7%A1%AC%E6%8E%A7%E5%85%A8%E7%90%83%E5%AE%A2%E5%95%86%23&t=31&band_rank=3&Refer=top) 800481
@@ -65,6 +65,13 @@
 1. [一顿火锅上映5天还赚钱了](https://s.weibo.com/weibo?q=%E4%B8%80%E9%A1%BF%E7%81%AB%E9%94%85%E4%B8%8A%E6%98%A05%E5%A4%A9%E8%BF%98%E8%B5%9A%E9%92%B1%E4%BA%86&t=31&band_rank=45&Refer=top) 92290
 1. [无忧渡 赵娜](https://s.weibo.com/weibo?q=%E6%97%A0%E5%BF%A7%E6%B8%A1%20%E8%B5%B5%E5%A8%9C&t=31&band_rank=48&Refer=top) 92252
 1. [韩红演唱会嘉宾薛之谦](https://s.weibo.com/weibo?q=%E9%9F%A9%E7%BA%A2%E6%BC%94%E5%94%B1%E4%BC%9A%E5%98%89%E5%AE%BE%E8%96%9B%E4%B9%8B%E8%B0%A6&t=31&band_rank=49&Refer=top) 92243
+1. [推动人工智能健康有序发展](https://s.weibo.com/weibo?q=%23%E6%8E%A8%E5%8A%A8%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%81%A5%E5%BA%B7%E6%9C%89%E5%BA%8F%E5%8F%91%E5%B1%95%23&t=31&band_rank=17&Refer=top) 51797
+1. [周深葛优同框](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E8%91%9B%E4%BC%98%E5%90%8C%E6%A1%86%23&t=31&band_rank=43&Refer=top) 30740
+1. [王栎鑫X巡回演唱会](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A0%8E%E9%91%ABX%E5%B7%A1%E5%9B%9E%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=44&Refer=top) 30736
+1. [惠英红回应华表奖提名](https://s.weibo.com/weibo?q=%23%E6%83%A0%E8%8B%B1%E7%BA%A2%E5%9B%9E%E5%BA%94%E5%8D%8E%E8%A1%A8%E5%A5%96%E6%8F%90%E5%90%8D%23&t=31&band_rank=46&Refer=top) 30732
+1. [周深说每一部电影每一首歌因你而动人](https://s.weibo.com/weibo?q=%E5%91%A8%E6%B7%B1%E8%AF%B4%E6%AF%8F%E4%B8%80%E9%83%A8%E7%94%B5%E5%BD%B1%E6%AF%8F%E4%B8%80%E9%A6%96%E6%AD%8C%E5%9B%A0%E4%BD%A0%E8%80%8C%E5%8A%A8%E4%BA%BA&t=31&band_rank=48&Refer=top) 30728
+1. [刘宇宁北影节舞台](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E5%8C%97%E5%BD%B1%E8%8A%82%E8%88%9E%E5%8F%B0%23&t=31&band_rank=49&Refer=top) 30726
+1. [北京国际电影节闭幕](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%9B%BD%E9%99%85%E7%94%B5%E5%BD%B1%E8%8A%82%E9%97%AD%E5%B9%95%23&t=31&band_rank=50&Refer=top) 30726
 <!-- END -->
 
 历史归档 [./archives](./archives)
