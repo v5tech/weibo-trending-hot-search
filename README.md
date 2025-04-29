@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-04-30 05:19:42.738113 
+最后更新时间 2025-04-30 06:20:05.433304 
 1. [女子买彩票中945万上完班才领奖](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B9%B0%E5%BD%A9%E7%A5%A8%E4%B8%AD945%E4%B8%87%E4%B8%8A%E5%AE%8C%E7%8F%AD%E6%89%8D%E9%A2%86%E5%A5%96%23&t=31&band_rank=1&Refer=top) 946184
 1. [麦琳这是瘦了多少](https://s.weibo.com/weibo?q=%23%E9%BA%A6%E7%90%B3%E8%BF%99%E6%98%AF%E7%98%A6%E4%BA%86%E5%A4%9A%E5%B0%91%23&t=31&band_rank=2&Refer=top) 882241
 1. [以丰富的政策工具护航经济发展](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E4%B8%B0%E5%AF%8C%E7%9A%84%E6%94%BF%E7%AD%96%E5%B7%A5%E5%85%B7%E6%8A%A4%E8%88%AA%E7%BB%8F%E6%B5%8E%E5%8F%91%E5%B1%95%23&t=31&band_rank=3&Refer=top) 836792
@@ -38,6 +38,7 @@
 1. [传统医学生要规培3年4加4仅需1年](https://s.weibo.com/weibo?q=%23%E4%BC%A0%E7%BB%9F%E5%8C%BB%E5%AD%A6%E7%94%9F%E8%A6%81%E8%A7%84%E5%9F%B93%E5%B9%B44%E5%8A%A04%E4%BB%85%E9%9C%801%E5%B9%B4%23&t=31&band_rank=26&Refer=top) 127876
 1. [成都一律师被指多次用复合弓虐猫](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E4%B8%80%E5%BE%8B%E5%B8%88%E8%A2%AB%E6%8C%87%E5%A4%9A%E6%AC%A1%E7%94%A8%E5%A4%8D%E5%90%88%E5%BC%93%E8%99%90%E7%8C%AB%23&t=31&band_rank=14&Refer=top) 125765
 1. [造型师](https://s.weibo.com/weibo?q=%E9%80%A0%E5%9E%8B%E5%B8%88&t=31&band_rank=17&Refer=top) 124730
+1. [陈飞宇千字长文](https://s.weibo.com/weibo?q=%E9%99%88%E9%A3%9E%E5%AE%87%E5%8D%83%E5%AD%97%E9%95%BF%E6%96%87&t=31&band_rank=20&Refer=top) 121525
 1. [多方回应张家界一老人当街敲锣认错](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94%E5%BC%A0%E5%AE%B6%E7%95%8C%E4%B8%80%E8%80%81%E4%BA%BA%E5%BD%93%E8%A1%97%E6%95%B2%E9%94%A3%E8%AE%A4%E9%94%99%23&t=31&band_rank=27&Refer=top) 116955
 1. [辽阳一饭店火灾原因正在调查](https://s.weibo.com/weibo?q=%23%E8%BE%BD%E9%98%B3%E4%B8%80%E9%A5%AD%E5%BA%97%E7%81%AB%E7%81%BE%E5%8E%9F%E5%9B%A0%E6%AD%A3%E5%9C%A8%E8%B0%83%E6%9F%A5%23&t=31&band_rank=28&Refer=top) 113449
 1. [电影独一无二改档](https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E7%8B%AC%E4%B8%80%E6%97%A0%E4%BA%8C%E6%94%B9%E6%A1%A3%23&t=31&band_rank=29&Refer=top) 113127
@@ -48,7 +49,6 @@
 1. [董袭莹被爆学术历程跨多学科](https://s.weibo.com/weibo?q=%23%E8%91%A3%E8%A2%AD%E8%8E%B9%E8%A2%AB%E7%88%86%E5%AD%A6%E6%9C%AF%E5%8E%86%E7%A8%8B%E8%B7%A8%E5%A4%9A%E5%AD%A6%E7%A7%91%23&t=31&band_rank=34&Refer=top) 105590
 1. [肖飞被开除董袭莹问题何时查](https://s.weibo.com/weibo?q=%23%E8%82%96%E9%A3%9E%E8%A2%AB%E5%BC%80%E9%99%A4%E8%91%A3%E8%A2%AD%E8%8E%B9%E9%97%AE%E9%A2%98%E4%BD%95%E6%97%B6%E6%9F%A5%23&t=31&band_rank=35&Refer=top) 104998
 1. [仗义执言的女护士](https://s.weibo.com/weibo?q=%E4%BB%97%E4%B9%89%E6%89%A7%E8%A8%80%E7%9A%84%E5%A5%B3%E6%8A%A4%E5%A3%AB&t=31&band_rank=22&Refer=top) 104833
-1. [陈飞宇千字长文](https://s.weibo.com/weibo?q=%E9%99%88%E9%A3%9E%E5%AE%87%E5%8D%83%E5%AD%97%E9%95%BF%E6%96%87&t=31&band_rank=20&Refer=top) 103219
 1. [商家曝女子网购内衣半年后买新退旧](https://s.weibo.com/weibo?q=%23%E5%95%86%E5%AE%B6%E6%9B%9D%E5%A5%B3%E5%AD%90%E7%BD%91%E8%B4%AD%E5%86%85%E8%A1%A3%E5%8D%8A%E5%B9%B4%E5%90%8E%E4%B9%B0%E6%96%B0%E9%80%80%E6%97%A7%23&t=31&band_rank=36&Refer=top) 95894
 1. [印度游客山上滑索时山下恐袭致26死](https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E6%B8%B8%E5%AE%A2%E5%B1%B1%E4%B8%8A%E6%BB%91%E7%B4%A2%E6%97%B6%E5%B1%B1%E4%B8%8B%E6%81%90%E8%A2%AD%E8%87%B426%E6%AD%BB%23&t=31&band_rank=37&Refer=top) 94928
 1. [人工智能是年轻的事业](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%98%AF%E5%B9%B4%E8%BD%BB%E7%9A%84%E4%BA%8B%E4%B8%9A%23&t=31&band_rank=38&Refer=top) 93426
@@ -65,19 +65,23 @@
 1. [淮水竹亭剧宣是懂替身文学的](https://s.weibo.com/weibo?q=%E6%B7%AE%E6%B0%B4%E7%AB%B9%E4%BA%AD%E5%89%A7%E5%AE%A3%E6%98%AF%E6%87%82%E6%9B%BF%E8%BA%AB%E6%96%87%E5%AD%A6%E7%9A%84&t=31&band_rank=28&Refer=top) 74007
 1. [白宫抨击亚马逊展示关税价格](https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%AE%AB%E6%8A%A8%E5%87%BB%E4%BA%9A%E9%A9%AC%E9%80%8A%E5%B1%95%E7%A4%BA%E5%85%B3%E7%A8%8E%E4%BB%B7%E6%A0%BC%23&t=31&band_rank=49&Refer=top) 72513
 1. [张云龙我俩就退圈是吧](https://s.weibo.com/weibo?q=%E5%BC%A0%E4%BA%91%E9%BE%99%E6%88%91%E4%BF%A9%E5%B0%B1%E9%80%80%E5%9C%88%E6%98%AF%E5%90%A7&t=31&band_rank=50&Refer=top) 71860
-1. [哥大新闻网站疑有董袭莹获奖名单](https://s.weibo.com/weibo?q=%23%E5%93%A5%E5%A4%A7%E6%96%B0%E9%97%BB%E7%BD%91%E7%AB%99%E7%96%91%E6%9C%89%E8%91%A3%E8%A2%AD%E8%8E%B9%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95%23&t=31&band_rank=11&Refer=top) 61105
+1. [哥大新闻网站疑有董袭莹获奖名单](https://s.weibo.com/weibo?q=%23%E5%93%A5%E5%A4%A7%E6%96%B0%E9%97%BB%E7%BD%91%E7%AB%99%E7%96%91%E6%9C%89%E8%91%A3%E8%A2%AD%E8%8E%B9%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95%23&t=31&band_rank=11&Refer=top) 70794
 1. [阿森纳vs巴黎圣日耳曼](https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A3%AE%E7%BA%B3vs%E5%B7%B4%E9%BB%8E%E5%9C%A3%E6%97%A5%E8%80%B3%E6%9B%BC%23&t=31&band_rank=40&Refer=top) 55340
 1. [周思成称考雅思不上8分退圈](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%80%9D%E6%88%90%E7%A7%B0%E8%80%83%E9%9B%85%E6%80%9D%E4%B8%8D%E4%B8%8A8%E5%88%86%E9%80%80%E5%9C%88%23&t=31&band_rank=37&Refer=top) 51996
+1. [记者亲历东风着陆场的大风天气](https://s.weibo.com/weibo?q=%23%E8%AE%B0%E8%80%85%E4%BA%B2%E5%8E%86%E4%B8%9C%E9%A3%8E%E7%9D%80%E9%99%86%E5%9C%BA%E7%9A%84%E5%A4%A7%E9%A3%8E%E5%A4%A9%E6%B0%94%23&t=31&band_rank=26&Refer=top) 48645
 1. [从肖某事件看4加4模式](https://s.weibo.com/weibo?q=%23%E4%BB%8E%E8%82%96%E6%9F%90%E4%BA%8B%E4%BB%B6%E7%9C%8B4%E5%8A%A04%E6%A8%A1%E5%BC%8F%23&t=31&band_rank=44&Refer=top) 46009
+1. [留几手发型大改造](https://s.weibo.com/weibo?q=%23%E7%95%99%E5%87%A0%E6%89%8B%E5%8F%91%E5%9E%8B%E5%A4%A7%E6%94%B9%E9%80%A0%23&t=31&band_rank=29&Refer=top) 45624
+1. [章子怡方回应舞台上意外摔倒](https://s.weibo.com/weibo?q=%23%E7%AB%A0%E5%AD%90%E6%80%A1%E6%96%B9%E5%9B%9E%E5%BA%94%E8%88%9E%E5%8F%B0%E4%B8%8A%E6%84%8F%E5%A4%96%E6%91%94%E5%80%92%23&t=31&band_rank=30&Refer=top) 45622
 1. [消防员刚出火场扭头又跳河救人](https://s.weibo.com/weibo?q=%23%E6%B6%88%E9%98%B2%E5%91%98%E5%88%9A%E5%87%BA%E7%81%AB%E5%9C%BA%E6%89%AD%E5%A4%B4%E5%8F%88%E8%B7%B3%E6%B2%B3%E6%95%91%E4%BA%BA%23&t=31&band_rank=10&Refer=top) 44800
 1. [中方回应菲海军发言人涉台言论](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E8%8F%B2%E6%B5%B7%E5%86%9B%E5%8F%91%E8%A8%80%E4%BA%BA%E6%B6%89%E5%8F%B0%E8%A8%80%E8%AE%BA%23&t=31&band_rank=10&Refer=top) 44761
 1. [刘传兴 普通犯规](https://s.weibo.com/weibo?q=%E5%88%98%E4%BC%A0%E5%85%B4%20%E6%99%AE%E9%80%9A%E7%8A%AF%E8%A7%84&t=31&band_rank=47&Refer=top) 42485
+1. [五一铁路热门到达城市出炉](https://s.weibo.com/weibo?q=%23%E4%BA%94%E4%B8%80%E9%93%81%E8%B7%AF%E7%83%AD%E9%97%A8%E5%88%B0%E8%BE%BE%E5%9F%8E%E5%B8%82%E5%87%BA%E7%82%89%23&t=31&band_rank=33&Refer=top) 40414
 1. [上海偶遇王嘉尔穿睡袍出街](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%81%B6%E9%81%87%E7%8E%8B%E5%98%89%E5%B0%94%E7%A9%BF%E7%9D%A1%E8%A2%8D%E5%87%BA%E8%A1%97%23&t=31&band_rank=31&Refer=top) 33582
+1. [特朗普支持率为80年历任总统最低](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%AF%E6%8C%81%E7%8E%87%E4%B8%BA80%E5%B9%B4%E5%8E%86%E4%BB%BB%E6%80%BB%E7%BB%9F%E6%9C%80%E4%BD%8E%23&t=31&band_rank=41&Refer=top) 29652
 1. [时代少年团演唱会直播](https://s.weibo.com/weibo?q=%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%BC%94%E5%94%B1%E4%BC%9A%E7%9B%B4%E6%92%AD&t=31&band_rank=38&Refer=top) 28962
-1. [记者亲历东风着陆场的大风天气](https://s.weibo.com/weibo?q=%23%E8%AE%B0%E8%80%85%E4%BA%B2%E5%8E%86%E4%B8%9C%E9%A3%8E%E7%9D%80%E9%99%86%E5%9C%BA%E7%9A%84%E5%A4%A7%E9%A3%8E%E5%A4%A9%E6%B0%94%23&t=31&band_rank=26&Refer=top) 26965
-1. [特朗普支持率为80年历任总统最低](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%AF%E6%8C%81%E7%8E%87%E4%B8%BA80%E5%B9%B4%E5%8E%86%E4%BB%BB%E6%80%BB%E7%BB%9F%E6%9C%80%E4%BD%8E%23&t=31&band_rank=41&Refer=top) 26377
 1. [无限暖暖已紧急排查修复](https://s.weibo.com/weibo?q=%23%E6%97%A0%E9%99%90%E6%9A%96%E6%9A%96%E5%B7%B2%E7%B4%A7%E6%80%A5%E6%8E%92%E6%9F%A5%E4%BF%AE%E5%A4%8D%23&t=31&band_rank=49&Refer=top) 24696
 1. [张真源 准备出发](https://s.weibo.com/weibo?q=%E5%BC%A0%E7%9C%9F%E6%BA%90%20%E5%87%86%E5%A4%87%E5%87%BA%E5%8F%91&t=31&band_rank=50&Refer=top) 24696
+1. [多家大行公告不再设置监事会](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%AE%B6%E5%A4%A7%E8%A1%8C%E5%85%AC%E5%91%8A%E4%B8%8D%E5%86%8D%E8%AE%BE%E7%BD%AE%E7%9B%91%E4%BA%8B%E4%BC%9A%23&t=31&band_rank=50&Refer=top) 23287
 1. [加拿大执政党赢得大选](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%89%A7%E6%94%BF%E5%85%9A%E8%B5%A2%E5%BE%97%E5%A4%A7%E9%80%89%23&t=31&band_rank=47&Refer=top) 20824
 1. [曾毅不搞说唱改跳舞了](https://s.weibo.com/weibo?q=%E6%9B%BE%E6%AF%85%E4%B8%8D%E6%90%9E%E8%AF%B4%E5%94%B1%E6%94%B9%E8%B7%B3%E8%88%9E%E4%BA%86&t=31&band_rank=50&Refer=top) 20074
 1. [校方未回应寄语毕业生文章删除董袭莹](https://s.weibo.com/weibo?q=%23%E6%A0%A1%E6%96%B9%E6%9C%AA%E5%9B%9E%E5%BA%94%E5%AF%84%E8%AF%AD%E6%AF%95%E4%B8%9A%E7%94%9F%E6%96%87%E7%AB%A0%E5%88%A0%E9%99%A4%E8%91%A3%E8%A2%AD%E8%8E%B9%23&t=31&band_rank=35&Refer=top) 19716
