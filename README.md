@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-05-02 02:29:35.221782 
+最后更新时间 2025-05-02 03:16:57.493719 
 1. [gidle改名idle](https://s.weibo.com/weibo?q=%23gidle%E6%94%B9%E5%90%8Didle%23&t=31&band_rank=1&Refer=top) 1411292
 1. [价值4.1亿画作展出时被小孩刮花](https://s.weibo.com/weibo?q=%23%E4%BB%B7%E5%80%BC4.1%E4%BA%BF%E7%94%BB%E4%BD%9C%E5%B1%95%E5%87%BA%E6%97%B6%E8%A2%AB%E5%B0%8F%E5%AD%A9%E5%88%AE%E8%8A%B1%23&t=31&band_rank=2&Refer=top) 1024030
 1. [一人一句致敬劳动者](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%BA%BA%E4%B8%80%E5%8F%A5%E8%87%B4%E6%95%AC%E5%8A%B3%E5%8A%A8%E8%80%85%23&t=31&band_rank=3&Refer=top) 787030
@@ -66,6 +66,7 @@
 1. [马丽老师就沈马组合发表重要讲话](https://s.weibo.com/weibo?q=%E9%A9%AC%E4%B8%BD%E8%80%81%E5%B8%88%E5%B0%B1%E6%B2%88%E9%A9%AC%E7%BB%84%E5%90%88%E5%8F%91%E8%A1%A8%E9%87%8D%E8%A6%81%E8%AE%B2%E8%AF%9D&t=31&band_rank=48&Refer=top) 53570
 1. [金价](https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=49&Refer=top) 53568
 1. [小天才崩了](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%A4%A9%E6%89%8D%E5%B4%A9%E4%BA%86%23&t=31&band_rank=50&Refer=top) 53568
+1. [五一档首日上座率最高是哪吒2](https://s.weibo.com/weibo?q=%23%E4%BA%94%E4%B8%80%E6%A1%A3%E9%A6%96%E6%97%A5%E4%B8%8A%E5%BA%A7%E7%8E%87%E6%9C%80%E9%AB%98%E6%98%AF%E5%93%AA%E5%90%922%23&t=31&band_rank=18&Refer=top) 46455
 1. [枭起青壤预约](https://s.weibo.com/weibo?q=%E6%9E%AD%E8%B5%B7%E9%9D%92%E5%A3%A4%E9%A2%84%E7%BA%A6&t=31&band_rank=30&Refer=top) 36434
 1. [独一无二](https://s.weibo.com/weibo?q=%E7%8B%AC%E4%B8%80%E6%97%A0%E4%BA%8C&t=31&band_rank=35&Refer=top) 29962
 1. [爷们要脸文学](https://s.weibo.com/weibo?q=%E7%88%B7%E4%BB%AC%E8%A6%81%E8%84%B8%E6%96%87%E5%AD%A6&t=31&band_rank=41&Refer=top) 28114
@@ -73,6 +74,8 @@
 1. [富家女因缺爱拒绝巨额家产](https://s.weibo.com/weibo?q=%E5%AF%8C%E5%AE%B6%E5%A5%B3%E5%9B%A0%E7%BC%BA%E7%88%B1%E6%8B%92%E7%BB%9D%E5%B7%A8%E9%A2%9D%E5%AE%B6%E4%BA%A7&t=31&band_rank=48&Refer=top) 25122
 1. [苏新皓说真的给我跳爽了](https://s.weibo.com/weibo?q=%E8%8B%8F%E6%96%B0%E7%9A%93%E8%AF%B4%E7%9C%9F%E7%9A%84%E7%BB%99%E6%88%91%E8%B7%B3%E7%88%BD%E4%BA%86&t=31&band_rank=49&Refer=top) 25053
 1. [王一珩晒插秧日泥照](https://s.weibo.com/weibo?q=%E7%8E%8B%E4%B8%80%E7%8F%A9%E6%99%92%E6%8F%92%E7%A7%A7%E6%97%A5%E6%B3%A5%E7%85%A7&t=31&band_rank=50&Refer=top) 25048
+1. [3分半回顾神十九183天](https://s.weibo.com/weibo?q=%233%E5%88%86%E5%8D%8A%E5%9B%9E%E9%A1%BE%E7%A5%9E%E5%8D%81%E4%B9%9D183%E5%A4%A9%23&t=31&band_rank=35&Refer=top) 24184
+1. [5月专属壁纸](https://s.weibo.com/weibo?q=%235%E6%9C%88%E4%B8%93%E5%B1%9E%E5%A3%81%E7%BA%B8%23&t=31&band_rank=50&Refer=top) 24142
 <!-- END -->
 
 历史归档 [./archives](./archives)
