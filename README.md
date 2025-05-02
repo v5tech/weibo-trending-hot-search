@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-05-03 03:17:22.930182 
+最后更新时间 2025-05-03 04:23:41.114944 
 1. [美国人正绕过关税打飞的来华购物](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BA%BA%E6%AD%A3%E7%BB%95%E8%BF%87%E5%85%B3%E7%A8%8E%E6%89%93%E9%A3%9E%E7%9A%84%E6%9D%A5%E5%8D%8E%E8%B4%AD%E7%89%A9%23&t=31&band_rank=1&Refer=top) 878799
 1. [校方回应学生组团狂退60多件裙子](https://s.weibo.com/weibo?q=%23%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E7%BB%84%E5%9B%A2%E7%8B%82%E9%80%8060%E5%A4%9A%E4%BB%B6%E8%A3%99%E5%AD%90%23&t=31&band_rank=2&Refer=top) 608726
 1. [五一假期文旅市场井喷式增长](https://s.weibo.com/weibo?q=%23%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E6%96%87%E6%97%85%E5%B8%82%E5%9C%BA%E4%BA%95%E5%96%B7%E5%BC%8F%E5%A2%9E%E9%95%BF%23&t=31&band_rank=3&Refer=top) 430298
@@ -74,6 +74,8 @@
 1. [张泽禹演唱会solo](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%B3%BD%E7%A6%B9%E6%BC%94%E5%94%B1%E4%BC%9Asolo%23&t=31&band_rank=46&Refer=top) 24906
 1. [特朗普称将取消哈佛免税地位](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E5%8F%96%E6%B6%88%E5%93%88%E4%BD%9B%E5%85%8D%E7%A8%8E%E5%9C%B0%E4%BD%8D%23&t=31&band_rank=49&Refer=top) 24818
 1. [周洁琼好权威的美貌](https://s.weibo.com/weibo?q=%E5%91%A8%E6%B4%81%E7%90%BC%E5%A5%BD%E6%9D%83%E5%A8%81%E7%9A%84%E7%BE%8E%E8%B2%8C&t=31&band_rank=50&Refer=top) 24802
+1. [曼城vs狼队](https://s.weibo.com/weibo?q=%23%E6%9B%BC%E5%9F%8Evs%E7%8B%BC%E9%98%9F%23&t=31&band_rank=44&Refer=top) 16376
+1. [朱志鑫舞台好燃](https://s.weibo.com/weibo?q=%E6%9C%B1%E5%BF%97%E9%91%AB%E8%88%9E%E5%8F%B0%E5%A5%BD%E7%87%83&t=31&band_rank=50&Refer=top) 16373
 <!-- END -->
 
 历史归档 [./archives](./archives)
