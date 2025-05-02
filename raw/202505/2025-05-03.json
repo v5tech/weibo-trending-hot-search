@@ -235,6 +235,10 @@
     "url": "https://s.weibo.com/weibo?q=%E5%A4%A9%E8%B5%90%E7%9A%84%E5%A3%B0%E9%9F%B3&t=31&band_rank=49&Refer=top",
     "hot": 48334
   },
+  "科学家Z轴种菜产量翻100倍": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%A7%91%E5%AD%A6%E5%AE%B6Z%E8%BD%B4%E7%A7%8D%E8%8F%9C%E4%BA%A7%E9%87%8F%E7%BF%BB100%E5%80%8D%23&t=31&band_rank=10&Refer=top",
+    "hot": 42962
+  },
   "朱志鑫睡颜自拍": {
     "url": "https://s.weibo.com/weibo?q=%E6%9C%B1%E5%BF%97%E9%91%AB%E7%9D%A1%E9%A2%9C%E8%87%AA%E6%8B%8D&t=31&band_rank=34&Refer=top",
     "hot": 34881
@@ -270,5 +274,13 @@
   "朱志鑫舞台好燃": {
     "url": "https://s.weibo.com/weibo?q=%E6%9C%B1%E5%BF%97%E9%91%AB%E8%88%9E%E5%8F%B0%E5%A5%BD%E7%87%83&t=31&band_rank=50&Refer=top",
     "hot": 16373
+  },
+  "张云雷新歌": {
+    "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E4%BA%91%E9%9B%B7%E6%96%B0%E6%AD%8C&t=31&band_rank=49&Refer=top",
+    "hot": 15576
+  },
+  "爱你的每个瞬间像飞驰而过的高铁": {
+    "url": "https://s.weibo.com/weibo?q=%E7%88%B1%E4%BD%A0%E7%9A%84%E6%AF%8F%E4%B8%AA%E7%9E%AC%E9%97%B4%E5%83%8F%E9%A3%9E%E9%A9%B0%E8%80%8C%E8%BF%87%E7%9A%84%E9%AB%98%E9%93%81&t=31&band_rank=50&Refer=top",
+    "hot": 15568
   }
 }
