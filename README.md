@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-05-05 03:17:05.263663 
+最后更新时间 2025-05-05 04:21:46.900194 
 1. [贵州游船倾覆事故已致3人死亡](https://s.weibo.com/weibo?q=%23%E8%B4%B5%E5%B7%9E%E6%B8%B8%E8%88%B9%E5%80%BE%E8%A6%86%E4%BA%8B%E6%95%85%E5%B7%B2%E8%87%B43%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=1&Refer=top) 1125427
 1. [成都大风](https://s.weibo.com/weibo?q=%E6%88%90%E9%83%BD%E5%A4%A7%E9%A3%8E&t=31&band_rank=2&Refer=top) 1120842
 1. [这是一路向前的中国青年](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF%E4%B8%80%E8%B7%AF%E5%90%91%E5%89%8D%E7%9A%84%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%23&t=31&band_rank=3&Refer=top) 611507
@@ -39,6 +39,7 @@
 1. [5月5日13时57分迎来立夏](https://s.weibo.com/weibo?q=%235%E6%9C%885%E6%97%A513%E6%97%B657%E5%88%86%E8%BF%8E%E6%9D%A5%E7%AB%8B%E5%A4%8F%23&t=31&band_rank=10&Refer=top) 186053
 1. [白桃星座一周运势](https://s.weibo.com/weibo?q=%E7%99%BD%E6%A1%83%E6%98%9F%E5%BA%A7%E4%B8%80%E5%91%A8%E8%BF%90%E5%8A%BF&t=31&band_rank=29&Refer=top) 183083
 1. [翔霖 茫](https://s.weibo.com/weibo?q=%E7%BF%94%E9%9C%96%20%E8%8C%AB&t=31&band_rank=30&Refer=top) 169883
+1. [西安夜空不明物可能是什么](https://s.weibo.com/weibo?q=%E8%A5%BF%E5%AE%89%E5%A4%9C%E7%A9%BA%E4%B8%8D%E6%98%8E%E7%89%A9%E5%8F%AF%E8%83%BD%E6%98%AF%E4%BB%80%E4%B9%88&t=31&band_rank=31&Refer=top) 168615
 1. [小蝶状态](https://s.weibo.com/weibo?q=%E5%B0%8F%E8%9D%B6%E7%8A%B6%E6%80%81&t=31&band_rank=31&Refer=top) 152487
 1. [贵州游船事故亲历者发声](https://s.weibo.com/weibo?q=%E8%B4%B5%E5%B7%9E%E6%B8%B8%E8%88%B9%E4%BA%8B%E6%95%85%E4%BA%B2%E5%8E%86%E8%80%85%E5%8F%91%E5%A3%B0&t=31&band_rank=32&Refer=top) 146447
 1. [羽毛球](https://s.weibo.com/weibo?q=%E7%BE%BD%E6%AF%9B%E7%90%83&t=31&band_rank=33&Refer=top) 144268
@@ -74,8 +75,10 @@
 1. [德甲](https://s.weibo.com/weibo?q=%E5%BE%B7%E7%94%B2&t=31&band_rank=45&Refer=top) 39163
 1. [新蜂音乐节打错单依纯名字](https://s.weibo.com/weibo?q=%23%E6%96%B0%E8%9C%82%E9%9F%B3%E4%B9%90%E8%8A%82%E6%89%93%E9%94%99%E5%8D%95%E4%BE%9D%E7%BA%AF%E5%90%8D%E5%AD%97%23&t=31&band_rank=46&Refer=top) 39162
 1. [赵心童vs威廉姆斯](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E5%BF%83%E7%AB%A5vs%E5%A8%81%E5%BB%89%E5%A7%86%E6%96%AF%23&t=31&band_rank=48&Refer=top) 39162
-1. [西安夜空不明物可能是什么](https://s.weibo.com/weibo?q=%E8%A5%BF%E5%AE%89%E5%A4%9C%E7%A9%BA%E4%B8%8D%E6%98%8E%E7%89%A9%E5%8F%AF%E8%83%BD%E6%98%AF%E4%BB%80%E4%B9%88&t=31&band_rank=31&Refer=top) 31847
+1. [红场解放军这一幕令人热血沸腾](https://s.weibo.com/weibo?q=%23%E7%BA%A2%E5%9C%BA%E8%A7%A3%E6%94%BE%E5%86%9B%E8%BF%99%E4%B8%80%E5%B9%95%E4%BB%A4%E4%BA%BA%E7%83%AD%E8%A1%80%E6%B2%B8%E8%85%BE%23&t=31&band_rank=10&Refer=top) 34695
 1. [王嘉尔感谢所有一直在等的朋友们](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E6%84%9F%E8%B0%A2%E6%89%80%E6%9C%89%E4%B8%80%E7%9B%B4%E5%9C%A8%E7%AD%89%E7%9A%84%E6%9C%8B%E5%8F%8B%E4%BB%AC%23&t=31&band_rank=50&Refer=top) 26258
+1. [华晨宇日出演唱会一周年](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E6%97%A5%E5%87%BA%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%80%E5%91%A8%E5%B9%B4%23&t=31&band_rank=47&Refer=top) 21536
+1. [李宇春雨中舞台](https://s.weibo.com/weibo?q=%E6%9D%8E%E5%AE%87%E6%98%A5%E9%9B%A8%E4%B8%AD%E8%88%9E%E5%8F%B0&t=31&band_rank=49&Refer=top) 21530
 <!-- END -->
 
 历史归档 [./archives](./archives)
