@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-05-05 01:17:22.815498 
+最后更新时间 2025-05-05 02:27:21.640416 
 1. [贵州游船倾覆事故已致3人死亡](https://s.weibo.com/weibo?q=%23%E8%B4%B5%E5%B7%9E%E6%B8%B8%E8%88%B9%E5%80%BE%E8%A6%86%E4%BA%8B%E6%95%85%E5%B7%B2%E8%87%B43%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=1&Refer=top) 1125427
 1. [成都大风](https://s.weibo.com/weibo?q=%E6%88%90%E9%83%BD%E5%A4%A7%E9%A3%8E&t=31&band_rank=2&Refer=top) 1120842
 1. [这是一路向前的中国青年](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF%E4%B8%80%E8%B7%AF%E5%90%91%E5%89%8D%E7%9A%84%E4%B8%AD%E5%9B%BD%E9%9D%92%E5%B9%B4%23&t=31&band_rank=3&Refer=top) 611507
@@ -59,6 +59,7 @@
 1. [女孩溺水被救家长先责怪孩子](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E6%BA%BA%E6%B0%B4%E8%A2%AB%E6%95%91%E5%AE%B6%E9%95%BF%E5%85%88%E8%B4%A3%E6%80%AA%E5%AD%A9%E5%AD%90%23&t=31&band_rank=48&Refer=top) 99982
 1. [沟通的本质是以心换心](https://s.weibo.com/weibo?q=%23%E6%B2%9F%E9%80%9A%E7%9A%84%E6%9C%AC%E8%B4%A8%E6%98%AF%E4%BB%A5%E5%BF%83%E6%8D%A2%E5%BF%83%23&t=31&band_rank=49&Refer=top) 98236
 1. [许嵩 可是他叫我小哥哥诶](https://s.weibo.com/weibo?q=%E8%AE%B8%E5%B5%A9%20%E5%8F%AF%E6%98%AF%E4%BB%96%E5%8F%AB%E6%88%91%E5%B0%8F%E5%93%A5%E5%93%A5%E8%AF%B6&t=31&band_rank=50&Refer=top) 97267
+1. [日本女孩屡报警遭漠视4个月变白骨](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%AD%A9%E5%B1%A1%E6%8A%A5%E8%AD%A6%E9%81%AD%E6%BC%A0%E8%A7%864%E4%B8%AA%E6%9C%88%E5%8F%98%E7%99%BD%E9%AA%A8%23&t=31&band_rank=8&Refer=top) 80652
 1. [ZETA夺冠](https://s.weibo.com/weibo?q=ZETA%E5%A4%BA%E5%86%A0&t=31&band_rank=43&Refer=top) 56608
 1. [五一假期余额仅剩1天](https://s.weibo.com/weibo?q=%23%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E4%BD%99%E9%A2%9D%E4%BB%85%E5%89%A91%E5%A4%A9%23&t=31&band_rank=45&Refer=top) 55682
 1. [儿女走失6年后父亲从高处坠落昏迷](https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%A5%B3%E8%B5%B0%E5%A4%B16%E5%B9%B4%E5%90%8E%E7%88%B6%E4%BA%B2%E4%BB%8E%E9%AB%98%E5%A4%84%E5%9D%A0%E8%90%BD%E6%98%8F%E8%BF%B7%23&t=31&band_rank=46&Refer=top) 54953
@@ -66,6 +67,13 @@
 1. [AL采访](https://s.weibo.com/weibo?q=AL%E9%87%87%E8%AE%BF&t=31&band_rank=48&Refer=top) 54589
 1. [时代少年团演唱会](https://s.weibo.com/weibo?q=%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=49&Refer=top) 53697
 1. [请钟点工和不请钟点工的都沉默了](https://s.weibo.com/weibo?q=%E8%AF%B7%E9%92%9F%E7%82%B9%E5%B7%A5%E5%92%8C%E4%B8%8D%E8%AF%B7%E9%92%9F%E7%82%B9%E5%B7%A5%E7%9A%84%E9%83%BD%E6%B2%89%E9%BB%98%E4%BA%86&t=31&band_rank=50&Refer=top) 53480
+1. [贺峻霖来电了](https://s.weibo.com/weibo?q=%23%E8%B4%BA%E5%B3%BB%E9%9C%96%E6%9D%A5%E7%94%B5%E4%BA%86%23&t=31&band_rank=29&Refer=top) 51383
+1. [青春赞歌](https://s.weibo.com/weibo?q=%E9%9D%92%E6%98%A5%E8%B5%9E%E6%AD%8C&t=31&band_rank=34&Refer=top) 40121
+1. [宋亚轩诠释了什么叫好彩自然来](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E8%AF%A0%E9%87%8A%E4%BA%86%E4%BB%80%E4%B9%88%E5%8F%AB%E5%A5%BD%E5%BD%A9%E8%87%AA%E7%84%B6%E6%9D%A5%23&t=31&band_rank=43&Refer=top) 39163
+1. [薛之谦音乐节](https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%E9%9F%B3%E4%B9%90%E8%8A%82&t=31&band_rank=44&Refer=top) 39163
+1. [德甲](https://s.weibo.com/weibo?q=%E5%BE%B7%E7%94%B2&t=31&band_rank=45&Refer=top) 39163
+1. [新蜂音乐节打错单依纯名字](https://s.weibo.com/weibo?q=%23%E6%96%B0%E8%9C%82%E9%9F%B3%E4%B9%90%E8%8A%82%E6%89%93%E9%94%99%E5%8D%95%E4%BE%9D%E7%BA%AF%E5%90%8D%E5%AD%97%23&t=31&band_rank=46&Refer=top) 39162
+1. [赵心童vs威廉姆斯](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E5%BF%83%E7%AB%A5vs%E5%A8%81%E5%BB%89%E5%A7%86%E6%96%AF%23&t=31&band_rank=48&Refer=top) 39162
 <!-- END -->
 
 历史归档 [./archives](./archives)
