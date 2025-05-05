@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-05-06 04:23:48.777198 
+最后更新时间 2025-05-06 05:19:49.576132 
 1. [淘宝免单](https://s.weibo.com/weibo?q=%E6%B7%98%E5%AE%9D%E5%85%8D%E5%8D%95&t=31&band_rank=1&Refer=top) 1743267
 1. [IU陪跑三次了](https://s.weibo.com/weibo?q=%23IU%E9%99%AA%E8%B7%91%E4%B8%89%E6%AC%A1%E4%BA%86%23&t=31&band_rank=2&Refer=top) 1663096
 1. [五一假期全国消费市场数据来了](https://s.weibo.com/weibo?q=%23%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E5%85%A8%E5%9B%BD%E6%B6%88%E8%B4%B9%E5%B8%82%E5%9C%BA%E6%95%B0%E6%8D%AE%E6%9D%A5%E4%BA%86%23&t=31&band_rank=3&Refer=top) 1249422
@@ -73,6 +73,7 @@
 1. [原子弹爆炸后他们选择把喜悦藏在心里](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E5%AD%90%E5%BC%B9%E7%88%86%E7%82%B8%E5%90%8E%E4%BB%96%E4%BB%AC%E9%80%89%E6%8B%A9%E6%8A%8A%E5%96%9C%E6%82%A6%E8%97%8F%E5%9C%A8%E5%BF%83%E9%87%8C%23&t=31&band_rank=29&Refer=top) 19285
 1. [七月初七淮水竹亭就此作罢](https://s.weibo.com/weibo?q=%E4%B8%83%E6%9C%88%E5%88%9D%E4%B8%83%E6%B7%AE%E6%B0%B4%E7%AB%B9%E4%BA%AD%E5%B0%B1%E6%AD%A4%E4%BD%9C%E7%BD%A2&t=31&band_rank=34&Refer=top) 19277
 1. [88岁院士说就是要跟美国人争口气](https://s.weibo.com/weibo?q=%2388%E5%B2%81%E9%99%A2%E5%A3%AB%E8%AF%B4%E5%B0%B1%E6%98%AF%E8%A6%81%E8%B7%9F%E7%BE%8E%E5%9B%BD%E4%BA%BA%E4%BA%89%E5%8F%A3%E6%B0%94%23&t=31&band_rank=38&Refer=top) 19267
+1. [开始推理吧](https://s.weibo.com/weibo?q=%E5%BC%80%E5%A7%8B%E6%8E%A8%E7%90%86%E5%90%A7&t=31&band_rank=47&Refer=top) 15474
 <!-- END -->
 
 历史归档 [./archives](./archives)
