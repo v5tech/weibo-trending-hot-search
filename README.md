@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-05-08 04:24:20.823798 
+最后更新时间 2025-05-08 05:18:16.492614 
 1. [小米汽车](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6&t=31&band_rank=1&Refer=top) 908351
 1. [学生班级搞孤立老师坚定停课惩治](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E7%8F%AD%E7%BA%A7%E6%90%9E%E5%AD%A4%E7%AB%8B%E8%80%81%E5%B8%88%E5%9D%9A%E5%AE%9A%E5%81%9C%E8%AF%BE%E6%83%A9%E6%B2%BB%23&t=31&band_rank=10&Refer=top) 742345
 1. [安陵容 替身](https://s.weibo.com/weibo?q=%E5%AE%89%E9%99%B5%E5%AE%B9%20%E6%9B%BF%E8%BA%AB&t=31&band_rank=2&Refer=top) 730441
@@ -64,6 +64,7 @@
 1. [新日之坠](https://s.weibo.com/weibo?q=%E6%96%B0%E6%97%A5%E4%B9%8B%E5%9D%A0&t=31&band_rank=40&Refer=top) 42393
 1. [Bin哥没骗我们](https://s.weibo.com/weibo?q=%23Bin%E5%93%A5%E6%B2%A1%E9%AA%97%E6%88%91%E4%BB%AC%23&t=31&band_rank=45&Refer=top) 38137
 1. [贾一凡苏杯vlog](https://s.weibo.com/weibo?q=%E8%B4%BE%E4%B8%80%E5%87%A1%E8%8B%8F%E6%9D%AFvlog&t=31&band_rank=48&Refer=top) 35889
+1. [巴基斯坦将对印军入侵做出回应](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%B0%86%E5%AF%B9%E5%8D%B0%E5%86%9B%E5%85%A5%E4%BE%B5%E5%81%9A%E5%87%BA%E5%9B%9E%E5%BA%94%23&t=31&band_rank=10&Refer=top) 33269
 1. [166斤女孩52秒变装美翻天](https://s.weibo.com/weibo?q=%23166%E6%96%A4%E5%A5%B3%E5%AD%A952%E7%A7%92%E5%8F%98%E8%A3%85%E7%BE%8E%E7%BF%BB%E5%A4%A9%23&t=31&band_rank=35&Refer=top) 25644
 1. [丁禹兮执剑变装](https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%E6%89%A7%E5%89%91%E5%8F%98%E8%A3%85%23&t=31&band_rank=41&Refer=top) 25160
 1. [归队](https://s.weibo.com/weibo?q=%E5%BD%92%E9%98%9F&t=31&band_rank=42&Refer=top) 25158
@@ -74,11 +75,13 @@
 1. [开始推理吧](https://s.weibo.com/weibo?q=%E5%BC%80%E5%A7%8B%E6%8E%A8%E7%90%86%E5%90%A7&t=31&band_rank=44&Refer=top) 18777
 1. [我的动植物朋友们](https://s.weibo.com/weibo?q=%E6%88%91%E7%9A%84%E5%8A%A8%E6%A4%8D%E7%89%A9%E6%9C%8B%E5%8F%8B%E4%BB%AC&t=31&band_rank=45&Refer=top) 18773
 1. [环球时报记者莫斯科实拍](https://s.weibo.com/weibo?q=%23%E7%8E%AF%E7%90%83%E6%97%B6%E6%8A%A5%E8%AE%B0%E8%80%85%E8%8E%AB%E6%96%AF%E7%A7%91%E5%AE%9E%E6%8B%8D%23&t=31&band_rank=48&Refer=top) 18765
-1. [外交部紧急提醒在印巴中国公民](https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E7%B4%A7%E6%80%A5%E6%8F%90%E9%86%92%E5%9C%A8%E5%8D%B0%E5%B7%B4%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%23&t=31&band_rank=32&Refer=top) 15739
-1. [水舞间](https://s.weibo.com/weibo?q=%E6%B0%B4%E8%88%9E%E9%97%B4&t=31&band_rank=37&Refer=top) 14820
+1. [外交部紧急提醒在印巴中国公民](https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E7%B4%A7%E6%80%A5%E6%8F%90%E9%86%92%E5%9C%A8%E5%8D%B0%E5%B7%B4%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%23&t=31&band_rank=32&Refer=top) 16488
+1. [以史为鉴共创未来](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E5%8F%B2%E4%B8%BA%E9%89%B4%E5%85%B1%E5%88%9B%E6%9C%AA%E6%9D%A5%23&t=31&band_rank=47&Refer=top) 16461
+1. [水舞间](https://s.weibo.com/weibo?q=%E6%B0%B4%E8%88%9E%E9%97%B4&t=31&band_rank=37&Refer=top) 16459
+1. [美国极限施压对中国不灵](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%9E%81%E9%99%90%E6%96%BD%E5%8E%8B%E5%AF%B9%E4%B8%AD%E5%9B%BD%E4%B8%8D%E7%81%B5%23&t=31&band_rank=47&Refer=top) 16452
+1. [周深中俄双语献唱归队主题曲](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E4%B8%AD%E4%BF%84%E5%8F%8C%E8%AF%AD%E7%8C%AE%E5%94%B1%E5%BD%92%E9%98%9F%E4%B8%BB%E9%A2%98%E6%9B%B2%23&t=31&band_rank=48&Refer=top) 16450
+1. [俄罗斯阅兵式彩排现场视频](https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E9%98%85%E5%85%B5%E5%BC%8F%E5%BD%A9%E6%8E%92%E7%8E%B0%E5%9C%BA%E8%A7%86%E9%A2%91%23&t=31&band_rank=46&Refer=top) 16445
 1. [亲爱的仇敌](https://s.weibo.com/weibo?q=%E4%BA%B2%E7%88%B1%E7%9A%84%E4%BB%87%E6%95%8C&t=31&band_rank=45&Refer=top) 14247
-1. [俄罗斯阅兵式彩排现场视频](https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E9%98%85%E5%85%B5%E5%BC%8F%E5%BD%A9%E6%8E%92%E7%8E%B0%E5%9C%BA%E8%A7%86%E9%A2%91%23&t=31&band_rank=46&Refer=top) 14246
-1. [以史为鉴共创未来](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E5%8F%B2%E4%B8%BA%E9%89%B4%E5%85%B1%E5%88%9B%E6%9C%AA%E6%9D%A5%23&t=31&band_rank=47&Refer=top) 14246
 <!-- END -->
 
 历史归档 [./archives](./archives)
