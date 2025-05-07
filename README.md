@@ -7,8 +7,9 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-05-08 00:28:17.225370 
+最后更新时间 2025-05-08 01:19:41.186485 
 1. [小米汽车](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6&t=31&band_rank=1&Refer=top) 908351
+1. [学生班级搞孤立老师坚定停课惩治](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E7%8F%AD%E7%BA%A7%E6%90%9E%E5%AD%A4%E7%AB%8B%E8%80%81%E5%B8%88%E5%9D%9A%E5%AE%9A%E5%81%9C%E8%AF%BE%E6%83%A9%E6%B2%BB%23&t=31&band_rank=10&Refer=top) 742345
 1. [安陵容 替身](https://s.weibo.com/weibo?q=%E5%AE%89%E9%99%B5%E5%AE%B9%20%E6%9B%BF%E8%BA%AB&t=31&band_rank=2&Refer=top) 730441
 1. [一图速览一揽子金融增量政策](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%9B%BE%E9%80%9F%E8%A7%88%E4%B8%80%E6%8F%BD%E5%AD%90%E9%87%91%E8%9E%8D%E5%A2%9E%E9%87%8F%E6%94%BF%E7%AD%96%23&t=31&band_rank=3&Refer=top) 573085
 1. [李冰冰于适手挽手](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%86%B0%E5%86%B0%E4%BA%8E%E9%80%82%E6%89%8B%E6%8C%BD%E6%89%8B%23&t=31&band_rank=4&Refer=top) 510202
@@ -17,7 +18,6 @@
 1. [巴总理拍桌称有实力还有核武器](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E6%80%BB%E7%90%86%E6%8B%8D%E6%A1%8C%E7%A7%B0%E6%9C%89%E5%AE%9E%E5%8A%9B%E8%BF%98%E6%9C%89%E6%A0%B8%E6%AD%A6%E5%99%A8%23&t=31&band_rank=7&Refer=top) 275671
 1. [张柏芝顶级骨相就是这样的](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9F%8F%E8%8A%9D%E9%A1%B6%E7%BA%A7%E9%AA%A8%E7%9B%B8%E5%B0%B1%E6%98%AF%E8%BF%99%E6%A0%B7%E7%9A%84&t=31&band_rank=8&Refer=top) 274243
 1. [被刘嘉玲认证超级帅哥的含金量](https://s.weibo.com/weibo?q=%E8%A2%AB%E5%88%98%E5%98%89%E7%8E%B2%E8%AE%A4%E8%AF%81%E8%B6%85%E7%BA%A7%E5%B8%85%E5%93%A5%E7%9A%84%E5%90%AB%E9%87%91%E9%87%8F&t=31&band_rank=9&Refer=top) 273509
-1. [学生班级搞孤立老师坚定停课惩治](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E7%8F%AD%E7%BA%A7%E6%90%9E%E5%AD%A4%E7%AB%8B%E8%80%81%E5%B8%88%E5%9D%9A%E5%AE%9A%E5%81%9C%E8%AF%BE%E6%83%A9%E6%B2%BB%23&t=31&band_rank=10&Refer=top) 272596
 1. [白鹿回老家了](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E5%9B%9E%E8%80%81%E5%AE%B6%E4%BA%86%23&t=31&band_rank=11&Refer=top) 270908
 1. [王昶24岁生日照](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%98%B624%E5%B2%81%E7%94%9F%E6%97%A5%E7%85%A7%23&t=31&band_rank=12&Refer=top) 269571
 1. [昀牵孟绕](https://s.weibo.com/weibo?q=%23%E6%98%80%E7%89%B5%E5%AD%9F%E7%BB%95%23&t=31&band_rank=13&Refer=top) 267283
@@ -37,9 +37,9 @@
 1. [坚持跳绳一个月的我belike](https://s.weibo.com/weibo?q=%23%E5%9D%9A%E6%8C%81%E8%B7%B3%E7%BB%B3%E4%B8%80%E4%B8%AA%E6%9C%88%E7%9A%84%E6%88%91belike%23&t=31&band_rank=27&Refer=top) 128194
 1. [别不开心了这个月还有小长假](https://s.weibo.com/weibo?q=%23%E5%88%AB%E4%B8%8D%E5%BC%80%E5%BF%83%E4%BA%86%E8%BF%99%E4%B8%AA%E6%9C%88%E8%BF%98%E6%9C%89%E5%B0%8F%E9%95%BF%E5%81%87%23&t=31&band_rank=28&Refer=top) 125478
 1. [国泰调查乘务员给3岁小孩提供酒水](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E6%B3%B0%E8%B0%83%E6%9F%A5%E4%B9%98%E5%8A%A1%E5%91%98%E7%BB%993%E5%B2%81%E5%B0%8F%E5%AD%A9%E6%8F%90%E4%BE%9B%E9%85%92%E6%B0%B4%23&t=31&band_rank=29&Refer=top) 118910
+1. [芬兰空军一架大黄蜂战机坠毁](https://s.weibo.com/weibo?q=%23%E8%8A%AC%E5%85%B0%E7%A9%BA%E5%86%9B%E4%B8%80%E6%9E%B6%E5%A4%A7%E9%BB%84%E8%9C%82%E6%88%98%E6%9C%BA%E5%9D%A0%E6%AF%81%23&t=31&band_rank=32&Refer=top) 112031
 1. [丁真说演十八铜人把自己害惨了](https://s.weibo.com/weibo?q=%E4%B8%81%E7%9C%9F%E8%AF%B4%E6%BC%94%E5%8D%81%E5%85%AB%E9%93%9C%E4%BA%BA%E6%8A%8A%E8%87%AA%E5%B7%B1%E5%AE%B3%E6%83%A8%E4%BA%86&t=31&band_rank=30&Refer=top) 105071
 1. [Xun评论ON](https://s.weibo.com/weibo?q=Xun%E8%AF%84%E8%AE%BAON&t=31&band_rank=31&Refer=top) 104161
-1. [芬兰空军一架大黄蜂战机坠毁](https://s.weibo.com/weibo?q=%23%E8%8A%AC%E5%85%B0%E7%A9%BA%E5%86%9B%E4%B8%80%E6%9E%B6%E5%A4%A7%E9%BB%84%E8%9C%82%E6%88%98%E6%9C%BA%E5%9D%A0%E6%AF%81%23&t=31&band_rank=32&Refer=top) 101953
 1. [长光卫星回应悟空小猫最后影像](https://s.weibo.com/weibo?q=%23%E9%95%BF%E5%85%89%E5%8D%AB%E6%98%9F%E5%9B%9E%E5%BA%94%E6%82%9F%E7%A9%BA%E5%B0%8F%E7%8C%AB%E6%9C%80%E5%90%8E%E5%BD%B1%E5%83%8F%23&t=31&band_rank=33&Refer=top) 99438
 1. [李冰冰这才是大花水准](https://s.weibo.com/weibo?q=%E6%9D%8E%E5%86%B0%E5%86%B0%E8%BF%99%E6%89%8D%E6%98%AF%E5%A4%A7%E8%8A%B1%E6%B0%B4%E5%87%86&t=31&band_rank=34&Refer=top) 97338
 1. [身体出现这种感觉越强烈越长寿](https://s.weibo.com/weibo?q=%23%E8%BA%AB%E4%BD%93%E5%87%BA%E7%8E%B0%E8%BF%99%E7%A7%8D%E6%84%9F%E8%A7%89%E8%B6%8A%E5%BC%BA%E7%83%88%E8%B6%8A%E9%95%BF%E5%AF%BF%23&t=31&band_rank=35&Refer=top) 96753
@@ -58,6 +58,11 @@
 1. [高圆圆演高段位恶女](https://s.weibo.com/weibo?q=%E9%AB%98%E5%9C%86%E5%9C%86%E6%BC%94%E9%AB%98%E6%AE%B5%E4%BD%8D%E6%81%B6%E5%A5%B3&t=31&band_rank=48&Refer=top) 76702
 1. [樊振东给孙颖莎签名](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%BB%99%E5%AD%99%E9%A2%96%E8%8E%8E%E7%AD%BE%E5%90%8D%23&t=31&band_rank=49&Refer=top) 76701
 1. [金韩彬直播](https://s.weibo.com/weibo?q=%23%E9%87%91%E9%9F%A9%E5%BD%AC%E7%9B%B4%E6%92%AD%23&t=31&band_rank=50&Refer=top) 76690
+1. [芭莎滕王阁晚宴](https://s.weibo.com/weibo?q=%23%E8%8A%AD%E8%8E%8E%E6%BB%95%E7%8E%8B%E9%98%81%E6%99%9A%E5%AE%B4%23&t=31&band_rank=28&Refer=top) 64389
+1. [丁禹兮演技](https://s.weibo.com/weibo?q=%E4%B8%81%E7%A6%B9%E5%85%AE%E6%BC%94%E6%8A%80&t=31&band_rank=36&Refer=top) 45842
+1. [新日之坠](https://s.weibo.com/weibo?q=%E6%96%B0%E6%97%A5%E4%B9%8B%E5%9D%A0&t=31&band_rank=40&Refer=top) 42393
+1. [Bin哥没骗我们](https://s.weibo.com/weibo?q=%23Bin%E5%93%A5%E6%B2%A1%E9%AA%97%E6%88%91%E4%BB%AC%23&t=31&band_rank=45&Refer=top) 38137
+1. [贾一凡苏杯vlog](https://s.weibo.com/weibo?q=%E8%B4%BE%E4%B8%80%E5%87%A1%E8%8B%8F%E6%9D%AFvlog&t=31&band_rank=48&Refer=top) 35889
 <!-- END -->
 
 历史归档 [./archives](./archives)
