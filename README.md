@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-05-13 02:30:24.188722 
+最后更新时间 2025-05-13 03:18:13.533278 
 1. [雪碧悄悄换了配方](https://s.weibo.com/weibo?q=%23%E9%9B%AA%E7%A2%A7%E6%82%84%E6%82%84%E6%8D%A2%E4%BA%86%E9%85%8D%E6%96%B9%23&t=31&band_rank=1&Refer=top) 1042908
 1. [SK](https://s.weibo.com/weibo?q=SK&t=31&band_rank=1&Refer=top) 540377
 1. [中美相互24%关税90天内暂停实施](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E7%9B%B8%E4%BA%9224%25%E5%85%B3%E7%A8%8E90%E5%A4%A9%E5%86%85%E6%9A%82%E5%81%9C%E5%AE%9E%E6%96%BD%23&t=31&band_rank=2&Refer=top) 481029
@@ -67,6 +67,7 @@
 1. [派出所回应成都一家三口溺水事故](https://s.weibo.com/weibo?q=%23%E6%B4%BE%E5%87%BA%E6%89%80%E5%9B%9E%E5%BA%94%E6%88%90%E9%83%BD%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E6%BA%BA%E6%B0%B4%E4%BA%8B%E6%95%85%23&t=31&band_rank=35&Refer=top) 52160
 1. [单依纯歌手经纪人是郑方一](https://s.weibo.com/weibo?q=%23%E5%8D%95%E4%BE%9D%E7%BA%AF%E6%AD%8C%E6%89%8B%E7%BB%8F%E7%BA%AA%E4%BA%BA%E6%98%AF%E9%83%91%E6%96%B9%E4%B8%80%23&t=31&band_rank=47&Refer=top) 42961
 1. [04年男子拒服兵役受8项惩戒](https://s.weibo.com/weibo?q=%2304%E5%B9%B4%E7%94%B7%E5%AD%90%E6%8B%92%E6%9C%8D%E5%85%B5%E5%BD%B9%E5%8F%978%E9%A1%B9%E6%83%A9%E6%88%92%23&t=31&band_rank=31&Refer=top) 36739
+1. [中美声明点燃全球乐观情绪](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%A3%B0%E6%98%8E%E7%82%B9%E7%87%83%E5%85%A8%E7%90%83%E4%B9%90%E8%A7%82%E6%83%85%E7%BB%AA%23&t=31&band_rank=23&Refer=top) 28073
 1. [克拉盘](https://s.weibo.com/weibo?q=%E5%85%8B%E6%8B%89%E7%9B%98&t=31&band_rank=48&Refer=top) 22491
 <!-- END -->
 
