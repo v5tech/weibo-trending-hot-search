@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-05-14 01:19:45.528620 
+最后更新时间 2025-05-14 02:30:21.594354 
 1. [夫妻俩制假币每天印多少花多少](https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E4%BF%A9%E5%88%B6%E5%81%87%E5%B8%81%E6%AF%8F%E5%A4%A9%E5%8D%B0%E5%A4%9A%E5%B0%91%E8%8A%B1%E5%A4%9A%E5%B0%91%23&t=31&band_rank=1&Refer=top) 998525
 1. [女子拔完智齿头痛难忍嘴里竟有根针](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%8B%94%E5%AE%8C%E6%99%BA%E9%BD%BF%E5%A4%B4%E7%97%9B%E9%9A%BE%E5%BF%8D%E5%98%B4%E9%87%8C%E7%AB%9F%E6%9C%89%E6%A0%B9%E9%92%88%23&t=31&band_rank=2&Refer=top) 398525
 1. [外国航司狂接中国游流量](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%9B%BD%E8%88%AA%E5%8F%B8%E7%8B%82%E6%8E%A5%E4%B8%AD%E5%9B%BD%E6%B8%B8%E6%B5%81%E9%87%8F%23&t=31&band_rank=3&Refer=top) 324976
@@ -37,6 +37,7 @@
 1. [天蝎座最大的软肋](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E8%9D%8E%E5%BA%A7%E6%9C%80%E5%A4%A7%E7%9A%84%E8%BD%AF%E8%82%8B%23&t=31&band_rank=26&Refer=top) 112066
 1. [为什么我们的衣服越来越难买了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E4%BB%AC%E7%9A%84%E8%A1%A3%E6%9C%8D%E8%B6%8A%E6%9D%A5%E8%B6%8A%E9%9A%BE%E4%B9%B0%E4%BA%86%23&t=31&band_rank=27&Refer=top) 107945
 1. [邓为五大销售登顶](https://s.weibo.com/weibo?q=%23%E9%82%93%E4%B8%BA%E4%BA%94%E5%A4%A7%E9%94%80%E5%94%AE%E7%99%BB%E9%A1%B6%23&t=31&band_rank=28&Refer=top) 106968
+1. [盖茨称美禁令让中国在各领域全速发展](https://s.weibo.com/weibo?q=%23%E7%9B%96%E8%8C%A8%E7%A7%B0%E7%BE%8E%E7%A6%81%E4%BB%A4%E8%AE%A9%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%90%84%E9%A2%86%E5%9F%9F%E5%85%A8%E9%80%9F%E5%8F%91%E5%B1%95%23&t=31&band_rank=31&Refer=top) 102317
 1. [最早不婚族自梳女](https://s.weibo.com/weibo?q=%23%E6%9C%80%E6%97%A9%E4%B8%8D%E5%A9%9A%E6%97%8F%E8%87%AA%E6%A2%B3%E5%A5%B3%23&t=31&band_rank=29&Refer=top) 95407
 1. [医生辟谣生理期不能吃冰不能吃辣](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E8%BE%9F%E8%B0%A3%E7%94%9F%E7%90%86%E6%9C%9F%E4%B8%8D%E8%83%BD%E5%90%83%E5%86%B0%E4%B8%8D%E8%83%BD%E5%90%83%E8%BE%A3%23&t=31&band_rank=30&Refer=top) 94926
 1. [调整对原产美国的进口商品加征关税](https://s.weibo.com/weibo?q=%23%E8%B0%83%E6%95%B4%E5%AF%B9%E5%8E%9F%E4%BA%A7%E7%BE%8E%E5%9B%BD%E7%9A%84%E8%BF%9B%E5%8F%A3%E5%95%86%E5%93%81%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E%23&t=31&band_rank=32&Refer=top) 92193
@@ -50,6 +51,7 @@
 1. [戛纳](https://s.weibo.com/weibo?q=%23%E6%88%9B%E7%BA%B3%23&t=31&band_rank=20&Refer=top) 83263
 1. [墨西哥市长候选人直播遭枪杀](https://s.weibo.com/weibo?q=%23%E5%A2%A8%E8%A5%BF%E5%93%A5%E5%B8%82%E9%95%BF%E5%80%99%E9%80%89%E4%BA%BA%E7%9B%B4%E6%92%AD%E9%81%AD%E6%9E%AA%E6%9D%80%23&t=31&band_rank=40&Refer=top) 80011
 1. [藏海传预告片上线](https://s.weibo.com/weibo?q=%23%E8%97%8F%E6%B5%B7%E4%BC%A0%E9%A2%84%E5%91%8A%E7%89%87%E4%B8%8A%E7%BA%BF%23&t=31&band_rank=41&Refer=top) 79350
+1. [中国始终做拉美和加勒比国家的好朋友](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A7%8B%E7%BB%88%E5%81%9A%E6%8B%89%E7%BE%8E%E5%92%8C%E5%8A%A0%E5%8B%92%E6%AF%94%E5%9B%BD%E5%AE%B6%E7%9A%84%E5%A5%BD%E6%9C%8B%E5%8F%8B%23&t=31&band_rank=10&Refer=top) 77410
 1. [重庆一高层小区起火殃及多家住户](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E4%B8%80%E9%AB%98%E5%B1%82%E5%B0%8F%E5%8C%BA%E8%B5%B7%E7%81%AB%E6%AE%83%E5%8F%8A%E5%A4%9A%E5%AE%B6%E4%BD%8F%E6%88%B7%23&t=31&band_rank=42&Refer=top) 77227
 1. [河南10名干部培训期违规吃喝被处置](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%9710%E5%90%8D%E5%B9%B2%E9%83%A8%E5%9F%B9%E8%AE%AD%E6%9C%9F%E8%BF%9D%E8%A7%84%E5%90%83%E5%96%9D%E8%A2%AB%E5%A4%84%E7%BD%AE%23&t=31&band_rank=43&Refer=top) 75433
 1. [邱贻可说陈玘养猪没活几个](https://s.weibo.com/weibo?q=%23%E9%82%B1%E8%B4%BB%E5%8F%AF%E8%AF%B4%E9%99%88%E7%8E%98%E5%85%BB%E7%8C%AA%E6%B2%A1%E6%B4%BB%E5%87%A0%E4%B8%AA%23&t=31&band_rank=44&Refer=top) 74987
@@ -59,12 +61,15 @@
 1. [卖便宜零食还是一门好生意吗](https://s.weibo.com/weibo?q=%23%E5%8D%96%E4%BE%BF%E5%AE%9C%E9%9B%B6%E9%A3%9F%E8%BF%98%E6%98%AF%E4%B8%80%E9%97%A8%E5%A5%BD%E7%94%9F%E6%84%8F%E5%90%97%23&t=31&band_rank=48&Refer=top) 68265
 1. [北京冰雹好大](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%86%B0%E9%9B%B9%E5%A5%BD%E5%A4%A7%23&t=31&band_rank=49&Refer=top) 64819
 1. [邱贻可女儿问有没有捡球培训班](https://s.weibo.com/weibo?q=%23%E9%82%B1%E8%B4%BB%E5%8F%AF%E5%A5%B3%E5%84%BF%E9%97%AE%E6%9C%89%E6%B2%A1%E6%9C%89%E6%8D%A1%E7%90%83%E5%9F%B9%E8%AE%AD%E7%8F%AD%23&t=31&band_rank=50&Refer=top) 60670
-1. [盖茨称美禁令让中国在各领域全速发展](https://s.weibo.com/weibo?q=%23%E7%9B%96%E8%8C%A8%E7%A7%B0%E7%BE%8E%E7%A6%81%E4%BB%A4%E8%AE%A9%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%90%84%E9%A2%86%E5%9F%9F%E5%85%A8%E9%80%9F%E5%8F%91%E5%B1%95%23&t=31&band_rank=31&Refer=top) 56928
 1. [陕西首富范代娣夫妇商业版图盘点](https://s.weibo.com/weibo?q=%23%E9%99%95%E8%A5%BF%E9%A6%96%E5%AF%8C%E8%8C%83%E4%BB%A3%E5%A8%A3%E5%A4%AB%E5%A6%87%E5%95%86%E4%B8%9A%E7%89%88%E5%9B%BE%E7%9B%98%E7%82%B9%23&t=31&band_rank=35&Refer=top) 55592
 1. [原神塔利雅](https://s.weibo.com/weibo?q=%E5%8E%9F%E7%A5%9E%E5%A1%94%E5%88%A9%E9%9B%85&t=31&band_rank=40&Refer=top) 50495
 1. [官方通报珠海发生旋挖桩机倾倒事件](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E7%8F%A0%E6%B5%B7%E5%8F%91%E7%94%9F%E6%97%8B%E6%8C%96%E6%A1%A9%E6%9C%BA%E5%80%BE%E5%80%92%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=42&Refer=top) 49453
 1. [沪上阿姨鞠婧祎](https://s.weibo.com/weibo?q=%23%E6%B2%AA%E4%B8%8A%E9%98%BF%E5%A7%A8%E9%9E%A0%E5%A9%A7%E7%A5%8E%23&t=31&band_rank=47&Refer=top) 43026
 1. [浪姐](https://s.weibo.com/weibo?q=%E6%B5%AA%E5%A7%90&t=31&band_rank=50&Refer=top) 40236
+1. [折腰腾讯站内热度值破23000](https://s.weibo.com/weibo?q=%E6%8A%98%E8%85%B0%E8%85%BE%E8%AE%AF%E7%AB%99%E5%86%85%E7%83%AD%E5%BA%A6%E5%80%BC%E7%A0%B423000&t=31&band_rank=39&Refer=top) 25079
+1. [iG战胜JDG](https://s.weibo.com/weibo?q=%23iG%E6%88%98%E8%83%9CJDG%23&t=31&band_rank=40&Refer=top) 24918
+1. [刘诗诗长沙线下活动](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E9%95%BF%E6%B2%99%E7%BA%BF%E4%B8%8B%E6%B4%BB%E5%8A%A8%23&t=31&band_rank=45&Refer=top) 23406
+1. [韩彩英45岁状态](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%BD%A9%E8%8B%B145%E5%B2%81%E7%8A%B6%E6%80%81%23&t=31&band_rank=48&Refer=top) 22500
 <!-- END -->
 
 历史归档 [./archives](./archives)
