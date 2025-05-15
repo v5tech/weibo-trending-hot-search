@@ -19,6 +19,10 @@
     "url": "https://s.weibo.com/weibo?q=%234%E5%8A%A04%E9%80%9A%E6%8A%A5%E8%AF%81%E6%98%8E%E6%B2%A1%E4%BA%BA%E8%83%BD%E5%8C%85%E5%BA%87%E8%91%A3%E5%B0%8F%E5%A7%90%23&t=31&band_rank=5&Refer=top",
     "hot": 509985
   },
+  "队长": {
+    "url": "https://s.weibo.com/weibo?q=%E9%98%9F%E9%95%BF&t=31&band_rank=8&Refer=top",
+    "hot": 448153
+  },
   "成都5岁女童被碾亡案被告车主发声": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD5%E5%B2%81%E5%A5%B3%E7%AB%A5%E8%A2%AB%E7%A2%BE%E4%BA%A1%E6%A1%88%E8%A2%AB%E5%91%8A%E8%BD%A6%E4%B8%BB%E5%8F%91%E5%A3%B0%23&t=31&band_rank=6&Refer=top",
     "hot": 341538
@@ -26,10 +30,6 @@
   "姜广涛获国赔": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%A7%9C%E5%B9%BF%E6%B6%9B%E8%8E%B7%E5%9B%BD%E8%B5%94%23&t=31&band_rank=7&Refer=top",
     "hot": 340478
-  },
-  "队长": {
-    "url": "https://s.weibo.com/weibo?q=%E9%98%9F%E9%95%BF&t=31&band_rank=8&Refer=top",
-    "hot": 336856
   },
   "肖某事件涉及单位人员正被调查": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%82%96%E6%9F%90%E4%BA%8B%E4%BB%B6%E6%B6%89%E5%8F%8A%E5%8D%95%E4%BD%8D%E4%BA%BA%E5%91%98%E6%AD%A3%E8%A2%AB%E8%B0%83%E6%9F%A5%23&t=31&band_rank=9&Refer=top",
@@ -211,6 +211,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E6%B8%A9%E5%B3%A5%E5%B5%98%E6%88%9B%E7%BA%B3%E7%BA%A2%E6%AF%AF%E9%80%A0%E5%9E%8B%23&t=31&band_rank=30&Refer=top",
     "hot": 81507
   },
+  "母女就餐1小时未动筷老板报警": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%AF%8D%E5%A5%B3%E5%B0%B1%E9%A4%901%E5%B0%8F%E6%97%B6%E6%9C%AA%E5%8A%A8%E7%AD%B7%E8%80%81%E6%9D%BF%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=11&Refer=top",
+    "hot": 70447
+  },
   "折腰雨中戏份太抓马了": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%8A%98%E8%85%B0%E9%9B%A8%E4%B8%AD%E6%88%8F%E4%BB%BD%E5%A4%AA%E6%8A%93%E9%A9%AC%E4%BA%86%23&t=31&band_rank=36&Refer=top",
     "hot": 67807
@@ -230,5 +234,9 @@
   "幽门螺杆菌是胃癌的明确致病因素": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BD%E9%97%A8%E8%9E%BA%E6%9D%86%E8%8F%8C%E6%98%AF%E8%83%83%E7%99%8C%E7%9A%84%E6%98%8E%E7%A1%AE%E8%87%B4%E7%97%85%E5%9B%A0%E7%B4%A0%23&t=31&band_rank=48&Refer=top",
     "hot": 50368
+  },
+  "王鹤棣咸鱼飞升预热": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%92%B8%E9%B1%BC%E9%A3%9E%E5%8D%87%E9%A2%84%E7%83%AD%23&t=31&band_rank=49&Refer=top",
+    "hot": 32212
   }
 }
