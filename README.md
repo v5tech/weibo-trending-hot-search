@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-05-24 03:17:13.328338 
+最后更新时间 2025-05-24 04:23:47.676621 
 1. [歌手排名](https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E6%8E%92%E5%90%8D&t=31&band_rank=1&Refer=top) 2850233
 1. [陈楚生回应高音没声](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A5%9A%E7%94%9F%E5%9B%9E%E5%BA%94%E9%AB%98%E9%9F%B3%E6%B2%A1%E5%A3%B0%23&t=31&band_rank=2&Refer=top) 1248588
 1. [林志炫回应淘汰](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%97%E7%82%AB%E5%9B%9E%E5%BA%94%E6%B7%98%E6%B1%B0%23&t=31&band_rank=26&Refer=top) 914968
@@ -65,6 +65,7 @@
 1. [单依纯回应两场第一](https://s.weibo.com/weibo?q=%23%E5%8D%95%E4%BE%9D%E7%BA%AF%E5%9B%9E%E5%BA%94%E4%B8%A4%E5%9C%BA%E7%AC%AC%E4%B8%80%23&t=31&band_rank=7&Refer=top) 117284
 1. [月薪3万意味着每天能有1000块](https://s.weibo.com/weibo?q=%E6%9C%88%E8%96%AA3%E4%B8%87%E6%84%8F%E5%91%B3%E7%9D%80%E6%AF%8F%E5%A4%A9%E8%83%BD%E6%9C%891000%E5%9D%97&t=31&band_rank=37&Refer=top) 114871
 1. [解压捏捏博主有只猫叫小朋友自称患癌](https://s.weibo.com/weibo?q=%23%E8%A7%A3%E5%8E%8B%E6%8D%8F%E6%8D%8F%E5%8D%9A%E4%B8%BB%E6%9C%89%E5%8F%AA%E7%8C%AB%E5%8F%AB%E5%B0%8F%E6%9C%8B%E5%8F%8B%E8%87%AA%E7%A7%B0%E6%82%A3%E7%99%8C%23&t=31&band_rank=10&Refer=top) 111502
+1. [中国创新成全球经济新机遇](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%88%9B%E6%96%B0%E6%88%90%E5%85%A8%E7%90%83%E7%BB%8F%E6%B5%8E%E6%96%B0%E6%9C%BA%E9%81%87%23&t=31&band_rank=3&Refer=top) 109585
 1. [中国反兴奋剂中心反对增强运动会](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%8F%8D%E5%85%B4%E5%A5%8B%E5%89%82%E4%B8%AD%E5%BF%83%E5%8F%8D%E5%AF%B9%E5%A2%9E%E5%BC%BA%E8%BF%90%E5%8A%A8%E4%BC%9A%23&t=31&band_rank=47&Refer=top) 96483
 1. [美股暴跌前美政界多人精准抛售](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E6%9A%B4%E8%B7%8C%E5%89%8D%E7%BE%8E%E6%94%BF%E7%95%8C%E5%A4%9A%E4%BA%BA%E7%B2%BE%E5%87%86%E6%8A%9B%E5%94%AE%23&t=31&band_rank=48&Refer=top) 96201
 1. [美取消哈佛留学生合法身份行为被叫停](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%8F%96%E6%B6%88%E5%93%88%E4%BD%9B%E7%95%99%E5%AD%A6%E7%94%9F%E5%90%88%E6%B3%95%E8%BA%AB%E4%BB%BD%E8%A1%8C%E4%B8%BA%E8%A2%AB%E5%8F%AB%E5%81%9C%23&t=31&band_rank=50&Refer=top) 95886
@@ -77,6 +78,9 @@
 1. [马嘉祺粉丝 紧张](https://s.weibo.com/weibo?q=%E9%A9%AC%E5%98%89%E7%A5%BA%E7%B2%89%E4%B8%9D%20%E7%B4%A7%E5%BC%A0&t=31&band_rank=41&Refer=top) 28225
 1. [周深穿针引线天赋好强](https://s.weibo.com/weibo?q=%E5%91%A8%E6%B7%B1%E7%A9%BF%E9%92%88%E5%BC%95%E7%BA%BF%E5%A4%A9%E8%B5%8B%E5%A5%BD%E5%BC%BA&t=31&band_rank=46&Refer=top) 28220
 1. [云合](https://s.weibo.com/weibo?q=%E4%BA%91%E5%90%88&t=31&band_rank=47&Refer=top) 28218
+1. [莫雷加德vs户上隼辅](https://s.weibo.com/weibo?q=%23%E8%8E%AB%E9%9B%B7%E5%8A%A0%E5%BE%B7vs%E6%88%B7%E4%B8%8A%E9%9A%BC%E8%BE%85%23&t=31&band_rank=41&Refer=top) 23142
+1. [捏捏 甲醛超标](https://s.weibo.com/weibo?q=%E6%8D%8F%E6%8D%8F%20%E7%94%B2%E9%86%9B%E8%B6%85%E6%A0%87&t=31&band_rank=48&Refer=top) 23130
+1. [王楚钦4比0林昀儒](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A64%E6%AF%940%E6%9E%97%E6%98%80%E5%84%92%23&t=31&band_rank=49&Refer=top) 23129
 <!-- END -->
 
 历史归档 [./archives](./archives)
