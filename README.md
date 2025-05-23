@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-05-24 02:28:48.219397 
+最后更新时间 2025-05-24 03:17:13.328338 
 1. [歌手排名](https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E6%8E%92%E5%90%8D&t=31&band_rank=1&Refer=top) 2850233
 1. [陈楚生回应高音没声](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A5%9A%E7%94%9F%E5%9B%9E%E5%BA%94%E9%AB%98%E9%9F%B3%E6%B2%A1%E5%A3%B0%23&t=31&band_rank=2&Refer=top) 1248588
 1. [林志炫回应淘汰](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%97%E7%82%AB%E5%9B%9E%E5%BA%94%E6%B7%98%E6%B1%B0%23&t=31&band_rank=26&Refer=top) 914968
@@ -38,6 +38,7 @@
 1. [陈楚生 高音没声](https://s.weibo.com/weibo?q=%E9%99%88%E6%A5%9A%E7%94%9F%20%E9%AB%98%E9%9F%B3%E6%B2%A1%E5%A3%B0&t=31&band_rank=28&Refer=top) 178403
 1. [董明珠直播回应开除孟羽童](https://s.weibo.com/weibo?q=%23%E8%91%A3%E6%98%8E%E7%8F%A0%E7%9B%B4%E6%92%AD%E5%9B%9E%E5%BA%94%E5%BC%80%E9%99%A4%E5%AD%9F%E7%BE%BD%E7%AB%A5%23&t=31&band_rank=45&Refer=top) 175378
 1. [孙颖莎4小时赢了2场硬仗](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E4%E5%B0%8F%E6%97%B6%E8%B5%A2%E4%BA%862%E5%9C%BA%E7%A1%AC%E4%BB%97%23&t=31&band_rank=29&Refer=top) 174859
+1. [暴雨暴雨小心暴雨暴雨](https://s.weibo.com/weibo?q=%23%E6%9A%B4%E9%9B%A8%E6%9A%B4%E9%9B%A8%E5%B0%8F%E5%BF%83%E6%9A%B4%E9%9B%A8%E6%9A%B4%E9%9B%A8%23&t=31&band_rank=39&Refer=top) 170154
 1. [6名老人自驾翻车涉事地暂时封山](https://s.weibo.com/weibo?q=%236%E5%90%8D%E8%80%81%E4%BA%BA%E8%87%AA%E9%A9%BE%E7%BF%BB%E8%BD%A6%E6%B6%89%E4%BA%8B%E5%9C%B0%E6%9A%82%E6%97%B6%E5%B0%81%E5%B1%B1%23&t=31&band_rank=30&Refer=top) 168946
 1. [马嘉祺高音稳的](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%98%89%E7%A5%BA%E9%AB%98%E9%9F%B3%E7%A8%B3%E7%9A%84%23&t=31&band_rank=18&Refer=top) 168126
 1. [孙颖莎回应一天8局球](https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E5%9B%9E%E5%BA%94%E4%B8%80%E5%A4%A98%E5%B1%80%E7%90%83&t=31&band_rank=20&Refer=top) 167564
@@ -64,7 +65,6 @@
 1. [单依纯回应两场第一](https://s.weibo.com/weibo?q=%23%E5%8D%95%E4%BE%9D%E7%BA%AF%E5%9B%9E%E5%BA%94%E4%B8%A4%E5%9C%BA%E7%AC%AC%E4%B8%80%23&t=31&band_rank=7&Refer=top) 117284
 1. [月薪3万意味着每天能有1000块](https://s.weibo.com/weibo?q=%E6%9C%88%E8%96%AA3%E4%B8%87%E6%84%8F%E5%91%B3%E7%9D%80%E6%AF%8F%E5%A4%A9%E8%83%BD%E6%9C%891000%E5%9D%97&t=31&band_rank=37&Refer=top) 114871
 1. [解压捏捏博主有只猫叫小朋友自称患癌](https://s.weibo.com/weibo?q=%23%E8%A7%A3%E5%8E%8B%E6%8D%8F%E6%8D%8F%E5%8D%9A%E4%B8%BB%E6%9C%89%E5%8F%AA%E7%8C%AB%E5%8F%AB%E5%B0%8F%E6%9C%8B%E5%8F%8B%E8%87%AA%E7%A7%B0%E6%82%A3%E7%99%8C%23&t=31&band_rank=10&Refer=top) 111502
-1. [暴雨暴雨小心暴雨暴雨](https://s.weibo.com/weibo?q=%23%E6%9A%B4%E9%9B%A8%E6%9A%B4%E9%9B%A8%E5%B0%8F%E5%BF%83%E6%9A%B4%E9%9B%A8%E6%9A%B4%E9%9B%A8%23&t=31&band_rank=39&Refer=top) 109813
 1. [中国反兴奋剂中心反对增强运动会](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%8F%8D%E5%85%B4%E5%A5%8B%E5%89%82%E4%B8%AD%E5%BF%83%E5%8F%8D%E5%AF%B9%E5%A2%9E%E5%BC%BA%E8%BF%90%E5%8A%A8%E4%BC%9A%23&t=31&band_rank=47&Refer=top) 96483
 1. [美股暴跌前美政界多人精准抛售](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E6%9A%B4%E8%B7%8C%E5%89%8D%E7%BE%8E%E6%94%BF%E7%95%8C%E5%A4%9A%E4%BA%BA%E7%B2%BE%E5%87%86%E6%8A%9B%E5%94%AE%23&t=31&band_rank=48&Refer=top) 96201
 1. [美取消哈佛留学生合法身份行为被叫停](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%8F%96%E6%B6%88%E5%93%88%E4%BD%9B%E7%95%99%E5%AD%A6%E7%94%9F%E5%90%88%E6%B3%95%E8%BA%AB%E4%BB%BD%E8%A1%8C%E4%B8%BA%E8%A2%AB%E5%8F%AB%E5%81%9C%23&t=31&band_rank=50&Refer=top) 95886
@@ -73,6 +73,10 @@
 1. [世乒赛赛程](https://s.weibo.com/weibo?q=%E4%B8%96%E4%B9%92%E8%B5%9B%E8%B5%9B%E7%A8%8B&t=31&band_rank=35&Refer=top) 47890
 1. [易烊千玺戛纳生图](https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%88%9B%E7%BA%B3%E7%94%9F%E5%9B%BE%23&t=31&band_rank=43&Refer=top) 46699
 1. [王曼昱说没把美和当作16岁选手](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B1%E8%AF%B4%E6%B2%A1%E6%8A%8A%E7%BE%8E%E5%92%8C%E5%BD%93%E4%BD%9C16%E5%B2%81%E9%80%89%E6%89%8B%23&t=31&band_rank=49&Refer=top) 46564
+1. [天赐的声音](https://s.weibo.com/weibo?q=%E5%A4%A9%E8%B5%90%E7%9A%84%E5%A3%B0%E9%9F%B3&t=31&band_rank=39&Refer=top) 28227
+1. [马嘉祺粉丝 紧张](https://s.weibo.com/weibo?q=%E9%A9%AC%E5%98%89%E7%A5%BA%E7%B2%89%E4%B8%9D%20%E7%B4%A7%E5%BC%A0&t=31&band_rank=41&Refer=top) 28225
+1. [周深穿针引线天赋好强](https://s.weibo.com/weibo?q=%E5%91%A8%E6%B7%B1%E7%A9%BF%E9%92%88%E5%BC%95%E7%BA%BF%E5%A4%A9%E8%B5%8B%E5%A5%BD%E5%BC%BA&t=31&band_rank=46&Refer=top) 28220
+1. [云合](https://s.weibo.com/weibo?q=%E4%BA%91%E5%90%88&t=31&band_rank=47&Refer=top) 28218
 <!-- END -->
 
 历史归档 [./archives](./archives)
