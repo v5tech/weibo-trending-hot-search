@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-05-26 02:27:39.840125 
+最后更新时间 2025-05-26 03:16:22.509581 
 1. [王楚钦冠军](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%86%A0%E5%86%9B%23&t=31&band_rank=1&Refer=top) 959782
 1. [公职人员出差周末自费旅游算违纪吗](https://s.weibo.com/weibo?q=%23%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E5%87%BA%E5%B7%AE%E5%91%A8%E6%9C%AB%E8%87%AA%E8%B4%B9%E6%97%85%E6%B8%B8%E7%AE%97%E8%BF%9D%E7%BA%AA%E5%90%97%23&t=31&band_rank=2&Refer=top) 915101
 1. [美国90%圣诞用品来自中国制造](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD90%25%E5%9C%A3%E8%AF%9E%E7%94%A8%E5%93%81%E6%9D%A5%E8%87%AA%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%23&t=31&band_rank=3&Refer=top) 870343
@@ -80,6 +80,8 @@
 1. [idle匿名纸条](https://s.weibo.com/weibo?q=%23idle%E5%8C%BF%E5%90%8D%E7%BA%B8%E6%9D%A1%23&t=31&band_rank=41&Refer=top) 39587
 1. [王者新增四个主动装备](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E6%96%B0%E5%A2%9E%E5%9B%9B%E4%B8%AA%E4%B8%BB%E5%8A%A8%E8%A3%85%E5%A4%87%23&t=31&band_rank=42&Refer=top) 39587
 1. [KPL温暖的大家庭](https://s.weibo.com/weibo?q=KPL%E6%B8%A9%E6%9A%96%E7%9A%84%E5%A4%A7%E5%AE%B6%E5%BA%AD&t=31&band_rank=49&Refer=top) 39570
+1. [孙颖莎多哈世乒赛胜率百分百](https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E5%A4%9A%E5%93%88%E4%B8%96%E4%B9%92%E8%B5%9B%E8%83%9C%E7%8E%87%E7%99%BE%E5%88%86%E7%99%BE&t=31&band_rank=23&Refer=top) 37931
+1. [王楚钦把自己作为挑战者](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%8A%8A%E8%87%AA%E5%B7%B1%E4%BD%9C%E4%B8%BA%E6%8C%91%E6%88%98%E8%80%85%23&t=31&band_rank=41&Refer=top) 27848
 <!-- END -->
 
 历史归档 [./archives](./archives)
