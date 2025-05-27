@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-05-28 02:29:47.966217 
+最后更新时间 2025-05-28 03:17:28.378130 
 1. [致多人上吐下泻甜品商家已贴封条](https://s.weibo.com/weibo?q=%23%E8%87%B4%E5%A4%9A%E4%BA%BA%E4%B8%8A%E5%90%90%E4%B8%8B%E6%B3%BB%E7%94%9C%E5%93%81%E5%95%86%E5%AE%B6%E5%B7%B2%E8%B4%B4%E5%B0%81%E6%9D%A1%23&t=31&band_rank=1&Refer=top) 913507
 1. [曹氏鸭脖一门店碗底印你像猪一样能吃](https://s.weibo.com/weibo?q=%23%E6%9B%B9%E6%B0%8F%E9%B8%AD%E8%84%96%E4%B8%80%E9%97%A8%E5%BA%97%E7%A2%97%E5%BA%95%E5%8D%B0%E4%BD%A0%E5%83%8F%E7%8C%AA%E4%B8%80%E6%A0%B7%E8%83%BD%E5%90%83%23&t=31&band_rank=2&Refer=top) 762129
 1. [夏收跑出加速度](https://s.weibo.com/weibo?q=%23%E5%A4%8F%E6%94%B6%E8%B7%91%E5%87%BA%E5%8A%A0%E9%80%9F%E5%BA%A6%23&t=31&band_rank=3&Refer=top) 607020
@@ -69,6 +69,7 @@
 1. [庄二不是恶童变好了而是恶童长大了](https://s.weibo.com/weibo?q=%23%E5%BA%84%E4%BA%8C%E4%B8%8D%E6%98%AF%E6%81%B6%E7%AB%A5%E5%8F%98%E5%A5%BD%E4%BA%86%E8%80%8C%E6%98%AF%E6%81%B6%E7%AB%A5%E9%95%BF%E5%A4%A7%E4%BA%86%23&t=31&band_rank=45&Refer=top) 25632
 1. [奇迹](https://s.weibo.com/weibo?q=%E5%A5%87%E8%BF%B9&t=31&band_rank=46&Refer=top) 25382
 1. [藏海传皮影戏](https://s.weibo.com/weibo?q=%23%E8%97%8F%E6%B5%B7%E4%BC%A0%E7%9A%AE%E5%BD%B1%E6%88%8F%23&t=31&band_rank=50&Refer=top) 25034
+1. [特朗普说美军阅兵式将超奥运会](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E7%BE%8E%E5%86%9B%E9%98%85%E5%85%B5%E5%BC%8F%E5%B0%86%E8%B6%85%E5%A5%A5%E8%BF%90%E4%BC%9A%23&t=31&band_rank=47&Refer=top) 18583
 <!-- END -->
 
 历史归档 [./archives](./archives)
