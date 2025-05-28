@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-05-29 02:29:42.984188 
+最后更新时间 2025-05-29 03:18:11.804993 
 1. [国补后iPhone16Pro重回销量第一](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%A1%A5%E5%90%8EiPhone16Pro%E9%87%8D%E5%9B%9E%E9%94%80%E9%87%8F%E7%AC%AC%E4%B8%80%23&t=31&band_rank=1&Refer=top) 912508
 1. [歌手歌单](https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E6%AD%8C%E5%8D%95&t=31&band_rank=2&Refer=top) 705958
 1. [端午气氛组强势上线](https://s.weibo.com/weibo?q=%23%E7%AB%AF%E5%8D%88%E6%B0%94%E6%B0%9B%E7%BB%84%E5%BC%BA%E5%8A%BF%E4%B8%8A%E7%BA%BF%23&t=31&band_rank=3&Refer=top) 647040
@@ -58,16 +58,19 @@
 1. [deepseek](https://s.weibo.com/weibo?q=deepseek&t=31&band_rank=48&Refer=top) 109953
 1. [妈妈幂呀](https://s.weibo.com/weibo?q=%E5%A6%88%E5%A6%88%E5%B9%82%E5%91%80&t=31&band_rank=49&Refer=top) 102283
 1. [折腰弹幕](https://s.weibo.com/weibo?q=%E6%8A%98%E8%85%B0%E5%BC%B9%E5%B9%95&t=31&band_rank=50&Refer=top) 98350
+1. [哈佛6700名在校生需转学或离境](https://s.weibo.com/weibo?q=%23%E5%93%88%E4%BD%9B6700%E5%90%8D%E5%9C%A8%E6%A0%A1%E7%94%9F%E9%9C%80%E8%BD%AC%E5%AD%A6%E6%88%96%E7%A6%BB%E5%A2%83%23&t=31&band_rank=49&Refer=top) 86641
 1. [曼联0比1东盟全明星](https://s.weibo.com/weibo?q=%23%E6%9B%BC%E8%81%940%E6%AF%941%E4%B8%9C%E7%9B%9F%E5%85%A8%E6%98%8E%E6%98%9F%23&t=31&band_rank=30&Refer=top) 75843
 1. [庄大下线](https://s.weibo.com/weibo?q=%23%E5%BA%84%E5%A4%A7%E4%B8%8B%E7%BA%BF%23&t=31&band_rank=35&Refer=top) 67549
 1. [虞书欣谢可寅你俩喝点中药吧](https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%E8%B0%A2%E5%8F%AF%E5%AF%85%E4%BD%A0%E4%BF%A9%E5%96%9D%E7%82%B9%E4%B8%AD%E8%8D%AF%E5%90%A7&t=31&band_rank=44&Refer=top) 52897
 1. [在人间](https://s.weibo.com/weibo?q=%E5%9C%A8%E4%BA%BA%E9%97%B4&t=31&band_rank=47&Refer=top) 51432
 1. [减肥400天身体的变化](https://s.weibo.com/weibo?q=%E5%87%8F%E8%82%A5400%E5%A4%A9%E8%BA%AB%E4%BD%93%E7%9A%84%E5%8F%98%E5%8C%96&t=31&band_rank=49&Refer=top) 51425
+1. [敦促美方切实保障留学生合法正当权益](https://s.weibo.com/weibo?q=%23%E6%95%A6%E4%BF%83%E7%BE%8E%E6%96%B9%E5%88%87%E5%AE%9E%E4%BF%9D%E9%9A%9C%E7%95%99%E5%AD%A6%E7%94%9F%E5%90%88%E6%B3%95%E6%AD%A3%E5%BD%93%E6%9D%83%E7%9B%8A%23&t=31&band_rank=14&Refer=top) 41391
 1. [韦雪回应与男友分手](https://s.weibo.com/weibo?q=%23%E9%9F%A6%E9%9B%AA%E5%9B%9E%E5%BA%94%E4%B8%8E%E7%94%B7%E5%8F%8B%E5%88%86%E6%89%8B%23&t=31&band_rank=27&Refer=top) 33120
 1. [荣耀400价格](https://s.weibo.com/weibo?q=%E8%8D%A3%E8%80%80400%E4%BB%B7%E6%A0%BC&t=31&band_rank=33&Refer=top) 30308
 1. [米卡金属战甲造型](https://s.weibo.com/weibo?q=%23%E7%B1%B3%E5%8D%A1%E9%87%91%E5%B1%9E%E6%88%98%E7%94%B2%E9%80%A0%E5%9E%8B%23&t=31&band_rank=47&Refer=top) 27865
 1. [这个苏泷太贵了](https://s.weibo.com/weibo?q=%E8%BF%99%E4%B8%AA%E8%8B%8F%E6%B3%B7%E5%A4%AA%E8%B4%B5%E4%BA%86&t=31&band_rank=48&Refer=top) 27859
-1. [哈佛6700名在校生需转学或离境](https://s.weibo.com/weibo?q=%23%E5%93%88%E4%BD%9B6700%E5%90%8D%E5%9C%A8%E6%A0%A1%E7%94%9F%E9%9C%80%E8%BD%AC%E5%AD%A6%E6%88%96%E7%A6%BB%E5%A2%83%23&t=31&band_rank=49&Refer=top) 27852
+1. [提拉米苏](https://s.weibo.com/weibo?q=%E6%8F%90%E6%8B%89%E7%B1%B3%E8%8B%8F&t=31&band_rank=38&Refer=top) 22445
+1. [巴黎世家活动大合影](https://s.weibo.com/weibo?q=%E5%B7%B4%E9%BB%8E%E4%B8%96%E5%AE%B6%E6%B4%BB%E5%8A%A8%E5%A4%A7%E5%90%88%E5%BD%B1&t=31&band_rank=46&Refer=top) 22443
 <!-- END -->
 
 历史归档 [./archives](./archives)
