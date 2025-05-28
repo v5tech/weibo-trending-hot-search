@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-05-29 03:18:11.804993 
+最后更新时间 2025-05-29 04:24:19.125452 
 1. [国补后iPhone16Pro重回销量第一](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%A1%A5%E5%90%8EiPhone16Pro%E9%87%8D%E5%9B%9E%E9%94%80%E9%87%8F%E7%AC%AC%E4%B8%80%23&t=31&band_rank=1&Refer=top) 912508
 1. [歌手歌单](https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E6%AD%8C%E5%8D%95&t=31&band_rank=2&Refer=top) 705958
 1. [端午气氛组强势上线](https://s.weibo.com/weibo?q=%23%E7%AB%AF%E5%8D%88%E6%B0%94%E6%B0%9B%E7%BB%84%E5%BC%BA%E5%8A%BF%E4%B8%8A%E7%BA%BF%23&t=31&band_rank=3&Refer=top) 647040
@@ -53,12 +53,12 @@
 1. [王楚钦世乒赛男单仅输4小局](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E4%B8%96%E4%B9%92%E8%B5%9B%E7%94%B7%E5%8D%95%E4%BB%85%E8%BE%934%E5%B0%8F%E5%B1%80%23&t=31&band_rank=43&Refer=top) 118443
 1. [皮筋猴 你个阴人](https://s.weibo.com/weibo?q=%E7%9A%AE%E7%AD%8B%E7%8C%B4%20%E4%BD%A0%E4%B8%AA%E9%98%B4%E4%BA%BA&t=31&band_rank=44&Refer=top) 117922
 1. [王安宇新剧在猎了在猎了](https://s.weibo.com/weibo?q=%E7%8E%8B%E5%AE%89%E5%AE%87%E6%96%B0%E5%89%A7%E5%9C%A8%E7%8C%8E%E4%BA%86%E5%9C%A8%E7%8C%8E%E4%BA%86&t=31&band_rank=45&Refer=top) 117869
+1. [哈佛6700名在校生需转学或离境](https://s.weibo.com/weibo?q=%23%E5%93%88%E4%BD%9B6700%E5%90%8D%E5%9C%A8%E6%A0%A1%E7%94%9F%E9%9C%80%E8%BD%AC%E5%AD%A6%E6%88%96%E7%A6%BB%E5%A2%83%23&t=31&band_rank=49&Refer=top) 117439
 1. [高敏感是一种很珍贵的天赋](https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%95%8F%E6%84%9F%E6%98%AF%E4%B8%80%E7%A7%8D%E5%BE%88%E7%8F%8D%E8%B4%B5%E7%9A%84%E5%A4%A9%E8%B5%8B%23&t=31&band_rank=46&Refer=top) 117114
 1. [在人间热度](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E4%BA%BA%E9%97%B4%E7%83%AD%E5%BA%A6%23&t=31&band_rank=47&Refer=top) 110494
 1. [deepseek](https://s.weibo.com/weibo?q=deepseek&t=31&band_rank=48&Refer=top) 109953
 1. [妈妈幂呀](https://s.weibo.com/weibo?q=%E5%A6%88%E5%A6%88%E5%B9%82%E5%91%80&t=31&band_rank=49&Refer=top) 102283
 1. [折腰弹幕](https://s.weibo.com/weibo?q=%E6%8A%98%E8%85%B0%E5%BC%B9%E5%B9%95&t=31&band_rank=50&Refer=top) 98350
-1. [哈佛6700名在校生需转学或离境](https://s.weibo.com/weibo?q=%23%E5%93%88%E4%BD%9B6700%E5%90%8D%E5%9C%A8%E6%A0%A1%E7%94%9F%E9%9C%80%E8%BD%AC%E5%AD%A6%E6%88%96%E7%A6%BB%E5%A2%83%23&t=31&band_rank=49&Refer=top) 86641
 1. [曼联0比1东盟全明星](https://s.weibo.com/weibo?q=%23%E6%9B%BC%E8%81%940%E6%AF%941%E4%B8%9C%E7%9B%9F%E5%85%A8%E6%98%8E%E6%98%9F%23&t=31&band_rank=30&Refer=top) 75843
 1. [庄大下线](https://s.weibo.com/weibo?q=%23%E5%BA%84%E5%A4%A7%E4%B8%8B%E7%BA%BF%23&t=31&band_rank=35&Refer=top) 67549
 1. [虞书欣谢可寅你俩喝点中药吧](https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%E8%B0%A2%E5%8F%AF%E5%AF%85%E4%BD%A0%E4%BF%A9%E5%96%9D%E7%82%B9%E4%B8%AD%E8%8D%AF%E5%90%A7&t=31&band_rank=44&Refer=top) 52897
@@ -71,6 +71,10 @@
 1. [这个苏泷太贵了](https://s.weibo.com/weibo?q=%E8%BF%99%E4%B8%AA%E8%8B%8F%E6%B3%B7%E5%A4%AA%E8%B4%B5%E4%BA%86&t=31&band_rank=48&Refer=top) 27859
 1. [提拉米苏](https://s.weibo.com/weibo?q=%E6%8F%90%E6%8B%89%E7%B1%B3%E8%8B%8F&t=31&band_rank=38&Refer=top) 22445
 1. [巴黎世家活动大合影](https://s.weibo.com/weibo?q=%E5%B7%B4%E9%BB%8E%E4%B8%96%E5%AE%B6%E6%B4%BB%E5%8A%A8%E5%A4%A7%E5%90%88%E5%BD%B1&t=31&band_rank=46&Refer=top) 22443
+1. [山东高密化工厂爆炸三大原因待查](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E9%AB%98%E5%AF%86%E5%8C%96%E5%B7%A5%E5%8E%82%E7%88%86%E7%82%B8%E4%B8%89%E5%A4%A7%E5%8E%9F%E5%9B%A0%E5%BE%85%E6%9F%A5%23&t=31&band_rank=43&Refer=top) 14689
+1. [种地吧](https://s.weibo.com/weibo?q=%E7%A7%8D%E5%9C%B0%E5%90%A7&t=31&band_rank=44&Refer=top) 14688
+1. [68岁老汉称在等国家发的老婆](https://s.weibo.com/weibo?q=%2368%E5%B2%81%E8%80%81%E6%B1%89%E7%A7%B0%E5%9C%A8%E7%AD%89%E5%9B%BD%E5%AE%B6%E5%8F%91%E7%9A%84%E8%80%81%E5%A9%86%23&t=31&band_rank=45&Refer=top) 14687
+1. [102岁老人误把窗户当门悬挂三楼](https://s.weibo.com/weibo?q=%23102%E5%B2%81%E8%80%81%E4%BA%BA%E8%AF%AF%E6%8A%8A%E7%AA%97%E6%88%B7%E5%BD%93%E9%97%A8%E6%82%AC%E6%8C%82%E4%B8%89%E6%A5%BC%23&t=31&band_rank=47&Refer=top) 14686
 <!-- END -->
 
 历史归档 [./archives](./archives)
