@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-05-31 04:23:56.343645 
+最后更新时间 2025-05-31 05:19:41.953172 
 1. [单依纯失误](https://s.weibo.com/weibo?q=%E5%8D%95%E4%BE%9D%E7%BA%AF%E5%A4%B1%E8%AF%AF&t=31&band_rank=1&Refer=top) 1167037
 1. [断眉今天最好笑的其实是](https://s.weibo.com/weibo?q=%E6%96%AD%E7%9C%89%E4%BB%8A%E5%A4%A9%E6%9C%80%E5%A5%BD%E7%AC%91%E7%9A%84%E5%85%B6%E5%AE%9E%E6%98%AF&t=31&band_rank=2&Refer=top) 1029232
 1. [双节消费市场buff叠满](https://s.weibo.com/weibo?q=%23%E5%8F%8C%E8%8A%82%E6%B6%88%E8%B4%B9%E5%B8%82%E5%9C%BAbuff%E5%8F%A0%E6%BB%A1%23&t=31&band_rank=3&Refer=top) 623302
@@ -66,6 +66,7 @@
 1. [奔跑吧替莫离官宣丞磊](https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A7%E6%9B%BF%E8%8E%AB%E7%A6%BB%E5%AE%98%E5%AE%A3%E4%B8%9E%E7%A3%8A%23&t=31&band_rank=44&Refer=top) 76779
 1. [五个字说端午](https://s.weibo.com/weibo?q=%23%E4%BA%94%E4%B8%AA%E5%AD%97%E8%AF%B4%E7%AB%AF%E5%8D%88%23&t=31&band_rank=48&Refer=top) 76761
 1. [碟中谍8](https://s.weibo.com/weibo?q=%E7%A2%9F%E4%B8%AD%E8%B0%8D8&t=31&band_rank=50&Refer=top) 76757
+1. [荷兰在售一款软糖检出大麻](https://s.weibo.com/weibo?q=%23%E8%8D%B7%E5%85%B0%E5%9C%A8%E5%94%AE%E4%B8%80%E6%AC%BE%E8%BD%AF%E7%B3%96%E6%A3%80%E5%87%BA%E5%A4%A7%E9%BA%BB%23&t=31&band_rank=25&Refer=top) 40541
 1. [她只是个副人格但设定是爱你](https://s.weibo.com/weibo?q=%23%E5%A5%B9%E5%8F%AA%E6%98%AF%E4%B8%AA%E5%89%AF%E4%BA%BA%E6%A0%BC%E4%BD%86%E8%AE%BE%E5%AE%9A%E6%98%AF%E7%88%B1%E4%BD%A0%23&t=31&band_rank=33&Refer=top) 35565
 1. [林峯堂妹回应破产传闻](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%B3%AF%E5%A0%82%E5%A6%B9%E5%9B%9E%E5%BA%94%E7%A0%B4%E4%BA%A7%E4%BC%A0%E9%97%BB%23&t=31&band_rank=36&Refer=top) 35548
 1. [陈楚生轻描淡写松弛感](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A5%9A%E7%94%9F%E8%BD%BB%E6%8F%8F%E6%B7%A1%E5%86%99%E6%9D%BE%E5%BC%9B%E6%84%9F%23&t=31&band_rank=39&Refer=top) 35525
@@ -75,9 +76,10 @@
 1. [单依纯第二](https://s.weibo.com/weibo?q=%E5%8D%95%E4%BE%9D%E7%BA%AF%E7%AC%AC%E4%BA%8C&t=31&band_rank=28&Refer=top) 29140
 1. [专家谈大学生恋爱意愿为何走低](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E8%B0%88%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%81%8B%E7%88%B1%E6%84%8F%E6%84%BF%E4%B8%BA%E4%BD%95%E8%B5%B0%E4%BD%8E%23&t=31&band_rank=39&Refer=top) 24853
 1. [魏大勋杨凯之剃头vlog](https://s.weibo.com/weibo?q=%E9%AD%8F%E5%A4%A7%E5%8B%8B%E6%9D%A8%E5%87%AF%E4%B9%8B%E5%89%83%E5%A4%B4vlog&t=31&band_rank=48&Refer=top) 24852
-1. [荷兰在售一款软糖检出大麻](https://s.weibo.com/weibo?q=%23%E8%8D%B7%E5%85%B0%E5%9C%A8%E5%94%AE%E4%B8%80%E6%AC%BE%E8%BD%AF%E7%B3%96%E6%A3%80%E5%87%BA%E5%A4%A7%E9%BA%BB%23&t=31&band_rank=25&Refer=top) 21555
-1. [海龟汤](https://s.weibo.com/weibo?q=%E6%B5%B7%E9%BE%9F%E6%B1%A4&t=31&band_rank=39&Refer=top) 16510
-1. [当地回应瓜农10万斤西瓜烂地里](https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94%E7%93%9C%E5%86%9C10%E4%B8%87%E6%96%A4%E8%A5%BF%E7%93%9C%E7%83%82%E5%9C%B0%E9%87%8C%23&t=31&band_rank=40&Refer=top) 15798
+1. [聊城大学龙舟队不愧是北方门面](https://s.weibo.com/weibo?q=%23%E8%81%8A%E5%9F%8E%E5%A4%A7%E5%AD%A6%E9%BE%99%E8%88%9F%E9%98%9F%E4%B8%8D%E6%84%A7%E6%98%AF%E5%8C%97%E6%96%B9%E9%97%A8%E9%9D%A2%23&t=31&band_rank=30&Refer=top) 19873
+1. [当地回应瓜农10万斤西瓜烂地里](https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94%E7%93%9C%E5%86%9C10%E4%B8%87%E6%96%A4%E8%A5%BF%E7%93%9C%E7%83%82%E5%9C%B0%E9%87%8C%23&t=31&band_rank=40&Refer=top) 19009
+1. [主人回应河北狗王外网爆火](https://s.weibo.com/weibo?q=%23%E4%B8%BB%E4%BA%BA%E5%9B%9E%E5%BA%94%E6%B2%B3%E5%8C%97%E7%8B%97%E7%8E%8B%E5%A4%96%E7%BD%91%E7%88%86%E7%81%AB%23&t=31&band_rank=48&Refer=top) 16635
+1. [海龟汤](https://s.weibo.com/weibo?q=%E6%B5%B7%E9%BE%9F%E6%B1%A4&t=31&band_rank=39&Refer=top) 16633
 1. [微博电影之夜纪念票](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E7%94%B5%E5%BD%B1%E4%B9%8B%E5%A4%9C%E7%BA%AA%E5%BF%B5%E7%A5%A8%23&t=31&band_rank=50&Refer=top) 14563
 <!-- END -->
 
