@@ -83,6 +83,10 @@
     "url": "https://s.weibo.com/weibo?q=%238%E6%97%AC%E8%80%81%E4%BA%BA105%E4%B8%87%E4%B9%B0%E5%9F%BA%E9%87%91%E4%BA%8F30%E4%B8%87%E7%8A%B6%E5%91%8A%E9%93%B6%E8%A1%8C%23&t=31&band_rank=19&Refer=top",
     "hot": 155922
   },
+  "何秋亊成都演唱会": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%A7%8B%E4%BA%8A%E6%88%90%E9%83%BD%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=24&Refer=top",
+    "hot": 138738
+  },
   "迪士尼打架2人互有皮外伤": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%BF%AA%E5%A3%AB%E5%B0%BC%E6%89%93%E6%9E%B62%E4%BA%BA%E4%BA%92%E6%9C%89%E7%9A%AE%E5%A4%96%E4%BC%A4%23&t=31&band_rank=20&Refer=top",
     "hot": 124171
@@ -175,10 +179,6 @@
     "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%20%E5%9C%B0%E9%9C%87%E9%A2%84%E8%AD%A6&t=31&band_rank=44&Refer=top",
     "hot": 77734
   },
-  "何秋亊成都演唱会": {
-    "url": "https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%A7%8B%E4%BA%8A%E6%88%90%E9%83%BD%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=24&Refer=top",
-    "hot": 76195
-  },
   "藏海传灯塔分时破千万": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%97%8F%E6%B5%B7%E4%BC%A0%E7%81%AF%E5%A1%94%E5%88%86%E6%97%B6%E7%A0%B4%E5%8D%83%E4%B8%87%23&t=31&band_rank=45&Refer=top",
     "hot": 74621
@@ -222,5 +222,25 @@
   "周深的脑洞": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E7%9A%84%E8%84%91%E6%B4%9E%23&t=31&band_rank=49&Refer=top",
     "hot": 50457
+  },
+  "陶喆福州": {
+    "url": "https://s.weibo.com/weibo?q=%E9%99%B6%E5%96%86%E7%A6%8F%E5%B7%9E&t=31&band_rank=36&Refer=top",
+    "hot": 28116
+  },
+  "无限超越班": {
+    "url": "https://s.weibo.com/weibo?q=%E6%97%A0%E9%99%90%E8%B6%85%E8%B6%8A%E7%8F%AD&t=31&band_rank=39&Refer=top",
+    "hot": 27843
+  },
+  "张杰演唱会": {
+    "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=46&Refer=top",
+    "hot": 25689
+  },
+  "李昊 微光": {
+    "url": "https://s.weibo.com/weibo?q=%E6%9D%8E%E6%98%8A%20%E5%BE%AE%E5%85%89&t=31&band_rank=48&Refer=top",
+    "hot": 25685
+  },
+  "北京奇遇海音乐节": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%A5%87%E9%81%87%E6%B5%B7%E9%9F%B3%E4%B9%90%E8%8A%82%23&t=31&band_rank=50&Refer=top",
+    "hot": 25682
   }
 }
