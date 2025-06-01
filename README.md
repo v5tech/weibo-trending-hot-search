@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-06-02 05:19:21.858991 
+最后更新时间 2025-06-02 06:20:23.811836 
 1. [上海警方通报迪士尼打架事件](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E8%BF%AA%E5%A3%AB%E5%B0%BC%E6%89%93%E6%9E%B6%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=1&Refer=top) 2248558
 1. [周深让你穿雨衣没让你穿这款](https://s.weibo.com/weibo?q=%E5%91%A8%E6%B7%B1%E8%AE%A9%E4%BD%A0%E7%A9%BF%E9%9B%A8%E8%A1%A3%E6%B2%A1%E8%AE%A9%E4%BD%A0%E7%A9%BF%E8%BF%99%E6%AC%BE&t=31&band_rank=2&Refer=top) 647040
 1. [非遗与童趣撞个满怀](https://s.weibo.com/weibo?q=%23%E9%9D%9E%E9%81%97%E4%B8%8E%E7%AB%A5%E8%B6%A3%E6%92%9E%E4%B8%AA%E6%BB%A1%E6%80%80%23&t=31&band_rank=3&Refer=top) 491235
@@ -40,6 +40,7 @@
 1. [藏海传](https://s.weibo.com/weibo?q=%E8%97%8F%E6%B5%B7%E4%BC%A0&t=31&band_rank=28&Refer=top) 111488
 1. [王楚钦说等我们见面一起玩](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%AF%B4%E7%AD%89%E6%88%91%E4%BB%AC%E8%A7%81%E9%9D%A2%E4%B8%80%E8%B5%B7%E7%8E%A9%23&t=31&band_rank=29&Refer=top) 109208
 1. [潘玮柏帮陈小春军训](https://s.weibo.com/weibo?q=%E6%BD%98%E7%8E%AE%E6%9F%8F%E5%B8%AE%E9%99%88%E5%B0%8F%E6%98%A5%E5%86%9B%E8%AE%AD&t=31&band_rank=31&Refer=top) 107200
+1. [美国民众开始不愿花钱了](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%B0%91%E4%BC%97%E5%BC%80%E5%A7%8B%E4%B8%8D%E6%84%BF%E8%8A%B1%E9%92%B1%E4%BA%86%23&t=31&band_rank=47&Refer=top) 104829
 1. [超5万人参与所谓医疗投资被骗近十亿](https://s.weibo.com/weibo?q=%23%E8%B6%855%E4%B8%87%E4%BA%BA%E5%8F%82%E4%B8%8E%E6%89%80%E8%B0%93%E5%8C%BB%E7%96%97%E6%8A%95%E8%B5%84%E8%A2%AB%E9%AA%97%E8%BF%91%E5%8D%81%E4%BA%BF%23&t=31&band_rank=32&Refer=top) 104606
 1. [学校换掉下课铃高三学生哭成泪人](https://s.weibo.com/weibo?q=%23%E5%AD%A6%E6%A0%A1%E6%8D%A2%E6%8E%89%E4%B8%8B%E8%AF%BE%E9%93%83%E9%AB%98%E4%B8%89%E5%AD%A6%E7%94%9F%E5%93%AD%E6%88%90%E6%B3%AA%E4%BA%BA%23&t=31&band_rank=33&Refer=top) 100960
 1. [樊振东跟首冠地萨尔布吕肯再续前缘](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E8%B7%9F%E9%A6%96%E5%86%A0%E5%9C%B0%E8%90%A8%E5%B0%94%E5%B8%83%E5%90%95%E8%82%AF%E5%86%8D%E7%BB%AD%E5%89%8D%E7%BC%98%23&t=31&band_rank=34&Refer=top) 97560
@@ -71,8 +72,10 @@
 1. [李昊 微光](https://s.weibo.com/weibo?q=%E6%9D%8E%E6%98%8A%20%E5%BE%AE%E5%85%89&t=31&band_rank=48&Refer=top) 25685
 1. [北京奇遇海音乐节](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%A5%87%E9%81%87%E6%B5%B7%E9%9F%B3%E4%B9%90%E8%8A%82%23&t=31&band_rank=50&Refer=top) 25682
 1. [林俊杰来了演员3都得背对背吵架](https://s.weibo.com/weibo?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%E6%9D%A5%E4%BA%86%E6%BC%94%E5%91%983%E9%83%BD%E5%BE%97%E8%83%8C%E5%AF%B9%E8%83%8C%E5%90%B5%E6%9E%B6&t=31&band_rank=48&Refer=top) 21816
-1. [祝你成为快乐的大人](https://s.weibo.com/weibo?q=%23%E7%A5%9D%E4%BD%A0%E6%88%90%E4%B8%BA%E5%BF%AB%E4%B9%90%E7%9A%84%E5%A4%A7%E4%BA%BA%23&t=31&band_rank=46&Refer=top) 17624
-1. [美国民众开始不愿花钱了](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%B0%91%E4%BC%97%E5%BC%80%E5%A7%8B%E4%B8%8D%E6%84%BF%E8%8A%B1%E9%92%B1%E4%BA%86%23&t=31&band_rank=47&Refer=top) 17618
+1. [加沙孩子说感觉在战火中活了100年](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%99%E5%AD%A9%E5%AD%90%E8%AF%B4%E6%84%9F%E8%A7%89%E5%9C%A8%E6%88%98%E7%81%AB%E4%B8%AD%E6%B4%BB%E4%BA%86100%E5%B9%B4%23&t=31&band_rank=35&Refer=top) 19933
+1. [缺爱的人害怕进入亲密关系](https://s.weibo.com/weibo?q=%23%E7%BC%BA%E7%88%B1%E7%9A%84%E4%BA%BA%E5%AE%B3%E6%80%95%E8%BF%9B%E5%85%A5%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB%23&t=31&band_rank=39&Refer=top) 19066
+1. [奴奴荼荼咬唇吻](https://s.weibo.com/weibo?q=%23%E5%A5%B4%E5%A5%B4%E8%8D%BC%E8%8D%BC%E5%92%AC%E5%94%87%E5%90%BB%23&t=31&band_rank=47&Refer=top) 18099
+1. [祝你成为快乐的大人](https://s.weibo.com/weibo?q=%23%E7%A5%9D%E4%BD%A0%E6%88%90%E4%B8%BA%E5%BF%AB%E4%B9%90%E7%9A%84%E5%A4%A7%E4%BA%BA%23&t=31&band_rank=46&Refer=top) 18096
 1. [俄两座桥梁遭破坏事件被定性为恐袭](https://s.weibo.com/weibo?q=%23%E4%BF%84%E4%B8%A4%E5%BA%A7%E6%A1%A5%E6%A2%81%E9%81%AD%E7%A0%B4%E5%9D%8F%E4%BA%8B%E4%BB%B6%E8%A2%AB%E5%AE%9A%E6%80%A7%E4%B8%BA%E6%81%90%E8%A2%AD%23&t=31&band_rank=48&Refer=top) 17607
 1. [斯瓦泰克2比1莱巴金娜](https://s.weibo.com/weibo?q=%23%E6%96%AF%E7%93%A6%E6%B3%B0%E5%85%8B2%E6%AF%941%E8%8E%B1%E5%B7%B4%E9%87%91%E5%A8%9C%23&t=31&band_rank=49&Refer=top) 17604
 <!-- END -->
