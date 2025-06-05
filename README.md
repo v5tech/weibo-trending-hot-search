@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-06-06 01:16:44.159757 
+最后更新时间 2025-06-06 03:15:51.988904 
 1. [国足无缘2026世界杯](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3%E6%97%A0%E7%BC%982026%E4%B8%96%E7%95%8C%E6%9D%AF%23&t=31&band_rank=1&Refer=top) 4286402
 1. [国足vs印尼](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3vs%E5%8D%B0%E5%B0%BC%23&t=31&band_rank=2&Refer=top) 1333074
 1. [有一种震撼叫祖国山河如画](https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%B8%80%E7%A7%8D%E9%9C%87%E6%92%BC%E5%8F%AB%E7%A5%96%E5%9B%BD%E5%B1%B1%E6%B2%B3%E5%A6%82%E7%94%BB%23&t=31&band_rank=3&Refer=top) 971620
@@ -49,6 +49,7 @@
 1. [国足世预赛出局](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3%E4%B8%96%E9%A2%84%E8%B5%9B%E5%87%BA%E5%B1%80%23&t=31&band_rank=37&Refer=top) 119190
 1. [光与夜之恋偷跑](https://s.weibo.com/weibo?q=%23%E5%85%89%E4%B8%8E%E5%A4%9C%E4%B9%8B%E6%81%8B%E5%81%B7%E8%B7%91%23&t=31&band_rank=38&Refer=top) 117563
 1. [女子三亚疑被蛇咬身亡家属再发声](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B8%89%E4%BA%9A%E7%96%91%E8%A2%AB%E8%9B%87%E5%92%AC%E8%BA%AB%E4%BA%A1%E5%AE%B6%E5%B1%9E%E5%86%8D%E5%8F%91%E5%A3%B0%23&t=31&band_rank=39&Refer=top) 114805
+1. [迪士尼没承认过狐尼克和朱迪是情侣](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E5%A3%AB%E5%B0%BC%E6%B2%A1%E6%89%BF%E8%AE%A4%E8%BF%87%E7%8B%90%E5%B0%BC%E5%85%8B%E5%92%8C%E6%9C%B1%E8%BF%AA%E6%98%AF%E6%83%85%E4%BE%A3%23&t=31&band_rank=4&Refer=top) 114540
 1. [印尼考虑购买歼10](https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%B0%BC%E8%80%83%E8%99%91%E8%B4%AD%E4%B9%B0%E6%AD%BC10%23&t=31&band_rank=40&Refer=top) 109926
 1. [何秋亊 没EXO版权](https://s.weibo.com/weibo?q=%E4%BD%95%E7%A7%8B%E4%BA%8A%20%E6%B2%A1EXO%E7%89%88%E6%9D%83&t=31&band_rank=41&Refer=top) 108203
 1. [国足 四年后](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%B6%B3%20%E5%9B%9B%E5%B9%B4%E5%90%8E&t=31&band_rank=17&Refer=top) 107579
@@ -69,6 +70,11 @@
 1. [韦世豪状态](https://s.weibo.com/weibo?q=%E9%9F%A6%E4%B8%96%E8%B1%AA%E7%8A%B6%E6%80%81&t=31&band_rank=48&Refer=top) 48750
 1. [王大雷说非常遗憾](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%A4%A7%E9%9B%B7%E8%AF%B4%E9%9D%9E%E5%B8%B8%E9%81%97%E6%86%BE%23&t=31&band_rank=49&Refer=top) 47845
 1. [丁禹兮旁白雪豹纪录片](https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%E6%97%81%E7%99%BD%E9%9B%AA%E8%B1%B9%E7%BA%AA%E5%BD%95%E7%89%87%23&t=31&band_rank=50&Refer=top) 45710
+1. [华科学长李昀锐送高考祝福](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E7%A7%91%E5%AD%A6%E9%95%BF%E6%9D%8E%E6%98%80%E9%94%90%E9%80%81%E9%AB%98%E8%80%83%E7%A5%9D%E7%A6%8F%23&t=31&band_rank=15&Refer=top) 34373
+1. [第一次见女主像小说里的仙门路人甲](https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E5%A5%B3%E4%B8%BB%E5%83%8F%E5%B0%8F%E8%AF%B4%E9%87%8C%E7%9A%84%E4%BB%99%E9%97%A8%E8%B7%AF%E4%BA%BA%E7%94%B2&t=31&band_rank=17&Refer=top) 33690
+1. [印尼一载80余人游艇侧翻沉没](https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%B0%BC%E4%B8%80%E8%BD%BD80%E4%BD%99%E4%BA%BA%E6%B8%B8%E8%89%87%E4%BE%A7%E7%BF%BB%E6%B2%89%E6%B2%A1%23&t=31&band_rank=26&Refer=top) 30826
+1. [世界杯](https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF&t=31&band_rank=33&Refer=top) 28031
+1. [老师因学生错过清华惋惜落泪](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E5%9B%A0%E5%AD%A6%E7%94%9F%E9%94%99%E8%BF%87%E6%B8%85%E5%8D%8E%E6%83%8B%E6%83%9C%E8%90%BD%E6%B3%AA%23&t=31&band_rank=34&Refer=top) 27452
 <!-- END -->
 
 历史归档 [./archives](./archives)
