@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-06-06 03:15:51.988904 
+最后更新时间 2025-06-06 04:20:31.358128 
 1. [国足无缘2026世界杯](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3%E6%97%A0%E7%BC%982026%E4%B8%96%E7%95%8C%E6%9D%AF%23&t=31&band_rank=1&Refer=top) 4286402
 1. [国足vs印尼](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3vs%E5%8D%B0%E5%B0%BC%23&t=31&band_rank=2&Refer=top) 1333074
 1. [有一种震撼叫祖国山河如画](https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%B8%80%E7%A7%8D%E9%9C%87%E6%92%BC%E5%8F%AB%E7%A5%96%E5%9B%BD%E5%B1%B1%E6%B2%B3%E5%A6%82%E7%94%BB%23&t=31&band_rank=3&Refer=top) 971620
@@ -70,11 +70,17 @@
 1. [韦世豪状态](https://s.weibo.com/weibo?q=%E9%9F%A6%E4%B8%96%E8%B1%AA%E7%8A%B6%E6%80%81&t=31&band_rank=48&Refer=top) 48750
 1. [王大雷说非常遗憾](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%A4%A7%E9%9B%B7%E8%AF%B4%E9%9D%9E%E5%B8%B8%E9%81%97%E6%86%BE%23&t=31&band_rank=49&Refer=top) 47845
 1. [丁禹兮旁白雪豹纪录片](https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%E6%97%81%E7%99%BD%E9%9B%AA%E8%B1%B9%E7%BA%AA%E5%BD%95%E7%89%87%23&t=31&band_rank=50&Refer=top) 45710
+1. [第一次见女主像小说里的仙门路人甲](https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E5%A5%B3%E4%B8%BB%E5%83%8F%E5%B0%8F%E8%AF%B4%E9%87%8C%E7%9A%84%E4%BB%99%E9%97%A8%E8%B7%AF%E4%BA%BA%E7%94%B2&t=31&band_rank=17&Refer=top) 35760
 1. [华科学长李昀锐送高考祝福](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E7%A7%91%E5%AD%A6%E9%95%BF%E6%9D%8E%E6%98%80%E9%94%90%E9%80%81%E9%AB%98%E8%80%83%E7%A5%9D%E7%A6%8F%23&t=31&band_rank=15&Refer=top) 34373
-1. [第一次见女主像小说里的仙门路人甲](https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E5%A5%B3%E4%B8%BB%E5%83%8F%E5%B0%8F%E8%AF%B4%E9%87%8C%E7%9A%84%E4%BB%99%E9%97%A8%E8%B7%AF%E4%BA%BA%E7%94%B2&t=31&band_rank=17&Refer=top) 33690
 1. [印尼一载80余人游艇侧翻沉没](https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%B0%BC%E4%B8%80%E8%BD%BD80%E4%BD%99%E4%BA%BA%E6%B8%B8%E8%89%87%E4%BE%A7%E7%BF%BB%E6%B2%89%E6%B2%A1%23&t=31&band_rank=26&Refer=top) 30826
 1. [世界杯](https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF&t=31&band_rank=33&Refer=top) 28031
 1. [老师因学生错过清华惋惜落泪](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E5%9B%A0%E5%AD%A6%E7%94%9F%E9%94%99%E8%BF%87%E6%B8%85%E5%8D%8E%E6%83%8B%E6%83%9C%E8%90%BD%E6%B3%AA%23&t=31&band_rank=34&Refer=top) 27452
+1. [白宫称马斯克言论不影响特朗普立场](https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%AE%AB%E7%A7%B0%E9%A9%AC%E6%96%AF%E5%85%8B%E8%A8%80%E8%AE%BA%E4%B8%8D%E5%BD%B1%E5%93%8D%E7%89%B9%E6%9C%97%E6%99%AE%E7%AB%8B%E5%9C%BA%23&t=31&band_rank=28&Refer=top) 22008
+1. [章若楠说我唱歌不需要版权](https://s.weibo.com/weibo?q=%23%E7%AB%A0%E8%8B%A5%E6%A5%A0%E8%AF%B4%E6%88%91%E5%94%B1%E6%AD%8C%E4%B8%8D%E9%9C%80%E8%A6%81%E7%89%88%E6%9D%83%23&t=31&band_rank=29&Refer=top) 21943
+1. [被4万年前的基建智慧拿捏了](https://s.weibo.com/weibo?q=%23%E8%A2%AB4%E4%B8%87%E5%B9%B4%E5%89%8D%E7%9A%84%E5%9F%BA%E5%BB%BA%E6%99%BA%E6%85%A7%E6%8B%BF%E6%8D%8F%E4%BA%86%23&t=31&band_rank=36&Refer=top) 19096
+1. [中方将坚定维护海外中国学生和学者权益](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%B0%86%E5%9D%9A%E5%AE%9A%E7%BB%B4%E6%8A%A4%E6%B5%B7%E5%A4%96%E4%B8%AD%E5%9B%BD%E5%AD%A6%E7%94%9F%E5%92%8C%E5%AD%A6%E8%80%85%E6%9D%83%E7%9B%8A%23&t=31&band_rank=40&Refer=top) 17695
+1. [美交通部长威胁取消40亿美金额外拨款](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%BA%A4%E9%80%9A%E9%83%A8%E9%95%BF%E5%A8%81%E8%83%81%E5%8F%96%E6%B6%8840%E4%BA%BF%E7%BE%8E%E9%87%91%E9%A2%9D%E5%A4%96%E6%8B%A8%E6%AC%BE%23&t=31&band_rank=46&Refer=top) 15928
+1. [藏海的本命年穿搭已就位](https://s.weibo.com/weibo?q=%23%E8%97%8F%E6%B5%B7%E7%9A%84%E6%9C%AC%E5%91%BD%E5%B9%B4%E7%A9%BF%E6%90%AD%E5%B7%B2%E5%B0%B1%E4%BD%8D%23&t=31&band_rank=50&Refer=top) 15407
 <!-- END -->
 
 历史归档 [./archives](./archives)
