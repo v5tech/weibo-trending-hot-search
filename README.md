@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-06-07 04:25:09.131154 
+最后更新时间 2025-06-07 05:20:34.178591 
 1. [第一名掉准考证的学生出现了](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E5%90%8D%E6%8E%89%E5%87%86%E8%80%83%E8%AF%81%E7%9A%84%E5%AD%A6%E7%94%9F%E5%87%BA%E7%8E%B0%E4%BA%86%23&t=31&band_rank=1&Refer=top) 1871055
 1. [单依纯疯了](https://s.weibo.com/weibo?q=%E5%8D%95%E4%BE%9D%E7%BA%AF%E7%96%AF%E4%BA%86&t=31&band_rank=2&Refer=top) 1788284
 1. [六六给荔节](https://s.weibo.com/weibo?q=%23%E5%85%AD%E5%85%AD%E7%BB%99%E8%8D%94%E8%8A%82%23&t=31&band_rank=3&Refer=top) 779867
@@ -50,6 +50,7 @@
 1. [高考前夕班主任上的最后一课](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E5%89%8D%E5%A4%95%E7%8F%AD%E4%B8%BB%E4%BB%BB%E4%B8%8A%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E8%AF%BE&t=31&band_rank=40&Refer=top) 116161
 1. [耳帝](https://s.weibo.com/weibo?q=%E8%80%B3%E5%B8%9D&t=31&band_rank=41&Refer=top) 116147
 1. [如何呢 又能怎](https://s.weibo.com/weibo?q=%E5%A6%82%E4%BD%95%E5%91%A2%20%E5%8F%88%E8%83%BD%E6%80%8E&t=31&band_rank=42&Refer=top) 107524
+1. [高考学子给荔高粽](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%AD%A6%E5%AD%90%E7%BB%99%E8%8D%94%E9%AB%98%E7%B2%BD%23&t=31&band_rank=3&Refer=top) 106401
 1. [宁艺卓国内首个红毯造型](https://s.weibo.com/weibo?q=%23%E5%AE%81%E8%89%BA%E5%8D%93%E5%9B%BD%E5%86%85%E9%A6%96%E4%B8%AA%E7%BA%A2%E6%AF%AF%E9%80%A0%E5%9E%8B%23&t=31&band_rank=43&Refer=top) 96012
 1. [JDG对战TTG](https://s.weibo.com/weibo?q=JDG%E5%AF%B9%E6%88%98TTG&t=31&band_rank=44&Refer=top) 95509
 1. [卫兰请留下](https://s.weibo.com/weibo?q=%E5%8D%AB%E5%85%B0%E8%AF%B7%E7%95%99%E4%B8%8B&t=31&band_rank=45&Refer=top) 94383
@@ -58,7 +59,6 @@
 1. [宁泽涛穿深V正得发邪](https://s.weibo.com/weibo?q=%E5%AE%81%E6%B3%BD%E6%B6%9B%E7%A9%BF%E6%B7%B1V%E6%AD%A3%E5%BE%97%E5%8F%91%E9%82%AA&t=31&band_rank=47&Refer=top) 92454
 1. [毛坦厂高考陪读妈妈回应质疑](https://s.weibo.com/weibo?q=%23%E6%AF%9B%E5%9D%A6%E5%8E%82%E9%AB%98%E8%80%83%E9%99%AA%E8%AF%BB%E5%A6%88%E5%A6%88%E5%9B%9E%E5%BA%94%E8%B4%A8%E7%96%91%23&t=31&band_rank=48&Refer=top) 90835
 1. [枯萎之花上的眼泪](https://s.weibo.com/weibo?q=%E6%9E%AF%E8%90%8E%E4%B9%8B%E8%8A%B1%E4%B8%8A%E7%9A%84%E7%9C%BC%E6%B3%AA&t=31&band_rank=49&Refer=top) 88736
-1. [高考学子给荔高粽](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%AD%A6%E5%AD%90%E7%BB%99%E8%8D%94%E9%AB%98%E7%B2%BD%23&t=31&band_rank=3&Refer=top) 87498
 1. [阿尔卡拉斯连续两年进法网决赛](https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%B0%94%E5%8D%A1%E6%8B%89%E6%96%AF%E8%BF%9E%E7%BB%AD%E4%B8%A4%E5%B9%B4%E8%BF%9B%E6%B3%95%E7%BD%91%E5%86%B3%E8%B5%9B%23&t=31&band_rank=50&Refer=top) 87480
 1. [广州长隆回应马戏演员从火轮摔下](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E9%95%BF%E9%9A%86%E5%9B%9E%E5%BA%94%E9%A9%AC%E6%88%8F%E6%BC%94%E5%91%98%E4%BB%8E%E7%81%AB%E8%BD%AE%E6%91%94%E4%B8%8B%23&t=31&band_rank=29&Refer=top) 77670
 1. [单依纯李白 高考禁曲](https://s.weibo.com/weibo?q=%E5%8D%95%E4%BE%9D%E7%BA%AF%E6%9D%8E%E7%99%BD%20%E9%AB%98%E8%80%83%E7%A6%81%E6%9B%B2&t=31&band_rank=7&Refer=top) 73842
@@ -78,16 +78,17 @@
 1. [白象本月内停产多半包装](https://s.weibo.com/weibo?q=%23%E7%99%BD%E8%B1%A1%E6%9C%AC%E6%9C%88%E5%86%85%E5%81%9C%E4%BA%A7%E5%A4%9A%E5%8D%8A%E5%8C%85%E8%A3%85%23&t=31&band_rank=46&Refer=top) 31730
 1. [武磊苏超首秀需过淘汰赛门槛](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E7%A3%8A%E8%8B%8F%E8%B6%85%E9%A6%96%E7%A7%80%E9%9C%80%E8%BF%87%E6%B7%98%E6%B1%B0%E8%B5%9B%E9%97%A8%E6%A7%9B%23&t=31&band_rank=49&Refer=top) 31730
 1. [高考好运玄学](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E5%A5%BD%E8%BF%90%E7%8E%84%E5%AD%A6&t=31&band_rank=50&Refer=top) 31729
+1. [白象宣布多半系列产品更名](https://s.weibo.com/weibo?q=%E7%99%BD%E8%B1%A1%E5%AE%A3%E5%B8%83%E5%A4%9A%E5%8D%8A%E7%B3%BB%E5%88%97%E4%BA%A7%E5%93%81%E6%9B%B4%E5%90%8D&t=31&band_rank=26&Refer=top) 27428
+1. [LABUBU是年轻人的茅台](https://s.weibo.com/weibo?q=%23LABUBU%E6%98%AF%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E8%8C%85%E5%8F%B0%23&t=31&band_rank=50&Refer=top) 25178
 1. [believer](https://s.weibo.com/weibo?q=believer&t=31&band_rank=35&Refer=top) 24569
 1. [陈楚生 凡人诀](https://s.weibo.com/weibo?q=%E9%99%88%E6%A5%9A%E7%94%9F%20%E5%87%A1%E4%BA%BA%E8%AF%80&t=31&band_rank=41&Refer=top) 23345
 1. [马柏全捏捏手打招呼](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%9F%8F%E5%85%A8%E6%8D%8F%E6%8D%8F%E6%89%8B%E6%89%93%E6%8B%9B%E5%91%BC%23&t=31&band_rank=43&Refer=top) 23343
 1. [张真源从清纯小狗变朋克](https://s.weibo.com/weibo?q=%E5%BC%A0%E7%9C%9F%E6%BA%90%E4%BB%8E%E6%B8%85%E7%BA%AF%E5%B0%8F%E7%8B%97%E5%8F%98%E6%9C%8B%E5%85%8B&t=31&band_rank=44&Refer=top) 23342
-1. [白象宣布多半系列产品更名](https://s.weibo.com/weibo?q=%E7%99%BD%E8%B1%A1%E5%AE%A3%E5%B8%83%E5%A4%9A%E5%8D%8A%E7%B3%BB%E5%88%97%E4%BA%A7%E5%93%81%E6%9B%B4%E5%90%8D&t=31&band_rank=26&Refer=top) 22892
 1. [陷入我们的热恋](https://s.weibo.com/weibo?q=%E9%99%B7%E5%85%A5%E6%88%91%E4%BB%AC%E7%9A%84%E7%83%AD%E6%81%8B&t=31&band_rank=34&Refer=top) 19630
 1. [俄乌局势或出现新变数](https://s.weibo.com/weibo?q=%23%E4%BF%84%E4%B9%8C%E5%B1%80%E5%8A%BF%E6%88%96%E5%87%BA%E7%8E%B0%E6%96%B0%E5%8F%98%E6%95%B0%23&t=31&band_rank=37&Refer=top) 18061
-1. [隋文静韩聪复出](https://s.weibo.com/weibo?q=%23%E9%9A%8B%E6%96%87%E9%9D%99%E9%9F%A9%E8%81%AA%E5%A4%8D%E5%87%BA%23&t=31&band_rank=40&Refer=top) 17003
+1. [隋文静韩聪复出](https://s.weibo.com/weibo?q=%23%E9%9A%8B%E6%96%87%E9%9D%99%E9%9F%A9%E8%81%AA%E5%A4%8D%E5%87%BA%23&t=31&band_rank=40&Refer=top) 17457
 1. [绝区零超话](https://s.weibo.com/weibo?q=%E7%BB%9D%E5%8C%BA%E9%9B%B6%E8%B6%85%E8%AF%9D&t=31&band_rank=48&Refer=top) 16536
-1. [LABUBU是年轻人的茅台](https://s.weibo.com/weibo?q=%23LABUBU%E6%98%AF%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E8%8C%85%E5%8F%B0%23&t=31&band_rank=50&Refer=top) 16533
+1. [Circle上市首日暴涨168.48%](https://s.weibo.com/weibo?q=%23Circle%E4%B8%8A%E5%B8%82%E9%A6%96%E6%97%A5%E6%9A%B4%E6%B6%A8168.48%25%23&t=31&band_rank=46&Refer=top) 16519
 <!-- END -->
 
 历史归档 [./archives](./archives)
