@@ -207,9 +207,17 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E9%95%BF%E9%9A%86%E5%9B%9E%E5%BA%94%E9%A9%AC%E6%88%8F%E6%BC%94%E5%91%98%E4%BB%8E%E7%81%AB%E8%BD%AE%E6%91%94%E4%B8%8B%23&t=31&band_rank=29&Refer=top",
     "hot": 77670
   },
+  "单依纯李白 高考禁曲": {
+    "url": "https://s.weibo.com/weibo?q=%E5%8D%95%E4%BE%9D%E7%BA%AF%E6%9D%8E%E7%99%BD%20%E9%AB%98%E8%80%83%E7%A6%81%E6%9B%B2&t=31&band_rank=7&Refer=top",
+    "hot": 73842
+  },
   "跑男": {
     "url": "https://s.weibo.com/weibo?q=%E8%B7%91%E7%94%B7&t=31&band_rank=31&Refer=top",
     "hot": 72134
+  },
+  "特朗普世上无难事只要肯放弃": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%96%E4%B8%8A%E6%97%A0%E9%9A%BE%E4%BA%8B%E5%8F%AA%E8%A6%81%E8%82%AF%E6%94%BE%E5%BC%83%23&t=31&band_rank=10&Refer=top",
+    "hot": 70772
   },
   "张婧仪宁艺卓同框": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%A9%A7%E4%BB%AA%E5%AE%81%E8%89%BA%E5%8D%93%E5%90%8C%E6%A1%86%23&t=31&band_rank=37&Refer=top",
@@ -266,5 +274,21 @@
   "高考好运玄学": {
     "url": "https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E5%A5%BD%E8%BF%90%E7%8E%84%E5%AD%A6&t=31&band_rank=50&Refer=top",
     "hot": 31729
+  },
+  "believer": {
+    "url": "https://s.weibo.com/weibo?q=believer&t=31&band_rank=35&Refer=top",
+    "hot": 24569
+  },
+  "陈楚生 凡人诀": {
+    "url": "https://s.weibo.com/weibo?q=%E9%99%88%E6%A5%9A%E7%94%9F%20%E5%87%A1%E4%BA%BA%E8%AF%80&t=31&band_rank=41&Refer=top",
+    "hot": 23345
+  },
+  "马柏全捏捏手打招呼": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%9F%8F%E5%85%A8%E6%8D%8F%E6%8D%8F%E6%89%8B%E6%89%93%E6%8B%9B%E5%91%BC%23&t=31&band_rank=43&Refer=top",
+    "hot": 23343
+  },
+  "张真源从清纯小狗变朋克": {
+    "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E7%9C%9F%E6%BA%90%E4%BB%8E%E6%B8%85%E7%BA%AF%E5%B0%8F%E7%8B%97%E5%8F%98%E6%9C%8B%E5%85%8B&t=31&band_rank=44&Refer=top",
+    "hot": 23342
   }
 }
