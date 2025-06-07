@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-06-08 04:22:26.762883 
+最后更新时间 2025-06-08 05:19:16.646793 
 1. [浪姐成团名单](https://s.weibo.com/weibo?q=%E6%B5%AA%E5%A7%90%E6%88%90%E5%9B%A2%E5%90%8D%E5%8D%95&t=31&band_rank=1&Refer=top) 6303745
 1. [韦东奕严选账号已改名](https://s.weibo.com/weibo?q=%23%E9%9F%A6%E4%B8%9C%E5%A5%95%E4%B8%A5%E9%80%89%E8%B4%A6%E5%8F%B7%E5%B7%B2%E6%94%B9%E5%90%8D%23&t=31&band_rank=2&Refer=top) 2094587
 1. [一个学科一句为高考生加油](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E5%AD%A6%E7%A7%91%E4%B8%80%E5%8F%A5%E4%B8%BA%E9%AB%98%E8%80%83%E7%94%9F%E5%8A%A0%E6%B2%B9%23&t=31&band_rank=3&Refer=top) 870320
