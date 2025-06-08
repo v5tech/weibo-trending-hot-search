@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-06-09 04:22:23.638406 
+最后更新时间 2025-06-09 05:18:55.418130 
 1. [央视曝光不防晒的防晒衣](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E4%B8%8D%E9%98%B2%E6%99%92%E7%9A%84%E9%98%B2%E6%99%92%E8%A1%A3%23&t=31&band_rank=1&Refer=top) 1385248
 1. [王楚钦谈输给伊朗14岁小将](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%B0%88%E8%BE%93%E7%BB%99%E4%BC%8A%E6%9C%9714%E5%B2%81%E5%B0%8F%E5%B0%86%23&t=31&band_rank=2&Refer=top) 546824
 1. [我国海洋经济登上新台阶](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E6%B5%B7%E6%B4%8B%E7%BB%8F%E6%B5%8E%E7%99%BB%E4%B8%8A%E6%96%B0%E5%8F%B0%E9%98%B6%23&t=31&band_rank=3&Refer=top) 539171
@@ -72,8 +72,11 @@
 1. [官方通报村支书威胁拍天坑垃圾要打](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%9D%91%E6%94%AF%E4%B9%A6%E5%A8%81%E8%83%81%E6%8B%8D%E5%A4%A9%E5%9D%91%E5%9E%83%E5%9C%BE%E8%A6%81%E6%89%93%23&t=31&band_rank=39&Refer=top) 35669
 1. [阿Sa刘维cha了LikeJennie](https://s.weibo.com/weibo?q=%E9%98%BFSa%E5%88%98%E7%BB%B4cha%E4%BA%86LikeJennie&t=31&band_rank=44&Refer=top) 32105
 1. [第17个世界海洋日](https://s.weibo.com/weibo?q=%23%E7%AC%AC17%E4%B8%AA%E4%B8%96%E7%95%8C%E6%B5%B7%E6%B4%8B%E6%97%A5%23&t=31&band_rank=48&Refer=top) 29450
-1. [刺客烧烤摊修改结算单欺诈消费者](https://s.weibo.com/weibo?q=%23%E5%88%BA%E5%AE%A2%E7%83%A7%E7%83%A4%E6%91%8A%E4%BF%AE%E6%94%B9%E7%BB%93%E7%AE%97%E5%8D%95%E6%AC%BA%E8%AF%88%E6%B6%88%E8%B4%B9%E8%80%85%23&t=31&band_rank=38&Refer=top) 15528
-1. [刘冲回应VOGUE争议](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%86%B2%E5%9B%9E%E5%BA%94VOGUE%E4%BA%89%E8%AE%AE%23&t=31&band_rank=50&Refer=top) 15138
+1. [刘冲回应VOGUE争议](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%86%B2%E5%9B%9E%E5%BA%94VOGUE%E4%BA%89%E8%AE%AE%23&t=31&band_rank=50&Refer=top) 15635
+1. [刺客烧烤摊修改结算单欺诈消费者](https://s.weibo.com/weibo?q=%23%E5%88%BA%E5%AE%A2%E7%83%A7%E7%83%A4%E6%91%8A%E4%BF%AE%E6%94%B9%E7%BB%93%E7%AE%97%E5%8D%95%E6%AC%BA%E8%AF%88%E6%B6%88%E8%B4%B9%E8%80%85%23&t=31&band_rank=38&Refer=top) 15631
+1. [警惕手机卡被他人偷拔搞诈骗](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%83%95%E6%89%8B%E6%9C%BA%E5%8D%A1%E8%A2%AB%E4%BB%96%E4%BA%BA%E5%81%B7%E6%8B%94%E6%90%9E%E8%AF%88%E9%AA%97%23&t=31&band_rank=48&Refer=top) 15618
+1. [高考数学二卷](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E4%BA%8C%E5%8D%B7&t=31&band_rank=49&Refer=top) 15615
+1. [送考这一幕太暖了](https://s.weibo.com/weibo?q=%23%E9%80%81%E8%80%83%E8%BF%99%E4%B8%80%E5%B9%95%E5%A4%AA%E6%9A%96%E4%BA%86%23&t=31&band_rank=50&Refer=top) 15611
 <!-- END -->
 
 历史归档 [./archives](./archives)
