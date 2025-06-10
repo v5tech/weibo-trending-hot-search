@@ -227,6 +227,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E9%A6%96%E7%AB%99%E4%B8%8A%E6%B5%B7%E7%A7%92%E7%BD%84%23&t=31&band_rank=45&Refer=top",
     "hot": 43008
   },
+  "美国加州街头变战场": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%8A%A0%E5%B7%9E%E8%A1%97%E5%A4%B4%E5%8F%98%E6%88%98%E5%9C%BA%23&t=31&band_rank=14&Refer=top",
+    "hot": 41716
+  },
   "黄圣依程潇谈是否接受婚前同居": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%9C%A3%E4%BE%9D%E7%A8%8B%E6%BD%87%E8%B0%88%E6%98%AF%E5%90%A6%E6%8E%A5%E5%8F%97%E5%A9%9A%E5%89%8D%E5%90%8C%E5%B1%85%23&t=31&band_rank=50&Refer=top",
     "hot": 41111
@@ -234,10 +238,6 @@
   "泡泡玛特创始人成河南新首富": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%88%90%E6%B2%B3%E5%8D%97%E6%96%B0%E9%A6%96%E5%AF%8C%23&t=31&band_rank=27&Refer=top",
     "hot": 35789
-  },
-  "美国加州街头变战场": {
-    "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%8A%A0%E5%B7%9E%E8%A1%97%E5%A4%B4%E5%8F%98%E6%88%98%E5%9C%BA%23&t=31&band_rank=14&Refer=top",
-    "hot": 35209
   },
   "校方回应高考前一天艺考生被撞病危": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%A0%A1%E6%96%B9%E5%9B%9E%E5%BA%94%E9%AB%98%E8%80%83%E5%89%8D%E4%B8%80%E5%A4%A9%E8%89%BA%E8%80%83%E7%94%9F%E8%A2%AB%E6%92%9E%E7%97%85%E5%8D%B1%23&t=31&band_rank=10&Refer=top",
@@ -249,7 +249,15 @@
   },
   "韩乔生说国足在狼藉中翻出一粒金子": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E4%B9%94%E7%94%9F%E8%AF%B4%E5%9B%BD%E8%B6%B3%E5%9C%A8%E7%8B%BC%E8%97%89%E4%B8%AD%E7%BF%BB%E5%87%BA%E4%B8%80%E7%B2%92%E9%87%91%E5%AD%90%23&t=31&band_rank=23&Refer=top",
-    "hot": 28213
+    "hot": 33401
+  },
+  "奥地利校园枪击致至少10死": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A5%A5%E5%9C%B0%E5%88%A9%E6%A0%A1%E5%9B%AD%E6%9E%AA%E5%87%BB%E8%87%B4%E8%87%B3%E5%B0%9110%E6%AD%BB%23&t=31&band_rank=36&Refer=top",
+    "hot": 33155
+  },
+  "特朗普早就看不惯加州州长": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%97%A9%E5%B0%B1%E7%9C%8B%E4%B8%8D%E6%83%AF%E5%8A%A0%E5%B7%9E%E5%B7%9E%E9%95%BF%23&t=31&band_rank=17&Refer=top",
+    "hot": 32506
   },
   "麻花特开心": {
     "url": "https://s.weibo.com/weibo?q=%E9%BA%BB%E8%8A%B1%E7%89%B9%E5%BC%80%E5%BF%83&t=31&band_rank=49&Refer=top",
@@ -259,12 +267,16 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E7%94%B5%E5%BD%B1%E4%B9%8B%E5%A4%9C%E7%9B%B4%E6%92%AD%23&t=31&band_rank=50&Refer=top",
     "hot": 25560
   },
+  "约700名海军陆战队将部署洛杉矶": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BA%A6700%E5%90%8D%E6%B5%B7%E5%86%9B%E9%99%86%E6%88%98%E9%98%9F%E5%B0%86%E9%83%A8%E7%BD%B2%E6%B4%9B%E6%9D%89%E7%9F%B6%23&t=31&band_rank=38&Refer=top",
+    "hot": 20901
+  },
   "出考场花式整活名场面": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%87%BA%E8%80%83%E5%9C%BA%E8%8A%B1%E5%BC%8F%E6%95%B4%E6%B4%BB%E5%90%8D%E5%9C%BA%E9%9D%A2%23&t=31&band_rank=28&Refer=top",
     "hot": 20696
   },
-  "奥地利校园枪击致至少10死": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%A5%A5%E5%9C%B0%E5%88%A9%E6%A0%A1%E5%9B%AD%E6%9E%AA%E5%87%BB%E8%87%B4%E8%87%B3%E5%B0%9110%E6%AD%BB%23&t=31&band_rank=36&Refer=top",
-    "hot": 19300
+  "蚌埠再通报污染致上万亩水稻无水": {
+    "url": "https://s.weibo.com/weibo?q=%23%E8%9A%8C%E5%9F%A0%E5%86%8D%E9%80%9A%E6%8A%A5%E6%B1%A1%E6%9F%93%E8%87%B4%E4%B8%8A%E4%B8%87%E4%BA%A9%E6%B0%B4%E7%A8%BB%E6%97%A0%E6%B0%B4%23&t=31&band_rank=49&Refer=top",
+    "hot": 15468
   }
 }
