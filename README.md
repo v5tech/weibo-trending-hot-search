@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-06-14 04:24:29.931509 
+最后更新时间 2025-06-14 05:20:56.060598 
 1. [官方通报罗帅宇事件](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E7%BD%97%E5%B8%85%E5%AE%87%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=1&Refer=top) 6622306
 1. [罗帅宇158段录音为工作吃饭闲聊等](https://s.weibo.com/weibo?q=%23%E7%BD%97%E5%B8%85%E5%AE%87158%E6%AE%B5%E5%BD%95%E9%9F%B3%E4%B8%BA%E5%B7%A5%E4%BD%9C%E5%90%83%E9%A5%AD%E9%97%B2%E8%81%8A%E7%AD%89%23&t=31&band_rank=4&Refer=top) 1732998
 1. [90秒感受三夏收获的幸福感](https://s.weibo.com/weibo?q=%2390%E7%A7%92%E6%84%9F%E5%8F%97%E4%B8%89%E5%A4%8F%E6%94%B6%E8%8E%B7%E7%9A%84%E5%B9%B8%E7%A6%8F%E6%84%9F%23&t=31&band_rank=3&Refer=top) 1153367
@@ -79,22 +79,27 @@
 1. [医生诊疗时电话唠家常患者在一旁等](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E8%AF%8A%E7%96%97%E6%97%B6%E7%94%B5%E8%AF%9D%E5%94%A0%E5%AE%B6%E5%B8%B8%E6%82%A3%E8%80%85%E5%9C%A8%E4%B8%80%E6%97%81%E7%AD%89%23&t=31&band_rank=32&Refer=top) 46425
 1. [特朗普威胁伊朗尽快与美达成协议](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E4%BC%8A%E6%9C%97%E5%B0%BD%E5%BF%AB%E4%B8%8E%E7%BE%8E%E8%BE%BE%E6%88%90%E5%8D%8F%E8%AE%AE%23&t=31&band_rank=24&Refer=top) 46281
 1. [AI时代在浙大可以怎么学](https://s.weibo.com/weibo?q=AI%E6%97%B6%E4%BB%A3%E5%9C%A8%E6%B5%99%E5%A4%A7%E5%8F%AF%E4%BB%A5%E6%80%8E%E4%B9%88%E5%AD%A6&t=31&band_rank=25&Refer=top) 46046
+1. [刘诗诗多希望自己听不懂中文](https://s.weibo.com/weibo?q=%E5%88%98%E8%AF%97%E8%AF%97%E5%A4%9A%E5%B8%8C%E6%9C%9B%E8%87%AA%E5%B7%B1%E5%90%AC%E4%B8%8D%E6%87%82%E4%B8%AD%E6%96%87&t=31&band_rank=20&Refer=top) 41820
+1. [以色列巴勒斯坦冲突](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E5%86%B2%E7%AA%81%23&t=31&band_rank=16&Refer=top) 41581
 1. [优绩主义](https://s.weibo.com/weibo?q=%E4%BC%98%E7%BB%A9%E4%B8%BB%E4%B9%89&t=31&band_rank=39&Refer=top) 40756
 1. [JDG突破队史](https://s.weibo.com/weibo?q=%23JDG%E7%AA%81%E7%A0%B4%E9%98%9F%E5%8F%B2%23&t=31&band_rank=40&Refer=top) 40359
 1. [女子称在写真馆化妆致双眼化学灼伤](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%B0%E5%9C%A8%E5%86%99%E7%9C%9F%E9%A6%86%E5%8C%96%E5%A6%86%E8%87%B4%E5%8F%8C%E7%9C%BC%E5%8C%96%E5%AD%A6%E7%81%BC%E4%BC%A4%23&t=31&band_rank=43&Refer=top) 39343
 1. [张碧晨张若昀拍立得梦幻同框](https://s.weibo.com/weibo?q=%E5%BC%A0%E7%A2%A7%E6%99%A8%E5%BC%A0%E8%8B%A5%E6%98%80%E6%8B%8D%E7%AB%8B%E5%BE%97%E6%A2%A6%E5%B9%BB%E5%90%8C%E6%A1%86&t=31&band_rank=32&Refer=top) 38337
-1. [刘诗诗多希望自己听不懂中文](https://s.weibo.com/weibo?q=%E5%88%98%E8%AF%97%E8%AF%97%E5%A4%9A%E5%B8%8C%E6%9C%9B%E8%87%AA%E5%B7%B1%E5%90%AC%E4%B8%8D%E6%87%82%E4%B8%AD%E6%96%87&t=31&band_rank=20&Refer=top) 34970
 1. [GAI白鸽](https://s.weibo.com/weibo?q=GAI%E7%99%BD%E9%B8%BD&t=31&band_rank=39&Refer=top) 32250
 1. [长安的荔枝](https://s.weibo.com/weibo?q=%E9%95%BF%E5%AE%89%E7%9A%84%E8%8D%94%E6%9E%9D&t=31&band_rank=41&Refer=top) 31021
+1. [网红刘琳琳被曝直播时辱骂观众](https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E5%88%98%E7%90%B3%E7%90%B3%E8%A2%AB%E6%9B%9D%E7%9B%B4%E6%92%AD%E6%97%B6%E8%BE%B1%E9%AA%82%E8%A7%82%E4%BC%97%23&t=31&band_rank=29&Refer=top) 29251
 1. [鹭卓感谢每一位家人的不远万里](https://s.weibo.com/weibo?q=%23%E9%B9%AD%E5%8D%93%E6%84%9F%E8%B0%A2%E6%AF%8F%E4%B8%80%E4%BD%8D%E5%AE%B6%E4%BA%BA%E7%9A%84%E4%B8%8D%E8%BF%9C%E4%B8%87%E9%87%8C%23&t=31&band_rank=42&Refer=top) 29080
 1. [firework](https://s.weibo.com/weibo?q=firework&t=31&band_rank=43&Refer=top) 28880
+1. [苏超第4轮战魂集结](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E8%B6%85%E7%AC%AC4%E8%BD%AE%E6%88%98%E9%AD%82%E9%9B%86%E7%BB%93%23&t=31&band_rank=32&Refer=top) 27089
 1. [倾城](https://s.weibo.com/weibo?q=%E5%80%BE%E5%9F%8E&t=31&band_rank=47&Refer=top) 26956
 1. [平台回应网红刘琳琳被曝辱骂观众](https://s.weibo.com/weibo?q=%23%E5%B9%B3%E5%8F%B0%E5%9B%9E%E5%BA%94%E7%BD%91%E7%BA%A2%E5%88%98%E7%90%B3%E7%90%B3%E8%A2%AB%E6%9B%9D%E8%BE%B1%E9%AA%82%E8%A7%82%E4%BC%97%23&t=31&band_rank=31&Refer=top) 26621
+1. [第一批高考生已经到王一博老家了](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%89%B9%E9%AB%98%E8%80%83%E7%94%9F%E5%B7%B2%E7%BB%8F%E5%88%B0%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%80%81%E5%AE%B6%E4%BA%86%23&t=31&band_rank=35&Refer=top) 26519
 1. [三问以色列为何再对伊朗出手](https://s.weibo.com/weibo?q=%23%E4%B8%89%E9%97%AE%E4%BB%A5%E8%89%B2%E5%88%97%E4%B8%BA%E4%BD%95%E5%86%8D%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%87%BA%E6%89%8B%23&t=31&band_rank=34&Refer=top) 25244
-1. [第一批高考生已经到王一博老家了](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%89%B9%E9%AB%98%E8%80%83%E7%94%9F%E5%B7%B2%E7%BB%8F%E5%88%B0%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%80%81%E5%AE%B6%E4%BA%86%23&t=31&band_rank=35&Refer=top) 25147
 1. [6名伊朗核科学家遭袭身亡](https://s.weibo.com/weibo?q=%236%E5%90%8D%E4%BC%8A%E6%9C%97%E6%A0%B8%E7%A7%91%E5%AD%A6%E5%AE%B6%E9%81%AD%E8%A2%AD%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=38&Refer=top) 23696
 1. [伊朗退出与美国核谈判](https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E9%80%80%E5%87%BA%E4%B8%8E%E7%BE%8E%E5%9B%BD%E6%A0%B8%E8%B0%88%E5%88%A4%23&t=31&band_rank=39&Refer=top) 22273
 1. [夏以昼不可思议的魔术](https://s.weibo.com/weibo?q=%E5%A4%8F%E4%BB%A5%E6%98%BC%E4%B8%8D%E5%8F%AF%E6%80%9D%E8%AE%AE%E7%9A%84%E9%AD%94%E6%9C%AF&t=31&band_rank=40&Refer=top) 21857
+1. [不粘腻脖子的清凉发型](https://s.weibo.com/weibo?q=%E4%B8%8D%E7%B2%98%E8%85%BB%E8%84%96%E5%AD%90%E7%9A%84%E6%B8%85%E5%87%89%E5%8F%91%E5%9E%8B&t=31&band_rank=40&Refer=top) 21087
+1. [歌手把梁翘柏找回来吧](https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E6%8A%8A%E6%A2%81%E7%BF%98%E6%9F%8F%E6%89%BE%E5%9B%9E%E6%9D%A5%E5%90%A7%23&t=31&band_rank=48&Refer=top) 17818
 <!-- END -->
 
 历史归档 [./archives](./archives)
