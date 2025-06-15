@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-06-16 04:23:06.880392 
+最后更新时间 2025-06-16 05:19:38.392941 
 1. [杭州一泡泡玛特开业当天闭店](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%B8%80%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E5%BC%80%E4%B8%9A%E5%BD%93%E5%A4%A9%E9%97%AD%E5%BA%97%23&t=31&band_rank=1&Refer=top) 930888
 1. [长安的荔枝 易烊千玺](https://s.weibo.com/weibo?q=%E9%95%BF%E5%AE%89%E7%9A%84%E8%8D%94%E6%9E%9D%20%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA&t=31&band_rank=2&Refer=top) 587122
 1. [大学里的男生为什么越来越少了](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E9%87%8C%E7%9A%84%E7%94%B7%E7%94%9F%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%B0%91%E4%BA%86%23&t=31&band_rank=4&Refer=top) 532210
@@ -56,6 +56,7 @@
 1. [以伊全面开战是否可能](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E4%BC%8A%E5%85%A8%E9%9D%A2%E5%BC%80%E6%88%98%E6%98%AF%E5%90%A6%E5%8F%AF%E8%83%BD%23&t=31&band_rank=42&Refer=top) 92621
 1. [C罗父子肌肉同框照](https://s.weibo.com/weibo?q=%23C%E7%BD%97%E7%88%B6%E5%AD%90%E8%82%8C%E8%82%89%E5%90%8C%E6%A1%86%E7%85%A7%23&t=31&band_rank=43&Refer=top) 87299
 1. [网球也有削球手](https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%90%83%E4%B9%9F%E6%9C%89%E5%89%8A%E7%90%83%E6%89%8B%23&t=31&band_rank=44&Refer=top) 82588
+1. [美国多地爆发大规模抗议游行](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A4%9A%E5%9C%B0%E7%88%86%E5%8F%91%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8A%97%E8%AE%AE%E6%B8%B8%E8%A1%8C%23&t=31&band_rank=32&Refer=top) 80535
 1. [王楚钦爸爸谈儿子从小的心愿](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E7%88%B8%E7%88%B8%E8%B0%88%E5%84%BF%E5%AD%90%E4%BB%8E%E5%B0%8F%E7%9A%84%E5%BF%83%E6%84%BF%23&t=31&band_rank=45&Refer=top) 80251
 1. [临江仙破万](https://s.weibo.com/weibo?q=%E4%B8%B4%E6%B1%9F%E4%BB%99%E7%A0%B4%E4%B8%87&t=31&band_rank=32&Refer=top) 78711
 1. [道崽 女朋友](https://s.weibo.com/weibo?q=%E9%81%93%E5%B4%BD%20%E5%A5%B3%E6%9C%8B%E5%8F%8B&t=31&band_rank=46&Refer=top) 76628
@@ -63,10 +64,10 @@
 1. [周深对舞蹈的理解超纲了](https://s.weibo.com/weibo?q=%E5%91%A8%E6%B7%B1%E5%AF%B9%E8%88%9E%E8%B9%88%E7%9A%84%E7%90%86%E8%A7%A3%E8%B6%85%E7%BA%B2%E4%BA%86&t=31&band_rank=48&Refer=top) 74170
 1. [滕王阁遭无人机划伤当事游客发声](https://s.weibo.com/weibo?q=%23%E6%BB%95%E7%8E%8B%E9%98%81%E9%81%AD%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%88%92%E4%BC%A4%E5%BD%93%E4%BA%8B%E6%B8%B8%E5%AE%A2%E5%8F%91%E5%A3%B0%23&t=31&band_rank=49&Refer=top) 73875
 1. [刘亦菲 宝格丽女王](https://s.weibo.com/weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%20%E5%AE%9D%E6%A0%BC%E4%B8%BD%E5%A5%B3%E7%8E%8B&t=31&band_rank=50&Refer=top) 73657
+1. [那尔那茜走红之路多个疑点待彻查](https://s.weibo.com/weibo?q=%23%E9%82%A3%E5%B0%94%E9%82%A3%E8%8C%9C%E8%B5%B0%E7%BA%A2%E4%B9%8B%E8%B7%AF%E5%A4%9A%E4%B8%AA%E7%96%91%E7%82%B9%E5%BE%85%E5%BD%BB%E6%9F%A5%23&t=31&band_rank=33&Refer=top) 56899
 1. [虞书欣直播](https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%9B%B4%E6%92%AD&t=31&band_rank=38&Refer=top) 55991
 1. [车圈祝贺叶一飞首夺勒芒冠军](https://s.weibo.com/weibo?q=%E8%BD%A6%E5%9C%88%E7%A5%9D%E8%B4%BA%E5%8F%B6%E4%B8%80%E9%A3%9E%E9%A6%96%E5%A4%BA%E5%8B%92%E8%8A%92%E5%86%A0%E5%86%9B&t=31&band_rank=40&Refer=top) 55236
 1. [苏州越位了吗](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E5%B7%9E%E8%B6%8A%E4%BD%8D%E4%BA%86%E5%90%97%23&t=31&band_rank=42&Refer=top) 53600
-1. [那尔那茜走红之路多个疑点待彻查](https://s.weibo.com/weibo?q=%23%E9%82%A3%E5%B0%94%E9%82%A3%E8%8C%9C%E8%B5%B0%E7%BA%A2%E4%B9%8B%E8%B7%AF%E5%A4%9A%E4%B8%AA%E7%96%91%E7%82%B9%E5%BE%85%E5%BD%BB%E6%9F%A5%23&t=31&band_rank=33&Refer=top) 50132
 1. [道崽缺席赛后互动](https://s.weibo.com/weibo?q=%E9%81%93%E5%B4%BD%E7%BC%BA%E5%B8%AD%E8%B5%9B%E5%90%8E%E4%BA%92%E5%8A%A8&t=31&band_rank=45&Refer=top) 47386
 1. [佘诗曼抢到了炸虾labubu](https://s.weibo.com/weibo?q=%E4%BD%98%E8%AF%97%E6%9B%BC%E6%8A%A2%E5%88%B0%E4%BA%86%E7%82%B8%E8%99%BElabubu&t=31&band_rank=49&Refer=top) 46398
 1. [苏超](https://s.weibo.com/weibo?q=%E8%8B%8F%E8%B6%85&t=31&band_rank=47&Refer=top) 44347
@@ -76,12 +77,14 @@
 1. [于适录制央视综艺山水间的家](https://s.weibo.com/weibo?q=%E4%BA%8E%E9%80%82%E5%BD%95%E5%88%B6%E5%A4%AE%E8%A7%86%E7%BB%BC%E8%89%BA%E5%B1%B1%E6%B0%B4%E9%97%B4%E7%9A%84%E5%AE%B6&t=31&band_rank=45&Refer=top) 27081
 1. [汪苏泷沈阳day3镜头签没有886](https://s.weibo.com/weibo?q=%E6%B1%AA%E8%8B%8F%E6%B3%B7%E6%B2%88%E9%98%B3day3%E9%95%9C%E5%A4%B4%E7%AD%BE%E6%B2%A1%E6%9C%89886&t=31&band_rank=46&Refer=top) 26584
 1. [韩安冉大女儿给宋浩然送父亲节礼物](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%AE%89%E5%86%89%E5%A4%A7%E5%A5%B3%E5%84%BF%E7%BB%99%E5%AE%8B%E6%B5%A9%E7%84%B6%E9%80%81%E7%88%B6%E4%BA%B2%E8%8A%82%E7%A4%BC%E7%89%A9%23&t=31&band_rank=47&Refer=top) 26194
+1. [难怪我一上高铁就睡觉](https://s.weibo.com/weibo?q=%E9%9A%BE%E6%80%AA%E6%88%91%E4%B8%80%E4%B8%8A%E9%AB%98%E9%93%81%E5%B0%B1%E7%9D%A1%E8%A7%89&t=31&band_rank=31&Refer=top) 25237
 1. [直击美国纽约爆发大规模示威游行](https://s.weibo.com/weibo?q=%23%E7%9B%B4%E5%87%BB%E7%BE%8E%E5%9B%BD%E7%BA%BD%E7%BA%A6%E7%88%86%E5%8F%91%E5%A4%A7%E8%A7%84%E6%A8%A1%E7%A4%BA%E5%A8%81%E6%B8%B8%E8%A1%8C%23&t=31&band_rank=29&Refer=top) 25201
-1. [美国多地爆发大规模抗议游行](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A4%9A%E5%9C%B0%E7%88%86%E5%8F%91%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8A%97%E8%AE%AE%E6%B8%B8%E8%A1%8C%23&t=31&band_rank=32&Refer=top) 24931
+1. [叨叨傅说荣耀属于全体苏南](https://s.weibo.com/weibo?q=%23%E5%8F%A8%E5%8F%A8%E5%82%85%E8%AF%B4%E8%8D%A3%E8%80%80%E5%B1%9E%E4%BA%8E%E5%85%A8%E4%BD%93%E8%8B%8F%E5%8D%97%23&t=31&band_rank=37&Refer=top) 21428
+1. [中国女篮大胜波黑](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E5%A4%A7%E8%83%9C%E6%B3%A2%E9%BB%91%23&t=31&band_rank=38&Refer=top) 21375
 1. [汪苏泷联名KPI又达成了一首](https://s.weibo.com/weibo?q=%E6%B1%AA%E8%8B%8F%E6%B3%B7%E8%81%94%E5%90%8DKPI%E5%8F%88%E8%BE%BE%E6%88%90%E4%BA%86%E4%B8%80%E9%A6%96&t=31&band_rank=46&Refer=top) 20122
 1. [微博喜剧现场](https://s.weibo.com/weibo?q=%E5%BE%AE%E5%8D%9A%E5%96%9C%E5%89%A7%E7%8E%B0%E5%9C%BA&t=31&band_rank=47&Refer=top) 19438
 1. [起猛了看见鹿挂着铃铛从水中跳出来了](https://s.weibo.com/weibo?q=%E8%B5%B7%E7%8C%9B%E4%BA%86%E7%9C%8B%E8%A7%81%E9%B9%BF%E6%8C%82%E7%9D%80%E9%93%83%E9%93%9B%E4%BB%8E%E6%B0%B4%E4%B8%AD%E8%B7%B3%E5%87%BA%E6%9D%A5%E4%BA%86&t=31&band_rank=48&Refer=top) 19024
-1. [扎克伯格150亿美元投资数据标注公司](https://s.weibo.com/weibo?q=%23%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC150%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E6%95%B0%E6%8D%AE%E6%A0%87%E6%B3%A8%E5%85%AC%E5%8F%B8%23&t=31&band_rank=47&Refer=top) 16237
+1. [扎克伯格150亿美元投资数据标注公司](https://s.weibo.com/weibo?q=%23%E6%89%8E%E5%85%8B%E4%BC%AF%E6%A0%BC150%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E6%95%B0%E6%8D%AE%E6%A0%87%E6%B3%A8%E5%85%AC%E5%8F%B8%23&t=31&band_rank=47&Refer=top) 16593
 1. [福鹿正向您走来](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E9%B9%BF%E6%AD%A3%E5%90%91%E6%82%A8%E8%B5%B0%E6%9D%A5%23&t=31&band_rank=48&Refer=top) 16230
 <!-- END -->
 
