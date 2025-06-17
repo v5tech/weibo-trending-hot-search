@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-06-18 04:24:06.227697 
+最后更新时间 2025-06-18 05:21:22.274801 
 1. [救护车收费2.8万家属问能不能便宜点](https://s.weibo.com/weibo?q=%23%E6%95%91%E6%8A%A4%E8%BD%A6%E6%94%B6%E8%B4%B92.8%E4%B8%87%E5%AE%B6%E5%B1%9E%E9%97%AE%E8%83%BD%E4%B8%8D%E8%83%BD%E4%BE%BF%E5%AE%9C%E7%82%B9%23&t=31&band_rank=1&Refer=top) 1194807
 1. [何炅选李晟当女主的含金量](https://s.weibo.com/weibo?q=%E4%BD%95%E7%82%85%E9%80%89%E6%9D%8E%E6%99%9F%E5%BD%93%E5%A5%B3%E4%B8%BB%E7%9A%84%E5%90%AB%E9%87%91%E9%87%8F&t=31&band_rank=2&Refer=top) 557121
 1. [九组数据感知我国经济韧性活力](https://s.weibo.com/weibo?q=%23%E4%B9%9D%E7%BB%84%E6%95%B0%E6%8D%AE%E6%84%9F%E7%9F%A5%E6%88%91%E5%9B%BD%E7%BB%8F%E6%B5%8E%E9%9F%A7%E6%80%A7%E6%B4%BB%E5%8A%9B%23&t=31&band_rank=3&Refer=top) 381936
@@ -76,9 +76,14 @@
 1. [大国外交的忙碌现场](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%9B%BD%E5%A4%96%E4%BA%A4%E7%9A%84%E5%BF%99%E7%A2%8C%E7%8E%B0%E5%9C%BA%23&t=31&band_rank=41&Refer=top) 19844
 1. [无畏契约多伦多大师赛](https://s.weibo.com/weibo?q=%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6%E5%A4%9A%E4%BC%A6%E5%A4%9A%E5%A4%A7%E5%B8%88%E8%B5%9B&t=31&band_rank=48&Refer=top) 19812
 1. [种地吧](https://s.weibo.com/weibo?q=%E7%A7%8D%E5%9C%B0%E5%90%A7&t=31&band_rank=49&Refer=top) 19810
+1. [labubu挂包不翻面的方法](https://s.weibo.com/weibo?q=labubu%E6%8C%82%E5%8C%85%E4%B8%8D%E7%BF%BB%E9%9D%A2%E7%9A%84%E6%96%B9%E6%B3%95&t=31&band_rank=48&Refer=top) 19503
+1. [金建希硕士论文被认定为剽窃](https://s.weibo.com/weibo?q=%23%E9%87%91%E5%BB%BA%E5%B8%8C%E7%A1%95%E5%A3%AB%E8%AE%BA%E6%96%87%E8%A2%AB%E8%AE%A4%E5%AE%9A%E4%B8%BA%E5%89%BD%E7%AA%83%23&t=31&band_rank=33&Refer=top) 18126
 1. [火力全开舞台](https://s.weibo.com/weibo?q=%E7%81%AB%E5%8A%9B%E5%85%A8%E5%BC%80%E8%88%9E%E5%8F%B0&t=31&band_rank=41&Refer=top) 16934
 1. [我国磁悬浮技术获新突破](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E7%A3%81%E6%82%AC%E6%B5%AE%E6%8A%80%E6%9C%AF%E8%8E%B7%E6%96%B0%E7%AA%81%E7%A0%B4%23&t=31&band_rank=43&Refer=top) 16062
-1. [labubu挂包不翻面的方法](https://s.weibo.com/weibo?q=labubu%E6%8C%82%E5%8C%85%E4%B8%8D%E7%BF%BB%E9%9D%A2%E7%9A%84%E6%96%B9%E6%B3%95&t=31&band_rank=48&Refer=top) 16008
+1. [钟丽缇回应被评价怎么健身都不瘦](https://s.weibo.com/weibo?q=%23%E9%92%9F%E4%B8%BD%E7%BC%87%E5%9B%9E%E5%BA%94%E8%A2%AB%E8%AF%84%E4%BB%B7%E6%80%8E%E4%B9%88%E5%81%A5%E8%BA%AB%E9%83%BD%E4%B8%8D%E7%98%A6%23&t=31&band_rank=43&Refer=top) 15626
+1. [各方应该推动中东局势尽快降温](https://s.weibo.com/weibo?q=%23%E5%90%84%E6%96%B9%E5%BA%94%E8%AF%A5%E6%8E%A8%E5%8A%A8%E4%B8%AD%E4%B8%9C%E5%B1%80%E5%8A%BF%E5%B0%BD%E5%BF%AB%E9%99%8D%E6%B8%A9%23&t=31&band_rank=45&Refer=top) 15622
+1. [12岁女孩花3200元学韩语家长质疑](https://s.weibo.com/weibo?q=%2312%E5%B2%81%E5%A5%B3%E5%AD%A9%E8%8A%B13200%E5%85%83%E5%AD%A6%E9%9F%A9%E8%AF%AD%E5%AE%B6%E9%95%BF%E8%B4%A8%E7%96%91%23&t=31&band_rank=47&Refer=top) 15619
+1. [女方回应男子拿两套房求和儿子被拒](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%96%B9%E5%9B%9E%E5%BA%94%E7%94%B7%E5%AD%90%E6%8B%BF%E4%B8%A4%E5%A5%97%E6%88%BF%E6%B1%82%E5%92%8C%E5%84%BF%E5%AD%90%E8%A2%AB%E6%8B%92%23&t=31&band_rank=48&Refer=top) 15618
 <!-- END -->
 
 历史归档 [./archives](./archives)
