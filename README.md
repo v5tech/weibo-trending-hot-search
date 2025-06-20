@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-06-21 04:24:22.652953 
+最后更新时间 2025-06-21 05:19:50.522820 
 1. [马嘉祺淘汰](https://s.weibo.com/weibo?q=%E9%A9%AC%E5%98%89%E7%A5%BA%E6%B7%98%E6%B1%B0&t=31&band_rank=1&Refer=top) 1096694
 1. [歌手补位](https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E8%A1%A5%E4%BD%8D&t=31&band_rank=2&Refer=top) 503811
 1. [中国饭碗里的科技范儿](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A5%AD%E7%A2%97%E9%87%8C%E7%9A%84%E7%A7%91%E6%8A%80%E8%8C%83%E5%84%BF%23&t=31&band_rank=3&Refer=top) 497862
@@ -75,8 +75,10 @@
 1. [易烊千玺演唱会](https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=41&Refer=top) 40341
 1. [奔跑吧13](https://s.weibo.com/weibo?q=%E5%A5%94%E8%B7%91%E5%90%A713&t=31&band_rank=45&Refer=top) 40291
 1. [豆包p图指令](https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85p%E5%9B%BE%E6%8C%87%E4%BB%A4&t=31&band_rank=17&Refer=top) 30340
+1. [周家斌被双开](https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%AE%B6%E6%96%8C%E8%A2%AB%E5%8F%8C%E5%BC%80%23&t=31&band_rank=21&Refer=top) 27092
 1. [47岁网红主播天宇因心梗去世](https://s.weibo.com/weibo?q=%2347%E5%B2%81%E7%BD%91%E7%BA%A2%E4%B8%BB%E6%92%AD%E5%A4%A9%E5%AE%87%E5%9B%A0%E5%BF%83%E6%A2%97%E5%8E%BB%E4%B8%96%23&t=31&band_rank=29&Refer=top) 25718
-1. [上百名中国公民从以撤离至埃及境内](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E7%99%BE%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E4%BB%8E%E4%BB%A5%E6%92%A4%E7%A6%BB%E8%87%B3%E5%9F%83%E5%8F%8A%E5%A2%83%E5%86%85%23&t=31&band_rank=40&Refer=top) 20555
+1. [俄罗斯愿与中国开展全面合作](https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E6%84%BF%E4%B8%8E%E4%B8%AD%E5%9B%BD%E5%BC%80%E5%B1%95%E5%85%A8%E9%9D%A2%E5%90%88%E4%BD%9C%23&t=31&band_rank=31&Refer=top) 22781
+1. [上百名中国公民从以撤离至埃及境内](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E7%99%BE%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E4%BB%8E%E4%BB%A5%E6%92%A4%E7%A6%BB%E8%87%B3%E5%9F%83%E5%8F%8A%E5%A2%83%E5%86%85%23&t=31&band_rank=40&Refer=top) 22767
 <!-- END -->
 
 历史归档 [./archives](./archives)
