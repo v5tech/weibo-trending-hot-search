@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-06-25 02:31:37.984222 
+最后更新时间 2025-06-25 03:18:16.426826 
 1. [港媒曝姜涛服食药物跳海](https://s.weibo.com/weibo?q=%23%E6%B8%AF%E5%AA%92%E6%9B%9D%E5%A7%9C%E6%B6%9B%E6%9C%8D%E9%A3%9F%E8%8D%AF%E7%89%A9%E8%B7%B3%E6%B5%B7%23&t=31&band_rank=1&Refer=top) 875157
 1. [男生高考715分北大来电差点挂掉](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E9%AB%98%E8%80%83715%E5%88%86%E5%8C%97%E5%A4%A7%E6%9D%A5%E7%94%B5%E5%B7%AE%E7%82%B9%E6%8C%82%E6%8E%89%23&t=31&band_rank=4&Refer=top) 509467
 1. [个人养老金按领取额3%纳税](https://s.weibo.com/weibo?q=%23%E4%B8%AA%E4%BA%BA%E5%85%BB%E8%80%81%E9%87%91%E6%8C%89%E9%A2%86%E5%8F%96%E9%A2%9D3%25%E7%BA%B3%E7%A8%8E%23&t=31&band_rank=2&Refer=top) 466122
@@ -66,6 +66,7 @@
 1. [伊媒称特朗普近乎乞求伊朗停火](https://s.weibo.com/weibo?q=%23%E4%BC%8A%E5%AA%92%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%91%E4%B9%8E%E4%B9%9E%E6%B1%82%E4%BC%8A%E6%9C%97%E5%81%9C%E7%81%AB%23&t=31&band_rank=36&Refer=top) 57382
 1. [再考清华当事人称将公布高考成绩](https://s.weibo.com/weibo?q=%23%E5%86%8D%E8%80%83%E6%B8%85%E5%8D%8E%E5%BD%93%E4%BA%8B%E4%BA%BA%E7%A7%B0%E5%B0%86%E5%85%AC%E5%B8%83%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%23&t=31&band_rank=37&Refer=top) 57324
 1. [女生高考662分打算学医](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E9%AB%98%E8%80%83662%E5%88%86%E6%89%93%E7%AE%97%E5%AD%A6%E5%8C%BB%23&t=31&band_rank=40&Refer=top) 55852
+1. [停火生效前以被曝实施多起暗杀](https://s.weibo.com/weibo?q=%23%E5%81%9C%E7%81%AB%E7%94%9F%E6%95%88%E5%89%8D%E4%BB%A5%E8%A2%AB%E6%9B%9D%E5%AE%9E%E6%96%BD%E5%A4%9A%E8%B5%B7%E6%9A%97%E6%9D%80%23&t=31&band_rank=10&Refer=top) 49069
 1. [特朗普称以色列和伊朗均违反停火协议](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%BB%A5%E8%89%B2%E5%88%97%E5%92%8C%E4%BC%8A%E6%9C%97%E5%9D%87%E8%BF%9D%E5%8F%8D%E5%81%9C%E7%81%AB%E5%8D%8F%E8%AE%AE%23&t=31&band_rank=45&Refer=top) 48887
 1. [肖战是细节控](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%98%AF%E7%BB%86%E8%8A%82%E6%8E%A7%23&t=31&band_rank=49&Refer=top) 47028
 1. [晋江文学城严正声明](https://s.weibo.com/weibo?q=%23%E6%99%8B%E6%B1%9F%E6%96%87%E5%AD%A6%E5%9F%8E%E4%B8%A5%E6%AD%A3%E5%A3%B0%E6%98%8E%23&t=31&band_rank=50&Refer=top) 45628
