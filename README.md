@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-06-26 04:25:38.227480 
+最后更新时间 2025-06-26 05:21:13.228064 
 1. [成绩被屏蔽女孩坚信不存在智商差距](https://s.weibo.com/weibo?q=%23%E6%88%90%E7%BB%A9%E8%A2%AB%E5%B1%8F%E8%94%BD%E5%A5%B3%E5%AD%A9%E5%9D%9A%E4%BF%A1%E4%B8%8D%E5%AD%98%E5%9C%A8%E6%99%BA%E5%95%86%E5%B7%AE%E8%B7%9D%23&t=31&band_rank=1&Refer=top) 1189948
 1. [高考724分女生回应数学满分](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83724%E5%88%86%E5%A5%B3%E7%94%9F%E5%9B%9E%E5%BA%94%E6%95%B0%E5%AD%A6%E6%BB%A1%E5%88%86%23&t=31&band_rank=2&Refer=top) 814220
 1. [2025高质量发展看吉林](https://s.weibo.com/weibo?q=%232025%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E7%9C%8B%E5%90%89%E6%9E%97%23&t=31&band_rank=3&Refer=top) 729742
@@ -63,8 +63,8 @@
 1. [张译的梗突如其来的好笑](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%AF%91%E7%9A%84%E6%A2%97%E7%AA%81%E5%A6%82%E5%85%B6%E6%9D%A5%E7%9A%84%E5%A5%BD%E7%AC%91&t=31&band_rank=49&Refer=top) 63173
 1. [考生家长到教育局门口放烟花](https://s.weibo.com/weibo?q=%23%E8%80%83%E7%94%9F%E5%AE%B6%E9%95%BF%E5%88%B0%E6%95%99%E8%82%B2%E5%B1%80%E9%97%A8%E5%8F%A3%E6%94%BE%E7%83%9F%E8%8A%B1%23&t=31&band_rank=50&Refer=top) 63036
 1. [梁实第29次高考差本科线13分](https://s.weibo.com/weibo?q=%23%E6%A2%81%E5%AE%9E%E7%AC%AC29%E6%AC%A1%E9%AB%98%E8%80%83%E5%B7%AE%E6%9C%AC%E7%A7%91%E7%BA%BF13%E5%88%86%23&t=31&band_rank=10&Refer=top) 54028
+1. [特朗普发文说CNN假新闻](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E6%96%87%E8%AF%B4CNN%E5%81%87%E6%96%B0%E9%97%BB%23&t=31&band_rank=6&Refer=top) 46011
 1. [桃黑黑 橙光](https://s.weibo.com/weibo?q=%E6%A1%83%E9%BB%91%E9%BB%91%20%E6%A9%99%E5%85%89&t=31&band_rank=42&Refer=top) 43771
-1. [特朗普发文说CNN假新闻](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E6%96%87%E8%AF%B4CNN%E5%81%87%E6%96%B0%E9%97%BB%23&t=31&band_rank=6&Refer=top) 41337
 1. [文韬晒撕拉片](https://s.weibo.com/weibo?q=%23%E6%96%87%E9%9F%AC%E6%99%92%E6%92%95%E6%8B%89%E7%89%87%23&t=31&band_rank=46&Refer=top) 40937
 1. [伊朗防长现身青岛](https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E9%98%B2%E9%95%BF%E7%8E%B0%E8%BA%AB%E9%9D%92%E5%B2%9B%23&t=31&band_rank=47&Refer=top) 40937
 1. [关晓彤海边跑步](https://s.weibo.com/weibo?q=%E5%85%B3%E6%99%93%E5%BD%A4%E6%B5%B7%E8%BE%B9%E8%B7%91%E6%AD%A5&t=31&band_rank=48&Refer=top) 40927
@@ -72,14 +72,15 @@
 1. [labubu](https://s.weibo.com/weibo?q=%23labubu%23&t=31&band_rank=32&Refer=top) 40542
 1. [中方驳斥英政府报告称中国间谍活动增加](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E9%A9%B3%E6%96%A5%E8%8B%B1%E6%94%BF%E5%BA%9C%E6%8A%A5%E5%91%8A%E7%A7%B0%E4%B8%AD%E5%9B%BD%E9%97%B4%E8%B0%8D%E6%B4%BB%E5%8A%A8%E5%A2%9E%E5%8A%A0%23&t=31&band_rank=11&Refer=top) 32706
 1. [王者S40赛季福利第一弹](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85S40%E8%B5%9B%E5%AD%A3%E7%A6%8F%E5%88%A9%E7%AC%AC%E4%B8%80%E5%BC%B9%23&t=31&band_rank=43&Refer=top) 30997
+1. [长期不上班会和社会脱节吗](https://s.weibo.com/weibo?q=%E9%95%BF%E6%9C%9F%E4%B8%8D%E4%B8%8A%E7%8F%AD%E4%BC%9A%E5%92%8C%E7%A4%BE%E4%BC%9A%E8%84%B1%E8%8A%82%E5%90%97&t=31&band_rank=42&Refer=top) 23623
 1. [虞书欣美好的旅程](https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%BE%8E%E5%A5%BD%E7%9A%84%E6%97%85%E7%A8%8B&t=31&band_rank=40&Refer=top) 23566
 1. [渐冻症考生回应高考400分](https://s.weibo.com/weibo?q=%23%E6%B8%90%E5%86%BB%E7%97%87%E8%80%83%E7%94%9F%E5%9B%9E%E5%BA%94%E9%AB%98%E8%80%83400%E5%88%86%23&t=31&band_rank=44&Refer=top) 23394
 1. [86岁大学学历北京大爷退休收入](https://s.weibo.com/weibo?q=86%E5%B2%81%E5%A4%A7%E5%AD%A6%E5%AD%A6%E5%8E%86%E5%8C%97%E4%BA%AC%E5%A4%A7%E7%88%B7%E9%80%80%E4%BC%91%E6%94%B6%E5%85%A5&t=31&band_rank=35&Refer=top) 23022
 1. [女子掉进沥青桶被卡住连桶一起送医](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%8E%89%E8%BF%9B%E6%B2%A5%E9%9D%92%E6%A1%B6%E8%A2%AB%E5%8D%A1%E4%BD%8F%E8%BF%9E%E6%A1%B6%E4%B8%80%E8%B5%B7%E9%80%81%E5%8C%BB%23&t=31&band_rank=22&Refer=top) 21226
+1. [错换人生28年案姚策养母索赔220万](https://s.weibo.com/weibo?q=%23%E9%94%99%E6%8D%A2%E4%BA%BA%E7%94%9F28%E5%B9%B4%E6%A1%88%E5%A7%9A%E7%AD%96%E5%85%BB%E6%AF%8D%E7%B4%A2%E8%B5%94220%E4%B8%87%23&t=31&band_rank=49&Refer=top) 19426
 1. [姚策养母否认起诉是为炒作带货](https://s.weibo.com/weibo?q=%23%E5%A7%9A%E7%AD%96%E5%85%BB%E6%AF%8D%E5%90%A6%E8%AE%A4%E8%B5%B7%E8%AF%89%E6%98%AF%E4%B8%BA%E7%82%92%E4%BD%9C%E5%B8%A6%E8%B4%A7%23&t=31&band_rank=48&Refer=top) 18973
 1. [男生复读3年查分喜极而泣姐姐发声](https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E5%A4%8D%E8%AF%BB3%E5%B9%B4%E6%9F%A5%E5%88%86%E5%96%9C%E6%9E%81%E8%80%8C%E6%B3%A3%E5%A7%90%E5%A7%90%E5%8F%91%E5%A3%B0%23&t=31&band_rank=33&Refer=top) 18728
-1. [长期不上班会和社会脱节吗](https://s.weibo.com/weibo?q=%E9%95%BF%E6%9C%9F%E4%B8%8D%E4%B8%8A%E7%8F%AD%E4%BC%9A%E5%92%8C%E7%A4%BE%E4%BC%9A%E8%84%B1%E8%8A%82%E5%90%97&t=31&band_rank=42&Refer=top) 16296
-1. [错换人生28年案姚策养母索赔220万](https://s.weibo.com/weibo?q=%23%E9%94%99%E6%8D%A2%E4%BA%BA%E7%94%9F28%E5%B9%B4%E6%A1%88%E5%A7%9A%E7%AD%96%E5%85%BB%E6%AF%8D%E7%B4%A2%E8%B5%94220%E4%B8%87%23&t=31&band_rank=49&Refer=top) 14962
+1. [把自己戴了很久的东西送给别人](https://s.weibo.com/weibo?q=%E6%8A%8A%E8%87%AA%E5%B7%B1%E6%88%B4%E4%BA%86%E5%BE%88%E4%B9%85%E7%9A%84%E4%B8%9C%E8%A5%BF%E9%80%81%E7%BB%99%E5%88%AB%E4%BA%BA&t=31&band_rank=47&Refer=top) 16112
 1. [涉毒品犯罪没有小案](https://s.weibo.com/weibo?q=%23%E6%B6%89%E6%AF%92%E5%93%81%E7%8A%AF%E7%BD%AA%E6%B2%A1%E6%9C%89%E5%B0%8F%E6%A1%88%23&t=31&band_rank=50&Refer=top) 14962
 <!-- END -->
 
