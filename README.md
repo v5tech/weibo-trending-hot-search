@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-06-27 04:25:23.382527 
+最后更新时间 2025-06-27 05:21:19.364810 
 1. [小米汽车](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6&t=31&band_rank=1&Refer=top) 3787594
 1. [蔡依林](https://s.weibo.com/weibo?q=%E8%94%A1%E4%BE%9D%E6%9E%97&t=31&band_rank=2&Refer=top) 569266
 1. [活力中国调研行](https://s.weibo.com/weibo?q=%23%E6%B4%BB%E5%8A%9B%E4%B8%AD%E5%9B%BD%E8%B0%83%E7%A0%94%E8%A1%8C%23&t=31&band_rank=3&Refer=top) 492384
@@ -76,11 +76,12 @@
 1. [第30届上海电视节](https://s.weibo.com/weibo?q=%23%E7%AC%AC30%E5%B1%8A%E4%B8%8A%E6%B5%B7%E7%94%B5%E8%A7%86%E8%8A%82%23&t=31&band_rank=44&Refer=top) 28065
 1. [lorde新专](https://s.weibo.com/weibo?q=lorde%E6%96%B0%E4%B8%93&t=31&band_rank=45&Refer=top) 28061
 1. [跪谢爷爷的双胞胎兄弟高考成绩出炉](https://s.weibo.com/weibo?q=%23%E8%B7%AA%E8%B0%A2%E7%88%B7%E7%88%B7%E7%9A%84%E5%8F%8C%E8%83%9E%E8%83%8E%E5%85%84%E5%BC%9F%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E5%87%BA%E7%82%89%23&t=31&band_rank=39&Refer=top) 22330
+1. [道禄被采取刑事强制措施](https://s.weibo.com/weibo?q=%23%E9%81%93%E7%A6%84%E8%A2%AB%E9%87%87%E5%8F%96%E5%88%91%E4%BA%8B%E5%BC%BA%E5%88%B6%E6%8E%AA%E6%96%BD%23&t=31&band_rank=32&Refer=top) 22046
+1. [教育局回应学生体育课玩手机被处分](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E4%BD%93%E8%82%B2%E8%AF%BE%E7%8E%A9%E6%89%8B%E6%9C%BA%E8%A2%AB%E5%A4%84%E5%88%86%23&t=31&band_rank=44&Refer=top) 20296
 1. [煤气泄露14岁男生救了整栋楼](https://s.weibo.com/weibo?q=%23%E7%85%A4%E6%B0%94%E6%B3%84%E9%9C%B214%E5%B2%81%E7%94%B7%E7%94%9F%E6%95%91%E4%BA%86%E6%95%B4%E6%A0%8B%E6%A5%BC%23&t=31&band_rank=44&Refer=top) 20130
-1. [尤文图斯vs曼城](https://s.weibo.com/weibo?q=%23%E5%B0%A4%E6%96%87%E5%9B%BE%E6%96%AFvs%E6%9B%BC%E5%9F%8E%23&t=31&band_rank=42&Refer=top) 16663
-1. [教育局回应学生体育课玩手机被处分](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E4%BD%93%E8%82%B2%E8%AF%BE%E7%8E%A9%E6%89%8B%E6%9C%BA%E8%A2%AB%E5%A4%84%E5%88%86%23&t=31&band_rank=44&Refer=top) 16621
-1. [娄滋博团播](https://s.weibo.com/weibo?q=%23%E5%A8%84%E6%BB%8B%E5%8D%9A%E5%9B%A2%E6%92%AD%23&t=31&band_rank=45&Refer=top) 16619
-1. [列车车次首字母原来是这个意思](https://s.weibo.com/weibo?q=%23%E5%88%97%E8%BD%A6%E8%BD%A6%E6%AC%A1%E9%A6%96%E5%AD%97%E6%AF%8D%E5%8E%9F%E6%9D%A5%E6%98%AF%E8%BF%99%E4%B8%AA%E6%84%8F%E6%80%9D%23&t=31&band_rank=50&Refer=top) 16612
+1. [尤文图斯vs曼城](https://s.weibo.com/weibo?q=%23%E5%B0%A4%E6%96%87%E5%9B%BE%E6%96%AFvs%E6%9B%BC%E5%9F%8E%23&t=31&band_rank=42&Refer=top) 19031
+1. [列车车次首字母原来是这个意思](https://s.weibo.com/weibo?q=%23%E5%88%97%E8%BD%A6%E8%BD%A6%E6%AC%A1%E9%A6%96%E5%AD%97%E6%AF%8D%E5%8E%9F%E6%9D%A5%E6%98%AF%E8%BF%99%E4%B8%AA%E6%84%8F%E6%80%9D%23&t=31&band_rank=50&Refer=top) 17176
+1. [娄滋博团播](https://s.weibo.com/weibo?q=%23%E5%A8%84%E6%BB%8B%E5%8D%9A%E5%9B%A2%E6%92%AD%23&t=31&band_rank=45&Refer=top) 17167
 <!-- END -->
 
 历史归档 [./archives](./archives)
