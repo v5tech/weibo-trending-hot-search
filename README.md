@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-06-28 05:18:38.503330 
+最后更新时间 2025-06-28 06:22:48.364532 
 1. [宋佳白玉兰视后](https://s.weibo.com/weibo?q=%E5%AE%8B%E4%BD%B3%E7%99%BD%E7%8E%89%E5%85%B0%E8%A7%86%E5%90%8E&t=31&band_rank=1&Refer=top) 5225912
 1. [白玉兰获奖名单](https://s.weibo.com/weibo?q=%23%E7%99%BD%E7%8E%89%E5%85%B0%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95%23&t=31&band_rank=2&Refer=top) 2640268
 1. [7月这些新规影响你我](https://s.weibo.com/weibo?q=%237%E6%9C%88%E8%BF%99%E4%BA%9B%E6%96%B0%E8%A7%84%E5%BD%B1%E5%93%8D%E4%BD%A0%E6%88%91%23&t=31&band_rank=3&Refer=top) 1597575
@@ -70,13 +70,14 @@
 1. [王源巡演](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%BA%90%E5%B7%A1%E6%BC%94&t=31&band_rank=45&Refer=top) 59282
 1. [周深贴脸开大单依纯](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E8%B4%B4%E8%84%B8%E5%BC%80%E5%A4%A7%E5%8D%95%E4%BE%9D%E7%BA%AF%23&t=31&band_rank=46&Refer=top) 59262
 1. [冯骥关于高考结束的几点建议](https://s.weibo.com/weibo?q=%23%E5%86%AF%E9%AA%A5%E5%85%B3%E4%BA%8E%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E7%9A%84%E5%87%A0%E7%82%B9%E5%BB%BA%E8%AE%AE%23&t=31&band_rank=49&Refer=top) 59155
+1. [傅首尔瘦身成功美出新高度](https://s.weibo.com/weibo?q=%23%E5%82%85%E9%A6%96%E5%B0%94%E7%98%A6%E8%BA%AB%E6%88%90%E5%8A%9F%E7%BE%8E%E5%87%BA%E6%96%B0%E9%AB%98%E5%BA%A6%23&t=31&band_rank=31&Refer=top) 37158
 1. [蔡澜曾谈怎样面对亲友离世](https://s.weibo.com/weibo?q=%23%E8%94%A1%E6%BE%9C%E6%9B%BE%E8%B0%88%E6%80%8E%E6%A0%B7%E9%9D%A2%E5%AF%B9%E4%BA%B2%E5%8F%8B%E7%A6%BB%E4%B8%96%23&t=31&band_rank=41&Refer=top) 36788
 1. [歌手白玉兰获奖](https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E7%99%BD%E7%8E%89%E5%85%B0%E8%8E%B7%E5%A5%96&t=31&band_rank=42&Refer=top) 36109
 1. [歌手收视率](https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E6%94%B6%E8%A7%86%E7%8E%87%23&t=31&band_rank=43&Refer=top) 35988
-1. [傅首尔瘦身成功美出新高度](https://s.weibo.com/weibo?q=%23%E5%82%85%E9%A6%96%E5%B0%94%E7%98%A6%E8%BA%AB%E6%88%90%E5%8A%9F%E7%BE%8E%E5%87%BA%E6%96%B0%E9%AB%98%E5%BA%A6%23&t=31&band_rank=31&Refer=top) 28285
-1. [台湾彩民花800元独揽17亿头奖](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E5%BD%A9%E6%B0%91%E8%8A%B1800%E5%85%83%E7%8B%AC%E6%8F%BD17%E4%BA%BF%E5%A4%B4%E5%A5%96%23&t=31&band_rank=45&Refer=top) 26924
-1. [24岁小伙久坐不动致多处血栓险丧命](https://s.weibo.com/weibo?q=%2324%E5%B2%81%E5%B0%8F%E4%BC%99%E4%B9%85%E5%9D%90%E4%B8%8D%E5%8A%A8%E8%87%B4%E5%A4%9A%E5%A4%84%E8%A1%80%E6%A0%93%E9%99%A9%E4%B8%A7%E5%91%BD%23&t=31&band_rank=47&Refer=top) 26924
-1. [卢伟冰称团队十分有血性](https://s.weibo.com/weibo?q=%23%E5%8D%A2%E4%BC%9F%E5%86%B0%E7%A7%B0%E5%9B%A2%E9%98%9F%E5%8D%81%E5%88%86%E6%9C%89%E8%A1%80%E6%80%A7%23&t=31&band_rank=50&Refer=top) 26924
+1. [24岁小伙久坐不动致多处血栓险丧命](https://s.weibo.com/weibo?q=%2324%E5%B2%81%E5%B0%8F%E4%BC%99%E4%B9%85%E5%9D%90%E4%B8%8D%E5%8A%A8%E8%87%B4%E5%A4%9A%E5%A4%84%E8%A1%80%E6%A0%93%E9%99%A9%E4%B8%A7%E5%91%BD%23&t=31&band_rank=47&Refer=top) 35835
+1. [杨紫也有被拍照难到的一天](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E4%B9%9F%E6%9C%89%E8%A2%AB%E6%8B%8D%E7%85%A7%E9%9A%BE%E5%88%B0%E7%9A%84%E4%B8%80%E5%A4%A9%23&t=31&band_rank=42&Refer=top) 35204
+1. [台湾彩民花800元独揽17亿头奖](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E5%BD%A9%E6%B0%91%E8%8A%B1800%E5%85%83%E7%8B%AC%E6%8F%BD17%E4%BA%BF%E5%A4%B4%E5%A5%96%23&t=31&band_rank=45&Refer=top) 35148
+1. [卢伟冰称团队十分有血性](https://s.weibo.com/weibo?q=%23%E5%8D%A2%E4%BC%9F%E5%86%B0%E7%A7%B0%E5%9B%A2%E9%98%9F%E5%8D%81%E5%88%86%E6%9C%89%E8%A1%80%E6%80%A7%23&t=31&band_rank=50&Refer=top) 35128
 1. [蔡澜 人间好玩](https://s.weibo.com/weibo?q=%E8%94%A1%E6%BE%9C%20%E4%BA%BA%E9%97%B4%E5%A5%BD%E7%8E%A9&t=31&band_rank=43&Refer=top) 26924
 1. [喜人奇妙夜白玉兰最佳综艺节目](https://s.weibo.com/weibo?q=%23%E5%96%9C%E4%BA%BA%E5%A5%87%E5%A6%99%E5%A4%9C%E7%99%BD%E7%8E%89%E5%85%B0%E6%9C%80%E4%BD%B3%E7%BB%BC%E8%89%BA%E8%8A%82%E7%9B%AE%23&t=31&band_rank=36&Refer=top) 26874
 1. [周深张真源什么时候能放过彼此](https://s.weibo.com/weibo?q=%E5%91%A8%E6%B7%B1%E5%BC%A0%E7%9C%9F%E6%BA%90%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E8%83%BD%E6%94%BE%E8%BF%87%E5%BD%BC%E6%AD%A4&t=31&band_rank=37&Refer=top) 26872
