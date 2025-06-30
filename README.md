@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-07-01 03:17:40.324610 
+最后更新时间 2025-07-01 04:24:12.718010 
 1. [女子拍到野牛跌入温泉被活活煮死](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%8B%8D%E5%88%B0%E9%87%8E%E7%89%9B%E8%B7%8C%E5%85%A5%E6%B8%A9%E6%B3%89%E8%A2%AB%E6%B4%BB%E6%B4%BB%E7%85%AE%E6%AD%BB%23&t=31&band_rank=1&Refer=top) 1100073
 1. [明天你的公积金账户将多一笔钱](https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%A4%A9%E4%BD%A0%E7%9A%84%E5%85%AC%E7%A7%AF%E9%87%91%E8%B4%A6%E6%88%B7%E5%B0%86%E5%A4%9A%E4%B8%80%E7%AC%94%E9%92%B1%23&t=31&band_rank=2&Refer=top) 672632
 1. [万千气象看山西](https://s.weibo.com/weibo?q=%23%E4%B8%87%E5%8D%83%E6%B0%94%E8%B1%A1%E7%9C%8B%E5%B1%B1%E8%A5%BF%23&t=31&band_rank=3&Refer=top) 468906
@@ -80,8 +80,13 @@
 1. [钟青导演投喂鞠婧祎剧组](https://s.weibo.com/weibo?q=%23%E9%92%9F%E9%9D%92%E5%AF%BC%E6%BC%94%E6%8A%95%E5%96%82%E9%9E%A0%E5%A9%A7%E7%A5%8E%E5%89%A7%E7%BB%84%23&t=31&band_rank=29&Refer=top) 26946
 1. [枭起青壤预约量破200万](https://s.weibo.com/weibo?q=%23%E6%9E%AD%E8%B5%B7%E9%9D%92%E5%A3%A4%E9%A2%84%E7%BA%A6%E9%87%8F%E7%A0%B4200%E4%B8%87%23&t=31&band_rank=30&Refer=top) 26936
 1. [汪苏泷欢迎罗曼城公主回家](https://s.weibo.com/weibo?q=%E6%B1%AA%E8%8B%8F%E6%B3%B7%E6%AC%A2%E8%BF%8E%E7%BD%97%E6%9B%BC%E5%9F%8E%E5%85%AC%E4%B8%BB%E5%9B%9E%E5%AE%B6&t=31&band_rank=33&Refer=top) 25042
-1. [电影恶意](https://s.weibo.com/weibo?q=%E7%94%B5%E5%BD%B1%E6%81%B6%E6%84%8F&t=31&band_rank=40&Refer=top) 20269
+1. [电影恶意](https://s.weibo.com/weibo?q=%E7%94%B5%E5%BD%B1%E6%81%B6%E6%84%8F&t=31&band_rank=40&Refer=top) 21177
 1. [黄子弘凡这条plog含金量好高](https://s.weibo.com/weibo?q=%E9%BB%84%E5%AD%90%E5%BC%98%E5%87%A1%E8%BF%99%E6%9D%A1plog%E5%90%AB%E9%87%91%E9%87%8F%E5%A5%BD%E9%AB%98&t=31&band_rank=48&Refer=top) 19522
+1. [官方通报贵州乌江段出现浮油](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E8%B4%B5%E5%B7%9E%E4%B9%8C%E6%B1%9F%E6%AE%B5%E5%87%BA%E7%8E%B0%E6%B5%AE%E6%B2%B9%23&t=31&band_rank=40&Refer=top) 17010
+1. [2025上半年纪念短片](https://s.weibo.com/weibo?q=%232025%E4%B8%8A%E5%8D%8A%E5%B9%B4%E7%BA%AA%E5%BF%B5%E7%9F%AD%E7%89%87%23&t=31&band_rank=42&Refer=top) 16142
+1. [张小斐血泪镜头](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%B0%8F%E6%96%90%E8%A1%80%E6%B3%AA%E9%95%9C%E5%A4%B4&t=31&band_rank=47&Refer=top) 16140
+1. [榕江有珠宝店三成金银饰品被冲走](https://s.weibo.com/weibo?q=%23%E6%A6%95%E6%B1%9F%E6%9C%89%E7%8F%A0%E5%AE%9D%E5%BA%97%E4%B8%89%E6%88%90%E9%87%91%E9%93%B6%E9%A5%B0%E5%93%81%E8%A2%AB%E5%86%B2%E8%B5%B0%23&t=31&band_rank=49&Refer=top) 16139
+1. [我不是天才吗](https://s.weibo.com/weibo?q=%E6%88%91%E4%B8%8D%E6%98%AF%E5%A4%A9%E6%89%8D%E5%90%97&t=31&band_rank=50&Refer=top) 16139
 <!-- END -->
 
 历史归档 [./archives](./archives)
