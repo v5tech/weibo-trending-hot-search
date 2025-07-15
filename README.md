@@ -7,13 +7,13 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-07-16 01:21:21.211150 
+最后更新时间 2025-07-16 02:34:53.216540 
 1. [日本地震](https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87&t=31&band_rank=1&Refer=top) 1152660
 1. [山姆线上已下架好丽友](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E5%A7%86%E7%BA%BF%E4%B8%8A%E5%B7%B2%E4%B8%8B%E6%9E%B6%E5%A5%BD%E4%B8%BD%E5%8F%8B%23&t=31&band_rank=2&Refer=top) 655202
 1. [亮出你的AI角色](https://s.weibo.com/weibo?q=%23%E4%BA%AE%E5%87%BA%E4%BD%A0%E7%9A%84AI%E8%A7%92%E8%89%B2%23&t=31&band_rank=3&Refer=top) 419752
 1. [魏笑 赵露思](https://s.weibo.com/weibo?q=%E9%AD%8F%E7%AC%91%20%E8%B5%B5%E9%9C%B2%E6%80%9D&t=31&band_rank=4&Refer=top) 390645
+1. [雪糕刺客真的凉凉了](https://s.weibo.com/weibo?q=%23%E9%9B%AA%E7%B3%95%E5%88%BA%E5%AE%A2%E7%9C%9F%E7%9A%84%E5%87%89%E5%87%89%E4%BA%86%23&t=31&band_rank=5&Refer=top) 389484
 1. [朱正廷家里着火了](https://s.weibo.com/weibo?q=%E6%9C%B1%E6%AD%A3%E5%BB%B7%E5%AE%B6%E9%87%8C%E7%9D%80%E7%81%AB%E4%BA%86&t=31&band_rank=5&Refer=top) 377966
-1. [雪糕刺客真的凉凉了](https://s.weibo.com/weibo?q=%23%E9%9B%AA%E7%B3%95%E5%88%BA%E5%AE%A2%E7%9C%9F%E7%9A%84%E5%87%89%E5%87%89%E4%BA%86%23&t=31&band_rank=5&Refer=top) 361691
 1. [山姆回应一女子脚踩取冰机内取冰](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E5%A7%86%E5%9B%9E%E5%BA%94%E4%B8%80%E5%A5%B3%E5%AD%90%E8%84%9A%E8%B8%A9%E5%8F%96%E5%86%B0%E6%9C%BA%E5%86%85%E5%8F%96%E5%86%B0%23&t=31&band_rank=6&Refer=top) 357590
 1. [相亲相到了个老式男友是什么体验](https://s.weibo.com/weibo?q=%E7%9B%B8%E4%BA%B2%E7%9B%B8%E5%88%B0%E4%BA%86%E4%B8%AA%E8%80%81%E5%BC%8F%E7%94%B7%E5%8F%8B%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C&t=31&band_rank=7&Refer=top) 356849
 1. [坐后备箱数小时男孩抚养权已变更](https://s.weibo.com/weibo?q=%23%E5%9D%90%E5%90%8E%E5%A4%87%E7%AE%B1%E6%95%B0%E5%B0%8F%E6%97%B6%E7%94%B7%E5%AD%A9%E6%8A%9A%E5%85%BB%E6%9D%83%E5%B7%B2%E5%8F%98%E6%9B%B4%23&t=31&band_rank=8&Refer=top) 301221
@@ -34,6 +34,8 @@
 1. [打砸记者摄像机被列为刑事案件](https://s.weibo.com/weibo?q=%23%E6%89%93%E7%A0%B8%E8%AE%B0%E8%80%85%E6%91%84%E5%83%8F%E6%9C%BA%E8%A2%AB%E5%88%97%E4%B8%BA%E5%88%91%E4%BA%8B%E6%A1%88%E4%BB%B6%23&t=31&band_rank=23&Refer=top) 161384
 1. [奶奶不舍得开空调孙女一招瞒天过海](https://s.weibo.com/weibo?q=%23%E5%A5%B6%E5%A5%B6%E4%B8%8D%E8%88%8D%E5%BE%97%E5%BC%80%E7%A9%BA%E8%B0%83%E5%AD%99%E5%A5%B3%E4%B8%80%E6%8B%9B%E7%9E%92%E5%A4%A9%E8%BF%87%E6%B5%B7%23&t=31&band_rank=24&Refer=top) 161364
 1. [日本一地20余天震了超2000次](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%80%E5%9C%B020%E4%BD%99%E5%A4%A9%E9%9C%87%E4%BA%86%E8%B6%852000%E6%AC%A1%23&t=31&band_rank=25&Refer=top) 153863
+1. [到底谁给赵今麦做的妆造](https://s.weibo.com/weibo?q=%23%E5%88%B0%E5%BA%95%E8%B0%81%E7%BB%99%E8%B5%B5%E4%BB%8A%E9%BA%A6%E5%81%9A%E7%9A%84%E5%A6%86%E9%80%A0%23&t=31&band_rank=28&Refer=top) 142929
+1. [人民日报评餐馆发视频拟被罚45万事件](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E9%A4%90%E9%A6%86%E5%8F%91%E8%A7%86%E9%A2%91%E6%8B%9F%E8%A2%AB%E7%BD%9A45%E4%B8%87%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=30&Refer=top) 137227
 1. [杭州多学生流鼻血事件家长发声](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%A4%9A%E5%AD%A6%E7%94%9F%E6%B5%81%E9%BC%BB%E8%A1%80%E4%BA%8B%E4%BB%B6%E5%AE%B6%E9%95%BF%E5%8F%91%E5%A3%B0%23&t=31&band_rank=26&Refer=top) 135419
 1. [南开大学教授因个人简介实诚走红](https://s.weibo.com/weibo?q=%23%E5%8D%97%E5%BC%80%E5%A4%A7%E5%AD%A6%E6%95%99%E6%8E%88%E5%9B%A0%E4%B8%AA%E4%BA%BA%E7%AE%80%E4%BB%8B%E5%AE%9E%E8%AF%9A%E8%B5%B0%E7%BA%A2%23&t=31&band_rank=27&Refer=top) 122230
 1. [普通人买房后的真实感受](https://s.weibo.com/weibo?q=%E6%99%AE%E9%80%9A%E4%BA%BA%E4%B9%B0%E6%88%BF%E5%90%8E%E7%9A%84%E7%9C%9F%E5%AE%9E%E6%84%9F%E5%8F%97&t=31&band_rank=28&Refer=top) 119113
@@ -61,11 +63,12 @@
 1. [吉利与极氪合并](https://s.weibo.com/weibo?q=%23%E5%90%89%E5%88%A9%E4%B8%8E%E6%9E%81%E6%B0%AA%E5%90%88%E5%B9%B6%23&t=31&band_rank=48&Refer=top) 63488
 1. [基孔肯雅热和花斑蚊是什么关系](https://s.weibo.com/weibo?q=%23%E5%9F%BA%E5%AD%94%E8%82%AF%E9%9B%85%E7%83%AD%E5%92%8C%E8%8A%B1%E6%96%91%E8%9A%8A%E6%98%AF%E4%BB%80%E4%B9%88%E5%85%B3%E7%B3%BB%23&t=31&band_rank=49&Refer=top) 62651
 1. [胡先煦听不懂哥的梗但是听哥的话](https://s.weibo.com/weibo?q=%E8%83%A1%E5%85%88%E7%85%A6%E5%90%AC%E4%B8%8D%E6%87%82%E5%93%A5%E7%9A%84%E6%A2%97%E4%BD%86%E6%98%AF%E5%90%AC%E5%93%A5%E7%9A%84%E8%AF%9D&t=31&band_rank=50&Refer=top) 62646
-1. [到底谁给赵今麦做的妆造](https://s.weibo.com/weibo?q=%23%E5%88%B0%E5%BA%95%E8%B0%81%E7%BB%99%E8%B5%B5%E4%BB%8A%E9%BA%A6%E5%81%9A%E7%9A%84%E5%A6%86%E9%80%A0%23&t=31&band_rank=28&Refer=top) 61885
-1. [人民日报评餐馆发视频拟被罚45万事件](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E9%A4%90%E9%A6%86%E5%8F%91%E8%A7%86%E9%A2%91%E6%8B%9F%E8%A2%AB%E7%BD%9A45%E4%B8%87%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=30&Refer=top) 61609
 1. [肖战藏海传集均播放量破5000万](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%97%8F%E6%B5%B7%E4%BC%A0%E9%9B%86%E5%9D%87%E6%92%AD%E6%94%BE%E9%87%8F%E7%A0%B45000%E4%B8%87%23&t=31&band_rank=37&Refer=top) 57470
 1. [内娱第一对这么强婚后感的cp](https://s.weibo.com/weibo?q=%E5%86%85%E5%A8%B1%E7%AC%AC%E4%B8%80%E5%AF%B9%E8%BF%99%E4%B9%88%E5%BC%BA%E5%A9%9A%E5%90%8E%E6%84%9F%E7%9A%84cp&t=31&band_rank=43&Refer=top) 57183
 1. [梓渝内娱唯一线面塑](https://s.weibo.com/weibo?q=%23%E6%A2%93%E6%B8%9D%E5%86%85%E5%A8%B1%E5%94%AF%E4%B8%80%E7%BA%BF%E9%9D%A2%E5%A1%91%23&t=31&band_rank=45&Refer=top) 57140
+1. [澳男子42米高悬崖跳水多处骨折昏迷](https://s.weibo.com/weibo?q=%23%E6%BE%B3%E7%94%B7%E5%AD%9042%E7%B1%B3%E9%AB%98%E6%82%AC%E5%B4%96%E8%B7%B3%E6%B0%B4%E5%A4%9A%E5%A4%84%E9%AA%A8%E6%8A%98%E6%98%8F%E8%BF%B7%23&t=31&band_rank=31&Refer=top) 37295
+1. [阴阳师](https://s.weibo.com/weibo?q=%E9%98%B4%E9%98%B3%E5%B8%88&t=31&band_rank=37&Refer=top) 29832
+1. [火星哥感谢Rose](https://s.weibo.com/weibo?q=%23%E7%81%AB%E6%98%9F%E5%93%A5%E6%84%9F%E8%B0%A2Rose%23&t=31&band_rank=43&Refer=top) 26701
 <!-- END -->
 
 历史归档 [./archives](./archives)
