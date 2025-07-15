@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-07-16 04:26:43.292147 
+最后更新时间 2025-07-16 05:22:13.959614 
 1. [日本地震](https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87&t=31&band_rank=1&Refer=top) 1152660
 1. [山姆线上已下架好丽友](https://s.weibo.com/weibo?q=%23%E5%B1%B1%E5%A7%86%E7%BA%BF%E4%B8%8A%E5%B7%B2%E4%B8%8B%E6%9E%B6%E5%A5%BD%E4%B8%BD%E5%8F%8B%23&t=31&band_rank=2&Refer=top) 655202
 1. [亮出你的AI角色](https://s.weibo.com/weibo?q=%23%E4%BA%AE%E5%87%BA%E4%BD%A0%E7%9A%84AI%E8%A7%92%E8%89%B2%23&t=31&band_rank=3&Refer=top) 419752
@@ -70,7 +70,10 @@
 1. [澳男子42米高悬崖跳水多处骨折昏迷](https://s.weibo.com/weibo?q=%23%E6%BE%B3%E7%94%B7%E5%AD%9042%E7%B1%B3%E9%AB%98%E6%82%AC%E5%B4%96%E8%B7%B3%E6%B0%B4%E5%A4%9A%E5%A4%84%E9%AA%A8%E6%8A%98%E6%98%8F%E8%BF%B7%23&t=31&band_rank=31&Refer=top) 37295
 1. [阴阳师](https://s.weibo.com/weibo?q=%E9%98%B4%E9%98%B3%E5%B8%88&t=31&band_rank=37&Refer=top) 29832
 1. [火星哥感谢Rose](https://s.weibo.com/weibo?q=%23%E7%81%AB%E6%98%9F%E5%93%A5%E6%84%9F%E8%B0%A2Rose%23&t=31&band_rank=43&Refer=top) 29536
+1. [坐后备箱男孩亲妈称被要求赔偿30万](https://s.weibo.com/weibo?q=%23%E5%9D%90%E5%90%8E%E5%A4%87%E7%AE%B1%E7%94%B7%E5%AD%A9%E4%BA%B2%E5%A6%88%E7%A7%B0%E8%A2%AB%E8%A6%81%E6%B1%82%E8%B5%94%E5%81%BF30%E4%B8%87%23&t=31&band_rank=21&Refer=top) 27444
 1. [关晓彤减肥秘诀是断糖少吃多运动](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E5%87%8F%E8%82%A5%E7%A7%98%E8%AF%80%E6%98%AF%E6%96%AD%E7%B3%96%E5%B0%91%E5%90%83%E5%A4%9A%E8%BF%90%E5%8A%A8%23&t=31&band_rank=20&Refer=top) 26081
+1. [黄仁勋回应大热天穿皮夹克](https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%BB%81%E5%8B%8B%E5%9B%9E%E5%BA%94%E5%A4%A7%E7%83%AD%E5%A4%A9%E7%A9%BF%E7%9A%AE%E5%A4%B9%E5%85%8B%23&t=31&band_rank=30&Refer=top) 19790
+1. [演员房子斌杨雨婷回应女儿高考成绩](https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%91%98%E6%88%BF%E5%AD%90%E6%96%8C%E6%9D%A8%E9%9B%A8%E5%A9%B7%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%84%BF%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%23&t=31&band_rank=31&Refer=top) 19764
 1. [建设现代化人民城市有6个关键词](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%BE%E7%8E%B0%E4%BB%A3%E5%8C%96%E4%BA%BA%E6%B0%91%E5%9F%8E%E5%B8%82%E6%9C%896%E4%B8%AA%E5%85%B3%E9%94%AE%E8%AF%8D%23&t=31&band_rank=48&Refer=top) 17887
 1. [女子称丈夫搭救朋友被砍伤致死](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%B0%E4%B8%88%E5%A4%AB%E6%90%AD%E6%95%91%E6%9C%8B%E5%8F%8B%E8%A2%AB%E7%A0%8D%E4%BC%A4%E8%87%B4%E6%AD%BB%23&t=31&band_rank=49&Refer=top) 16188
 <!-- END -->
