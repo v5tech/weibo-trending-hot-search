@@ -131,6 +131,10 @@
     "url": "https://s.weibo.com/weibo?q=%E9%98%BF%E5%A8%87%E6%89%93%E7%94%B5%E8%AF%9D%E8%B4%A8%E9%97%AE%E5%90%B4%E4%BA%AC&t=31&band_rank=29&Refer=top",
     "hot": 90680
   },
+  "辉煌60载魅力新西藏": {
+    "url": "https://s.weibo.com/weibo?q=%23%E8%BE%89%E7%85%8C60%E8%BD%BD%E9%AD%85%E5%8A%9B%E6%96%B0%E8%A5%BF%E8%97%8F%23&t=31&band_rank=3&Refer=top",
+    "hot": 90624
+  },
   "BW恋与深空": {
     "url": "https://s.weibo.com/weibo?q=BW%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA&t=31&band_rank=22&Refer=top",
     "hot": 90432
@@ -242,5 +246,13 @@
   "RW战胜Hero": {
     "url": "https://s.weibo.com/weibo?q=%23RW%E6%88%98%E8%83%9CHero%23&t=31&band_rank=46&Refer=top",
     "hot": 26139
+  },
+  "加沙至少875人领取食物时遇害": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%99%E8%87%B3%E5%B0%91875%E4%BA%BA%E9%A2%86%E5%8F%96%E9%A3%9F%E7%89%A9%E6%97%B6%E9%81%87%E5%AE%B3%23&t=31&band_rank=31&Refer=top",
+    "hot": 24683
+  },
+  "惠英红探班陈伟霆九门": {
+    "url": "https://s.weibo.com/weibo?q=%E6%83%A0%E8%8B%B1%E7%BA%A2%E6%8E%A2%E7%8F%AD%E9%99%88%E4%BC%9F%E9%9C%86%E4%B9%9D%E9%97%A8&t=31&band_rank=48&Refer=top",
+    "hot": 23977
   }
 }
