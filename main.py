@@ -12,7 +12,6 @@ from matplotlib import pyplot as plt
 from requests.exceptions import RequestException
 from wordcloud import WordCloud
 from wordcloud import ImageColorGenerator
-import boto3
 
 utctime = datetime.utcnow()
 bjtime = utctime + timedelta(hours=8)
@@ -145,23 +144,6 @@ def wordcloud(sorted_news):
     return wc_img_path
 
 
-# 上传词云文件到s3存储桶
-def upload_s3(wc_img_path, s3_config):
-    s3 = boto3.resource(service_name='s3',
-                        endpoint_url=s3_config.get('endpoint_url'),
-                        aws_access_key_id=s3_config.get('aws_access_key_id'),
-                        aws_secret_access_key=s3_config.get('aws_secret_access_key'))
-    file_name = "{}/{}".format(bjtime.strftime('%Y%m%d'), os.path.basename(wc_img_path))
-    with open(wc_img_path, 'rb') as f:
-        obj = s3.Bucket(s3_config.get('bucket_name')) \
-            .put_object(Key=file_name, Body=f, ContentType="image/png", ACL="public-read")
-        response = {attr: getattr(obj, attr) for attr in ['e_tag', 'version_id']}
-        upload_url = f'{s3_config.get("img_access_url")}/{file_name}?versionId={response["version_id"]}'
-    print("上传词云完毕...")
-    os.remove(wc_img_path)
-    return upload_url
-
-
 # 更新README
 def update_readme(news, wc_img_upload_url):
     line = '1. [{title}]({url}) {hot}'
@@ -185,34 +167,12 @@ def save_archive(news, wc_img_upload_url):
     print("保存归档完毕...")
 
 
-# 检查s3存储桶环境变量
-def s3_env_config():
-    env_variables = [
-        'ENDPOINT_URL',
-        'IMG_ACCESS_URL',
-        'AWS_ACCESS_KEY_ID',
-        'AWS_SECRET_ACCESS_KEY',
-        'BUCKET_NAME'
-    ]
-    env_config = {}
-    for variable in env_variables:
-        env_value = os.environ.get(variable)
-        if not env_value:
-            print(f'请设置 {variable} 环境变量')
-            return None
-        env_config[variable.lower()] = env_value
-    return env_config
-
-
 if __name__ == '__main__':
-    s3_config = s3_env_config()
-    if not s3_config:
-        exit(1)
     url = f'{baseurl}/top/summary?cate=realtimehot'
     content = fetch_weibo(url)
     hot_news = parse_weibo(content)
     sorted_news = update_hot_news(hot_news)
     # wc_img_path = wordcloud(sorted_news)
-    # wc_img_upload_url = upload_s3(wc_img_path, s3_config)
+    # wc_img_upload_url = upload_s3(wc_img_path)
     update_readme(sorted_news, "")
     save_archive(sorted_news, "")
