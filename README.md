@@ -7,11 +7,12 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-07-19 01:22:44.300961 
+最后更新时间 2025-07-19 02:33:17.192533 
 1. [歌手排名](https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E6%8E%92%E5%90%8D&t=31&band_rank=1&Refer=top) 913927
 1. [丈夫怀疑妻子出轨将其踹下楼致死](https://s.weibo.com/weibo?q=%23%E4%B8%88%E5%A4%AB%E6%80%80%E7%96%91%E5%A6%BB%E5%AD%90%E5%87%BA%E8%BD%A8%E5%B0%86%E5%85%B6%E8%B8%B9%E4%B8%8B%E6%A5%BC%E8%87%B4%E6%AD%BB%23&t=31&band_rank=4&Refer=top) 833343
 1. [ALin念肖战](https://s.weibo.com/weibo?q=ALin%E5%BF%B5%E8%82%96%E6%88%98&t=31&band_rank=2&Refer=top) 743664
 1. [00后卢沟桥唱如愿告慰抗战先烈](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E5%8D%A2%E6%B2%9F%E6%A1%A5%E5%94%B1%E5%A6%82%E6%84%BF%E5%91%8A%E6%85%B0%E6%8A%97%E6%88%98%E5%85%88%E7%83%88%23&t=31&band_rank=3&Refer=top) 681088
+1. [美国IT大佬出轨被拍慌忙遮脸](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BDIT%E5%A4%A7%E4%BD%AC%E5%87%BA%E8%BD%A8%E8%A2%AB%E6%8B%8D%E6%85%8C%E5%BF%99%E9%81%AE%E8%84%B8%23&t=31&band_rank=1&Refer=top) 638770
 1. [网传杭州水务集团刘某某潜逃系谣言](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E6%9D%AD%E5%B7%9E%E6%B0%B4%E5%8A%A1%E9%9B%86%E5%9B%A2%E5%88%98%E6%9F%90%E6%9F%90%E6%BD%9C%E9%80%83%E7%B3%BB%E8%B0%A3%E8%A8%80%23&t=31&band_rank=5&Refer=top) 544579
 1. [单依纯听到GAI淘汰的反应](https://s.weibo.com/weibo?q=%23%E5%8D%95%E4%BE%9D%E7%BA%AF%E5%90%AC%E5%88%B0GAI%E6%B7%98%E6%B1%B0%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=7&Refer=top) 508028
 1. [市监总局约谈饿了么美团京东](https://s.weibo.com/weibo?q=%23%E5%B8%82%E7%9B%91%E6%80%BB%E5%B1%80%E7%BA%A6%E8%B0%88%E9%A5%BF%E4%BA%86%E4%B9%88%E7%BE%8E%E5%9B%A2%E4%BA%AC%E4%B8%9C%23&t=31&band_rank=6&Refer=top) 457268
@@ -64,6 +65,13 @@
 1. [张杰合肥演唱会](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E5%90%88%E8%82%A5%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=48&Refer=top) 67426
 1. [官方辟谣刘某某接驳下水排污管网](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E8%BE%9F%E8%B0%A3%E5%88%98%E6%9F%90%E6%9F%90%E6%8E%A5%E9%A9%B3%E4%B8%8B%E6%B0%B4%E6%8E%92%E6%B1%A1%E7%AE%A1%E7%BD%91%23&t=31&band_rank=49&Refer=top) 67312
 1. [千万不要在洗澡的时候哭泣](https://s.weibo.com/weibo?q=%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E5%9C%A8%E6%B4%97%E6%BE%A1%E7%9A%84%E6%97%B6%E5%80%99%E5%93%AD%E6%B3%A3&t=31&band_rank=50&Refer=top) 66118
+1. [中国驻柬埔寨大使馆回应被抓人遣返](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A9%BB%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%A4%A7%E4%BD%BF%E9%A6%86%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%8A%93%E4%BA%BA%E9%81%A3%E8%BF%94%23&t=31&band_rank=20&Refer=top) 53858
+1. [GAI又不想走了](https://s.weibo.com/weibo?q=GAI%E5%8F%88%E4%B8%8D%E6%83%B3%E8%B5%B0%E4%BA%86&t=31&band_rank=26&Refer=top) 45353
+1. [朴宝剑李惠利李浚赫IU人气奖](https://s.weibo.com/weibo?q=%23%E6%9C%B4%E5%AE%9D%E5%89%91%E6%9D%8E%E6%83%A0%E5%88%A9%E6%9D%8E%E6%B5%9A%E8%B5%ABIU%E4%BA%BA%E6%B0%94%E5%A5%96%23&t=31&band_rank=31&Refer=top) 40547
+1. [周深我招我什么都招](https://s.weibo.com/weibo?q=%E5%91%A8%E6%B7%B1%E6%88%91%E6%8B%9B%E6%88%91%E4%BB%80%E4%B9%88%E9%83%BD%E6%8B%9B&t=31&band_rank=39&Refer=top) 36638
+1. [鹿晗接歌唱勋章](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%8E%A5%E6%AD%8C%E5%94%B1%E5%8B%8B%E7%AB%A0%23&t=31&band_rank=46&Refer=top) 36562
+1. [电视剧樱桃琥珀观后感](https://s.weibo.com/weibo?q=%23%E7%94%B5%E8%A7%86%E5%89%A7%E6%A8%B1%E6%A1%83%E7%90%A5%E7%8F%80%E8%A7%82%E5%90%8E%E6%84%9F%23&t=31&band_rank=48&Refer=top) 36545
+1. [故湘风](https://s.weibo.com/weibo?q=%E6%95%85%E6%B9%98%E9%A3%8E&t=31&band_rank=49&Refer=top) 36533
 <!-- END -->
 
 历史归档 [./archives](./archives)
