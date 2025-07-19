@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-07-20 03:17:43.669241 
+最后更新时间 2025-07-20 04:24:43.842420 
 1. [妻子抑郁症发作伤人丈夫恼怒下反杀](https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E6%8A%91%E9%83%81%E7%97%87%E5%8F%91%E4%BD%9C%E4%BC%A4%E4%BA%BA%E4%B8%88%E5%A4%AB%E6%81%BC%E6%80%92%E4%B8%8B%E5%8F%8D%E6%9D%80%23&t=31&band_rank=1&Refer=top) 1424936
 1. [医生说下肢是人体自带的血糖仪](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E8%AF%B4%E4%B8%8B%E8%82%A2%E6%98%AF%E4%BA%BA%E4%BD%93%E8%87%AA%E5%B8%A6%E7%9A%84%E8%A1%80%E7%B3%96%E4%BB%AA%23&t=31&band_rank=2&Refer=top) 1036580
 1. [台风韦帕风雨时间表](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E9%9F%A6%E5%B8%95%E9%A3%8E%E9%9B%A8%E6%97%B6%E9%97%B4%E8%A1%A8%23&t=31&band_rank=3&Refer=top) 841907
@@ -76,6 +76,7 @@
 1. [陈立农宁波演唱会](https://s.weibo.com/weibo?q=%23%E9%99%88%E7%AB%8B%E5%86%9C%E5%AE%81%E6%B3%A2%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=44&Refer=top) 24374
 1. [门尼](https://s.weibo.com/weibo?q=%E9%97%A8%E5%B0%BC&t=31&band_rank=49&Refer=top) 24350
 1. [这是讨好型人格还是善良](https://s.weibo.com/weibo?q=%E8%BF%99%E6%98%AF%E8%AE%A8%E5%A5%BD%E5%9E%8B%E4%BA%BA%E6%A0%BC%E8%BF%98%E6%98%AF%E5%96%84%E8%89%AF&t=31&band_rank=50&Refer=top) 24350
+1. [水逆](https://s.weibo.com/weibo?q=%E6%B0%B4%E9%80%86&t=31&band_rank=33&Refer=top) 19777
 <!-- END -->
 
 历史归档 [./archives](./archives)
