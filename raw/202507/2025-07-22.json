@@ -167,6 +167,10 @@
     "url": "https://s.weibo.com/weibo?q=%235%E5%B2%81%E7%94%B7%E5%AD%A9%E8%84%96%E5%AD%90%E9%95%BF%E5%B0%8F%E7%96%99%E7%98%A9%E7%A1%AE%E8%AF%8A%E7%99%8C%E7%97%87%E6%99%9A%E6%9C%9F%23&t=31&band_rank=35&Refer=top",
     "hot": 84378
   },
+  "脱口秀": {
+    "url": "https://s.weibo.com/weibo?q=%E8%84%B1%E5%8F%A3%E7%A7%80&t=31&band_rank=9&Refer=top",
+    "hot": 84154
+  },
   "云南大学回应高考未录取备注总分低": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%BA%91%E5%8D%97%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E9%AB%98%E8%80%83%E6%9C%AA%E5%BD%95%E5%8F%96%E5%A4%87%E6%B3%A8%E6%80%BB%E5%88%86%E4%BD%8E%23&t=31&band_rank=36&Refer=top",
     "hot": 84061
@@ -231,8 +235,20 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%BF%83%E5%8A%A8%E7%9A%84%E4%BF%A1%E5%8F%B78%E5%BC%80%E5%BD%95%23&t=31&band_rank=42&Refer=top",
     "hot": 45852
   },
+  "山姆面包被指隐藏含转基因配料表": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B1%B1%E5%A7%86%E9%9D%A2%E5%8C%85%E8%A2%AB%E6%8C%87%E9%9A%90%E8%97%8F%E5%90%AB%E8%BD%AC%E5%9F%BA%E5%9B%A0%E9%85%8D%E6%96%99%E8%A1%A8%23&t=31&band_rank=25&Refer=top",
+    "hot": 43662
+  },
   "店主回应爱心矿泉水被路人拿来洗脚": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%BA%97%E4%B8%BB%E5%9B%9E%E5%BA%94%E7%88%B1%E5%BF%83%E7%9F%BF%E6%B3%89%E6%B0%B4%E8%A2%AB%E8%B7%AF%E4%BA%BA%E6%8B%BF%E6%9D%A5%E6%B4%97%E8%84%9A%23&t=31&band_rank=46&Refer=top",
     "hot": 43393
+  },
+  "75岁港星公开征婚": {
+    "url": "https://s.weibo.com/weibo?q=%2375%E5%B2%81%E6%B8%AF%E6%98%9F%E5%85%AC%E5%BC%80%E5%BE%81%E5%A9%9A%23&t=31&band_rank=42&Refer=top",
+    "hot": 27515
+  },
+  "张凌赫说学生时期叛逆过": {
+    "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%8C%E8%B5%AB%E8%AF%B4%E5%AD%A6%E7%94%9F%E6%97%B6%E6%9C%9F%E5%8F%9B%E9%80%86%E8%BF%87&t=31&band_rank=48&Refer=top",
+    "hot": 27514
   }
 }
