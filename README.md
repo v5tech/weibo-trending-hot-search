@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-07-26 01:22:46.812061 
+最后更新时间 2025-07-26 02:34:47.163121 
 1. [单依纯 邓丽君](https://s.weibo.com/weibo?q=%E5%8D%95%E4%BE%9D%E7%BA%AF%20%E9%82%93%E4%B8%BD%E5%90%9B&t=31&band_rank=1&Refer=top) 1733611
 1. [汪苏泷体面人](https://s.weibo.com/weibo?q=%E6%B1%AA%E8%8B%8F%E6%B3%B7%E4%BD%93%E9%9D%A2%E4%BA%BA&t=31&band_rank=2&Refer=top) 1710663
 1. [年轮纠纷撕裂了谁的体面](https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%AE%E7%BA%A0%E7%BA%B7%E6%92%95%E8%A3%82%E4%BA%86%E8%B0%81%E7%9A%84%E4%BD%93%E9%9D%A2%23&t=31&band_rank=8&Refer=top) 1056673
@@ -66,6 +66,8 @@
 1. [歌手直播](https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E7%9B%B4%E6%92%AD&t=31&band_rank=45&Refer=top) 100525
 1. [自称因反对穿超短裙被辞当事人发声](https://s.weibo.com/weibo?q=%23%E8%87%AA%E7%A7%B0%E5%9B%A0%E5%8F%8D%E5%AF%B9%E7%A9%BF%E8%B6%85%E7%9F%AD%E8%A3%99%E8%A2%AB%E8%BE%9E%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%8F%91%E5%A3%B0%23&t=31&band_rank=47&Refer=top) 100512
 1. [老人卧床多年跟保姆结婚并赠与房产](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%8D%A7%E5%BA%8A%E5%A4%9A%E5%B9%B4%E8%B7%9F%E4%BF%9D%E5%A7%86%E7%BB%93%E5%A9%9A%E5%B9%B6%E8%B5%A0%E4%B8%8E%E6%88%BF%E4%BA%A7%23&t=31&band_rank=49&Refer=top) 100494
+1. [银川地震](https://s.weibo.com/weibo?q=%E9%93%B6%E5%B7%9D%E5%9C%B0%E9%9C%87&t=31&band_rank=19&Refer=top) 77345
+1. [娱乐圈对女明星的严格要求](https://s.weibo.com/weibo?q=%23%E5%A8%B1%E4%B9%90%E5%9C%88%E5%AF%B9%E5%A5%B3%E6%98%8E%E6%98%9F%E7%9A%84%E4%B8%A5%E6%A0%BC%E8%A6%81%E6%B1%82%23&t=31&band_rank=23&Refer=top) 71029
 <!-- END -->
 
 历史归档 [./archives](./archives)
