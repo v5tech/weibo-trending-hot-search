@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-07-31 04:25:23.208338 
+最后更新时间 2025-07-31 05:23:18.092256 
 1. [疯狂动物城2](https://s.weibo.com/weibo?q=%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E2&t=31&band_rank=1&Refer=top) 907481
 1. [日本海啸](https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E6%B5%B7%E5%95%B8&t=31&band_rank=2&Refer=top) 785501
 1. [育儿补贴发放渠道](https://s.weibo.com/weibo?q=%23%E8%82%B2%E5%84%BF%E8%A1%A5%E8%B4%B4%E5%8F%91%E6%94%BE%E6%B8%A0%E9%81%93%23&t=31&band_rank=3&Refer=top) 664836
@@ -60,6 +60,7 @@
 1. [肖战深情演唱往事随风](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E6%B7%B1%E6%83%85%E6%BC%94%E5%94%B1%E5%BE%80%E4%BA%8B%E9%9A%8F%E9%A3%8E&t=31&band_rank=49&Refer=top) 98108
 1. [请你务必坚定地支持自己](https://s.weibo.com/weibo?q=%23%E8%AF%B7%E4%BD%A0%E5%8A%A1%E5%BF%85%E5%9D%9A%E5%AE%9A%E5%9C%B0%E6%94%AF%E6%8C%81%E8%87%AA%E5%B7%B1%23&t=31&band_rank=50&Refer=top) 98063
 1. [分享欲其实是一种情绪霸凌](https://s.weibo.com/weibo?q=%E5%88%86%E4%BA%AB%E6%AC%B2%E5%85%B6%E5%AE%9E%E6%98%AF%E4%B8%80%E7%A7%8D%E6%83%85%E7%BB%AA%E9%9C%B8%E5%87%8C&t=31&band_rank=43&Refer=top) 86500
+1. [日本民众撤离到屋顶躲避海啸](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%E6%92%A4%E7%A6%BB%E5%88%B0%E5%B1%8B%E9%A1%B6%E8%BA%B2%E9%81%BF%E6%B5%B7%E5%95%B8%23&t=31&band_rank=10&Refer=top) 82745
 1. [敖瑞鹏拍完朝雪录有皱眉后遗症](https://s.weibo.com/weibo?q=%23%E6%95%96%E7%91%9E%E9%B9%8F%E6%8B%8D%E5%AE%8C%E6%9C%9D%E9%9B%AA%E5%BD%95%E6%9C%89%E7%9A%B1%E7%9C%89%E5%90%8E%E9%81%97%E7%97%87%23&t=31&band_rank=27&Refer=top) 63720
 1. [利剑玫瑰](https://s.weibo.com/weibo?q=%E5%88%A9%E5%89%91%E7%8E%AB%E7%91%B0&t=31&band_rank=28&Refer=top) 63447
 1. [用一首歌和你说晚安](https://s.weibo.com/weibo?q=%23%E7%94%A8%E4%B8%80%E9%A6%96%E6%AD%8C%E5%92%8C%E4%BD%A0%E8%AF%B4%E6%99%9A%E5%AE%89%23&t=31&band_rank=32&Refer=top) 62376
@@ -71,11 +72,10 @@
 1. [锦月如歌](https://s.weibo.com/weibo?q=%E9%94%A6%E6%9C%88%E5%A6%82%E6%AD%8C&t=31&band_rank=42&Refer=top) 48779
 1. [我们是长大了不是发财了](https://s.weibo.com/weibo?q=%E6%88%91%E4%BB%AC%E6%98%AF%E9%95%BF%E5%A4%A7%E4%BA%86%E4%B8%8D%E6%98%AF%E5%8F%91%E8%B4%A2%E4%BA%86&t=31&band_rank=45&Refer=top) 48656
 1. [丁程鑫hi6上班vlog](https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A8%8B%E9%91%ABhi6%E4%B8%8A%E7%8F%ADvlog%23&t=31&band_rank=50&Refer=top) 48475
-1. [日本民众撤离到屋顶躲避海啸](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%E6%92%A4%E7%A6%BB%E5%88%B0%E5%B1%8B%E9%A1%B6%E8%BA%B2%E9%81%BF%E6%B5%B7%E5%95%B8%23&t=31&band_rank=10&Refer=top) 39064
 1. [定风波](https://s.weibo.com/weibo?q=%E5%AE%9A%E9%A3%8E%E6%B3%A2&t=31&band_rank=30&Refer=top) 26167
 1. [李雪琴疑似腰伤](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%9B%AA%E7%90%B4%E7%96%91%E4%BC%BC%E8%85%B0%E4%BC%A4%23&t=31&band_rank=50&Refer=top) 25959
 1. [游轮客服回应因日本海啸预警无法靠岸](https://s.weibo.com/weibo?q=%23%E6%B8%B8%E8%BD%AE%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E5%9B%A0%E6%97%A5%E6%9C%AC%E6%B5%B7%E5%95%B8%E9%A2%84%E8%AD%A6%E6%97%A0%E6%B3%95%E9%9D%A0%E5%B2%B8%23&t=31&band_rank=23&Refer=top) 22057
-1. [特朗普称对印度征收25%关税](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%AF%B9%E5%8D%B0%E5%BA%A6%E5%BE%81%E6%94%B625%25%E5%85%B3%E7%A8%8E%23&t=31&band_rank=48&Refer=top) 16451
+1. [特朗普称对印度征收25%关税](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%AF%B9%E5%8D%B0%E5%BA%A6%E5%BE%81%E6%94%B625%25%E5%85%B3%E7%A8%8E%23&t=31&band_rank=48&Refer=top) 18623
 <!-- END -->
 
 历史归档 [./archives](./archives)
