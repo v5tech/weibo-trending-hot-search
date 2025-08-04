@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-08-05 03:21:59.665327 
+最后更新时间 2025-08-05 04:27:55.826909 
 1. [华策回应与虞书欣解约](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E7%AD%96%E5%9B%9E%E5%BA%94%E4%B8%8E%E8%99%9E%E4%B9%A6%E6%AC%A3%E8%A7%A3%E7%BA%A6%23&t=31&band_rank=1&Refer=top) 891344
 1. [吴艳妮光速夺冠](https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%89%B3%E5%A6%AE%E5%85%89%E9%80%9F%E5%A4%BA%E5%86%A0%23&t=31&band_rank=5&Refer=top) 360099
 1. [多个账号攻击爱国题材电影被禁言](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E4%B8%AA%E8%B4%A6%E5%8F%B7%E6%94%BB%E5%87%BB%E7%88%B1%E5%9B%BD%E9%A2%98%E6%9D%90%E7%94%B5%E5%BD%B1%E8%A2%AB%E7%A6%81%E8%A8%80%23&t=31&band_rank=2&Refer=top) 352161
@@ -76,6 +76,7 @@
 1. [第一次见这么混血的语言系统](https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E8%BF%99%E4%B9%88%E6%B7%B7%E8%A1%80%E7%9A%84%E8%AF%AD%E8%A8%80%E7%B3%BB%E7%BB%9F&t=31&band_rank=32&Refer=top) 45442
 1. [德约科维奇纪念金满贯一周年](https://s.weibo.com/weibo?q=%23%E5%BE%B7%E7%BA%A6%E7%A7%91%E7%BB%B4%E5%A5%87%E7%BA%AA%E5%BF%B5%E9%87%91%E6%BB%A1%E8%B4%AF%E4%B8%80%E5%91%A8%E5%B9%B4%23&t=31&band_rank=44&Refer=top) 44788
 1. [鹿晗急得在嘴里炒了一盘菜](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%80%A5%E5%BE%97%E5%9C%A8%E5%98%B4%E9%87%8C%E7%82%92%E4%BA%86%E4%B8%80%E7%9B%98%E8%8F%9C%23&t=31&band_rank=47&Refer=top) 44629
+1. [博主曝光内蒙古一火锅店用阴阳菜单](https://s.weibo.com/weibo?q=%23%E5%8D%9A%E4%B8%BB%E6%9B%9D%E5%85%89%E5%86%85%E8%92%99%E5%8F%A4%E4%B8%80%E7%81%AB%E9%94%85%E5%BA%97%E7%94%A8%E9%98%B4%E9%98%B3%E8%8F%9C%E5%8D%95%23&t=31&band_rank=8&Refer=top) 38697
 <!-- END -->
 
 历史归档 [./archives](./archives)
