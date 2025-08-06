@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-08-07 04:27:09.318927 
+最后更新时间 2025-08-07 05:20:55.254714 
 1. [苍兰诀](https://s.weibo.com/weibo?q=%E8%8B%8D%E5%85%B0%E8%AF%80&t=31&band_rank=1&Refer=top) 1942463
 1. [Zara广告因模特太瘦被禁](https://s.weibo.com/weibo?q=%23Zara%E5%B9%BF%E5%91%8A%E5%9B%A0%E6%A8%A1%E7%89%B9%E5%A4%AA%E7%98%A6%E8%A2%AB%E7%A6%81%23&t=31&band_rank=2&Refer=top) 840387
 1. [网友偶遇国旗护卫队训练被帅到](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E5%81%B6%E9%81%87%E5%9B%BD%E6%97%97%E6%8A%A4%E5%8D%AB%E9%98%9F%E8%AE%AD%E7%BB%83%E8%A2%AB%E5%B8%85%E5%88%B0%23&t=31&band_rank=3&Refer=top) 772152
@@ -69,18 +69,21 @@
 1. [曝沈玉琳患血癌](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E6%B2%88%E7%8E%89%E7%90%B3%E6%82%A3%E8%A1%80%E7%99%8C%23&t=31&band_rank=48&Refer=top) 61318
 1. [7岁学生校外补习时坠亡母亲发声](https://s.weibo.com/weibo?q=%237%E5%B2%81%E5%AD%A6%E7%94%9F%E6%A0%A1%E5%A4%96%E8%A1%A5%E4%B9%A0%E6%97%B6%E5%9D%A0%E4%BA%A1%E6%AF%8D%E4%BA%B2%E5%8F%91%E5%A3%B0%23&t=31&band_rank=10&Refer=top) 50404
 1. [韩亿要起诉郑燕姿](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E4%BA%BF%E8%A6%81%E8%B5%B7%E8%AF%89%E9%83%91%E7%87%95%E5%A7%BF%23&t=31&band_rank=25&Refer=top) 43030
-1. [桂林卫健委回应产检绿灯生唇腭裂儿](https://s.weibo.com/weibo?q=%23%E6%A1%82%E6%9E%97%E5%8D%AB%E5%81%A5%E5%A7%94%E5%9B%9E%E5%BA%94%E4%BA%A7%E6%A3%80%E7%BB%BF%E7%81%AF%E7%94%9F%E5%94%87%E8%85%AD%E8%A3%82%E5%84%BF%23&t=31&band_rank=43&Refer=top) 33178
+1. [陶白白前妻账号永久停更](https://s.weibo.com/weibo?q=%23%E9%99%B6%E7%99%BD%E7%99%BD%E5%89%8D%E5%A6%BB%E8%B4%A6%E5%8F%B7%E6%B0%B8%E4%B9%85%E5%81%9C%E6%9B%B4%23&t=31&band_rank=23&Refer=top) 40033
+1. [桂林卫健委回应产检绿灯生唇腭裂儿](https://s.weibo.com/weibo?q=%23%E6%A1%82%E6%9E%97%E5%8D%AB%E5%81%A5%E5%A7%94%E5%9B%9E%E5%BA%94%E4%BA%A7%E6%A3%80%E7%BB%BF%E7%81%AF%E7%94%9F%E5%94%87%E8%85%AD%E8%A3%82%E5%84%BF%23&t=31&band_rank=43&Refer=top) 34895
 1. [日军轰炸后废墟上哭泣的孩子](https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%86%9B%E8%BD%B0%E7%82%B8%E5%90%8E%E5%BA%9F%E5%A2%9F%E4%B8%8A%E5%93%AD%E6%B3%A3%E7%9A%84%E5%AD%A9%E5%AD%90%23&t=31&band_rank=25&Refer=top) 30629
 1. [韩国婆婆做饭全家吃泡菜](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E5%A9%86%E5%A9%86%E5%81%9A%E9%A5%AD%E5%85%A8%E5%AE%B6%E5%90%83%E6%B3%A1%E8%8F%9C&t=31&band_rank=39&Refer=top) 30273
 1. [官方回应7岁学生校外补习时坠亡](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%947%E5%B2%81%E5%AD%A6%E7%94%9F%E6%A0%A1%E5%A4%96%E8%A1%A5%E4%B9%A0%E6%97%B6%E5%9D%A0%E4%BA%A1%23&t=31&band_rank=21&Refer=top) 29010
 1. [广西小伙在云南旅游连救2人](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E5%B0%8F%E4%BC%99%E5%9C%A8%E4%BA%91%E5%8D%97%E6%97%85%E6%B8%B8%E8%BF%9E%E6%95%912%E4%BA%BA%23&t=31&band_rank=31&Refer=top) 28560
 1. [锦月如歌原著](https://s.weibo.com/weibo?q=%E9%94%A6%E6%9C%88%E5%A6%82%E6%AD%8C%E5%8E%9F%E8%91%97&t=31&band_rank=32&Refer=top) 28425
-1. [陶白白前妻账号永久停更](https://s.weibo.com/weibo?q=%23%E9%99%B6%E7%99%BD%E7%99%BD%E5%89%8D%E5%A6%BB%E8%B4%A6%E5%8F%B7%E6%B0%B8%E4%B9%85%E5%81%9C%E6%9B%B4%23&t=31&band_rank=23&Refer=top) 27651
 1. [丹麦美人鱼雕像被勒令拆除引争议](https://s.weibo.com/weibo?q=%23%E4%B8%B9%E9%BA%A6%E7%BE%8E%E4%BA%BA%E9%B1%BC%E9%9B%95%E5%83%8F%E8%A2%AB%E5%8B%92%E4%BB%A4%E6%8B%86%E9%99%A4%E5%BC%95%E4%BA%89%E8%AE%AE%23&t=31&band_rank=24&Refer=top) 26726
+1. [警方通报卡车意外失控致2死2伤](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%8D%A1%E8%BD%A6%E6%84%8F%E5%A4%96%E5%A4%B1%E6%8E%A7%E8%87%B42%E6%AD%BB2%E4%BC%A4%23&t=31&band_rank=27&Refer=top) 21878
+1. [巴黎奥运一周年回响](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E%E5%A5%A5%E8%BF%90%E4%B8%80%E5%91%A8%E5%B9%B4%E5%9B%9E%E5%93%8D%23&t=31&band_rank=28&Refer=top) 21769
 1. [金廷祐将solo出道](https://s.weibo.com/weibo?q=%23%E9%87%91%E5%BB%B7%E7%A5%90%E5%B0%86solo%E5%87%BA%E9%81%93%23&t=31&band_rank=44&Refer=top) 20417
 1. [全红婵巴黎奥运卫冕1周年](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%B7%B4%E9%BB%8E%E5%A5%A5%E8%BF%90%E5%8D%AB%E5%86%951%E5%91%A8%E5%B9%B4%23&t=31&band_rank=48&Refer=top) 19818
 1. [网友称喜茶杯内现标签门店仅退款](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E7%A7%B0%E5%96%9C%E8%8C%B6%E6%9D%AF%E5%86%85%E7%8E%B0%E6%A0%87%E7%AD%BE%E9%97%A8%E5%BA%97%E4%BB%85%E9%80%80%E6%AC%BE%23&t=31&band_rank=49&Refer=top) 16304
 1. [光与夜之恋](https://s.weibo.com/weibo?q=%23%E5%85%89%E4%B8%8E%E5%A4%9C%E4%B9%8B%E6%81%8B%23&t=31&band_rank=50&Refer=top) 16297
+1. [谁懂这个面包价格的含金量](https://s.weibo.com/weibo?q=%E8%B0%81%E6%87%82%E8%BF%99%E4%B8%AA%E9%9D%A2%E5%8C%85%E4%BB%B7%E6%A0%BC%E7%9A%84%E5%90%AB%E9%87%91%E9%87%8F&t=31&band_rank=49&Refer=top) 15345
 <!-- END -->
 
 历史归档 [./archives](./archives)
