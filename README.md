@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-08-09 02:32:28.413067 
+最后更新时间 2025-08-09 03:18:13.574058 
 1. [陈楚生歌王](https://s.weibo.com/weibo?q=%E9%99%88%E6%A5%9A%E7%94%9F%E6%AD%8C%E7%8E%8B&t=31&band_rank=1&Refer=top) 5291522
 1. [歌手排名](https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E6%8E%92%E5%90%8D&t=31&band_rank=2&Refer=top) 3365857
 1. [公办民办幼儿园均可享受免保教费](https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%8A%9E%E6%B0%91%E5%8A%9E%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%9D%87%E5%8F%AF%E4%BA%AB%E5%8F%97%E5%85%8D%E4%BF%9D%E6%95%99%E8%B4%B9%23&t=31&band_rank=3&Refer=top) 1487565
@@ -65,10 +65,14 @@
 1. [黄奕直播](https://s.weibo.com/weibo?q=%E9%BB%84%E5%A5%95%E7%9B%B4%E6%92%AD&t=31&band_rank=38&Refer=top) 82576
 1. [李佳薇VCR](https://s.weibo.com/weibo?q=%E6%9D%8E%E4%BD%B3%E8%96%87VCR&t=31&band_rank=42&Refer=top) 82569
 1. [男子赌气离家29年领退休金时现身](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%B5%8C%E6%B0%94%E7%A6%BB%E5%AE%B629%E5%B9%B4%E9%A2%86%E9%80%80%E4%BC%91%E9%87%91%E6%97%B6%E7%8E%B0%E8%BA%AB%23&t=31&band_rank=37&Refer=top) 39349
+1. [锦月如歌惊喜加座](https://s.weibo.com/weibo?q=%23%E9%94%A6%E6%9C%88%E5%A6%82%E6%AD%8C%E6%83%8A%E5%96%9C%E5%8A%A0%E5%BA%A7%23&t=31&band_rank=27&Refer=top) 38415
 1. [外国人学汉字get中国人学几何的优势](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%9B%BD%E4%BA%BA%E5%AD%A6%E6%B1%89%E5%AD%97get%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%AD%A6%E5%87%A0%E4%BD%95%E7%9A%84%E4%BC%98%E5%8A%BF%23&t=31&band_rank=41&Refer=top) 36939
 1. [王力宏说单依纯勇于冒险](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%8A%9B%E5%AE%8F%E8%AF%B4%E5%8D%95%E4%BE%9D%E7%BA%AF%E5%8B%87%E4%BA%8E%E5%86%92%E9%99%A9%23&t=31&band_rank=43&Refer=top) 35169
 1. [崔秀彬礼盒](https://s.weibo.com/weibo?q=%E5%B4%94%E7%A7%80%E5%BD%AC%E7%A4%BC%E7%9B%92&t=31&band_rank=44&Refer=top) 34681
 1. [孟子义第一个开上缤果S新车](https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%BC%80%E4%B8%8A%E7%BC%A4%E6%9E%9CS%E6%96%B0%E8%BD%A6%23&t=31&band_rank=48&Refer=top) 33015
+1. [电脑卡可能是因为WPS](https://s.weibo.com/weibo?q=%E7%94%B5%E8%84%91%E5%8D%A1%E5%8F%AF%E8%83%BD%E6%98%AF%E5%9B%A0%E4%B8%BAWPS&t=31&band_rank=40&Refer=top) 28867
+1. [电影无名色彩](https://s.weibo.com/weibo?q=%E7%94%B5%E5%BD%B1%E6%97%A0%E5%90%8D%E8%89%B2%E5%BD%A9&t=31&band_rank=42&Refer=top) 28821
+1. [奇遇](https://s.weibo.com/weibo?q=%E5%A5%87%E9%81%87&t=31&band_rank=47&Refer=top) 28804
 <!-- END -->
 
 历史归档 [./archives](./archives)
