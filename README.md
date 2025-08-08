@@ -7,14 +7,15 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-08-09 00:28:29.418864 
+最后更新时间 2025-08-09 01:18:55.899532 
 1. [陈楚生歌王](https://s.weibo.com/weibo?q=%E9%99%88%E6%A5%9A%E7%94%9F%E6%AD%8C%E7%8E%8B&t=31&band_rank=1&Refer=top) 5291522
 1. [歌手排名](https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E6%8E%92%E5%90%8D&t=31&band_rank=2&Refer=top) 3365857
 1. [公办民办幼儿园均可享受免保教费](https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%8A%9E%E6%B0%91%E5%8A%9E%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%9D%87%E5%8F%AF%E4%BA%AB%E5%8F%97%E5%85%8D%E4%BF%9D%E6%95%99%E8%B4%B9%23&t=31&band_rank=3&Refer=top) 1487565
+1. [那英含金量](https://s.weibo.com/weibo?q=%E9%82%A3%E8%8B%B1%E5%90%AB%E9%87%91%E9%87%8F&t=31&band_rank=7&Refer=top) 666048
 1. [男子转嫖娼对象138万原配追讨败诉](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%BD%AC%E5%AB%96%E5%A8%BC%E5%AF%B9%E8%B1%A1138%E4%B8%87%E5%8E%9F%E9%85%8D%E8%BF%BD%E8%AE%A8%E8%B4%A5%E8%AF%89%23&t=31&band_rank=4&Refer=top) 542005
 1. [社保](https://s.weibo.com/weibo?q=%E7%A4%BE%E4%BF%9D&t=31&band_rank=5&Refer=top) 285270
 1. [疑因孩子顶座乘客飞机上发生冲突](https://s.weibo.com/weibo?q=%23%E7%96%91%E5%9B%A0%E5%AD%A9%E5%AD%90%E9%A1%B6%E5%BA%A7%E4%B9%98%E5%AE%A2%E9%A3%9E%E6%9C%BA%E4%B8%8A%E5%8F%91%E7%94%9F%E5%86%B2%E7%AA%81%23&t=31&band_rank=6&Refer=top) 210350
-1. [那英含金量](https://s.weibo.com/weibo?q=%E9%82%A3%E8%8B%B1%E5%90%AB%E9%87%91%E9%87%8F&t=31&band_rank=7&Refer=top) 194060
+1. [24小时退房制为啥不能成统一标准](https://s.weibo.com/weibo?q=%2324%E5%B0%8F%E6%97%B6%E9%80%80%E6%88%BF%E5%88%B6%E4%B8%BA%E5%95%A5%E4%B8%8D%E8%83%BD%E6%88%90%E7%BB%9F%E4%B8%80%E6%A0%87%E5%87%86%23&t=31&band_rank=19&Refer=top) 198512
 1. [难听](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%90%AC&t=31&band_rank=8&Refer=top) 192771
 1. [甘肃榆中县山洪灾害已致10死33失联](https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E6%A6%86%E4%B8%AD%E5%8E%BF%E5%B1%B1%E6%B4%AA%E7%81%BE%E5%AE%B3%E5%B7%B2%E8%87%B410%E6%AD%BB33%E5%A4%B1%E8%81%94%23&t=31&band_rank=9&Refer=top) 174575
 1. [食贫道卧底韩国邪教](https://s.weibo.com/weibo?q=%E9%A3%9F%E8%B4%AB%E9%81%93%E5%8D%A7%E5%BA%95%E9%9F%A9%E5%9B%BD%E9%82%AA%E6%95%99&t=31&band_rank=10&Refer=top) 173388
@@ -26,11 +27,10 @@
 1. [赵露思呼吁品牌找公司对接工作](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E5%91%BC%E5%90%81%E5%93%81%E7%89%8C%E6%89%BE%E5%85%AC%E5%8F%B8%E5%AF%B9%E6%8E%A5%E5%B7%A5%E4%BD%9C%23&t=31&band_rank=16&Refer=top) 169509
 1. [中国女子坠入日本东京大学烟囱死亡](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E5%9D%A0%E5%85%A5%E6%97%A5%E6%9C%AC%E4%B8%9C%E4%BA%AC%E5%A4%A7%E5%AD%A6%E7%83%9F%E5%9B%B1%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=17&Refer=top) 169275
 1. [胖东来招聘服刑人员顾客该支持吗](https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E6%8B%9B%E8%81%98%E6%9C%8D%E5%88%91%E4%BA%BA%E5%91%98%E9%A1%BE%E5%AE%A2%E8%AF%A5%E6%94%AF%E6%8C%81%E5%90%97%23&t=31&band_rank=18&Refer=top) 153754
-1. [24小时退房制为啥不能成统一标准](https://s.weibo.com/weibo?q=%2324%E5%B0%8F%E6%97%B6%E9%80%80%E6%88%BF%E5%88%B6%E4%B8%BA%E5%95%A5%E4%B8%8D%E8%83%BD%E6%88%90%E7%BB%9F%E4%B8%80%E6%A0%87%E5%87%86%23&t=31&band_rank=19&Refer=top) 142332
 1. [爱出门的人能量很高](https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%87%BA%E9%97%A8%E7%9A%84%E4%BA%BA%E8%83%BD%E9%87%8F%E5%BE%88%E9%AB%98%23&t=31&band_rank=20&Refer=top) 141623
 1. [陈楚生 获奖之作](https://s.weibo.com/weibo?q=%E9%99%88%E6%A5%9A%E7%94%9F%20%E8%8E%B7%E5%A5%96%E4%B9%8B%E4%BD%9C&t=31&band_rank=21&Refer=top) 140672
 1. [王力宏赛后发文](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%8A%9B%E5%AE%8F%E8%B5%9B%E5%90%8E%E5%8F%91%E6%96%87%23&t=31&band_rank=22&Refer=top) 139358
-1. [耳帝](https://s.weibo.com/weibo?q=%E8%80%B3%E5%B8%9D&t=31&band_rank=23&Refer=top) 138364
+1. [耳帝](https://s.weibo.com/weibo?q=%E8%80%B3%E5%B8%9D&t=31&band_rank=23&Refer=top) 139200
 1. [歌手总决赛](https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E6%80%BB%E5%86%B3%E8%B5%9B%23&t=31&band_rank=24&Refer=top) 137564
 1. [吴磊演技](https://s.weibo.com/weibo?q=%E5%90%B4%E7%A3%8A%E6%BC%94%E6%8A%80&t=31&band_rank=25&Refer=top) 135643
 1. [折月亮妆造到底是谁做的](https://s.weibo.com/weibo?q=%23%E6%8A%98%E6%9C%88%E4%BA%AE%E5%A6%86%E9%80%A0%E5%88%B0%E5%BA%95%E6%98%AF%E8%B0%81%E5%81%9A%E7%9A%84%23&t=31&band_rank=26&Refer=top) 134821
@@ -58,6 +58,12 @@
 1. [孙颖莎vs朱芊曦](https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8Evs%E6%9C%B1%E8%8A%8A%E6%9B%A6&t=31&band_rank=48&Refer=top) 112706
 1. [孙颖莎vs桥本帆乃香](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8Evs%E6%A1%A5%E6%9C%AC%E5%B8%86%E4%B9%83%E9%A6%99%23&t=31&band_rank=49&Refer=top) 112568
 1. [仙逆神临之战又名王林救妻记](https://s.weibo.com/weibo?q=%E4%BB%99%E9%80%86%E7%A5%9E%E4%B8%B4%E4%B9%8B%E6%88%98%E5%8F%88%E5%90%8D%E7%8E%8B%E6%9E%97%E6%95%91%E5%A6%BB%E8%AE%B0&t=31&band_rank=50&Refer=top) 112329
+1. [Shanks事件女生发文](https://s.weibo.com/weibo?q=%23Shanks%E4%BA%8B%E4%BB%B6%E5%A5%B3%E7%94%9F%E5%8F%91%E6%96%87%23&t=31&band_rank=20&Refer=top) 103942
+1. [刘晓庆已被举报人起诉](https://s.weibo.com/weibo?q=%23%E5%88%98%E6%99%93%E5%BA%86%E5%B7%B2%E8%A2%AB%E4%B8%BE%E6%8A%A5%E4%BA%BA%E8%B5%B7%E8%AF%89%23&t=31&band_rank=31&Refer=top) 100417
+1. [ALin回应念肖战微博改名热搜](https://s.weibo.com/weibo?q=%23ALin%E5%9B%9E%E5%BA%94%E5%BF%B5%E8%82%96%E6%88%98%E5%BE%AE%E5%8D%9A%E6%94%B9%E5%90%8D%E7%83%AD%E6%90%9C%23&t=31&band_rank=33&Refer=top) 95936
+1. [心跳1分钟多少次最健康](https://s.weibo.com/weibo?q=%23%E5%BF%83%E8%B7%B31%E5%88%86%E9%92%9F%E5%A4%9A%E5%B0%91%E6%AC%A1%E6%9C%80%E5%81%A5%E5%BA%B7%23&t=31&band_rank=35&Refer=top) 92372
+1. [黄奕直播](https://s.weibo.com/weibo?q=%E9%BB%84%E5%A5%95%E7%9B%B4%E6%92%AD&t=31&band_rank=38&Refer=top) 82576
+1. [李佳薇VCR](https://s.weibo.com/weibo?q=%E6%9D%8E%E4%BD%B3%E8%96%87VCR&t=31&band_rank=42&Refer=top) 82569
 <!-- END -->
 
 历史归档 [./archives](./archives)
