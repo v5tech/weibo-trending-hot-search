@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-08-09 03:18:13.574058 
+最后更新时间 2025-08-09 04:25:51.796222 
 1. [陈楚生歌王](https://s.weibo.com/weibo?q=%E9%99%88%E6%A5%9A%E7%94%9F%E6%AD%8C%E7%8E%8B&t=31&band_rank=1&Refer=top) 5291522
 1. [歌手排名](https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E6%8E%92%E5%90%8D&t=31&band_rank=2&Refer=top) 3365857
 1. [公办民办幼儿园均可享受免保教费](https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%8A%9E%E6%B0%91%E5%8A%9E%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%9D%87%E5%8F%AF%E4%BA%AB%E5%8F%97%E5%85%8D%E4%BF%9D%E6%95%99%E8%B4%B9%23&t=31&band_rank=3&Refer=top) 1487565
@@ -73,6 +73,7 @@
 1. [电脑卡可能是因为WPS](https://s.weibo.com/weibo?q=%E7%94%B5%E8%84%91%E5%8D%A1%E5%8F%AF%E8%83%BD%E6%98%AF%E5%9B%A0%E4%B8%BAWPS&t=31&band_rank=40&Refer=top) 28867
 1. [电影无名色彩](https://s.weibo.com/weibo?q=%E7%94%B5%E5%BD%B1%E6%97%A0%E5%90%8D%E8%89%B2%E5%BD%A9&t=31&band_rank=42&Refer=top) 28821
 1. [奇遇](https://s.weibo.com/weibo?q=%E5%A5%87%E9%81%87&t=31&band_rank=47&Refer=top) 28804
+1. [疑因孩子顶座起冲突警方已介入](https://s.weibo.com/weibo?q=%23%E7%96%91%E5%9B%A0%E5%AD%A9%E5%AD%90%E9%A1%B6%E5%BA%A7%E8%B5%B7%E5%86%B2%E7%AA%81%E8%AD%A6%E6%96%B9%E5%B7%B2%E4%BB%8B%E5%85%A5%23&t=31&band_rank=32&Refer=top) 23186
 <!-- END -->
 
 历史归档 [./archives](./archives)
