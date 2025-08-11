@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-08-12 05:20:08.272647 
+最后更新时间 2025-08-12 06:21:49.980717 
 1. [赵露思直播喊话银河酷娱](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E7%9B%B4%E6%92%AD%E5%96%8A%E8%AF%9D%E9%93%B6%E6%B2%B3%E9%85%B7%E5%A8%B1%23&t=31&band_rank=1&Refer=top) 1077404
 1. [特朗普宣布首都进入紧急状态](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E9%A6%96%E9%83%BD%E8%BF%9B%E5%85%A5%E7%B4%A7%E6%80%A5%E7%8A%B6%E6%80%81%23&t=31&band_rank=2&Refer=top) 812399
 1. [相约成都遇见万千精彩](https://s.weibo.com/weibo?q=%23%E7%9B%B8%E7%BA%A6%E6%88%90%E9%83%BD%E9%81%87%E8%A7%81%E4%B8%87%E5%8D%83%E7%B2%BE%E5%BD%A9%23&t=31&band_rank=3&Refer=top) 790551
@@ -67,14 +67,15 @@
 1. [官方回应女子被殴打后又被推进面包车](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E8%A2%AB%E6%AE%B4%E6%89%93%E5%90%8E%E5%8F%88%E8%A2%AB%E6%8E%A8%E8%BF%9B%E9%9D%A2%E5%8C%85%E8%BD%A6%23&t=31&band_rank=40&Refer=top) 52970
 1. [中100万刮刮乐女子说中的也不多](https://s.weibo.com/weibo?q=%23%E4%B8%AD100%E4%B8%87%E5%88%AE%E5%88%AE%E4%B9%90%E5%A5%B3%E5%AD%90%E8%AF%B4%E4%B8%AD%E7%9A%84%E4%B9%9F%E4%B8%8D%E5%A4%9A%23&t=31&band_rank=41&Refer=top) 49114
 1. [枭起青壤](https://s.weibo.com/weibo?q=%E6%9E%AD%E8%B5%B7%E9%9D%92%E5%A3%A4&t=31&band_rank=47&Refer=top) 45698
+1. [老人端面手指浸汤争执后店员持刀](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E7%AB%AF%E9%9D%A2%E6%89%8B%E6%8C%87%E6%B5%B8%E6%B1%A4%E4%BA%89%E6%89%A7%E5%90%8E%E5%BA%97%E5%91%98%E6%8C%81%E5%88%80%23&t=31&band_rank=44&Refer=top) 41867
 1. [台7岁女童火化前舌头咽喉消失](https://s.weibo.com/weibo?q=%23%E5%8F%B07%E5%B2%81%E5%A5%B3%E7%AB%A5%E7%81%AB%E5%8C%96%E5%89%8D%E8%88%8C%E5%A4%B4%E5%92%BD%E5%96%89%E6%B6%88%E5%A4%B1%23&t=31&band_rank=31&Refer=top) 37347
 1. [人生最经不起的就是等](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E7%94%9F%E6%9C%80%E7%BB%8F%E4%B8%8D%E8%B5%B7%E7%9A%84%E5%B0%B1%E6%98%AF%E7%AD%89%23&t=31&band_rank=40&Refer=top) 31304
+1. [重庆一干部经常上班时间外出打牌](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E4%B8%80%E5%B9%B2%E9%83%A8%E7%BB%8F%E5%B8%B8%E4%B8%8A%E7%8F%AD%E6%97%B6%E9%97%B4%E5%A4%96%E5%87%BA%E6%89%93%E7%89%8C%23&t=31&band_rank=35&Refer=top) 29166
 1. [孙颖莎亚军](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E4%BA%9A%E5%86%9B%23&t=31&band_rank=47&Refer=top) 27973
 1. [王楚钦张本智和颁奖](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E9%A2%81%E5%A5%96%23&t=31&band_rank=31&Refer=top) 25666
 1. [王楚钦祝贺张本智和](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E7%A5%9D%E8%B4%BA%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%23&t=31&band_rank=41&Refer=top) 20872
 1. [第一杯敬自己](https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E6%9D%AF%E6%95%AC%E8%87%AA%E5%B7%B1&t=31&band_rank=43&Refer=top) 17291
 1. [当事人回应17岁任职董事长](https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%9B%9E%E5%BA%9417%E5%B2%81%E4%BB%BB%E8%81%8C%E8%91%A3%E4%BA%8B%E9%95%BF%23&t=31&band_rank=49&Refer=top) 17268
-1. [老人端面手指浸汤争执后店员持刀](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E7%AB%AF%E9%9D%A2%E6%89%8B%E6%8C%87%E6%B5%B8%E6%B1%A4%E4%BA%89%E6%89%A7%E5%90%8E%E5%BA%97%E5%91%98%E6%8C%81%E5%88%80%23&t=31&band_rank=44&Refer=top) 16786
 1. [刘宇宁东方风云榜官宣](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E4%B8%9C%E6%96%B9%E9%A3%8E%E4%BA%91%E6%A6%9C%E5%AE%98%E5%AE%A3%23&t=31&band_rank=49&Refer=top) 15970
 <!-- END -->
 
