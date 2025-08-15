@@ -235,6 +235,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E7%A5%9E%E4%BA%8C%E5%8D%81%E4%B9%98%E7%BB%84%E5%9C%86%E6%BB%A1%E5%AE%8C%E6%88%90%E7%AC%AC%E4%B8%89%E6%AC%A1%E5%87%BA%E8%88%B1%23&t=31&band_rank=50&Refer=top",
     "hot": 92005
   },
+  "普京抵达美国": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E6%8A%B5%E8%BE%BE%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=10&Refer=top",
+    "hot": 90369
+  },
   "大司命黑皮男神": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%8F%B8%E5%91%BD%E9%BB%91%E7%9A%AE%E7%94%B7%E7%A5%9E%23&t=31&band_rank=22&Refer=top",
     "hot": 77587
@@ -258,5 +262,9 @@
   "普京特朗普一对一会晤改三对三": {
     "url": "https://s.weibo.com/weibo?q=%E6%99%AE%E4%BA%AC%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%80%E5%AF%B9%E4%B8%80%E4%BC%9A%E6%99%A4%E6%94%B9%E4%B8%89%E5%AF%B9%E4%B8%89&t=31&band_rank=43&Refer=top",
     "hot": 37194
+  },
+  "俄外长等已率先抵达阿拉斯加": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BF%84%E5%A4%96%E9%95%BF%E7%AD%89%E5%B7%B2%E7%8E%87%E5%85%88%E6%8A%B5%E8%BE%BE%E9%98%BF%E6%8B%89%E6%96%AF%E5%8A%A0%23&t=31&band_rank=32&Refer=top",
+    "hot": 32871
   }
 }
