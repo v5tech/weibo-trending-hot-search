@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-08-18 03:17:41.746808 
+最后更新时间 2025-08-18 04:24:17.834788 
 1. [中国男篮vs澳大利亚男篮](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AEvs%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E7%94%B7%E7%AF%AE&t=31&band_rank=2&Refer=top) 2296697
 1. [马頔道歉](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%A0%94%E9%81%93%E6%AD%89%23&t=31&band_rank=1&Refer=top) 1737754
 1. [胡明轩超神](https://s.weibo.com/weibo?q=%E8%83%A1%E6%98%8E%E8%BD%A9%E8%B6%85%E7%A5%9E&t=31&band_rank=2&Refer=top) 1278734
@@ -78,8 +78,11 @@
 1. [麦当劳奶昔2杯二手平台卖150元](https://s.weibo.com/weibo?q=%23%E9%BA%A6%E5%BD%93%E5%8A%B3%E5%A5%B6%E6%98%942%E6%9D%AF%E4%BA%8C%E6%89%8B%E5%B9%B3%E5%8F%B0%E5%8D%96150%E5%85%83%23&t=31&band_rank=50&Refer=top) 61996
 1. [中国男篮拼到最后一秒](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E6%8B%BC%E5%88%B0%E6%9C%80%E5%90%8E%E4%B8%80%E7%A7%92%23&t=31&band_rank=38&Refer=top) 49473
 1. [曼联0比1阿森纳](https://s.weibo.com/weibo?q=%23%E6%9B%BC%E8%81%940%E6%AF%941%E9%98%BF%E6%A3%AE%E7%BA%B3%23&t=31&band_rank=28&Refer=top) 47403
+1. [高铁上小孩吵闹女子却遭家长反怼](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E4%B8%8A%E5%B0%8F%E5%AD%A9%E5%90%B5%E9%97%B9%E5%A5%B3%E5%AD%90%E5%8D%B4%E9%81%AD%E5%AE%B6%E9%95%BF%E5%8F%8D%E6%80%BC%23&t=31&band_rank=22&Refer=top) 27597
+1. [马天宇养了三四百只鸡](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%A4%A9%E5%AE%87%E5%85%BB%E4%BA%86%E4%B8%89%E5%9B%9B%E7%99%BE%E5%8F%AA%E9%B8%A1%23&t=31&band_rank=24&Refer=top) 27388
+1. [黄牛代排队买麦当劳奶昔叫价88元](https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%89%9B%E4%BB%A3%E6%8E%92%E9%98%9F%E4%B9%B0%E9%BA%A6%E5%BD%93%E5%8A%B3%E5%A5%B6%E6%98%94%E5%8F%AB%E4%BB%B788%E5%85%83%23&t=31&band_rank=37&Refer=top) 27376
+1. [乌拉特后旗回应山洪事发地非景点](https://s.weibo.com/weibo?q=%23%E4%B9%8C%E6%8B%89%E7%89%B9%E5%90%8E%E6%97%97%E5%9B%9E%E5%BA%94%E5%B1%B1%E6%B4%AA%E4%BA%8B%E5%8F%91%E5%9C%B0%E9%9D%9E%E6%99%AF%E7%82%B9%23&t=31&band_rank=49&Refer=top) 27368
 1. [FIBA亚洲杯](https://s.weibo.com/weibo?q=%23FIBA%E4%BA%9A%E6%B4%B2%E6%9D%AF%23&t=31&band_rank=30&Refer=top) 25738
-1. [黄牛代排队买麦当劳奶昔叫价88元](https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%89%9B%E4%BB%A3%E6%8E%92%E9%98%9F%E4%B9%B0%E9%BA%A6%E5%BD%93%E5%8A%B3%E5%A5%B6%E6%98%94%E5%8F%AB%E4%BB%B788%E5%85%83%23&t=31&band_rank=37&Refer=top) 24416
 1. [黄子弘凡演唱会开场随机舞蹈](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E5%BC%98%E5%87%A1%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BC%80%E5%9C%BA%E9%9A%8F%E6%9C%BA%E8%88%9E%E8%B9%88%23&t=31&band_rank=42&Refer=top) 24412
 1. [永远不会扫兴的朱志鑫](https://s.weibo.com/weibo?q=%E6%B0%B8%E8%BF%9C%E4%B8%8D%E4%BC%9A%E6%89%AB%E5%85%B4%E7%9A%84%E6%9C%B1%E5%BF%97%E9%91%AB&t=31&band_rank=50&Refer=top) 24405
 <!-- END -->
