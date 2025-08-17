@@ -155,6 +155,10 @@
     "url": "https://s.weibo.com/weibo?q=%E7%94%9F%E4%B8%87%E7%89%A9&t=31&band_rank=35&Refer=top",
     "hot": 121382
   },
+  "马天宇养了三四百只鸡": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%A4%A9%E5%AE%87%E5%85%BB%E4%BA%86%E4%B8%89%E5%9B%9B%E7%99%BE%E5%8F%AA%E9%B8%A1%23&t=31&band_rank=24&Refer=top",
+    "hot": 116915
+  },
   "胡明轩半场15分": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%98%8E%E8%BD%A9%E5%8D%8A%E5%9C%BA15%E5%88%86%23&t=31&band_rank=13&Refer=top",
     "hot": 113856
@@ -206,10 +210,6 @@
   "马天宇 啥也不会只会哭": {
     "url": "https://s.weibo.com/weibo?q=%E9%A9%AC%E5%A4%A9%E5%AE%87%20%E5%95%A5%E4%B9%9F%E4%B8%8D%E4%BC%9A%E5%8F%AA%E4%BC%9A%E5%93%AD&t=31&band_rank=43&Refer=top",
     "hot": 89069
-  },
-  "马天宇养了三四百只鸡": {
-    "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%A4%A9%E5%AE%87%E5%85%BB%E4%BA%86%E4%B8%89%E5%9B%9B%E7%99%BE%E5%8F%AA%E9%B8%A1%23&t=31&band_rank=24&Refer=top",
-    "hot": 84404
   },
   "吴艳妮客串拉拉队队长": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%89%B3%E5%A6%AE%E5%AE%A2%E4%B8%B2%E6%8B%89%E6%8B%89%E9%98%9F%E9%98%9F%E9%95%BF%23&t=31&band_rank=44&Refer=top",
@@ -285,7 +285,7 @@
   },
   "高铁上小孩吵闹女子却遭家长反怼": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E4%B8%8A%E5%B0%8F%E5%AD%A9%E5%90%B5%E9%97%B9%E5%A5%B3%E5%AD%90%E5%8D%B4%E9%81%AD%E5%AE%B6%E9%95%BF%E5%8F%8D%E6%80%BC%23&t=31&band_rank=22&Refer=top",
-    "hot": 27597
+    "hot": 34747
   },
   "黄牛代排队买麦当劳奶昔叫价88元": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%89%9B%E4%BB%A3%E6%8E%92%E9%98%9F%E4%B9%B0%E9%BA%A6%E5%BD%93%E5%8A%B3%E5%A5%B6%E6%98%94%E5%8F%AB%E4%BB%B788%E5%85%83%23&t=31&band_rank=37&Refer=top",
@@ -306,5 +306,9 @@
   "永远不会扫兴的朱志鑫": {
     "url": "https://s.weibo.com/weibo?q=%E6%B0%B8%E8%BF%9C%E4%B8%8D%E4%BC%9A%E6%89%AB%E5%85%B4%E7%9A%84%E6%9C%B1%E5%BF%97%E9%91%AB&t=31&band_rank=50&Refer=top",
     "hot": 24405
+  },
+  "钟美美闯关 可以慢但是不能菜": {
+    "url": "https://s.weibo.com/weibo?q=%E9%92%9F%E7%BE%8E%E7%BE%8E%E9%97%AF%E5%85%B3%20%E5%8F%AF%E4%BB%A5%E6%85%A2%E4%BD%86%E6%98%AF%E4%B8%8D%E8%83%BD%E8%8F%9C&t=31&band_rank=50&Refer=top",
+    "hot": 23164
   }
 }

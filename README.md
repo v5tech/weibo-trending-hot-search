@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-08-18 05:20:22.224029 
+最后更新时间 2025-08-18 06:21:11.263740 
 1. [中国男篮vs澳大利亚男篮](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AEvs%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E7%94%B7%E7%AF%AE&t=31&band_rank=2&Refer=top) 2296697
 1. [马頔道歉](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%A0%94%E9%81%93%E6%AD%89%23&t=31&band_rank=1&Refer=top) 1737754
 1. [胡明轩超神](https://s.weibo.com/weibo?q=%E8%83%A1%E6%98%8E%E8%BD%A9%E8%B6%85%E7%A5%9E&t=31&band_rank=2&Refer=top) 1278734
@@ -47,6 +47,7 @@
 1. [虞书欣双麻花辫抹胸造型](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%8F%8C%E9%BA%BB%E8%8A%B1%E8%BE%AB%E6%8A%B9%E8%83%B8%E9%80%A0%E5%9E%8B%23&t=31&band_rank=33&Refer=top) 126512
 1. [五月天演唱会上偶遇李现](https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9C%88%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E5%81%B6%E9%81%87%E6%9D%8E%E7%8E%B0%23&t=31&band_rank=34&Refer=top) 123624
 1. [生万物](https://s.weibo.com/weibo?q=%E7%94%9F%E4%B8%87%E7%89%A9&t=31&band_rank=35&Refer=top) 121382
+1. [马天宇养了三四百只鸡](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%A4%A9%E5%AE%87%E5%85%BB%E4%BA%86%E4%B8%89%E5%9B%9B%E7%99%BE%E5%8F%AA%E9%B8%A1%23&t=31&band_rank=24&Refer=top) 116915
 1. [胡明轩半场15分](https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%98%8E%E8%BD%A9%E5%8D%8A%E5%9C%BA15%E5%88%86%23&t=31&band_rank=13&Refer=top) 113856
 1. [台湾网红馆长洗脑神曲](https://s.weibo.com/weibo?q=%E5%8F%B0%E6%B9%BE%E7%BD%91%E7%BA%A2%E9%A6%86%E9%95%BF%E6%B4%97%E8%84%91%E7%A5%9E%E6%9B%B2&t=31&band_rank=36&Refer=top) 109991
 1. [鹿晗对不起这得发](https://s.weibo.com/weibo?q=%E9%B9%BF%E6%99%97%E5%AF%B9%E4%B8%8D%E8%B5%B7%E8%BF%99%E5%BE%97%E5%8F%91&t=31&band_rank=21&Refer=top) 109887
@@ -60,7 +61,6 @@
 1. [女子要求双休获回复漂亮可天天休](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A6%81%E6%B1%82%E5%8F%8C%E4%BC%91%E8%8E%B7%E5%9B%9E%E5%A4%8D%E6%BC%82%E4%BA%AE%E5%8F%AF%E5%A4%A9%E5%A4%A9%E4%BC%91%23&t=31&band_rank=41&Refer=top) 92635
 1. [肖战余烬共生曲](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E4%BD%99%E7%83%AC%E5%85%B1%E7%94%9F%E6%9B%B2&t=31&band_rank=42&Refer=top) 91964
 1. [马天宇 啥也不会只会哭](https://s.weibo.com/weibo?q=%E9%A9%AC%E5%A4%A9%E5%AE%87%20%E5%95%A5%E4%B9%9F%E4%B8%8D%E4%BC%9A%E5%8F%AA%E4%BC%9A%E5%93%AD&t=31&band_rank=43&Refer=top) 89069
-1. [马天宇养了三四百只鸡](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%A4%A9%E5%AE%87%E5%85%BB%E4%BA%86%E4%B8%89%E5%9B%9B%E7%99%BE%E5%8F%AA%E9%B8%A1%23&t=31&band_rank=24&Refer=top) 84404
 1. [吴艳妮客串拉拉队队长](https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%89%B3%E5%A6%AE%E5%AE%A2%E4%B8%B2%E6%8B%89%E6%8B%89%E9%98%9F%E9%98%9F%E9%95%BF%23&t=31&band_rank=44&Refer=top) 84086
 1. [刘宇宁直播](https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%E7%9B%B4%E6%92%AD&t=31&band_rank=45&Refer=top) 82551
 1. [严浩翔shake封面](https://s.weibo.com/weibo?q=%23%E4%B8%A5%E6%B5%A9%E7%BF%94shake%E5%B0%81%E9%9D%A2%23&t=31&band_rank=25&Refer=top) 81708
@@ -79,12 +79,13 @@
 1. [麦当劳奶昔2杯二手平台卖150元](https://s.weibo.com/weibo?q=%23%E9%BA%A6%E5%BD%93%E5%8A%B3%E5%A5%B6%E6%98%942%E6%9D%AF%E4%BA%8C%E6%89%8B%E5%B9%B3%E5%8F%B0%E5%8D%96150%E5%85%83%23&t=31&band_rank=50&Refer=top) 61996
 1. [中国男篮拼到最后一秒](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E6%8B%BC%E5%88%B0%E6%9C%80%E5%90%8E%E4%B8%80%E7%A7%92%23&t=31&band_rank=38&Refer=top) 49473
 1. [曼联0比1阿森纳](https://s.weibo.com/weibo?q=%23%E6%9B%BC%E8%81%940%E6%AF%941%E9%98%BF%E6%A3%AE%E7%BA%B3%23&t=31&band_rank=28&Refer=top) 47403
-1. [高铁上小孩吵闹女子却遭家长反怼](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E4%B8%8A%E5%B0%8F%E5%AD%A9%E5%90%B5%E9%97%B9%E5%A5%B3%E5%AD%90%E5%8D%B4%E9%81%AD%E5%AE%B6%E9%95%BF%E5%8F%8D%E6%80%BC%23&t=31&band_rank=22&Refer=top) 27597
+1. [高铁上小孩吵闹女子却遭家长反怼](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E4%B8%8A%E5%B0%8F%E5%AD%A9%E5%90%B5%E9%97%B9%E5%A5%B3%E5%AD%90%E5%8D%B4%E9%81%AD%E5%AE%B6%E9%95%BF%E5%8F%8D%E6%80%BC%23&t=31&band_rank=22&Refer=top) 34747
 1. [黄牛代排队买麦当劳奶昔叫价88元](https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%89%9B%E4%BB%A3%E6%8E%92%E9%98%9F%E4%B9%B0%E9%BA%A6%E5%BD%93%E5%8A%B3%E5%A5%B6%E6%98%94%E5%8F%AB%E4%BB%B788%E5%85%83%23&t=31&band_rank=37&Refer=top) 27376
 1. [乌拉特后旗回应山洪事发地非景点](https://s.weibo.com/weibo?q=%23%E4%B9%8C%E6%8B%89%E7%89%B9%E5%90%8E%E6%97%97%E5%9B%9E%E5%BA%94%E5%B1%B1%E6%B4%AA%E4%BA%8B%E5%8F%91%E5%9C%B0%E9%9D%9E%E6%99%AF%E7%82%B9%23&t=31&band_rank=49&Refer=top) 27368
 1. [FIBA亚洲杯](https://s.weibo.com/weibo?q=%23FIBA%E4%BA%9A%E6%B4%B2%E6%9D%AF%23&t=31&band_rank=30&Refer=top) 25738
 1. [黄子弘凡演唱会开场随机舞蹈](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E5%BC%98%E5%87%A1%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BC%80%E5%9C%BA%E9%9A%8F%E6%9C%BA%E8%88%9E%E8%B9%88%23&t=31&band_rank=42&Refer=top) 24412
 1. [永远不会扫兴的朱志鑫](https://s.weibo.com/weibo?q=%E6%B0%B8%E8%BF%9C%E4%B8%8D%E4%BC%9A%E6%89%AB%E5%85%B4%E7%9A%84%E6%9C%B1%E5%BF%97%E9%91%AB&t=31&band_rank=50&Refer=top) 24405
+1. [钟美美闯关 可以慢但是不能菜](https://s.weibo.com/weibo?q=%E9%92%9F%E7%BE%8E%E7%BE%8E%E9%97%AF%E5%85%B3%20%E5%8F%AF%E4%BB%A5%E6%85%A2%E4%BD%86%E6%98%AF%E4%B8%8D%E8%83%BD%E8%8F%9C&t=31&band_rank=50&Refer=top) 23164
 <!-- END -->
 
 历史归档 [./archives](./archives)
