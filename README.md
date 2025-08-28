@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-08-29 04:23:24.495283 
+最后更新时间 2025-08-29 05:19:25.493403 
 1. [labubu](https://s.weibo.com/weibo?q=labubu&t=31&band_rank=1&Refer=top) 925093
 1. [七夕](https://s.weibo.com/weibo?q=%23%E4%B8%83%E5%A4%95%23&t=31&band_rank=1&Refer=top) 779588
 1. [厦门航空一飞机因充电宝起火延误](https://s.weibo.com/weibo?q=%23%E5%8E%A6%E9%97%A8%E8%88%AA%E7%A9%BA%E4%B8%80%E9%A3%9E%E6%9C%BA%E5%9B%A0%E5%85%85%E7%94%B5%E5%AE%9D%E8%B5%B7%E7%81%AB%E5%BB%B6%E8%AF%AF%23&t=31&band_rank=2&Refer=top) 388989
@@ -71,18 +71,20 @@
 1. [iG战胜BLG](https://s.weibo.com/weibo?q=%23iG%E6%88%98%E8%83%9CBLG%23&t=31&band_rank=49&Refer=top) 51367
 1. [目之所及](https://s.weibo.com/weibo?q=%E7%9B%AE%E4%B9%8B%E6%89%80%E5%8F%8A&t=31&band_rank=50&Refer=top) 51364
 1. [安静公主资助过已去世的抗癌博主](https://s.weibo.com/weibo?q=%E5%AE%89%E9%9D%99%E5%85%AC%E4%B8%BB%E8%B5%84%E5%8A%A9%E8%BF%87%E5%B7%B2%E5%8E%BB%E4%B8%96%E7%9A%84%E6%8A%97%E7%99%8C%E5%8D%9A%E4%B8%BB&t=31&band_rank=31&Refer=top) 40452
+1. [男子持水杯砸伤女同事被刑拘](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8C%81%E6%B0%B4%E6%9D%AF%E7%A0%B8%E4%BC%A4%E5%A5%B3%E5%90%8C%E4%BA%8B%E8%A2%AB%E5%88%91%E6%8B%98%23&t=31&band_rank=10&Refer=top) 39030
+1. [刘浩存主动给刘昊然打招呼](https://s.weibo.com/weibo?q=%23%E5%88%98%E6%B5%A9%E5%AD%98%E4%B8%BB%E5%8A%A8%E7%BB%99%E5%88%98%E6%98%8A%E7%84%B6%E6%89%93%E6%8B%9B%E5%91%BC%23&t=31&band_rank=26&Refer=top) 33066
 1. [完美世界动画](https://s.weibo.com/weibo?q=%E5%AE%8C%E7%BE%8E%E4%B8%96%E7%95%8C%E5%8A%A8%E7%94%BB&t=31&band_rank=26&Refer=top) 31583
 1. [反诈老陈自曝直播间曾被封禁](https://s.weibo.com/weibo?q=%23%E5%8F%8D%E8%AF%88%E8%80%81%E9%99%88%E8%87%AA%E6%9B%9D%E7%9B%B4%E6%92%AD%E9%97%B4%E6%9B%BE%E8%A2%AB%E5%B0%81%E7%A6%81%23&t=31&band_rank=37&Refer=top) 31490
 1. [美网红卫生棉条忘体内1月险丧命](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E7%BD%91%E7%BA%A2%E5%8D%AB%E7%94%9F%E6%A3%89%E6%9D%A1%E5%BF%98%E4%BD%93%E5%86%851%E6%9C%88%E9%99%A9%E4%B8%A7%E5%91%BD%23&t=31&band_rank=43&Refer=top) 31430
 1. [九三纪念活动既是铭记历史更是开创未来](https://s.weibo.com/weibo?q=%23%E4%B9%9D%E4%B8%89%E7%BA%AA%E5%BF%B5%E6%B4%BB%E5%8A%A8%E6%97%A2%E6%98%AF%E9%93%AD%E8%AE%B0%E5%8E%86%E5%8F%B2%E6%9B%B4%E6%98%AF%E5%BC%80%E5%88%9B%E6%9C%AA%E6%9D%A5%23&t=31&band_rank=47&Refer=top) 31390
 1. [花少7聚餐合照](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%917%E8%81%9A%E9%A4%90%E5%90%88%E7%85%A7%23&t=31&band_rank=49&Refer=top) 31371
-1. [刘浩存主动给刘昊然打招呼](https://s.weibo.com/weibo?q=%23%E5%88%98%E6%B5%A9%E5%AD%98%E4%B8%BB%E5%8A%A8%E7%BB%99%E5%88%98%E6%98%8A%E7%84%B6%E6%89%93%E6%8B%9B%E5%91%BC%23&t=31&band_rank=26&Refer=top) 29880
 1. [家人称金子涵没生病](https://s.weibo.com/weibo?q=%E5%AE%B6%E4%BA%BA%E7%A7%B0%E9%87%91%E5%AD%90%E6%B6%B5%E6%B2%A1%E7%94%9F%E7%97%85&t=31&band_rank=27&Refer=top) 26017
 1. [九三文艺晚会细节来了](https://s.weibo.com/weibo?q=%23%E4%B9%9D%E4%B8%89%E6%96%87%E8%89%BA%E6%99%9A%E4%BC%9A%E7%BB%86%E8%8A%82%E6%9D%A5%E4%BA%86%23&t=31&band_rank=32&Refer=top) 24497
 1. [育儿补贴可以线上申领了](https://s.weibo.com/weibo?q=%23%E8%82%B2%E5%84%BF%E8%A1%A5%E8%B4%B4%E5%8F%AF%E4%BB%A5%E7%BA%BF%E4%B8%8A%E7%94%B3%E9%A2%86%E4%BA%86%23&t=31&band_rank=35&Refer=top) 23246
 1. [华晨宇火星演唱会](https://s.weibo.com/weibo?q=%E5%8D%8E%E6%99%A8%E5%AE%87%E7%81%AB%E6%98%9F%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=42&Refer=top) 18329
 1. [风声](https://s.weibo.com/weibo?q=%E9%A3%8E%E5%A3%B0&t=31&band_rank=45&Refer=top) 18327
 1. [日本长期抵赖罪行无耻至极](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%95%BF%E6%9C%9F%E6%8A%B5%E8%B5%96%E7%BD%AA%E8%A1%8C%E6%97%A0%E8%80%BB%E8%87%B3%E6%9E%81%23&t=31&band_rank=47&Refer=top) 18326
+1. [开学补作业](https://s.weibo.com/weibo?q=%E5%BC%80%E5%AD%A6%E8%A1%A5%E4%BD%9C%E4%B8%9A&t=31&band_rank=42&Refer=top) 16760
 <!-- END -->
 
 历史归档 [./archives](./archives)
