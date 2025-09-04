@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-09-04 15:19:42.901723 
+最后更新时间 2025-09-04 16:27:24.005484 
 1. [特朗普承认观看中国阅兵](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%BF%E8%AE%A4%E8%A7%82%E7%9C%8B%E4%B8%AD%E5%9B%BD%E9%98%85%E5%85%B5%23&t=31&band_rank=12&Refer=top) 14367323
 1. [新华社 必出神图的决心](https://s.weibo.com/weibo?q=%E6%96%B0%E5%8D%8E%E7%A4%BE%20%E5%BF%85%E5%87%BA%E7%A5%9E%E5%9B%BE%E7%9A%84%E5%86%B3%E5%BF%83&t=31&band_rank=13&Refer=top) 2280465
 1. [文艺晚会](https://s.weibo.com/weibo?q=%E6%96%87%E8%89%BA%E6%99%9A%E4%BC%9A&t=31&band_rank=1&Refer=top) 2235438
@@ -27,6 +27,7 @@
 1. [期待下次阅兵了](https://s.weibo.com/weibo?q=%23%E6%9C%9F%E5%BE%85%E4%B8%8B%E6%AC%A1%E9%98%85%E5%85%B5%E4%BA%86%23&t=31&band_rank=7&Refer=top) 715674
 1. [90岁钟南山院士佩戴共和国勋章观礼](https://s.weibo.com/weibo?q=%2390%E5%B2%81%E9%92%9F%E5%8D%97%E5%B1%B1%E9%99%A2%E5%A3%AB%E4%BD%A9%E6%88%B4%E5%85%B1%E5%92%8C%E5%9B%BD%E5%8B%8B%E7%AB%A0%E8%A7%82%E7%A4%BC%23&t=31&band_rank=5&Refer=top) 682922
 1. [天安门城楼毛主席画像完成年度换新](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E5%AE%89%E9%97%A8%E5%9F%8E%E6%A5%BC%E6%AF%9B%E4%B8%BB%E5%B8%AD%E7%94%BB%E5%83%8F%E5%AE%8C%E6%88%90%E5%B9%B4%E5%BA%A6%E6%8D%A2%E6%96%B0%23&t=31&band_rank=8&Refer=top) 670462
+1. [北京杜莎夫人蜡像馆将永久关停](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%9D%9C%E8%8E%8E%E5%A4%AB%E4%BA%BA%E8%9C%A1%E5%83%8F%E9%A6%86%E5%B0%86%E6%B0%B8%E4%B9%85%E5%85%B3%E5%81%9C%23&t=31&band_rank=5&Refer=top) 644309
 1. [中国排面给全世界亿点震撼](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%8E%92%E9%9D%A2%E7%BB%99%E5%85%A8%E4%B8%96%E7%95%8C%E4%BA%BF%E7%82%B9%E9%9C%87%E6%92%BC%23&t=31&band_rank=15&Refer=top) 612438
 1. [普京记者会满满中国风](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E8%AE%B0%E8%80%85%E4%BC%9A%E6%BB%A1%E6%BB%A1%E4%B8%AD%E5%9B%BD%E9%A3%8E%23&t=31&band_rank=4&Refer=top) 600178
 1. [南部战区深夜再发声](https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%83%A8%E6%88%98%E5%8C%BA%E6%B7%B1%E5%A4%9C%E5%86%8D%E5%8F%91%E5%A3%B0%23&t=31&band_rank=9&Refer=top) 561809
@@ -41,6 +42,7 @@
 1. [男子私存文件绝密59份机密848份](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%A7%81%E5%AD%98%E6%96%87%E4%BB%B6%E7%BB%9D%E5%AF%8659%E4%BB%BD%E6%9C%BA%E5%AF%86848%E4%BB%BD%23&t=31&band_rank=13&Refer=top) 477183
 1. [宝宝出生恰逢九三阅兵家人取名安阅](https://s.weibo.com/weibo?q=%23%E5%AE%9D%E5%AE%9D%E5%87%BA%E7%94%9F%E6%81%B0%E9%80%A2%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%E5%AE%B6%E4%BA%BA%E5%8F%96%E5%90%8D%E5%AE%89%E9%98%85%23&t=31&band_rank=29&Refer=top) 472154
 1. [一个人的命怎么能好成这样啊](https://s.weibo.com/weibo?q=%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%9A%84%E5%91%BD%E6%80%8E%E4%B9%88%E8%83%BD%E5%A5%BD%E6%88%90%E8%BF%99%E6%A0%B7%E5%95%8A&t=31&band_rank=14&Refer=top) 462761
+1. [浙工大回应2新生为校长撑伞全淋湿](https://s.weibo.com/weibo?q=%23%E6%B5%99%E5%B7%A5%E5%A4%A7%E5%9B%9E%E5%BA%942%E6%96%B0%E7%94%9F%E4%B8%BA%E6%A0%A1%E9%95%BF%E6%92%91%E4%BC%9E%E5%85%A8%E6%B7%8B%E6%B9%BF%23&t=31&band_rank=6&Refer=top) 442632
 1. [加沙人看阅兵后落泪](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%99%E4%BA%BA%E7%9C%8B%E9%98%85%E5%85%B5%E5%90%8E%E8%90%BD%E6%B3%AA%23&t=31&band_rank=17&Refer=top) 433062
 1. [每天运动1小时2年后的改变](https://s.weibo.com/weibo?q=%E6%AF%8F%E5%A4%A9%E8%BF%90%E5%8A%A81%E5%B0%8F%E6%97%B62%E5%B9%B4%E5%90%8E%E7%9A%84%E6%94%B9%E5%8F%98&t=31&band_rank=19&Refer=top) 432895
 1. [阅兵太出片了](https://s.weibo.com/weibo?q=%23%E9%98%85%E5%85%B5%E5%A4%AA%E5%87%BA%E7%89%87%E4%BA%86%23&t=31&band_rank=18&Refer=top) 429914
@@ -51,13 +53,16 @@
 1. [坦克有没有后视镜](https://s.weibo.com/weibo?q=%23%E5%9D%A6%E5%85%8B%E6%9C%89%E6%B2%A1%E6%9C%89%E5%90%8E%E8%A7%86%E9%95%9C%23&t=31&band_rank=7&Refer=top) 369018
 1. [和平鸽与国徽同框壁纸](https://s.weibo.com/weibo?q=%23%E5%92%8C%E5%B9%B3%E9%B8%BD%E4%B8%8E%E5%9B%BD%E5%BE%BD%E5%90%8C%E6%A1%86%E5%A3%81%E7%BA%B8%23&t=31&band_rank=8&Refer=top) 357932
 1. [流浪地球 纪录片](https://s.weibo.com/weibo?q=%E6%B5%81%E6%B5%AA%E5%9C%B0%E7%90%83%20%E7%BA%AA%E5%BD%95%E7%89%87&t=31&band_rank=9&Refer=top) 342884
+1. [台媒称台军难以望到解放军尾灯](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E5%AA%92%E7%A7%B0%E5%8F%B0%E5%86%9B%E9%9A%BE%E4%BB%A5%E6%9C%9B%E5%88%B0%E8%A7%A3%E6%94%BE%E5%86%9B%E5%B0%BE%E7%81%AF%23&t=31&band_rank=28&Refer=top) 340587
 1. [抗战胜利80周年](https://s.weibo.com/weibo?q=%23%E6%8A%97%E6%88%98%E8%83%9C%E5%88%A980%E5%91%A8%E5%B9%B4%23&t=31&band_rank=10&Refer=top) 339089
 1. [台湾同胞为看阅兵没睡觉](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E5%90%8C%E8%83%9E%E4%B8%BA%E7%9C%8B%E9%98%85%E5%85%B5%E6%B2%A1%E7%9D%A1%E8%A7%89%23&t=31&band_rank=12&Refer=top) 338713
 1. [鸽友40只鸽子参与阅兵全飞回](https://s.weibo.com/weibo?q=%23%E9%B8%BD%E5%8F%8B40%E5%8F%AA%E9%B8%BD%E5%AD%90%E5%8F%82%E4%B8%8E%E9%98%85%E5%85%B5%E5%85%A8%E9%A3%9E%E5%9B%9E%23&t=31&band_rank=20&Refer=top) 331518
 1. [阅兵部队退场也有亿点点震撼](https://s.weibo.com/weibo?q=%23%E9%98%85%E5%85%B5%E9%83%A8%E9%98%9F%E9%80%80%E5%9C%BA%E4%B9%9F%E6%9C%89%E4%BA%BF%E7%82%B9%E7%82%B9%E9%9C%87%E6%92%BC%23&t=31&band_rank=10&Refer=top) 329176
 1. [普京秀了一把幽默感](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E7%A7%80%E4%BA%86%E4%B8%80%E6%8A%8A%E5%B9%BD%E9%BB%98%E6%84%9F%23&t=31&band_rank=13&Refer=top) 326836
 1. [朝鲜摄影师拍的阅兵照片](https://s.weibo.com/weibo?q=%E6%9C%9D%E9%B2%9C%E6%91%84%E5%BD%B1%E5%B8%88%E6%8B%8D%E7%9A%84%E9%98%85%E5%85%B5%E7%85%A7%E7%89%87&t=31&band_rank=31&Refer=top) 315660
+1. [阅兵现场妻子把王伟照片举向天空](https://s.weibo.com/weibo?q=%23%E9%98%85%E5%85%B5%E7%8E%B0%E5%9C%BA%E5%A6%BB%E5%AD%90%E6%8A%8A%E7%8E%8B%E4%BC%9F%E7%85%A7%E7%89%87%E4%B8%BE%E5%90%91%E5%A4%A9%E7%A9%BA%23&t=31&band_rank=39&Refer=top) 312947
 1. [法新社出图](https://s.weibo.com/weibo?q=%23%E6%B3%95%E6%96%B0%E7%A4%BE%E5%87%BA%E5%9B%BE%23&t=31&band_rank=13&Refer=top) 310154
+1. [成毅云包场赴山海](https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E4%BA%91%E5%8C%85%E5%9C%BA%E8%B5%B4%E5%B1%B1%E6%B5%B7%23&t=31&band_rank=10&Refer=top) 302189
 1. [最硬核的阅兵后最暖的互动](https://s.weibo.com/weibo?q=%23%E6%9C%80%E7%A1%AC%E6%A0%B8%E7%9A%84%E9%98%85%E5%85%B5%E5%90%8E%E6%9C%80%E6%9A%96%E7%9A%84%E4%BA%92%E5%8A%A8%23&t=31&band_rank=21&Refer=top) 295937
 1. [九三阅兵的这句解说词太催泪](https://s.weibo.com/weibo?q=%23%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%E7%9A%84%E8%BF%99%E5%8F%A5%E8%A7%A3%E8%AF%B4%E8%AF%8D%E5%A4%AA%E5%82%AC%E6%B3%AA%23&t=31&band_rank=22&Refer=top) 289112
 1. [你说双一流原来是这么个双一流](https://s.weibo.com/weibo?q=%E4%BD%A0%E8%AF%B4%E5%8F%8C%E4%B8%80%E6%B5%81%E5%8E%9F%E6%9D%A5%E6%98%AF%E8%BF%99%E4%B9%88%E4%B8%AA%E5%8F%8C%E4%B8%80%E6%B5%81&t=31&band_rank=41&Refer=top) 278064
@@ -65,8 +70,10 @@
 1. [第五人格](https://s.weibo.com/weibo?q=%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC&t=31&band_rank=15&Refer=top) 274538
 1. [德媒称中国阅兵武器遥遥领先](https://s.weibo.com/weibo?q=%E5%BE%B7%E5%AA%92%E7%A7%B0%E4%B8%AD%E5%9B%BD%E9%98%85%E5%85%B5%E6%AD%A6%E5%99%A8%E9%81%A5%E9%81%A5%E9%A2%86%E5%85%88&t=31&band_rank=33&Refer=top) 271274
 1. [歼35大片来了](https://s.weibo.com/weibo?q=%23%E6%AD%BC35%E5%A4%A7%E7%89%87%E6%9D%A5%E4%BA%86%23&t=31&band_rank=20&Refer=top) 269071
+1. [麒麟9020](https://s.weibo.com/weibo?q=%E9%BA%92%E9%BA%9F9020&t=31&band_rank=12&Refer=top) 264991
 1. [美军PPT里的东西我们已经服役了](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9BPPT%E9%87%8C%E7%9A%84%E4%B8%9C%E8%A5%BF%E6%88%91%E4%BB%AC%E5%B7%B2%E7%BB%8F%E6%9C%8D%E5%BD%B9%E4%BA%86%23&t=31&band_rank=20&Refer=top) 261909
 1. [金价](https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=23&Refer=top) 261116
+1. [外交部回应特朗普涉华指责](https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%B6%89%E5%8D%8E%E6%8C%87%E8%B4%A3%23&t=31&band_rank=13&Refer=top) 259601
 1. [特朗普下令重振美国军队](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E9%87%8D%E6%8C%AF%E7%BE%8E%E5%9B%BD%E5%86%9B%E9%98%9F%23&t=31&band_rank=24&Refer=top) 258609
 1. [亲人去世后不要偷看他们手机](https://s.weibo.com/weibo?q=%E4%BA%B2%E4%BA%BA%E5%8E%BB%E4%B8%96%E5%90%8E%E4%B8%8D%E8%A6%81%E5%81%B7%E7%9C%8B%E4%BB%96%E4%BB%AC%E6%89%8B%E6%9C%BA&t=31&band_rank=22&Refer=top) 257505
 1. [童瑶新剧演林允的侄女](https://s.weibo.com/weibo?q=%E7%AB%A5%E7%91%B6%E6%96%B0%E5%89%A7%E6%BC%94%E6%9E%97%E5%85%81%E7%9A%84%E4%BE%84%E5%A5%B3&t=31&band_rank=23&Refer=top) 255676
@@ -83,6 +90,7 @@
 1. [一家人举国旗看阅兵飞机](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%AE%B6%E4%BA%BA%E4%B8%BE%E5%9B%BD%E6%97%97%E7%9C%8B%E9%98%85%E5%85%B5%E9%A3%9E%E6%9C%BA%23&t=31&band_rank=16&Refer=top) 244321
 1. [赴山海](https://s.weibo.com/weibo?q=%E8%B5%B4%E5%B1%B1%E6%B5%B7&t=31&band_rank=21&Refer=top) 242445
 1. [为什么早餐更适合吃高热量食物](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%97%A9%E9%A4%90%E6%9B%B4%E9%80%82%E5%90%88%E5%90%83%E9%AB%98%E7%83%AD%E9%87%8F%E9%A3%9F%E7%89%A9%23&t=31&band_rank=24&Refer=top) 242339
+1. [华为发布会](https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E4%BC%9A&t=31&band_rank=14&Refer=top) 237406
 1. [东风61大约10个花坛长度](https://s.weibo.com/weibo?q=%E4%B8%9C%E9%A3%8E61%E5%A4%A7%E7%BA%A610%E4%B8%AA%E8%8A%B1%E5%9D%9B%E9%95%BF%E5%BA%A6&t=31&band_rank=15&Refer=top) 236727
 1. [A股](https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=22&Refer=top) 233159
 1. [九三阅兵台湾线上播放超500万](https://s.weibo.com/weibo?q=%23%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%E5%8F%B0%E6%B9%BE%E7%BA%BF%E4%B8%8A%E6%92%AD%E6%94%BE%E8%B6%85500%E4%B8%87%23&t=31&band_rank=23&Refer=top) 231261
@@ -97,6 +105,11 @@
 1. [心动offer真的给我打电话了](https://s.weibo.com/weibo?q=%23%E5%BF%83%E5%8A%A8offer%E7%9C%9F%E7%9A%84%E7%BB%99%E6%88%91%E6%89%93%E7%94%B5%E8%AF%9D%E4%BA%86%23&t=31&band_rank=28&Refer=top) 205977
 1. [把不敢带的耳钉带在了书包上](https://s.weibo.com/weibo?q=%E6%8A%8A%E4%B8%8D%E6%95%A2%E5%B8%A6%E7%9A%84%E8%80%B3%E9%92%89%E5%B8%A6%E5%9C%A8%E4%BA%86%E4%B9%A6%E5%8C%85%E4%B8%8A&t=31&band_rank=26&Refer=top) 205823
 1. [国台办回应赖清德9月3日说三道四](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%E8%B5%96%E6%B8%85%E5%BE%B79%E6%9C%883%E6%97%A5%E8%AF%B4%E4%B8%89%E9%81%93%E5%9B%9B%23&t=31&band_rank=28&Refer=top) 204695
+1. [华为首次官宣非凡大师品牌LOGO](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E9%A6%96%E6%AC%A1%E5%AE%98%E5%AE%A3%E9%9D%9E%E5%87%A1%E5%A4%A7%E5%B8%88%E5%93%81%E7%89%8CLOGO%23&t=31&band_rank=19&Refer=top) 203928
+1. [美防长谈九三阅兵](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E9%98%B2%E9%95%BF%E8%B0%88%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%23&t=31&band_rank=20&Refer=top) 203565
+1. [周翊然郑合惠子演父女](https://s.weibo.com/weibo?q=%E5%91%A8%E7%BF%8A%E7%84%B6%E9%83%91%E5%90%88%E6%83%A0%E5%AD%90%E6%BC%94%E7%88%B6%E5%A5%B3&t=31&band_rank=21&Refer=top) 199780
+1. [张晚意 王权富贵到王富贵](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%99%9A%E6%84%8F%20%E7%8E%8B%E6%9D%83%E5%AF%8C%E8%B4%B5%E5%88%B0%E7%8E%8B%E5%AF%8C%E8%B4%B5&t=31&band_rank=23&Refer=top) 195012
+1. [鸠山由纪夫说怀着反省谢罪心情赴华](https://s.weibo.com/weibo?q=%23%E9%B8%A0%E5%B1%B1%E7%94%B1%E7%BA%AA%E5%A4%AB%E8%AF%B4%E6%80%80%E7%9D%80%E5%8F%8D%E7%9C%81%E8%B0%A2%E7%BD%AA%E5%BF%83%E6%83%85%E8%B5%B4%E5%8D%8E%23&t=31&band_rank=24&Refer=top) 194427
 1. [南部战区权威发布](https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%83%A8%E6%88%98%E5%8C%BA%E6%9D%83%E5%A8%81%E5%8F%91%E5%B8%83%23&t=31&band_rank=26&Refer=top) 189087
 1. [中国阅兵传递什么信息](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%85%E5%85%B5%E4%BC%A0%E9%80%92%E4%BB%80%E4%B9%88%E4%BF%A1%E6%81%AF%23&t=31&band_rank=30&Refer=top) 187513
 1. [真胖和虚胖的5个区别](https://s.weibo.com/weibo?q=%E7%9C%9F%E8%83%96%E5%92%8C%E8%99%9A%E8%83%96%E7%9A%845%E4%B8%AA%E5%8C%BA%E5%88%AB&t=31&band_rank=18&Refer=top) 182906
@@ -108,8 +121,10 @@
 1. [抗战胜利80周年文艺晚会](https://s.weibo.com/weibo?q=%23%E6%8A%97%E6%88%98%E8%83%9C%E5%88%A980%E5%91%A8%E5%B9%B4%E6%96%87%E8%89%BA%E6%99%9A%E4%BC%9A%23&t=31&band_rank=20&Refer=top) 179623
 1. [特朗普祝中国人民度过美好庆祝日](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A5%9D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%BA%A6%E8%BF%87%E7%BE%8E%E5%A5%BD%E5%BA%86%E7%A5%9D%E6%97%A5%23&t=31&band_rank=21&Refer=top) 179421
 1. [吴越吴樾](https://s.weibo.com/weibo?q=%E5%90%B4%E8%B6%8A%E5%90%B4%E6%A8%BE&t=31&band_rank=22&Refer=top) 179009
+1. [刘宇宁回应唱央视剧OST](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E5%9B%9E%E5%BA%94%E5%94%B1%E5%A4%AE%E8%A7%86%E5%89%A7OST%23&t=31&band_rank=25&Refer=top) 178838
 1. [吴越罗晋吴樾刘昊然合照](https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%B6%8A%E7%BD%97%E6%99%8B%E5%90%B4%E6%A8%BE%E5%88%98%E6%98%8A%E7%84%B6%E5%90%88%E7%85%A7%23&t=31&band_rank=33&Refer=top) 178257
 1. [小孩的文具都进化成这样了](https://s.weibo.com/weibo?q=%E5%B0%8F%E5%AD%A9%E7%9A%84%E6%96%87%E5%85%B7%E9%83%BD%E8%BF%9B%E5%8C%96%E6%88%90%E8%BF%99%E6%A0%B7%E4%BA%86&t=31&band_rank=34&Refer=top) 177922
+1. [浙工大校长淋湿后被调侃双一流校长](https://s.weibo.com/weibo?q=%23%E6%B5%99%E5%B7%A5%E5%A4%A7%E6%A0%A1%E9%95%BF%E6%B7%8B%E6%B9%BF%E5%90%8E%E8%A2%AB%E8%B0%83%E4%BE%83%E5%8F%8C%E4%B8%80%E6%B5%81%E6%A0%A1%E9%95%BF%23&t=31&band_rank=26&Refer=top) 177544
 1. [绝区零](https://s.weibo.com/weibo?q=%E7%BB%9D%E5%8C%BA%E9%9B%B6&t=31&band_rank=35&Refer=top) 176008
 1. [5万余人观礼离场后干干净净](https://s.weibo.com/weibo?q=%235%E4%B8%87%E4%BD%99%E4%BA%BA%E8%A7%82%E7%A4%BC%E7%A6%BB%E5%9C%BA%E5%90%8E%E5%B9%B2%E5%B9%B2%E5%87%80%E5%87%80%23&t=31&band_rank=36&Refer=top) 175054
 1. [九三盛大阅兵](https://s.weibo.com/weibo?q=%23%E4%B9%9D%E4%B8%89%E7%9B%9B%E5%A4%A7%E9%98%85%E5%85%B5%23&t=31&band_rank=23&Refer=top) 174823
@@ -117,13 +132,13 @@
 1. [美军看好的装备被我军率先实现](https://s.weibo.com/weibo?q=%E7%BE%8E%E5%86%9B%E7%9C%8B%E5%A5%BD%E7%9A%84%E8%A3%85%E5%A4%87%E8%A2%AB%E6%88%91%E5%86%9B%E7%8E%87%E5%85%88%E5%AE%9E%E7%8E%B0&t=31&band_rank=33&Refer=top) 174341
 1. [果然帅的都交给国家了](https://s.weibo.com/weibo?q=%23%E6%9E%9C%E7%84%B6%E5%B8%85%E7%9A%84%E9%83%BD%E4%BA%A4%E7%BB%99%E5%9B%BD%E5%AE%B6%E4%BA%86%23&t=31&band_rank=32&Refer=top) 174322
 1. [开学基础第一杯奶茶就不基础](https://s.weibo.com/weibo?q=%E5%BC%80%E5%AD%A6%E5%9F%BA%E7%A1%80%E7%AC%AC%E4%B8%80%E6%9D%AF%E5%A5%B6%E8%8C%B6%E5%B0%B1%E4%B8%8D%E5%9F%BA%E7%A1%80&t=31&band_rank=36&Refer=top) 173142
+1. [分子料理为什么火了](https://s.weibo.com/weibo?q=%E5%88%86%E5%AD%90%E6%96%99%E7%90%86%E4%B8%BA%E4%BB%80%E4%B9%88%E7%81%AB%E4%BA%86&t=31&band_rank=27&Refer=top) 172791
 1. [耿爽联合国发言的含金量](https://s.weibo.com/weibo?q=%23%E8%80%BF%E7%88%BD%E8%81%94%E5%90%88%E5%9B%BD%E5%8F%91%E8%A8%80%E7%9A%84%E5%90%AB%E9%87%91%E9%87%8F%23&t=31&band_rank=34&Refer=top) 171108
 1. [任何搅局南海企图都不可能得逞](https://s.weibo.com/weibo?q=%23%E4%BB%BB%E4%BD%95%E6%90%85%E5%B1%80%E5%8D%97%E6%B5%B7%E4%BC%81%E5%9B%BE%E9%83%BD%E4%B8%8D%E5%8F%AF%E8%83%BD%E5%BE%97%E9%80%9E%23&t=31&band_rank=35&Refer=top) 168643
 1. [花少7有自己的西游记](https://s.weibo.com/weibo?q=%E8%8A%B1%E5%B0%917%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84%E8%A5%BF%E6%B8%B8%E8%AE%B0&t=31&band_rank=34&Refer=top) 165732
 1. [阅兵网友神评论](https://s.weibo.com/weibo?q=%23%E9%98%85%E5%85%B5%E7%BD%91%E5%8F%8B%E7%A5%9E%E8%AF%84%E8%AE%BA%23&t=31&band_rank=12&Refer=top) 162867
 1. [赴台生被假学姐引诱泄露近百情报](https://s.weibo.com/weibo?q=%23%E8%B5%B4%E5%8F%B0%E7%94%9F%E8%A2%AB%E5%81%87%E5%AD%A6%E5%A7%90%E5%BC%95%E8%AF%B1%E6%B3%84%E9%9C%B2%E8%BF%91%E7%99%BE%E6%83%85%E6%8A%A5%23&t=31&band_rank=37&Refer=top) 160225
 1. [莫欺我中华无肝胆母亲膝下百万兵](https://s.weibo.com/weibo?q=%23%E8%8E%AB%E6%AC%BA%E6%88%91%E4%B8%AD%E5%8D%8E%E6%97%A0%E8%82%9D%E8%83%86%E6%AF%8D%E4%BA%B2%E8%86%9D%E4%B8%8B%E7%99%BE%E4%B8%87%E5%85%B5%23&t=31&band_rank=24&Refer=top) 159352
-1. [台媒称台军难以望到解放军尾灯](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E5%AA%92%E7%A7%B0%E5%8F%B0%E5%86%9B%E9%9A%BE%E4%BB%A5%E6%9C%9B%E5%88%B0%E8%A7%A3%E6%94%BE%E5%86%9B%E5%B0%BE%E7%81%AF%23&t=31&band_rank=28&Refer=top) 156884
 1. [光与夜之恋](https://s.weibo.com/weibo?q=%E5%85%89%E4%B8%8E%E5%A4%9C%E4%B9%8B%E6%81%8B&t=31&band_rank=35&Refer=top) 155985
 1. [特朗普感叹九三阅兵](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%84%9F%E5%8F%B9%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%23&t=31&band_rank=36&Refer=top) 155638
 1. [唐卡为什么是最毒的画作](https://s.weibo.com/weibo?q=%E5%94%90%E5%8D%A1%E4%B8%BA%E4%BB%80%E4%B9%88%E6%98%AF%E6%9C%80%E6%AF%92%E7%9A%84%E7%94%BB%E4%BD%9C&t=31&band_rank=26&Refer=top) 155498
@@ -147,6 +162,7 @@
 1. [信鸽协会回应市民救助落水和平鸽](https://s.weibo.com/weibo?q=%23%E4%BF%A1%E9%B8%BD%E5%8D%8F%E4%BC%9A%E5%9B%9E%E5%BA%94%E5%B8%82%E6%B0%91%E6%95%91%E5%8A%A9%E8%90%BD%E6%B0%B4%E5%92%8C%E5%B9%B3%E9%B8%BD%23&t=31&band_rank=43&Refer=top) 141623
 1. [外婆一大把年纪还吃上了空投](https://s.weibo.com/weibo?q=%E5%A4%96%E5%A9%86%E4%B8%80%E5%A4%A7%E6%8A%8A%E5%B9%B4%E7%BA%AA%E8%BF%98%E5%90%83%E4%B8%8A%E4%BA%86%E7%A9%BA%E6%8A%95&t=31&band_rank=39&Refer=top) 140866
 1. [光与夜之恋幻觉派对](https://s.weibo.com/weibo?q=%E5%85%89%E4%B8%8E%E5%A4%9C%E4%B9%8B%E6%81%8B%E5%B9%BB%E8%A7%89%E6%B4%BE%E5%AF%B9&t=31&band_rank=33&Refer=top) 139895
+1. [东风41车贴刚到半天就成老款了](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E9%A3%8E41%E8%BD%A6%E8%B4%B4%E5%88%9A%E5%88%B0%E5%8D%8A%E5%A4%A9%E5%B0%B1%E6%88%90%E8%80%81%E6%AC%BE%E4%BA%86%23&t=31&band_rank=31&Refer=top) 139626
 1. [局座曾在节目中谈激光武器](https://s.weibo.com/weibo?q=%23%E5%B1%80%E5%BA%A7%E6%9B%BE%E5%9C%A8%E8%8A%82%E7%9B%AE%E4%B8%AD%E8%B0%88%E6%BF%80%E5%85%89%E6%AD%A6%E5%99%A8%23&t=31&band_rank=40&Refer=top) 139621
 1. [贺峻霖知识过脑同时还做了一套听力](https://s.weibo.com/weibo?q=%E8%B4%BA%E5%B3%BB%E9%9C%96%E7%9F%A5%E8%AF%86%E8%BF%87%E8%84%91%E5%90%8C%E6%97%B6%E8%BF%98%E5%81%9A%E4%BA%86%E4%B8%80%E5%A5%97%E5%90%AC%E5%8A%9B&t=31&band_rank=34&Refer=top) 139199
 1. [我们可以自豪地告慰先烈](https://s.weibo.com/weibo?q=%23%E6%88%91%E4%BB%AC%E5%8F%AF%E4%BB%A5%E8%87%AA%E8%B1%AA%E5%9C%B0%E5%91%8A%E6%85%B0%E5%85%88%E7%83%88%23&t=31&band_rank=32&Refer=top) 137484
@@ -159,26 +175,34 @@
 1. [升旗手儿子今天真帅](https://s.weibo.com/weibo?q=%23%E5%8D%87%E6%97%97%E6%89%8B%E5%84%BF%E5%AD%90%E4%BB%8A%E5%A4%A9%E7%9C%9F%E5%B8%85%23&t=31&band_rank=36&Refer=top) 132163
 1. [商家笑了俩小时才退款](https://s.weibo.com/weibo?q=%E5%95%86%E5%AE%B6%E7%AC%91%E4%BA%86%E4%BF%A9%E5%B0%8F%E6%97%B6%E6%89%8D%E9%80%80%E6%AC%BE&t=31&band_rank=29&Refer=top) 128864
 1. [台胞看完阅兵希望祖国尽快统一](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E8%83%9E%E7%9C%8B%E5%AE%8C%E9%98%85%E5%85%B5%E5%B8%8C%E6%9C%9B%E7%A5%96%E5%9B%BD%E5%B0%BD%E5%BF%AB%E7%BB%9F%E4%B8%80%23&t=31&band_rank=39&Refer=top) 128837
+1. [桐心薇泯翻拍夏家三千金](https://s.weibo.com/weibo?q=%E6%A1%90%E5%BF%83%E8%96%87%E6%B3%AF%E7%BF%BB%E6%8B%8D%E5%A4%8F%E5%AE%B6%E4%B8%89%E5%8D%83%E9%87%91&t=31&band_rank=34&Refer=top) 127004
 1. [爷爷的眼睛替他的战友看到了](https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E7%9A%84%E7%9C%BC%E7%9D%9B%E6%9B%BF%E4%BB%96%E7%9A%84%E6%88%98%E5%8F%8B%E7%9C%8B%E5%88%B0%E4%BA%86%23&t=31&band_rank=30&Refer=top) 126295
 1. [这是胡先煦吗](https://s.weibo.com/weibo?q=%E8%BF%99%E6%98%AF%E8%83%A1%E5%85%88%E7%85%A6%E5%90%97&t=31&band_rank=31&Refer=top) 125989
 1. [阿云嘎郁可唯文艺晚会演唱歌曲](https://s.weibo.com/weibo?q=%23%E9%98%BF%E4%BA%91%E5%98%8E%E9%83%81%E5%8F%AF%E5%94%AF%E6%96%87%E8%89%BA%E6%99%9A%E4%BC%9A%E6%BC%94%E5%94%B1%E6%AD%8C%E6%9B%B2%23&t=31&band_rank=32&Refer=top) 125973
 1. [刘敏涛给我演哭了](https://s.weibo.com/weibo?q=%E5%88%98%E6%95%8F%E6%B6%9B%E7%BB%99%E6%88%91%E6%BC%94%E5%93%AD%E4%BA%86&t=31&band_rank=33&Refer=top) 125857
 1. [阅兵壁纸](https://s.weibo.com/weibo?q=%E9%98%85%E5%85%B5%E5%A3%81%E7%BA%B8&t=31&band_rank=34&Refer=top) 125600
 1. [一家三代四名军嫂的高光时刻](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%AE%B6%E4%B8%89%E4%BB%A3%E5%9B%9B%E5%90%8D%E5%86%9B%E5%AB%82%E7%9A%84%E9%AB%98%E5%85%89%E6%97%B6%E5%88%BB%23&t=31&band_rank=44&Refer=top) 125512
-1. [阅兵现场妻子把王伟照片举向天空](https://s.weibo.com/weibo?q=%23%E9%98%85%E5%85%B5%E7%8E%B0%E5%9C%BA%E5%A6%BB%E5%AD%90%E6%8A%8A%E7%8E%8B%E4%BC%9F%E7%85%A7%E7%89%87%E4%B8%BE%E5%90%91%E5%A4%A9%E7%A9%BA%23&t=31&band_rank=39&Refer=top) 124768
 1. [新华社吊臂让恐高的人腿软了](https://s.weibo.com/weibo?q=%E6%96%B0%E5%8D%8E%E7%A4%BE%E5%90%8A%E8%87%82%E8%AE%A9%E6%81%90%E9%AB%98%E7%9A%84%E4%BA%BA%E8%85%BF%E8%BD%AF%E4%BA%86&t=31&band_rank=40&Refer=top) 124063
 1. [伞兵家漏水把狗吓得坐脚上](https://s.weibo.com/weibo?q=%E4%BC%9E%E5%85%B5%E5%AE%B6%E6%BC%8F%E6%B0%B4%E6%8A%8A%E7%8B%97%E5%90%93%E5%BE%97%E5%9D%90%E8%84%9A%E4%B8%8A&t=31&band_rank=40&Refer=top) 123240
 1. [当家里的小朋友有了微信](https://s.weibo.com/weibo?q=%E5%BD%93%E5%AE%B6%E9%87%8C%E7%9A%84%E5%B0%8F%E6%9C%8B%E5%8F%8B%E6%9C%89%E4%BA%86%E5%BE%AE%E4%BF%A1&t=31&band_rank=44&Refer=top) 123016
 1. [早睡其实什么都不会失去](https://s.weibo.com/weibo?q=%E6%97%A9%E7%9D%A1%E5%85%B6%E5%AE%9E%E4%BB%80%E4%B9%88%E9%83%BD%E4%B8%8D%E4%BC%9A%E5%A4%B1%E5%8E%BB&t=31&band_rank=48&Refer=top) 122873
 1. [孙颖莎看阅兵感想](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E7%9C%8B%E9%98%85%E5%85%B5%E6%84%9F%E6%83%B3%23&t=31&band_rank=35&Refer=top) 121839
 1. [柯洁面对AI感到无力](https://s.weibo.com/weibo?q=%23%E6%9F%AF%E6%B4%81%E9%9D%A2%E5%AF%B9AI%E6%84%9F%E5%88%B0%E6%97%A0%E5%8A%9B%23&t=31&band_rank=50&Refer=top) 120351
+1. [一抬头发现中国留学生都在看阅兵](https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%8A%AC%E5%A4%B4%E5%8F%91%E7%8E%B0%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E9%83%BD%E5%9C%A8%E7%9C%8B%E9%98%85%E5%85%B5%23&t=31&band_rank=36&Refer=top) 120256
 1. [罗小黑](https://s.weibo.com/weibo?q=%E7%BD%97%E5%B0%8F%E9%BB%91&t=31&band_rank=42&Refer=top) 120123
 1. [法新社 五彩斑斓的黑](https://s.weibo.com/weibo?q=%E6%B3%95%E6%96%B0%E7%A4%BE%20%E4%BA%94%E5%BD%A9%E6%96%91%E6%96%93%E7%9A%84%E9%BB%91&t=31&band_rank=43&Refer=top) 120108
 1. [樊振东从不找外界原因](https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E4%BB%8E%E4%B8%8D%E6%89%BE%E5%A4%96%E7%95%8C%E5%8E%9F%E5%9B%A0&t=31&band_rank=47&Refer=top) 120042
 1. [肖战期待你们的江南之旅](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%9C%9F%E5%BE%85%E4%BD%A0%E4%BB%AC%E7%9A%84%E6%B1%9F%E5%8D%97%E4%B9%8B%E6%97%85%23&t=31&band_rank=48&Refer=top) 120023
 1. [河南女排城市联赛开打朱婷任大使](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E5%A5%B3%E6%8E%92%E5%9F%8E%E5%B8%82%E8%81%94%E8%B5%9B%E5%BC%80%E6%89%93%E6%9C%B1%E5%A9%B7%E4%BB%BB%E5%A4%A7%E4%BD%BF%23&t=31&band_rank=50&Refer=top) 120000
 1. [加拿大北极虾百香果凉米线](https://s.weibo.com/weibo?q=%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%8C%97%E6%9E%81%E8%99%BE%E7%99%BE%E9%A6%99%E6%9E%9C%E5%87%89%E7%B1%B3%E7%BA%BF&t=31&band_rank=49&Refer=top) 119028
+1. [冷咖啡和热咖啡不是靠温度区分](https://s.weibo.com/weibo?q=%23%E5%86%B7%E5%92%96%E5%95%A1%E5%92%8C%E7%83%AD%E5%92%96%E5%95%A1%E4%B8%8D%E6%98%AF%E9%9D%A0%E6%B8%A9%E5%BA%A6%E5%8C%BA%E5%88%86%23&t=31&band_rank=38&Refer=top) 116462
 1. [胡先煦感慨荣幸骄傲](https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%85%88%E7%85%A6%E6%84%9F%E6%85%A8%E8%8D%A3%E5%B9%B8%E9%AA%84%E5%82%B2%23&t=31&band_rank=44&Refer=top) 116087
+1. [华为新款三折叠价格](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E6%96%B0%E6%AC%BE%E4%B8%89%E6%8A%98%E5%8F%A0%E4%BB%B7%E6%A0%BC%23&t=31&band_rank=42&Refer=top) 115588
+1. [中国短道速滑剑指新赛季](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%9F%AD%E9%81%93%E9%80%9F%E6%BB%91%E5%89%91%E6%8C%87%E6%96%B0%E8%B5%9B%E5%AD%A3&t=31&band_rank=43&Refer=top) 115504
+1. [iPhone17系列终极爆料](https://s.weibo.com/weibo?q=%23iPhone17%E7%B3%BB%E5%88%97%E7%BB%88%E6%9E%81%E7%88%86%E6%96%99%23&t=31&band_rank=44&Refer=top) 115488
+1. [麒麟芯片时隔四年重现华为发布会](https://s.weibo.com/weibo?q=%23%E9%BA%92%E9%BA%9F%E8%8A%AF%E7%89%87%E6%97%B6%E9%9A%94%E5%9B%9B%E5%B9%B4%E9%87%8D%E7%8E%B0%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=47&Refer=top) 115326
+1. [国外餐厅重播九三阅兵](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%A4%96%E9%A4%90%E5%8E%85%E9%87%8D%E6%92%AD%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%23&t=31&band_rank=46&Refer=top) 115252
+1. [猫 人一直响怎么办](https://s.weibo.com/weibo?q=%E7%8C%AB%20%E4%BA%BA%E4%B8%80%E7%9B%B4%E5%93%8D%E6%80%8E%E4%B9%88%E5%8A%9E&t=31&band_rank=50&Refer=top) 115230
 1. [坦克下班](https://s.weibo.com/weibo?q=%E5%9D%A6%E5%85%8B%E4%B8%8B%E7%8F%AD&t=31&band_rank=37&Refer=top) 113528
 1. [看完阅兵再看这个有点不适应](https://s.weibo.com/weibo?q=%E7%9C%8B%E5%AE%8C%E9%98%85%E5%85%B5%E5%86%8D%E7%9C%8B%E8%BF%99%E4%B8%AA%E6%9C%89%E7%82%B9%E4%B8%8D%E9%80%82%E5%BA%94&t=31&band_rank=45&Refer=top) 113362
 1. [嘉奖参加阅兵全体人员](https://s.weibo.com/weibo?q=%23%E5%98%89%E5%A5%96%E5%8F%82%E5%8A%A0%E9%98%85%E5%85%B5%E5%85%A8%E4%BD%93%E4%BA%BA%E5%91%98%23&t=31&band_rank=38&Refer=top) 112473
@@ -194,7 +218,6 @@
 1. [马龙王楚钦等看完阅兵交作业了](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99%E7%8E%8B%E6%A5%9A%E9%92%A6%E7%AD%89%E7%9C%8B%E5%AE%8C%E9%98%85%E5%85%B5%E4%BA%A4%E4%BD%9C%E4%B8%9A%E4%BA%86%23&t=31&band_rank=50&Refer=top) 112021
 1. [这三位女将的金牌含金量有多高](https://s.weibo.com/weibo?q=%E8%BF%99%E4%B8%89%E4%BD%8D%E5%A5%B3%E5%B0%86%E7%9A%84%E9%87%91%E7%89%8C%E5%90%AB%E9%87%91%E9%87%8F%E6%9C%89%E5%A4%9A%E9%AB%98&t=31&band_rank=50&Refer=top) 111338
 1. [拉肚子到后面是化学损伤](https://s.weibo.com/weibo?q=%E6%8B%89%E8%82%9A%E5%AD%90%E5%88%B0%E5%90%8E%E9%9D%A2%E6%98%AF%E5%8C%96%E5%AD%A6%E6%8D%9F%E4%BC%A4&t=31&band_rank=35&Refer=top) 110851
-1. [国外餐厅重播九三阅兵](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%A4%96%E9%A4%90%E5%8E%85%E9%87%8D%E6%92%AD%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%23&t=31&band_rank=46&Refer=top) 110644
 1. [交换生落入学姐的温柔陷阱](https://s.weibo.com/weibo?q=%23%E4%BA%A4%E6%8D%A2%E7%94%9F%E8%90%BD%E5%85%A5%E5%AD%A6%E5%A7%90%E7%9A%84%E6%B8%A9%E6%9F%94%E9%99%B7%E9%98%B1%23&t=31&band_rank=46&Refer=top) 110414
 1. [现场5万余人看完阅兵没留一片纸屑](https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%BA5%E4%B8%87%E4%BD%99%E4%BA%BA%E7%9C%8B%E5%AE%8C%E9%98%85%E5%85%B5%E6%B2%A1%E7%95%99%E4%B8%80%E7%89%87%E7%BA%B8%E5%B1%91%23&t=31&band_rank=49&Refer=top) 106963
 1. [LPL最佳阵容投票](https://s.weibo.com/weibo?q=LPL%E6%9C%80%E4%BD%B3%E9%98%B5%E5%AE%B9%E6%8A%95%E7%A5%A8&t=31&band_rank=47&Refer=top) 106662
