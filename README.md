@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-09-06 02:28:03.828037 
+最后更新时间 2025-09-06 03:16:46.145867 
 1. [张亮退出张亮麻辣烫股东行列](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BA%AE%E9%80%80%E5%87%BA%E5%BC%A0%E4%BA%AE%E9%BA%BB%E8%BE%A3%E7%83%AB%E8%82%A1%E4%B8%9C%E8%A1%8C%E5%88%97%23&t=31&band_rank=1&Refer=top) 916298
 1. [桃李面包后续宣发将由年轻人接管](https://s.weibo.com/weibo?q=%23%E6%A1%83%E6%9D%8E%E9%9D%A2%E5%8C%85%E5%90%8E%E7%BB%AD%E5%AE%A3%E5%8F%91%E5%B0%86%E7%94%B1%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%8E%A5%E7%AE%A1%23&t=31&band_rank=2&Refer=top) 542798
 1. [侵华日军疯狂屠杀三天制造厂窖惨案](https://s.weibo.com/weibo?q=%23%E4%BE%B5%E5%8D%8E%E6%97%A5%E5%86%9B%E7%96%AF%E7%8B%82%E5%B1%A0%E6%9D%80%E4%B8%89%E5%A4%A9%E5%88%B6%E9%80%A0%E5%8E%82%E7%AA%96%E6%83%A8%E6%A1%88%23&t=31&band_rank=10&Refer=top) 510554
@@ -65,6 +65,8 @@
 1. [林孝埈亮相国家队选拔赛](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%AD%9D%E5%9F%88%E4%BA%AE%E7%9B%B8%E5%9B%BD%E5%AE%B6%E9%98%9F%E9%80%89%E6%8B%94%E8%B5%9B%23&t=31&band_rank=50&Refer=top) 56122
 1. [易烊千玺扭进我心里了](https://s.weibo.com/weibo?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%89%AD%E8%BF%9B%E6%88%91%E5%BF%83%E9%87%8C%E4%BA%86&t=31&band_rank=46&Refer=top) 27203
 1. [2025F1意大利大奖赛](https://s.weibo.com/weibo?q=%232025F1%E6%84%8F%E5%A4%A7%E5%88%A9%E5%A4%A7%E5%A5%96%E8%B5%9B%23&t=31&band_rank=50&Refer=top) 27195
+1. [这组壁纸安全感满满](https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%BB%84%E5%A3%81%E7%BA%B8%E5%AE%89%E5%85%A8%E6%84%9F%E6%BB%A1%E6%BB%A1%23&t=31&band_rank=26&Refer=top) 25314
+1. [VOGUE群封花絮](https://s.weibo.com/weibo?q=VOGUE%E7%BE%A4%E5%B0%81%E8%8A%B1%E7%B5%AE&t=31&band_rank=49&Refer=top) 25253
 <!-- END -->
 
 历史归档 [./archives](./archives)
