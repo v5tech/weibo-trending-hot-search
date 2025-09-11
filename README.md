@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-09-12 05:17:32.422613 
+最后更新时间 2025-09-12 06:19:10.055026 
 1. [研究生多到宿舍不够住](https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E7%94%9F%E5%A4%9A%E5%88%B0%E5%AE%BF%E8%88%8D%E4%B8%8D%E5%A4%9F%E4%BD%8F%23&t=31&band_rank=1&Refer=top) 871236
 1. [有小学建议不让老人接送小孩](https://s.weibo.com/weibo?q=%23%E6%9C%89%E5%B0%8F%E5%AD%A6%E5%BB%BA%E8%AE%AE%E4%B8%8D%E8%AE%A9%E8%80%81%E4%BA%BA%E6%8E%A5%E9%80%81%E5%B0%8F%E5%AD%A9%23&t=31&band_rank=2&Refer=top) 871130
 1. [英雄回家](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E5%9B%9E%E5%AE%B6%23&t=31&band_rank=3&Refer=top) 870992
