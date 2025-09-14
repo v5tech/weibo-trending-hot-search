@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-09-15 04:20:17.466157 
+最后更新时间 2025-09-15 05:16:53.211176 
 1. [周迅如懿传谣言澄清](https://s.weibo.com/weibo?q=%23%E5%91%A8%E8%BF%85%E5%A6%82%E6%87%BF%E4%BC%A0%E8%B0%A3%E8%A8%80%E6%BE%84%E6%B8%85%23&t=31&band_rank=1&Refer=top) 987485
 1. [妈妈亲手缝的NIKE书包火了](https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E4%BA%B2%E6%89%8B%E7%BC%9D%E7%9A%84NIKE%E4%B9%A6%E5%8C%85%E7%81%AB%E4%BA%86%23&t=31&band_rank=2&Refer=top) 430749
 1. [新疆小姐姐说去北京不用背馕了](https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E5%B0%8F%E5%A7%90%E5%A7%90%E8%AF%B4%E5%8E%BB%E5%8C%97%E4%BA%AC%E4%B8%8D%E7%94%A8%E8%83%8C%E9%A6%95%E4%BA%86%23&t=31&band_rank=22&Refer=top) 407453
@@ -75,9 +75,11 @@
 1. [周深我被压在雷峰塔下出不来了](https://s.weibo.com/weibo?q=%E5%91%A8%E6%B7%B1%E6%88%91%E8%A2%AB%E5%8E%8B%E5%9C%A8%E9%9B%B7%E5%B3%B0%E5%A1%94%E4%B8%8B%E5%87%BA%E4%B8%8D%E6%9D%A5%E4%BA%86&t=31&band_rank=47&Refer=top) 67009
 1. [汪苏泷是男大吧](https://s.weibo.com/weibo?q=%E6%B1%AA%E8%8B%8F%E6%B3%B7%E6%98%AF%E7%94%B7%E5%A4%A7%E5%90%A7&t=31&band_rank=46&Refer=top) 64807
 1. [Falcons战胜XG](https://s.weibo.com/weibo?q=Falcons%E6%88%98%E8%83%9CXG&t=31&band_rank=7&Refer=top) 52827
+1. [千名业主陷商铺包租违约困境](https://s.weibo.com/weibo?q=%23%E5%8D%83%E5%90%8D%E4%B8%9A%E4%B8%BB%E9%99%B7%E5%95%86%E9%93%BA%E5%8C%85%E7%A7%9F%E8%BF%9D%E7%BA%A6%E5%9B%B0%E5%A2%83%23&t=31&band_rank=9&Refer=top) 31665
+1. [大学想谈恋爱其实也不容易](https://s.weibo.com/weibo?q=%E5%A4%A7%E5%AD%A6%E6%83%B3%E8%B0%88%E6%81%8B%E7%88%B1%E5%85%B6%E5%AE%9E%E4%B9%9F%E4%B8%8D%E5%AE%B9%E6%98%93&t=31&band_rank=34&Refer=top) 28700
+1. [TI15](https://s.weibo.com/weibo?q=TI15&t=31&band_rank=30&Refer=top) 28626
 1. [嗨皮牙给汪苏泷拍照](https://s.weibo.com/weibo?q=%E5%97%A8%E7%9A%AE%E7%89%99%E7%BB%99%E6%B1%AA%E8%8B%8F%E6%B3%B7%E6%8B%8D%E7%85%A7&t=31&band_rank=18&Refer=top) 26509
 1. [汪苏泷罗曼城小蛋糕](https://s.weibo.com/weibo?q=%E6%B1%AA%E8%8B%8F%E6%B3%B7%E7%BD%97%E6%9B%BC%E5%9F%8E%E5%B0%8F%E8%9B%8B%E7%B3%95&t=31&band_rank=19&Refer=top) 26470
-1. [TI15](https://s.weibo.com/weibo?q=TI15&t=31&band_rank=30&Refer=top) 25095
 1. [钎城闪现张艺兴演唱会](https://s.weibo.com/weibo?q=%E9%92%8E%E5%9F%8E%E9%97%AA%E7%8E%B0%E5%BC%A0%E8%89%BA%E5%85%B4%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=48&Refer=top) 25052
 <!-- END -->
 
