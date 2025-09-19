@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-09-20 04:22:16.282120 
+最后更新时间 2025-09-20 05:18:01.398377 
 1. [印度人插队抢iPhone17斗殴互扇耳光](https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E4%BA%BA%E6%8F%92%E9%98%9F%E6%8A%A2iPhone17%E6%96%97%E6%AE%B4%E4%BA%92%E6%89%87%E8%80%B3%E5%85%89%23&t=31&band_rank=1&Refer=top) 862477
 1. [白敬亭你睡着了吗我睡不着](https://s.weibo.com/weibo?q=%E7%99%BD%E6%95%AC%E4%BA%AD%E4%BD%A0%E7%9D%A1%E7%9D%80%E4%BA%86%E5%90%97%E6%88%91%E7%9D%A1%E4%B8%8D%E7%9D%80&t=31&band_rank=7&Refer=top) 535405
 1. [中方在TikTok问题上的立场是清楚的](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9C%A8TikTok%E9%97%AE%E9%A2%98%E4%B8%8A%E7%9A%84%E7%AB%8B%E5%9C%BA%E6%98%AF%E6%B8%85%E6%A5%9A%E7%9A%84%23&t=31&band_rank=6&Refer=top) 337110
