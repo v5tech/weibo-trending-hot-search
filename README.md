@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-09-28 01:16:10.839855 
+最后更新时间 2025-09-28 02:26:48.931820 
 1. [瓶子解说](https://s.weibo.com/weibo?q=%E7%93%B6%E5%AD%90%E8%A7%A3%E8%AF%B4&t=31&band_rank=1&Refer=top) 1394111
 1. [久哲战队](https://s.weibo.com/weibo?q=%E4%B9%85%E5%93%B2%E6%88%98%E9%98%9F&t=31&band_rank=2&Refer=top) 576351
 1. [航班提前15小时起飞惊呆乘客](https://s.weibo.com/weibo?q=%23%E8%88%AA%E7%8F%AD%E6%8F%90%E5%89%8D15%E5%B0%8F%E6%97%B6%E8%B5%B7%E9%A3%9E%E6%83%8A%E5%91%86%E4%B9%98%E5%AE%A2%23&t=31&band_rank=10&Refer=top) 494780
@@ -42,8 +42,10 @@
 1. [周也 贝雷帽战神](https://s.weibo.com/weibo?q=%E5%91%A8%E4%B9%9F%20%E8%B4%9D%E9%9B%B7%E5%B8%BD%E6%88%98%E7%A5%9E&t=31&band_rank=31&Refer=top) 156949
 1. [长期不换各种社交头像](https://s.weibo.com/weibo?q=%E9%95%BF%E6%9C%9F%E4%B8%8D%E6%8D%A2%E5%90%84%E7%A7%8D%E7%A4%BE%E4%BA%A4%E5%A4%B4%E5%83%8F&t=31&band_rank=32&Refer=top) 137353
 1. [刘萧旭女友正脸](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%90%A7%E6%97%AD%E5%A5%B3%E5%8F%8B%E6%AD%A3%E8%84%B8%23&t=31&band_rank=33&Refer=top) 134061
+1. [老太太碰瓷小女生](https://s.weibo.com/weibo?q=%E8%80%81%E5%A4%AA%E5%A4%AA%E7%A2%B0%E7%93%B7%E5%B0%8F%E5%A5%B3%E7%94%9F&t=31&band_rank=19&Refer=top) 129670
+1. [邓超腿受伤](https://s.weibo.com/weibo?q=%E9%82%93%E8%B6%85%E8%85%BF%E5%8F%97%E4%BC%A4&t=31&band_rank=14&Refer=top) 128960
 1. [陈浚铭婴儿时期看过TFBOYS演唱会](https://s.weibo.com/weibo?q=%E9%99%88%E6%B5%9A%E9%93%AD%E5%A9%B4%E5%84%BF%E6%97%B6%E6%9C%9F%E7%9C%8B%E8%BF%87TFBOYS%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=34&Refer=top) 128521
-1. [邓超腿受伤](https://s.weibo.com/weibo?q=%E9%82%93%E8%B6%85%E8%85%BF%E5%8F%97%E4%BC%A4&t=31&band_rank=14&Refer=top) 123830
+1. [JIUZHE战队夺冠](https://s.weibo.com/weibo?q=%23JIUZHE%E6%88%98%E9%98%9F%E5%A4%BA%E5%86%A0%23&t=31&band_rank=7&Refer=top) 127930
 1. [肖战刘宇宁刘雨昕等歌唱曲目](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%88%98%E5%AE%87%E5%AE%81%E5%88%98%E9%9B%A8%E6%98%95%E7%AD%89%E6%AD%8C%E5%94%B1%E6%9B%B2%E7%9B%AE%23&t=31&band_rank=35&Refer=top) 121444
 1. [孙怡因染发导致脸肿](https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%80%A1%E5%9B%A0%E6%9F%93%E5%8F%91%E5%AF%BC%E8%87%B4%E8%84%B8%E8%82%BF%23&t=31&band_rank=36&Refer=top) 120692
 1. [Rookie 隔6年了](https://s.weibo.com/weibo?q=Rookie%20%E9%9A%946%E5%B9%B4%E4%BA%86&t=31&band_rank=37&Refer=top) 116811
@@ -60,11 +62,14 @@
 1. [中野辅联动开局双杀](https://s.weibo.com/weibo?q=%E4%B8%AD%E9%87%8E%E8%BE%85%E8%81%94%E5%8A%A8%E5%BC%80%E5%B1%80%E5%8F%8C%E6%9D%80&t=31&band_rank=48&Refer=top) 115721
 1. [苏超八强诞生](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E8%B6%85%E5%85%AB%E5%BC%BA%E8%AF%9E%E7%94%9F%23&t=31&band_rank=49&Refer=top) 115701
 1. [沈阳天后名不虚传](https://s.weibo.com/weibo?q=%E6%B2%88%E9%98%B3%E5%A4%A9%E5%90%8E%E5%90%8D%E4%B8%8D%E8%99%9A%E4%BC%A0&t=31&band_rank=50&Refer=top) 115680
-1. [老太太碰瓷小女生](https://s.weibo.com/weibo?q=%E8%80%81%E5%A4%AA%E5%A4%AA%E7%A2%B0%E7%93%B7%E5%B0%8F%E5%A5%B3%E7%94%9F&t=31&band_rank=19&Refer=top) 85411
 1. [水晶宫2比1利物浦](https://s.weibo.com/weibo?q=%23%E6%B0%B4%E6%99%B6%E5%AE%AB2%E6%AF%941%E5%88%A9%E7%89%A9%E6%B5%A6%23&t=31&band_rank=20&Refer=top) 84469
 1. [引导型恋人](https://s.weibo.com/weibo?q=%E5%BC%95%E5%AF%BC%E5%9E%8B%E6%81%8B%E4%BA%BA&t=31&band_rank=33&Refer=top) 66883
 1. [健康减肥的关键](https://s.weibo.com/weibo?q=%23%E5%81%A5%E5%BA%B7%E5%87%8F%E8%82%A5%E7%9A%84%E5%85%B3%E9%94%AE%23&t=31&band_rank=43&Refer=top) 63954
 1. [内娱电竞群像](https://s.weibo.com/weibo?q=%E5%86%85%E5%A8%B1%E7%94%B5%E7%AB%9E%E7%BE%A4%E5%83%8F&t=31&band_rank=44&Refer=top) 63950
+1. [汪苏泷点了一碗线面实则两碗](https://s.weibo.com/weibo?q=%E6%B1%AA%E8%8B%8F%E6%B3%B7%E7%82%B9%E4%BA%86%E4%B8%80%E7%A2%97%E7%BA%BF%E9%9D%A2%E5%AE%9E%E5%88%99%E4%B8%A4%E7%A2%97&t=31&band_rank=16&Refer=top) 50738
+1. [千里江山图](https://s.weibo.com/weibo?q=%E5%8D%83%E9%87%8C%E6%B1%9F%E5%B1%B1%E5%9B%BE&t=31&band_rank=46&Refer=top) 37582
+1. [王鹤棣现身成都NBA聚星名人赛](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E7%8E%B0%E8%BA%AB%E6%88%90%E9%83%BDNBA%E8%81%9A%E6%98%9F%E5%90%8D%E4%BA%BA%E8%B5%9B%23&t=31&band_rank=47&Refer=top) 37573
+1. [鞠婧祎米兰启程回国](https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E7%B1%B3%E5%85%B0%E5%90%AF%E7%A8%8B%E5%9B%9E%E5%9B%BD%23&t=31&band_rank=49&Refer=top) 37562
 <!-- END -->
 
 历史归档 [./archives](./archives)
