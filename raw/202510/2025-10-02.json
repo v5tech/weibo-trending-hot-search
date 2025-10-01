@@ -270,5 +270,9 @@
   "商场回应摆价值百万10米高巨人雕像": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%95%86%E5%9C%BA%E5%9B%9E%E5%BA%94%E6%91%86%E4%BB%B7%E5%80%BC%E7%99%BE%E4%B8%8710%E7%B1%B3%E9%AB%98%E5%B7%A8%E4%BA%BA%E9%9B%95%E5%83%8F%23&t=31&band_rank=38&Refer=top",
     "hot": 28125
+  },
+  "国庆档": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E6%A1%A3%23&t=31&band_rank=39&Refer=top",
+    "hot": 18703
   }
 }

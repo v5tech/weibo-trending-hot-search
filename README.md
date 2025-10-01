@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-10-02 04:23:47.164963 
+最后更新时间 2025-10-02 05:19:15.632812 
 1. [母亲为救癌症儿子在医院角落做吃播](https://s.weibo.com/weibo?q=%23%E6%AF%8D%E4%BA%B2%E4%B8%BA%E6%95%91%E7%99%8C%E7%97%87%E5%84%BF%E5%AD%90%E5%9C%A8%E5%8C%BB%E9%99%A2%E8%A7%92%E8%90%BD%E5%81%9A%E5%90%83%E6%92%AD%23&t=31&band_rank=1&Refer=top) 942518
 1. [景德镇有在努力接住泼天流量](https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%BE%B7%E9%95%87%E6%9C%89%E5%9C%A8%E5%8A%AA%E5%8A%9B%E6%8E%A5%E4%BD%8F%E6%B3%BC%E5%A4%A9%E6%B5%81%E9%87%8F%23&t=31&band_rank=2&Refer=top) 533042
 1. [对祖国的爱永远滚烫赤诚](https://s.weibo.com/weibo?q=%23%E5%AF%B9%E7%A5%96%E5%9B%BD%E7%9A%84%E7%88%B1%E6%B0%B8%E8%BF%9C%E6%BB%9A%E7%83%AB%E8%B5%A4%E8%AF%9A%23&t=31&band_rank=3&Refer=top) 416702
@@ -76,6 +76,7 @@
 1. [惠英红出发巴黎时装周少年感](https://s.weibo.com/weibo?q=%23%E6%83%A0%E8%8B%B1%E7%BA%A2%E5%87%BA%E5%8F%91%E5%B7%B4%E9%BB%8E%E6%97%B6%E8%A3%85%E5%91%A8%E5%B0%91%E5%B9%B4%E6%84%9F%23&t=31&band_rank=47&Refer=top) 28687
 1. [和华晨宇共建火星乌托邦](https://s.weibo.com/weibo?q=%23%E5%92%8C%E5%8D%8E%E6%99%A8%E5%AE%87%E5%85%B1%E5%BB%BA%E7%81%AB%E6%98%9F%E4%B9%8C%E6%89%98%E9%82%A6%23&t=31&band_rank=37&Refer=top) 28157
 1. [商场回应摆价值百万10米高巨人雕像](https://s.weibo.com/weibo?q=%23%E5%95%86%E5%9C%BA%E5%9B%9E%E5%BA%94%E6%91%86%E4%BB%B7%E5%80%BC%E7%99%BE%E4%B8%8710%E7%B1%B3%E9%AB%98%E5%B7%A8%E4%BA%BA%E9%9B%95%E5%83%8F%23&t=31&band_rank=38&Refer=top) 28125
+1. [国庆档](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E6%A1%A3%23&t=31&band_rank=39&Refer=top) 18703
 <!-- END -->
 
 历史归档 [./archives](./archives)
