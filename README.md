@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-10-04 03:16:33.472985 
+最后更新时间 2025-10-04 04:22:38.725219 
 1. [肯德基保密54年的炸鸡配方将被公开](https://s.weibo.com/weibo?q=%23%E8%82%AF%E5%BE%B7%E5%9F%BA%E4%BF%9D%E5%AF%8654%E5%B9%B4%E7%9A%84%E7%82%B8%E9%B8%A1%E9%85%8D%E6%96%B9%E5%B0%86%E8%A2%AB%E5%85%AC%E5%BC%80%23&t=31&band_rank=1&Refer=top) 900608
 1. [顾客为合影将鸡排哥堵在墙角](https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E4%B8%BA%E5%90%88%E5%BD%B1%E5%B0%86%E9%B8%A1%E6%8E%92%E5%93%A5%E5%A0%B5%E5%9C%A8%E5%A2%99%E8%A7%92%23&t=31&band_rank=5&Refer=top) 602074
 1. [著名景点张继科落水处](https://s.weibo.com/weibo?q=%E8%91%97%E5%90%8D%E6%99%AF%E7%82%B9%E5%BC%A0%E7%BB%A7%E7%A7%91%E8%90%BD%E6%B0%B4%E5%A4%84&t=31&band_rank=41&Refer=top) 433162
@@ -67,6 +67,8 @@
 1. [女子演唱会丢失11万手镯发帖找回](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%A2%E5%A4%B111%E4%B8%87%E6%89%8B%E9%95%AF%E5%8F%91%E5%B8%96%E6%89%BE%E5%9B%9E%23&t=31&band_rank=22&Refer=top) 31841
 1. [何健麒直播](https://s.weibo.com/weibo?q=%23%E4%BD%95%E5%81%A5%E9%BA%92%E7%9B%B4%E6%92%AD%23&t=31&band_rank=46&Refer=top) 25569
 1. [我选择侯明昊rnb作为我的解药](https://s.weibo.com/weibo?q=%E6%88%91%E9%80%89%E6%8B%A9%E4%BE%AF%E6%98%8E%E6%98%8Arnb%E4%BD%9C%E4%B8%BA%E6%88%91%E7%9A%84%E8%A7%A3%E8%8D%AF&t=31&band_rank=48&Refer=top) 25023
+1. [老板还没意识到这是他最清闲的时刻](https://s.weibo.com/weibo?q=%E8%80%81%E6%9D%BF%E8%BF%98%E6%B2%A1%E6%84%8F%E8%AF%86%E5%88%B0%E8%BF%99%E6%98%AF%E4%BB%96%E6%9C%80%E6%B8%85%E9%97%B2%E7%9A%84%E6%97%B6%E5%88%BB&t=31&band_rank=26&Refer=top) 20842
+1. [九三阅兵擎旗手的应变能力绝了](https://s.weibo.com/weibo?q=%23%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%E6%93%8E%E6%97%97%E6%89%8B%E7%9A%84%E5%BA%94%E5%8F%98%E8%83%BD%E5%8A%9B%E7%BB%9D%E4%BA%86%23&t=31&band_rank=43&Refer=top) 16781
 <!-- END -->
 
 历史归档 [./archives](./archives)
