@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-10-05 03:14:41.970354 
+最后更新时间 2025-10-05 04:20:54.137856 
 1. [晓华理发店已没了爆火时的人潮](https://s.weibo.com/weibo?q=%23%E6%99%93%E5%8D%8E%E7%90%86%E5%8F%91%E5%BA%97%E5%B7%B2%E6%B2%A1%E4%BA%86%E7%88%86%E7%81%AB%E6%97%B6%E7%9A%84%E4%BA%BA%E6%BD%AE%23&t=31&band_rank=1&Refer=top) 943072
 1. [贵州31岁派出所副所长因公牺牲](https://s.weibo.com/weibo?q=%23%E8%B4%B5%E5%B7%9E31%E5%B2%81%E6%B4%BE%E5%87%BA%E6%89%80%E5%89%AF%E6%89%80%E9%95%BF%E5%9B%A0%E5%85%AC%E7%89%BA%E7%89%B2%23&t=31&band_rank=2&Refer=top) 266333
 1. [星空有约](https://s.weibo.com/weibo?q=%23%E6%98%9F%E7%A9%BA%E6%9C%89%E7%BA%A6%23&t=31&band_rank=3&Refer=top) 256634
@@ -72,6 +72,8 @@
 1. [肖战工作室长文](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%B7%A5%E4%BD%9C%E5%AE%A4%E9%95%BF%E6%96%87%23&t=31&band_rank=25&Refer=top) 31551
 1. [巴黎世家新设计师首秀](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E%E4%B8%96%E5%AE%B6%E6%96%B0%E8%AE%BE%E8%AE%A1%E5%B8%88%E9%A6%96%E7%A7%80%23&t=31&band_rank=41&Refer=top) 25068
 1. [张小斐 危险迷人的都市女郎](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%B0%8F%E6%96%90%20%E5%8D%B1%E9%99%A9%E8%BF%B7%E4%BA%BA%E7%9A%84%E9%83%BD%E5%B8%82%E5%A5%B3%E9%83%8E&t=31&band_rank=48&Refer=top) 25066
+1. [王曼昱说跟莎莎决赛会全力以赴](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B1%E8%AF%B4%E8%B7%9F%E8%8E%8E%E8%8E%8E%E5%86%B3%E8%B5%9B%E4%BC%9A%E5%85%A8%E5%8A%9B%E4%BB%A5%E8%B5%B4%23&t=31&band_rank=40&Refer=top) 16203
+1. [檀健次角色理解](https://s.weibo.com/weibo?q=%E6%AA%80%E5%81%A5%E6%AC%A1%E8%A7%92%E8%89%B2%E7%90%86%E8%A7%A3&t=31&band_rank=47&Refer=top) 16195
 <!-- END -->
 
 历史归档 [./archives](./archives)
