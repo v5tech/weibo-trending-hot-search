@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-10-06 03:15:18.799590 
+最后更新时间 2025-10-06 04:20:33.597320 
 1. [武契奇暗示可能爆发新战争](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A5%91%E5%A5%87%E6%9A%97%E7%A4%BA%E5%8F%AF%E8%83%BD%E7%88%86%E5%8F%91%E6%96%B0%E6%88%98%E4%BA%89%23&t=31&band_rank=1&Refer=top) 931906
 1. [河南多地现行走的硫酸](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E5%A4%9A%E5%9C%B0%E7%8E%B0%E8%A1%8C%E8%B5%B0%E7%9A%84%E7%A1%AB%E9%85%B8%23&t=31&band_rank=2&Refer=top) 453538
 1. [国庆档10亿大项目你参与了吗](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E6%A1%A310%E4%BA%BF%E5%A4%A7%E9%A1%B9%E7%9B%AE%E4%BD%A0%E5%8F%82%E4%B8%8E%E4%BA%86%E5%90%97%23&t=31&band_rank=3&Refer=top) 362982
@@ -72,6 +72,8 @@
 1. [王一博观战德约科维奇](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%A7%82%E6%88%98%E5%BE%B7%E7%BA%A6%E7%A7%91%E7%BB%B4%E5%A5%87%23&t=31&band_rank=45&Refer=top) 37250
 1. [苏新皓cha了MIROTIC](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E6%96%B0%E7%9A%93cha%E4%BA%86MIROTIC%23&t=31&band_rank=47&Refer=top) 33142
 1. [中秋奇妙游](https://s.weibo.com/weibo?q=%E4%B8%AD%E7%A7%8B%E5%A5%87%E5%A6%99%E6%B8%B8&t=31&band_rank=48&Refer=top) 33141
+1. [当女朋友知道我有强迫症后](https://s.weibo.com/weibo?q=%E5%BD%93%E5%A5%B3%E6%9C%8B%E5%8F%8B%E7%9F%A5%E9%81%93%E6%88%91%E6%9C%89%E5%BC%BA%E8%BF%AB%E7%97%87%E5%90%8E&t=31&band_rank=27&Refer=top) 30017
+1. [张子墨nevergonnastop演唱会](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%AD%90%E5%A2%A8nevergonnastop%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=49&Refer=top) 29760
 <!-- END -->
 
 历史归档 [./archives](./archives)
