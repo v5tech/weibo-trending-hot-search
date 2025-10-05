@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-10-06 01:16:24.183490 
+最后更新时间 2025-10-06 02:27:13.776991 
 1. [武契奇暗示可能爆发新战争](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A5%91%E5%A5%87%E6%9A%97%E7%A4%BA%E5%8F%AF%E8%83%BD%E7%88%86%E5%8F%91%E6%96%B0%E6%88%98%E4%BA%89%23&t=31&band_rank=1&Refer=top) 931906
 1. [河南多地现行走的硫酸](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E5%A4%9A%E5%9C%B0%E7%8E%B0%E8%A1%8C%E8%B5%B0%E7%9A%84%E7%A1%AB%E9%85%B8%23&t=31&band_rank=2&Refer=top) 453538
 1. [国庆档10亿大项目你参与了吗](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E6%A1%A310%E4%BA%BF%E5%A4%A7%E9%A1%B9%E7%9B%AE%E4%BD%A0%E5%8F%82%E4%B8%8E%E4%BA%86%E5%90%97%23&t=31&band_rank=3&Refer=top) 362982
@@ -34,6 +34,7 @@
 1. [建议气血不足的人不要留长发](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%B0%94%E8%A1%80%E4%B8%8D%E8%B6%B3%E7%9A%84%E4%BA%BA%E4%B8%8D%E8%A6%81%E7%95%99%E9%95%BF%E5%8F%91%23&t=31&band_rank=23&Refer=top) 160699
 1. [王橹杰高会](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A9%B9%E6%9D%B0%E9%AB%98%E4%BC%9A&t=31&band_rank=24&Refer=top) 160615
 1. [大学生卖雪王送鸡排哥高清写真](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%8D%96%E9%9B%AA%E7%8E%8B%E9%80%81%E9%B8%A1%E6%8E%92%E5%93%A5%E9%AB%98%E6%B8%85%E5%86%99%E7%9C%9F%23&t=31&band_rank=25&Refer=top) 155583
+1. [福建尤溪通报5人进废弃矿硐遇难](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E5%B0%A4%E6%BA%AA%E9%80%9A%E6%8A%A55%E4%BA%BA%E8%BF%9B%E5%BA%9F%E5%BC%83%E7%9F%BF%E7%A1%90%E9%81%87%E9%9A%BE%23&t=31&band_rank=48&Refer=top) 151454
 1. [华伦天奴大秀](https://s.weibo.com/weibo?q=%E5%8D%8E%E4%BC%A6%E5%A4%A9%E5%A5%B4%E5%A4%A7%E7%A7%80&t=31&band_rank=26&Refer=top) 149630
 1. [白桃星座](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%A1%83%E6%98%9F%E5%BA%A7%23&t=31&band_rank=27&Refer=top) 141877
 1. [北大女生三分钟发言檀健次听入神了](https://s.weibo.com/weibo?q=%E5%8C%97%E5%A4%A7%E5%A5%B3%E7%94%9F%E4%B8%89%E5%88%86%E9%92%9F%E5%8F%91%E8%A8%80%E6%AA%80%E5%81%A5%E6%AC%A1%E5%90%AC%E5%85%A5%E7%A5%9E%E4%BA%86&t=31&band_rank=28&Refer=top) 140925
@@ -58,7 +59,6 @@
 1. [惊艳朋友圈的中秋祝福文案](https://s.weibo.com/weibo?q=%23%E6%83%8A%E8%89%B3%E6%9C%8B%E5%8F%8B%E5%9C%88%E7%9A%84%E4%B8%AD%E7%A7%8B%E7%A5%9D%E7%A6%8F%E6%96%87%E6%A1%88%23&t=31&band_rank=45&Refer=top) 103083
 1. [樊振东摇摇晃晃上班](https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%91%87%E6%91%87%E6%99%83%E6%99%83%E4%B8%8A%E7%8F%AD&t=31&band_rank=46&Refer=top) 103073
 1. [许我耀眼26集预告](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%88%91%E8%80%80%E7%9C%BC26%E9%9B%86%E9%A2%84%E5%91%8A%23&t=31&band_rank=47&Refer=top) 103061
-1. [福建尤溪通报5人进废弃矿硐遇难](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E5%B0%A4%E6%BA%AA%E9%80%9A%E6%8A%A55%E4%BA%BA%E8%BF%9B%E5%BA%9F%E5%BC%83%E7%9F%BF%E7%A1%90%E9%81%87%E9%9A%BE%23&t=31&band_rank=48&Refer=top) 103044
 1. [刘诗诗与LVMH大公主合影](https://s.weibo.com/weibo?q=%E5%88%98%E8%AF%97%E8%AF%97%E4%B8%8ELVMH%E5%A4%A7%E5%85%AC%E4%B8%BB%E5%90%88%E5%BD%B1&t=31&band_rank=49&Refer=top) 103039
 1. [瘦了15斤后鼻子的变化](https://s.weibo.com/weibo?q=%E7%98%A6%E4%BA%8615%E6%96%A4%E5%90%8E%E9%BC%BB%E5%AD%90%E7%9A%84%E5%8F%98%E5%8C%96&t=31&band_rank=50&Refer=top) 103026
 1. [WTT](https://s.weibo.com/weibo?q=WTT&t=31&band_rank=24&Refer=top) 102085
@@ -66,6 +66,12 @@
 1. [樊振东德甲十月首战](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%BE%B7%E7%94%B2%E5%8D%81%E6%9C%88%E9%A6%96%E6%88%98%23&t=31&band_rank=30&Refer=top) 74435
 1. [NRG总决赛对阵FNC](https://s.weibo.com/weibo?q=%23NRG%E6%80%BB%E5%86%B3%E8%B5%9B%E5%AF%B9%E9%98%B5FNC%23&t=31&band_rank=35&Refer=top) 65423
 1. [时代少年团祝中秋快乐](https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E7%A5%9D%E4%B8%AD%E7%A7%8B%E5%BF%AB%E4%B9%90%23&t=31&band_rank=50&Refer=top) 64212
+1. [肖战工作室仪式感](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%B7%A5%E4%BD%9C%E5%AE%A4%E4%BB%AA%E5%BC%8F%E6%84%9F%23&t=31&band_rank=22&Refer=top) 59490
+1. [赵雷音乐节](https://s.weibo.com/weibo?q=%E8%B5%B5%E9%9B%B7%E9%9F%B3%E4%B9%90%E8%8A%82&t=31&band_rank=29&Refer=top) 40765
+1. [王扁穿外卖工服道歉退网](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%89%81%E7%A9%BF%E5%A4%96%E5%8D%96%E5%B7%A5%E6%9C%8D%E9%81%93%E6%AD%89%E9%80%80%E7%BD%91%23&t=31&band_rank=33&Refer=top) 36208
+1. [王一博观战德约科维奇](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%A7%82%E6%88%98%E5%BE%B7%E7%BA%A6%E7%A7%91%E7%BB%B4%E5%A5%87%23&t=31&band_rank=45&Refer=top) 33151
+1. [苏新皓cha了MIROTIC](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E6%96%B0%E7%9A%93cha%E4%BA%86MIROTIC%23&t=31&band_rank=47&Refer=top) 33142
+1. [中秋奇妙游](https://s.weibo.com/weibo?q=%E4%B8%AD%E7%A7%8B%E5%A5%87%E5%A6%99%E6%B8%B8&t=31&band_rank=48&Refer=top) 33141
 <!-- END -->
 
 历史归档 [./archives](./archives)
