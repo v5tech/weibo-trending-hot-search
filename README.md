@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-10-08 05:18:24.842890 
+最后更新时间 2025-10-08 06:19:23.889282 
 1. [詹姆斯决定二 广告](https://s.weibo.com/weibo?q=%E8%A9%B9%E5%A7%86%E6%96%AF%E5%86%B3%E5%AE%9A%E4%BA%8C%20%E5%B9%BF%E5%91%8A&t=31&band_rank=1&Refer=top) 1068007
 1. [大疆预告降价已购买消费者退货维权](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%96%86%E9%A2%84%E5%91%8A%E9%99%8D%E4%BB%B7%E5%B7%B2%E8%B4%AD%E4%B9%B0%E6%B6%88%E8%B4%B9%E8%80%85%E9%80%80%E8%B4%A7%E7%BB%B4%E6%9D%83%23&t=31&band_rank=2&Refer=top) 847327
 1. [高速5车追尾2死3伤](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%80%9F5%E8%BD%A6%E8%BF%BD%E5%B0%BE2%E6%AD%BB3%E4%BC%A4%23&t=31&band_rank=1&Refer=top) 661927
@@ -76,6 +76,7 @@
 1. [中国央行连续第11个月增持黄金](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A4%AE%E8%A1%8C%E8%BF%9E%E7%BB%AD%E7%AC%AC11%E4%B8%AA%E6%9C%88%E5%A2%9E%E6%8C%81%E9%BB%84%E9%87%91%23&t=31&band_rank=38&Refer=top) 26877
 1. [假期返程警惕机票退改签陷阱](https://s.weibo.com/weibo?q=%23%E5%81%87%E6%9C%9F%E8%BF%94%E7%A8%8B%E8%AD%A6%E6%83%95%E6%9C%BA%E7%A5%A8%E9%80%80%E6%94%B9%E7%AD%BE%E9%99%B7%E9%98%B1%23&t=31&band_rank=44&Refer=top) 26827
 1. [刘宇宁新歌毒酒](https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%E6%96%B0%E6%AD%8C%E6%AF%92%E9%85%92&t=31&band_rank=34&Refer=top) 20554
+1. [田曦薇赶海](https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E8%B5%B6%E6%B5%B7%23&t=31&band_rank=39&Refer=top) 19598
 <!-- END -->
 
 历史归档 [./archives](./archives)
