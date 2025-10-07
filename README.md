@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-10-08 04:22:54.083455 
+最后更新时间 2025-10-08 05:18:24.842890 
 1. [詹姆斯决定二 广告](https://s.weibo.com/weibo?q=%E8%A9%B9%E5%A7%86%E6%96%AF%E5%86%B3%E5%AE%9A%E4%BA%8C%20%E5%B9%BF%E5%91%8A&t=31&band_rank=1&Refer=top) 1068007
 1. [大疆预告降价已购买消费者退货维权](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%96%86%E9%A2%84%E5%91%8A%E9%99%8D%E4%BB%B7%E5%B7%B2%E8%B4%AD%E4%B9%B0%E6%B6%88%E8%B4%B9%E8%80%85%E9%80%80%E8%B4%A7%E7%BB%B4%E6%9D%83%23&t=31&band_rank=2&Refer=top) 847327
 1. [高速5车追尾2死3伤](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%80%9F5%E8%BD%A6%E8%BF%BD%E5%B0%BE2%E6%AD%BB3%E4%BC%A4%23&t=31&band_rank=1&Refer=top) 661927
@@ -68,12 +68,14 @@
 1. [我还记得第一天放假我心是怎样波动](https://s.weibo.com/weibo?q=%E6%88%91%E8%BF%98%E8%AE%B0%E5%BE%97%E7%AC%AC%E4%B8%80%E5%A4%A9%E6%94%BE%E5%81%87%E6%88%91%E5%BF%83%E6%98%AF%E6%80%8E%E6%A0%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=50&Refer=top) 70727
 1. [高速免费至10月8日24时](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%80%9F%E5%85%8D%E8%B4%B9%E8%87%B310%E6%9C%888%E6%97%A524%E6%97%B6%23&t=31&band_rank=19&Refer=top) 32164
 1. [00后利用办公室午休赚三份工资](https://s.weibo.com/weibo?q=00%E5%90%8E%E5%88%A9%E7%94%A8%E5%8A%9E%E5%85%AC%E5%AE%A4%E5%8D%88%E4%BC%91%E8%B5%9A%E4%B8%89%E4%BB%BD%E5%B7%A5%E8%B5%84&t=31&band_rank=34&Refer=top) 27089
+1. [女方父亲回应悔婚退彩礼扣3万拥抱费](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%96%B9%E7%88%B6%E4%BA%B2%E5%9B%9E%E5%BA%94%E6%82%94%E5%A9%9A%E9%80%80%E5%BD%A9%E7%A4%BC%E6%89%A33%E4%B8%87%E6%8B%A5%E6%8A%B1%E8%B4%B9%23&t=31&band_rank=28&Refer=top) 27006
 1. [鬼灭之刃童磨扫地机器人](https://s.weibo.com/weibo?q=%E9%AC%BC%E7%81%AD%E4%B9%8B%E5%88%83%E7%AB%A5%E7%A3%A8%E6%89%AB%E5%9C%B0%E6%9C%BA%E5%99%A8%E4%BA%BA&t=31&band_rank=49&Refer=top) 26986
 1. [奶奶粉如何追星肖战](https://s.weibo.com/weibo?q=%E5%A5%B6%E5%A5%B6%E7%B2%89%E5%A6%82%E4%BD%95%E8%BF%BD%E6%98%9F%E8%82%96%E6%88%98&t=31&band_rank=50&Refer=top) 26986
-1. [女方父亲回应悔婚退彩礼扣3万拥抱费](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%96%B9%E7%88%B6%E4%BA%B2%E5%9B%9E%E5%BA%94%E6%82%94%E5%A9%9A%E9%80%80%E5%BD%A9%E7%A4%BC%E6%89%A33%E4%B8%87%E6%8B%A5%E6%8A%B1%E8%B4%B9%23&t=31&band_rank=28&Refer=top) 22805
+1. [终于知道为啥我P图放大贴纸了](https://s.weibo.com/weibo?q=%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E4%B8%BA%E5%95%A5%E6%88%91P%E5%9B%BE%E6%94%BE%E5%A4%A7%E8%B4%B4%E7%BA%B8%E4%BA%86&t=31&band_rank=48&Refer=top) 26938
+1. [我不想听到8这个字](https://s.weibo.com/weibo?q=%E6%88%91%E4%B8%8D%E6%83%B3%E5%90%AC%E5%88%B08%E8%BF%99%E4%B8%AA%E5%AD%97&t=31&band_rank=32&Refer=top) 26896
+1. [中国央行连续第11个月增持黄金](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A4%AE%E8%A1%8C%E8%BF%9E%E7%BB%AD%E7%AC%AC11%E4%B8%AA%E6%9C%88%E5%A2%9E%E6%8C%81%E9%BB%84%E9%87%91%23&t=31&band_rank=38&Refer=top) 26877
+1. [假期返程警惕机票退改签陷阱](https://s.weibo.com/weibo?q=%23%E5%81%87%E6%9C%9F%E8%BF%94%E7%A8%8B%E8%AD%A6%E6%83%95%E6%9C%BA%E7%A5%A8%E9%80%80%E6%94%B9%E7%AD%BE%E9%99%B7%E9%98%B1%23&t=31&band_rank=44&Refer=top) 26827
 1. [刘宇宁新歌毒酒](https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%E6%96%B0%E6%AD%8C%E6%AF%92%E9%85%92&t=31&band_rank=34&Refer=top) 20554
-1. [我不想听到8这个字](https://s.weibo.com/weibo?q=%E6%88%91%E4%B8%8D%E6%83%B3%E5%90%AC%E5%88%B08%E8%BF%99%E4%B8%AA%E5%AD%97&t=31&band_rank=32&Refer=top) 17903
-1. [终于知道为啥我P图放大贴纸了](https://s.weibo.com/weibo?q=%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E4%B8%BA%E5%95%A5%E6%88%91P%E5%9B%BE%E6%94%BE%E5%A4%A7%E8%B4%B4%E7%BA%B8%E4%BA%86&t=31&band_rank=48&Refer=top) 17840
 <!-- END -->
 
 历史归档 [./archives](./archives)
