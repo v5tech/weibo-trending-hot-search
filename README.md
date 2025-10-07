@@ -7,13 +7,15 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-10-08 00:27:06.852757 
+最后更新时间 2025-10-08 01:19:07.859931 
 1. [詹姆斯决定二 广告](https://s.weibo.com/weibo?q=%E8%A9%B9%E5%A7%86%E6%96%AF%E5%86%B3%E5%AE%9A%E4%BA%8C%20%E5%B9%BF%E5%91%8A&t=31&band_rank=1&Refer=top) 1068007
 1. [大疆预告降价已购买消费者退货维权](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%96%86%E9%A2%84%E5%91%8A%E9%99%8D%E4%BB%B7%E5%B7%B2%E8%B4%AD%E4%B9%B0%E6%B6%88%E8%B4%B9%E8%80%85%E9%80%80%E8%B4%A7%E7%BB%B4%E6%9D%83%23&t=31&band_rank=2&Refer=top) 847327
+1. [高速5车追尾2死3伤](https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%80%9F5%E8%BD%A6%E8%BF%BD%E5%B0%BE2%E6%AD%BB3%E4%BC%A4%23&t=31&band_rank=1&Refer=top) 661927
 1. [再赏一次大江南北的中秋月](https://s.weibo.com/weibo?q=%23%E5%86%8D%E8%B5%8F%E4%B8%80%E6%AC%A1%E5%A4%A7%E6%B1%9F%E5%8D%97%E5%8C%97%E7%9A%84%E4%B8%AD%E7%A7%8B%E6%9C%88%23&t=31&band_rank=3&Refer=top) 569966
 1. [警方回应小伙与女友吃饭被铐走](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E5%B0%8F%E4%BC%99%E4%B8%8E%E5%A5%B3%E5%8F%8B%E5%90%83%E9%A5%AD%E8%A2%AB%E9%93%90%E8%B5%B0%23&t=31&band_rank=4&Refer=top) 397407
 1. [因女友与走失女孩撞脸男子被误抓](https://s.weibo.com/weibo?q=%23%E5%9B%A0%E5%A5%B3%E5%8F%8B%E4%B8%8E%E8%B5%B0%E5%A4%B1%E5%A5%B3%E5%AD%A9%E6%92%9E%E8%84%B8%E7%94%B7%E5%AD%90%E8%A2%AB%E8%AF%AF%E6%8A%93%23&t=31&band_rank=5&Refer=top) 368936
 1. [建议大家不要提前买衣服](https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E4%B8%8D%E8%A6%81%E6%8F%90%E5%89%8D%E4%B9%B0%E8%A1%A3%E6%9C%8D&t=31&band_rank=6&Refer=top) 267572
+1. [千万别卡点下高速](https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E5%88%AB%E5%8D%A1%E7%82%B9%E4%B8%8B%E9%AB%98%E9%80%9F%23&t=31&band_rank=5&Refer=top) 263167
 1. [我始终认为用九键打字的人都是天才](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%A7%8B%E7%BB%88%E8%AE%A4%E4%B8%BA%E7%94%A8%E4%B9%9D%E9%94%AE%E6%89%93%E5%AD%97%E7%9A%84%E4%BA%BA%E9%83%BD%E6%98%AF%E5%A4%A9%E6%89%8D%23&t=31&band_rank=7&Refer=top) 222592
 1. [珠峰暴雪向导一人一狗带超百人撤离](https://s.weibo.com/weibo?q=%23%E7%8F%A0%E5%B3%B0%E6%9A%B4%E9%9B%AA%E5%90%91%E5%AF%BC%E4%B8%80%E4%BA%BA%E4%B8%80%E7%8B%97%E5%B8%A6%E8%B6%85%E7%99%BE%E4%BA%BA%E6%92%A4%E7%A6%BB%23&t=31&band_rank=8&Refer=top) 164839
 1. [迪奥设计师 工作累丑](https://s.weibo.com/weibo?q=%E8%BF%AA%E5%A5%A5%E8%AE%BE%E8%AE%A1%E5%B8%88%20%E5%B7%A5%E4%BD%9C%E7%B4%AF%E4%B8%91&t=31&band_rank=9&Refer=top) 132790
@@ -58,6 +60,12 @@
 1. [曾舜晞脱衣服没排练吗](https://s.weibo.com/weibo?q=%E6%9B%BE%E8%88%9C%E6%99%9E%E8%84%B1%E8%A1%A3%E6%9C%8D%E6%B2%A1%E6%8E%92%E7%BB%83%E5%90%97&t=31&band_rank=48&Refer=top) 123236
 1. [苏超南通5比0淮安](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E8%B6%85%E5%8D%97%E9%80%9A5%E6%AF%940%E6%B7%AE%E5%AE%89%23&t=31&band_rank=49&Refer=top) 123227
 1. [韩国部分新婚夫妇放弃黄金戒指](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E9%83%A8%E5%88%86%E6%96%B0%E5%A9%9A%E5%A4%AB%E5%A6%87%E6%94%BE%E5%BC%83%E9%BB%84%E9%87%91%E6%88%92%E6%8C%87%23&t=31&band_rank=50&Refer=top) 123222
+1. [假期最后1天迎来寒露](https://s.weibo.com/weibo?q=%23%E5%81%87%E6%9C%9F%E6%9C%80%E5%90%8E1%E5%A4%A9%E8%BF%8E%E6%9D%A5%E5%AF%92%E9%9C%B2%23&t=31&band_rank=23&Refer=top) 70750
+1. [电影毕正明的证明](https://s.weibo.com/weibo?q=%E7%94%B5%E5%BD%B1%E6%AF%95%E6%AD%A3%E6%98%8E%E7%9A%84%E8%AF%81%E6%98%8E&t=31&band_rank=41&Refer=top) 70735
+1. [韩红孙燕姿合唱遇见](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%BA%A2%E5%AD%99%E7%87%95%E5%A7%BF%E5%90%88%E5%94%B1%E9%81%87%E8%A7%81%23&t=31&band_rank=43&Refer=top) 70733
+1. [CP2025SP](https://s.weibo.com/weibo?q=%23CP2025SP%23&t=31&band_rank=46&Refer=top) 70730
+1. [人人都是自己生活的主理人](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E4%BA%BA%E9%83%BD%E6%98%AF%E8%87%AA%E5%B7%B1%E7%94%9F%E6%B4%BB%E7%9A%84%E4%B8%BB%E7%90%86%E4%BA%BA%23&t=31&band_rank=49&Refer=top) 70727
+1. [我还记得第一天放假我心是怎样波动](https://s.weibo.com/weibo?q=%E6%88%91%E8%BF%98%E8%AE%B0%E5%BE%97%E7%AC%AC%E4%B8%80%E5%A4%A9%E6%94%BE%E5%81%87%E6%88%91%E5%BF%83%E6%98%AF%E6%80%8E%E6%A0%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=50&Refer=top) 70727
 <!-- END -->
 
 历史归档 [./archives](./archives)
