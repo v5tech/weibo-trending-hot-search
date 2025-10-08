@@ -7,13 +7,13 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-10-09 00:27:21.957290 
+最后更新时间 2025-10-09 01:19:00.723694 
 1. [蜜雪冰城小票藏连载小说](https://s.weibo.com/weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E5%B0%8F%E7%A5%A8%E8%97%8F%E8%BF%9E%E8%BD%BD%E5%B0%8F%E8%AF%B4%23&t=31&band_rank=1&Refer=top) 888959
 1. [疑似马来西亚失联二人照片曝光](https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E5%A4%B1%E8%81%94%E4%BA%8C%E4%BA%BA%E7%85%A7%E7%89%87%E6%9B%9D%E5%85%89%23&t=31&band_rank=2&Refer=top) 341034
 1. [北方开启秋雨绵绵模式](https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%96%B9%E5%BC%80%E5%90%AF%E7%A7%8B%E9%9B%A8%E7%BB%B5%E7%BB%B5%E6%A8%A1%E5%BC%8F%23&t=31&band_rank=3&Refer=top) 295740
 1. [8天很短 7天很长](https://s.weibo.com/weibo?q=8%E5%A4%A9%E5%BE%88%E7%9F%AD%207%E5%A4%A9%E5%BE%88%E9%95%BF&t=31&band_rank=4&Refer=top) 256635
+1. [下高速](https://s.weibo.com/weibo?q=%E4%B8%8B%E9%AB%98%E9%80%9F&t=31&band_rank=6&Refer=top) 244061
 1. [张继科说比赛输了就没下次了](https://s.weibo.com/weibo?q=%E5%BC%A0%E7%BB%A7%E7%A7%91%E8%AF%B4%E6%AF%94%E8%B5%9B%E8%BE%93%E4%BA%86%E5%B0%B1%E6%B2%A1%E4%B8%8B%E6%AC%A1%E4%BA%86&t=31&band_rank=5&Refer=top) 209939
-1. [下高速](https://s.weibo.com/weibo?q=%E4%B8%8B%E9%AB%98%E9%80%9F&t=31&band_rank=6&Refer=top) 197172
 1. [高速堵成啥样了](https://s.weibo.com/weibo?q=%E9%AB%98%E9%80%9F%E5%A0%B5%E6%88%90%E5%95%A5%E6%A0%B7%E4%BA%86&t=31&band_rank=7&Refer=top) 176580
 1. [年轻情侣忘情接吻险从扶梯摔下](https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E6%83%85%E4%BE%A3%E5%BF%98%E6%83%85%E6%8E%A5%E5%90%BB%E9%99%A9%E4%BB%8E%E6%89%B6%E6%A2%AF%E6%91%94%E4%B8%8B%23&t=31&band_rank=8&Refer=top) 171879
 1. [鸡排哥上央视了](https://s.weibo.com/weibo?q=%23%E9%B8%A1%E6%8E%92%E5%93%A5%E4%B8%8A%E5%A4%AE%E8%A7%86%E4%BA%86%23&t=31&band_rank=9&Refer=top) 170264
@@ -42,22 +42,24 @@
 1. [薛之谦自拍](https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%E8%87%AA%E6%8B%8D&t=31&band_rank=32&Refer=top) 72566
 1. [王一博和对手握手合影](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%92%8C%E5%AF%B9%E6%89%8B%E6%8F%A1%E6%89%8B%E5%90%88%E5%BD%B1%23&t=31&band_rank=33&Refer=top) 71030
 1. [檀健次得知自己农历生日的反应](https://s.weibo.com/weibo?q=%E6%AA%80%E5%81%A5%E6%AC%A1%E5%BE%97%E7%9F%A5%E8%87%AA%E5%B7%B1%E5%86%9C%E5%8E%86%E7%94%9F%E6%97%A5%E7%9A%84%E5%8F%8D%E5%BA%94&t=31&band_rank=34&Refer=top) 70619
-1. [网剧金昭玉醉](https://s.weibo.com/weibo?q=%E7%BD%91%E5%89%A7%E9%87%91%E6%98%AD%E7%8E%89%E9%86%89&t=31&band_rank=35&Refer=top) 67834
-1. [肖庆平车祸离世](https://s.weibo.com/weibo?q=%23%E8%82%96%E5%BA%86%E5%B9%B3%E8%BD%A6%E7%A5%B8%E7%A6%BB%E4%B8%96%23&t=31&band_rank=36&Refer=top) 66649
-1. [王嘉尔出席活动被陌生女子捏脸](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E5%87%BA%E5%B8%AD%E6%B4%BB%E5%8A%A8%E8%A2%AB%E9%99%8C%E7%94%9F%E5%A5%B3%E5%AD%90%E6%8D%8F%E8%84%B8%23&t=31&band_rank=37&Refer=top) 65313
-1. [这居然是兰西雅](https://s.weibo.com/weibo?q=%E8%BF%99%E5%B1%85%E7%84%B6%E6%98%AF%E5%85%B0%E8%A5%BF%E9%9B%85&t=31&band_rank=38&Refer=top) 65192
-1. [网友称买10斤芒果礼盒3斤是书](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E7%A7%B0%E4%B9%B010%E6%96%A4%E8%8A%92%E6%9E%9C%E7%A4%BC%E7%9B%923%E6%96%A4%E6%98%AF%E4%B9%A6%23&t=31&band_rank=39&Refer=top) 64762
-1. [卢昱晓新剧台词尺度](https://s.weibo.com/weibo?q=%E5%8D%A2%E6%98%B1%E6%99%93%E6%96%B0%E5%89%A7%E5%8F%B0%E8%AF%8D%E5%B0%BA%E5%BA%A6&t=31&band_rank=40&Refer=top) 62099
-1. [王一博在角落被喷香槟](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%9C%A8%E8%A7%92%E8%90%BD%E8%A2%AB%E5%96%B7%E9%A6%99%E6%A7%9F%23&t=31&band_rank=41&Refer=top) 61636
-1. [上海701万彩票大奖仅剩1个兑奖日](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7701%E4%B8%87%E5%BD%A9%E7%A5%A8%E5%A4%A7%E5%A5%96%E4%BB%85%E5%89%A91%E4%B8%AA%E5%85%91%E5%A5%96%E6%97%A5%23&t=31&band_rank=42&Refer=top) 59552
-1. [动物园老虎被观光车压到下巴](https://s.weibo.com/weibo?q=%23%E5%8A%A8%E7%89%A9%E5%9B%AD%E8%80%81%E8%99%8E%E8%A2%AB%E8%A7%82%E5%85%89%E8%BD%A6%E5%8E%8B%E5%88%B0%E4%B8%8B%E5%B7%B4%23&t=31&band_rank=43&Refer=top) 58958
-1. [小狗 请删除偷拍我的照片](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%8B%97%20%E8%AF%B7%E5%88%A0%E9%99%A4%E5%81%B7%E6%8B%8D%E6%88%91%E7%9A%84%E7%85%A7%E7%89%87&t=31&band_rank=44&Refer=top) 58490
-1. [王者荣耀 补偿我一个荣耀水晶](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%20%E8%A1%A5%E5%81%BF%E6%88%91%E4%B8%80%E4%B8%AA%E8%8D%A3%E8%80%80%E6%B0%B4%E6%99%B6&t=31&band_rank=45&Refer=top) 55597
-1. [接下来三个月只剩下例假了](https://s.weibo.com/weibo?q=%E6%8E%A5%E4%B8%8B%E6%9D%A5%E4%B8%89%E4%B8%AA%E6%9C%88%E5%8F%AA%E5%89%A9%E4%B8%8B%E4%BE%8B%E5%81%87%E4%BA%86&t=31&band_rank=46&Refer=top) 52613
-1. [这些食品发霉立马丢掉](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BA%9B%E9%A3%9F%E5%93%81%E5%8F%91%E9%9C%89%E7%AB%8B%E9%A9%AC%E4%B8%A2%E6%8E%89%23&t=31&band_rank=47&Refer=top) 52065
+1. [网剧金昭玉醉](https://s.weibo.com/weibo?q=%E7%BD%91%E5%89%A7%E9%87%91%E6%98%AD%E7%8E%89%E9%86%89&t=31&band_rank=35&Refer=top) 69553
+1. [王嘉尔出席活动被陌生女子捏脸](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E5%87%BA%E5%B8%AD%E6%B4%BB%E5%8A%A8%E8%A2%AB%E9%99%8C%E7%94%9F%E5%A5%B3%E5%AD%90%E6%8D%8F%E8%84%B8%23&t=31&band_rank=37&Refer=top) 69529
+1. [这居然是兰西雅](https://s.weibo.com/weibo?q=%E8%BF%99%E5%B1%85%E7%84%B6%E6%98%AF%E5%85%B0%E8%A5%BF%E9%9B%85&t=31&band_rank=38&Refer=top) 69512
+1. [网友称买10斤芒果礼盒3斤是书](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E7%A7%B0%E4%B9%B010%E6%96%A4%E8%8A%92%E6%9E%9C%E7%A4%BC%E7%9B%923%E6%96%A4%E6%98%AF%E4%B9%A6%23&t=31&band_rank=39&Refer=top) 69508
+1. [反方向的钟](https://s.weibo.com/weibo?q=%E5%8F%8D%E6%96%B9%E5%90%91%E7%9A%84%E9%92%9F&t=31&band_rank=30&Refer=top) 69478
+1. [王者荣耀 补偿我一个荣耀水晶](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%20%E8%A1%A5%E5%81%BF%E6%88%91%E4%B8%80%E4%B8%AA%E8%8D%A3%E8%80%80%E6%B0%B4%E6%99%B6&t=31&band_rank=45&Refer=top) 69466
+1. [肖庆平车祸离世](https://s.weibo.com/weibo?q=%23%E8%82%96%E5%BA%86%E5%B9%B3%E8%BD%A6%E7%A5%B8%E7%A6%BB%E4%B8%96%23&t=31&band_rank=36&Refer=top) 69454
+1. [卢昱晓新剧台词尺度](https://s.weibo.com/weibo?q=%E5%8D%A2%E6%98%B1%E6%99%93%E6%96%B0%E5%89%A7%E5%8F%B0%E8%AF%8D%E5%B0%BA%E5%BA%A6&t=31&band_rank=40&Refer=top) 69422
+1. [动物园老虎被观光车压到下巴](https://s.weibo.com/weibo?q=%23%E5%8A%A8%E7%89%A9%E5%9B%AD%E8%80%81%E8%99%8E%E8%A2%AB%E8%A7%82%E5%85%89%E8%BD%A6%E5%8E%8B%E5%88%B0%E4%B8%8B%E5%B7%B4%23&t=31&band_rank=43&Refer=top) 69399
+1. [堵车时高速判官出手了](https://s.weibo.com/weibo?q=%23%E5%A0%B5%E8%BD%A6%E6%97%B6%E9%AB%98%E9%80%9F%E5%88%A4%E5%AE%98%E5%87%BA%E6%89%8B%E4%BA%86%23&t=31&band_rank=49&Refer=top) 69385
+1. [上海701万彩票大奖仅剩1个兑奖日](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7701%E4%B8%87%E5%BD%A9%E7%A5%A8%E5%A4%A7%E5%A5%96%E4%BB%85%E5%89%A91%E4%B8%AA%E5%85%91%E5%A5%96%E6%97%A5%23&t=31&band_rank=42&Refer=top) 69376
+1. [展轩说漂亮的女孩要听话](https://s.weibo.com/weibo?q=%23%E5%B1%95%E8%BD%A9%E8%AF%B4%E6%BC%82%E4%BA%AE%E7%9A%84%E5%A5%B3%E5%AD%A9%E8%A6%81%E5%90%AC%E8%AF%9D%23&t=31&band_rank=50&Refer=top) 69365
+1. [这些食品发霉立马丢掉](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BA%9B%E9%A3%9F%E5%93%81%E5%8F%91%E9%9C%89%E7%AB%8B%E9%A9%AC%E4%B8%A2%E6%8E%89%23&t=31&band_rank=47&Refer=top) 69345
+1. [华为回应多款APP无法完全适配](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%9B%9E%E5%BA%94%E5%A4%9A%E6%AC%BEAPP%E6%97%A0%E6%B3%95%E5%AE%8C%E5%85%A8%E9%80%82%E9%85%8D%23&t=31&band_rank=46&Refer=top) 69318
+1. [小狗 请删除偷拍我的照片](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%8B%97%20%E8%AF%B7%E5%88%A0%E9%99%A4%E5%81%B7%E6%8B%8D%E6%88%91%E7%9A%84%E7%85%A7%E7%89%87&t=31&band_rank=44&Refer=top) 69315
+1. [王一博在角落被喷香槟](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%9C%A8%E8%A7%92%E8%90%BD%E8%A2%AB%E5%96%B7%E9%A6%99%E6%A7%9F%23&t=31&band_rank=41&Refer=top) 69297
+1. [接下来三个月只剩下例假了](https://s.weibo.com/weibo?q=%E6%8E%A5%E4%B8%8B%E6%9D%A5%E4%B8%89%E4%B8%AA%E6%9C%88%E5%8F%AA%E5%89%A9%E4%B8%8B%E4%BE%8B%E5%81%87%E4%BA%86&t=31&band_rank=46&Refer=top) 69293
 1. [夏梦不准气人了](https://s.weibo.com/weibo?q=%E5%A4%8F%E6%A2%A6%E4%B8%8D%E5%87%86%E6%B0%94%E4%BA%BA%E4%BA%86&t=31&band_rank=48&Refer=top) 51701
-1. [堵车时高速判官出手了](https://s.weibo.com/weibo?q=%23%E5%A0%B5%E8%BD%A6%E6%97%B6%E9%AB%98%E9%80%9F%E5%88%A4%E5%AE%98%E5%87%BA%E6%89%8B%E4%BA%86%23&t=31&band_rank=49&Refer=top) 49905
-1. [展轩说漂亮的女孩要听话](https://s.weibo.com/weibo?q=%23%E5%B1%95%E8%BD%A9%E8%AF%B4%E6%BC%82%E4%BA%AE%E7%9A%84%E5%A5%B3%E5%AD%A9%E8%A6%81%E5%90%AC%E8%AF%9D%23&t=31&band_rank=50&Refer=top) 48477
 <!-- END -->
 
 历史归档 [./archives](./archives)
