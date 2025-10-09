@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-10-10 02:30:16.040955 
+最后更新时间 2025-10-10 03:18:08.753654 
 1. [新加坡现父女双尸案](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%8A%A0%E5%9D%A1%E7%8E%B0%E7%88%B6%E5%A5%B3%E5%8F%8C%E5%B0%B8%E6%A1%88%23&t=31&band_rank=1&Refer=top) 917863
 1. [抢泡泡玛特](https://s.weibo.com/weibo?q=%E6%8A%A2%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9&t=31&band_rank=2&Refer=top) 526448
 1. [8天国内出游8.88亿人次](https://s.weibo.com/weibo?q=%238%E5%A4%A9%E5%9B%BD%E5%86%85%E5%87%BA%E6%B8%B88.88%E4%BA%BF%E4%BA%BA%E6%AC%A1%23&t=31&band_rank=3&Refer=top) 441287
@@ -64,6 +64,10 @@
 1. [许我耀眼36.6%](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%88%91%E8%80%80%E7%9C%BC36.6%25%23&t=31&band_rank=14&Refer=top) 38277
 1. [十个勤天万里长歌](https://s.weibo.com/weibo?q=%23%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9%E4%B8%87%E9%87%8C%E9%95%BF%E6%AD%8C%23&t=31&band_rank=41&Refer=top) 35053
 1. [我请狂野时代吃吃喝喝](https://s.weibo.com/weibo?q=%23%E6%88%91%E8%AF%B7%E7%8B%82%E9%87%8E%E6%97%B6%E4%BB%A3%E5%90%83%E5%90%83%E5%96%9D%E5%96%9D%23&t=31&band_rank=48&Refer=top) 35052
+1. [店家得打电话逐字确认好几遍](https://s.weibo.com/weibo?q=%E5%BA%97%E5%AE%B6%E5%BE%97%E6%89%93%E7%94%B5%E8%AF%9D%E9%80%90%E5%AD%97%E7%A1%AE%E8%AE%A4%E5%A5%BD%E5%87%A0%E9%81%8D&t=31&band_rank=31&Refer=top) 32908
+1. [入青云 黄粱梦](https://s.weibo.com/weibo?q=%E5%85%A5%E9%9D%92%E4%BA%91%20%E9%BB%84%E7%B2%B1%E6%A2%A6&t=31&band_rank=44&Refer=top) 32678
+1. [外交部回应美机构抹黑中国](https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E6%9C%BA%E6%9E%84%E6%8A%B9%E9%BB%91%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=48&Refer=top) 32621
+1. [外交部回应美国抹黑中美教育交流](https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD%E6%8A%B9%E9%BB%91%E4%B8%AD%E7%BE%8E%E6%95%99%E8%82%B2%E4%BA%A4%E6%B5%81%23&t=31&band_rank=50&Refer=top) 32579
 <!-- END -->
 
 历史归档 [./archives](./archives)
