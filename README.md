@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-10-10 04:23:51.377677 
+最后更新时间 2025-10-10 05:19:02.924557 
 1. [新加坡现父女双尸案](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%8A%A0%E5%9D%A1%E7%8E%B0%E7%88%B6%E5%A5%B3%E5%8F%8C%E5%B0%B8%E6%A1%88%23&t=31&band_rank=1&Refer=top) 917863
 1. [抢泡泡玛特](https://s.weibo.com/weibo?q=%E6%8A%A2%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9&t=31&band_rank=2&Refer=top) 526448
 1. [8天国内出游8.88亿人次](https://s.weibo.com/weibo?q=%238%E5%A4%A9%E5%9B%BD%E5%86%85%E5%87%BA%E6%B8%B88.88%E4%BA%BF%E4%BA%BA%E6%AC%A1%23&t=31&band_rank=3&Refer=top) 441287
@@ -26,6 +26,7 @@
 1. [中国人挤满国外景区游客发声](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%8C%A4%E6%BB%A1%E5%9B%BD%E5%A4%96%E6%99%AF%E5%8C%BA%E6%B8%B8%E5%AE%A2%E5%8F%91%E5%A3%B0%23&t=31&band_rank=15&Refer=top) 127304
 1. [以色列发出警告](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E5%8F%91%E5%87%BA%E8%AD%A6%E5%91%8A%23&t=31&band_rank=16&Refer=top) 120778
 1. [陈飞宇展示帅哥朋友圈](https://s.weibo.com/weibo?q=%E9%99%88%E9%A3%9E%E5%AE%87%E5%B1%95%E7%A4%BA%E5%B8%85%E5%93%A5%E6%9C%8B%E5%8F%8B%E5%9C%88&t=31&band_rank=17&Refer=top) 120354
+1. [知情人士称宗馥莉正常上班](https://s.weibo.com/weibo?q=%23%E7%9F%A5%E6%83%85%E4%BA%BA%E5%A3%AB%E7%A7%B0%E5%AE%97%E9%A6%A5%E8%8E%89%E6%AD%A3%E5%B8%B8%E4%B8%8A%E7%8F%AD%23&t=31&band_rank=49&Refer=top) 99418
 1. [腾讯视频账号6次超限或面临封号](https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91%E8%B4%A6%E5%8F%B76%E6%AC%A1%E8%B6%85%E9%99%90%E6%88%96%E9%9D%A2%E4%B8%B4%E5%B0%81%E5%8F%B7%23&t=31&band_rank=19&Refer=top) 97476
 1. [何炅喜提最佳综艺主持人](https://s.weibo.com/weibo?q=%E4%BD%95%E7%82%85%E5%96%9C%E6%8F%90%E6%9C%80%E4%BD%B3%E7%BB%BC%E8%89%BA%E4%B8%BB%E6%8C%81%E4%BA%BA&t=31&band_rank=20&Refer=top) 87658
 1. [高反失温女孩年仅20岁刚毕业](https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%8F%8D%E5%A4%B1%E6%B8%A9%E5%A5%B3%E5%AD%A9%E5%B9%B4%E4%BB%8520%E5%B2%81%E5%88%9A%E6%AF%95%E4%B8%9A%23&t=31&band_rank=21&Refer=top) 87536
@@ -68,10 +69,14 @@
 1. [入青云 黄粱梦](https://s.weibo.com/weibo?q=%E5%85%A5%E9%9D%92%E4%BA%91%20%E9%BB%84%E7%B2%B1%E6%A2%A6&t=31&band_rank=44&Refer=top) 32678
 1. [外交部回应美机构抹黑中国](https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E6%9C%BA%E6%9E%84%E6%8A%B9%E9%BB%91%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=48&Refer=top) 32621
 1. [外交部回应美国抹黑中美教育交流](https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD%E6%8A%B9%E9%BB%91%E4%B8%AD%E7%BE%8E%E6%95%99%E8%82%B2%E4%BA%A4%E6%B5%81%23&t=31&band_rank=50&Refer=top) 32579
-1. [洛杉矶最严重火灾纵火嫌疑人被捕](https://s.weibo.com/weibo?q=%23%E6%B4%9B%E6%9D%89%E7%9F%B6%E6%9C%80%E4%B8%A5%E9%87%8D%E7%81%AB%E7%81%BE%E7%BA%B5%E7%81%AB%E5%AB%8C%E7%96%91%E4%BA%BA%E8%A2%AB%E6%8D%95%23&t=31&band_rank=26&Refer=top) 16201
-1. [中方回应中印恢复直航](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E4%B8%AD%E5%8D%B0%E6%81%A2%E5%A4%8D%E7%9B%B4%E8%88%AA%23&t=31&band_rank=39&Refer=top) 13430
+1. [洛杉矶最严重火灾纵火嫌疑人被捕](https://s.weibo.com/weibo?q=%23%E6%B4%9B%E6%9D%89%E7%9F%B6%E6%9C%80%E4%B8%A5%E9%87%8D%E7%81%AB%E7%81%BE%E7%BA%B5%E7%81%AB%E5%AB%8C%E7%96%91%E4%BA%BA%E8%A2%AB%E6%8D%95%23&t=31&band_rank=26&Refer=top) 17192
+1. [中方回应中印恢复直航](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E4%B8%AD%E5%8D%B0%E6%81%A2%E5%A4%8D%E7%9B%B4%E8%88%AA%23&t=31&band_rank=39&Refer=top) 14885
 1. [刘宇宁么麻达](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E4%B9%88%E9%BA%BB%E8%BE%BE%23&t=31&band_rank=46&Refer=top) 13406
-1. [知情人士称宗馥莉正常上班](https://s.weibo.com/weibo?q=%23%E7%9F%A5%E6%83%85%E4%BA%BA%E5%A3%AB%E7%A7%B0%E5%AE%97%E9%A6%A5%E8%8E%89%E6%AD%A3%E5%B8%B8%E4%B8%8A%E7%8F%AD%23&t=31&band_rank=49&Refer=top) 13395
+1. [台风麦德姆致越南10人死亡](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E9%BA%A6%E5%BE%B7%E5%A7%86%E8%87%B4%E8%B6%8A%E5%8D%9710%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=39&Refer=top) 12544
+1. [王一博见证赛场上每一个高光时刻](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%A7%81%E8%AF%81%E8%B5%9B%E5%9C%BA%E4%B8%8A%E6%AF%8F%E4%B8%80%E4%B8%AA%E9%AB%98%E5%85%89%E6%97%B6%E5%88%BB%23&t=31&band_rank=40&Refer=top) 12408
+1. [新龙地震市民提前十数秒收到预警](https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%BE%99%E5%9C%B0%E9%9C%87%E5%B8%82%E6%B0%91%E6%8F%90%E5%89%8D%E5%8D%81%E6%95%B0%E7%A7%92%E6%94%B6%E5%88%B0%E9%A2%84%E8%AD%A6%23&t=31&band_rank=46&Refer=top) 12094
+1. [重庆2人上榜见义勇为勇士榜](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%862%E4%BA%BA%E4%B8%8A%E6%A6%9C%E8%A7%81%E4%B9%89%E5%8B%87%E4%B8%BA%E5%8B%87%E5%A3%AB%E6%A6%9C%23&t=31&band_rank=48&Refer=top) 12093
+1. [当地回应轿车坠海致1死](https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94%E8%BD%BF%E8%BD%A6%E5%9D%A0%E6%B5%B7%E8%87%B41%E6%AD%BB%23&t=31&band_rank=50&Refer=top) 12093
 <!-- END -->
 
 历史归档 [./archives](./archives)
