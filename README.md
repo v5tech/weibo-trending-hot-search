@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-10-13 02:27:11.570043 
+最后更新时间 2025-10-13 03:15:36.661838 
 1. [为什么贷款骚扰电话变少了](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B4%B7%E6%AC%BE%E9%AA%9A%E6%89%B0%E7%94%B5%E8%AF%9D%E5%8F%98%E5%B0%91%E4%BA%86%23&t=31&band_rank=1&Refer=top) 935635
 1. [男子因买肉价低疑妻出轨将其捅伤获刑](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9B%A0%E4%B9%B0%E8%82%89%E4%BB%B7%E4%BD%8E%E7%96%91%E5%A6%BB%E5%87%BA%E8%BD%A8%E5%B0%86%E5%85%B6%E6%8D%85%E4%BC%A4%E8%8E%B7%E5%88%91%23&t=31&band_rank=2&Refer=top) 577822
 1. [央视曝光AI代写论文黑工厂](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89AI%E4%BB%A3%E5%86%99%E8%AE%BA%E6%96%87%E9%BB%91%E5%B7%A5%E5%8E%82%23&t=31&band_rank=5&Refer=top) 545350
@@ -63,12 +63,14 @@
 1. [徐璐好美啊](https://s.weibo.com/weibo?q=%23%E5%BE%90%E7%92%90%E5%A5%BD%E7%BE%8E%E5%95%8A%23&t=31&band_rank=28&Refer=top) 74779
 1. [张杰演唱会](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=43&Refer=top) 74443
 1. [陈哲远说今天26集看爽了](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%93%B2%E8%BF%9C%E8%AF%B4%E4%BB%8A%E5%A4%A926%E9%9B%86%E7%9C%8B%E7%88%BD%E4%BA%86%23&t=31&band_rank=50&Refer=top) 74272
-1. [阿富汗巴基斯坦冲突子弹来回穿梭](https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%AF%8C%E6%B1%97%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%86%B2%E7%AA%81%E5%AD%90%E5%BC%B9%E6%9D%A5%E5%9B%9E%E7%A9%BF%E6%A2%AD%23&t=31&band_rank=23&Refer=top) 34698
+1. [阿富汗巴基斯坦冲突子弹来回穿梭](https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%AF%8C%E6%B1%97%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%86%B2%E7%AA%81%E5%AD%90%E5%BC%B9%E6%9D%A5%E5%9B%9E%E7%A9%BF%E6%A2%AD%23&t=31&band_rank=23&Refer=top) 47204
 1. [卢昱晓我笑纳了](https://s.weibo.com/weibo?q=%23%E5%8D%A2%E6%98%B1%E6%99%93%E6%88%91%E7%AC%91%E7%BA%B3%E4%BA%86%23&t=31&band_rank=30&Refer=top) 29005
 1. [内娱第一个饭撒女儿的歌手](https://s.weibo.com/weibo?q=%E5%86%85%E5%A8%B1%E7%AC%AC%E4%B8%80%E4%B8%AA%E9%A5%AD%E6%92%92%E5%A5%B3%E5%84%BF%E7%9A%84%E6%AD%8C%E6%89%8B&t=31&band_rank=31&Refer=top) 29003
 1. [终于轮到汪苏泷的知识盲区了](https://s.weibo.com/weibo?q=%E7%BB%88%E4%BA%8E%E8%BD%AE%E5%88%B0%E6%B1%AA%E8%8B%8F%E6%B3%B7%E7%9A%84%E7%9F%A5%E8%AF%86%E7%9B%B2%E5%8C%BA%E4%BA%86&t=31&band_rank=43&Refer=top) 28985
 1. [垫底辣孩自曝拿到了八大美院的合格证](https://s.weibo.com/weibo?q=%23%E5%9E%AB%E5%BA%95%E8%BE%A3%E5%AD%A9%E8%87%AA%E6%9B%9D%E6%8B%BF%E5%88%B0%E4%BA%86%E5%85%AB%E5%A4%A7%E7%BE%8E%E9%99%A2%E7%9A%84%E5%90%88%E6%A0%BC%E8%AF%81%23&t=31&band_rank=47&Refer=top) 28979
 1. [汪苏泷体力](https://s.weibo.com/weibo?q=%E6%B1%AA%E8%8B%8F%E6%B3%B7%E4%BD%93%E5%8A%9B&t=31&band_rank=50&Refer=top) 28974
+1. [海绵宝宝派大星美国街头抗议](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E7%BB%B5%E5%AE%9D%E5%AE%9D%E6%B4%BE%E5%A4%A7%E6%98%9F%E7%BE%8E%E5%9B%BD%E8%A1%97%E5%A4%B4%E6%8A%97%E8%AE%AE%23&t=31&band_rank=48&Refer=top) 20515
+1. [申请加入棒棒小卖部](https://s.weibo.com/weibo?q=%E7%94%B3%E8%AF%B7%E5%8A%A0%E5%85%A5%E6%A3%92%E6%A3%92%E5%B0%8F%E5%8D%96%E9%83%A8&t=31&band_rank=49&Refer=top) 20515
 <!-- END -->
 
 历史归档 [./archives](./archives)
