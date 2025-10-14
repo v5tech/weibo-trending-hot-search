@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-10-15 03:17:28.721490 
+最后更新时间 2025-10-15 04:23:27.058992 
 1. [国乒男团0比2日本](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E7%94%B7%E5%9B%A20%E6%AF%942%E6%97%A5%E6%9C%AC%23&t=31&band_rank=1&Refer=top) 1274642
 1. [王楚钦扇自己巴掌](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%89%87%E8%87%AA%E5%B7%B1%E5%B7%B4%E6%8E%8C&t=31&band_rank=2&Refer=top) 748943
 1. [张雨霏希望30岁还能站上奥运赛场](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%A8%E9%9C%8F%E5%B8%8C%E6%9C%9B30%E5%B2%81%E8%BF%98%E8%83%BD%E7%AB%99%E4%B8%8A%E5%A5%A5%E8%BF%90%E8%B5%9B%E5%9C%BA%23&t=31&band_rank=3&Refer=top) 529354
@@ -64,19 +64,20 @@
 1. [徐璐 帮我修瘦一点](https://s.weibo.com/weibo?q=%E5%BE%90%E7%92%90%20%E5%B8%AE%E6%88%91%E4%BF%AE%E7%98%A6%E4%B8%80%E7%82%B9&t=31&band_rank=48&Refer=top) 82154
 1. [凤戏阳 夏静炎](https://s.weibo.com/weibo?q=%E5%87%A4%E6%88%8F%E9%98%B3%20%E5%A4%8F%E9%9D%99%E7%82%8E&t=31&band_rank=49&Refer=top) 82154
 1. [终于有让素人当主角的综艺了](https://s.weibo.com/weibo?q=%E7%BB%88%E4%BA%8E%E6%9C%89%E8%AE%A9%E7%B4%A0%E4%BA%BA%E5%BD%93%E4%B8%BB%E8%A7%92%E7%9A%84%E7%BB%BC%E8%89%BA%E4%BA%86&t=31&band_rank=50&Refer=top) 82145
+1. [官方介入调查为人民服务地标被破坏](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E4%BB%8B%E5%85%A5%E8%B0%83%E6%9F%A5%E4%B8%BA%E4%BA%BA%E6%B0%91%E6%9C%8D%E5%8A%A1%E5%9C%B0%E6%A0%87%E8%A2%AB%E7%A0%B4%E5%9D%8F%23&t=31&band_rank=24&Refer=top) 76327
 1. [鲍威尔](https://s.weibo.com/weibo?q=%E9%B2%8D%E5%A8%81%E5%B0%94&t=31&band_rank=19&Refer=top) 64359
 1. [一笑随歌](https://s.weibo.com/weibo?q=%E4%B8%80%E7%AC%91%E9%9A%8F%E6%AD%8C&t=31&band_rank=30&Refer=top) 60923
 1. [女主播每天播12小时替榜一还钱](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E4%B8%BB%E6%92%AD%E6%AF%8F%E5%A4%A9%E6%92%AD12%E5%B0%8F%E6%97%B6%E6%9B%BF%E6%A6%9C%E4%B8%80%E8%BF%98%E9%92%B1%23&t=31&band_rank=34&Refer=top) 60837
 1. [梁靖崑vs张本智和](https://s.weibo.com/weibo?q=%E6%A2%81%E9%9D%96%E5%B4%91vs%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C&t=31&band_rank=45&Refer=top) 60573
 1. [黄灿灿也认识李煜东](https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%81%BF%E7%81%BF%E4%B9%9F%E8%AE%A4%E8%AF%86%E6%9D%8E%E7%85%9C%E4%B8%9C%23&t=31&band_rank=47&Refer=top) 60541
 1. [王楚钦呐喊鼓劲](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%91%90%E5%96%8A%E9%BC%93%E5%8A%B2&t=31&band_rank=16&Refer=top) 54529
-1. [官方介入调查为人民服务地标被破坏](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E4%BB%8B%E5%85%A5%E8%B0%83%E6%9F%A5%E4%B8%BA%E4%BA%BA%E6%B0%91%E6%9C%8D%E5%8A%A1%E5%9C%B0%E6%A0%87%E8%A2%AB%E7%A0%B4%E5%9D%8F%23&t=31&band_rank=24&Refer=top) 38532
 1. [一起开麦吧艺人阵容官宣](https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%B5%B7%E5%BC%80%E9%BA%A6%E5%90%A7%E8%89%BA%E4%BA%BA%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3%23&t=31&band_rank=41&Refer=top) 32343
 1. [林诗栋11比2篠塚大登](https://s.weibo.com/weibo?q=%23%E6%9E%97%E8%AF%97%E6%A0%8B11%E6%AF%942%E7%AF%A0%E5%A1%9A%E5%A4%A7%E7%99%BB%23&t=31&band_rank=44&Refer=top) 32342
 1. [王楚钦11比9松岛辉空](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A611%E6%AF%949%E6%9D%BE%E5%B2%9B%E8%BE%89%E7%A9%BA&t=31&band_rank=50&Refer=top) 32339
 1. [新娘全程都在吃瓜](https://s.weibo.com/weibo?q=%E6%96%B0%E5%A8%98%E5%85%A8%E7%A8%8B%E9%83%BD%E5%9C%A8%E5%90%83%E7%93%9C&t=31&band_rank=31&Refer=top) 22223
 1. [帝释天全新典藏皮肤](https://s.weibo.com/weibo?q=%23%E5%B8%9D%E9%87%8A%E5%A4%A9%E5%85%A8%E6%96%B0%E5%85%B8%E8%97%8F%E7%9A%AE%E8%82%A4%23&t=31&band_rank=48&Refer=top) 19695
 1. [KPL抽签](https://s.weibo.com/weibo?q=KPL%E6%8A%BD%E7%AD%BE&t=31&band_rank=50&Refer=top) 19691
+1. [中方对稀土采取出口管制措施正当合法](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%AF%B9%E7%A8%80%E5%9C%9F%E9%87%87%E5%8F%96%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6%E6%8E%AA%E6%96%BD%E6%AD%A3%E5%BD%93%E5%90%88%E6%B3%95%23&t=31&band_rank=34&Refer=top) 17248
 <!-- END -->
 
 历史归档 [./archives](./archives)
