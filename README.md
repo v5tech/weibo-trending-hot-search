@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-10-18 01:18:54.177561 
+最后更新时间 2025-10-18 02:28:29.715378 
 1. [跳河新郎母亲首度发声](https://s.weibo.com/weibo?q=%23%E8%B7%B3%E6%B2%B3%E6%96%B0%E9%83%8E%E6%AF%8D%E4%BA%B2%E9%A6%96%E5%BA%A6%E5%8F%91%E5%A3%B0%23&t=31&band_rank=1&Refer=top) 891002
 1. [缅北电诈园区剁人手指泡酒](https://s.weibo.com/weibo?q=%23%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E5%9B%AD%E5%8C%BA%E5%89%81%E4%BA%BA%E6%89%8B%E6%8C%87%E6%B3%A1%E9%85%92%23&t=31&band_rank=2&Refer=top) 382886
 1. [今天起传递这颗红星](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E8%B5%B7%E4%BC%A0%E9%80%92%E8%BF%99%E9%A2%97%E7%BA%A2%E6%98%9F%23&t=31&band_rank=3&Refer=top) 321555
@@ -63,6 +63,12 @@
 1. [邓紫棋演唱会](https://s.weibo.com/weibo?q=%E9%82%93%E7%B4%AB%E6%A3%8B%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=35&Refer=top) 80816
 1. [郑恺人活着就为了个体面](https://s.weibo.com/weibo?q=%E9%83%91%E6%81%BA%E4%BA%BA%E6%B4%BB%E7%9D%80%E5%B0%B1%E4%B8%BA%E4%BA%86%E4%B8%AA%E4%BD%93%E9%9D%A2&t=31&band_rank=37&Refer=top) 80786
 1. [请积极夺回你的注意力](https://s.weibo.com/weibo?q=%23%E8%AF%B7%E7%A7%AF%E6%9E%81%E5%A4%BA%E5%9B%9E%E4%BD%A0%E7%9A%84%E6%B3%A8%E6%84%8F%E5%8A%9B%23&t=31&band_rank=42&Refer=top) 80723
+1. [冷帽](https://s.weibo.com/weibo?q=%E5%86%B7%E5%B8%BD&t=31&band_rank=22&Refer=top) 47935
+1. [喜人奇妙夜](https://s.weibo.com/weibo?q=%E5%96%9C%E4%BA%BA%E5%A5%87%E5%A6%99%E5%A4%9C&t=31&band_rank=42&Refer=top) 34265
+1. [白鹿鞭子舞](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E9%9E%AD%E5%AD%90%E8%88%9E%23&t=31&band_rank=45&Refer=top) 34263
+1. [音乐缘计划2先导片](https://s.weibo.com/weibo?q=%E9%9F%B3%E4%B9%90%E7%BC%98%E8%AE%A1%E5%88%922%E5%85%88%E5%AF%BC%E7%89%87&t=31&band_rank=46&Refer=top) 34263
+1. [你吃生肉吗 我喜欢吃翻译组翻译的](https://s.weibo.com/weibo?q=%E4%BD%A0%E5%90%83%E7%94%9F%E8%82%89%E5%90%97%20%E6%88%91%E5%96%9C%E6%AC%A2%E5%90%83%E7%BF%BB%E8%AF%91%E7%BB%84%E7%BF%BB%E8%AF%91%E7%9A%84&t=31&band_rank=47&Refer=top) 34263
+1. [是时候打王牌对王牌商战了](https://s.weibo.com/weibo?q=%E6%98%AF%E6%97%B6%E5%80%99%E6%89%93%E7%8E%8B%E7%89%8C%E5%AF%B9%E7%8E%8B%E7%89%8C%E5%95%86%E6%88%98%E4%BA%86&t=31&band_rank=48&Refer=top) 34263
 <!-- END -->
 
 历史归档 [./archives](./archives)
