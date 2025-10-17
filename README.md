@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-10-18 03:17:01.617720 
+最后更新时间 2025-10-18 04:23:57.409086 
 1. [跳河新郎母亲首度发声](https://s.weibo.com/weibo?q=%23%E8%B7%B3%E6%B2%B3%E6%96%B0%E9%83%8E%E6%AF%8D%E4%BA%B2%E9%A6%96%E5%BA%A6%E5%8F%91%E5%A3%B0%23&t=31&band_rank=1&Refer=top) 891002
 1. [缅北电诈园区剁人手指泡酒](https://s.weibo.com/weibo?q=%23%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E5%9B%AD%E5%8C%BA%E5%89%81%E4%BA%BA%E6%89%8B%E6%8C%87%E6%B3%A1%E9%85%92%23&t=31&band_rank=2&Refer=top) 382886
 1. [今天起传递这颗红星](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E8%B5%B7%E4%BC%A0%E9%80%92%E8%BF%99%E9%A2%97%E7%BA%A2%E6%98%9F%23&t=31&band_rank=3&Refer=top) 321555
@@ -64,13 +64,15 @@
 1. [郑恺人活着就为了个体面](https://s.weibo.com/weibo?q=%E9%83%91%E6%81%BA%E4%BA%BA%E6%B4%BB%E7%9D%80%E5%B0%B1%E4%B8%BA%E4%BA%86%E4%B8%AA%E4%BD%93%E9%9D%A2&t=31&band_rank=37&Refer=top) 80786
 1. [请积极夺回你的注意力](https://s.weibo.com/weibo?q=%23%E8%AF%B7%E7%A7%AF%E6%9E%81%E5%A4%BA%E5%9B%9E%E4%BD%A0%E7%9A%84%E6%B3%A8%E6%84%8F%E5%8A%9B%23&t=31&band_rank=42&Refer=top) 80723
 1. [冷帽](https://s.weibo.com/weibo?q=%E5%86%B7%E5%B8%BD&t=31&band_rank=22&Refer=top) 47935
+1. [民警回应找到失联女童瞬间落泪](https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E5%9B%9E%E5%BA%94%E6%89%BE%E5%88%B0%E5%A4%B1%E8%81%94%E5%A5%B3%E7%AB%A5%E7%9E%AC%E9%97%B4%E8%90%BD%E6%B3%AA%23&t=31&band_rank=25&Refer=top) 43416
 1. [喜人奇妙夜](https://s.weibo.com/weibo?q=%E5%96%9C%E4%BA%BA%E5%A5%87%E5%A6%99%E5%A4%9C&t=31&band_rank=42&Refer=top) 34265
 1. [白鹿鞭子舞](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E9%9E%AD%E5%AD%90%E8%88%9E%23&t=31&band_rank=45&Refer=top) 34263
 1. [音乐缘计划2先导片](https://s.weibo.com/weibo?q=%E9%9F%B3%E4%B9%90%E7%BC%98%E8%AE%A1%E5%88%922%E5%85%88%E5%AF%BC%E7%89%87&t=31&band_rank=46&Refer=top) 34263
 1. [你吃生肉吗 我喜欢吃翻译组翻译的](https://s.weibo.com/weibo?q=%E4%BD%A0%E5%90%83%E7%94%9F%E8%82%89%E5%90%97%20%E6%88%91%E5%96%9C%E6%AC%A2%E5%90%83%E7%BF%BB%E8%AF%91%E7%BB%84%E7%BF%BB%E8%AF%91%E7%9A%84&t=31&band_rank=47&Refer=top) 34263
 1. [是时候打王牌对王牌商战了](https://s.weibo.com/weibo?q=%E6%98%AF%E6%97%B6%E5%80%99%E6%89%93%E7%8E%8B%E7%89%8C%E5%AF%B9%E7%8E%8B%E7%89%8C%E5%95%86%E6%88%98%E4%BA%86&t=31&band_rank=48&Refer=top) 34263
-1. [民警回应找到失联女童瞬间落泪](https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E5%9B%9E%E5%BA%94%E6%89%BE%E5%88%B0%E5%A4%B1%E8%81%94%E5%A5%B3%E7%AB%A5%E7%9E%AC%E9%97%B4%E8%90%BD%E6%B3%AA%23&t=31&band_rank=25&Refer=top) 27935
-1. [周杰伦蔡威泽纠纷细节曝光](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E8%94%A1%E5%A8%81%E6%B3%BD%E7%BA%A0%E7%BA%B7%E7%BB%86%E8%8A%82%E6%9B%9D%E5%85%89%23&t=31&band_rank=37&Refer=top) 26527
+1. [周杰伦蔡威泽纠纷细节曝光](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E8%94%A1%E5%A8%81%E6%B3%BD%E7%BA%A0%E7%BA%B7%E7%BB%86%E8%8A%82%E6%9B%9D%E5%85%89%23&t=31&band_rank=37&Refer=top) 29911
+1. [余生有涯](https://s.weibo.com/weibo?q=%E4%BD%99%E7%94%9F%E6%9C%89%E6%B6%AF&t=31&band_rank=47&Refer=top) 29859
+1. [蒋龙张弛伯牙绝弦](https://s.weibo.com/weibo?q=%E8%92%8B%E9%BE%99%E5%BC%A0%E5%BC%9B%E4%BC%AF%E7%89%99%E7%BB%9D%E5%BC%A6&t=31&band_rank=50&Refer=top) 29827
 1. [大眼音乐节阵容](https://s.weibo.com/weibo?q=%E5%A4%A7%E7%9C%BC%E9%9F%B3%E4%B9%90%E8%8A%82%E9%98%B5%E5%AE%B9&t=31&band_rank=50&Refer=top) 26474
 <!-- END -->
 
