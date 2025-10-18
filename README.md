@@ -7,8 +7,9 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-10-19 06:18:40.119204 
+最后更新时间 2025-10-19 07:18:35.036667 
 1. [北京今天就下雪了](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E4%BB%8A%E5%A4%A9%E5%B0%B1%E4%B8%8B%E9%9B%AA%E4%BA%86%23&t=31&band_rank=1&Refer=top) 858647
+1. [北京下雪了](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E4%B8%8B%E9%9B%AA%E4%BA%86%23&t=31&band_rank=1&Refer=top) 756757
 1. [G2战胜BLG](https://s.weibo.com/weibo?q=G2%E6%88%98%E8%83%9CBLG&t=31&band_rank=2&Refer=top) 641911
 1. [非凡十四五](https://s.weibo.com/weibo?q=%23%E9%9D%9E%E5%87%A1%E5%8D%81%E5%9B%9B%E4%BA%94%23&t=31&band_rank=3&Refer=top) 631685
 1. [月亮姐姐官宣离开少儿频道](https://s.weibo.com/weibo?q=%23%E6%9C%88%E4%BA%AE%E5%A7%90%E5%A7%90%E5%AE%98%E5%AE%A3%E7%A6%BB%E5%BC%80%E5%B0%91%E5%84%BF%E9%A2%91%E9%81%93%23&t=31&band_rank=4&Refer=top) 628258
@@ -16,7 +17,6 @@
 1. [杨振宁在美办公室有人凌晨献花](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%8C%AF%E5%AE%81%E5%9C%A8%E7%BE%8E%E5%8A%9E%E5%85%AC%E5%AE%A4%E6%9C%89%E4%BA%BA%E5%87%8C%E6%99%A8%E7%8C%AE%E8%8A%B1%23&t=31&band_rank=6&Refer=top) 598509
 1. [杨振宁逝世](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%8C%AF%E5%AE%81%E9%80%9D%E4%B8%96%23&t=31&band_rank=7&Refer=top) 582095
 1. [入青云](https://s.weibo.com/weibo?q=%E5%85%A5%E9%9D%92%E4%BA%91&t=31&band_rank=8&Refer=top) 545174
-1. [北京下雪了](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E4%B8%8B%E9%9B%AA%E4%BA%86%23&t=31&band_rank=1&Refer=top) 533322
 1. [南京vs泰州](https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%ACvs%E6%B3%B0%E5%B7%9E%23&t=31&band_rank=9&Refer=top) 526762
 1. [新任中国国民党主席郑丽文](https://s.weibo.com/weibo?q=%23%E6%96%B0%E4%BB%BB%E4%B8%AD%E5%9B%BD%E5%9B%BD%E6%B0%91%E5%85%9A%E4%B8%BB%E5%B8%AD%E9%83%91%E4%B8%BD%E6%96%87%23&t=31&band_rank=10&Refer=top) 498043
 1. [网传何穗前夫参加过再见爱人](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E4%BD%95%E7%A9%97%E5%89%8D%E5%A4%AB%E5%8F%82%E5%8A%A0%E8%BF%87%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA%23&t=31&band_rank=11&Refer=top) 468258
@@ -26,6 +26,7 @@
 1. [杨振宁20年前预言已基本实现](https://s.weibo.com/weibo?q=%E6%9D%A8%E6%8C%AF%E5%AE%8120%E5%B9%B4%E5%89%8D%E9%A2%84%E8%A8%80%E5%B7%B2%E5%9F%BA%E6%9C%AC%E5%AE%9E%E7%8E%B0&t=31&band_rank=14&Refer=top) 317887
 1. [李一桐回应美人余造型](https://s.weibo.com/weibo?q=%E6%9D%8E%E4%B8%80%E6%A1%90%E5%9B%9E%E5%BA%94%E7%BE%8E%E4%BA%BA%E4%BD%99%E9%80%A0%E5%9E%8B&t=31&band_rank=15&Refer=top) 246851
 1. [沈佳润音乐节没报备版美美Sunday](https://s.weibo.com/weibo?q=%E6%B2%88%E4%BD%B3%E6%B6%A6%E9%9F%B3%E4%B9%90%E8%8A%82%E6%B2%A1%E6%8A%A5%E5%A4%87%E7%89%88%E7%BE%8E%E7%BE%8ESunday&t=31&band_rank=16&Refer=top) 229754
+1. [凌晨三点叫你出来玩你不出来](https://s.weibo.com/weibo?q=%E5%87%8C%E6%99%A8%E4%B8%89%E7%82%B9%E5%8F%AB%E4%BD%A0%E5%87%BA%E6%9D%A5%E7%8E%A9%E4%BD%A0%E4%B8%8D%E5%87%BA%E6%9D%A5&t=31&band_rank=39&Refer=top) 209709
 1. [曾舜晞送走汤唯牵走白鹿](https://s.weibo.com/weibo?q=%E6%9B%BE%E8%88%9C%E6%99%9E%E9%80%81%E8%B5%B0%E6%B1%A4%E5%94%AF%E7%89%B5%E8%B5%B0%E7%99%BD%E9%B9%BF&t=31&band_rank=17&Refer=top) 206634
 1. [郭碧婷爸爸回应女儿一人养家](https://s.weibo.com/weibo?q=%23%E9%83%AD%E7%A2%A7%E5%A9%B7%E7%88%B8%E7%88%B8%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%84%BF%E4%B8%80%E4%BA%BA%E5%85%BB%E5%AE%B6%23&t=31&band_rank=18&Refer=top) 201644
 1. [郑恺苗苗从小共用一张脸](https://s.weibo.com/weibo?q=%E9%83%91%E6%81%BA%E8%8B%97%E8%8B%97%E4%BB%8E%E5%B0%8F%E5%85%B1%E7%94%A8%E4%B8%80%E5%BC%A0%E8%84%B8&t=31&band_rank=19&Refer=top) 188820
@@ -60,24 +61,30 @@
 1. [Bin和Doran迎来生死战](https://s.weibo.com/weibo?q=Bin%E5%92%8CDoran%E8%BF%8E%E6%9D%A5%E7%94%9F%E6%AD%BB%E6%88%98&t=31&band_rank=48&Refer=top) 120720
 1. [张予曦晚宴内场生视频](https://s.weibo.com/weibo?q=%E5%BC%A0%E4%BA%88%E6%9B%A6%E6%99%9A%E5%AE%B4%E5%86%85%E5%9C%BA%E7%94%9F%E8%A7%86%E9%A2%91&t=31&band_rank=49&Refer=top) 120713
 1. [陈梦和球迷手对手比心](https://s.weibo.com/weibo?q=%E9%99%88%E6%A2%A6%E5%92%8C%E7%90%83%E8%BF%B7%E6%89%8B%E5%AF%B9%E6%89%8B%E6%AF%94%E5%BF%83&t=31&band_rank=50&Refer=top) 120711
+1. [香港中环突发火灾](https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E4%B8%AD%E7%8E%AF%E7%AA%81%E5%8F%91%E7%81%AB%E7%81%BE%23&t=31&band_rank=9&Refer=top) 100988
+1. [任嘉伦](https://s.weibo.com/weibo?q=%E4%BB%BB%E5%98%89%E4%BC%A6&t=31&band_rank=13&Refer=top) 99653
+1. [沙溢曾吃了狗吃过的面发烧三天](https://s.weibo.com/weibo?q=%23%E6%B2%99%E6%BA%A2%E6%9B%BE%E5%90%83%E4%BA%86%E7%8B%97%E5%90%83%E8%BF%87%E7%9A%84%E9%9D%A2%E5%8F%91%E7%83%A7%E4%B8%89%E5%A4%A9%23&t=31&band_rank=14&Refer=top) 99240
+1. [餐馆给野人男孩送饭被要求放地上](https://s.weibo.com/weibo?q=%23%E9%A4%90%E9%A6%86%E7%BB%99%E9%87%8E%E4%BA%BA%E7%94%B7%E5%AD%A9%E9%80%81%E9%A5%AD%E8%A2%AB%E8%A6%81%E6%B1%82%E6%94%BE%E5%9C%B0%E4%B8%8A%23&t=31&band_rank=20&Refer=top) 71374
 1. [余承恩 交作业](https://s.weibo.com/weibo?q=%E4%BD%99%E6%89%BF%E6%81%A9%20%E4%BA%A4%E4%BD%9C%E4%B8%9A&t=31&band_rank=33&Refer=top) 60989
+1. [迈凯伦双车退赛](https://s.weibo.com/weibo?q=%23%E8%BF%88%E5%87%AF%E4%BC%A6%E5%8F%8C%E8%BD%A6%E9%80%80%E8%B5%9B%23&t=31&band_rank=22&Refer=top) 60269
 1. [肖战数红包](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%95%B0%E7%BA%A2%E5%8C%85%23&t=31&band_rank=38&Refer=top) 58772
 1. [易烊千玺角色宇宙C位争夺战](https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E8%A7%92%E8%89%B2%E5%AE%87%E5%AE%99C%E4%BD%8D%E4%BA%89%E5%A4%BA%E6%88%98%23&t=31&band_rank=44&Refer=top) 58769
 1. [汪苏泷演唱会现场点奶茶都是坑](https://s.weibo.com/weibo?q=%E6%B1%AA%E8%8B%8F%E6%B3%B7%E6%BC%94%E5%94%B1%E4%BC%9A%E7%8E%B0%E5%9C%BA%E7%82%B9%E5%A5%B6%E8%8C%B6%E9%83%BD%E6%98%AF%E5%9D%91&t=31&band_rank=47&Refer=top) 58768
 1. [每个省都有自己专属应急食物](https://s.weibo.com/weibo?q=%E6%AF%8F%E4%B8%AA%E7%9C%81%E9%83%BD%E6%9C%89%E8%87%AA%E5%B7%B1%E4%B8%93%E5%B1%9E%E5%BA%94%E6%80%A5%E9%A3%9F%E7%89%A9&t=31&band_rank=48&Refer=top) 58766
-1. [凌晨三点叫你出来玩你不出来](https://s.weibo.com/weibo?q=%E5%87%8C%E6%99%A8%E4%B8%89%E7%82%B9%E5%8F%AB%E4%BD%A0%E5%87%BA%E6%9D%A5%E7%8E%A9%E4%BD%A0%E4%B8%8D%E5%87%BA%E6%9D%A5&t=31&band_rank=39&Refer=top) 56648
+1. [陈建州范玮琪听到小S致辞哭了](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BB%BA%E5%B7%9E%E8%8C%83%E7%8E%AE%E7%90%AA%E5%90%AC%E5%88%B0%E5%B0%8FS%E8%87%B4%E8%BE%9E%E5%93%AD%E4%BA%86%23&t=31&band_rank=27&Refer=top) 52927
+1. [高级河灯](https://s.weibo.com/weibo?q=%E9%AB%98%E7%BA%A7%E6%B2%B3%E7%81%AF&t=31&band_rank=27&Refer=top) 49597
 1. [记者2年前照片里的城市消失了](https://s.weibo.com/weibo?q=%23%E8%AE%B0%E8%80%852%E5%B9%B4%E5%89%8D%E7%85%A7%E7%89%87%E9%87%8C%E7%9A%84%E5%9F%8E%E5%B8%82%E6%B6%88%E5%A4%B1%E4%BA%86%23&t=31&band_rank=28&Refer=top) 44677
-1. [陈建州范玮琪听到小S致辞哭了](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BB%BA%E5%B7%9E%E8%8C%83%E7%8E%AE%E7%90%AA%E5%90%AC%E5%88%B0%E5%B0%8FS%E8%87%B4%E8%BE%9E%E5%93%AD%E4%BA%86%23&t=31&band_rank=27&Refer=top) 42489
+1. [月亮姐姐回应离开少儿频道](https://s.weibo.com/weibo?q=%23%E6%9C%88%E4%BA%AE%E5%A7%90%E5%A7%90%E5%9B%9E%E5%BA%94%E7%A6%BB%E5%BC%80%E5%B0%91%E5%84%BF%E9%A2%91%E9%81%93%23&t=31&band_rank=32&Refer=top) 42738
 1. [汪苏泷又出神图了](https://s.weibo.com/weibo?q=%E6%B1%AA%E8%8B%8F%E6%B3%B7%E5%8F%88%E5%87%BA%E7%A5%9E%E5%9B%BE%E4%BA%86&t=31&band_rank=28&Refer=top) 42481
 1. [北京西部北部将有雨雪](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E8%A5%BF%E9%83%A8%E5%8C%97%E9%83%A8%E5%B0%86%E6%9C%89%E9%9B%A8%E9%9B%AA%23&t=31&band_rank=36&Refer=top) 42427
 1. [郭艾伦聚星名人赛MVP](https://s.weibo.com/weibo?q=%23%E9%83%AD%E8%89%BE%E4%BC%A6%E8%81%9A%E6%98%9F%E5%90%8D%E4%BA%BA%E8%B5%9BMVP%23&t=31&band_rank=50&Refer=top) 42329
+1. [杨谨华金钟奖视后](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%B0%A8%E5%8D%8E%E9%87%91%E9%92%9F%E5%A5%96%E8%A7%86%E5%90%8E%23&t=31&band_rank=38&Refer=top) 39011
+1. [沉默的荣耀](https://s.weibo.com/weibo?q=%E6%B2%89%E9%BB%98%E7%9A%84%E8%8D%A3%E8%80%80&t=31&band_rank=47&Refer=top) 38936
+1. [小城良方官宣阵容](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9%E5%AE%98%E5%AE%A3%E9%98%B5%E5%AE%B9%23&t=31&band_rank=44&Refer=top) 38931
 1. [汪苏泷在演唱会做俯卧撑](https://s.weibo.com/weibo?q=%E6%B1%AA%E8%8B%8F%E6%B3%B7%E5%9C%A8%E6%BC%94%E5%94%B1%E4%BC%9A%E5%81%9A%E4%BF%AF%E5%8D%A7%E6%92%91&t=31&band_rank=35&Refer=top) 34783
 1. [肖战刘铮亮白大褂海报](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%88%98%E9%93%AE%E4%BA%AE%E7%99%BD%E5%A4%A7%E8%A4%82%E6%B5%B7%E6%8A%A5%23&t=31&band_rank=39&Refer=top) 34739
-1. [沉默的荣耀](https://s.weibo.com/weibo?q=%E6%B2%89%E9%BB%98%E7%9A%84%E8%8D%A3%E8%80%80&t=31&band_rank=47&Refer=top) 34651
 1. [侯明昊古偶可靠丈夫赛道](https://s.weibo.com/weibo?q=%E4%BE%AF%E6%98%8E%E6%98%8A%E5%8F%A4%E5%81%B6%E5%8F%AF%E9%9D%A0%E4%B8%88%E5%A4%AB%E8%B5%9B%E9%81%93&t=31&band_rank=48&Refer=top) 34643
 1. [陈芋汐挑战极限](https://s.weibo.com/weibo?q=%23%E9%99%88%E8%8A%8B%E6%B1%90%E6%8C%91%E6%88%98%E6%9E%81%E9%99%90%23&t=31&band_rank=50&Refer=top) 34623
-1. [餐馆给野人男孩送饭被要求放地上](https://s.weibo.com/weibo?q=%23%E9%A4%90%E9%A6%86%E7%BB%99%E9%87%8E%E4%BA%BA%E7%94%B7%E5%AD%A9%E9%80%81%E9%A5%AD%E8%A2%AB%E8%A6%81%E6%B1%82%E6%94%BE%E5%9C%B0%E4%B8%8A%23&t=31&band_rank=20&Refer=top) 33338
-1. [小城良方官宣阵容](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9%E5%AE%98%E5%AE%A3%E9%98%B5%E5%AE%B9%23&t=31&band_rank=44&Refer=top) 21995
 1. [小城良方开机](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9%E5%BC%80%E6%9C%BA%23&t=31&band_rank=47&Refer=top) 21909
 1. [张晋说和苏新皓是忘年之交](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%99%8B%E8%AF%B4%E5%92%8C%E8%8B%8F%E6%96%B0%E7%9A%93%E6%98%AF%E5%BF%98%E5%B9%B4%E4%B9%8B%E4%BA%A4&t=31&band_rank=29&Refer=top) 20742
 1. [一起开麦吧](https://s.weibo.com/weibo?q=%E4%B8%80%E8%B5%B7%E5%BC%80%E9%BA%A6%E5%90%A7&t=31&band_rank=47&Refer=top) 20647
