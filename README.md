@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-10-19 03:15:32.526632 
+最后更新时间 2025-10-19 04:21:29.897450 
 1. [北京今天就下雪了](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E4%BB%8A%E5%A4%A9%E5%B0%B1%E4%B8%8B%E9%9B%AA%E4%BA%86%23&t=31&band_rank=1&Refer=top) 858647
 1. [G2战胜BLG](https://s.weibo.com/weibo?q=G2%E6%88%98%E8%83%9CBLG&t=31&band_rank=2&Refer=top) 641911
 1. [非凡十四五](https://s.weibo.com/weibo?q=%23%E9%9D%9E%E5%87%A1%E5%8D%81%E5%9B%9B%E4%BA%94%23&t=31&band_rank=3&Refer=top) 631685
@@ -75,6 +75,10 @@
 1. [沉默的荣耀](https://s.weibo.com/weibo?q=%E6%B2%89%E9%BB%98%E7%9A%84%E8%8D%A3%E8%80%80&t=31&band_rank=47&Refer=top) 34651
 1. [侯明昊古偶可靠丈夫赛道](https://s.weibo.com/weibo?q=%E4%BE%AF%E6%98%8E%E6%98%8A%E5%8F%A4%E5%81%B6%E5%8F%AF%E9%9D%A0%E4%B8%88%E5%A4%AB%E8%B5%9B%E9%81%93&t=31&band_rank=48&Refer=top) 34643
 1. [陈芋汐挑战极限](https://s.weibo.com/weibo?q=%23%E9%99%88%E8%8A%8B%E6%B1%90%E6%8C%91%E6%88%98%E6%9E%81%E9%99%90%23&t=31&band_rank=50&Refer=top) 34623
+1. [餐馆给野人男孩送饭被要求放地上](https://s.weibo.com/weibo?q=%23%E9%A4%90%E9%A6%86%E7%BB%99%E9%87%8E%E4%BA%BA%E7%94%B7%E5%AD%A9%E9%80%81%E9%A5%AD%E8%A2%AB%E8%A6%81%E6%B1%82%E6%94%BE%E5%9C%B0%E4%B8%8A%23&t=31&band_rank=20&Refer=top) 24285
+1. [张晋说和苏新皓是忘年之交](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%99%8B%E8%AF%B4%E5%92%8C%E8%8B%8F%E6%96%B0%E7%9A%93%E6%98%AF%E5%BF%98%E5%B9%B4%E4%B9%8B%E4%BA%A4&t=31&band_rank=29&Refer=top) 20742
+1. [小城良方官宣阵容](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9%E5%AE%98%E5%AE%A3%E9%98%B5%E5%AE%B9%23&t=31&band_rank=44&Refer=top) 20661
+1. [一起开麦吧](https://s.weibo.com/weibo?q=%E4%B8%80%E8%B5%B7%E5%BC%80%E9%BA%A6%E5%90%A7&t=31&band_rank=47&Refer=top) 20647
 <!-- END -->
 
 历史归档 [./archives](./archives)
