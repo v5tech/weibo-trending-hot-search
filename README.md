@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-10-20 02:27:58.445256 
+最后更新时间 2025-10-20 03:15:56.455043 
 1. [匪徒从卢浮宫逃跑时掉落皇冠](https://s.weibo.com/weibo?q=%23%E5%8C%AA%E5%BE%92%E4%BB%8E%E5%8D%A2%E6%B5%AE%E5%AE%AB%E9%80%83%E8%B7%91%E6%97%B6%E6%8E%89%E8%90%BD%E7%9A%87%E5%86%A0%23&t=31&band_rank=1&Refer=top) 906926
 1. [女子7万买游乐场设施直呼太疯狂](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%907%E4%B8%87%E4%B9%B0%E6%B8%B8%E4%B9%90%E5%9C%BA%E8%AE%BE%E6%96%BD%E7%9B%B4%E5%91%BC%E5%A4%AA%E7%96%AF%E7%8B%82%23&t=31&band_rank=5&Refer=top) 489305
 1. [卢浮宫多件藏品被盗](https://s.weibo.com/weibo?q=%23%E5%8D%A2%E6%B5%AE%E5%AE%AB%E5%A4%9A%E4%BB%B6%E8%97%8F%E5%93%81%E8%A2%AB%E7%9B%97%23&t=31&band_rank=2&Refer=top) 305470
@@ -63,10 +63,12 @@
 1. [卢浮宫暂停开放](https://s.weibo.com/weibo?q=%23%E5%8D%A2%E6%B5%AE%E5%AE%AB%E6%9A%82%E5%81%9C%E5%BC%80%E6%94%BE%23&t=31&band_rank=35&Refer=top) 75402
 1. [晚上做好5件事养脾胃](https://s.weibo.com/weibo?q=%23%E6%99%9A%E4%B8%8A%E5%81%9A%E5%A5%BD5%E4%BB%B6%E4%BA%8B%E5%85%BB%E8%84%BE%E8%83%83%23&t=31&band_rank=50&Refer=top) 62914
 1. [利物浦1比2曼联](https://s.weibo.com/weibo?q=%23%E5%88%A9%E7%89%A9%E6%B5%A61%E6%AF%942%E6%9B%BC%E8%81%94%23&t=31&band_rank=8&Refer=top) 54225
-1. [把生命力养起来的方法](https://s.weibo.com/weibo?q=%23%E6%8A%8A%E7%94%9F%E5%91%BD%E5%8A%9B%E5%85%BB%E8%B5%B7%E6%9D%A5%E7%9A%84%E6%96%B9%E6%B3%95%23&t=31&band_rank=25&Refer=top) 34723
+1. [把生命力养起来的方法](https://s.weibo.com/weibo?q=%23%E6%8A%8A%E7%94%9F%E5%91%BD%E5%8A%9B%E5%85%BB%E8%B5%B7%E6%9D%A5%E7%9A%84%E6%96%B9%E6%B3%95%23&t=31&band_rank=25&Refer=top) 46852
+1. [AG战胜TTG](https://s.weibo.com/weibo?q=AG%E6%88%98%E8%83%9CTTG&t=31&band_rank=46&Refer=top) 46377
+1. [AG确定年总胜者组半决赛](https://s.weibo.com/weibo?q=%23AG%E7%A1%AE%E5%AE%9A%E5%B9%B4%E6%80%BB%E8%83%9C%E8%80%85%E7%BB%84%E5%8D%8A%E5%86%B3%E8%B5%9B%23&t=31&band_rank=43&Refer=top) 46300
+1. [歼10将飞抵印尼](https://s.weibo.com/weibo?q=%23%E6%AD%BC10%E5%B0%86%E9%A3%9E%E6%8A%B5%E5%8D%B0%E5%B0%BC%23&t=31&band_rank=48&Refer=top) 46162
+1. [星品影响力](https://s.weibo.com/weibo?q=%E6%98%9F%E5%93%81%E5%BD%B1%E5%93%8D%E5%8A%9B&t=31&band_rank=50&Refer=top) 46131
 1. [登陆少年上班卡](https://s.weibo.com/weibo?q=%23%E7%99%BB%E9%99%86%E5%B0%91%E5%B9%B4%E4%B8%8A%E7%8F%AD%E5%8D%A1%23&t=31&band_rank=36&Refer=top) 33703
-1. [AG确定年总胜者组半决赛](https://s.weibo.com/weibo?q=%23AG%E7%A1%AE%E5%AE%9A%E5%B9%B4%E6%80%BB%E8%83%9C%E8%80%85%E7%BB%84%E5%8D%8A%E5%86%B3%E8%B5%9B%23&t=31&band_rank=43&Refer=top) 33663
-1. [AG战胜TTG](https://s.weibo.com/weibo?q=AG%E6%88%98%E8%83%9CTTG&t=31&band_rank=46&Refer=top) 33644
 1. [震耳欲聋海外口碑](https://s.weibo.com/weibo?q=%E9%9C%87%E8%80%B3%E6%AC%B2%E8%81%8B%E6%B5%B7%E5%A4%96%E5%8F%A3%E7%A2%91&t=31&band_rank=50&Refer=top) 33619
 <!-- END -->
 
