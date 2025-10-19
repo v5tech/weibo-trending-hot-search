@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-10-19 20:39:29.486020 
+最后更新时间 2025-10-19 21:24:20.705300 
 1. [卢浮宫被盗过程仅7分钟](https://s.weibo.com/weibo?q=%23%E5%8D%A2%E6%B5%AE%E5%AE%AB%E8%A2%AB%E7%9B%97%E8%BF%87%E7%A8%8B%E4%BB%857%E5%88%86%E9%92%9F%23&t=31&band_rank=4&Refer=top) 1868831
 1. [当年微信可是求着我上线](https://s.weibo.com/weibo?q=%E5%BD%93%E5%B9%B4%E5%BE%AE%E4%BF%A1%E5%8F%AF%E6%98%AF%E6%B1%82%E7%9D%80%E6%88%91%E4%B8%8A%E7%BA%BF&t=31&band_rank=1&Refer=top) 1221921
 1. [卢浮宫多件藏品被盗](https://s.weibo.com/weibo?q=%23%E5%8D%A2%E6%B5%AE%E5%AE%AB%E5%A4%9A%E4%BB%B6%E8%97%8F%E5%93%81%E8%A2%AB%E7%9B%97%23&t=31&band_rank=2&Refer=top) 1151594
