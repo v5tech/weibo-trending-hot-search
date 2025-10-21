@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-10-22 03:18:30.108538 
+最后更新时间 2025-10-22 04:25:24.261134 
 1. [知名痔疮药太宁栓正式注销](https://s.weibo.com/weibo?q=%23%E7%9F%A5%E5%90%8D%E7%97%94%E7%96%AE%E8%8D%AF%E5%A4%AA%E5%AE%81%E6%A0%93%E6%AD%A3%E5%BC%8F%E6%B3%A8%E9%94%80%23&t=31&band_rank=1&Refer=top) 840407
 1. [当地规劝烤肉店停止玉米做燃料](https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%9C%B0%E8%A7%84%E5%8A%9D%E7%83%A4%E8%82%89%E5%BA%97%E5%81%9C%E6%AD%A2%E7%8E%89%E7%B1%B3%E5%81%9A%E7%87%83%E6%96%99%23&t=31&band_rank=2&Refer=top) 355118
 1. [强国梦从蓝图一步步走向现实](https://s.weibo.com/weibo?q=%23%E5%BC%BA%E5%9B%BD%E6%A2%A6%E4%BB%8E%E8%93%9D%E5%9B%BE%E4%B8%80%E6%AD%A5%E6%AD%A5%E8%B5%B0%E5%90%91%E7%8E%B0%E5%AE%9E%23&t=31&band_rank=3&Refer=top) 198787
@@ -68,6 +68,7 @@
 1. [侯明昊的太空愿望](https://s.weibo.com/weibo?q=%23%E4%BE%AF%E6%98%8E%E6%98%8A%E7%9A%84%E5%A4%AA%E7%A9%BA%E6%84%BF%E6%9C%9B%23&t=31&band_rank=47&Refer=top) 34174
 1. [小小的烦恼也被听到了](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%B0%8F%E7%9A%84%E7%83%A6%E6%81%BC%E4%B9%9F%E8%A2%AB%E5%90%AC%E5%88%B0%E4%BA%86%23&t=31&band_rank=49&Refer=top) 34166
 1. [卢浮宫十年削减190个安保监控岗](https://s.weibo.com/weibo?q=%23%E5%8D%A2%E6%B5%AE%E5%AE%AB%E5%8D%81%E5%B9%B4%E5%89%8A%E5%87%8F190%E4%B8%AA%E5%AE%89%E4%BF%9D%E7%9B%91%E6%8E%A7%E5%B2%97%23&t=31&band_rank=44&Refer=top) 26686
+1. [茅台辟谣将新增650家专营店](https://s.weibo.com/weibo?q=%23%E8%8C%85%E5%8F%B0%E8%BE%9F%E8%B0%A3%E5%B0%86%E6%96%B0%E5%A2%9E650%E5%AE%B6%E4%B8%93%E8%90%A5%E5%BA%97%23&t=31&band_rank=26&Refer=top) 25058
 <!-- END -->
 
 历史归档 [./archives](./archives)
