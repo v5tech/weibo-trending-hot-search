@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-10-25 03:17:52.838793 
+最后更新时间 2025-10-25 04:24:45.515233 
 1. [王者](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85&t=31&band_rank=1&Refer=top) 1061986
 1. [设台湾光复纪念日](https://s.weibo.com/weibo?q=%23%E8%AE%BE%E5%8F%B0%E6%B9%BE%E5%85%89%E5%A4%8D%E7%BA%AA%E5%BF%B5%E6%97%A5%23&t=31&band_rank=2&Refer=top) 867953
 1. [世界市长对话郑州](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E5%B8%82%E9%95%BF%E5%AF%B9%E8%AF%9D%E9%83%91%E5%B7%9E%23&t=31&band_rank=3&Refer=top) 681363
@@ -77,6 +77,8 @@
 1. [空枪](https://s.weibo.com/weibo?q=%E7%A9%BA%E6%9E%AA&t=31&band_rank=41&Refer=top) 24836
 1. [留几手谈路行退出再见爱人5](https://s.weibo.com/weibo?q=%23%E7%95%99%E5%87%A0%E6%89%8B%E8%B0%88%E8%B7%AF%E8%A1%8C%E9%80%80%E5%87%BA%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA5%23&t=31&band_rank=48&Refer=top) 24830
 1. [鹿晗清唱了小镇姑娘](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%B8%85%E5%94%B1%E4%BA%86%E5%B0%8F%E9%95%87%E5%A7%91%E5%A8%98%23&t=31&band_rank=49&Refer=top) 24829
+1. [与神同行](https://s.weibo.com/weibo?q=%23%E4%B8%8E%E7%A5%9E%E5%90%8C%E8%A1%8C%23&t=31&band_rank=41&Refer=top) 20797
+1. [高市早苗发表施政演说](https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%8F%91%E8%A1%A8%E6%96%BD%E6%94%BF%E6%BC%94%E8%AF%B4%23&t=31&band_rank=47&Refer=top) 20791
 <!-- END -->
 
 历史归档 [./archives](./archives)
