@@ -7,12 +7,13 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-10-25 05:19:02.730306 
+最后更新时间 2025-10-25 06:20:30.273487 
 1. [王者](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85&t=31&band_rank=1&Refer=top) 1061986
 1. [设台湾光复纪念日](https://s.weibo.com/weibo?q=%23%E8%AE%BE%E5%8F%B0%E6%B9%BE%E5%85%89%E5%A4%8D%E7%BA%AA%E5%BF%B5%E6%97%A5%23&t=31&band_rank=2&Refer=top) 867953
 1. [世界市长对话郑州](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E5%B8%82%E9%95%BF%E5%AF%B9%E8%AF%9D%E9%83%91%E5%B7%9E%23&t=31&band_rank=3&Refer=top) 681363
 1. [科学家称外星人或已懒得理我们](https://s.weibo.com/weibo?q=%E7%A7%91%E5%AD%A6%E5%AE%B6%E7%A7%B0%E5%A4%96%E6%98%9F%E4%BA%BA%E6%88%96%E5%B7%B2%E6%87%92%E5%BE%97%E7%90%86%E6%88%91%E4%BB%AC&t=31&band_rank=4&Refer=top) 554618
 1. [王者荣耀崩了](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E5%B4%A9%E4%BA%86&t=31&band_rank=1&Refer=top) 539841
+1. [台湾重回中国版图80年了](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E9%87%8D%E5%9B%9E%E4%B8%AD%E5%9B%BD%E7%89%88%E5%9B%BE80%E5%B9%B4%E4%BA%86%23&t=31&band_rank=5&Refer=top) 357155
 1. [KK园区上千人趁乱逃离](https://s.weibo.com/weibo?q=%23KK%E5%9B%AD%E5%8C%BA%E4%B8%8A%E5%8D%83%E4%BA%BA%E8%B6%81%E4%B9%B1%E9%80%83%E7%A6%BB%23&t=31&band_rank=5&Refer=top) 231889
 1. [水龙吟](https://s.weibo.com/weibo?q=%E6%B0%B4%E9%BE%99%E5%90%9F&t=31&band_rank=6&Refer=top) 231111
 1. [况盛发布声明](https://s.weibo.com/weibo?q=%23%E5%86%B5%E7%9B%9B%E5%8F%91%E5%B8%83%E5%A3%B0%E6%98%8E%23&t=31&band_rank=7&Refer=top) 228876
@@ -34,7 +35,6 @@
 1. [张杰他不爱我](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E4%BB%96%E4%B8%8D%E7%88%B1%E6%88%91%23&t=31&band_rank=23&Refer=top) 125157
 1. [张柏芝 大儿子管我管得很凶](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9F%8F%E8%8A%9D%20%E5%A4%A7%E5%84%BF%E5%AD%90%E7%AE%A1%E6%88%91%E7%AE%A1%E5%BE%97%E5%BE%88%E5%87%B6&t=31&band_rank=24&Refer=top) 123463
 1. [男子离婚后带7个娃全网道歉求复合](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%A6%BB%E5%A9%9A%E5%90%8E%E5%B8%A67%E4%B8%AA%E5%A8%83%E5%85%A8%E7%BD%91%E9%81%93%E6%AD%89%E6%B1%82%E5%A4%8D%E5%90%88%23&t=31&band_rank=25&Refer=top) 120343
-1. [台湾重回中国版图80年了](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E9%87%8D%E5%9B%9E%E4%B8%AD%E5%9B%BD%E7%89%88%E5%9B%BE80%E5%B9%B4%E4%BA%86%23&t=31&band_rank=5&Refer=top) 118959
 1. [600万博主辛吉飞拍视频突发癫痫倒地](https://s.weibo.com/weibo?q=%23600%E4%B8%87%E5%8D%9A%E4%B8%BB%E8%BE%9B%E5%90%89%E9%A3%9E%E6%8B%8D%E8%A7%86%E9%A2%91%E7%AA%81%E5%8F%91%E7%99%AB%E7%97%AB%E5%80%92%E5%9C%B0%23&t=31&band_rank=26&Refer=top) 113744
 1. [罗云熙水龙吟太瘦了](https://s.weibo.com/weibo?q=%E7%BD%97%E4%BA%91%E7%86%99%E6%B0%B4%E9%BE%99%E5%90%9F%E5%A4%AA%E7%98%A6%E4%BA%86&t=31&band_rank=27&Refer=top) 113739
 1. [李沁陈哲远曾舜晞你们三个过吧](https://s.weibo.com/weibo?q=%E6%9D%8E%E6%B2%81%E9%99%88%E5%93%B2%E8%BF%9C%E6%9B%BE%E8%88%9C%E6%99%9E%E4%BD%A0%E4%BB%AC%E4%B8%89%E4%B8%AA%E8%BF%87%E5%90%A7&t=31&band_rank=28&Refer=top) 107532
@@ -75,12 +75,12 @@
 1. [无可替代杀青官宣](https://s.weibo.com/weibo?q=%E6%97%A0%E5%8F%AF%E6%9B%BF%E4%BB%A3%E6%9D%80%E9%9D%92%E5%AE%98%E5%AE%A3&t=31&band_rank=48&Refer=top) 50036
 1. [周深时差直拍](https://s.weibo.com/weibo?q=%E5%91%A8%E6%B7%B1%E6%97%B6%E5%B7%AE%E7%9B%B4%E6%8B%8D&t=31&band_rank=49&Refer=top) 50028
 1. [空枪](https://s.weibo.com/weibo?q=%E7%A9%BA%E6%9E%AA&t=31&band_rank=41&Refer=top) 30385
+1. [普京说生孩子和学习工作能结合](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E8%AF%B4%E7%94%9F%E5%AD%A9%E5%AD%90%E5%92%8C%E5%AD%A6%E4%B9%A0%E5%B7%A5%E4%BD%9C%E8%83%BD%E7%BB%93%E5%90%88%23&t=31&band_rank=33&Refer=top) 24883
 1. [留几手谈路行退出再见爱人5](https://s.weibo.com/weibo?q=%23%E7%95%99%E5%87%A0%E6%89%8B%E8%B0%88%E8%B7%AF%E8%A1%8C%E9%80%80%E5%87%BA%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA5%23&t=31&band_rank=48&Refer=top) 24830
 1. [鹿晗清唱了小镇姑娘](https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%B8%85%E5%94%B1%E4%BA%86%E5%B0%8F%E9%95%87%E5%A7%91%E5%A8%98%23&t=31&band_rank=49&Refer=top) 24829
-1. [与神同行](https://s.weibo.com/weibo?q=%23%E4%B8%8E%E7%A5%9E%E5%90%8C%E8%A1%8C%23&t=31&band_rank=41&Refer=top) 20797
-1. [高市早苗发表施政演说](https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%8F%91%E8%A1%A8%E6%96%BD%E6%94%BF%E6%BC%94%E8%AF%B4%23&t=31&band_rank=47&Refer=top) 20791
-1. [普京说生孩子和学习工作能结合](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E8%AF%B4%E7%94%9F%E5%AD%A9%E5%AD%90%E5%92%8C%E5%AD%A6%E4%B9%A0%E5%B7%A5%E4%BD%9C%E8%83%BD%E7%BB%93%E5%90%88%23&t=31&band_rank=33&Refer=top) 19915
-1. [第五人格](https://s.weibo.com/weibo?q=%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC&t=31&band_rank=48&Refer=top) 19840
+1. [高市早苗发表施政演说](https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%8F%91%E8%A1%A8%E6%96%BD%E6%94%BF%E6%BC%94%E8%AF%B4%23&t=31&band_rank=47&Refer=top) 23627
+1. [与神同行](https://s.weibo.com/weibo?q=%23%E4%B8%8E%E7%A5%9E%E5%90%8C%E8%A1%8C%23&t=31&band_rank=41&Refer=top) 23612
+1. [第五人格](https://s.weibo.com/weibo?q=%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC&t=31&band_rank=48&Refer=top) 23609
 <!-- END -->
 
 历史归档 [./archives](./archives)
