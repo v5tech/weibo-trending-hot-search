@@ -231,6 +231,10 @@
     "url": "https://s.weibo.com/weibo?q=%E5%BD%AD%E6%98%B1%E7%95%85%E7%9C%9F%E6%8B%89%E6%B2%A1%E6%8E%A8%E4%BA%BA%E5%92%8B%E4%B8%8B%E5%8E%BB%E7%9A%84&t=31&band_rank=46&Refer=top",
     "hot": 72780
   },
+  "台湾重回中国版图80年了": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E9%87%8D%E5%9B%9E%E4%B8%AD%E5%9B%BD%E7%89%88%E5%9B%BE80%E5%B9%B4%E4%BA%86%23&t=31&band_rank=5&Refer=top",
+    "hot": 72263
+  },
   "祖国大陆离台湾最近的距离": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%A5%96%E5%9B%BD%E5%A4%A7%E9%99%86%E7%A6%BB%E5%8F%B0%E6%B9%BE%E6%9C%80%E8%BF%91%E7%9A%84%E8%B7%9D%E7%A6%BB%23&t=31&band_rank=47&Refer=top",
     "hot": 72153
@@ -258,5 +262,17 @@
   "周深时差直拍": {
     "url": "https://s.weibo.com/weibo?q=%E5%91%A8%E6%B7%B1%E6%97%B6%E5%B7%AE%E7%9B%B4%E6%8B%8D&t=31&band_rank=49&Refer=top",
     "hot": 50028
+  },
+  "空枪": {
+    "url": "https://s.weibo.com/weibo?q=%E7%A9%BA%E6%9E%AA&t=31&band_rank=41&Refer=top",
+    "hot": 24836
+  },
+  "留几手谈路行退出再见爱人5": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%95%99%E5%87%A0%E6%89%8B%E8%B0%88%E8%B7%AF%E8%A1%8C%E9%80%80%E5%87%BA%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA5%23&t=31&band_rank=48&Refer=top",
+    "hot": 24830
+  },
+  "鹿晗清唱了小镇姑娘": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%B8%85%E5%94%B1%E4%BA%86%E5%B0%8F%E9%95%87%E5%A7%91%E5%A8%98%23&t=31&band_rank=49&Refer=top",
+    "hot": 24829
   }
 }
