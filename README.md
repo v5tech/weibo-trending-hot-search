@@ -7,8 +7,9 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-10-27 00:25:06.055714 
+最后更新时间 2025-10-27 01:17:47.420637 
 1. [多名考古学家白天考古晚上盗墓](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%90%8D%E8%80%83%E5%8F%A4%E5%AD%A6%E5%AE%B6%E7%99%BD%E5%A4%A9%E8%80%83%E5%8F%A4%E6%99%9A%E4%B8%8A%E7%9B%97%E5%A2%93%23&t=31&band_rank=1&Refer=top) 901767
+1. [打野的尽头是一片海](https://s.weibo.com/weibo?q=%E6%89%93%E9%87%8E%E7%9A%84%E5%B0%BD%E5%A4%B4%E6%98%AF%E4%B8%80%E7%89%87%E6%B5%B7&t=31&band_rank=9&Refer=top) 524609
 1. [王者荣耀共创之夜](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E5%85%B1%E5%88%9B%E4%B9%8B%E5%A4%9C&t=31&band_rank=2&Refer=top) 345120
 1. [党历史上又一重要纲领性文件](https://s.weibo.com/weibo?q=%23%E5%85%9A%E5%8E%86%E5%8F%B2%E4%B8%8A%E5%8F%88%E4%B8%80%E9%87%8D%E8%A6%81%E7%BA%B2%E9%A2%86%E6%80%A7%E6%96%87%E4%BB%B6%23&t=31&band_rank=3&Refer=top) 286503
 1. [我国3岁以下婴幼儿约3000万](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD3%E5%B2%81%E4%BB%A5%E4%B8%8B%E5%A9%B4%E5%B9%BC%E5%84%BF%E7%BA%A63000%E4%B8%87%23&t=31&band_rank=4&Refer=top) 272607
@@ -16,7 +17,6 @@
 1. [盛夏芬德拉女主进组玉簟秋](https://s.weibo.com/weibo?q=%E7%9B%9B%E5%A4%8F%E8%8A%AC%E5%BE%B7%E6%8B%89%E5%A5%B3%E4%B8%BB%E8%BF%9B%E7%BB%84%E7%8E%89%E7%B0%9F%E7%A7%8B&t=31&band_rank=6&Refer=top) 260211
 1. [林俊杰一千年以后](https://s.weibo.com/weibo?q=%E6%9E%97%E4%BF%8A%E6%9D%B0%E4%B8%80%E5%8D%83%E5%B9%B4%E4%BB%A5%E5%90%8E&t=31&band_rank=7&Refer=top) 259622
 1. [刘诗诗 千里江山图](https://s.weibo.com/weibo?q=%E5%88%98%E8%AF%97%E8%AF%97%20%E5%8D%83%E9%87%8C%E6%B1%9F%E5%B1%B1%E5%9B%BE&t=31&band_rank=8&Refer=top) 231073
-1. [打野的尽头是一片海](https://s.weibo.com/weibo?q=%E6%89%93%E9%87%8E%E7%9A%84%E5%B0%BD%E5%A4%B4%E6%98%AF%E4%B8%80%E7%89%87%E6%B5%B7&t=31&band_rank=9&Refer=top) 217538
 1. [信离](https://s.weibo.com/weibo?q=%E4%BF%A1%E7%A6%BB&t=31&band_rank=10&Refer=top) 217423
 1. [龚俊破万福利是半裸肌肉照](https://s.weibo.com/weibo?q=%E9%BE%9A%E4%BF%8A%E7%A0%B4%E4%B8%87%E7%A6%8F%E5%88%A9%E6%98%AF%E5%8D%8A%E8%A3%B8%E8%82%8C%E8%82%89%E7%85%A7&t=31&band_rank=11&Refer=top) 217299
 1. [陈粒 我将开始减少舞台工作](https://s.weibo.com/weibo?q=%E9%99%88%E7%B2%92%20%E6%88%91%E5%B0%86%E5%BC%80%E5%A7%8B%E5%87%8F%E5%B0%91%E8%88%9E%E5%8F%B0%E5%B7%A5%E4%BD%9C&t=31&band_rank=12&Refer=top) 217067
@@ -58,6 +58,9 @@
 1. [王者荣耀](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80&t=31&band_rank=48&Refer=top) 122980
 1. [王者荣耀月活用户突破2.6亿](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%9C%88%E6%B4%BB%E7%94%A8%E6%88%B7%E7%AA%81%E7%A0%B42.6%E4%BA%BF%23&t=31&band_rank=49&Refer=top) 122980
 1. [阿斯顿维拉vs曼城](https://s.weibo.com/weibo?q=%E9%98%BF%E6%96%AF%E9%A1%BF%E7%BB%B4%E6%8B%89vs%E6%9B%BC%E5%9F%8E&t=31&band_rank=50&Refer=top) 122979
+1. [KK园区出逃人员偷渡泰国时溺亡](https://s.weibo.com/weibo?q=%23KK%E5%9B%AD%E5%8C%BA%E5%87%BA%E9%80%83%E4%BA%BA%E5%91%98%E5%81%B7%E6%B8%A1%E6%B3%B0%E5%9B%BD%E6%97%B6%E6%BA%BA%E4%BA%A1%23&t=31&band_rank=40&Refer=top) 55149
+1. [一个永远不会得罪人的方法](https://s.weibo.com/weibo?q=%E4%B8%80%E4%B8%AA%E6%B0%B8%E8%BF%9C%E4%B8%8D%E4%BC%9A%E5%BE%97%E7%BD%AA%E4%BA%BA%E7%9A%84%E6%96%B9%E6%B3%95&t=31&band_rank=45&Refer=top) 54140
+1. [闫安双十一直播亲试口红](https://s.weibo.com/weibo?q=%E9%97%AB%E5%AE%89%E5%8F%8C%E5%8D%81%E4%B8%80%E7%9B%B4%E6%92%AD%E4%BA%B2%E8%AF%95%E5%8F%A3%E7%BA%A2&t=31&band_rank=47&Refer=top) 54124
 <!-- END -->
 
 历史归档 [./archives](./archives)
