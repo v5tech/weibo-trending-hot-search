@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-10-27 04:23:00.181397 
+最后更新时间 2025-10-27 05:18:42.567139 
 1. [多名考古学家白天考古晚上盗墓](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%90%8D%E8%80%83%E5%8F%A4%E5%AD%A6%E5%AE%B6%E7%99%BD%E5%A4%A9%E8%80%83%E5%8F%A4%E6%99%9A%E4%B8%8A%E7%9B%97%E5%A2%93%23&t=31&band_rank=1&Refer=top) 901767
 1. [打野的尽头是一片海](https://s.weibo.com/weibo?q=%E6%89%93%E9%87%8E%E7%9A%84%E5%B0%BD%E5%A4%B4%E6%98%AF%E4%B8%80%E7%89%87%E6%B5%B7&t=31&band_rank=9&Refer=top) 524609
 1. [王者荣耀共创之夜](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E5%85%B1%E5%88%9B%E4%B9%8B%E5%A4%9C&t=31&band_rank=2&Refer=top) 345120
@@ -70,7 +70,9 @@
 1. [3800年前的差评留言](https://s.weibo.com/weibo?q=3800%E5%B9%B4%E5%89%8D%E7%9A%84%E5%B7%AE%E8%AF%84%E7%95%99%E8%A8%80&t=31&band_rank=45&Refer=top) 22395
 1. [多所高校正在培养带娃专家](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%89%80%E9%AB%98%E6%A0%A1%E6%AD%A3%E5%9C%A8%E5%9F%B9%E5%85%BB%E5%B8%A6%E5%A8%83%E4%B8%93%E5%AE%B6%23&t=31&band_rank=48&Refer=top) 22324
 1. [男子没拔充电器客厅东西被烧光](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%B2%A1%E6%8B%94%E5%85%85%E7%94%B5%E5%99%A8%E5%AE%A2%E5%8E%85%E4%B8%9C%E8%A5%BF%E8%A2%AB%E7%83%A7%E5%85%89%23&t=31&band_rank=37&Refer=top) 18909
-1. [游泳教练抱摔女童致其耳软骨断裂](https://s.weibo.com/weibo?q=%23%E6%B8%B8%E6%B3%B3%E6%95%99%E7%BB%83%E6%8A%B1%E6%91%94%E5%A5%B3%E7%AB%A5%E8%87%B4%E5%85%B6%E8%80%B3%E8%BD%AF%E9%AA%A8%E6%96%AD%E8%A3%82%23&t=31&band_rank=39&Refer=top) 17260
+1. [游泳教练抱摔女童致其耳软骨断裂](https://s.weibo.com/weibo?q=%23%E6%B8%B8%E6%B3%B3%E6%95%99%E7%BB%83%E6%8A%B1%E6%91%94%E5%A5%B3%E7%AB%A5%E8%87%B4%E5%85%B6%E8%80%B3%E8%BD%AF%E9%AA%A8%E6%96%AD%E8%A3%82%23&t=31&band_rank=39&Refer=top) 17709
+1. [断联是个试金石](https://s.weibo.com/weibo?q=%E6%96%AD%E8%81%94%E6%98%AF%E4%B8%AA%E8%AF%95%E9%87%91%E7%9F%B3&t=31&band_rank=41&Refer=top) 17704
+1. [美财长称贸易休战或将延长](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%B4%A2%E9%95%BF%E7%A7%B0%E8%B4%B8%E6%98%93%E4%BC%91%E6%88%98%E6%88%96%E5%B0%86%E5%BB%B6%E9%95%BF%23&t=31&band_rank=47&Refer=top) 17698
 <!-- END -->
 
 历史归档 [./archives](./archives)
