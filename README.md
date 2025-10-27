@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-10-28 02:32:14.224506 
+最后更新时间 2025-10-28 03:18:02.534728 
 1. [这就是中国台湾省](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E7%9C%81%23&t=31&band_rank=1&Refer=top) 895288
 1. [内娱三搭cp的含金量](https://s.weibo.com/weibo?q=%E5%86%85%E5%A8%B1%E4%B8%89%E6%90%ADcp%E7%9A%84%E5%90%AB%E9%87%91%E9%87%8F&t=31&band_rank=2&Refer=top) 333488
 1. [北京大视听的春天很美丽](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%A4%A7%E8%A7%86%E5%90%AC%E7%9A%84%E6%98%A5%E5%A4%A9%E5%BE%88%E7%BE%8E%E4%B8%BD%23&t=31&band_rank=3&Refer=top) 287992
@@ -74,6 +74,10 @@
 1. [当女朋友拍照时故意破坏蛋糕](https://s.weibo.com/weibo?q=%E5%BD%93%E5%A5%B3%E6%9C%8B%E5%8F%8B%E6%8B%8D%E7%85%A7%E6%97%B6%E6%95%85%E6%84%8F%E7%A0%B4%E5%9D%8F%E8%9B%8B%E7%B3%95&t=31&band_rank=45&Refer=top) 22533
 1. [47岁蔡磊与渐冻症抗争7年现状](https://s.weibo.com/weibo?q=%2347%E5%B2%81%E8%94%A1%E7%A3%8A%E4%B8%8E%E6%B8%90%E5%86%BB%E7%97%87%E6%8A%97%E4%BA%897%E5%B9%B4%E7%8E%B0%E7%8A%B6%23&t=31&band_rank=46&Refer=top) 22533
 1. [刚出锅的板栗 隐形摔炮](https://s.weibo.com/weibo?q=%E5%88%9A%E5%87%BA%E9%94%85%E7%9A%84%E6%9D%BF%E6%A0%97%20%E9%9A%90%E5%BD%A2%E6%91%94%E7%82%AE&t=31&band_rank=48&Refer=top) 22530
+1. [长期漂发染发的受害者出现了](https://s.weibo.com/weibo?q=%E9%95%BF%E6%9C%9F%E6%BC%82%E5%8F%91%E6%9F%93%E5%8F%91%E7%9A%84%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86&t=31&band_rank=37&Refer=top) 19348
+1. [张杰200场演唱会含金量](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9D%B0200%E5%9C%BA%E6%BC%94%E5%94%B1%E4%BC%9A%E5%90%AB%E9%87%91%E9%87%8F&t=31&band_rank=43&Refer=top) 16145
+1. [东京电影节](https://s.weibo.com/weibo?q=%E4%B8%9C%E4%BA%AC%E7%94%B5%E5%BD%B1%E8%8A%82&t=31&band_rank=47&Refer=top) 16142
+1. [郑智化称连滚带爬是气愤遣词](https://s.weibo.com/weibo?q=%23%E9%83%91%E6%99%BA%E5%8C%96%E7%A7%B0%E8%BF%9E%E6%BB%9A%E5%B8%A6%E7%88%AC%E6%98%AF%E6%B0%94%E6%84%A4%E9%81%A3%E8%AF%8D%23&t=31&band_rank=49&Refer=top) 16140
 <!-- END -->
 
 历史归档 [./archives](./archives)
