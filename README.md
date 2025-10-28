@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-10-29 03:18:03.987028 
+最后更新时间 2025-10-29 04:25:50.514465 
 1. [宝宝巴士 低俗广告](https://s.weibo.com/weibo?q=%E5%AE%9D%E5%AE%9D%E5%B7%B4%E5%A3%AB%20%E4%BD%8E%E4%BF%97%E5%B9%BF%E5%91%8A&t=31&band_rank=1&Refer=top) 890333
 1. [吃柚子的第一批受害者出现了](https://s.weibo.com/weibo?q=%23%E5%90%83%E6%9F%9A%E5%AD%90%E7%9A%84%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86%23&t=31&band_rank=2&Refer=top) 514891
 1. [网络安全法完成修改](https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E6%B3%95%E5%AE%8C%E6%88%90%E4%BF%AE%E6%94%B9%23&t=31&band_rank=3&Refer=top) 496702
@@ -69,12 +69,16 @@
 1. [张艺凡镜头下得多瘦](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%89%BA%E5%87%A1%E9%95%9C%E5%A4%B4%E4%B8%8B%E5%BE%97%E5%A4%9A%E7%98%A6&t=31&band_rank=49&Refer=top) 42294
 1. [徐冬冬尹子维吵架原因](https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%86%AC%E5%86%AC%E5%B0%B9%E5%AD%90%E7%BB%B4%E5%90%B5%E6%9E%B6%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=22&Refer=top) 34244
 1. [云合](https://s.weibo.com/weibo?q=%E4%BA%91%E5%90%88&t=31&band_rank=27&Refer=top) 29477
+1. [许绍雄73岁只身一人录节目](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E7%BB%8D%E9%9B%8473%E5%B2%81%E5%8F%AA%E8%BA%AB%E4%B8%80%E4%BA%BA%E5%BD%95%E8%8A%82%E7%9B%AE%23&t=31&band_rank=30&Refer=top) 29363
 1. [美国小哥被中国外卖柜震惊](https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E5%B0%8F%E5%93%A5%E8%A2%AB%E4%B8%AD%E5%9B%BD%E5%A4%96%E5%8D%96%E6%9F%9C%E9%9C%87%E6%83%8A&t=31&band_rank=33&Refer=top) 24962
 1. [多地出现假彩票兑奖事件](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E5%87%BA%E7%8E%B0%E5%81%87%E5%BD%A9%E7%A5%A8%E5%85%91%E5%A5%96%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=41&Refer=top) 24907
 1. [家业](https://s.weibo.com/weibo?q=%E5%AE%B6%E4%B8%9A&t=31&band_rank=47&Refer=top) 24869
 1. [吴昕ELLE红毯造型](https://s.weibo.com/weibo?q=%E5%90%B4%E6%98%95ELLE%E7%BA%A2%E6%AF%AF%E9%80%A0%E5%9E%8B&t=31&band_rank=49&Refer=top) 24855
 1. [一台家人全票通过的车](https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%8F%B0%E5%AE%B6%E4%BA%BA%E5%85%A8%E7%A5%A8%E9%80%9A%E8%BF%87%E7%9A%84%E8%BD%A6%23&t=31&band_rank=50&Refer=top) 24848
-1. [许绍雄73岁只身一人录节目](https://s.weibo.com/weibo?q=%23%E8%AE%B8%E7%BB%8D%E9%9B%8473%E5%B2%81%E5%8F%AA%E8%BA%AB%E4%B8%80%E4%BA%BA%E5%BD%95%E8%8A%82%E7%9B%AE%23&t=31&band_rank=30&Refer=top) 21071
+1. [韩国人不睡觉的一天](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E4%BA%BA%E4%B8%8D%E7%9D%A1%E8%A7%89%E7%9A%84%E4%B8%80%E5%A4%A9&t=31&band_rank=26&Refer=top) 18932
+1. [济南市民排百米长队买奶皮子糖葫芦](https://s.weibo.com/weibo?q=%23%E6%B5%8E%E5%8D%97%E5%B8%82%E6%B0%91%E6%8E%92%E7%99%BE%E7%B1%B3%E9%95%BF%E9%98%9F%E4%B9%B0%E5%A5%B6%E7%9A%AE%E5%AD%90%E7%B3%96%E8%91%AB%E8%8A%A6%23&t=31&band_rank=38&Refer=top) 15248
+1. [宁绣绣封二又相聚了](https://s.weibo.com/weibo?q=%23%E5%AE%81%E7%BB%A3%E7%BB%A3%E5%B0%81%E4%BA%8C%E5%8F%88%E7%9B%B8%E8%81%9A%E4%BA%86%23&t=31&band_rank=43&Refer=top) 15242
+1. [安倍遇刺案明年1月宣判](https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%80%8D%E9%81%87%E5%88%BA%E6%A1%88%E6%98%8E%E5%B9%B41%E6%9C%88%E5%AE%A3%E5%88%A4%23&t=31&band_rank=47&Refer=top) 15236
 <!-- END -->
 
 历史归档 [./archives](./archives)
