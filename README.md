@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-10-30 01:20:39.236817 
+最后更新时间 2025-10-30 02:32:46.432213 
 1. [Elk发文澄清](https://s.weibo.com/weibo?q=Elk%E5%8F%91%E6%96%87%E6%BE%84%E6%B8%85&t=31&band_rank=1&Refer=top) 915290
 1. [喜人奇妙夜](https://s.weibo.com/weibo?q=%E5%96%9C%E4%BA%BA%E5%A5%87%E5%A6%99%E5%A4%9C&t=31&band_rank=2&Refer=top) 603865
 1. [中国是韩国第一大贸易伙伴国](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%98%AF%E9%9F%A9%E5%9B%BD%E7%AC%AC%E4%B8%80%E5%A4%A7%E8%B4%B8%E6%98%93%E4%BC%99%E4%BC%B4%E5%9B%BD%23&t=31&band_rank=3&Refer=top) 319856
@@ -63,6 +63,10 @@
 1. [男子讲述在缅北被镰刀架脖铁链锁脚](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%AE%B2%E8%BF%B0%E5%9C%A8%E7%BC%85%E5%8C%97%E8%A2%AB%E9%95%B0%E5%88%80%E6%9E%B6%E8%84%96%E9%93%81%E9%93%BE%E9%94%81%E8%84%9A%23&t=31&band_rank=46&Refer=top) 196560
 1. [这和自己亲生的有什么区别](https://s.weibo.com/weibo?q=%E8%BF%99%E5%92%8C%E8%87%AA%E5%B7%B1%E4%BA%B2%E7%94%9F%E7%9A%84%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB&t=31&band_rank=48&Refer=top) 196423
 1. [北京发布大雾预警](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%8F%91%E5%B8%83%E5%A4%A7%E9%9B%BE%E9%A2%84%E8%AD%A6%23&t=31&band_rank=50&Refer=top) 196282
+1. [谁来救救陈伟霆](https://s.weibo.com/weibo?q=%E8%B0%81%E6%9D%A5%E6%95%91%E6%95%91%E9%99%88%E4%BC%9F%E9%9C%86&t=31&band_rank=21&Refer=top) 70295
+1. [删了吧有个学美术的破防了](https://s.weibo.com/weibo?q=%E5%88%A0%E4%BA%86%E5%90%A7%E6%9C%89%E4%B8%AA%E5%AD%A6%E7%BE%8E%E6%9C%AF%E7%9A%84%E7%A0%B4%E9%98%B2%E4%BA%86&t=31&band_rank=32&Refer=top) 69147
+1. [声生不息](https://s.weibo.com/weibo?q=%E5%A3%B0%E7%94%9F%E4%B8%8D%E6%81%AF&t=31&band_rank=38&Refer=top) 68579
+1. [昆明理工一学生被压榨自杀系谣言](https://s.weibo.com/weibo?q=%23%E6%98%86%E6%98%8E%E7%90%86%E5%B7%A5%E4%B8%80%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%8E%8B%E6%A6%A8%E8%87%AA%E6%9D%80%E7%B3%BB%E8%B0%A3%E8%A8%80%23&t=31&band_rank=46&Refer=top) 67732
 <!-- END -->
 
 历史归档 [./archives](./archives)
