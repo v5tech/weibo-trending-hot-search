@@ -7,11 +7,11 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-10-30 05:20:16.013706 
+最后更新时间 2025-10-30 06:21:13.111392 
 1. [Elk发文澄清](https://s.weibo.com/weibo?q=Elk%E5%8F%91%E6%96%87%E6%BE%84%E6%B8%85&t=31&band_rank=1&Refer=top) 915290
 1. [喜人奇妙夜](https://s.weibo.com/weibo?q=%E5%96%9C%E4%BA%BA%E5%A5%87%E5%A6%99%E5%A4%9C&t=31&band_rank=2&Refer=top) 603865
+1. [新毒株甲型H3N2来袭](https://s.weibo.com/weibo?q=%23%E6%96%B0%E6%AF%92%E6%A0%AA%E7%94%B2%E5%9E%8BH3N2%E6%9D%A5%E8%A2%AD%23&t=31&band_rank=4&Refer=top) 373199
 1. [中国是韩国第一大贸易伙伴国](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%98%AF%E9%9F%A9%E5%9B%BD%E7%AC%AC%E4%B8%80%E5%A4%A7%E8%B4%B8%E6%98%93%E4%BC%99%E4%BC%B4%E5%9B%BD%23&t=31&band_rank=3&Refer=top) 319856
-1. [新毒株甲型H3N2来袭](https://s.weibo.com/weibo?q=%23%E6%96%B0%E6%AF%92%E6%A0%AA%E7%94%B2%E5%9E%8BH3N2%E6%9D%A5%E8%A2%AD%23&t=31&band_rank=4&Refer=top) 319200
 1. [TTG发文道歉](https://s.weibo.com/weibo?q=%23TTG%E5%8F%91%E6%96%87%E9%81%93%E6%AD%89%23&t=31&band_rank=10&Refer=top) 317764
 1. [12306回应轮椅旅客深圳北站行路难](https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E8%BD%AE%E6%A4%85%E6%97%85%E5%AE%A2%E6%B7%B1%E5%9C%B3%E5%8C%97%E7%AB%99%E8%A1%8C%E8%B7%AF%E9%9A%BE%23&t=31&band_rank=20&Refer=top) 316310
 1. [易烊千玺跳失重狂野的探戈](https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E8%B7%B3%E5%A4%B1%E9%87%8D%E7%8B%82%E9%87%8E%E7%9A%84%E6%8E%A2%E6%88%88%23&t=31&band_rank=5&Refer=top) 314903
@@ -63,18 +63,20 @@
 1. [男子讲述在缅北被镰刀架脖铁链锁脚](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%AE%B2%E8%BF%B0%E5%9C%A8%E7%BC%85%E5%8C%97%E8%A2%AB%E9%95%B0%E5%88%80%E6%9E%B6%E8%84%96%E9%93%81%E9%93%BE%E9%94%81%E8%84%9A%23&t=31&band_rank=46&Refer=top) 196560
 1. [这和自己亲生的有什么区别](https://s.weibo.com/weibo?q=%E8%BF%99%E5%92%8C%E8%87%AA%E5%B7%B1%E4%BA%B2%E7%94%9F%E7%9A%84%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB&t=31&band_rank=48&Refer=top) 196423
 1. [北京发布大雾预警](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%8F%91%E5%B8%83%E5%A4%A7%E9%9B%BE%E9%A2%84%E8%AD%A6%23&t=31&band_rank=50&Refer=top) 196282
+1. [首尔官员回应咖啡店不接待中国游客](https://s.weibo.com/weibo?q=%23%E9%A6%96%E5%B0%94%E5%AE%98%E5%91%98%E5%9B%9E%E5%BA%94%E5%92%96%E5%95%A1%E5%BA%97%E4%B8%8D%E6%8E%A5%E5%BE%85%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%23&t=31&band_rank=49&Refer=top) 95349
 1. [谁来救救陈伟霆](https://s.weibo.com/weibo?q=%E8%B0%81%E6%9D%A5%E6%95%91%E6%95%91%E9%99%88%E4%BC%9F%E9%9C%86&t=31&band_rank=21&Refer=top) 70295
 1. [删了吧有个学美术的破防了](https://s.weibo.com/weibo?q=%E5%88%A0%E4%BA%86%E5%90%A7%E6%9C%89%E4%B8%AA%E5%AD%A6%E7%BE%8E%E6%9C%AF%E7%9A%84%E7%A0%B4%E9%98%B2%E4%BA%86&t=31&band_rank=32&Refer=top) 69147
 1. [声生不息](https://s.weibo.com/weibo?q=%E5%A3%B0%E7%94%9F%E4%B8%8D%E6%81%AF&t=31&band_rank=38&Refer=top) 68579
 1. [昆明理工一学生被压榨自杀系谣言](https://s.weibo.com/weibo?q=%23%E6%98%86%E6%98%8E%E7%90%86%E5%B7%A5%E4%B8%80%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%8E%8B%E6%A6%A8%E8%87%AA%E6%9D%80%E7%B3%BB%E8%B0%A3%E8%A8%80%23&t=31&band_rank=46&Refer=top) 67732
-1. [首尔官员回应咖啡店不接待中国游客](https://s.weibo.com/weibo?q=%23%E9%A6%96%E5%B0%94%E5%AE%98%E5%91%98%E5%9B%9E%E5%BA%94%E5%92%96%E5%95%A1%E5%BA%97%E4%B8%8D%E6%8E%A5%E5%BE%85%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%23&t=31&band_rank=49&Refer=top) 65921
 1. [刘宇宁就这个纯正江湖味儿](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E5%B0%B1%E8%BF%99%E4%B8%AA%E7%BA%AF%E6%AD%A3%E6%B1%9F%E6%B9%96%E5%91%B3%E5%84%BF%23&t=31&band_rank=24&Refer=top) 33036
 1. [欧阳娜娜VOGUE油画少女](https://s.weibo.com/weibo?q=%E6%AC%A7%E9%98%B3%E5%A8%9C%E5%A8%9CVOGUE%E6%B2%B9%E7%94%BB%E5%B0%91%E5%A5%B3&t=31&band_rank=35&Refer=top) 32960
 1. [谁给敖子逸配的狗叫](https://s.weibo.com/weibo?q=%E8%B0%81%E7%BB%99%E6%95%96%E5%AD%90%E9%80%B8%E9%85%8D%E7%9A%84%E7%8B%97%E5%8F%AB&t=31&band_rank=48&Refer=top) 32879
-1. [东航重启中印直飞航班](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E8%88%AA%E9%87%8D%E5%90%AF%E4%B8%AD%E5%8D%B0%E7%9B%B4%E9%A3%9E%E8%88%AA%E7%8F%AD%23&t=31&band_rank=45&Refer=top) 22255
+1. [市场预计美联储将再次降息](https://s.weibo.com/weibo?q=%23%E5%B8%82%E5%9C%BA%E9%A2%84%E8%AE%A1%E7%BE%8E%E8%81%94%E5%82%A8%E5%B0%86%E5%86%8D%E6%AC%A1%E9%99%8D%E6%81%AF%23&t=31&band_rank=24&Refer=top) 27255
+1. [高校男生深夜砸玻璃闯进女生宿舍楼](https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E7%94%B7%E7%94%9F%E6%B7%B1%E5%A4%9C%E7%A0%B8%E7%8E%BB%E7%92%83%E9%97%AF%E8%BF%9B%E5%A5%B3%E7%94%9F%E5%AE%BF%E8%88%8D%E6%A5%BC%23&t=31&band_rank=49&Refer=top) 25923
+1. [停火18天后以总理再启加沙战事](https://s.weibo.com/weibo?q=%23%E5%81%9C%E7%81%AB18%E5%A4%A9%E5%90%8E%E4%BB%A5%E6%80%BB%E7%90%86%E5%86%8D%E5%90%AF%E5%8A%A0%E6%B2%99%E6%88%98%E4%BA%8B%23&t=31&band_rank=41&Refer=top) 25900
+1. [东航重启中印直飞航班](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E8%88%AA%E9%87%8D%E5%90%AF%E4%B8%AD%E5%8D%B0%E7%9B%B4%E9%A3%9E%E8%88%AA%E7%8F%AD%23&t=31&band_rank=45&Refer=top) 25875
+1. [李维嘉完全是天赋型梗王](https://s.weibo.com/weibo?q=%E6%9D%8E%E7%BB%B4%E5%98%89%E5%AE%8C%E5%85%A8%E6%98%AF%E5%A4%A9%E8%B5%8B%E5%9E%8B%E6%A2%97%E7%8E%8B&t=31&band_rank=48&Refer=top) 25869
 1. [重阳是秋意最浓的一封家书](https://s.weibo.com/weibo?q=%23%E9%87%8D%E9%98%B3%E6%98%AF%E7%A7%8B%E6%84%8F%E6%9C%80%E6%B5%93%E7%9A%84%E4%B8%80%E5%B0%81%E5%AE%B6%E4%B9%A6%23&t=31&band_rank=49&Refer=top) 22230
-1. [停火18天后以总理再启加沙战事](https://s.weibo.com/weibo?q=%23%E5%81%9C%E7%81%AB18%E5%A4%A9%E5%90%8E%E4%BB%A5%E6%80%BB%E7%90%86%E5%86%8D%E5%90%AF%E5%8A%A0%E6%B2%99%E6%88%98%E4%BA%8B%23&t=31&band_rank=41&Refer=top) 19190
-1. [高校男生深夜砸玻璃闯进女生宿舍楼](https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E7%94%B7%E7%94%9F%E6%B7%B1%E5%A4%9C%E7%A0%B8%E7%8E%BB%E7%92%83%E9%97%AF%E8%BF%9B%E5%A5%B3%E7%94%9F%E5%AE%BF%E8%88%8D%E6%A5%BC%23&t=31&band_rank=49&Refer=top) 19152
 <!-- END -->
 
 历史归档 [./archives](./archives)
