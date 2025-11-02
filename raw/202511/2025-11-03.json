@@ -243,12 +243,16 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%B1%95%E8%BD%A9%E6%96%B0%E6%AD%8CDayByDay%23&t=31&band_rank=50&Refer=top",
     "hot": 27816
   },
-  "鼠鼠我啊上太空了": {
-    "url": "https://s.weibo.com/weibo?q=%23%E9%BC%A0%E9%BC%A0%E6%88%91%E5%95%8A%E4%B8%8A%E5%A4%AA%E7%A9%BA%E4%BA%86%23&t=31&band_rank=36&Refer=top",
-    "hot": 16780
+  "人生路上": {
+    "url": "https://s.weibo.com/weibo?q=%E4%BA%BA%E7%94%9F%E8%B7%AF%E4%B8%8A&t=31&band_rank=30&Refer=top",
+    "hot": 23357
   },
   "身体不适住院学生全部康复返校": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%BA%AB%E4%BD%93%E4%B8%8D%E9%80%82%E4%BD%8F%E9%99%A2%E5%AD%A6%E7%94%9F%E5%85%A8%E9%83%A8%E5%BA%B7%E5%A4%8D%E8%BF%94%E6%A0%A1%23&t=31&band_rank=49&Refer=top",
-    "hot": 16759
+    "hot": 22774
+  },
+  "鼠鼠我啊上太空了": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%BC%A0%E9%BC%A0%E6%88%91%E5%95%8A%E4%B8%8A%E5%A4%AA%E7%A9%BA%E4%BA%86%23&t=31&band_rank=36&Refer=top",
+    "hot": 16780
   }
 }
