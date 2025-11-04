@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-11-05 05:20:25.832082 
+最后更新时间 2025-11-05 06:20:40.264320 
 1. [赵丽颖新剧一种气血很足的美](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%96%B0%E5%89%A7%E4%B8%80%E7%A7%8D%E6%B0%94%E8%A1%80%E5%BE%88%E8%B6%B3%E7%9A%84%E7%BE%8E%23&t=31&band_rank=1&Refer=top) 872978
 1. [星巴克中国卖掉了](https://s.weibo.com/weibo?q=%23%E6%98%9F%E5%B7%B4%E5%85%8B%E4%B8%AD%E5%9B%BD%E5%8D%96%E6%8E%89%E4%BA%86%23&t=31&band_rank=2&Refer=top) 431593
 1. [中国机遇是因为中国的确定性](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%9C%BA%E9%81%87%E6%98%AF%E5%9B%A0%E4%B8%BA%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%A1%AE%E5%AE%9A%E6%80%A7%23&t=31&band_rank=3&Refer=top) 290300
@@ -64,20 +64,20 @@
 1. [演员狗狗大黄上台领奖](https://s.weibo.com/weibo?q=%E6%BC%94%E5%91%98%E7%8B%97%E7%8B%97%E5%A4%A7%E9%BB%84%E4%B8%8A%E5%8F%B0%E9%A2%86%E5%A5%96&t=31&band_rank=45&Refer=top) 59511
 1. [久哲离开TTG](https://s.weibo.com/weibo?q=%E4%B9%85%E5%93%B2%E7%A6%BB%E5%BC%80TTG&t=31&band_rank=48&Refer=top) 59479
 1. [这周五就立冬了](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%91%A8%E4%BA%94%E5%B0%B1%E7%AB%8B%E5%86%AC%E4%BA%86%23&t=31&band_rank=49&Refer=top) 59471
-1. [王橹杰今年是更成熟的小鬼](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A9%B9%E6%9D%B0%E4%BB%8A%E5%B9%B4%E6%98%AF%E6%9B%B4%E6%88%90%E7%86%9F%E7%9A%84%E5%B0%8F%E9%AC%BC%23&t=31&band_rank=25&Refer=top) 25499
-1. [王权富贵再次燃命](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%9D%83%E5%AF%8C%E8%B4%B5%E5%86%8D%E6%AC%A1%E7%87%83%E5%91%BD&t=31&band_rank=44&Refer=top) 25077
-1. [南京大屠杀遇难同胞纪念馆闭馆通告](https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%B1%A0%E6%9D%80%E9%81%87%E9%9A%BE%E5%90%8C%E8%83%9E%E7%BA%AA%E5%BF%B5%E9%A6%86%E9%97%AD%E9%A6%86%E9%80%9A%E5%91%8A%23&t=31&band_rank=31&Refer=top) 25077
-1. [霉霉和GigiHadid外出就餐街拍](https://s.weibo.com/weibo?q=%E9%9C%89%E9%9C%89%E5%92%8CGigiHadid%E5%A4%96%E5%87%BA%E5%B0%B1%E9%A4%90%E8%A1%97%E6%8B%8D&t=31&band_rank=32&Refer=top) 25075
-1. [金饰清洗多少损耗属于正常范围](https://s.weibo.com/weibo?q=%23%E9%87%91%E9%A5%B0%E6%B8%85%E6%B4%97%E5%A4%9A%E5%B0%91%E6%8D%9F%E8%80%97%E5%B1%9E%E4%BA%8E%E6%AD%A3%E5%B8%B8%E8%8C%83%E5%9B%B4%23&t=31&band_rank=44&Refer=top) 25059
+1. [南京大屠杀遇难同胞纪念馆闭馆通告](https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%B1%A0%E6%9D%80%E9%81%87%E9%9A%BE%E5%90%8C%E8%83%9E%E7%BA%AA%E5%BF%B5%E9%A6%86%E9%97%AD%E9%A6%86%E9%80%9A%E5%91%8A%23&t=31&band_rank=31&Refer=top) 26969
+1. [霉霉和GigiHadid外出就餐街拍](https://s.weibo.com/weibo?q=%E9%9C%89%E9%9C%89%E5%92%8CGigiHadid%E5%A4%96%E5%87%BA%E5%B0%B1%E9%A4%90%E8%A1%97%E6%8B%8D&t=31&band_rank=32&Refer=top) 26965
+1. [多方回应大学生回乡参加婚礼坠坝身亡](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9B%9E%E4%B9%A1%E5%8F%82%E5%8A%A0%E5%A9%9A%E7%A4%BC%E5%9D%A0%E5%9D%9D%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=42&Refer=top) 26946
+1. [王权富贵再次燃命](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%9D%83%E5%AF%8C%E8%B4%B5%E5%86%8D%E6%AC%A1%E7%87%83%E5%91%BD&t=31&band_rank=44&Refer=top) 26920
+1. [原来这就是100大卡的概念](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E8%BF%99%E5%B0%B1%E6%98%AF100%E5%A4%A7%E5%8D%A1%E7%9A%84%E6%A6%82%E5%BF%B5&t=31&band_rank=47&Refer=top) 26900
+1. [金饰清洗多少损耗属于正常范围](https://s.weibo.com/weibo?q=%23%E9%87%91%E9%A5%B0%E6%B8%85%E6%B4%97%E5%A4%9A%E5%B0%91%E6%8D%9F%E8%80%97%E5%B1%9E%E4%BA%8E%E6%AD%A3%E5%B8%B8%E8%8C%83%E5%9B%B4%23&t=31&band_rank=44&Refer=top) 26888
+1. [王橹杰今年是更成熟的小鬼](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A9%B9%E6%9D%B0%E4%BB%8A%E5%B9%B4%E6%98%AF%E6%9B%B4%E6%88%90%E7%86%9F%E7%9A%84%E5%B0%8F%E9%AC%BC%23&t=31&band_rank=25&Refer=top) 26862
 1. [翟子路敖瑞鹏合照](https://s.weibo.com/weibo?q=%23%E7%BF%9F%E5%AD%90%E8%B7%AF%E6%95%96%E7%91%9E%E9%B9%8F%E5%90%88%E7%85%A7%23&t=31&band_rank=47&Refer=top) 25053
 1. [秋招会工资写0到1000元医院致歉](https://s.weibo.com/weibo?q=%23%E7%A7%8B%E6%8B%9B%E4%BC%9A%E5%B7%A5%E8%B5%84%E5%86%990%E5%88%B01000%E5%85%83%E5%8C%BB%E9%99%A2%E8%87%B4%E6%AD%89%23&t=31&band_rank=49&Refer=top) 25050
 1. [丁禹兮原声真的很有力量感](https://s.weibo.com/weibo?q=%E4%B8%81%E7%A6%B9%E5%85%AE%E5%8E%9F%E5%A3%B0%E7%9C%9F%E7%9A%84%E5%BE%88%E6%9C%89%E5%8A%9B%E9%87%8F%E6%84%9F&t=31&band_rank=46&Refer=top) 22971
 1. [没有完美的性格](https://s.weibo.com/weibo?q=%E6%B2%A1%E6%9C%89%E5%AE%8C%E7%BE%8E%E7%9A%84%E6%80%A7%E6%A0%BC&t=31&band_rank=25&Refer=top) 18063
 1. [陈浚铭可爱鬼九宫格](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%B5%9A%E9%93%AD%E5%8F%AF%E7%88%B1%E9%AC%BC%E4%B9%9D%E5%AE%AB%E6%A0%BC%23&t=31&band_rank=39&Refer=top) 18021
 1. [张新成发库存照片](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%96%B0%E6%88%90%E5%8F%91%E5%BA%93%E5%AD%98%E7%85%A7%E7%89%87&t=31&band_rank=47&Refer=top) 17996
-1. [多方回应大学生回乡参加婚礼坠坝身亡](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9B%9E%E4%B9%A1%E5%8F%82%E5%8A%A0%E5%A9%9A%E7%A4%BC%E5%9D%A0%E5%9D%9D%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=42&Refer=top) 13805
 1. [和秋冬最适配的编发](https://s.weibo.com/weibo?q=%23%E5%92%8C%E7%A7%8B%E5%86%AC%E6%9C%80%E9%80%82%E9%85%8D%E7%9A%84%E7%BC%96%E5%8F%91%23&t=31&band_rank=45&Refer=top) 13804
-1. [原来这就是100大卡的概念](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E8%BF%99%E5%B0%B1%E6%98%AF100%E5%A4%A7%E5%8D%A1%E7%9A%84%E6%A6%82%E5%BF%B5&t=31&band_rank=47&Refer=top) 13804
 <!-- END -->
 
 历史归档 [./archives](./archives)
