@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-11-06 03:18:43.099827 
+最后更新时间 2025-11-06 04:25:57.690563 
 1. [央视披露户晨风封号详情](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%8A%AB%E9%9C%B2%E6%88%B7%E6%99%A8%E9%A3%8E%E5%B0%81%E5%8F%B7%E8%AF%A6%E6%83%85%23&t=31&band_rank=1&Refer=top) 843551
 1. [王传君东京电影节影帝](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BC%A0%E5%90%9B%E4%B8%9C%E4%BA%AC%E7%94%B5%E5%BD%B1%E8%8A%82%E5%BD%B1%E5%B8%9D%23&t=31&band_rank=2&Refer=top) 473992
 1. [一人一句为全运健儿加油](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%BA%BA%E4%B8%80%E5%8F%A5%E4%B8%BA%E5%85%A8%E8%BF%90%E5%81%A5%E5%84%BF%E5%8A%A0%E6%B2%B9%23&t=31&band_rank=3&Refer=top) 325560
@@ -70,7 +70,9 @@
 1. [张馨予 不太懂现在的新闻](https://s.weibo.com/weibo?q=%E5%BC%A0%E9%A6%A8%E4%BA%88%20%E4%B8%8D%E5%A4%AA%E6%87%82%E7%8E%B0%E5%9C%A8%E7%9A%84%E6%96%B0%E9%97%BB&t=31&band_rank=44&Refer=top) 40250
 1. [易烊千玺在更大的舞台上见面](https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%9C%A8%E6%9B%B4%E5%A4%A7%E7%9A%84%E8%88%9E%E5%8F%B0%E4%B8%8A%E8%A7%81%E9%9D%A2%23&t=31&band_rank=48&Refer=top) 40192
 1. [2026年国庆拼假能休17天](https://s.weibo.com/weibo?q=%232026%E5%B9%B4%E5%9B%BD%E5%BA%86%E6%8B%BC%E5%81%87%E8%83%BD%E4%BC%9117%E5%A4%A9%23&t=31&band_rank=49&Refer=top) 40170
+1. [iPhone闹钟被低估的仪式感](https://s.weibo.com/weibo?q=iPhone%E9%97%B9%E9%92%9F%E8%A2%AB%E4%BD%8E%E4%BC%B0%E7%9A%84%E4%BB%AA%E5%BC%8F%E6%84%9F&t=31&band_rank=4&Refer=top) 34023
 1. [程潇中传线下活动](https://s.weibo.com/weibo?q=%E7%A8%8B%E6%BD%87%E4%B8%AD%E4%BC%A0%E7%BA%BF%E4%B8%8B%E6%B4%BB%E5%8A%A8&t=31&band_rank=47&Refer=top) 25215
+1. [王传君获奖表情](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BC%A0%E5%90%9B%E8%8E%B7%E5%A5%96%E8%A1%A8%E6%83%85%23&t=31&band_rank=12&Refer=top) 23174
 <!-- END -->
 
 历史归档 [./archives](./archives)
