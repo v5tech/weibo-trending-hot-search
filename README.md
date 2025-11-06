@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-11-07 04:25:20.128751 
+最后更新时间 2025-11-07 05:20:09.891810 
 1. [中国愿意帮助印度](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%84%BF%E6%84%8F%E5%B8%AE%E5%8A%A9%E5%8D%B0%E5%BA%A6%23&t=31&band_rank=1&Refer=top) 817322
 1. [张泽禹 声生不息](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%B3%BD%E7%A6%B9%20%E5%A3%B0%E7%94%9F%E4%B8%8D%E6%81%AF&t=31&band_rank=2&Refer=top) 466925
 1. [2025乌镇峰会](https://s.weibo.com/weibo?q=%232025%E4%B9%8C%E9%95%87%E5%B3%B0%E4%BC%9A%23&t=31&band_rank=3&Refer=top) 200973
@@ -71,6 +71,8 @@
 1. [韩警方回应网红造谣中国人杀韩国人](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BD%91%E7%BA%A2%E9%80%A0%E8%B0%A3%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9D%80%E9%9F%A9%E5%9B%BD%E4%BA%BA%23&t=31&band_rank=35&Refer=top) 32696
 1. [两名老师校外从学生包中搜走零食](https://s.weibo.com/weibo?q=%23%E4%B8%A4%E5%90%8D%E8%80%81%E5%B8%88%E6%A0%A1%E5%A4%96%E4%BB%8E%E5%AD%A6%E7%94%9F%E5%8C%85%E4%B8%AD%E6%90%9C%E8%B5%B0%E9%9B%B6%E9%A3%9F%23&t=31&band_rank=36&Refer=top) 25742
 1. [张馨予用0秒接受了自己是布偶猫](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%A6%A8%E4%BA%88%E7%94%A80%E7%A7%92%E6%8E%A5%E5%8F%97%E4%BA%86%E8%87%AA%E5%B7%B1%E6%98%AF%E5%B8%83%E5%81%B6%E7%8C%AB%23&t=31&band_rank=48&Refer=top) 25742
+1. [抖音回应温峥嵘被AI盗播](https://s.weibo.com/weibo?q=%23%E6%8A%96%E9%9F%B3%E5%9B%9E%E5%BA%94%E6%B8%A9%E5%B3%A5%E5%B5%98%E8%A2%ABAI%E7%9B%97%E6%92%AD%23&t=31&band_rank=33&Refer=top) 16110
+1. [沈腾遇上范丞丞胡先煦完全没招了](https://s.weibo.com/weibo?q=%E6%B2%88%E8%85%BE%E9%81%87%E4%B8%8A%E8%8C%83%E4%B8%9E%E4%B8%9E%E8%83%A1%E5%85%88%E7%85%A6%E5%AE%8C%E5%85%A8%E6%B2%A1%E6%8B%9B%E4%BA%86&t=31&band_rank=45&Refer=top) 16099
 <!-- END -->
 
 历史归档 [./archives](./archives)
