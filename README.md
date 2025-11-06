@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-11-07 02:33:05.710245 
+最后更新时间 2025-11-07 03:17:59.618543 
 1. [中国愿意帮助印度](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%84%BF%E6%84%8F%E5%B8%AE%E5%8A%A9%E5%8D%B0%E5%BA%A6%23&t=31&band_rank=1&Refer=top) 817322
 1. [张泽禹 声生不息](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%B3%BD%E7%A6%B9%20%E5%A3%B0%E7%94%9F%E4%B8%8D%E6%81%AF&t=31&band_rank=2&Refer=top) 466925
 1. [2025乌镇峰会](https://s.weibo.com/weibo?q=%232025%E4%B9%8C%E9%95%87%E5%B3%B0%E4%BC%9A%23&t=31&band_rank=3&Refer=top) 200973
@@ -67,6 +67,8 @@
 1. [中方回应日本政府向谢长廷授勋](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E6%94%BF%E5%BA%9C%E5%90%91%E8%B0%A2%E9%95%BF%E5%BB%B7%E6%8E%88%E5%8B%8B%23&t=31&band_rank=35&Refer=top) 35560
 1. [景甜张彬彬朱迪尼克](https://s.weibo.com/weibo?q=%23%E6%99%AF%E7%94%9C%E5%BC%A0%E5%BD%AC%E5%BD%AC%E6%9C%B1%E8%BF%AA%E5%B0%BC%E5%85%8B%23&t=31&band_rank=40&Refer=top) 35489
 1. [美总统十秒道破美国外交政策本质](https://s.weibo.com/weibo?q=%E7%BE%8E%E6%80%BB%E7%BB%9F%E5%8D%81%E7%A7%92%E9%81%93%E7%A0%B4%E7%BE%8E%E5%9B%BD%E5%A4%96%E4%BA%A4%E6%94%BF%E7%AD%96%E6%9C%AC%E8%B4%A8&t=31&band_rank=45&Refer=top) 35411
+1. [白百何说导演隐身](https://s.weibo.com/weibo?q=%23%E7%99%BD%E7%99%BE%E4%BD%95%E8%AF%B4%E5%AF%BC%E6%BC%94%E9%9A%90%E8%BA%AB%23&t=31&band_rank=20&Refer=top) 34432
+1. [韩警方回应网红造谣中国人杀韩国人](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BD%91%E7%BA%A2%E9%80%A0%E8%B0%A3%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9D%80%E9%9F%A9%E5%9B%BD%E4%BA%BA%23&t=31&band_rank=35&Refer=top) 32696
 <!-- END -->
 
 历史归档 [./archives](./archives)
