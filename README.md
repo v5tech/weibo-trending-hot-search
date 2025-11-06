@@ -7,8 +7,9 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-11-07 06:21:18.352165 
+最后更新时间 2025-11-07 07:20:24.709350 
 1. [中国愿意帮助印度](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%84%BF%E6%84%8F%E5%B8%AE%E5%8A%A9%E5%8D%B0%E5%BA%A6%23&t=31&band_rank=1&Refer=top) 817322
+1. [立冬](https://s.weibo.com/weibo?q=%E7%AB%8B%E5%86%AC&t=31&band_rank=1&Refer=top) 755411
 1. [张泽禹 声生不息](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%B3%BD%E7%A6%B9%20%E5%A3%B0%E7%94%9F%E4%B8%8D%E6%81%AF&t=31&band_rank=2&Refer=top) 466925
 1. [王鹤棣孟子义首搭](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%AD%9F%E5%AD%90%E4%B9%89%E9%A6%96%E6%90%AD%23&t=31&band_rank=23&Refer=top) 351342
 1. [2025乌镇峰会](https://s.weibo.com/weibo?q=%232025%E4%B9%8C%E9%95%87%E5%B3%B0%E4%BC%9A%23&t=31&band_rank=3&Refer=top) 200973
@@ -64,13 +65,16 @@
 1. [朋友圈全员92是什么概念](https://s.weibo.com/weibo?q=%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%85%A8%E5%91%9892%E6%98%AF%E4%BB%80%E4%B9%88%E6%A6%82%E5%BF%B5&t=31&band_rank=48&Refer=top) 88960
 1. [全运会你最想看哪项比赛](https://s.weibo.com/weibo?q=%23%E5%85%A8%E8%BF%90%E4%BC%9A%E4%BD%A0%E6%9C%80%E6%83%B3%E7%9C%8B%E5%93%AA%E9%A1%B9%E6%AF%94%E8%B5%9B%23&t=31&band_rank=49&Refer=top) 88930
 1. [今年都有谁有效播剧了](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E9%83%BD%E6%9C%89%E8%B0%81%E6%9C%89%E6%95%88%E6%92%AD%E5%89%A7%E4%BA%86%23&t=31&band_rank=50&Refer=top) 88897
-1. [中方回应日本政府向谢长廷授勋](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E6%94%BF%E5%BA%9C%E5%90%91%E8%B0%A2%E9%95%BF%E5%BB%B7%E6%8E%88%E5%8B%8B%23&t=31&band_rank=35&Refer=top) 35560
+1. [抖音回应温峥嵘被AI盗播](https://s.weibo.com/weibo?q=%23%E6%8A%96%E9%9F%B3%E5%9B%9E%E5%BA%94%E6%B8%A9%E5%B3%A5%E5%B5%98%E8%A2%ABAI%E7%9B%97%E6%92%AD%23&t=31&band_rank=33&Refer=top) 76598
+1. [长期睡眠每天少于六小时的危险](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E7%9D%A1%E7%9C%A0%E6%AF%8F%E5%A4%A9%E5%B0%91%E4%BA%8E%E5%85%AD%E5%B0%8F%E6%97%B6%E7%9A%84%E5%8D%B1%E9%99%A9%23&t=31&band_rank=21&Refer=top) 75211
+1. [10亿播放量歌手上音综被淘汰](https://s.weibo.com/weibo?q=10%E4%BA%BF%E6%92%AD%E6%94%BE%E9%87%8F%E6%AD%8C%E6%89%8B%E4%B8%8A%E9%9F%B3%E7%BB%BC%E8%A2%AB%E6%B7%98%E6%B1%B0&t=31&band_rank=27&Refer=top) 65801
+1. [立冬文案](https://s.weibo.com/weibo?q=%E7%AB%8B%E5%86%AC%E6%96%87%E6%A1%88&t=31&band_rank=32&Refer=top) 63442
+1. [两名老师校外从学生包中搜走零食](https://s.weibo.com/weibo?q=%23%E4%B8%A4%E5%90%8D%E8%80%81%E5%B8%88%E6%A0%A1%E5%A4%96%E4%BB%8E%E5%AD%A6%E7%94%9F%E5%8C%85%E4%B8%AD%E6%90%9C%E8%B5%B0%E9%9B%B6%E9%A3%9F%23&t=31&band_rank=36&Refer=top) 50438
+1. [中方回应日本政府向谢长廷授勋](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E6%94%BF%E5%BA%9C%E5%90%91%E8%B0%A2%E9%95%BF%E5%BB%B7%E6%8E%88%E5%8B%8B%23&t=31&band_rank=35&Refer=top) 46729
+1. [美总统十秒道破美国外交政策本质](https://s.weibo.com/weibo?q=%E7%BE%8E%E6%80%BB%E7%BB%9F%E5%8D%81%E7%A7%92%E9%81%93%E7%A0%B4%E7%BE%8E%E5%9B%BD%E5%A4%96%E4%BA%A4%E6%94%BF%E7%AD%96%E6%9C%AC%E8%B4%A8&t=31&band_rank=45&Refer=top) 46725
+1. [韩警方回应网红造谣中国人杀韩国人](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BD%91%E7%BA%A2%E9%80%A0%E8%B0%A3%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9D%80%E9%9F%A9%E5%9B%BD%E4%BA%BA%23&t=31&band_rank=35&Refer=top) 46704
 1. [景甜张彬彬朱迪尼克](https://s.weibo.com/weibo?q=%23%E6%99%AF%E7%94%9C%E5%BC%A0%E5%BD%AC%E5%BD%AC%E6%9C%B1%E8%BF%AA%E5%B0%BC%E5%85%8B%23&t=31&band_rank=40&Refer=top) 35489
-1. [美总统十秒道破美国外交政策本质](https://s.weibo.com/weibo?q=%E7%BE%8E%E6%80%BB%E7%BB%9F%E5%8D%81%E7%A7%92%E9%81%93%E7%A0%B4%E7%BE%8E%E5%9B%BD%E5%A4%96%E4%BA%A4%E6%94%BF%E7%AD%96%E6%9C%AC%E8%B4%A8&t=31&band_rank=45&Refer=top) 35411
 1. [白百何说导演隐身](https://s.weibo.com/weibo?q=%23%E7%99%BD%E7%99%BE%E4%BD%95%E8%AF%B4%E5%AF%BC%E6%BC%94%E9%9A%90%E8%BA%AB%23&t=31&band_rank=20&Refer=top) 34432
-1. [韩警方回应网红造谣中国人杀韩国人](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BD%91%E7%BA%A2%E9%80%A0%E8%B0%A3%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%9D%80%E9%9F%A9%E5%9B%BD%E4%BA%BA%23&t=31&band_rank=35&Refer=top) 32696
-1. [抖音回应温峥嵘被AI盗播](https://s.weibo.com/weibo?q=%23%E6%8A%96%E9%9F%B3%E5%9B%9E%E5%BA%94%E6%B8%A9%E5%B3%A5%E5%B5%98%E8%A2%ABAI%E7%9B%97%E6%92%AD%23&t=31&band_rank=33&Refer=top) 30701
-1. [两名老师校外从学生包中搜走零食](https://s.weibo.com/weibo?q=%23%E4%B8%A4%E5%90%8D%E8%80%81%E5%B8%88%E6%A0%A1%E5%A4%96%E4%BB%8E%E5%AD%A6%E7%94%9F%E5%8C%85%E4%B8%AD%E6%90%9C%E8%B5%B0%E9%9B%B6%E9%A3%9F%23&t=31&band_rank=36&Refer=top) 25742
 1. [张馨予用0秒接受了自己是布偶猫](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%A6%A8%E4%BA%88%E7%94%A80%E7%A7%92%E6%8E%A5%E5%8F%97%E4%BA%86%E8%87%AA%E5%B7%B1%E6%98%AF%E5%B8%83%E5%81%B6%E7%8C%AB%23&t=31&band_rank=48&Refer=top) 25742
 1. [沈腾遇上范丞丞胡先煦完全没招了](https://s.weibo.com/weibo?q=%E6%B2%88%E8%85%BE%E9%81%87%E4%B8%8A%E8%8C%83%E4%B8%9E%E4%B8%9E%E8%83%A1%E5%85%88%E7%85%A6%E5%AE%8C%E5%85%A8%E6%B2%A1%E6%8B%9B%E4%BA%86&t=31&band_rank=45&Refer=top) 25492
 <!-- END -->
