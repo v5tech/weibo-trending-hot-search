@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-11-08 04:22:12.581542 
+最后更新时间 2025-11-08 05:16:17.524459 
 1. [天选谢景行沈娇娇](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E9%80%89%E8%B0%A2%E6%99%AF%E8%A1%8C%E6%B2%88%E5%A8%87%E5%A8%87%23&t=31&band_rank=1&Refer=top) 947155
 1. [人民网评人民咖啡馆不妥](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E4%BA%BA%E6%B0%91%E5%92%96%E5%95%A1%E9%A6%86%E4%B8%8D%E5%A6%A5%23&t=31&band_rank=2&Refer=top) 429128
 1. [格莱美](https://s.weibo.com/weibo?q=%E6%A0%BC%E8%8E%B1%E7%BE%8E&t=31&band_rank=4&Refer=top) 248287
@@ -75,6 +75,8 @@
 1. [蔡徐坤新歌上线时间](https://s.weibo.com/weibo?q=%E8%94%A1%E5%BE%90%E5%9D%A4%E6%96%B0%E6%AD%8C%E4%B8%8A%E7%BA%BF%E6%97%B6%E9%97%B4&t=31&band_rank=37&Refer=top) 30615
 1. [乐华娱乐再度大跌](https://s.weibo.com/weibo?q=%23%E4%B9%90%E5%8D%8E%E5%A8%B1%E4%B9%90%E5%86%8D%E5%BA%A6%E5%A4%A7%E8%B7%8C%23&t=31&band_rank=29&Refer=top) 19294
 1. [CV吴磊声明回应起诉](https://s.weibo.com/weibo?q=%23CV%E5%90%B4%E7%A3%8A%E5%A3%B0%E6%98%8E%E5%9B%9E%E5%BA%94%E8%B5%B7%E8%AF%89%23&t=31&band_rank=33&Refer=top) 18251
+1. [特朗普改口承认美国民众在为关税买单](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%B9%E5%8F%A3%E6%89%BF%E8%AE%A4%E7%BE%8E%E5%9B%BD%E6%B0%91%E4%BC%97%E5%9C%A8%E4%B8%BA%E5%85%B3%E7%A8%8E%E4%B9%B0%E5%8D%95%23&t=31&band_rank=32&Refer=top) 17109
+1. [罗云熙让智性恋爽了](https://s.weibo.com/weibo?q=%E7%BD%97%E4%BA%91%E7%86%99%E8%AE%A9%E6%99%BA%E6%80%A7%E6%81%8B%E7%88%BD%E4%BA%86&t=31&band_rank=50&Refer=top) 16728
 <!-- END -->
 
 历史归档 [./archives](./archives)
