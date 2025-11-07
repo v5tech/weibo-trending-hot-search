@@ -7,12 +7,13 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-11-08 01:19:36.639655 
+最后更新时间 2025-11-08 02:31:01.299065 
 1. [天选谢景行沈娇娇](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E9%80%89%E8%B0%A2%E6%99%AF%E8%A1%8C%E6%B2%88%E5%A8%87%E5%A8%87%23&t=31&band_rank=1&Refer=top) 947155
 1. [人民网评人民咖啡馆不妥](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E4%BA%BA%E6%B0%91%E5%92%96%E5%95%A1%E9%A6%86%E4%B8%8D%E5%A6%A5%23&t=31&band_rank=2&Refer=top) 429128
+1. [格莱美](https://s.weibo.com/weibo?q=%E6%A0%BC%E8%8E%B1%E7%BE%8E&t=31&band_rank=4&Refer=top) 248287
 1. [全运会你最想看哪项比赛](https://s.weibo.com/weibo?q=%23%E5%85%A8%E8%BF%90%E4%BC%9A%E4%BD%A0%E6%9C%80%E6%83%B3%E7%9C%8B%E5%93%AA%E9%A1%B9%E6%AF%94%E8%B5%9B%23&t=31&band_rank=3&Refer=top) 237332
 1. [四喜37分钟收视率破3](https://s.weibo.com/weibo?q=%E5%9B%9B%E5%96%9C37%E5%88%86%E9%92%9F%E6%94%B6%E8%A7%86%E7%8E%87%E7%A0%B43&t=31&band_rank=4&Refer=top) 231518
-1. [专家称DNA证实康熙为努尔哈赤支系](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0DNA%E8%AF%81%E5%AE%9E%E5%BA%B7%E7%86%99%E4%B8%BA%E5%8A%AA%E5%B0%94%E5%93%88%E8%B5%A4%E6%94%AF%E7%B3%BB%23&t=31&band_rank=2&Refer=top) 220508
+1. [专家称DNA证实康熙为努尔哈赤支系](https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0DNA%E8%AF%81%E5%AE%9E%E5%BA%B7%E7%86%99%E4%B8%BA%E5%8A%AA%E5%B0%94%E5%93%88%E8%B5%A4%E6%94%AF%E7%B3%BB%23&t=31&band_rank=2&Refer=top) 227496
 1. [iPhone18系列10大升级](https://s.weibo.com/weibo?q=%23iPhone18%E7%B3%BB%E5%88%9710%E5%A4%A7%E5%8D%87%E7%BA%A7%23&t=31&band_rank=5&Refer=top) 219915
 1. [空腹爬楼瘦了25斤](https://s.weibo.com/weibo?q=%E7%A9%BA%E8%85%B9%E7%88%AC%E6%A5%BC%E7%98%A6%E4%BA%8625%E6%96%A4&t=31&band_rank=6&Refer=top) 217133
 1. [天国的嫁衣](https://s.weibo.com/weibo?q=%E5%A4%A9%E5%9B%BD%E7%9A%84%E5%AB%81%E8%A1%A3&t=31&band_rank=7&Refer=top) 216003
@@ -26,7 +27,6 @@
 1. [米哈游 大丽花](https://s.weibo.com/weibo?q=%E7%B1%B3%E5%93%88%E6%B8%B8%20%E5%A4%A7%E4%B8%BD%E8%8A%B1&t=31&band_rank=15&Refer=top) 187451
 1. [再见爱人5保险事变](https://s.weibo.com/weibo?q=%23%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA5%E4%BF%9D%E9%99%A9%E4%BA%8B%E5%8F%98%23&t=31&band_rank=16&Refer=top) 170904
 1. [梅婷最讨厌的演员行为](https://s.weibo.com/weibo?q=%E6%A2%85%E5%A9%B7%E6%9C%80%E8%AE%A8%E5%8E%8C%E7%9A%84%E6%BC%94%E5%91%98%E8%A1%8C%E4%B8%BA&t=31&band_rank=17&Refer=top) 170637
-1. [格莱美](https://s.weibo.com/weibo?q=%E6%A0%BC%E8%8E%B1%E7%BE%8E&t=31&band_rank=4&Refer=top) 168474
 1. [白鹿姜雪宁](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E5%A7%9C%E9%9B%AA%E5%AE%81%23&t=31&band_rank=18&Refer=top) 162781
 1. [沙僧扮演者刘大刚病逝](https://s.weibo.com/weibo?q=%23%E6%B2%99%E5%83%A7%E6%89%AE%E6%BC%94%E8%80%85%E5%88%98%E5%A4%A7%E5%88%9A%E7%97%85%E9%80%9D%23&t=31&band_rank=19&Refer=top) 146947
 1. [婴儿头朝下摔落瞬间被顾客接住](https://s.weibo.com/weibo?q=%23%E5%A9%B4%E5%84%BF%E5%A4%B4%E6%9C%9D%E4%B8%8B%E6%91%94%E8%90%BD%E7%9E%AC%E9%97%B4%E8%A2%AB%E9%A1%BE%E5%AE%A2%E6%8E%A5%E4%BD%8F%23&t=31&band_rank=20&Refer=top) 126577
@@ -61,11 +61,15 @@
 1. [赵今麦直播](https://s.weibo.com/weibo?q=%E8%B5%B5%E4%BB%8A%E9%BA%A6%E7%9B%B4%E6%92%AD&t=31&band_rank=49&Refer=top) 73726
 1. [中国扇耳光大赛选手仍在治疗](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%89%87%E8%80%B3%E5%85%89%E5%A4%A7%E8%B5%9B%E9%80%89%E6%89%8B%E4%BB%8D%E5%9C%A8%E6%B2%BB%E7%96%97%23&t=31&band_rank=50&Refer=top) 73710
 1. [挑战16个烫嘴生僻字](https://s.weibo.com/weibo?q=%23%E6%8C%91%E6%88%9816%E4%B8%AA%E7%83%AB%E5%98%B4%E7%94%9F%E5%83%BB%E5%AD%97%23&t=31&band_rank=40&Refer=top) 52848
-1. [猪八戒扮演者回应刘大刚去世](https://s.weibo.com/weibo?q=%23%E7%8C%AA%E5%85%AB%E6%88%92%E6%89%AE%E6%BC%94%E8%80%85%E5%9B%9E%E5%BA%94%E5%88%98%E5%A4%A7%E5%88%9A%E5%8E%BB%E4%B8%96%23&t=31&band_rank=42&Refer=top) 50012
+1. [罗小黑新周边](https://s.weibo.com/weibo?q=%E7%BD%97%E5%B0%8F%E9%BB%91%E6%96%B0%E5%91%A8%E8%BE%B9&t=31&band_rank=37&Refer=top) 52716
+1. [猪八戒扮演者回应刘大刚去世](https://s.weibo.com/weibo?q=%23%E7%8C%AA%E5%85%AB%E6%88%92%E6%89%AE%E6%BC%94%E8%80%85%E5%9B%9E%E5%BA%94%E5%88%98%E5%A4%A7%E5%88%9A%E5%8E%BB%E4%B8%96%23&t=31&band_rank=42&Refer=top) 52713
+1. [周深新歌是睡前摇篮曲吧](https://s.weibo.com/weibo?q=%E5%91%A8%E6%B7%B1%E6%96%B0%E6%AD%8C%E6%98%AF%E7%9D%A1%E5%89%8D%E6%91%87%E7%AF%AE%E6%9B%B2%E5%90%A7&t=31&band_rank=45&Refer=top) 52703
+1. [林志玲说好想念被小S骂](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%97%E7%8E%B2%E8%AF%B4%E5%A5%BD%E6%83%B3%E5%BF%B5%E8%A2%AB%E5%B0%8FS%E9%AA%82%23&t=31&band_rank=48&Refer=top) 52700
+1. [冬天的至高享受](https://s.weibo.com/weibo?q=%E5%86%AC%E5%A4%A9%E7%9A%84%E8%87%B3%E9%AB%98%E4%BA%AB%E5%8F%97&t=31&band_rank=46&Refer=top) 52700
+1. [她用一块五花肉做了满汉全席](https://s.weibo.com/weibo?q=%E5%A5%B9%E7%94%A8%E4%B8%80%E5%9D%97%E4%BA%94%E8%8A%B1%E8%82%89%E5%81%9A%E4%BA%86%E6%BB%A1%E6%B1%89%E5%85%A8%E5%B8%AD&t=31&band_rank=49&Refer=top) 52694
+1. [张本智和止步十六强](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E6%AD%A2%E6%AD%A5%E5%8D%81%E5%85%AD%E5%BC%BA%23&t=31&band_rank=50&Refer=top) 52692
 1. [周深风车造型](https://s.weibo.com/weibo?q=%E5%91%A8%E6%B7%B1%E9%A3%8E%E8%BD%A6%E9%80%A0%E5%9E%8B&t=31&band_rank=43&Refer=top) 50011
-1. [林志玲说好想念被小S骂](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%97%E7%8E%B2%E8%AF%B4%E5%A5%BD%E6%83%B3%E5%BF%B5%E8%A2%AB%E5%B0%8FS%E9%AA%82%23&t=31&band_rank=48&Refer=top) 50008
 1. [山河枕](https://s.weibo.com/weibo?q=%E5%B1%B1%E6%B2%B3%E6%9E%95&t=31&band_rank=49&Refer=top) 50008
-1. [张本智和止步十六强](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E6%AD%A2%E6%AD%A5%E5%8D%81%E5%85%AD%E5%BC%BA%23&t=31&band_rank=50&Refer=top) 50007
 <!-- END -->
 
 历史归档 [./archives](./archives)
