@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-11-08 02:31:01.299065 
+最后更新时间 2025-11-08 03:18:19.124104 
 1. [天选谢景行沈娇娇](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E9%80%89%E8%B0%A2%E6%99%AF%E8%A1%8C%E6%B2%88%E5%A8%87%E5%A8%87%23&t=31&band_rank=1&Refer=top) 947155
 1. [人民网评人民咖啡馆不妥](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E4%BA%BA%E6%B0%91%E5%92%96%E5%95%A1%E9%A6%86%E4%B8%8D%E5%A6%A5%23&t=31&band_rank=2&Refer=top) 429128
 1. [格莱美](https://s.weibo.com/weibo?q=%E6%A0%BC%E8%8E%B1%E7%BE%8E&t=31&band_rank=4&Refer=top) 248287
@@ -70,6 +70,9 @@
 1. [张本智和止步十六强](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E6%AD%A2%E6%AD%A5%E5%8D%81%E5%85%AD%E5%BC%BA%23&t=31&band_rank=50&Refer=top) 52692
 1. [周深风车造型](https://s.weibo.com/weibo?q=%E5%91%A8%E6%B7%B1%E9%A3%8E%E8%BD%A6%E9%80%A0%E5%9E%8B&t=31&band_rank=43&Refer=top) 50011
 1. [山河枕](https://s.weibo.com/weibo?q=%E5%B1%B1%E6%B2%B3%E6%9E%95&t=31&band_rank=49&Refer=top) 50008
+1. [日本熊灾 猎人](https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E7%86%8A%E7%81%BE%20%E7%8C%8E%E4%BA%BA&t=31&band_rank=8&Refer=top) 35247
+1. [雷军身家368亿美元超越马云](https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E8%BA%AB%E5%AE%B6368%E4%BA%BF%E7%BE%8E%E5%85%83%E8%B6%85%E8%B6%8A%E9%A9%AC%E4%BA%91%23&t=31&band_rank=31&Refer=top) 30624
+1. [蔡徐坤新歌上线时间](https://s.weibo.com/weibo?q=%E8%94%A1%E5%BE%90%E5%9D%A4%E6%96%B0%E6%AD%8C%E4%B8%8A%E7%BA%BF%E6%97%B6%E9%97%B4&t=31&band_rank=37&Refer=top) 30615
 <!-- END -->
 
 历史归档 [./archives](./archives)
