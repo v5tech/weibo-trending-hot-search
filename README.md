@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-11-10 01:17:15.353908 
+最后更新时间 2025-11-10 02:28:01.430089 
 1. [第一次见何炅主持结巴](https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E4%BD%95%E7%82%85%E4%B8%BB%E6%8C%81%E7%BB%93%E5%B7%B4&t=31&band_rank=1&Refer=top) 1568395
 1. [上上谦仅剩上海1家门店](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E4%B8%8A%E8%B0%A6%E4%BB%85%E5%89%A9%E4%B8%8A%E6%B5%B71%E5%AE%B6%E9%97%A8%E5%BA%97%23&t=31&band_rank=22&Refer=top) 363262
 1. [央视曝光被薅羊毛的医保卡](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E8%A2%AB%E8%96%85%E7%BE%8A%E6%AF%9B%E7%9A%84%E5%8C%BB%E4%BF%9D%E5%8D%A1%23&t=31&band_rank=2&Refer=top) 307726
@@ -65,6 +65,11 @@
 1. [洗澡后3分钟内要涂保湿霜](https://s.weibo.com/weibo?q=%23%E6%B4%97%E6%BE%A1%E5%90%8E3%E5%88%86%E9%92%9F%E5%86%85%E8%A6%81%E6%B6%82%E4%BF%9D%E6%B9%BF%E9%9C%9C%23&t=31&band_rank=48&Refer=top) 54220
 1. [天地剑心大结局](https://s.weibo.com/weibo?q=%E5%A4%A9%E5%9C%B0%E5%89%91%E5%BF%83%E5%A4%A7%E7%BB%93%E5%B1%80&t=31&band_rank=49&Refer=top) 54213
 1. [海啸已抵达日本本州岛](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%95%B8%E5%B7%B2%E6%8A%B5%E8%BE%BE%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%B7%9E%E5%B2%9B%23&t=31&band_rank=50&Refer=top) 54211
+1. [Faker六冠王](https://s.weibo.com/weibo?q=%23Faker%E5%85%AD%E5%86%A0%E7%8E%8B%23&t=31&band_rank=24&Refer=top) 33232
+1. [非洲十二少](https://s.weibo.com/weibo?q=%E9%9D%9E%E6%B4%B2%E5%8D%81%E4%BA%8C%E5%B0%91&t=31&band_rank=34&Refer=top) 30248
+1. [全运会主火炬点燃](https://s.weibo.com/weibo?q=%23%E5%85%A8%E8%BF%90%E4%BC%9A%E4%B8%BB%E7%81%AB%E7%82%AC%E7%82%B9%E7%87%83%23&t=31&band_rank=43&Refer=top) 29027
+1. [杨洋我的秋日男友](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B4%8B%E6%88%91%E7%9A%84%E7%A7%8B%E6%97%A5%E7%94%B7%E5%8F%8B%23&t=31&band_rank=49&Refer=top) 29008
+1. [敖瑞鹏直播](https://s.weibo.com/weibo?q=%E6%95%96%E7%91%9E%E9%B9%8F%E7%9B%B4%E6%92%AD&t=31&band_rank=50&Refer=top) 29004
 <!-- END -->
 
 历史归档 [./archives](./archives)
