@@ -7,8 +7,9 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-11-12 05:19:57.105077 
+最后更新时间 2025-11-12 06:21:23.991605 
 1. [英国海边出现巨型海怪](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E6%B5%B7%E8%BE%B9%E5%87%BA%E7%8E%B0%E5%B7%A8%E5%9E%8B%E6%B5%B7%E6%80%AA%23&t=31&band_rank=1&Refer=top) 860941
+1. [阿坝大桥垮塌前已发现险情](https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%9D%9D%E5%A4%A7%E6%A1%A5%E5%9E%AE%E5%A1%8C%E5%89%8D%E5%B7%B2%E5%8F%91%E7%8E%B0%E9%99%A9%E6%83%85%23&t=31&band_rank=9&Refer=top) 359998
 1. [杨旭文 工作暂停庆祝破万](https://s.weibo.com/weibo?q=%E6%9D%A8%E6%97%AD%E6%96%87%20%E5%B7%A5%E4%BD%9C%E6%9A%82%E5%81%9C%E5%BA%86%E7%A5%9D%E7%A0%B4%E4%B8%87&t=31&band_rank=2&Refer=top) 348005
 1. [第十五届全运会](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E5%8D%81%E4%BA%94%E5%B1%8A%E5%85%A8%E8%BF%90%E4%BC%9A%23&t=31&band_rank=3&Refer=top) 281318
 1. [金鸡奖提名](https://s.weibo.com/weibo?q=%E9%87%91%E9%B8%A1%E5%A5%96%E6%8F%90%E5%90%8D&t=31&band_rank=4&Refer=top) 219220
@@ -67,9 +68,11 @@
 1. [唐朝诡事录 成佛寺的哭声](https://s.weibo.com/weibo?q=%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%95%20%E6%88%90%E4%BD%9B%E5%AF%BA%E7%9A%84%E5%93%AD%E5%A3%B0&t=31&band_rank=29&Refer=top) 45276
 1. [陈伟霆晒庆功宴合照](https://s.weibo.com/weibo?q=%23%E9%99%88%E4%BC%9F%E9%9C%86%E6%99%92%E5%BA%86%E5%8A%9F%E5%AE%B4%E5%90%88%E7%85%A7%23&t=31&band_rank=38&Refer=top) 44883
 1. [全运会吉祥物表情包上新](https://s.weibo.com/weibo?q=%23%E5%85%A8%E8%BF%90%E4%BC%9A%E5%90%89%E7%A5%A5%E7%89%A9%E8%A1%A8%E6%83%85%E5%8C%85%E4%B8%8A%E6%96%B0%23&t=31&band_rank=47&Refer=top) 44555
-1. [田曦薇体制内女友风](https://s.weibo.com/weibo?q=%E7%94%B0%E6%9B%A6%E8%96%87%E4%BD%93%E5%88%B6%E5%86%85%E5%A5%B3%E5%8F%8B%E9%A3%8E&t=31&band_rank=45&Refer=top) 20668
+1. [减肥 和家族基因做对抗](https://s.weibo.com/weibo?q=%E5%87%8F%E8%82%A5%20%E5%92%8C%E5%AE%B6%E6%97%8F%E5%9F%BA%E5%9B%A0%E5%81%9A%E5%AF%B9%E6%8A%97&t=31&band_rank=28&Refer=top) 22298
+1. [田曦薇体制内女友风](https://s.weibo.com/weibo?q=%E7%94%B0%E6%9B%A6%E8%96%87%E4%BD%93%E5%88%B6%E5%86%85%E5%A5%B3%E5%8F%8B%E9%A3%8E&t=31&band_rank=45&Refer=top) 21380
+1. [丁禹兮山河枕卫视收视第一](https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%E5%B1%B1%E6%B2%B3%E6%9E%95%E5%8D%AB%E8%A7%86%E6%94%B6%E8%A7%86%E7%AC%AC%E4%B8%80%23&t=31&band_rank=48&Refer=top) 21370
+1. [2799元UGG长毛雪地靴酷似玲娜贝儿脚](https://s.weibo.com/weibo?q=%232799%E5%85%83UGG%E9%95%BF%E6%AF%9B%E9%9B%AA%E5%9C%B0%E9%9D%B4%E9%85%B7%E4%BC%BC%E7%8E%B2%E5%A8%9C%E8%B4%9D%E5%84%BF%E8%84%9A%23&t=31&band_rank=49&Refer=top) 21364
 1. [唐诡值得](https://s.weibo.com/weibo?q=%E5%94%90%E8%AF%A1%E5%80%BC%E5%BE%97&t=31&band_rank=49&Refer=top) 20056
-1. [阿坝大桥垮塌前已发现险情](https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%9D%9D%E5%A4%A7%E6%A1%A5%E5%9E%AE%E5%A1%8C%E5%89%8D%E5%B7%B2%E5%8F%91%E7%8E%B0%E9%99%A9%E6%83%85%23&t=31&band_rank=9&Refer=top) 18793
 <!-- END -->
 
 历史归档 [./archives](./archives)
