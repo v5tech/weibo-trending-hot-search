@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-11-15 01:19:51.565311 
+最后更新时间 2025-11-15 02:32:21.622246 
 1. [提醒中国公民近期避免前往日本](https://s.weibo.com/weibo?q=%23%E6%8F%90%E9%86%92%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E8%BF%91%E6%9C%9F%E9%81%BF%E5%85%8D%E5%89%8D%E5%BE%80%E6%97%A5%E6%9C%AC%23&t=31&band_rank=1&Refer=top) 1681406
 1. [林高远刘诗雯逆转夺冠](https://s.weibo.com/weibo?q=%23%E6%9E%97%E9%AB%98%E8%BF%9C%E5%88%98%E8%AF%97%E9%9B%AF%E9%80%86%E8%BD%AC%E5%A4%BA%E5%86%A0%23&t=31&band_rank=2&Refer=top) 1252714
 1. [第十五届全运会](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E5%8D%81%E4%BA%94%E5%B1%8A%E5%85%A8%E8%BF%90%E4%BC%9A%23&t=31&band_rank=3&Refer=top) 1127053
@@ -58,13 +58,20 @@
 1. [汪苏泷不语只是一味享受尖叫](https://s.weibo.com/weibo?q=%E6%B1%AA%E8%8B%8F%E6%B3%B7%E4%B8%8D%E8%AF%AD%E5%8F%AA%E6%98%AF%E4%B8%80%E5%91%B3%E4%BA%AB%E5%8F%97%E5%B0%96%E5%8F%AB&t=31&band_rank=48&Refer=top) 113529
 1. [宋亚轩想抱穆祉丞拦都拦不住](https://s.weibo.com/weibo?q=%E5%AE%8B%E4%BA%9A%E8%BD%A9%E6%83%B3%E6%8A%B1%E7%A9%86%E7%A5%89%E4%B8%9E%E6%8B%A6%E9%83%BD%E6%8B%A6%E4%B8%8D%E4%BD%8F&t=31&band_rank=49&Refer=top) 113512
 1. [石宇奇回应赛后庆祝动作](https://s.weibo.com/weibo?q=%23%E7%9F%B3%E5%AE%87%E5%A5%87%E5%9B%9E%E5%BA%94%E8%B5%9B%E5%90%8E%E5%BA%86%E7%A5%9D%E5%8A%A8%E4%BD%9C%23&t=31&band_rank=50&Refer=top) 113491
-1. [教育局回应小学生穿裙装敬礼](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E5%B0%8F%E5%AD%A6%E7%94%9F%E7%A9%BF%E8%A3%99%E8%A3%85%E6%95%AC%E7%A4%BC%23&t=31&band_rank=27&Refer=top) 62444
+1. [刘诗雯6战全运会摘金](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E9%9B%AF6%E6%88%98%E5%85%A8%E8%BF%90%E4%BC%9A%E6%91%98%E9%87%91%23&t=31&band_rank=5&Refer=top) 103403
+1. [刘诗雯卫冕全运会混双冠军](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E9%9B%AF%E5%8D%AB%E5%86%95%E5%85%A8%E8%BF%90%E4%BC%9A%E6%B7%B7%E5%8F%8C%E5%86%A0%E5%86%9B%23&t=31&band_rank=7&Refer=top) 82587
+1. [教育局回应小学生穿裙装敬礼](https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E5%B0%8F%E5%AD%A6%E7%94%9F%E7%A9%BF%E8%A3%99%E8%A3%85%E6%95%AC%E7%A4%BC%23&t=31&band_rank=27&Refer=top) 63772
 1. [黄子韬被徐艺洋扇脸后暗爽了](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E8%A2%AB%E5%BE%90%E8%89%BA%E6%B4%8B%E6%89%87%E8%84%B8%E5%90%8E%E6%9A%97%E7%88%BD%E4%BA%86%23&t=31&band_rank=28&Refer=top) 62267
 1. [冷美人1分钟视频报价50元](https://s.weibo.com/weibo?q=%23%E5%86%B7%E7%BE%8E%E4%BA%BA1%E5%88%86%E9%92%9F%E8%A7%86%E9%A2%91%E6%8A%A5%E4%BB%B750%E5%85%83%23&t=31&band_rank=35&Refer=top) 60187
 1. [70%的糖尿病前期早干预可逆转](https://s.weibo.com/weibo?q=70%25%E7%9A%84%E7%B3%96%E5%B0%BF%E7%97%85%E5%89%8D%E6%9C%9F%E6%97%A9%E5%B9%B2%E9%A2%84%E5%8F%AF%E9%80%86%E8%BD%AC&t=31&band_rank=37&Refer=top) 60130
 1. [华晨宇演唱会回到海口](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E6%BC%94%E5%94%B1%E4%BC%9A%E5%9B%9E%E5%88%B0%E6%B5%B7%E5%8F%A3%23&t=31&band_rank=44&Refer=top) 59884
 1. [Suk说Faker激励自己完成遗憾](https://s.weibo.com/weibo?q=Suk%E8%AF%B4Faker%E6%BF%80%E5%8A%B1%E8%87%AA%E5%B7%B1%E5%AE%8C%E6%88%90%E9%81%97%E6%86%BE&t=31&band_rank=49&Refer=top) 59712
 1. [田曦薇穿绿色也很有韵味](https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E7%A9%BF%E7%BB%BF%E8%89%B2%E4%B9%9F%E5%BE%88%E6%9C%89%E9%9F%B5%E5%91%B3%23&t=31&band_rank=50&Refer=top) 59682
+1. [过去一年有5千多短剧总裁被下药](https://s.weibo.com/weibo?q=%E8%BF%87%E5%8E%BB%E4%B8%80%E5%B9%B4%E6%9C%895%E5%8D%83%E5%A4%9A%E7%9F%AD%E5%89%A7%E6%80%BB%E8%A3%81%E8%A2%AB%E4%B8%8B%E8%8D%AF&t=31&band_rank=19&Refer=top) 38821
+1. [日本2位前首相反对高市早苗言论](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC2%E4%BD%8D%E5%89%8D%E9%A6%96%E7%9B%B8%E5%8F%8D%E5%AF%B9%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%A8%80%E8%AE%BA%23&t=31&band_rank=31&Refer=top) 32067
+1. [神20航天员平安抵京](https://s.weibo.com/weibo?q=%23%E7%A5%9E20%E8%88%AA%E5%A4%A9%E5%91%98%E5%B9%B3%E5%AE%89%E6%8A%B5%E4%BA%AC%23&t=31&band_rank=39&Refer=top) 32061
+1. [鬼灭之刃上弦三的简要概括](https://s.weibo.com/weibo?q=%E9%AC%BC%E7%81%AD%E4%B9%8B%E5%88%83%E4%B8%8A%E5%BC%A6%E4%B8%89%E7%9A%84%E7%AE%80%E8%A6%81%E6%A6%82%E6%8B%AC&t=31&band_rank=47&Refer=top) 32055
+1. [林更新李幼斌新片集齐两个魔丸](https://s.weibo.com/weibo?q=%23%E6%9E%97%E6%9B%B4%E6%96%B0%E6%9D%8E%E5%B9%BC%E6%96%8C%E6%96%B0%E7%89%87%E9%9B%86%E9%BD%90%E4%B8%A4%E4%B8%AA%E9%AD%94%E4%B8%B8%23&t=31&band_rank=50&Refer=top) 32053
 <!-- END -->
 
 历史归档 [./archives](./archives)
