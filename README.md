@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-11-16 03:15:28.995995 
+最后更新时间 2025-11-16 04:22:05.769669 
 1. [易烊千玺金鸡影帝](https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E9%87%91%E9%B8%A1%E5%BD%B1%E5%B8%9D%23&t=31&band_rank=1&Refer=top) 2815353
 1. [高市早苗让日本国家承担代价](https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%AE%A9%E6%97%A5%E6%9C%AC%E5%9B%BD%E5%AE%B6%E6%89%BF%E6%8B%85%E4%BB%A3%E4%BB%B7%23&t=31&band_rank=2&Refer=top) 761076
 1. [十五运会赛场外步步生花](https://s.weibo.com/weibo?q=%23%E5%8D%81%E4%BA%94%E8%BF%90%E4%BC%9A%E8%B5%9B%E5%9C%BA%E5%A4%96%E6%AD%A5%E6%AD%A5%E7%94%9F%E8%8A%B1%23&t=31&band_rank=3&Refer=top) 709646
@@ -69,12 +69,18 @@
 1. [易烊千玺罗一舟同框](https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E7%BD%97%E4%B8%80%E8%88%9F%E5%90%8C%E6%A1%86%23&t=31&band_rank=18&Refer=top) 65692
 1. [百亿票房 美术奖](https://s.weibo.com/weibo?q=%E7%99%BE%E4%BA%BF%E7%A5%A8%E6%88%BF%20%E7%BE%8E%E6%9C%AF%E5%A5%96&t=31&band_rank=41&Refer=top) 40399
 1. [王安宇去看了张一山话剧](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%89%E5%AE%87%E5%8E%BB%E7%9C%8B%E4%BA%86%E5%BC%A0%E4%B8%80%E5%B1%B1%E8%AF%9D%E5%89%A7%23&t=31&band_rank=43&Refer=top) 36579
+1. [陈建斌扶住了差点被绊倒的蒋勤勤](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BB%BA%E6%96%8C%E6%89%B6%E4%BD%8F%E4%BA%86%E5%B7%AE%E7%82%B9%E8%A2%AB%E7%BB%8A%E5%80%92%E7%9A%84%E8%92%8B%E5%8B%A4%E5%8B%A4%23&t=31&band_rank=17&Refer=top) 36004
 1. [金鸡奖颁奖顺序](https://s.weibo.com/weibo?q=%E9%87%91%E9%B8%A1%E5%A5%96%E9%A2%81%E5%A5%96%E9%A1%BA%E5%BA%8F&t=31&band_rank=46&Refer=top) 34667
 1. [原来眼睫毛还可以染色](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E7%9C%BC%E7%9D%AB%E6%AF%9B%E8%BF%98%E5%8F%AF%E4%BB%A5%E6%9F%93%E8%89%B2&t=31&band_rank=49&Refer=top) 31734
 1. [供暖](https://s.weibo.com/weibo?q=%23%E4%BE%9B%E6%9A%96%23&t=31&band_rank=34&Refer=top) 29779
 1. [你好星期六下期迎初雪](https://s.weibo.com/weibo?q=%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%E4%B8%8B%E6%9C%9F%E8%BF%8E%E5%88%9D%E9%9B%AA&t=31&band_rank=44&Refer=top) 27269
 1. [展轩金发狼尾](https://s.weibo.com/weibo?q=%23%E5%B1%95%E8%BD%A9%E9%87%91%E5%8F%91%E7%8B%BC%E5%B0%BE%23&t=31&band_rank=48&Refer=top) 27265
 1. [宋佳获奖感言](https://s.weibo.com/weibo?q=%E5%AE%8B%E4%BD%B3%E8%8E%B7%E5%A5%96%E6%84%9F%E8%A8%80&t=31&band_rank=50&Refer=top) 27263
+1. [高市早苗言行引发中俄朝韩四国不满](https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%A8%80%E8%A1%8C%E5%BC%95%E5%8F%91%E4%B8%AD%E4%BF%84%E6%9C%9D%E9%9F%A9%E5%9B%9B%E5%9B%BD%E4%B8%8D%E6%BB%A1%23&t=31&band_rank=35&Refer=top) 25081
+1. [王一博探索新境2官宣节奏](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%8E%A2%E7%B4%A2%E6%96%B0%E5%A2%832%E5%AE%98%E5%AE%A3%E8%8A%82%E5%A5%8F%23&t=31&band_rank=43&Refer=top) 25064
+1. [上海男团1比0北京男团](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E7%94%B7%E5%9B%A21%E6%AF%940%E5%8C%97%E4%BA%AC%E7%94%B7%E5%9B%A2%23&t=31&band_rank=44&Refer=top) 25063
+1. [出走的决心](https://s.weibo.com/weibo?q=%E5%87%BA%E8%B5%B0%E7%9A%84%E5%86%B3%E5%BF%83&t=31&band_rank=49&Refer=top) 25051
+1. [你告诉我这是毛晓彤](https://s.weibo.com/weibo?q=%E4%BD%A0%E5%91%8A%E8%AF%89%E6%88%91%E8%BF%99%E6%98%AF%E6%AF%9B%E6%99%93%E5%BD%A4&t=31&band_rank=50&Refer=top) 25048
 <!-- END -->
 
 历史归档 [./archives](./archives)
