@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-11-17 04:23:29.070775 
+最后更新时间 2025-11-17 05:18:49.500036 
 1. [王曼昱冠军](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%86%A0%E5%86%9B&t=31&band_rank=1&Refer=top) 4416680
 1. [孙颖莎亚军](https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E4%BA%9A%E5%86%9B&t=31&band_rank=2&Refer=top) 682173
 1. [沉浸式感受十五运精彩瞬间](https://s.weibo.com/weibo?q=%23%E6%B2%89%E6%B5%B8%E5%BC%8F%E6%84%9F%E5%8F%97%E5%8D%81%E4%BA%94%E8%BF%90%E7%B2%BE%E5%BD%A9%E7%9E%AC%E9%97%B4%23&t=31&band_rank=3&Refer=top) 673350
@@ -85,6 +85,9 @@
 1. [一起看全运会](https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%B5%B7%E7%9C%8B%E5%85%A8%E8%BF%90%E4%BC%9A%23&t=31&band_rank=41&Refer=top) 24197
 1. [古人用龟壳占卜的原因](https://s.weibo.com/weibo?q=%E5%8F%A4%E4%BA%BA%E7%94%A8%E9%BE%9F%E5%A3%B3%E5%8D%A0%E5%8D%9C%E7%9A%84%E5%8E%9F%E5%9B%A0&t=31&band_rank=46&Refer=top) 24171
 1. [四喜](https://s.weibo.com/weibo?q=%E5%9B%9B%E5%96%9C&t=31&band_rank=50&Refer=top) 24152
+1. [王曼昱4比2战胜孙颖莎](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B14%E6%AF%942%E6%88%98%E8%83%9C%E5%AD%99%E9%A2%96%E8%8E%8E%23&t=31&band_rank=22&Refer=top) 22193
+1. [孙颖莎8比11王曼昱](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E8%E6%AF%9411%E7%8E%8B%E6%9B%BC%E6%98%B1%23&t=31&band_rank=23&Refer=top) 22158
+1. [精彩全运会](https://s.weibo.com/weibo?q=%23%E7%B2%BE%E5%BD%A9%E5%85%A8%E8%BF%90%E4%BC%9A%23&t=31&band_rank=38&Refer=top) 17934
 <!-- END -->
 
 历史归档 [./archives](./archives)
