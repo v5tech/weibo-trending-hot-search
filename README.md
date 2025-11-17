@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-11-18 02:32:29.307004 
+最后更新时间 2025-11-18 03:18:19.412052 
 1. [奥特曼扮演者发文质问高市早苗](https://s.weibo.com/weibo?q=%23%E5%A5%A5%E7%89%B9%E6%9B%BC%E6%89%AE%E6%BC%94%E8%80%85%E5%8F%91%E6%96%87%E8%B4%A8%E9%97%AE%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%23&t=31&band_rank=1&Refer=top) 870443
 1. [中国强烈回应震动日本](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%BC%BA%E7%83%88%E5%9B%9E%E5%BA%94%E9%9C%87%E5%8A%A8%E6%97%A5%E6%9C%AC%23&t=31&band_rank=2&Refer=top) 562686
 1. [C919和C909首次亮相中东](https://s.weibo.com/weibo?q=%23C919%E5%92%8CC909%E9%A6%96%E6%AC%A1%E4%BA%AE%E7%9B%B8%E4%B8%AD%E4%B8%9C%23&t=31&band_rank=3&Refer=top) 412476
@@ -67,6 +67,11 @@
 1. [全运会体操收官](https://s.weibo.com/weibo?q=%E5%85%A8%E8%BF%90%E4%BC%9A%E4%BD%93%E6%93%8D%E6%94%B6%E5%AE%98&t=31&band_rank=43&Refer=top) 33153
 1. [国防部回应美对台军售](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%98%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%AF%B9%E5%8F%B0%E5%86%9B%E5%94%AE%23&t=31&band_rank=47&Refer=top) 33066
 1. [鬼灭之刃剧场版暂居全球票房年榜第5](https://s.weibo.com/weibo?q=%E9%AC%BC%E7%81%AD%E4%B9%8B%E5%88%83%E5%89%A7%E5%9C%BA%E7%89%88%E6%9A%82%E5%B1%85%E5%85%A8%E7%90%83%E7%A5%A8%E6%88%BF%E5%B9%B4%E6%A6%9C%E7%AC%AC5&t=31&band_rank=48&Refer=top) 33052
+1. [迪丽热巴真的好勇](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9C%9F%E7%9A%84%E5%A5%BD%E5%8B%87%23&t=31&band_rank=20&Refer=top) 28362
+1. [中方回应日本外务省高官访华](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E5%A4%96%E5%8A%A1%E7%9C%81%E9%AB%98%E5%AE%98%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=33&Refer=top) 23741
+1. [高市早苗在涉台问题上劣迹斑斑](https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%9C%A8%E6%B6%89%E5%8F%B0%E9%97%AE%E9%A2%98%E4%B8%8A%E5%8A%A3%E8%BF%B9%E6%96%91%E6%96%91%23&t=31&band_rank=41&Refer=top) 23707
+1. [长大的感受](https://s.weibo.com/weibo?q=%E9%95%BF%E5%A4%A7%E7%9A%84%E6%84%9F%E5%8F%97&t=31&band_rank=43&Refer=top) 23697
+1. [周深演唱会唱了许嵩的庐州月](https://s.weibo.com/weibo?q=%E5%91%A8%E6%B7%B1%E6%BC%94%E5%94%B1%E4%BC%9A%E5%94%B1%E4%BA%86%E8%AE%B8%E5%B5%A9%E7%9A%84%E5%BA%90%E5%B7%9E%E6%9C%88&t=31&band_rank=50&Refer=top) 23664
 <!-- END -->
 
 历史归档 [./archives](./archives)
