@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-11-20 03:18:59.606687 
+最后更新时间 2025-11-20 04:22:25.463238 
 1. [日本多次不宣而战](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A4%9A%E6%AC%A1%E4%B8%8D%E5%AE%A3%E8%80%8C%E6%88%98%23&t=31&band_rank=1&Refer=top) 845800
 1. [疯狂动物城2中文配音阵容引争议](https://s.weibo.com/weibo?q=%23%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E2%E4%B8%AD%E6%96%87%E9%85%8D%E9%9F%B3%E9%98%B5%E5%AE%B9%E5%BC%95%E4%BA%89%E8%AE%AE%23&t=31&band_rank=2&Refer=top) 284743
 1. [第十五届全运会](https://s.weibo.com/weibo?q=%23%E7%AC%AC%E5%8D%81%E4%BA%94%E5%B1%8A%E5%85%A8%E8%BF%90%E4%BC%9A%23&t=31&band_rank=3&Refer=top) 277519
@@ -76,6 +76,7 @@
 1. [孙颖莎回应河北队摘银](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E5%9B%9E%E5%BA%94%E6%B2%B3%E5%8C%97%E9%98%9F%E6%91%98%E9%93%B6%23&t=31&band_rank=50&Refer=top) 37450
 1. [疯狂动物城2配音](https://s.weibo.com/weibo?q=%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E2%E9%85%8D%E9%9F%B3&t=31&band_rank=30&Refer=top) 34880
 1. [荷兰暂停针对安世半导体行政令](https://s.weibo.com/weibo?q=%23%E8%8D%B7%E5%85%B0%E6%9A%82%E5%81%9C%E9%92%88%E5%AF%B9%E5%AE%89%E4%B8%96%E5%8D%8A%E5%AF%BC%E4%BD%93%E8%A1%8C%E6%94%BF%E4%BB%A4%23&t=31&band_rank=49&Refer=top) 34098
+1. [全运会两位解说打的披头散发](https://s.weibo.com/weibo?q=%E5%85%A8%E8%BF%90%E4%BC%9A%E4%B8%A4%E4%BD%8D%E8%A7%A3%E8%AF%B4%E6%89%93%E7%9A%84%E6%8A%AB%E5%A4%B4%E6%95%A3%E5%8F%91&t=31&band_rank=46&Refer=top) 29442
 <!-- END -->
 
 历史归档 [./archives](./archives)
