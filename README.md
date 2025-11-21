@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-11-22 01:20:04.657937 
+最后更新时间 2025-11-22 02:29:48.645319 
 1. [湖南高院通报2高中生奸杀教师案](https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E9%AB%98%E9%99%A2%E9%80%9A%E6%8A%A52%E9%AB%98%E4%B8%AD%E7%94%9F%E5%A5%B8%E6%9D%80%E6%95%99%E5%B8%88%E6%A1%88%23&t=31&band_rank=1&Refer=top) 892652
 1. [高市早苗招惹马来西亚](https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%8B%9B%E6%83%B9%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%23&t=31&band_rank=2&Refer=top) 384295
 1. [这26秒科技感直接拉满](https://s.weibo.com/weibo?q=%23%E8%BF%9926%E7%A7%92%E7%A7%91%E6%8A%80%E6%84%9F%E7%9B%B4%E6%8E%A5%E6%8B%89%E6%BB%A1%23&t=31&band_rank=3&Refer=top) 377291
@@ -63,6 +63,12 @@
 1. [Keria夸赞iG](https://s.weibo.com/weibo?q=Keria%E5%A4%B8%E8%B5%9EiG&t=31&band_rank=43&Refer=top) 125383
 1. [DK确定2026年阵容](https://s.weibo.com/weibo?q=DK%E7%A1%AE%E5%AE%9A2026%E5%B9%B4%E9%98%B5%E5%AE%B9&t=31&band_rank=44&Refer=top) 125315
 1. [106岁妈妈让80岁女儿不要太贪玩](https://s.weibo.com/weibo?q=%23106%E5%B2%81%E5%A6%88%E5%A6%88%E8%AE%A980%E5%B2%81%E5%A5%B3%E5%84%BF%E4%B8%8D%E8%A6%81%E5%A4%AA%E8%B4%AA%E7%8E%A9%23&t=31&band_rank=45&Refer=top) 125284
+1. [原神](https://s.weibo.com/weibo?q=%E5%8E%9F%E7%A5%9E&t=31&band_rank=10&Refer=top) 113037
+1. [变形计张迪回应抛妻弃子](https://s.weibo.com/weibo?q=%23%E5%8F%98%E5%BD%A2%E8%AE%A1%E5%BC%A0%E8%BF%AA%E5%9B%9E%E5%BA%94%E6%8A%9B%E5%A6%BB%E5%BC%83%E5%AD%90%23&t=31&band_rank=24&Refer=top) 100837
+1. [印度光辉战机表演时坠毁](https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%85%89%E8%BE%89%E6%88%98%E6%9C%BA%E8%A1%A8%E6%BC%94%E6%97%B6%E5%9D%A0%E6%AF%81%23&t=31&band_rank=39&Refer=top) 97727
+1. [多方回应男生穿裙戴假发夺冠成绩无效](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94%E7%94%B7%E7%94%9F%E7%A9%BF%E8%A3%99%E6%88%B4%E5%81%87%E5%8F%91%E5%A4%BA%E5%86%A0%E6%88%90%E7%BB%A9%E6%97%A0%E6%95%88%23&t=31&band_rank=41&Refer=top) 97282
+1. [美结束俄乌冲突28点计划曝光](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E7%BB%93%E6%9D%9F%E4%BF%84%E4%B9%8C%E5%86%B2%E7%AA%8128%E7%82%B9%E8%AE%A1%E5%88%92%E6%9B%9D%E5%85%89%23&t=31&band_rank=45&Refer=top) 96474
+1. [狂野时代首映口碑](https://s.weibo.com/weibo?q=%23%E7%8B%82%E9%87%8E%E6%97%B6%E4%BB%A3%E9%A6%96%E6%98%A0%E5%8F%A3%E7%A2%91%23&t=31&band_rank=46&Refer=top) 96144
 <!-- END -->
 
 历史归档 [./archives](./archives)
