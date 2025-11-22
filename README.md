@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-11-23 00:25:46.967680 
+最后更新时间 2025-11-23 01:18:21.529726 
 1. [张家齐宣布退役](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%AE%A3%E5%B8%83%E9%80%80%E5%BD%B9%23&t=31&band_rank=1&Refer=top) 925468
 1. [高市早苗G20迟到称因选衣服](https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97G20%E8%BF%9F%E5%88%B0%E7%A7%B0%E5%9B%A0%E9%80%89%E8%A1%A3%E6%9C%8D%23&t=31&band_rank=2&Refer=top) 688436
 1. [福建舰之大具象化了](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E8%88%B0%E4%B9%8B%E5%A4%A7%E5%85%B7%E8%B1%A1%E5%8C%96%E4%BA%86%23&t=31&band_rank=3&Refer=top) 667954
@@ -58,6 +58,11 @@
 1. [暮歌拍的宋亚轩](https://s.weibo.com/weibo?q=%E6%9A%AE%E6%AD%8C%E6%8B%8D%E7%9A%84%E5%AE%8B%E4%BA%9A%E8%BD%A9&t=31&band_rank=48&Refer=top) 259442
 1. [情怀车展](https://s.weibo.com/weibo?q=%23%E6%83%85%E6%80%80%E8%BD%A6%E5%B1%95%23&t=31&band_rank=49&Refer=top) 259218
 1. [偷甘蔗爆火巡逻小狗已累瘫](https://s.weibo.com/weibo?q=%23%E5%81%B7%E7%94%98%E8%94%97%E7%88%86%E7%81%AB%E5%B7%A1%E9%80%BB%E5%B0%8F%E7%8B%97%E5%B7%B2%E7%B4%AF%E7%98%AB%23&t=31&band_rank=50&Refer=top) 259108
+1. [乌士兵跪求俄军无人机饶命](https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%A3%AB%E5%85%B5%E8%B7%AA%E6%B1%82%E4%BF%84%E5%86%9B%E6%97%A0%E4%BA%BA%E6%9C%BA%E9%A5%B6%E5%91%BD%23&t=31&band_rank=41&Refer=top) 74414
+1. [张真源唱苦情歌像开大](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%9C%9F%E6%BA%90%E5%94%B1%E8%8B%A6%E6%83%85%E6%AD%8C%E5%83%8F%E5%BC%80%E5%A4%A7%23&t=31&band_rank=42&Refer=top) 74377
+1. [肖战第一次过这么冷的冬天](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%BF%87%E8%BF%99%E4%B9%88%E5%86%B7%E7%9A%84%E5%86%AC%E5%A4%A9%23&t=31&band_rank=44&Refer=top) 74339
+1. [赤木刚宪瘦了60斤](https://s.weibo.com/weibo?q=%23%E8%B5%A4%E6%9C%A8%E5%88%9A%E5%AE%AA%E7%98%A6%E4%BA%8660%E6%96%A4%23&t=31&band_rank=48&Refer=top) 74258
+1. [苏州3比0南京](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E5%B7%9E3%E6%AF%940%E5%8D%97%E4%BA%AC%23&t=31&band_rank=50&Refer=top) 74210
 <!-- END -->
 
 历史归档 [./archives](./archives)
