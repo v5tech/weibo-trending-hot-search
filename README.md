@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-11-23 01:18:21.529726 
+最后更新时间 2025-11-23 02:29:53.174177 
 1. [张家齐宣布退役](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%AE%A3%E5%B8%83%E9%80%80%E5%BD%B9%23&t=31&band_rank=1&Refer=top) 925468
 1. [高市早苗G20迟到称因选衣服](https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97G20%E8%BF%9F%E5%88%B0%E7%A7%B0%E5%9B%A0%E9%80%89%E8%A1%A3%E6%9C%8D%23&t=31&band_rank=2&Refer=top) 688436
 1. [福建舰之大具象化了](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E8%88%B0%E4%B9%8B%E5%A4%A7%E5%85%B7%E8%B1%A1%E5%8C%96%E4%BA%86%23&t=31&band_rank=3&Refer=top) 667954
@@ -63,6 +63,12 @@
 1. [肖战第一次过这么冷的冬天](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%BF%87%E8%BF%99%E4%B9%88%E5%86%B7%E7%9A%84%E5%86%AC%E5%A4%A9%23&t=31&band_rank=44&Refer=top) 74339
 1. [赤木刚宪瘦了60斤](https://s.weibo.com/weibo?q=%23%E8%B5%A4%E6%9C%A8%E5%88%9A%E5%AE%AA%E7%98%A6%E4%BA%8660%E6%96%A4%23&t=31&band_rank=48&Refer=top) 74258
 1. [苏州3比0南京](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E5%B7%9E3%E6%AF%940%E5%8D%97%E4%BA%AC%23&t=31&band_rank=50&Refer=top) 74210
+1. [鬼灭之刃](https://s.weibo.com/weibo?q=%E9%AC%BC%E7%81%AD%E4%B9%8B%E5%88%83&t=31&band_rank=13&Refer=top) 58276
+1. [胡彦斌老粉](https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%BD%A6%E6%96%8C%E8%80%81%E7%B2%89%23&t=31&band_rank=21&Refer=top) 45436
+1. [地枭都考上教资了](https://s.weibo.com/weibo?q=%E5%9C%B0%E6%9E%AD%E9%83%BD%E8%80%83%E4%B8%8A%E6%95%99%E8%B5%84%E4%BA%86&t=31&band_rank=45&Refer=top) 43534
+1. [这就是有钱人逛奢侈品店的感觉吧](https://s.weibo.com/weibo?q=%E8%BF%99%E5%B0%B1%E6%98%AF%E6%9C%89%E9%92%B1%E4%BA%BA%E9%80%9B%E5%A5%A2%E4%BE%88%E5%93%81%E5%BA%97%E7%9A%84%E6%84%9F%E8%A7%89%E5%90%A7&t=31&band_rank=48&Refer=top) 43513
+1. [吴艳妮发文告别2025赛季](https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%89%B3%E5%A6%AE%E5%8F%91%E6%96%87%E5%91%8A%E5%88%AB2025%E8%B5%9B%E5%AD%A3%23&t=31&band_rank=49&Refer=top) 43508
+1. [爱有5种语言](https://s.weibo.com/weibo?q=%23%E7%88%B1%E6%9C%895%E7%A7%8D%E8%AF%AD%E8%A8%80%23&t=31&band_rank=50&Refer=top) 43502
 <!-- END -->
 
 历史归档 [./archives](./archives)
