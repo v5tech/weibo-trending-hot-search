@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-11-25 03:16:36.618507 
+最后更新时间 2025-11-25 04:26:25.900058 
 1. [高市早苗G20峰会上演外交灾难](https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97G20%E5%B3%B0%E4%BC%9A%E4%B8%8A%E6%BC%94%E5%A4%96%E4%BA%A4%E7%81%BE%E9%9A%BE%23&t=31&band_rank=1&Refer=top) 883832
 1. [华为Mate80ProMax配置曝光](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BAMate80ProMax%E9%85%8D%E7%BD%AE%E6%9B%9D%E5%85%89%23&t=31&band_rank=2&Refer=top) 745373
 1. [神22计划11月25日发射](https://s.weibo.com/weibo?q=%23%E7%A5%9E22%E8%AE%A1%E5%88%9211%E6%9C%8825%E6%97%A5%E5%8F%91%E5%B0%84%23&t=31&band_rank=3&Refer=top) 674400
@@ -68,6 +68,10 @@
 1. [狂野时代口碑](https://s.weibo.com/weibo?q=%23%E7%8B%82%E9%87%8E%E6%97%B6%E4%BB%A3%E5%8F%A3%E7%A2%91%23&t=31&band_rank=29&Refer=top) 40902
 1. [张艺兴重庆粉丝见面会](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%89%BA%E5%85%B4%E9%87%8D%E5%BA%86%E7%B2%89%E4%B8%9D%E8%A7%81%E9%9D%A2%E4%BC%9A&t=31&band_rank=47&Refer=top) 40895
 1. [在荣耀发布会和肖战续火花](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E8%8D%A3%E8%80%80%E5%8F%91%E5%B8%83%E4%BC%9A%E5%92%8C%E8%82%96%E6%88%98%E7%BB%AD%E7%81%AB%E8%8A%B1%23&t=31&band_rank=49&Refer=top) 40879
+1. [中国大米出现在日本商店显著位置](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A4%A7%E7%B1%B3%E5%87%BA%E7%8E%B0%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%95%86%E5%BA%97%E6%98%BE%E8%91%97%E4%BD%8D%E7%BD%AE%23&t=31&band_rank=31&Refer=top) 26159
+1. [老师只是低血糖不是新动作](https://s.weibo.com/weibo?q=%E8%80%81%E5%B8%88%E5%8F%AA%E6%98%AF%E4%BD%8E%E8%A1%80%E7%B3%96%E4%B8%8D%E6%98%AF%E6%96%B0%E5%8A%A8%E4%BD%9C&t=31&band_rank=43&Refer=top) 25993
+1. [人民日报夜读](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E5%A4%9C%E8%AF%BB%23&t=31&band_rank=47&Refer=top) 25940
+1. [凤凰台上](https://s.weibo.com/weibo?q=%E5%87%A4%E5%87%B0%E5%8F%B0%E4%B8%8A&t=31&band_rank=49&Refer=top) 25922
 <!-- END -->
 
 历史归档 [./archives](./archives)
