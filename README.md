@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-11-29 06:20:35.360889 
+最后更新时间 2025-11-29 07:20:45.499754 
 1. [香港大埔火灾已致128人遇难](https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%9F%94%E7%81%AB%E7%81%BE%E5%B7%B2%E8%87%B4128%E4%BA%BA%E9%81%87%E9%9A%BE%23&t=31&band_rank=1&Refer=top) 1261723
 1. [中国男篮主场不敌韩国男篮](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%BB%E5%9C%BA%E4%B8%8D%E6%95%8C%E9%9F%A9%E5%9B%BD%E7%94%B7%E7%AF%AE%23&t=31&band_rank=2&Refer=top) 1259266
 1. [我国新一代太空感知星座发布](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E6%96%B0%E4%B8%80%E4%BB%A3%E5%A4%AA%E7%A9%BA%E6%84%9F%E7%9F%A5%E6%98%9F%E5%BA%A7%E5%8F%91%E5%B8%83%23&t=31&band_rank=3&Refer=top) 1240727
@@ -26,6 +26,7 @@
 1. [湖北通报钟祥市发改局抄袭公文](https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8C%97%E9%80%9A%E6%8A%A5%E9%92%9F%E7%A5%A5%E5%B8%82%E5%8F%91%E6%94%B9%E5%B1%80%E6%8A%84%E8%A2%AD%E5%85%AC%E6%96%87%23&t=31&band_rank=16&Refer=top) 945409
 1. [一个人值不值得深交看看这件事](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E4%BA%BA%E5%80%BC%E4%B8%8D%E5%80%BC%E5%BE%97%E6%B7%B1%E4%BA%A4%E7%9C%8B%E7%9C%8B%E8%BF%99%E4%BB%B6%E4%BA%8B%23&t=31&band_rank=17&Refer=top) 913882
 1. [用杨幂打开冯太后的大女主人生](https://s.weibo.com/weibo?q=%E7%94%A8%E6%9D%A8%E5%B9%82%E6%89%93%E5%BC%80%E5%86%AF%E5%A4%AA%E5%90%8E%E7%9A%84%E5%A4%A7%E5%A5%B3%E4%B8%BB%E4%BA%BA%E7%94%9F&t=31&band_rank=18&Refer=top) 858215
+1. [普京宣布与乌克兰停火条件](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E5%AE%A3%E5%B8%83%E4%B8%8E%E4%B9%8C%E5%85%8B%E5%85%B0%E5%81%9C%E7%81%AB%E6%9D%A1%E4%BB%B6%23&t=31&band_rank=36&Refer=top) 807718
 1. [薛之谦演唱农民与土地](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BC%94%E5%94%B1%E5%86%9C%E6%B0%91%E4%B8%8E%E5%9C%9F%E5%9C%B0%23&t=31&band_rank=19&Refer=top) 801218
 1. [台政客与高市早苗办公桌合影被群嘲](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%94%BF%E5%AE%A2%E4%B8%8E%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%8A%9E%E5%85%AC%E6%A1%8C%E5%90%88%E5%BD%B1%E8%A2%AB%E7%BE%A4%E5%98%B2%23&t=31&band_rank=20&Refer=top) 733498
 1. [律师解读吸毒记录封存不是彻底清除](https://s.weibo.com/weibo?q=%23%E5%BE%8B%E5%B8%88%E8%A7%A3%E8%AF%BB%E5%90%B8%E6%AF%92%E8%AE%B0%E5%BD%95%E5%B0%81%E5%AD%98%E4%B8%8D%E6%98%AF%E5%BD%BB%E5%BA%95%E6%B8%85%E9%99%A4%23&t=31&band_rank=21&Refer=top) 732857
@@ -43,7 +44,6 @@
 1. [女子钻漏洞下单476笔薅羊毛25万](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%92%BB%E6%BC%8F%E6%B4%9E%E4%B8%8B%E5%8D%95476%E7%AC%94%E8%96%85%E7%BE%8A%E6%AF%9B25%E4%B8%87%23&t=31&band_rank=33&Refer=top) 731673
 1. [未来五年什么工作吃香](https://s.weibo.com/weibo?q=%23%E6%9C%AA%E6%9D%A5%E4%BA%94%E5%B9%B4%E4%BB%80%E4%B9%88%E5%B7%A5%E4%BD%9C%E5%90%83%E9%A6%99%23&t=31&band_rank=34&Refer=top) 731495
 1. [爱达邮轮取消所有日本目的地](https://s.weibo.com/weibo?q=%23%E7%88%B1%E8%BE%BE%E9%82%AE%E8%BD%AE%E5%8F%96%E6%B6%88%E6%89%80%E6%9C%89%E6%97%A5%E6%9C%AC%E7%9B%AE%E7%9A%84%E5%9C%B0%23&t=31&band_rank=35&Refer=top) 731392
-1. [普京宣布与乌克兰停火条件](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E5%AE%A3%E5%B8%83%E4%B8%8E%E4%B9%8C%E5%85%8B%E5%85%B0%E5%81%9C%E7%81%AB%E6%9D%A1%E4%BB%B6%23&t=31&band_rank=36&Refer=top) 731276
 1. [盗摄](https://s.weibo.com/weibo?q=%E7%9B%97%E6%91%84&t=31&band_rank=37&Refer=top) 731260
 1. [日本学者点破特朗普真实想法](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%AD%A6%E8%80%85%E7%82%B9%E7%A0%B4%E7%89%B9%E6%9C%97%E6%99%AE%E7%9C%9F%E5%AE%9E%E6%83%B3%E6%B3%95%23&t=31&band_rank=38&Refer=top) 731079
 1. [法院向吴亦凡经纪公司追缴诉讼费](https://s.weibo.com/weibo?q=%23%E6%B3%95%E9%99%A2%E5%90%91%E5%90%B4%E4%BA%A6%E5%87%A1%E7%BB%8F%E7%BA%AA%E5%85%AC%E5%8F%B8%E8%BF%BD%E7%BC%B4%E8%AF%89%E8%AE%BC%E8%B4%B9%23&t=31&band_rank=39&Refer=top) 730957
@@ -69,9 +69,10 @@
 1. [融不进去的圈子就不要硬闯](https://s.weibo.com/weibo?q=%E8%9E%8D%E4%B8%8D%E8%BF%9B%E5%8E%BB%E7%9A%84%E5%9C%88%E5%AD%90%E5%B0%B1%E4%B8%8D%E8%A6%81%E7%A1%AC%E9%97%AF&t=31&band_rank=46&Refer=top) 189708
 1. [领养日 小明一家](https://s.weibo.com/weibo?q=%E9%A2%86%E5%85%BB%E6%97%A5%20%E5%B0%8F%E6%98%8E%E4%B8%80%E5%AE%B6&t=31&band_rank=50&Refer=top) 189151
 1. [女子与老公吵架3个月患乳腺癌](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B8%8E%E8%80%81%E5%85%AC%E5%90%B5%E6%9E%B63%E4%B8%AA%E6%9C%88%E6%82%A3%E4%B9%B3%E8%85%BA%E7%99%8C%23&t=31&band_rank=49&Refer=top) 128946
-1. [俄罗斯多次对日本发出警告](https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E5%A4%9A%E6%AC%A1%E5%AF%B9%E6%97%A5%E6%9C%AC%E5%8F%91%E5%87%BA%E8%AD%A6%E5%91%8A%23&t=31&band_rank=20&Refer=top) 113823
+1. [俄罗斯多次对日本发出警告](https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E5%A4%9A%E6%AC%A1%E5%AF%B9%E6%97%A5%E6%9C%AC%E5%8F%91%E5%87%BA%E8%AD%A6%E5%91%8A%23&t=31&band_rank=20&Refer=top) 116546
 1. [周依然新电影](https://s.weibo.com/weibo?q=%E5%91%A8%E4%BE%9D%E7%84%B6%E6%96%B0%E7%94%B5%E5%BD%B1&t=31&band_rank=24&Refer=top) 107795
 1. [驻塔使馆紧急提醒](https://s.weibo.com/weibo?q=%23%E9%A9%BB%E5%A1%94%E4%BD%BF%E9%A6%86%E7%B4%A7%E6%80%A5%E6%8F%90%E9%86%92%23&t=31&band_rank=42&Refer=top) 104663
+1. [愿香港大埔平安](https://s.weibo.com/weibo?q=%23%E6%84%BF%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%9F%94%E5%B9%B3%E5%AE%89%23&t=31&band_rank=30&Refer=top) 95556
 1. [捏捏状态](https://s.weibo.com/weibo?q=%E6%8D%8F%E6%8D%8F%E7%8A%B6%E6%80%81&t=31&band_rank=50&Refer=top) 76229
 <!-- END -->
 
