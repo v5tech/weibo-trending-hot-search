@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-11-30 05:19:42.486189 
+最后更新时间 2025-11-30 06:20:57.850554 
 1. [假奶粉 奶精加淀粉](https://s.weibo.com/weibo?q=%E5%81%87%E5%A5%B6%E7%B2%89%20%E5%A5%B6%E7%B2%BE%E5%8A%A0%E6%B7%80%E7%B2%89&t=31&band_rank=1&Refer=top) 912354
 1. [公务员考试](https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%8A%A1%E5%91%98%E8%80%83%E8%AF%95%23&t=31&band_rank=5&Refer=top) 451066
 1. [南北方同步开启干冷模式](https://s.weibo.com/weibo?q=%23%E5%8D%97%E5%8C%97%E6%96%B9%E5%90%8C%E6%AD%A5%E5%BC%80%E5%90%AF%E5%B9%B2%E5%86%B7%E6%A8%A1%E5%BC%8F%23&t=31&band_rank=3&Refer=top) 439229
@@ -71,6 +71,8 @@
 1. [日本民众要求高市撤回侵略战争宣言](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%E8%A6%81%E6%B1%82%E9%AB%98%E5%B8%82%E6%92%A4%E5%9B%9E%E4%BE%B5%E7%95%A5%E6%88%98%E4%BA%89%E5%AE%A3%E8%A8%80%23&t=31&band_rank=49&Refer=top) 36070
 1. [雷淞然直播](https://s.weibo.com/weibo?q=%E9%9B%B7%E6%B7%9E%E7%84%B6%E7%9B%B4%E6%92%AD&t=31&band_rank=25&Refer=top) 34803
 1. [即刻上场](https://s.weibo.com/weibo?q=%E5%8D%B3%E5%88%BB%E4%B8%8A%E5%9C%BA&t=31&band_rank=47&Refer=top) 33528
+1. [疯狂动物城2票房破13亿](https://s.weibo.com/weibo?q=%23%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E2%E7%A5%A8%E6%88%BF%E7%A0%B413%E4%BA%BF%23&t=31&band_rank=43&Refer=top) 19047
+1. [央行开通捐赠绿色通道支持香港救灾](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A1%8C%E5%BC%80%E9%80%9A%E6%8D%90%E8%B5%A0%E7%BB%BF%E8%89%B2%E9%80%9A%E9%81%93%E6%94%AF%E6%8C%81%E9%A6%99%E6%B8%AF%E6%95%91%E7%81%BE%23&t=31&band_rank=50&Refer=top) 19041
 <!-- END -->
 
 历史归档 [./archives](./archives)
