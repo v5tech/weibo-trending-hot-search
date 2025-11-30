@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-12-01 04:24:59.014320 
+最后更新时间 2025-12-01 05:19:45.732543 
 1. [外卖大战6个月烧掉近800亿](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%8D%96%E5%A4%A7%E6%88%986%E4%B8%AA%E6%9C%88%E7%83%A7%E6%8E%89%E8%BF%91800%E4%BA%BF%23&t=31&band_rank=1&Refer=top) 884494
 1. [国考](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%80%83&t=31&band_rank=2&Refer=top) 312775
 1. [黄土高原变绿了](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%9C%9F%E9%AB%98%E5%8E%9F%E5%8F%98%E7%BB%BF%E4%BA%86%23&t=31&band_rank=3&Refer=top) 235139
@@ -75,6 +75,7 @@
 1. [疯狂动物城 鸟类](https://s.weibo.com/weibo?q=%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E%20%E9%B8%9F%E7%B1%BB&t=31&band_rank=17&Refer=top) 26542
 1. [穆祉丞星辰大海vlog](https://s.weibo.com/weibo?q=%23%E7%A9%86%E7%A5%89%E4%B8%9E%E6%98%9F%E8%BE%B0%E5%A4%A7%E6%B5%B7vlog%23&t=31&band_rank=20&Refer=top) 25235
 1. [洛杉矶街头现饿了么骑手](https://s.weibo.com/weibo?q=%23%E6%B4%9B%E6%9D%89%E7%9F%B6%E8%A1%97%E5%A4%B4%E7%8E%B0%E9%A5%BF%E4%BA%86%E4%B9%88%E9%AA%91%E6%89%8B%23&t=31&band_rank=40&Refer=top) 25073
+1. [一屋子人凑不齐恩利一个胆子](https://s.weibo.com/weibo?q=%E4%B8%80%E5%B1%8B%E5%AD%90%E4%BA%BA%E5%87%91%E4%B8%8D%E9%BD%90%E6%81%A9%E5%88%A9%E4%B8%80%E4%B8%AA%E8%83%86%E5%AD%90&t=31&band_rank=46&Refer=top) 14243
 <!-- END -->
 
 历史归档 [./archives](./archives)
