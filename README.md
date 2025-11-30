@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-12-01 02:31:01.861013 
+最后更新时间 2025-12-01 03:18:02.102344 
 1. [外卖大战6个月烧掉近800亿](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%8D%96%E5%A4%A7%E6%88%986%E4%B8%AA%E6%9C%88%E7%83%A7%E6%8E%89%E8%BF%91800%E4%BA%BF%23&t=31&band_rank=1&Refer=top) 884494
 1. [国考](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%80%83&t=31&band_rank=2&Refer=top) 312775
 1. [黄土高原变绿了](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%9C%9F%E9%AB%98%E5%8E%9F%E5%8F%98%E7%BB%BF%E4%BA%86%23&t=31&band_rank=3&Refer=top) 235139
@@ -66,9 +66,12 @@
 1. [这才是清朝时期真正的辫子](https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%89%8D%E6%98%AF%E6%B8%85%E6%9C%9D%E6%97%B6%E6%9C%9F%E7%9C%9F%E6%AD%A3%E7%9A%84%E8%BE%AB%E5%AD%90%23&t=31&band_rank=45&Refer=top) 59374
 1. [iG众将回应输给T1](https://s.weibo.com/weibo?q=iG%E4%BC%97%E5%B0%86%E5%9B%9E%E5%BA%94%E8%BE%93%E7%BB%99T1&t=31&band_rank=47&Refer=top) 59360
 1. [王昶陈旭君2比1刘毅曾维瀚](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%98%B6%E9%99%88%E6%97%AD%E5%90%9B2%E6%AF%941%E5%88%98%E6%AF%85%E6%9B%BE%E7%BB%B4%E7%80%9A%23&t=31&band_rank=50&Refer=top) 59333
-1. [喜人奇妙夜2](https://s.weibo.com/weibo?q=%23%E5%96%9C%E4%BA%BA%E5%A5%87%E5%A6%99%E5%A4%9C2%23&t=31&band_rank=29&Refer=top) 31353
-1. [可能创下吉尼斯最快脱袜纪录](https://s.weibo.com/weibo?q=%E5%8F%AF%E8%83%BD%E5%88%9B%E4%B8%8B%E5%90%89%E5%B0%BC%E6%96%AF%E6%9C%80%E5%BF%AB%E8%84%B1%E8%A2%9C%E7%BA%AA%E5%BD%95&t=31&band_rank=38&Refer=top) 26298
-1. [榆林学生遭霸凌部分学生及家长已道歉](https://s.weibo.com/weibo?q=%23%E6%A6%86%E6%9E%97%E5%AD%A6%E7%94%9F%E9%81%AD%E9%9C%B8%E5%87%8C%E9%83%A8%E5%88%86%E5%AD%A6%E7%94%9F%E5%8F%8A%E5%AE%B6%E9%95%BF%E5%B7%B2%E9%81%93%E6%AD%89%23&t=31&band_rank=40&Refer=top) 26297
+1. [喜人奇妙夜2](https://s.weibo.com/weibo?q=%23%E5%96%9C%E4%BA%BA%E5%A5%87%E5%A6%99%E5%A4%9C2%23&t=31&band_rank=29&Refer=top) 36155
+1. [榆林学生遭霸凌部分学生及家长已道歉](https://s.weibo.com/weibo?q=%23%E6%A6%86%E6%9E%97%E5%AD%A6%E7%94%9F%E9%81%AD%E9%9C%B8%E5%87%8C%E9%83%A8%E5%88%86%E5%AD%A6%E7%94%9F%E5%8F%8A%E5%AE%B6%E9%95%BF%E5%B7%B2%E9%81%93%E6%AD%89%23&t=31&band_rank=40&Refer=top) 36152
+1. [可能创下吉尼斯最快脱袜纪录](https://s.weibo.com/weibo?q=%E5%8F%AF%E8%83%BD%E5%88%9B%E4%B8%8B%E5%90%89%E5%B0%BC%E6%96%AF%E6%9C%80%E5%BF%AB%E8%84%B1%E8%A2%9C%E7%BA%AA%E5%BD%95&t=31&band_rank=38&Refer=top) 36146
+1. [宁静选择上综艺不拍戏](https://s.weibo.com/weibo?q=%23%E5%AE%81%E9%9D%99%E9%80%89%E6%8B%A9%E4%B8%8A%E7%BB%BC%E8%89%BA%E4%B8%8D%E6%8B%8D%E6%88%8F%23&t=31&band_rank=32&Refer=top) 36144
+1. [免费职业技能夜校几乎期期爆满](https://s.weibo.com/weibo?q=%23%E5%85%8D%E8%B4%B9%E8%81%8C%E4%B8%9A%E6%8A%80%E8%83%BD%E5%A4%9C%E6%A0%A1%E5%87%A0%E4%B9%8E%E6%9C%9F%E6%9C%9F%E7%88%86%E6%BB%A1%23&t=31&band_rank=41&Refer=top) 36115
+1. [汪苏泷这里不让睡觉](https://s.weibo.com/weibo?q=%E6%B1%AA%E8%8B%8F%E6%B3%B7%E8%BF%99%E9%87%8C%E4%B8%8D%E8%AE%A9%E7%9D%A1%E8%A7%89&t=31&band_rank=43&Refer=top) 36110
 <!-- END -->
 
 历史归档 [./archives](./archives)
