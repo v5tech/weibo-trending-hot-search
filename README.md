@@ -7,8 +7,9 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-12-01 05:19:45.732543 
+最后更新时间 2025-12-01 06:21:19.544022 
 1. [外卖大战6个月烧掉近800亿](https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%8D%96%E5%A4%A7%E6%88%986%E4%B8%AA%E6%9C%88%E7%83%A7%E6%8E%89%E8%BF%91800%E4%BA%BF%23&t=31&band_rank=1&Refer=top) 884494
+1. [手机壳爱马仕一年狂卖36亿](https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E5%A3%B3%E7%88%B1%E9%A9%AC%E4%BB%95%E4%B8%80%E5%B9%B4%E7%8B%82%E5%8D%9636%E4%BA%BF%23&t=31&band_rank=40&Refer=top) 359892
 1. [国考](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%80%83&t=31&band_rank=2&Refer=top) 312775
 1. [黄土高原变绿了](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%9C%9F%E9%AB%98%E5%8E%9F%E5%8F%98%E7%BB%BF%E4%BA%86%23&t=31&band_rank=3&Refer=top) 235139
 1. [方圆拍短剧花钱找配音](https://s.weibo.com/weibo?q=%E6%96%B9%E5%9C%86%E6%8B%8D%E7%9F%AD%E5%89%A7%E8%8A%B1%E9%92%B1%E6%89%BE%E9%85%8D%E9%9F%B3&t=31&band_rank=4&Refer=top) 224350
@@ -22,7 +23,6 @@
 1. [香港火灾已致146人遇难](https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE%E5%B7%B2%E8%87%B4146%E4%BA%BA%E9%81%87%E9%9A%BE%23&t=31&band_rank=19&Refer=top) 191260
 1. [让劣迹网红的复出试探无处遁形](https://s.weibo.com/weibo?q=%23%E8%AE%A9%E5%8A%A3%E8%BF%B9%E7%BD%91%E7%BA%A2%E7%9A%84%E5%A4%8D%E5%87%BA%E8%AF%95%E6%8E%A2%E6%97%A0%E5%A4%84%E9%81%81%E5%BD%A2%23&t=31&band_rank=9&Refer=top) 189865
 1. [朱珠 面无表情把老公挤开](https://s.weibo.com/weibo?q=%E6%9C%B1%E7%8F%A0%20%E9%9D%A2%E6%97%A0%E8%A1%A8%E6%83%85%E6%8A%8A%E8%80%81%E5%85%AC%E6%8C%A4%E5%BC%80&t=31&band_rank=12&Refer=top) 188183
-1. [手机壳爱马仕一年狂卖36亿](https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E5%A3%B3%E7%88%B1%E9%A9%AC%E4%BB%95%E4%B8%80%E5%B9%B4%E7%8B%82%E5%8D%9636%E4%BA%BF%23&t=31&band_rank=40&Refer=top) 187682
 1. [爱马仕继承人被25年财管好友骗光财产](https://s.weibo.com/weibo?q=%23%E7%88%B1%E9%A9%AC%E4%BB%95%E7%BB%A7%E6%89%BF%E4%BA%BA%E8%A2%AB25%E5%B9%B4%E8%B4%A2%E7%AE%A1%E5%A5%BD%E5%8F%8B%E9%AA%97%E5%85%89%E8%B4%A2%E4%BA%A7%23&t=31&band_rank=14&Refer=top) 173534
 1. [凯特王妃瘦成纸片人](https://s.weibo.com/weibo?q=%23%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E7%98%A6%E6%88%90%E7%BA%B8%E7%89%87%E4%BA%BA%23&t=31&band_rank=6&Refer=top) 167059
 1. [暨南大学 学生宿舍装安检](https://s.weibo.com/weibo?q=%E6%9A%A8%E5%8D%97%E5%A4%A7%E5%AD%A6%20%E5%AD%A6%E7%94%9F%E5%AE%BF%E8%88%8D%E8%A3%85%E5%AE%89%E6%A3%80&t=31&band_rank=13&Refer=top) 160158
@@ -72,10 +72,11 @@
 1. [宁静选择上综艺不拍戏](https://s.weibo.com/weibo?q=%23%E5%AE%81%E9%9D%99%E9%80%89%E6%8B%A9%E4%B8%8A%E7%BB%BC%E8%89%BA%E4%B8%8D%E6%8B%8D%E6%88%8F%23&t=31&band_rank=32&Refer=top) 36144
 1. [免费职业技能夜校几乎期期爆满](https://s.weibo.com/weibo?q=%23%E5%85%8D%E8%B4%B9%E8%81%8C%E4%B8%9A%E6%8A%80%E8%83%BD%E5%A4%9C%E6%A0%A1%E5%87%A0%E4%B9%8E%E6%9C%9F%E6%9C%9F%E7%88%86%E6%BB%A1%23&t=31&band_rank=41&Refer=top) 36115
 1. [汪苏泷这里不让睡觉](https://s.weibo.com/weibo?q=%E6%B1%AA%E8%8B%8F%E6%B3%B7%E8%BF%99%E9%87%8C%E4%B8%8D%E8%AE%A9%E7%9D%A1%E8%A7%89&t=31&band_rank=43&Refer=top) 36110
+1. [一屋子人凑不齐恩利一个胆子](https://s.weibo.com/weibo?q=%E4%B8%80%E5%B1%8B%E5%AD%90%E4%BA%BA%E5%87%91%E4%B8%8D%E9%BD%90%E6%81%A9%E5%88%A9%E4%B8%80%E4%B8%AA%E8%83%86%E5%AD%90&t=31&band_rank=46&Refer=top) 32912
 1. [疯狂动物城 鸟类](https://s.weibo.com/weibo?q=%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E%20%E9%B8%9F%E7%B1%BB&t=31&band_rank=17&Refer=top) 26542
 1. [穆祉丞星辰大海vlog](https://s.weibo.com/weibo?q=%23%E7%A9%86%E7%A5%89%E4%B8%9E%E6%98%9F%E8%BE%B0%E5%A4%A7%E6%B5%B7vlog%23&t=31&band_rank=20&Refer=top) 25235
 1. [洛杉矶街头现饿了么骑手](https://s.weibo.com/weibo?q=%23%E6%B4%9B%E6%9D%89%E7%9F%B6%E8%A1%97%E5%A4%B4%E7%8E%B0%E9%A5%BF%E4%BA%86%E4%B9%88%E9%AA%91%E6%89%8B%23&t=31&band_rank=40&Refer=top) 25073
-1. [一屋子人凑不齐恩利一个胆子](https://s.weibo.com/weibo?q=%E4%B8%80%E5%B1%8B%E5%AD%90%E4%BA%BA%E5%87%91%E4%B8%8D%E9%BD%90%E6%81%A9%E5%88%A9%E4%B8%80%E4%B8%AA%E8%83%86%E5%AD%90&t=31&band_rank=46&Refer=top) 14243
+1. [12306回应高铁特等座包间像会议室](https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E9%AB%98%E9%93%81%E7%89%B9%E7%AD%89%E5%BA%A7%E5%8C%85%E9%97%B4%E5%83%8F%E4%BC%9A%E8%AE%AE%E5%AE%A4%23&t=31&band_rank=39&Refer=top) 24168
 <!-- END -->
 
 历史归档 [./archives](./archives)
