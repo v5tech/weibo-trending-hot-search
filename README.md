@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-12-02 03:23:46.103492 
+最后更新时间 2025-12-02 04:24:11.115414 
 1. [高市早苗被爆花8384万日元仍惨败](https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%A2%AB%E7%88%86%E8%8A%B18384%E4%B8%87%E6%97%A5%E5%85%83%E4%BB%8D%E6%83%A8%E8%B4%A5%23&t=31&band_rank=1&Refer=top) 812959
 1. [应届硕士偷偷参加国考](https://s.weibo.com/weibo?q=%23%E5%BA%94%E5%B1%8A%E7%A1%95%E5%A3%AB%E5%81%B7%E5%81%B7%E5%8F%82%E5%8A%A0%E5%9B%BD%E8%80%83%23&t=31&band_rank=2&Refer=top) 409030
 1. [治沙人种下的10万株玫瑰长大了](https://s.weibo.com/weibo?q=%23%E6%B2%BB%E6%B2%99%E4%BA%BA%E7%A7%8D%E4%B8%8B%E7%9A%8410%E4%B8%87%E6%A0%AA%E7%8E%AB%E7%91%B0%E9%95%BF%E5%A4%A7%E4%BA%86%23&t=31&band_rank=3&Refer=top) 270864
@@ -71,6 +71,10 @@
 1. [陈赫回母校参加校庆](https://s.weibo.com/weibo?q=%23%E9%99%88%E8%B5%AB%E5%9B%9E%E6%AF%8D%E6%A0%A1%E5%8F%82%E5%8A%A0%E6%A0%A1%E5%BA%86%23&t=31&band_rank=44&Refer=top) 48612
 1. [胡歌给田朴珺做红烧肉](https://s.weibo.com/weibo?q=%E8%83%A1%E6%AD%8C%E7%BB%99%E7%94%B0%E6%9C%B4%E7%8F%BA%E5%81%9A%E7%BA%A2%E7%83%A7%E8%82%89&t=31&band_rank=23&Refer=top) 48314
 1. [邓紫棋演唱会](https://s.weibo.com/weibo?q=%E9%82%93%E7%B4%AB%E6%A3%8B%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=48&Refer=top) 48262
+1. [陈晓演秦始皇](https://s.weibo.com/weibo?q=%E9%99%88%E6%99%93%E6%BC%94%E7%A7%A6%E5%A7%8B%E7%9A%87&t=31&band_rank=19&Refer=top) 44291
+1. [成本70万自研高超音速导弹问世](https://s.weibo.com/weibo?q=%23%E6%88%90%E6%9C%AC70%E4%B8%87%E8%87%AA%E7%A0%94%E9%AB%98%E8%B6%85%E9%9F%B3%E9%80%9F%E5%AF%BC%E5%BC%B9%E9%97%AE%E4%B8%96%23&t=31&band_rank=42&Refer=top) 43283
+1. [葛夕回应上恋综](https://s.weibo.com/weibo?q=%23%E8%91%9B%E5%A4%95%E5%9B%9E%E5%BA%94%E4%B8%8A%E6%81%8B%E7%BB%BC%23&t=31&band_rank=43&Refer=top) 43251
+1. [刘宇宁新歌有去无回](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E6%96%B0%E6%AD%8C%E6%9C%89%E5%8E%BB%E6%97%A0%E5%9B%9E%23&t=31&band_rank=48&Refer=top) 43003
 <!-- END -->
 
 历史归档 [./archives](./archives)
