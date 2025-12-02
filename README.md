@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-12-03 05:22:52.578287 
+最后更新时间 2025-12-03 06:20:01.643912 
 1. [12306回应取消靠窗选座](https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E5%8F%96%E6%B6%88%E9%9D%A0%E7%AA%97%E9%80%89%E5%BA%A7%23&t=31&band_rank=1&Refer=top) 875615
 1. [iPad中国市场份额大跌](https://s.weibo.com/weibo?q=%23iPad%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E4%BB%BD%E9%A2%9D%E5%A4%A7%E8%B7%8C%23&t=31&band_rank=2&Refer=top) 853391
 1. [今年甲流常见问题看这里](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E7%94%B2%E6%B5%81%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E7%9C%8B%E8%BF%99%E9%87%8C%23&t=31&band_rank=3&Refer=top) 829944
@@ -24,17 +24,18 @@
 1. [2025最具票房号召力女演员](https://s.weibo.com/weibo?q=%232025%E6%9C%80%E5%85%B7%E7%A5%A8%E6%88%BF%E5%8F%B7%E5%8F%AC%E5%8A%9B%E5%A5%B3%E6%BC%94%E5%91%98%23&t=31&band_rank=5&Refer=top) 462598
 1. [台湾一旦沦为战场什么都是空谈](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E4%B8%80%E6%97%A6%E6%B2%A6%E4%B8%BA%E6%88%98%E5%9C%BA%E4%BB%80%E4%B9%88%E9%83%BD%E6%98%AF%E7%A9%BA%E8%B0%88%23&t=31&band_rank=19&Refer=top) 441511
 1. [妻子曝光丈夫生前出轨捉奸视频](https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E6%9B%9D%E5%85%89%E4%B8%88%E5%A4%AB%E7%94%9F%E5%89%8D%E5%87%BA%E8%BD%A8%E6%8D%89%E5%A5%B8%E8%A7%86%E9%A2%91%23&t=31&band_rank=14&Refer=top) 356943
+1. [得闲谨制预售总票房破8000万](https://s.weibo.com/weibo?q=%23%E5%BE%97%E9%97%B2%E8%B0%A8%E5%88%B6%E9%A2%84%E5%94%AE%E6%80%BB%E7%A5%A8%E6%88%BF%E7%A0%B48000%E4%B8%87%23&t=31&band_rank=4&Refer=top) 331823
 1. [华晨宇说国内很少有会唱高音的](https://s.weibo.com/weibo?q=%E5%8D%8E%E6%99%A8%E5%AE%87%E8%AF%B4%E5%9B%BD%E5%86%85%E5%BE%88%E5%B0%91%E6%9C%89%E4%BC%9A%E5%94%B1%E9%AB%98%E9%9F%B3%E7%9A%84&t=31&band_rank=31&Refer=top) 314604
+1. [美军压境委内瑞拉总统大跳热舞](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E5%8E%8B%E5%A2%83%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E6%80%BB%E7%BB%9F%E5%A4%A7%E8%B7%B3%E7%83%AD%E8%88%9E%23&t=31&band_rank=25&Refer=top) 293554
+1. [老人腹泻离世儿子睡其床后确诊同症](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E8%85%B9%E6%B3%BB%E7%A6%BB%E4%B8%96%E5%84%BF%E5%AD%90%E7%9D%A1%E5%85%B6%E5%BA%8A%E5%90%8E%E7%A1%AE%E8%AF%8A%E5%90%8C%E7%97%87%23&t=31&band_rank=17&Refer=top) 287284
 1. [刘宇宁说想回去演戏](https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%E8%AF%B4%E6%83%B3%E5%9B%9E%E5%8E%BB%E6%BC%94%E6%88%8F&t=31&band_rank=15&Refer=top) 267516
 1. [蜜雪冰城 留守儿童](https://s.weibo.com/weibo?q=%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%20%E7%95%99%E5%AE%88%E5%84%BF%E7%AB%A5&t=31&band_rank=16&Refer=top) 258954
-1. [老人腹泻离世儿子睡其床后确诊同症](https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E8%85%B9%E6%B3%BB%E7%A6%BB%E4%B8%96%E5%84%BF%E5%AD%90%E7%9D%A1%E5%85%B6%E5%BA%8A%E5%90%8E%E7%A1%AE%E8%AF%8A%E5%90%8C%E7%97%87%23&t=31&band_rank=17&Refer=top) 196011
 1. [王梓莼正片镜头疑似被删光](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A2%93%E8%8E%BC%E6%AD%A3%E7%89%87%E9%95%9C%E5%A4%B4%E7%96%91%E4%BC%BC%E8%A2%AB%E5%88%A0%E5%85%89%23&t=31&band_rank=18&Refer=top) 191296
 1. [再熬八周](https://s.weibo.com/weibo?q=%E5%86%8D%E7%86%AC%E5%85%AB%E5%91%A8&t=31&band_rank=20&Refer=top) 185926
 1. [李纯和杨幂在同一个健身房锻炼](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%BA%AF%E5%92%8C%E6%9D%A8%E5%B9%82%E5%9C%A8%E5%90%8C%E4%B8%80%E4%B8%AA%E5%81%A5%E8%BA%AB%E6%88%BF%E9%94%BB%E7%82%BC%23&t=31&band_rank=21&Refer=top) 185720
 1. [李诞 所有女生尽早完成社会化](https://s.weibo.com/weibo?q=%E6%9D%8E%E8%AF%9E%20%E6%89%80%E6%9C%89%E5%A5%B3%E7%94%9F%E5%B0%BD%E6%97%A9%E5%AE%8C%E6%88%90%E7%A4%BE%E4%BC%9A%E5%8C%96&t=31&band_rank=22&Refer=top) 182541
 1. [杨旭文 陈若琳](https://s.weibo.com/weibo?q=%E6%9D%A8%E6%97%AD%E6%96%87%20%E9%99%88%E8%8B%A5%E7%90%B3&t=31&band_rank=23&Refer=top) 179089
 1. [郑天浩 王梓莼](https://s.weibo.com/weibo?q=%E9%83%91%E5%A4%A9%E6%B5%A9%20%E7%8E%8B%E6%A2%93%E8%8E%BC&t=31&band_rank=24&Refer=top) 118965
-1. [美军压境委内瑞拉总统大跳热舞](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E5%8E%8B%E5%A2%83%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E6%80%BB%E7%BB%9F%E5%A4%A7%E8%B7%B3%E7%83%AD%E8%88%9E%23&t=31&band_rank=25&Refer=top) 99965
 1. [陈少熙直播](https://s.weibo.com/weibo?q=%E9%99%88%E5%B0%91%E7%86%99%E7%9B%B4%E6%92%AD&t=31&band_rank=26&Refer=top) 95200
 1. [国家发社保补贴了](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E5%8F%91%E7%A4%BE%E4%BF%9D%E8%A1%A5%E8%B4%B4%E4%BA%86%23&t=31&band_rank=27&Refer=top) 95109
 1. [大侦探11首案录制阵容](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E4%BE%A6%E6%8E%A211%E9%A6%96%E6%A1%88%E5%BD%95%E5%88%B6%E9%98%B5%E5%AE%B9%23&t=31&band_rank=32&Refer=top) 94204
@@ -72,7 +73,6 @@
 1. [赵本山女儿说在努力还房贷](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E6%9C%AC%E5%B1%B1%E5%A5%B3%E5%84%BF%E8%AF%B4%E5%9C%A8%E5%8A%AA%E5%8A%9B%E8%BF%98%E6%88%BF%E8%B4%B7%23&t=31&band_rank=38&Refer=top) 57195
 1. [男子直播叫嚣来抓我嘛随后被抓](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%9B%B4%E6%92%AD%E5%8F%AB%E5%9A%A3%E6%9D%A5%E6%8A%93%E6%88%91%E5%98%9B%E9%9A%8F%E5%90%8E%E8%A2%AB%E6%8A%93%23&t=31&band_rank=39&Refer=top) 56352
 1. [枭起青壤细节](https://s.weibo.com/weibo?q=%E6%9E%AD%E8%B5%B7%E9%9D%92%E5%A3%A4%E7%BB%86%E8%8A%82&t=31&band_rank=45&Refer=top) 56082
-1. [得闲谨制预售总票房破8000万](https://s.weibo.com/weibo?q=%23%E5%BE%97%E9%97%B2%E8%B0%A8%E5%88%B6%E9%A2%84%E5%94%AE%E6%80%BB%E7%A5%A8%E6%88%BF%E7%A0%B48000%E4%B8%87%23&t=31&band_rank=4&Refer=top) 30043
 1. [日本搞事背后](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%90%9E%E4%BA%8B%E8%83%8C%E5%90%8E%23&t=31&band_rank=48&Refer=top) 24754
 <!-- END -->
 
