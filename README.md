@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-12-05 03:20:53.804350 
+最后更新时间 2025-12-05 04:28:30.405532 
 1. [官方确认倒车致2人身亡女子系法官](https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E7%A1%AE%E8%AE%A4%E5%80%92%E8%BD%A6%E8%87%B42%E4%BA%BA%E8%BA%AB%E4%BA%A1%E5%A5%B3%E5%AD%90%E7%B3%BB%E6%B3%95%E5%AE%98%23&t=31&band_rank=1&Refer=top) 818901
 1. [狙击蝴蝶 误点小广告](https://s.weibo.com/weibo?q=%E7%8B%99%E5%87%BB%E8%9D%B4%E8%9D%B6%20%E8%AF%AF%E7%82%B9%E5%B0%8F%E5%B9%BF%E5%91%8A&t=31&band_rank=2&Refer=top) 461179
 1. [2025宪法宣传周](https://s.weibo.com/weibo?q=%232025%E5%AE%AA%E6%B3%95%E5%AE%A3%E4%BC%A0%E5%91%A8%23&t=31&band_rank=3&Refer=top) 307941
@@ -71,7 +71,10 @@
 1. [吴磊打游戏爽到了](https://s.weibo.com/weibo?q=%E5%90%B4%E7%A3%8A%E6%89%93%E6%B8%B8%E6%88%8F%E7%88%BD%E5%88%B0%E4%BA%86&t=31&band_rank=40&Refer=top) 26237
 1. [10公斤奶仅有不到1公斤奶皮子](https://s.weibo.com/weibo?q=%2310%E5%85%AC%E6%96%A4%E5%A5%B6%E4%BB%85%E6%9C%89%E4%B8%8D%E5%88%B01%E5%85%AC%E6%96%A4%E5%A5%B6%E7%9A%AE%E5%AD%90%23&t=31&band_rank=41&Refer=top) 26178
 1. [周深家里家外2主题曲](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E5%AE%B6%E9%87%8C%E5%AE%B6%E5%A4%962%E4%B8%BB%E9%A2%98%E6%9B%B2%23&t=31&band_rank=50&Refer=top) 26117
+1. [居民废弃酒瓶中砸出过冬眼镜蛇](https://s.weibo.com/weibo?q=%23%E5%B1%85%E6%B0%91%E5%BA%9F%E5%BC%83%E9%85%92%E7%93%B6%E4%B8%AD%E7%A0%B8%E5%87%BA%E8%BF%87%E5%86%AC%E7%9C%BC%E9%95%9C%E8%9B%87%23&t=31&band_rank=13&Refer=top) 24850
 1. [神似张碧晨的美女入殓师走红](https://s.weibo.com/weibo?q=%E7%A5%9E%E4%BC%BC%E5%BC%A0%E7%A2%A7%E6%99%A8%E7%9A%84%E7%BE%8E%E5%A5%B3%E5%85%A5%E6%AE%93%E5%B8%88%E8%B5%B0%E7%BA%A2&t=31&band_rank=50&Refer=top) 23845
+1. [狙击蝴蝶原著](https://s.weibo.com/weibo?q=%E7%8B%99%E5%87%BB%E8%9D%B4%E8%9D%B6%E5%8E%9F%E8%91%97&t=31&band_rank=30&Refer=top) 17862
+1. [张小斐 时尚战绩](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%B0%8F%E6%96%90%20%E6%97%B6%E5%B0%9A%E6%88%98%E7%BB%A9&t=31&band_rank=37&Refer=top) 17810
 <!-- END -->
 
 历史归档 [./archives](./archives)
