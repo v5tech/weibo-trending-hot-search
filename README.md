@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-12-07 04:23:43.363485 
+最后更新时间 2025-12-07 05:19:36.061739 
 1. [爱奇艺道歉](https://s.weibo.com/weibo?q=%E7%88%B1%E5%A5%87%E8%89%BA%E9%81%93%E6%AD%89&t=31&band_rank=42&Refer=top) 4151862
 1. [尖叫之夜内场](https://s.weibo.com/weibo?q=%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E5%86%85%E5%9C%BA&t=31&band_rank=1&Refer=top) 1660563
 1. [公考枪手替考89次敛财千万](https://s.weibo.com/weibo?q=%23%E5%85%AC%E8%80%83%E6%9E%AA%E6%89%8B%E6%9B%BF%E8%80%8389%E6%AC%A1%E6%95%9B%E8%B4%A2%E5%8D%83%E4%B8%87%23&t=31&band_rank=2&Refer=top) 321632
