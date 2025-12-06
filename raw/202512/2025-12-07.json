@@ -261,7 +261,7 @@
   },
   "朱丹主持": {
     "url": "https://s.weibo.com/weibo?q=%E6%9C%B1%E4%B8%B9%E4%B8%BB%E6%8C%81&t=31&band_rank=35&Refer=top",
-    "hot": 42455
+    "hot": 42519
   },
   "杨幂带着一家人压轴": {
     "url": "https://s.weibo.com/weibo?q=%E6%9D%A8%E5%B9%82%E5%B8%A6%E7%9D%80%E4%B8%80%E5%AE%B6%E4%BA%BA%E5%8E%8B%E8%BD%B4&t=31&band_rank=38&Refer=top",
@@ -270,5 +270,9 @@
   "王王队": {
     "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E7%8E%8B%E9%98%9F&t=31&band_rank=49&Refer=top",
     "hot": 42093
+  },
+  "世界杯抽签仪式": {
+    "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%8A%BD%E7%AD%BE%E4%BB%AA%E5%BC%8F&t=31&band_rank=39&Refer=top",
+    "hot": 40723
   }
 }
