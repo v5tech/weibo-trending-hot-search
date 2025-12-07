@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-12-08 05:18:49.343995 
+最后更新时间 2025-12-08 06:20:44.349357 
 1. [中方不接受日方所谓交涉](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E4%B8%8D%E6%8E%A5%E5%8F%97%E6%97%A5%E6%96%B9%E6%89%80%E8%B0%93%E4%BA%A4%E6%B6%89%23&t=31&band_rank=1&Refer=top) 884227
 1. [腾讯视频星光大赏](https://s.weibo.com/weibo?q=%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91%E6%98%9F%E5%85%89%E5%A4%A7%E8%B5%8F&t=31&band_rank=2&Refer=top) 678446
 1. [国产挖掘机零下40摄氏度一秒启动](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BA%A7%E6%8C%96%E6%8E%98%E6%9C%BA%E9%9B%B6%E4%B8%8B40%E6%91%84%E6%B0%8F%E5%BA%A6%E4%B8%80%E7%A7%92%E5%90%AF%E5%8A%A8%23&t=31&band_rank=3&Refer=top) 662020
@@ -71,14 +71,17 @@
 1. [被成毅新剧爽到了](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%88%90%E6%AF%85%E6%96%B0%E5%89%A7%E7%88%BD%E5%88%B0%E4%BA%86%23&t=31&band_rank=49&Refer=top) 81370
 1. [冰面碎了初中女生拉住4岁男童](https://s.weibo.com/weibo?q=%23%E5%86%B0%E9%9D%A2%E7%A2%8E%E4%BA%86%E5%88%9D%E4%B8%AD%E5%A5%B3%E7%94%9F%E6%8B%89%E4%BD%8F4%E5%B2%81%E7%94%B7%E7%AB%A5%23&t=31&band_rank=48&Refer=top) 81369
 1. [枭起青壤](https://s.weibo.com/weibo?q=%E6%9E%AD%E8%B5%B7%E9%9D%92%E5%A3%A4&t=31&band_rank=50&Refer=top) 81356
-1. [哈尔滨的面包树上停满了小鸟](https://s.weibo.com/weibo?q=%E5%93%88%E5%B0%94%E6%BB%A8%E7%9A%84%E9%9D%A2%E5%8C%85%E6%A0%91%E4%B8%8A%E5%81%9C%E6%BB%A1%E4%BA%86%E5%B0%8F%E9%B8%9F&t=31&band_rank=39&Refer=top) 45662
-1. [用挖耳勺给厨师拍宣传片](https://s.weibo.com/weibo?q=%E7%94%A8%E6%8C%96%E8%80%B3%E5%8B%BA%E7%BB%99%E5%8E%A8%E5%B8%88%E6%8B%8D%E5%AE%A3%E4%BC%A0%E7%89%87&t=31&band_rank=27&Refer=top) 38093
-1. [水果姐特鲁多 CCTV3和CCTV1串台了](https://s.weibo.com/weibo?q=%E6%B0%B4%E6%9E%9C%E5%A7%90%E7%89%B9%E9%B2%81%E5%A4%9A%20CCTV3%E5%92%8CCCTV1%E4%B8%B2%E5%8F%B0%E4%BA%86&t=31&band_rank=27&Refer=top) 38085
-1. [杨幂尖叫之夜最高荣誉](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E6%9C%80%E9%AB%98%E8%8D%A3%E8%AA%89%23&t=31&band_rank=30&Refer=top) 38023
-1. [刘宇宁吃席打包](https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%E5%90%83%E5%B8%AD%E6%89%93%E5%8C%85&t=31&band_rank=35&Refer=top) 37898
-1. [美国不再将俄罗斯称为直接威胁](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%8D%E5%86%8D%E5%B0%86%E4%BF%84%E7%BD%97%E6%96%AF%E7%A7%B0%E4%B8%BA%E7%9B%B4%E6%8E%A5%E5%A8%81%E8%83%81%23&t=31&band_rank=29&Refer=top) 37786
+1. [刘宇宁吃席打包](https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%E5%90%83%E5%B8%AD%E6%89%93%E5%8C%85&t=31&band_rank=35&Refer=top) 74849
+1. [王一博微指破亿](https://s.weibo.com/weibo?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%BE%AE%E6%8C%87%E7%A0%B4%E4%BA%BF&t=31&band_rank=26&Refer=top) 74358
+1. [用挖耳勺给厨师拍宣传片](https://s.weibo.com/weibo?q=%E7%94%A8%E6%8C%96%E8%80%B3%E5%8B%BA%E7%BB%99%E5%8E%A8%E5%B8%88%E6%8B%8D%E5%AE%A3%E4%BC%A0%E7%89%87&t=31&band_rank=27&Refer=top) 74246
+1. [美国不再将俄罗斯称为直接威胁](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%8D%E5%86%8D%E5%B0%86%E4%BF%84%E7%BD%97%E6%96%AF%E7%A7%B0%E4%B8%BA%E7%9B%B4%E6%8E%A5%E5%A8%81%E8%83%81%23&t=31&band_rank=29&Refer=top) 74171
+1. [哈尔滨的面包树上停满了小鸟](https://s.weibo.com/weibo?q=%E5%93%88%E5%B0%94%E6%BB%A8%E7%9A%84%E9%9D%A2%E5%8C%85%E6%A0%91%E4%B8%8A%E5%81%9C%E6%BB%A1%E4%BA%86%E5%B0%8F%E9%B8%9F&t=31&band_rank=39&Refer=top) 73994
+1. [杨幂尖叫之夜最高荣誉](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E6%9C%80%E9%AB%98%E8%8D%A3%E8%AA%89%23&t=31&band_rank=30&Refer=top) 73900
+1. [水果姐特鲁多 CCTV3和CCTV1串台了](https://s.weibo.com/weibo?q=%E6%B0%B4%E6%9E%9C%E5%A7%90%E7%89%B9%E9%B2%81%E5%A4%9A%20CCTV3%E5%92%8CCCTV1%E4%B8%B2%E5%8F%B0%E4%BA%86&t=31&band_rank=27&Refer=top) 73702
+1. [大生意人](https://s.weibo.com/weibo?q=%E5%A4%A7%E7%94%9F%E6%84%8F%E4%BA%BA&t=31&band_rank=47&Refer=top) 73437
+1. [周深但行好事前程已至](https://s.weibo.com/weibo?q=%E5%91%A8%E6%B7%B1%E4%BD%86%E8%A1%8C%E5%A5%BD%E4%BA%8B%E5%89%8D%E7%A8%8B%E5%B7%B2%E8%87%B3&t=31&band_rank=43&Refer=top) 73368
+1. [酒店回应中国女游客从9楼坠亡](https://s.weibo.com/weibo?q=%23%E9%85%92%E5%BA%97%E5%9B%9E%E5%BA%94%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%B8%B8%E5%AE%A2%E4%BB%8E9%E6%A5%BC%E5%9D%A0%E4%BA%A1%23&t=31&band_rank=50&Refer=top) 73317
 1. [朱志鑫纯欧巴](https://s.weibo.com/weibo?q=%E6%9C%B1%E5%BF%97%E9%91%AB%E7%BA%AF%E6%AC%A7%E5%B7%B4&t=31&band_rank=36&Refer=top) 37707
-1. [周深但行好事前程已至](https://s.weibo.com/weibo?q=%E5%91%A8%E6%B7%B1%E4%BD%86%E8%A1%8C%E5%A5%BD%E4%BA%8B%E5%89%8D%E7%A8%8B%E5%B7%B2%E8%87%B3&t=31&band_rank=43&Refer=top) 37662
 1. [于正说杨幂值得更好的](https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E8%AF%B4%E6%9D%A8%E5%B9%82%E5%80%BC%E5%BE%97%E6%9B%B4%E5%A5%BD%E7%9A%84%23&t=31&band_rank=39&Refer=top) 35561
 1. [枭起青壤 黑白涧大战](https://s.weibo.com/weibo?q=%E6%9E%AD%E8%B5%B7%E9%9D%92%E5%A3%A4%20%E9%BB%91%E7%99%BD%E6%B6%A7%E5%A4%A7%E6%88%98&t=31&band_rank=45&Refer=top) 35512
 <!-- END -->
