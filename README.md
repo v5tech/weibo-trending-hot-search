@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-12-09 02:35:45.212567 
+最后更新时间 2025-12-09 03:19:39.448609 
 1. [日本地震](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%23&t=31&band_rank=1&Refer=top) 5559663
 1. [经典版QQ回归](https://s.weibo.com/weibo?q=%23%E7%BB%8F%E5%85%B8%E7%89%88QQ%E5%9B%9E%E5%BD%92%23&t=31&band_rank=2&Refer=top) 351083
 1. [盘点2025](https://s.weibo.com/weibo?q=%23%E7%9B%98%E7%82%B92025%23&t=31&band_rank=3&Refer=top) 300817
@@ -69,6 +69,10 @@
 1. [冬天洗澡劝你少做这3件事](https://s.weibo.com/weibo?q=%23%E5%86%AC%E5%A4%A9%E6%B4%97%E6%BE%A1%E5%8A%9D%E4%BD%A0%E5%B0%91%E5%81%9A%E8%BF%993%E4%BB%B6%E4%BA%8B%23&t=31&band_rank=31&Refer=top) 31033
 1. [陈添祥官宣星光大赏](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%B7%BB%E7%A5%A5%E5%AE%98%E5%AE%A3%E6%98%9F%E5%85%89%E5%A4%A7%E8%B5%8F%23&t=31&band_rank=44&Refer=top) 30799
 1. [马航MH370索赔案每案判赔290万](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E8%88%AAMH370%E7%B4%A2%E8%B5%94%E6%A1%88%E6%AF%8F%E6%A1%88%E5%88%A4%E8%B5%94290%E4%B8%87%23&t=31&band_rank=50&Refer=top) 30681
+1. [日本12块钱一份的鱼干饭](https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC12%E5%9D%97%E9%92%B1%E4%B8%80%E4%BB%BD%E7%9A%84%E9%B1%BC%E5%B9%B2%E9%A5%AD&t=31&band_rank=37&Refer=top) 28855
+1. [卡梅隆认识章子怡19年了](https://s.weibo.com/weibo?q=%23%E5%8D%A1%E6%A2%85%E9%9A%86%E8%AE%A4%E8%AF%86%E7%AB%A0%E5%AD%90%E6%80%A119%E5%B9%B4%E4%BA%86%23&t=31&band_rank=42&Refer=top) 28848
+1. [苟仲文一审被判死缓](https://s.weibo.com/weibo?q=%23%E8%8B%9F%E4%BB%B2%E6%96%87%E4%B8%80%E5%AE%A1%E8%A2%AB%E5%88%A4%E6%AD%BB%E7%BC%93%23&t=31&band_rank=49&Refer=top) 28836
+1. [花漾少女杀人事件](https://s.weibo.com/weibo?q=%E8%8A%B1%E6%BC%BE%E5%B0%91%E5%A5%B3%E6%9D%80%E4%BA%BA%E4%BA%8B%E4%BB%B6&t=31&band_rank=50&Refer=top) 28835
 <!-- END -->
 
 历史归档 [./archives](./archives)
