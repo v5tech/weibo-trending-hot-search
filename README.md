@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-12-10 04:24:22.802178 
+最后更新时间 2025-12-10 05:20:40.901404 
 1. [韩国硬刚高市早苗](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%A1%AC%E5%88%9A%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%23&t=31&band_rank=1&Refer=top) 855204
 1. [狙击蝴蝶](https://s.weibo.com/weibo?q=%E7%8B%99%E5%87%BB%E8%9D%B4%E8%9D%B6&t=31&band_rank=2&Refer=top) 259852
 1. [11月我国外贸增速回升至4.1%](https://s.weibo.com/weibo?q=%2311%E6%9C%88%E6%88%91%E5%9B%BD%E5%A4%96%E8%B4%B8%E5%A2%9E%E9%80%9F%E5%9B%9E%E5%8D%87%E8%87%B34.1%25%23&t=31&band_rank=3&Refer=top) 257010
@@ -82,6 +82,9 @@
 1. [韩总统府批驳高市涉韩日领土争议发言](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E6%80%BB%E7%BB%9F%E5%BA%9C%E6%89%B9%E9%A9%B3%E9%AB%98%E5%B8%82%E6%B6%89%E9%9F%A9%E6%97%A5%E9%A2%86%E5%9C%9F%E4%BA%89%E8%AE%AE%E5%8F%91%E8%A8%80%23&t=31&band_rank=43&Refer=top) 33744
 1. [女博士遭外籍丈夫杀害](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%8D%9A%E5%A3%AB%E9%81%AD%E5%A4%96%E7%B1%8D%E4%B8%88%E5%A4%AB%E6%9D%80%E5%AE%B3%23&t=31&band_rank=40&Refer=top) 33736
 1. [亚冠精英联赛](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E5%86%A0%E7%B2%BE%E8%8B%B1%E8%81%94%E8%B5%9B%23&t=31&band_rank=50&Refer=top) 33726
+1. [孙兴慜遭前女友敲诈案](https://s.weibo.com/weibo?q=%E5%AD%99%E5%85%B4%E6%85%9C%E9%81%AD%E5%89%8D%E5%A5%B3%E5%8F%8B%E6%95%B2%E8%AF%88%E6%A1%88&t=31&band_rank=33&Refer=top) 21104
+1. [日本社民党党首说高市应辞职](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%A4%BE%E6%B0%91%E5%85%9A%E5%85%9A%E9%A6%96%E8%AF%B4%E9%AB%98%E5%B8%82%E5%BA%94%E8%BE%9E%E8%81%8C%23&t=31&band_rank=37&Refer=top) 21104
+1. [吸烟的危害具象化了](https://s.weibo.com/weibo?q=%E5%90%B8%E7%83%9F%E7%9A%84%E5%8D%B1%E5%AE%B3%E5%85%B7%E8%B1%A1%E5%8C%96%E4%BA%86&t=31&band_rank=46&Refer=top) 21104
 <!-- END -->
 
 历史归档 [./archives](./archives)
