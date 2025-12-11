@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-12-12 03:21:58.367827 
+最后更新时间 2025-12-12 04:27:11.114076 
 1. [国补](https://s.weibo.com/weibo?q=%E5%9B%BD%E8%A1%A5&t=31&band_rank=1&Refer=top) 800913
 1. [狙击蝴蝶](https://s.weibo.com/weibo?q=%E7%8B%99%E5%87%BB%E8%9D%B4%E8%9D%B6&t=31&band_rank=2&Refer=top) 286491
 1. [2025最后20天](https://s.weibo.com/weibo?q=%232025%E6%9C%80%E5%90%8E20%E5%A4%A9%23&t=31&band_rank=3&Refer=top) 283232
@@ -75,6 +75,10 @@
 1. [这轮寒潮威力有多大](https://s.weibo.com/weibo?q=%23%E8%BF%99%E8%BD%AE%E5%AF%92%E6%BD%AE%E5%A8%81%E5%8A%9B%E6%9C%89%E5%A4%9A%E5%A4%A7%23&t=31&band_rank=50&Refer=top) 29842
 1. [王者荣耀挑战者杯](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%8C%91%E6%88%98%E8%80%85%E6%9D%AF%23&t=31&band_rank=48&Refer=top) 23667
 1. [2025最下饭综艺TOP50](https://s.weibo.com/weibo?q=%232025%E6%9C%80%E4%B8%8B%E9%A5%AD%E7%BB%BC%E8%89%BATOP50%23&t=31&band_rank=50&Refer=top) 23662
+1. [多方回应用东方树叶养茶菌当宠物](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94%E7%94%A8%E4%B8%9C%E6%96%B9%E6%A0%91%E5%8F%B6%E5%85%BB%E8%8C%B6%E8%8F%8C%E5%BD%93%E5%AE%A0%E7%89%A9%23&t=31&band_rank=30&Refer=top) 16575
+1. [新形势下经济工作五个必须](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%BD%A2%E5%8A%BF%E4%B8%8B%E7%BB%8F%E6%B5%8E%E5%B7%A5%E4%BD%9C%E4%BA%94%E4%B8%AA%E5%BF%85%E9%A1%BB%23&t=31&band_rank=45&Refer=top) 14381
+1. [微博网友年度期待电影](https://s.weibo.com/weibo?q=%E5%BE%AE%E5%8D%9A%E7%BD%91%E5%8F%8B%E5%B9%B4%E5%BA%A6%E6%9C%9F%E5%BE%85%E7%94%B5%E5%BD%B1&t=31&band_rank=47&Refer=top) 14380
+1. [2026中国经济怎么干](https://s.weibo.com/weibo?q=%232026%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%80%8E%E4%B9%88%E5%B9%B2%23&t=31&band_rank=50&Refer=top) 14379
 <!-- END -->
 
 历史归档 [./archives](./archives)
