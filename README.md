@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-12-13 04:27:02.722237 
+最后更新时间 2025-12-13 05:20:57.158966 
 1. [东北雨姐转世账号被关闭](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E9%9B%A8%E5%A7%90%E8%BD%AC%E4%B8%96%E8%B4%A6%E5%8F%B7%E8%A2%AB%E5%85%B3%E9%97%AD%23&t=31&band_rank=1&Refer=top) 882502
 1. [双轨开播](https://s.weibo.com/weibo?q=%E5%8F%8C%E8%BD%A8%E5%BC%80%E6%92%AD&t=31&band_rank=1&Refer=top) 441727
 1. [女子仅退款225个快递案现新受害者](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%BB%85%E9%80%80%E6%AC%BE225%E4%B8%AA%E5%BF%AB%E9%80%92%E6%A1%88%E7%8E%B0%E6%96%B0%E5%8F%97%E5%AE%B3%E8%80%85%23&t=31&band_rank=2&Refer=top) 438289
@@ -90,6 +90,8 @@
 1. [檀健次落地是真的饿了](https://s.weibo.com/weibo?q=%E6%AA%80%E5%81%A5%E6%AC%A1%E8%90%BD%E5%9C%B0%E6%98%AF%E7%9C%9F%E7%9A%84%E9%A5%BF%E4%BA%86&t=31&band_rank=49&Refer=top) 36059
 1. [KPL](https://s.weibo.com/weibo?q=KPL&t=31&band_rank=50&Refer=top) 36032
 1. [一诺MVP](https://s.weibo.com/weibo?q=%E4%B8%80%E8%AF%BAMVP&t=31&band_rank=42&Refer=top) 31660
+1. [刘亦菲与朱亚文是大学同学](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E4%B8%8E%E6%9C%B1%E4%BA%9A%E6%96%87%E6%98%AF%E5%A4%A7%E5%AD%A6%E5%90%8C%E5%AD%A6%23&t=31&band_rank=19&Refer=top) 25677
+1. [iPhone拍照脸歪的问题解决了](https://s.weibo.com/weibo?q=iPhone%E6%8B%8D%E7%85%A7%E8%84%B8%E6%AD%AA%E7%9A%84%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3%E4%BA%86&t=31&band_rank=46&Refer=top) 25666
 <!-- END -->
 
 历史归档 [./archives](./archives)
