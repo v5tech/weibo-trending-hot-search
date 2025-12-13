@@ -79,6 +79,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E8%B0%A2%E8%B0%A27824%E4%BD%8D%E6%AE%8B%E7%89%B9%E5%A5%A5%E8%BF%90%E5%8A%A8%E5%91%98%23&t=31&band_rank=9&Refer=top",
     "hot": 119521
   },
+  "今年下雪为啥不撒融雪剂了": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E4%B8%8B%E9%9B%AA%E4%B8%BA%E5%95%A5%E4%B8%8D%E6%92%92%E8%9E%8D%E9%9B%AA%E5%89%82%E4%BA%86%23&t=31&band_rank=32&Refer=top",
+    "hot": 118459
+  },
   "每天练背10分钟是回报率最高的运动": {
     "url": "https://s.weibo.com/weibo?q=%E6%AF%8F%E5%A4%A9%E7%BB%83%E8%83%8C10%E5%88%86%E9%92%9F%E6%98%AF%E5%9B%9E%E6%8A%A5%E7%8E%87%E6%9C%80%E9%AB%98%E7%9A%84%E8%BF%90%E5%8A%A8&t=31&band_rank=20&Refer=top",
     "hot": 112518
@@ -126,10 +130,6 @@
   "郭艾伦重返CBA": {
     "url": "https://s.weibo.com/weibo?q=%E9%83%AD%E8%89%BE%E4%BC%A6%E9%87%8D%E8%BF%94CBA&t=31&band_rank=31&Refer=top",
     "hot": 91500
-  },
-  "今年下雪为啥不撒融雪剂了": {
-    "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E4%B8%8B%E9%9B%AA%E4%B8%BA%E5%95%A5%E4%B8%8D%E6%92%92%E8%9E%8D%E9%9B%AA%E5%89%82%E4%BA%86%23&t=31&band_rank=32&Refer=top",
-    "hot": 91365
   },
   "小郑 一天": {
     "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E9%83%91%20%E4%B8%80%E5%A4%A9&t=31&band_rank=33&Refer=top",
@@ -285,22 +285,26 @@
   },
   "收费站捡到戴电话手表的猫咪": {
     "url": "https://s.weibo.com/weibo?q=%E6%94%B6%E8%B4%B9%E7%AB%99%E6%8D%A1%E5%88%B0%E6%88%B4%E7%94%B5%E8%AF%9D%E6%89%8B%E8%A1%A8%E7%9A%84%E7%8C%AB%E5%92%AA&t=31&band_rank=25&Refer=top",
-    "hot": 22688
+    "hot": 24193
   },
   "2025国产剧人气TOP50": {
     "url": "https://s.weibo.com/weibo?q=%232025%E5%9B%BD%E4%BA%A7%E5%89%A7%E4%BA%BA%E6%B0%94TOP50%23&t=31&band_rank=27&Refer=top",
-    "hot": 22682
+    "hot": 24192
   },
   "日本八纮一宇塔应当被拆除": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%85%AB%E7%BA%AE%E4%B8%80%E5%AE%87%E5%A1%94%E5%BA%94%E5%BD%93%E8%A2%AB%E6%8B%86%E9%99%A4%23&t=31&band_rank=30&Refer=top",
-    "hot": 22662
+    "hot": 24188
   },
   "孙颖莎退赛后匆匆备战混双": {
     "url": "https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E9%80%80%E8%B5%9B%E5%90%8E%E5%8C%86%E5%8C%86%E5%A4%87%E6%88%98%E6%B7%B7%E5%8F%8C&t=31&band_rank=31&Refer=top",
-    "hot": 22659
+    "hot": 24188
   },
   "微博年度期待作品": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E5%B9%B4%E5%BA%A6%E6%9C%9F%E5%BE%85%E4%BD%9C%E5%93%81%23&t=31&band_rank=49&Refer=top",
-    "hot": 22555
+    "hot": 24172
+  },
+  "iOS未来3年路线图曝光": {
+    "url": "https://s.weibo.com/weibo?q=%23iOS%E6%9C%AA%E6%9D%A53%E5%B9%B4%E8%B7%AF%E7%BA%BF%E5%9B%BE%E6%9B%9D%E5%85%89%23&t=31&band_rank=50&Refer=top",
+    "hot": 24168
   }
 }
