@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-12-15 04:25:01.689570 
+最后更新时间 2025-12-15 05:20:34.549359 
 1. [王皓生气了](https://s.weibo.com/weibo?q=%E7%8E%8B%E7%9A%93%E7%94%9F%E6%B0%94%E4%BA%86&t=31&band_rank=1&Refer=top) 889891
 1. [我国已经进入拉尼娜状态](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E5%B7%B2%E7%BB%8F%E8%BF%9B%E5%85%A5%E6%8B%89%E5%B0%BC%E5%A8%9C%E7%8A%B6%E6%80%81%23&t=31&band_rank=2&Refer=top) 588174
 1. [聚焦经济社会发展](https://s.weibo.com/weibo?q=%23%E8%81%9A%E7%84%A6%E7%BB%8F%E6%B5%8E%E7%A4%BE%E4%BC%9A%E5%8F%91%E5%B1%95%23&t=31&band_rank=3&Refer=top) 554186
@@ -67,6 +67,7 @@
 1. [林一去祁连家串门了](https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%B8%80%E5%8E%BB%E7%A5%81%E8%BF%9E%E5%AE%B6%E4%B8%B2%E9%97%A8%E4%BA%86%23&t=31&band_rank=29&Refer=top) 59307
 1. [T1夺冠](https://s.weibo.com/weibo?q=T1%E5%A4%BA%E5%86%A0&t=31&band_rank=44&Refer=top) 59038
 1. [成毅的招商](https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E7%9A%84%E6%8B%9B%E5%95%86%23&t=31&band_rank=49&Refer=top) 58936
+1. [水龙吟](https://s.weibo.com/weibo?q=%E6%B0%B4%E9%BE%99%E5%90%9F&t=31&band_rank=4&Refer=top) 35817
 1. [731部队特别移送制度有多残暴](https://s.weibo.com/weibo?q=%23731%E9%83%A8%E9%98%9F%E7%89%B9%E5%88%AB%E7%A7%BB%E9%80%81%E5%88%B6%E5%BA%A6%E6%9C%89%E5%A4%9A%E6%AE%8B%E6%9A%B4%23&t=31&band_rank=15&Refer=top) 32539
 1. [美伢回应闭店](https://s.weibo.com/weibo?q=%E7%BE%8E%E4%BC%A2%E5%9B%9E%E5%BA%94%E9%97%AD%E5%BA%97&t=31&band_rank=26&Refer=top) 31864
 1. [长安二十四计](https://s.weibo.com/weibo?q=%E9%95%BF%E5%AE%89%E4%BA%8C%E5%8D%81%E5%9B%9B%E8%AE%A1&t=31&band_rank=31&Refer=top) 30977
@@ -86,6 +87,7 @@
 1. [Peyz泽丽输出高于HLE三C之和](https://s.weibo.com/weibo?q=%23Peyz%E6%B3%BD%E4%B8%BD%E8%BE%93%E5%87%BA%E9%AB%98%E4%BA%8EHLE%E4%B8%89C%E4%B9%8B%E5%92%8C%23&t=31&band_rank=47&Refer=top) 23714
 1. [原来十年之约是李飞和柴鸡蛋](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E5%8D%81%E5%B9%B4%E4%B9%8B%E7%BA%A6%E6%98%AF%E6%9D%8E%E9%A3%9E%E5%92%8C%E6%9F%B4%E9%B8%A1%E8%9B%8B&t=31&band_rank=48&Refer=top) 23711
 1. [当暴力萝莉遇上阴湿糙汉](https://s.weibo.com/weibo?q=%E5%BD%93%E6%9A%B4%E5%8A%9B%E8%90%9D%E8%8E%89%E9%81%87%E4%B8%8A%E9%98%B4%E6%B9%BF%E7%B3%99%E6%B1%89&t=31&band_rank=50&Refer=top) 23704
+1. [肖战一把蒲扇摇出矜贵公子与糙汉钳工](https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E4%B8%80%E6%8A%8A%E8%92%B2%E6%89%87%E6%91%87%E5%87%BA%E7%9F%9C%E8%B4%B5%E5%85%AC%E5%AD%90%E4%B8%8E%E7%B3%99%E6%B1%89%E9%92%B3%E5%B7%A5&t=31&band_rank=50&Refer=top) 22699
 <!-- END -->
 
 历史归档 [./archives](./archives)
