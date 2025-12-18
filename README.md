@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-12-19 02:36:21.297185 
+最后更新时间 2025-12-19 03:19:31.905755 
 1. [海南封关](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%8D%97%E5%B0%81%E5%85%B3%23&t=31&band_rank=1&Refer=top) 817148
 1. [周大福一条金手链多收9000元](https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%A4%A7%E7%A6%8F%E4%B8%80%E6%9D%A1%E9%87%91%E6%89%8B%E9%93%BE%E5%A4%9A%E6%94%B69000%E5%85%83%23&t=31&band_rank=4&Refer=top) 456511
 1. [我的女友怕len](https://s.weibo.com/weibo?q=%E6%88%91%E7%9A%84%E5%A5%B3%E5%8F%8B%E6%80%95len&t=31&band_rank=2&Refer=top) 279947
@@ -60,10 +60,10 @@
 1. [女子路边买麻花摊主切完要价160元](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%B7%AF%E8%BE%B9%E4%B9%B0%E9%BA%BB%E8%8A%B1%E6%91%8A%E4%B8%BB%E5%88%87%E5%AE%8C%E8%A6%81%E4%BB%B7160%E5%85%83%23&t=31&band_rank=48&Refer=top) 85217
 1. [男子公园骑车遭铁丝勒脖身亡](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%85%AC%E5%9B%AD%E9%AA%91%E8%BD%A6%E9%81%AD%E9%93%81%E4%B8%9D%E5%8B%92%E8%84%96%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=49&Refer=top) 85204
 1. [重庆一对7旬夫妇被邻居老人打死](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E4%B8%80%E5%AF%B97%E6%97%AC%E5%A4%AB%E5%A6%87%E8%A2%AB%E9%82%BB%E5%B1%85%E8%80%81%E4%BA%BA%E6%89%93%E6%AD%BB%23&t=31&band_rank=50&Refer=top) 85199
+1. [三星长公主曾不顾反对下嫁司机](https://s.weibo.com/weibo?q=%23%E4%B8%89%E6%98%9F%E9%95%BF%E5%85%AC%E4%B8%BB%E6%9B%BE%E4%B8%8D%E9%A1%BE%E5%8F%8D%E5%AF%B9%E4%B8%8B%E5%AB%81%E5%8F%B8%E6%9C%BA%23&t=31&band_rank=31&Refer=top) 64112
 1. [男子用白鹿黄金海报炼10g金豆却破防](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%94%A8%E7%99%BD%E9%B9%BF%E9%BB%84%E9%87%91%E6%B5%B7%E6%8A%A5%E7%82%BC10g%E9%87%91%E8%B1%86%E5%8D%B4%E7%A0%B4%E9%98%B2%23&t=31&band_rank=20&Refer=top) 58293
 1. [张凯毅凤冠事件后掉粉超43万](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%AF%E6%AF%85%E5%87%A4%E5%86%A0%E4%BA%8B%E4%BB%B6%E5%90%8E%E6%8E%89%E7%B2%89%E8%B6%8543%E4%B8%87%23&t=31&band_rank=23&Refer=top) 58293
 1. [小狗用舌头给主人刮痧治病](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%8B%97%E7%94%A8%E8%88%8C%E5%A4%B4%E7%BB%99%E4%B8%BB%E4%BA%BA%E5%88%AE%E7%97%A7%E6%B2%BB%E7%97%85&t=31&band_rank=28&Refer=top) 58291
-1. [三星长公主曾不顾反对下嫁司机](https://s.weibo.com/weibo?q=%23%E4%B8%89%E6%98%9F%E9%95%BF%E5%85%AC%E4%B8%BB%E6%9B%BE%E4%B8%8D%E9%A1%BE%E5%8F%8D%E5%AF%B9%E4%B8%8B%E5%AB%81%E5%8F%B8%E6%9C%BA%23&t=31&band_rank=31&Refer=top) 58289
 1. [几块和几十块的盐区别大吗](https://s.weibo.com/weibo?q=%23%E5%87%A0%E5%9D%97%E5%92%8C%E5%87%A0%E5%8D%81%E5%9D%97%E7%9A%84%E7%9B%90%E5%8C%BA%E5%88%AB%E5%A4%A7%E5%90%97%23&t=31&band_rank=43&Refer=top) 58286
 1. [Peanut直播回应Faker](https://s.weibo.com/weibo?q=Peanut%E7%9B%B4%E6%92%AD%E5%9B%9E%E5%BA%94Faker&t=31&band_rank=49&Refer=top) 58283
 1. [济南泄漏热力管道已抢修完毕](https://s.weibo.com/weibo?q=%E6%B5%8E%E5%8D%97%E6%B3%84%E6%BC%8F%E7%83%AD%E5%8A%9B%E7%AE%A1%E9%81%93%E5%B7%B2%E6%8A%A2%E4%BF%AE%E5%AE%8C%E6%AF%95&t=31&band_rank=24&Refer=top) 28805
@@ -73,6 +73,9 @@
 1. [金价波动](https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=47&Refer=top) 27904
 1. [宇宙闪烁请注意](https://s.weibo.com/weibo?q=%E5%AE%87%E5%AE%99%E9%97%AA%E7%83%81%E8%AF%B7%E6%B3%A8%E6%84%8F&t=31&band_rank=49&Refer=top) 27903
 1. [TF四代 再见朋友](https://s.weibo.com/weibo?q=TF%E5%9B%9B%E4%BB%A3%20%E5%86%8D%E8%A7%81%E6%9C%8B%E5%8F%8B&t=31&band_rank=50&Refer=top) 27902
+1. [冬奥会冰壶落选赛](https://s.weibo.com/weibo?q=%E5%86%AC%E5%A5%A5%E4%BC%9A%E5%86%B0%E5%A3%B6%E8%90%BD%E9%80%89%E8%B5%9B&t=31&band_rank=27&Refer=top) 26654
+1. [2025搜狐时尚盛典](https://s.weibo.com/weibo?q=%232025%E6%90%9C%E7%8B%90%E6%97%B6%E5%B0%9A%E7%9B%9B%E5%85%B8%23&t=31&band_rank=45&Refer=top) 26359
+1. [探索新境2](https://s.weibo.com/weibo?q=%23%E6%8E%A2%E7%B4%A2%E6%96%B0%E5%A2%832%23&t=31&band_rank=48&Refer=top) 26308
 <!-- END -->
 
 历史归档 [./archives](./archives)
