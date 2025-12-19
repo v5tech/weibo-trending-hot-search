@@ -230,5 +230,33 @@
   "考研": {
     "url": "https://s.weibo.com/weibo?q=%E8%80%83%E7%A0%94&t=31&band_rank=50&Refer=top",
     "hot": 88792
+  },
+  "汪苏泷演唱会": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=6&Refer=top",
+    "hot": 78318
+  },
+  "张凯毅已掉粉超46万": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%AF%E6%AF%85%E5%B7%B2%E6%8E%89%E7%B2%89%E8%B6%8546%E4%B8%87%23&t=31&band_rank=11&Refer=top",
+    "hot": 72781
+  },
+  "月鳞绮纪": {
+    "url": "https://s.weibo.com/weibo?q=%E6%9C%88%E9%B3%9E%E7%BB%AE%E7%BA%AA&t=31&band_rank=18&Refer=top",
+    "hot": 60824
+  },
+  "台北车站袭击案细节曝光": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E5%8C%97%E8%BD%A6%E7%AB%99%E8%A2%AD%E5%87%BB%E6%A1%88%E7%BB%86%E8%8A%82%E6%9B%9D%E5%85%89%23&t=31&band_rank=37&Refer=top",
+    "hot": 60296
+  },
+  "新华社追踪南博名作现身拍卖市场": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%8D%8E%E7%A4%BE%E8%BF%BD%E8%B8%AA%E5%8D%97%E5%8D%9A%E5%90%8D%E4%BD%9C%E7%8E%B0%E8%BA%AB%E6%8B%8D%E5%8D%96%E5%B8%82%E5%9C%BA%23&t=31&band_rank=40&Refer=top",
+    "hot": 60212
+  },
+  "听sevenkids新歌很难不舞起来": {
+    "url": "https://s.weibo.com/weibo?q=%E5%90%ACsevenkids%E6%96%B0%E6%AD%8C%E5%BE%88%E9%9A%BE%E4%B8%8D%E8%88%9E%E8%B5%B7%E6%9D%A5&t=31&band_rank=44&Refer=top",
+    "hot": 60122
+  },
+  "2025封面人物": {
+    "url": "https://s.weibo.com/weibo?q=%232025%E5%B0%81%E9%9D%A2%E4%BA%BA%E7%89%A9%23&t=31&band_rank=46&Refer=top",
+    "hot": 60043
   }
 }
