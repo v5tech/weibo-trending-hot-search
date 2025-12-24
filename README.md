@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-12-25 03:18:56.841061 
+最后更新时间 2025-12-25 04:26:13.623755 
 1. [高市早苗又放话了](https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%8F%88%E6%94%BE%E8%AF%9D%E4%BA%86%23&t=31&band_rank=1&Refer=top) 856574
 1. [日本一无人岛密密麻麻都是北海狮](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%80%E6%97%A0%E4%BA%BA%E5%B2%9B%E5%AF%86%E5%AF%86%E9%BA%BB%E9%BA%BB%E9%83%BD%E6%98%AF%E5%8C%97%E6%B5%B7%E7%8B%AE%23&t=31&band_rank=2&Refer=top) 308450
 1. [粤港澳大湾区再添海上新通道](https://s.weibo.com/weibo?q=%23%E7%B2%A4%E6%B8%AF%E6%BE%B3%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%86%8D%E6%B7%BB%E6%B5%B7%E4%B8%8A%E6%96%B0%E9%80%9A%E9%81%93%23&t=31&band_rank=3&Refer=top) 306873
@@ -69,6 +69,8 @@
 1. [央视播出福建舰弹射超近画面](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%92%AD%E5%87%BA%E7%A6%8F%E5%BB%BA%E8%88%B0%E5%BC%B9%E5%B0%84%E8%B6%85%E8%BF%91%E7%94%BB%E9%9D%A2%23&t=31&band_rank=48&Refer=top) 38275
 1. [肖战我们不见不散](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%88%91%E4%BB%AC%E4%B8%8D%E8%A7%81%E4%B8%8D%E6%95%A3%23&t=31&band_rank=45&Refer=top) 25467
 1. [强生上诉](https://s.weibo.com/weibo?q=%23%E5%BC%BA%E7%94%9F%E4%B8%8A%E8%AF%89%23&t=31&band_rank=48&Refer=top) 25459
+1. [美国斩杀线的另一个名字叫资本主义](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%96%A9%E6%9D%80%E7%BA%BF%E7%9A%84%E5%8F%A6%E4%B8%80%E4%B8%AA%E5%90%8D%E5%AD%97%E5%8F%AB%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%23&t=31&band_rank=43&Refer=top) 21770
+1. [黄子佼获刑](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E4%BD%BC%E8%8E%B7%E5%88%91%23&t=31&band_rank=49&Refer=top) 21682
 <!-- END -->
 
 历史归档 [./archives](./archives)
