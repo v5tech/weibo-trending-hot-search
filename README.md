@@ -7,11 +7,12 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-12-25 06:23:08.724374 
+最后更新时间 2025-12-25 07:22:10.612884 
 1. [高市早苗又放话了](https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%8F%88%E6%94%BE%E8%AF%9D%E4%BA%86%23&t=31&band_rank=1&Refer=top) 856574
-1. [日本一无人岛密密麻麻都是北海狮](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%80%E6%97%A0%E4%BA%BA%E5%B2%9B%E5%AF%86%E5%AF%86%E9%BA%BB%E9%BA%BB%E9%83%BD%E6%98%AF%E5%8C%97%E6%B5%B7%E7%8B%AE%23&t=31&band_rank=2&Refer=top) 308450
+1. [日本一无人岛密密麻麻都是北海狮](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%80%E6%97%A0%E4%BA%BA%E5%B2%9B%E5%AF%86%E5%AF%86%E9%BA%BB%E9%BA%BB%E9%83%BD%E6%98%AF%E5%8C%97%E6%B5%B7%E7%8B%AE%23&t=31&band_rank=2&Refer=top) 426299
 1. [粤港澳大湾区再添海上新通道](https://s.weibo.com/weibo?q=%23%E7%B2%A4%E6%B8%AF%E6%BE%B3%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%86%8D%E6%B7%BB%E6%B5%B7%E4%B8%8A%E6%96%B0%E9%80%9A%E9%81%93%23&t=31&band_rank=3&Refer=top) 306873
 1. [橹穆来自天堂的魔鬼舞台彩排](https://s.weibo.com/weibo?q=%23%E6%A9%B9%E7%A9%86%E6%9D%A5%E8%87%AA%E5%A4%A9%E5%A0%82%E7%9A%84%E9%AD%94%E9%AC%BC%E8%88%9E%E5%8F%B0%E5%BD%A9%E6%8E%92%23&t=31&band_rank=4&Refer=top) 305962
+1. [三亚免税店连续5日销售额破亿](https://s.weibo.com/weibo?q=%23%E4%B8%89%E4%BA%9A%E5%85%8D%E7%A8%8E%E5%BA%97%E8%BF%9E%E7%BB%AD5%E6%97%A5%E9%94%80%E5%94%AE%E9%A2%9D%E7%A0%B4%E4%BA%BF%23&t=31&band_rank=3&Refer=top) 289291
 1. [胖东来售卖梅西签名球衣](https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E5%94%AE%E5%8D%96%E6%A2%85%E8%A5%BF%E7%AD%BE%E5%90%8D%E7%90%83%E8%A1%A3%23&t=31&band_rank=5&Refer=top) 213403
 1. [爱吃酱香饼的人天塌了](https://s.weibo.com/weibo?q=%E7%88%B1%E5%90%83%E9%85%B1%E9%A6%99%E9%A5%BC%E7%9A%84%E4%BA%BA%E5%A4%A9%E5%A1%8C%E4%BA%86&t=31&band_rank=6&Refer=top) 202199
 1. [美国网红称他在旧金山快活不下去了](https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E7%BD%91%E7%BA%A2%E7%A7%B0%E4%BB%96%E5%9C%A8%E6%97%A7%E9%87%91%E5%B1%B1%E5%BF%AB%E6%B4%BB%E4%B8%8D%E4%B8%8B%E5%8E%BB%E4%BA%86&t=31&band_rank=7&Refer=top) 185622
@@ -62,20 +63,22 @@
 1. [阚清子](https://s.weibo.com/weibo?q=%E9%98%9A%E6%B8%85%E5%AD%90&t=31&band_rank=26&Refer=top) 135756
 1. [何与海外是真的火了](https://s.weibo.com/weibo?q=%E4%BD%95%E4%B8%8E%E6%B5%B7%E5%A4%96%E6%98%AF%E7%9C%9F%E7%9A%84%E7%81%AB%E4%BA%86&t=31&band_rank=37&Refer=top) 135555
 1. [人之初](https://s.weibo.com/weibo?q=%E4%BA%BA%E4%B9%8B%E5%88%9D&t=31&band_rank=43&Refer=top) 135452
-1. [三亚免税店连续5日销售额破亿](https://s.weibo.com/weibo?q=%23%E4%B8%89%E4%BA%9A%E5%85%8D%E7%A8%8E%E5%BA%97%E8%BF%9E%E7%BB%AD5%E6%97%A5%E9%94%80%E5%94%AE%E9%A2%9D%E7%A0%B4%E4%BA%BF%23&t=31&band_rank=3&Refer=top) 98431
+1. [郑州通报学生意外坠楼](https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E9%80%9A%E6%8A%A5%E5%AD%A6%E7%94%9F%E6%84%8F%E5%A4%96%E5%9D%A0%E6%A5%BC%23&t=31&band_rank=9&Refer=top) 103860
 1. [冰雪大世界打卡玩法又升级了](https://s.weibo.com/weibo?q=%23%E5%86%B0%E9%9B%AA%E5%A4%A7%E4%B8%96%E7%95%8C%E6%89%93%E5%8D%A1%E7%8E%A9%E6%B3%95%E5%8F%88%E5%8D%87%E7%BA%A7%E4%BA%86%23&t=31&band_rank=3&Refer=top) 91377
-1. [长津湖](https://s.weibo.com/weibo?q=%E9%95%BF%E6%B4%A5%E6%B9%96&t=31&band_rank=36&Refer=top) 38500
+1. [央视播出福建舰弹射超近画面](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%92%AD%E5%87%BA%E7%A6%8F%E5%BB%BA%E8%88%B0%E5%BC%B9%E5%B0%84%E8%B6%85%E8%BF%91%E7%94%BB%E9%9D%A2%23&t=31&band_rank=48&Refer=top) 60011
+1. [黄子佼获刑](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E4%BD%BC%E8%8E%B7%E5%88%91%23&t=31&band_rank=49&Refer=top) 59958
+1. [肖战我们不见不散](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%88%91%E4%BB%AC%E4%B8%8D%E8%A7%81%E4%B8%8D%E6%95%A3%23&t=31&band_rank=45&Refer=top) 59918
+1. [长津湖](https://s.weibo.com/weibo?q=%E9%95%BF%E6%B4%A5%E6%B9%96&t=31&band_rank=36&Refer=top) 59898
+1. [破镜重圆只有三种可能](https://s.weibo.com/weibo?q=%E7%A0%B4%E9%95%9C%E9%87%8D%E5%9C%86%E5%8F%AA%E6%9C%89%E4%B8%89%E7%A7%8D%E5%8F%AF%E8%83%BD&t=31&band_rank=48&Refer=top) 59873
+1. [王一博赛车持续调试磨合](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%B5%9B%E8%BD%A6%E6%8C%81%E7%BB%AD%E8%B0%83%E8%AF%95%E7%A3%A8%E5%90%88%23&t=31&band_rank=45&Refer=top) 59856
+1. [美国斩杀线的另一个名字叫资本主义](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%96%A9%E6%9D%80%E7%BA%BF%E7%9A%84%E5%8F%A6%E4%B8%80%E4%B8%AA%E5%90%8D%E5%AD%97%E5%8F%AB%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%23&t=31&band_rank=43&Refer=top) 59828
+1. [胖东来回应售卖梅西姆巴佩签名球衣](https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E5%9B%9E%E5%BA%94%E5%94%AE%E5%8D%96%E6%A2%85%E8%A5%BF%E5%A7%86%E5%B7%B4%E4%BD%A9%E7%AD%BE%E5%90%8D%E7%90%83%E8%A1%A3%23&t=31&band_rank=50&Refer=top) 59786
 1. [美国斩杀线](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%96%A9%E6%9D%80%E7%BA%BF%23&t=31&band_rank=44&Refer=top) 38364
 1. [新音四开](https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%9F%B3%E5%9B%9B%E5%BC%80%23&t=31&band_rank=47&Refer=top) 38308
-1. [央视播出福建舰弹射超近画面](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%92%AD%E5%87%BA%E7%A6%8F%E5%BB%BA%E8%88%B0%E5%BC%B9%E5%B0%84%E8%B6%85%E8%BF%91%E7%94%BB%E9%9D%A2%23&t=31&band_rank=48&Refer=top) 38275
-1. [肖战我们不见不散](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%88%91%E4%BB%AC%E4%B8%8D%E8%A7%81%E4%B8%8D%E6%95%A3%23&t=31&band_rank=45&Refer=top) 27424
 1. [2025美好中国新歌会](https://s.weibo.com/weibo?q=%232025%E7%BE%8E%E5%A5%BD%E4%B8%AD%E5%9B%BD%E6%96%B0%E6%AD%8C%E4%BC%9A%23&t=31&band_rank=37&Refer=top) 27408
 1. [成毅解读角色谢淮安](https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E8%A7%A3%E8%AF%BB%E8%A7%92%E8%89%B2%E8%B0%A2%E6%B7%AE%E5%AE%89%23&t=31&band_rank=38&Refer=top) 27398
-1. [美国斩杀线的另一个名字叫资本主义](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%96%A9%E6%9D%80%E7%BA%BF%E7%9A%84%E5%8F%A6%E4%B8%80%E4%B8%AA%E5%90%8D%E5%AD%97%E5%8F%AB%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%23&t=31&band_rank=43&Refer=top) 27381
 1. [日本高官拥核言论绝非孤立事件](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%AB%98%E5%AE%98%E6%8B%A5%E6%A0%B8%E8%A8%80%E8%AE%BA%E7%BB%9D%E9%9D%9E%E5%AD%A4%E7%AB%8B%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=46&Refer=top) 27379
-1. [黄子佼获刑](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E4%BD%BC%E8%8E%B7%E5%88%91%23&t=31&band_rank=49&Refer=top) 27367
 1. [强生上诉](https://s.weibo.com/weibo?q=%23%E5%BC%BA%E7%94%9F%E4%B8%8A%E8%AF%89%23&t=31&band_rank=48&Refer=top) 27338
-1. [破镜重圆只有三种可能](https://s.weibo.com/weibo?q=%E7%A0%B4%E9%95%9C%E9%87%8D%E5%9C%86%E5%8F%AA%E6%9C%89%E4%B8%89%E7%A7%8D%E5%8F%AF%E8%83%BD&t=31&band_rank=48&Refer=top) 18099
 <!-- END -->
 
 历史归档 [./archives](./archives)
