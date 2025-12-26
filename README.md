@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-12-27 03:19:06.626736 
+最后更新时间 2025-12-27 04:25:03.995043 
 1. [骄阳似我](https://s.weibo.com/weibo?q=%E9%AA%84%E9%98%B3%E4%BC%BC%E6%88%91&t=31&band_rank=1&Refer=top) 840269
 1. [指导老师回应本科生连发40多篇SCI](https://s.weibo.com/weibo?q=%23%E6%8C%87%E5%AF%BC%E8%80%81%E5%B8%88%E5%9B%9E%E5%BA%94%E6%9C%AC%E7%A7%91%E7%94%9F%E8%BF%9E%E5%8F%9140%E5%A4%9A%E7%AF%87SCI%23&t=31&band_rank=2&Refer=top) 479064
 1. [故事里的2025](https://s.weibo.com/weibo?q=%23%E6%95%85%E4%BA%8B%E9%87%8C%E7%9A%842025%23&t=31&band_rank=3&Refer=top) 219239
@@ -78,6 +78,13 @@
 1. [贺峻霖燕窝舞台](https://s.weibo.com/weibo?q=%E8%B4%BA%E5%B3%BB%E9%9C%96%E7%87%95%E7%AA%9D%E8%88%9E%E5%8F%B0&t=31&band_rank=34&Refer=top) 57978
 1. [贺峻霖五年前的愿望实现了](https://s.weibo.com/weibo?q=%E8%B4%BA%E5%B3%BB%E9%9C%96%E4%BA%94%E5%B9%B4%E5%89%8D%E7%9A%84%E6%84%BF%E6%9C%9B%E5%AE%9E%E7%8E%B0%E4%BA%86&t=31&band_rank=40&Refer=top) 57766
 1. [骄阳似我我让你挑](https://s.weibo.com/weibo?q=%23%E9%AA%84%E9%98%B3%E4%BC%BC%E6%88%91%E6%88%91%E8%AE%A9%E4%BD%A0%E6%8C%91%23&t=31&band_rank=44&Refer=top) 57606
+1. [顾漫还是牛](https://s.weibo.com/weibo?q=%E9%A1%BE%E6%BC%AB%E8%BF%98%E6%98%AF%E7%89%9B&t=31&band_rank=1&Refer=top) 56074
+1. [贺峻霖终于唱了燕窝](https://s.weibo.com/weibo?q=%23%E8%B4%BA%E5%B3%BB%E9%9C%96%E7%BB%88%E4%BA%8E%E5%94%B1%E4%BA%86%E7%87%95%E7%AA%9D%23&t=31&band_rank=17&Refer=top) 26916
+1. [以色列拒绝14国要求](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E6%8B%92%E7%BB%9D14%E5%9B%BD%E8%A6%81%E6%B1%82%23&t=31&band_rank=29&Refer=top) 26898
+1. [父亲被微塑料污染孩子或遭殃](https://s.weibo.com/weibo?q=%E7%88%B6%E4%BA%B2%E8%A2%AB%E5%BE%AE%E5%A1%91%E6%96%99%E6%B1%A1%E6%9F%93%E5%AD%A9%E5%AD%90%E6%88%96%E9%81%AD%E6%AE%83&t=31&band_rank=36&Refer=top) 26889
+1. [张泽禹玫瑰王子look](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%B3%BD%E7%A6%B9%E7%8E%AB%E7%91%B0%E7%8E%8B%E5%AD%90look&t=31&band_rank=47&Refer=top) 26871
+1. [张函瑞转音好丝滑](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%BD%E7%91%9E%E8%BD%AC%E9%9F%B3%E5%A5%BD%E4%B8%9D%E6%BB%91&t=31&band_rank=48&Refer=top) 26871
+1. [新音大屏](https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%9F%B3%E5%A4%A7%E5%B1%8F%23&t=31&band_rank=49&Refer=top) 26868
 <!-- END -->
 
 历史归档 [./archives](./archives)
