@@ -7,9 +7,10 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-12-27 05:21:17.397336 
+最后更新时间 2025-12-27 06:23:06.158656 
 1. [骄阳似我](https://s.weibo.com/weibo?q=%E9%AA%84%E9%98%B3%E4%BC%BC%E6%88%91&t=31&band_rank=1&Refer=top) 840269
 1. [指导老师回应本科生连发40多篇SCI](https://s.weibo.com/weibo?q=%23%E6%8C%87%E5%AF%BC%E8%80%81%E5%B8%88%E5%9B%9E%E5%BA%94%E6%9C%AC%E7%A7%91%E7%94%9F%E8%BF%9E%E5%8F%9140%E5%A4%9A%E7%AF%87SCI%23&t=31&band_rank=2&Refer=top) 479064
+1. [顾漫还是牛](https://s.weibo.com/weibo?q=%E9%A1%BE%E6%BC%AB%E8%BF%98%E6%98%AF%E7%89%9B&t=31&band_rank=1&Refer=top) 362749
 1. [故事里的2025](https://s.weibo.com/weibo?q=%23%E6%95%85%E4%BA%8B%E9%87%8C%E7%9A%842025%23&t=31&band_rank=3&Refer=top) 219239
 1. [宋威龙赵今麦杀死了现偶比赛](https://s.weibo.com/weibo?q=%E5%AE%8B%E5%A8%81%E9%BE%99%E8%B5%B5%E4%BB%8A%E9%BA%A6%E6%9D%80%E6%AD%BB%E4%BA%86%E7%8E%B0%E5%81%B6%E6%AF%94%E8%B5%9B&t=31&band_rank=4&Refer=top) 218313
 1. [抓紧去个税App确认这个信息](https://s.weibo.com/weibo?q=%23%E6%8A%93%E7%B4%A7%E5%8E%BB%E4%B8%AA%E7%A8%8EApp%E7%A1%AE%E8%AE%A4%E8%BF%99%E4%B8%AA%E4%BF%A1%E6%81%AF%23&t=31&band_rank=5&Refer=top) 217511
@@ -32,7 +33,6 @@
 1. [李宏毅直播](https://s.weibo.com/weibo?q=%E6%9D%8E%E5%AE%8F%E6%AF%85%E7%9B%B4%E6%92%AD&t=31&band_rank=22&Refer=top) 130782
 1. [怪奇物语](https://s.weibo.com/weibo?q=%E6%80%AA%E5%A5%87%E7%89%A9%E8%AF%AD&t=31&band_rank=31&Refer=top) 130379
 1. [原来肖战思考得这么细](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%82%96%E6%88%98%E6%80%9D%E8%80%83%E5%BE%97%E8%BF%99%E4%B9%88%E7%BB%86%23&t=31&band_rank=23&Refer=top) 129758
-1. [顾漫还是牛](https://s.weibo.com/weibo?q=%E9%A1%BE%E6%BC%AB%E8%BF%98%E6%98%AF%E7%89%9B&t=31&band_rank=1&Refer=top) 121132
 1. [刘宇宁直播](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E7%9B%B4%E6%92%AD%23&t=31&band_rank=24&Refer=top) 119035
 1. [朱志鑫扭胯领域绝对的统治区](https://s.weibo.com/weibo?q=%E6%9C%B1%E5%BF%97%E9%91%AB%E6%89%AD%E8%83%AF%E9%A2%86%E5%9F%9F%E7%BB%9D%E5%AF%B9%E7%9A%84%E7%BB%9F%E6%B2%BB%E5%8C%BA&t=31&band_rank=25&Refer=top) 118832
 1. [王橹杰滑跪](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A9%B9%E6%9D%B0%E6%BB%91%E8%B7%AA%23&t=31&band_rank=26&Refer=top) 118192
@@ -89,6 +89,13 @@
 1. [黄星到达澳门](https://s.weibo.com/weibo?q=%E9%BB%84%E6%98%9F%E5%88%B0%E8%BE%BE%E6%BE%B3%E9%97%A8&t=31&band_rank=39&Refer=top) 20503
 1. [丁程鑫新音solo舞台](https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A8%8B%E9%91%AB%E6%96%B0%E9%9F%B3solo%E8%88%9E%E5%8F%B0%23&t=31&band_rank=43&Refer=top) 20484
 1. [苏新皓少年漫大男主](https://s.weibo.com/weibo?q=%E8%8B%8F%E6%96%B0%E7%9A%93%E5%B0%91%E5%B9%B4%E6%BC%AB%E5%A4%A7%E7%94%B7%E4%B8%BB&t=31&band_rank=46&Refer=top) 20473
+1. [周深2025腾讯音乐榜年度歌手](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B12025%E8%85%BE%E8%AE%AF%E9%9F%B3%E4%B9%90%E6%A6%9C%E5%B9%B4%E5%BA%A6%E6%AD%8C%E6%89%8B%23&t=31&band_rank=37&Refer=top) 17955
+1. [赵丽颖出演逍遥源于10年前的约定](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%87%BA%E6%BC%94%E9%80%8D%E9%81%A5%E6%BA%90%E4%BA%8E10%E5%B9%B4%E5%89%8D%E7%9A%84%E7%BA%A6%E5%AE%9A%23&t=31&band_rank=38&Refer=top) 17953
+1. [王一博的幕后花絮](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E7%9A%84%E5%B9%95%E5%90%8E%E8%8A%B1%E7%B5%AE%23&t=31&band_rank=40&Refer=top) 17952
+1. [雷军回应小米YU7冬测成绩](https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E5%B0%8F%E7%B1%B3YU7%E5%86%AC%E6%B5%8B%E6%88%90%E7%BB%A9%23&t=31&band_rank=41&Refer=top) 17951
+1. [檀健次第三张音乐专辑](https://s.weibo.com/weibo?q=%E6%AA%80%E5%81%A5%E6%AC%A1%E7%AC%AC%E4%B8%89%E5%BC%A0%E9%9F%B3%E4%B9%90%E4%B8%93%E8%BE%91&t=31&band_rank=42&Refer=top) 17950
+1. [2025腾讯音乐榜样荣誉之夜](https://s.weibo.com/weibo?q=%232025%E8%85%BE%E8%AE%AF%E9%9F%B3%E4%B9%90%E6%A6%9C%E6%A0%B7%E8%8D%A3%E8%AA%89%E4%B9%8B%E5%A4%9C%23&t=31&band_rank=44&Refer=top) 17949
+1. [天山胜利隧道今日通车](https://s.weibo.com/weibo?q=%23%E5%A4%A9%E5%B1%B1%E8%83%9C%E5%88%A9%E9%9A%A7%E9%81%93%E4%BB%8A%E6%97%A5%E9%80%9A%E8%BD%A6%23&t=31&band_rank=50&Refer=top) 17943
 <!-- END -->
 
 历史归档 [./archives](./archives)
