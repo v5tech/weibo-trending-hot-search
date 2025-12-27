@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-12-28 03:18:22.762294 
+最后更新时间 2025-12-28 04:25:54.656400 
 1. [台湾海域6.6级地震](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%9F%9F6.6%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=1&Refer=top) 4756650
 1. [一诺暂时告别赛场](https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%AF%BA%E6%9A%82%E6%97%B6%E5%91%8A%E5%88%AB%E8%B5%9B%E5%9C%BA%23&t=31&band_rank=2&Refer=top) 2288595
 1. [人民军队2025年终大片](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E5%86%9B%E9%98%9F2025%E5%B9%B4%E7%BB%88%E5%A4%A7%E7%89%87%23&t=31&band_rank=3&Refer=top) 1584302
@@ -75,6 +75,8 @@
 1. [苏新皓抓周抓的是镜头](https://s.weibo.com/weibo?q=%E8%8B%8F%E6%96%B0%E7%9A%93%E6%8A%93%E5%91%A8%E6%8A%93%E7%9A%84%E6%98%AF%E9%95%9C%E5%A4%B4&t=31&band_rank=46&Refer=top) 50352
 1. [侯明昊这张脸我记住了](https://s.weibo.com/weibo?q=%E4%BE%AF%E6%98%8E%E6%98%8A%E8%BF%99%E5%BC%A0%E8%84%B8%E6%88%91%E8%AE%B0%E4%BD%8F%E4%BA%86&t=31&band_rank=48&Refer=top) 50328
 1. [湘超](https://s.weibo.com/weibo?q=%23%E6%B9%98%E8%B6%85%23&t=31&band_rank=50&Refer=top) 50290
+1. [王者荣耀挑战者杯](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%8C%91%E6%88%98%E8%80%85%E6%9D%AF%23&t=31&band_rank=41&Refer=top) 47049
+1. [宋威龙原来我们早就见面了](https://s.weibo.com/weibo?q=%E5%AE%8B%E5%A8%81%E9%BE%99%E5%8E%9F%E6%9D%A5%E6%88%91%E4%BB%AC%E6%97%A9%E5%B0%B1%E8%A7%81%E9%9D%A2%E4%BA%86&t=31&band_rank=46&Refer=top) 46863
 <!-- END -->
 
 历史归档 [./archives](./archives)
