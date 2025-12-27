@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-12-28 04:25:54.656400 
+最后更新时间 2025-12-28 05:20:28.065838 
 1. [台湾海域6.6级地震](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%9F%9F6.6%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=1&Refer=top) 4756650
 1. [一诺暂时告别赛场](https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%AF%BA%E6%9A%82%E6%97%B6%E5%91%8A%E5%88%AB%E8%B5%9B%E5%9C%BA%23&t=31&band_rank=2&Refer=top) 2288595
 1. [人民军队2025年终大片](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E5%86%9B%E9%98%9F2025%E5%B9%B4%E7%BB%88%E5%A4%A7%E7%89%87%23&t=31&band_rank=3&Refer=top) 1584302
@@ -63,6 +63,7 @@
 1. [王楚钦说不想以2个退赛结束2025](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%AF%B4%E4%B8%8D%E6%83%B3%E4%BB%A52%E4%B8%AA%E9%80%80%E8%B5%9B%E7%BB%93%E6%9D%9F2025%23&t=31&band_rank=49&Refer=top) 154256
 1. [FGO 完结](https://s.weibo.com/weibo?q=FGO%20%E5%AE%8C%E7%BB%93&t=31&band_rank=50&Refer=top) 154256
 1. [左奇函rap能力](https://s.weibo.com/weibo?q=%23%E5%B7%A6%E5%A5%87%E5%87%BDrap%E8%83%BD%E5%8A%9B%23&t=31&band_rank=30&Refer=top) 107944
+1. [中国低温火箭年度发射新纪录](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BD%8E%E6%B8%A9%E7%81%AB%E7%AE%AD%E5%B9%B4%E5%BA%A6%E5%8F%91%E5%B0%84%E6%96%B0%E7%BA%AA%E5%BD%95%23&t=31&band_rank=3&Refer=top) 95910
 1. [杨博文这句yeah唱爽了](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%8D%9A%E6%96%87%E8%BF%99%E5%8F%A5yeah%E5%94%B1%E7%88%BD%E4%BA%86%23&t=31&band_rank=45&Refer=top) 94919
 1. [网红非洲洋洋涉嫌绑架同胞被抓](https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E9%9D%9E%E6%B4%B2%E6%B4%8B%E6%B4%8B%E6%B6%89%E5%AB%8C%E7%BB%91%E6%9E%B6%E5%90%8C%E8%83%9E%E8%A2%AB%E6%8A%93%23&t=31&band_rank=48&Refer=top) 94806
 1. [王楚钦挥手回应球迷新年祝福](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%8C%A5%E6%89%8B%E5%9B%9E%E5%BA%94%E7%90%83%E8%BF%B7%E6%96%B0%E5%B9%B4%E7%A5%9D%E7%A6%8F&t=31&band_rank=50&Refer=top) 94730
@@ -77,6 +78,8 @@
 1. [湘超](https://s.weibo.com/weibo?q=%23%E6%B9%98%E8%B6%85%23&t=31&band_rank=50&Refer=top) 50290
 1. [王者荣耀挑战者杯](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%8C%91%E6%88%98%E8%80%85%E6%9D%AF%23&t=31&band_rank=41&Refer=top) 47049
 1. [宋威龙原来我们早就见面了](https://s.weibo.com/weibo?q=%E5%AE%8B%E5%A8%81%E9%BE%99%E5%8E%9F%E6%9D%A5%E6%88%91%E4%BB%AC%E6%97%A9%E5%B0%B1%E8%A7%81%E9%9D%A2%E4%BA%86&t=31&band_rank=46&Refer=top) 46863
+1. [公积金贷款利率调整表](https://s.weibo.com/weibo?q=%23%E5%85%AC%E7%A7%AF%E9%87%91%E8%B4%B7%E6%AC%BE%E5%88%A9%E7%8E%87%E8%B0%83%E6%95%B4%E8%A1%A8%23&t=31&band_rank=41&Refer=top) 38360
+1. [微博网友年度喜爱作品](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E7%BD%91%E5%8F%8B%E5%B9%B4%E5%BA%A6%E5%96%9C%E7%88%B1%E4%BD%9C%E5%93%81%23&t=31&band_rank=42&Refer=top) 38349
 <!-- END -->
 
 历史归档 [./archives](./archives)
