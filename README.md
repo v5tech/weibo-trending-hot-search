@@ -7,19 +7,20 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-12-28 00:28:14.714089 
+最后更新时间 2025-12-28 01:20:20.727343 
 1. [台湾海域6.6级地震](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%9F%9F6.6%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=1&Refer=top) 4756650
 1. [一诺暂时告别赛场](https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%AF%BA%E6%9A%82%E6%97%B6%E5%91%8A%E5%88%AB%E8%B5%9B%E5%9C%BA%23&t=31&band_rank=2&Refer=top) 2288595
 1. [人民军队2025年终大片](https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E5%86%9B%E9%98%9F2025%E5%B9%B4%E7%BB%88%E5%A4%A7%E7%89%87%23&t=31&band_rank=3&Refer=top) 1584302
 1. [杭州震感](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E9%9C%87%E6%84%9F%23&t=31&band_rank=4&Refer=top) 1442510
 1. [橹穆双人舞台](https://s.weibo.com/weibo?q=%23%E6%A9%B9%E7%A9%86%E5%8F%8C%E4%BA%BA%E8%88%9E%E5%8F%B0%23&t=31&band_rank=5&Refer=top) 1423258
 1. [上海震感](https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E9%9C%87%E6%84%9F%23&t=31&band_rank=6&Refer=top) 1028168
+1. [2025热搜里的中国](https://s.weibo.com/weibo?q=%232025%E7%83%AD%E6%90%9C%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top) 711587
 1. [Hero战胜AG](https://s.weibo.com/weibo?q=%23Hero%E6%88%98%E8%83%9CAG%23&t=31&band_rank=7&Refer=top) 607612
-1. [中华人民共和国主席令](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E4%B8%BB%E5%B8%AD%E4%BB%A4%23&t=31&band_rank=8&Refer=top) 426705
+1. [中华人民共和国主席令](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E4%B8%BB%E5%B8%AD%E4%BB%A4%23&t=31&band_rank=8&Refer=top) 556596
 1. [长生](https://s.weibo.com/weibo?q=%E9%95%BF%E7%94%9F&t=31&band_rank=9&Refer=top) 425014
+1. [南京震感](https://s.weibo.com/weibo?q=%E5%8D%97%E4%BA%AC%E9%9C%87%E6%84%9F&t=31&band_rank=12&Refer=top) 387717
 1. [戴佩妮北京广州取消](https://s.weibo.com/weibo?q=%E6%88%B4%E4%BD%A9%E5%A6%AE%E5%8C%97%E4%BA%AC%E5%B9%BF%E5%B7%9E%E5%8F%96%E6%B6%88&t=31&band_rank=10&Refer=top) 368671
 1. [王橹杰](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A9%B9%E6%9D%B0&t=31&band_rank=11&Refer=top) 361940
-1. [南京震感](https://s.weibo.com/weibo?q=%E5%8D%97%E4%BA%AC%E9%9C%87%E6%84%9F&t=31&band_rank=12&Refer=top) 360804
 1. [荣耀之战](https://s.weibo.com/weibo?q=%E8%8D%A3%E8%80%80%E4%B9%8B%E6%88%98&t=31&band_rank=13&Refer=top) 351003
 1. [福州震感](https://s.weibo.com/weibo?q=%E7%A6%8F%E5%B7%9E%E9%9C%87%E6%84%9F&t=31&band_rank=14&Refer=top) 340065
 1. [一诺 希望拿大满贯](https://s.weibo.com/weibo?q=%E4%B8%80%E8%AF%BA%20%E5%B8%8C%E6%9C%9B%E6%8B%BF%E5%A4%A7%E6%BB%A1%E8%B4%AF&t=31&band_rank=15&Refer=top) 332101
@@ -30,8 +31,10 @@
 1. [宋威龙见面会](https://s.weibo.com/weibo?q=%E5%AE%8B%E5%A8%81%E9%BE%99%E8%A7%81%E9%9D%A2%E4%BC%9A&t=31&band_rank=20&Refer=top) 259301
 1. [487 潇潇](https://s.weibo.com/weibo?q=487%20%E6%BD%87%E6%BD%87&t=31&band_rank=21&Refer=top) 258741
 1. [南昌震感](https://s.weibo.com/weibo?q=%E5%8D%97%E6%98%8C%E9%9C%87%E6%84%9F&t=31&band_rank=22&Refer=top) 254595
-1. [王星自曝在缅甸手机被人拿走刷网贷](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%98%9F%E8%87%AA%E6%9B%9D%E5%9C%A8%E7%BC%85%E7%94%B8%E6%89%8B%E6%9C%BA%E8%A2%AB%E4%BA%BA%E6%8B%BF%E8%B5%B0%E5%88%B7%E7%BD%91%E8%B4%B7%23&t=31&band_rank=23&Refer=top) 221959
+1. [王星自曝在缅甸手机被人拿走刷网贷](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%98%9F%E8%87%AA%E6%9B%9D%E5%9C%A8%E7%BC%85%E7%94%B8%E6%89%8B%E6%9C%BA%E8%A2%AB%E4%BA%BA%E6%8B%BF%E8%B5%B0%E5%88%B7%E7%BD%91%E8%B4%B7%23&t=31&band_rank=23&Refer=top) 243461
+1. [台湾海域6.6级地震现场画面](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%9F%9F6.6%E7%BA%A7%E5%9C%B0%E9%9C%87%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2%23&t=31&band_rank=16&Refer=top) 241353
 1. [台北摇晃近1分钟](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E5%8C%97%E6%91%87%E6%99%83%E8%BF%911%E5%88%86%E9%92%9F%23&t=31&band_rank=24&Refer=top) 202636
+1. [燕云十六声多次回应未平息争议](https://s.weibo.com/weibo?q=%23%E7%87%95%E4%BA%91%E5%8D%81%E5%85%AD%E5%A3%B0%E5%A4%9A%E6%AC%A1%E5%9B%9E%E5%BA%94%E6%9C%AA%E5%B9%B3%E6%81%AF%E4%BA%89%E8%AE%AE%23&t=31&band_rank=22&Refer=top) 198769
 1. [王晶说肖战戏路很窄](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%99%B6%E8%AF%B4%E8%82%96%E6%88%98%E6%88%8F%E8%B7%AF%E5%BE%88%E7%AA%84%23&t=31&band_rank=25&Refer=top) 194844
 1. [AG无缘挑杯决赛](https://s.weibo.com/weibo?q=%23AG%E6%97%A0%E7%BC%98%E6%8C%91%E6%9D%AF%E5%86%B3%E8%B5%9B%23&t=31&band_rank=26&Refer=top) 180950
 1. [不惑 潇潇](https://s.weibo.com/weibo?q=%E4%B8%8D%E6%83%91%20%E6%BD%87%E6%BD%87&t=31&band_rank=27&Refer=top) 167713
@@ -58,6 +61,10 @@
 1. [永州夺冠](https://s.weibo.com/weibo?q=%23%E6%B0%B8%E5%B7%9E%E5%A4%BA%E5%86%A0%23&t=31&band_rank=48&Refer=top) 154256
 1. [王楚钦说不想以2个退赛结束2025](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%AF%B4%E4%B8%8D%E6%83%B3%E4%BB%A52%E4%B8%AA%E9%80%80%E8%B5%9B%E7%BB%93%E6%9D%9F2025%23&t=31&band_rank=49&Refer=top) 154256
 1. [FGO 完结](https://s.weibo.com/weibo?q=FGO%20%E5%AE%8C%E7%BB%93&t=31&band_rank=50&Refer=top) 154256
+1. [左奇函rap能力](https://s.weibo.com/weibo?q=%23%E5%B7%A6%E5%A5%87%E5%87%BDrap%E8%83%BD%E5%8A%9B%23&t=31&band_rank=30&Refer=top) 107944
+1. [杨博文这句yeah唱爽了](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%8D%9A%E6%96%87%E8%BF%99%E5%8F%A5yeah%E5%94%B1%E7%88%BD%E4%BA%86%23&t=31&band_rank=45&Refer=top) 94919
+1. [网红非洲洋洋涉嫌绑架同胞被抓](https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E9%9D%9E%E6%B4%B2%E6%B4%8B%E6%B4%8B%E6%B6%89%E5%AB%8C%E7%BB%91%E6%9E%B6%E5%90%8C%E8%83%9E%E8%A2%AB%E6%8A%93%23&t=31&band_rank=48&Refer=top) 94806
+1. [王楚钦挥手回应球迷新年祝福](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%8C%A5%E6%89%8B%E5%9B%9E%E5%BA%94%E7%90%83%E8%BF%B7%E6%96%B0%E5%B9%B4%E7%A5%9D%E7%A6%8F&t=31&band_rank=50&Refer=top) 94730
 <!-- END -->
 
 历史归档 [./archives](./archives)
