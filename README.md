@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-12-29 00:28:23.985697 
+最后更新时间 2025-12-29 01:20:51.166629 
 1. [王楚钦想远离一下乒乓球](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%83%B3%E8%BF%9C%E7%A6%BB%E4%B8%80%E4%B8%8B%E4%B9%92%E4%B9%93%E7%90%83&t=31&band_rank=1&Refer=top) 870104
 1. [17岁少女1年打赏主播40多万元](https://s.weibo.com/weibo?q=%2317%E5%B2%81%E5%B0%91%E5%A5%B31%E5%B9%B4%E6%89%93%E8%B5%8F%E4%B8%BB%E6%92%AD40%E5%A4%9A%E4%B8%87%E5%85%83%23&t=31&band_rank=2&Refer=top) 230360
 1. [50天后是除夕](https://s.weibo.com/weibo?q=%2350%E5%A4%A9%E5%90%8E%E6%98%AF%E9%99%A4%E5%A4%95%23&t=31&band_rank=3&Refer=top) 229989
@@ -51,10 +51,20 @@
 1. [宋威龙林屿森新中式男友](https://s.weibo.com/weibo?q=%E5%AE%8B%E5%A8%81%E9%BE%99%E6%9E%97%E5%B1%BF%E6%A3%AE%E6%96%B0%E4%B8%AD%E5%BC%8F%E7%94%B7%E5%8F%8B&t=31&band_rank=41&Refer=top) 75973
 1. [贺峻霖大屏的神](https://s.weibo.com/weibo?q=%E8%B4%BA%E5%B3%BB%E9%9C%96%E5%A4%A7%E5%B1%8F%E7%9A%84%E7%A5%9E&t=31&band_rank=42&Refer=top) 74476
 1. [70岁大爷买13克金戒1年半少0.23克](https://s.weibo.com/weibo?q=%2370%E5%B2%81%E5%A4%A7%E7%88%B7%E4%B9%B013%E5%85%8B%E9%87%91%E6%88%921%E5%B9%B4%E5%8D%8A%E5%B0%910.23%E5%85%8B%23&t=31&band_rank=43&Refer=top) 74241
+1. [王楚钦连说好几个NO](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%BF%9E%E8%AF%B4%E5%A5%BD%E5%87%A0%E4%B8%AANO%23&t=31&band_rank=19&Refer=top) 73977
 1. [锤娜丽莎我有点不认识你了](https://s.weibo.com/weibo?q=%E9%94%A4%E5%A8%9C%E4%B8%BD%E8%8E%8E%E6%88%91%E6%9C%89%E7%82%B9%E4%B8%8D%E8%AE%A4%E8%AF%86%E4%BD%A0%E4%BA%86&t=31&band_rank=44&Refer=top) 71213
 1. [非洲洋洋绑架男子称2条腿骨被打断](https://s.weibo.com/weibo?q=%23%E9%9D%9E%E6%B4%B2%E6%B4%8B%E6%B4%8B%E7%BB%91%E6%9E%B6%E7%94%B7%E5%AD%90%E7%A7%B02%E6%9D%A1%E8%85%BF%E9%AA%A8%E8%A2%AB%E6%89%93%E6%96%AD%23&t=31&band_rank=45&Refer=top) 70483
 1. [寻秦记](https://s.weibo.com/weibo?q=%E5%AF%BB%E7%A7%A6%E8%AE%B0&t=31&band_rank=46&Refer=top) 70284
 1. [骄阳似我](https://s.weibo.com/weibo?q=%E9%AA%84%E9%98%B3%E4%BC%BC%E6%88%91&t=31&band_rank=47&Refer=top) 67771
+1. [海南疯狂引进985名校](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%8D%97%E7%96%AF%E7%8B%82%E5%BC%95%E8%BF%9B985%E5%90%8D%E6%A0%A1%23&t=31&band_rank=30&Refer=top) 67414
+1. [小猫四条腿各跑各的](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%8C%AB%E5%9B%9B%E6%9D%A1%E8%85%BF%E5%90%84%E8%B7%91%E5%90%84%E7%9A%84&t=31&band_rank=34&Refer=top) 67378
+1. [给孩子买了一件会变色的衣服](https://s.weibo.com/weibo?q=%23%E7%BB%99%E5%AD%A9%E5%AD%90%E4%B9%B0%E4%BA%86%E4%B8%80%E4%BB%B6%E4%BC%9A%E5%8F%98%E8%89%B2%E7%9A%84%E8%A1%A3%E6%9C%8D%23&t=31&band_rank=35&Refer=top) 67375
+1. [Karsa宣布退役](https://s.weibo.com/weibo?q=Karsa%E5%AE%A3%E5%B8%83%E9%80%80%E5%BD%B9&t=31&band_rank=38&Refer=top) 67370
+1. [年度爱用表情](https://s.weibo.com/weibo?q=%E5%B9%B4%E5%BA%A6%E7%88%B1%E7%94%A8%E8%A1%A8%E6%83%85&t=31&band_rank=39&Refer=top) 67368
+1. [RW与WB会师三亚](https://s.weibo.com/weibo?q=%23RW%E4%B8%8EWB%E4%BC%9A%E5%B8%88%E4%B8%89%E4%BA%9A%23&t=31&band_rank=46&Refer=top) 67350
+1. [主持人李晓东买茶叶被骗嫌犯已抓获](https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%9D%8E%E6%99%93%E4%B8%9C%E4%B9%B0%E8%8C%B6%E5%8F%B6%E8%A2%AB%E9%AA%97%E5%AB%8C%E7%8A%AF%E5%B7%B2%E6%8A%93%E8%8E%B7%23&t=31&band_rank=48&Refer=top) 67346
+1. [中国足球年度瞬间](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E5%B9%B4%E5%BA%A6%E7%9E%AC%E9%97%B4&t=31&band_rank=49&Refer=top) 67345
+1. [无畏问有谁想下来游的](https://s.weibo.com/weibo?q=%23%E6%97%A0%E7%95%8F%E9%97%AE%E6%9C%89%E8%B0%81%E6%83%B3%E4%B8%8B%E6%9D%A5%E6%B8%B8%E7%9A%84%23&t=31&band_rank=50&Refer=top) 67342
 1. [严浩翔美式前刺](https://s.weibo.com/weibo?q=%E4%B8%A5%E6%B5%A9%E7%BF%94%E7%BE%8E%E5%BC%8F%E5%89%8D%E5%88%BA&t=31&band_rank=48&Refer=top) 67336
 1. [单依纯直播](https://s.weibo.com/weibo?q=%E5%8D%95%E4%BE%9D%E7%BA%AF%E7%9B%B4%E6%92%AD&t=31&band_rank=49&Refer=top) 66514
 1. [TF家族](https://s.weibo.com/weibo?q=TF%E5%AE%B6%E6%97%8F&t=31&band_rank=50&Refer=top) 66117
