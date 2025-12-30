@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-12-31 03:19:16.529362 
+最后更新时间 2025-12-31 04:27:10.760430 
 1. [印度宣布经济已超日本](https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%AE%A3%E5%B8%83%E7%BB%8F%E6%B5%8E%E5%B7%B2%E8%B6%85%E6%97%A5%E6%9C%AC%23&t=31&band_rank=1&Refer=top) 834410
 1. [解放军演习在台湾岛内引发震动](https://s.weibo.com/weibo?q=%23%E8%A7%A3%E6%94%BE%E5%86%9B%E6%BC%94%E4%B9%A0%E5%9C%A8%E5%8F%B0%E6%B9%BE%E5%B2%9B%E5%86%85%E5%BC%95%E5%8F%91%E9%9C%87%E5%8A%A8%23&t=31&band_rank=2&Refer=top) 594364
 1. [湖南卫视跨年演唱会](https://s.weibo.com/weibo?q=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E8%B7%A8%E5%B9%B4%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=4&Refer=top) 494142
@@ -75,6 +75,7 @@
 1. [张凌赫把彩排走成秀场](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E6%8A%8A%E5%BD%A9%E6%8E%92%E8%B5%B0%E6%88%90%E7%A7%80%E5%9C%BA%23&t=31&band_rank=35&Refer=top) 35660
 1. [声鸣远扬](https://s.weibo.com/weibo?q=%E5%A3%B0%E9%B8%A3%E8%BF%9C%E6%89%AC&t=31&band_rank=41&Refer=top) 35582
 1. [蔡依林Pleasure演唱会](https://s.weibo.com/weibo?q=%E8%94%A1%E4%BE%9D%E6%9E%97Pleasure%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=47&Refer=top) 35507
+1. [张若昀1分52秒无台词戏](https://s.weibo.com/weibo?q=%E5%BC%A0%E8%8B%A5%E6%98%801%E5%88%8652%E7%A7%92%E6%97%A0%E5%8F%B0%E8%AF%8D%E6%88%8F&t=31&band_rank=47&Refer=top) 23756
 <!-- END -->
 
 历史归档 [./archives](./archives)
