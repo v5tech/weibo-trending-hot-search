@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2025-12-31 20:50:01.949923 
+最后更新时间 2025-12-31 21:34:51.520621 
 1. [新年贺词](https://s.weibo.com/weibo?q=%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D&t=31&band_rank=1&Refer=top) 11289875
 1. [跨年晚会节目单](https://s.weibo.com/weibo?q=%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A%E8%8A%82%E7%9B%AE%E5%8D%95&t=31&band_rank=1&Refer=top) 9405154
 1. [这3个带马成语太给劲了](https://s.weibo.com/weibo?q=%23%E8%BF%993%E4%B8%AA%E5%B8%A6%E9%A9%AC%E6%88%90%E8%AF%AD%E5%A4%AA%E7%BB%99%E5%8A%B2%E4%BA%86%23&t=31&band_rank=2&Refer=top) 4981535
@@ -59,6 +59,7 @@
 1. [剑来2新副本原著粉看爽了](https://s.weibo.com/weibo?q=%E5%89%91%E6%9D%A52%E6%96%B0%E5%89%AF%E6%9C%AC%E5%8E%9F%E8%91%97%E7%B2%89%E7%9C%8B%E7%88%BD%E4%BA%86&t=31&band_rank=49&Refer=top) 3828027
 1. [全球首个个人机器人](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E9%A6%96%E4%B8%AA%E4%B8%AA%E4%BA%BA%E6%9C%BA%E5%99%A8%E4%BA%BA%23&t=31&band_rank=7&Refer=top) 3806757
 1. [湖南卫视跨年节目单](https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E8%B7%A8%E5%B9%B4%E8%8A%82%E7%9B%AE%E5%8D%95%23&t=31&band_rank=1&Refer=top) 2487498
+1. [2026年这么干](https://s.weibo.com/weibo?q=%232026%E5%B9%B4%E8%BF%99%E4%B9%88%E5%B9%B2%23&t=31&band_rank=3&Refer=top) 1591715
 1. [2025那些直抵人心的瞬间](https://s.weibo.com/weibo?q=%232025%E9%82%A3%E4%BA%9B%E7%9B%B4%E6%8A%B5%E4%BA%BA%E5%BF%83%E7%9A%84%E7%9E%AC%E9%97%B4%23&t=31&band_rank=3&Refer=top) 1333868
 1. [赖清德被曝用装甲车巡逻护己周全](https://s.weibo.com/weibo?q=%23%E8%B5%96%E6%B8%85%E5%BE%B7%E8%A2%AB%E6%9B%9D%E7%94%A8%E8%A3%85%E7%94%B2%E8%BD%A6%E5%B7%A1%E9%80%BB%E6%8A%A4%E5%B7%B1%E5%91%A8%E5%85%A8%23&t=31&band_rank=17&Refer=top) 1182865
 1. [2025回忆存档](https://s.weibo.com/weibo?q=%232025%E5%9B%9E%E5%BF%86%E5%AD%98%E6%A1%A3%23&t=31&band_rank=5&Refer=top) 1137749
@@ -106,6 +107,7 @@
 1. [我国5年历程极不寻常](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD5%E5%B9%B4%E5%8E%86%E7%A8%8B%E6%9E%81%E4%B8%8D%E5%AF%BB%E5%B8%B8%23&t=31&band_rank=3&Refer=top) 851573
 1. [印度宣布经济已超日本](https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%AE%A3%E5%B8%83%E7%BB%8F%E6%B5%8E%E5%B7%B2%E8%B6%85%E6%97%A5%E6%9C%AC%23&t=31&band_rank=1&Refer=top) 834410
 1. [一项项突破见证奋进中国](https://s.weibo.com/weibo?q=%23%E4%B8%80%E9%A1%B9%E9%A1%B9%E7%AA%81%E7%A0%B4%E8%A7%81%E8%AF%81%E5%A5%8B%E8%BF%9B%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top) 818405
+1. [哪吒官微说不负期许](https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%92%E5%AE%98%E5%BE%AE%E8%AF%B4%E4%B8%8D%E8%B4%9F%E6%9C%9F%E8%AE%B8%23&t=31&band_rank=11&Refer=top) 817677
 1. [东部战区短视频夺权杀招](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E7%9F%AD%E8%A7%86%E9%A2%91%E5%A4%BA%E6%9D%83%E6%9D%80%E6%8B%9B%23&t=31&band_rank=2&Refer=top) 799183
 1. [雷军跨年直播推迟](https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E8%B7%A8%E5%B9%B4%E7%9B%B4%E6%92%AD%E6%8E%A8%E8%BF%9F%23&t=31&band_rank=2&Refer=top) 779185
 1. [再见2025](https://s.weibo.com/weibo?q=%23%E5%86%8D%E8%A7%812025%23&t=31&band_rank=5&Refer=top) 764227
@@ -114,6 +116,16 @@
 1. [2026年农业强国建设施工图](https://s.weibo.com/weibo?q=%232026%E5%B9%B4%E5%86%9C%E4%B8%9A%E5%BC%BA%E5%9B%BD%E5%BB%BA%E8%AE%BE%E6%96%BD%E5%B7%A5%E5%9B%BE%23&t=31&band_rank=3&Refer=top) 587663
 1. [看了6集猜对0个凶手](https://s.weibo.com/weibo?q=%E7%9C%8B%E4%BA%866%E9%9B%86%E7%8C%9C%E5%AF%B90%E4%B8%AA%E5%87%B6%E6%89%8B&t=31&band_rank=4&Refer=top) 544807
 1. [我国银发网民加速拥抱数字世界](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E9%93%B6%E5%8F%91%E7%BD%91%E6%B0%91%E5%8A%A0%E9%80%9F%E6%8B%A5%E6%8A%B1%E6%95%B0%E5%AD%97%E4%B8%96%E7%95%8C%23&t=31&band_rank=3&Refer=top) 470224
+1. [浙江卫视 好明显的开麦](https://s.weibo.com/weibo?q=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86%20%E5%A5%BD%E6%98%8E%E6%98%BE%E7%9A%84%E5%BC%80%E9%BA%A6&t=31&band_rank=16&Refer=top) 435183
+1. [育儿补贴下周一全面开放申领](https://s.weibo.com/weibo?q=%23%E8%82%B2%E5%84%BF%E8%A1%A5%E8%B4%B4%E4%B8%8B%E5%91%A8%E4%B8%80%E5%85%A8%E9%9D%A2%E5%BC%80%E6%94%BE%E7%94%B3%E9%A2%86%23&t=31&band_rank=9&Refer=top) 423872
+1. [跨年演唱会不能没有张家人](https://s.weibo.com/weibo?q=%E8%B7%A8%E5%B9%B4%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8D%E8%83%BD%E6%B2%A1%E6%9C%89%E5%BC%A0%E5%AE%B6%E4%BA%BA&t=31&band_rank=31&Refer=top) 423081
+1. [iPhone也有新年模式](https://s.weibo.com/weibo?q=iPhone%E4%B9%9F%E6%9C%89%E6%96%B0%E5%B9%B4%E6%A8%A1%E5%BC%8F&t=31&band_rank=34&Refer=top) 422812
+1. [古韵国风成为年轻人顶流审美](https://s.weibo.com/weibo?q=%23%E5%8F%A4%E9%9F%B5%E5%9B%BD%E9%A3%8E%E6%88%90%E4%B8%BA%E5%B9%B4%E8%BD%BB%E4%BA%BA%E9%A1%B6%E6%B5%81%E5%AE%A1%E7%BE%8E%23&t=31&band_rank=38&Refer=top) 422405
+1. [2026新年好](https://s.weibo.com/weibo?q=%232026%E6%96%B0%E5%B9%B4%E5%A5%BD%23&t=31&band_rank=39&Refer=top) 422280
+1. [小家热气腾腾中国就蒸蒸日上](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AE%B6%E7%83%AD%E6%B0%94%E8%85%BE%E8%85%BE%E4%B8%AD%E5%9B%BD%E5%B0%B1%E8%92%B8%E8%92%B8%E6%97%A5%E4%B8%8A%23&t=31&band_rank=40&Refer=top) 422233
+1. [跨晚新疆女孩美得很突出](https://s.weibo.com/weibo?q=%23%E8%B7%A8%E6%99%9A%E6%96%B0%E7%96%86%E5%A5%B3%E5%AD%A9%E7%BE%8E%E5%BE%97%E5%BE%88%E7%AA%81%E5%87%BA%23&t=31&band_rank=41&Refer=top) 422075
+1. [王鹤棣央视跨年特别版MV](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%A4%AE%E8%A7%86%E8%B7%A8%E5%B9%B4%E7%89%B9%E5%88%AB%E7%89%88MV%23&t=31&band_rank=45&Refer=top) 421656
+1. [完美世界](https://s.weibo.com/weibo?q=%E5%AE%8C%E7%BE%8E%E4%B8%96%E7%95%8C&t=31&band_rank=49&Refer=top) 421320
 1. [藏海传](https://s.weibo.com/weibo?q=%E8%97%8F%E6%B5%B7%E4%BC%A0&t=31&band_rank=4&Refer=top) 383116
 1. [聂曦光微博取关林屿森](https://s.weibo.com/weibo?q=%E8%81%82%E6%9B%A6%E5%85%89%E5%BE%AE%E5%8D%9A%E5%8F%96%E5%85%B3%E6%9E%97%E5%B1%BF%E6%A3%AE&t=31&band_rank=5&Refer=top) 297962
 1. [俄末日电台突然播放天鹅湖](https://s.weibo.com/weibo?q=%23%E4%BF%84%E6%9C%AB%E6%97%A5%E7%94%B5%E5%8F%B0%E7%AA%81%E7%84%B6%E6%92%AD%E6%94%BE%E5%A4%A9%E9%B9%85%E6%B9%96%23&t=31&band_rank=5&Refer=top) 268373
@@ -172,7 +184,6 @@
 1. [人工智能攻击人类案例加一](https://s.weibo.com/weibo?q=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%94%BB%E5%87%BB%E4%BA%BA%E7%B1%BB%E6%A1%88%E4%BE%8B%E5%8A%A0%E4%B8%80&t=31&band_rank=43&Refer=top) 212580
 1. [骄阳似我 明年和好](https://s.weibo.com/weibo?q=%E9%AA%84%E9%98%B3%E4%BC%BC%E6%88%91%20%E6%98%8E%E5%B9%B4%E5%92%8C%E5%A5%BD&t=31&band_rank=27&Refer=top) 212346
 1. [詹姆斯这一天又输球了](https://s.weibo.com/weibo?q=%23%E8%A9%B9%E5%A7%86%E6%96%AF%E8%BF%99%E4%B8%80%E5%A4%A9%E5%8F%88%E8%BE%93%E7%90%83%E4%BA%86%23&t=31&band_rank=47&Refer=top) 212222
-1. [育儿补贴下周一全面开放申领](https://s.weibo.com/weibo?q=%23%E8%82%B2%E5%84%BF%E8%A1%A5%E8%B4%B4%E4%B8%8B%E5%91%A8%E4%B8%80%E5%85%A8%E9%9D%A2%E5%BC%80%E6%94%BE%E7%94%B3%E9%A2%86%23&t=31&band_rank=9&Refer=top) 212077
 1. [家长带着幼儿在马路上值护学岗](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%95%BF%E5%B8%A6%E7%9D%80%E5%B9%BC%E5%84%BF%E5%9C%A8%E9%A9%AC%E8%B7%AF%E4%B8%8A%E5%80%BC%E6%8A%A4%E5%AD%A6%E5%B2%97%23&t=31&band_rank=31&Refer=top) 211708
 1. [ivl](https://s.weibo.com/weibo?q=ivl&t=31&band_rank=10&Refer=top) 207532
 1. [增值税](https://s.weibo.com/weibo?q=%E5%A2%9E%E5%80%BC%E7%A8%8E&t=31&band_rank=5&Refer=top) 206146
