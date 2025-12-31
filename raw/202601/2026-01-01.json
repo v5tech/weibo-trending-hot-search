@@ -198,5 +198,25 @@
   "悟空和哪吒风靡全球": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%82%9F%E7%A9%BA%E5%92%8C%E5%93%AA%E5%90%92%E9%A3%8E%E9%9D%A1%E5%85%A8%E7%90%83%23&t=31&band_rank=50&Refer=top",
     "hot": 1180656
+  },
+  "不要回头": {
+    "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E8%A6%81%E5%9B%9E%E5%A4%B4&t=31&band_rank=12&Refer=top",
+    "hot": 961691
+  },
+  "寻秦记": {
+    "url": "https://s.weibo.com/weibo?q=%E5%AF%BB%E7%A7%A6%E8%AE%B0&t=31&band_rank=16&Refer=top",
+    "hot": 957964
+  },
+  "新年快乐图片": {
+    "url": "https://s.weibo.com/weibo?q=%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90%E5%9B%BE%E7%89%87&t=31&band_rank=22&Refer=top",
+    "hot": 952727
+  },
+  "跨年晚会节目单": {
+    "url": "https://s.weibo.com/weibo?q=%23%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A%E8%8A%82%E7%9B%AE%E5%8D%95%23&t=31&band_rank=49&Refer=top",
+    "hot": 930211
+  },
+  "全球首个个人机器人": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E9%A6%96%E4%B8%AA%E4%B8%AA%E4%BA%BA%E6%9C%BA%E5%99%A8%E4%BA%BA%23&t=31&band_rank=50&Refer=top",
+    "hot": 929672
   }
 }
