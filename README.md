@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-01-01 03:18:41.539216 
+最后更新时间 2026-01-01 04:26:34.118545 
 1. [新年快乐](https://s.weibo.com/weibo?q=%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90&t=31&band_rank=4&Refer=top) 19031215
 1. [新年贺词](https://s.weibo.com/weibo?q=%E6%96%B0%E5%B9%B4%E8%B4%BA%E8%AF%8D&t=31&band_rank=1&Refer=top) 3047994
 1. [祖国统一历史大势不可阻挡](https://s.weibo.com/weibo?q=%23%E7%A5%96%E5%9B%BD%E7%BB%9F%E4%B8%80%E5%8E%86%E5%8F%B2%E5%A4%A7%E5%8A%BF%E4%B8%8D%E5%8F%AF%E9%98%BB%E6%8C%A1%23&t=31&band_rank=2&Refer=top) 3006834
@@ -67,6 +67,7 @@
 1. [电影匿杀](https://s.weibo.com/weibo?q=%E7%94%B5%E5%BD%B1%E5%8C%BF%E6%9D%80&t=31&band_rank=44&Refer=top) 348555
 1. [我国经济总量预计140万亿元](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%80%BB%E9%87%8F%E9%A2%84%E8%AE%A1140%E4%B8%87%E4%BA%BF%E5%85%83%23&t=31&band_rank=45&Refer=top) 348411
 1. [生理性喜欢的4个信号](https://s.weibo.com/weibo?q=%23%E7%94%9F%E7%90%86%E6%80%A7%E5%96%9C%E6%AC%A2%E7%9A%844%E4%B8%AA%E4%BF%A1%E5%8F%B7%23&t=31&band_rank=21&Refer=top) 169094
+1. [央视跨年晚会](https://s.weibo.com/weibo?q=%E5%A4%AE%E8%A7%86%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A&t=31&band_rank=38&Refer=top) 68763
 <!-- END -->
 
 历史归档 [./archives](./archives)
