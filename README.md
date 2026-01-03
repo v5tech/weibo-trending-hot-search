@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-01-04 01:20:16.928439 
+最后更新时间 2026-01-04 02:32:47.175738 
 1. [外交部回应美对委军事打击](https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%AF%B9%E5%A7%94%E5%86%9B%E4%BA%8B%E6%89%93%E5%87%BB%23&t=31&band_rank=1&Refer=top) 884376
 1. [适龄男性公民都应进行兵役登记](https://s.weibo.com/weibo?q=%23%E9%80%82%E9%BE%84%E7%94%B7%E6%80%A7%E5%85%AC%E6%B0%91%E9%83%BD%E5%BA%94%E8%BF%9B%E8%A1%8C%E5%85%B5%E5%BD%B9%E7%99%BB%E8%AE%B0%23&t=31&band_rank=2&Refer=top) 883819
 1. [福建舰2026主要任务](https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E8%88%B02026%E4%B8%BB%E8%A6%81%E4%BB%BB%E5%8A%A1%23&t=31&band_rank=3&Refer=top) 882849
@@ -69,6 +69,13 @@
 1. [俄强烈敦促美国释放马杜罗](https://s.weibo.com/weibo?q=%23%E4%BF%84%E5%BC%BA%E7%83%88%E6%95%A6%E4%BF%83%E7%BE%8E%E5%9B%BD%E9%87%8A%E6%94%BE%E9%A9%AC%E6%9D%9C%E7%BD%97%23&t=31&band_rank=39&Refer=top) 344221
 1. [华晨宇火星1.0海口全记录](https://s.weibo.com/weibo?q=%E5%8D%8E%E6%99%A8%E5%AE%87%E7%81%AB%E6%98%9F1.0%E6%B5%B7%E5%8F%A3%E5%85%A8%E8%AE%B0%E5%BD%95&t=31&band_rank=48&Refer=top) 343182
 1. [2026第一个工作日](https://s.weibo.com/weibo?q=%232026%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%B7%A5%E4%BD%9C%E6%97%A5%23&t=31&band_rank=50&Refer=top) 342940
+1. [美国大型石油公司将前往委内瑞拉](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A4%A7%E5%9E%8B%E7%9F%B3%E6%B2%B9%E5%85%AC%E5%8F%B8%E5%B0%86%E5%89%8D%E5%BE%80%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%23&t=31&band_rank=4&Refer=top) 156043
+1. [特朗普称将占领管理委内瑞拉](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E5%8D%A0%E9%A2%86%E7%AE%A1%E7%90%86%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%23&t=31&band_rank=5&Refer=top) 155926
+1. [鹿晗四巡名场面回顾](https://s.weibo.com/weibo?q=%E9%B9%BF%E6%99%97%E5%9B%9B%E5%B7%A1%E5%90%8D%E5%9C%BA%E9%9D%A2%E5%9B%9E%E9%A1%BE&t=31&band_rank=9&Refer=top) 155700
+1. [身体这些信号提醒你吃多了](https://s.weibo.com/weibo?q=%23%E8%BA%AB%E4%BD%93%E8%BF%99%E4%BA%9B%E4%BF%A1%E5%8F%B7%E6%8F%90%E9%86%92%E4%BD%A0%E5%90%83%E5%A4%9A%E4%BA%86%23&t=31&band_rank=21&Refer=top) 155018
+1. [特朗普透露夜袭细节](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%8F%E9%9C%B2%E5%A4%9C%E8%A2%AD%E7%BB%86%E8%8A%82%23&t=31&band_rank=24&Refer=top) 154878
+1. [刘宇宁想把十首歌拍一个小短剧](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E6%83%B3%E6%8A%8A%E5%8D%81%E9%A6%96%E6%AD%8C%E6%8B%8D%E4%B8%80%E4%B8%AA%E5%B0%8F%E7%9F%AD%E5%89%A7%23&t=31&band_rank=25&Refer=top) 154811
+1. [怪奇物语大结局](https://s.weibo.com/weibo?q=%E6%80%AA%E5%A5%87%E7%89%A9%E8%AF%AD%E5%A4%A7%E7%BB%93%E5%B1%80&t=31&band_rank=39&Refer=top) 153996
 <!-- END -->
 
 历史归档 [./archives](./archives)
