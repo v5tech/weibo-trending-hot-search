@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-01-03 12:34:42.866144 
+最后更新时间 2026-01-03 13:25:03.834304 
 1. [两外国人在重庆用筷子烫火锅](https://s.weibo.com/weibo?q=%23%E4%B8%A4%E5%A4%96%E5%9B%BD%E4%BA%BA%E5%9C%A8%E9%87%8D%E5%BA%86%E7%94%A8%E7%AD%B7%E5%AD%90%E7%83%AB%E7%81%AB%E9%94%85%23&t=31&band_rank=1&Refer=top) 1072949
 1. [车厘子价格暴跌近40%](https://s.weibo.com/weibo?q=%23%E8%BD%A6%E5%8E%98%E5%AD%90%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C%E8%BF%9140%25%23&t=31&band_rank=1&Refer=top) 1041704
 1. [元旦假期消费新图鉴](https://s.weibo.com/weibo?q=%23%E5%85%83%E6%97%A6%E5%81%87%E6%9C%9F%E6%B6%88%E8%B4%B9%E6%96%B0%E5%9B%BE%E9%89%B4%23&t=31&band_rank=3&Refer=top) 1040732
@@ -149,6 +149,24 @@
 1. [钎城没上场](https://s.weibo.com/weibo?q=%E9%92%8E%E5%9F%8E%E6%B2%A1%E4%B8%8A%E5%9C%BA&t=31&band_rank=47&Refer=top) 476884
 1. [冷冷冷冷冷冷元旦冷冷冷冷冷冷](https://s.weibo.com/weibo?q=%23%E5%86%B7%E5%86%B7%E5%86%B7%E5%86%B7%E5%86%B7%E5%86%B7%E5%85%83%E6%97%A6%E5%86%B7%E5%86%B7%E5%86%B7%E5%86%B7%E5%86%B7%E5%86%B7%23&t=31&band_rank=48&Refer=top) 476587
 1. [幼儿园园长回应篮球表演失误出圈](https://s.weibo.com/weibo?q=%23%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%9B%AD%E9%95%BF%E5%9B%9E%E5%BA%94%E7%AF%AE%E7%90%83%E8%A1%A8%E6%BC%94%E5%A4%B1%E8%AF%AF%E5%87%BA%E5%9C%88%23&t=31&band_rank=50&Refer=top) 476041
+1. [第一次见歌手用歌回击这么爽](https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E6%AD%8C%E6%89%8B%E7%94%A8%E6%AD%8C%E5%9B%9E%E5%87%BB%E8%BF%99%E4%B9%88%E7%88%BD&t=31&band_rank=5&Refer=top) 474900
+1. [匿杀对抗路姐弟双向救赎](https://s.weibo.com/weibo?q=%23%E5%8C%BF%E6%9D%80%E5%AF%B9%E6%8A%97%E8%B7%AF%E5%A7%90%E5%BC%9F%E5%8F%8C%E5%90%91%E6%95%91%E8%B5%8E%23&t=31&band_rank=8&Refer=top) 463235
+1. [交警回应撞脸杨紫爆红](https://s.weibo.com/weibo?q=%23%E4%BA%A4%E8%AD%A6%E5%9B%9E%E5%BA%94%E6%92%9E%E8%84%B8%E6%9D%A8%E7%B4%AB%E7%88%86%E7%BA%A2%23&t=31&band_rank=21&Refer=top) 422875
+1. [2026LPL第一赛段赛程](https://s.weibo.com/weibo?q=%232026LPL%E7%AC%AC%E4%B8%80%E8%B5%9B%E6%AE%B5%E8%B5%9B%E7%A8%8B%23&t=31&band_rank=24&Refer=top) 422695
+1. [谁家大结局乱成一锅粥了](https://s.weibo.com/weibo?q=%E8%B0%81%E5%AE%B6%E5%A4%A7%E7%BB%93%E5%B1%80%E4%B9%B1%E6%88%90%E4%B8%80%E9%94%85%E7%B2%A5%E4%BA%86&t=31&band_rank=26&Refer=top) 422561
+1. [宝马中国回应最高降价30万](https://s.weibo.com/weibo?q=%23%E5%AE%9D%E9%A9%AC%E4%B8%AD%E5%9B%BD%E5%9B%9E%E5%BA%94%E6%9C%80%E9%AB%98%E9%99%8D%E4%BB%B730%E4%B8%87%23&t=31&band_rank=28&Refer=top) 422472
+1. [当狗狗发现主人早上晚起了半小时](https://s.weibo.com/weibo?q=%23%E5%BD%93%E7%8B%97%E7%8B%97%E5%8F%91%E7%8E%B0%E4%B8%BB%E4%BA%BA%E6%97%A9%E4%B8%8A%E6%99%9A%E8%B5%B7%E4%BA%86%E5%8D%8A%E5%B0%8F%E6%97%B6%23&t=31&band_rank=33&Refer=top) 422147
+1. [新年第一餐漂亮饭](https://s.weibo.com/weibo?q=%E6%96%B0%E5%B9%B4%E7%AC%AC%E4%B8%80%E9%A4%90%E6%BC%82%E4%BA%AE%E9%A5%AD&t=31&band_rank=34&Refer=top) 422075
+1. [王安宇小时候是正方形](https://s.weibo.com/weibo?q=%E7%8E%8B%E5%AE%89%E5%AE%87%E5%B0%8F%E6%97%B6%E5%80%99%E6%98%AF%E6%AD%A3%E6%96%B9%E5%BD%A2&t=31&band_rank=35&Refer=top) 421995
+1. [在2009年一个普通的周末醒来](https://s.weibo.com/weibo?q=%E5%9C%A82009%E5%B9%B4%E4%B8%80%E4%B8%AA%E6%99%AE%E9%80%9A%E7%9A%84%E5%91%A8%E6%9C%AB%E9%86%92%E6%9D%A5&t=31&band_rank=37&Refer=top) 421875
+1. [松鼠夜袭王一博](https://s.weibo.com/weibo?q=%23%E6%9D%BE%E9%BC%A0%E5%A4%9C%E8%A2%AD%E7%8E%8B%E4%B8%80%E5%8D%9A%23&t=31&band_rank=39&Refer=top) 421755
+1. [广州一小区给全体业主分红30万元](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E4%B8%80%E5%B0%8F%E5%8C%BA%E7%BB%99%E5%85%A8%E4%BD%93%E4%B8%9A%E4%B8%BB%E5%88%86%E7%BA%A230%E4%B8%87%E5%85%83%23&t=31&band_rank=40&Refer=top) 421719
+1. [领导的电话号码要背熟](https://s.weibo.com/weibo?q=%E9%A2%86%E5%AF%BC%E7%9A%84%E7%94%B5%E8%AF%9D%E5%8F%B7%E7%A0%81%E8%A6%81%E8%83%8C%E7%86%9F&t=31&band_rank=41&Refer=top) 421631
+1. [宇宙闪烁请注意](https://s.weibo.com/weibo?q=%E5%AE%87%E5%AE%99%E9%97%AA%E7%83%81%E8%AF%B7%E6%B3%A8%E6%84%8F&t=31&band_rank=42&Refer=top) 421563
+1. [刘亦菲李现去有风的地方开播三周年](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E6%9D%8E%E7%8E%B0%E5%8E%BB%E6%9C%89%E9%A3%8E%E7%9A%84%E5%9C%B0%E6%96%B9%E5%BC%80%E6%92%AD%E4%B8%89%E5%91%A8%E5%B9%B4%23&t=31&band_rank=43&Refer=top) 421524
+1. [明天要上班记得调闹钟](https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%A4%A9%E8%A6%81%E4%B8%8A%E7%8F%AD%E8%AE%B0%E5%BE%97%E8%B0%83%E9%97%B9%E9%92%9F%23&t=31&band_rank=45&Refer=top) 421365
+1. [花6.5万买金条收到一卷卫生纸](https://s.weibo.com/weibo?q=%23%E8%8A%B16.5%E4%B8%87%E4%B9%B0%E9%87%91%E6%9D%A1%E6%94%B6%E5%88%B0%E4%B8%80%E5%8D%B7%E5%8D%AB%E7%94%9F%E7%BA%B8%23&t=31&band_rank=49&Refer=top) 421094
+1. [萝卜纸巾猫认亲戚版](https://s.weibo.com/weibo?q=%E8%90%9D%E5%8D%9C%E7%BA%B8%E5%B7%BE%E7%8C%AB%E8%AE%A4%E4%BA%B2%E6%88%9A%E7%89%88&t=31&band_rank=50&Refer=top) 421026
 1. [华晨宇演唱会](https://s.weibo.com/weibo?q=%E5%8D%8E%E6%99%A8%E5%AE%87%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=40&Refer=top) 246014
 1. [给张凌赫递麦的是靳梦佳](https://s.weibo.com/weibo?q=%E7%BB%99%E5%BC%A0%E5%87%8C%E8%B5%AB%E9%80%92%E9%BA%A6%E7%9A%84%E6%98%AF%E9%9D%B3%E6%A2%A6%E4%BD%B3&t=31&band_rank=44&Refer=top) 245715
 1. [聂曦光的不动产风景](https://s.weibo.com/weibo?q=%E8%81%82%E6%9B%A6%E5%85%89%E7%9A%84%E4%B8%8D%E5%8A%A8%E4%BA%A7%E9%A3%8E%E6%99%AF&t=31&band_rank=47&Refer=top) 245530
