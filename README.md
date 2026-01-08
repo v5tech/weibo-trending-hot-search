@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-01-09 02:33:22.223001 
+最后更新时间 2026-01-09 03:22:38.128334 
 1. [中国人花六十多万买下北海道三套房](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%8A%B1%E5%85%AD%E5%8D%81%E5%A4%9A%E4%B8%87%E4%B9%B0%E4%B8%8B%E5%8C%97%E6%B5%B7%E9%81%93%E4%B8%89%E5%A5%97%E6%88%BF%23&t=31&band_rank=1&Refer=top) 827164
 1. [呼和浩特发生2.8级地震](https://s.weibo.com/weibo?q=%23%E5%91%BC%E5%92%8C%E6%B5%A9%E7%89%B9%E5%8F%91%E7%94%9F2.8%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=2&Refer=top) 614465
 1. [我国冰雪旅游正进入持续繁荣新阶段](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E5%86%B0%E9%9B%AA%E6%97%85%E6%B8%B8%E6%AD%A3%E8%BF%9B%E5%85%A5%E6%8C%81%E7%BB%AD%E7%B9%81%E8%8D%A3%E6%96%B0%E9%98%B6%E6%AE%B5%23&t=31&band_rank=3&Refer=top) 466295
@@ -69,6 +69,8 @@
 1. [试试沉浸式做自己](https://s.weibo.com/weibo?q=%23%E8%AF%95%E8%AF%95%E6%B2%89%E6%B5%B8%E5%BC%8F%E5%81%9A%E8%87%AA%E5%B7%B1%23&t=31&band_rank=38&Refer=top) 53201
 1. [王源郑州吃播vlog](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%BA%90%E9%83%91%E5%B7%9E%E5%90%83%E6%92%ADvlog&t=31&band_rank=44&Refer=top) 53079
 1. [3岁男童和狗看挖机走失救援者发声](https://s.weibo.com/weibo?q=%233%E5%B2%81%E7%94%B7%E7%AB%A5%E5%92%8C%E7%8B%97%E7%9C%8B%E6%8C%96%E6%9C%BA%E8%B5%B0%E5%A4%B1%E6%95%91%E6%8F%B4%E8%80%85%E5%8F%91%E5%A3%B0%23&t=31&band_rank=49&Refer=top) 52957
+1. [周深期末补作业](https://s.weibo.com/weibo?q=%E5%91%A8%E6%B7%B1%E6%9C%9F%E6%9C%AB%E8%A1%A5%E4%BD%9C%E4%B8%9A&t=31&band_rank=45&Refer=top) 34711
+1. [3岁男童看挖机走失找到时出现失温](https://s.weibo.com/weibo?q=%233%E5%B2%81%E7%94%B7%E7%AB%A5%E7%9C%8B%E6%8C%96%E6%9C%BA%E8%B5%B0%E5%A4%B1%E6%89%BE%E5%88%B0%E6%97%B6%E5%87%BA%E7%8E%B0%E5%A4%B1%E6%B8%A9%23&t=31&band_rank=46&Refer=top) 34702
 <!-- END -->
 
 历史归档 [./archives](./archives)
