@@ -87,6 +87,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E7%9A%84%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%A2%A6%E5%9B%9E%E6%98%8E%E5%85%B0%E4%BA%86%23&t=31&band_rank=22&Refer=top",
     "hot": 89580
   },
+  "东数西算效率10倍速狂飙": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%9C%E6%95%B0%E8%A5%BF%E7%AE%97%E6%95%88%E7%8E%8710%E5%80%8D%E9%80%9F%E7%8B%82%E9%A3%99%23&t=31&band_rank=3&Refer=top",
+    "hot": 88066
+  },
   "液断7天瘦了13.2斤": {
     "url": "https://s.weibo.com/weibo?q=%E6%B6%B2%E6%96%AD7%E5%A4%A9%E7%98%A6%E4%BA%8613.2%E6%96%A4&t=31&band_rank=23&Refer=top",
     "hot": 82868
@@ -201,7 +205,7 @@
   },
   "轧戏 剧本杀": {
     "url": "https://s.weibo.com/weibo?q=%E8%BD%A7%E6%88%8F%20%E5%89%A7%E6%9C%AC%E6%9D%80&t=31&band_rank=29&Refer=top",
-    "hot": 56050
+    "hot": 64752
   },
   "新音官摄舞台": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%9F%B3%E5%AE%98%E6%91%84%E8%88%9E%E5%8F%B0%23&t=31&band_rank=31&Refer=top",
@@ -230,5 +234,25 @@
   "俄罗斯报复乌克兰": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E6%8A%A5%E5%A4%8D%E4%B9%8C%E5%85%8B%E5%85%B0%23&t=31&band_rank=47&Refer=top",
     "hot": 55873
+  },
+  "苹果煮水喝孩子越喝越长个儿": {
+    "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E7%85%AE%E6%B0%B4%E5%96%9D%E5%AD%A9%E5%AD%90%E8%B6%8A%E5%96%9D%E8%B6%8A%E9%95%BF%E4%B8%AA%E5%84%BF%23&t=31&band_rank=23&Refer=top",
+    "hot": 30690
+  },
+  "声生不息华流季": {
+    "url": "https://s.weibo.com/weibo?q=%E5%A3%B0%E7%94%9F%E4%B8%8D%E6%81%AF%E5%8D%8E%E6%B5%81%E5%AD%A3&t=31&band_rank=35&Refer=top",
+    "hot": 30632
+  },
+  "醒来": {
+    "url": "https://s.weibo.com/weibo?q=%E9%86%92%E6%9D%A5&t=31&band_rank=39&Refer=top",
+    "hot": 30614
+  },
+  "赵丽颖说熟人局很享受": {
+    "url": "https://s.weibo.com/weibo?q=%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%AF%B4%E7%86%9F%E4%BA%BA%E5%B1%80%E5%BE%88%E4%BA%AB%E5%8F%97&t=31&band_rank=46&Refer=top",
+    "hot": 30584
+  },
+  "我们与法庭的距离": {
+    "url": "https://s.weibo.com/weibo?q=%E6%88%91%E4%BB%AC%E4%B8%8E%E6%B3%95%E5%BA%AD%E7%9A%84%E8%B7%9D%E7%A6%BB&t=31&band_rank=47&Refer=top",
+    "hot": 30582
   }
 }
