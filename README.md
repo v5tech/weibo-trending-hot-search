@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-01-10 04:28:34.975680 
+最后更新时间 2026-01-10 05:24:32.558609 
 1. [住房公积金制度改革](https://s.weibo.com/weibo?q=%23%E4%BD%8F%E6%88%BF%E5%85%AC%E7%A7%AF%E9%87%91%E5%88%B6%E5%BA%A6%E6%94%B9%E9%9D%A9%23&t=31&band_rank=1&Refer=top) 818735
 1. [日本一医院遗失放射性物质](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%80%E5%8C%BB%E9%99%A2%E9%81%97%E5%A4%B1%E6%94%BE%E5%B0%84%E6%80%A7%E7%89%A9%E8%B4%A8%23&t=31&band_rank=2&Refer=top) 603024
 1. [内蒙古赤峰一小学校服里有薄膜](https://s.weibo.com/weibo?q=%23%E5%86%85%E8%92%99%E5%8F%A4%E8%B5%A4%E5%B3%B0%E4%B8%80%E5%B0%8F%E5%AD%A6%E6%A0%A1%E6%9C%8D%E9%87%8C%E6%9C%89%E8%96%84%E8%86%9C%23&t=31&band_rank=7&Refer=top) 491158
