@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-01-11 02:33:20.588318 
+最后更新时间 2026-01-11 03:18:40.092166 
 1. [海底捞回应送黄金小马挂件](https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%9B%9E%E5%BA%94%E9%80%81%E9%BB%84%E9%87%91%E5%B0%8F%E9%A9%AC%E6%8C%82%E4%BB%B6%23&t=31&band_rank=1&Refer=top) 845448
 1. [一起来看流星雨](https://s.weibo.com/weibo?q=%E4%B8%80%E8%B5%B7%E6%9D%A5%E7%9C%8B%E6%B5%81%E6%98%9F%E9%9B%A8&t=31&band_rank=2&Refer=top) 593398
 1. [中国大港动能澎湃](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%B8%AF%E5%8A%A8%E8%83%BD%E6%BE%8E%E6%B9%83%23&t=31&band_rank=3&Refer=top) 476874
@@ -71,6 +71,7 @@
 1. [乙骨忧太订婚戒指出周边了](https://s.weibo.com/weibo?q=%E4%B9%99%E9%AA%A8%E5%BF%A7%E5%A4%AA%E8%AE%A2%E5%A9%9A%E6%88%92%E6%8C%87%E5%87%BA%E5%91%A8%E8%BE%B9%E4%BA%86&t=31&band_rank=29&Refer=top) 46999
 1. [轧戏女主男二cp感](https://s.weibo.com/weibo?q=%E8%BD%A7%E6%88%8F%E5%A5%B3%E4%B8%BB%E7%94%B7%E4%BA%8Ccp%E6%84%9F&t=31&band_rank=42&Refer=top) 46874
 1. [白鹿下一季最期待的项目](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E4%B8%8B%E4%B8%80%E5%AD%A3%E6%9C%80%E6%9C%9F%E5%BE%85%E7%9A%84%E9%A1%B9%E7%9B%AE%23&t=31&band_rank=47&Refer=top) 46833
+1. [刘宇宁沙丘战士](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E6%B2%99%E4%B8%98%E6%88%98%E5%A3%AB%23&t=31&band_rank=36&Refer=top) 34725
 <!-- END -->
 
 历史归档 [./archives](./archives)
