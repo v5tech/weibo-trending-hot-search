@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-01-12 03:18:40.952813 
+最后更新时间 2026-01-12 04:26:40.787284 
 1. [烟台暴雪下冒烟了](https://s.weibo.com/weibo?q=%23%E7%83%9F%E5%8F%B0%E6%9A%B4%E9%9B%AA%E4%B8%8B%E5%86%92%E7%83%9F%E4%BA%86%23&t=31&band_rank=1&Refer=top) 846836
 1. [国乒无缘多哈冠军赛男单决赛](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E6%97%A0%E7%BC%98%E5%A4%9A%E5%93%88%E5%86%A0%E5%86%9B%E8%B5%9B%E7%94%B7%E5%8D%95%E5%86%B3%E8%B5%9B%23&t=31&band_rank=2&Refer=top) 594705
 1. [特朗普表态让万千台湾民众看清现实](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%A1%A8%E6%80%81%E8%AE%A9%E4%B8%87%E5%8D%83%E5%8F%B0%E6%B9%BE%E6%B0%91%E4%BC%97%E7%9C%8B%E6%B8%85%E7%8E%B0%E5%AE%9E%23&t=31&band_rank=35&Refer=top) 527539
@@ -80,6 +80,10 @@
 1. [陈幸同2比4朱雨玲](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%B9%B8%E5%90%8C2%E6%AF%944%E6%9C%B1%E9%9B%A8%E7%8E%B2%23&t=31&band_rank=14&Refer=top) 35216
 1. [张真源新歌音源上线](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%9C%9F%E6%BA%90%E6%96%B0%E6%AD%8C%E9%9F%B3%E6%BA%90%E4%B8%8A%E7%BA%BF%23&t=31&band_rank=20&Refer=top) 35132
 1. [张真源小张盲盒](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%9C%9F%E6%BA%90%E5%B0%8F%E5%BC%A0%E7%9B%B2%E7%9B%92%23&t=31&band_rank=45&Refer=top) 34722
+1. [代旭好帅](https://s.weibo.com/weibo?q=%E4%BB%A3%E6%97%AD%E5%A5%BD%E5%B8%85&t=31&band_rank=13&Refer=top) 22616
+1. [苏新皓超话达成钻三成就](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E6%96%B0%E7%9A%93%E8%B6%85%E8%AF%9D%E8%BE%BE%E6%88%90%E9%92%BB%E4%B8%89%E6%88%90%E5%B0%B1%23&t=31&band_rank=33&Refer=top) 21581
+1. [得闲谨制](https://s.weibo.com/weibo?q=%E5%BE%97%E9%97%B2%E8%B0%A8%E5%88%B6&t=31&band_rank=36&Refer=top) 21577
+1. [刘宇宁演唱会](https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=40&Refer=top) 21573
 <!-- END -->
 
 历史归档 [./archives](./archives)
