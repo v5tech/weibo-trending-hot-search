@@ -7,14 +7,16 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-01-12 06:22:44.031907 
+最后更新时间 2026-01-12 07:22:48.056554 
 1. [烟台暴雪下冒烟了](https://s.weibo.com/weibo?q=%23%E7%83%9F%E5%8F%B0%E6%9A%B4%E9%9B%AA%E4%B8%8B%E5%86%92%E7%83%9F%E4%BA%86%23&t=31&band_rank=1&Refer=top) 846836
+1. [特朗普表态让万千台湾民众看清现实](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%A1%A8%E6%80%81%E8%AE%A9%E4%B8%87%E5%8D%83%E5%8F%B0%E6%B9%BE%E6%B0%91%E4%BC%97%E7%9C%8B%E6%B8%85%E7%8E%B0%E5%AE%9E%23&t=31&band_rank=35&Refer=top) 816439
 1. [国乒无缘多哈冠军赛男单决赛](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E6%97%A0%E7%BC%98%E5%A4%9A%E5%93%88%E5%86%A0%E5%86%9B%E8%B5%9B%E7%94%B7%E5%8D%95%E5%86%B3%E8%B5%9B%23&t=31&band_rank=2&Refer=top) 594705
-1. [特朗普表态让万千台湾民众看清现实](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%A1%A8%E6%80%81%E8%AE%A9%E4%B8%87%E5%8D%83%E5%8F%B0%E6%B9%BE%E6%B0%91%E4%BC%97%E7%9C%8B%E6%B8%85%E7%8E%B0%E5%AE%9E%23&t=31&band_rank=35&Refer=top) 527539
 1. [这就是现实版的千里江山图吧](https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E7%8E%B0%E5%AE%9E%E7%89%88%E7%9A%84%E5%8D%83%E9%87%8C%E6%B1%9F%E5%B1%B1%E5%9B%BE%E5%90%A7%23&t=31&band_rank=3&Refer=top) 506240
+1. [中国农民种地科技感拉满](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%B0%91%E7%A7%8D%E5%9C%B0%E7%A7%91%E6%8A%80%E6%84%9F%E6%8B%89%E6%BB%A1%23&t=31&band_rank=3&Refer=top) 456874
 1. [社保工作人员用漏洞挪用养老金超百万](https://s.weibo.com/weibo?q=%23%E7%A4%BE%E4%BF%9D%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E7%94%A8%E6%BC%8F%E6%B4%9E%E6%8C%AA%E7%94%A8%E5%85%BB%E8%80%81%E9%87%91%E8%B6%85%E7%99%BE%E4%B8%87%23&t=31&band_rank=2&Refer=top) 373356
 1. [红果年度短剧投票结果](https://s.weibo.com/weibo?q=%23%E7%BA%A2%E6%9E%9C%E5%B9%B4%E5%BA%A6%E7%9F%AD%E5%89%A7%E6%8A%95%E7%A5%A8%E7%BB%93%E6%9E%9C%23&t=31&band_rank=4&Refer=top) 251466
-1. [中国农民种地科技感拉满](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%B0%91%E7%A7%8D%E5%9C%B0%E7%A7%91%E6%8A%80%E6%84%9F%E6%8B%89%E6%BB%A1%23&t=31&band_rank=3&Refer=top) 232413
+1. [林昀儒男单冠军](https://s.weibo.com/weibo?q=%23%E6%9E%97%E6%98%80%E5%84%92%E7%94%B7%E5%8D%95%E5%86%A0%E5%86%9B%23&t=31&band_rank=2&Refer=top) 215022
+1. [蔡依林演唱会被举报](https://s.weibo.com/weibo?q=%23%E8%94%A1%E4%BE%9D%E6%9E%97%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E4%B8%BE%E6%8A%A5%23&t=31&band_rank=5&Refer=top) 190952
 1. [电视剧年度盛典出席艺人](https://s.weibo.com/weibo?q=%23%E7%94%B5%E8%A7%86%E5%89%A7%E5%B9%B4%E5%BA%A6%E7%9B%9B%E5%85%B8%E5%87%BA%E5%B8%AD%E8%89%BA%E4%BA%BA%23&t=31&band_rank=5&Refer=top) 186294
 1. [一个礼拜掉8斤的食谱](https://s.weibo.com/weibo?q=%E4%B8%80%E4%B8%AA%E7%A4%BC%E6%8B%9C%E6%8E%898%E6%96%A4%E7%9A%84%E9%A3%9F%E8%B0%B1&t=31&band_rank=6&Refer=top) 165194
 1. [宋威龙工作室好用心](https://s.weibo.com/weibo?q=%E5%AE%8B%E5%A8%81%E9%BE%99%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%A5%BD%E7%94%A8%E5%BF%83&t=31&band_rank=7&Refer=top) 165170
@@ -60,7 +62,7 @@
 1. [家政市场爆单了](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E6%94%BF%E5%B8%82%E5%9C%BA%E7%88%86%E5%8D%95%E4%BA%86%23&t=31&band_rank=48&Refer=top) 164072
 1. [台游客发现大陆与民进党宣传不同](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B8%B8%E5%AE%A2%E5%8F%91%E7%8E%B0%E5%A4%A7%E9%99%86%E4%B8%8E%E6%B0%91%E8%BF%9B%E5%85%9A%E5%AE%A3%E4%BC%A0%E4%B8%8D%E5%90%8C%23&t=31&band_rank=49&Refer=top) 164028
 1. [国乒男队面临的挑战越来越严峻](https://s.weibo.com/weibo?q=%E5%9B%BD%E4%B9%92%E7%94%B7%E9%98%9F%E9%9D%A2%E4%B8%B4%E7%9A%84%E6%8C%91%E6%88%98%E8%B6%8A%E6%9D%A5%E8%B6%8A%E4%B8%A5%E5%B3%BB&t=31&band_rank=50&Refer=top) 163996
-1. [林昀儒男单冠军](https://s.weibo.com/weibo?q=%23%E6%9E%97%E6%98%80%E5%84%92%E7%94%B7%E5%8D%95%E5%86%A0%E5%86%9B%23&t=31&band_rank=2&Refer=top) 123755
+1. [国乒WTT多哈冠军赛无缘冠军](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92WTT%E5%A4%9A%E5%93%88%E5%86%A0%E5%86%9B%E8%B5%9B%E6%97%A0%E7%BC%98%E5%86%A0%E5%86%9B%23&t=31&band_rank=6&Refer=top) 128345
 1. [闫学晶说习惯被人捧着忘了本](https://s.weibo.com/weibo?q=%23%E9%97%AB%E5%AD%A6%E6%99%B6%E8%AF%B4%E4%B9%A0%E6%83%AF%E8%A2%AB%E4%BA%BA%E6%8D%A7%E7%9D%80%E5%BF%98%E4%BA%86%E6%9C%AC%23&t=31&band_rank=27&Refer=top) 81188
 1. [李秋萍上班第一天就被同事排挤](https://s.weibo.com/weibo?q=%E6%9D%8E%E7%A7%8B%E8%90%8D%E4%B8%8A%E7%8F%AD%E7%AC%AC%E4%B8%80%E5%A4%A9%E5%B0%B1%E8%A2%AB%E5%90%8C%E4%BA%8B%E6%8E%92%E6%8C%A4&t=31&band_rank=32&Refer=top) 81154
 1. [轧戏剧组道歉](https://s.weibo.com/weibo?q=%23%E8%BD%A7%E6%88%8F%E5%89%A7%E7%BB%84%E9%81%93%E6%AD%89%23&t=31&band_rank=36&Refer=top) 81122
@@ -76,14 +78,17 @@
 1. [侯明昊和17年好像没什么差别](https://s.weibo.com/weibo?q=%23%E4%BE%AF%E6%98%8E%E6%98%8A%E5%92%8C17%E5%B9%B4%E5%A5%BD%E5%83%8F%E6%B2%A1%E4%BB%80%E4%B9%88%E5%B7%AE%E5%88%AB%23&t=31&band_rank=41&Refer=top) 66547
 1. [刘宇宁这完全是going](https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%E8%BF%99%E5%AE%8C%E5%85%A8%E6%98%AFgoing&t=31&band_rank=45&Refer=top) 66541
 1. [陈楚生荒芜之境](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A5%9A%E7%94%9F%E8%8D%92%E8%8A%9C%E4%B9%8B%E5%A2%83%23&t=31&band_rank=47&Refer=top) 66536
-1. [国乒WTT多哈冠军赛无缘冠军](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92WTT%E5%A4%9A%E5%93%88%E5%86%A0%E5%86%9B%E8%B5%9B%E6%97%A0%E7%BC%98%E5%86%A0%E5%86%9B%23&t=31&band_rank=6&Refer=top) 59592
-1. [代旭好帅](https://s.weibo.com/weibo?q=%E4%BB%A3%E6%97%AD%E5%A5%BD%E5%B8%85&t=31&band_rank=13&Refer=top) 42632
-1. [陈幸同2比4朱雨玲](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%B9%B8%E5%90%8C2%E6%AF%944%E6%9C%B1%E9%9B%A8%E7%8E%B2%23&t=31&band_rank=14&Refer=top) 35284
+1. [代旭好帅](https://s.weibo.com/weibo?q=%E4%BB%A3%E6%97%AD%E5%A5%BD%E5%B8%85&t=31&band_rank=13&Refer=top) 64982
+1. [国家德比](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E5%BE%B7%E6%AF%94%23&t=31&band_rank=24&Refer=top) 62378
+1. [陈幸同2比4朱雨玲](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%B9%B8%E5%90%8C2%E6%AF%944%E6%9C%B1%E9%9B%A8%E7%8E%B2%23&t=31&band_rank=14&Refer=top) 62373
+1. [檀健次连续5天营业](https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E8%BF%9E%E7%BB%AD5%E5%A4%A9%E8%90%A5%E4%B8%9A%23&t=31&band_rank=27&Refer=top) 62364
+1. [手欠小狗每个人路过都要摸一下](https://s.weibo.com/weibo?q=%E6%89%8B%E6%AC%A0%E5%B0%8F%E7%8B%97%E6%AF%8F%E4%B8%AA%E4%BA%BA%E8%B7%AF%E8%BF%87%E9%83%BD%E8%A6%81%E6%91%B8%E4%B8%80%E4%B8%8B&t=31&band_rank=31&Refer=top) 62340
+1. [肖战将出席电视剧年度盛典](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%B0%86%E5%87%BA%E5%B8%AD%E7%94%B5%E8%A7%86%E5%89%A7%E5%B9%B4%E5%BA%A6%E7%9B%9B%E5%85%B8%23&t=31&band_rank=33&Refer=top) 62332
+1. [丹麦称若因格陵兰岛发生战争将很愚蠢](https://s.weibo.com/weibo?q=%23%E4%B8%B9%E9%BA%A6%E7%A7%B0%E8%8B%A5%E5%9B%A0%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E5%8F%91%E7%94%9F%E6%88%98%E4%BA%89%E5%B0%86%E5%BE%88%E6%84%9A%E8%A0%A2%23&t=31&band_rank=50&Refer=top) 62326
+1. [刘宇宁回应阿信想来看他的演唱会](https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%E5%9B%9E%E5%BA%94%E9%98%BF%E4%BF%A1%E6%83%B3%E6%9D%A5%E7%9C%8B%E4%BB%96%E7%9A%84%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=45&Refer=top) 62315
+1. [老君山狗狗主动为徒步下山游客引路](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%90%9B%E5%B1%B1%E7%8B%97%E7%8B%97%E4%B8%BB%E5%8A%A8%E4%B8%BA%E5%BE%92%E6%AD%A5%E4%B8%8B%E5%B1%B1%E6%B8%B8%E5%AE%A2%E5%BC%95%E8%B7%AF%23&t=31&band_rank=20&Refer=top) 62298
 1. [张真源新歌音源上线](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%9C%9F%E6%BA%90%E6%96%B0%E6%AD%8C%E9%9F%B3%E6%BA%90%E4%B8%8A%E7%BA%BF%23&t=31&band_rank=20&Refer=top) 35132
 1. [张真源小张盲盒](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%9C%9F%E6%BA%90%E5%B0%8F%E5%BC%A0%E7%9B%B2%E7%9B%92%23&t=31&band_rank=45&Refer=top) 34722
-1. [老君山狗狗主动为徒步下山游客引路](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%90%9B%E5%B1%B1%E7%8B%97%E7%8B%97%E4%B8%BB%E5%8A%A8%E4%B8%BA%E5%BE%92%E6%AD%A5%E4%B8%8B%E5%B1%B1%E6%B8%B8%E5%AE%A2%E5%BC%95%E8%B7%AF%23&t=31&band_rank=20&Refer=top) 30660
-1. [丹麦称若因格陵兰岛发生战争将很愚蠢](https://s.weibo.com/weibo?q=%23%E4%B8%B9%E9%BA%A6%E7%A7%B0%E8%8B%A5%E5%9B%A0%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E5%8F%91%E7%94%9F%E6%88%98%E4%BA%89%E5%B0%86%E5%BE%88%E6%84%9A%E8%A0%A2%23&t=31&band_rank=50&Refer=top) 30648
-1. [刘宇宁回应阿信想来看他的演唱会](https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%E5%9B%9E%E5%BA%94%E9%98%BF%E4%BF%A1%E6%83%B3%E6%9D%A5%E7%9C%8B%E4%BB%96%E7%9A%84%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=45&Refer=top) 30642
 1. [刘宇宁演唱会](https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=40&Refer=top) 30609
 1. [华晨宇声鸣远扬首席评审](https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E5%A3%B0%E9%B8%A3%E8%BF%9C%E6%89%AC%E9%A6%96%E5%B8%AD%E8%AF%84%E5%AE%A1%23&t=31&band_rank=43&Refer=top) 26547
 1. [苏新皓超话达成钻三成就](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E6%96%B0%E7%9A%93%E8%B6%85%E8%AF%9D%E8%BE%BE%E6%88%90%E9%92%BB%E4%B8%89%E6%88%90%E5%B0%B1%23&t=31&band_rank=33&Refer=top) 26544
