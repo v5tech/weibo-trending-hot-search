@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-01-13 03:22:58.516499 
+最后更新时间 2026-01-13 04:28:59.804546 
 1. [老干妈创始人出山救子又赚翻了](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B9%B2%E5%A6%88%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%87%BA%E5%B1%B1%E6%95%91%E5%AD%90%E5%8F%88%E8%B5%9A%E7%BF%BB%E4%BA%86%23&t=31&band_rank=1&Refer=top) 894934
 1. [轧戏](https://s.weibo.com/weibo?q=%E8%BD%A7%E6%88%8F&t=31&band_rank=2&Refer=top) 659656
 1. [开启2026美好生活](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%90%AF2026%E7%BE%8E%E5%A5%BD%E7%94%9F%E6%B4%BB%23&t=31&band_rank=3&Refer=top) 530944
@@ -75,8 +75,10 @@
 1. [苏新皓苹果不是无聊的水果](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E6%96%B0%E7%9A%93%E8%8B%B9%E6%9E%9C%E4%B8%8D%E6%98%AF%E6%97%A0%E8%81%8A%E7%9A%84%E6%B0%B4%E6%9E%9C%23&t=31&band_rank=33&Refer=top) 30747
 1. [原来这4个角色都是一张脸](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E8%BF%994%E4%B8%AA%E8%A7%92%E8%89%B2%E9%83%BD%E6%98%AF%E4%B8%80%E5%BC%A0%E8%84%B8&t=31&band_rank=37&Refer=top) 30746
 1. [王者荣耀S42赛季](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80S42%E8%B5%9B%E5%AD%A3%23&t=31&band_rank=50&Refer=top) 30746
-1. [哈姆奈特 赵婷](https://s.weibo.com/weibo?q=%E5%93%88%E5%A7%86%E5%A5%88%E7%89%B9%20%E8%B5%B5%E5%A9%B7&t=31&band_rank=27&Refer=top) 21792
-1. [小城大事](https://s.weibo.com/weibo?q=%E5%B0%8F%E5%9F%8E%E5%A4%A7%E4%BA%8B&t=31&band_rank=37&Refer=top) 21460
+1. [哈姆奈特 赵婷](https://s.weibo.com/weibo?q=%E5%93%88%E5%A7%86%E5%A5%88%E7%89%B9%20%E8%B5%B5%E5%A9%B7&t=31&band_rank=27&Refer=top) 28564
+1. [小城大事](https://s.weibo.com/weibo?q=%E5%B0%8F%E5%9F%8E%E5%A4%A7%E4%BA%8B&t=31&band_rank=37&Refer=top) 22551
+1. [秦志戬曾任马龙许昕主管教练](https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%BF%97%E6%88%AC%E6%9B%BE%E4%BB%BB%E9%A9%AC%E9%BE%99%E8%AE%B8%E6%98%95%E4%B8%BB%E7%AE%A1%E6%95%99%E7%BB%83%23&t=31&band_rank=47&Refer=top) 22549
+1. [轧戏设定](https://s.weibo.com/weibo?q=%E8%BD%A7%E6%88%8F%E8%AE%BE%E5%AE%9A&t=31&band_rank=49&Refer=top) 22547
 <!-- END -->
 
 历史归档 [./archives](./archives)
