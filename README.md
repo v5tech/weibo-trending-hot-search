@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-01-15 04:25:30.069191 
+最后更新时间 2026-01-15 05:25:22.388595 
 1. [贺娇龙抢救无效不幸离世](https://s.weibo.com/weibo?q=%23%E8%B4%BA%E5%A8%87%E9%BE%99%E6%8A%A2%E6%95%91%E6%97%A0%E6%95%88%E4%B8%8D%E5%B9%B8%E7%A6%BB%E4%B8%96%23&t=31&band_rank=1&Refer=top) 2975496
 1. [美国将暂停对75个国家的所有签证](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%B0%86%E6%9A%82%E5%81%9C%E5%AF%B975%E4%B8%AA%E5%9B%BD%E5%AE%B6%E7%9A%84%E6%89%80%E6%9C%89%E7%AD%BE%E8%AF%81%23&t=31&band_rank=1&Refer=top) 835914
 1. [马年春晚](https://s.weibo.com/weibo?q=%E9%A9%AC%E5%B9%B4%E6%98%A5%E6%99%9A&t=31&band_rank=5&Refer=top) 619257
@@ -76,6 +76,8 @@
 1. [檀健次DEADREFLEX预热](https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1DEADREFLEX%E9%A2%84%E7%83%AD%23&t=31&band_rank=48&Refer=top) 19258
 1. [中国女子在泰国芭提雅遭遇捆绑抢劫](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E5%9C%A8%E6%B3%B0%E5%9B%BD%E8%8A%AD%E6%8F%90%E9%9B%85%E9%81%AD%E9%81%87%E6%8D%86%E7%BB%91%E6%8A%A2%E5%8A%AB&t=31&band_rank=41&Refer=top) 19223
 1. [王者荣耀S42赛季](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80S42%E8%B5%9B%E5%AD%A3%23&t=31&band_rank=37&Refer=top) 19203
+1. [12306回应一等座禁止无座乘客逗留](https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E4%B8%80%E7%AD%89%E5%BA%A7%E7%A6%81%E6%AD%A2%E6%97%A0%E5%BA%A7%E4%B9%98%E5%AE%A2%E9%80%97%E7%95%99%23&t=31&band_rank=33&Refer=top) 17819
+1. [U23亚洲杯](https://s.weibo.com/weibo?q=%23U23%E4%BA%9A%E6%B4%B2%E6%9D%AF%23&t=31&band_rank=48&Refer=top) 17806
 1. [小城大事](https://s.weibo.com/weibo?q=%E5%B0%8F%E5%9F%8E%E5%A4%A7%E4%BA%8B&t=31&band_rank=49&Refer=top) 15911
 <!-- END -->
 
