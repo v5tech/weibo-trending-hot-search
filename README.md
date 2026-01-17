@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-01-18 03:18:19.533800 
+最后更新时间 2026-01-18 04:26:02.537961 
 1. [春晚](https://s.weibo.com/weibo?q=%E6%98%A5%E6%99%9A&t=31&band_rank=1&Refer=top) 867525
 1. [涨20元月薪公司已连续37年涨薪](https://s.weibo.com/weibo?q=%23%E6%B6%A820%E5%85%83%E6%9C%88%E8%96%AA%E5%85%AC%E5%8F%B8%E5%B7%B2%E8%BF%9E%E7%BB%AD37%E5%B9%B4%E6%B6%A8%E8%96%AA%23&t=31&band_rank=2&Refer=top) 612487
 1. [14亿多人用电自由是怎么做到的](https://s.weibo.com/weibo?q=%2314%E4%BA%BF%E5%A4%9A%E4%BA%BA%E7%94%A8%E7%94%B5%E8%87%AA%E7%94%B1%E6%98%AF%E6%80%8E%E4%B9%88%E5%81%9A%E5%88%B0%E7%9A%84%23&t=31&band_rank=3&Refer=top) 506556
@@ -74,6 +74,8 @@
 1. [星品](https://s.weibo.com/weibo?q=%E6%98%9F%E5%93%81&t=31&band_rank=49&Refer=top) 41781
 1. [WTT多哈球星挑战赛](https://s.weibo.com/weibo?q=WTT%E5%A4%9A%E5%93%88%E7%90%83%E6%98%9F%E6%8C%91%E6%88%98%E8%B5%9B&t=31&band_rank=42&Refer=top) 31963
 1. [u23国足vs乌兹别克斯坦u23首发](https://s.weibo.com/weibo?q=%23u23%E5%9B%BD%E8%B6%B3vs%E4%B9%8C%E5%85%B9%E5%88%AB%E5%85%8B%E6%96%AF%E5%9D%A6u23%E9%A6%96%E5%8F%91%23&t=31&band_rank=47&Refer=top) 31944
+1. [U23亚洲杯](https://s.weibo.com/weibo?q=%23U23%E4%BA%9A%E6%B4%B2%E6%9D%AF%23&t=31&band_rank=37&Refer=top) 24945
+1. [英超联赛](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E8%B6%85%E8%81%94%E8%B5%9B%23&t=31&band_rank=41&Refer=top) 24927
 <!-- END -->
 
 历史归档 [./archives](./archives)
