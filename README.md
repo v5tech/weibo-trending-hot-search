@@ -7,19 +7,19 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-01-18 00:27:25.033683 
+最后更新时间 2026-01-18 01:20:14.684557 
 1. [春晚](https://s.weibo.com/weibo?q=%E6%98%A5%E6%99%9A&t=31&band_rank=1&Refer=top) 867525
 1. [涨20元月薪公司已连续37年涨薪](https://s.weibo.com/weibo?q=%23%E6%B6%A820%E5%85%83%E6%9C%88%E8%96%AA%E5%85%AC%E5%8F%B8%E5%B7%B2%E8%BF%9E%E7%BB%AD37%E5%B9%B4%E6%B6%A8%E8%96%AA%23&t=31&band_rank=2&Refer=top) 612487
 1. [14亿多人用电自由是怎么做到的](https://s.weibo.com/weibo?q=%2314%E4%BA%BF%E5%A4%9A%E4%BA%BA%E7%94%A8%E7%94%B5%E8%87%AA%E7%94%B1%E6%98%AF%E6%80%8E%E4%B9%88%E5%81%9A%E5%88%B0%E7%9A%84%23&t=31&band_rank=3&Refer=top) 506556
 1. [王鹤棣演唱会给我香迷糊了](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%BC%94%E5%94%B1%E4%BC%9A%E7%BB%99%E6%88%91%E9%A6%99%E8%BF%B7%E7%B3%8A%E4%BA%86%23&t=31&band_rank=4&Refer=top) 413127
-1. [U23国足首进亚洲杯4强](https://s.weibo.com/weibo?q=%23U23%E5%9B%BD%E8%B6%B3%E9%A6%96%E8%BF%9B%E4%BA%9A%E6%B4%B2%E6%9D%AF4%E5%BC%BA%23&t=31&band_rank=5&Refer=top) 338634
+1. [U23国足首进亚洲杯4强](https://s.weibo.com/weibo?q=%23U23%E5%9B%BD%E8%B6%B3%E9%A6%96%E8%BF%9B%E4%BA%9A%E6%B4%B2%E6%9D%AF4%E5%BC%BA%23&t=31&band_rank=5&Refer=top) 356283
 1. [卸妆油洗头](https://s.weibo.com/weibo?q=%E5%8D%B8%E5%A6%86%E6%B2%B9%E6%B4%97%E5%A4%B4&t=31&band_rank=6&Refer=top) 313802
 1. [男孩凌晨5点起床写作业突然晕倒](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E5%87%8C%E6%99%A85%E7%82%B9%E8%B5%B7%E5%BA%8A%E5%86%99%E4%BD%9C%E4%B8%9A%E7%AA%81%E7%84%B6%E6%99%95%E5%80%92%23&t=31&band_rank=7&Refer=top) 285942
 1. [杨幂鹿晗我是证人登顶](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E9%B9%BF%E6%99%97%E6%88%91%E6%98%AF%E8%AF%81%E4%BA%BA%E7%99%BB%E9%A1%B6%23&t=31&band_rank=8&Refer=top) 268904
 1. [董路的含金量还在上升](https://s.weibo.com/weibo?q=%E8%91%A3%E8%B7%AF%E7%9A%84%E5%90%AB%E9%87%91%E9%87%8F%E8%BF%98%E5%9C%A8%E4%B8%8A%E5%8D%87&t=31&band_rank=9&Refer=top) 235738
+1. [王鹤棣演唱会](https://s.weibo.com/weibo?q=%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=12&Refer=top) 227065
 1. [男子从喉咙痛到进ICU只用1小时](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%BB%8E%E5%96%89%E5%92%99%E7%97%9B%E5%88%B0%E8%BF%9BICU%E5%8F%AA%E7%94%A81%E5%B0%8F%E6%97%B6%23&t=31&band_rank=10&Refer=top) 192297
 1. [曝丈夫出轨女子已连续道歉6天](https://s.weibo.com/weibo?q=%E6%9B%9D%E4%B8%88%E5%A4%AB%E5%87%BA%E8%BD%A8%E5%A5%B3%E5%AD%90%E5%B7%B2%E8%BF%9E%E7%BB%AD%E9%81%93%E6%AD%896%E5%A4%A9&t=31&band_rank=11&Refer=top) 189498
-1. [王鹤棣演唱会](https://s.weibo.com/weibo?q=%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=12&Refer=top) 183513
 1. [李昊全场8次扑救](https://s.weibo.com/weibo?q=%E6%9D%8E%E6%98%8A%E5%85%A8%E5%9C%BA8%E6%AC%A1%E6%89%91%E6%95%91&t=31&band_rank=13&Refer=top) 178889
 1. [道歉变处刑道德正义不等于合法判断](https://s.weibo.com/weibo?q=%23%E9%81%93%E6%AD%89%E5%8F%98%E5%A4%84%E5%88%91%E9%81%93%E5%BE%B7%E6%AD%A3%E4%B9%89%E4%B8%8D%E7%AD%89%E4%BA%8E%E5%90%88%E6%B3%95%E5%88%A4%E6%96%AD%23&t=31&band_rank=14&Refer=top) 169987
 1. [帕梅拉胖了6公斤](https://s.weibo.com/weibo?q=%E5%B8%95%E6%A2%85%E6%8B%89%E8%83%96%E4%BA%866%E5%85%AC%E6%96%A4&t=31&band_rank=15&Refer=top) 160027
@@ -58,6 +58,13 @@
 1. [小城大事](https://s.weibo.com/weibo?q=%E5%B0%8F%E5%9F%8E%E5%A4%A7%E4%BA%8B&t=31&band_rank=48&Refer=top) 107198
 1. [第1次见下雪的统一动作](https://s.weibo.com/weibo?q=%23%E7%AC%AC1%E6%AC%A1%E8%A7%81%E4%B8%8B%E9%9B%AA%E7%9A%84%E7%BB%9F%E4%B8%80%E5%8A%A8%E4%BD%9C%23&t=31&band_rank=49&Refer=top) 107190
 1. [偶遇敖瑞鹏医院输液](https://s.weibo.com/weibo?q=%23%E5%81%B6%E9%81%87%E6%95%96%E7%91%9E%E9%B9%8F%E5%8C%BB%E9%99%A2%E8%BE%93%E6%B6%B2%23&t=31&band_rank=50&Refer=top) 107179
+1. [檀健次再多一秒就要落泪了](https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E5%86%8D%E5%A4%9A%E4%B8%80%E7%A7%92%E5%B0%B1%E8%A6%81%E8%90%BD%E6%B3%AA%E4%BA%86%23&t=31&band_rank=19&Refer=top) 77668
+1. [肖稚宇胡羞在一起了](https://s.weibo.com/weibo?q=%E8%82%96%E7%A8%9A%E5%AE%87%E8%83%A1%E7%BE%9E%E5%9C%A8%E4%B8%80%E8%B5%B7%E4%BA%86&t=31&band_rank=27&Refer=top) 70522
+1. [肖战为新剧主动减重18斤](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E4%B8%BA%E6%96%B0%E5%89%A7%E4%B8%BB%E5%8A%A8%E5%87%8F%E9%87%8D18%E6%96%A4%23&t=31&band_rank=33&Refer=top) 70397
+1. [电影马腾你别走](https://s.weibo.com/weibo?q=%E7%94%B5%E5%BD%B1%E9%A9%AC%E8%85%BE%E4%BD%A0%E5%88%AB%E8%B5%B0&t=31&band_rank=41&Refer=top) 70258
+1. [U23国足成本届唯一0丢球球队](https://s.weibo.com/weibo?q=%23U23%E5%9B%BD%E8%B6%B3%E6%88%90%E6%9C%AC%E5%B1%8A%E5%94%AF%E4%B8%800%E4%B8%A2%E7%90%83%E7%90%83%E9%98%9F%23&t=31&band_rank=46&Refer=top) 70156
+1. [李宇春演唱会发糖](https://s.weibo.com/weibo?q=%E6%9D%8E%E5%AE%87%E6%98%A5%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8F%91%E7%B3%96&t=31&band_rank=47&Refer=top) 70125
+1. [快乐老友记](https://s.weibo.com/weibo?q=%E5%BF%AB%E4%B9%90%E8%80%81%E5%8F%8B%E8%AE%B0&t=31&band_rank=50&Refer=top) 70063
 <!-- END -->
 
 历史归档 [./archives](./archives)
