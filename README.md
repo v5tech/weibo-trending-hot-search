@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-01-20 03:21:35.328215 
+最后更新时间 2026-01-20 04:28:27.621426 
 1. [羽生结弦亲吻冰面的最后一吻](https://s.weibo.com/weibo?q=%E7%BE%BD%E7%94%9F%E7%BB%93%E5%BC%A6%E4%BA%B2%E5%90%BB%E5%86%B0%E9%9D%A2%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E5%90%BB&t=31&band_rank=1&Refer=top) 792398
 1. [猫的树太会拍了](https://s.weibo.com/weibo?q=%E7%8C%AB%E7%9A%84%E6%A0%91%E5%A4%AA%E4%BC%9A%E6%8B%8D%E4%BA%86&t=31&band_rank=2&Refer=top) 574391
 1. [中国GDP跨越140万亿元关口](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BDGDP%E8%B7%A8%E8%B6%8A140%E4%B8%87%E4%BA%BF%E5%85%83%E5%85%B3%E5%8F%A3%23&t=31&band_rank=3&Refer=top) 472179
@@ -73,6 +73,8 @@
 1. [时尚32周年时尚之夜](https://s.weibo.com/weibo?q=%23%E6%97%B6%E5%B0%9A32%E5%91%A8%E5%B9%B4%E6%97%B6%E5%B0%9A%E4%B9%8B%E5%A4%9C%23&t=31&band_rank=39&Refer=top) 20747
 1. [江苏卫视春晚](https://s.weibo.com/weibo?q=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86%E6%98%A5%E6%99%9A&t=31&band_rank=43&Refer=top) 20742
 1. [爱情怎么翻译](https://s.weibo.com/weibo?q=%E7%88%B1%E6%83%85%E6%80%8E%E4%B9%88%E7%BF%BB%E8%AF%91&t=31&band_rank=48&Refer=top) 20736
+1. [我的朋友安德烈](https://s.weibo.com/weibo?q=%E6%88%91%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%AE%89%E5%BE%B7%E7%83%88&t=31&band_rank=29&Refer=top) 18922
+1. [拿板凳打人学生已被劝退](https://s.weibo.com/weibo?q=%23%E6%8B%BF%E6%9D%BF%E5%87%B3%E6%89%93%E4%BA%BA%E5%AD%A6%E7%94%9F%E5%B7%B2%E8%A2%AB%E5%8A%9D%E9%80%80%23&t=31&band_rank=49&Refer=top) 18742
 <!-- END -->
 
 历史归档 [./archives](./archives)
