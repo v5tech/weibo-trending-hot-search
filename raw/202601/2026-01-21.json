@@ -1,11 +1,15 @@
 {
   "U23国足vs越南": {
     "url": "https://s.weibo.com/weibo?q=U23%E5%9B%BD%E8%B6%B3vs%E8%B6%8A%E5%8D%97&t=31&band_rank=1&Refer=top",
-    "hot": 1046392
+    "hot": 1543301
   },
   "轧戏大结局": {
     "url": "https://s.weibo.com/weibo?q=%E8%BD%A7%E6%88%8F%E5%A4%A7%E7%BB%93%E5%B1%80&t=31&band_rank=2&Refer=top",
     "hot": 643913
+  },
+  "U23国足2比0越南": {
+    "url": "https://s.weibo.com/weibo?q=%23U23%E5%9B%BD%E8%B6%B32%E6%AF%940%E8%B6%8A%E5%8D%97%23&t=31&band_rank=2&Refer=top",
+    "hot": 549610
   },
   "还有不到30天过年": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%BF%98%E6%9C%89%E4%B8%8D%E5%88%B030%E5%A4%A9%E8%BF%87%E5%B9%B4%23&t=31&band_rank=3&Refer=top",
@@ -22,6 +26,10 @@
   "儿子怒斥癌症妈妈碰瓷为何让人共情": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E6%80%92%E6%96%A5%E7%99%8C%E7%97%87%E5%A6%88%E5%A6%88%E7%A2%B0%E7%93%B7%E4%B8%BA%E4%BD%95%E8%AE%A9%E4%BA%BA%E5%85%B1%E6%83%85%23&t=31&band_rank=6&Refer=top",
     "hot": 176991
+  },
+  "U23国足进球": {
+    "url": "https://s.weibo.com/weibo?q=%23U23%E5%9B%BD%E8%B6%B3%E8%BF%9B%E7%90%83%23&t=31&band_rank=5&Refer=top",
+    "hot": 171938
   },
   "今天将是杭州最干净的一天": {
     "url": "https://s.weibo.com/weibo?q=%E4%BB%8A%E5%A4%A9%E5%B0%86%E6%98%AF%E6%9D%AD%E5%B7%9E%E6%9C%80%E5%B9%B2%E5%87%80%E7%9A%84%E4%B8%80%E5%A4%A9&t=31&band_rank=7&Refer=top",
@@ -198,5 +206,33 @@
   "演员杨紫的含金量还在上升": {
     "url": "https://s.weibo.com/weibo?q=%E6%BC%94%E5%91%98%E6%9D%A8%E7%B4%AB%E7%9A%84%E5%90%AB%E9%87%91%E9%87%8F%E8%BF%98%E5%9C%A8%E4%B8%8A%E5%8D%87&t=31&band_rank=50&Refer=top",
     "hot": 163173
+  },
+  "2026亚足联U23亚洲杯": {
+    "url": "https://s.weibo.com/weibo?q=2026%E4%BA%9A%E8%B6%B3%E8%81%94U23%E4%BA%9A%E6%B4%B2%E6%9D%AF&t=31&band_rank=9&Refer=top",
+    "hot": 105116
+  },
+  "得闲谨制": {
+    "url": "https://s.weibo.com/weibo?q=%E5%BE%97%E9%97%B2%E8%B0%A8%E5%88%B6&t=31&band_rank=18&Refer=top",
+    "hot": 100202
+  },
+  "u23国足冲击亚洲杯决赛": {
+    "url": "https://s.weibo.com/weibo?q=%23u23%E5%9B%BD%E8%B6%B3%E5%86%B2%E5%87%BB%E4%BA%9A%E6%B4%B2%E6%9D%AF%E5%86%B3%E8%B5%9B%23&t=31&band_rank=22&Refer=top",
+    "hot": 99273
+  },
+  "U23国足若进决赛将战日本": {
+    "url": "https://s.weibo.com/weibo?q=%23U23%E5%9B%BD%E8%B6%B3%E8%8B%A5%E8%BF%9B%E5%86%B3%E8%B5%9B%E5%B0%86%E6%88%98%E6%97%A5%E6%9C%AC%23&t=31&band_rank=37&Refer=top",
+    "hot": 98316
+  },
+  "女子疑因发现姑姑偷玉米被害案将宣判": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%96%91%E5%9B%A0%E5%8F%91%E7%8E%B0%E5%A7%91%E5%A7%91%E5%81%B7%E7%8E%89%E7%B1%B3%E8%A2%AB%E5%AE%B3%E6%A1%88%E5%B0%86%E5%AE%A3%E5%88%A4%23&t=31&band_rank=41&Refer=top",
+    "hot": 98057
+  },
+  "轧戏": {
+    "url": "https://s.weibo.com/weibo?q=%23%E8%BD%A7%E6%88%8F%23&t=31&band_rank=43&Refer=top",
+    "hot": 97884
+  },
+  "美黄金股大涨": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E9%BB%84%E9%87%91%E8%82%A1%E5%A4%A7%E6%B6%A8%23&t=31&band_rank=49&Refer=top",
+    "hot": 97463
   }
 }
