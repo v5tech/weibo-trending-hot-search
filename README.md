@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-01-22 03:29:45.639858 
+最后更新时间 2026-01-22 04:35:25.468008 
 1. [杜涛面相都变了](https://s.weibo.com/weibo?q=%E6%9D%9C%E6%B6%9B%E9%9D%A2%E7%9B%B8%E9%83%BD%E5%8F%98%E4%BA%86&t=31&band_rank=1&Refer=top) 658812
 1. [美航母战斗群已穿过马六甲海峡](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%88%AA%E6%AF%8D%E6%88%98%E6%96%97%E7%BE%A4%E5%B7%B2%E7%A9%BF%E8%BF%87%E9%A9%AC%E5%85%AD%E7%94%B2%E6%B5%B7%E5%B3%A1%23&t=31&band_rank=2&Refer=top) 492162
 1. [2026春运2月2日开始](https://s.weibo.com/weibo?q=%232026%E6%98%A5%E8%BF%902%E6%9C%882%E6%97%A5%E5%BC%80%E5%A7%8B%23&t=31&band_rank=3&Refer=top) 385766
@@ -74,6 +74,9 @@
 1. [少年遭虐待离世继母有重大嫌疑](https://s.weibo.com/weibo?q=%23%E5%B0%91%E5%B9%B4%E9%81%AD%E8%99%90%E5%BE%85%E7%A6%BB%E4%B8%96%E7%BB%A7%E6%AF%8D%E6%9C%89%E9%87%8D%E5%A4%A7%E5%AB%8C%E7%96%91%23&t=31&band_rank=39&Refer=top) 27435
 1. [王源实体专辑在星穹下狂奔](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E5%AE%9E%E4%BD%93%E4%B8%93%E8%BE%91%E5%9C%A8%E6%98%9F%E7%A9%B9%E4%B8%8B%E7%8B%82%E5%A5%94%23&t=31&band_rank=45&Refer=top) 27434
 1. [小城大事](https://s.weibo.com/weibo?q=%E5%B0%8F%E5%9F%8E%E5%A4%A7%E4%BA%8B&t=31&band_rank=40&Refer=top) 22464
+1. [徐冬冬创建粉丝群要送结婚饮料](https://s.weibo.com/weibo?q=%E5%BE%90%E5%86%AC%E5%86%AC%E5%88%9B%E5%BB%BA%E7%B2%89%E4%B8%9D%E7%BE%A4%E8%A6%81%E9%80%81%E7%BB%93%E5%A9%9A%E9%A5%AE%E6%96%99&t=31&band_rank=41&Refer=top) 20487
+1. [小城良方](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9%23&t=31&band_rank=47&Refer=top) 20464
+1. [现货黄金短线下挫40美元](https://s.weibo.com/weibo?q=%23%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E7%9F%AD%E7%BA%BF%E4%B8%8B%E6%8C%AB40%E7%BE%8E%E5%85%83%23&t=31&band_rank=50&Refer=top) 20452
 <!-- END -->
 
 历史归档 [./archives](./archives)
