@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-01-26 03:19:46.575277 
+最后更新时间 2026-01-26 04:28:12.625307 
 1. [印度疫情感染者死亡率超7成](https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E7%96%AB%E6%83%85%E6%84%9F%E6%9F%93%E8%80%85%E6%AD%BB%E4%BA%A1%E7%8E%87%E8%B6%857%E6%88%90%23&t=31&band_rank=1&Refer=top) 866408
 1. [杨鸣 辞职](https://s.weibo.com/weibo?q=%E6%9D%A8%E9%B8%A3%20%E8%BE%9E%E8%81%8C&t=31&band_rank=2&Refer=top) 616420
 1. [彩灯一亮年味就有了](https://s.weibo.com/weibo?q=%23%E5%BD%A9%E7%81%AF%E4%B8%80%E4%BA%AE%E5%B9%B4%E5%91%B3%E5%B0%B1%E6%9C%89%E4%BA%86%23&t=31&band_rank=3&Refer=top) 492669
@@ -72,6 +72,8 @@
 1. [声鸣远扬直播](https://s.weibo.com/weibo?q=%E5%A3%B0%E9%B8%A3%E8%BF%9C%E6%89%AC%E7%9B%B4%E6%92%AD&t=31&band_rank=47&Refer=top) 45832
 1. [格陵兰岛首府全城一片漆黑](https://s.weibo.com/weibo?q=%23%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E9%A6%96%E5%BA%9C%E5%85%A8%E5%9F%8E%E4%B8%80%E7%89%87%E6%BC%86%E9%BB%91%23&t=31&band_rank=48&Refer=top) 45815
 1. [40岁假肢妈妈廖智说生四胎很幸运](https://s.weibo.com/weibo?q=%2340%E5%B2%81%E5%81%87%E8%82%A2%E5%A6%88%E5%A6%88%E5%BB%96%E6%99%BA%E8%AF%B4%E7%94%9F%E5%9B%9B%E8%83%8E%E5%BE%88%E5%B9%B8%E8%BF%90%23&t=31&band_rank=49&Refer=top) 45794
+1. [美明尼苏达州男子遭补枪画面曝光](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%98%8E%E5%B0%BC%E8%8B%8F%E8%BE%BE%E5%B7%9E%E7%94%B7%E5%AD%90%E9%81%AD%E8%A1%A5%E6%9E%AA%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89%23&t=31&band_rank=32&Refer=top) 17184
+1. [妈妈回应11岁儿子创业2月赚6000](https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E5%9B%9E%E5%BA%9411%E5%B2%81%E5%84%BF%E5%AD%90%E5%88%9B%E4%B8%9A2%E6%9C%88%E8%B5%9A6000%23&t=31&band_rank=36&Refer=top) 17132
 <!-- END -->
 
 历史归档 [./archives](./archives)
