@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-01-28 04:27:27.926702 
+最后更新时间 2026-01-28 05:22:04.607894 
 1. [湖南省考多地监狱岗位仅招艺术类](https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E7%9C%81%E8%80%83%E5%A4%9A%E5%9C%B0%E7%9B%91%E7%8B%B1%E5%B2%97%E4%BD%8D%E4%BB%85%E6%8B%9B%E8%89%BA%E6%9C%AF%E7%B1%BB%23&t=31&band_rank=1&Refer=top) 782794
 1. [微博之夜阵容官宣](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3%23&t=31&band_rank=2&Refer=top) 548087
 1. [2026逐梦中国](https://s.weibo.com/weibo?q=%232026%E9%80%90%E6%A2%A6%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top) 436591
@@ -72,8 +72,8 @@
 1. [太平年](https://s.weibo.com/weibo?q=%E5%A4%AA%E5%B9%B3%E5%B9%B4&t=31&band_rank=48&Refer=top) 19023
 1. [勤奋上进的普通中路玩家](https://s.weibo.com/weibo?q=%E5%8B%A4%E5%A5%8B%E4%B8%8A%E8%BF%9B%E7%9A%84%E6%99%AE%E9%80%9A%E4%B8%AD%E8%B7%AF%E7%8E%A9%E5%AE%B6&t=31&band_rank=49&Refer=top) 17574
 1. [马年春晚](https://s.weibo.com/weibo?q=%E9%A9%AC%E5%B9%B4%E6%98%A5%E6%99%9A&t=31&band_rank=36&Refer=top) 16874
+1. [QQ音乐超级巅峰之夜](https://s.weibo.com/weibo?q=QQ%E9%9F%B3%E4%B9%90%E8%B6%85%E7%BA%A7%E5%B7%85%E5%B3%B0%E4%B9%8B%E5%A4%9C&t=31&band_rank=41&Refer=top) 16192
 1. [檀健次看粉丝应援落泪](https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E7%9C%8B%E7%B2%89%E4%B8%9D%E5%BA%94%E6%8F%B4%E8%90%BD%E6%B3%AA%23&t=31&band_rank=39&Refer=top) 16119
-1. [QQ音乐超级巅峰之夜](https://s.weibo.com/weibo?q=QQ%E9%9F%B3%E4%B9%90%E8%B6%85%E7%BA%A7%E5%B7%85%E5%B3%B0%E4%B9%8B%E5%A4%9C&t=31&band_rank=41&Refer=top) 15590
 1. [突然的喜欢](https://s.weibo.com/weibo?q=%E7%AA%81%E7%84%B6%E7%9A%84%E5%96%9C%E6%AC%A2&t=31&band_rank=43&Refer=top) 15124
 1. [杨紫今日生命树发布会路透](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E4%BB%8A%E6%97%A5%E7%94%9F%E5%91%BD%E6%A0%91%E5%8F%91%E5%B8%83%E4%BC%9A%E8%B7%AF%E9%80%8F%23&t=31&band_rank=45&Refer=top) 14730
 <!-- END -->
