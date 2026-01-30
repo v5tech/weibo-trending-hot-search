@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-01-31 01:36:56.021300 
+最后更新时间 2026-01-31 02:48:33.415732 
 1. [警方通报金晨事件](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E9%87%91%E6%99%A8%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=1&Refer=top) 2033999
 1. [库迪将取消全场9.9元](https://s.weibo.com/weibo?q=%23%E5%BA%93%E8%BF%AA%E5%B0%86%E5%8F%96%E6%B6%88%E5%85%A8%E5%9C%BA9.9%E5%85%83%23&t=31&band_rank=2&Refer=top) 719915
 1. [中国风电硬核领跑全球](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A3%8E%E7%94%B5%E7%A1%AC%E6%A0%B8%E9%A2%86%E8%B7%91%E5%85%A8%E7%90%83%23&t=31&band_rank=3&Refer=top) 565659
@@ -26,6 +26,7 @@
 1. [金晨道歉](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E9%81%93%E6%AD%89%23&t=31&band_rank=16&Refer=top) 113237
 1. [吴忠市人民医院致歉](https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%BF%A0%E5%B8%82%E4%BA%BA%E6%B0%91%E5%8C%BB%E9%99%A2%E8%87%B4%E6%AD%89%23&t=31&band_rank=17&Refer=top) 112731
 1. [魏大勋自曝曾被杨迪打了嘴巴子](https://s.weibo.com/weibo?q=%E9%AD%8F%E5%A4%A7%E5%8B%8B%E8%87%AA%E6%9B%9D%E6%9B%BE%E8%A2%AB%E6%9D%A8%E8%BF%AA%E6%89%93%E4%BA%86%E5%98%B4%E5%B7%B4%E5%AD%90&t=31&band_rank=18&Refer=top) 107755
+1. [冬天的亿种打开方式](https://s.weibo.com/weibo?q=%23%E5%86%AC%E5%A4%A9%E7%9A%84%E4%BA%BF%E7%A7%8D%E6%89%93%E5%BC%80%E6%96%B9%E5%BC%8F%23&t=31&band_rank=3&Refer=top) 106620
 1. [KPL 暂停](https://s.weibo.com/weibo?q=KPL%20%E6%9A%82%E5%81%9C&t=31&band_rank=19&Refer=top) 88634
 1. [TES战胜BLG](https://s.weibo.com/weibo?q=TES%E6%88%98%E8%83%9CBLG&t=31&band_rank=20&Refer=top) 85654
 1. [沈佳润这才是你的舒适区](https://s.weibo.com/weibo?q=%23%E6%B2%88%E4%BD%B3%E6%B6%A6%E8%BF%99%E6%89%8D%E6%98%AF%E4%BD%A0%E7%9A%84%E8%88%92%E9%80%82%E5%8C%BA%23&t=31&band_rank=21&Refer=top) 85631
@@ -65,6 +66,11 @@
 1. [刘宇宁直播举杠铃](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E7%9B%B4%E6%92%AD%E4%B8%BE%E6%9D%A0%E9%93%83%23&t=31&band_rank=42&Refer=top) 59423
 1. [500多天的刑案马拉松](https://s.weibo.com/weibo?q=%23500%E5%A4%9A%E5%A4%A9%E7%9A%84%E5%88%91%E6%A1%88%E9%A9%AC%E6%8B%89%E6%9D%BE%23&t=31&band_rank=48&Refer=top) 59418
 1. [手里捧着窝窝头的那一代又回来了](https://s.weibo.com/weibo?q=%E6%89%8B%E9%87%8C%E6%8D%A7%E7%9D%80%E7%AA%9D%E7%AA%9D%E5%A4%B4%E7%9A%84%E9%82%A3%E4%B8%80%E4%BB%A3%E5%8F%88%E5%9B%9E%E6%9D%A5%E4%BA%86&t=31&band_rank=49&Refer=top) 59417
+1. [博士生在意失联表弟赶赴当地](https://s.weibo.com/weibo?q=%23%E5%8D%9A%E5%A3%AB%E7%94%9F%E5%9C%A8%E6%84%8F%E5%A4%B1%E8%81%94%E8%A1%A8%E5%BC%9F%E8%B5%B6%E8%B5%B4%E5%BD%93%E5%9C%B0%23&t=31&band_rank=32&Refer=top) 32995
+1. [张杰演唱会疑是银河落九天](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%E7%96%91%E6%98%AF%E9%93%B6%E6%B2%B3%E8%90%BD%E4%B9%9D%E5%A4%A9%23&t=31&band_rank=34&Refer=top) 32976
+1. [突然的喜欢](https://s.weibo.com/weibo?q=%E7%AA%81%E7%84%B6%E7%9A%84%E5%96%9C%E6%AC%A2&t=31&band_rank=36&Refer=top) 32942
+1. [京城大师赛](https://s.weibo.com/weibo?q=%23%E4%BA%AC%E5%9F%8E%E5%A4%A7%E5%B8%88%E8%B5%9B%23&t=31&band_rank=39&Refer=top) 32910
+1. [央视曝光网络车评乱象](https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E7%BD%91%E7%BB%9C%E8%BD%A6%E8%AF%84%E4%B9%B1%E8%B1%A1%23&t=31&band_rank=45&Refer=top) 32822
 <!-- END -->
 
 历史归档 [./archives](./archives)
