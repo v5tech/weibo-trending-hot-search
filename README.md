@@ -7,12 +7,14 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-01-31 05:31:39.564458 
+最后更新时间 2026-01-31 06:29:34.700391 
 1. [警方通报金晨事件](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E9%87%91%E6%99%A8%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=1&Refer=top) 2033999
 1. [库迪将取消全场9.9元](https://s.weibo.com/weibo?q=%23%E5%BA%93%E8%BF%AA%E5%B0%86%E5%8F%96%E6%B6%88%E5%85%A8%E5%9C%BA9.9%E5%85%83%23&t=31&band_rank=2&Refer=top) 719915
 1. [中国风电硬核领跑全球](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A3%8E%E7%94%B5%E7%A1%AC%E6%A0%B8%E9%A2%86%E8%B7%91%E5%85%A8%E7%90%83%23&t=31&band_rank=3&Refer=top) 565659
 1. [生命树 侯鸿亮](https://s.weibo.com/weibo?q=%E7%94%9F%E5%91%BD%E6%A0%91%20%E4%BE%AF%E9%B8%BF%E4%BA%AE&t=31&band_rank=4&Refer=top) 473598
 1. [阿姨入手均价300元金条全部卖出](https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%A7%A8%E5%85%A5%E6%89%8B%E5%9D%87%E4%BB%B7300%E5%85%83%E9%87%91%E6%9D%A1%E5%85%A8%E9%83%A8%E5%8D%96%E5%87%BA%23&t=31&band_rank=5&Refer=top) 376359
+1. [博士生在意失联表弟赶赴当地](https://s.weibo.com/weibo?q=%23%E5%8D%9A%E5%A3%AB%E7%94%9F%E5%9C%A8%E6%84%8F%E5%A4%B1%E8%81%94%E8%A1%A8%E5%BC%9F%E8%B5%B6%E8%B5%B4%E5%BD%93%E5%9C%B0%23&t=31&band_rank=32&Refer=top) 307742
+1. [冬天的亿种打开方式](https://s.weibo.com/weibo?q=%23%E5%86%AC%E5%A4%A9%E7%9A%84%E4%BA%BF%E7%A7%8D%E6%89%93%E5%BC%80%E6%96%B9%E5%BC%8F%23&t=31&band_rank=3&Refer=top) 236787
 1. [一定要频繁大量的记录自己](https://s.weibo.com/weibo?q=%E4%B8%80%E5%AE%9A%E8%A6%81%E9%A2%91%E7%B9%81%E5%A4%A7%E9%87%8F%E7%9A%84%E8%AE%B0%E5%BD%95%E8%87%AA%E5%B7%B1&t=31&band_rank=6&Refer=top) 213994
 1. [生命树收视率破3](https://s.weibo.com/weibo?q=%E7%94%9F%E5%91%BD%E6%A0%91%E6%94%B6%E8%A7%86%E7%8E%87%E7%A0%B43&t=31&band_rank=7&Refer=top) 186952
 1. [宝可梦道歉了](https://s.weibo.com/weibo?q=%23%E5%AE%9D%E5%8F%AF%E6%A2%A6%E9%81%93%E6%AD%89%E4%BA%86%23&t=31&band_rank=8&Refer=top) 144832
@@ -22,12 +24,10 @@
 1. [生命树豆瓣已锁](https://s.weibo.com/weibo?q=%23%E7%94%9F%E5%91%BD%E6%A0%91%E8%B1%86%E7%93%A3%E5%B7%B2%E9%94%81%23&t=31&band_rank=12&Refer=top) 133506
 1. [印度怀孕女特警被丈夫用哑铃砸死](https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E6%80%80%E5%AD%95%E5%A5%B3%E7%89%B9%E8%AD%A6%E8%A2%AB%E4%B8%88%E5%A4%AB%E7%94%A8%E5%93%91%E9%93%83%E7%A0%B8%E6%AD%BB%23&t=31&band_rank=13&Refer=top) 130268
 1. [久哲](https://s.weibo.com/weibo?q=%E4%B9%85%E5%93%B2&t=31&band_rank=14&Refer=top) 124371
-1. [博士生在意失联表弟赶赴当地](https://s.weibo.com/weibo?q=%23%E5%8D%9A%E5%A3%AB%E7%94%9F%E5%9C%A8%E6%84%8F%E5%A4%B1%E8%81%94%E8%A1%A8%E5%BC%9F%E8%B5%B6%E8%B5%B4%E5%BD%93%E5%9C%B0%23&t=31&band_rank=32&Refer=top) 120965
 1. [关晓彤婉拒马上有对象](https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E5%A9%89%E6%8B%92%E9%A9%AC%E4%B8%8A%E6%9C%89%E5%AF%B9%E8%B1%A1%23&t=31&band_rank=15&Refer=top) 118735
 1. [金晨道歉](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E9%81%93%E6%AD%89%23&t=31&band_rank=16&Refer=top) 113237
 1. [吴忠市人民医院致歉](https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%BF%A0%E5%B8%82%E4%BA%BA%E6%B0%91%E5%8C%BB%E9%99%A2%E8%87%B4%E6%AD%89%23&t=31&band_rank=17&Refer=top) 112731
 1. [魏大勋自曝曾被杨迪打了嘴巴子](https://s.weibo.com/weibo?q=%E9%AD%8F%E5%A4%A7%E5%8B%8B%E8%87%AA%E6%9B%9D%E6%9B%BE%E8%A2%AB%E6%9D%A8%E8%BF%AA%E6%89%93%E4%BA%86%E5%98%B4%E5%B7%B4%E5%AD%90&t=31&band_rank=18&Refer=top) 107755
-1. [冬天的亿种打开方式](https://s.weibo.com/weibo?q=%23%E5%86%AC%E5%A4%A9%E7%9A%84%E4%BA%BF%E7%A7%8D%E6%89%93%E5%BC%80%E6%96%B9%E5%BC%8F%23&t=31&band_rank=3&Refer=top) 106620
 1. [KPL 暂停](https://s.weibo.com/weibo?q=KPL%20%E6%9A%82%E5%81%9C&t=31&band_rank=19&Refer=top) 88634
 1. [TES战胜BLG](https://s.weibo.com/weibo?q=TES%E6%88%98%E8%83%9CBLG&t=31&band_rank=20&Refer=top) 85654
 1. [沈佳润这才是你的舒适区](https://s.weibo.com/weibo?q=%23%E6%B2%88%E4%BD%B3%E6%B6%A6%E8%BF%99%E6%89%8D%E6%98%AF%E4%BD%A0%E7%9A%84%E8%88%92%E9%80%82%E5%8C%BA%23&t=31&band_rank=21&Refer=top) 85631
@@ -74,10 +74,11 @@
 1. [最强大脑13](https://s.weibo.com/weibo?q=%E6%9C%80%E5%BC%BA%E5%A4%A7%E8%84%9113&t=31&band_rank=25&Refer=top) 23922
 1. [李现顶着韩商言的头像](https://s.weibo.com/weibo?q=%E6%9D%8E%E7%8E%B0%E9%A1%B6%E7%9D%80%E9%9F%A9%E5%95%86%E8%A8%80%E7%9A%84%E5%A4%B4%E5%83%8F&t=31&band_rank=33&Refer=top) 21047
 1. [有歌](https://s.weibo.com/weibo?q=%E6%9C%89%E6%AD%8C&t=31&band_rank=47&Refer=top) 21043
+1. [生命树震撼](https://s.weibo.com/weibo?q=%23%E7%94%9F%E5%91%BD%E6%A0%91%E9%9C%87%E6%92%BC%23&t=31&band_rank=34&Refer=top) 20599
+1. [欧冠](https://s.weibo.com/weibo?q=%E6%AC%A7%E5%86%A0&t=31&band_rank=45&Refer=top) 20599
+1. [取景框一框肖战](https://s.weibo.com/weibo?q=%23%E5%8F%96%E6%99%AF%E6%A1%86%E4%B8%80%E6%A1%86%E8%82%96%E6%88%98%23&t=31&band_rank=34&Refer=top) 20599
+1. [载入脑综史册的一幕出现了](https://s.weibo.com/weibo?q=%E8%BD%BD%E5%85%A5%E8%84%91%E7%BB%BC%E5%8F%B2%E5%86%8C%E7%9A%84%E4%B8%80%E5%B9%95%E5%87%BA%E7%8E%B0%E4%BA%86&t=31&band_rank=44&Refer=top) 20599
 1. [生命树群像](https://s.weibo.com/weibo?q=%E7%94%9F%E5%91%BD%E6%A0%91%E7%BE%A4%E5%83%8F&t=31&band_rank=32&Refer=top) 17870
-1. [生命树震撼](https://s.weibo.com/weibo?q=%23%E7%94%9F%E5%91%BD%E6%A0%91%E9%9C%87%E6%92%BC%23&t=31&band_rank=34&Refer=top) 17860
-1. [欧冠](https://s.weibo.com/weibo?q=%E6%AC%A7%E5%86%A0&t=31&band_rank=45&Refer=top) 17825
-1. [取景框一框肖战](https://s.weibo.com/weibo?q=%23%E5%8F%96%E6%99%AF%E6%A1%86%E4%B8%80%E6%A1%86%E8%82%96%E6%88%98%23&t=31&band_rank=34&Refer=top) 16607
 <!-- END -->
 
 历史归档 [./archives](./archives)
