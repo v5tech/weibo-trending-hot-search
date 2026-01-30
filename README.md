@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-01-31 00:43:30.432984 
+最后更新时间 2026-01-31 01:36:56.021300 
 1. [警方通报金晨事件](https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E9%87%91%E6%99%A8%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=1&Refer=top) 2033999
 1. [库迪将取消全场9.9元](https://s.weibo.com/weibo?q=%23%E5%BA%93%E8%BF%AA%E5%B0%86%E5%8F%96%E6%B6%88%E5%85%A8%E5%9C%BA9.9%E5%85%83%23&t=31&band_rank=2&Refer=top) 719915
 1. [中国风电硬核领跑全球](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A3%8E%E7%94%B5%E7%A1%AC%E6%A0%B8%E9%A2%86%E8%B7%91%E5%85%A8%E7%90%83%23&t=31&band_rank=3&Refer=top) 565659
@@ -46,6 +46,7 @@
 1. [阿姨每年用奖金买金条已全部出手](https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%A7%A8%E6%AF%8F%E5%B9%B4%E7%94%A8%E5%A5%96%E9%87%91%E4%B9%B0%E9%87%91%E6%9D%A1%E5%B7%B2%E5%85%A8%E9%83%A8%E5%87%BA%E6%89%8B%23&t=31&band_rank=36&Refer=top) 73188
 1. [CCTV5看到观赛的王俊凯周杰伦](https://s.weibo.com/weibo?q=%23CCTV5%E7%9C%8B%E5%88%B0%E8%A7%82%E8%B5%9B%E7%9A%84%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%91%A8%E6%9D%B0%E4%BC%A6%23&t=31&band_rank=37&Refer=top) 72492
 1. [周五晚高疯](https://s.weibo.com/weibo?q=%E5%91%A8%E4%BA%94%E6%99%9A%E9%AB%98%E7%96%AF&t=31&band_rank=38&Refer=top) 69424
+1. [金晨助理已触及行政违法](https://s.weibo.com/weibo?q=%23%E9%87%91%E6%99%A8%E5%8A%A9%E7%90%86%E5%B7%B2%E8%A7%A6%E5%8F%8A%E8%A1%8C%E6%94%BF%E8%BF%9D%E6%B3%95%23&t=31&band_rank=16&Refer=top) 66313
 1. [AG对战TES](https://s.weibo.com/weibo?q=%23AG%E5%AF%B9%E6%88%98TES%23&t=31&band_rank=39&Refer=top) 61469
 1. [妈妈让儿子穿中老年装带火21年老店](https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E8%AE%A9%E5%84%BF%E5%AD%90%E7%A9%BF%E4%B8%AD%E8%80%81%E5%B9%B4%E8%A3%85%E5%B8%A6%E7%81%AB21%E5%B9%B4%E8%80%81%E5%BA%97%23&t=31&band_rank=40&Refer=top) 60771
 1. [95后女孩因工作遭羁押500多天](https://s.weibo.com/weibo?q=%2395%E5%90%8E%E5%A5%B3%E5%AD%A9%E5%9B%A0%E5%B7%A5%E4%BD%9C%E9%81%AD%E7%BE%81%E6%8A%BC500%E5%A4%9A%E5%A4%A9%23&t=31&band_rank=41&Refer=top) 60415
@@ -58,6 +59,12 @@
 1. [怀孕3个月女儿离家出走妈妈急哭](https://s.weibo.com/weibo?q=%23%E6%80%80%E5%AD%953%E4%B8%AA%E6%9C%88%E5%A5%B3%E5%84%BF%E7%A6%BB%E5%AE%B6%E5%87%BA%E8%B5%B0%E5%A6%88%E5%A6%88%E6%80%A5%E5%93%AD%23&t=31&band_rank=48&Refer=top) 60404
 1. [小城大事收视第一](https://s.weibo.com/weibo?q=%E5%B0%8F%E5%9F%8E%E5%A4%A7%E4%BA%8B%E6%94%B6%E8%A7%86%E7%AC%AC%E4%B8%80&t=31&band_rank=49&Refer=top) 60403
 1. [德约科维奇3比2辛纳](https://s.weibo.com/weibo?q=%23%E5%BE%B7%E7%BA%A6%E7%A7%91%E7%BB%B4%E5%A5%873%E6%AF%942%E8%BE%9B%E7%BA%B3%23&t=31&band_rank=50&Refer=top) 60401
+1. [爷爷狱中病亡孙子考211为其翻案](https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E7%8B%B1%E4%B8%AD%E7%97%85%E4%BA%A1%E5%AD%99%E5%AD%90%E8%80%83211%E4%B8%BA%E5%85%B6%E7%BF%BB%E6%A1%88%23&t=31&band_rank=28&Refer=top) 59431
+1. [这份福气请你接住](https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BB%BD%E7%A6%8F%E6%B0%94%E8%AF%B7%E4%BD%A0%E6%8E%A5%E4%BD%8F%23&t=31&band_rank=30&Refer=top) 59430
+1. [白银跌麻了](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%93%B6%E8%B7%8C%E9%BA%BB%E4%BA%86%23&t=31&band_rank=41&Refer=top) 59423
+1. [刘宇宁直播举杠铃](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E7%9B%B4%E6%92%AD%E4%B8%BE%E6%9D%A0%E9%93%83%23&t=31&band_rank=42&Refer=top) 59423
+1. [500多天的刑案马拉松](https://s.weibo.com/weibo?q=%23500%E5%A4%9A%E5%A4%A9%E7%9A%84%E5%88%91%E6%A1%88%E9%A9%AC%E6%8B%89%E6%9D%BE%23&t=31&band_rank=48&Refer=top) 59418
+1. [手里捧着窝窝头的那一代又回来了](https://s.weibo.com/weibo?q=%E6%89%8B%E9%87%8C%E6%8D%A7%E7%9D%80%E7%AA%9D%E7%AA%9D%E5%A4%B4%E7%9A%84%E9%82%A3%E4%B8%80%E4%BB%A3%E5%8F%88%E5%9B%9E%E6%9D%A5%E4%BA%86&t=31&band_rank=49&Refer=top) 59417
 <!-- END -->
 
 历史归档 [./archives](./archives)
