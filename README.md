@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-02-05 03:40:24.686687 
+最后更新时间 2026-02-05 04:38:34.296002 
 1. [中美元首通电话](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E9%80%9A%E7%94%B5%E8%AF%9D%23&t=31&band_rank=1&Refer=top) 645901
 1. [马斯克被激怒](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E8%A2%AB%E6%BF%80%E6%80%92%23&t=31&band_rank=2&Refer=top) 500001
 1. [2025中国考古新成果](https://s.weibo.com/weibo?q=%232025%E4%B8%AD%E5%9B%BD%E8%80%83%E5%8F%A4%E6%96%B0%E6%88%90%E6%9E%9C%23&t=31&band_rank=3&Refer=top) 459087
@@ -74,6 +74,8 @@
 1. [朱志鑫帅得好锐利](https://s.weibo.com/weibo?q=%E6%9C%B1%E5%BF%97%E9%91%AB%E5%B8%85%E5%BE%97%E5%A5%BD%E9%94%90%E5%88%A9&t=31&band_rank=36&Refer=top) 17606
 1. [宋亚轩帽子一九分](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E5%B8%BD%E5%AD%90%E4%B8%80%E4%B9%9D%E5%88%86%23&t=31&band_rank=41&Refer=top) 16021
 1. [比尔盖茨否认去过萝莉岛](https://s.weibo.com/weibo?q=%23%E6%AF%94%E5%B0%94%E7%9B%96%E8%8C%A8%E5%90%A6%E8%AE%A4%E5%8E%BB%E8%BF%87%E8%90%9D%E8%8E%89%E5%B2%9B%23&t=31&band_rank=43&Refer=top) 16021
+1. [陈浚铭发现名字被写错的反应](https://s.weibo.com/weibo?q=%23%E9%99%88%E6%B5%9A%E9%93%AD%E5%8F%91%E7%8E%B0%E5%90%8D%E5%AD%97%E8%A2%AB%E5%86%99%E9%94%99%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=48&Refer=top) 15302
+1. [EDG十五番战BLG](https://s.weibo.com/weibo?q=%23EDG%E5%8D%81%E4%BA%94%E7%95%AA%E6%88%98BLG%23&t=31&band_rank=50&Refer=top) 15300
 <!-- END -->
 
 历史归档 [./archives](./archives)
