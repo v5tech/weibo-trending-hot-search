@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-02-06 04:37:31.244090 
+最后更新时间 2026-02-06 05:33:25.851235 
 1. [微博之夜内场](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E5%86%85%E5%9C%BA%23&t=31&band_rank=1&Refer=top) 808045
 1. [高市早苗亲自帮尼泊尔总统穿衣](https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%BA%B2%E8%87%AA%E5%B8%AE%E5%B0%BC%E6%B3%8A%E5%B0%94%E6%80%BB%E7%BB%9F%E7%A9%BF%E8%A1%A3%23&t=31&band_rank=2&Refer=top) 578206
 1. [服务区变身年味驿站](https://s.weibo.com/weibo?q=%23%E6%9C%8D%E5%8A%A1%E5%8C%BA%E5%8F%98%E8%BA%AB%E5%B9%B4%E5%91%B3%E9%A9%BF%E7%AB%99%23&t=31&band_rank=3&Refer=top) 473677
@@ -62,13 +62,16 @@
 1. [单板滑雪男子大跳台预赛](https://s.weibo.com/weibo?q=%E5%8D%95%E6%9D%BF%E6%BB%91%E9%9B%AA%E7%94%B7%E5%AD%90%E5%A4%A7%E8%B7%B3%E5%8F%B0%E9%A2%84%E8%B5%9B&t=31&band_rank=2&Refer=top) 161394
 1. [苏翊鸣第一跳摔倒](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%BF%8A%E9%B8%A3%E7%AC%AC%E4%B8%80%E8%B7%B3%E6%91%94%E5%80%92%23&t=31&band_rank=2&Refer=top) 122580
 1. [来华过大年成全球新风尚](https://s.weibo.com/weibo?q=%23%E6%9D%A5%E5%8D%8E%E8%BF%87%E5%A4%A7%E5%B9%B4%E6%88%90%E5%85%A8%E7%90%83%E6%96%B0%E9%A3%8E%E5%B0%9A%23&t=31&band_rank=3&Refer=top) 118232
+1. [苏翊鸣大跳台晋级决赛](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%BF%8A%E9%B8%A3%E5%A4%A7%E8%B7%B3%E5%8F%B0%E6%99%8B%E7%BA%A7%E5%86%B3%E8%B5%9B%23&t=31&band_rank=2&Refer=top) 114543
 1. [中国队米兰冬奥首秀](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E7%B1%B3%E5%85%B0%E5%86%AC%E5%A5%A5%E9%A6%96%E7%A7%80%23&t=31&band_rank=10&Refer=top) 113511
+1. [苏翊鸣第三跳85.00分](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%BF%8A%E9%B8%A3%E7%AC%AC%E4%B8%89%E8%B7%B385.00%E5%88%86%23&t=31&band_rank=4&Refer=top) 89879
 1. [苏翊鸣米兰冬奥会首战](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%BF%8A%E9%B8%A3%E7%B1%B3%E5%85%B0%E5%86%AC%E5%A5%A5%E4%BC%9A%E9%A6%96%E6%88%98%23&t=31&band_rank=5&Refer=top) 86283
 1. [冬奥会](https://s.weibo.com/weibo?q=%E5%86%AC%E5%A5%A5%E4%BC%9A&t=31&band_rank=10&Refer=top) 82825
 1. [苏翊鸣第二跳87.75分](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%BF%8A%E9%B8%A3%E7%AC%AC%E4%BA%8C%E8%B7%B387.75%E5%88%86%23&t=31&band_rank=5&Refer=top) 77826
 1. [苏翊鸣第二跳完美落地](https://s.weibo.com/weibo?q=%E8%8B%8F%E7%BF%8A%E9%B8%A3%E7%AC%AC%E4%BA%8C%E8%B7%B3%E5%AE%8C%E7%BE%8E%E8%90%BD%E5%9C%B0&t=31&band_rank=8&Refer=top) 72822
 1. [王一博下次还来](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E4%B8%8B%E6%AC%A1%E8%BF%98%E6%9D%A5%23&t=31&band_rank=32&Refer=top) 64787
 1. [刘宇宁帮白鹿拿奖杯](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E5%B8%AE%E7%99%BD%E9%B9%BF%E6%8B%BF%E5%A5%96%E6%9D%AF%23&t=31&band_rank=33&Refer=top) 63594
+1. [苏翊鸣冬奥首个1980](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%BF%8A%E9%B8%A3%E5%86%AC%E5%A5%A5%E9%A6%96%E4%B8%AA1980%23&t=31&band_rank=10&Refer=top) 59281
 1. [周深紧急表情管理](https://s.weibo.com/weibo?q=%E5%91%A8%E6%B7%B1%E7%B4%A7%E6%80%A5%E8%A1%A8%E6%83%85%E7%AE%A1%E7%90%86&t=31&band_rank=38&Refer=top) 48198
 1. [唐宫奇案热度](https://s.weibo.com/weibo?q=%E5%94%90%E5%AE%AB%E5%A5%87%E6%A1%88%E7%83%AD%E5%BA%A6&t=31&band_rank=42&Refer=top) 45834
 1. [周柯宇陈妍希互拍](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9F%AF%E5%AE%87%E9%99%88%E5%A6%8D%E5%B8%8C%E4%BA%92%E6%8B%8D%23&t=31&band_rank=47&Refer=top) 45638
@@ -76,13 +79,17 @@
 1. [马嘉祺 对不起李飞](https://s.weibo.com/weibo?q=%E9%A9%AC%E5%98%89%E7%A5%BA%20%E5%AF%B9%E4%B8%8D%E8%B5%B7%E6%9D%8E%E9%A3%9E&t=31&band_rank=49&Refer=top) 45592
 1. [唐宫奇案](https://s.weibo.com/weibo?q=%E5%94%90%E5%AE%AB%E5%A5%87%E6%A1%88&t=31&band_rank=50&Refer=top) 45538
 1. [陈都灵丁禹兮关晓彤孟子义张凌赫同台](https://s.weibo.com/weibo?q=%23%E9%99%88%E9%83%BD%E7%81%B5%E4%B8%81%E7%A6%B9%E5%85%AE%E5%85%B3%E6%99%93%E5%BD%A4%E5%AD%9F%E5%AD%90%E4%B9%89%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%90%8C%E5%8F%B0%23&t=31&band_rank=31&Refer=top) 38455
+1. [大跳台竞争好激烈](https://s.weibo.com/weibo?q=%E5%A4%A7%E8%B7%B3%E5%8F%B0%E7%AB%9E%E4%BA%89%E5%A5%BD%E6%BF%80%E7%83%88&t=31&band_rank=23&Refer=top) 30825
 1. [冬奥会 熬夜](https://s.weibo.com/weibo?q=%E5%86%AC%E5%A5%A5%E4%BC%9A%20%E7%86%AC%E5%A4%9C&t=31&band_rank=29&Refer=top) 29661
 1. [朴成训传递米兰冬奥圣火](https://s.weibo.com/weibo?q=%E6%9C%B4%E6%88%90%E8%AE%AD%E4%BC%A0%E9%80%92%E7%B1%B3%E5%85%B0%E5%86%AC%E5%A5%A5%E5%9C%A3%E7%81%AB&t=31&band_rank=39&Refer=top) 27516
 1. [镖人](https://s.weibo.com/weibo?q=%E9%95%96%E4%BA%BA&t=31&band_rank=41&Refer=top) 26540
 1. [坦克没有后视镜 但吴京有兔耳朵](https://s.weibo.com/weibo?q=%E5%9D%A6%E5%85%8B%E6%B2%A1%E6%9C%89%E5%90%8E%E8%A7%86%E9%95%9C%20%E4%BD%86%E5%90%B4%E4%BA%AC%E6%9C%89%E5%85%94%E8%80%B3%E6%9C%B5&t=31&band_rank=42&Refer=top) 24984
+1. [高叶李乃文偷吃](https://s.weibo.com/weibo?q=%E9%AB%98%E5%8F%B6%E6%9D%8E%E4%B9%83%E6%96%87%E5%81%B7%E5%90%83&t=31&band_rank=31&Refer=top) 24546
+1. [杨文龙无缘大跳台决赛](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%96%87%E9%BE%99%E6%97%A0%E7%BC%98%E5%A4%A7%E8%B7%B3%E5%8F%B0%E5%86%B3%E8%B5%9B%23&t=31&band_rank=32&Refer=top) 24265
 1. [澳男子涉嫌虐待459名儿童](https://s.weibo.com/weibo?q=%23%E6%BE%B3%E7%94%B7%E5%AD%90%E6%B6%89%E5%AB%8C%E8%99%90%E5%BE%85459%E5%90%8D%E5%84%BF%E7%AB%A5%23&t=31&band_rank=44&Refer=top) 23827
 1. [2025微博年度综艺](https://s.weibo.com/weibo?q=%232025%E5%BE%AE%E5%8D%9A%E5%B9%B4%E5%BA%A6%E7%BB%BC%E8%89%BA%23&t=31&band_rank=43&Refer=top) 22016
 1. [滑雪](https://s.weibo.com/weibo?q=%E6%BB%91%E9%9B%AA&t=31&band_rank=45&Refer=top) 20375
+1. [葛春宇无缘大跳台决赛](https://s.weibo.com/weibo?q=%23%E8%91%9B%E6%98%A5%E5%AE%87%E6%97%A0%E7%BC%98%E5%A4%A7%E8%B7%B3%E5%8F%B0%E5%86%B3%E8%B5%9B%23&t=31&band_rank=41&Refer=top) 19956
 1. [一个人的强大从3次看见开始](https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%9A%84%E5%BC%BA%E5%A4%A7%E4%BB%8E3%E6%AC%A1%E7%9C%8B%E8%A7%81%E5%BC%80%E5%A7%8B%23&t=31&band_rank=47&Refer=top) 19168
 1. [周深微博年度影响力歌手](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E5%BE%AE%E5%8D%9A%E5%B9%B4%E5%BA%A6%E5%BD%B1%E5%93%8D%E5%8A%9B%E6%AD%8C%E6%89%8B%23&t=31&band_rank=47&Refer=top) 17084
 <!-- END -->
