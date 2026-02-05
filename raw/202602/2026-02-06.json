@@ -227,6 +227,14 @@
     "url": "https://s.weibo.com/weibo?q=%E5%86%AC%E5%A5%A5%E4%BC%9A&t=31&band_rank=10&Refer=top",
     "hot": 82825
   },
+  "苏翊鸣第二跳87.75分": {
+    "url": "https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%BF%8A%E9%B8%A3%E7%AC%AC%E4%BA%8C%E8%B7%B387.75%E5%88%86%23&t=31&band_rank=5&Refer=top",
+    "hot": 77826
+  },
+  "苏翊鸣第二跳完美落地": {
+    "url": "https://s.weibo.com/weibo?q=%E8%8B%8F%E7%BF%8A%E9%B8%A3%E7%AC%AC%E4%BA%8C%E8%B7%B3%E5%AE%8C%E7%BE%8E%E8%90%BD%E5%9C%B0&t=31&band_rank=8&Refer=top",
+    "hot": 72822
+  },
   "王一博下次还来": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E4%B8%8B%E6%AC%A1%E8%BF%98%E6%9D%A5%23&t=31&band_rank=32&Refer=top",
     "hot": 64787
@@ -289,10 +297,14 @@
   },
   "滑雪": {
     "url": "https://s.weibo.com/weibo?q=%E6%BB%91%E9%9B%AA&t=31&band_rank=45&Refer=top",
-    "hot": 20015
+    "hot": 20375
   },
   "一个人的强大从3次看见开始": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%9A%84%E5%BC%BA%E5%A4%A7%E4%BB%8E3%E6%AC%A1%E7%9C%8B%E8%A7%81%E5%BC%80%E5%A7%8B%23&t=31&band_rank=47&Refer=top",
     "hot": 19168
+  },
+  "周深微博年度影响力歌手": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E5%BE%AE%E5%8D%9A%E5%B9%B4%E5%BA%A6%E5%BD%B1%E5%93%8D%E5%8A%9B%E6%AD%8C%E6%89%8B%23&t=31&band_rank=47&Refer=top",
+    "hot": 17084
   }
 }
