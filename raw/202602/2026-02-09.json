@@ -215,13 +215,13 @@
     "url": "https://s.weibo.com/weibo?q=%23%E4%BA%95%E5%B7%9D%E9%87%8C%E4%BA%88%E6%99%92%E6%AF%94%E5%9F%BA%E5%B0%BC%E7%85%A7%23&t=31&band_rank=37&Refer=top",
     "hot": 45010
   },
+  "花样滑冰团体决赛": {
+    "url": "https://s.weibo.com/weibo?q=%E8%8A%B1%E6%A0%B7%E6%BB%91%E5%86%B0%E5%9B%A2%E4%BD%93%E5%86%B3%E8%B5%9B&t=31&band_rank=14&Refer=top",
+    "hot": 37588
+  },
   "春晚完成第四次彩排": {
     "url": "https://s.weibo.com/weibo?q=%E6%98%A5%E6%99%9A%E5%AE%8C%E6%88%90%E7%AC%AC%E5%9B%9B%E6%AC%A1%E5%BD%A9%E6%8E%92&t=31&band_rank=41&Refer=top",
     "hot": 37315
-  },
-  "花样滑冰团体决赛": {
-    "url": "https://s.weibo.com/weibo?q=%E8%8A%B1%E6%A0%B7%E6%BB%91%E5%86%B0%E5%9B%A2%E4%BD%93%E5%86%B3%E8%B5%9B&t=31&band_rank=14&Refer=top",
-    "hot": 34563
   },
   "赵丽颖现实主义三部曲实绩": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%8E%B0%E5%AE%9E%E4%B8%BB%E4%B9%89%E4%B8%89%E9%83%A8%E6%9B%B2%E5%AE%9E%E7%BB%A9%23&t=31&band_rank=48&Refer=top",
@@ -233,7 +233,7 @@
   },
   "女子大跳台预赛": {
     "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E5%A4%A7%E8%B7%B3%E5%8F%B0%E9%A2%84%E8%B5%9B&t=31&band_rank=25&Refer=top",
-    "hot": 23528
+    "hot": 24645
   },
   "蔡徐坤新专辑": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E6%96%B0%E4%B8%93%E8%BE%91%23&t=31&band_rank=40&Refer=top",
@@ -250,5 +250,17 @@
   "张小楠出战女子大跳台预赛": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%A5%A0%E5%87%BA%E6%88%98%E5%A5%B3%E5%AD%90%E5%A4%A7%E8%B7%B3%E5%8F%B0%E9%A2%84%E8%B5%9B%23&t=31&band_rank=48&Refer=top",
     "hot": 21545
+  },
+  "丁禹兮高干Daddy上班了": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%E9%AB%98%E5%B9%B2Daddy%E4%B8%8A%E7%8F%AD%E4%BA%86%23&t=31&band_rank=26&Refer=top",
+    "hot": 20164
+  },
+  "李昀锐批改网球作业": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%98%80%E9%94%90%E6%89%B9%E6%94%B9%E7%BD%91%E7%90%83%E4%BD%9C%E4%B8%9A%23&t=31&band_rank=44&Refer=top",
+    "hot": 19379
+  },
+  "张小楠大跳台第二跳触雪": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%A5%A0%E5%A4%A7%E8%B7%B3%E5%8F%B0%E7%AC%AC%E4%BA%8C%E8%B7%B3%E8%A7%A6%E9%9B%AA%23&t=31&band_rank=48&Refer=top",
+    "hot": 19378
   }
 }
