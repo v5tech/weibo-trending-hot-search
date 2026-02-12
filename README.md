@@ -7,15 +7,20 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-02-13 03:06:51.988381 
+最后更新时间 2026-02-13 04:38:42.504885 
 1. [22岁主播每天焊妆两次确诊肺炎](https://s.weibo.com/weibo?q=%2322%E5%B2%81%E4%B8%BB%E6%92%AD%E6%AF%8F%E5%A4%A9%E7%84%8A%E5%A6%86%E4%B8%A4%E6%AC%A1%E7%A1%AE%E8%AF%8A%E8%82%BA%E7%82%8E%23&t=31&band_rank=1&Refer=top) 602466
 1. [王者荣耀超话爆了](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E8%B6%85%E8%AF%9D%E7%88%86%E4%BA%86%23&t=31&band_rank=2&Refer=top) 423709
 1. [我家的C位年货](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%AE%B6%E7%9A%84C%E4%BD%8D%E5%B9%B4%E8%B4%A7%23&t=31&band_rank=3&Refer=top) 349349
+1. [林孝埈无缘男子1000米半决赛](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%AD%9D%E5%9F%88%E6%97%A0%E7%BC%98%E7%94%B7%E5%AD%901000%E7%B1%B3%E5%8D%8A%E5%86%B3%E8%B5%9B%23&t=31&band_rank=1&Refer=top) 349204
 1. [虞书欣直播](https://s.weibo.com/weibo?q=%E8%99%9E%E4%B9%A6%E6%AC%A3%E7%9B%B4%E6%92%AD&t=31&band_rank=4&Refer=top) 316126
 1. [丞磊在飞机上帮王楚然剔牙](https://s.weibo.com/weibo?q=%23%E4%B8%9E%E7%A3%8A%E5%9C%A8%E9%A3%9E%E6%9C%BA%E4%B8%8A%E5%B8%AE%E7%8E%8B%E6%A5%9A%E7%84%B6%E5%89%94%E7%89%99%23&t=31&band_rank=5&Refer=top) 267210
+1. [短道速滑](https://s.weibo.com/weibo?q=%E7%9F%AD%E9%81%93%E9%80%9F%E6%BB%91&t=31&band_rank=2&Refer=top) 228929
+1. [任子威 黄大宪成功淘汰](https://s.weibo.com/weibo?q=%E4%BB%BB%E5%AD%90%E5%A8%81%20%E9%BB%84%E5%A4%A7%E5%AE%AA%E6%88%90%E5%8A%9F%E6%B7%98%E6%B1%B0&t=31&band_rank=4&Refer=top) 226211
 1. [Deepseek被指变冷淡了](https://s.weibo.com/weibo?q=%23Deepseek%E8%A2%AB%E6%8C%87%E5%8F%98%E5%86%B7%E6%B7%A1%E4%BA%86%23&t=31&band_rank=6&Refer=top) 213153
 1. [连续五年都没有年三十](https://s.weibo.com/weibo?q=%23%E8%BF%9E%E7%BB%AD%E4%BA%94%E5%B9%B4%E9%83%BD%E6%B2%A1%E6%9C%89%E5%B9%B4%E4%B8%89%E5%8D%81%23&t=31&band_rank=7&Refer=top) 208552
+1. [刘少昂好稳](https://s.weibo.com/weibo?q=%E5%88%98%E5%B0%91%E6%98%82%E5%A5%BD%E7%A8%B3&t=31&band_rank=5&Refer=top) 174468
 1. [速度滑冰女子5000米](https://s.weibo.com/weibo?q=%E9%80%9F%E5%BA%A6%E6%BB%91%E5%86%B0%E5%A5%B3%E5%AD%905000%E7%B1%B3&t=31&band_rank=8&Refer=top) 119897
+1. [冬奥短道速滑男子1000米](https://s.weibo.com/weibo?q=%23%E5%86%AC%E5%A5%A5%E7%9F%AD%E9%81%93%E9%80%9F%E6%BB%91%E7%94%B7%E5%AD%901000%E7%B1%B3%23&t=31&band_rank=6&Refer=top) 115278
 1. [坏果太多胖东来下架全部智利车厘子](https://s.weibo.com/weibo?q=%23%E5%9D%8F%E6%9E%9C%E5%A4%AA%E5%A4%9A%E8%83%96%E4%B8%9C%E6%9D%A5%E4%B8%8B%E6%9E%B6%E5%85%A8%E9%83%A8%E6%99%BA%E5%88%A9%E8%BD%A6%E5%8E%98%E5%AD%90%23&t=31&band_rank=9&Refer=top) 104246
 1. [意大利老将5000米0.1秒绝杀夺金](https://s.weibo.com/weibo?q=%E6%84%8F%E5%A4%A7%E5%88%A9%E8%80%81%E5%B0%865000%E7%B1%B30.1%E7%A7%92%E7%BB%9D%E6%9D%80%E5%A4%BA%E9%87%91&t=31&band_rank=10&Refer=top) 103805
 1. [律师解读杨幂新增60件告黑案](https://s.weibo.com/weibo?q=%23%E5%BE%8B%E5%B8%88%E8%A7%A3%E8%AF%BB%E6%9D%A8%E5%B9%82%E6%96%B0%E5%A2%9E60%E4%BB%B6%E5%91%8A%E9%BB%91%E6%A1%88%23&t=31&band_rank=11&Refer=top) 102928
@@ -24,8 +29,15 @@
 1. [王者荣耀马年全明星表演赛](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E9%A9%AC%E5%B9%B4%E5%85%A8%E6%98%8E%E6%98%9F%E8%A1%A8%E6%BC%94%E8%B5%9B%23&t=31&band_rank=14&Refer=top) 100454
 1. [36岁何穗状态](https://s.weibo.com/weibo?q=%2336%E5%B2%81%E4%BD%95%E7%A9%97%E7%8A%B6%E6%80%81%23&t=31&band_rank=15&Refer=top) 100308
 1. [小马打架被咬伤负气出逃跑上高架](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%A9%AC%E6%89%93%E6%9E%B6%E8%A2%AB%E5%92%AC%E4%BC%A4%E8%B4%9F%E6%B0%94%E5%87%BA%E9%80%83%E8%B7%91%E4%B8%8A%E9%AB%98%E6%9E%B6%23&t=31&band_rank=16&Refer=top) 98758
+1. [女子单板U池决赛](https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E5%8D%95%E6%9D%BFU%E6%B1%A0%E5%86%B3%E8%B5%9B&t=31&band_rank=9&Refer=top) 85080
 1. [成何体统](https://s.weibo.com/weibo?q=%E6%88%90%E4%BD%95%E4%BD%93%E7%BB%9F&t=31&band_rank=17&Refer=top) 81873
+1. [刘少昂1000米无缘决赛](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%B0%91%E6%98%821000%E7%B1%B3%E6%97%A0%E7%BC%98%E5%86%B3%E8%B5%9B%23&t=31&band_rank=8&Refer=top) 79969
 1. [女子火车上熟睡8000元手机被偷](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%81%AB%E8%BD%A6%E4%B8%8A%E7%86%9F%E7%9D%A18000%E5%85%83%E6%89%8B%E6%9C%BA%E8%A2%AB%E5%81%B7%23&t=31&band_rank=18&Refer=top) 78515
+1. [孙龙1000米进决赛](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%BE%991000%E7%B1%B3%E8%BF%9B%E5%86%B3%E8%B5%9B%23&t=31&band_rank=9&Refer=top) 77631
+1. [韩国崔佳恩U池夺冠](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E5%B4%94%E4%BD%B3%E6%81%A9U%E6%B1%A0%E5%A4%BA%E5%86%A0&t=31&band_rank=10&Refer=top) 75497
+1. [冬奥短道速滑女子500米](https://s.weibo.com/weibo?q=%23%E5%86%AC%E5%A5%A5%E7%9F%AD%E9%81%93%E9%80%9F%E6%BB%91%E5%A5%B3%E5%AD%90500%E7%B1%B3%23&t=31&band_rank=11&Refer=top) 72213
+1. [虞书欣衣帽间](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E8%A1%A3%E5%B8%BD%E9%97%B4%23&t=31&band_rank=11&Refer=top) 69391
+1. [孙龙进1000米半决赛](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%BE%99%E8%BF%9B1000%E7%B1%B3%E5%8D%8A%E5%86%B3%E8%B5%9B%23&t=31&band_rank=13&Refer=top) 67048
 1. [印度要买114架阵风](https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E8%A6%81%E4%B9%B0114%E6%9E%B6%E9%98%B5%E9%A3%8E%23&t=31&band_rank=19&Refer=top) 66337
 1. [太平年大结局](https://s.weibo.com/weibo?q=%E5%A4%AA%E5%B9%B3%E5%B9%B4%E5%A4%A7%E7%BB%93%E5%B1%80&t=31&band_rank=20&Refer=top) 64420
 1. [吃烤全羊发现大量粪便店家赔偿1500](https://s.weibo.com/weibo?q=%23%E5%90%83%E7%83%A4%E5%85%A8%E7%BE%8A%E5%8F%91%E7%8E%B0%E5%A4%A7%E9%87%8F%E7%B2%AA%E4%BE%BF%E5%BA%97%E5%AE%B6%E8%B5%94%E5%81%BF1500%23&t=31&band_rank=21&Refer=top) 64418
@@ -42,17 +54,17 @@
 1. [彭小苒 古早韩剧财阀家大小姐](https://s.weibo.com/weibo?q=%E5%BD%AD%E5%B0%8F%E8%8B%92%20%E5%8F%A4%E6%97%A9%E9%9F%A9%E5%89%A7%E8%B4%A2%E9%98%80%E5%AE%B6%E5%A4%A7%E5%B0%8F%E5%A7%90&t=31&band_rank=31&Refer=top) 54457
 1. [微博之夜 绝美打光](https://s.weibo.com/weibo?q=%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%20%E7%BB%9D%E7%BE%8E%E6%89%93%E5%85%89&t=31&band_rank=32&Refer=top) 54433
 1. [六国联名反对欧盟加大对华限制](https://s.weibo.com/weibo?q=%23%E5%85%AD%E5%9B%BD%E8%81%94%E5%90%8D%E5%8F%8D%E5%AF%B9%E6%AC%A7%E7%9B%9F%E5%8A%A0%E5%A4%A7%E5%AF%B9%E5%8D%8E%E9%99%90%E5%88%B6%23&t=31&band_rank=33&Refer=top) 54354
-1. [女子单板U池决赛](https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E5%8D%95%E6%9D%BFU%E6%B1%A0%E5%86%B3%E8%B5%9B&t=31&band_rank=9&Refer=top) 54019
 1. [武绍桐U池首轮顺利完成](https://s.weibo.com/weibo?q=%23%E6%AD%A6%E7%BB%8D%E6%A1%90U%E6%B1%A0%E9%A6%96%E8%BD%AE%E9%A1%BA%E5%88%A9%E5%AE%8C%E6%88%90%23&t=31&band_rank=10&Refer=top) 53979
-1. [虞书欣衣帽间](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E8%A1%A3%E5%B8%BD%E9%97%B4%23&t=31&band_rank=11&Refer=top) 53624
 1. [微博之夜 台上顶流台下好友](https://s.weibo.com/weibo?q=%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%20%E5%8F%B0%E4%B8%8A%E9%A1%B6%E6%B5%81%E5%8F%B0%E4%B8%8B%E5%A5%BD%E5%8F%8B&t=31&band_rank=13&Refer=top) 53259
 1. [曝陈哲远每年让员工带薪出国旅游](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E9%99%88%E5%93%B2%E8%BF%9C%E6%AF%8F%E5%B9%B4%E8%AE%A9%E5%91%98%E5%B7%A5%E5%B8%A6%E8%96%AA%E5%87%BA%E5%9B%BD%E6%97%85%E6%B8%B8%23&t=31&band_rank=34&Refer=top) 53082
 1. [杨幂白色高筒袜](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E7%99%BD%E8%89%B2%E9%AB%98%E7%AD%92%E8%A2%9C%23&t=31&band_rank=35&Refer=top) 52469
 1. [米兰冬奥中国单板双姝逐梦](https://s.weibo.com/weibo?q=%23%E7%B1%B3%E5%85%B0%E5%86%AC%E5%A5%A5%E4%B8%AD%E5%9B%BD%E5%8D%95%E6%9D%BF%E5%8F%8C%E5%A7%9D%E9%80%90%E6%A2%A6%23&t=31&band_rank=36&Refer=top) 50430
 1. [爸爸被劝酒女儿站身后霸气挡酒](https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E8%A2%AB%E5%8A%9D%E9%85%92%E5%A5%B3%E5%84%BF%E7%AB%99%E8%BA%AB%E5%90%8E%E9%9C%B8%E6%B0%94%E6%8C%A1%E9%85%92%23&t=31&band_rank=37&Refer=top) 49403
+1. [范可新无缘500米决赛](https://s.weibo.com/weibo?q=%23%E8%8C%83%E5%8F%AF%E6%96%B0%E6%97%A0%E7%BC%98500%E7%B1%B3%E5%86%B3%E8%B5%9B%23&t=31&band_rank=16&Refer=top) 48998
 1. [舌头翘一翘身体好坏都知道](https://s.weibo.com/weibo?q=%E8%88%8C%E5%A4%B4%E7%BF%98%E4%B8%80%E7%BF%98%E8%BA%AB%E4%BD%93%E5%A5%BD%E5%9D%8F%E9%83%BD%E7%9F%A5%E9%81%93&t=31&band_rank=38&Refer=top) 48973
 1. [张函瑞高会语音](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%87%BD%E7%91%9E%E9%AB%98%E4%BC%9A%E8%AF%AD%E9%9F%B3&t=31&band_rank=39&Refer=top) 48087
 1. [今年为啥没有年三十](https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E4%B8%BA%E5%95%A5%E6%B2%A1%E6%9C%89%E5%B9%B4%E4%B8%89%E5%8D%81%23&t=31&band_rank=40&Refer=top) 47868
+1. [张楚桐犯规](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%A5%9A%E6%A1%90%E7%8A%AF%E8%A7%84%23&t=31&band_rank=17&Refer=top) 47182
 1. [8岁小孩姐徒步117公里回老家](https://s.weibo.com/weibo?q=%238%E5%B2%81%E5%B0%8F%E5%AD%A9%E5%A7%90%E5%BE%92%E6%AD%A5117%E5%85%AC%E9%87%8C%E5%9B%9E%E8%80%81%E5%AE%B6%23&t=31&band_rank=41&Refer=top) 46732
 1. [严浩翔贺峻霖抽到同一条红绳](https://s.weibo.com/weibo?q=%23%E4%B8%A5%E6%B5%A9%E7%BF%94%E8%B4%BA%E5%B3%BB%E9%9C%96%E6%8A%BD%E5%88%B0%E5%90%8C%E4%B8%80%E6%9D%A1%E7%BA%A2%E7%BB%B3%23&t=31&band_rank=42&Refer=top) 46322
 1. [何与miumiu活动生图路透](https://s.weibo.com/weibo?q=%23%E4%BD%95%E4%B8%8Emiumiu%E6%B4%BB%E5%8A%A8%E7%94%9F%E5%9B%BE%E8%B7%AF%E9%80%8F%23&t=31&band_rank=43&Refer=top) 44564
@@ -63,8 +75,15 @@
 1. [苏州一老板给2万员工发黄金](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E5%B7%9E%E4%B8%80%E8%80%81%E6%9D%BF%E7%BB%992%E4%B8%87%E5%91%98%E5%B7%A5%E5%8F%91%E9%BB%84%E9%87%91%23&t=31&band_rank=48&Refer=top) 41579
 1. [姐姐被藏尸位置就在弟弟店铺正上方](https://s.weibo.com/weibo?q=%23%E5%A7%90%E5%A7%90%E8%A2%AB%E8%97%8F%E5%B0%B8%E4%BD%8D%E7%BD%AE%E5%B0%B1%E5%9C%A8%E5%BC%9F%E5%BC%9F%E5%BA%97%E9%93%BA%E6%AD%A3%E4%B8%8A%E6%96%B9%23&t=31&band_rank=49&Refer=top) 41571
 1. [车厘子卖家赌涨价压货](https://s.weibo.com/weibo?q=%23%E8%BD%A6%E5%8E%98%E5%AD%90%E5%8D%96%E5%AE%B6%E8%B5%8C%E6%B6%A8%E4%BB%B7%E5%8E%8B%E8%B4%A7%23&t=31&band_rank=50&Refer=top) 41571
+1. [黄大宪犯规无缘晋级](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%A4%A7%E5%AE%AA%E7%8A%AF%E8%A7%84%E6%97%A0%E7%BC%98%E6%99%8B%E7%BA%A7%23&t=31&band_rank=20&Refer=top) 39602
+1. [王欣然犯规无缘晋级](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%AC%A3%E7%84%B6%E7%8A%AF%E8%A7%84%E6%97%A0%E7%BC%98%E6%99%8B%E7%BA%A7%23&t=31&band_rank=23&Refer=top) 34892
+1. [刘少昂进1000米半决赛](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%B0%91%E6%98%82%E8%BF%9B1000%E7%B1%B3%E5%8D%8A%E5%86%B3%E8%B5%9B%23&t=31&band_rank=27&Refer=top) 28900
+1. [范可新晋级500米半决赛](https://s.weibo.com/weibo?q=%23%E8%8C%83%E5%8F%AF%E6%96%B0%E6%99%8B%E7%BA%A7500%E7%B1%B3%E5%8D%8A%E5%86%B3%E8%B5%9B%23&t=31&band_rank=28&Refer=top) 28778
+1. [崔佳恩 感情分](https://s.weibo.com/weibo?q=%E5%B4%94%E4%BD%B3%E6%81%A9%20%E6%84%9F%E6%83%85%E5%88%86&t=31&band_rank=31&Refer=top) 28238
 1. [唐宫奇案](https://s.weibo.com/weibo?q=%E5%94%90%E5%AE%AB%E5%A5%87%E6%A1%88&t=31&band_rank=27&Refer=top) 24168
-1. [米兰冬奥会冰壶女子团体赛](https://s.weibo.com/weibo?q=%E7%B1%B3%E5%85%B0%E5%86%AC%E5%A5%A5%E4%BC%9A%E5%86%B0%E5%A3%B6%E5%A5%B3%E5%AD%90%E5%9B%A2%E4%BD%93%E8%B5%9B&t=31&band_rank=31&Refer=top) 21955
+1. [米兰冬奥会冰壶女子团体赛](https://s.weibo.com/weibo?q=%E7%B1%B3%E5%85%B0%E5%86%AC%E5%A5%A5%E4%BC%9A%E5%86%B0%E5%A3%B6%E5%A5%B3%E5%AD%90%E5%9B%A2%E4%BD%93%E8%B5%9B&t=31&band_rank=31&Refer=top) 22469
+1. [任子威说要当心韩国选手](https://s.weibo.com/weibo?q=%23%E4%BB%BB%E5%AD%90%E5%A8%81%E8%AF%B4%E8%A6%81%E5%BD%93%E5%BF%83%E9%9F%A9%E5%9B%BD%E9%80%89%E6%89%8B%23&t=31&band_rank=41&Refer=top) 22313
+1. [崔佳恩摔得好重](https://s.weibo.com/weibo?q=%E5%B4%94%E4%BD%B3%E6%81%A9%E6%91%94%E5%BE%97%E5%A5%BD%E9%87%8D&t=31&band_rank=43&Refer=top) 21383
 1. [左航有新朋友来家一起过年了](https://s.weibo.com/weibo?q=%23%E5%B7%A6%E8%88%AA%E6%9C%89%E6%96%B0%E6%9C%8B%E5%8F%8B%E6%9D%A5%E5%AE%B6%E4%B8%80%E8%B5%B7%E8%BF%87%E5%B9%B4%E4%BA%86%23&t=31&band_rank=34&Refer=top) 21009
 1. [中国雪橇队米兰冬奥书写新历史](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%9B%AA%E6%A9%87%E9%98%9F%E7%B1%B3%E5%85%B0%E5%86%AC%E5%A5%A5%E4%B9%A6%E5%86%99%E6%96%B0%E5%8E%86%E5%8F%B2%23&t=31&band_rank=36&Refer=top) 20154
 1. [肥猫郑则仕减重70斤感谢周润发](https://s.weibo.com/weibo?q=%23%E8%82%A5%E7%8C%AB%E9%83%91%E5%88%99%E4%BB%95%E5%87%8F%E9%87%8D70%E6%96%A4%E6%84%9F%E8%B0%A2%E5%91%A8%E6%B6%A6%E5%8F%91%23&t=31&band_rank=37&Refer=top) 20148
