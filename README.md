@@ -7,20 +7,22 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-02-15 03:27:09.901759 
+最后更新时间 2026-02-15 04:30:24.332655 
 1. [河南春晚 没有主持人和舞台](https://s.weibo.com/weibo?q=%E6%B2%B3%E5%8D%97%E6%98%A5%E6%99%9A%20%E6%B2%A1%E6%9C%89%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%92%8C%E8%88%9E%E5%8F%B0&t=31&band_rank=1&Refer=top) 837660
 1. [高亭宇男子500米](https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%BA%AD%E5%AE%87%E7%94%B7%E5%AD%90500%E7%B1%B3%23&t=31&band_rank=2&Refer=top) 622384
 1. [王者荣耀崩了](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E5%B4%A9%E4%BA%86&t=31&band_rank=1&Refer=top) 554625
 1. [一杯热水暖了几十年归途](https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%9D%AF%E7%83%AD%E6%B0%B4%E6%9A%96%E4%BA%86%E5%87%A0%E5%8D%81%E5%B9%B4%E5%BD%92%E9%80%94%23&t=31&band_rank=3&Refer=top) 480677
 1. [千问红包](https://s.weibo.com/weibo?q=%E5%8D%83%E9%97%AE%E7%BA%A2%E5%8C%85&t=31&band_rank=4&Refer=top) 348131
+1. [林孝埈1500米摔倒](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%AD%9D%E5%9F%881500%E7%B1%B3%E6%91%94%E5%80%92%23&t=31&band_rank=1&Refer=top) 330280
 1. [关晓彤 青鸟神女](https://s.weibo.com/weibo?q=%E5%85%B3%E6%99%93%E5%BD%A4%20%E9%9D%92%E9%B8%9F%E7%A5%9E%E5%A5%B3&t=31&band_rank=5&Refer=top) 315977
 1. [宁艺卓 曼谷](https://s.weibo.com/weibo?q=%E5%AE%81%E8%89%BA%E5%8D%93%20%E6%9B%BC%E8%B0%B7&t=31&band_rank=6&Refer=top) 252351
+1. [短道速滑](https://s.weibo.com/weibo?q=%E7%9F%AD%E9%81%93%E9%80%9F%E6%BB%91&t=31&band_rank=2&Refer=top) 252307
 1. [红包](https://s.weibo.com/weibo?q=%23%E7%BA%A2%E5%8C%85%23&t=31&band_rank=7&Refer=top) 244562
 1. [高亭宇滑出34秒47](https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%BA%AD%E5%AE%87%E6%BB%91%E5%87%BA34%E7%A7%9247%23&t=31&band_rank=4&Refer=top) 225745
 1. [高亭宇奥运纪录被打破](https://s.weibo.com/weibo?q=%E9%AB%98%E4%BA%AD%E5%AE%87%E5%A5%A5%E8%BF%90%E7%BA%AA%E5%BD%95%E8%A2%AB%E6%89%93%E7%A0%B4&t=31&band_rank=5&Refer=top) 220378
-1. [短道速滑](https://s.weibo.com/weibo?q=%E7%9F%AD%E9%81%93%E9%80%9F%E6%BB%91&t=31&band_rank=2&Refer=top) 211167
 1. [林孝埈短道速滑1500米加油](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%AD%9D%E5%9F%88%E7%9F%AD%E9%81%93%E9%80%9F%E6%BB%911500%E7%B1%B3%E5%8A%A0%E6%B2%B9%23&t=31&band_rank=13&Refer=top) 177609
-1. [谷爱凌第一跳86.00分](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E7%AC%AC%E4%B8%80%E8%B7%B386.00%E5%88%86%23&t=31&band_rank=4&Refer=top) 157986
+1. [谷爱凌第2跳摔倒](https://s.weibo.com/weibo?q=%E8%B0%B7%E7%88%B1%E5%87%8C%E7%AC%AC2%E8%B7%B3%E6%91%94%E5%80%92&t=31&band_rank=4&Refer=top) 176914
+1. [谷爱凌第一跳86.00分](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E7%AC%AC%E4%B8%80%E8%B7%B386.00%E5%88%86%23&t=31&band_rank=4&Refer=top) 164384
 1. [红包分组](https://s.weibo.com/weibo?q=%E7%BA%A2%E5%8C%85%E5%88%86%E7%BB%84&t=31&band_rank=8&Refer=top) 154390
 1. [王毅就中日关系重申严正立场](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%AF%85%E5%B0%B1%E4%B8%AD%E6%97%A5%E5%85%B3%E7%B3%BB%E9%87%8D%E7%94%B3%E4%B8%A5%E6%AD%A3%E7%AB%8B%E5%9C%BA%23&t=31&band_rank=9&Refer=top) 139935
 1. [谷爱凌大跳台第一位登场](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E5%A4%A7%E8%B7%B3%E5%8F%B0%E7%AC%AC%E4%B8%80%E4%BD%8D%E7%99%BB%E5%9C%BA%23&t=31&band_rank=4&Refer=top) 129866
@@ -56,6 +58,7 @@
 1. [沈阳有雷电暴雨式洗浴了](https://s.weibo.com/weibo?q=%23%E6%B2%88%E9%98%B3%E6%9C%89%E9%9B%B7%E7%94%B5%E6%9A%B4%E9%9B%A8%E5%BC%8F%E6%B4%97%E6%B5%B4%E4%BA%86%23&t=31&band_rank=39&Refer=top) 72784
 1. [石凯钓鱼](https://s.weibo.com/weibo?q=%E7%9F%B3%E5%87%AF%E9%92%93%E9%B1%BC&t=31&band_rank=40&Refer=top) 71978
 1. [她真的很懂中国学生的内驱力](https://s.weibo.com/weibo?q=%E5%A5%B9%E7%9C%9F%E7%9A%84%E5%BE%88%E6%87%82%E4%B8%AD%E5%9B%BD%E5%AD%A6%E7%94%9F%E7%9A%84%E5%86%85%E9%A9%B1%E5%8A%9B&t=31&band_rank=41&Refer=top) 71428
+1. [自由式滑雪女子大跳台预赛](https://s.weibo.com/weibo?q=%23%E8%87%AA%E7%94%B1%E5%BC%8F%E6%BB%91%E9%9B%AA%E5%A5%B3%E5%AD%90%E5%A4%A7%E8%B7%B3%E5%8F%B0%E9%A2%84%E8%B5%9B%23&t=31&band_rank=8&Refer=top) 70894
 1. [黄金还能买吗](https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91%E8%BF%98%E8%83%BD%E4%B9%B0%E5%90%97&t=31&band_rank=42&Refer=top) 70049
 1. [刘一手承认欠款2000万](https://s.weibo.com/weibo?q=%23%E5%88%98%E4%B8%80%E6%89%8B%E6%89%BF%E8%AE%A4%E6%AC%A0%E6%AC%BE2000%E4%B8%87%23&t=31&band_rank=43&Refer=top) 69245
 1. [林孝埈术后康复影像首次曝光](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%AD%9D%E5%9F%88%E6%9C%AF%E5%90%8E%E5%BA%B7%E5%A4%8D%E5%BD%B1%E5%83%8F%E9%A6%96%E6%AC%A1%E6%9B%9D%E5%85%89%23&t=31&band_rank=44&Refer=top) 69238
@@ -65,16 +68,21 @@
 1. [中国2银2铜暂列冬奥奖牌榜第18](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD2%E9%93%B62%E9%93%9C%E6%9A%82%E5%88%97%E5%86%AC%E5%A5%A5%E5%A5%96%E7%89%8C%E6%A6%9C%E7%AC%AC18&t=31&band_rank=48&Refer=top) 69097
 1. [宋茜陈好你们根本没喝中药](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E8%8C%9C%E9%99%88%E5%A5%BD%E4%BD%A0%E4%BB%AC%E6%A0%B9%E6%9C%AC%E6%B2%A1%E5%96%9D%E4%B8%AD%E8%8D%AF%23&t=31&band_rank=49&Refer=top) 69054
 1. [刘宇 财神来财](https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%87%20%E8%B4%A2%E7%A5%9E%E6%9D%A5%E8%B4%A2&t=31&band_rank=50&Refer=top) 69012
-1. [自由式滑雪女子大跳台预赛](https://s.weibo.com/weibo?q=%23%E8%87%AA%E7%94%B1%E5%BC%8F%E6%BB%91%E9%9B%AA%E5%A5%B3%E5%AD%90%E5%A4%A7%E8%B7%B3%E5%8F%B0%E9%A2%84%E8%B5%9B%23&t=31&band_rank=8&Refer=top) 66962
 1. [霍启刚三兄弟飞米兰为父庆生](https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%90%AF%E5%88%9A%E4%B8%89%E5%85%84%E5%BC%9F%E9%A3%9E%E7%B1%B3%E5%85%B0%E4%B8%BA%E7%88%B6%E5%BA%86%E7%94%9F%23&t=31&band_rank=12&Refer=top) 62860
+1. [谷爱凌手敷冰袋](https://s.weibo.com/weibo?q=%E8%B0%B7%E7%88%B1%E5%87%8C%E6%89%8B%E6%95%B7%E5%86%B0%E8%A2%8B&t=31&band_rank=9&Refer=top) 57057
+1. [刘少昂进1500米半决赛](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%B0%91%E6%98%82%E8%BF%9B1500%E7%B1%B3%E5%8D%8A%E5%86%B3%E8%B5%9B%23&t=31&band_rank=10&Refer=top) 52715
 1. [朱志鑫来真的](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E5%BF%97%E9%91%AB%E6%9D%A5%E7%9C%9F%E7%9A%84%23&t=31&band_rank=31&Refer=top) 50571
 1. [檀健次也太欲太会钓了](https://s.weibo.com/weibo?q=%E6%AA%80%E5%81%A5%E6%AC%A1%E4%B9%9F%E5%A4%AA%E6%AC%B2%E5%A4%AA%E4%BC%9A%E9%92%93%E4%BA%86&t=31&band_rank=36&Refer=top) 45866
 1. [斯托尔兹再破500米奥运纪录](https://s.weibo.com/weibo?q=%23%E6%96%AF%E6%89%98%E5%B0%94%E5%85%B9%E5%86%8D%E7%A0%B4500%E7%B1%B3%E5%A5%A5%E8%BF%90%E7%BA%AA%E5%BD%95%23&t=31&band_rank=40&Refer=top) 40953
 1. [高亭宇男子500米第7](https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%BA%AD%E5%AE%87%E7%94%B7%E5%AD%90500%E7%B1%B3%E7%AC%AC7%23&t=31&band_rank=44&Refer=top) 40500
 1. [薛智文滑出34秒66](https://s.weibo.com/weibo?q=%23%E8%96%9B%E6%99%BA%E6%96%87%E6%BB%91%E5%87%BA34%E7%A7%9266%23&t=31&band_rank=50&Refer=top) 40450
+1. [任子威说黄大宪有点手法](https://s.weibo.com/weibo?q=%23%E4%BB%BB%E5%AD%90%E5%A8%81%E8%AF%B4%E9%BB%84%E5%A4%A7%E5%AE%AA%E6%9C%89%E7%82%B9%E6%89%8B%E6%B3%95%23&t=31&band_rank=19&Refer=top) 33344
 1. [田曦薇现身央视春晚备播录制](https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E7%8E%B0%E8%BA%AB%E5%A4%AE%E8%A7%86%E6%98%A5%E6%99%9A%E5%A4%87%E6%92%AD%E5%BD%95%E5%88%B6%23&t=31&band_rank=38&Refer=top) 27900
 1. [钢架雪车](https://s.weibo.com/weibo?q=%E9%92%A2%E6%9E%B6%E9%9B%AA%E8%BD%A6&t=31&band_rank=49&Refer=top) 27873
 1. [江衡李沛恩营业](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A1%A1%E6%9D%8E%E6%B2%9B%E6%81%A9%E8%90%A5%E4%B8%9A%23&t=31&band_rank=50&Refer=top) 27873
+1. [电影惊蛰无声](https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E6%83%8A%E8%9B%B0%E6%97%A0%E5%A3%B0%23&t=31&band_rank=34&Refer=top) 20237
+1. [千问超级免单卡](https://s.weibo.com/weibo?q=%23%E5%8D%83%E9%97%AE%E8%B6%85%E7%BA%A7%E5%85%8D%E5%8D%95%E5%8D%A1%23&t=31&band_rank=43&Refer=top) 16726
+1. [陈丽君花木兰又美又飒](https://s.weibo.com/weibo?q=%E9%99%88%E4%B8%BD%E5%90%9B%E8%8A%B1%E6%9C%A8%E5%85%B0%E5%8F%88%E7%BE%8E%E5%8F%88%E9%A3%92&t=31&band_rank=49&Refer=top) 16580
 <!-- END -->
 
 历史归档 [./archives](./archives)
