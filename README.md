@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-02-17 05:32:36.434049 
+最后更新时间 2026-02-17 06:32:46.106350 
 1. [过年好](https://s.weibo.com/weibo?q=%E8%BF%87%E5%B9%B4%E5%A5%BD&t=31&band_rank=1&Refer=top) 7345599
 1. [谁给迪丽热巴化的妆](https://s.weibo.com/weibo?q=%E8%B0%81%E7%BB%99%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%8C%96%E7%9A%84%E5%A6%86&t=31&band_rank=16&Refer=top) 5543411
 1. [马丽单飞了 沈腾怎么办](https://s.weibo.com/weibo?q=%E9%A9%AC%E4%B8%BD%E5%8D%95%E9%A3%9E%E4%BA%86%20%E6%B2%88%E8%85%BE%E6%80%8E%E4%B9%88%E5%8A%9E&t=31&band_rank=2&Refer=top) 2441286
@@ -70,19 +70,24 @@
 1. [王亚飞给迪丽热巴化的妆](https://s.weibo.com/weibo?q=%E7%8E%8B%E4%BA%9A%E9%A3%9E%E7%BB%99%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%8C%96%E7%9A%84%E5%A6%86&t=31&band_rank=17&Refer=top) 223791
 1. [王橹杰晒的年夜饭](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A9%B9%E6%9D%B0%E6%99%92%E7%9A%84%E5%B9%B4%E5%A4%9C%E9%A5%AD%23&t=31&band_rank=46&Refer=top) 169356
 1. [王楚然 天选王昭君](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E7%84%B6%20%E5%A4%A9%E9%80%89%E7%8E%8B%E6%98%AD%E5%90%9B&t=31&band_rank=22&Refer=top) 148883
+1. [谷爱凌创造自由式滑雪奖牌纪录](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E5%88%9B%E9%80%A0%E8%87%AA%E7%94%B1%E5%BC%8F%E6%BB%91%E9%9B%AA%E5%A5%96%E7%89%8C%E7%BA%AA%E5%BD%95%23&t=31&band_rank=18&Refer=top) 132385
 1. [短道速滑](https://s.weibo.com/weibo?q=%E7%9F%AD%E9%81%93%E9%80%9F%E6%BB%91&t=31&band_rank=49&Refer=top) 125943
 1. [冬奥会](https://s.weibo.com/weibo?q=%E5%86%AC%E5%A5%A5%E4%BC%9A&t=31&band_rank=24&Refer=top) 121235
 1. [谷爱凌第一跳90.00分](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E7%AC%AC%E4%B8%80%E8%B7%B390.00%E5%88%86%23&t=31&band_rank=5&Refer=top) 115985
 1. [花瓣落在田曦薇头顶](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E7%93%A3%E8%90%BD%E5%9C%A8%E7%94%B0%E6%9B%A6%E8%96%87%E5%A4%B4%E9%A1%B6%23&t=31&band_rank=28&Refer=top) 115796
+1. [隋文静韩聪自由滑135.98分](https://s.weibo.com/weibo?q=%23%E9%9A%8B%E6%96%87%E9%9D%99%E9%9F%A9%E8%81%AA%E8%87%AA%E7%94%B1%E6%BB%91135.98%E5%88%86%23&t=31&band_rank=15&Refer=top) 103118
 1. [女子自由式滑雪大跳台决赛](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%87%AA%E7%94%B1%E5%BC%8F%E6%BB%91%E9%9B%AA%E5%A4%A7%E8%B7%B3%E5%8F%B0%E5%86%B3%E8%B5%9B%23&t=31&band_rank=35&Refer=top) 91361
 1. [papi酱春晚视频](https://s.weibo.com/weibo?q=papi%E9%85%B1%E6%98%A5%E6%99%9A%E8%A7%86%E9%A2%91&t=31&band_rank=42&Refer=top) 69797
 1. [王玉雯扛住了春晚镜头](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%8E%89%E9%9B%AF%E6%89%9B%E4%BD%8F%E4%BA%86%E6%98%A5%E6%99%9A%E9%95%9C%E5%A4%B4%23&t=31&band_rank=27&Refer=top) 67794
 1. [左肩有你](https://s.weibo.com/weibo?q=%E5%B7%A6%E8%82%A9%E6%9C%89%E4%BD%A0&t=31&band_rank=32&Refer=top) 62956
+1. [短剧上春晚了](https://s.weibo.com/weibo?q=%E7%9F%AD%E5%89%A7%E4%B8%8A%E6%98%A5%E6%99%9A%E4%BA%86&t=31&band_rank=19&Refer=top) 60954
 1. [隋文静韩聪双人自由滑](https://s.weibo.com/weibo?q=%23%E9%9A%8B%E6%96%87%E9%9D%99%E9%9F%A9%E8%81%AA%E5%8F%8C%E4%BA%BA%E8%87%AA%E7%94%B1%E6%BB%91%23&t=31&band_rank=13&Refer=top) 59950
-1. [隋文静韩聪自由滑135.98分](https://s.weibo.com/weibo?q=%23%E9%9A%8B%E6%96%87%E9%9D%99%E9%9F%A9%E8%81%AA%E8%87%AA%E7%94%B1%E6%BB%91135.98%E5%88%86%23&t=31&band_rank=15&Refer=top) 55861
-1. [短剧上春晚了](https://s.weibo.com/weibo?q=%E7%9F%AD%E5%89%A7%E4%B8%8A%E6%98%A5%E6%99%9A%E4%BA%86&t=31&band_rank=19&Refer=top) 55440
-1. [谷爱凌创造自由式滑雪奖牌纪录](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E5%88%9B%E9%80%A0%E8%87%AA%E7%94%B1%E5%BC%8F%E6%BB%91%E9%9B%AA%E5%A5%96%E7%89%8C%E7%BA%AA%E5%BD%95%23&t=31&band_rank=18&Refer=top) 55143
+1. [王一博这腰力谁看了能睡得着](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%BF%99%E8%85%B0%E5%8A%9B%E8%B0%81%E7%9C%8B%E4%BA%86%E8%83%BD%E7%9D%A1%E5%BE%97%E7%9D%80%23&t=31&band_rank=23&Refer=top) 57388
+1. [一觉醒来谷爱凌再夺一银](https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%A7%89%E9%86%92%E6%9D%A5%E8%B0%B7%E7%88%B1%E5%87%8C%E5%86%8D%E5%A4%BA%E4%B8%80%E9%93%B6%23&t=31&band_rank=29&Refer=top) 53660
 1. [难忘今宵](https://s.weibo.com/weibo?q=%E9%9A%BE%E5%BF%98%E4%BB%8A%E5%AE%B5&t=31&band_rank=48&Refer=top) 50599
+1. [谭维维难忘今宵C位](https://s.weibo.com/weibo?q=%E8%B0%AD%E7%BB%B4%E7%BB%B4%E9%9A%BE%E5%BF%98%E4%BB%8A%E5%AE%B5C%E4%BD%8D&t=31&band_rank=32&Refer=top) 50241
+1. [沈腾 说错词](https://s.weibo.com/weibo?q=%E6%B2%88%E8%85%BE%20%E8%AF%B4%E9%94%99%E8%AF%8D&t=31&band_rank=47&Refer=top) 35096
+1. [杨紫又是一年剧组年夜饭](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%8F%88%E6%98%AF%E4%B8%80%E5%B9%B4%E5%89%A7%E7%BB%84%E5%B9%B4%E5%A4%9C%E9%A5%AD%23&t=31&band_rank=48&Refer=top) 35094
 1. [左奇函年夜饭](https://s.weibo.com/weibo?q=%E5%B7%A6%E5%A5%87%E5%87%BD%E5%B9%B4%E5%A4%9C%E9%A5%AD&t=31&band_rank=48&Refer=top) 33605
 1. [谷爱凌第3跳89.00分](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E7%AC%AC3%E8%B7%B389.00%E5%88%86%23&t=31&band_rank=35&Refer=top) 28193
 1. [镖人](https://s.weibo.com/weibo?q=%E9%95%96%E4%BA%BA&t=31&band_rank=44&Refer=top) 27286
