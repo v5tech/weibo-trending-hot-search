@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-02-18 03:01:20.828107 
+最后更新时间 2026-02-18 04:41:31.594116 
 1. [B站春晚 夯](https://s.weibo.com/weibo?q=B%E7%AB%99%E6%98%A5%E6%99%9A%20%E5%A4%AF&t=31&band_rank=1&Refer=top) 652598
 1. [中国速滑男团铜牌](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%80%9F%E6%BB%91%E7%94%B7%E5%9B%A2%E9%93%9C%E7%89%8C%23&t=31&band_rank=2&Refer=top) 487458
 1. [2026新春走基层](https://s.weibo.com/weibo?q=%232026%E6%96%B0%E6%98%A5%E8%B5%B0%E5%9F%BA%E5%B1%82%23&t=31&band_rank=3&Refer=top) 372852
@@ -61,11 +61,17 @@
 1. [张瑞阳女单短节目59.38分](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%91%9E%E9%98%B3%E5%A5%B3%E5%8D%95%E7%9F%AD%E8%8A%82%E7%9B%AE59.38%E5%88%86%23&t=31&band_rank=7&Refer=top) 47835
 1. [惊蛰](https://s.weibo.com/weibo?q=%E6%83%8A%E8%9B%B0&t=31&band_rank=27&Refer=top) 30670
 1. [王菲同款耳环官网售罄](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%8F%B2%E5%90%8C%E6%AC%BE%E8%80%B3%E7%8E%AF%E5%AE%98%E7%BD%91%E5%94%AE%E7%BD%84%23&t=31&band_rank=29&Refer=top) 29485
+1. [张瑞阳女单晋级自由滑](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%91%9E%E9%98%B3%E5%A5%B3%E5%8D%95%E6%99%8B%E7%BA%A7%E8%87%AA%E7%94%B1%E6%BB%91%23&t=31&band_rank=6&Refer=top) 29077
 1. [王安宇 不知道飞驰人生太曼妙](https://s.weibo.com/weibo?q=%E7%8E%8B%E5%AE%89%E5%AE%87%20%E4%B8%8D%E7%9F%A5%E9%81%93%E9%A3%9E%E9%A9%B0%E4%BA%BA%E7%94%9F%E5%A4%AA%E6%9B%BC%E5%A6%99&t=31&band_rank=34&Refer=top) 24916
 1. [中国队速度滑冰男子团体摘铜](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E9%80%9F%E5%BA%A6%E6%BB%91%E5%86%B0%E7%94%B7%E5%AD%90%E5%9B%A2%E4%BD%93%E6%91%98%E9%93%9C%23&t=31&band_rank=40&Refer=top) 21720
 1. [四代娃娃](https://s.weibo.com/weibo?q=%E5%9B%9B%E4%BB%A3%E5%A8%83%E5%A8%83&t=31&band_rank=46&Refer=top) 19969
 1. [母女过年炸丸子变大型翻车现场](https://s.weibo.com/weibo?q=%23%E6%AF%8D%E5%A5%B3%E8%BF%87%E5%B9%B4%E7%82%B8%E4%B8%B8%E5%AD%90%E5%8F%98%E5%A4%A7%E5%9E%8B%E7%BF%BB%E8%BD%A6%E7%8E%B0%E5%9C%BA%23&t=31&band_rank=48&Refer=top) 19968
 1. [B站春晚](https://s.weibo.com/weibo?q=B%E7%AB%99%E6%98%A5%E6%99%9A&t=31&band_rank=49&Refer=top) 19968
+1. [张瑞阳灵魂发问为啥没上60分](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%91%9E%E9%98%B3%E7%81%B5%E9%AD%82%E5%8F%91%E9%97%AE%E4%B8%BA%E5%95%A5%E6%B2%A1%E4%B8%8A60%E5%88%86%23&t=31&band_rank=31&Refer=top) 17605
+1. [唐宫奇案](https://s.weibo.com/weibo?q=%E5%94%90%E5%AE%AB%E5%A5%87%E6%A1%88&t=31&band_rank=38&Refer=top) 16019
+1. [刘宇宁很会唱](https://s.weibo.com/weibo?q=%E5%88%98%E5%AE%87%E5%AE%81%E5%BE%88%E4%BC%9A%E5%94%B1&t=31&band_rank=40&Refer=top) 15567
+1. [镖人打戏](https://s.weibo.com/weibo?q=%E9%95%96%E4%BA%BA%E6%89%93%E6%88%8F&t=31&band_rank=46&Refer=top) 14032
+1. [宁忠岩回应速滑历史性突破](https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%BF%A0%E5%B2%A9%E5%9B%9E%E5%BA%94%E9%80%9F%E6%BB%91%E5%8E%86%E5%8F%B2%E6%80%A7%E7%AA%81%E7%A0%B4%23&t=31&band_rank=49&Refer=top) 14027
 <!-- END -->
 
 历史归档 [./archives](./archives)
