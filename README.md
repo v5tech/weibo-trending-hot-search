@@ -7,16 +7,16 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-02-19 05:37:46.004548 
+最后更新时间 2026-02-19 06:36:38.823214 
 1. [朱易发合影祝贺苏翊鸣](https://s.weibo.com/weibo?q=%E6%9C%B1%E6%98%93%E5%8F%91%E5%90%88%E5%BD%B1%E7%A5%9D%E8%B4%BA%E8%8B%8F%E7%BF%8A%E9%B8%A3&t=31&band_rank=1&Refer=top) 607022
 1. [徐梦桃金牌](https://s.weibo.com/weibo?q=%E5%BE%90%E6%A2%A6%E6%A1%83%E9%87%91%E7%89%8C&t=31&band_rank=2&Refer=top) 470226
+1. [林孝埈 遗憾](https://s.weibo.com/weibo?q=%E6%9E%97%E5%AD%9D%E5%9F%88%20%E9%81%97%E6%86%BE&t=31&band_rank=2&Refer=top) 452416
 1. [00后新兵有啥心愿](https://s.weibo.com/weibo?q=%2300%E5%90%8E%E6%96%B0%E5%85%B5%E6%9C%89%E5%95%A5%E5%BF%83%E6%84%BF%23&t=31&band_rank=3&Refer=top) 344564
 1. [初三一定记得睡懒觉](https://s.weibo.com/weibo?q=%E5%88%9D%E4%B8%89%E4%B8%80%E5%AE%9A%E8%AE%B0%E5%BE%97%E7%9D%A1%E6%87%92%E8%A7%89&t=31&band_rank=4&Refer=top) 322978
+1. [刘少昂摔了](https://s.weibo.com/weibo?q=%E5%88%98%E5%B0%91%E6%98%82%E6%91%94%E4%BA%86&t=31&band_rank=1&Refer=top) 317973
 1. [林孝埈无缘500米半决赛](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%AD%9D%E5%9F%88%E6%97%A0%E7%BC%98500%E7%B1%B3%E5%8D%8A%E5%86%B3%E8%B5%9B%23&t=31&band_rank=1&Refer=top) 297006
-1. [刘少昂摔了](https://s.weibo.com/weibo?q=%E5%88%98%E5%B0%91%E6%98%82%E6%91%94%E4%BA%86&t=31&band_rank=1&Refer=top) 296130
 1. [苏翊鸣甜蜜回复朱易](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%BF%8A%E9%B8%A3%E7%94%9C%E8%9C%9C%E5%9B%9E%E5%A4%8D%E6%9C%B1%E6%98%93%23&t=31&band_rank=5&Refer=top) 218714
 1. [苏翊鸣金牌](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%BF%8A%E9%B8%A3%E9%87%91%E7%89%8C%23&t=31&band_rank=6&Refer=top) 211401
-1. [林孝埈 遗憾](https://s.weibo.com/weibo?q=%E6%9E%97%E5%AD%9D%E5%9F%88%20%E9%81%97%E6%86%BE&t=31&band_rank=2&Refer=top) 200403
 1. [冬奥短道速滑男子500米](https://s.weibo.com/weibo?q=%23%E5%86%AC%E5%A5%A5%E7%9F%AD%E9%81%93%E9%80%9F%E6%BB%91%E7%94%B7%E5%AD%90500%E7%B1%B3%23&t=31&band_rank=4&Refer=top) 191911
 1. [苏翊鸣祝贺徐梦桃](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%BF%8A%E9%B8%A3%E7%A5%9D%E8%B4%BA%E5%BE%90%E6%A2%A6%E6%A1%83%23&t=31&band_rank=7&Refer=top) 167778
 1. [浪姐首位冬奥会卫冕冠军](https://s.weibo.com/weibo?q=%23%E6%B5%AA%E5%A7%90%E9%A6%96%E4%BD%8D%E5%86%AC%E5%A5%A5%E4%BC%9A%E5%8D%AB%E5%86%95%E5%86%A0%E5%86%9B%23&t=31&band_rank=1&Refer=top) 162588
@@ -70,21 +70,23 @@
 1. [云旗郝熠然滑雪](https://s.weibo.com/weibo?q=%E4%BA%91%E6%97%97%E9%83%9D%E7%86%A0%E7%84%B6%E6%BB%91%E9%9B%AA&t=31&band_rank=50&Refer=top) 43038
 1. [刘少昂500米B组第一](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%B0%91%E6%98%82500%E7%B1%B3B%E7%BB%84%E7%AC%AC%E4%B8%80%23&t=31&band_rank=11&Refer=top) 41807
 1. [冰壶](https://s.weibo.com/weibo?q=%E5%86%B0%E5%A3%B6&t=31&band_rank=25&Refer=top) 40277
-1. [杜博伊斯500米金牌](https://s.weibo.com/weibo?q=%23%E6%9D%9C%E5%8D%9A%E4%BC%8A%E6%96%AF500%E7%B1%B3%E9%87%91%E7%89%8C%23&t=31&band_rank=16&Refer=top) 32082
+1. [杜博伊斯500米金牌](https://s.weibo.com/weibo?q=%23%E6%9D%9C%E5%8D%9A%E4%BC%8A%E6%96%AF500%E7%B1%B3%E9%87%91%E7%89%8C%23&t=31&band_rank=16&Refer=top) 34524
 1. [冬奥短道速滑女子3000米决赛](https://s.weibo.com/weibo?q=%23%E5%86%AC%E5%A5%A5%E7%9F%AD%E9%81%93%E9%80%9F%E6%BB%91%E5%A5%B3%E5%AD%903000%E7%B1%B3%E5%86%B3%E8%B5%9B%23&t=31&band_rank=38&Refer=top) 28059
+1. [外网如何评价春晚机器人](https://s.weibo.com/weibo?q=%23%E5%A4%96%E7%BD%91%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E6%98%A5%E6%99%9A%E6%9C%BA%E5%99%A8%E4%BA%BA%23&t=31&band_rank=25&Refer=top) 27631
 1. [中国队女子3000米接力B组第一](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%A5%B3%E5%AD%903000%E7%B1%B3%E6%8E%A5%E5%8A%9BB%E7%BB%84%E7%AC%AC%E4%B8%80&t=31&band_rank=26&Refer=top) 25729
 1. [刘耀文主演票房破30亿](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%80%80%E6%96%87%E4%B8%BB%E6%BC%94%E7%A5%A8%E6%88%BF%E7%A0%B430%E4%BA%BF%23&t=31&band_rank=28&Refer=top) 25511
 1. [武大靖赛前给中国队支招](https://s.weibo.com/weibo?q=%E6%AD%A6%E5%A4%A7%E9%9D%96%E8%B5%9B%E5%89%8D%E7%BB%99%E4%B8%AD%E5%9B%BD%E9%98%9F%E6%94%AF%E6%8B%9B&t=31&band_rank=31&Refer=top) 24108
+1. [任子威说刘少昂倾斜角度太大了](https://s.weibo.com/weibo?q=%E4%BB%BB%E5%AD%90%E5%A8%81%E8%AF%B4%E5%88%98%E5%B0%91%E6%98%82%E5%80%BE%E6%96%9C%E8%A7%92%E5%BA%A6%E5%A4%AA%E5%A4%A7%E4%BA%86&t=31&band_rank=32&Refer=top) 23796
+1. [任子威说500米名单太恐怖](https://s.weibo.com/weibo?q=%23%E4%BB%BB%E5%AD%90%E5%A8%81%E8%AF%B4500%E7%B1%B3%E5%90%8D%E5%8D%95%E5%A4%AA%E6%81%90%E6%80%96%23&t=31&band_rank=31&Refer=top) 23710
 1. [徐梦桃真牛](https://s.weibo.com/weibo?q=%23%E5%BE%90%E6%A2%A6%E6%A1%83%E7%9C%9F%E7%89%9B%23&t=31&band_rank=33&Refer=top) 22940
-1. [任子威说500米名单太恐怖](https://s.weibo.com/weibo?q=%23%E4%BB%BB%E5%AD%90%E5%A8%81%E8%AF%B4500%E7%B1%B3%E5%90%8D%E5%8D%95%E5%A4%AA%E6%81%90%E6%80%96%23&t=31&band_rank=31&Refer=top) 22809
-1. [任子威说刘少昂倾斜角度太大了](https://s.weibo.com/weibo?q=%E4%BB%BB%E5%AD%90%E5%A8%81%E8%AF%B4%E5%88%98%E5%B0%91%E6%98%82%E5%80%BE%E6%96%9C%E8%A7%92%E5%BA%A6%E5%A4%AA%E5%A4%A7%E4%BA%86&t=31&band_rank=32&Refer=top) 22774
 1. [500米世界纪录奥运纪录都是武大靖的](https://s.weibo.com/weibo?q=%23500%E7%B1%B3%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95%E5%A5%A5%E8%BF%90%E7%BA%AA%E5%BD%95%E9%83%BD%E6%98%AF%E6%AD%A6%E5%A4%A7%E9%9D%96%E7%9A%84%23&t=31&band_rank=33&Refer=top) 22672
+1. [杨幂刘诗诗时隔16年同框宣发](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%88%98%E8%AF%97%E8%AF%97%E6%97%B6%E9%9A%9416%E5%B9%B4%E5%90%8C%E6%A1%86%E5%AE%A3%E5%8F%91%23&t=31&band_rank=39&Refer=top) 22590
+1. [自由式滑雪女子空中技巧决赛](https://s.weibo.com/weibo?q=%E8%87%AA%E7%94%B1%E5%BC%8F%E6%BB%91%E9%9B%AA%E5%A5%B3%E5%AD%90%E7%A9%BA%E4%B8%AD%E6%8A%80%E5%B7%A7%E5%86%B3%E8%B5%9B&t=31&band_rank=42&Refer=top) 22583
+1. [唐宫奇案](https://s.weibo.com/weibo?q=%E5%94%90%E5%AE%AB%E5%A5%87%E6%A1%88&t=31&band_rank=46&Refer=top) 22574
+1. [中国队赢了就是牛](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E8%B5%A2%E4%BA%86%E5%B0%B1%E6%98%AF%E7%89%9B%23&t=31&band_rank=49&Refer=top) 22570
 1. [苏翊鸣22岁生日快乐](https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%BF%8A%E9%B8%A322%E5%B2%81%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90%23&t=31&band_rank=35&Refer=top) 21751
-1. [杨幂刘诗诗时隔16年同框宣发](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%88%98%E8%AF%97%E8%AF%97%E6%97%B6%E9%9A%9416%E5%B9%B4%E5%90%8C%E6%A1%86%E5%AE%A3%E5%8F%91%23&t=31&band_rank=39&Refer=top) 21454
 1. [加拿大短道米兰冬奥首金](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%8B%BF%E5%A4%A7%E7%9F%AD%E9%81%93%E7%B1%B3%E5%85%B0%E5%86%AC%E5%A5%A5%E9%A6%96%E9%87%91%23&t=31&band_rank=37&Refer=top) 19023
 1. [中国队女子3000米接力完赛](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%A5%B3%E5%AD%903000%E7%B1%B3%E6%8E%A5%E5%8A%9B%E5%AE%8C%E8%B5%9B%23&t=31&band_rank=40&Refer=top) 18717
-1. [自由式滑雪女子空中技巧决赛](https://s.weibo.com/weibo?q=%E8%87%AA%E7%94%B1%E5%BC%8F%E6%BB%91%E9%9B%AA%E5%A5%B3%E5%AD%90%E7%A9%BA%E4%B8%AD%E6%8A%80%E5%B7%A7%E5%86%B3%E8%B5%9B&t=31&band_rank=42&Refer=top) 18114
-1. [唐宫奇案](https://s.weibo.com/weibo?q=%E5%94%90%E5%AE%AB%E5%A5%87%E6%A1%88&t=31&band_rank=46&Refer=top) 16876
 <!-- END -->
 
 历史归档 [./archives](./archives)
