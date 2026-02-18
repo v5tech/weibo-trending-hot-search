@@ -239,9 +239,17 @@
     "url": "https://s.weibo.com/weibo?q=%E4%BA%91%E6%97%97%E9%83%9D%E7%86%A0%E7%84%B6%E6%BB%91%E9%9B%AA&t=31&band_rank=50&Refer=top",
     "hot": 43038
   },
+  "刘少昂500米B组第一": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E5%B0%91%E6%98%82500%E7%B1%B3B%E7%BB%84%E7%AC%AC%E4%B8%80%23&t=31&band_rank=11&Refer=top",
+    "hot": 41807
+  },
   "冰壶": {
     "url": "https://s.weibo.com/weibo?q=%E5%86%B0%E5%A3%B6&t=31&band_rank=25&Refer=top",
     "hot": 40277
+  },
+  "杜博伊斯500米金牌": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%9C%E5%8D%9A%E4%BC%8A%E6%96%AF500%E7%B1%B3%E9%87%91%E7%89%8C%23&t=31&band_rank=16&Refer=top",
+    "hot": 32082
   },
   "冬奥短道速滑女子3000米决赛": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%86%AC%E5%A5%A5%E7%9F%AD%E9%81%93%E9%80%9F%E6%BB%91%E5%A5%B3%E5%AD%903000%E7%B1%B3%E5%86%B3%E8%B5%9B%23&t=31&band_rank=38&Refer=top",
@@ -282,6 +290,10 @@
   "杨幂刘诗诗时隔16年同框宣发": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%88%98%E8%AF%97%E8%AF%97%E6%97%B6%E9%9A%9416%E5%B9%B4%E5%90%8C%E6%A1%86%E5%AE%A3%E5%8F%91%23&t=31&band_rank=39&Refer=top",
     "hot": 21454
+  },
+  "加拿大短道米兰冬奥首金": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%8B%BF%E5%A4%A7%E7%9F%AD%E9%81%93%E7%B1%B3%E5%85%B0%E5%86%AC%E5%A5%A5%E9%A6%96%E9%87%91%23&t=31&band_rank=37&Refer=top",
+    "hot": 19023
   },
   "中国队女子3000米接力完赛": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%A5%B3%E5%AD%903000%E7%B1%B3%E6%8E%A5%E5%8A%9B%E5%AE%8C%E8%B5%9B%23&t=31&band_rank=40&Refer=top",
