@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-02-20 03:40:24.273078 
+最后更新时间 2026-02-20 04:36:57.729536 
 1. [宁忠岩金牌](https://s.weibo.com/weibo?q=%E5%AE%81%E5%BF%A0%E5%B2%A9%E9%87%91%E7%89%8C&t=31&band_rank=4&Refer=top) 2351772
 1. [宁忠岩打破奥运纪录](https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%BF%A0%E5%B2%A9%E6%89%93%E7%A0%B4%E5%A5%A5%E8%BF%90%E7%BA%AA%E5%BD%95%23&t=31&band_rank=1&Refer=top) 978620
 1. [谢景行](https://s.weibo.com/weibo?q=%E8%B0%A2%E6%99%AF%E8%A1%8C&t=31&band_rank=2&Refer=top) 690857
@@ -29,6 +29,7 @@
 1. [高层看烟花有多吓人](https://s.weibo.com/weibo?q=%E9%AB%98%E5%B1%82%E7%9C%8B%E7%83%9F%E8%8A%B1%E6%9C%89%E5%A4%9A%E5%90%93%E4%BA%BA&t=31&band_rank=16&Refer=top) 141513
 1. [谭凯回应没戏拍回青岛开饺子店](https://s.weibo.com/weibo?q=%23%E8%B0%AD%E5%87%AF%E5%9B%9E%E5%BA%94%E6%B2%A1%E6%88%8F%E6%8B%8D%E5%9B%9E%E9%9D%92%E5%B2%9B%E5%BC%80%E9%A5%BA%E5%AD%90%E5%BA%97%23&t=31&band_rank=17&Refer=top) 141303
 1. [接李琰事业运](https://s.weibo.com/weibo?q=%E6%8E%A5%E6%9D%8E%E7%90%B0%E4%BA%8B%E4%B8%9A%E8%BF%90&t=31&band_rank=19&Refer=top) 136529
+1. [谷爱凌第二滑86.50分](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E7%AC%AC%E4%BA%8C%E6%BB%9186.50%E5%88%86%23&t=31&band_rank=29&Refer=top) 134797
 1. [宁忠岩飞起来了](https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%BF%A0%E5%B2%A9%E9%A3%9E%E8%B5%B7%E6%9D%A5%E4%BA%86%23&t=31&band_rank=7&Refer=top) 132240
 1. [镖人票房逆跌](https://s.weibo.com/weibo?q=%23%E9%95%96%E4%BA%BA%E7%A5%A8%E6%88%BF%E9%80%86%E8%B7%8C%23&t=31&band_rank=18&Refer=top) 131593
 1. [中国队米兰冬奥第3金](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E7%B1%B3%E5%85%B0%E5%86%AC%E5%A5%A5%E7%AC%AC3%E9%87%91%23&t=31&band_rank=9&Refer=top) 116117
@@ -70,6 +71,8 @@
 1. [我们的少年时代2](https://s.weibo.com/weibo?q=%23%E6%88%91%E4%BB%AC%E7%9A%84%E5%B0%91%E5%B9%B4%E6%97%B6%E4%BB%A32%23&t=31&band_rank=50&Refer=top) 67095
 1. [张瑞阳自由滑118.65分](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%91%9E%E9%98%B3%E8%87%AA%E7%94%B1%E6%BB%91118.65%E5%88%86%23&t=31&band_rank=6&Refer=top) 64372
 1. [李琰连续5届冬奥会带队夺金](https://s.weibo.com/weibo?q=%E6%9D%8E%E7%90%B0%E8%BF%9E%E7%BB%AD5%E5%B1%8A%E5%86%AC%E5%A5%A5%E4%BC%9A%E5%B8%A6%E9%98%9F%E5%A4%BA%E9%87%91&t=31&band_rank=30&Refer=top) 58495
+1. [谷爱凌晋级U型场地决赛](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E6%99%8B%E7%BA%A7U%E5%9E%8B%E5%9C%BA%E5%9C%B0%E5%86%B3%E8%B5%9B%23&t=31&band_rank=7&Refer=top) 53212
+1. [加拿大U池选手重摔受伤](https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%8B%BF%E5%A4%A7U%E6%B1%A0%E9%80%89%E6%89%8B%E9%87%8D%E6%91%94%E5%8F%97%E4%BC%A4%23&t=31&band_rank=12&Refer=top) 45519
 1. [宁忠岩哭了](https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%BF%A0%E5%B2%A9%E5%93%AD%E4%BA%86%23&t=31&band_rank=37&Refer=top) 45490
 1. [大年初四](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%B9%B4%E5%88%9D%E5%9B%9B%23&t=31&band_rank=40&Refer=top) 41727
 1. [奇迹男孩宁忠岩](https://s.weibo.com/weibo?q=%23%E5%A5%87%E8%BF%B9%E7%94%B7%E5%AD%A9%E5%AE%81%E5%BF%A0%E5%B2%A9%23&t=31&band_rank=43&Refer=top) 38112
@@ -78,7 +81,6 @@
 1. [没有杨紫这条线就没有生命树](https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%9C%89%E6%9D%A8%E7%B4%AB%E8%BF%99%E6%9D%A1%E7%BA%BF%E5%B0%B1%E6%B2%A1%E6%9C%89%E7%94%9F%E5%91%BD%E6%A0%91%23&t=31&band_rank=25&Refer=top) 33938
 1. [中国冰壶队米兰冬奥收官](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%86%B0%E5%A3%B6%E9%98%9F%E7%B1%B3%E5%85%B0%E5%86%AC%E5%A5%A5%E6%94%B6%E5%AE%98%23&t=31&band_rank=20&Refer=top) 31656
 1. [宁忠岩获1金2铜](https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%BF%A0%E5%B2%A9%E8%8E%B71%E9%87%912%E9%93%9C%23&t=31&band_rank=33&Refer=top) 27663
-1. [谷爱凌第二滑86.50分](https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E7%AC%AC%E4%BA%8C%E6%BB%9186.50%E5%88%86%23&t=31&band_rank=29&Refer=top) 24718
 1. [美一高校兄弟会诡异入会仪式曝光](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%B8%80%E9%AB%98%E6%A0%A1%E5%85%84%E5%BC%9F%E4%BC%9A%E8%AF%A1%E5%BC%82%E5%85%A5%E4%BC%9A%E4%BB%AA%E5%BC%8F%E6%9B%9D%E5%85%89%23&t=31&band_rank=50&Refer=top) 23541
 1. [中国队第三金来了](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E7%AC%AC%E4%B8%89%E9%87%91%E6%9D%A5%E4%BA%86%23&t=31&band_rank=34&Refer=top) 23095
 1. [宁忠岩创造历史](https://s.weibo.com/weibo?q=%E5%AE%81%E5%BF%A0%E5%B2%A9%E5%88%9B%E9%80%A0%E5%8E%86%E5%8F%B2&t=31&band_rank=46&Refer=top) 22365
