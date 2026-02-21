@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-02-22 04:29:15.355097 
+最后更新时间 2026-02-22 05:27:20.084165 
 1. [前方无厕所无烤肠无茶叶蛋](https://s.weibo.com/weibo?q=%23%E5%89%8D%E6%96%B9%E6%97%A0%E5%8E%95%E6%89%80%E6%97%A0%E7%83%A4%E8%82%A0%E6%97%A0%E8%8C%B6%E5%8F%B6%E8%9B%8B%23&t=31&band_rank=1&Refer=top) 812553
 1. [镖人](https://s.weibo.com/weibo?q=%E9%95%96%E4%BA%BA&t=31&band_rank=2&Refer=top) 579416
 1. [热气腾腾的中国年](https://s.weibo.com/weibo?q=%23%E7%83%AD%E6%B0%94%E8%85%BE%E8%85%BE%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%B9%B4%23&t=31&band_rank=3&Refer=top) 475400
@@ -74,6 +74,8 @@
 1. [idle演唱会](https://s.weibo.com/weibo?q=idle%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=42&Refer=top) 24759
 1. [唐宫奇案](https://s.weibo.com/weibo?q=%E5%94%90%E5%AE%AB%E5%A5%87%E6%A1%88&t=31&band_rank=49&Refer=top) 24747
 1. [周深五天出了三首好运歌曲](https://s.weibo.com/weibo?q=%E5%91%A8%E6%B7%B1%E4%BA%94%E5%A4%A9%E5%87%BA%E4%BA%86%E4%B8%89%E9%A6%96%E5%A5%BD%E8%BF%90%E6%AD%8C%E6%9B%B2&t=31&band_rank=27&Refer=top) 18590
+1. [严浩翔初五发来财](https://s.weibo.com/weibo?q=%23%E4%B8%A5%E6%B5%A9%E7%BF%94%E5%88%9D%E4%BA%94%E5%8F%91%E6%9D%A5%E8%B4%A2%23&t=31&band_rank=41&Refer=top) 15834
+1. [张杰鸟巢舞台叫斗转星移](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9D%B0%E9%B8%9F%E5%B7%A2%E8%88%9E%E5%8F%B0%E5%8F%AB%E6%96%97%E8%BD%AC%E6%98%9F%E7%A7%BB&t=31&band_rank=45&Refer=top) 15794
 <!-- END -->
 
 历史归档 [./archives](./archives)
