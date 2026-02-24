@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-02-25 03:10:40.438699 
+最后更新时间 2026-02-25 04:39:39.382553 
 1. [王楚钦鹰眼挑战失败](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E9%B9%B0%E7%9C%BC%E6%8C%91%E6%88%98%E5%A4%B1%E8%B4%A5%23&t=31&band_rank=1&Refer=top) 1092552
 1. [地球超新鲜2](https://s.weibo.com/weibo?q=%E5%9C%B0%E7%90%83%E8%B6%85%E6%96%B0%E9%B2%9C2&t=31&band_rank=2&Refer=top) 775124
 1. [2026年新春走基层](https://s.weibo.com/weibo?q=%232026%E5%B9%B4%E6%96%B0%E6%98%A5%E8%B5%B0%E5%9F%BA%E5%B1%82%23&t=31&band_rank=3&Refer=top) 649357
@@ -76,6 +76,9 @@
 1. [KPL春季赛](https://s.weibo.com/weibo?q=KPL%E6%98%A5%E5%AD%A3%E8%B5%9B&t=31&band_rank=46&Refer=top) 17456
 1. [不让江山](https://s.weibo.com/weibo?q=%E4%B8%8D%E8%AE%A9%E6%B1%9F%E5%B1%B1&t=31&band_rank=47&Refer=top) 17456
 1. [WTT新加坡大满贯](https://s.weibo.com/weibo?q=%23WTT%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%A4%A7%E6%BB%A1%E8%B4%AF%23&t=31&band_rank=48&Refer=top) 17456
+1. [飞驰人生3](https://s.weibo.com/weibo?q=%E9%A3%9E%E9%A9%B0%E4%BA%BA%E7%94%9F3&t=31&band_rank=32&Refer=top) 14490
+1. [纯真年代 好嗑](https://s.weibo.com/weibo?q=%E7%BA%AF%E7%9C%9F%E5%B9%B4%E4%BB%A3%20%E5%A5%BD%E5%97%91&t=31&band_rank=35&Refer=top) 14370
+1. [登陆少年出镜Prada全球企划片](https://s.weibo.com/weibo?q=%23%E7%99%BB%E9%99%86%E5%B0%91%E5%B9%B4%E5%87%BA%E9%95%9CPrada%E5%85%A8%E7%90%83%E4%BC%81%E5%88%92%E7%89%87%23&t=31&band_rank=40&Refer=top) 13532
 <!-- END -->
 
 历史归档 [./archives](./archives)
