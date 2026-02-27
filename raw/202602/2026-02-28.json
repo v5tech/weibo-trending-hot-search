@@ -258,5 +258,17 @@
   "不让江山": {
     "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E8%AE%A9%E6%B1%9F%E5%B1%B1&t=31&band_rank=37&Refer=top",
     "hot": 20377
+  },
+  "使领馆将协助中国公民撤离伊朗": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BD%BF%E9%A2%86%E9%A6%86%E5%B0%86%E5%8D%8F%E5%8A%A9%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%92%A4%E7%A6%BB%E4%BC%8A%E6%9C%97%23&t=31&band_rank=35&Refer=top",
+    "hot": 17803
+  },
+  "有歌第二季": {
+    "url": "https://s.weibo.com/weibo?q=%E6%9C%89%E6%AD%8C%E7%AC%AC%E4%BA%8C%E5%AD%A3&t=31&band_rank=48&Refer=top",
+    "hot": 15817
+  },
+  "美伊对峙": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%BC%8A%E5%AF%B9%E5%B3%99%23&t=31&band_rank=50&Refer=top",
+    "hot": 15730
   }
 }
