@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-03-07 02:52:25.245574 
+最后更新时间 2026-03-07 03:36:27.066193 
 1. [草莓价格大大大跳水](https://s.weibo.com/weibo?q=%23%E8%8D%89%E8%8E%93%E4%BB%B7%E6%A0%BC%E5%A4%A7%E5%A4%A7%E5%A4%A7%E8%B7%B3%E6%B0%B4%23&t=31&band_rank=1&Refer=top) 710764
 1. [花呗等网络消费信贷可享受贴息](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%91%97%E7%AD%89%E7%BD%91%E7%BB%9C%E6%B6%88%E8%B4%B9%E4%BF%A1%E8%B4%B7%E5%8F%AF%E4%BA%AB%E5%8F%97%E8%B4%B4%E6%81%AF%23&t=31&band_rank=2&Refer=top) 515943
 1. [十五五规划新指标新看点](https://s.weibo.com/weibo?q=%23%E5%8D%81%E4%BA%94%E4%BA%94%E8%A7%84%E5%88%92%E6%96%B0%E6%8C%87%E6%A0%87%E6%96%B0%E7%9C%8B%E7%82%B9%23&t=31&band_rank=3&Refer=top) 424998
@@ -62,8 +62,11 @@
 1. [广西壮族自治区党委书记陈刚亮家丑](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E5%A3%AE%E6%97%8F%E8%87%AA%E6%B2%BB%E5%8C%BA%E5%85%9A%E5%A7%94%E4%B9%A6%E8%AE%B0%E9%99%88%E5%88%9A%E4%BA%AE%E5%AE%B6%E4%B8%91%23&t=31&band_rank=33&Refer=top) 62715
 1. [美以袭击已致1332名伊朗人死亡](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB%E5%B7%B2%E8%87%B41332%E5%90%8D%E4%BC%8A%E6%9C%97%E4%BA%BA%E6%AD%BB%E4%BA%A1%23&t=31&band_rank=48&Refer=top) 56760
 1. [AI圈为何流行养龙虾了](https://s.weibo.com/weibo?q=%23AI%E5%9C%88%E4%B8%BA%E4%BD%95%E6%B5%81%E8%A1%8C%E5%85%BB%E9%BE%99%E8%99%BE%E4%BA%86%23&t=31&band_rank=50&Refer=top) 56620
+1. [伊朗1吨重弹头导弹打击以色列](https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%971%E5%90%A8%E9%87%8D%E5%BC%B9%E5%A4%B4%E5%AF%BC%E5%BC%B9%E6%89%93%E5%87%BB%E4%BB%A5%E8%89%B2%E5%88%97%23&t=31&band_rank=24&Refer=top) 26779
 1. [逐玉 真正的男帅女美](https://s.weibo.com/weibo?q=%E9%80%90%E7%8E%89%20%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%94%B7%E5%B8%85%E5%A5%B3%E7%BE%8E&t=31&band_rank=39&Refer=top) 24012
 1. [穆祉丞新歌等待一切重来](https://s.weibo.com/weibo?q=%E7%A9%86%E7%A5%89%E4%B8%9E%E6%96%B0%E6%AD%8C%E7%AD%89%E5%BE%85%E4%B8%80%E5%88%87%E9%87%8D%E6%9D%A5&t=31&band_rank=46&Refer=top) 23993
+1. [周五晚高疯](https://s.weibo.com/weibo?q=%E5%91%A8%E4%BA%94%E6%99%9A%E9%AB%98%E7%96%AF&t=31&band_rank=35&Refer=top) 22756
+1. [檀健次直播](https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E7%9B%B4%E6%92%AD%23&t=31&band_rank=47&Refer=top) 22738
 <!-- END -->
 
 历史归档 [./archives](./archives)
