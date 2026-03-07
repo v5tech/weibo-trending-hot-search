@@ -226,5 +226,21 @@
   "AG单日三鸡积分第一": {
     "url": "https://s.weibo.com/weibo?q=%23AG%E5%8D%95%E6%97%A5%E4%B8%89%E9%B8%A1%E7%A7%AF%E5%88%86%E7%AC%AC%E4%B8%80%23&t=31&band_rank=48&Refer=top",
     "hot": 418967
+  },
+  "你好星期六 逐玉": {
+    "url": "https://s.weibo.com/weibo?q=%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%20%E9%80%90%E7%8E%89&t=31&band_rank=10&Refer=top",
+    "hot": 97616
+  },
+  "我的山与海": {
+    "url": "https://s.weibo.com/weibo?q=%E6%88%91%E7%9A%84%E5%B1%B1%E4%B8%8E%E6%B5%B7&t=31&band_rank=42&Refer=top",
+    "hot": 95120
+  },
+  "大帅三连MVP": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%B8%85%E4%B8%89%E8%BF%9EMVP%23&t=31&band_rank=44&Refer=top",
+    "hot": 94991
+  },
+  "你好星期六": {
+    "url": "https://s.weibo.com/weibo?q=%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD&t=31&band_rank=48&Refer=top",
+    "hot": 94670
   }
 }
