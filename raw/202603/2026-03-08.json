@@ -242,5 +242,9 @@
   "你好星期六": {
     "url": "https://s.weibo.com/weibo?q=%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD&t=31&band_rank=48&Refer=top",
     "hot": 94670
+  },
+  "星河入梦票房破亿": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%98%9F%E6%B2%B3%E5%85%A5%E6%A2%A6%E7%A5%A8%E6%88%BF%E7%A0%B4%E4%BA%BF%23&t=31&band_rank=48&Refer=top",
+    "hot": 30667
   }
 }
