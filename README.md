@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-03-11 02:55:12.886088 
+最后更新时间 2026-03-11 03:40:18.274772 
 1. [去机场不该比坐飞机时间还长](https://s.weibo.com/weibo?q=%23%E5%8E%BB%E6%9C%BA%E5%9C%BA%E4%B8%8D%E8%AF%A5%E6%AF%94%E5%9D%90%E9%A3%9E%E6%9C%BA%E6%97%B6%E9%97%B4%E8%BF%98%E9%95%BF%23&t=31&band_rank=1&Refer=top) 1046679
 1. [建议高速每年1000元免费额度](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E9%AB%98%E9%80%9F%E6%AF%8F%E5%B9%B41000%E5%85%83%E5%85%8D%E8%B4%B9%E9%A2%9D%E5%BA%A6%23&t=31&band_rank=2&Refer=top) 779549
 1. [中国两会将为全球创造更多机遇](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%B8%A4%E4%BC%9A%E5%B0%86%E4%B8%BA%E5%85%A8%E7%90%83%E5%88%9B%E9%80%A0%E6%9B%B4%E5%A4%9A%E6%9C%BA%E9%81%87%23&t=31&band_rank=3&Refer=top) 597273
