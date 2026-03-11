@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-03-12 01:51:50.625757 
+最后更新时间 2026-03-12 02:57:21.614230 
 1. [委员回应年轻人天天熬夜行不行](https://s.weibo.com/weibo?q=%23%E5%A7%94%E5%91%98%E5%9B%9E%E5%BA%94%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%A4%A9%E5%A4%A9%E7%86%AC%E5%A4%9C%E8%A1%8C%E4%B8%8D%E8%A1%8C%23&t=31&band_rank=1&Refer=top) 606403
 1. [建议年假天数按工龄递增](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%B9%B4%E5%81%87%E5%A4%A9%E6%95%B0%E6%8C%89%E5%B7%A5%E9%BE%84%E9%80%92%E5%A2%9E%23&t=31&band_rank=2&Refer=top) 429777
 1. [解读国家账本看数字背后](https://s.weibo.com/weibo?q=%23%E8%A7%A3%E8%AF%BB%E5%9B%BD%E5%AE%B6%E8%B4%A6%E6%9C%AC%E7%9C%8B%E6%95%B0%E5%AD%97%E8%83%8C%E5%90%8E%23&t=31&band_rank=3&Refer=top) 334722
@@ -66,6 +66,9 @@
 1. [我的山与海](https://s.weibo.com/weibo?q=%E6%88%91%E7%9A%84%E5%B1%B1%E4%B8%8E%E6%B5%B7&t=31&band_rank=42&Refer=top) 47382
 1. [周深挑战夜市游戏](https://s.weibo.com/weibo?q=%E5%91%A8%E6%B7%B1%E6%8C%91%E6%88%98%E5%A4%9C%E5%B8%82%E6%B8%B8%E6%88%8F&t=31&band_rank=44&Refer=top) 47362
 1. [逐玉伴手礼](https://s.weibo.com/weibo?q=%23%E9%80%90%E7%8E%89%E4%BC%B4%E6%89%8B%E7%A4%BC%23&t=31&band_rank=46&Refer=top) 47318
+1. [逐玉开播6天](https://s.weibo.com/weibo?q=%23%E9%80%90%E7%8E%89%E5%BC%80%E6%92%AD6%E5%A4%A9%23&t=31&band_rank=37&Refer=top) 27586
+1. [薛之谦万兽之王巡回演唱会](https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E4%B8%87%E5%85%BD%E4%B9%8B%E7%8E%8B%E5%B7%A1%E5%9B%9E%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=41&Refer=top) 27526
+1. [不二之臣](https://s.weibo.com/weibo?q=%E4%B8%8D%E4%BA%8C%E4%B9%8B%E8%87%A3&t=31&band_rank=43&Refer=top) 27487
 <!-- END -->
 
 历史归档 [./archives](./archives)
