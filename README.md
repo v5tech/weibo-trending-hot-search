@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-03-12 03:43:51.947112 
+最后更新时间 2026-03-12 04:37:28.987331 
 1. [委员回应年轻人天天熬夜行不行](https://s.weibo.com/weibo?q=%23%E5%A7%94%E5%91%98%E5%9B%9E%E5%BA%94%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%A4%A9%E5%A4%A9%E7%86%AC%E5%A4%9C%E8%A1%8C%E4%B8%8D%E8%A1%8C%23&t=31&band_rank=1&Refer=top) 606403
 1. [建议年假天数按工龄递增](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%B9%B4%E5%81%87%E5%A4%A9%E6%95%B0%E6%8C%89%E5%B7%A5%E9%BE%84%E9%80%92%E5%A2%9E%23&t=31&band_rank=2&Refer=top) 429777
 1. [解读国家账本看数字背后](https://s.weibo.com/weibo?q=%23%E8%A7%A3%E8%AF%BB%E5%9B%BD%E5%AE%B6%E8%B4%A6%E6%9C%AC%E7%9C%8B%E6%95%B0%E5%AD%97%E8%83%8C%E5%90%8E%23&t=31&band_rank=3&Refer=top) 334722
@@ -70,6 +70,8 @@
 1. [逐玉开播6天](https://s.weibo.com/weibo?q=%23%E9%80%90%E7%8E%89%E5%BC%80%E6%92%AD6%E5%A4%A9%23&t=31&band_rank=37&Refer=top) 27586
 1. [不二之臣](https://s.weibo.com/weibo?q=%E4%B8%8D%E4%BA%8C%E4%B9%8B%E8%87%A3&t=31&band_rank=43&Refer=top) 27487
 1. [黄子弘凡演唱会体育场终章版](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E5%BC%98%E5%87%A1%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BD%93%E8%82%B2%E5%9C%BA%E7%BB%88%E7%AB%A0%E7%89%88%23&t=31&band_rank=45&Refer=top) 24545
+1. [建议增设重阳节为法定节假日](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%A2%9E%E8%AE%BE%E9%87%8D%E9%98%B3%E8%8A%82%E4%B8%BA%E6%B3%95%E5%AE%9A%E8%8A%82%E5%81%87%E6%97%A5%23&t=31&band_rank=8&Refer=top) 21360
+1. [建议逐步推行现房销售](https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E9%80%90%E6%AD%A5%E6%8E%A8%E8%A1%8C%E7%8E%B0%E6%88%BF%E9%94%80%E5%94%AE%23&t=31&band_rank=10&Refer=top) 21289
 <!-- END -->
 
 历史归档 [./archives](./archives)
