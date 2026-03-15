@@ -257,7 +257,7 @@
   },
   "今年315晚会它们都被曝光了": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4315%E6%99%9A%E4%BC%9A%E5%AE%83%E4%BB%AC%E9%83%BD%E8%A2%AB%E6%9B%9D%E5%85%89%E4%BA%86%23&t=31&band_rank=26&Refer=top",
-    "hot": 27243
+    "hot": 28884
   },
   "老人8万贱卖劳力士充值理发店": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA8%E4%B8%87%E8%B4%B1%E5%8D%96%E5%8A%B3%E5%8A%9B%E5%A3%AB%E5%85%85%E5%80%BC%E7%90%86%E5%8F%91%E5%BA%97%23&t=31&band_rank=31&Refer=top",
@@ -298,5 +298,21 @@
   "田曦薇我镜头下你的眼睛": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E6%88%91%E9%95%9C%E5%A4%B4%E4%B8%8B%E4%BD%A0%E7%9A%84%E7%9C%BC%E7%9D%9B%23&t=31&band_rank=37&Refer=top",
     "hot": 23192
+  },
+  "央视315": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86315%23&t=31&band_rank=31&Refer=top",
+    "hot": 17400
+  },
+  "315晚会曝光七大问题": {
+    "url": "https://s.weibo.com/weibo?q=%23315%E6%99%9A%E4%BC%9A%E6%9B%9D%E5%85%89%E4%B8%83%E5%A4%A7%E9%97%AE%E9%A2%98%23&t=31&band_rank=32&Refer=top",
+    "hot": 17398
+  },
+  "315曝光双氧水漂白鸡爪": {
+    "url": "https://s.weibo.com/weibo?q=%23315%E6%9B%9D%E5%85%89%E5%8F%8C%E6%B0%A7%E6%B0%B4%E6%BC%82%E7%99%BD%E9%B8%A1%E7%88%AA%23&t=31&band_rank=38&Refer=top",
+    "hot": 17393
+  },
+  "肖战匠心赴长路": {
+    "url": "https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%8C%A0%E5%BF%83%E8%B5%B4%E9%95%BF%E8%B7%AF%23&t=31&band_rank=44&Refer=top",
+    "hot": 17389
   }
 }
