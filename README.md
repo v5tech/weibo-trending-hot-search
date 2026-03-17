@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-03-18 04:42:16.089319 
+最后更新时间 2026-03-18 05:41:12.865958 
 1. [多地宣布生物地理不再计入中考总分](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E5%AE%A3%E5%B8%83%E7%94%9F%E7%89%A9%E5%9C%B0%E7%90%86%E4%B8%8D%E5%86%8D%E8%AE%A1%E5%85%A5%E4%B8%AD%E8%80%83%E6%80%BB%E5%88%86%23&t=31&band_rank=1&Refer=top) 968415
 1. [刘文祥3名员工后厨抽烟吐槽315](https://s.weibo.com/weibo?q=%23%E5%88%98%E6%96%87%E7%A5%A53%E5%90%8D%E5%91%98%E5%B7%A5%E5%90%8E%E5%8E%A8%E6%8A%BD%E7%83%9F%E5%90%90%E6%A7%BD315%23&t=31&band_rank=2&Refer=top) 690460
 1. [家电进化开倍速了吗](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E7%94%B5%E8%BF%9B%E5%8C%96%E5%BC%80%E5%80%8D%E9%80%9F%E4%BA%86%E5%90%97%23&t=31&band_rank=3&Refer=top) 565816
@@ -60,9 +60,9 @@
 1. [伊朗最高领袖驳回斡旋提案](https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E9%A9%B3%E5%9B%9E%E6%96%A1%E6%97%8B%E6%8F%90%E6%A1%88%23&t=31&band_rank=50&Refer=top) 162534
 1. [1983剧情](https://s.weibo.com/weibo?q=%231983%E5%89%A7%E6%83%85%23&t=31&band_rank=5&Refer=top) 99728
 1. [美反恐中心主任称无法昧良心支持对伊战争](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%8F%8D%E6%81%90%E4%B8%AD%E5%BF%83%E4%B8%BB%E4%BB%BB%E7%A7%B0%E6%97%A0%E6%B3%95%E6%98%A7%E8%89%AF%E5%BF%83%E6%94%AF%E6%8C%81%E5%AF%B9%E4%BC%8A%E6%88%98%E4%BA%89%23&t=31&band_rank=12&Refer=top) 92151
+1. [小巷人家](https://s.weibo.com/weibo?q=%E5%B0%8F%E5%B7%B7%E4%BA%BA%E5%AE%B6&t=31&band_rank=39&Refer=top) 77966
 1. [周也](https://s.weibo.com/weibo?q=%E5%91%A8%E4%B9%9F&t=31&band_rank=34&Refer=top) 55888
 1. [田曦薇军营小玉](https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E5%86%9B%E8%90%A5%E5%B0%8F%E7%8E%89%23&t=31&band_rank=36&Refer=top) 55814
-1. [小巷人家](https://s.weibo.com/weibo?q=%E5%B0%8F%E5%B7%B7%E4%BA%BA%E5%AE%B6&t=31&band_rank=39&Refer=top) 55762
 1. [逐玉](https://s.weibo.com/weibo?q=%E9%80%90%E7%8E%89&t=31&band_rank=40&Refer=top) 55731
 1. [时装周瞩目艺人TOP10](https://s.weibo.com/weibo?q=%23%E6%97%B6%E8%A3%85%E5%91%A8%E7%9E%A9%E7%9B%AE%E8%89%BA%E4%BA%BATOP10%23&t=31&band_rank=41&Refer=top) 55703
 1. [选择题错三个就用黑笔改](https://s.weibo.com/weibo?q=%E9%80%89%E6%8B%A9%E9%A2%98%E9%94%99%E4%B8%89%E4%B8%AA%E5%B0%B1%E7%94%A8%E9%BB%91%E7%AC%94%E6%94%B9&t=31&band_rank=48&Refer=top) 55520
