@@ -198,5 +198,25 @@
   "好好的时光": {
     "url": "https://s.weibo.com/weibo?q=%E5%A5%BD%E5%A5%BD%E7%9A%84%E6%97%B6%E5%85%89&t=31&band_rank=50&Refer=top",
     "hot": 34635
+  },
+  "伊朗导弹击中以色列海法炼油厂": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%AF%BC%E5%BC%B9%E5%87%BB%E4%B8%AD%E4%BB%A5%E8%89%B2%E5%88%97%E6%B5%B7%E6%B3%95%E7%82%BC%E6%B2%B9%E5%8E%82%23&t=31&band_rank=6&Refer=top",
+    "hot": 30465
+  },
+  "GEN战胜LYON": {
+    "url": "https://s.weibo.com/weibo?q=%23GEN%E6%88%98%E8%83%9CLYON%23&t=31&band_rank=34&Refer=top",
+    "hot": 20746
+  },
+  "ITZY召回打歌": {
+    "url": "https://s.weibo.com/weibo?q=%23ITZY%E5%8F%AC%E5%9B%9E%E6%89%93%E6%AD%8C%23&t=31&band_rank=38&Refer=top",
+    "hot": 20740
+  },
+  "伊朗逮捕41名间谍": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E9%80%AE%E6%8D%9541%E5%90%8D%E9%97%B4%E8%B0%8D%23&t=31&band_rank=46&Refer=top",
+    "hot": 20728
+  },
+  "南方医院情况通报": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%96%B9%E5%8C%BB%E9%99%A2%E6%83%85%E5%86%B5%E9%80%9A%E6%8A%A5%23&t=31&band_rank=48&Refer=top",
+    "hot": 20726
   }
 }
