@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-03-21 04:36:46.488918 
+最后更新时间 2026-03-21 05:34:08.307588 
 1. [直播间禁售13类食品新规今起实施](https://s.weibo.com/weibo?q=%23%E7%9B%B4%E6%92%AD%E9%97%B4%E7%A6%81%E5%94%AE13%E7%B1%BB%E9%A3%9F%E5%93%81%E6%96%B0%E8%A7%84%E4%BB%8A%E8%B5%B7%E5%AE%9E%E6%96%BD%23&t=31&band_rank=1&Refer=top) 704065
 1. [好想来上架山姆零食](https://s.weibo.com/weibo?q=%23%E5%A5%BD%E6%83%B3%E6%9D%A5%E4%B8%8A%E6%9E%B6%E5%B1%B1%E5%A7%86%E9%9B%B6%E9%A3%9F%23&t=31&band_rank=2&Refer=top) 506389
 1. [沙某编造传播涉科大讯飞网络谣言被拘](https://s.weibo.com/weibo?q=%23%E6%B2%99%E6%9F%90%E7%BC%96%E9%80%A0%E4%BC%A0%E6%92%AD%E6%B6%89%E7%A7%91%E5%A4%A7%E8%AE%AF%E9%A3%9E%E7%BD%91%E7%BB%9C%E8%B0%A3%E8%A8%80%E8%A2%AB%E6%8B%98%23&t=31&band_rank=3&Refer=top) 401009
@@ -73,6 +73,7 @@
 1. [挽救计划](https://s.weibo.com/weibo?q=%E6%8C%BD%E6%95%91%E8%AE%A1%E5%88%92&t=31&band_rank=47&Refer=top) 23165
 1. [易烊千玺CMG年度剧情电影男演员](https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BACMG%E5%B9%B4%E5%BA%A6%E5%89%A7%E6%83%85%E7%94%B5%E5%BD%B1%E7%94%B7%E6%BC%94%E5%91%98%23&t=31&band_rank=49&Refer=top) 23147
 1. [刘宇宁出席上海迪士尼生日庆典](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E5%87%BA%E5%B8%AD%E4%B8%8A%E6%B5%B7%E8%BF%AA%E5%A3%AB%E5%B0%BC%E7%94%9F%E6%97%A5%E5%BA%86%E5%85%B8%23&t=31&band_rank=25&Refer=top) 18363
+1. [全网迪士尼朋友都在跳](https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BD%91%E8%BF%AA%E5%A3%AB%E5%B0%BC%E6%9C%8B%E5%8F%8B%E9%83%BD%E5%9C%A8%E8%B7%B3%23&t=31&band_rank=50&Refer=top) 17171
 1. [苏新皓散落的华服舞台](https://s.weibo.com/weibo?q=%E8%8B%8F%E6%96%B0%E7%9A%93%E6%95%A3%E8%90%BD%E7%9A%84%E5%8D%8E%E6%9C%8D%E8%88%9E%E5%8F%B0&t=31&band_rank=50&Refer=top) 14128
 <!-- END -->
 
