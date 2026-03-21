@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-03-22 05:29:02.906952 
+最后更新时间 2026-03-22 06:29:07.595599 
 1. [重大实验室爆炸疑因操作不当引发](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%A4%A7%E5%AE%9E%E9%AA%8C%E5%AE%A4%E7%88%86%E7%82%B8%E7%96%91%E5%9B%A0%E6%93%8D%E4%BD%9C%E4%B8%8D%E5%BD%93%E5%BC%95%E5%8F%91%23&t=31&band_rank=1&Refer=top) 811965
 1. [重庆大学实验室爆炸现场血迹明显](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E5%A4%A7%E5%AD%A6%E5%AE%9E%E9%AA%8C%E5%AE%A4%E7%88%86%E7%82%B8%E7%8E%B0%E5%9C%BA%E8%A1%80%E8%BF%B9%E6%98%8E%E6%98%BE%23&t=31&band_rank=14&Refer=top) 590435
 1. [梅姨到哪也不出示身份证](https://s.weibo.com/weibo?q=%23%E6%A2%85%E5%A7%A8%E5%88%B0%E5%93%AA%E4%B9%9F%E4%B8%8D%E5%87%BA%E7%A4%BA%E8%BA%AB%E4%BB%BD%E8%AF%81%23&t=31&band_rank=2&Refer=top) 570193
@@ -72,10 +72,13 @@
 1. [他会一辈子都记得这个教练的](https://s.weibo.com/weibo?q=%E4%BB%96%E4%BC%9A%E4%B8%80%E8%BE%88%E5%AD%90%E9%83%BD%E8%AE%B0%E5%BE%97%E8%BF%99%E4%B8%AA%E6%95%99%E7%BB%83%E7%9A%84&t=31&band_rank=40&Refer=top) 48926
 1. [热巴陈飞宇跳舞](https://s.weibo.com/weibo?q=%23%E7%83%AD%E5%B7%B4%E9%99%88%E9%A3%9E%E5%AE%87%E8%B7%B3%E8%88%9E%23&t=31&band_rank=44&Refer=top) 48664
 1. [斑马音乐节](https://s.weibo.com/weibo?q=%E6%96%91%E9%A9%AC%E9%9F%B3%E4%B9%90%E8%8A%82&t=31&band_rank=47&Refer=top) 48498
+1. [伊朗称正在霍尔木兹采取重大行动](https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A7%B0%E6%AD%A3%E5%9C%A8%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E9%87%87%E5%8F%96%E9%87%8D%E5%A4%A7%E8%A1%8C%E5%8A%A8%23&t=31&band_rank=31&Refer=top) 22688
+1. [发现父母老去只是一瞬间的事](https://s.weibo.com/weibo?q=%23%E5%8F%91%E7%8E%B0%E7%88%B6%E6%AF%8D%E8%80%81%E5%8E%BB%E5%8F%AA%E6%98%AF%E4%B8%80%E7%9E%AC%E9%97%B4%E7%9A%84%E4%BA%8B%23&t=31&band_rank=47&Refer=top) 19202
+1. [怕揭伤疤不想告诉儿子梅姨落网](https://s.weibo.com/weibo?q=%23%E6%80%95%E6%8F%AD%E4%BC%A4%E7%96%A4%E4%B8%8D%E6%83%B3%E5%91%8A%E8%AF%89%E5%84%BF%E5%AD%90%E6%A2%85%E5%A7%A8%E8%90%BD%E7%BD%91%23&t=31&band_rank=37&Refer=top) 18778
+1. [梅姨案受害者说恨久需见其人](https://s.weibo.com/weibo?q=%23%E6%A2%85%E5%A7%A8%E6%A1%88%E5%8F%97%E5%AE%B3%E8%80%85%E8%AF%B4%E6%81%A8%E4%B9%85%E9%9C%80%E8%A7%81%E5%85%B6%E4%BA%BA%23&t=31&band_rank=29&Refer=top) 18765
+1. [广东土豆泥拌火鸡面黏糊糊的巨香](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E5%9C%9F%E8%B1%86%E6%B3%A5%E6%8B%8C%E7%81%AB%E9%B8%A1%E9%9D%A2%E9%BB%8F%E7%B3%8A%E7%B3%8A%E7%9A%84%E5%B7%A8%E9%A6%99%23&t=31&band_rank=50&Refer=top) 18743
 1. [中国游泳公开赛](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E6%B8%B8%E6%B3%B3%E5%85%AC%E5%BC%80%E8%B5%9B&t=31&band_rank=50&Refer=top) 17456
-1. [梅姨案受害者说恨久需见其人](https://s.weibo.com/weibo?q=%23%E6%A2%85%E5%A7%A8%E6%A1%88%E5%8F%97%E5%AE%B3%E8%80%85%E8%AF%B4%E6%81%A8%E4%B9%85%E9%9C%80%E8%A7%81%E5%85%B6%E4%BA%BA%23&t=31&band_rank=29&Refer=top) 15644
 1. [重庆一高校实验室爆炸](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E4%B8%80%E9%AB%98%E6%A0%A1%E5%AE%9E%E9%AA%8C%E5%AE%A4%E7%88%86%E7%82%B8%23&t=31&band_rank=45&Refer=top) 13099
-1. [发现父母老去只是一瞬间的事](https://s.weibo.com/weibo?q=%23%E5%8F%91%E7%8E%B0%E7%88%B6%E6%AF%8D%E8%80%81%E5%8E%BB%E5%8F%AA%E6%98%AF%E4%B8%80%E7%9E%AC%E9%97%B4%E7%9A%84%E4%BA%8B%23&t=31&band_rank=47&Refer=top) 13097
 1. [第五人格COA9预选赛](https://s.weibo.com/weibo?q=%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BCCOA9%E9%A2%84%E9%80%89%E8%B5%9B&t=31&band_rank=48&Refer=top) 13096
 <!-- END -->
 
