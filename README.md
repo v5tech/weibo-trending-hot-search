@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-03-22 01:28:33.614894 
+最后更新时间 2026-03-22 02:40:49.383770 
 1. [重大实验室爆炸疑因操作不当引发](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%A4%A7%E5%AE%9E%E9%AA%8C%E5%AE%A4%E7%88%86%E7%82%B8%E7%96%91%E5%9B%A0%E6%93%8D%E4%BD%9C%E4%B8%8D%E5%BD%93%E5%BC%95%E5%8F%91%23&t=31&band_rank=1&Refer=top) 811965
 1. [重庆大学实验室爆炸现场血迹明显](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E5%A4%A7%E5%AD%A6%E5%AE%9E%E9%AA%8C%E5%AE%A4%E7%88%86%E7%82%B8%E7%8E%B0%E5%9C%BA%E8%A1%80%E8%BF%B9%E6%98%8E%E6%98%BE%23&t=31&band_rank=14&Refer=top) 590435
 1. [梅姨到哪也不出示身份证](https://s.weibo.com/weibo?q=%23%E6%A2%85%E5%A7%A8%E5%88%B0%E5%93%AA%E4%B9%9F%E4%B8%8D%E5%87%BA%E7%A4%BA%E8%BA%AB%E4%BB%BD%E8%AF%81%23&t=31&band_rank=2&Refer=top) 570193
@@ -64,6 +64,10 @@
 1. [Tank广州演唱会](https://s.weibo.com/weibo?q=%23Tank%E5%B9%BF%E5%B7%9E%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=35&Refer=top) 127305
 1. [香港高薪抢医生](https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E9%AB%98%E8%96%AA%E6%8A%A2%E5%8C%BB%E7%94%9F%23&t=31&band_rank=44&Refer=top) 126908
 1. [张元英GENIE完整版正面直拍](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%85%83%E8%8B%B1GENIE%E5%AE%8C%E6%95%B4%E7%89%88%E6%AD%A3%E9%9D%A2%E7%9B%B4%E6%8B%8D%23&t=31&band_rank=47&Refer=top) 126782
+1. [9省份11所高校由学院升格为大学](https://s.weibo.com/weibo?q=%239%E7%9C%81%E4%BB%BD11%E6%89%80%E9%AB%98%E6%A0%A1%E7%94%B1%E5%AD%A6%E9%99%A2%E5%8D%87%E6%A0%BC%E4%B8%BA%E5%A4%A7%E5%AD%A6%23&t=31&band_rank=31&Refer=top) 66897
+1. [云旗高定](https://s.weibo.com/weibo?q=%23%E4%BA%91%E6%97%97%E9%AB%98%E5%AE%9A%23&t=31&band_rank=43&Refer=top) 65763
+1. [梅姨被抓钟彬爸爸激动到说话颤抖](https://s.weibo.com/weibo?q=%23%E6%A2%85%E5%A7%A8%E8%A2%AB%E6%8A%93%E9%92%9F%E5%BD%AC%E7%88%B8%E7%88%B8%E6%BF%80%E5%8A%A8%E5%88%B0%E8%AF%B4%E8%AF%9D%E9%A2%A4%E6%8A%96%23&t=31&band_rank=45&Refer=top) 65607
+1. [濮院高定时尚周](https://s.weibo.com/weibo?q=%23%E6%BF%AE%E9%99%A2%E9%AB%98%E5%AE%9A%E6%97%B6%E5%B0%9A%E5%91%A8%23&t=31&band_rank=49&Refer=top) 65158
 <!-- END -->
 
 历史归档 [./archives](./archives)
