@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-03-22 02:40:49.383770 
+最后更新时间 2026-03-22 03:28:02.072628 
 1. [重大实验室爆炸疑因操作不当引发](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%A4%A7%E5%AE%9E%E9%AA%8C%E5%AE%A4%E7%88%86%E7%82%B8%E7%96%91%E5%9B%A0%E6%93%8D%E4%BD%9C%E4%B8%8D%E5%BD%93%E5%BC%95%E5%8F%91%23&t=31&band_rank=1&Refer=top) 811965
 1. [重庆大学实验室爆炸现场血迹明显](https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E5%A4%A7%E5%AD%A6%E5%AE%9E%E9%AA%8C%E5%AE%A4%E7%88%86%E7%82%B8%E7%8E%B0%E5%9C%BA%E8%A1%80%E8%BF%B9%E6%98%8E%E6%98%BE%23&t=31&band_rank=14&Refer=top) 590435
 1. [梅姨到哪也不出示身份证](https://s.weibo.com/weibo?q=%23%E6%A2%85%E5%A7%A8%E5%88%B0%E5%93%AA%E4%B9%9F%E4%B8%8D%E5%87%BA%E7%A4%BA%E8%BA%AB%E4%BB%BD%E8%AF%81%23&t=31&band_rank=2&Refer=top) 570193
@@ -68,6 +68,9 @@
 1. [云旗高定](https://s.weibo.com/weibo?q=%23%E4%BA%91%E6%97%97%E9%AB%98%E5%AE%9A%23&t=31&band_rank=43&Refer=top) 65763
 1. [梅姨被抓钟彬爸爸激动到说话颤抖](https://s.weibo.com/weibo?q=%23%E6%A2%85%E5%A7%A8%E8%A2%AB%E6%8A%93%E9%92%9F%E5%BD%AC%E7%88%B8%E7%88%B8%E6%BF%80%E5%8A%A8%E5%88%B0%E8%AF%B4%E8%AF%9D%E9%A2%A4%E6%8A%96%23&t=31&band_rank=45&Refer=top) 65607
 1. [濮院高定时尚周](https://s.weibo.com/weibo?q=%23%E6%BF%AE%E9%99%A2%E9%AB%98%E5%AE%9A%E6%97%B6%E5%B0%9A%E5%91%A8%23&t=31&band_rank=49&Refer=top) 65158
+1. [他会一辈子都记得这个教练的](https://s.weibo.com/weibo?q=%E4%BB%96%E4%BC%9A%E4%B8%80%E8%BE%88%E5%AD%90%E9%83%BD%E8%AE%B0%E5%BE%97%E8%BF%99%E4%B8%AA%E6%95%99%E7%BB%83%E7%9A%84&t=31&band_rank=40&Refer=top) 48926
+1. [热巴陈飞宇跳舞](https://s.weibo.com/weibo?q=%23%E7%83%AD%E5%B7%B4%E9%99%88%E9%A3%9E%E5%AE%87%E8%B7%B3%E8%88%9E%23&t=31&band_rank=44&Refer=top) 48664
+1. [斑马音乐节](https://s.weibo.com/weibo?q=%E6%96%91%E9%A9%AC%E9%9F%B3%E4%B9%90%E8%8A%82&t=31&band_rank=47&Refer=top) 48498
 <!-- END -->
 
 历史归档 [./archives](./archives)
