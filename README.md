@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-03-23 03:28:51.463365 
+最后更新时间 2026-03-23 04:32:19.776578 
 1. [Bin是世一上](https://s.weibo.com/weibo?q=%23Bin%E6%98%AF%E4%B8%96%E4%B8%80%E4%B8%8A%23&t=31&band_rank=1&Refer=top) 3348268
 1. [BLG夺冠](https://s.weibo.com/weibo?q=BLG%E5%A4%BA%E5%86%A0&t=31&band_rank=2&Refer=top) 1549662
 1. [爱吃荔枝的人今年天塌了](https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%90%83%E8%8D%94%E6%9E%9D%E7%9A%84%E4%BA%BA%E4%BB%8A%E5%B9%B4%E5%A4%A9%E5%A1%8C%E4%BA%86%23&t=31&band_rank=1&Refer=top) 765551
@@ -73,6 +73,8 @@
 1. [Desire4出道半周年](https://s.weibo.com/weibo?q=%23Desire4%E5%87%BA%E9%81%93%E5%8D%8A%E5%91%A8%E5%B9%B4%23&t=31&band_rank=46&Refer=top) 21457
 1. [成毅富贵少爷片场花絮](https://s.weibo.com/weibo?q=%E6%88%90%E6%AF%85%E5%AF%8C%E8%B4%B5%E5%B0%91%E7%88%B7%E7%89%87%E5%9C%BA%E8%8A%B1%E7%B5%AE&t=31&band_rank=46&Refer=top) 18483
 1. [PEL春季赛](https://s.weibo.com/weibo?q=%23PEL%E6%98%A5%E5%AD%A3%E8%B5%9B%23&t=31&band_rank=49&Refer=top) 18477
+1. [云初令](https://s.weibo.com/weibo?q=%E4%BA%91%E5%88%9D%E4%BB%A4&t=31&band_rank=39&Refer=top) 15161
+1. [PCL2026](https://s.weibo.com/weibo?q=%23PCL2026%23&t=31&band_rank=50&Refer=top) 15118
 <!-- END -->
 
 历史归档 [./archives](./archives)
