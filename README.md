@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-03-24 03:52:23.476080 
+最后更新时间 2026-03-24 04:40:39.863033 
 1. [对国内成品油价格采取临时调控](https://s.weibo.com/weibo?q=%23%E5%AF%B9%E5%9B%BD%E5%86%85%E6%88%90%E5%93%81%E6%B2%B9%E4%BB%B7%E6%A0%BC%E9%87%87%E5%8F%96%E4%B8%B4%E6%97%B6%E8%B0%83%E6%8E%A7%23&t=31&band_rank=1&Refer=top) 1011507
 1. [朝鲜称与日本没什么可谈的](https://s.weibo.com/weibo?q=%23%E6%9C%9D%E9%B2%9C%E7%A7%B0%E4%B8%8E%E6%97%A5%E6%9C%AC%E6%B2%A1%E4%BB%80%E4%B9%88%E5%8F%AF%E8%B0%88%E7%9A%84%23&t=31&band_rank=2&Refer=top) 732079
 1. [梦想的接力最燃](https://s.weibo.com/weibo?q=%23%E6%A2%A6%E6%83%B3%E7%9A%84%E6%8E%A5%E5%8A%9B%E6%9C%80%E7%87%83%23&t=31&band_rank=3&Refer=top) 575279
