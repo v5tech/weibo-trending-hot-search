@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-03-28 02:59:57.879064 
+最后更新时间 2026-03-28 03:45:51.499429 
 1. [雷军壁纸 逆天改命](https://s.weibo.com/weibo?q=%E9%9B%B7%E5%86%9B%E5%A3%81%E7%BA%B8%20%E9%80%86%E5%A4%A9%E6%94%B9%E5%91%BD&t=31&band_rank=1&Refer=top) 617918
 1. [孩子生病后买彩票中500万妈妈发声](https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E7%94%9F%E7%97%85%E5%90%8E%E4%B9%B0%E5%BD%A9%E7%A5%A8%E4%B8%AD500%E4%B8%87%E5%A6%88%E5%A6%88%E5%8F%91%E5%A3%B0%23&t=31&band_rank=2&Refer=top) 452183
 1. [为奋进中国打call](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E5%A5%8B%E8%BF%9B%E4%B8%AD%E5%9B%BD%E6%89%93call%23&t=31&band_rank=3&Refer=top) 346745
@@ -41,6 +41,7 @@
 1. [保留奔跑吧艺人剩菜店家道歉](https://s.weibo.com/weibo?q=%23%E4%BF%9D%E7%95%99%E5%A5%94%E8%B7%91%E5%90%A7%E8%89%BA%E4%BA%BA%E5%89%A9%E8%8F%9C%E5%BA%97%E5%AE%B6%E9%81%93%E6%AD%89%23&t=31&band_rank=30&Refer=top) 70798
 1. [逐玉 庆功宴](https://s.weibo.com/weibo?q=%E9%80%90%E7%8E%89%20%E5%BA%86%E5%8A%9F%E5%AE%B4&t=31&band_rank=31&Refer=top) 70625
 1. [男子借钱凑彩礼结婚后1个月被家暴](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%80%9F%E9%92%B1%E5%87%91%E5%BD%A9%E7%A4%BC%E7%BB%93%E5%A9%9A%E5%90%8E1%E4%B8%AA%E6%9C%88%E8%A2%AB%E5%AE%B6%E6%9A%B4%23&t=31&band_rank=33&Refer=top) 68838
+1. [你好1983](https://s.weibo.com/weibo?q=%E4%BD%A0%E5%A5%BD1983&t=31&band_rank=10&Refer=top) 68498
 1. [王橹杰换头像](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A9%B9%E6%9D%B0%E6%8D%A2%E5%A4%B4%E5%83%8F&t=31&band_rank=34&Refer=top) 67580
 1. [王一博乐华续约](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E4%B9%90%E5%8D%8E%E7%BB%AD%E7%BA%A6%23&t=31&band_rank=35&Refer=top) 61612
 1. [伊朗外长在联合国称将自卫到底](https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%E5%9C%A8%E8%81%94%E5%90%88%E5%9B%BD%E7%A7%B0%E5%B0%86%E8%87%AA%E5%8D%AB%E5%88%B0%E5%BA%95%23&t=31&band_rank=36&Refer=top) 61587
@@ -60,7 +61,6 @@
 1. [文班亚马登顶MVP榜首](https://s.weibo.com/weibo?q=%23%E6%96%87%E7%8F%AD%E4%BA%9A%E9%A9%AC%E7%99%BB%E9%A1%B6MVP%E6%A6%9C%E9%A6%96%23&t=31&band_rank=50&Refer=top) 61037
 1. [特朗普揭晓所谓伊朗大礼](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%AD%E6%99%93%E6%89%80%E8%B0%93%E4%BC%8A%E6%9C%97%E5%A4%A7%E7%A4%BC%23&t=31&band_rank=25&Refer=top) 52515
 1. [黄金持续快速拉升](https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E6%8C%81%E7%BB%AD%E5%BF%AB%E9%80%9F%E6%8B%89%E5%8D%87%23&t=31&band_rank=31&Refer=top) 37954
-1. [你好1983](https://s.weibo.com/weibo?q=%E4%BD%A0%E5%A5%BD1983&t=31&band_rank=10&Refer=top) 36700
 1. [迪丽热巴白日提灯包场6666份](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%99%BD%E6%97%A5%E6%8F%90%E7%81%AF%E5%8C%85%E5%9C%BA6666%E4%BB%BD%23&t=31&band_rank=38&Refer=top) 32429
 1. [岳云鹏室内抽烟](https://s.weibo.com/weibo?q=%23%E5%B2%B3%E4%BA%91%E9%B9%8F%E5%AE%A4%E5%86%85%E6%8A%BD%E7%83%9F%23&t=31&band_rank=43&Refer=top) 31774
 1. [乘风2026](https://s.weibo.com/weibo?q=%E4%B9%98%E9%A3%8E2026&t=31&band_rank=46&Refer=top) 31772
@@ -68,6 +68,8 @@
 1. [家事法庭](https://s.weibo.com/weibo?q=%E5%AE%B6%E4%BA%8B%E6%B3%95%E5%BA%AD&t=31&band_rank=35&Refer=top) 27521
 1. [我许可](https://s.weibo.com/weibo?q=%E6%88%91%E8%AE%B8%E5%8F%AF&t=31&band_rank=45&Refer=top) 27510
 1. [周深首唱求真](https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E9%A6%96%E5%94%B1%E6%B1%82%E7%9C%9F%23&t=31&band_rank=47&Refer=top) 27508
+1. [阅文IP盛典](https://s.weibo.com/weibo?q=%E9%98%85%E6%96%87IP%E7%9B%9B%E5%85%B8&t=31&band_rank=33&Refer=top) 20331
+1. [iPhone18边框或无变化](https://s.weibo.com/weibo?q=%23iPhone18%E8%BE%B9%E6%A1%86%E6%88%96%E6%97%A0%E5%8F%98%E5%8C%96%23&t=31&band_rank=41&Refer=top) 20325
 <!-- END -->
 
 历史归档 [./archives](./archives)
