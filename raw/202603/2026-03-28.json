@@ -239,6 +239,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E9%A6%96%E5%94%B1%E6%B1%82%E7%9C%9F%23&t=31&band_rank=47&Refer=top",
     "hot": 27508
   },
+  "伊发动第83波攻势": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E5%8F%91%E5%8A%A8%E7%AC%AC83%E6%B3%A2%E6%94%BB%E5%8A%BF%23&t=31&band_rank=24&Refer=top",
+    "hot": 20913
+  },
   "阅文IP盛典": {
     "url": "https://s.weibo.com/weibo?q=%E9%98%85%E6%96%87IP%E7%9B%9B%E5%85%B8&t=31&band_rank=33&Refer=top",
     "hot": 20331
@@ -246,5 +250,9 @@
   "iPhone18边框或无变化": {
     "url": "https://s.weibo.com/weibo?q=%23iPhone18%E8%BE%B9%E6%A1%86%E6%88%96%E6%97%A0%E5%8F%98%E5%8C%96%23&t=31&band_rank=41&Refer=top",
     "hot": 20325
+  },
+  "徐明浩朱珠同框看展": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BE%90%E6%98%8E%E6%B5%A9%E6%9C%B1%E7%8F%A0%E5%90%8C%E6%A1%86%E7%9C%8B%E5%B1%95%23&t=31&band_rank=37&Refer=top",
+    "hot": 16855
   }
 }
