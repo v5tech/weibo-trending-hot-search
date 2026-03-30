@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-03-31 02:00:11.302377 
+最后更新时间 2026-03-31 03:14:27.966656 
 1. [跳楼机原唱实在是忍不下去了](https://s.weibo.com/weibo?q=%23%E8%B7%B3%E6%A5%BC%E6%9C%BA%E5%8E%9F%E5%94%B1%E5%AE%9E%E5%9C%A8%E6%98%AF%E5%BF%8D%E4%B8%8D%E4%B8%8B%E5%8E%BB%E4%BA%86%23&t=31&band_rank=1&Refer=top) 1681142
 1. [澳大利亚惊现末日红](https://s.weibo.com/weibo?q=%23%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E6%83%8A%E7%8E%B0%E6%9C%AB%E6%97%A5%E7%BA%A2%23&t=31&band_rank=2&Refer=top) 587389
 1. [战友背起邱少云遗骨想带他回家](https://s.weibo.com/weibo?q=%23%E6%88%98%E5%8F%8B%E8%83%8C%E8%B5%B7%E9%82%B1%E5%B0%91%E4%BA%91%E9%81%97%E9%AA%A8%E6%83%B3%E5%B8%A6%E4%BB%96%E5%9B%9E%E5%AE%B6%23&t=31&band_rank=3&Refer=top) 479536
@@ -66,6 +66,16 @@
 1. [你好1983](https://s.weibo.com/weibo?q=%E4%BD%A0%E5%A5%BD1983&t=31&band_rank=43&Refer=top) 41652
 1. [隐身的名字](https://s.weibo.com/weibo?q=%E9%9A%90%E8%BA%AB%E7%9A%84%E5%90%8D%E5%AD%97&t=31&band_rank=44&Refer=top) 41648
 1. [油价突然飙升](https://s.weibo.com/weibo?q=%23%E6%B2%B9%E4%BB%B7%E7%AA%81%E7%84%B6%E9%A3%99%E5%8D%87%23&t=31&band_rank=47&Refer=top) 41561
+1. [利比被环球音乐威胁](https://s.weibo.com/weibo?q=%23%E5%88%A9%E6%AF%94%E8%A2%AB%E7%8E%AF%E7%90%83%E9%9F%B3%E4%B9%90%E5%A8%81%E8%83%81%23&t=31&band_rank=12&Refer=top) 28365
+1. [范丞丞黄明昊宣传小鬼新专](https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E9%BB%84%E6%98%8E%E6%98%8A%E5%AE%A3%E4%BC%A0%E5%B0%8F%E9%AC%BC%E6%96%B0%E4%B8%93%23&t=31&band_rank=32&Refer=top) 22401
+1. [张雪称骑上摩托车心情变愉悦](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E7%A7%B0%E9%AA%91%E4%B8%8A%E6%91%A9%E6%89%98%E8%BD%A6%E5%BF%83%E6%83%85%E5%8F%98%E6%84%89%E6%82%A6%23&t=31&band_rank=33&Refer=top) 22401
+1. [电信一分公司阻碍携号转网被罚20万](https://s.weibo.com/weibo?q=%23%E7%94%B5%E4%BF%A1%E4%B8%80%E5%88%86%E5%85%AC%E5%8F%B8%E9%98%BB%E7%A2%8D%E6%90%BA%E5%8F%B7%E8%BD%AC%E7%BD%91%E8%A2%AB%E7%BD%9A20%E4%B8%87%23&t=31&band_rank=35&Refer=top) 22399
+1. [有56个站姐预告了鞠婧祎](https://s.weibo.com/weibo?q=%23%E6%9C%8956%E4%B8%AA%E7%AB%99%E5%A7%90%E9%A2%84%E5%91%8A%E4%BA%86%E9%9E%A0%E5%A9%A7%E7%A5%8E%23&t=31&band_rank=37&Refer=top) 22398
+1. [KPL](https://s.weibo.com/weibo?q=KPL&t=31&band_rank=40&Refer=top) 22395
+1. [田曦薇后援会抽奖](https://s.weibo.com/weibo?q=%E7%94%B0%E6%9B%A6%E8%96%87%E5%90%8E%E6%8F%B4%E4%BC%9A%E6%8A%BD%E5%A5%96&t=31&band_rank=41&Refer=top) 22394
+1. [白日提灯微博云包场](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%97%A5%E6%8F%90%E7%81%AF%E5%BE%AE%E5%8D%9A%E4%BA%91%E5%8C%85%E5%9C%BA%23&t=31&band_rank=44&Refer=top) 22391
+1. [从修车工到世界赛场张雪的励志人生](https://s.weibo.com/weibo?q=%23%E4%BB%8E%E4%BF%AE%E8%BD%A6%E5%B7%A5%E5%88%B0%E4%B8%96%E7%95%8C%E8%B5%9B%E5%9C%BA%E5%BC%A0%E9%9B%AA%E7%9A%84%E5%8A%B1%E5%BF%97%E4%BA%BA%E7%94%9F%23&t=31&band_rank=45&Refer=top) 22391
+1. [WB战胜LGDNBW](https://s.weibo.com/weibo?q=WB%E6%88%98%E8%83%9CLGDNBW&t=31&band_rank=48&Refer=top) 22388
 <!-- END -->
 
 历史归档 [./archives](./archives)
