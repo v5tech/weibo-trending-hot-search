@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-03-31 03:14:27.966656 
+最后更新时间 2026-03-31 04:50:45.863096 
 1. [跳楼机原唱实在是忍不下去了](https://s.weibo.com/weibo?q=%23%E8%B7%B3%E6%A5%BC%E6%9C%BA%E5%8E%9F%E5%94%B1%E5%AE%9E%E5%9C%A8%E6%98%AF%E5%BF%8D%E4%B8%8D%E4%B8%8B%E5%8E%BB%E4%BA%86%23&t=31&band_rank=1&Refer=top) 1681142
 1. [澳大利亚惊现末日红](https://s.weibo.com/weibo?q=%23%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E6%83%8A%E7%8E%B0%E6%9C%AB%E6%97%A5%E7%BA%A2%23&t=31&band_rank=2&Refer=top) 587389
 1. [战友背起邱少云遗骨想带他回家](https://s.weibo.com/weibo?q=%23%E6%88%98%E5%8F%8B%E8%83%8C%E8%B5%B7%E9%82%B1%E5%B0%91%E4%BA%91%E9%81%97%E9%AA%A8%E6%83%B3%E5%B8%A6%E4%BB%96%E5%9B%9E%E5%AE%B6%23&t=31&band_rank=3&Refer=top) 479536
@@ -76,6 +76,10 @@
 1. [白日提灯微博云包场](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%97%A5%E6%8F%90%E7%81%AF%E5%BE%AE%E5%8D%9A%E4%BA%91%E5%8C%85%E5%9C%BA%23&t=31&band_rank=44&Refer=top) 22391
 1. [从修车工到世界赛场张雪的励志人生](https://s.weibo.com/weibo?q=%23%E4%BB%8E%E4%BF%AE%E8%BD%A6%E5%B7%A5%E5%88%B0%E4%B8%96%E7%95%8C%E8%B5%9B%E5%9C%BA%E5%BC%A0%E9%9B%AA%E7%9A%84%E5%8A%B1%E5%BF%97%E4%BA%BA%E7%94%9F%23&t=31&band_rank=45&Refer=top) 22391
 1. [WB战胜LGDNBW](https://s.weibo.com/weibo?q=WB%E6%88%98%E8%83%9CLGDNBW&t=31&band_rank=48&Refer=top) 22388
+1. [美军兵分三路集结中东](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E5%85%B5%E5%88%86%E4%B8%89%E8%B7%AF%E9%9B%86%E7%BB%93%E4%B8%AD%E4%B8%9C%23&t=31&band_rank=29&Refer=top) 15410
+1. [肖战2号飞青岛进组](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%982%E5%8F%B7%E9%A3%9E%E9%9D%92%E5%B2%9B%E8%BF%9B%E7%BB%84%23&t=31&band_rank=30&Refer=top) 15053
+1. [养了两年才发现是假黑猫](https://s.weibo.com/weibo?q=%E5%85%BB%E4%BA%86%E4%B8%A4%E5%B9%B4%E6%89%8D%E5%8F%91%E7%8E%B0%E6%98%AF%E5%81%87%E9%BB%91%E7%8C%AB&t=31&band_rank=33&Refer=top) 15042
+1. [利比控诉环球音乐侵权](https://s.weibo.com/weibo?q=%23%E5%88%A9%E6%AF%94%E6%8E%A7%E8%AF%89%E7%8E%AF%E7%90%83%E9%9F%B3%E4%B9%90%E4%BE%B5%E6%9D%83%23&t=31&band_rank=39&Refer=top) 14985
 <!-- END -->
 
 历史归档 [./archives](./archives)
