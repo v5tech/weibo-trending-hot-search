@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-04-06 04:37:29.796770 
+最后更新时间 2026-04-06 05:36:11.995952 
 1. [王楚钦夺冠](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%A4%BA%E5%86%A0%23&t=31&band_rank=1&Refer=top) 776780
 1. [郭艾伦被诈骗近千万](https://s.weibo.com/weibo?q=%23%E9%83%AD%E8%89%BE%E4%BC%A6%E8%A2%AB%E8%AF%88%E9%AA%97%E8%BF%91%E5%8D%83%E4%B8%87%23&t=31&band_rank=2&Refer=top) 550784
 1. [三代人同框敬礼祭奠先烈](https://s.weibo.com/weibo?q=%23%E4%B8%89%E4%BB%A3%E4%BA%BA%E5%90%8C%E6%A1%86%E6%95%AC%E7%A4%BC%E7%A5%AD%E5%A5%A0%E5%85%88%E7%83%88%23&t=31&band_rank=3&Refer=top) 432850
@@ -36,6 +36,7 @@
 1. [女生托闺蜜照顾5只猫不料全被饿死](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E6%89%98%E9%97%BA%E8%9C%9C%E7%85%A7%E9%A1%BE5%E5%8F%AA%E7%8C%AB%E4%B8%8D%E6%96%99%E5%85%A8%E8%A2%AB%E9%A5%BF%E6%AD%BB%23&t=31&band_rank=23&Refer=top) 105144
 1. [SEVENTEEN全员续约](https://s.weibo.com/weibo?q=SEVENTEEN%E5%85%A8%E5%91%98%E7%BB%AD%E7%BA%A6&t=31&band_rank=24&Refer=top) 101216
 1. [孙俪吴慷仁演技 高手过招](https://s.weibo.com/weibo?q=%E5%AD%99%E4%BF%AA%E5%90%B4%E6%85%B7%E4%BB%81%E6%BC%94%E6%8A%80%20%E9%AB%98%E6%89%8B%E8%BF%87%E6%8B%9B&t=31&band_rank=25&Refer=top) 100683
+1. [先辈给我们的留言](https://s.weibo.com/weibo?q=%23%E5%85%88%E8%BE%88%E7%BB%99%E6%88%91%E4%BB%AC%E7%9A%84%E7%95%99%E8%A8%80%23&t=31&band_rank=3&Refer=top) 95815
 1. [特朗普透露美军营救飞行员细节](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%8F%E9%9C%B2%E7%BE%8E%E5%86%9B%E8%90%A5%E6%95%91%E9%A3%9E%E8%A1%8C%E5%91%98%E7%BB%86%E8%8A%82%23&t=31&band_rank=28&Refer=top) 93783
 1. [年轻人扫墓主打一个祭品硬核](https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%89%AB%E5%A2%93%E4%B8%BB%E6%89%93%E4%B8%80%E4%B8%AA%E7%A5%AD%E5%93%81%E7%A1%AC%E6%A0%B8%23&t=31&band_rank=26&Refer=top) 86256
 1. [TES举报宁王](https://s.weibo.com/weibo?q=%23TES%E4%B8%BE%E6%8A%A5%E5%AE%81%E7%8E%8B%23&t=31&band_rank=27&Refer=top) 85163
@@ -74,7 +75,9 @@
 1. [美国和伊朗继续搜寻美军飞行员](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%92%8C%E4%BC%8A%E6%9C%97%E7%BB%A7%E7%BB%AD%E6%90%9C%E5%AF%BB%E7%BE%8E%E5%86%9B%E9%A3%9E%E8%A1%8C%E5%91%98%23&t=31&band_rank=36&Refer=top) 30924
 1. [穆祉丞太湖湾音乐节演出](https://s.weibo.com/weibo?q=%23%E7%A9%86%E7%A5%89%E4%B8%9E%E5%A4%AA%E6%B9%96%E6%B9%BE%E9%9F%B3%E4%B9%90%E8%8A%82%E6%BC%94%E5%87%BA%23&t=31&band_rank=40&Refer=top) 30873
 1. [鞠婧祎露芜衣狐系图鉴](https://s.weibo.com/weibo?q=%E9%9E%A0%E5%A9%A7%E7%A5%8E%E9%9C%B2%E8%8A%9C%E8%A1%A3%E7%8B%90%E7%B3%BB%E5%9B%BE%E9%89%B4&t=31&band_rank=48&Refer=top) 30790
-1. [考古曾沛慈](https://s.weibo.com/weibo?q=%23%E8%80%83%E5%8F%A4%E6%9B%BE%E6%B2%9B%E6%85%88%23&t=31&band_rank=28&Refer=top) 18201
+1. [考古曾沛慈](https://s.weibo.com/weibo?q=%23%E8%80%83%E5%8F%A4%E6%9B%BE%E6%B2%9B%E6%85%88%23&t=31&band_rank=28&Refer=top) 21420
+1. [美官员说失踪飞行员尚未脱险](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%AE%98%E5%91%98%E8%AF%B4%E5%A4%B1%E8%B8%AA%E9%A3%9E%E8%A1%8C%E5%91%98%E5%B0%9A%E6%9C%AA%E8%84%B1%E9%99%A9%23&t=31&band_rank=28&Refer=top) 19495
+1. [朱志鑫抽空晒晒太阳](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E5%BF%97%E9%91%AB%E6%8A%BD%E7%A9%BA%E6%99%92%E6%99%92%E5%A4%AA%E9%98%B3%23&t=31&band_rank=47&Refer=top) 19426
 <!-- END -->
 
 历史归档 [./archives](./archives)
