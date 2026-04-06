@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-04-07 01:49:47.378024 
+最后更新时间 2026-04-07 03:05:33.126883 
 1. [香港飞香港的航班](https://s.weibo.com/weibo?q=%E9%A6%99%E6%B8%AF%E9%A3%9E%E9%A6%99%E6%B8%AF%E7%9A%84%E8%88%AA%E7%8F%AD&t=31&band_rank=1&Refer=top) 629919
 1. [老夫妻近3万买戒指后被店家跟踪](https://s.weibo.com/weibo?q=%23%E8%80%81%E5%A4%AB%E5%A6%BB%E8%BF%913%E4%B8%87%E4%B9%B0%E6%88%92%E6%8C%87%E5%90%8E%E8%A2%AB%E5%BA%97%E5%AE%B6%E8%B7%9F%E8%B8%AA%23&t=31&band_rank=2&Refer=top) 470424
 1. [清明假期预计跨区域流动8.4亿人次](https://s.weibo.com/weibo?q=%23%E6%B8%85%E6%98%8E%E5%81%87%E6%9C%9F%E9%A2%84%E8%AE%A1%E8%B7%A8%E5%8C%BA%E5%9F%9F%E6%B5%81%E5%8A%A88.4%E4%BA%BF%E4%BA%BA%E6%AC%A1%23&t=31&band_rank=3&Refer=top) 375155
@@ -65,6 +65,8 @@
 1. [徒弟说贺娇龙去世时才40公斤](https://s.weibo.com/weibo?q=%23%E5%BE%92%E5%BC%9F%E8%AF%B4%E8%B4%BA%E5%A8%87%E9%BE%99%E5%8E%BB%E4%B8%96%E6%97%B6%E6%89%8D40%E5%85%AC%E6%96%A4%23&t=31&band_rank=44&Refer=top) 30444
 1. [伊朗打击美军的黎波里号两栖攻击舰](https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%89%93%E5%87%BB%E7%BE%8E%E5%86%9B%E7%9A%84%E9%BB%8E%E6%B3%A2%E9%87%8C%E5%8F%B7%E4%B8%A4%E6%A0%96%E6%94%BB%E5%87%BB%E8%88%B0%23&t=31&band_rank=47&Refer=top) 30435
 1. [张杰热血开场](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E7%83%AD%E8%A1%80%E5%BC%80%E5%9C%BA%23&t=31&band_rank=49&Refer=top) 30429
+1. [女孩趁妈妈吹头发横穿马路被车撞倒](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E8%B6%81%E5%A6%88%E5%A6%88%E5%90%B9%E5%A4%B4%E5%8F%91%E6%A8%AA%E7%A9%BF%E9%A9%AC%E8%B7%AF%E8%A2%AB%E8%BD%A6%E6%92%9E%E5%80%92%23&t=31&band_rank=44&Refer=top) 16542
+1. [伊朗发动第97波打击](https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%8F%91%E5%8A%A8%E7%AC%AC97%E6%B3%A2%E6%89%93%E5%87%BB%23&t=31&band_rank=49&Refer=top) 16463
 <!-- END -->
 
 历史归档 [./archives](./archives)
