@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-04-14 04:08:01.227549 
+最后更新时间 2026-04-14 05:53:59.243302 
 1. [演出服遭集体退货家属称表演取消](https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%87%BA%E6%9C%8D%E9%81%AD%E9%9B%86%E4%BD%93%E9%80%80%E8%B4%A7%E5%AE%B6%E5%B1%9E%E7%A7%B0%E8%A1%A8%E6%BC%94%E5%8F%96%E6%B6%88%23&t=31&band_rank=1&Refer=top) 909055
 1. [论樊振东如何在2分钟里拿到11分](https://s.weibo.com/weibo?q=%E8%AE%BA%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%A6%82%E4%BD%95%E5%9C%A82%E5%88%86%E9%92%9F%E9%87%8C%E6%8B%BF%E5%88%B011%E5%88%86&t=31&band_rank=2&Refer=top) 638709
 1. [2026世界互联网大会亚太峰会](https://s.weibo.com/weibo?q=%232026%E4%B8%96%E7%95%8C%E4%BA%92%E8%81%94%E7%BD%91%E5%A4%A7%E4%BC%9A%E4%BA%9A%E5%A4%AA%E5%B3%B0%E4%BC%9A%23&t=31&band_rank=3&Refer=top) 525983
@@ -77,12 +77,13 @@
 1. [蔡皋获国际安徒生奖](https://s.weibo.com/weibo?q=%23%E8%94%A1%E7%9A%8B%E8%8E%B7%E5%9B%BD%E9%99%85%E5%AE%89%E5%BE%92%E7%94%9F%E5%A5%96%23&t=31&band_rank=47&Refer=top) 36346
 1. [时代少年团正式官宣广州站](https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%AD%A3%E5%BC%8F%E5%AE%98%E5%AE%A3%E5%B9%BF%E5%B7%9E%E7%AB%99%23&t=31&band_rank=48&Refer=top) 36308
 1. [WBG 对线](https://s.weibo.com/weibo?q=WBG%20%E5%AF%B9%E7%BA%BF&t=31&band_rank=50&Refer=top) 36230
-1. [檀健次这透屏而来的杀气不像演的](https://s.weibo.com/weibo?q=%E6%AA%80%E5%81%A5%E6%AC%A1%E8%BF%99%E9%80%8F%E5%B1%8F%E8%80%8C%E6%9D%A5%E7%9A%84%E6%9D%80%E6%B0%94%E4%B8%8D%E5%83%8F%E6%BC%94%E7%9A%84&t=31&band_rank=26&Refer=top) 19071
-1. [男孩被绳锁喉的肇事方或被追究刑责](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E8%A2%AB%E7%BB%B3%E9%94%81%E5%96%89%E7%9A%84%E8%82%87%E4%BA%8B%E6%96%B9%E6%88%96%E8%A2%AB%E8%BF%BD%E7%A9%B6%E5%88%91%E8%B4%A3%23&t=31&band_rank=31&Refer=top) 19068
-1. [欧尔班16年执政生涯将落幕](https://s.weibo.com/weibo?q=%23%E6%AC%A7%E5%B0%94%E7%8F%AD16%E5%B9%B4%E6%89%A7%E6%94%BF%E7%94%9F%E6%B6%AF%E5%B0%86%E8%90%BD%E5%B9%95%23&t=31&band_rank=34&Refer=top) 19067
-1. [周深演唱会](https://s.weibo.com/weibo?q=%E5%91%A8%E6%B7%B1%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=37&Refer=top) 19066
-1. [粉海豚出水打招呼](https://s.weibo.com/weibo?q=%23%E7%B2%89%E6%B5%B7%E8%B1%9A%E5%87%BA%E6%B0%B4%E6%89%93%E6%8B%9B%E5%91%BC%23&t=31&band_rank=40&Refer=top) 19064
-1. [女子宫外孕被误诊月经不调痛到晕厥](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%AE%AB%E5%A4%96%E5%AD%95%E8%A2%AB%E8%AF%AF%E8%AF%8A%E6%9C%88%E7%BB%8F%E4%B8%8D%E8%B0%83%E7%97%9B%E5%88%B0%E6%99%95%E5%8E%A5%23&t=31&band_rank=48&Refer=top) 19061
+1. [1岁宝宝被排队摸脸萌化了](https://s.weibo.com/weibo?q=%231%E5%B2%81%E5%AE%9D%E5%AE%9D%E8%A2%AB%E6%8E%92%E9%98%9F%E6%91%B8%E8%84%B8%E8%90%8C%E5%8C%96%E4%BA%86%23&t=31&band_rank=27&Refer=top) 20509
+1. [檀健次这透屏而来的杀气不像演的](https://s.weibo.com/weibo?q=%E6%AA%80%E5%81%A5%E6%AC%A1%E8%BF%99%E9%80%8F%E5%B1%8F%E8%80%8C%E6%9D%A5%E7%9A%84%E6%9D%80%E6%B0%94%E4%B8%8D%E5%83%8F%E6%BC%94%E7%9A%84&t=31&band_rank=26&Refer=top) 20507
+1. [欧尔班16年执政生涯将落幕](https://s.weibo.com/weibo?q=%23%E6%AC%A7%E5%B0%94%E7%8F%AD16%E5%B9%B4%E6%89%A7%E6%94%BF%E7%94%9F%E6%B6%AF%E5%B0%86%E8%90%BD%E5%B9%95%23&t=31&band_rank=34&Refer=top) 20502
+1. [粉海豚出水打招呼](https://s.weibo.com/weibo?q=%23%E7%B2%89%E6%B5%B7%E8%B1%9A%E5%87%BA%E6%B0%B4%E6%89%93%E6%8B%9B%E5%91%BC%23&t=31&band_rank=40&Refer=top) 20487
+1. [女子宫外孕被误诊月经不调痛到晕厥](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%AE%AB%E5%A4%96%E5%AD%95%E8%A2%AB%E8%AF%AF%E8%AF%8A%E6%9C%88%E7%BB%8F%E4%B8%8D%E8%B0%83%E7%97%9B%E5%88%B0%E6%99%95%E5%8E%A5%23&t=31&band_rank=48&Refer=top) 20484
+1. [男孩被绳锁喉的肇事方或被追究刑责](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E8%A2%AB%E7%BB%B3%E9%94%81%E5%96%89%E7%9A%84%E8%82%87%E4%BA%8B%E6%96%B9%E6%88%96%E8%A2%AB%E8%BF%BD%E7%A9%B6%E5%88%91%E8%B4%A3%23&t=31&band_rank=31&Refer=top) 20482
+1. [周深演唱会](https://s.weibo.com/weibo?q=%E5%91%A8%E6%B7%B1%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=37&Refer=top) 20481
 <!-- END -->
 
 历史归档 [./archives](./archives)
