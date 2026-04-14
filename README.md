@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-04-15 03:21:05.893431 
+最后更新时间 2026-04-15 04:58:24.772652 
 1. [4人合伙买彩票中500万后起纠纷](https://s.weibo.com/weibo?q=%234%E4%BA%BA%E5%90%88%E4%BC%99%E4%B9%B0%E5%BD%A9%E7%A5%A8%E4%B8%AD500%E4%B8%87%E5%90%8E%E8%B5%B7%E7%BA%A0%E7%BA%B7%23&t=31&band_rank=1&Refer=top) 534713
 1. [五一飞往东南亚航班大规模取消](https://s.weibo.com/weibo?q=%23%E4%BA%94%E4%B8%80%E9%A3%9E%E5%BE%80%E4%B8%9C%E5%8D%97%E4%BA%9A%E8%88%AA%E7%8F%AD%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%8F%96%E6%B6%88%23&t=31&band_rank=2&Refer=top) 375204
 1. [赏花经济点亮乡村振兴新图景](https://s.weibo.com/weibo?q=%23%E8%B5%8F%E8%8A%B1%E7%BB%8F%E6%B5%8E%E7%82%B9%E4%BA%AE%E4%B9%A1%E6%9D%91%E6%8C%AF%E5%85%B4%E6%96%B0%E5%9B%BE%E6%99%AF%23&t=31&band_rank=3&Refer=top) 298543
@@ -21,7 +21,7 @@
 1. [网传虞书欣邓为主演神仙肉](https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E8%99%9E%E4%B9%A6%E6%AC%A3%E9%82%93%E4%B8%BA%E4%B8%BB%E6%BC%94%E7%A5%9E%E4%BB%99%E8%82%89%23&t=31&band_rank=11&Refer=top) 57225
 1. [胖东来多宝鱼被指吃出溯源标签](https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E5%A4%9A%E5%AE%9D%E9%B1%BC%E8%A2%AB%E6%8C%87%E5%90%83%E5%87%BA%E6%BA%AF%E6%BA%90%E6%A0%87%E7%AD%BE%23&t=31&band_rank=12&Refer=top) 54538
 1. [十日终焉移动大棚](https://s.weibo.com/weibo?q=%23%E5%8D%81%E6%97%A5%E7%BB%88%E7%84%89%E7%A7%BB%E5%8A%A8%E5%A4%A7%E6%A3%9A%23&t=31&band_rank=13&Refer=top) 51871
-1. [网友给拼豆店提建议被老板一一反驳](https://s.weibo.com/weibo?q=%E7%BD%91%E5%8F%8B%E7%BB%99%E6%8B%BC%E8%B1%86%E5%BA%97%E6%8F%90%E5%BB%BA%E8%AE%AE%E8%A2%AB%E8%80%81%E6%9D%BF%E4%B8%80%E4%B8%80%E5%8F%8D%E9%A9%B3&t=31&band_rank=29&Refer=top) 46460
+1. [网友给拼豆店提建议被老板一一反驳](https://s.weibo.com/weibo?q=%E7%BD%91%E5%8F%8B%E7%BB%99%E6%8B%BC%E8%B1%86%E5%BA%97%E6%8F%90%E5%BB%BA%E8%AE%AE%E8%A2%AB%E8%80%81%E6%9D%BF%E4%B8%80%E4%B8%80%E5%8F%8D%E9%A9%B3&t=31&band_rank=29&Refer=top) 47069
 1. [41岁男子戴隐形眼镜睡一夜后失明](https://s.weibo.com/weibo?q=%2341%E5%B2%81%E7%94%B7%E5%AD%90%E6%88%B4%E9%9A%90%E5%BD%A2%E7%9C%BC%E9%95%9C%E7%9D%A1%E4%B8%80%E5%A4%9C%E5%90%8E%E5%A4%B1%E6%98%8E%23&t=31&band_rank=14&Refer=top) 44765
 1. [尹锡悦夫妇法庭相见细节曝光](https://s.weibo.com/weibo?q=%23%E5%B0%B9%E9%94%A1%E6%82%A6%E5%A4%AB%E5%A6%87%E6%B3%95%E5%BA%AD%E7%9B%B8%E8%A7%81%E7%BB%86%E8%8A%82%E6%9B%9D%E5%85%89%23&t=31&band_rank=15&Refer=top) 43639
 1. [33岁抗癌博主去世](https://s.weibo.com/weibo?q=%2333%E5%B2%81%E6%8A%97%E7%99%8C%E5%8D%9A%E4%B8%BB%E5%8E%BB%E4%B8%96%23&t=31&band_rank=16&Refer=top) 43434
