@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-04-18 00:07:52.293658 
+最后更新时间 2026-04-18 01:52:24.341406 
 1. [霍尔木兹海峡开放](https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E5%BC%80%E6%94%BE%23&t=31&band_rank=1&Refer=top) 1180409
 1. [氧化菊 泼水节](https://s.weibo.com/weibo?q=%E6%B0%A7%E5%8C%96%E8%8F%8A%20%E6%B3%BC%E6%B0%B4%E8%8A%82&t=31&band_rank=2&Refer=top) 1101880
 1. [中国经济在风浪中稳住了发展底盘](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%9C%A8%E9%A3%8E%E6%B5%AA%E4%B8%AD%E7%A8%B3%E4%BD%8F%E4%BA%86%E5%8F%91%E5%B1%95%E5%BA%95%E7%9B%98%23&t=31&band_rank=3&Refer=top) 847753
@@ -16,6 +16,8 @@
 1. [雷军达成京沪高速只充一次电](https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E8%BE%BE%E6%88%90%E4%BA%AC%E6%B2%AA%E9%AB%98%E9%80%9F%E5%8F%AA%E5%85%85%E4%B8%80%E6%AC%A1%E7%94%B5%23&t=31&band_rank=6&Refer=top) 646168
 1. [麦当劳肯德基 宿敌cp](https://s.weibo.com/weibo?q=%E9%BA%A6%E5%BD%93%E5%8A%B3%E8%82%AF%E5%BE%B7%E5%9F%BA%20%E5%AE%BF%E6%95%8Ccp&t=31&band_rank=7&Refer=top) 599076
 1. [张雪机车荷兰站](https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E8%8D%B7%E5%85%B0%E7%AB%99&t=31&band_rank=8&Refer=top) 575480
+1. [张雪机车夺得超级杆位赛第二名](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E5%A4%BA%E5%BE%97%E8%B6%85%E7%BA%A7%E6%9D%86%E4%BD%8D%E8%B5%9B%E7%AC%AC%E4%BA%8C%E5%90%8D%23&t=31&band_rank=50&Refer=top) 366660
+1. [日本叫嚣击沉中国航母](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8F%AB%E5%9A%A3%E5%87%BB%E6%B2%89%E4%B8%AD%E5%9B%BD%E8%88%AA%E6%AF%8D%23&t=31&band_rank=4&Refer=top) 328334
 1. [魏晨现身张杰演唱会](https://s.weibo.com/weibo?q=%23%E9%AD%8F%E6%99%A8%E7%8E%B0%E8%BA%AB%E5%BC%A0%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=9&Refer=top) 309593
 1. [21世纪大君夫人](https://s.weibo.com/weibo?q=21%E4%B8%96%E7%BA%AA%E5%A4%A7%E5%90%9B%E5%A4%AB%E4%BA%BA&t=31&band_rank=10&Refer=top) 290886
 1. [黄金](https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91&t=31&band_rank=11&Refer=top) 290189
@@ -57,7 +59,20 @@
 1. [东莞理工学院回应学生送外卖被通报](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E8%8E%9E%E7%90%86%E5%B7%A5%E5%AD%A6%E9%99%A2%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E9%80%81%E5%A4%96%E5%8D%96%E8%A2%AB%E9%80%9A%E6%8A%A5%23&t=31&band_rank=47&Refer=top) 209011
 1. [谢娜喊杜海涛唱小声点](https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E5%96%8A%E6%9D%9C%E6%B5%B7%E6%B6%9B%E5%94%B1%E5%B0%8F%E5%A3%B0%E7%82%B9%23&t=31&band_rank=48&Refer=top) 208383
 1. [温峥嵘二公选人被拒绝五次](https://s.weibo.com/weibo?q=%23%E6%B8%A9%E5%B3%A5%E5%B5%98%E4%BA%8C%E5%85%AC%E9%80%89%E4%BA%BA%E8%A2%AB%E6%8B%92%E7%BB%9D%E4%BA%94%E6%AC%A1%23&t=31&band_rank=49&Refer=top) 206586
-1. [张雪机车夺得超级杆位赛第二名](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E5%A4%BA%E5%BE%97%E8%B6%85%E7%BA%A7%E6%9D%86%E4%BD%8D%E8%B5%9B%E7%AC%AC%E4%BA%8C%E5%90%8D%23&t=31&band_rank=50&Refer=top) 205485
+1. [东部战区回应日舰过航台湾海峡](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E5%9B%9E%E5%BA%94%E6%97%A5%E8%88%B0%E8%BF%87%E8%88%AA%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1%23&t=31&band_rank=12&Refer=top) 192199
+1. [小米新SU7续航](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%96%B0SU7%E7%BB%AD%E8%88%AA%23&t=31&band_rank=31&Refer=top) 95933
+1. [张子枫马嘉祺片场碎片](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%AD%90%E6%9E%AB%E9%A9%AC%E5%98%89%E7%A5%BA%E7%89%87%E5%9C%BA%E7%A2%8E%E7%89%87%23&t=31&band_rank=32&Refer=top) 95877
+1. [伊朗对所有商船开放霍尔木兹海峡](https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%AF%B9%E6%89%80%E6%9C%89%E5%95%86%E8%88%B9%E5%BC%80%E6%94%BE%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%23&t=31&band_rank=33&Refer=top) 95772
+1. [在韩骚扰中国女生日籍男子已离境](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E9%9F%A9%E9%AA%9A%E6%89%B0%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%94%9F%E6%97%A5%E7%B1%8D%E7%94%B7%E5%AD%90%E5%B7%B2%E7%A6%BB%E5%A2%83%23&t=31&band_rank=34&Refer=top) 95634
+1. [伊朗开放霍尔木兹油价应声暴跌](https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%BC%80%E6%94%BE%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B2%B9%E4%BB%B7%E5%BA%94%E5%A3%B0%E6%9A%B4%E8%B7%8C%23&t=31&band_rank=35&Refer=top) 95451
+1. [杭州滨江通报共用针头采血事件](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E6%BB%A8%E6%B1%9F%E9%80%9A%E6%8A%A5%E5%85%B1%E7%94%A8%E9%92%88%E5%A4%B4%E9%87%87%E8%A1%80%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=36&Refer=top) 95278
+1. [孙颖莎巨型卡通装饰](https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E5%B7%A8%E5%9E%8B%E5%8D%A1%E9%80%9A%E8%A3%85%E9%A5%B0&t=31&band_rank=40&Refer=top) 94741
+1. [摊主因借给学生手机被家长逼到下跪](https://s.weibo.com/weibo?q=%E6%91%8A%E4%B8%BB%E5%9B%A0%E5%80%9F%E7%BB%99%E5%AD%A6%E7%94%9F%E6%89%8B%E6%9C%BA%E8%A2%AB%E5%AE%B6%E9%95%BF%E9%80%BC%E5%88%B0%E4%B8%8B%E8%B7%AA&t=31&band_rank=41&Refer=top) 94674
+1. [医院回应女子同房后失血性休克](https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E5%90%8C%E6%88%BF%E5%90%8E%E5%A4%B1%E8%A1%80%E6%80%A7%E4%BC%91%E5%85%8B%23&t=31&band_rank=43&Refer=top) 94393
+1. [特朗普称美伊协议关键条款大多谈妥](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E4%BC%8A%E5%8D%8F%E8%AE%AE%E5%85%B3%E9%94%AE%E6%9D%A1%E6%AC%BE%E5%A4%A7%E5%A4%9A%E8%B0%88%E5%A6%A5%23&t=31&band_rank=45&Refer=top) 94061
+1. [博主身份疑似被男同学盗用5年](https://s.weibo.com/weibo?q=%E5%8D%9A%E4%B8%BB%E8%BA%AB%E4%BB%BD%E7%96%91%E4%BC%BC%E8%A2%AB%E7%94%B7%E5%90%8C%E5%AD%A6%E7%9B%97%E7%94%A85%E5%B9%B4&t=31&band_rank=47&Refer=top) 93809
+1. [张雪机车的新涂装](https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E7%9A%84%E6%96%B0%E6%B6%82%E8%A3%85&t=31&band_rank=49&Refer=top) 93587
+1. [女儿摆酒庆祝爸妈离婚](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E6%91%86%E9%85%92%E5%BA%86%E7%A5%9D%E7%88%B8%E5%A6%88%E7%A6%BB%E5%A9%9A%23&t=31&band_rank=50&Refer=top) 93453
 <!-- END -->
 
 历史归档 [./archives](./archives)
