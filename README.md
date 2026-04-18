@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-04-19 04:40:53.585757 
+最后更新时间 2026-04-19 05:39:05.668187 
 1. [宿迁vs南京](https://s.weibo.com/weibo?q=%23%E5%AE%BF%E8%BF%81vs%E5%8D%97%E4%BA%AC%23&t=31&band_rank=1&Refer=top) 764834
 1. [日本已彻底撕掉伪装](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B7%B2%E5%BD%BB%E5%BA%95%E6%92%95%E6%8E%89%E4%BC%AA%E8%A3%85%23&t=31&band_rank=2&Refer=top) 680571
 1. [生态文旅激活消费新活力](https://s.weibo.com/weibo?q=%23%E7%94%9F%E6%80%81%E6%96%87%E6%97%85%E6%BF%80%E6%B4%BB%E6%B6%88%E8%B4%B9%E6%96%B0%E6%B4%BB%E5%8A%9B%23&t=31&band_rank=3&Refer=top) 512537
@@ -35,6 +35,7 @@
 1. [五一航班大面积取消](https://s.weibo.com/weibo?q=%23%E4%BA%94%E4%B8%80%E8%88%AA%E7%8F%AD%E5%A4%A7%E9%9D%A2%E7%A7%AF%E5%8F%96%E6%B6%88%23&t=31&band_rank=22&Refer=top) 192665
 1. [梅婷女儿名字叫曾慕梅](https://s.weibo.com/weibo?q=%23%E6%A2%85%E5%A9%B7%E5%A5%B3%E5%84%BF%E5%90%8D%E5%AD%97%E5%8F%AB%E6%9B%BE%E6%85%95%E6%A2%85%23&t=31&band_rank=23&Refer=top) 189307
 1. [内耗人的终极解药](https://s.weibo.com/weibo?q=%E5%86%85%E8%80%97%E4%BA%BA%E7%9A%84%E7%BB%88%E6%9E%81%E8%A7%A3%E8%8D%AF&t=31&band_rank=24&Refer=top) 186501
+1. [人与人其实更多的是相逢恨早](https://s.weibo.com/weibo?q=%E4%BA%BA%E4%B8%8E%E4%BA%BA%E5%85%B6%E5%AE%9E%E6%9B%B4%E5%A4%9A%E7%9A%84%E6%98%AF%E7%9B%B8%E9%80%A2%E6%81%A8%E6%97%A9&t=31&band_rank=10&Refer=top) 184507
 1. [京东让何润东项羽还原度封神](https://s.weibo.com/weibo?q=%23%E4%BA%AC%E4%B8%9C%E8%AE%A9%E4%BD%95%E6%B6%A6%E4%B8%9C%E9%A1%B9%E7%BE%BD%E8%BF%98%E5%8E%9F%E5%BA%A6%E5%B0%81%E7%A5%9E%23&t=31&band_rank=26&Refer=top) 181886
 1. [解放军护卫舰已随时准备开火](https://s.weibo.com/weibo?q=%23%E8%A7%A3%E6%94%BE%E5%86%9B%E6%8A%A4%E5%8D%AB%E8%88%B0%E5%B7%B2%E9%9A%8F%E6%97%B6%E5%87%86%E5%A4%87%E5%BC%80%E7%81%AB%23&t=31&band_rank=27&Refer=top) 178113
 1. [林允儿棒球开球](https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%85%81%E5%84%BF%E6%A3%92%E7%90%83%E5%BC%80%E7%90%83%23&t=31&band_rank=28&Refer=top) 177794
@@ -74,14 +75,14 @@
 1. [亚马逊创始人与56岁妻子正积极备孕](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E9%A9%AC%E9%80%8A%E5%88%9B%E5%A7%8B%E4%BA%BA%E4%B8%8E56%E5%B2%81%E5%A6%BB%E5%AD%90%E6%AD%A3%E7%A7%AF%E6%9E%81%E5%A4%87%E5%AD%95%23&t=31&band_rank=45&Refer=top) 136713
 1. [蓝莓摊泼水节被洗劫一空摊主发声](https://s.weibo.com/weibo?q=%23%E8%93%9D%E8%8E%93%E6%91%8A%E6%B3%BC%E6%B0%B4%E8%8A%82%E8%A2%AB%E6%B4%97%E5%8A%AB%E4%B8%80%E7%A9%BA%E6%91%8A%E4%B8%BB%E5%8F%91%E5%A3%B0%23&t=31&band_rank=47&Refer=top) 136607
 1. [张雪机车首回合第4](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E9%A6%96%E5%9B%9E%E5%90%88%E7%AC%AC4%23&t=31&band_rank=50&Refer=top) 136456
-1. [人与人其实更多的是相逢恨早](https://s.weibo.com/weibo?q=%E4%BA%BA%E4%B8%8E%E4%BA%BA%E5%85%B6%E5%AE%9E%E6%9B%B4%E5%A4%9A%E7%9A%84%E6%98%AF%E7%9B%B8%E9%80%A2%E6%81%A8%E6%97%A9&t=31&band_rank=10&Refer=top) 111914
 1. [日本驱逐舰过航台湾海峡取证画面](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%A9%B1%E9%80%90%E8%88%B0%E8%BF%87%E8%88%AA%E5%8F%B0%E6%B9%BE%E6%B5%B7%E5%B3%A1%E5%8F%96%E8%AF%81%E7%94%BB%E9%9D%A2%23&t=31&band_rank=27&Refer=top) 108105
 1. [以色列社会悲观情绪主导](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E7%A4%BE%E4%BC%9A%E6%82%B2%E8%A7%82%E6%83%85%E7%BB%AA%E4%B8%BB%E5%AF%BC%23&t=31&band_rank=33&Refer=top) 107309
 1. [范丞丞综艺感](https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E7%BB%BC%E8%89%BA%E6%84%9F%23&t=31&band_rank=35&Refer=top) 106967
 1. [属于我的8小时到哪去了](https://s.weibo.com/weibo?q=%E5%B1%9E%E4%BA%8E%E6%88%91%E7%9A%848%E5%B0%8F%E6%97%B6%E5%88%B0%E5%93%AA%E5%8E%BB%E4%BA%86&t=31&band_rank=41&Refer=top) 106095
 1. [张雪机车回应首回合第4](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E5%9B%9E%E5%BA%94%E9%A6%96%E5%9B%9E%E5%90%88%E7%AC%AC4%23&t=31&band_rank=50&Refer=top) 104722
+1. [风扇乱流 灭蚊子](https://s.weibo.com/weibo?q=%E9%A3%8E%E6%89%87%E4%B9%B1%E6%B5%81%20%E7%81%AD%E8%9A%8A%E5%AD%90&t=31&band_rank=5&Refer=top) 103337
+1. [解放军跟监警戒日驱逐舰画面](https://s.weibo.com/weibo?q=%23%E8%A7%A3%E6%94%BE%E5%86%9B%E8%B7%9F%E7%9B%91%E8%AD%A6%E6%88%92%E6%97%A5%E9%A9%B1%E9%80%90%E8%88%B0%E7%94%BB%E9%9D%A2%23&t=31&band_rank=49&Refer=top) 33121
 1. [张雪机车荷兰站第二名发车](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E8%8D%B7%E5%85%B0%E7%AB%99%E7%AC%AC%E4%BA%8C%E5%90%8D%E5%8F%91%E8%BD%A6%23&t=31&band_rank=45&Refer=top) 27770
-1. [解放军跟监警戒日驱逐舰画面](https://s.weibo.com/weibo?q=%23%E8%A7%A3%E6%94%BE%E5%86%9B%E8%B7%9F%E7%9B%91%E8%AD%A6%E6%88%92%E6%97%A5%E9%A9%B1%E9%80%90%E8%88%B0%E7%94%BB%E9%9D%A2%23&t=31&band_rank=49&Refer=top) 27770
 <!-- END -->
 
 历史归档 [./archives](./archives)
