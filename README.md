@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-04-20 03:43:14.508474 
+最后更新时间 2026-04-20 04:41:57.372071 
 1. [金像奖影后廖子妤](https://s.weibo.com/weibo?q=%E9%87%91%E5%83%8F%E5%A5%96%E5%BD%B1%E5%90%8E%E5%BB%96%E5%AD%90%E5%A6%A4&t=31&band_rank=1&Refer=top) 1275326
 1. [张雪机车比赛因红旗中断](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E6%AF%94%E8%B5%9B%E5%9B%A0%E7%BA%A2%E6%97%97%E4%B8%AD%E6%96%AD%23&t=31&band_rank=2&Refer=top) 650824
 1. [新农人玩转种菜黑科技](https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%86%9C%E4%BA%BA%E7%8E%A9%E8%BD%AC%E7%A7%8D%E8%8F%9C%E9%BB%91%E7%A7%91%E6%8A%80%23&t=31&band_rank=3&Refer=top) 515448
@@ -78,6 +78,7 @@
 1. [东部战区舰艇编队赴西太海域开展演训](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E8%88%B0%E8%89%87%E7%BC%96%E9%98%9F%E8%B5%B4%E8%A5%BF%E5%A4%AA%E6%B5%B7%E5%9F%9F%E5%BC%80%E5%B1%95%E6%BC%94%E8%AE%AD%23&t=31&band_rank=44&Refer=top) 34108
 1. [孙颖莎萌萌奔向训练馆](https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E8%90%8C%E8%90%8C%E5%A5%94%E5%90%91%E8%AE%AD%E7%BB%83%E9%A6%86&t=31&band_rank=46&Refer=top) 34084
 1. [肖战听到围观睡觉的反应](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%90%AC%E5%88%B0%E5%9B%B4%E8%A7%82%E7%9D%A1%E8%A7%89%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=50&Refer=top) 34048
+1. [莱巴金娜斯图加特夺冠](https://s.weibo.com/weibo?q=%23%E8%8E%B1%E5%B7%B4%E9%87%91%E5%A8%9C%E6%96%AF%E5%9B%BE%E5%8A%A0%E7%89%B9%E5%A4%BA%E5%86%A0%23&t=31&band_rank=33&Refer=top) 33437
 <!-- END -->
 
 历史归档 [./archives](./archives)
