@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-04-22 01:06:30.437191 
+最后更新时间 2026-04-22 03:17:38.353119 
 1. [灵魂摆渡电影全AI生成](https://s.weibo.com/weibo?q=%23%E7%81%B5%E9%AD%82%E6%91%86%E6%B8%A1%E7%94%B5%E5%BD%B1%E5%85%A8AI%E7%94%9F%E6%88%90%23&t=31&band_rank=1&Refer=top) 627709
 1. [义乌请量产吧](https://s.weibo.com/weibo?q=%E4%B9%89%E4%B9%8C%E8%AF%B7%E9%87%8F%E4%BA%A7%E5%90%A7&t=31&band_rank=2&Refer=top) 456877
 1. [中国工业成绩单亮了](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%B7%A5%E4%B8%9A%E6%88%90%E7%BB%A9%E5%8D%95%E4%BA%AE%E4%BA%86%23&t=31&band_rank=3&Refer=top) 369541
@@ -58,6 +58,11 @@
 1. [父母再生7弟20岁小伙直言扛不动](https://s.weibo.com/weibo?q=%23%E7%88%B6%E6%AF%8D%E5%86%8D%E7%94%9F7%E5%BC%9F20%E5%B2%81%E5%B0%8F%E4%BC%99%E7%9B%B4%E8%A8%80%E6%89%9B%E4%B8%8D%E5%8A%A8%23&t=31&band_rank=48&Refer=top) 165935
 1. [乔布斯曾说绝不能让营销人员成为CEO](https://s.weibo.com/weibo?q=%23%E4%B9%94%E5%B8%83%E6%96%AF%E6%9B%BE%E8%AF%B4%E7%BB%9D%E4%B8%8D%E8%83%BD%E8%AE%A9%E8%90%A5%E9%94%80%E4%BA%BA%E5%91%98%E6%88%90%E4%B8%BACEO%23&t=31&band_rank=49&Refer=top) 165838
 1. [老外回国后得连夜写篇意林](https://s.weibo.com/weibo?q=%E8%80%81%E5%A4%96%E5%9B%9E%E5%9B%BD%E5%90%8E%E5%BE%97%E8%BF%9E%E5%A4%9C%E5%86%99%E7%AF%87%E6%84%8F%E6%9E%97&t=31&band_rank=50&Refer=top) 165781
+1. [女孩为何宁愿坐牢也不配合追回打赏](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E4%B8%BA%E4%BD%95%E5%AE%81%E6%84%BF%E5%9D%90%E7%89%A2%E4%B9%9F%E4%B8%8D%E9%85%8D%E5%90%88%E8%BF%BD%E5%9B%9E%E6%89%93%E8%B5%8F%23&t=31&band_rank=11&Refer=top) 83015
+1. [赵雨蝶一审死缓](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9B%A8%E8%9D%B6%E4%B8%80%E5%AE%A1%E6%AD%BB%E7%BC%93%23&t=31&band_rank=24&Refer=top) 52742
+1. [红米K90Max发布会](https://s.weibo.com/weibo?q=%23%E7%BA%A2%E7%B1%B3K90Max%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=44&Refer=top) 45912
+1. [车界的AI新品牌来了](https://s.weibo.com/weibo?q=%23%E8%BD%A6%E7%95%8C%E7%9A%84AI%E6%96%B0%E5%93%81%E7%89%8C%E6%9D%A5%E4%BA%86%23&t=31&band_rank=48&Refer=top) 45889
+1. [杨蓉面部烫伤恢复近照](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%93%89%E9%9D%A2%E9%83%A8%E7%83%AB%E4%BC%A4%E6%81%A2%E5%A4%8D%E8%BF%91%E7%85%A7%23&t=31&band_rank=50&Refer=top) 45884
 <!-- END -->
 
 历史归档 [./archives](./archives)
