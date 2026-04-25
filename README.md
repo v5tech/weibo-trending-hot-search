@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-04-26 01:40:27.843032 
+最后更新时间 2026-04-26 02:58:33.184005 
 1. [副所长为完成任务设计让6人吸毒](https://s.weibo.com/weibo?q=%23%E5%89%AF%E6%89%80%E9%95%BF%E4%B8%BA%E5%AE%8C%E6%88%90%E4%BB%BB%E5%8A%A1%E8%AE%BE%E8%AE%A1%E8%AE%A96%E4%BA%BA%E5%90%B8%E6%AF%92%23&t=31&band_rank=1&Refer=top) 1402221
 1. [青岛警方致歉](https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B%E8%AD%A6%E6%96%B9%E8%87%B4%E6%AD%89%23&t=31&band_rank=2&Refer=top) 1043504
 1. [开局之年看中国](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%B1%80%E4%B9%8B%E5%B9%B4%E7%9C%8B%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top) 821224
@@ -68,6 +68,10 @@
 1. [Angelababy两套高定](https://s.weibo.com/weibo?q=%23Angelababy%E4%B8%A4%E5%A5%97%E9%AB%98%E5%AE%9A%23&t=31&band_rank=41&Refer=top) 153629
 1. [程潇完全花仙子](https://s.weibo.com/weibo?q=%E7%A8%8B%E6%BD%87%E5%AE%8C%E5%85%A8%E8%8A%B1%E4%BB%99%E5%AD%90&t=31&band_rank=42&Refer=top) 153445
 1. [华晨宇我们等你](https://s.weibo.com/weibo?q=%E5%8D%8E%E6%99%A8%E5%AE%87%E6%88%91%E4%BB%AC%E7%AD%89%E4%BD%A0&t=31&band_rank=47&Refer=top) 151307
+1. [谢娜哭了](https://s.weibo.com/weibo?q=%E8%B0%A2%E5%A8%9C%E5%93%AD%E4%BA%86&t=31&band_rank=17&Refer=top) 144258
+1. [LGDNBW晋级挑杯十六强](https://s.weibo.com/weibo?q=%23LGDNBW%E6%99%8B%E7%BA%A7%E6%8C%91%E6%9D%AF%E5%8D%81%E5%85%AD%E5%BC%BA%23&t=31&band_rank=35&Refer=top) 140208
+1. [明日方舟可露希尔](https://s.weibo.com/weibo?q=%23%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F%E5%8F%AF%E9%9C%B2%E5%B8%8C%E5%B0%94%23&t=31&band_rank=41&Refer=top) 138848
+1. [伊朗武装部队强硬回应美军](https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%AD%A6%E8%A3%85%E9%83%A8%E9%98%9F%E5%BC%BA%E7%A1%AC%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%86%9B%23&t=31&band_rank=50&Refer=top) 136664
 <!-- END -->
 
 历史归档 [./archives](./archives)
