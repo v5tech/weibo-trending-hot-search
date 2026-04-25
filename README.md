@@ -7,12 +7,12 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-04-26 05:39:16.698746 
+最后更新时间 2026-04-26 06:40:34.360662 
 1. [副所长为完成任务设计让6人吸毒](https://s.weibo.com/weibo?q=%23%E5%89%AF%E6%89%80%E9%95%BF%E4%B8%BA%E5%AE%8C%E6%88%90%E4%BB%BB%E5%8A%A1%E8%AE%BE%E8%AE%A1%E8%AE%A96%E4%BA%BA%E5%90%B8%E6%AF%92%23&t=31&band_rank=1&Refer=top) 1402221
 1. [青岛警方致歉](https://s.weibo.com/weibo?q=%23%E9%9D%92%E5%B2%9B%E8%AD%A6%E6%96%B9%E8%87%B4%E6%AD%89%23&t=31&band_rank=2&Refer=top) 1043504
 1. [开局之年看中国](https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%B1%80%E4%B9%8B%E5%B9%B4%E7%9C%8B%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top) 821224
 1. [者来女淘汰](https://s.weibo.com/weibo?q=%E8%80%85%E6%9D%A5%E5%A5%B3%E6%B7%98%E6%B1%B0&t=31&band_rank=4&Refer=top) 652978
-1. [旅游很多次才知道的事](https://s.weibo.com/weibo?q=%E6%97%85%E6%B8%B8%E5%BE%88%E5%A4%9A%E6%AC%A1%E6%89%8D%E7%9F%A5%E9%81%93%E7%9A%84%E4%BA%8B&t=31&band_rank=5&Refer=top) 448849
+1. [旅游很多次才知道的事](https://s.weibo.com/weibo?q=%E6%97%85%E6%B8%B8%E5%BE%88%E5%A4%9A%E6%AC%A1%E6%89%8D%E7%9F%A5%E9%81%93%E7%9A%84%E4%BA%8B&t=31&band_rank=5&Refer=top) 462772
 1. [齐思钧表情](https://s.weibo.com/weibo?q=%E9%BD%90%E6%80%9D%E9%92%A7%E8%A1%A8%E6%83%85&t=31&band_rank=6&Refer=top) 371978
 1. [李小冉短短两周经历了什么](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B0%8F%E5%86%89%E7%9F%AD%E7%9F%AD%E4%B8%A4%E5%91%A8%E7%BB%8F%E5%8E%86%E4%BA%86%E4%BB%80%E4%B9%88%23&t=31&band_rank=29&Refer=top) 341643
 1. [东方甄选明明离职原因](https://s.weibo.com/weibo?q=%23%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E6%98%8E%E6%98%8E%E7%A6%BB%E8%81%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=7&Refer=top) 341148
@@ -77,8 +77,8 @@
 1. [Angelababy两套高定](https://s.weibo.com/weibo?q=%23Angelababy%E4%B8%A4%E5%A5%97%E9%AB%98%E5%AE%9A%23&t=31&band_rank=41&Refer=top) 153629
 1. [程潇完全花仙子](https://s.weibo.com/weibo?q=%E7%A8%8B%E6%BD%87%E5%AE%8C%E5%85%A8%E8%8A%B1%E4%BB%99%E5%AD%90&t=31&band_rank=42&Refer=top) 153445
 1. [华晨宇我们等你](https://s.weibo.com/weibo?q=%E5%8D%8E%E6%99%A8%E5%AE%87%E6%88%91%E4%BB%AC%E7%AD%89%E4%BD%A0&t=31&band_rank=47&Refer=top) 151307
-1. [五一快点来我撑不住了](https://s.weibo.com/weibo?q=%E4%BA%94%E4%B8%80%E5%BF%AB%E7%82%B9%E6%9D%A5%E6%88%91%E6%92%91%E4%B8%8D%E4%BD%8F%E4%BA%86&t=31&band_rank=22&Refer=top) 45844
-1. [王濛吐槽李小冉](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BF%9B%E5%90%90%E6%A7%BD%E6%9D%8E%E5%B0%8F%E5%86%89%23&t=31&band_rank=24&Refer=top) 44079
+1. [五一快点来我撑不住了](https://s.weibo.com/weibo?q=%E4%BA%94%E4%B8%80%E5%BF%AB%E7%82%B9%E6%9D%A5%E6%88%91%E6%92%91%E4%B8%8D%E4%BD%8F%E4%BA%86&t=31&band_rank=22&Refer=top) 75969
+1. [王濛吐槽李小冉](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BF%9B%E5%90%90%E6%A7%BD%E6%9D%8E%E5%B0%8F%E5%86%89%23&t=31&band_rank=24&Refer=top) 72332
 <!-- END -->
 
 历史归档 [./archives](./archives)
