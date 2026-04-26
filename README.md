@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-04-27 02:59:52.855795 
+最后更新时间 2026-04-27 03:51:39.731945 
 1. [歌手2026](https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B2026&t=31&band_rank=1&Refer=top) 1090376
 1. [身份证照片最接近别人肉眼看到的自己](https://s.weibo.com/weibo?q=%E8%BA%AB%E4%BB%BD%E8%AF%81%E7%85%A7%E7%89%87%E6%9C%80%E6%8E%A5%E8%BF%91%E5%88%AB%E4%BA%BA%E8%82%89%E7%9C%BC%E7%9C%8B%E5%88%B0%E7%9A%84%E8%87%AA%E5%B7%B1&t=31&band_rank=4&Refer=top) 670799
 1. [影视文旅成消费新风口](https://s.weibo.com/weibo?q=%23%E5%BD%B1%E8%A7%86%E6%96%87%E6%97%85%E6%88%90%E6%B6%88%E8%B4%B9%E6%96%B0%E9%A3%8E%E5%8F%A3%23&t=31&band_rank=3&Refer=top) 579700
@@ -65,8 +65,10 @@
 1. [其实张若昀唱歌也很心酸](https://s.weibo.com/weibo?q=%E5%85%B6%E5%AE%9E%E5%BC%A0%E8%8B%A5%E6%98%80%E5%94%B1%E6%AD%8C%E4%B9%9F%E5%BE%88%E5%BF%83%E9%85%B8&t=31&band_rank=41&Refer=top) 131732
 1. [岳云鹏说丁俊晖状态没有赵心童好](https://s.weibo.com/weibo?q=%23%E5%B2%B3%E4%BA%91%E9%B9%8F%E8%AF%B4%E4%B8%81%E4%BF%8A%E6%99%96%E7%8A%B6%E6%80%81%E6%B2%A1%E6%9C%89%E8%B5%B5%E5%BF%83%E7%AB%A5%E5%A5%BD%23&t=31&band_rank=43&Refer=top) 127990
 1. [张小斐 没有讨好感的眼神和动作](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%B0%8F%E6%96%90%20%E6%B2%A1%E6%9C%89%E8%AE%A8%E5%A5%BD%E6%84%9F%E7%9A%84%E7%9C%BC%E7%A5%9E%E5%92%8C%E5%8A%A8%E4%BD%9C&t=31&band_rank=44&Refer=top) 127403
-1. [浴室除霉菌 霉菌视角](https://s.weibo.com/weibo?q=%E6%B5%B4%E5%AE%A4%E9%99%A4%E9%9C%89%E8%8F%8C%20%E9%9C%89%E8%8F%8C%E8%A7%86%E8%A7%92&t=31&band_rank=30&Refer=top) 48370
+1. [浴室除霉菌 霉菌视角](https://s.weibo.com/weibo?q=%E6%B5%B4%E5%AE%A4%E9%99%A4%E9%9C%89%E8%8F%8C%20%E9%9C%89%E8%8F%8C%E8%A7%86%E8%A7%92&t=31&band_rank=30&Refer=top) 126107
 1. [王濛手臂图案](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BF%9B%E6%89%8B%E8%87%82%E5%9B%BE%E6%A1%88%23&t=31&band_rank=49&Refer=top) 40053
+1. [破二 亚军](https://s.weibo.com/weibo?q=%E7%A0%B4%E4%BA%8C%20%E4%BA%9A%E5%86%9B&t=31&band_rank=29&Refer=top) 36756
+1. [女子老太地铁抢座打架谁更该羞愧](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%80%81%E5%A4%AA%E5%9C%B0%E9%93%81%E6%8A%A2%E5%BA%A7%E6%89%93%E6%9E%B6%E8%B0%81%E6%9B%B4%E8%AF%A5%E7%BE%9E%E6%84%A7%23&t=31&band_rank=47&Refer=top) 29864
 <!-- END -->
 
 历史归档 [./archives](./archives)
