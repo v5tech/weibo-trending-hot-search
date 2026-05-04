@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-05-05 02:17:18.747474 
+最后更新时间 2026-05-05 04:18:03.155346 
 1. [国乒急需下一个樊振东王楚钦](https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E6%80%A5%E9%9C%80%E4%B8%8B%E4%B8%80%E4%B8%AA%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%8E%8B%E6%A5%9A%E9%92%A6%23&t=31&band_rank=1&Refer=top) 748357
 1. [世乒赛](https://s.weibo.com/weibo?q=%E4%B8%96%E4%B9%92%E8%B5%9B&t=31&band_rank=2&Refer=top) 657601
 1. [五一特色专列串起万里山河](https://s.weibo.com/weibo?q=%23%E4%BA%94%E4%B8%80%E7%89%B9%E8%89%B2%E4%B8%93%E5%88%97%E4%B8%B2%E8%B5%B7%E4%B8%87%E9%87%8C%E5%B1%B1%E6%B2%B3%23&t=31&band_rank=3&Refer=top) 610231
@@ -64,6 +64,12 @@
 1. [蒯曼1比3巴约](https://s.weibo.com/weibo?q=%23%E8%92%AF%E6%9B%BC1%E6%AF%943%E5%B7%B4%E7%BA%A6%23&t=31&band_rank=47&Refer=top) 129028
 1. [徐良见粉丝求婚当场送喜被](https://s.weibo.com/weibo?q=%23%E5%BE%90%E8%89%AF%E8%A7%81%E7%B2%89%E4%B8%9D%E6%B1%82%E5%A9%9A%E5%BD%93%E5%9C%BA%E9%80%81%E5%96%9C%E8%A2%AB%23&t=31&band_rank=48&Refer=top) 129023
 1. [严浩翔新歌现场](https://s.weibo.com/weibo?q=%23%E4%B8%A5%E6%B5%A9%E7%BF%94%E6%96%B0%E6%AD%8C%E7%8E%B0%E5%9C%BA%23&t=31&band_rank=49&Refer=top) 128992
+1. [支付宝把便利店搞成球迷流水席](https://s.weibo.com/weibo?q=%23%E6%94%AF%E4%BB%98%E5%AE%9D%E6%8A%8A%E4%BE%BF%E5%88%A9%E5%BA%97%E6%90%9E%E6%88%90%E7%90%83%E8%BF%B7%E6%B5%81%E6%B0%B4%E5%B8%AD%23&t=31&band_rank=10&Refer=top) 63760
+1. [美舰在霍尔木兹海峡附近遭伊导弹攻击](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%88%B0%E5%9C%A8%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E9%99%84%E8%BF%91%E9%81%AD%E4%BC%8A%E5%AF%BC%E5%BC%B9%E6%94%BB%E5%87%BB%23&t=31&band_rank=31&Refer=top) 38086
+1. [浏阳烟花厂爆炸救援仍在进行](https://s.weibo.com/weibo?q=%23%E6%B5%8F%E9%98%B3%E7%83%9F%E8%8A%B1%E5%8E%82%E7%88%86%E7%82%B8%E6%95%91%E6%8F%B4%E4%BB%8D%E5%9C%A8%E8%BF%9B%E8%A1%8C%23&t=31&band_rank=32&Refer=top) 38076
+1. [孙颖莎铁血一单](https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E9%93%81%E8%A1%80%E4%B8%80%E5%8D%95&t=31&band_rank=33&Refer=top) 38060
+1. [甜玉米文化盘活多地线下消费](https://s.weibo.com/weibo?q=%23%E7%94%9C%E7%8E%89%E7%B1%B3%E6%96%87%E5%8C%96%E7%9B%98%E6%B4%BB%E5%A4%9A%E5%9C%B0%E7%BA%BF%E4%B8%8B%E6%B6%88%E8%B4%B9%23&t=31&band_rank=34&Refer=top) 38058
+1. [孙颖莎赢了2盘](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E8%B5%A2%E4%BA%862%E7%9B%98%23&t=31&band_rank=43&Refer=top) 37975
 <!-- END -->
 
 历史归档 [./archives](./archives)
