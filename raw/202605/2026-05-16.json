@@ -7,13 +7,13 @@
     "url": "https://s.weibo.com/weibo?q=%E7%BB%99%E9%98%BF%E5%AC%B7%E7%9A%84%E6%83%85%E4%B9%A6&t=31&band_rank=2&Refer=top",
     "hot": 375963
   },
+  "建议喜欢熬夜的反复观看": {
+    "url": "https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E5%96%9C%E6%AC%A2%E7%86%AC%E5%A4%9C%E7%9A%84%E5%8F%8D%E5%A4%8D%E8%A7%82%E7%9C%8B&t=31&band_rank=4&Refer=top",
+    "hot": 372561
+  },
   "天坛的文化与建筑之美": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A9%E5%9D%9B%E7%9A%84%E6%96%87%E5%8C%96%E4%B8%8E%E5%BB%BA%E7%AD%91%E4%B9%8B%E7%BE%8E%23&t=31&band_rank=3&Refer=top",
     "hot": 366532
-  },
-  "建议喜欢熬夜的反复观看": {
-    "url": "https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E5%96%9C%E6%AC%A2%E7%86%AC%E5%A4%9C%E7%9A%84%E5%8F%8D%E5%A4%8D%E8%A7%82%E7%9C%8B&t=31&band_rank=4&Refer=top",
-    "hot": 360174
   },
   "原来是过敏啊还以为脂肪在燃烧": {
     "url": "https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E6%98%AF%E8%BF%87%E6%95%8F%E5%95%8A%E8%BF%98%E4%BB%A5%E4%B8%BA%E8%84%82%E8%82%AA%E5%9C%A8%E7%87%83%E7%83%A7&t=31&band_rank=5&Refer=top",
@@ -198,5 +198,21 @@
   "上海男篮vs北京男篮": {
     "url": "https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E7%94%B7%E7%AF%AEvs%E5%8C%97%E4%BA%AC%E7%94%B7%E7%AF%AE&t=31&band_rank=50&Refer=top",
     "hot": 61138
+  },
+  "中方回应特朗普社媒言论": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A4%BE%E5%AA%92%E8%A8%80%E8%AE%BA%23&t=31&band_rank=41&Refer=top",
+    "hot": 31964
+  },
+  "人是在变强的路上逐渐爱上自己的": {
+    "url": "https://s.weibo.com/weibo?q=%E4%BA%BA%E6%98%AF%E5%9C%A8%E5%8F%98%E5%BC%BA%E7%9A%84%E8%B7%AF%E4%B8%8A%E9%80%90%E6%B8%90%E7%88%B1%E4%B8%8A%E8%87%AA%E5%B7%B1%E7%9A%84&t=31&band_rank=46&Refer=top",
+    "hot": 31702
+  },
+  "业内谈6000万美元拿下世界杯版权": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%9A%E5%86%85%E8%B0%886000%E4%B8%87%E7%BE%8E%E5%85%83%E6%8B%BF%E4%B8%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E7%89%88%E6%9D%83%23&t=31&band_rank=47&Refer=top",
+    "hot": 31665
+  },
+  "樊振东备战欧冠踩场": {
+    "url": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%A4%87%E6%88%98%E6%AC%A7%E5%86%A0%E8%B8%A9%E5%9C%BA&t=31&band_rank=49&Refer=top",
+    "hot": 31557
   }
 }
