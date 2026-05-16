@@ -1,26 +1,35 @@
-import os
+import json
 import re
 from datetime import datetime, timedelta
+from pathlib import Path
+from typing import TypedDict
 
 import requests
 from lxml import etree
 from requests.exceptions import RequestException
 
-import daily_hot_news
-from daily_hot_news import HotEntry
-
 baseurl = 'https://s.weibo.com'
+README = Path('README.md')
 
 
-def _archive_path(date: str, ext: str) -> str:
+class HotEntry(TypedDict):
+    url: str
+    hot: int
+
+
+def _raw_path(date: str) -> Path:
     ym = date[:7].replace('-', '')
-    return f"./archives/{ym}/{date}.{ext}"
+    return Path('raw') / ym / f"{date}.json"
 
 
-def save(filename, content):
-    os.makedirs(os.path.dirname(filename), exist_ok=True)
-    with open(filename, 'w', encoding='utf-8') as f:
-        f.write(content)
+def _archive_path(date: str, ext: str) -> Path:
+    ym = date[:7].replace('-', '')
+    return Path('archives') / ym / f"{date}.{ext}"
+
+
+def save(path: Path, content: str) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(content, encoding='utf-8')
 
 
 def fetch_weibo(url):
@@ -54,6 +63,31 @@ def parse_weibo(content) -> dict[str, HotEntry]:
     return hot_news
 
 
+def load(date: str) -> dict[str, HotEntry]:
+    path = _raw_path(date)
+    if not path.exists():
+        return {}
+    with path.open(encoding='utf-8') as f:
+        return json.load(f)
+
+
+def merge(date: str, new_entries: dict[str, HotEntry]) -> dict[str, HotEntry]:
+    existing = load(date)
+    for k, v in new_entries.items():
+        if k in existing:
+            existing[k]['hot'] = max(int(existing[k]['hot']), int(v['hot']))
+        else:
+            existing[k] = v
+    sorted_snapshot = {
+        k: v for k, v in sorted(existing.items(), key=lambda item: int(item[1]['hot']), reverse=True)
+    }
+    path = _raw_path(date)
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with path.open('w', encoding='utf-8') as f:
+        json.dump(sorted_snapshot, f, ensure_ascii=False, indent=2)
+    return sorted_snapshot
+
+
 def save_csv(date: str, sorted_news: dict[str, HotEntry]) -> None:
     row = f'{date},' + ",".join([k for k, v in sorted_news.items()])
     save(_archive_path(date, 'csv'), row)
@@ -66,10 +100,9 @@ def _render_md_list(news: dict[str, HotEntry]) -> str:
 
 def update_readme(news: dict[str, HotEntry]) -> None:
     block = f'<!-- BEGIN --> \r\n最后更新时间 {datetime.now()} \r\n' + _render_md_list(news) + '\r\n<!-- END -->'
-    with open('./README.md', 'r', encoding='utf-8') as f:
-        readme = f.read()
+    readme = README.read_text(encoding='utf-8')
     content = re.sub(r'<!-- BEGIN -->[\s\S]*<!-- END -->', block, readme)
-    save('./README.md', content)
+    save(README, content)
     print("更新README完毕...")
 
 
@@ -85,7 +118,7 @@ if __name__ == '__main__':
     url = f'{baseurl}/top/summary?cate=realtimehot'
     content = fetch_weibo(url)
     hot_news = parse_weibo(content)
-    sorted_news = daily_hot_news.merge(ymd, hot_news)
+    sorted_news = merge(ymd, hot_news)
     save_csv(ymd, sorted_news)
     update_readme(sorted_news)
     save_archive(ymd, sorted_news)
