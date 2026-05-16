@@ -259,6 +259,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B8%E7%BE%8E%E6%A0%BC%E9%B2%81%E8%82%BD%E5%B0%86%E9%99%90%E8%B4%AD%23&t=31&band_rank=49&Refer=top",
     "hot": 88939
   },
+  "东亚小孩的放弃五件套": {
+    "url": "https://s.weibo.com/weibo?q=%E4%B8%9C%E4%BA%9A%E5%B0%8F%E5%AD%A9%E7%9A%84%E6%94%BE%E5%BC%83%E4%BA%94%E4%BB%B6%E5%A5%97&t=31&band_rank=5&Refer=top",
+    "hot": 83103
+  },
   "切尔西0比1曼城": {
     "url": "https://s.weibo.com/weibo?q=%E5%88%87%E5%B0%94%E8%A5%BF0%E6%AF%941%E6%9B%BC%E5%9F%8E&t=31&band_rank=25&Refer=top",
     "hot": 52554
@@ -274,5 +278,21 @@
   "AG战胜JDG": {
     "url": "https://s.weibo.com/weibo?q=AG%E6%88%98%E8%83%9CJDG&t=31&band_rank=43&Refer=top",
     "hot": 44479
+  },
+  "2026王者荣耀挑战者杯决赛": {
+    "url": "https://s.weibo.com/weibo?q=2026%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%8C%91%E6%88%98%E8%80%85%E6%9D%AF%E5%86%B3%E8%B5%9B&t=31&band_rank=28&Refer=top",
+    "hot": 28913
+  },
+  "招聘时的尴尬被HR轻松接住了": {
+    "url": "https://s.weibo.com/weibo?q=%E6%8B%9B%E8%81%98%E6%97%B6%E7%9A%84%E5%B0%B4%E5%B0%AC%E8%A2%ABHR%E8%BD%BB%E6%9D%BE%E6%8E%A5%E4%BD%8F%E4%BA%86&t=31&band_rank=30&Refer=top",
+    "hot": 27946
+  },
+  "哪些情况不建议用红霉素软膏": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%93%AA%E4%BA%9B%E6%83%85%E5%86%B5%E4%B8%8D%E5%BB%BA%E8%AE%AE%E7%94%A8%E7%BA%A2%E9%9C%89%E7%B4%A0%E8%BD%AF%E8%86%8F%23&t=31&band_rank=31&Refer=top",
+    "hot": 27946
+  },
+  "一诺第十三次进决赛": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%AF%BA%E7%AC%AC%E5%8D%81%E4%B8%89%E6%AC%A1%E8%BF%9B%E5%86%B3%E8%B5%9B%23&t=31&band_rank=50&Refer=top",
+    "hot": 26334
   }
 }
