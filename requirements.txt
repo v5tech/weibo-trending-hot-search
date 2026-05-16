@@ -1,7 +1,2 @@
 requests
-datetime
 lxml
-matplotlib
-imageio
-jieba
-wordcloud
