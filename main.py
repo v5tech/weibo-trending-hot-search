@@ -53,12 +53,12 @@ def parse_weibo(content) -> dict[str, HotEntry]:
     titles = html.xpath(f'{xpath}/text()')
     hrefs = html.xpath(f'{xpath}/@href')
     hots = html.xpath(f'{xpath}/../span/text()')
-    titles = [title.strip() for title in titles]
-    hrefs = [f"{baseurl}{href.strip()}" for href in hrefs]
-    hots = [hot.strip() for hot in hots]
     hot_news = {}
-    for i, title in enumerate(titles):
-        hot_news[title] = {'url': f"{hrefs[i]}", 'hot': int(re.findall(r'\d+', hots[i])[0])}
+    for title, href, hot in zip(titles, hrefs, hots):
+        hot_news[title.strip()] = {
+            'url': baseurl + href.strip(),
+            'hot': int(re.findall(r'\d+', hot.strip())[0]),
+        }
     print("解析完毕...")
     return hot_news
 
@@ -78,9 +78,7 @@ def merge(date: str, new_entries: dict[str, HotEntry]) -> dict[str, HotEntry]:
             existing[k]['hot'] = max(int(existing[k]['hot']), int(v['hot']))
         else:
             existing[k] = v
-    sorted_snapshot = {
-        k: v for k, v in sorted(existing.items(), key=lambda item: int(item[1]['hot']), reverse=True)
-    }
+    sorted_snapshot = dict(sorted(existing.items(), key=lambda item: int(item[1]['hot']), reverse=True))
     path = _raw_path(date)
     path.parent.mkdir(parents=True, exist_ok=True)
     with path.open('w', encoding='utf-8') as f:
@@ -89,13 +87,12 @@ def merge(date: str, new_entries: dict[str, HotEntry]) -> dict[str, HotEntry]:
 
 
 def save_csv(date: str, sorted_news: dict[str, HotEntry]) -> None:
-    row = f'{date},' + ",".join([k for k, v in sorted_news.items()])
+    row = f'{date},' + ",".join(sorted_news)
     save(_archive_path(date, 'csv'), row)
 
 
 def _render_md_list(news: dict[str, HotEntry]) -> str:
-    line = '1. [{title}]({url}) {hot}'
-    return '\n'.join(line.format(title=k, hot=v['hot'], url=v['url']) for k, v in news.items())
+    return '\n'.join(f'1. [{k}]({v["url"]}) {v["hot"]}' for k, v in news.items())
 
 
 def update_readme(news: dict[str, HotEntry]) -> None:
