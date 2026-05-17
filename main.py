@@ -75,10 +75,10 @@ def merge(date: str, new_entries: dict[str, HotEntry]) -> dict[str, HotEntry]:
     existing = load(date)
     for k, v in new_entries.items():
         if k in existing:
-            existing[k]['hot'] = max(int(existing[k]['hot']), int(v['hot']))
+            existing[k]['hot'] = max(existing[k]['hot'], v['hot'])
         else:
             existing[k] = v
-    sorted_snapshot = dict(sorted(existing.items(), key=lambda item: int(item[1]['hot']), reverse=True))
+    sorted_snapshot = dict(sorted(existing.items(), key=lambda item: item[1]['hot'], reverse=True))
     path = _raw_path(date)
     path.parent.mkdir(parents=True, exist_ok=True)
     with path.open('w', encoding='utf-8') as f:
@@ -110,10 +110,8 @@ def save_archive(date: str, news: dict[str, HotEntry]) -> None:
 
 
 if __name__ == '__main__':
-    bjtime = datetime.utcnow() + timedelta(hours=8)
-    ymd = bjtime.strftime("%Y-%m-%d")
-    url = f'{baseurl}/top/summary?cate=realtimehot'
-    content = fetch_weibo(url)
+    ymd = (datetime.utcnow() + timedelta(hours=8)).strftime("%Y-%m-%d")
+    content = fetch_weibo(f'{baseurl}/top/summary?cate=realtimehot')
     hot_news = parse_weibo(content)
     sorted_news = merge(ymd, hot_news)
     save_csv(ymd, sorted_news)
