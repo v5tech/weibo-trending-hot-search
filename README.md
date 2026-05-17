@@ -7,12 +7,13 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-05-18 05:58:41.694174 
+最后更新时间 2026-05-18 07:01:30.134155 
 1. [樊振东0比3大勒布伦](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C0%E6%AF%943%E5%A4%A7%E5%8B%92%E5%B8%83%E4%BC%A6%23&t=31&band_rank=1&Refer=top) 13275443
 1. [樊振东欧冠冠军](https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%AC%A7%E5%86%A0%E5%86%A0%E5%86%9B%23&t=31&band_rank=2&Refer=top) 9304360
 1. [以德润网](https://s.weibo.com/weibo?q=%23%E4%BB%A5%E5%BE%B7%E6%B6%A6%E7%BD%91%23&t=31&band_rank=3&Refer=top) 3740563
 1. [柳州地震](https://s.weibo.com/weibo?q=%E6%9F%B3%E5%B7%9E%E5%9C%B0%E9%9C%87&t=31&band_rank=1&Refer=top) 3420994
 1. [家业 磨皮](https://s.weibo.com/weibo?q=%E5%AE%B6%E4%B8%9A%20%E7%A3%A8%E7%9A%AE&t=31&band_rank=4&Refer=top) 1792888
+1. [广西柳州地震已致3人失联](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E6%9F%B3%E5%B7%9E%E5%9C%B0%E9%9C%87%E5%B7%B2%E8%87%B43%E4%BA%BA%E5%A4%B1%E8%81%94%23&t=31&band_rank=1&Refer=top) 1358988
 1. [广西柳州5.2级左右地震](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E6%9F%B3%E5%B7%9E5.2%E7%BA%A7%E5%B7%A6%E5%8F%B3%E5%9C%B0%E9%9C%87%23&t=31&band_rank=2&Refer=top) 1251019
 1. [陈泽](https://s.weibo.com/weibo?q=%E9%99%88%E6%B3%BD&t=31&band_rank=4&Refer=top) 922261
 1. [刘浩存穿十厘米高跟鞋定点转圈](https://s.weibo.com/weibo?q=%23%E5%88%98%E6%B5%A9%E5%AD%98%E7%A9%BF%E5%8D%81%E5%8E%98%E7%B1%B3%E9%AB%98%E8%B7%9F%E9%9E%8B%E5%AE%9A%E7%82%B9%E8%BD%AC%E5%9C%88%23&t=31&band_rank=5&Refer=top) 448702
@@ -64,19 +65,24 @@
 1. [和平统一后台湾可获稳定廉价能源](https://s.weibo.com/weibo?q=%23%E5%92%8C%E5%B9%B3%E7%BB%9F%E4%B8%80%E5%90%8E%E5%8F%B0%E6%B9%BE%E5%8F%AF%E8%8E%B7%E7%A8%B3%E5%AE%9A%E5%BB%89%E4%BB%B7%E8%83%BD%E6%BA%90%23&t=31&band_rank=48&Refer=top) 114119
 1. [下身瘫痪女子育女后丈夫消失7年](https://s.weibo.com/weibo?q=%23%E4%B8%8B%E8%BA%AB%E7%98%AB%E7%97%AA%E5%A5%B3%E5%AD%90%E8%82%B2%E5%A5%B3%E5%90%8E%E4%B8%88%E5%A4%AB%E6%B6%88%E5%A4%B17%E5%B9%B4%23&t=31&band_rank=49&Refer=top) 113685
 1. [长鑫科技一季度营收同比增长719.13%](https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E4%B8%80%E5%AD%A3%E5%BA%A6%E8%90%A5%E6%94%B6%E5%90%8C%E6%AF%94%E5%A2%9E%E9%95%BF719.13%25%23&t=31&band_rank=50&Refer=top) 113332
+1. [肖战藏海传强势入围金鹰奖](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%97%8F%E6%B5%B7%E4%BC%A0%E5%BC%BA%E5%8A%BF%E5%85%A5%E5%9B%B4%E9%87%91%E9%B9%B0%E5%A5%96%23&t=31&band_rank=45&Refer=top) 99438
 1. [以为是被关心了其实是看错了](https://s.weibo.com/weibo?q=%E4%BB%A5%E4%B8%BA%E6%98%AF%E8%A2%AB%E5%85%B3%E5%BF%83%E4%BA%86%E5%85%B6%E5%AE%9E%E6%98%AF%E7%9C%8B%E9%94%99%E4%BA%86&t=31&band_rank=44&Refer=top) 85800
+1. [金价跌麻了](https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%8C%E9%BA%BB%E4%BA%86%23&t=31&band_rank=21&Refer=top) 77626
+1. [猫咪躲在阴凉地睡觉进屋瞬间震惊了](https://s.weibo.com/weibo?q=%E7%8C%AB%E5%92%AA%E8%BA%B2%E5%9C%A8%E9%98%B4%E5%87%89%E5%9C%B0%E7%9D%A1%E8%A7%89%E8%BF%9B%E5%B1%8B%E7%9E%AC%E9%97%B4%E9%9C%87%E6%83%8A%E4%BA%86&t=31&band_rank=39&Refer=top) 76831
 1. [广西皮卡坠河9人失联均为女性](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E7%9A%AE%E5%8D%A1%E5%9D%A0%E6%B2%B39%E4%BA%BA%E5%A4%B1%E8%81%94%E5%9D%87%E4%B8%BA%E5%A5%B3%E6%80%A7%23&t=31&band_rank=30&Refer=top) 73547
 1. [JDG挑杯三强](https://s.weibo.com/weibo?q=%23JDG%E6%8C%91%E6%9D%AF%E4%B8%89%E5%BC%BA%23&t=31&band_rank=38&Refer=top) 58697
-1. [猫咪躲在阴凉地睡觉进屋瞬间震惊了](https://s.weibo.com/weibo?q=%E7%8C%AB%E5%92%AA%E8%BA%B2%E5%9C%A8%E9%98%B4%E5%87%89%E5%9C%B0%E7%9D%A1%E8%A7%89%E8%BF%9B%E5%B1%8B%E7%9E%AC%E9%97%B4%E9%9C%87%E6%83%8A%E4%BA%86&t=31&band_rank=39&Refer=top) 58669
 1. [任何关系里都要遵守有客之道](https://s.weibo.com/weibo?q=%E4%BB%BB%E4%BD%95%E5%85%B3%E7%B3%BB%E9%87%8C%E9%83%BD%E8%A6%81%E9%81%B5%E5%AE%88%E6%9C%89%E5%AE%A2%E4%B9%8B%E9%81%93&t=31&band_rank=40&Refer=top) 58554
 1. [张雪机车德比斯仅落后榜首19分](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E5%BE%B7%E6%AF%94%E6%96%AF%E4%BB%85%E8%90%BD%E5%90%8E%E6%A6%9C%E9%A6%9619%E5%88%86%23&t=31&band_rank=42&Refer=top) 58348
 1. [无畏 钟馗](https://s.weibo.com/weibo?q=%E6%97%A0%E7%95%8F%20%E9%92%9F%E9%A6%97&t=31&band_rank=43&Refer=top) 58280
-1. [肖战藏海传强势入围金鹰奖](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%97%8F%E6%B5%B7%E4%BC%A0%E5%BC%BA%E5%8A%BF%E5%85%A5%E5%9B%B4%E9%87%91%E9%B9%B0%E5%A5%96%23&t=31&band_rank=45&Refer=top) 58107
-1. [为啥半夜醒来千万不要看时间](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E5%95%A5%E5%8D%8A%E5%A4%9C%E9%86%92%E6%9D%A5%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E7%9C%8B%E6%97%B6%E9%97%B4%23&t=31&band_rank=40&Refer=top) 33670
-1. [成毅两京十五日生贺图](https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E4%B8%A4%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%E7%94%9F%E8%B4%BA%E5%9B%BE%23&t=31&band_rank=48&Refer=top) 30365
-1. [欧冠](https://s.weibo.com/weibo?q=%E6%AC%A7%E5%86%A0&t=31&band_rank=45&Refer=top) 30360
-1. [萨尔布吕肯欧冠四连冠](https://s.weibo.com/weibo?q=%23%E8%90%A8%E5%B0%94%E5%B8%83%E5%90%95%E8%82%AF%E6%AC%A7%E5%86%A0%E5%9B%9B%E8%BF%9E%E5%86%A0%23&t=31&band_rank=42&Refer=top) 30357
-1. [胖东来回应主动退顾客iPhone差价](https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E5%9B%9E%E5%BA%94%E4%B8%BB%E5%8A%A8%E9%80%80%E9%A1%BE%E5%AE%A2iPhone%E5%B7%AE%E4%BB%B7%23&t=31&band_rank=47&Refer=top) 30357
+1. [柳州](https://s.weibo.com/weibo?q=%E6%9F%B3%E5%B7%9E&t=31&band_rank=27&Refer=top) 56621
+1. [成毅两京十五日生贺图](https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E4%B8%A4%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%E7%94%9F%E8%B4%BA%E5%9B%BE%23&t=31&band_rank=48&Refer=top) 54196
+1. [胖东来回应主动退顾客iPhone差价](https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E5%9B%9E%E5%BA%94%E4%B8%BB%E5%8A%A8%E9%80%80%E9%A1%BE%E5%AE%A2iPhone%E5%B7%AE%E4%BB%B7%23&t=31&band_rank=47&Refer=top) 54099
+1. [欧冠](https://s.weibo.com/weibo?q=%E6%AC%A7%E5%86%A0&t=31&band_rank=45&Refer=top) 53979
+1. [多位明星包场给阿嬷的情书](https://s.weibo.com/weibo?q=%23%E5%A4%9A%E4%BD%8D%E6%98%8E%E6%98%9F%E5%8C%85%E5%9C%BA%E7%BB%99%E9%98%BF%E5%AC%B7%E7%9A%84%E6%83%85%E4%B9%A6%23&t=31&band_rank=37&Refer=top) 53928
+1. [萨尔布吕肯欧冠四连冠](https://s.weibo.com/weibo?q=%23%E8%90%A8%E5%B0%94%E5%B8%83%E5%90%95%E8%82%AF%E6%AC%A7%E5%86%A0%E5%9B%9B%E8%BF%9E%E5%86%A0%23&t=31&band_rank=42&Refer=top) 53883
+1. [为啥半夜醒来千万不要看时间](https://s.weibo.com/weibo?q=%23%E4%B8%BA%E5%95%A5%E5%8D%8A%E5%A4%9C%E9%86%92%E6%9D%A5%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E7%9C%8B%E6%97%B6%E9%97%B4%23&t=31&band_rank=40&Refer=top) 53747
+1. [AI预测世界杯西班牙夺冠](https://s.weibo.com/weibo?q=AI%E9%A2%84%E6%B5%8B%E4%B8%96%E7%95%8C%E6%9D%AF%E8%A5%BF%E7%8F%AD%E7%89%99%E5%A4%BA%E5%86%A0&t=31&band_rank=49&Refer=top) 53476
+1. [在泰华人目击火车撞公交致8死32伤](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E6%B3%B0%E5%8D%8E%E4%BA%BA%E7%9B%AE%E5%87%BB%E7%81%AB%E8%BD%A6%E6%92%9E%E5%85%AC%E4%BA%A4%E8%87%B48%E6%AD%BB32%E4%BC%A4%23&t=31&band_rank=50&Refer=top) 53422
 1. [萨尔布吕肯3比2蒙彼利埃](https://s.weibo.com/weibo?q=%E8%90%A8%E5%B0%94%E5%B8%83%E5%90%95%E8%82%AF3%E6%AF%942%E8%92%99%E5%BD%BC%E5%88%A9%E5%9F%83&t=31&band_rank=37&Refer=top) 30356
 1. [2026LPL第二赛段](https://s.weibo.com/weibo?q=2026LPL%E7%AC%AC%E4%BA%8C%E8%B5%9B%E6%AE%B5&t=31&band_rank=44&Refer=top) 29269
 <!-- END -->
