@@ -7,18 +7,18 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-05-22 04:52:23.083738 
+最后更新时间 2026-05-22 06:21:18.475382 
+1. [母亲阳台烧香起火致2子女身亡](https://s.weibo.com/weibo?q=%23%E6%AF%8D%E4%BA%B2%E9%98%B3%E5%8F%B0%E7%83%A7%E9%A6%99%E8%B5%B7%E7%81%AB%E8%87%B42%E5%AD%90%E5%A5%B3%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=11&Refer=top) 372767
 1. [雷军说输给特斯拉不丢人](https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E8%AF%B4%E8%BE%93%E7%BB%99%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%8D%E4%B8%A2%E4%BA%BA%23&t=31&band_rank=1&Refer=top) 289750
+1. [给阿嬷的情书亚洲年度最佳艺术电影](https://s.weibo.com/weibo?q=%23%E7%BB%99%E9%98%BF%E5%AC%B7%E7%9A%84%E6%83%85%E4%B9%A6%E4%BA%9A%E6%B4%B2%E5%B9%B4%E5%BA%A6%E6%9C%80%E4%BD%B3%E8%89%BA%E6%9C%AF%E7%94%B5%E5%BD%B1%23&t=31&band_rank=8&Refer=top) 265140
 1. [小米YU7GT价格](https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3YU7GT%E4%BB%B7%E6%A0%BC&t=31&band_rank=2&Refer=top) 232285
 1. [我国建成规模最大水利基础设施体系](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E5%BB%BA%E6%88%90%E8%A7%84%E6%A8%A1%E6%9C%80%E5%A4%A7%E6%B0%B4%E5%88%A9%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E4%BD%93%E7%B3%BB%23&t=31&band_rank=3&Refer=top) 232285
 1. [张豆豆情绪稳定后又被孙杨说哭了](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%B1%86%E8%B1%86%E6%83%85%E7%BB%AA%E7%A8%B3%E5%AE%9A%E5%90%8E%E5%8F%88%E8%A2%AB%E5%AD%99%E6%9D%A8%E8%AF%B4%E5%93%AD%E4%BA%86%23&t=31&band_rank=4&Refer=top) 232285
 1. [颜颜 凯凯](https://s.weibo.com/weibo?q=%E9%A2%9C%E9%A2%9C%20%E5%87%AF%E5%87%AF&t=31&band_rank=5&Refer=top) 182015
 1. [不小心把DeepSeek叫成豆包](https://s.weibo.com/weibo?q=%E4%B8%8D%E5%B0%8F%E5%BF%83%E6%8A%8ADeepSeek%E5%8F%AB%E6%88%90%E8%B1%86%E5%8C%85&t=31&band_rank=6&Refer=top) 172504
 1. [豆包炒股建议](https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E7%82%92%E8%82%A1%E5%BB%BA%E8%AE%AE&t=31&band_rank=7&Refer=top) 170308
-1. [给阿嬷的情书亚洲年度最佳艺术电影](https://s.weibo.com/weibo?q=%23%E7%BB%99%E9%98%BF%E5%AC%B7%E7%9A%84%E6%83%85%E4%B9%A6%E4%BA%9A%E6%B4%B2%E5%B9%B4%E5%BA%A6%E6%9C%80%E4%BD%B3%E8%89%BA%E6%9C%AF%E7%94%B5%E5%BD%B1%23&t=31&band_rank=8&Refer=top) 168859
 1. [小米耳夹式耳机849元](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E8%80%B3%E5%A4%B9%E5%BC%8F%E8%80%B3%E6%9C%BA849%E5%85%83%23&t=31&band_rank=9&Refer=top) 164730
 1. [歌手歌单](https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E6%AD%8C%E5%8D%95&t=31&band_rank=10&Refer=top) 162757
-1. [母亲阳台烧香起火致2子女身亡](https://s.weibo.com/weibo?q=%23%E6%AF%8D%E4%BA%B2%E9%98%B3%E5%8F%B0%E7%83%A7%E9%A6%99%E8%B5%B7%E7%81%AB%E8%87%B42%E5%AD%90%E5%A5%B3%E8%BA%AB%E4%BA%A1%23&t=31&band_rank=11&Refer=top) 160763
 1. [洛克王国 暗改](https://s.weibo.com/weibo?q=%E6%B4%9B%E5%85%8B%E7%8E%8B%E5%9B%BD%20%E6%9A%97%E6%94%B9&t=31&band_rank=12&Refer=top) 159106
 1. [王菲别唱了](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%8F%B2%E5%88%AB%E5%94%B1%E4%BA%86&t=31&band_rank=13&Refer=top) 158948
 1. [肖战金海燕奖最佳男主角](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E9%87%91%E6%B5%B7%E7%87%95%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B7%E4%B8%BB%E8%A7%92%23&t=31&band_rank=14&Refer=top) 158839
@@ -58,12 +58,13 @@
 1. [德国队公布世界杯名单](https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%9B%BD%E9%98%9F%E5%85%AC%E5%B8%83%E4%B8%96%E7%95%8C%E6%9D%AF%E5%90%8D%E5%8D%95%23&t=31&band_rank=48&Refer=top) 152599
 1. [我的购物车比聊天记录还真实](https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E8%B4%AD%E7%89%A9%E8%BD%A6%E6%AF%94%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%E8%BF%98%E7%9C%9F%E5%AE%9E%23&t=31&band_rank=49&Refer=top) 152458
 1. [深圳男篮vs广厦男篮](https://s.weibo.com/weibo?q=%E6%B7%B1%E5%9C%B3%E7%94%B7%E7%AF%AEvs%E5%B9%BF%E5%8E%A6%E7%94%B7%E7%AF%AE&t=31&band_rank=50&Refer=top) 152153
-1. [肖战极限24小时状态](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%9E%81%E9%99%9024%E5%B0%8F%E6%97%B6%E7%8A%B6%E6%80%81%23&t=31&band_rank=12&Refer=top) 46523
-1. [小米17Max真香](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B317Max%E7%9C%9F%E9%A6%99%23&t=31&band_rank=16&Refer=top) 43825
-1. [女子在深圳水贝捡到11条黄金首饰](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9C%A8%E6%B7%B1%E5%9C%B3%E6%B0%B4%E8%B4%9D%E6%8D%A1%E5%88%B011%E6%9D%A1%E9%BB%84%E9%87%91%E9%A6%96%E9%A5%B0%23&t=31&band_rank=24&Refer=top) 40744
-1. [男子生日当天掐死30岁妻子](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%94%9F%E6%97%A5%E5%BD%93%E5%A4%A9%E6%8E%90%E6%AD%BB30%E5%B2%81%E5%A6%BB%E5%AD%90%23&t=31&band_rank=26&Refer=top) 40686
+1. [肖战极限24小时状态](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%9E%81%E9%99%9024%E5%B0%8F%E6%97%B6%E7%8A%B6%E6%80%81%23&t=31&band_rank=12&Refer=top) 53110
+1. [女子在深圳水贝捡到11条黄金首饰](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9C%A8%E6%B7%B1%E5%9C%B3%E6%B0%B4%E8%B4%9D%E6%8D%A1%E5%88%B011%E6%9D%A1%E9%BB%84%E9%87%91%E9%A6%96%E9%A5%B0%23&t=31&band_rank=24&Refer=top) 52495
+1. [小米17Max真香](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B317Max%E7%9C%9F%E9%A6%99%23&t=31&band_rank=16&Refer=top) 52095
+1. [男子生日当天掐死30岁妻子](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%94%9F%E6%97%A5%E5%BD%93%E5%A4%A9%E6%8E%90%E6%AD%BB30%E5%B2%81%E5%A6%BB%E5%AD%90%23&t=31&band_rank=26&Refer=top) 44526
+1. [窦靖童 同一片天空下](https://s.weibo.com/weibo?q=%E7%AA%A6%E9%9D%96%E7%AB%A5%20%E5%90%8C%E4%B8%80%E7%89%87%E5%A4%A9%E7%A9%BA%E4%B8%8B&t=31&band_rank=48&Refer=top) 44360
+1. [王腾说YU7GT价格真香](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%85%BE%E8%AF%B4YU7GT%E4%BB%B7%E6%A0%BC%E7%9C%9F%E9%A6%99%23&t=31&band_rank=47&Refer=top) 44339
 1. [穆祉丞18岁首登戛纳红毯](https://s.weibo.com/weibo?q=%23%E7%A9%86%E7%A5%89%E4%B8%9E18%E5%B2%81%E9%A6%96%E7%99%BB%E6%88%9B%E7%BA%B3%E7%BA%A2%E6%AF%AF%23&t=31&band_rank=47&Refer=top) 40203
-1. [窦靖童 同一片天空下](https://s.weibo.com/weibo?q=%E7%AA%A6%E9%9D%96%E7%AB%A5%20%E5%90%8C%E4%B8%80%E7%89%87%E5%A4%A9%E7%A9%BA%E4%B8%8B&t=31&band_rank=48&Refer=top) 40176
 1. [BBK ZSMJ](https://s.weibo.com/weibo?q=BBK%20ZSMJ&t=31&band_rank=50&Refer=top) 40128
 <!-- END -->
 
