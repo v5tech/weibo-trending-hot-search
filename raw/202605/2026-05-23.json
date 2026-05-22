@@ -207,6 +207,14 @@
     "url": "https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E7%94%B7%E7%AF%AE3%E6%AF%941%E5%8C%97%E4%BA%AC%E7%94%B7%E7%AF%AE&t=31&band_rank=50&Refer=top",
     "hot": 124930
   },
+  "ai漫剧硬通货 泡面火腿纯净水": {
+    "url": "https://s.weibo.com/weibo?q=ai%E6%BC%AB%E5%89%A7%E7%A1%AC%E9%80%9A%E8%B4%A7%20%E6%B3%A1%E9%9D%A2%E7%81%AB%E8%85%BF%E7%BA%AF%E5%87%80%E6%B0%B4&t=31&band_rank=7&Refer=top",
+    "hot": 124581
+  },
+  "燃油车骨折清仓": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%87%83%E6%B2%B9%E8%BD%A6%E9%AA%A8%E6%8A%98%E6%B8%85%E4%BB%93%23&t=31&band_rank=8&Refer=top",
+    "hot": 122900
+  },
   "歌手": {
     "url": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B&t=31&band_rank=16&Refer=top",
     "hot": 86242
@@ -215,16 +223,28 @@
     "url": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E6%89%80%E8%B0%93%E7%A2%B3%E6%B0%B4%E8%84%B8%E6%A6%82%E5%BF%B5%E8%B5%B0%E7%BA%A2%23&t=31&band_rank=18&Refer=top",
     "hot": 85707
   },
+  "李小冉 北舞大师姐发力了": {
+    "url": "https://s.weibo.com/weibo?q=%E6%9D%8E%E5%B0%8F%E5%86%89%20%E5%8C%97%E8%88%9E%E5%A4%A7%E5%B8%88%E5%A7%90%E5%8F%91%E5%8A%9B%E4%BA%86&t=31&band_rank=17&Refer=top",
+    "hot": 64738
+  },
   "孙怡浪姐谈离婚": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%80%A1%E6%B5%AA%E5%A7%90%E8%B0%88%E7%A6%BB%E5%A9%9A%23&t=31&band_rank=32&Refer=top",
     "hot": 64258
   },
-  "黄金又跌破4500美元了": {
-    "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E5%8F%88%E8%B7%8C%E7%A0%B44500%E7%BE%8E%E5%85%83%E4%BA%86%23&t=31&band_rank=47&Refer=top",
-    "hot": 43721
+  "中国U17男足2比3日本U17": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BDU17%E7%94%B7%E8%B6%B32%E6%AF%943%E6%97%A5%E6%9C%ACU17%23&t=31&band_rank=21&Refer=top",
+    "hot": 58504
+  },
+  "收视率": {
+    "url": "https://s.weibo.com/weibo?q=%E6%94%B6%E8%A7%86%E7%8E%87&t=31&band_rank=33&Refer=top",
+    "hot": 44153
   },
   "英格兰队公布世界杯26人大名单": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E6%A0%BC%E5%85%B0%E9%98%9F%E5%85%AC%E5%B8%83%E4%B8%96%E7%95%8C%E6%9D%AF26%E4%BA%BA%E5%A4%A7%E5%90%8D%E5%8D%95%23&t=31&band_rank=48&Refer=top",
-    "hot": 43673
+    "hot": 44059
+  },
+  "黄金又跌破4500美元了": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E5%8F%88%E8%B7%8C%E7%A0%B44500%E7%BE%8E%E5%85%83%E4%BA%86%23&t=31&band_rank=47&Refer=top",
+    "hot": 43721
   }
 }
