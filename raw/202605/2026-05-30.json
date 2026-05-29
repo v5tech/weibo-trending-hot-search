@@ -198,5 +198,33 @@
   "VOGUE红毯直播": {
     "url": "https://s.weibo.com/weibo?q=VOGUE%E7%BA%A2%E6%AF%AF%E7%9B%B4%E6%92%AD&t=31&band_rank=50&Refer=top",
     "hot": 81876
+  },
+  "难听": {
+    "url": "https://s.weibo.com/weibo?q=%E9%9A%BE%E5%90%AC&t=31&band_rank=21&Refer=top",
+    "hot": 37105
+  },
+  "有没有体面一点的防盗方式": {
+    "url": "https://s.weibo.com/weibo?q=%E6%9C%89%E6%B2%A1%E6%9C%89%E4%BD%93%E9%9D%A2%E4%B8%80%E7%82%B9%E7%9A%84%E9%98%B2%E7%9B%97%E6%96%B9%E5%BC%8F&t=31&band_rank=32&Refer=top",
+    "hot": 30464
+  },
+  "Stanaj 破音": {
+    "url": "https://s.weibo.com/weibo?q=Stanaj%20%E7%A0%B4%E9%9F%B3&t=31&band_rank=38&Refer=top",
+    "hot": 30395
+  },
+  "王力宏演唱会": {
+    "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E5%8A%9B%E5%AE%8F%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=41&Refer=top",
+    "hot": 30356
+  },
+  "齐豫连续两周第一": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%BD%90%E8%B1%AB%E8%BF%9E%E7%BB%AD%E4%B8%A4%E5%91%A8%E7%AC%AC%E4%B8%80%23&t=31&band_rank=42&Refer=top",
+    "hot": 30346
+  },
+  "齐豫高音太顶了": {
+    "url": "https://s.weibo.com/weibo?q=%E9%BD%90%E8%B1%AB%E9%AB%98%E9%9F%B3%E5%A4%AA%E9%A1%B6%E4%BA%86&t=31&band_rank=48&Refer=top",
+    "hot": 30274
+  },
+  "樊振东德甲半决赛时间": {
+    "url": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%BE%B7%E7%94%B2%E5%8D%8A%E5%86%B3%E8%B5%9B%E6%97%B6%E9%97%B4&t=31&band_rank=50&Refer=top",
+    "hot": 30255
   }
 }
