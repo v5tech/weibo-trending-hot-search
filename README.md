@@ -7,16 +7,17 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-05-31 05:01:39.604674 
+最后更新时间 2026-05-31 07:00:07.417992 
 1. [欧冠决赛](https://s.weibo.com/weibo?q=%E6%AC%A7%E5%86%A0%E5%86%B3%E8%B5%9B&t=31&band_rank=1&Refer=top) 2838985
 1. [点球大战](https://s.weibo.com/weibo?q=%E7%82%B9%E7%90%83%E5%A4%A7%E6%88%98&t=31&band_rank=2&Refer=top) 1396737
 1. [在上海找到创作主场](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E4%B8%8A%E6%B5%B7%E6%89%BE%E5%88%B0%E5%88%9B%E4%BD%9C%E4%B8%BB%E5%9C%BA%23&t=31&band_rank=3&Refer=top) 1129652
 1. [欧冠裁判](https://s.weibo.com/weibo?q=%E6%AC%A7%E5%86%A0%E8%A3%81%E5%88%A4&t=31&band_rank=4&Refer=top) 1104085
 1. [巴黎圣日耳曼vs阿森纳](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E%E5%9C%A3%E6%97%A5%E8%80%B3%E6%9B%BCvs%E9%98%BF%E6%A3%AE%E7%BA%B3%23&t=31&band_rank=2&Refer=top) 982487
 1. [巴黎卫冕欧冠冠军](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E%E5%8D%AB%E5%86%95%E6%AC%A7%E5%86%A0%E5%86%A0%E5%86%9B%23&t=31&band_rank=1&Refer=top) 767452
-1. [姆巴佩](https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9&t=31&band_rank=2&Refer=top) 524766
+1. [姆巴佩](https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9&t=31&band_rank=2&Refer=top) 668737
 1. [阿森纳进球](https://s.weibo.com/weibo?q=%E9%98%BF%E6%A3%AE%E7%BA%B3%E8%BF%9B%E7%90%83&t=31&band_rank=4&Refer=top) 426621
 1. [欧冠加时赛](https://s.weibo.com/weibo?q=%E6%AC%A7%E5%86%A0%E5%8A%A0%E6%97%B6%E8%B5%9B&t=31&band_rank=7&Refer=top) 417952
+1. [巴黎圣日耳曼5比4阿森纳](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E%E5%9C%A3%E6%97%A5%E8%80%B3%E6%9B%BC5%E6%AF%944%E9%98%BF%E6%A3%AE%E7%BA%B3%23&t=31&band_rank=10&Refer=top) 397285
 1. [徐志胜在桃花坞聊沈月王鹤棣](https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%BF%97%E8%83%9C%E5%9C%A8%E6%A1%83%E8%8A%B1%E5%9D%9E%E8%81%8A%E6%B2%88%E6%9C%88%E7%8E%8B%E9%B9%A4%E6%A3%A3%23&t=31&band_rank=5&Refer=top) 380087
 1. [鸟巢偶遇王菲看谢霆锋演唱会](https://s.weibo.com/weibo?q=%23%E9%B8%9F%E5%B7%A2%E5%81%B6%E9%81%87%E7%8E%8B%E8%8F%B2%E7%9C%8B%E8%B0%A2%E9%9C%86%E9%94%8B%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=6&Refer=top) 374886
 1. [网友阻止印度游客在水源区洗澡](https://s.weibo.com/weibo?q=%E7%BD%91%E5%8F%8B%E9%98%BB%E6%AD%A2%E5%8D%B0%E5%BA%A6%E6%B8%B8%E5%AE%A2%E5%9C%A8%E6%B0%B4%E6%BA%90%E5%8C%BA%E6%B4%97%E6%BE%A1&t=31&band_rank=7&Refer=top) 343590
@@ -30,6 +31,7 @@
 1. [宋亚轩又输给了李宇春](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E5%8F%88%E8%BE%93%E7%BB%99%E4%BA%86%E6%9D%8E%E5%AE%87%E6%98%A5%23&t=31&band_rank=14&Refer=top) 216935
 1. [对早睡起了敬意](https://s.weibo.com/weibo?q=%E5%AF%B9%E6%97%A9%E7%9D%A1%E8%B5%B7%E4%BA%86%E6%95%AC%E6%84%8F&t=31&band_rank=15&Refer=top) 214243
 1. [十二星座6月月运](https://s.weibo.com/weibo?q=%23%E5%8D%81%E4%BA%8C%E6%98%9F%E5%BA%A76%E6%9C%88%E6%9C%88%E8%BF%90%23&t=31&band_rank=16&Refer=top) 200605
+1. [这样的衣服才配预售](https://s.weibo.com/weibo?q=%E8%BF%99%E6%A0%B7%E7%9A%84%E8%A1%A3%E6%9C%8D%E6%89%8D%E9%85%8D%E9%A2%84%E5%94%AE&t=31&band_rank=26&Refer=top) 181992
 1. [王安宇见面会](https://s.weibo.com/weibo?q=%E7%8E%8B%E5%AE%89%E5%AE%87%E8%A7%81%E9%9D%A2%E4%BC%9A&t=31&band_rank=17&Refer=top) 178712
 1. [阿森纳上半场领先](https://s.weibo.com/weibo?q=%E9%98%BF%E6%A3%AE%E7%BA%B3%E4%B8%8A%E5%8D%8A%E5%9C%BA%E9%A2%86%E5%85%88&t=31&band_rank=18&Refer=top) 178174
 1. [用AI整理会议记录导致泄密](https://s.weibo.com/weibo?q=%23%E7%94%A8AI%E6%95%B4%E7%90%86%E4%BC%9A%E8%AE%AE%E8%AE%B0%E5%BD%95%E5%AF%BC%E8%87%B4%E6%B3%84%E5%AF%86%23&t=31&band_rank=19&Refer=top) 177261
@@ -39,7 +41,6 @@
 1. [李昀锐一把就把关晓彤抱起来了](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%98%80%E9%94%90%E4%B8%80%E6%8A%8A%E5%B0%B1%E6%8A%8A%E5%85%B3%E6%99%93%E5%BD%A4%E6%8A%B1%E8%B5%B7%E6%9D%A5%E4%BA%86%23&t=31&band_rank=23&Refer=top) 155034
 1. [陈小春发言宋亚轩又笑晕了](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%B0%8F%E6%98%A5%E5%8F%91%E8%A8%80%E5%AE%8B%E4%BA%9A%E8%BD%A9%E5%8F%88%E7%AC%91%E6%99%95%E4%BA%86%23&t=31&band_rank=24&Refer=top) 154337
 1. [大爷协议娶小24岁女子2年便闹离婚](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%88%B7%E5%8D%8F%E8%AE%AE%E5%A8%B6%E5%B0%8F24%E5%B2%81%E5%A5%B3%E5%AD%902%E5%B9%B4%E4%BE%BF%E9%97%B9%E7%A6%BB%E5%A9%9A%23&t=31&band_rank=25&Refer=top) 153517
-1. [这样的衣服才配预售](https://s.weibo.com/weibo?q=%E8%BF%99%E6%A0%B7%E7%9A%84%E8%A1%A3%E6%9C%8D%E6%89%8D%E9%85%8D%E9%A2%84%E5%94%AE&t=31&band_rank=26&Refer=top) 152871
 1. [花间令2.0](https://s.weibo.com/weibo?q=%23%E8%8A%B1%E9%97%B4%E4%BB%A42.0%23&t=31&band_rank=27&Refer=top) 147927
 1. [万花世界回应](https://s.weibo.com/weibo?q=%23%E4%B8%87%E8%8A%B1%E4%B8%96%E7%95%8C%E5%9B%9E%E5%BA%94%23&t=31&band_rank=28&Refer=top) 144023
 1. [爱奇艺解说](https://s.weibo.com/weibo?q=%E7%88%B1%E5%A5%87%E8%89%BA%E8%A7%A3%E8%AF%B4&t=31&band_rank=11&Refer=top) 141217
@@ -62,17 +63,19 @@
 1. [台湾网红馆长撞脸三星堆文物](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E7%BD%91%E7%BA%A2%E9%A6%86%E9%95%BF%E6%92%9E%E8%84%B8%E4%B8%89%E6%98%9F%E5%A0%86%E6%96%87%E7%89%A9%23&t=31&band_rank=43&Refer=top) 86112
 1. [神仙肉](https://s.weibo.com/weibo?q=%E7%A5%9E%E4%BB%99%E8%82%89&t=31&band_rank=44&Refer=top) 80123
 1. [刘宇宁工体唱苍兰诀主题曲](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E5%B7%A5%E4%BD%93%E5%94%B1%E8%8B%8D%E5%85%B0%E8%AF%80%E4%B8%BB%E9%A2%98%E6%9B%B2%23&t=31&band_rank=45&Refer=top) 77342
-1. [耀眼](https://s.weibo.com/weibo?q=%E8%80%80%E7%9C%BC&t=31&band_rank=46&Refer=top) 74163
+1. [鞠婧祎万花世界戏份超700场](https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E4%B8%87%E8%8A%B1%E4%B8%96%E7%95%8C%E6%88%8F%E4%BB%BD%E8%B6%85700%E5%9C%BA%23&t=31&band_rank=25&Refer=top) 76420
+1. [陈小春连怼导演四次](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%B0%8F%E6%98%A5%E8%BF%9E%E6%80%BC%E5%AF%BC%E6%BC%94%E5%9B%9B%E6%AC%A1%23&t=31&band_rank=49&Refer=top) 76376
+1. [蔡徐坤马来西亚音乐节压轴](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E9%9F%B3%E4%B9%90%E8%8A%82%E5%8E%8B%E8%BD%B4%23&t=31&band_rank=47&Refer=top) 76369
+1. [LPL](https://s.weibo.com/weibo?q=LPL&t=31&band_rank=43&Refer=top) 76307
+1. [念相思](https://s.weibo.com/weibo?q=%E5%BF%B5%E7%9B%B8%E6%80%9D&t=31&band_rank=43&Refer=top) 76297
+1. [欧冠联赛](https://s.weibo.com/weibo?q=%E6%AC%A7%E5%86%A0%E8%81%94%E8%B5%9B&t=31&band_rank=44&Refer=top) 76292
+1. [耀眼](https://s.weibo.com/weibo?q=%E8%80%80%E7%9C%BC&t=31&band_rank=46&Refer=top) 76273
+1. [万花世界预约](https://s.weibo.com/weibo?q=%E4%B8%87%E8%8A%B1%E4%B8%96%E7%95%8C%E9%A2%84%E7%BA%A6&t=31&band_rank=48&Refer=top) 76266
+1. [角球](https://s.weibo.com/weibo?q=%E8%A7%92%E7%90%83&t=31&band_rank=31&Refer=top) 76262
 1. [河智苑打歌舞台](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E6%99%BA%E8%8B%91%E6%89%93%E6%AD%8C%E8%88%9E%E5%8F%B0%23&t=31&band_rank=47&Refer=top) 72931
 1. [哈弗茨真是大场面先生](https://s.weibo.com/weibo?q=%E5%93%88%E5%BC%97%E8%8C%A8%E7%9C%9F%E6%98%AF%E5%A4%A7%E5%9C%BA%E9%9D%A2%E5%85%88%E7%94%9F&t=31&band_rank=48&Refer=top) 72364
-1. [巴黎圣日耳曼5比4阿森纳](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E%E5%9C%A3%E6%97%A5%E8%80%B3%E6%9B%BC5%E6%AF%944%E9%98%BF%E6%A3%AE%E7%BA%B3%23&t=31&band_rank=10&Refer=top) 69699
-1. [陈小春连怼导演四次](https://s.weibo.com/weibo?q=%23%E9%99%88%E5%B0%8F%E6%98%A5%E8%BF%9E%E6%80%BC%E5%AF%BC%E6%BC%94%E5%9B%9B%E6%AC%A1%23&t=31&band_rank=49&Refer=top) 69624
 1. [Cube下一个al](https://s.weibo.com/weibo?q=Cube%E4%B8%8B%E4%B8%80%E4%B8%AAal&t=31&band_rank=50&Refer=top) 69445
-1. [角球](https://s.weibo.com/weibo?q=%E8%A7%92%E7%90%83&t=31&band_rank=31&Refer=top) 64771
 1. [李宇春给我唱回彩铃时代了](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AE%87%E6%98%A5%E7%BB%99%E6%88%91%E5%94%B1%E5%9B%9E%E5%BD%A9%E9%93%83%E6%97%B6%E4%BB%A3%E4%BA%86%23&t=31&band_rank=46&Refer=top) 41762
-1. [LPL](https://s.weibo.com/weibo?q=LPL&t=31&band_rank=43&Refer=top) 26130
-1. [蔡徐坤马来西亚音乐节压轴](https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E9%9F%B3%E4%B9%90%E8%8A%82%E5%8E%8B%E8%BD%B4%23&t=31&band_rank=47&Refer=top) 24596
-1. [万花世界预约](https://s.weibo.com/weibo?q=%E4%B8%87%E8%8A%B1%E4%B8%96%E7%95%8C%E9%A2%84%E7%BA%A6&t=31&band_rank=48&Refer=top) 24593
 <!-- END -->
 
 历史归档 [./archives](./archives)
