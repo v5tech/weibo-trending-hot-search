@@ -19,6 +19,14 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E%E5%9C%A3%E6%97%A5%E8%80%B3%E6%9B%BCvs%E9%98%BF%E6%A3%AE%E7%BA%B3%23&t=31&band_rank=2&Refer=top",
     "hot": 982487
   },
+  "巴黎卫冕欧冠冠军": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E%E5%8D%AB%E5%86%95%E6%AC%A7%E5%86%A0%E5%86%A0%E5%86%9B%23&t=31&band_rank=1&Refer=top",
+    "hot": 767452
+  },
+  "姆巴佩": {
+    "url": "https://s.weibo.com/weibo?q=%E5%A7%86%E5%B7%B4%E4%BD%A9&t=31&band_rank=2&Refer=top",
+    "hot": 524766
+  },
   "阿森纳进球": {
     "url": "https://s.weibo.com/weibo?q=%E9%98%BF%E6%A3%AE%E7%BA%B3%E8%BF%9B%E7%90%83&t=31&band_rank=4&Refer=top",
     "hot": 426621
@@ -175,6 +183,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%87%E8%8A%B1%E4%B8%96%E7%95%8C%E5%8E%9F%E4%B8%BB%E6%8D%A2%E4%BA%86%E4%B8%80%E4%B8%AA%E4%BA%BA%E6%BC%94%23&t=31&band_rank=38&Refer=top",
     "hot": 99086
   },
+  "阿森纳": {
+    "url": "https://s.weibo.com/weibo?q=%E9%98%BF%E6%A3%AE%E7%BA%B3&t=31&band_rank=7&Refer=top",
+    "hot": 98538
+  },
   "程潇沙一汀内娱cp必吃榜上新了": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%A8%8B%E6%BD%87%E6%B2%99%E4%B8%80%E6%B1%80%E5%86%85%E5%A8%B1cp%E5%BF%85%E5%90%83%E6%A6%9C%E4%B8%8A%E6%96%B0%E4%BA%86%23&t=31&band_rank=39&Refer=top",
     "hot": 96466
@@ -215,6 +227,10 @@
     "url": "https://s.weibo.com/weibo?q=%E5%93%88%E5%BC%97%E8%8C%A8%E7%9C%9F%E6%98%AF%E5%A4%A7%E5%9C%BA%E9%9D%A2%E5%85%88%E7%94%9F&t=31&band_rank=48&Refer=top",
     "hot": 72364
   },
+  "巴黎圣日耳曼5比4阿森纳": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E%E5%9C%A3%E6%97%A5%E8%80%B3%E6%9B%BC5%E6%AF%944%E9%98%BF%E6%A3%AE%E7%BA%B3%23&t=31&band_rank=10&Refer=top",
+    "hot": 69699
+  },
   "陈小春连怼导演四次": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%99%88%E5%B0%8F%E6%98%A5%E8%BF%9E%E6%80%BC%E5%AF%BC%E6%BC%94%E5%9B%9B%E6%AC%A1%23&t=31&band_rank=49&Refer=top",
     "hot": 69624
@@ -230,5 +246,17 @@
   "李宇春给我唱回彩铃时代了": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AE%87%E6%98%A5%E7%BB%99%E6%88%91%E5%94%B1%E5%9B%9E%E5%BD%A9%E9%93%83%E6%97%B6%E4%BB%A3%E4%BA%86%23&t=31&band_rank=46&Refer=top",
     "hot": 41762
+  },
+  "LPL": {
+    "url": "https://s.weibo.com/weibo?q=LPL&t=31&band_rank=43&Refer=top",
+    "hot": 26130
+  },
+  "蔡徐坤马来西亚音乐节压轴": {
+    "url": "https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E9%9F%B3%E4%B9%90%E8%8A%82%E5%8E%8B%E8%BD%B4%23&t=31&band_rank=47&Refer=top",
+    "hot": 24596
+  },
+  "万花世界预约": {
+    "url": "https://s.weibo.com/weibo?q=%E4%B8%87%E8%8A%B1%E4%B8%96%E7%95%8C%E9%A2%84%E7%BA%A6&t=31&band_rank=48&Refer=top",
+    "hot": 24593
   }
 }
