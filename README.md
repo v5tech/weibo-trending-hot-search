@@ -7,7 +7,10 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-06-05 04:58:28.524318 
+最后更新时间 2026-06-05 06:26:26.615535 
+1. [大妈被柿子砸中额头伤口3年没愈合](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%A6%88%E8%A2%AB%E6%9F%BF%E5%AD%90%E7%A0%B8%E4%B8%AD%E9%A2%9D%E5%A4%B4%E4%BC%A4%E5%8F%A33%E5%B9%B4%E6%B2%A1%E6%84%88%E5%90%88%23&t=31&band_rank=50&Refer=top) 399756
+1. [今天才知道潮汕不是一座城市](https://s.weibo.com/weibo?q=%E4%BB%8A%E5%A4%A9%E6%89%8D%E7%9F%A5%E9%81%93%E6%BD%AE%E6%B1%95%E4%B8%8D%E6%98%AF%E4%B8%80%E5%BA%A7%E5%9F%8E%E5%B8%82&t=31&band_rank=9&Refer=top) 296439
+1. [高考前这些事要再捋一遍](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%89%8D%E8%BF%99%E4%BA%9B%E4%BA%8B%E8%A6%81%E5%86%8D%E6%8D%8B%E4%B8%80%E9%81%8D%23&t=31&band_rank=3&Refer=top) 226222
 1. [Bin被罚15万](https://s.weibo.com/weibo?q=%23Bin%E8%A2%AB%E7%BD%9A15%E4%B8%87%23&t=31&band_rank=1&Refer=top) 205765
 1. [原价899的耐克降至429消费者仍不买账](https://s.weibo.com/weibo?q=%23%E5%8E%9F%E4%BB%B7899%E7%9A%84%E8%80%90%E5%85%8B%E9%99%8D%E8%87%B3429%E6%B6%88%E8%B4%B9%E8%80%85%E4%BB%8D%E4%B8%8D%E4%B9%B0%E8%B4%A6%23&t=31&band_rank=2&Refer=top) 151797
 1. [中国种地技能又有新突破](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%A7%8D%E5%9C%B0%E6%8A%80%E8%83%BD%E5%8F%88%E6%9C%89%E6%96%B0%E7%AA%81%E7%A0%B4%23&t=31&band_rank=3&Refer=top) 121341
@@ -15,8 +18,8 @@
 1. [窦靖童妹妹头](https://s.weibo.com/weibo?q=%E7%AA%A6%E9%9D%96%E7%AB%A5%E5%A6%B9%E5%A6%B9%E5%A4%B4&t=31&band_rank=5&Refer=top) 116363
 1. [原来面条坨了也有邪修](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E9%9D%A2%E6%9D%A1%E5%9D%A8%E4%BA%86%E4%B9%9F%E6%9C%89%E9%82%AA%E4%BF%AE&t=31&band_rank=6&Refer=top) 111113
 1. [灵魂摆渡](https://s.weibo.com/weibo?q=%E7%81%B5%E9%AD%82%E6%91%86%E6%B8%A1&t=31&band_rank=7&Refer=top) 105309
+1. [北京体育大学 恭迎龙王回归](https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E4%BD%93%E8%82%B2%E5%A4%A7%E5%AD%A6%20%E6%81%AD%E8%BF%8E%E9%BE%99%E7%8E%8B%E5%9B%9E%E5%BD%92&t=31&band_rank=26&Refer=top) 95323
 1. [江语晨来浪姐胖了12斤](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%AF%AD%E6%99%A8%E6%9D%A5%E6%B5%AA%E5%A7%90%E8%83%96%E4%BA%8612%E6%96%A4%23&t=31&band_rank=8&Refer=top) 94020
-1. [今天才知道潮汕不是一座城市](https://s.weibo.com/weibo?q=%E4%BB%8A%E5%A4%A9%E6%89%8D%E7%9F%A5%E9%81%93%E6%BD%AE%E6%B1%95%E4%B8%8D%E6%98%AF%E4%B8%80%E5%BA%A7%E5%9F%8E%E5%B8%82&t=31&band_rank=9&Refer=top) 92445
 1. [小米寻天汽车最新谍照曝光](https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%AF%BB%E5%A4%A9%E6%B1%BD%E8%BD%A6%E6%9C%80%E6%96%B0%E8%B0%8D%E7%85%A7%E6%9B%9D%E5%85%89%23&t=31&band_rank=10&Refer=top) 91611
 1. [宋祖儿路透长得像p了半小时的](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E7%A5%96%E5%84%BF%E8%B7%AF%E9%80%8F%E9%95%BF%E5%BE%97%E5%83%8Fp%E4%BA%86%E5%8D%8A%E5%B0%8F%E6%97%B6%E7%9A%84%23&t=31&band_rank=11&Refer=top) 89432
 1. [耐克正在被消费者抛弃](https://s.weibo.com/weibo?q=%23%E8%80%90%E5%85%8B%E6%AD%A3%E5%9C%A8%E8%A2%AB%E6%B6%88%E8%B4%B9%E8%80%85%E6%8A%9B%E5%BC%83%23&t=31&band_rank=12&Refer=top) 88377
@@ -33,7 +36,6 @@
 1. [日本扬言以综合国力应对中国军力](https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%89%AC%E8%A8%80%E4%BB%A5%E7%BB%BC%E5%90%88%E5%9B%BD%E5%8A%9B%E5%BA%94%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%86%9B%E5%8A%9B%23&t=31&band_rank=23&Refer=top) 84120
 1. [LPL发布BLG和Bin的处罚公告](https://s.weibo.com/weibo?q=%23LPL%E5%8F%91%E5%B8%83BLG%E5%92%8CBin%E7%9A%84%E5%A4%84%E7%BD%9A%E5%85%AC%E5%91%8A%23&t=31&band_rank=24&Refer=top) 84095
 1. [连扫把都受不了广东的天气了](https://s.weibo.com/weibo?q=%E8%BF%9E%E6%89%AB%E6%8A%8A%E9%83%BD%E5%8F%97%E4%B8%8D%E4%BA%86%E5%B9%BF%E4%B8%9C%E7%9A%84%E5%A4%A9%E6%B0%94%E4%BA%86&t=31&band_rank=25&Refer=top) 84024
-1. [北京体育大学 恭迎龙王回归](https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E4%BD%93%E8%82%B2%E5%A4%A7%E5%AD%A6%20%E6%81%AD%E8%BF%8E%E9%BE%99%E7%8E%8B%E5%9B%9E%E5%BD%92&t=31&band_rank=26&Refer=top) 83995
 1. [我没有刚工作时那么善良了](https://s.weibo.com/weibo?q=%E6%88%91%E6%B2%A1%E6%9C%89%E5%88%9A%E5%B7%A5%E4%BD%9C%E6%97%B6%E9%82%A3%E4%B9%88%E5%96%84%E8%89%AF%E4%BA%86&t=31&band_rank=27&Refer=top) 83916
 1. [中方回应2名日本人处理日遗化武受伤](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%942%E5%90%8D%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%A4%84%E7%90%86%E6%97%A5%E9%81%97%E5%8C%96%E6%AD%A6%E5%8F%97%E4%BC%A4%23&t=31&band_rank=28&Refer=top) 83870
 1. [小孩姐用碘伏吹风机演示指纹可视化](https://s.weibo.com/weibo?q=%E5%B0%8F%E5%AD%A9%E5%A7%90%E7%94%A8%E7%A2%98%E4%BC%8F%E5%90%B9%E9%A3%8E%E6%9C%BA%E6%BC%94%E7%A4%BA%E6%8C%87%E7%BA%B9%E5%8F%AF%E8%A7%86%E5%8C%96&t=31&band_rank=29&Refer=top) 83820
@@ -57,15 +59,14 @@
 1. [安德列娃进法网决赛](https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%BE%B7%E5%88%97%E5%A8%83%E8%BF%9B%E6%B3%95%E7%BD%91%E5%86%B3%E8%B5%9B%23&t=31&band_rank=47&Refer=top) 82946
 1. [安德列娃vs科斯秋克](https://s.weibo.com/weibo?q=%E5%AE%89%E5%BE%B7%E5%88%97%E5%A8%83vs%E7%A7%91%E6%96%AF%E7%A7%8B%E5%85%8B&t=31&band_rank=48&Refer=top) 82870
 1. [客服回应iPhone改日期空出20G](https://s.weibo.com/weibo?q=%23%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94iPhone%E6%94%B9%E6%97%A5%E6%9C%9F%E7%A9%BA%E5%87%BA20G%23&t=31&band_rank=49&Refer=top) 82807
-1. [大妈被柿子砸中额头伤口3年没愈合](https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%A6%88%E8%A2%AB%E6%9F%BF%E5%AD%90%E7%A0%B8%E4%B8%AD%E9%A2%9D%E5%A4%B4%E4%BC%A4%E5%8F%A33%E5%B9%B4%E6%B2%A1%E6%84%88%E5%90%88%23&t=31&band_rank=50&Refer=top) 82758
-1. [高考前这些事要再捋一遍](https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E5%89%8D%E8%BF%99%E4%BA%9B%E4%BA%8B%E8%A6%81%E5%86%8D%E6%8D%8B%E4%B8%80%E9%81%8D%23&t=31&band_rank=3&Refer=top) 54844
 1. [开到荼靡 彭冠英](https://s.weibo.com/weibo?q=%E5%BC%80%E5%88%B0%E8%8D%BC%E9%9D%A1%20%E5%BD%AD%E5%86%A0%E8%8B%B1&t=31&band_rank=5&Refer=top) 52125
-1. [触发了高考祝福的底层代码](https://s.weibo.com/weibo?q=%E8%A7%A6%E5%8F%91%E4%BA%86%E9%AB%98%E8%80%83%E7%A5%9D%E7%A6%8F%E7%9A%84%E5%BA%95%E5%B1%82%E4%BB%A3%E7%A0%81&t=31&band_rank=15&Refer=top) 27297
-1. [豉汁蒸肉片](https://s.weibo.com/weibo?q=%E8%B1%89%E6%B1%81%E8%92%B8%E8%82%89%E7%89%87&t=31&band_rank=30&Refer=top) 18594
-1. [主角的本质](https://s.weibo.com/weibo?q=%23%E4%B8%BB%E8%A7%92%E7%9A%84%E6%9C%AC%E8%B4%A8%23&t=31&band_rank=31&Refer=top) 18322
-1. [最爱的漫画家住我楼上](https://s.weibo.com/weibo?q=%E6%9C%80%E7%88%B1%E7%9A%84%E6%BC%AB%E7%94%BB%E5%AE%B6%E4%BD%8F%E6%88%91%E6%A5%BC%E4%B8%8A&t=31&band_rank=32&Refer=top) 18258
-1. [太阳爆发一次强烈耀斑](https://s.weibo.com/weibo?q=%23%E5%A4%AA%E9%98%B3%E7%88%86%E5%8F%91%E4%B8%80%E6%AC%A1%E5%BC%BA%E7%83%88%E8%80%80%E6%96%91%23&t=31&band_rank=37&Refer=top) 17024
-1. [叶一茜听海把森碟唱哭了](https://s.weibo.com/weibo?q=%23%E5%8F%B6%E4%B8%80%E8%8C%9C%E5%90%AC%E6%B5%B7%E6%8A%8A%E6%A3%AE%E7%A2%9F%E5%94%B1%E5%93%AD%E4%BA%86%23&t=31&band_rank=44&Refer=top) 17009
+1. [快餐三巨头 摩尔定律HBM韬定律](https://s.weibo.com/weibo?q=%E5%BF%AB%E9%A4%90%E4%B8%89%E5%B7%A8%E5%A4%B4%20%E6%91%A9%E5%B0%94%E5%AE%9A%E5%BE%8BHBM%E9%9F%AC%E5%AE%9A%E5%BE%8B&t=31&band_rank=9&Refer=top) 50553
+1. [主角的本质](https://s.weibo.com/weibo?q=%23%E4%B8%BB%E8%A7%92%E7%9A%84%E6%9C%AC%E8%B4%A8%23&t=31&band_rank=31&Refer=top) 31086
+1. [最爱的漫画家住我楼上](https://s.weibo.com/weibo?q=%E6%9C%80%E7%88%B1%E7%9A%84%E6%BC%AB%E7%94%BB%E5%AE%B6%E4%BD%8F%E6%88%91%E6%A5%BC%E4%B8%8A&t=31&band_rank=32&Refer=top) 31017
+1. [太阳爆发一次强烈耀斑](https://s.weibo.com/weibo?q=%23%E5%A4%AA%E9%98%B3%E7%88%86%E5%8F%91%E4%B8%80%E6%AC%A1%E5%BC%BA%E7%83%88%E8%80%80%E6%96%91%23&t=31&band_rank=37&Refer=top) 28987
+1. [触发了高考祝福的底层代码](https://s.weibo.com/weibo?q=%E8%A7%A6%E5%8F%91%E4%BA%86%E9%AB%98%E8%80%83%E7%A5%9D%E7%A6%8F%E7%9A%84%E5%BA%95%E5%B1%82%E4%BB%A3%E7%A0%81&t=31&band_rank=15&Refer=top) 28356
+1. [豉汁蒸肉片](https://s.weibo.com/weibo?q=%E8%B1%89%E6%B1%81%E8%92%B8%E8%82%89%E7%89%87&t=31&band_rank=30&Refer=top) 25955
+1. [叶一茜听海把森碟唱哭了](https://s.weibo.com/weibo?q=%23%E5%8F%B6%E4%B8%80%E8%8C%9C%E5%90%AC%E6%B5%B7%E6%8A%8A%E6%A3%AE%E7%A2%9F%E5%94%B1%E5%93%AD%E4%BA%86%23&t=31&band_rank=44&Refer=top) 23186
 <!-- END -->
 
 历史归档 [./archives](./archives)
