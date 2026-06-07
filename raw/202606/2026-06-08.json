@@ -27,6 +27,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E4%B8%89%E5%A4%8F%E9%BA%A6%E6%94%B6%E5%9C%B0%E5%9B%BE%E6%9D%A5%E4%BA%86%23&t=31&band_rank=3&Refer=top",
     "hot": 356421
   },
+  "中国基建上新要编织六张网": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%9F%BA%E5%BB%BA%E4%B8%8A%E6%96%B0%E8%A6%81%E7%BC%96%E7%BB%87%E5%85%AD%E5%BC%A0%E7%BD%91%23&t=31&band_rank=3&Refer=top",
+    "hot": 281267
+  },
   "陈瑶 没事我今天就回来了": {
     "url": "https://s.weibo.com/weibo?q=%E9%99%88%E7%91%B6%20%E6%B2%A1%E4%BA%8B%E6%88%91%E4%BB%8A%E5%A4%A9%E5%B0%B1%E5%9B%9E%E6%9D%A5%E4%BA%86&t=31&band_rank=6&Refer=top",
     "hot": 266178
@@ -218,5 +222,17 @@
   "歌手范玮琪回来了": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E8%8C%83%E7%8E%AE%E7%90%AA%E5%9B%9E%E6%9D%A5%E4%BA%86%23&t=31&band_rank=45&Refer=top",
     "hot": 83060
+  },
+  "杰士邦又要被卖了": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%B0%E5%A3%AB%E9%82%A6%E5%8F%88%E8%A6%81%E8%A2%AB%E5%8D%96%E4%BA%86%23&t=31&band_rank=41&Refer=top",
+    "hot": 31847
+  },
+  "全程49小时的火车出发7小时折返": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%A8%8B49%E5%B0%8F%E6%97%B6%E7%9A%84%E7%81%AB%E8%BD%A6%E5%87%BA%E5%8F%917%E5%B0%8F%E6%97%B6%E6%8A%98%E8%BF%94%23&t=31&band_rank=43&Refer=top",
+    "hot": 31832
+  },
+  "高考数学难不难": {
+    "url": "https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E9%9A%BE%E4%B8%8D%E9%9A%BE&t=31&band_rank=49&Refer=top",
+    "hot": 31778
   }
 }
