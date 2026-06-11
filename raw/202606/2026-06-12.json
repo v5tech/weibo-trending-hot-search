@@ -3,21 +3,41 @@
     "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E5%B9%95%E5%BC%8F&t=31&band_rank=1&Refer=top",
     "hot": 2192427
   },
+  "南非 打人": {
+    "url": "https://s.weibo.com/weibo?q=%E5%8D%97%E9%9D%9E%20%E6%89%93%E4%BA%BA&t=31&band_rank=1&Refer=top",
+    "hot": 1592166
+  },
+  "世界杯开幕式 吓我一跳": {
+    "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E5%B9%95%E5%BC%8F%20%E5%90%93%E6%88%91%E4%B8%80%E8%B7%B3&t=31&band_rank=4&Refer=top",
+    "hot": 1289020
+  },
+  "让文化遗产走进普通人生活": {
+    "url": "https://s.weibo.com/weibo?q=%23%E8%AE%A9%E6%96%87%E5%8C%96%E9%81%97%E4%BA%A7%E8%B5%B0%E8%BF%9B%E6%99%AE%E9%80%9A%E4%BA%BA%E7%94%9F%E6%B4%BB%23&t=31&band_rank=3&Refer=top",
+    "hot": 1046844
+  },
+  "中国队首发 labubu马宁": {
+    "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E9%98%9F%E9%A6%96%E5%8F%91%20labubu%E9%A9%AC%E5%AE%81&t=31&band_rank=5&Refer=top",
+    "hot": 902169
+  },
+  "墨西哥2比0南非": {
+    "url": "https://s.weibo.com/weibo?q=%E5%A2%A8%E8%A5%BF%E5%93%A52%E6%AF%940%E5%8D%97%E9%9D%9E&t=31&band_rank=5&Refer=top",
+    "hot": 758357
+  },
+  "世界杯 红牌比进球多": {
+    "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%20%E7%BA%A2%E7%89%8C%E6%AF%94%E8%BF%9B%E7%90%83%E5%A4%9A&t=31&band_rank=6&Refer=top",
+    "hot": 578791
+  },
   "美国五角大楼被封锁": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A5%BC%E8%A2%AB%E5%B0%81%E9%94%81%23&t=31&band_rank=2&Refer=top",
     "hot": 543184
   },
+  "特朗普称取消打击伊朗行动": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%8F%96%E6%B6%88%E6%89%93%E5%87%BB%E4%BC%8A%E6%9C%97%E8%A1%8C%E5%8A%A8%23&t=31&band_rank=31&Refer=top",
+    "hot": 537368
+  },
   "墨西哥vs南非": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%A2%A8%E8%A5%BF%E5%93%A5vs%E5%8D%97%E9%9D%9E%23&t=31&band_rank=2&Refer=top",
     "hot": 432533
-  },
-  "让文化遗产走进普通人生活": {
-    "url": "https://s.weibo.com/weibo?q=%23%E8%AE%A9%E6%96%87%E5%8C%96%E9%81%97%E4%BA%A7%E8%B5%B0%E8%BF%9B%E6%99%AE%E9%80%9A%E4%BA%BA%E7%94%9F%E6%B4%BB%23&t=31&band_rank=3&Refer=top",
-    "hot": 416128
-  },
-  "世界杯开幕式 吓我一跳": {
-    "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E5%B9%95%E5%BC%8F%20%E5%90%93%E6%88%91%E4%B8%80%E8%B7%B3&t=31&band_rank=4&Refer=top",
-    "hot": 404750
   },
   "中国航天又一次成功发射": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%8F%88%E4%B8%80%E6%AC%A1%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%23&t=31&band_rank=3&Refer=top",
@@ -27,13 +47,25 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%94%B5%E7%AB%9E%E5%8F%82%E8%B5%9B%E5%90%8D%E5%8D%95%23&t=31&band_rank=4&Refer=top",
     "hot": 392109
   },
-  "中国队首发 labubu马宁": {
-    "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E9%98%9F%E9%A6%96%E5%8F%91%20labubu%E9%A9%AC%E5%AE%81&t=31&band_rank=5&Refer=top",
-    "hot": 330645
+  "白鹿突然被叫本名的反应": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E7%AA%81%E7%84%B6%E8%A2%AB%E5%8F%AB%E6%9C%AC%E5%90%8D%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=15&Refer=top",
+    "hot": 297834
   },
   "南非传球 丑陋": {
     "url": "https://s.weibo.com/weibo?q=%E5%8D%97%E9%9D%9E%E4%BC%A0%E7%90%83%20%E4%B8%91%E9%99%8B&t=31&band_rank=6&Refer=top",
     "hot": 221530
+  },
+  "labubu都进世界杯了": {
+    "url": "https://s.weibo.com/weibo?q=labubu%E9%83%BD%E8%BF%9B%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BA%86&t=31&band_rank=7&Refer=top",
+    "hot": 211501
+  },
+  "还得是夏奇拉": {
+    "url": "https://s.weibo.com/weibo?q=%E8%BF%98%E5%BE%97%E6%98%AF%E5%A4%8F%E5%A5%87%E6%8B%89&t=31&band_rank=16&Refer=top",
+    "hot": 210522
+  },
+  "世界杯揭幕战三张红牌": {
+    "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%8F%AD%E5%B9%95%E6%88%98%E4%B8%89%E5%BC%A0%E7%BA%A2%E7%89%8C&t=31&band_rank=12&Refer=top",
+    "hot": 210008
   },
   "微信能合并发图了": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E8%83%BD%E5%90%88%E5%B9%B6%E5%8F%91%E5%9B%BE%E4%BA%86%23&t=31&band_rank=5&Refer=top",
@@ -47,17 +79,21 @@
     "url": "https://s.weibo.com/weibo?q=%E5%AF%B9%E5%A4%A7%E6%88%BF%E5%AD%90%E7%A5%9B%E9%AD%85%E4%BA%86&t=31&band_rank=7&Refer=top",
     "hot": 196113
   },
+  "夏奇拉不会老吗": {
+    "url": "https://s.weibo.com/weibo?q=%E5%A4%8F%E5%A5%87%E6%8B%89%E4%B8%8D%E4%BC%9A%E8%80%81%E5%90%97&t=31&band_rank=11&Refer=top",
+    "hot": 184664
+  },
   "熬夜看世界杯": {
     "url": "https://s.weibo.com/weibo?q=%E7%86%AC%E5%A4%9C%E7%9C%8B%E4%B8%96%E7%95%8C%E6%9D%AF&t=31&band_rank=8&Refer=top",
     "hot": 183431
   },
   "世界杯": {
     "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF&t=31&band_rank=9&Refer=top",
-    "hot": 168808
+    "hot": 175235
   },
-  "labubu都进世界杯了": {
-    "url": "https://s.weibo.com/weibo?q=labubu%E9%83%BD%E8%BF%9B%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BA%86&t=31&band_rank=7&Refer=top",
-    "hot": 159186
+  "南非队两张红牌": {
+    "url": "https://s.weibo.com/weibo?q=%E5%8D%97%E9%9D%9E%E9%98%9F%E4%B8%A4%E5%BC%A0%E7%BA%A2%E7%89%8C&t=31&band_rank=18&Refer=top",
+    "hot": 170313
   },
   "丁禹兮说请客吃虾是真给报销啊": {
     "url": "https://s.weibo.com/weibo?q=%E4%B8%81%E7%A6%B9%E5%85%AE%E8%AF%B4%E8%AF%B7%E5%AE%A2%E5%90%83%E8%99%BE%E6%98%AF%E7%9C%9F%E7%BB%99%E6%8A%A5%E9%94%80%E5%95%8A&t=31&band_rank=10&Refer=top",
@@ -77,15 +113,15 @@
   },
   "墨西哥进球": {
     "url": "https://s.weibo.com/weibo?q=%E5%A2%A8%E8%A5%BF%E5%93%A5%E8%BF%9B%E7%90%83&t=31&band_rank=8&Refer=top",
-    "hot": 141942
+    "hot": 143629
   },
   "伊能静秦昊不在一个图层": {
     "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E8%83%BD%E9%9D%99%E7%A7%A6%E6%98%8A%E4%B8%8D%E5%9C%A8%E4%B8%80%E4%B8%AA%E5%9B%BE%E5%B1%82%23&t=31&band_rank=14&Refer=top",
     "hot": 133057
   },
-  "白鹿突然被叫本名的反应": {
-    "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E7%AA%81%E7%84%B6%E8%A2%AB%E5%8F%AB%E6%9C%AC%E5%90%8D%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=15&Refer=top",
-    "hot": 127107
+  "美加墨世界杯首球": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E7%90%83%23&t=31&band_rank=10&Refer=top",
+    "hot": 127706
   },
   "万妮达 歌手补位": {
     "url": "https://s.weibo.com/weibo?q=%E4%B8%87%E5%A6%AE%E8%BE%BE%20%E6%AD%8C%E6%89%8B%E8%A1%A5%E4%BD%8D&t=31&band_rank=16&Refer=top",
@@ -227,37 +263,33 @@
     "url": "https://s.weibo.com/weibo?q=%23%E8%91%A3%E8%B7%AF%E5%88%86%E6%9E%90%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E8%BF%9B%E4%B8%8D%E4%BA%86%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=50&Refer=top",
     "hot": 101030
   },
-  "美加墨世界杯首球": {
-    "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E7%90%83%23&t=31&band_rank=10&Refer=top",
-    "hot": 94985
-  },
-  "夏奇拉不会老吗": {
-    "url": "https://s.weibo.com/weibo?q=%E5%A4%8F%E5%A5%87%E6%8B%89%E4%B8%8D%E4%BC%9A%E8%80%81%E5%90%97&t=31&band_rank=11&Refer=top",
-    "hot": 94890
-  },
   "世界杯开幕式 收音好差": {
     "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E5%B9%95%E5%BC%8F%20%E6%94%B6%E9%9F%B3%E5%A5%BD%E5%B7%AE&t=31&band_rank=15&Refer=top",
     "hot": 63654
   },
-  "还得是夏奇拉": {
-    "url": "https://s.weibo.com/weibo?q=%E8%BF%98%E5%BE%97%E6%98%AF%E5%A4%8F%E5%A5%87%E6%8B%89&t=31&band_rank=16&Refer=top",
-    "hot": 57981
+  "每月3000雇夫妻看管祖宅遭鸠占鹊巢": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%AF%8F%E6%9C%883000%E9%9B%87%E5%A4%AB%E5%A6%BB%E7%9C%8B%E7%AE%A1%E7%A5%96%E5%AE%85%E9%81%AD%E9%B8%A0%E5%8D%A0%E9%B9%8A%E5%B7%A2%23&t=31&band_rank=31&Refer=top",
+    "hot": 59799
+  },
+  "世界杯预测": {
+    "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A2%84%E6%B5%8B&t=31&band_rank=32&Refer=top",
+    "hot": 58589
   },
   "墨西哥半场1比0南非": {
     "url": "https://s.weibo.com/weibo?q=%E5%A2%A8%E8%A5%BF%E5%93%A5%E5%8D%8A%E5%9C%BA1%E6%AF%940%E5%8D%97%E9%9D%9E&t=31&band_rank=19&Refer=top",
     "hot": 49454
   },
+  "美加墨世界杯首张红牌": {
+    "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E5%BC%A0%E7%BA%A2%E7%89%8C&t=31&band_rank=26&Refer=top",
+    "hot": 46264
+  },
   "墨西哥吴镇宇没首发": {
     "url": "https://s.weibo.com/weibo?q=%E5%A2%A8%E8%A5%BF%E5%93%A5%E5%90%B4%E9%95%87%E5%AE%87%E6%B2%A1%E9%A6%96%E5%8F%91&t=31&band_rank=21&Refer=top",
     "hot": 43468
   },
-  "美加墨世界杯首张红牌": {
-    "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E5%BC%A0%E7%BA%A2%E7%89%8C&t=31&band_rank=26&Refer=top",
-    "hot": 38832
-  },
-  "特朗普称取消打击伊朗行动": {
-    "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%8F%96%E6%B6%88%E6%89%93%E5%87%BB%E4%BC%8A%E6%9C%97%E8%A1%8C%E5%8A%A8%23&t=31&band_rank=31&Refer=top",
-    "hot": 32215
+  "拍摄者怎么忍住不笑出声的": {
+    "url": "https://s.weibo.com/weibo?q=%E6%8B%8D%E6%91%84%E8%80%85%E6%80%8E%E4%B9%88%E5%BF%8D%E4%BD%8F%E4%B8%8D%E7%AC%91%E5%87%BA%E5%A3%B0%E7%9A%84&t=31&band_rank=46&Refer=top",
+    "hot": 41441
   },
   "白鹿剧宣出图": {
     "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E5%89%A7%E5%AE%A3%E5%87%BA%E5%9B%BE%23&t=31&band_rank=35&Refer=top",

@@ -7,29 +7,38 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-06-12 04:25:31.884158 
+最后更新时间 2026-06-12 06:50:27.626900 
 1. [世界杯开幕式](https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E5%B9%95%E5%BC%8F&t=31&band_rank=1&Refer=top) 2192427
+1. [南非 打人](https://s.weibo.com/weibo?q=%E5%8D%97%E9%9D%9E%20%E6%89%93%E4%BA%BA&t=31&band_rank=1&Refer=top) 1592166
+1. [世界杯开幕式 吓我一跳](https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E5%B9%95%E5%BC%8F%20%E5%90%93%E6%88%91%E4%B8%80%E8%B7%B3&t=31&band_rank=4&Refer=top) 1289020
+1. [让文化遗产走进普通人生活](https://s.weibo.com/weibo?q=%23%E8%AE%A9%E6%96%87%E5%8C%96%E9%81%97%E4%BA%A7%E8%B5%B0%E8%BF%9B%E6%99%AE%E9%80%9A%E4%BA%BA%E7%94%9F%E6%B4%BB%23&t=31&band_rank=3&Refer=top) 1046844
+1. [中国队首发 labubu马宁](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E9%98%9F%E9%A6%96%E5%8F%91%20labubu%E9%A9%AC%E5%AE%81&t=31&band_rank=5&Refer=top) 902169
+1. [墨西哥2比0南非](https://s.weibo.com/weibo?q=%E5%A2%A8%E8%A5%BF%E5%93%A52%E6%AF%940%E5%8D%97%E9%9D%9E&t=31&band_rank=5&Refer=top) 758357
+1. [世界杯 红牌比进球多](https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%20%E7%BA%A2%E7%89%8C%E6%AF%94%E8%BF%9B%E7%90%83%E5%A4%9A&t=31&band_rank=6&Refer=top) 578791
 1. [美国五角大楼被封锁](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A5%BC%E8%A2%AB%E5%B0%81%E9%94%81%23&t=31&band_rank=2&Refer=top) 543184
+1. [特朗普称取消打击伊朗行动](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%8F%96%E6%B6%88%E6%89%93%E5%87%BB%E4%BC%8A%E6%9C%97%E8%A1%8C%E5%8A%A8%23&t=31&band_rank=31&Refer=top) 537368
 1. [墨西哥vs南非](https://s.weibo.com/weibo?q=%23%E5%A2%A8%E8%A5%BF%E5%93%A5vs%E5%8D%97%E9%9D%9E%23&t=31&band_rank=2&Refer=top) 432533
-1. [让文化遗产走进普通人生活](https://s.weibo.com/weibo?q=%23%E8%AE%A9%E6%96%87%E5%8C%96%E9%81%97%E4%BA%A7%E8%B5%B0%E8%BF%9B%E6%99%AE%E9%80%9A%E4%BA%BA%E7%94%9F%E6%B4%BB%23&t=31&band_rank=3&Refer=top) 416128
-1. [世界杯开幕式 吓我一跳](https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E5%B9%95%E5%BC%8F%20%E5%90%93%E6%88%91%E4%B8%80%E8%B7%B3&t=31&band_rank=4&Refer=top) 404750
 1. [中国航天又一次成功发射](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%8F%88%E4%B8%80%E6%AC%A1%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%23&t=31&band_rank=3&Refer=top) 397595
 1. [名古屋亚运会电竞参赛名单](https://s.weibo.com/weibo?q=%23%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%94%B5%E7%AB%9E%E5%8F%82%E8%B5%9B%E5%90%8D%E5%8D%95%23&t=31&band_rank=4&Refer=top) 392109
-1. [中国队首发 labubu马宁](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E9%98%9F%E9%A6%96%E5%8F%91%20labubu%E9%A9%AC%E5%AE%81&t=31&band_rank=5&Refer=top) 330645
+1. [白鹿突然被叫本名的反应](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E7%AA%81%E7%84%B6%E8%A2%AB%E5%8F%AB%E6%9C%AC%E5%90%8D%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=15&Refer=top) 297834
 1. [南非传球 丑陋](https://s.weibo.com/weibo?q=%E5%8D%97%E9%9D%9E%E4%BC%A0%E7%90%83%20%E4%B8%91%E9%99%8B&t=31&band_rank=6&Refer=top) 221530
+1. [labubu都进世界杯了](https://s.weibo.com/weibo?q=labubu%E9%83%BD%E8%BF%9B%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BA%86&t=31&band_rank=7&Refer=top) 211501
+1. [还得是夏奇拉](https://s.weibo.com/weibo?q=%E8%BF%98%E5%BE%97%E6%98%AF%E5%A4%8F%E5%A5%87%E6%8B%89&t=31&band_rank=16&Refer=top) 210522
+1. [世界杯揭幕战三张红牌](https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%8F%AD%E5%B9%95%E6%88%98%E4%B8%89%E5%BC%A0%E7%BA%A2%E7%89%8C&t=31&band_rank=12&Refer=top) 210008
 1. [微信能合并发图了](https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E8%83%BD%E5%90%88%E5%B9%B6%E5%8F%91%E5%9B%BE%E4%BA%86%23&t=31&band_rank=5&Refer=top) 206441
 1. [AI短片效果看到起鸡皮疙瘩了](https://s.weibo.com/weibo?q=AI%E7%9F%AD%E7%89%87%E6%95%88%E6%9E%9C%E7%9C%8B%E5%88%B0%E8%B5%B7%E9%B8%A1%E7%9A%AE%E7%96%99%E7%98%A9%E4%BA%86&t=31&band_rank=6&Refer=top) 202298
 1. [对大房子祛魅了](https://s.weibo.com/weibo?q=%E5%AF%B9%E5%A4%A7%E6%88%BF%E5%AD%90%E7%A5%9B%E9%AD%85%E4%BA%86&t=31&band_rank=7&Refer=top) 196113
+1. [夏奇拉不会老吗](https://s.weibo.com/weibo?q=%E5%A4%8F%E5%A5%87%E6%8B%89%E4%B8%8D%E4%BC%9A%E8%80%81%E5%90%97&t=31&band_rank=11&Refer=top) 184664
 1. [熬夜看世界杯](https://s.weibo.com/weibo?q=%E7%86%AC%E5%A4%9C%E7%9C%8B%E4%B8%96%E7%95%8C%E6%9D%AF&t=31&band_rank=8&Refer=top) 183431
-1. [世界杯](https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF&t=31&band_rank=9&Refer=top) 168808
-1. [labubu都进世界杯了](https://s.weibo.com/weibo?q=labubu%E9%83%BD%E8%BF%9B%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BA%86&t=31&band_rank=7&Refer=top) 159186
+1. [世界杯](https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF&t=31&band_rank=9&Refer=top) 175235
+1. [南非队两张红牌](https://s.weibo.com/weibo?q=%E5%8D%97%E9%9D%9E%E9%98%9F%E4%B8%A4%E5%BC%A0%E7%BA%A2%E7%89%8C&t=31&band_rank=18&Refer=top) 170313
 1. [丁禹兮说请客吃虾是真给报销啊](https://s.weibo.com/weibo?q=%E4%B8%81%E7%A6%B9%E5%85%AE%E8%AF%B4%E8%AF%B7%E5%AE%A2%E5%90%83%E8%99%BE%E6%98%AF%E7%9C%9F%E7%BB%99%E6%8A%A5%E9%94%80%E5%95%8A&t=31&band_rank=10&Refer=top) 158728
 1. [女子点外卖备注牛蛙不要烧收到活蛙](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%82%B9%E5%A4%96%E5%8D%96%E5%A4%87%E6%B3%A8%E7%89%9B%E8%9B%99%E4%B8%8D%E8%A6%81%E7%83%A7%E6%94%B6%E5%88%B0%E6%B4%BB%E8%9B%99%23&t=31&band_rank=11&Refer=top) 158494
 1. [黄金进入熊市](https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E8%BF%9B%E5%85%A5%E7%86%8A%E5%B8%82%23&t=31&band_rank=12&Refer=top) 157037
 1. [莫离热度](https://s.weibo.com/weibo?q=%E8%8E%AB%E7%A6%BB%E7%83%AD%E5%BA%A6&t=31&band_rank=13&Refer=top) 146843
-1. [墨西哥进球](https://s.weibo.com/weibo?q=%E5%A2%A8%E8%A5%BF%E5%93%A5%E8%BF%9B%E7%90%83&t=31&band_rank=8&Refer=top) 141942
+1. [墨西哥进球](https://s.weibo.com/weibo?q=%E5%A2%A8%E8%A5%BF%E5%93%A5%E8%BF%9B%E7%90%83&t=31&band_rank=8&Refer=top) 143629
 1. [伊能静秦昊不在一个图层](https://s.weibo.com/weibo?q=%23%E4%BC%8A%E8%83%BD%E9%9D%99%E7%A7%A6%E6%98%8A%E4%B8%8D%E5%9C%A8%E4%B8%80%E4%B8%AA%E5%9B%BE%E5%B1%82%23&t=31&band_rank=14&Refer=top) 133057
-1. [白鹿突然被叫本名的反应](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E7%AA%81%E7%84%B6%E8%A2%AB%E5%8F%AB%E6%9C%AC%E5%90%8D%E7%9A%84%E5%8F%8D%E5%BA%94%23&t=31&band_rank=15&Refer=top) 127107
+1. [美加墨世界杯首球](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E7%90%83%23&t=31&band_rank=10&Refer=top) 127706
 1. [万妮达 歌手补位](https://s.weibo.com/weibo?q=%E4%B8%87%E5%A6%AE%E8%BE%BE%20%E6%AD%8C%E6%89%8B%E8%A1%A5%E4%BD%8D&t=31&band_rank=16&Refer=top) 118825
 1. [男子借50万给朋友12年未催要](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%80%9F50%E4%B8%87%E7%BB%99%E6%9C%8B%E5%8F%8B12%E5%B9%B4%E6%9C%AA%E5%82%AC%E8%A6%81%23&t=31&band_rank=17&Refer=top) 117323
 1. [LPL大回归时代来了](https://s.weibo.com/weibo?q=%23LPL%E5%A4%A7%E5%9B%9E%E5%BD%92%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%BA%86%23&t=31&band_rank=18&Refer=top) 109732
@@ -65,14 +74,13 @@
 1. [世界杯揭幕战](https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%E6%8F%AD%E5%B9%95%E6%88%98%23&t=31&band_rank=48&Refer=top) 101081
 1. [中方制裁菲国防部长](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%88%B6%E8%A3%81%E8%8F%B2%E5%9B%BD%E9%98%B2%E9%83%A8%E9%95%BF%23&t=31&band_rank=49&Refer=top) 101061
 1. [董路分析中国足球进不了世界杯原因](https://s.weibo.com/weibo?q=%23%E8%91%A3%E8%B7%AF%E5%88%86%E6%9E%90%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E8%BF%9B%E4%B8%8D%E4%BA%86%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=50&Refer=top) 101030
-1. [美加墨世界杯首球](https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E7%90%83%23&t=31&band_rank=10&Refer=top) 94985
-1. [夏奇拉不会老吗](https://s.weibo.com/weibo?q=%E5%A4%8F%E5%A5%87%E6%8B%89%E4%B8%8D%E4%BC%9A%E8%80%81%E5%90%97&t=31&band_rank=11&Refer=top) 94890
 1. [世界杯开幕式 收音好差](https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E5%B9%95%E5%BC%8F%20%E6%94%B6%E9%9F%B3%E5%A5%BD%E5%B7%AE&t=31&band_rank=15&Refer=top) 63654
-1. [还得是夏奇拉](https://s.weibo.com/weibo?q=%E8%BF%98%E5%BE%97%E6%98%AF%E5%A4%8F%E5%A5%87%E6%8B%89&t=31&band_rank=16&Refer=top) 57981
+1. [每月3000雇夫妻看管祖宅遭鸠占鹊巢](https://s.weibo.com/weibo?q=%23%E6%AF%8F%E6%9C%883000%E9%9B%87%E5%A4%AB%E5%A6%BB%E7%9C%8B%E7%AE%A1%E7%A5%96%E5%AE%85%E9%81%AD%E9%B8%A0%E5%8D%A0%E9%B9%8A%E5%B7%A2%23&t=31&band_rank=31&Refer=top) 59799
+1. [世界杯预测](https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A2%84%E6%B5%8B&t=31&band_rank=32&Refer=top) 58589
 1. [墨西哥半场1比0南非](https://s.weibo.com/weibo?q=%E5%A2%A8%E8%A5%BF%E5%93%A5%E5%8D%8A%E5%9C%BA1%E6%AF%940%E5%8D%97%E9%9D%9E&t=31&band_rank=19&Refer=top) 49454
+1. [美加墨世界杯首张红牌](https://s.weibo.com/weibo?q=%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E5%BC%A0%E7%BA%A2%E7%89%8C&t=31&band_rank=26&Refer=top) 46264
 1. [墨西哥吴镇宇没首发](https://s.weibo.com/weibo?q=%E5%A2%A8%E8%A5%BF%E5%93%A5%E5%90%B4%E9%95%87%E5%AE%87%E6%B2%A1%E9%A6%96%E5%8F%91&t=31&band_rank=21&Refer=top) 43468
-1. [美加墨世界杯首张红牌](https://s.weibo.com/weibo?q=%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E5%BC%A0%E7%BA%A2%E7%89%8C&t=31&band_rank=26&Refer=top) 38832
-1. [特朗普称取消打击伊朗行动](https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%8F%96%E6%B6%88%E6%89%93%E5%87%BB%E4%BC%8A%E6%9C%97%E8%A1%8C%E5%8A%A8%23&t=31&band_rank=31&Refer=top) 32215
+1. [拍摄者怎么忍住不笑出声的](https://s.weibo.com/weibo?q=%E6%8B%8D%E6%91%84%E8%80%85%E6%80%8E%E4%B9%88%E5%BF%8D%E4%BD%8F%E4%B8%8D%E7%AC%91%E5%87%BA%E5%A3%B0%E7%9A%84&t=31&band_rank=46&Refer=top) 41441
 1. [白鹿剧宣出图](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E5%89%A7%E5%AE%A3%E5%87%BA%E5%9B%BE%23&t=31&band_rank=35&Refer=top) 32140
 1. [世界杯开幕式好短](https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%BC%80%E5%B9%95%E5%BC%8F%E5%A5%BD%E7%9F%AD&t=31&band_rank=49&Refer=top) 32134
 1. [WTT常规挑战赛萨格勒布站](https://s.weibo.com/weibo?q=WTT%E5%B8%B8%E8%A7%84%E6%8C%91%E6%88%98%E8%B5%9B%E8%90%A8%E6%A0%BC%E5%8B%92%E5%B8%83%E7%AB%99&t=31&band_rank=50&Refer=top) 32134
