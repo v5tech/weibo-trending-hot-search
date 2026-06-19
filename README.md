@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-06-20 00:06:51.019511 
+最后更新时间 2026-06-20 02:57:13.062533 
 1. [歌手排名](https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E6%8E%92%E5%90%8D&t=31&band_rank=1&Refer=top) 6539167
 1. [心引力开场 灾难](https://s.weibo.com/weibo?q=%E5%BF%83%E5%BC%95%E5%8A%9B%E5%BC%80%E5%9C%BA%20%E7%81%BE%E9%9A%BE&t=31&band_rank=2&Refer=top) 2293133
 1. [各地端午民俗](https://s.weibo.com/weibo?q=%23%E5%90%84%E5%9C%B0%E7%AB%AF%E5%8D%88%E6%B0%91%E4%BF%97%23&t=31&band_rank=3&Refer=top) 1403837
@@ -58,6 +58,27 @@
 1. [AG战胜KSG](https://s.weibo.com/weibo?q=AG%E6%88%98%E8%83%9CKSG&t=31&band_rank=48&Refer=top) 444301
 1. [法国女排vs中国女排](https://s.weibo.com/weibo?q=%E6%B3%95%E5%9B%BD%E5%A5%B3%E6%8E%92vs%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92&t=31&band_rank=49&Refer=top) 441980
 1. [钟意大司命MVP](https://s.weibo.com/weibo?q=%E9%92%9F%E6%84%8F%E5%A4%A7%E5%8F%B8%E5%91%BDMVP&t=31&band_rank=50&Refer=top) 439727
+1. [端午假期第一天2.4亿人次跨区域流动](https://s.weibo.com/weibo?q=%23%E7%AB%AF%E5%8D%88%E5%81%87%E6%9C%9F%E7%AC%AC%E4%B8%80%E5%A4%A92.4%E4%BA%BF%E4%BA%BA%E6%AC%A1%E8%B7%A8%E5%8C%BA%E5%9F%9F%E6%B5%81%E5%8A%A8%23&t=31&band_rank=3&Refer=top) 156287
+1. [窦靖童王菲 泪痕妆](https://s.weibo.com/weibo?q=%E7%AA%A6%E9%9D%96%E7%AB%A5%E7%8E%8B%E8%8F%B2%20%E6%B3%AA%E7%97%95%E5%A6%86&t=31&band_rank=5&Refer=top) 140326
+1. [最适合打工人的老板出现了](https://s.weibo.com/weibo?q=%E6%9C%80%E9%80%82%E5%90%88%E6%89%93%E5%B7%A5%E4%BA%BA%E7%9A%84%E8%80%81%E6%9D%BF%E5%87%BA%E7%8E%B0%E4%BA%86&t=31&band_rank=7&Refer=top) 105818
+1. [女子遗体情夫车里被发现丈夫希望严判](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%81%97%E4%BD%93%E6%83%85%E5%A4%AB%E8%BD%A6%E9%87%8C%E8%A2%AB%E5%8F%91%E7%8E%B0%E4%B8%88%E5%A4%AB%E5%B8%8C%E6%9C%9B%E4%B8%A5%E5%88%A4%23&t=31&band_rank=11&Refer=top) 104862
+1. [侯明昊安可唱雨天](https://s.weibo.com/weibo?q=%E4%BE%AF%E6%98%8E%E6%98%8A%E5%AE%89%E5%8F%AF%E5%94%B1%E9%9B%A8%E5%A4%A9&t=31&band_rank=12&Refer=top) 104225
+1. [杨坤 为什么不留我多唱几首歌呢](https://s.weibo.com/weibo?q=%E6%9D%A8%E5%9D%A4%20%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E7%95%99%E6%88%91%E5%A4%9A%E5%94%B1%E5%87%A0%E9%A6%96%E6%AD%8C%E5%91%A2&t=31&band_rank=13&Refer=top) 104048
+1. [浪姐能不能淘汰赵兆](https://s.weibo.com/weibo?q=%E6%B5%AA%E5%A7%90%E8%83%BD%E4%B8%8D%E8%83%BD%E6%B7%98%E6%B1%B0%E8%B5%B5%E5%85%86&t=31&band_rank=17&Refer=top) 93057
+1. [北大女学霸谈数学50分如何逆袭](https://s.weibo.com/weibo?q=%E5%8C%97%E5%A4%A7%E5%A5%B3%E5%AD%A6%E9%9C%B8%E8%B0%88%E6%95%B0%E5%AD%A650%E5%88%86%E5%A6%82%E4%BD%95%E9%80%86%E8%A2%AD&t=31&band_rank=20&Refer=top) 92744
+1. [橹穆双人舞台官摄破3700万](https://s.weibo.com/weibo?q=%23%E6%A9%B9%E7%A9%86%E5%8F%8C%E4%BA%BA%E8%88%9E%E5%8F%B0%E5%AE%98%E6%91%84%E7%A0%B43700%E4%B8%87%23&t=31&band_rank=22&Refer=top) 92456
+1. [Simon 高音](https://s.weibo.com/weibo?q=Simon%20%E9%AB%98%E9%9F%B3&t=31&band_rank=24&Refer=top) 92163
+1. [存储芯片涨价失控](https://s.weibo.com/weibo?q=%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E6%B6%A8%E4%BB%B7%E5%A4%B1%E6%8E%A7&t=31&band_rank=27&Refer=top) 91673
+1. [世界杯上补丁最多的球员](https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%8A%E8%A1%A5%E4%B8%81%E6%9C%80%E5%A4%9A%E7%9A%84%E7%90%83%E5%91%98&t=31&band_rank=28&Refer=top) 91537
+1. [歌手2026之好声音导师渡劫季](https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B2026%E4%B9%8B%E5%A5%BD%E5%A3%B0%E9%9F%B3%E5%AF%BC%E5%B8%88%E6%B8%A1%E5%8A%AB%E5%AD%A3&t=31&band_rank=31&Refer=top) 91123
+1. [苏醒手怎么了](https://s.weibo.com/weibo?q=%E8%8B%8F%E9%86%92%E6%89%8B%E6%80%8E%E4%B9%88%E4%BA%86&t=31&band_rank=33&Refer=top) 90867
+1. [曾沛慈庄法双人舞](https://s.weibo.com/weibo?q=%23%E6%9B%BE%E6%B2%9B%E6%85%88%E5%BA%84%E6%B3%95%E5%8F%8C%E4%BA%BA%E8%88%9E%23&t=31&band_rank=34&Refer=top) 90655
+1. [浪7最女团的一个唱跳舞台出现了](https://s.weibo.com/weibo?q=%23%E6%B5%AA7%E6%9C%80%E5%A5%B3%E5%9B%A2%E7%9A%84%E4%B8%80%E4%B8%AA%E5%94%B1%E8%B7%B3%E8%88%9E%E5%8F%B0%E5%87%BA%E7%8E%B0%E4%BA%86%23&t=31&band_rank=36&Refer=top) 90410
+1. [cameraready谁说浪姐没有齐舞](https://s.weibo.com/weibo?q=%23cameraready%E8%B0%81%E8%AF%B4%E6%B5%AA%E5%A7%90%E6%B2%A1%E6%9C%89%E9%BD%90%E8%88%9E%23&t=31&band_rank=39&Refer=top) 90046
+1. [AG夏季赛首战首胜](https://s.weibo.com/weibo?q=%23AG%E5%A4%8F%E5%AD%A3%E8%B5%9B%E9%A6%96%E6%88%98%E9%A6%96%E8%83%9C%23&t=31&band_rank=46&Refer=top) 89046
+1. [普京下令要摧毁乌军战斗力](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E4%B8%8B%E4%BB%A4%E8%A6%81%E6%91%A7%E6%AF%81%E4%B9%8C%E5%86%9B%E6%88%98%E6%96%97%E5%8A%9B%23&t=31&band_rank=47&Refer=top) 88779
+1. [英国3岁男童被陌生人扔进鳄鱼池](https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD3%E5%B2%81%E7%94%B7%E7%AB%A5%E8%A2%AB%E9%99%8C%E7%94%9F%E4%BA%BA%E6%89%94%E8%BF%9B%E9%B3%84%E9%B1%BC%E6%B1%A0%23&t=31&band_rank=48&Refer=top) 88709
+1. [林诗栋单双打连续出局](https://s.weibo.com/weibo?q=%E6%9E%97%E8%AF%97%E6%A0%8B%E5%8D%95%E5%8F%8C%E6%89%93%E8%BF%9E%E7%BB%AD%E5%87%BA%E5%B1%80&t=31&band_rank=49&Refer=top) 88567
 <!-- END -->
 
 历史归档 [./archives](./archives)
