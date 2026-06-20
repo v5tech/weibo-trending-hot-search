@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-06-21 02:14:23.577435 
+最后更新时间 2026-06-21 04:17:02.451794 
 1. [何宣林淘汰](https://s.weibo.com/weibo?q=%E4%BD%95%E5%AE%A3%E6%9E%97%E6%B7%98%E6%B1%B0&t=31&band_rank=1&Refer=top) 1628664
 1. [浪姐总决赛](https://s.weibo.com/weibo?q=%E6%B5%AA%E5%A7%90%E6%80%BB%E5%86%B3%E8%B5%9B&t=31&band_rank=2&Refer=top) 1188887
 1. [2026端午档票房破2亿](https://s.weibo.com/weibo?q=%232026%E7%AB%AF%E5%8D%88%E6%A1%A3%E7%A5%A8%E6%88%BF%E7%A0%B42%E4%BA%BF%23&t=31&band_rank=3&Refer=top) 1000540
@@ -16,6 +16,7 @@
 1. [曾沛慈看到何宣林淘汰的表情](https://s.weibo.com/weibo?q=%23%E6%9B%BE%E6%B2%9B%E6%85%88%E7%9C%8B%E5%88%B0%E4%BD%95%E5%AE%A3%E6%9E%97%E6%B7%98%E6%B1%B0%E7%9A%84%E8%A1%A8%E6%83%85%23&t=31&band_rank=6&Refer=top) 851361
 1. [伊军方宣布关闭霍尔木兹](https://s.weibo.com/weibo?q=%23%E4%BC%8A%E5%86%9B%E6%96%B9%E5%AE%A3%E5%B8%83%E5%85%B3%E9%97%AD%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%23&t=31&band_rank=7&Refer=top) 847090
 1. [EDG败决对阵LEV](https://s.weibo.com/weibo?q=EDG%E8%B4%A5%E5%86%B3%E5%AF%B9%E9%98%B5LEV&t=31&band_rank=8&Refer=top) 719838
+1. [荷兰杀疯了](https://s.weibo.com/weibo?q=%23%E8%8D%B7%E5%85%B0%E6%9D%80%E7%96%AF%E4%BA%86%23&t=31&band_rank=1&Refer=top) 611470
 1. [为啥瘦下来的人会变得高冷](https://s.weibo.com/weibo?q=%E4%B8%BA%E5%95%A5%E7%98%A6%E4%B8%8B%E6%9D%A5%E7%9A%84%E4%BA%BA%E4%BC%9A%E5%8F%98%E5%BE%97%E9%AB%98%E5%86%B7&t=31&band_rank=9&Refer=top) 609505
 1. [明天将是中国球迷的主场](https://s.weibo.com/weibo?q=%E6%98%8E%E5%A4%A9%E5%B0%86%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%90%83%E8%BF%B7%E7%9A%84%E4%B8%BB%E5%9C%BA&t=31&band_rank=10&Refer=top) 589420
 1. [田曦薇获奖感言用了3种语言](https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E8%8E%B7%E5%A5%96%E6%84%9F%E8%A8%80%E7%94%A8%E4%BA%863%E7%A7%8D%E8%AF%AD%E8%A8%80%23&t=31&band_rank=11&Refer=top) 572851
@@ -65,14 +66,18 @@
 1. [王濛和万千惠说对不起](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BF%9B%E5%92%8C%E4%B8%87%E5%8D%83%E6%83%A0%E8%AF%B4%E5%AF%B9%E4%B8%8D%E8%B5%B7%23&t=31&band_rank=13&Refer=top) 244849
 1. [徐梦洁个喜17](https://s.weibo.com/weibo?q=%E5%BE%90%E6%A2%A6%E6%B4%81%E4%B8%AA%E5%96%9C17&t=31&band_rank=15&Refer=top) 230513
 1. [世界杯](https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF&t=31&band_rank=16&Refer=top) 227663
+1. [德国vs科特迪瓦](https://s.weibo.com/weibo?q=%E5%BE%B7%E5%9B%BDvs%E7%A7%91%E7%89%B9%E8%BF%AA%E7%93%A6&t=31&band_rank=4&Refer=top) 195091
 1. [荷兰半场2比0瑞典](https://s.weibo.com/weibo?q=%E8%8D%B7%E5%85%B0%E5%8D%8A%E5%9C%BA2%E6%AF%940%E7%91%9E%E5%85%B8&t=31&band_rank=20&Refer=top) 142101
 1. [布罗比梅开二度](https://s.weibo.com/weibo?q=%23%E5%B8%83%E7%BD%97%E6%AF%94%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6%23&t=31&band_rank=24&Refer=top) 138738
+1. [荷兰连进4球](https://s.weibo.com/weibo?q=%23%E8%8D%B7%E5%85%B0%E8%BF%9E%E8%BF%9B4%E7%90%83%23&t=31&band_rank=7&Refer=top) 121041
 1. [马宁担任英格兰vs加纳四官](https://s.weibo.com/weibo?q=%E9%A9%AC%E5%AE%81%E6%8B%85%E4%BB%BB%E8%8B%B1%E6%A0%BC%E5%85%B0vs%E5%8A%A0%E7%BA%B3%E5%9B%9B%E5%AE%98&t=31&band_rank=29&Refer=top) 120465
 1. [荷兰开场5分钟进球](https://s.weibo.com/weibo?q=%E8%8D%B7%E5%85%B0%E5%BC%80%E5%9C%BA5%E5%88%86%E9%92%9F%E8%BF%9B%E7%90%83&t=31&band_rank=30&Refer=top) 119832
 1. [安崎 酱油醋我们保住了](https://s.weibo.com/weibo?q=%E5%AE%89%E5%B4%8E%20%E9%85%B1%E6%B2%B9%E9%86%8B%E6%88%91%E4%BB%AC%E4%BF%9D%E4%BD%8F%E4%BA%86&t=31&band_rank=31&Refer=top) 119005
 1. [张月给陈瑶戴珍珠项链](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9C%88%E7%BB%99%E9%99%88%E7%91%B6%E6%88%B4%E7%8F%8D%E7%8F%A0%E9%A1%B9%E9%93%BE%23&t=31&band_rank=32&Refer=top) 106606
 1. [白鹿丞磊合唱遇到太甜了](https://s.weibo.com/weibo?q=%E7%99%BD%E9%B9%BF%E4%B8%9E%E7%A3%8A%E5%90%88%E5%94%B1%E9%81%87%E5%88%B0%E5%A4%AA%E7%94%9C%E4%BA%86&t=31&band_rank=41&Refer=top) 99168
 1. [金爵奖影后](https://s.weibo.com/weibo?q=%E9%87%91%E7%88%B5%E5%A5%96%E5%BD%B1%E5%90%8E&t=31&band_rank=46&Refer=top) 98639
+1. [荷兰5比1瑞典](https://s.weibo.com/weibo?q=%E8%8D%B7%E5%85%B05%E6%AF%941%E7%91%9E%E5%85%B8&t=31&band_rank=13&Refer=top) 77558
+1. [EDG不敌LEV](https://s.weibo.com/weibo?q=EDG%E4%B8%8D%E6%95%8CLEV&t=31&band_rank=28&Refer=top) 42642
 <!-- END -->
 
 历史归档 [./archives](./archives)
