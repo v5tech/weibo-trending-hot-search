@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-06-22 03:46:29.519270 
+最后更新时间 2026-06-22 05:17:05.628124 
 1. [niko](https://s.weibo.com/weibo?q=niko&t=31&band_rank=1&Refer=top) 1304419
 1. [西班牙vs沙特](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E7%8F%AD%E7%89%99vs%E6%B2%99%E7%89%B9%23&t=31&band_rank=1&Refer=top) 785237
 1. [亚马尔](https://s.weibo.com/weibo?q=%E4%BA%9A%E9%A9%AC%E5%B0%94&t=31&band_rank=2&Refer=top) 632846
@@ -17,19 +17,21 @@
 1. [虎牙](https://s.weibo.com/weibo?q=%E8%99%8E%E7%89%99&t=31&band_rank=6&Refer=top) 416937
 1. [雷军说当初不该和董明珠打赌](https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E8%AF%B4%E5%BD%93%E5%88%9D%E4%B8%8D%E8%AF%A5%E5%92%8C%E8%91%A3%E6%98%8E%E7%8F%A0%E6%89%93%E8%B5%8C%23&t=31&band_rank=7&Refer=top) 375516
 1. [爸爸不收红包是全国统一的吗](https://s.weibo.com/weibo?q=%E7%88%B8%E7%88%B8%E4%B8%8D%E6%94%B6%E7%BA%A2%E5%8C%85%E6%98%AF%E5%85%A8%E5%9B%BD%E7%BB%9F%E4%B8%80%E7%9A%84%E5%90%97&t=31&band_rank=8&Refer=top) 286088
+1. [比利时vs伊朗](https://s.weibo.com/weibo?q=%23%E6%AF%94%E5%88%A9%E6%97%B6vs%E4%BC%8A%E6%9C%97%23&t=31&band_rank=6&Refer=top) 276376
 1. [科隆Major](https://s.weibo.com/weibo?q=%E7%A7%91%E9%9A%86Major&t=31&band_rank=2&Refer=top) 258142
 1. [张月陈瑶 想见你想见你想见你](https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9C%88%E9%99%88%E7%91%B6%20%E6%83%B3%E8%A7%81%E4%BD%A0%E6%83%B3%E8%A7%81%E4%BD%A0%E6%83%B3%E8%A7%81%E4%BD%A0&t=31&band_rank=9&Refer=top) 221877
 1. [董路直言我不欣赏马宁](https://s.weibo.com/weibo?q=%23%E8%91%A3%E8%B7%AF%E7%9B%B4%E8%A8%80%E6%88%91%E4%B8%8D%E6%AC%A3%E8%B5%8F%E9%A9%AC%E5%AE%81%23&t=31&band_rank=10&Refer=top) 221367
 1. [亚马尔世界杯首球](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E9%A9%AC%E5%B0%94%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E7%90%83%23&t=31&band_rank=11&Refer=top) 203351
 1. [庄法好真诚的文字](https://s.weibo.com/weibo?q=%E5%BA%84%E6%B3%95%E5%A5%BD%E7%9C%9F%E8%AF%9A%E7%9A%84%E6%96%87%E5%AD%97&t=31&band_rank=12&Refer=top) 172649
+1. [西班牙4比0沙特](https://s.weibo.com/weibo?q=%E8%A5%BF%E7%8F%AD%E7%89%994%E6%AF%940%E6%B2%99%E7%89%B9&t=31&band_rank=4&Refer=top) 164606
 1. [退租一年了房东还在帮我卖冰箱](https://s.weibo.com/weibo?q=%E9%80%80%E7%A7%9F%E4%B8%80%E5%B9%B4%E4%BA%86%E6%88%BF%E4%B8%9C%E8%BF%98%E5%9C%A8%E5%B8%AE%E6%88%91%E5%8D%96%E5%86%B0%E7%AE%B1&t=31&band_rank=13&Refer=top) 144822
 1. [陈小春边哭边改](https://s.weibo.com/weibo?q=%E9%99%88%E5%B0%8F%E6%98%A5%E8%BE%B9%E5%93%AD%E8%BE%B9%E6%94%B9&t=31&band_rank=14&Refer=top) 144388
 1. [西班牙半场3比0沙特](https://s.weibo.com/weibo?q=%E8%A5%BF%E7%8F%AD%E7%89%99%E5%8D%8A%E5%9C%BA3%E6%AF%940%E6%B2%99%E7%89%B9&t=31&band_rank=15&Refer=top) 140808
 1. [曝白玉兰场刊是各家团队自己撰写的](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%99%BD%E7%8E%89%E5%85%B0%E5%9C%BA%E5%88%8A%E6%98%AF%E5%90%84%E5%AE%B6%E5%9B%A2%E9%98%9F%E8%87%AA%E5%B7%B1%E6%92%B0%E5%86%99%E7%9A%84%23&t=31&band_rank=16&Refer=top) 138937
 1. [伊朗因球员跑不动多次换人](https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%9B%A0%E7%90%83%E5%91%98%E8%B7%91%E4%B8%8D%E5%8A%A8%E5%A4%9A%E6%AC%A1%E6%8D%A2%E4%BA%BA%23&t=31&band_rank=17&Refer=top) 127461
 1. [渐冻症女子安装监控拍下男护工猥亵](https://s.weibo.com/weibo?q=%23%E6%B8%90%E5%86%BB%E7%97%87%E5%A5%B3%E5%AD%90%E5%AE%89%E8%A3%85%E7%9B%91%E6%8E%A7%E6%8B%8D%E4%B8%8B%E7%94%B7%E6%8A%A4%E5%B7%A5%E7%8C%A5%E4%BA%B5%23&t=31&band_rank=18&Refer=top) 127240
+1. [Falcons夺得科隆Major冠军](https://s.weibo.com/weibo?q=%23Falcons%E5%A4%BA%E5%BE%97%E7%A7%91%E9%9A%86Major%E5%86%A0%E5%86%9B%23&t=31&band_rank=5&Refer=top) 117708
 1. [马宁梅西名场面](https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%AE%81%E6%A2%85%E8%A5%BF%E5%90%8D%E5%9C%BA%E9%9D%A2%23&t=31&band_rank=19&Refer=top) 113844
-1. [比利时vs伊朗](https://s.weibo.com/weibo?q=%23%E6%AF%94%E5%88%A9%E6%97%B6vs%E4%BC%8A%E6%9C%97%23&t=31&band_rank=6&Refer=top) 112540
 1. [PRX总决赛对阵LEV](https://s.weibo.com/weibo?q=PRX%E6%80%BB%E5%86%B3%E8%B5%9B%E5%AF%B9%E9%98%B5LEV&t=31&band_rank=47&Refer=top) 105525
 1. [伊朗球员上场前体能已透支](https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%90%83%E5%91%98%E4%B8%8A%E5%9C%BA%E5%89%8D%E4%BD%93%E8%83%BD%E5%B7%B2%E9%80%8F%E6%94%AF%23&t=31&band_rank=20&Refer=top) 100675
 1. [家里4个地方是霉菌重灾区](https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%87%8C4%E4%B8%AA%E5%9C%B0%E6%96%B9%E6%98%AF%E9%9C%89%E8%8F%8C%E9%87%8D%E7%81%BE%E5%8C%BA%23&t=31&band_rank=21&Refer=top) 100551
@@ -67,6 +69,8 @@
 1. [KPL](https://s.weibo.com/weibo?q=KPL&t=31&band_rank=47&Refer=top) 60220
 1. [癞蛤蟆被误解一生](https://s.weibo.com/weibo?q=%E7%99%9E%E8%9B%A4%E8%9F%86%E8%A2%AB%E8%AF%AF%E8%A7%A3%E4%B8%80%E7%94%9F&t=31&band_rank=48&Refer=top) 60214
 1. [豆包推荐的岗位是假的](https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E6%8E%A8%E8%8D%90%E7%9A%84%E5%B2%97%E4%BD%8D%E6%98%AF%E5%81%87%E7%9A%84&t=31&band_rank=50&Refer=top) 60203
+1. [米兰男装周](https://s.weibo.com/weibo?q=%E7%B1%B3%E5%85%B0%E7%94%B7%E8%A3%85%E5%91%A8&t=31&band_rank=38&Refer=top) 26463
+1. [爱情有烟火](https://s.weibo.com/weibo?q=%E7%88%B1%E6%83%85%E6%9C%89%E7%83%9F%E7%81%AB&t=31&band_rank=46&Refer=top) 26386
 <!-- END -->
 
 历史归档 [./archives](./archives)
