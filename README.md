@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-06-29 03:24:26.096154 
+最后更新时间 2026-06-29 05:04:42.479056 
 1. [四川宜宾地震](https://s.weibo.com/weibo?q=%E5%9B%9B%E5%B7%9D%E5%AE%9C%E5%AE%BE%E5%9C%B0%E9%9C%87&t=31&band_rank=1&Refer=top) 9180694
 1. [成都震感](https://s.weibo.com/weibo?q=%E6%88%90%E9%83%BD%E9%9C%87%E6%84%9F&t=31&band_rank=2&Refer=top) 1621170
 1. [神23乘组太空出差满月](https://s.weibo.com/weibo?q=%23%E7%A5%9E23%E4%B9%98%E7%BB%84%E5%A4%AA%E7%A9%BA%E5%87%BA%E5%B7%AE%E6%BB%A1%E6%9C%88%23&t=31&band_rank=3&Refer=top) 1284704
@@ -19,6 +19,7 @@
 1. [加纳巫师预测佛得角淘汰阿根廷](https://s.weibo.com/weibo?q=%E5%8A%A0%E7%BA%B3%E5%B7%AB%E5%B8%88%E9%A2%84%E6%B5%8B%E4%BD%9B%E5%BE%97%E8%A7%92%E6%B7%98%E6%B1%B0%E9%98%BF%E6%A0%B9%E5%BB%B7&t=31&band_rank=9&Refer=top) 302777
 1. [艾米人生第一次看演唱会](https://s.weibo.com/weibo?q=%23%E8%89%BE%E7%B1%B3%E4%BA%BA%E7%94%9F%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A%23&t=31&band_rank=10&Refer=top) 281095
 1. [四川高县附近5.5级左右地震](https://s.weibo.com/weibo?q=%E5%9B%9B%E5%B7%9D%E9%AB%98%E5%8E%BF%E9%99%84%E8%BF%915.5%E7%BA%A7%E5%B7%A6%E5%8F%B3%E5%9C%B0%E9%9C%87&t=31&band_rank=11&Refer=top) 263280
+1. [南非vs加拿大](https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%9D%9Evs%E5%8A%A0%E6%8B%BF%E5%A4%A7%23&t=31&band_rank=9&Refer=top) 235192
 1. [立陶宛生变](https://s.weibo.com/weibo?q=%23%E7%AB%8B%E9%99%B6%E5%AE%9B%E7%94%9F%E5%8F%98%23&t=31&band_rank=12&Refer=top) 232068
 1. [伊朗队队长怒斥国际足联](https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E9%98%9F%E9%98%9F%E9%95%BF%E6%80%92%E6%96%A5%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%23&t=31&band_rank=13&Refer=top) 214902
 1. [严浩翔紫钻戒指](https://s.weibo.com/weibo?q=%23%E4%B8%A5%E6%B5%A9%E7%BF%94%E7%B4%AB%E9%92%BB%E6%88%92%E6%8C%87%23&t=31&band_rank=14&Refer=top) 211957
@@ -60,7 +61,6 @@
 1. [洪明甫仁川机场遇害预言](https://s.weibo.com/weibo?q=%23%E6%B4%AA%E6%98%8E%E7%94%AB%E4%BB%81%E5%B7%9D%E6%9C%BA%E5%9C%BA%E9%81%87%E5%AE%B3%E9%A2%84%E8%A8%80%23&t=31&band_rank=50&Refer=top) 177887
 1. [宜宾](https://s.weibo.com/weibo?q=%E5%AE%9C%E5%AE%BE&t=31&band_rank=2&Refer=top) 136486
 1. [四川](https://s.weibo.com/weibo?q=%E5%9B%9B%E5%B7%9D&t=31&band_rank=5&Refer=top) 96216
-1. [南非vs加拿大](https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%9D%9Evs%E5%8A%A0%E6%8B%BF%E5%A4%A7%23&t=31&band_rank=9&Refer=top) 75049
 1. [韩国主教练连夜下课](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%B8%BB%E6%95%99%E7%BB%83%E8%BF%9E%E5%A4%9C%E4%B8%8B%E8%AF%BE%23&t=31&band_rank=12&Refer=top) 73565
 1. [想通就在一瞬间](https://s.weibo.com/weibo?q=%E6%83%B3%E9%80%9A%E5%B0%B1%E5%9C%A8%E4%B8%80%E7%9E%AC%E9%97%B4&t=31&band_rank=21&Refer=top) 52098
 1. [宜宾地震震源深度6公里](https://s.weibo.com/weibo?q=%23%E5%AE%9C%E5%AE%BE%E5%9C%B0%E9%9C%87%E9%9C%87%E6%BA%90%E6%B7%B1%E5%BA%A66%E5%85%AC%E9%87%8C%23&t=31&band_rank=31&Refer=top) 43630
@@ -68,6 +68,7 @@
 1. [伊朗球员向伊朗人民道歉](https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%90%83%E5%91%98%E5%90%91%E4%BC%8A%E6%9C%97%E4%BA%BA%E6%B0%91%E9%81%93%E6%AD%89%23&t=31&band_rank=34&Refer=top) 41438
 1. [李在明要调查韩国队出局原因](https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E8%A6%81%E8%B0%83%E6%9F%A5%E9%9F%A9%E5%9B%BD%E9%98%9F%E5%87%BA%E5%B1%80%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=37&Refer=top) 41395
 1. [杨毅董路预测日本巴西](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%AF%85%E8%91%A3%E8%B7%AF%E9%A2%84%E6%B5%8B%E6%97%A5%E6%9C%AC%E5%B7%B4%E8%A5%BF%23&t=31&band_rank=46&Refer=top) 41298
+1. [王者荣耀](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%23&t=31&band_rank=38&Refer=top) 34295
 <!-- END -->
 
 历史归档 [./archives](./archives)
