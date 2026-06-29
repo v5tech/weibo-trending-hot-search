@@ -11,6 +11,10 @@
     "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E6%B7%98%E6%B1%B0&t=31&band_rank=2&Refer=top",
     "hot": 1872704
   },
+  "德国vs巴拉圭": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%9B%BDvs%E5%B7%B4%E6%8B%89%E5%9C%AD%23&t=31&band_rank=2&Refer=top",
+    "hot": 1025567
+  },
   "恋与深空回应争议": {
     "url": "https://s.weibo.com/weibo?q=%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%E5%9B%9E%E5%BA%94%E4%BA%89%E8%AE%AE&t=31&band_rank=2&Refer=top",
     "hot": 829670
@@ -123,6 +127,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%E5%B7%B2%E5%88%A0%E9%99%A4%E9%94%85%E9%87%8C%E6%B4%97%E6%BE%A1%E6%96%87%E6%A1%88%23&t=31&band_rank=22&Refer=top",
     "hot": 107686
   },
+  "安切洛蒂 换人": {
+    "url": "https://s.weibo.com/weibo?q=%E5%AE%89%E5%88%87%E6%B4%9B%E8%92%82%20%E6%8D%A2%E4%BA%BA&t=31&band_rank=14&Refer=top",
+    "hot": 104817
+  },
   "怕iPhone涨价的用户已紧急换新": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%80%95iPhone%E6%B6%A8%E4%BB%B7%E7%9A%84%E7%94%A8%E6%88%B7%E5%B7%B2%E7%B4%A7%E6%80%A5%E6%8D%A2%E6%96%B0%23&t=31&band_rank=23&Refer=top",
     "hot": 103511
@@ -233,14 +241,26 @@
   },
   "花少8要去世界杯举办国": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%918%E8%A6%81%E5%8E%BB%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BE%E5%8A%9E%E5%9B%BD%23&t=31&band_rank=31&Refer=top",
-    "hot": 50118
+    "hot": 53425
+  },
+  "森保一 保守": {
+    "url": "https://s.weibo.com/weibo?q=%E6%A3%AE%E4%BF%9D%E4%B8%80%20%E4%BF%9D%E5%AE%88&t=31&band_rank=28&Refer=top",
+    "hot": 52127
+  },
+  "谢依霖说杨幂是聚会第一把张罗手": {
+    "url": "https://s.weibo.com/weibo?q=%23%E8%B0%A2%E4%BE%9D%E9%9C%96%E8%AF%B4%E6%9D%A8%E5%B9%82%E6%98%AF%E8%81%9A%E4%BC%9A%E7%AC%AC%E4%B8%80%E6%8A%8A%E5%BC%A0%E7%BD%97%E6%89%8B%23&t=31&band_rank=41&Refer=top",
+    "hot": 44234
+  },
+  "女子遭家暴逃跑致丈夫身亡二审细节": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%81%AD%E5%AE%B6%E6%9A%B4%E9%80%83%E8%B7%91%E8%87%B4%E4%B8%88%E5%A4%AB%E8%BA%AB%E4%BA%A1%E4%BA%8C%E5%AE%A1%E7%BB%86%E8%8A%82%23&t=31&band_rank=42&Refer=top",
+    "hot": 43643
+  },
+  "有酒店推行24小时退房制": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9C%89%E9%85%92%E5%BA%97%E6%8E%A8%E8%A1%8C24%E5%B0%8F%E6%97%B6%E9%80%80%E6%88%BF%E5%88%B6%23&t=31&band_rank=47&Refer=top",
+    "hot": 43212
   },
   "巴西半场0比1日本": {
     "url": "https://s.weibo.com/weibo?q=%E5%B7%B4%E8%A5%BF%E5%8D%8A%E5%9C%BA0%E6%AF%941%E6%97%A5%E6%9C%AC&t=31&band_rank=35&Refer=top",
     "hot": 39630
-  },
-  "谢依霖说杨幂是聚会第一把张罗手": {
-    "url": "https://s.weibo.com/weibo?q=%23%E8%B0%A2%E4%BE%9D%E9%9C%96%E8%AF%B4%E6%9D%A8%E5%B9%82%E6%98%AF%E8%81%9A%E4%BC%9A%E7%AC%AC%E4%B8%80%E6%8A%8A%E5%BC%A0%E7%BD%97%E6%89%8B%23&t=31&band_rank=41&Refer=top",
-    "hot": 32347
   }
 }
