@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-07-04 02:14:29.488825 
+最后更新时间 2026-07-04 04:16:20.224547 
 1. [中国男篮 创队史耻辱纪录](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%20%E5%88%9B%E9%98%9F%E5%8F%B2%E8%80%BB%E8%BE%B1%E7%BA%AA%E5%BD%95&t=31&band_rank=1&Refer=top) 1217250
 1. [鸭血粉丝店也遭LV起诉](https://s.weibo.com/weibo?q=%23%E9%B8%AD%E8%A1%80%E7%B2%89%E4%B8%9D%E5%BA%97%E4%B9%9F%E9%81%ADLV%E8%B5%B7%E8%AF%89%23&t=31&band_rank=2&Refer=top) 1214756
 1. [2000亿元两新设备更新资金已全部下达](https://s.weibo.com/weibo?q=%232000%E4%BA%BF%E5%85%83%E4%B8%A4%E6%96%B0%E8%AE%BE%E5%A4%87%E6%9B%B4%E6%96%B0%E8%B5%84%E9%87%91%E5%B7%B2%E5%85%A8%E9%83%A8%E4%B8%8B%E8%BE%BE%23&t=31&band_rank=3&Refer=top) 1189249
@@ -23,6 +23,7 @@
 1. [江西28岁产妇羊水栓塞丈夫不放弃](https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF28%E5%B2%81%E4%BA%A7%E5%A6%87%E7%BE%8A%E6%B0%B4%E6%A0%93%E5%A1%9E%E4%B8%88%E5%A4%AB%E4%B8%8D%E6%94%BE%E5%BC%83%23&t=31&band_rank=13&Refer=top) 272989
 1. [张新成经纪人是陈情令制片人](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%96%B0%E6%88%90%E7%BB%8F%E7%BA%AA%E4%BA%BA%E6%98%AF%E9%99%88%E6%83%85%E4%BB%A4%E5%88%B6%E7%89%87%E4%BA%BA%23&t=31&band_rank=14&Refer=top) 272904
 1. [网友推荐李清照选角](https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E6%8E%A8%E8%8D%90%E6%9D%8E%E6%B8%85%E7%85%A7%E9%80%89%E8%A7%92%23&t=31&band_rank=15&Refer=top) 272696
+1. [澳大利亚vs埃及](https://s.weibo.com/weibo?q=%23%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9Avs%E5%9F%83%E5%8F%8A%23&t=31&band_rank=1&Refer=top) 264691
 1. [建议大家千万不要再熬夜了](https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E5%86%8D%E7%86%AC%E5%A4%9C%E4%BA%86&t=31&band_rank=36&Refer=top) 234323
 1. [何炅回应主持歌手时吃螺蛳](https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%E5%9B%9E%E5%BA%94%E4%B8%BB%E6%8C%81%E6%AD%8C%E6%89%8B%E6%97%B6%E5%90%83%E8%9E%BA%E8%9B%B3%23&t=31&band_rank=24&Refer=top) 231487
 1. [把会删Word空白页写进简历](https://s.weibo.com/weibo?q=%E6%8A%8A%E4%BC%9A%E5%88%A0Word%E7%A9%BA%E7%99%BD%E9%A1%B5%E5%86%99%E8%BF%9B%E7%AE%80%E5%8E%86&t=31&band_rank=6&Refer=top) 231014
@@ -80,6 +81,10 @@
 1. [AG战胜狼队](https://s.weibo.com/weibo?q=AG%E6%88%98%E8%83%9C%E7%8B%BC%E9%98%9F&t=31&band_rank=45&Refer=top) 149525
 1. [北京冰雹](https://s.weibo.com/weibo?q=%E5%8C%97%E4%BA%AC%E5%86%B0%E9%9B%B9&t=31&band_rank=47&Refer=top) 145533
 1. [AI时代还要不要学英语](https://s.weibo.com/weibo?q=%23AI%E6%97%B6%E4%BB%A3%E8%BF%98%E8%A6%81%E4%B8%8D%E8%A6%81%E5%AD%A6%E8%8B%B1%E8%AF%AD%23&t=31&band_rank=50&Refer=top) 127130
+1. [扎发要显得头包脸教程](https://s.weibo.com/weibo?q=%E6%89%8E%E5%8F%91%E8%A6%81%E6%98%BE%E5%BE%97%E5%A4%B4%E5%8C%85%E8%84%B8%E6%95%99%E7%A8%8B&t=31&band_rank=32&Refer=top) 68287
+1. [孩子知道小猫曾流浪后痛哭](https://s.weibo.com/weibo?q=%E5%AD%A9%E5%AD%90%E7%9F%A5%E9%81%93%E5%B0%8F%E7%8C%AB%E6%9B%BE%E6%B5%81%E6%B5%AA%E5%90%8E%E7%97%9B%E5%93%AD&t=31&band_rank=33&Refer=top) 68281
+1. [外贸用AI提升几倍效率](https://s.weibo.com/weibo?q=%E5%A4%96%E8%B4%B8%E7%94%A8AI%E6%8F%90%E5%8D%87%E5%87%A0%E5%80%8D%E6%95%88%E7%8E%87&t=31&band_rank=48&Refer=top) 68175
+1. [歌手](https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B&t=31&band_rank=49&Refer=top) 68164
 <!-- END -->
 
 历史归档 [./archives](./archives)
