@@ -7,12 +7,15 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-07-06 04:16:25.674290 
+最后更新时间 2026-07-06 06:04:23.322021 
 1. [绵竹地震](https://s.weibo.com/weibo?q=%E7%BB%B5%E7%AB%B9%E5%9C%B0%E9%9C%87&t=31&band_rank=1&Refer=top) 8732133
+1. [巴西VS挪威](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BFVS%E6%8C%AA%E5%A8%81%23&t=31&band_rank=1&Refer=top) 4776121
 1. [成都震感](https://s.weibo.com/weibo?q=%E6%88%90%E9%83%BD%E9%9C%87%E6%84%9F&t=31&band_rank=2&Refer=top) 1740368
 1. [数说中国经济6月成绩单](https://s.weibo.com/weibo?q=%23%E6%95%B0%E8%AF%B4%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E6%E6%9C%88%E6%88%90%E7%BB%A9%E5%8D%95%23&t=31&band_rank=3&Refer=top) 1329615
+1. [巴西点球不进](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF%E7%82%B9%E7%90%83%E4%B8%8D%E8%BF%9B%23&t=31&band_rank=2&Refer=top) 943545
 1. [张新成演唱会翻唱率](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%96%B0%E6%88%90%E6%BC%94%E5%94%B1%E4%BC%9A%E7%BF%BB%E5%94%B1%E7%8E%87%23&t=31&band_rank=4&Refer=top) 848636
 1. [19块的外卖用玻璃罐装](https://s.weibo.com/weibo?q=19%E5%9D%97%E7%9A%84%E5%A4%96%E5%8D%96%E7%94%A8%E7%8E%BB%E7%92%83%E7%BD%90%E8%A3%85&t=31&band_rank=5&Refer=top) 659419
+1. [哈兰德梅开二度](https://s.weibo.com/weibo?q=%E5%93%88%E5%85%B0%E5%BE%B7%E6%A2%85%E5%BC%80%E4%BA%8C%E5%BA%A6&t=31&band_rank=4&Refer=top) 585453
 1. [绵竹还让不让人睡了](https://s.weibo.com/weibo?q=%E7%BB%B5%E7%AB%B9%E8%BF%98%E8%AE%A9%E4%B8%8D%E8%AE%A9%E4%BA%BA%E7%9D%A1%E4%BA%86&t=31&band_rank=6&Refer=top) 549859
 1. [佛得角队在机场被疯狂包围](https://s.weibo.com/weibo?q=%23%E4%BD%9B%E5%BE%97%E8%A7%92%E9%98%9F%E5%9C%A8%E6%9C%BA%E5%9C%BA%E8%A2%AB%E7%96%AF%E7%8B%82%E5%8C%85%E5%9B%B4%23&t=31&band_rank=7&Refer=top) 536710
 1. [未发现蒋方舟存在学术不端行为](https://s.weibo.com/weibo?q=%23%E6%9C%AA%E5%8F%91%E7%8E%B0%E8%92%8B%E6%96%B9%E8%88%9F%E5%AD%98%E5%9C%A8%E5%AD%A6%E6%9C%AF%E4%B8%8D%E7%AB%AF%E8%A1%8C%E4%B8%BA%23&t=31&band_rank=8&Refer=top) 470753
@@ -23,6 +26,7 @@
 1. [霉霉婚前协议堪称史上最复杂](https://s.weibo.com/weibo?q=%23%E9%9C%89%E9%9C%89%E5%A9%9A%E5%89%8D%E5%8D%8F%E8%AE%AE%E5%A0%AA%E7%A7%B0%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%8D%E6%9D%82%23&t=31&band_rank=13&Refer=top) 402113
 1. [绵竹半小时三震](https://s.weibo.com/weibo?q=%23%E7%BB%B5%E7%AB%B9%E5%8D%8A%E5%B0%8F%E6%97%B6%E4%B8%89%E9%9C%87%23&t=31&band_rank=14&Refer=top) 339998
 1. [王力宏缝了39针](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%8A%9B%E5%AE%8F%E7%BC%9D%E4%BA%8639%E9%92%88%23&t=31&band_rank=15&Refer=top) 326394
+1. [哈兰德头球破门](https://s.weibo.com/weibo?q=%E5%93%88%E5%85%B0%E5%BE%B7%E5%A4%B4%E7%90%83%E7%A0%B4%E9%97%A8&t=31&band_rank=5&Refer=top) 324820
 1. [迪丽热巴深V开到腰了](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%B7%B1V%E5%BC%80%E5%88%B0%E8%85%B0%E4%BA%86%23&t=31&band_rank=16&Refer=top) 323268
 1. [F1](https://s.weibo.com/weibo?q=F1&t=31&band_rank=17&Refer=top) 312627
 1. [有线耳机此生从此分明了](https://s.weibo.com/weibo?q=%23%E6%9C%89%E7%BA%BF%E8%80%B3%E6%9C%BA%E6%AD%A4%E7%94%9F%E4%BB%8E%E6%AD%A4%E5%88%86%E6%98%8E%E4%BA%86%23&t=31&band_rank=18&Refer=top) 305539
@@ -30,6 +34,7 @@
 1. [64岁男子出门下棋蹊跷失踪一个月](https://s.weibo.com/weibo?q=%2364%E5%B2%81%E7%94%B7%E5%AD%90%E5%87%BA%E9%97%A8%E4%B8%8B%E6%A3%8B%E8%B9%8A%E8%B7%B7%E5%A4%B1%E8%B8%AA%E4%B8%80%E4%B8%AA%E6%9C%88%23&t=31&band_rank=20&Refer=top) 301862
 1. [虞书欣蚌精仿妆](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E8%9A%8C%E7%B2%BE%E4%BB%BF%E5%A6%86%23&t=31&band_rank=21&Refer=top) 301750
 1. [物价悄悄上涨真的很可怕](https://s.weibo.com/weibo?q=%E7%89%A9%E4%BB%B7%E6%82%84%E6%82%84%E4%B8%8A%E6%B6%A8%E7%9C%9F%E7%9A%84%E5%BE%88%E5%8F%AF%E6%80%95&t=31&band_rank=22&Refer=top) 299345
+1. [孙颖莎晋级美国大满贯决赛](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E6%99%8B%E7%BA%A7%E7%BE%8E%E5%9B%BD%E5%A4%A7%E6%BB%A1%E8%B4%AF%E5%86%B3%E8%B5%9B%23&t=31&band_rank=6&Refer=top) 298777
 1. [霉霉婚礼现场照片被泄漏](https://s.weibo.com/weibo?q=%23%E9%9C%89%E9%9C%89%E5%A9%9A%E7%A4%BC%E7%8E%B0%E5%9C%BA%E7%85%A7%E7%89%87%E8%A2%AB%E6%B3%84%E6%BC%8F%23&t=31&band_rank=23&Refer=top) 295498
 1. [野狗骨头没错这就是南方烧烤](https://s.weibo.com/weibo?q=%E9%87%8E%E7%8B%97%E9%AA%A8%E5%A4%B4%E6%B2%A1%E9%94%99%E8%BF%99%E5%B0%B1%E6%98%AF%E5%8D%97%E6%96%B9%E7%83%A7%E7%83%A4&t=31&band_rank=24&Refer=top) 293371
 1. [台风](https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E&t=31&band_rank=25&Refer=top) 289670
@@ -74,11 +79,17 @@
 1. [宋威龙cvb无败绩](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E5%A8%81%E9%BE%99cvb%E6%97%A0%E8%B4%A5%E7%BB%A9%23&t=31&band_rank=46&Refer=top) 92356
 1. [丁程鑫好六镜头被剪](https://s.weibo.com/weibo?q=%E4%B8%81%E7%A8%8B%E9%91%AB%E5%A5%BD%E5%85%AD%E9%95%9C%E5%A4%B4%E8%A2%AB%E5%89%AA&t=31&band_rank=47&Refer=top) 92336
 1. [热水器付了钱10年后才想到提货](https://s.weibo.com/weibo?q=%23%E7%83%AD%E6%B0%B4%E5%99%A8%E4%BB%98%E4%BA%86%E9%92%B110%E5%B9%B4%E5%90%8E%E6%89%8D%E6%83%B3%E5%88%B0%E6%8F%90%E8%B4%A7%23&t=31&band_rank=49&Refer=top) 92302
-1. [一调多用](https://s.weibo.com/weibo?q=%E4%B8%80%E8%B0%83%E5%A4%9A%E7%94%A8&t=31&band_rank=31&Refer=top) 28828
-1. [AG战胜DYG](https://s.weibo.com/weibo?q=AG%E6%88%98%E8%83%9CDYG&t=31&band_rank=33&Refer=top) 28516
-1. [凌晨5点的咖啡店](https://s.weibo.com/weibo?q=%E5%87%8C%E6%99%A85%E7%82%B9%E7%9A%84%E5%92%96%E5%95%A1%E5%BA%97&t=31&band_rank=40&Refer=top) 26122
+1. [巴西半场0比0挪威](https://s.weibo.com/weibo?q=%E5%B7%B4%E8%A5%BF%E5%8D%8A%E5%9C%BA0%E6%AF%940%E6%8C%AA%E5%A8%81&t=31&band_rank=9&Refer=top) 90078
+1. [孙颖莎4比1王艺迪](https://s.weibo.com/weibo?q=%E5%AD%99%E9%A2%96%E8%8E%8E4%E6%AF%941%E7%8E%8B%E8%89%BA%E8%BF%AA&t=31&band_rank=10&Refer=top) 78666
+1. [内马尔替补出场](https://s.weibo.com/weibo?q=%E5%86%85%E9%A9%AC%E5%B0%94%E6%9B%BF%E8%A1%A5%E5%87%BA%E5%9C%BA&t=31&band_rank=14&Refer=top) 74592
+1. [义乌缝纫机被踩到冒烟](https://s.weibo.com/weibo?q=%23%E4%B9%89%E4%B9%8C%E7%BC%9D%E7%BA%AB%E6%9C%BA%E8%A2%AB%E8%B8%A9%E5%88%B0%E5%86%92%E7%83%9F%23&t=31&band_rank=46&Refer=top) 37529
+1. [凌晨5点的咖啡店](https://s.weibo.com/weibo?q=%E5%87%8C%E6%99%A85%E7%82%B9%E7%9A%84%E5%92%96%E5%95%A1%E5%BA%97&t=31&band_rank=40&Refer=top) 36323
+1. [挪威破门被秒吹](https://s.weibo.com/weibo?q=%23%E6%8C%AA%E5%A8%81%E7%A0%B4%E9%97%A8%E8%A2%AB%E7%A7%92%E5%90%B9%23&t=31&band_rank=31&Refer=top) 36218
+1. [AG战胜DYG](https://s.weibo.com/weibo?q=AG%E6%88%98%E8%83%9CDYG&t=31&band_rank=33&Refer=top) 34346
+1. [一调多用](https://s.weibo.com/weibo?q=%E4%B8%80%E8%B0%83%E5%A4%9A%E7%94%A8&t=31&band_rank=31&Refer=top) 34325
+1. [王曼昱首位集齐五大满贯女双](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%9B%BC%E6%98%B1%E9%A6%96%E4%BD%8D%E9%9B%86%E9%BD%90%E4%BA%94%E5%A4%A7%E6%BB%A1%E8%B4%AF%E5%A5%B3%E5%8F%8C&t=31&band_rank=41&Refer=top) 34324
+1. [刘耀文新歌UPIT上线](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%80%80%E6%96%87%E6%96%B0%E6%AD%8CUPIT%E4%B8%8A%E7%BA%BF%23&t=31&band_rank=49&Refer=top) 34251
 1. [突然的陀螺已4000万播放](https://s.weibo.com/weibo?q=%23%E7%AA%81%E7%84%B6%E7%9A%84%E9%99%80%E8%9E%BA%E5%B7%B24000%E4%B8%87%E6%92%AD%E6%94%BE%23&t=31&band_rank=42&Refer=top) 26118
-1. [义乌缝纫机被踩到冒烟](https://s.weibo.com/weibo?q=%23%E4%B9%89%E4%B9%8C%E7%BC%9D%E7%BA%AB%E6%9C%BA%E8%A2%AB%E8%B8%A9%E5%88%B0%E5%86%92%E7%83%9F%23&t=31&band_rank=46&Refer=top) 26108
 <!-- END -->
 
 历史归档 [./archives](./archives)
