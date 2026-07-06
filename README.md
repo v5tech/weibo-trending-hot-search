@@ -7,10 +7,12 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-07-07 01:45:53.481134 
+最后更新时间 2026-07-07 04:01:27.444843 
+1. [葡萄牙vs西班牙](https://s.weibo.com/weibo?q=%23%E8%91%A1%E8%90%84%E7%89%99vs%E8%A5%BF%E7%8F%AD%E7%89%99%23&t=31&band_rank=1&Refer=top) 1868664
 1. [广西抗洪](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E6%8A%97%E6%B4%AA%23&t=31&band_rank=1&Refer=top) 765373
 1. [word删除空白页 义务教育](https://s.weibo.com/weibo?q=word%E5%88%A0%E9%99%A4%E7%A9%BA%E7%99%BD%E9%A1%B5%20%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2&t=31&band_rank=2&Refer=top) 427011
 1. [暴雨天牢记这些保命知识](https://s.weibo.com/weibo?q=%23%E6%9A%B4%E9%9B%A8%E5%A4%A9%E7%89%A2%E8%AE%B0%E8%BF%99%E4%BA%9B%E4%BF%9D%E5%91%BD%E7%9F%A5%E8%AF%86%23&t=31&band_rank=3&Refer=top) 358566
+1. [西班牙单刀空门不进](https://s.weibo.com/weibo?q=%E8%A5%BF%E7%8F%AD%E7%89%99%E5%8D%95%E5%88%80%E7%A9%BA%E9%97%A8%E4%B8%8D%E8%BF%9B&t=31&band_rank=2&Refer=top) 348122
 1. [詹姆斯 湖人](https://s.weibo.com/weibo?q=%E8%A9%B9%E5%A7%86%E6%96%AF%20%E6%B9%96%E4%BA%BA&t=31&band_rank=4&Refer=top) 302293
 1. [LV胜诉敲响中国纹样版权保护警钟](https://s.weibo.com/weibo?q=%23LV%E8%83%9C%E8%AF%89%E6%95%B2%E5%93%8D%E4%B8%AD%E5%9B%BD%E7%BA%B9%E6%A0%B7%E7%89%88%E6%9D%83%E4%BF%9D%E6%8A%A4%E8%AD%A6%E9%92%9F%23&t=31&band_rank=5&Refer=top) 291334
 1. [李柯以张翅 剧宣](https://s.weibo.com/weibo?q=%E6%9D%8E%E6%9F%AF%E4%BB%A5%E5%BC%A0%E7%BF%85%20%E5%89%A7%E5%AE%A3&t=31&band_rank=6&Refer=top) 266047
@@ -58,6 +60,17 @@
 1. [北京积水潭桥下沉通道火了](https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E7%A7%AF%E6%B0%B4%E6%BD%AD%E6%A1%A5%E4%B8%8B%E6%B2%89%E9%80%9A%E9%81%93%E7%81%AB%E4%BA%86%23&t=31&band_rank=48&Refer=top) 196072
 1. [台风巴威登陆地点](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E7%99%BB%E9%99%86%E5%9C%B0%E7%82%B9%23&t=31&band_rank=49&Refer=top) 195575
 1. [9岁女孩夸车被扇巴掌](https://s.weibo.com/weibo?q=9%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%A4%B8%E8%BD%A6%E8%A2%AB%E6%89%87%E5%B7%B4%E6%8E%8C&t=31&band_rank=50&Refer=top) 194677
+1. [葡萄牙门将两连扑](https://s.weibo.com/weibo?q=%23%E8%91%A1%E8%90%84%E7%89%99%E9%97%A8%E5%B0%86%E4%B8%A4%E8%BF%9E%E6%89%91%23&t=31&band_rank=6&Refer=top) 135791
+1. [南宁六蓝水库严重险情](https://s.weibo.com/weibo?q=%23%E5%8D%97%E5%AE%81%E5%85%AD%E8%93%9D%E6%B0%B4%E5%BA%93%E4%B8%A5%E9%87%8D%E9%99%A9%E6%83%85%23&t=31&band_rank=8&Refer=top) 98583
+1. [广西贵港城区内涝空中视角](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E8%B4%B5%E6%B8%AF%E5%9F%8E%E5%8C%BA%E5%86%85%E6%B6%9D%E7%A9%BA%E4%B8%AD%E8%A7%86%E8%A7%92%23&t=31&band_rank=23&Refer=top) 51063
+1. [广西南宁受灾情况通报](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E5%8D%97%E5%AE%81%E5%8F%97%E7%81%BE%E6%83%85%E5%86%B5%E9%80%9A%E6%8A%A5%23&t=31&band_rank=29&Refer=top) 39312
+1. [没有最好的朋友才是我最舒服的状态](https://s.weibo.com/weibo?q=%E6%B2%A1%E6%9C%89%E6%9C%80%E5%A5%BD%E7%9A%84%E6%9C%8B%E5%8F%8B%E6%89%8D%E6%98%AF%E6%88%91%E6%9C%80%E8%88%92%E6%9C%8D%E7%9A%84%E7%8A%B6%E6%80%81&t=31&band_rank=31&Refer=top) 39273
+1. [双牙大战 心脏受不了](https://s.weibo.com/weibo?q=%E5%8F%8C%E7%89%99%E5%A4%A7%E6%88%98%20%E5%BF%83%E8%84%8F%E5%8F%97%E4%B8%8D%E4%BA%86&t=31&band_rank=34&Refer=top) 39243
+1. [王者荣耀](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80&t=31&band_rank=37&Refer=top) 39218
+1. [广西贵港强降雨致城区内涝](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E8%B4%B5%E6%B8%AF%E5%BC%BA%E9%99%8D%E9%9B%A8%E8%87%B4%E5%9F%8E%E5%8C%BA%E5%86%85%E6%B6%9D%23&t=31&band_rank=39&Refer=top) 39197
+1. [全力以赴防灾减灾救灾](https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%8A%9B%E4%BB%A5%E8%B5%B4%E9%98%B2%E7%81%BE%E5%87%8F%E7%81%BE%E6%95%91%E7%81%BE%23&t=31&band_rank=41&Refer=top) 39176
+1. [猫咪追杀令原来是真的](https://s.weibo.com/weibo?q=%E7%8C%AB%E5%92%AA%E8%BF%BD%E6%9D%80%E4%BB%A4%E5%8E%9F%E6%9D%A5%E6%98%AF%E7%9C%9F%E7%9A%84&t=31&band_rank=43&Refer=top) 39153
+1. [西安暴雨](https://s.weibo.com/weibo?q=%E8%A5%BF%E5%AE%89%E6%9A%B4%E9%9B%A8&t=31&band_rank=48&Refer=top) 39105
 <!-- END -->
 
 历史归档 [./archives](./archives)

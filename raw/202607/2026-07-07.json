@@ -1,4 +1,8 @@
 {
+  "葡萄牙vs西班牙": {
+    "url": "https://s.weibo.com/weibo?q=%23%E8%91%A1%E8%90%84%E7%89%99vs%E8%A5%BF%E7%8F%AD%E7%89%99%23&t=31&band_rank=1&Refer=top",
+    "hot": 1868664
+  },
   "广西抗洪": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E6%8A%97%E6%B4%AA%23&t=31&band_rank=1&Refer=top",
     "hot": 765373
@@ -10,6 +14,10 @@
   "暴雨天牢记这些保命知识": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%9A%B4%E9%9B%A8%E5%A4%A9%E7%89%A2%E8%AE%B0%E8%BF%99%E4%BA%9B%E4%BF%9D%E5%91%BD%E7%9F%A5%E8%AF%86%23&t=31&band_rank=3&Refer=top",
     "hot": 358566
+  },
+  "西班牙单刀空门不进": {
+    "url": "https://s.weibo.com/weibo?q=%E8%A5%BF%E7%8F%AD%E7%89%99%E5%8D%95%E5%88%80%E7%A9%BA%E9%97%A8%E4%B8%8D%E8%BF%9B&t=31&band_rank=2&Refer=top",
+    "hot": 348122
   },
   "詹姆斯 湖人": {
     "url": "https://s.weibo.com/weibo?q=%E8%A9%B9%E5%A7%86%E6%96%AF%20%E6%B9%96%E4%BA%BA&t=31&band_rank=4&Refer=top",
@@ -198,5 +206,49 @@
   "9岁女孩夸车被扇巴掌": {
     "url": "https://s.weibo.com/weibo?q=9%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%A4%B8%E8%BD%A6%E8%A2%AB%E6%89%87%E5%B7%B4%E6%8E%8C&t=31&band_rank=50&Refer=top",
     "hot": 194677
+  },
+  "葡萄牙门将两连扑": {
+    "url": "https://s.weibo.com/weibo?q=%23%E8%91%A1%E8%90%84%E7%89%99%E9%97%A8%E5%B0%86%E4%B8%A4%E8%BF%9E%E6%89%91%23&t=31&band_rank=6&Refer=top",
+    "hot": 135791
+  },
+  "南宁六蓝水库严重险情": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8D%97%E5%AE%81%E5%85%AD%E8%93%9D%E6%B0%B4%E5%BA%93%E4%B8%A5%E9%87%8D%E9%99%A9%E6%83%85%23&t=31&band_rank=8&Refer=top",
+    "hot": 98583
+  },
+  "广西贵港城区内涝空中视角": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E8%B4%B5%E6%B8%AF%E5%9F%8E%E5%8C%BA%E5%86%85%E6%B6%9D%E7%A9%BA%E4%B8%AD%E8%A7%86%E8%A7%92%23&t=31&band_rank=23&Refer=top",
+    "hot": 51063
+  },
+  "广西南宁受灾情况通报": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E5%8D%97%E5%AE%81%E5%8F%97%E7%81%BE%E6%83%85%E5%86%B5%E9%80%9A%E6%8A%A5%23&t=31&band_rank=29&Refer=top",
+    "hot": 39312
+  },
+  "没有最好的朋友才是我最舒服的状态": {
+    "url": "https://s.weibo.com/weibo?q=%E6%B2%A1%E6%9C%89%E6%9C%80%E5%A5%BD%E7%9A%84%E6%9C%8B%E5%8F%8B%E6%89%8D%E6%98%AF%E6%88%91%E6%9C%80%E8%88%92%E6%9C%8D%E7%9A%84%E7%8A%B6%E6%80%81&t=31&band_rank=31&Refer=top",
+    "hot": 39273
+  },
+  "双牙大战 心脏受不了": {
+    "url": "https://s.weibo.com/weibo?q=%E5%8F%8C%E7%89%99%E5%A4%A7%E6%88%98%20%E5%BF%83%E8%84%8F%E5%8F%97%E4%B8%8D%E4%BA%86&t=31&band_rank=34&Refer=top",
+    "hot": 39243
+  },
+  "王者荣耀": {
+    "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80&t=31&band_rank=37&Refer=top",
+    "hot": 39218
+  },
+  "广西贵港强降雨致城区内涝": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E8%B4%B5%E6%B8%AF%E5%BC%BA%E9%99%8D%E9%9B%A8%E8%87%B4%E5%9F%8E%E5%8C%BA%E5%86%85%E6%B6%9D%23&t=31&band_rank=39&Refer=top",
+    "hot": 39197
+  },
+  "全力以赴防灾减灾救灾": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%8A%9B%E4%BB%A5%E8%B5%B4%E9%98%B2%E7%81%BE%E5%87%8F%E7%81%BE%E6%95%91%E7%81%BE%23&t=31&band_rank=41&Refer=top",
+    "hot": 39176
+  },
+  "猫咪追杀令原来是真的": {
+    "url": "https://s.weibo.com/weibo?q=%E7%8C%AB%E5%92%AA%E8%BF%BD%E6%9D%80%E4%BB%A4%E5%8E%9F%E6%9D%A5%E6%98%AF%E7%9C%9F%E7%9A%84&t=31&band_rank=43&Refer=top",
+    "hot": 39153
+  },
+  "西安暴雨": {
+    "url": "https://s.weibo.com/weibo?q=%E8%A5%BF%E5%AE%89%E6%9A%B4%E9%9B%A8&t=31&band_rank=48&Refer=top",
+    "hot": 39105
   }
 }
