@@ -95,6 +95,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E7%81%BE%E6%83%85%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%A5%E9%87%8D%23&t=31&band_rank=18&Refer=top",
     "hot": 262195
   },
+  "瑞士vs哥伦比亚": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%A3%ABvs%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%23&t=31&band_rank=13&Refer=top",
+    "hot": 240621
+  },
   "装了人工心脏想洗澡怎么办": {
     "url": "https://s.weibo.com/weibo?q=%E8%A3%85%E4%BA%86%E4%BA%BA%E5%B7%A5%E5%BF%83%E8%84%8F%E6%83%B3%E6%B4%97%E6%BE%A1%E6%80%8E%E4%B9%88%E5%8A%9E&t=31&band_rank=19&Refer=top",
     "hot": 238961
@@ -231,10 +235,6 @@
     "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7%E7%BB%9D%E6%9D%80%E5%9F%83%E5%8F%8A%23&t=31&band_rank=12&Refer=top",
     "hot": 142249
   },
-  "瑞士vs哥伦比亚": {
-    "url": "https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%A3%ABvs%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%23&t=31&band_rank=13&Refer=top",
-    "hot": 128029
-  },
   "恩佐头球破门": {
     "url": "https://s.weibo.com/weibo?q=%E6%81%A9%E4%BD%90%E5%A4%B4%E7%90%83%E7%A0%B4%E9%97%A8&t=31&band_rank=15&Refer=top",
     "hot": 119865
@@ -255,29 +255,37 @@
     "url": "https://s.weibo.com/weibo?q=%E7%BD%97%E6%A2%85%E7%BD%97%E5%A4%B4%E7%90%83%E7%A0%B4%E9%97%A8&t=31&band_rank=23&Refer=top",
     "hot": 94619
   },
-  "阿根廷反超": {
-    "url": "https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%8F%8D%E8%B6%85&t=31&band_rank=26&Refer=top",
-    "hot": 66240
+  "阿根廷落后埃及": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7%E8%90%BD%E5%90%8E%E5%9F%83%E5%8F%8A%23&t=31&band_rank=28&Refer=top",
+    "hot": 68034
+  },
+  "横州已有多个毒蛇咬伤民间互助群": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%A8%AA%E5%B7%9E%E5%B7%B2%E6%9C%89%E5%A4%9A%E4%B8%AA%E6%AF%92%E8%9B%87%E5%92%AC%E4%BC%A4%E6%B0%91%E9%97%B4%E4%BA%92%E5%8A%A9%E7%BE%A4%23&t=31&band_rank=44&Refer=top",
+    "hot": 67931
   },
   "世界杯大V说": {
     "url": "https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%A4%A7V%E8%AF%B4&t=31&band_rank=27&Refer=top",
-    "hot": 66162
+    "hot": 67885
+  },
+  "埃及 反击": {
+    "url": "https://s.weibo.com/weibo?q=%E5%9F%83%E5%8F%8A%20%E5%8F%8D%E5%87%BB&t=31&band_rank=39&Refer=top",
+    "hot": 67849
+  },
+  "埃及两球领先阿根廷": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%9F%83%E5%8F%8A%E4%B8%A4%E7%90%83%E9%A2%86%E5%85%88%E9%98%BF%E6%A0%B9%E5%BB%B7%23&t=31&band_rank=42&Refer=top",
+    "hot": 67757
+  },
+  "阿根廷反超": {
+    "url": "https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%8F%8D%E8%B6%85&t=31&band_rank=26&Refer=top",
+    "hot": 67735
+  },
+  "阿根廷进攻 埃及进球": {
+    "url": "https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E8%BF%9B%E6%94%BB%20%E5%9F%83%E5%8F%8A%E8%BF%9B%E7%90%83&t=31&band_rank=33&Refer=top",
+    "hot": 67733
   },
   "留给阿根廷的时间不多了": {
     "url": "https://s.weibo.com/weibo?q=%E7%95%99%E7%BB%99%E9%98%BF%E6%A0%B9%E5%BB%B7%E7%9A%84%E6%97%B6%E9%97%B4%E4%B8%8D%E5%A4%9A%E4%BA%86&t=31&band_rank=29&Refer=top",
     "hot": 63567
-  },
-  "阿根廷进攻 埃及进球": {
-    "url": "https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E8%BF%9B%E6%94%BB%20%E5%9F%83%E5%8F%8A%E8%BF%9B%E7%90%83&t=31&band_rank=33&Refer=top",
-    "hot": 61108
-  },
-  "埃及 反击": {
-    "url": "https://s.weibo.com/weibo?q=%E5%9F%83%E5%8F%8A%20%E5%8F%8D%E5%87%BB&t=31&band_rank=39&Refer=top",
-    "hot": 54414
-  },
-  "横州已有多个毒蛇咬伤民间互助群": {
-    "url": "https://s.weibo.com/weibo?q=%23%E6%A8%AA%E5%B7%9E%E5%B7%B2%E6%9C%89%E5%A4%9A%E4%B8%AA%E6%AF%92%E8%9B%87%E5%92%AC%E4%BC%A4%E6%B0%91%E9%97%B4%E4%BA%92%E5%8A%A9%E7%BE%A4%23&t=31&band_rank=44&Refer=top",
-    "hot": 47095
   },
   "杨毅说总感觉有队要弄阿根廷": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%AF%85%E8%AF%B4%E6%80%BB%E6%84%9F%E8%A7%89%E6%9C%89%E9%98%9F%E8%A6%81%E5%BC%84%E9%98%BF%E6%A0%B9%E5%BB%B7%23&t=31&band_rank=47&Refer=top",

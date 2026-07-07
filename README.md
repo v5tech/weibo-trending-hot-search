@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-07-08 03:58:42.967025 
+最后更新时间 2026-07-08 05:36:45.672512 
 1. [阿根廷vs埃及](https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7vs%E5%9F%83%E5%8F%8A%23&t=31&band_rank=1&Refer=top) 5374725
 1. [阿根廷点球被扑](https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7%E7%82%B9%E7%90%83%E8%A2%AB%E6%89%91%23&t=31&band_rank=2&Refer=top) 2163417
 1. [阿根廷 脏](https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%20%E8%84%8F&t=31&band_rank=1&Refer=top) 1963802
@@ -32,6 +32,7 @@
 1. [现在就出发4](https://s.weibo.com/weibo?q=%E7%8E%B0%E5%9C%A8%E5%B0%B1%E5%87%BA%E5%8F%914&t=31&band_rank=16&Refer=top) 309743
 1. [美股](https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=17&Refer=top) 299745
 1. [广西灾情为什么严重](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E7%81%BE%E6%83%85%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%A5%E9%87%8D%23&t=31&band_rank=18&Refer=top) 262195
+1. [瑞士vs哥伦比亚](https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%A3%ABvs%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%23&t=31&band_rank=13&Refer=top) 240621
 1. [装了人工心脏想洗澡怎么办](https://s.weibo.com/weibo?q=%E8%A3%85%E4%BA%86%E4%BA%BA%E5%B7%A5%E5%BF%83%E8%84%8F%E6%83%B3%E6%B4%97%E6%BE%A1%E6%80%8E%E4%B9%88%E5%8A%9E&t=31&band_rank=19&Refer=top) 238961
 1. [阿根廷 梦游](https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%20%E6%A2%A6%E6%B8%B8&t=31&band_rank=20&Refer=top) 229119
 1. [人一定要频繁大量记录自己](https://s.weibo.com/weibo?q=%E4%BA%BA%E4%B8%80%E5%AE%9A%E8%A6%81%E9%A2%91%E7%B9%81%E5%A4%A7%E9%87%8F%E8%AE%B0%E5%BD%95%E8%87%AA%E5%B7%B1&t=31&band_rank=21&Refer=top) 227350
@@ -66,18 +67,19 @@
 1. [郭艾伦搞笑预测阿根廷战埃及](https://s.weibo.com/weibo?q=%23%E9%83%AD%E8%89%BE%E4%BC%A6%E6%90%9E%E7%AC%91%E9%A2%84%E6%B5%8B%E9%98%BF%E6%A0%B9%E5%BB%B7%E6%88%98%E5%9F%83%E5%8F%8A%23&t=31&band_rank=50&Refer=top) 152912
 1. [埃及吃牌吃饱了](https://s.weibo.com/weibo?q=%E5%9F%83%E5%8F%8A%E5%90%83%E7%89%8C%E5%90%83%E9%A5%B1%E4%BA%86&t=31&band_rank=10&Refer=top) 146784
 1. [阿根廷绝杀埃及](https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7%E7%BB%9D%E6%9D%80%E5%9F%83%E5%8F%8A%23&t=31&band_rank=12&Refer=top) 142249
-1. [瑞士vs哥伦比亚](https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%A3%ABvs%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%23&t=31&band_rank=13&Refer=top) 128029
 1. [恩佐头球破门](https://s.weibo.com/weibo?q=%E6%81%A9%E4%BD%90%E5%A4%B4%E7%90%83%E7%A0%B4%E9%97%A8&t=31&band_rank=15&Refer=top) 119865
 1. [埃及进球被吹](https://s.weibo.com/weibo?q=%23%E5%9F%83%E5%8F%8A%E8%BF%9B%E7%90%83%E8%A2%AB%E5%90%B9%23&t=31&band_rank=16&Refer=top) 118662
 1. [阿根廷醒了](https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%86%92%E4%BA%86&t=31&band_rank=18&Refer=top) 112377
 1. [阿根廷让二追三](https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E8%AE%A9%E4%BA%8C%E8%BF%BD%E4%B8%89&t=31&band_rank=20&Refer=top) 108881
 1. [罗梅罗头球破门](https://s.weibo.com/weibo?q=%E7%BD%97%E6%A2%85%E7%BD%97%E5%A4%B4%E7%90%83%E7%A0%B4%E9%97%A8&t=31&band_rank=23&Refer=top) 94619
-1. [阿根廷反超](https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%8F%8D%E8%B6%85&t=31&band_rank=26&Refer=top) 66240
-1. [世界杯大V说](https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%A4%A7V%E8%AF%B4&t=31&band_rank=27&Refer=top) 66162
+1. [阿根廷落后埃及](https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7%E8%90%BD%E5%90%8E%E5%9F%83%E5%8F%8A%23&t=31&band_rank=28&Refer=top) 68034
+1. [横州已有多个毒蛇咬伤民间互助群](https://s.weibo.com/weibo?q=%23%E6%A8%AA%E5%B7%9E%E5%B7%B2%E6%9C%89%E5%A4%9A%E4%B8%AA%E6%AF%92%E8%9B%87%E5%92%AC%E4%BC%A4%E6%B0%91%E9%97%B4%E4%BA%92%E5%8A%A9%E7%BE%A4%23&t=31&band_rank=44&Refer=top) 67931
+1. [世界杯大V说](https://s.weibo.com/weibo?q=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%A4%A7V%E8%AF%B4&t=31&band_rank=27&Refer=top) 67885
+1. [埃及 反击](https://s.weibo.com/weibo?q=%E5%9F%83%E5%8F%8A%20%E5%8F%8D%E5%87%BB&t=31&band_rank=39&Refer=top) 67849
+1. [埃及两球领先阿根廷](https://s.weibo.com/weibo?q=%23%E5%9F%83%E5%8F%8A%E4%B8%A4%E7%90%83%E9%A2%86%E5%85%88%E9%98%BF%E6%A0%B9%E5%BB%B7%23&t=31&band_rank=42&Refer=top) 67757
+1. [阿根廷反超](https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%8F%8D%E8%B6%85&t=31&band_rank=26&Refer=top) 67735
+1. [阿根廷进攻 埃及进球](https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E8%BF%9B%E6%94%BB%20%E5%9F%83%E5%8F%8A%E8%BF%9B%E7%90%83&t=31&band_rank=33&Refer=top) 67733
 1. [留给阿根廷的时间不多了](https://s.weibo.com/weibo?q=%E7%95%99%E7%BB%99%E9%98%BF%E6%A0%B9%E5%BB%B7%E7%9A%84%E6%97%B6%E9%97%B4%E4%B8%8D%E5%A4%9A%E4%BA%86&t=31&band_rank=29&Refer=top) 63567
-1. [阿根廷进攻 埃及进球](https://s.weibo.com/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E8%BF%9B%E6%94%BB%20%E5%9F%83%E5%8F%8A%E8%BF%9B%E7%90%83&t=31&band_rank=33&Refer=top) 61108
-1. [埃及 反击](https://s.weibo.com/weibo?q=%E5%9F%83%E5%8F%8A%20%E5%8F%8D%E5%87%BB&t=31&band_rank=39&Refer=top) 54414
-1. [横州已有多个毒蛇咬伤民间互助群](https://s.weibo.com/weibo?q=%23%E6%A8%AA%E5%B7%9E%E5%B7%B2%E6%9C%89%E5%A4%9A%E4%B8%AA%E6%AF%92%E8%9B%87%E5%92%AC%E4%BC%A4%E6%B0%91%E9%97%B4%E4%BA%92%E5%8A%A9%E7%BE%A4%23&t=31&band_rank=44&Refer=top) 47095
 1. [杨毅说总感觉有队要弄阿根廷](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%AF%85%E8%AF%B4%E6%80%BB%E6%84%9F%E8%A7%89%E6%9C%89%E9%98%9F%E8%A6%81%E5%BC%84%E9%98%BF%E6%A0%B9%E5%BB%B7%23&t=31&band_rank=47&Refer=top) 44715
 1. [埃及又进球了](https://s.weibo.com/weibo?q=%E5%9F%83%E5%8F%8A%E5%8F%88%E8%BF%9B%E7%90%83%E4%BA%86&t=31&band_rank=50&Refer=top) 44696
 <!-- END -->
