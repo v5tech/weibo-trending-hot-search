@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-07-09 04:22:27.117651 
+最后更新时间 2026-07-09 06:09:20.904986 
 1. [花呗崩了](https://s.weibo.com/weibo?q=%E8%8A%B1%E5%91%97%E5%B4%A9%E4%BA%86&t=31&band_rank=1&Refer=top) 1151421
 1. [台风](https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E&t=31&band_rank=2&Refer=top) 945582
 1. [台风巴威可能正面登陆](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E5%8F%AF%E8%83%BD%E6%AD%A3%E9%9D%A2%E7%99%BB%E9%99%86%23&t=31&band_rank=1&Refer=top) 704681
@@ -76,11 +76,14 @@
 1. [阿根廷逆转晋级8强](https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7%E9%80%86%E8%BD%AC%E6%99%8B%E7%BA%A78%E5%BC%BA%23&t=31&band_rank=48&Refer=top) 132609
 1. [千万不要侧躺玩手机](https://s.weibo.com/weibo?q=%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E4%BE%A7%E8%BA%BA%E7%8E%A9%E6%89%8B%E6%9C%BA&t=31&band_rank=49&Refer=top) 132426
 1. [成都警方通报二环路交通事故](https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E4%BA%8C%E7%8E%AF%E8%B7%AF%E4%BA%A4%E9%80%9A%E4%BA%8B%E6%95%85%23&t=31&band_rank=50&Refer=top) 132144
+1. [狂风天给窗户留条缝可能更安全](https://s.weibo.com/weibo?q=%23%E7%8B%82%E9%A3%8E%E5%A4%A9%E7%BB%99%E7%AA%97%E6%88%B7%E7%95%99%E6%9D%A1%E7%BC%9D%E5%8F%AF%E8%83%BD%E6%9B%B4%E5%AE%89%E5%85%A8%23&t=31&band_rank=19&Refer=top) 55348
+1. [不要被人当五折券用](https://s.weibo.com/weibo?q=%E4%B8%8D%E8%A6%81%E8%A2%AB%E4%BA%BA%E5%BD%93%E4%BA%94%E6%8A%98%E5%88%B8%E7%94%A8&t=31&band_rank=20&Refer=top) 54608
+1. [父亲给大一儿子推拿颈部致急性脑梗](https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E7%BB%99%E5%A4%A7%E4%B8%80%E5%84%BF%E5%AD%90%E6%8E%A8%E6%8B%BF%E9%A2%88%E9%83%A8%E8%87%B4%E6%80%A5%E6%80%A7%E8%84%91%E6%A2%97%23&t=31&band_rank=35&Refer=top) 53098
+1. [黄冈龙卷风致多人伤亡失联](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%86%88%E9%BE%99%E5%8D%B7%E9%A3%8E%E8%87%B4%E5%A4%9A%E4%BA%BA%E4%BC%A4%E4%BA%A1%E5%A4%B1%E8%81%94%23&t=31&band_rank=33&Refer=top) 52719
+1. [宋亚轩你到底走不走](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E4%BD%A0%E5%88%B0%E5%BA%95%E8%B5%B0%E4%B8%8D%E8%B5%B0%23&t=31&band_rank=40&Refer=top) 52607
+1. [巨型台风巴威将影响我国](https://s.weibo.com/weibo?q=%23%E5%B7%A8%E5%9E%8B%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E5%B0%86%E5%BD%B1%E5%93%8D%E6%88%91%E5%9B%BD%23&t=31&band_rank=43&Refer=top) 52569
+1. [中国女排vs加拿大女排](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92vs%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%A5%B3%E6%8E%92&t=31&band_rank=47&Refer=top) 52476
 1. [王者荣耀](https://s.weibo.com/weibo?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80&t=31&band_rank=17&Refer=top) 46335
-1. [狂风天给窗户留条缝可能更安全](https://s.weibo.com/weibo?q=%23%E7%8B%82%E9%A3%8E%E5%A4%A9%E7%BB%99%E7%AA%97%E6%88%B7%E7%95%99%E6%9D%A1%E7%BC%9D%E5%8F%AF%E8%83%BD%E6%9B%B4%E5%AE%89%E5%85%A8%23&t=31&band_rank=19&Refer=top) 46307
-1. [黄冈龙卷风致多人伤亡失联](https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%86%88%E9%BE%99%E5%8D%B7%E9%A3%8E%E8%87%B4%E5%A4%9A%E4%BA%BA%E4%BC%A4%E4%BA%A1%E5%A4%B1%E8%81%94%23&t=31&band_rank=33&Refer=top) 46256
-1. [父亲给大一儿子推拿颈部致急性脑梗](https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E7%BB%99%E5%A4%A7%E4%B8%80%E5%84%BF%E5%AD%90%E6%8E%A8%E6%8B%BF%E9%A2%88%E9%83%A8%E8%87%B4%E6%80%A5%E6%80%A7%E8%84%91%E6%A2%97%23&t=31&band_rank=35&Refer=top) 46249
-1. [中国女排vs加拿大女排](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92vs%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%A5%B3%E6%8E%92&t=31&band_rank=47&Refer=top) 46210
 <!-- END -->
 
 历史归档 [./archives](./archives)
