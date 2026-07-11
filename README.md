@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-07-11 19:54:47.457042 
+最后更新时间 2026-07-11 21:24:25.060936 
 1. [台风巴威又睁眼了](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E5%8F%88%E7%9D%81%E7%9C%BC%E4%BA%86%23&t=31&band_rank=1&Refer=top) 3957190
 1. [巴威最新位置](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%A8%81%E6%9C%80%E6%96%B0%E4%BD%8D%E7%BD%AE%23&t=31&band_rank=1&Refer=top) 3943554
 1. [巴威登陆地点有变](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%A8%81%E7%99%BB%E9%99%86%E5%9C%B0%E7%82%B9%E6%9C%89%E5%8F%98%23&t=31&band_rank=1&Refer=top) 2061819
