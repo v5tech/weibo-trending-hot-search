@@ -67,9 +67,17 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%98%9F%E9%A9%B0%E5%AE%98%E5%AE%A3%E6%98%9F%E5%A5%B3%E9%83%8E%E9%9B%AA%E9%87%8E%23&t=31&band_rank=17&Refer=top",
     "hot": 271920
   },
+  "全国电力应急支援能力大幅提升": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E7%94%B5%E5%8A%9B%E5%BA%94%E6%80%A5%E6%94%AF%E6%8F%B4%E8%83%BD%E5%8A%9B%E5%A4%A7%E5%B9%85%E6%8F%90%E5%8D%87%23&t=31&band_rank=3&Refer=top",
+    "hot": 265933
+  },
   "挪威主厨没想到会进8强": {
     "url": "https://s.weibo.com/weibo?q=%E6%8C%AA%E5%A8%81%E4%B8%BB%E5%8E%A8%E6%B2%A1%E6%83%B3%E5%88%B0%E4%BC%9A%E8%BF%9B8%E5%BC%BA&t=31&band_rank=18&Refer=top",
     "hot": 265782
+  },
+  "好震撼的一句话瞬间醍醐灌顶": {
+    "url": "https://s.weibo.com/weibo?q=%E5%A5%BD%E9%9C%87%E6%92%BC%E7%9A%84%E4%B8%80%E5%8F%A5%E8%AF%9D%E7%9E%AC%E9%97%B4%E9%86%8D%E9%86%90%E7%81%8C%E9%A1%B6&t=31&band_rank=4&Refer=top",
+    "hot": 263657
   },
   "功夫女足开分9.4": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%BC%80%E5%88%869.4%23&t=31&band_rank=19&Refer=top",
@@ -198,5 +206,33 @@
   "巴威在浙江玉环登陆": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%A8%81%E5%9C%A8%E6%B5%99%E6%B1%9F%E7%8E%89%E7%8E%AF%E7%99%BB%E9%99%86%23&t=31&band_rank=50&Refer=top",
     "hot": 122179
+  },
+  "诺斯科娃温网女单冠军": {
+    "url": "https://s.weibo.com/weibo?q=%23%E8%AF%BA%E6%96%AF%E7%A7%91%E5%A8%83%E6%B8%A9%E7%BD%91%E5%A5%B3%E5%8D%95%E5%86%A0%E5%86%9B%23&t=31&band_rank=14&Refer=top",
+    "hot": 115042
+  },
+  "杭州20分钟变了4个色": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E20%E5%88%86%E9%92%9F%E5%8F%98%E4%BA%864%E4%B8%AA%E8%89%B2%23&t=31&band_rank=21&Refer=top",
+    "hot": 100947
+  },
+  "巴威已登陆": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%A8%81%E5%B7%B2%E7%99%BB%E9%99%86%23&t=31&band_rank=33&Refer=top",
+    "hot": 74606
+  },
+  "迪丽热巴路演未修原图": {
+    "url": "https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%B7%AF%E6%BC%94%E6%9C%AA%E4%BF%AE%E5%8E%9F%E5%9B%BE%23&t=31&band_rank=34&Refer=top",
+    "hot": 68027
+  },
+  "广西洪水红色预警": {
+    "url": "https://s.weibo.com/weibo?q=%E5%B9%BF%E8%A5%BF%E6%B4%AA%E6%B0%B4%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6&t=31&band_rank=42&Refer=top",
+    "hot": 63174
+  },
+  "耶鲁大学学生涉嫌在地铁性侵被捕": {
+    "url": "https://s.weibo.com/weibo?q=%23%E8%80%B6%E9%B2%81%E5%A4%A7%E5%AD%A6%E5%AD%A6%E7%94%9F%E6%B6%89%E5%AB%8C%E5%9C%A8%E5%9C%B0%E9%93%81%E6%80%A7%E4%BE%B5%E8%A2%AB%E6%8D%95%23&t=31&band_rank=45&Refer=top",
+    "hot": 62792
+  },
+  "台风巴威二次登陆浙江": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E4%BA%8C%E6%AC%A1%E7%99%BB%E9%99%86%E6%B5%99%E6%B1%9F%23&t=31&band_rank=48&Refer=top",
+    "hot": 62332
   }
 }
