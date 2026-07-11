@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-07-12 03:07:42.056721 
+最后更新时间 2026-07-12 04:52:14.071359 
 1. [台风巴威已登陆](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E5%B7%B2%E7%99%BB%E9%99%86%23&t=31&band_rank=1&Refer=top) 11133135
 1. [广西洪水](https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E6%B4%AA%E6%B0%B4%23&t=31&band_rank=2&Refer=top) 2145439
 1. [防汛避险安全指南](https://s.weibo.com/weibo?q=%23%E9%98%B2%E6%B1%9B%E9%81%BF%E9%99%A9%E5%AE%89%E5%85%A8%E6%8C%87%E5%8D%97%23&t=31&band_rank=3&Refer=top) 1729076
@@ -67,6 +67,10 @@
 1. [广西洪水红色预警](https://s.weibo.com/weibo?q=%E5%B9%BF%E8%A5%BF%E6%B4%AA%E6%B0%B4%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6&t=31&band_rank=42&Refer=top) 63174
 1. [耶鲁大学学生涉嫌在地铁性侵被捕](https://s.weibo.com/weibo?q=%23%E8%80%B6%E9%B2%81%E5%A4%A7%E5%AD%A6%E5%AD%A6%E7%94%9F%E6%B6%89%E5%AB%8C%E5%9C%A8%E5%9C%B0%E9%93%81%E6%80%A7%E4%BE%B5%E8%A2%AB%E6%8D%95%23&t=31&band_rank=45&Refer=top) 62792
 1. [台风巴威二次登陆浙江](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E4%BA%8C%E6%AC%A1%E7%99%BB%E9%99%86%E6%B5%99%E6%B1%9F%23&t=31&band_rank=48&Refer=top) 62332
+1. [哈兰德与凯恩正面对决](https://s.weibo.com/weibo?q=%23%E5%93%88%E5%85%B0%E5%BE%B7%E4%B8%8E%E5%87%AF%E6%81%A9%E6%AD%A3%E9%9D%A2%E5%AF%B9%E5%86%B3%23&t=31&band_rank=42&Refer=top) 43692
+1. [王俊凯丁程鑫加起来八百个心眼子](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E4%B8%81%E7%A8%8B%E9%91%AB%E5%8A%A0%E8%B5%B7%E6%9D%A5%E5%85%AB%E7%99%BE%E4%B8%AA%E5%BF%83%E7%9C%BC%E5%AD%90%23&t=31&band_rank=45&Refer=top) 43651
+1. [台风巴威登陆时中心附近最大风力13级](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E7%99%BB%E9%99%86%E6%97%B6%E4%B8%AD%E5%BF%83%E9%99%84%E8%BF%91%E6%9C%80%E5%A4%A7%E9%A3%8E%E5%8A%9B13%E7%BA%A7%23&t=31&band_rank=49&Refer=top) 43588
+1. [神仙物业撤场业主们慌了](https://s.weibo.com/weibo?q=%23%E7%A5%9E%E4%BB%99%E7%89%A9%E4%B8%9A%E6%92%A4%E5%9C%BA%E4%B8%9A%E4%B8%BB%E4%BB%AC%E6%85%8C%E4%BA%86%23&t=31&band_rank=50&Refer=top) 43575
 <!-- END -->
 
 历史归档 [./archives](./archives)
