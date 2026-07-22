@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-07-23 03:24:10.221129 
+最后更新时间 2026-07-23 05:11:01.951021 
 1. [突然讨厌朋友的原因找到了](https://s.weibo.com/weibo?q=%E7%AA%81%E7%84%B6%E8%AE%A8%E5%8E%8C%E6%9C%8B%E5%8F%8B%E7%9A%84%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86&t=31&band_rank=1&Refer=top) 1881860
 1. [Priest发毕业证](https://s.weibo.com/weibo?q=Priest%E5%8F%91%E6%AF%95%E4%B8%9A%E8%AF%81&t=31&band_rank=2&Refer=top) 686533
 1. [2026数字丝路发展论坛](https://s.weibo.com/weibo?q=%232026%E6%95%B0%E5%AD%97%E4%B8%9D%E8%B7%AF%E5%8F%91%E5%B1%95%E8%AE%BA%E5%9D%9B%23&t=31&band_rank=3&Refer=top) 413664
@@ -63,6 +63,10 @@
 1. [菲律宾海军能有多凶](https://s.weibo.com/weibo?q=%23%E8%8F%B2%E5%BE%8B%E5%AE%BE%E6%B5%B7%E5%86%9B%E8%83%BD%E6%9C%89%E5%A4%9A%E5%87%B6%23&t=31&band_rank=37&Refer=top) 54611
 1. [怕下雨只拿出了几个西瓜的老板](https://s.weibo.com/weibo?q=%E6%80%95%E4%B8%8B%E9%9B%A8%E5%8F%AA%E6%8B%BF%E5%87%BA%E4%BA%86%E5%87%A0%E4%B8%AA%E8%A5%BF%E7%93%9C%E7%9A%84%E8%80%81%E6%9D%BF&t=31&band_rank=38&Refer=top) 54600
 1. [雀骨大结局](https://s.weibo.com/weibo?q=%23%E9%9B%80%E9%AA%A8%E5%A4%A7%E7%BB%93%E5%B1%80%23&t=31&band_rank=47&Refer=top) 54409
+1. [黄仁勋称美国无需害怕中国开源AI模型](https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%BB%81%E5%8B%8B%E7%A7%B0%E7%BE%8E%E5%9B%BD%E6%97%A0%E9%9C%80%E5%AE%B3%E6%80%95%E4%B8%AD%E5%9B%BD%E5%BC%80%E6%BA%90AI%E6%A8%A1%E5%9E%8B%23&t=31&band_rank=28&Refer=top) 25755
+1. [王鹤棣见蝴蝶彩片下意识伸手](https://s.weibo.com/weibo?q=%E7%8E%8B%E9%B9%A4%E6%A3%A3%E8%A7%81%E8%9D%B4%E8%9D%B6%E5%BD%A9%E7%89%87%E4%B8%8B%E6%84%8F%E8%AF%86%E4%BC%B8%E6%89%8B&t=31&band_rank=29&Refer=top) 25753
+1. [阿根廷世界杯失利催生各类阴谋论](https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%A0%B9%E5%BB%B7%E4%B8%96%E7%95%8C%E6%9D%AF%E5%A4%B1%E5%88%A9%E5%82%AC%E7%94%9F%E5%90%84%E7%B1%BB%E9%98%B4%E8%B0%8B%E8%AE%BA%23&t=31&band_rank=42&Refer=top) 25725
+1. [被中方制裁的菲律宾防长又急了](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E4%B8%AD%E6%96%B9%E5%88%B6%E8%A3%81%E7%9A%84%E8%8F%B2%E5%BE%8B%E5%AE%BE%E9%98%B2%E9%95%BF%E5%8F%88%E6%80%A5%E4%BA%86%23&t=31&band_rank=47&Refer=top) 25715
 <!-- END -->
 
 历史归档 [./archives](./archives)
