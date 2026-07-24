@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-07-25 04:21:33.549972 
+最后更新时间 2026-07-25 06:06:42.630795 
 1. [詹姆斯加盟76人](https://s.weibo.com/weibo?q=%E8%A9%B9%E5%A7%86%E6%96%AF%E5%8A%A0%E7%9B%9F76%E4%BA%BA&t=31&band_rank=1&Refer=top) 4139714
 1. [詹姆斯发长文](https://s.weibo.com/weibo?q=%E8%A9%B9%E5%A7%86%E6%96%AF%E5%8F%91%E9%95%BF%E6%96%87&t=31&band_rank=2&Refer=top) 1000097
 1. [我国社会稳定形势持续向好](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E7%A4%BE%E4%BC%9A%E7%A8%B3%E5%AE%9A%E5%BD%A2%E5%8A%BF%E6%8C%81%E7%BB%AD%E5%90%91%E5%A5%BD%23&t=31&band_rank=3&Refer=top) 944362
@@ -33,6 +33,7 @@
 1. [每周2天少吃坚持一月瘦5斤](https://s.weibo.com/weibo?q=%23%E6%AF%8F%E5%91%A82%E5%A4%A9%E5%B0%91%E5%90%83%E5%9D%9A%E6%8C%81%E4%B8%80%E6%9C%88%E7%98%A65%E6%96%A4%23&t=31&band_rank=21&Refer=top) 235996
 1. [Angelababy13岁旧照](https://s.weibo.com/weibo?q=%23Angelababy13%E5%B2%81%E6%97%A7%E7%85%A7%23&t=31&band_rank=22&Refer=top) 232511
 1. [感觉宋威龙好会谈恋爱](https://s.weibo.com/weibo?q=%E6%84%9F%E8%A7%89%E5%AE%8B%E5%A8%81%E9%BE%99%E5%A5%BD%E4%BC%9A%E8%B0%88%E6%81%8B%E7%88%B1&t=31&band_rank=23&Refer=top) 208230
+1. [我国首条穿越长江高铁隧道贯通](https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E9%A6%96%E6%9D%A1%E7%A9%BF%E8%B6%8A%E9%95%BF%E6%B1%9F%E9%AB%98%E9%93%81%E9%9A%A7%E9%81%93%E8%B4%AF%E9%80%9A%23&t=31&band_rank=3&Refer=top) 202859
 1. [女生没结婚席上问亲戚谁笑话我妈了](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E6%B2%A1%E7%BB%93%E5%A9%9A%E5%B8%AD%E4%B8%8A%E9%97%AE%E4%BA%B2%E6%88%9A%E8%B0%81%E7%AC%91%E8%AF%9D%E6%88%91%E5%A6%88%E4%BA%86%23&t=31&band_rank=24&Refer=top) 188347
 1. [刘耀文去办美签了](https://s.weibo.com/weibo?q=%23%E5%88%98%E8%80%80%E6%96%87%E5%8E%BB%E5%8A%9E%E7%BE%8E%E7%AD%BE%E4%BA%86%23&t=31&band_rank=25&Refer=top) 188189
 1. [薛之谦演唱会](https://s.weibo.com/weibo?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BC%94%E5%94%B1%E4%BC%9A&t=31&band_rank=26&Refer=top) 187952
@@ -76,6 +77,8 @@
 1. [KPL夏季赛卡位赛](https://s.weibo.com/weibo?q=%23KPL%E5%A4%8F%E5%AD%A3%E8%B5%9B%E5%8D%A1%E4%BD%8D%E8%B5%9B%23&t=31&band_rank=37&Refer=top) 41839
 1. [荷兰弟说逛上海是赞达亚做攻略](https://s.weibo.com/weibo?q=%23%E8%8D%B7%E5%85%B0%E5%BC%9F%E8%AF%B4%E9%80%9B%E4%B8%8A%E6%B5%B7%E6%98%AF%E8%B5%9E%E8%BE%BE%E4%BA%9A%E5%81%9A%E6%94%BB%E7%95%A5%23&t=31&band_rank=48&Refer=top) 41560
 1. [射雕英雄传侠之大者全网收视榜](https://s.weibo.com/weibo?q=%23%E5%B0%84%E9%9B%95%E8%8B%B1%E9%9B%84%E4%BC%A0%E4%BE%A0%E4%B9%8B%E5%A4%A7%E8%80%85%E5%85%A8%E7%BD%91%E6%94%B6%E8%A7%86%E6%A6%9C%23&t=31&band_rank=49&Refer=top) 41540
+1. [韩国初中生KTV遭10名同学围殴3小时](https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%88%9D%E4%B8%AD%E7%94%9FKTV%E9%81%AD10%E5%90%8D%E5%90%8C%E5%AD%A6%E5%9B%B4%E6%AE%B43%E5%B0%8F%E6%97%B6%23&t=31&band_rank=38&Refer=top) 33410
+1. [孙颖莎说我们国乒是一个整体](https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E8%AF%B4%E6%88%91%E4%BB%AC%E5%9B%BD%E4%B9%92%E6%98%AF%E4%B8%80%E4%B8%AA%E6%95%B4%E4%BD%93%23&t=31&band_rank=45&Refer=top) 33371
 <!-- END -->
 
 历史归档 [./archives](./archives)
