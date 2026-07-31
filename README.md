@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-08-01 03:36:33.642833 
+最后更新时间 2026-08-01 05:07:31.969294 
 1. [歌手排名](https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E6%8E%92%E5%90%8D&t=31&band_rank=1&Refer=top) 588950
 1. [低价大流量卡将集体退场](https://s.weibo.com/weibo?q=%23%E4%BD%8E%E4%BB%B7%E5%A4%A7%E6%B5%81%E9%87%8F%E5%8D%A1%E5%B0%86%E9%9B%86%E4%BD%93%E9%80%80%E5%9C%BA%23&t=31&band_rank=2&Refer=top) 444375
 1. [强军制胜不负荣光](https://s.weibo.com/weibo?q=%23%E5%BC%BA%E5%86%9B%E5%88%B6%E8%83%9C%E4%B8%8D%E8%B4%9F%E8%8D%A3%E5%85%89%23&t=31&band_rank=3&Refer=top) 443112
@@ -63,6 +63,10 @@
 1. [宋亚轩有个压箱底的笑话](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E6%9C%89%E4%B8%AA%E5%8E%8B%E7%AE%B1%E5%BA%95%E7%9A%84%E7%AC%91%E8%AF%9D%23&t=31&band_rank=39&Refer=top) 37758
 1. [50岁以后不要挑战更难的事](https://s.weibo.com/weibo?q=50%E5%B2%81%E4%BB%A5%E5%90%8E%E4%B8%8D%E8%A6%81%E6%8C%91%E6%88%98%E6%9B%B4%E9%9A%BE%E7%9A%84%E4%BA%8B&t=31&band_rank=42&Refer=top) 37754
 1. [原神至冬](https://s.weibo.com/weibo?q=%E5%8E%9F%E7%A5%9E%E8%87%B3%E5%86%AC&t=31&band_rank=49&Refer=top) 37748
+1. [通天河漂流回应1988元擦边伴漂](https://s.weibo.com/weibo?q=%23%E9%80%9A%E5%A4%A9%E6%B2%B3%E6%BC%82%E6%B5%81%E5%9B%9E%E5%BA%941988%E5%85%83%E6%93%A6%E8%BE%B9%E4%BC%B4%E6%BC%82%23&t=31&band_rank=17&Refer=top) 33313
+1. [辽宁凌晨炸街人员全被带走调查](https://s.weibo.com/weibo?q=%23%E8%BE%BD%E5%AE%81%E5%87%8C%E6%99%A8%E7%82%B8%E8%A1%97%E4%BA%BA%E5%91%98%E5%85%A8%E8%A2%AB%E5%B8%A6%E8%B5%B0%E8%B0%83%E6%9F%A5%23&t=31&band_rank=32&Refer=top) 27305
+1. [火灾坠楼女童母亲伤情平稳](https://s.weibo.com/weibo?q=%23%E7%81%AB%E7%81%BE%E5%9D%A0%E6%A5%BC%E5%A5%B3%E7%AB%A5%E6%AF%8D%E4%BA%B2%E4%BC%A4%E6%83%85%E5%B9%B3%E7%A8%B3%23&t=31&band_rank=41&Refer=top) 22288
+1. [婚外胚胎事件妻子最新发声](https://s.weibo.com/weibo?q=%23%E5%A9%9A%E5%A4%96%E8%83%9A%E8%83%8E%E4%BA%8B%E4%BB%B6%E5%A6%BB%E5%AD%90%E6%9C%80%E6%96%B0%E5%8F%91%E5%A3%B0%23&t=31&band_rank=48&Refer=top) 21772
 <!-- END -->
 
 历史归档 [./archives](./archives)
