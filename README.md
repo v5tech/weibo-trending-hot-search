@@ -7,13 +7,14 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-08-08 01:00:22.701778 
+最后更新时间 2026-08-08 01:56:50.652779 
 1. [胡彦斌歌王](https://s.weibo.com/weibo?q=%E8%83%A1%E5%BD%A6%E6%96%8C%E6%AD%8C%E7%8E%8B&t=31&band_rank=1&Refer=top) 2381958
 1. [歌手排名](https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E6%8E%92%E5%90%8D&t=31&band_rank=2&Refer=top) 1184273
 1. [民用航空发展十五五规划](https://s.weibo.com/weibo?q=%23%E6%B0%91%E7%94%A8%E8%88%AA%E7%A9%BA%E5%8F%91%E5%B1%95%E5%8D%81%E4%BA%94%E4%BA%94%E8%A7%84%E5%88%92%23&t=31&band_rank=3&Refer=top) 595839
 1. [一个没有空调外挂机的城市](https://s.weibo.com/weibo?q=%E4%B8%80%E4%B8%AA%E6%B2%A1%E6%9C%89%E7%A9%BA%E8%B0%83%E5%A4%96%E6%8C%82%E6%9C%BA%E7%9A%84%E5%9F%8E%E5%B8%82&t=31&band_rank=4&Refer=top) 566279
 1. [原来戴泳帽真的会影响颜值](https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E6%88%B4%E6%B3%B3%E5%B8%BD%E7%9C%9F%E7%9A%84%E4%BC%9A%E5%BD%B1%E5%93%8D%E9%A2%9C%E5%80%BC&t=31&band_rank=5&Refer=top) 501026
 1. [歌手总决赛 孙燕姿吴青峰太伟大了](https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E6%80%BB%E5%86%B3%E8%B5%9B%20%E5%AD%99%E7%87%95%E5%A7%BF%E5%90%B4%E9%9D%92%E5%B3%B0%E5%A4%AA%E4%BC%9F%E5%A4%A7%E4%BA%86&t=31&band_rank=6&Refer=top) 430655
+1. [23岁博士回应确诊胃癌晚期](https://s.weibo.com/weibo?q=%2323%E5%B2%81%E5%8D%9A%E5%A3%AB%E5%9B%9E%E5%BA%94%E7%A1%AE%E8%AF%8A%E8%83%83%E7%99%8C%E6%99%9A%E6%9C%9F%23&t=31&band_rank=5&Refer=top) 390513
 1. [中山大学23岁直博生确诊胃癌晚期](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B1%B1%E5%A4%A7%E5%AD%A623%E5%B2%81%E7%9B%B4%E5%8D%9A%E7%94%9F%E7%A1%AE%E8%AF%8A%E8%83%83%E7%99%8C%E6%99%9A%E6%9C%9F%23&t=31&band_rank=7&Refer=top) 312108
 1. [披荆斩棘](https://s.weibo.com/weibo?q=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98&t=31&band_rank=8&Refer=top) 310378
 1. [Bin哥我们错了](https://s.weibo.com/weibo?q=%23Bin%E5%93%A5%E6%88%91%E4%BB%AC%E9%94%99%E4%BA%86%23&t=31&band_rank=9&Refer=top) 285892
@@ -30,6 +31,7 @@
 1. [湖人官方宣传被指除名詹眉](https://s.weibo.com/weibo?q=%E6%B9%96%E4%BA%BA%E5%AE%98%E6%96%B9%E5%AE%A3%E4%BC%A0%E8%A2%AB%E6%8C%87%E9%99%A4%E5%90%8D%E8%A9%B9%E7%9C%89&t=31&band_rank=20&Refer=top) 207681
 1. [陈情令外鹅版VS内鹅版](https://s.weibo.com/weibo?q=%E9%99%88%E6%83%85%E4%BB%A4%E5%A4%96%E9%B9%85%E7%89%88VS%E5%86%85%E9%B9%85%E7%89%88&t=31&band_rank=21&Refer=top) 200032
 1. [耳帝](https://s.weibo.com/weibo?q=%E8%80%B3%E5%B8%9D&t=31&band_rank=22&Refer=top) 198280
+1. [中餐厅](https://s.weibo.com/weibo?q=%E4%B8%AD%E9%A4%90%E5%8E%85&t=31&band_rank=9&Refer=top) 196082
 1. [女子生下4胞胎被全家宠上天称嫁对人了](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%94%9F%E4%B8%8B4%E8%83%9E%E8%83%8E%E8%A2%AB%E5%85%A8%E5%AE%B6%E5%AE%A0%E4%B8%8A%E5%A4%A9%E7%A7%B0%E5%AB%81%E5%AF%B9%E4%BA%BA%E4%BA%86%23&t=31&band_rank=23&Refer=top) 192265
 1. [宋亚轩拍了刘耀文的美甲](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E6%8B%8D%E4%BA%86%E5%88%98%E8%80%80%E6%96%87%E7%9A%84%E7%BE%8E%E7%94%B2%23&t=31&band_rank=24&Refer=top) 190046
 1. [歌手收视率](https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E6%94%B6%E8%A7%86%E7%8E%87&t=31&band_rank=25&Refer=top) 185168
@@ -58,6 +60,18 @@
 1. [贴秋膘](https://s.weibo.com/weibo?q=%E8%B4%B4%E7%A7%8B%E8%86%98&t=31&band_rank=48&Refer=top) 139961
 1. [TEC入围赛战胜EDG](https://s.weibo.com/weibo?q=%23TEC%E5%85%A5%E5%9B%B4%E8%B5%9B%E6%88%98%E8%83%9CEDG%23&t=31&band_rank=49&Refer=top) 139670
 1. [iPhone18Pro起售或破万](https://s.weibo.com/weibo?q=iPhone18Pro%E8%B5%B7%E5%94%AE%E6%88%96%E7%A0%B4%E4%B8%87&t=31&band_rank=50&Refer=top) 138958
+1. [王安宇晒一念江南片场照](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%89%E5%AE%87%E6%99%92%E4%B8%80%E5%BF%B5%E6%B1%9F%E5%8D%97%E7%89%87%E5%9C%BA%E7%85%A7%23&t=31&band_rank=18&Refer=top) 138907
+1. [山水不会再相逢人也不会再见](https://s.weibo.com/weibo?q=%E5%B1%B1%E6%B0%B4%E4%B8%8D%E4%BC%9A%E5%86%8D%E7%9B%B8%E9%80%A2%E4%BA%BA%E4%B9%9F%E4%B8%8D%E4%BC%9A%E5%86%8D%E8%A7%81&t=31&band_rank=23&Refer=top) 129942
+1. [歌王](https://s.weibo.com/weibo?q=%E6%AD%8C%E7%8E%8B&t=31&band_rank=32&Refer=top) 104580
+1. [Bin归队吧](https://s.weibo.com/weibo?q=%23Bin%E5%BD%92%E9%98%9F%E5%90%A7%23&t=31&band_rank=37&Refer=top) 90814
+1. [突然理解了大爷的绝望感](https://s.weibo.com/weibo?q=%E7%AA%81%E7%84%B6%E7%90%86%E8%A7%A3%E4%BA%86%E5%A4%A7%E7%88%B7%E7%9A%84%E7%BB%9D%E6%9C%9B%E6%84%9F&t=31&band_rank=40&Refer=top) 81107
+1. [王俊凯安排张雅琪当氛围组](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%AE%89%E6%8E%92%E5%BC%A0%E9%9B%85%E7%90%AA%E5%BD%93%E6%B0%9B%E5%9B%B4%E7%BB%84%23&t=31&band_rank=42&Refer=top) 73544
+1. [吴碧霞 国家队就是国家队](https://s.weibo.com/weibo?q=%E5%90%B4%E7%A2%A7%E9%9C%9E%20%E5%9B%BD%E5%AE%B6%E9%98%9F%E5%B0%B1%E6%98%AF%E5%9B%BD%E5%AE%B6%E9%98%9F&t=31&band_rank=43&Refer=top) 71362
+1. [名创优品回应女子吐槽内裤质量差](https://s.weibo.com/weibo?q=%23%E5%90%8D%E5%88%9B%E4%BC%98%E5%93%81%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E5%90%90%E6%A7%BD%E5%86%85%E8%A3%A4%E8%B4%A8%E9%87%8F%E5%B7%AE%23&t=31&band_rank=44&Refer=top) 71126
+1. [歌手](https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B&t=31&band_rank=45&Refer=top) 69697
+1. [万妮达你让我哭](https://s.weibo.com/weibo?q=%23%E4%B8%87%E5%A6%AE%E8%BE%BE%E4%BD%A0%E8%AE%A9%E6%88%91%E5%93%AD%23&t=31&band_rank=46&Refer=top) 67908
+1. [理解了孩子平庸就承欢膝下的意义](https://s.weibo.com/weibo?q=%E7%90%86%E8%A7%A3%E4%BA%86%E5%AD%A9%E5%AD%90%E5%B9%B3%E5%BA%B8%E5%B0%B1%E6%89%BF%E6%AC%A2%E8%86%9D%E4%B8%8B%E7%9A%84%E6%84%8F%E4%B9%89&t=31&band_rank=47&Refer=top) 65660
+1. [宋亚轩张真源彩排合照](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E5%BC%A0%E7%9C%9F%E6%BA%90%E5%BD%A9%E6%8E%92%E5%90%88%E7%85%A7%23&t=31&band_rank=49&Refer=top) 62463
 <!-- END -->
 
 历史归档 [./archives](./archives)
