@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-08-08 01:56:50.652779 
+最后更新时间 2026-08-08 03:00:04.024868 
 1. [胡彦斌歌王](https://s.weibo.com/weibo?q=%E8%83%A1%E5%BD%A6%E6%96%8C%E6%AD%8C%E7%8E%8B&t=31&band_rank=1&Refer=top) 2381958
 1. [歌手排名](https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E6%8E%92%E5%90%8D&t=31&band_rank=2&Refer=top) 1184273
 1. [民用航空发展十五五规划](https://s.weibo.com/weibo?q=%23%E6%B0%91%E7%94%A8%E8%88%AA%E7%A9%BA%E5%8F%91%E5%B1%95%E5%8D%81%E4%BA%94%E4%BA%94%E8%A7%84%E5%88%92%23&t=31&band_rank=3&Refer=top) 595839
@@ -63,6 +63,7 @@
 1. [王安宇晒一念江南片场照](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%89%E5%AE%87%E6%99%92%E4%B8%80%E5%BF%B5%E6%B1%9F%E5%8D%97%E7%89%87%E5%9C%BA%E7%85%A7%23&t=31&band_rank=18&Refer=top) 138907
 1. [山水不会再相逢人也不会再见](https://s.weibo.com/weibo?q=%E5%B1%B1%E6%B0%B4%E4%B8%8D%E4%BC%9A%E5%86%8D%E7%9B%B8%E9%80%A2%E4%BA%BA%E4%B9%9F%E4%B8%8D%E4%BC%9A%E5%86%8D%E8%A7%81&t=31&band_rank=23&Refer=top) 129942
 1. [歌王](https://s.weibo.com/weibo?q=%E6%AD%8C%E7%8E%8B&t=31&band_rank=32&Refer=top) 104580
+1. [欧阳娜娜超预期](https://s.weibo.com/weibo?q=%23%E6%AC%A7%E9%98%B3%E5%A8%9C%E5%A8%9C%E8%B6%85%E9%A2%84%E6%9C%9F%23&t=31&band_rank=16&Refer=top) 91547
 1. [Bin归队吧](https://s.weibo.com/weibo?q=%23Bin%E5%BD%92%E9%98%9F%E5%90%A7%23&t=31&band_rank=37&Refer=top) 90814
 1. [突然理解了大爷的绝望感](https://s.weibo.com/weibo?q=%E7%AA%81%E7%84%B6%E7%90%86%E8%A7%A3%E4%BA%86%E5%A4%A7%E7%88%B7%E7%9A%84%E7%BB%9D%E6%9C%9B%E6%84%9F&t=31&band_rank=40&Refer=top) 81107
 1. [王俊凯安排张雅琪当氛围组](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%AE%89%E6%8E%92%E5%BC%A0%E9%9B%85%E7%90%AA%E5%BD%93%E6%B0%9B%E5%9B%B4%E7%BB%84%23&t=31&band_rank=42&Refer=top) 73544
@@ -70,7 +71,9 @@
 1. [名创优品回应女子吐槽内裤质量差](https://s.weibo.com/weibo?q=%23%E5%90%8D%E5%88%9B%E4%BC%98%E5%93%81%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E5%90%90%E6%A7%BD%E5%86%85%E8%A3%A4%E8%B4%A8%E9%87%8F%E5%B7%AE%23&t=31&band_rank=44&Refer=top) 71126
 1. [歌手](https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B&t=31&band_rank=45&Refer=top) 69697
 1. [万妮达你让我哭](https://s.weibo.com/weibo?q=%23%E4%B8%87%E5%A6%AE%E8%BE%BE%E4%BD%A0%E8%AE%A9%E6%88%91%E5%93%AD%23&t=31&band_rank=46&Refer=top) 67908
+1. [看完鸟类正脸秒懂证件照](https://s.weibo.com/weibo?q=%E7%9C%8B%E5%AE%8C%E9%B8%9F%E7%B1%BB%E6%AD%A3%E8%84%B8%E7%A7%92%E6%87%82%E8%AF%81%E4%BB%B6%E7%85%A7&t=31&band_rank=27&Refer=top) 66055
 1. [理解了孩子平庸就承欢膝下的意义](https://s.weibo.com/weibo?q=%E7%90%86%E8%A7%A3%E4%BA%86%E5%AD%A9%E5%AD%90%E5%B9%B3%E5%BA%B8%E5%B0%B1%E6%89%BF%E6%AC%A2%E8%86%9D%E4%B8%8B%E7%9A%84%E6%84%8F%E4%B9%89&t=31&band_rank=47&Refer=top) 65660
+1. [王者万象棋定档9月](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E4%B8%87%E8%B1%A1%E6%A3%8B%E5%AE%9A%E6%A1%A39%E6%9C%88%23&t=31&band_rank=47&Refer=top) 63534
 1. [宋亚轩张真源彩排合照](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E5%BC%A0%E7%9C%9F%E6%BA%90%E5%BD%A9%E6%8E%92%E5%90%88%E7%85%A7%23&t=31&band_rank=49&Refer=top) 62463
 <!-- END -->
 
