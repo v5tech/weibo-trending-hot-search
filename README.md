@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-08-08 03:00:04.024868 
+最后更新时间 2026-08-08 03:55:44.587292 
 1. [胡彦斌歌王](https://s.weibo.com/weibo?q=%E8%83%A1%E5%BD%A6%E6%96%8C%E6%AD%8C%E7%8E%8B&t=31&band_rank=1&Refer=top) 2381958
 1. [歌手排名](https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%E6%8E%92%E5%90%8D&t=31&band_rank=2&Refer=top) 1184273
 1. [民用航空发展十五五规划](https://s.weibo.com/weibo?q=%23%E6%B0%91%E7%94%A8%E8%88%AA%E7%A9%BA%E5%8F%91%E5%B1%95%E5%8D%81%E4%BA%94%E4%BA%94%E8%A7%84%E5%88%92%23&t=31&band_rank=3&Refer=top) 595839
@@ -75,6 +75,8 @@
 1. [理解了孩子平庸就承欢膝下的意义](https://s.weibo.com/weibo?q=%E7%90%86%E8%A7%A3%E4%BA%86%E5%AD%A9%E5%AD%90%E5%B9%B3%E5%BA%B8%E5%B0%B1%E6%89%BF%E6%AC%A2%E8%86%9D%E4%B8%8B%E7%9A%84%E6%84%8F%E4%B9%89&t=31&band_rank=47&Refer=top) 65660
 1. [王者万象棋定档9月](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E4%B8%87%E8%B1%A1%E6%A3%8B%E5%AE%9A%E6%A1%A39%E6%9C%88%23&t=31&band_rank=47&Refer=top) 63534
 1. [宋亚轩张真源彩排合照](https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E5%BC%A0%E7%9C%9F%E6%BA%90%E5%BD%A9%E6%8E%92%E5%90%88%E7%85%A7%23&t=31&band_rank=49&Refer=top) 62463
+1. [齐豫 小男孩](https://s.weibo.com/weibo?q=%E9%BD%90%E8%B1%AB%20%E5%B0%8F%E7%94%B7%E5%AD%A9&t=31&band_rank=24&Refer=top) 44478
+1. [台风白海豚已进入24小时警戒线](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A%E5%B7%B2%E8%BF%9B%E5%85%A524%E5%B0%8F%E6%97%B6%E8%AD%A6%E6%88%92%E7%BA%BF%23&t=31&band_rank=35&Refer=top) 37594
 <!-- END -->
 
 历史归档 [./archives](./archives)
