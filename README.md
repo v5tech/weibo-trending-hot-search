@@ -7,13 +7,13 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-08-10 06:33:33.119937 
+最后更新时间 2026-08-10 07:33:31.275881 
+1. [白海豚快速减弱](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%B5%B7%E8%B1%9A%E5%BF%AB%E9%80%9F%E5%87%8F%E5%BC%B1%23&t=31&band_rank=17&Refer=top) 1438549
+1. [上海地铁停运](https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E5%81%9C%E8%BF%90&t=31&band_rank=5&Refer=top) 963114
 1. [百花奖](https://s.weibo.com/weibo?q=%E7%99%BE%E8%8A%B1%E5%A5%96&t=31&band_rank=1&Refer=top) 914382
 1. [台风白海豚](https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A&t=31&band_rank=2&Refer=top) 679749
-1. [白海豚快速减弱](https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%B5%B7%E8%B1%9A%E5%BF%AB%E9%80%9F%E5%87%8F%E5%BC%B1%23&t=31&band_rank=17&Refer=top) 595289
-1. [中国制造硬核瞬间](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E7%A1%AC%E6%A0%B8%E7%9E%AC%E9%97%B4%23&t=31&band_rank=3&Refer=top) 487877
+1. [中国制造硬核瞬间](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E7%A1%AC%E6%A0%B8%E7%9E%AC%E9%97%B4%23&t=31&band_rank=3&Refer=top) 572897
 1. [沈腾 影帝](https://s.weibo.com/weibo?q=%E6%B2%88%E8%85%BE%20%E5%BD%B1%E5%B8%9D&t=31&band_rank=4&Refer=top) 476523
-1. [上海地铁停运](https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E5%81%9C%E8%BF%90&t=31&band_rank=5&Refer=top) 463556
 1. [白海豚 居家办公](https://s.weibo.com/weibo?q=%E7%99%BD%E6%B5%B7%E8%B1%9A%20%E5%B1%85%E5%AE%B6%E5%8A%9E%E5%85%AC&t=31&band_rank=6&Refer=top) 344492
 1. [龙餐馆 奥斯卡](https://s.weibo.com/weibo?q=%E9%BE%99%E9%A4%90%E9%A6%86%20%E5%A5%A5%E6%96%AF%E5%8D%A1&t=31&band_rank=7&Refer=top) 343855
 1. [朱一龙鼻子怎么了](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E9%BC%BB%E5%AD%90%E6%80%8E%E4%B9%88%E4%BA%86%23&t=31&band_rank=8&Refer=top) 343583
@@ -77,12 +77,22 @@
 1. [陈哲远 我是什么神人](https://s.weibo.com/weibo?q=%E9%99%88%E5%93%B2%E8%BF%9C%20%E6%88%91%E6%98%AF%E4%BB%80%E4%B9%88%E7%A5%9E%E4%BA%BA&t=31&band_rank=37&Refer=top) 259643
 1. [白鲨CF双料冠军](https://s.weibo.com/weibo?q=%E7%99%BD%E9%B2%A8CF%E5%8F%8C%E6%96%99%E5%86%A0%E5%86%9B&t=31&band_rank=47&Refer=top) 245773
 1. [山东泰山2比1天津津门虎](https://s.weibo.com/weibo?q=%E5%B1%B1%E4%B8%9C%E6%B3%B0%E5%B1%B12%E6%AF%941%E5%A4%A9%E6%B4%A5%E6%B4%A5%E9%97%A8%E8%99%8E&t=31&band_rank=48&Refer=top) 244181
-1. [蔡磊多次提出离婚都被妻子拒绝](https://s.weibo.com/weibo?q=%23%E8%94%A1%E7%A3%8A%E5%A4%9A%E6%AC%A1%E6%8F%90%E5%87%BA%E7%A6%BB%E5%A9%9A%E9%83%BD%E8%A2%AB%E5%A6%BB%E5%AD%90%E6%8B%92%E7%BB%9D%23&t=31&band_rank=35&Refer=top) 143205
+1. [怎么挑选眼镜框](https://s.weibo.com/weibo?q=%E6%80%8E%E4%B9%88%E6%8C%91%E9%80%89%E7%9C%BC%E9%95%9C%E6%A1%86&t=31&band_rank=8&Refer=top) 198505
+1. [程晓玥体面](https://s.weibo.com/weibo?q=%23%E7%A8%8B%E6%99%93%E7%8E%A5%E4%BD%93%E9%9D%A2%23&t=31&band_rank=12&Refer=top) 185143
+1. [张凌赫热成啥样了](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E7%83%AD%E6%88%90%E5%95%A5%E6%A0%B7%E4%BA%86%23&t=31&band_rank=13&Refer=top) 183802
+1. [上海谁三文鱼吹窗外上了](https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E8%B0%81%E4%B8%89%E6%96%87%E9%B1%BC%E5%90%B9%E7%AA%97%E5%A4%96%E4%B8%8A%E4%BA%86&t=31&band_rank=14&Refer=top) 182832
+1. [存款市场罕见两极分化](https://s.weibo.com/weibo?q=%23%E5%AD%98%E6%AC%BE%E5%B8%82%E5%9C%BA%E7%BD%95%E8%A7%81%E4%B8%A4%E6%9E%81%E5%88%86%E5%8C%96%23&t=31&band_rank=17&Refer=top) 180229
+1. [BIGBANG](https://s.weibo.com/weibo?q=BIGBANG&t=31&band_rank=20&Refer=top) 177283
+1. [时代少年团新歌进度条是永远](https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%96%B0%E6%AD%8C%E8%BF%9B%E5%BA%A6%E6%9D%A1%E6%98%AF%E6%B0%B8%E8%BF%9C%23&t=31&band_rank=23&Refer=top) 174666
+1. [张檬小五带儿子去韩国探亲](https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%AA%AC%E5%B0%8F%E4%BA%94%E5%B8%A6%E5%84%BF%E5%AD%90%E5%8E%BB%E9%9F%A9%E5%9B%BD%E6%8E%A2%E4%BA%B2%23&t=31&band_rank=25&Refer=top) 172411
+1. [TF四代练习生致粉丝的一封信](https://s.weibo.com/weibo?q=%23TF%E5%9B%9B%E4%BB%A3%E7%BB%83%E4%B9%A0%E7%94%9F%E8%87%B4%E7%B2%89%E4%B8%9D%E7%9A%84%E4%B8%80%E5%B0%81%E4%BF%A1%23&t=31&band_rank=26&Refer=top) 172289
+1. [高市早苗不敢提谁投的原子弹](https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%B8%8D%E6%95%A2%E6%8F%90%E8%B0%81%E6%8A%95%E7%9A%84%E5%8E%9F%E5%AD%90%E5%BC%B9%23&t=31&band_rank=39&Refer=top) 170610
+1. [叶倩文宣布喜添新孙](https://s.weibo.com/weibo?q=%E5%8F%B6%E5%80%A9%E6%96%87%E5%AE%A3%E5%B8%83%E5%96%9C%E6%B7%BB%E6%96%B0%E5%AD%99&t=31&band_rank=30&Refer=top) 168001
+1. [蔡磊多次提出离婚都被妻子拒绝](https://s.weibo.com/weibo?q=%23%E8%94%A1%E7%A3%8A%E5%A4%9A%E6%AC%A1%E6%8F%90%E5%87%BA%E7%A6%BB%E5%A9%9A%E9%83%BD%E8%A2%AB%E5%A6%BB%E5%AD%90%E6%8B%92%E7%BB%9D%23&t=31&band_rank=35&Refer=top) 166948
+1. [Haru拍的张凌赫](https://s.weibo.com/weibo?q=%23Haru%E6%8B%8D%E7%9A%84%E5%BC%A0%E5%87%8C%E8%B5%AB%23&t=31&band_rank=40&Refer=top) 158666
+1. [沈月今天完全人鱼公主来的](https://s.weibo.com/weibo?q=%E6%B2%88%E6%9C%88%E4%BB%8A%E5%A4%A9%E5%AE%8C%E5%85%A8%E4%BA%BA%E9%B1%BC%E5%85%AC%E4%B8%BB%E6%9D%A5%E7%9A%84&t=31&band_rank=41&Refer=top) 157316
 1. [温州发布海水倒灌风险预警](https://s.weibo.com/weibo?q=%23%E6%B8%A9%E5%B7%9E%E5%8F%91%E5%B8%83%E6%B5%B7%E6%B0%B4%E5%80%92%E7%81%8C%E9%A3%8E%E9%99%A9%E9%A2%84%E8%AD%A6%23&t=31&band_rank=48&Refer=top) 135572
 1. [台风 周末登陆](https://s.weibo.com/weibo?q=%E5%8F%B0%E9%A3%8E%20%E5%91%A8%E6%9C%AB%E7%99%BB%E9%99%86&t=31&band_rank=50&Refer=top) 134452
-1. [怎么挑选眼镜框](https://s.weibo.com/weibo?q=%E6%80%8E%E4%B9%88%E6%8C%91%E9%80%89%E7%9C%BC%E9%95%9C%E6%A1%86&t=31&band_rank=8&Refer=top) 88868
-1. [存款市场罕见两极分化](https://s.weibo.com/weibo?q=%23%E5%AD%98%E6%AC%BE%E5%B8%82%E5%9C%BA%E7%BD%95%E8%A7%81%E4%B8%A4%E6%9E%81%E5%88%86%E5%8C%96%23&t=31&band_rank=17&Refer=top) 71149
-1. [高市早苗不敢提谁投的原子弹](https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%B8%8D%E6%95%A2%E6%8F%90%E8%B0%81%E6%8A%95%E7%9A%84%E5%8E%9F%E5%AD%90%E5%BC%B9%23&t=31&band_rank=39&Refer=top) 70505
 1. [狗狗不停地用爪子求小猫舔它](https://s.weibo.com/weibo?q=%23%E7%8B%97%E7%8B%97%E4%B8%8D%E5%81%9C%E5%9C%B0%E7%94%A8%E7%88%AA%E5%AD%90%E6%B1%82%E5%B0%8F%E7%8C%AB%E8%88%94%E5%AE%83%23&t=31&band_rank=45&Refer=top) 70500
 1. [成年人的友情不需要随时待命](https://s.weibo.com/weibo?q=%E6%88%90%E5%B9%B4%E4%BA%BA%E7%9A%84%E5%8F%8B%E6%83%85%E4%B8%8D%E9%9C%80%E8%A6%81%E9%9A%8F%E6%97%B6%E5%BE%85%E5%91%BD&t=31&band_rank=46&Refer=top) 70158
 1. [猫妈收养了两只小狗](https://s.weibo.com/weibo?q=%23%E7%8C%AB%E5%A6%88%E6%94%B6%E5%85%BB%E4%BA%86%E4%B8%A4%E5%8F%AA%E5%B0%8F%E7%8B%97%23&t=31&band_rank=45&Refer=top) 48783
