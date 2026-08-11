@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-08-12 04:48:15.871721 
+最后更新时间 2026-08-12 05:51:05.948226 
 1. [曝赵一鸣4块牛肉干64元复称仅17元](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E8%B5%B5%E4%B8%80%E9%B8%A34%E5%9D%97%E7%89%9B%E8%82%89%E5%B9%B264%E5%85%83%E5%A4%8D%E7%A7%B0%E4%BB%8517%E5%85%83%23&t=31&band_rank=1&Refer=top) 1382966
 1. [忙到晕倒炸鸡店员工已结算工资离职](https://s.weibo.com/weibo?q=%23%E5%BF%99%E5%88%B0%E6%99%95%E5%80%92%E7%82%B8%E9%B8%A1%E5%BA%97%E5%91%98%E5%B7%A5%E5%B7%B2%E7%BB%93%E7%AE%97%E5%B7%A5%E8%B5%84%E7%A6%BB%E8%81%8C%23&t=31&band_rank=2&Refer=top) 923526
 1. [请查收这份暴雨天避险指南](https://s.weibo.com/weibo?q=%23%E8%AF%B7%E6%9F%A5%E6%94%B6%E8%BF%99%E4%BB%BD%E6%9A%B4%E9%9B%A8%E5%A4%A9%E9%81%BF%E9%99%A9%E6%8C%87%E5%8D%97%23&t=31&band_rank=3&Refer=top) 649128
@@ -76,8 +76,12 @@
 1. [韩国新恋综 我剩下的恋爱](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E6%96%B0%E6%81%8B%E7%BB%BC%20%E6%88%91%E5%89%A9%E4%B8%8B%E7%9A%84%E6%81%8B%E7%88%B1&t=31&band_rank=6&Refer=top) 114079
 1. [六公主力挺赵丽颖百花奖](https://s.weibo.com/weibo?q=%23%E5%85%AD%E5%85%AC%E4%B8%BB%E5%8A%9B%E6%8C%BA%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%99%BE%E8%8A%B1%E5%A5%96%23&t=31&band_rank=14&Refer=top) 51678
 1. [AUBL上海交通大学夺冠](https://s.weibo.com/weibo?q=%23AUBL%E4%B8%8A%E6%B5%B7%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6%E5%A4%BA%E5%86%A0%23&t=31&band_rank=38&Refer=top) 34234
+1. [肖战莫得闲战报](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%8E%AB%E5%BE%97%E9%97%B2%E6%88%98%E6%8A%A5%23&t=31&band_rank=39&Refer=top) 30187
+1. [AI构建中国天庭在外网火了](https://s.weibo.com/weibo?q=AI%E6%9E%84%E5%BB%BA%E4%B8%AD%E5%9B%BD%E5%A4%A9%E5%BA%AD%E5%9C%A8%E5%A4%96%E7%BD%91%E7%81%AB%E4%BA%86&t=31&band_rank=34&Refer=top) 28857
+1. [男子上班脑出血抢救超48小时工伤被拒](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%8A%E7%8F%AD%E8%84%91%E5%87%BA%E8%A1%80%E6%8A%A2%E6%95%91%E8%B6%8548%E5%B0%8F%E6%97%B6%E5%B7%A5%E4%BC%A4%E8%A2%AB%E6%8B%92%23&t=31&band_rank=42&Refer=top) 28843
+1. [解放军特种兵部署台海一线](https://s.weibo.com/weibo?q=%23%E8%A7%A3%E6%94%BE%E5%86%9B%E7%89%B9%E7%A7%8D%E5%85%B5%E9%83%A8%E7%BD%B2%E5%8F%B0%E6%B5%B7%E4%B8%80%E7%BA%BF%23&t=31&band_rank=47&Refer=top) 28832
+1. [中国女排3比0横扫日本](https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%923%E6%AF%940%E6%A8%AA%E6%89%AB%E6%97%A5%E6%9C%AC&t=31&band_rank=49&Refer=top) 28830
 1. [无言 古堡很浪漫](https://s.weibo.com/weibo?q=%E6%97%A0%E8%A8%80%20%E5%8F%A4%E5%A0%A1%E5%BE%88%E6%B5%AA%E6%BC%AB&t=31&band_rank=28&Refer=top) 27768
-1. [肖战莫得闲战报](https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%8E%AB%E5%BE%97%E9%97%B2%E6%88%98%E6%8A%A5%23&t=31&band_rank=39&Refer=top) 24855
 1. [日本人对于二战的认知](https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%AF%B9%E4%BA%8E%E4%BA%8C%E6%88%98%E7%9A%84%E8%AE%A4%E7%9F%A5&t=31&band_rank=49&Refer=top) 24541
 <!-- END -->
 
