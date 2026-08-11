@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-08-12 01:58:39.740500 
+最后更新时间 2026-08-12 03:13:55.765210 
 1. [曝赵一鸣4块牛肉干64元复称仅17元](https://s.weibo.com/weibo?q=%23%E6%9B%9D%E8%B5%B5%E4%B8%80%E9%B8%A34%E5%9D%97%E7%89%9B%E8%82%89%E5%B9%B264%E5%85%83%E5%A4%8D%E7%A7%B0%E4%BB%8517%E5%85%83%23&t=31&band_rank=1&Refer=top) 1382966
 1. [忙到晕倒炸鸡店员工已结算工资离职](https://s.weibo.com/weibo?q=%23%E5%BF%99%E5%88%B0%E6%99%95%E5%80%92%E7%82%B8%E9%B8%A1%E5%BA%97%E5%91%98%E5%B7%A5%E5%B7%B2%E7%BB%93%E7%AE%97%E5%B7%A5%E8%B5%84%E7%A6%BB%E8%81%8C%23&t=31&band_rank=2&Refer=top) 923526
 1. [请查收这份暴雨天避险指南](https://s.weibo.com/weibo?q=%23%E8%AF%B7%E6%9F%A5%E6%94%B6%E8%BF%99%E4%BB%BD%E6%9A%B4%E9%9B%A8%E5%A4%A9%E9%81%BF%E9%99%A9%E6%8C%87%E5%8D%97%23&t=31&band_rank=3&Refer=top) 649128
@@ -73,6 +73,9 @@
 1. [流星雨](https://s.weibo.com/weibo?q=%E6%B5%81%E6%98%9F%E9%9B%A8&t=31&band_rank=46&Refer=top) 132694
 1. [去你的岛豆瓣开分8.0](https://s.weibo.com/weibo?q=%23%E5%8E%BB%E4%BD%A0%E7%9A%84%E5%B2%9B%E8%B1%86%E7%93%A3%E5%BC%80%E5%88%868.0%23&t=31&band_rank=49&Refer=top) 132287
 1. [折射手机壳售价高达799元](https://s.weibo.com/weibo?q=%23%E6%8A%98%E5%B0%84%E6%89%8B%E6%9C%BA%E5%A3%B3%E5%94%AE%E4%BB%B7%E9%AB%98%E8%BE%BE799%E5%85%83%23&t=31&band_rank=50&Refer=top) 132253
+1. [韩国新恋综 我剩下的恋爱](https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E6%96%B0%E6%81%8B%E7%BB%BC%20%E6%88%91%E5%89%A9%E4%B8%8B%E7%9A%84%E6%81%8B%E7%88%B1&t=31&band_rank=6&Refer=top) 114079
+1. [六公主力挺赵丽颖百花奖](https://s.weibo.com/weibo?q=%23%E5%85%AD%E5%85%AC%E4%B8%BB%E5%8A%9B%E6%8C%BA%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%99%BE%E8%8A%B1%E5%A5%96%23&t=31&band_rank=14&Refer=top) 45747
+1. [AUBL上海交通大学夺冠](https://s.weibo.com/weibo?q=%23AUBL%E4%B8%8A%E6%B5%B7%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6%E5%A4%BA%E5%86%A0%23&t=31&band_rank=38&Refer=top) 34234
 <!-- END -->
 
 历史归档 [./archives](./archives)
