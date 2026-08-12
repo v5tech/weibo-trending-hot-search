@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-08-13 01:58:08.504649 
+最后更新时间 2026-08-13 03:13:37.477568 
 1. [朱镕基同志逝世](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E9%95%95%E5%9F%BA%E5%90%8C%E5%BF%97%E9%80%9D%E4%B8%96%23&t=31&band_rank=1&Refer=top) 1153789
 1. [微信群聊可以彻底关闭通知了](https://s.weibo.com/weibo?q=%E5%BE%AE%E4%BF%A1%E7%BE%A4%E8%81%8A%E5%8F%AF%E4%BB%A5%E5%BD%BB%E5%BA%95%E5%85%B3%E9%97%AD%E9%80%9A%E7%9F%A5%E4%BA%86&t=31&band_rank=2&Refer=top) 1121921
 1. [60万亿元消费蓝海要来了](https://s.weibo.com/weibo?q=%2360%E4%B8%87%E4%BA%BF%E5%85%83%E6%B6%88%E8%B4%B9%E8%93%9D%E6%B5%B7%E8%A6%81%E6%9D%A5%E4%BA%86%23&t=31&band_rank=3&Refer=top) 892508
@@ -76,6 +76,9 @@
 1. [男子出轨销售买千万保险还转账百万](https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%87%BA%E8%BD%A8%E9%94%80%E5%94%AE%E4%B9%B0%E5%8D%83%E4%B8%87%E4%BF%9D%E9%99%A9%E8%BF%98%E8%BD%AC%E8%B4%A6%E7%99%BE%E4%B8%87%23&t=31&band_rank=46&Refer=top) 105661
 1. [河南暴雨洪水冲破车库墙体](https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E6%9A%B4%E9%9B%A8%E6%B4%AA%E6%B0%B4%E5%86%B2%E7%A0%B4%E8%BD%A6%E5%BA%93%E5%A2%99%E4%BD%93%23&t=31&band_rank=47&Refer=top) 105479
 1. [邵兵 退赛](https://s.weibo.com/weibo?q=%E9%82%B5%E5%85%B5%20%E9%80%80%E8%B5%9B&t=31&band_rank=48&Refer=top) 105301
+1. [BLG圣枪哥首发Wenbo替补](https://s.weibo.com/weibo?q=%23BLG%E5%9C%A3%E6%9E%AA%E5%93%A5%E9%A6%96%E5%8F%91Wenbo%E6%9B%BF%E8%A1%A5%23&t=31&band_rank=40&Refer=top) 49190
+1. [三孩非亲生案妻子以为孩子能修复感情](https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%AD%A9%E9%9D%9E%E4%BA%B2%E7%94%9F%E6%A1%88%E5%A6%BB%E5%AD%90%E4%BB%A5%E4%B8%BA%E5%AD%A9%E5%AD%90%E8%83%BD%E4%BF%AE%E5%A4%8D%E6%84%9F%E6%83%85%23&t=31&band_rank=42&Refer=top) 49171
+1. [我欲乘风](https://s.weibo.com/weibo?q=%E6%88%91%E6%AC%B2%E4%B9%98%E9%A3%8E&t=31&band_rank=46&Refer=top) 49123
 <!-- END -->
 
 历史归档 [./archives](./archives)
