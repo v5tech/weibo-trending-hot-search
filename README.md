@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-08-13 04:48:23.446963 
+最后更新时间 2026-08-13 05:49:14.503816 
 1. [朱镕基同志逝世](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E9%95%95%E5%9F%BA%E5%90%8C%E5%BF%97%E9%80%9D%E4%B8%96%23&t=31&band_rank=1&Refer=top) 1153789
 1. [微信群聊可以彻底关闭通知了](https://s.weibo.com/weibo?q=%E5%BE%AE%E4%BF%A1%E7%BE%A4%E8%81%8A%E5%8F%AF%E4%BB%A5%E5%BD%BB%E5%BA%95%E5%85%B3%E9%97%AD%E9%80%9A%E7%9F%A5%E4%BA%86&t=31&band_rank=2&Refer=top) 1121921
 1. [60万亿元消费蓝海要来了](https://s.weibo.com/weibo?q=%2360%E4%B8%87%E4%BA%BF%E5%85%83%E6%B6%88%E8%B4%B9%E8%93%9D%E6%B5%B7%E8%A6%81%E6%9D%A5%E4%BA%86%23&t=31&band_rank=3&Refer=top) 892508
@@ -79,10 +79,11 @@
 1. [BLG圣枪哥首发Wenbo替补](https://s.weibo.com/weibo?q=%23BLG%E5%9C%A3%E6%9E%AA%E5%93%A5%E9%A6%96%E5%8F%91Wenbo%E6%9B%BF%E8%A1%A5%23&t=31&band_rank=40&Refer=top) 49190
 1. [三孩非亲生案妻子以为孩子能修复感情](https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%AD%A9%E9%9D%9E%E4%BA%B2%E7%94%9F%E6%A1%88%E5%A6%BB%E5%AD%90%E4%BB%A5%E4%B8%BA%E5%AD%A9%E5%AD%90%E8%83%BD%E4%BF%AE%E5%A4%8D%E6%84%9F%E6%83%85%23&t=31&band_rank=42&Refer=top) 49171
 1. [我欲乘风](https://s.weibo.com/weibo?q=%E6%88%91%E6%AC%B2%E4%B9%98%E9%A3%8E&t=31&band_rank=46&Refer=top) 49123
-1. [被刺辅警父亲称半年仅骑过3次摩托](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%88%BA%E8%BE%85%E8%AD%A6%E7%88%B6%E4%BA%B2%E7%A7%B0%E5%8D%8A%E5%B9%B4%E4%BB%85%E9%AA%91%E8%BF%873%E6%AC%A1%E6%91%A9%E6%89%98%23&t=31&band_rank=32&Refer=top) 27488
-1. [中国试射不看谁的脸色](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%AF%95%E5%B0%84%E4%B8%8D%E7%9C%8B%E8%B0%81%E7%9A%84%E8%84%B8%E8%89%B2%23&t=31&band_rank=33&Refer=top) 27474
-1. [普京回应日本对俄罗斯制裁](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E5%AF%B9%E4%BF%84%E7%BD%97%E6%96%AF%E5%88%B6%E8%A3%81%23&t=31&band_rank=39&Refer=top) 27356
-1. [鞠婧祎请客郭敬明剧组](https://s.weibo.com/weibo?q=%E9%9E%A0%E5%A9%A7%E7%A5%8E%E8%AF%B7%E5%AE%A2%E9%83%AD%E6%95%AC%E6%98%8E%E5%89%A7%E7%BB%84&t=31&band_rank=41&Refer=top) 27325
+1. [41国所谓涉华声明不过是废纸一张](https://s.weibo.com/weibo?q=%2341%E5%9B%BD%E6%89%80%E8%B0%93%E6%B6%89%E5%8D%8E%E5%A3%B0%E6%98%8E%E4%B8%8D%E8%BF%87%E6%98%AF%E5%BA%9F%E7%BA%B8%E4%B8%80%E5%BC%A0%23&t=31&band_rank=31&Refer=top) 29648
+1. [中国试射不看谁的脸色](https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%AF%95%E5%B0%84%E4%B8%8D%E7%9C%8B%E8%B0%81%E7%9A%84%E8%84%B8%E8%89%B2%23&t=31&band_rank=33&Refer=top) 29647
+1. [被刺辅警父亲称半年仅骑过3次摩托](https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%88%BA%E8%BE%85%E8%AD%A6%E7%88%B6%E4%BA%B2%E7%A7%B0%E5%8D%8A%E5%B9%B4%E4%BB%85%E9%AA%91%E8%BF%873%E6%AC%A1%E6%91%A9%E6%89%98%23&t=31&band_rank=32&Refer=top) 29646
+1. [鞠婧祎请客郭敬明剧组](https://s.weibo.com/weibo?q=%E9%9E%A0%E5%A9%A7%E7%A5%8E%E8%AF%B7%E5%AE%A2%E9%83%AD%E6%95%AC%E6%98%8E%E5%89%A7%E7%BB%84&t=31&band_rank=41&Refer=top) 29645
+1. [普京回应日本对俄罗斯制裁](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E5%AF%B9%E4%BF%84%E7%BD%97%E6%96%AF%E5%88%B6%E8%A3%81%23&t=31&band_rank=39&Refer=top) 29639
 <!-- END -->
 
 历史归档 [./archives](./archives)
