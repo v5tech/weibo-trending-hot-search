@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-08-17 04:24:29.880553 
+最后更新时间 2026-08-17 05:22:16.427641 
 1. [披荆斩棘排名](https://s.weibo.com/weibo?q=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E6%8E%92%E5%90%8D&t=31&band_rank=2&Refer=top) 903348
 1. [朱镕基同志遗体18日火化](https://s.weibo.com/weibo?q=%23%E6%9C%B1%E9%95%95%E5%9F%BA%E5%90%8C%E5%BF%97%E9%81%97%E4%BD%9318%E6%97%A5%E7%81%AB%E5%8C%96%23&t=31&band_rank=1&Refer=top) 797639
 1. [王曼昱vs王艺迪](https://s.weibo.com/weibo?q=%E7%8E%8B%E6%9B%BC%E6%98%B1vs%E7%8E%8B%E8%89%BA%E8%BF%AA&t=31&band_rank=2&Refer=top) 600828
@@ -83,6 +83,7 @@
 1. [过度提醒有时是种提前责备](https://s.weibo.com/weibo?q=%23%E8%BF%87%E5%BA%A6%E6%8F%90%E9%86%92%E6%9C%89%E6%97%B6%E6%98%AF%E7%A7%8D%E6%8F%90%E5%89%8D%E8%B4%A3%E5%A4%87%23&t=31&band_rank=39&Refer=top) 58152
 1. [巴西一杀手指着男子头扣扳机结果卡壳](https://s.weibo.com/weibo?q=%23%E5%B7%B4%E8%A5%BF%E4%B8%80%E6%9D%80%E6%89%8B%E6%8C%87%E7%9D%80%E7%94%B7%E5%AD%90%E5%A4%B4%E6%89%A3%E6%89%B3%E6%9C%BA%E7%BB%93%E6%9E%9C%E5%8D%A1%E5%A3%B3%23&t=31&band_rank=45&Refer=top) 58098
 1. [台风过后推开门我差点哭出来](https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E8%BF%87%E5%90%8E%E6%8E%A8%E5%BC%80%E9%97%A8%E6%88%91%E5%B7%AE%E7%82%B9%E5%93%AD%E5%87%BA%E6%9D%A5%23&t=31&band_rank=48&Refer=top) 58075
+1. [左奇函耳链戳我](https://s.weibo.com/weibo?q=%23%E5%B7%A6%E5%A5%87%E5%87%BD%E8%80%B3%E9%93%BE%E6%88%B3%E6%88%91%23&t=31&band_rank=48&Refer=top) 34589
 <!-- END -->
 
 历史归档 [./archives](./archives)
