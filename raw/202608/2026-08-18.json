@@ -135,6 +135,10 @@
     "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%86%B0%E7%98%A6%E4%BA%8630%E6%96%A4%23&t=31&band_rank=33&Refer=top",
     "hot": 190917
   },
+  "多方回应女子杭州酒局遭伤害": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E6%9D%AD%E5%B7%9E%E9%85%92%E5%B1%80%E9%81%AD%E4%BC%A4%E5%AE%B3%23&t=31&band_rank=27&Refer=top",
+    "hot": 190732
+  },
   "泡面不健康不是因为防腐剂": {
     "url": "https://s.weibo.com/weibo?q=%23%E6%B3%A1%E9%9D%A2%E4%B8%8D%E5%81%A5%E5%BA%B7%E4%B8%8D%E6%98%AF%E5%9B%A0%E4%B8%BA%E9%98%B2%E8%85%90%E5%89%82%23&t=31&band_rank=34&Refer=top",
     "hot": 183499
@@ -178,10 +182,6 @@
   "七夕真的不是和谁过都一样": {
     "url": "https://s.weibo.com/weibo?q=%E4%B8%83%E5%A4%95%E7%9C%9F%E7%9A%84%E4%B8%8D%E6%98%AF%E5%92%8C%E8%B0%81%E8%BF%87%E9%83%BD%E4%B8%80%E6%A0%B7&t=31&band_rank=42&Refer=top",
     "hot": 125277
-  },
-  "多方回应女子杭州酒局遭伤害": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E6%9D%AD%E5%B7%9E%E9%85%92%E5%B1%80%E9%81%AD%E4%BC%A4%E5%AE%B3%23&t=31&band_rank=27&Refer=top",
-    "hot": 125171
   },
   "结婚后才明白的事": {
     "url": "https://s.weibo.com/weibo?q=%E7%BB%93%E5%A9%9A%E5%90%8E%E6%89%8D%E6%98%8E%E7%99%BD%E7%9A%84%E4%BA%8B&t=31&band_rank=43&Refer=top",
@@ -286,5 +286,9 @@
   "老人剪碎146张百元钞票": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%89%AA%E7%A2%8E146%E5%BC%A0%E7%99%BE%E5%85%83%E9%92%9E%E7%A5%A8%23&t=31&band_rank=45&Refer=top",
     "hot": 44801
+  },
+  "女患者称被男医生猥亵警方已立案": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%82%A3%E8%80%85%E7%A7%B0%E8%A2%AB%E7%94%B7%E5%8C%BB%E7%94%9F%E7%8C%A5%E4%BA%B5%E8%AD%A6%E6%96%B9%E5%B7%B2%E7%AB%8B%E6%A1%88%23&t=31&band_rank=50&Refer=top",
+    "hot": 28773
   }
 }
