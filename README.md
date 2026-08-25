@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-08-26 02:41:50.737375 
+最后更新时间 2026-08-26 03:33:29.788413 
 1. [过得好的人最明显的标志](https://s.weibo.com/weibo?q=%E8%BF%87%E5%BE%97%E5%A5%BD%E7%9A%84%E4%BA%BA%E6%9C%80%E6%98%8E%E6%98%BE%E7%9A%84%E6%A0%87%E5%BF%97&t=31&band_rank=5&Refer=top) 1687269
 1. [在嫌疑人住处发现在韩遇害女生遗体](https://s.weibo.com/weibo?q=%23%E5%9C%A8%E5%AB%8C%E7%96%91%E4%BA%BA%E4%BD%8F%E5%A4%84%E5%8F%91%E7%8E%B0%E5%9C%A8%E9%9F%A9%E9%81%87%E5%AE%B3%E5%A5%B3%E7%94%9F%E9%81%97%E4%BD%93%23&t=31&band_rank=1&Refer=top) 1367452
 1. [杭州警方通报女子称在电梯遭骚扰](https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E7%A7%B0%E5%9C%A8%E7%94%B5%E6%A2%AF%E9%81%AD%E9%AA%9A%E6%89%B0%23&t=31&band_rank=2&Refer=top) 983449
@@ -70,6 +70,10 @@
 1. [人真是环境的产物](https://s.weibo.com/weibo?q=%E4%BA%BA%E7%9C%9F%E6%98%AF%E7%8E%AF%E5%A2%83%E7%9A%84%E4%BA%A7%E7%89%A9&t=31&band_rank=50&Refer=top) 115416
 1. [我眼中的医生](https://s.weibo.com/weibo?q=%E6%88%91%E7%9C%BC%E4%B8%AD%E7%9A%84%E5%8C%BB%E7%94%9F&t=31&band_rank=29&Refer=top) 55176
 1. [何以悬空寺爆火](https://s.weibo.com/weibo?q=%23%E4%BD%95%E4%BB%A5%E6%82%AC%E7%A9%BA%E5%AF%BA%E7%88%86%E7%81%AB%23&t=31&band_rank=44&Refer=top) 48733
+1. [高考英语40分成邮轮双语主持人](https://s.weibo.com/weibo?q=%E9%AB%98%E8%80%83%E8%8B%B1%E8%AF%AD40%E5%88%86%E6%88%90%E9%82%AE%E8%BD%AE%E5%8F%8C%E8%AF%AD%E4%B8%BB%E6%8C%81%E4%BA%BA&t=31&band_rank=34&Refer=top) 36731
+1. [这份卤肉教程堪比一篇论文](https://s.weibo.com/weibo?q=%E8%BF%99%E4%BB%BD%E5%8D%A4%E8%82%89%E6%95%99%E7%A8%8B%E5%A0%AA%E6%AF%94%E4%B8%80%E7%AF%87%E8%AE%BA%E6%96%87&t=31&band_rank=38&Refer=top) 36569
+1. [律师解读电梯骚扰事件女子被立案](https://s.weibo.com/weibo?q=%E5%BE%8B%E5%B8%88%E8%A7%A3%E8%AF%BB%E7%94%B5%E6%A2%AF%E9%AA%9A%E6%89%B0%E4%BA%8B%E4%BB%B6%E5%A5%B3%E5%AD%90%E8%A2%AB%E7%AB%8B%E6%A1%88&t=31&band_rank=43&Refer=top) 36388
+1. [约8500名朝鲜兵员部署至俄乌前线](https://s.weibo.com/weibo?q=%E7%BA%A68500%E5%90%8D%E6%9C%9D%E9%B2%9C%E5%85%B5%E5%91%98%E9%83%A8%E7%BD%B2%E8%87%B3%E4%BF%84%E4%B9%8C%E5%89%8D%E7%BA%BF&t=31&band_rank=48&Refer=top) 36212
 <!-- END -->
 
 历史归档 [./archives](./archives)
