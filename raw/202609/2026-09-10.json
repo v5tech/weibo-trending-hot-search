@@ -23,13 +23,205 @@
     "url": "https://s.weibo.com/weibo?q=iPhoneDuo%20%E5%B1%8F%E4%B8%8B%E6%91%84%E5%83%8F%E5%A4%B4&t=31&band_rank=2&Refer=top",
     "hot": 2165457
   },
+  "华为折叠屏": {
+    "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%E6%8A%98%E5%8F%A0%E5%B1%8F&t=31&band_rank=1&Refer=top",
+    "hot": 1153500
+  },
   "iPhone18Pro颜色": {
     "url": "https://s.weibo.com/weibo?q=iPhone18Pro%E9%A2%9C%E8%89%B2&t=31&band_rank=10&Refer=top",
     "hot": 938151
   },
+  "警方通报鲜花饼吐痰事件": {
+    "url": "https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E9%B2%9C%E8%8A%B1%E9%A5%BC%E5%90%90%E7%97%B0%E4%BA%8B%E4%BB%B6%23&t=31&band_rank=2&Refer=top",
+    "hot": 861072
+  },
+  "青春华章": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%9D%92%E6%98%A5%E5%8D%8E%E7%AB%A0%23&t=31&band_rank=3&Refer=top",
+    "hot": 857590
+  },
+  "iPhone17涨价": {
+    "url": "https://s.weibo.com/weibo?q=iPhone17%E6%B6%A8%E4%BB%B7&t=31&band_rank=4&Refer=top",
+    "hot": 855595
+  },
+  "日本梅毒男性20到60岁女性20左右": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%A2%85%E6%AF%92%E7%94%B7%E6%80%A720%E5%88%B060%E5%B2%81%E5%A5%B3%E6%80%A720%E5%B7%A6%E5%8F%B3%23&t=31&band_rank=5&Refer=top",
+    "hot": 849382
+  },
+  "刘恋想问早春晴朗作者自己是不是原型": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E6%81%8B%E6%83%B3%E9%97%AE%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97%E4%BD%9C%E8%80%85%E8%87%AA%E5%B7%B1%E6%98%AF%E4%B8%8D%E6%98%AF%E5%8E%9F%E5%9E%8B%23&t=31&band_rank=14&Refer=top",
+    "hot": 846691
+  },
+  "小米折叠屏": {
+    "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%8A%98%E5%8F%A0%E5%B1%8F&t=31&band_rank=7&Refer=top",
+    "hot": 841637
+  },
+  "教师节": {
+    "url": "https://s.weibo.com/weibo?q=%E6%95%99%E5%B8%88%E8%8A%82&t=31&band_rank=34&Refer=top",
+    "hot": 840411
+  },
+  "井柏然孙千花絮比正片还甜": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BA%95%E6%9F%8F%E7%84%B6%E5%AD%99%E5%8D%83%E8%8A%B1%E7%B5%AE%E6%AF%94%E6%AD%A3%E7%89%87%E8%BF%98%E7%94%9C%23&t=31&band_rank=9&Refer=top",
+    "hot": 835829
+  },
+  "女子孕32周剖宫产救出麻花脐带宝宝": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%AD%9532%E5%91%A8%E5%89%96%E5%AE%AB%E4%BA%A7%E6%95%91%E5%87%BA%E9%BA%BB%E8%8A%B1%E8%84%90%E5%B8%A6%E5%AE%9D%E5%AE%9D%23&t=31&band_rank=10&Refer=top",
+    "hot": 831877
+  },
+  "刘翔回应安置进展": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E7%BF%94%E5%9B%9E%E5%BA%94%E5%AE%89%E7%BD%AE%E8%BF%9B%E5%B1%95%23&t=31&band_rank=11&Refer=top",
+    "hot": 826925
+  },
+  "王者万象棋正式上线": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E4%B8%87%E8%B1%A1%E6%A3%8B%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF%23&t=31&band_rank=12&Refer=top",
+    "hot": 823577
+  },
+  "被资助女生浓妆艳抹停助后遭威胁曝光": {
+    "url": "https://s.weibo.com/weibo?q=%23%E8%A2%AB%E8%B5%84%E5%8A%A9%E5%A5%B3%E7%94%9F%E6%B5%93%E5%A6%86%E8%89%B3%E6%8A%B9%E5%81%9C%E5%8A%A9%E5%90%8E%E9%81%AD%E5%A8%81%E8%83%81%E6%9B%9D%E5%85%89%23&t=31&band_rank=13&Refer=top",
+    "hot": 818003
+  },
+  "宝格丽越南公关回应刘亦菲裁掉胡玉荷": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%AE%9D%E6%A0%BC%E4%B8%BD%E8%B6%8A%E5%8D%97%E5%85%AC%E5%85%B3%E5%9B%9E%E5%BA%94%E5%88%98%E4%BA%A6%E8%8F%B2%E8%A3%81%E6%8E%89%E8%83%A1%E7%8E%89%E8%8D%B7%23&t=31&band_rank=14&Refer=top",
+    "hot": 815238
+  },
+  "时尚博主曝刘亦菲裁掉胡玉荷的原因": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%97%B6%E5%B0%9A%E5%8D%9A%E4%B8%BB%E6%9B%9D%E5%88%98%E4%BA%A6%E8%8F%B2%E8%A3%81%E6%8E%89%E8%83%A1%E7%8E%89%E8%8D%B7%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=15&Refer=top",
+    "hot": 809559
+  },
+  "苹果Siri AI发布": {
+    "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9CSiri%20AI%E5%8F%91%E5%B8%83&t=31&band_rank=16&Refer=top",
+    "hot": 803935
+  },
+  "关晓彤新剧鸟屎炸鸡该怎么吃": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E6%96%B0%E5%89%A7%E9%B8%9F%E5%B1%8E%E7%82%B8%E9%B8%A1%E8%AF%A5%E6%80%8E%E4%B9%88%E5%90%83%23&t=31&band_rank=17&Refer=top",
+    "hot": 801911
+  },
+  "栾念尚之桃复合吻戏太hot了": {
+    "url": "https://s.weibo.com/weibo?q=%E6%A0%BE%E5%BF%B5%E5%B0%9A%E4%B9%8B%E6%A1%83%E5%A4%8D%E5%90%88%E5%90%BB%E6%88%8F%E5%A4%AAhot%E4%BA%86&t=31&band_rank=18&Refer=top",
+    "hot": 798922
+  },
+  "受资助女孩因焦虑而情急失言": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8F%97%E8%B5%84%E5%8A%A9%E5%A5%B3%E5%AD%A9%E5%9B%A0%E7%84%A6%E8%99%91%E8%80%8C%E6%83%85%E6%80%A5%E5%A4%B1%E8%A8%80%23&t=31&band_rank=19&Refer=top",
+    "hot": 794992
+  },
+  "车间裸奔事件不能到不是宁德就结束了": {
+    "url": "https://s.weibo.com/weibo?q=%23%E8%BD%A6%E9%97%B4%E8%A3%B8%E5%A5%94%E4%BA%8B%E4%BB%B6%E4%B8%8D%E8%83%BD%E5%88%B0%E4%B8%8D%E6%98%AF%E5%AE%81%E5%BE%B7%E5%B0%B1%E7%BB%93%E6%9D%9F%E4%BA%86%23&t=31&band_rank=20&Refer=top",
+    "hot": 790923
+  },
+  "刘翔月薪7174元": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E7%BF%94%E6%9C%88%E8%96%AA7174%E5%85%83%23&t=31&band_rank=21&Refer=top",
+    "hot": 786980
+  },
+  "无折痕": {
+    "url": "https://s.weibo.com/weibo?q=%E6%97%A0%E6%8A%98%E7%97%95&t=31&band_rank=12&Refer=top",
+    "hot": 775847
+  },
+  "日本暴发梅毒疫情": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%9A%B4%E5%8F%91%E6%A2%85%E6%AF%92%E7%96%AB%E6%83%85%23&t=31&band_rank=24&Refer=top",
+    "hot": 772735
+  },
+  "演员王新昉离世": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%91%98%E7%8E%8B%E6%96%B0%E6%98%89%E7%A6%BB%E4%B8%96%23&t=31&band_rank=25&Refer=top",
+    "hot": 769743
+  },
+  "徐艺洋时隔一个月再夺冠": {
+    "url": "https://s.weibo.com/weibo?q=%E5%BE%90%E8%89%BA%E6%B4%8B%E6%97%B6%E9%9A%94%E4%B8%80%E4%B8%AA%E6%9C%88%E5%86%8D%E5%A4%BA%E5%86%A0&t=31&band_rank=26&Refer=top",
+    "hot": 766735
+  },
+  "三星嘲讽苹果iPhoneDuo": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E6%98%9F%E5%98%B2%E8%AE%BD%E8%8B%B9%E6%9E%9CiPhoneDuo%23&t=31&band_rank=27&Refer=top",
+    "hot": 761282
+  },
+  "栾念给卢克办了5000块的洗澡卡": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%A0%BE%E5%BF%B5%E7%BB%99%E5%8D%A2%E5%85%8B%E5%8A%9E%E4%BA%865000%E5%9D%97%E7%9A%84%E6%B4%97%E6%BE%A1%E5%8D%A1%23&t=31&band_rank=28&Refer=top",
+    "hot": 758078
+  },
+  "梅姨出摊卖芒果影像": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%A2%85%E5%A7%A8%E5%87%BA%E6%91%8A%E5%8D%96%E8%8A%92%E6%9E%9C%E5%BD%B1%E5%83%8F%23&t=31&band_rank=29&Refer=top",
+    "hot": 753098
+  },
+  "江西遂川地质灾害致16人遇难": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E9%81%82%E5%B7%9D%E5%9C%B0%E8%B4%A8%E7%81%BE%E5%AE%B3%E8%87%B416%E4%BA%BA%E9%81%87%E9%9A%BE%23&t=31&band_rank=30&Refer=top",
+    "hot": 747171
+  },
+  "上海地铁要涨价了": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E8%A6%81%E6%B6%A8%E4%BB%B7%E4%BA%86%23&t=31&band_rank=31&Refer=top",
+    "hot": 744545
+  },
   "郑钦文4比3莱巴金娜": {
     "url": "https://s.weibo.com/weibo?q=%E9%83%91%E9%92%A6%E6%96%874%E6%AF%943%E8%8E%B1%E5%B7%B4%E9%87%91%E5%A8%9C&t=31&band_rank=5&Refer=top",
     "hot": 741093
+  },
+  "三大运营商回应iPhoneDuo仅支持eSIM": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%A4%A7%E8%BF%90%E8%90%A5%E5%95%86%E5%9B%9E%E5%BA%94iPhoneDuo%E4%BB%85%E6%94%AF%E6%8C%81eSIM%23&t=31&band_rank=32&Refer=top",
+    "hot": 740209
+  },
+  "苹果下架iPhone17Pro": {
+    "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E4%B8%8B%E6%9E%B6iPhone17Pro&t=31&band_rank=33&Refer=top",
+    "hot": 735892
+  },
+  "王者万象棋": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E4%B8%87%E8%B1%A1%E6%A3%8B%23&t=31&band_rank=34&Refer=top",
+    "hot": 730431
+  },
+  "身体停止摄入糖分和碳水后": {
+    "url": "https://s.weibo.com/weibo?q=%23%E8%BA%AB%E4%BD%93%E5%81%9C%E6%AD%A2%E6%91%84%E5%85%A5%E7%B3%96%E5%88%86%E5%92%8C%E7%A2%B3%E6%B0%B4%E5%90%8E%23&t=31&band_rank=35&Refer=top",
+    "hot": 727405
+  },
+  "黄金白银大跌": {
+    "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E5%A4%A7%E8%B7%8C&t=31&band_rank=36&Refer=top",
+    "hot": 724849
+  },
+  "吴柳芳谈刘翔退役困境": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%90%B4%E6%9F%B3%E8%8A%B3%E8%B0%88%E5%88%98%E7%BF%94%E9%80%80%E5%BD%B9%E5%9B%B0%E5%A2%83%23&t=31&band_rank=37&Refer=top",
+    "hot": 721432
+  },
+  "王嘉尔上手iPhone18Pro": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E4%B8%8A%E6%89%8BiPhone18Pro%23&t=31&band_rank=38&Refer=top",
+    "hot": 716704
+  },
+  "颜如晶演我第一次给自己化妆": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%A2%9C%E5%A6%82%E6%99%B6%E6%BC%94%E6%88%91%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%BB%99%E8%87%AA%E5%B7%B1%E5%8C%96%E5%A6%86%23&t=31&band_rank=39&Refer=top",
+    "hot": 711066
+  },
+  "iPhone Duo 开合高级": {
+    "url": "https://s.weibo.com/weibo?q=iPhone%20Duo%20%E5%BC%80%E5%90%88%E9%AB%98%E7%BA%A7&t=31&band_rank=40&Refer=top",
+    "hot": 708685
+  },
+  "井柏然孙千求婚走戏都哭了": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BA%95%E6%9F%8F%E7%84%B6%E5%AD%99%E5%8D%83%E6%B1%82%E5%A9%9A%E8%B5%B0%E6%88%8F%E9%83%BD%E5%93%AD%E4%BA%86%23&t=31&band_rank=41&Refer=top",
+    "hot": 701537
+  },
+  "吴是温签售": {
+    "url": "https://s.weibo.com/weibo?q=%E5%90%B4%E6%98%AF%E6%B8%A9%E7%AD%BE%E5%94%AE&t=31&band_rank=42&Refer=top",
+    "hot": 700413
+  },
+  "北京海淀家长特殊的教师节礼物": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%B5%B7%E6%B7%80%E5%AE%B6%E9%95%BF%E7%89%B9%E6%AE%8A%E7%9A%84%E6%95%99%E5%B8%88%E8%8A%82%E7%A4%BC%E7%89%A9%23&t=31&band_rank=43&Refer=top",
+    "hot": 694229
+  },
+  "刘恋曾是奥美创意总监": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E6%81%8B%E6%9B%BE%E6%98%AF%E5%A5%A5%E7%BE%8E%E5%88%9B%E6%84%8F%E6%80%BB%E7%9B%91%23&t=31&band_rank=45&Refer=top",
+    "hot": 685195
+  },
+  "吴柳芳坦言男粉多但不爱消费": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%90%B4%E6%9F%B3%E8%8A%B3%E5%9D%A6%E8%A8%80%E7%94%B7%E7%B2%89%E5%A4%9A%E4%BD%86%E4%B8%8D%E7%88%B1%E6%B6%88%E8%B4%B9%23&t=31&band_rank=46&Refer=top",
+    "hot": 681961
+  },
+  "刘翔称与体育局再无关联": {
+    "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E7%BF%94%E7%A7%B0%E4%B8%8E%E4%BD%93%E8%82%B2%E5%B1%80%E5%86%8D%E6%97%A0%E5%85%B3%E8%81%94%23&t=31&band_rank=47&Refer=top",
+    "hot": 679183
+  },
+  "栾念调职去美国的原因": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%A0%BE%E5%BF%B5%E8%B0%83%E8%81%8C%E5%8E%BB%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=48&Refer=top",
+    "hot": 673532
+  },
+  "赵今麦真正的今麦郎": {
+    "url": "https://s.weibo.com/weibo?q=%E8%B5%B5%E4%BB%8A%E9%BA%A6%E7%9C%9F%E6%AD%A3%E7%9A%84%E4%BB%8A%E9%BA%A6%E9%83%8E&t=31&band_rank=49&Refer=top",
+    "hot": 669771
+  },
+  "都谁熬夜看苹果发布会了": {
+    "url": "https://s.weibo.com/weibo?q=%23%E9%83%BD%E8%B0%81%E7%86%AC%E5%A4%9C%E7%9C%8B%E8%8B%B9%E6%9E%9C%E5%8F%91%E5%B8%83%E4%BC%9A%E4%BA%86%23&t=31&band_rank=50&Refer=top",
+    "hot": 664705
   },
   "iPhone18ProMax可变光圈稳了": {
     "url": "https://s.weibo.com/weibo?q=%23iPhone18ProMax%E5%8F%AF%E5%8F%98%E5%85%89%E5%9C%88%E7%A8%B3%E4%BA%86%23&t=31&band_rank=7&Refer=top",
@@ -42,10 +234,6 @@
   "郑钦文美网1比2莱巴金娜": {
     "url": "https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E7%BE%8E%E7%BD%911%E6%AF%942%E8%8E%B1%E5%B7%B4%E9%87%91%E5%A8%9C%23&t=31&band_rank=6&Refer=top",
     "hot": 548956
-  },
-  "教师节": {
-    "url": "https://s.weibo.com/weibo?q=%E6%95%99%E5%B8%88%E8%8A%82&t=31&band_rank=34&Refer=top",
-    "hot": 508722
   },
   "女篮": {
     "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E7%AF%AE&t=31&band_rank=9&Refer=top",
@@ -66,10 +254,6 @@
   "苹果回应iPhoneDuo是否有折痕": {
     "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%9B%9E%E5%BA%94iPhoneDuo%E6%98%AF%E5%90%A6%E6%9C%89%E6%8A%98%E7%97%95%23&t=31&band_rank=7&Refer=top",
     "hot": 287056
-  },
-  "刘恋想问早春晴朗作者自己是不是原型": {
-    "url": "https://s.weibo.com/weibo?q=%23%E5%88%98%E6%81%8B%E6%83%B3%E9%97%AE%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97%E4%BD%9C%E8%80%85%E8%87%AA%E5%B7%B1%E6%98%AF%E4%B8%8D%E6%98%AF%E5%8E%9F%E5%9E%8B%23&t=31&band_rank=14&Refer=top",
-    "hot": 280588
   },
   "宁德时代已报警": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E5%B7%B2%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=15&Refer=top",
@@ -126,10 +310,6 @@
   "又要低人一等了": {
     "url": "https://s.weibo.com/weibo?q=%E5%8F%88%E8%A6%81%E4%BD%8E%E4%BA%BA%E4%B8%80%E7%AD%89%E4%BA%86&t=31&band_rank=23&Refer=top",
     "hot": 204791
-  },
-  "无折痕": {
-    "url": "https://s.weibo.com/weibo?q=%E6%97%A0%E6%8A%98%E7%97%95&t=31&band_rank=12&Refer=top",
-    "hot": 204060
   },
   "iPhone18上手评测": {
     "url": "https://s.weibo.com/weibo?q=%23iPhone18%E4%B8%8A%E6%89%8B%E8%AF%84%E6%B5%8B%23&t=31&band_rank=29&Refer=top",
