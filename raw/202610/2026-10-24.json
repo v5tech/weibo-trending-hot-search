@@ -75,9 +75,25 @@
     "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E5%8A%9E%E5%8F%91%E6%96%87%E5%87%8F%E7%BC%93%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%B0%B1%E4%B8%9A%E6%9B%BF%E4%BB%A3%E5%BD%B1%E5%93%8D&t=31&band_rank=19&Refer=top",
     "hot": 252812
   },
+  "BLG": {
+    "url": "https://s.weibo.com/weibo?q=BLG&t=31&band_rank=2&Refer=top",
+    "hot": 250864
+  },
   "国际金价暴跌因获利了结": {
     "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E5%9B%A0%E8%8E%B7%E5%88%A9%E4%BA%86%E7%BB%93&t=31&band_rank=20&Refer=top",
     "hot": 247941
+  },
+  "红星照耀青春长征路": {
+    "url": "https://s.weibo.com/weibo?q=%23%E7%BA%A2%E6%98%9F%E7%85%A7%E8%80%80%E9%9D%92%E6%98%A5%E9%95%BF%E5%BE%81%E8%B7%AF%23&t=31&band_rank=3&Refer=top",
+    "hot": 244476
+  },
+  "BLG重量级爆冷": {
+    "url": "https://s.weibo.com/weibo?q=%23BLG%E9%87%8D%E9%87%8F%E7%BA%A7%E7%88%86%E5%86%B7%23&t=31&band_rank=4&Refer=top",
+    "hot": 244350
+  },
+  "LPL瑞士轮三连败": {
+    "url": "https://s.weibo.com/weibo?q=%23LPL%E7%91%9E%E5%A3%AB%E8%BD%AE%E4%B8%89%E8%BF%9E%E8%B4%A5%23&t=31&band_rank=5&Refer=top",
+    "hot": 243245
   },
   "迪丽热巴工作室出图": {
     "url": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%87%BA%E5%9B%BE&t=31&band_rank=21&Refer=top",
@@ -198,5 +214,81 @@
   "女性35岁后面临的健康挑战": {
     "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%80%A735%E5%B2%81%E5%90%8E%E9%9D%A2%E4%B8%B4%E7%9A%84%E5%81%A5%E5%BA%B7%E6%8C%91%E6%88%98%23&t=31&band_rank=50&Refer=top",
     "hot": 209055
+  },
+  "GEN翻盘iG": {
+    "url": "https://s.weibo.com/weibo?q=%23GEN%E7%BF%BB%E7%9B%98iG%23&t=31&band_rank=14&Refer=top",
+    "hot": 109243
+  },
+  "Doinb回应iG不敌GEN": {
+    "url": "https://s.weibo.com/weibo?q=%23Doinb%E5%9B%9E%E5%BA%94iG%E4%B8%8D%E6%95%8CGEN%23&t=31&band_rank=16&Refer=top",
+    "hot": 86990
+  },
+  "MKOI对战BLG": {
+    "url": "https://s.weibo.com/weibo?q=%23MKOI%E5%AF%B9%E6%88%98BLG%23&t=31&band_rank=17&Refer=top",
+    "hot": 75560
+  },
+  "迪丽热巴第二套": {
+    "url": "https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%AC%AC%E4%BA%8C%E5%A5%97&t=31&band_rank=18&Refer=top",
+    "hot": 71392
+  },
+  "官方晒369英雄池": {
+    "url": "https://s.weibo.com/weibo?q=%E5%AE%98%E6%96%B9%E6%99%92369%E8%8B%B1%E9%9B%84%E6%B1%A0&t=31&band_rank=21&Refer=top",
+    "hot": 70877
+  },
+  "JackeyLove心累了": {
+    "url": "https://s.weibo.com/weibo?q=%23JackeyLove%E5%BF%83%E7%B4%AF%E4%BA%86%23&t=31&band_rank=23&Refer=top",
+    "hot": 70339
+  },
+  "TES": {
+    "url": "https://s.weibo.com/weibo?q=TES&t=31&band_rank=26&Refer=top",
+    "hot": 58975
+  },
+  "AL对战KC": {
+    "url": "https://s.weibo.com/weibo?q=AL%E5%AF%B9%E6%88%98KC&t=31&band_rank=31&Refer=top",
+    "hot": 54229
+  },
+  "MKOI战胜BLG": {
+    "url": "https://s.weibo.com/weibo?q=MKOI%E6%88%98%E8%83%9CBLG&t=31&band_rank=32&Refer=top",
+    "hot": 54205
+  },
+  "HLE速推TES": {
+    "url": "https://s.weibo.com/weibo?q=HLE%E9%80%9F%E6%8E%A8TES&t=31&band_rank=34&Refer=top",
+    "hot": 53878
+  },
+  "没认出来欧阳娜娜": {
+    "url": "https://s.weibo.com/weibo?q=%23%E6%B2%A1%E8%AE%A4%E5%87%BA%E6%9D%A5%E6%AC%A7%E9%98%B3%E5%A8%9C%E5%A8%9C%23&t=31&band_rank=35&Refer=top",
+    "hot": 53780
+  },
+  "Knight说队伍状态不是很好": {
+    "url": "https://s.weibo.com/weibo?q=%23Knight%E8%AF%B4%E9%98%9F%E4%BC%8D%E7%8A%B6%E6%80%81%E4%B8%8D%E6%98%AF%E5%BE%88%E5%A5%BD%23&t=31&band_rank=36&Refer=top",
+    "hot": 53557
+  },
+  "2026全球总决赛": {
+    "url": "https://s.weibo.com/weibo?q=2026%E5%85%A8%E7%90%83%E6%80%BB%E5%86%B3%E8%B5%9B&t=31&band_rank=38&Refer=top",
+    "hot": 53485
+  },
+  "S16瑞士轮": {
+    "url": "https://s.weibo.com/weibo?q=%23S16%E7%91%9E%E5%A3%AB%E8%BD%AE%23&t=31&band_rank=42&Refer=top",
+    "hot": 47646
+  },
+  "iG": {
+    "url": "https://s.weibo.com/weibo?q=iG&t=31&band_rank=43&Refer=top",
+    "hot": 47093
+  },
+  "GEN战胜IG": {
+    "url": "https://s.weibo.com/weibo?q=GEN%E6%88%98%E8%83%9CIG&t=31&band_rank=44&Refer=top",
+    "hot": 45750
+  },
+  "HLE战胜TES": {
+    "url": "https://s.weibo.com/weibo?q=HLE%E6%88%98%E8%83%9CTES&t=31&band_rank=46&Refer=top",
+    "hot": 44332
+  },
+  "众解说看GEN翻盘iG反应": {
+    "url": "https://s.weibo.com/weibo?q=%23%E4%BC%97%E8%A7%A3%E8%AF%B4%E7%9C%8BGEN%E7%BF%BB%E7%9B%98iG%E5%8F%8D%E5%BA%94%23&t=31&band_rank=47&Refer=top",
+    "hot": 42494
+  },
+  "S16最前线": {
+    "url": "https://s.weibo.com/weibo?q=S16%E6%9C%80%E5%89%8D%E7%BA%BF&t=31&band_rank=48&Refer=top",
+    "hot": 41762
   }
 }

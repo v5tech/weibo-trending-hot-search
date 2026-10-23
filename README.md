@@ -7,7 +7,7 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-10-24 02:10:15.844552 
+最后更新时间 2026-10-24 05:55:01.836871 
 1. [GEN对战iG](https://s.weibo.com/weibo?q=%23GEN%E5%AF%B9%E6%88%98iG%23&t=31&band_rank=1&Refer=top) 1193157
 1. [独生女继承2亿遗产1年后遭离婚分产](https://s.weibo.com/weibo?q=%23%E7%8B%AC%E7%94%9F%E5%A5%B3%E7%BB%A7%E6%89%BF2%E4%BA%BF%E9%81%97%E4%BA%A71%E5%B9%B4%E5%90%8E%E9%81%AD%E7%A6%BB%E5%A9%9A%E5%88%86%E4%BA%A7%23&t=31&band_rank=2&Refer=top) 1141075
 1. [西藏巴青地震最新救援情况](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%97%8F%E5%B7%B4%E9%9D%92%E5%9C%B0%E9%9C%87%E6%9C%80%E6%96%B0%E6%95%91%E6%8F%B4%E6%83%85%E5%86%B5%23&t=31&band_rank=3&Refer=top) 1127788
@@ -27,7 +27,11 @@
 1. [13岁女孩卖金项链被金店当面熔化](https://s.weibo.com/weibo?q=%2313%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%8D%96%E9%87%91%E9%A1%B9%E9%93%BE%E8%A2%AB%E9%87%91%E5%BA%97%E5%BD%93%E9%9D%A2%E7%86%94%E5%8C%96%23&t=31&band_rank=17&Refer=top) 258666
 1. [C罗第982球](https://s.weibo.com/weibo?q=%23C%E7%BD%97%E7%AC%AC982%E7%90%83%23&t=31&band_rank=18&Refer=top) 256692
 1. [国办发文减缓人工智能就业替代影响](https://s.weibo.com/weibo?q=%E5%9B%BD%E5%8A%9E%E5%8F%91%E6%96%87%E5%87%8F%E7%BC%93%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%B0%B1%E4%B8%9A%E6%9B%BF%E4%BB%A3%E5%BD%B1%E5%93%8D&t=31&band_rank=19&Refer=top) 252812
+1. [BLG](https://s.weibo.com/weibo?q=BLG&t=31&band_rank=2&Refer=top) 250864
 1. [国际金价暴跌因获利了结](https://s.weibo.com/weibo?q=%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E5%9B%A0%E8%8E%B7%E5%88%A9%E4%BA%86%E7%BB%93&t=31&band_rank=20&Refer=top) 247941
+1. [红星照耀青春长征路](https://s.weibo.com/weibo?q=%23%E7%BA%A2%E6%98%9F%E7%85%A7%E8%80%80%E9%9D%92%E6%98%A5%E9%95%BF%E5%BE%81%E8%B7%AF%23&t=31&band_rank=3&Refer=top) 244476
+1. [BLG重量级爆冷](https://s.weibo.com/weibo?q=%23BLG%E9%87%8D%E9%87%8F%E7%BA%A7%E7%88%86%E5%86%B7%23&t=31&band_rank=4&Refer=top) 244350
+1. [LPL瑞士轮三连败](https://s.weibo.com/weibo?q=%23LPL%E7%91%9E%E5%A3%AB%E8%BD%AE%E4%B8%89%E8%BF%9E%E8%B4%A5%23&t=31&band_rank=5&Refer=top) 243245
 1. [迪丽热巴工作室出图](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%87%BA%E5%9B%BE&t=31&band_rank=21&Refer=top) 241581
 1. [张小斐闪光灯下抬手 神中之神](https://s.weibo.com/weibo?q=%E5%BC%A0%E5%B0%8F%E6%96%90%E9%97%AA%E5%85%89%E7%81%AF%E4%B8%8B%E6%8A%AC%E6%89%8B%20%E7%A5%9E%E4%B8%AD%E4%B9%8B%E7%A5%9E&t=31&band_rank=22&Refer=top) 239670
 1. [欧阳娜娜这个转场太妙了](https://s.weibo.com/weibo?q=%23%E6%AC%A7%E9%98%B3%E5%A8%9C%E5%A8%9C%E8%BF%99%E4%B8%AA%E8%BD%AC%E5%9C%BA%E5%A4%AA%E5%A6%99%E4%BA%86%23&t=31&band_rank=23&Refer=top) 238146
@@ -58,6 +62,25 @@
 1. [普京问乌克兰要将国民当消耗品吗](https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E9%97%AE%E4%B9%8C%E5%85%8B%E5%85%B0%E8%A6%81%E5%B0%86%E5%9B%BD%E6%B0%91%E5%BD%93%E6%B6%88%E8%80%97%E5%93%81%E5%90%97%23&t=31&band_rank=48&Refer=top) 209074
 1. [牟林翰包丽案更多细节披露](https://s.weibo.com/weibo?q=%E7%89%9F%E6%9E%97%E7%BF%B0%E5%8C%85%E4%B8%BD%E6%A1%88%E6%9B%B4%E5%A4%9A%E7%BB%86%E8%8A%82%E6%8A%AB%E9%9C%B2&t=31&band_rank=49&Refer=top) 209069
 1. [女性35岁后面临的健康挑战](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%80%A735%E5%B2%81%E5%90%8E%E9%9D%A2%E4%B8%B4%E7%9A%84%E5%81%A5%E5%BA%B7%E6%8C%91%E6%88%98%23&t=31&band_rank=50&Refer=top) 209055
+1. [GEN翻盘iG](https://s.weibo.com/weibo?q=%23GEN%E7%BF%BB%E7%9B%98iG%23&t=31&band_rank=14&Refer=top) 109243
+1. [Doinb回应iG不敌GEN](https://s.weibo.com/weibo?q=%23Doinb%E5%9B%9E%E5%BA%94iG%E4%B8%8D%E6%95%8CGEN%23&t=31&band_rank=16&Refer=top) 86990
+1. [MKOI对战BLG](https://s.weibo.com/weibo?q=%23MKOI%E5%AF%B9%E6%88%98BLG%23&t=31&band_rank=17&Refer=top) 75560
+1. [迪丽热巴第二套](https://s.weibo.com/weibo?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%AC%AC%E4%BA%8C%E5%A5%97&t=31&band_rank=18&Refer=top) 71392
+1. [官方晒369英雄池](https://s.weibo.com/weibo?q=%E5%AE%98%E6%96%B9%E6%99%92369%E8%8B%B1%E9%9B%84%E6%B1%A0&t=31&band_rank=21&Refer=top) 70877
+1. [JackeyLove心累了](https://s.weibo.com/weibo?q=%23JackeyLove%E5%BF%83%E7%B4%AF%E4%BA%86%23&t=31&band_rank=23&Refer=top) 70339
+1. [TES](https://s.weibo.com/weibo?q=TES&t=31&band_rank=26&Refer=top) 58975
+1. [AL对战KC](https://s.weibo.com/weibo?q=AL%E5%AF%B9%E6%88%98KC&t=31&band_rank=31&Refer=top) 54229
+1. [MKOI战胜BLG](https://s.weibo.com/weibo?q=MKOI%E6%88%98%E8%83%9CBLG&t=31&band_rank=32&Refer=top) 54205
+1. [HLE速推TES](https://s.weibo.com/weibo?q=HLE%E9%80%9F%E6%8E%A8TES&t=31&band_rank=34&Refer=top) 53878
+1. [没认出来欧阳娜娜](https://s.weibo.com/weibo?q=%23%E6%B2%A1%E8%AE%A4%E5%87%BA%E6%9D%A5%E6%AC%A7%E9%98%B3%E5%A8%9C%E5%A8%9C%23&t=31&band_rank=35&Refer=top) 53780
+1. [Knight说队伍状态不是很好](https://s.weibo.com/weibo?q=%23Knight%E8%AF%B4%E9%98%9F%E4%BC%8D%E7%8A%B6%E6%80%81%E4%B8%8D%E6%98%AF%E5%BE%88%E5%A5%BD%23&t=31&band_rank=36&Refer=top) 53557
+1. [2026全球总决赛](https://s.weibo.com/weibo?q=2026%E5%85%A8%E7%90%83%E6%80%BB%E5%86%B3%E8%B5%9B&t=31&band_rank=38&Refer=top) 53485
+1. [S16瑞士轮](https://s.weibo.com/weibo?q=%23S16%E7%91%9E%E5%A3%AB%E8%BD%AE%23&t=31&band_rank=42&Refer=top) 47646
+1. [iG](https://s.weibo.com/weibo?q=iG&t=31&band_rank=43&Refer=top) 47093
+1. [GEN战胜IG](https://s.weibo.com/weibo?q=GEN%E6%88%98%E8%83%9CIG&t=31&band_rank=44&Refer=top) 45750
+1. [HLE战胜TES](https://s.weibo.com/weibo?q=HLE%E6%88%98%E8%83%9CTES&t=31&band_rank=46&Refer=top) 44332
+1. [众解说看GEN翻盘iG反应](https://s.weibo.com/weibo?q=%23%E4%BC%97%E8%A7%A3%E8%AF%B4%E7%9C%8BGEN%E7%BF%BB%E7%9B%98iG%E5%8F%8D%E5%BA%94%23&t=31&band_rank=47&Refer=top) 42494
+1. [S16最前线](https://s.weibo.com/weibo?q=S16%E6%9C%80%E5%89%8D%E7%BA%BF&t=31&band_rank=48&Refer=top) 41762
 <!-- END -->
 
 历史归档 [./archives](./archives)
