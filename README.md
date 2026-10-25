@@ -7,8 +7,10 @@
 ## 今日热门搜索
 
 <!-- BEGIN --> 
-最后更新时间 2026-10-26 02:47:12.490018 
+最后更新时间 2026-10-26 05:32:09.196024 
+1. [iG与TES双双晋级2-1组](https://s.weibo.com/weibo?q=iG%E4%B8%8ETES%E5%8F%8C%E5%8F%8C%E6%99%8B%E7%BA%A72-1%E7%BB%84&t=31&band_rank=1&Refer=top) 162059
 1. [白桃星座一周运势](https://s.weibo.com/weibo?q=%E7%99%BD%E6%A1%83%E6%98%9F%E5%BA%A7%E4%B8%80%E5%91%A8%E8%BF%90%E5%8A%BF&t=31&band_rank=1&Refer=top) 160413
+1. [iG战胜HLE晋级2-1组](https://s.weibo.com/weibo?q=iG%E6%88%98%E8%83%9CHLE%E6%99%8B%E7%BA%A72-1%E7%BB%84&t=31&band_rank=21&Refer=top) 120464
 1. [TheShy回应S16焦点战](https://s.weibo.com/weibo?q=%23TheShy%E5%9B%9E%E5%BA%94S16%E7%84%A6%E7%82%B9%E6%88%98%23&t=31&band_rank=2&Refer=top) 99629
 1. [西藏巴青地震抢险安置工作一刻没停](https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%97%8F%E5%B7%B4%E9%9D%92%E5%9C%B0%E9%9C%87%E6%8A%A2%E9%99%A9%E5%AE%89%E7%BD%AE%E5%B7%A5%E4%BD%9C%E4%B8%80%E5%88%BB%E6%B2%A1%E5%81%9C%23&t=31&band_rank=3&Refer=top) 99204
 1. [钟文泽 小米18Fold](https://s.weibo.com/weibo?q=%E9%92%9F%E6%96%87%E6%B3%BD%20%E5%B0%8F%E7%B1%B318Fold&t=31&band_rank=4&Refer=top) 99171
@@ -28,7 +30,6 @@
 1. [16岁女儿书包翻出避孕药妈妈崩溃](https://s.weibo.com/weibo?q=%2316%E5%B2%81%E5%A5%B3%E5%84%BF%E4%B9%A6%E5%8C%85%E7%BF%BB%E5%87%BA%E9%81%BF%E5%AD%95%E8%8D%AF%E5%A6%88%E5%A6%88%E5%B4%A9%E6%BA%83%23&t=31&band_rank=18&Refer=top) 85873
 1. [曼联仅领先降级区1分](https://s.weibo.com/weibo?q=%E6%9B%BC%E8%81%94%E4%BB%85%E9%A2%86%E5%85%88%E9%99%8D%E7%BA%A7%E5%8C%BA1%E5%88%86&t=31&band_rank=19&Refer=top) 85813
 1. [曼联0比3伯恩茅斯](https://s.weibo.com/weibo?q=%E6%9B%BC%E8%81%940%E6%AF%943%E4%BC%AF%E6%81%A9%E8%8C%85%E6%96%AF&t=31&band_rank=20&Refer=top) 85677
-1. [iG战胜HLE晋级2-1组](https://s.weibo.com/weibo?q=iG%E6%88%98%E8%83%9CHLE%E6%99%8B%E7%BA%A72-1%E7%BB%84&t=31&band_rank=21&Refer=top) 85595
 1. [老戏骨集体飙戏 男女主像睡着了](https://s.weibo.com/weibo?q=%E8%80%81%E6%88%8F%E9%AA%A8%E9%9B%86%E4%BD%93%E9%A3%99%E6%88%8F%20%E7%94%B7%E5%A5%B3%E4%B8%BB%E5%83%8F%E7%9D%A1%E7%9D%80%E4%BA%86&t=31&band_rank=22&Refer=top) 85482
 1. [长期熬夜或是甲状腺癌诱因之一](https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E7%86%AC%E5%A4%9C%E6%88%96%E6%98%AF%E7%94%B2%E7%8A%B6%E8%85%BA%E7%99%8C%E8%AF%B1%E5%9B%A0%E4%B9%8B%E4%B8%80%23&t=31&band_rank=23&Refer=top) 85322
 1. [迪丽热巴外网大出圈](https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%A4%96%E7%BD%91%E5%A4%A7%E5%87%BA%E5%9C%88%23&t=31&band_rank=24&Refer=top) 85293
@@ -56,8 +57,23 @@
 1. [钟文泽贴磨砂膜对比小米苹果](https://s.weibo.com/weibo?q=%E9%92%9F%E6%96%87%E6%B3%BD%E8%B4%B4%E7%A3%A8%E7%A0%82%E8%86%9C%E5%AF%B9%E6%AF%94%E5%B0%8F%E7%B1%B3%E8%8B%B9%E6%9E%9C&t=31&band_rank=46&Refer=top) 54703
 1. [曝iG分析师被卡签证](https://s.weibo.com/weibo?q=%23%E6%9B%9DiG%E5%88%86%E6%9E%90%E5%B8%88%E8%A2%AB%E5%8D%A1%E7%AD%BE%E8%AF%81%23&t=31&band_rank=47&Refer=top) 52598
 1. [刘宇宁神级出场](https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E7%A5%9E%E7%BA%A7%E5%87%BA%E5%9C%BA%23&t=31&band_rank=48&Refer=top) 51912
+1. [众解说看TES战胜G2反应](https://s.weibo.com/weibo?q=%23%E4%BC%97%E8%A7%A3%E8%AF%B4%E7%9C%8BTES%E6%88%98%E8%83%9CG2%E5%8F%8D%E5%BA%94%23&t=31&band_rank=4&Refer=top) 49341
 1. [妻子要15万备孕丈夫酒后骂去死](https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E8%A6%8115%E4%B8%87%E5%A4%87%E5%AD%95%E4%B8%88%E5%A4%AB%E9%85%92%E5%90%8E%E9%AA%82%E5%8E%BB%E6%AD%BB%23&t=31&band_rank=49&Refer=top) 48933
 1. [31省份去年平均工资出炉](https://s.weibo.com/weibo?q=%2331%E7%9C%81%E4%BB%BD%E5%8E%BB%E5%B9%B4%E5%B9%B3%E5%9D%87%E5%B7%A5%E8%B5%84%E5%87%BA%E7%82%89%23&t=31&band_rank=50&Refer=top) 48699
+1. [369团战拉扯助TES击败G2](https://s.weibo.com/weibo?q=%23369%E5%9B%A2%E6%88%98%E6%8B%89%E6%89%AF%E5%8A%A9TES%E5%87%BB%E8%B4%A5G2%23&t=31&band_rank=5&Refer=top) 48472
+1. [TES战胜G2](https://s.weibo.com/weibo?q=TES%E6%88%98%E8%83%9CG2&t=31&band_rank=8&Refer=top) 48337
+1. [TES对战G2](https://s.weibo.com/weibo?q=TES%E5%AF%B9%E6%88%98G2&t=31&band_rank=24&Refer=top) 38899
+1. [周深王者荣耀共创之夜](https://s.weibo.com/weibo?q=%E5%91%A8%E6%B7%B1%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E5%85%B1%E5%88%9B%E4%B9%8B%E5%A4%9C&t=31&band_rank=28&Refer=top) 36930
+1. [卡里克 B费](https://s.weibo.com/weibo?q=%E5%8D%A1%E9%87%8C%E5%85%8B%20B%E8%B4%B9&t=31&band_rank=30&Refer=top) 31629
+1. [众解说看iG战胜HLE反应](https://s.weibo.com/weibo?q=%23%E4%BC%97%E8%A7%A3%E8%AF%B4%E7%9C%8BiG%E6%88%98%E8%83%9CHLE%E5%8F%8D%E5%BA%94%23&t=31&band_rank=31&Refer=top) 31603
+1. [369瓦场悟道再立奇功](https://s.weibo.com/weibo?q=%23369%E7%93%A6%E5%9C%BA%E6%82%9F%E9%81%93%E5%86%8D%E7%AB%8B%E5%A5%87%E5%8A%9F%23&t=31&band_rank=32&Refer=top) 31464
+1. [强烈建议给家里老人用苹果手机](https://s.weibo.com/weibo?q=%E5%BC%BA%E7%83%88%E5%BB%BA%E8%AE%AE%E7%BB%99%E5%AE%B6%E9%87%8C%E8%80%81%E4%BA%BA%E7%94%A8%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA&t=31&band_rank=33&Refer=top) 31365
+1. [Jiaqi称证明这就是IG](https://s.weibo.com/weibo?q=%23Jiaqi%E7%A7%B0%E8%AF%81%E6%98%8E%E8%BF%99%E5%B0%B1%E6%98%AFIG%23&t=31&band_rank=35&Refer=top) 31237
+1. [TheShy瑞士轮克烈](https://s.weibo.com/weibo?q=%23TheShy%E7%91%9E%E5%A3%AB%E8%BD%AE%E5%85%8B%E7%83%88%23&t=31&band_rank=37&Refer=top) 31020
+1. [HLE再输就止步16强](https://s.weibo.com/weibo?q=%23HLE%E5%86%8D%E8%BE%93%E5%B0%B1%E6%AD%A2%E6%AD%A516%E5%BC%BA%23&t=31&band_rank=38&Refer=top) 31009
+1. [TES力克LEC一号种子G2](https://s.weibo.com/weibo?q=%23TES%E5%8A%9B%E5%85%8BLEC%E4%B8%80%E5%8F%B7%E7%A7%8D%E5%AD%90G2%23&t=31&band_rank=42&Refer=top) 30617
+1. [这么大一勺居然一点没沾到瓶子](https://s.weibo.com/weibo?q=%E8%BF%99%E4%B9%88%E5%A4%A7%E4%B8%80%E5%8B%BA%E5%B1%85%E7%84%B6%E4%B8%80%E7%82%B9%E6%B2%A1%E6%B2%BE%E5%88%B0%E7%93%B6%E5%AD%90&t=31&band_rank=43&Refer=top) 30522
+1. [曼联vs伯恩茅斯](https://s.weibo.com/weibo?q=%E6%9B%BC%E8%81%94vs%E4%BC%AF%E6%81%A9%E8%8C%85%E6%96%AF&t=31&band_rank=50&Refer=top) 30127
 <!-- END -->
 
 历史归档 [./archives](./archives)
